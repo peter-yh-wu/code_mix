@@ -1,0 +1,9 @@
+soundfile
+scipy
+numpy
+pandas
+matplotlib
+tensorflow
+torch
+torchvision
+scikit-learn
