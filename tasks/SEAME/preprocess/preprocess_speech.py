@@ -23,7 +23,7 @@ CONVO_WAV_DIR = os.path.join(parent_dir, 'data/conversation/wav')
 
 def crop_wav(in_path, out_path, t1, t2):
     '''t1 and t2 are in milliseconds, assumes both paths are .wav files'''
-    newAudio = AudioSegment.from_flac(in_path)
+    newAudio = AudioSegment.from_file(in_path, "flac")
     newAudio = newAudio[t1:t2]
     newAudio.export(out_path, format="wav")
 
