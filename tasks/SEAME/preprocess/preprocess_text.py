@@ -53,7 +53,7 @@ def mk_pinyin_files(in_dir, out_dir):
     files = [f for f in files if f.endswith('.txt')]
     out_files = [f[:-4]+'_pinyin.txt' for f in files]
     in_paths = [os.path.join(in_dir, f) for f in files]
-    out_paths = [os.path.join(in_dir, f) for f in out_files]
+    out_paths = [os.path.join(out_dir, f) for f in out_files]
     for inp, oup in zip(in_paths, out_paths):
         mk_pinyin_file(inp, oup)
 
