@@ -28,7 +28,7 @@ def crop_wav(in_path, out_path, t1, t2):
     newAudio.export(out_path, format="wav")
 
 def crop_wavs(audio_path, wav_paths, t1s, t2s):
-    audio = AudioSegment.from_flac(audio_path)
+    audio = AudioSegment.from_file(audio_path, "flac")
     for wav_path, t1, t2 in zip(wav_paths, t1s, t2s):
         newAudio = audio[t1:t2]
         newAudio.export(wav_path, format="wav")
