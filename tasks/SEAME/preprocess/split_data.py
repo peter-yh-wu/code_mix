@@ -74,7 +74,7 @@ for f in txt_paths:
     lines = [l.strip() for l in lines]
     for l in lines:
         tokens = l.split()
-        fid = l[0]+'_'+l[1]+'_'+l[2]
+        fid = tokens[0]+'_'+tokens[1]+'_'+tokens[2]
         start_i = len(fid)+1
         y_label = l[start_i:]
         all_ys[fid] = y_label
