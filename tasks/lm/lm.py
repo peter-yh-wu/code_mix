@@ -44,7 +44,7 @@ class LSTMLM(nn.Module):
         # The linear layer that maps from hidden state space to tag space
         self.linear = nn.Sequential(
             nn.Linear(self.bidirection*hidden_dim, n_words),
-            F.relu(),
+            nn.ReLU(),
             nn.Linear(n_words, n_words)
         )
         self.hidden = self.init_hidden()
