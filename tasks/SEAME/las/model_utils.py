@@ -119,7 +119,7 @@ class SpeechDataset(Dataset):
         else:
             return self.features[item], None
 
-INPUT_DIM = 66
+INPUT_DIM = 39
 
 def speech_collate_fn(batch):
     n = len(batch)
