@@ -53,8 +53,8 @@ class LSTMLM(nn.Module):
         self.hidden = self.init_hidden()
 
     def init_hidden(self):
-        return (torch.zeros(self.n_layers, 1, self.hidden_dim),
-                torch.zeros(self.n_layers, 1, self.hidden_dim)).to(DEVICE)
+        return (torch.zeros(self.n_layers, 1, self.hidden_dim).to(DEVICE),
+                torch.zeros(self.n_layers, 1, self.hidden_dim).to(DEVICE))
 
     def forward(self, sentence):
         embeds = self.embedding(sentence)
