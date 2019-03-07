@@ -28,7 +28,7 @@ class LSTMLM(nn.Module):
     """
     Feed-forward Neural Network Language Model
     """
-    def __init__(self, n_words, emb_size, hidden_dim, n_layers, num_hist, dropout, bidirection=2):
+    def __init__(self, n_words, emb_size, hidden_dim, n_layers, num_hist, dropout, bidirection=1):
         super(LSTMLM, self).__init__()
         self.hidden_dim = hidden_dim
         self.ngram = num_hist
