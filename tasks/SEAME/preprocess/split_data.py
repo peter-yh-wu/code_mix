@@ -47,10 +47,10 @@ test_ids = ids[num_train+num_dev:]
 
 with open(train_ids_path, 'w+') as ouf:
     for fid in train_ids:
-        os.write('%s\n' % fid)
+        ouf.write('%s\n' % fid)
 with open(dev_ids_path, 'w+') as ouf:
     for fid in dev_ids:
-        os.write('%s\n' % fid)
+        ouf.write('%s\n' % fid)
 with open(test_ids_path, 'w+') as ouf:
     for fid in test_ids:
-        os.write('%s\n' % fid)
+        ouf.write('%s\n' % fid)
