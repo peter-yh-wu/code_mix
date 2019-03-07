@@ -117,8 +117,11 @@ if __name__ == '__main__':
             train_loss += my_loss.data
             train_words += len(sent)
             optimizer.zero_grad()
-            # my_loss.backward(retain_graph=True)
-            my_loss.backward()
+            my_loss.backward(retain_graph=True)
+            # if args.model.lower() != 'fnn':
+            #     my_loss.backward(retain_graph=True)
+            # else:
+            #     my_loss.backward()
             optimizer.step()
             if (sent_id + 1) % 500 == 0:
                 logger.info(
