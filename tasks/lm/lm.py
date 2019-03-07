@@ -42,12 +42,16 @@ class LSTMLM(nn.Module):
                             dropout=dropout)
 
         # The linear layer that maps from hidden state space to tag space
-        self.linear = nn.Linear(self.bidirection*hidden_dim, n_words)
+        self.linear = nn.Sequential(
+            nn.Linear(self.bidirection*hidden_dim, n_words),
+            F.relu(),
+            nn.Linear(n_words, n_words)
+        )
         self.hidden = self.init_hidden()
 
     def init_hidden(self):
-        return (torch.zeros(self.ngram, 1, self.hidden_dim),
-                torch.zeros(self.ngram, 1, self.hidden_dim))
+        return torch.cat((torch.zeros(self.ngram, 1, self.hidden_dim),
+                          torch.zeros(self.ngram, 1, self.hidden_dim)))
 
     def forward(self, sentence):
         embeds = self.embedding(sentence)

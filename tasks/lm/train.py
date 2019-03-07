@@ -99,6 +99,7 @@ if __name__ == '__main__':
 
     if USE_CUDA:
         model = model.cuda()
+
     optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
 
     last_dev = 1e20
