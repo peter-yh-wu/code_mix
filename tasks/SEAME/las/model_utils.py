@@ -66,12 +66,15 @@ def load_x_data(ids):
     INTERVIEW_MFCC_DIR = os.path.join(parent_dir, 'data/interview/mfcc')
     mfcc_paths = [os.path.join(INTERVIEW_MFCC_DIR, fid+'.mfcc') for fid in ids]
     mfccs = []
-    for path in mfcc_paths:
-        curr_mfcc = np.loadtxt(path) # shape: (seq_len, num_feats)
-        mfccs.append(curr_mfcc)
-    return mfccs
+    indices = []
+    for i, path in enumerate(mfcc_paths):
+        if os.path.exists(path):
+            curr_mfcc = np.loadtxt(path) # shape: (seq_len, num_feats)
+            mfccs.append(curr_mfcc)
+            indices.append(i)
+    return mfccs, indices
 
-def load_y_data():
+def load_y_data(train_indices, dev_indices, test_indices):
     '''Returns 3 1-dim np arrays of strings'''
     SPLIT_DIR = os.path.join(parent_dir, 'split')
     TRAIN_YS_FILE = 'train_ys.txt'
@@ -89,7 +92,7 @@ def load_y_data():
     with open(test_ys_path, 'r') as inf:
         test_ys = inf.readlines()
     test_ys = [f.strip() for f in test_ys]
-    return np.array(train_ys), np.array(dev_ys), np.array(test_ys)
+    return np.array(train_ys)[train_indices], np.array(dev_ys)[dev_indices], np.array(test_ys)[test_indices]
 
 class SpeechDataset(Dataset):
     '''Assumes all characters in transcripts are alphanumeric'''

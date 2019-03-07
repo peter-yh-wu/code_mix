@@ -389,10 +389,10 @@ def main():
 
     print("Loading Data")
     train_ids, dev_ids, test_ids = load_ids()
-    train_xs = load_x_data(train_ids)
-    dev_xs = load_x_data(dev_ids)
-    test_xs = load_x_data(test_ids)
-    train_ys, dev_ys, test_ys = load_y_data()
+    train_xs, train_indices = load_x_data(train_ids)
+    dev_xs, dev_indices = load_x_data(dev_ids)
+    test_xs, test_indices = load_x_data(test_ids)
+    train_ys, dev_ys, test_ys = load_y_data(train_indices, dev_indices, test_indices)
 
     print("Building Charset")
     charset = build_charset(np.concatenate((train_ys, dev_ys), axis=0))
