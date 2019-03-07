@@ -38,8 +38,8 @@ random.seed(SEED)
 random.shuffle(ids)
 
 num_samples = len(ids)
-num_train = TRAIN_FRAC*num_samples
-num_dev = DEV_FRAC*num_samples
+num_train = int(TRAIN_FRAC*num_samples)
+num_dev = int(DEV_FRAC*num_samples)
 
 train_ids = ids[:num_train]
 dev_ids = ids[num_train:num_train+num_dev]
