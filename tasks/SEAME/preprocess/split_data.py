@@ -3,6 +3,9 @@ Generates train-dev-test split
 
 To-do:
  - Add conversation data to split
+
+Peter Wu
+peterw1@andrew.cmu.edu
 '''
 
 import os
