@@ -416,8 +416,8 @@ def main():
     print("Running")
     if not os.path.exists(args.save_directory):
         os.makedirs(args.save_directory)
-    CKPT_DIR = os.path.join(args.save_directory, 'model.ckpt')
-    if os.path.exists(CKPT_DIR):
+    CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
+    if os.path.exists(CKPT_PATH):
         model.load_state_dict(torch.load(PATH))
     LOG_PATH = os.path.join(args.save_directory, 'log')
     with open(LOG_PATH, 'w+') as ouf:
@@ -426,7 +426,7 @@ def main():
         model = model.cuda()
 
     for e in range(args.epochs):
-        print_log('Starting Epoch %d' % (e+1))
+        print_log('Starting Epoch %d' % (e+1), LOG_PATH)
 
         # train
         model.train()
@@ -445,7 +445,7 @@ def main():
             loss.backward()
             torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
             optimizer.step()
-        print_log('Train Loss: %f' % (l/len(train_loader.dataset)))
+        print_log('Train Loss: %f' % (l/len(train_loader.dataset)), LOG_PATH)
         
         # val
         model.eval()
@@ -461,11 +461,11 @@ def main():
                 logits, _, _ = model(inputs)
                 loss = criterion(logits, targets)
                 l += loss.item()
-            print_log('Val Loss: %f' % (l/len(val_loader.dataset)))
+            print_log('Val Loss: %f' % (l/len(val_loader.dataset)), LOG_PATH)
         
         # log
         if (e+1) % 4 == 0:
-            torch.save(model.state_dict(), CKPT_DIR)
+            torch.save(model.state_dict(), CKPT_PATH)
 
     write_transcripts(
     path=os.path.join(args.save_directory, 'submission.csv'),
