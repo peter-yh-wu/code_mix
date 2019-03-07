@@ -33,6 +33,7 @@ class LSTMLM(nn.Module):
         self.hidden_dim = hidden_dim
         self.ngram = num_hist
         self.bidirection = bidirection
+        self.n_layers = n_layers
         self.embedding = nn.Embedding(n_words, emb_size)
 
         self.lstm = nn.LSTM(input_size=num_hist*emb_size,
@@ -50,8 +51,8 @@ class LSTMLM(nn.Module):
         self.hidden = self.init_hidden()
 
     def init_hidden(self):
-        return torch.cat((torch.zeros(self.ngram, 1, self.hidden_dim),
-                          torch.zeros(self.ngram, 1, self.hidden_dim)))
+        return torch.cat((torch.zeros(self.n_layers, 1, self.hidden_dim),
+                          torch.zeros(self.n_layers, 1, self.hidden_dim)))
 
     def forward(self, sentence):
         embeds = self.embedding(sentence)
