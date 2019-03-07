@@ -3,6 +3,7 @@
 KALDI_DIR="/home/srallaba/tools/kaldi/egs/seame/s5"
 
 cd ../data
+DATA_DIR=$(pwd)
 
 for category in conversation interview
  do
@@ -16,12 +17,13 @@ for category in conversation interview
   cut -d ' ' -f 1 ${category}/wav.scp > speakers.${category}
   cut -d ' ' -f 1 ${category}/wav.scp > utterances.${category}
   paste -d' ' utterances.${category} speakers.${category} > ${category}/utt2spk
-  $KALDI_DIR/utils/utt2spk_to_spk2utt.pl ${category}/utt2spk > ${category}/spk2utt
-  $KALDI_DIR/utils/fix_data_dir.sh ${category}
+  cd $KALDI_DIR
+  ./utils/utt2spk_to_spk2utt.pl $DATA_DIR/${category}/utt2spk > $DATA_DIR/${category}/spk2utt
+  ./utils/fix_data_dir.sh $DATA_DIR/${category}
 
-  $KALDI_DIR/steps/make_mfcc.sh --mfcc-config $KALDI_DIR/conf/mfcc.conf --nj 100 --cmd "run.pl" ${category} exp/mfcc mfcc_${category}
-  $KALDI_DIR/steps/compute_cmvn_stats.sh ${category} exp/mfcc mfcc_${category}/
-
+  steps/make_mfcc.sh --mfcc-config conf/mfcc.conf --nj 100 --cmd "run.pl" $DATA_DIR/${category} $DATA_DIR/exp/mfcc $DATA_DIR/mfcc_${category}
+  steps/compute_cmvn_stats.sh $DATA_DIR/${category} $DATA_DIR/exp/mfcc $DATA_DIR/mfcc_${category}/
+  cd $DATA_DIR
  done
 
 cd ../preprocess
