@@ -410,7 +410,7 @@ def main():
     
     print("Building Model")
     model = Seq2SeqModel(args, vocab_size=charcount)
-    optimizer = torch.optim.Adam(net.parameters(), lr=args.lr, weight_decay=args.weight_decay)
+    optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = SequenceCrossEntropy
     
     print("Running")
