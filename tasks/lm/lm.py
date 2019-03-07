@@ -2,6 +2,8 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+from configs import DEVICE
+
 
 class FNNLM(nn.Module):
     """
@@ -52,7 +54,7 @@ class LSTMLM(nn.Module):
 
     def init_hidden(self):
         return (torch.zeros(self.n_layers, 1, self.hidden_dim),
-                torch.zeros(self.n_layers, 1, self.hidden_dim))
+                torch.zeros(self.n_layers, 1, self.hidden_dim)).to(DEVICE)
 
     def forward(self, sentence):
         embeds = self.embedding(sentence)
