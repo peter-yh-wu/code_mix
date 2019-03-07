@@ -2,6 +2,8 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+from configs import DEVICE
+
 
 class FNNLM(nn.Module):
     """
@@ -28,11 +30,12 @@ class LSTMLM(nn.Module):
     """
     Feed-forward Neural Network Language Model
     """
-    def __init__(self, n_words, emb_size, hidden_dim, n_layers, num_hist, dropout, bidirection=2):
+    def __init__(self, n_words, emb_size, hidden_dim, n_layers, num_hist, dropout, bidirection=1):
         super(LSTMLM, self).__init__()
         self.hidden_dim = hidden_dim
         self.ngram = num_hist
         self.bidirection = bidirection
+        self.n_layers = n_layers
         self.embedding = nn.Embedding(n_words, emb_size)
 
         self.lstm = nn.LSTM(input_size=num_hist*emb_size,
@@ -42,12 +45,16 @@ class LSTMLM(nn.Module):
                             dropout=dropout)
 
         # The linear layer that maps from hidden state space to tag space
-        self.linear = nn.Linear(self.bidirection*hidden_dim, n_words)
+        self.linear = nn.Sequential(
+            nn.Linear(self.bidirection*hidden_dim, n_words),
+            nn.ReLU(),
+            nn.Linear(n_words, n_words)
+        )
         self.hidden = self.init_hidden()
 
     def init_hidden(self):
-        return (torch.zeros(self.ngram, 1, self.hidden_dim),
-                torch.zeros(self.ngram, 1, self.hidden_dim))
+        return (torch.zeros(self.n_layers, 1, self.hidden_dim).to(DEVICE),
+                torch.zeros(self.n_layers, 1, self.hidden_dim).to(DEVICE))
 
     def forward(self, sentence):
         embeds = self.embedding(sentence)
