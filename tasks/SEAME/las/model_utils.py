@@ -76,6 +76,7 @@ def load_x_data(ids):
 
 def load_y_data(train_indices, dev_indices, test_indices):
     '''Returns 3 1-dim np arrays of strings'''
+    parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     SPLIT_DIR = os.path.join(parent_dir, 'split')
     TRAIN_YS_FILE = 'train_ys.txt'
     DEV_YS_FILE = 'dev_ys.txt'
