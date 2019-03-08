@@ -438,8 +438,8 @@ def main():
     if not os.path.exists(args.save_directory):
         os.makedirs(args.save_directory)
     CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
-    if os.path.exists(CKPT_PATH):
-        model.load_state_dict(torch.load(CKPT_PATH))
+    # if os.path.exists(CKPT_PATH):
+    #     model.load_state_dict(torch.load(CKPT_PATH))
     LOG_PATH = os.path.join(args.save_directory, 'log')
     with open(LOG_PATH, 'w+') as ouf:
         pass
