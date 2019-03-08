@@ -168,5 +168,5 @@ def make_loader(features, labels, args, shuffle=True, batch_size=64):
     # Build the DataLoaders
     kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if args.cuda else {}
     dataset = SpeechDataset(features, labels)
-    loader = DataLoader(dataset, collate_fn=speech_collate_fn, shuffle=False, batch_size=batch_size, **kwargs)
+    loader = DataLoader(dataset, collate_fn=speech_collate_fn, shuffle=shuffle, batch_size=batch_size, **kwargs)
     return loader
