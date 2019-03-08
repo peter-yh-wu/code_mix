@@ -452,12 +452,7 @@ def main():
             if torch.cuda.is_available():
                 uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
                     ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
-                # l2array: LongTensor with shape (225, 32)
             prediction = model(uarray, ulens, l1array, llens)
-                # prediction = logits, generated, char_lengths
-                # logits: FloatTensor with shape (225, 32, 42)
-                # generated: LongTensor with shape (225, 32)
-                # char_lengths: IntTensor with shape (32)
             logits, generated, char_lengths = prediction
             loss = criterion(prediction, l2array)
             l += loss.item()
@@ -485,7 +480,10 @@ def main():
         # log
         if (e+1) % 4 == 0:
             torch.save(model.state_dict(), CKPT_PATH)
-            # TODO leven and csv
+            write_transcripts(
+            path=os.path.join(args.save_directory, 'submission_%d.csv' % (e+1)),
+            args=args, model=model, loader=test_loader, charset=charset)
+            # TODO leven
 
     write_transcripts(
     path=os.path.join(args.save_directory, 'submission.csv'),
