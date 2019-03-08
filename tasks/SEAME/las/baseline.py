@@ -374,7 +374,8 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--batch-size', type=int, default=32, metavar='N', help='batch size')
     parser.add_argument('--save-directory', type=str, default='output/baseline/v1', help='output directory')
-    parser.add_argument('--epochs', type=int, default=10, metavar='N', help='number of epochs')
+    parser.add_argument('--epochs', type=int, default=100, metavar='N', help='number of epochs')
+    parser.add_argument('-patience', type=int, default=10, help='patience for early stopping')
     parser.add_argument('--num-workers', type=int, default=2, metavar='N', help='number of workers')
     parser.add_argument('--no-cuda', action='store_true', default=False, help='disables CUDA training')
 
@@ -436,6 +437,8 @@ def main():
     if args.cuda:
         model = model.cuda()
 
+    best_val_loss = sys.maxsize
+    prev_best_epoch = 0
     for e in range(args.epochs):
         print_log('Starting Epoch %d' % (e+1), LOG_PATH)
 
@@ -473,7 +476,13 @@ def main():
                 prediction = model(uarray, ulens, l1array, llens)
                 loss = criterion(prediction, l2array)
                 l += loss.item()
-            print_log('Val Loss: %f' % (l/len(dev_loader.dataset)), LOG_PATH)
+            val_loss = l/len(dev_loader.dataset)
+            if val_loss < best_val_loss:
+                best_val_loss = val_loss
+                prev_best_epoch = e
+            elif prev_best_epoch-e > args.patience:
+                break
+            print_log('Val Loss: %f' % val_loss, LOG_PATH)
         
         # log
         if (e+1) % 4 == 0:
