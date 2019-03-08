@@ -504,7 +504,7 @@ def main():
             print_log('Val Loss: %f' % val_loss, LOG_PATH)
         
         # log
-        if (e+1) % 4 == 0:
+        if (e+1) % 1 == 0: # TODO was 4
             torch.save(model.state_dict(), CKPT_PATH)
             write_transcripts(
             path=os.path.join(args.save_directory, 'submission_%d.csv' % (e+1)),
