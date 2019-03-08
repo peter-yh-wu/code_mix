@@ -448,18 +448,19 @@ def main():
         l = 0
         for i, t in enumerate(train_loader):
             uarray, ulens, l1array, llens, l2array = t
-            uarray, ulens, l1array, llens, l2array = Variable(uarray), \
-                Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
-            if torch.cuda.is_available():
-                uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
-                    ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
-            prediction = model(uarray, ulens, l1array, llens)
-            logits, generated, char_lengths = prediction
-            loss = criterion(prediction, l2array)
-            l += loss.item()
-            loss.backward()
-            torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
-            optimizer.step()
+            if torch.min(ulens).item() > 0 and torch.min(llens).item() > 0:
+                uarray, ulens, l1array, llens, l2array = Variable(uarray), \
+                    Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
+                if torch.cuda.is_available():
+                    uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
+                        ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
+                prediction = model(uarray, ulens, l1array, llens)
+                logits, generated, char_lengths = prediction
+                loss = criterion(prediction, l2array)
+                l += loss.item()
+                loss.backward()
+                torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
+                optimizer.step()
         print_log('Train Loss: %f' % (l/len(train_loader.dataset)), LOG_PATH)
         
         # val
@@ -468,14 +469,15 @@ def main():
             l = 0
             for i, t in enumerate(dev_loader):
                 uarray, ulens, l1array, llens, l2array = t
-                uarray, ulens, l1array, llens, l2array = Variable(uarray), \
-                    Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
-                if torch.cuda.is_available():
-                    uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
-                        ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
-                prediction = model(uarray, ulens, l1array, llens)
-                loss = criterion(prediction, l2array)
-                l += loss.item()
+                if torch.min(ulens).item() > 0 and torch.min(llens).item() > 0:
+                    uarray, ulens, l1array, llens, l2array = Variable(uarray), \
+                        Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
+                    if torch.cuda.is_available():
+                        uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
+                            ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
+                    prediction = model(uarray, ulens, l1array, llens)
+                    loss = criterion(prediction, l2array)
+                    l += loss.item()
             val_loss = l/len(dev_loader.dataset)
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
