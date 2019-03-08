@@ -425,10 +425,10 @@ def main():
     devchars = map_characters(dev_ys, charmap) # list of 1-dim int np arrays
     
     print("Building Loader") # TODO
-    dev_loader = make_loader(dev_xs, devchars, args, shuffle=True, batch_size=args.batch_size)
-    # dev_loader = make_loader(dev_xs, devchars, args, shuffle=False, batch_size=args.batch_size)
-    train_loader = make_loader(train_xs, trainchars, args, shuffle=True, batch_size=args.batch_size)
-    # train_loader = make_loader(train_xs, trainchars, args, shuffle=False, batch_size=args.batch_size)
+    # dev_loader = make_loader(dev_xs, devchars, args, shuffle=True, batch_size=args.batch_size)
+    dev_loader = make_loader(dev_xs, devchars, args, shuffle=False, batch_size=args.batch_size)
+    # train_loader = make_loader(train_xs, trainchars, args, shuffle=True, batch_size=args.batch_size)
+    train_loader = make_loader(train_xs, trainchars, args, shuffle=False, batch_size=args.batch_size)
     test_loader = make_loader(test_xs, None, args, shuffle=False, batch_size=args.batch_size)
     
     print("Building Model")
