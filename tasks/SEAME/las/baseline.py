@@ -383,9 +383,9 @@ def parse_args():
     parser.add_argument('--patience', type=int, default=10, help='patience for early stopping')
     parser.add_argument('--num-workers', type=int, default=2, metavar='N', help='number of workers')
     parser.add_argument('--no-cuda', action='store_true', default=False, help='disables CUDA training')
-    parser.add_argument('--max-train', type=int, default=1e10, help='max train')
-    parser.add_argument('--max-dev', type=int, default=1e10, help='max dev')
-    parser.add_argument('--max-test', type=int, default=1e10, help='max test')
+    parser.add_argument('--max-train', type=int, default=1000000000, help='max train')
+    parser.add_argument('--max-dev', type=int, default=1000000000, help='max dev')
+    parser.add_argument('--max-test', type=int, default=1000000000, help='max test')
 
     parser.add_argument('--lr', type=float, default=1e-3, metavar='N', help='lr')
     parser.add_argument('--weight-decay', type=float, default=1e-5, metavar='N', help='weight decay')
