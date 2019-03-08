@@ -17,6 +17,7 @@ import os
 import sys
 import time
 
+import Levenshtein
 import numpy as np
 import torch
 from torch import nn
@@ -394,11 +395,16 @@ def main():
     args = parse_args()
     args.cuda = not args.no_cuda and torch.cuda.is_available()
 
-    print("Loading Data")
+    print("Loading File IDs")
     train_ids, dev_ids, test_ids = load_ids()
+    train_ids, dev_ids, test_ids = train_ids[:100], dev_ids[:100], test_ids[:100]
+
+    print("Loading X Data")
     train_xs, train_indices = load_x_data(train_ids)
     dev_xs, dev_indices = load_x_data(dev_ids)
     test_xs, test_indices = load_x_data(test_ids)
+
+    print("Loading Y Data")
     train_ys, dev_ys, test_ys = load_y_data(train_indices, dev_indices, test_indices)
 
     print("Building Charset")
@@ -448,6 +454,15 @@ def main():
                     ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
             prediction = model(uarray, ulens, l1array, llens)
                 # prediction = logits, generated, char_lengths
+            logits, generated, char_lengths = prediction
+            print(logits.type())
+            print(generated.type())
+            print(char_lengths.type())
+            print(target.type())
+            print(logits.shape)
+            print(generated.shape)
+            print(char_lengths.shape)
+            print(target.shape)
             loss = criterion(prediction, l2array)
             l += loss.item()
             loss.backward()
@@ -474,6 +489,7 @@ def main():
         # log
         if (e+1) % 4 == 0:
             torch.save(model.state_dict(), CKPT_PATH)
+            # TODO leven and csv
 
     write_transcripts(
     path=os.path.join(args.save_directory, 'submission.csv'),
