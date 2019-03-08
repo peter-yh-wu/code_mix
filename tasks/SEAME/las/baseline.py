@@ -27,16 +27,11 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 from model_utils import *
 
 
-class SequenceShuffle(nn.Module): # TODO
+class SequenceShuffle(nn.Module):
     # Performs pooling for pBLSTM
     def forward(self, seq):
         assert isinstance(seq, PackedSequence)
         padded, lens = pad_packed_sequence(seq)  # (L, BS, D)
-        print("sequenceshuffle")
-        print(padded.shape)
-        print(lens.shape)
-        # print(padded)
-        # print(lens)
         padded = padded.transpose(0, 1)
         if padded.size(1) % 2 > 0:
             padded = padded[:, :-1, :]
@@ -404,8 +399,8 @@ def main():
     args.cuda = not args.no_cuda and torch.cuda.is_available()
 
     print("Loading File IDs")
-    train_ids, dev_ids, test_ids = load_ids() # TODO
-    train_ids, dev_ids, test_ids = train_ids[27000:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
+    train_ids, dev_ids, test_ids = load_ids()
+    train_ids, dev_ids, test_ids = train_ids[:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
     
     print("Loading X Data")
     train_xs, train_indices = load_x_data(train_ids)
@@ -424,11 +419,9 @@ def main():
     trainchars = map_characters(train_ys, charmap) # list of 1-dim int np arrays
     devchars = map_characters(dev_ys, charmap) # list of 1-dim int np arrays
     
-    print("Building Loader") # TODO
-    # dev_loader = make_loader(dev_xs, devchars, args, shuffle=True, batch_size=args.batch_size)
-    dev_loader = make_loader(dev_xs, devchars, args, shuffle=False, batch_size=args.batch_size)
-    # train_loader = make_loader(train_xs, trainchars, args, shuffle=True, batch_size=args.batch_size)
-    train_loader = make_loader(train_xs, trainchars, args, shuffle=False, batch_size=args.batch_size)
+    print("Building Loader")
+    dev_loader = make_loader(dev_xs, devchars, args, shuffle=True, batch_size=args.batch_size)
+    train_loader = make_loader(train_xs, trainchars, args, shuffle=True, batch_size=args.batch_size)
     test_loader = make_loader(test_xs, None, args, shuffle=False, batch_size=args.batch_size)
     
     print("Building Model")
@@ -458,9 +451,6 @@ def main():
         optimizer.zero_grad()
         l = 0
         for i, t in enumerate(train_loader):
-            print('-----------------------------------')
-            print('-----------------------------------')
-            print(i) # TODO
             uarray, ulens, l1array, llens, l2array = t
             if torch.min(ulens).item() > 8 and torch.min(llens).item() > 0:
                 uarray, ulens, l1array, llens, l2array = Variable(uarray), \
@@ -482,9 +472,6 @@ def main():
         with torch.no_grad():
             l = 0
             for i, t in enumerate(dev_loader):
-                print('-------------dev-------------------')
-                print('-----------------------------------')
-                print(i) # TODO
                 uarray, ulens, l1array, llens, l2array = t
                 if torch.min(ulens).item() > 8 and torch.min(llens).item() > 0:
                     uarray, ulens, l1array, llens, l2array = Variable(uarray), \
@@ -504,7 +491,7 @@ def main():
             print_log('Val Loss: %f' % val_loss, LOG_PATH)
         
         # log
-        if (e+1) % 1 == 0: # TODO was 4
+        if (e+1) % 4 == 0:
             torch.save(model.state_dict(), CKPT_PATH)
             write_transcripts(
             path=os.path.join(args.save_directory, 'submission_%d.csv' % (e+1)),
