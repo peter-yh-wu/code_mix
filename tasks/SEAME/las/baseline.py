@@ -411,18 +411,6 @@ def main():
     
     print("Building Model")
     model = Seq2SeqModel(args, vocab_size=charcount)
-        # 
-        # 
-        # pLSTM(args.encoder_dim * 4, args.encoder_dim, bidirectional=True)
-        # 
-        # good
-        # nn.LSTM(INPUT_DIM, args.encoder_dim, bidirectional=True)
-        # AdvancedLSTM(INPUT_DIM, args.encoder_dim, bidirectional=True)
-        # 
-        # bad
-        # Seq2SeqModel(args, vocab_size=charcount)
-        # EncoderModel(args)
-        # 
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = SequenceCrossEntropy
     
@@ -446,21 +434,14 @@ def main():
         optimizer.zero_grad()
         l = 0
         for i, t in enumerate(train_loader):
-            ccoeffs, labels = t
-                # TODO t is a length-5 list
-                # torch.Size([1074, 32, 39])
-                # torch.Size([32])
-                # torch.Size([169, 32])
-                # torch.Size([32])
-                # torch.Size([169, 32])
-            inputs = torch.FloatTensor(ccoeffs)
-            targets = torch.LongTensor(labels)
-            inputs, targets = Variable(inputs), Variable(targets)
+            uarray, ulens, l1array, llens, l2array = t
+            uarray, ulens, l1array, llens, l2array = Variable(uarray), \
+                Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
             if torch.cuda.is_available():
-                inputs = inputs.cuda()
-                targets = targets.cuda()
-            logits, _, _ = model(inputs)
-            loss = criterion(logits, targets)
+                uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
+                    ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
+            logits, _, _ = model(uarray, ulens, l1array, llens)
+            loss = criterion(logits, l2array)
             l += loss.item()
             loss.backward()
             torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
@@ -472,14 +453,14 @@ def main():
         with torch.no_grad():
             l = 0
             for i, (ccoeffs, labels) in enumerate(val_loader):
-                inputs = torch.FloatTensor(ccoeffs)
-                targets = torch.LongTensor(labels)
-                inputs, targets = Variable(inputs), Variable(targets)
+                uarray, ulens, l1array, llens, l2array = t
+                uarray, ulens, l1array, llens, l2array = Variable(uarray), \
+                    Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
                 if torch.cuda.is_available():
-                    inputs = inputs.cuda()
-                    targets = targets.cuda()
-                logits, _, _ = model(inputs)
-                loss = criterion(logits, targets)
+                    uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
+                        ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
+                logits, _, _ = model(uarray, ulens, l1array, llens)
+                loss = criterion(logits, l2array)
                 l += loss.item()
             print_log('Val Loss: %f' % (l/len(val_loader.dataset)), LOG_PATH)
         

@@ -165,7 +165,7 @@ def speech_collate_fn(batch):
     llens = torch.IntTensor(n)
 
     # calculate lengths
-    for i, (u, l) in enumerate(batch):
+    for i, (u, l) in enumerate(batch): # u is x-val, l is y-val
         # +1 to account for start/end token
         ulens[i] = u.size(0)
         if l is None:
