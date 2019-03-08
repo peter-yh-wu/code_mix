@@ -446,8 +446,9 @@ def main():
             if torch.cuda.is_available():
                 uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
                     ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
-            logits, _, _ = model(uarray, ulens, l1array, llens)
-            loss = criterion(logits, l2array)
+            prediction = model(uarray, ulens, l1array, llens)
+                # prediction = logits, generated, char_lengths
+            loss = criterion(prediction, l2array)
             l += loss.item()
             loss.backward()
             torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
@@ -465,8 +466,8 @@ def main():
                 if torch.cuda.is_available():
                     uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
                         ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
-                logits, _, _ = model(uarray, ulens, l1array, llens)
-                loss = criterion(logits, l2array)
+                prediction = model(uarray, ulens, l1array, llens)
+                loss = criterion(prediction, l2array)
                 l += loss.item()
             print_log('Val Loss: %f' % (l/len(val_loader.dataset)), LOG_PATH)
         
