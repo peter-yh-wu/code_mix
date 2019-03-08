@@ -35,6 +35,8 @@ class SequenceShuffle(nn.Module): # TODO
         print("sequenceshuffle")
         print(padded.shape)
         print(lens.shape)
+        print(padded)
+        print(lens)
         padded = padded.transpose(0, 1)
         if padded.size(1) % 2 > 0:
             padded = padded[:, :-1, :]
@@ -402,8 +404,8 @@ def main():
     args.cuda = not args.no_cuda and torch.cuda.is_available()
 
     print("Loading File IDs")
-    train_ids, dev_ids, test_ids = load_ids()
-    train_ids, dev_ids, test_ids = train_ids[:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
+    train_ids, dev_ids, test_ids = load_ids() # TODO
+    train_ids, dev_ids, test_ids = train_ids[2000:args.max_train], dev_ids[2000:args.max_dev], test_ids[2000:args.max_test]
     
     print("Loading X Data")
     train_xs, train_indices = load_x_data(train_ids)
