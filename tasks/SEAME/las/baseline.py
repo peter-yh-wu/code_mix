@@ -27,11 +27,14 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 from model_utils import *
 
 
-class SequenceShuffle(nn.Module):
+class SequenceShuffle(nn.Module): # TODO
     # Performs pooling for pBLSTM
     def forward(self, seq):
         assert isinstance(seq, PackedSequence)
         padded, lens = pad_packed_sequence(seq)  # (L, BS, D)
+        print("sequenceshuffle")
+        print(padded.shape)
+        print(lens.shape)
         padded = padded.transpose(0, 1)
         if padded.size(1) % 2 > 0:
             padded = padded[:, :-1, :]
@@ -74,6 +77,8 @@ class pLSTM(AdvancedLSTM):
         self.shuffle = SequenceShuffle()
 
     def forward(self, x, hx=None):
+        print(x.shape) # TODO
+        print(x)
         return super(pLSTM, self).forward(self.shuffle(x), hx=hx)
 
 INPUT_DIM = 39
@@ -451,6 +456,9 @@ def main():
         optimizer.zero_grad()
         l = 0
         for i, t in enumerate(train_loader):
+            print('-----------------------------------')
+            print('-----------------------------------')
+            print(i) # TODO
             uarray, ulens, l1array, llens, l2array = t
             if torch.min(ulens).item() > 1 and torch.min(llens).item() > 1:
                 uarray, ulens, l1array, llens, l2array = Variable(uarray), \
