@@ -375,7 +375,7 @@ def parse_args():
     parser.add_argument('--batch-size', type=int, default=32, metavar='N', help='batch size')
     parser.add_argument('--save-directory', type=str, default='output/baseline/v1', help='output directory')
     parser.add_argument('--epochs', type=int, default=100, metavar='N', help='number of epochs')
-    parser.add_argument('-patience', type=int, default=10, help='patience for early stopping')
+    parser.add_argument('--patience', type=int, default=10, help='patience for early stopping')
     parser.add_argument('--num-workers', type=int, default=2, metavar='N', help='number of workers')
     parser.add_argument('--no-cuda', action='store_true', default=False, help='disables CUDA training')
 

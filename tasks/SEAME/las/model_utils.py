@@ -70,8 +70,9 @@ def load_x_data(ids):
     for i, path in enumerate(mfcc_paths):
         if os.path.exists(path):
             curr_mfcc = np.loadtxt(path) # shape: (seq_len, num_feats)
-            mfccs.append(curr_mfcc)
-            indices.append(i)
+            if curr_mfcc.shape[0] > 0:
+                mfccs.append(curr_mfcc)
+                indices.append(i)
     return mfccs, indices
 
 def load_y_data(train_indices, dev_indices, test_indices):
