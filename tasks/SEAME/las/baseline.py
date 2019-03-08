@@ -48,8 +48,10 @@ class AdvancedLSTM(nn.LSTM):
     def __init__(self, *args, **kwargs):
         super(AdvancedLSTM, self).__init__(*args, **kwargs)
         bi = 2 if self.bidirectional else 1
-        self.h0 = nn.Parameter(torch.FloatTensor(bi, 1, self.hidden_size).zero_())
-        self.c0 = nn.Parameter(torch.FloatTensor(bi, 1, self.hidden_size).zero_())
+        self.h0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
+        # nn.Parameter(torch.FloatTensor(bi, 1, self.hidden_size).zero_())
+        self.c0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
+        # nn.Parameter(torch.FloatTensor(bi, 1, self.hidden_size).zero_())
 
     def initial_state(self, n):
         return (
@@ -57,11 +59,11 @@ class AdvancedLSTM(nn.LSTM):
             self.c0.expand(-1, n, -1).contiguous()
         )
 
-    def forward(self, input, hx=None):
+    def forward(self, x, hx=None):
         if hx is None:
-            n = input.batch_sizes[0]
+            n = x.batch_sizes[0]
             hx = self.initial_state(n)
-        return super(AdvancedLSTM, self).forward(input, hx=hx)
+        return super(AdvancedLSTM, self).forward(x, hx=hx)
 
 
 class pLSTM(AdvancedLSTM):
@@ -70,9 +72,10 @@ class pLSTM(AdvancedLSTM):
         super(pLSTM, self).__init__(*args, **kwargs)
         self.shuffle = SequenceShuffle()
 
-    def forward(self, input, hx=None):
-        return super(pLSTM, self).forward(self.shuffle(input), hx=hx)
+    def forward(self, x, hx=None):
+        return super(pLSTM, self).forward(self.shuffle(x), hx=hx)
 
+INPUT_DIM = 39
 
 class EncoderModel(nn.Module):
     # Encodes utterances to produce keys and values
@@ -279,7 +282,7 @@ class DecoderModel(nn.Module):
                 logits.append(logit)
                 attns.append(attn)
                 generateds.append(generated)
-                # Pass generated as next input
+                # Pass generated as next x
                 input_t = generated
 
         # Combine all the outputs
@@ -409,7 +412,19 @@ def main():
     test_loader = make_loader(test_xs, None, args, shuffle=False, batch_size=args.batch_size)
     
     print("Building Model")
-    model = EncoderModel(args) # Seq2SeqModel(args, vocab_size=charcount)
+    model = AdvancedLSTM(INPUT_DIM, args.encoder_dim, bidirectional=True) # Seq2SeqModel(args, vocab_size=charcount)
+        # AdvancedLSTM(INPUT_DIM, args.encoder_dim, bidirectional=True)
+        # 
+        # pLSTM(args.encoder_dim * 4, args.encoder_dim, bidirectional=True)
+        # 
+        # good
+        # nn.LSTM(INPUT_DIM, args.encoder_dim, bidirectional=True)
+        # 
+        # 
+        # bad
+        # Seq2SeqModel(args, vocab_size=charcount)
+        # EncoderModel(args)
+        # 
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = SequenceCrossEntropy
     
