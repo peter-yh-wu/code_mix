@@ -2,7 +2,7 @@
 Script to run LAS model
 
 To-do:
- - Record train loss
+ - Levenshtein
 
 Modified from LAS implementation by Sai Krishna Rallabandi (srallaba@andrew.cmu.edu)
 
@@ -17,7 +17,6 @@ import os
 import sys
 import time
 
-# import Levenshtein
 import numpy as np
 import torch
 from torch import nn
@@ -397,8 +396,7 @@ def main():
 
     print("Loading File IDs")
     train_ids, dev_ids, test_ids = load_ids()
-    train_ids, dev_ids, test_ids = train_ids[:100], dev_ids[:100], test_ids[:100]
-
+    
     print("Loading X Data")
     train_xs, train_indices = load_x_data(train_ids)
     dev_xs, dev_indices = load_x_data(dev_ids)
@@ -431,7 +429,7 @@ def main():
         os.makedirs(args.save_directory)
     CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
     if os.path.exists(CKPT_PATH):
-        model.load_state_dict(torch.load(PATH))
+        model.load_state_dict(torch.load(CKPT_PATH))
     LOG_PATH = os.path.join(args.save_directory, 'log')
     with open(LOG_PATH, 'w+') as ouf:
         pass
@@ -483,7 +481,6 @@ def main():
             write_transcripts(
             path=os.path.join(args.save_directory, 'submission_%d.csv' % (e+1)),
             args=args, model=model, loader=test_loader, charset=charset)
-            # TODO leven
 
     write_transcripts(
     path=os.path.join(args.save_directory, 'submission.csv'),
