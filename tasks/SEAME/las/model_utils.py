@@ -19,6 +19,39 @@ import torch
 
 from torch.utils.data import DataLoader, Dataset
 
+# ------------------
+# Debugging CUDA Error
+
+class DNN(nn.Module):
+    def __init__(self):
+        '''model_type: funnel or block'''
+        super(DNN, self).__init__()
+        input_dim = 200
+        hidden_dim = 100
+        output_dim = 50
+        num_layers = 2
+
+        hidden_dims = [hidden_dim for _ in range(num_layers)]
+        dims = [input_dim]+hidden_dims
+        self.fc_layers = nn.ModuleList([
+                nn.Sequential(nn.Linear(dims[i], dims[i+1]), nn.ReLU()) \
+            for i in range(num_layers)])
+        self.output = nn.Linear(dims[-1], output_dim)
+
+    def forward(self, x):
+        for i, l in enumerate(self.fc_layers):
+            x = self.fc_layers[i](x)
+        x = self.output(x)
+        return x
+
+    def forward_eval(self, x):
+        for i, l in enumerate(self.fc_layers):
+            x = self.fc_layers[i](x)
+        x = self.output(x)
+        return x
+
+# ------------------
+
 def print_log(s, log_path):
     print(s)
     with open(log_path, 'a+') as ouf:
@@ -99,6 +132,8 @@ class SpeechDataset(Dataset):
     '''Assumes all characters in transcripts are alphanumeric'''
     def __init__(self, features, transcripts):
         '''
+        self.transcripts is only True for test set
+
         Args:
             features: list of shape(seq_len, num_feats) np arrays
             transcripts: list of 1-dim int np arrays
@@ -114,6 +149,7 @@ class SpeechDataset(Dataset):
         return len(self.features)
 
     def __getitem__(self, item):
+        '''Returns 2 Torch.tensor objects'''
         if self.transcripts:
             return self.features[item], self.transcripts[item]
         else:

@@ -409,7 +409,7 @@ def main():
     test_loader = make_loader(test_xs, None, args, shuffle=False, batch_size=args.batch_size)
     
     print("Building Model")
-    model = Seq2SeqModel(args, vocab_size=charcount)
+    model = DNN() # Seq2SeqModel(args, vocab_size=charcount)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = SequenceCrossEntropy
     
