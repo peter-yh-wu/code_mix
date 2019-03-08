@@ -77,8 +77,6 @@ class pLSTM(AdvancedLSTM):
         self.shuffle = SequenceShuffle()
 
     def forward(self, x, hx=None):
-        print(x.shape) # TODO
-        print(x)
         return super(pLSTM, self).forward(self.shuffle(x), hx=hx)
 
 INPUT_DIM = 39
