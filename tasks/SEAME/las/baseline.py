@@ -378,6 +378,9 @@ def parse_args():
     parser.add_argument('--patience', type=int, default=10, help='patience for early stopping')
     parser.add_argument('--num-workers', type=int, default=2, metavar='N', help='number of workers')
     parser.add_argument('--no-cuda', action='store_true', default=False, help='disables CUDA training')
+    parser.add_argument('--max-train', type=int, default=1e10, help='max train')
+    parser.add_argument('--max-dev', type=int, default=1e10, help='max dev')
+    parser.add_argument('--max-test', type=int, default=1e10, help='max test')
 
     parser.add_argument('--lr', type=float, default=1e-3, metavar='N', help='lr')
     parser.add_argument('--weight-decay', type=float, default=1e-5, metavar='N', help='weight decay')
@@ -397,6 +400,7 @@ def main():
 
     print("Loading File IDs")
     train_ids, dev_ids, test_ids = load_ids()
+    train_ids, dev_ids, test_ids = train_ids[:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
     
     print("Loading X Data")
     train_xs, train_indices = load_x_data(train_ids)
@@ -448,7 +452,7 @@ def main():
         l = 0
         for i, t in enumerate(train_loader):
             uarray, ulens, l1array, llens, l2array = t
-            if torch.min(ulens).item() > 0 and torch.min(llens).item() > 0:
+            if torch.min(ulens).item() > 1 and torch.min(llens).item() > 1:
                 uarray, ulens, l1array, llens, l2array = Variable(uarray), \
                     Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
                 if torch.cuda.is_available():
@@ -469,7 +473,7 @@ def main():
             l = 0
             for i, t in enumerate(dev_loader):
                 uarray, ulens, l1array, llens, l2array = t
-                if torch.min(ulens).item() > 0 and torch.min(llens).item() > 0:
+                if torch.min(ulens).item() > 1 and torch.min(llens).item() > 1:
                     uarray, ulens, l1array, llens, l2array = Variable(uarray), \
                         Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
                     if torch.cuda.is_available():
