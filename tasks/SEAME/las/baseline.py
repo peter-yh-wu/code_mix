@@ -35,8 +35,8 @@ class SequenceShuffle(nn.Module): # TODO
         print("sequenceshuffle")
         print(padded.shape)
         print(lens.shape)
-        # print(padded)
-        # print(lens)
+        print(padded)
+        print(lens)
         padded = padded.transpose(0, 1)
         if padded.size(1) % 2 > 0:
             padded = padded[:, :-1, :]
@@ -405,7 +405,7 @@ def main():
 
     print("Loading File IDs")
     train_ids, dev_ids, test_ids = load_ids() # TODO
-    train_ids, dev_ids, test_ids = train_ids[25000:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
+    train_ids, dev_ids, test_ids = train_ids[26000:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
     
     print("Loading X Data")
     train_xs, train_indices = load_x_data(train_ids)
@@ -462,7 +462,7 @@ def main():
             print('-----------------------------------')
             print(i) # TODO
             uarray, ulens, l1array, llens, l2array = t
-            if torch.min(ulens).item() > 1 and torch.min(llens).item() > 1:
+            if torch.min(ulens).item() > 8 and torch.min(llens).item() > 8:
                 uarray, ulens, l1array, llens, l2array = Variable(uarray), \
                     Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
                 if torch.cuda.is_available():
@@ -486,7 +486,7 @@ def main():
                 print('-----------------------------------')
                 print(i) # TODO
                 uarray, ulens, l1array, llens, l2array = t
-                if torch.min(ulens).item() > 1 and torch.min(llens).item() > 1:
+                if torch.min(ulens).item() > 8 and torch.min(llens).item() > 8:
                     uarray, ulens, l1array, llens, l2array = Variable(uarray), \
                         Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
                     if torch.cuda.is_available():
