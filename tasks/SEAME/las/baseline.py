@@ -424,7 +424,7 @@ def main():
     print("Building Model")
     model = Seq2SeqModel(args, vocab_size=charcount)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
-    criterion = SequenceCrossEntropy
+    criterion = SequenceCrossEntropy()
     
     print("Running")
     if not os.path.exists(args.save_directory):
