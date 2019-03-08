@@ -409,7 +409,7 @@ def main():
     test_loader = make_loader(test_xs, None, args, shuffle=False, batch_size=args.batch_size)
     
     print("Building Model")
-    model = DNN() # Seq2SeqModel(args, vocab_size=charcount)
+    model = EncoderModel(args) # Seq2SeqModel(args, vocab_size=charcount)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = SequenceCrossEntropy
     
@@ -432,7 +432,14 @@ def main():
         model.train()
         optimizer.zero_grad()
         l = 0
-        for i, (ccoeffs, labels) in enumerate(train_loader):
+        for i, t in enumerate(train_loader):
+            ccoeffs, labels = t
+                # TODO t is a length-5 list
+                # torch.Size([1074, 32, 39])
+                # torch.Size([32])
+                # torch.Size([169, 32])
+                # torch.Size([32])
+                # torch.Size([169, 32])
             inputs = torch.FloatTensor(ccoeffs)
             targets = torch.LongTensor(labels)
             inputs, targets = Variable(inputs), Variable(targets)
