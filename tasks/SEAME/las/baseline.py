@@ -49,9 +49,7 @@ class AdvancedLSTM(nn.LSTM):
         super(AdvancedLSTM, self).__init__(*args, **kwargs)
         bi = 2 if self.bidirectional else 1
         self.h0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
-        # nn.Parameter(torch.FloatTensor(bi, 1, self.hidden_size).zero_())
         self.c0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
-        # nn.Parameter(torch.FloatTensor(bi, 1, self.hidden_size).zero_())
 
     def initial_state(self, n):
         return (
@@ -137,8 +135,8 @@ class AdvancedLSTMCell(nn.LSTMCell):
     # Extend LSTMCell to learn initial state
     def __init__(self, *args, **kwargs):
         super(AdvancedLSTMCell, self).__init__(*args, **kwargs)
-        self.h0 = nn.Parameter(torch.FloatTensor(1, self.hidden_size).zero_())
-        self.c0 = nn.Parameter(torch.FloatTensor(1, self.hidden_size).zero_())
+        self.h0 = Variable(torch.zeros((1, self.hidden_size), dtype=torch.float32))
+        self.c0 = Variable(torch.zeros((1, self.hidden_size), dtype=torch.float32))
 
     def initial_state(self, n):
         return (
@@ -412,14 +410,14 @@ def main():
     test_loader = make_loader(test_xs, None, args, shuffle=False, batch_size=args.batch_size)
     
     print("Building Model")
-    model = AdvancedLSTM(INPUT_DIM, args.encoder_dim, bidirectional=True) # Seq2SeqModel(args, vocab_size=charcount)
-        # AdvancedLSTM(INPUT_DIM, args.encoder_dim, bidirectional=True)
+    model = Seq2SeqModel(args, vocab_size=charcount)
+        # 
         # 
         # pLSTM(args.encoder_dim * 4, args.encoder_dim, bidirectional=True)
         # 
         # good
         # nn.LSTM(INPUT_DIM, args.encoder_dim, bidirectional=True)
-        # 
+        # AdvancedLSTM(INPUT_DIM, args.encoder_dim, bidirectional=True)
         # 
         # bad
         # Seq2SeqModel(args, vocab_size=charcount)
