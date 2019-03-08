@@ -405,7 +405,7 @@ def main():
 
     print("Loading File IDs")
     train_ids, dev_ids, test_ids = load_ids() # TODO
-    train_ids, dev_ids, test_ids = train_ids[10000:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
+    train_ids, dev_ids, test_ids = train_ids[15000:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
     
     print("Loading X Data")
     train_xs, train_indices = load_x_data(train_ids)
