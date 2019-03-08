@@ -50,6 +50,9 @@ class AdvancedLSTM(nn.LSTM):
         bi = 2 if self.bidirectional else 1
         self.h0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
         self.c0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
+        if torch.cuda.is_available():
+            self.h0 = self.h0.cuda()
+            self.c0 = self.c0.cuda()
 
     def initial_state(self, n):
         return (
@@ -137,6 +140,9 @@ class AdvancedLSTMCell(nn.LSTMCell):
         super(AdvancedLSTMCell, self).__init__(*args, **kwargs)
         self.h0 = Variable(torch.zeros((1, self.hidden_size), dtype=torch.float32))
         self.c0 = Variable(torch.zeros((1, self.hidden_size), dtype=torch.float32))
+        if torch.cuda.is_available():
+            self.h0 = self.h0.cuda()
+            self.c0 = self.c0.cuda()
 
     def initial_state(self, n):
         return (
