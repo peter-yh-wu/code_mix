@@ -480,7 +480,7 @@ def main():
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
                 prev_best_epoch = e
-            elif prev_best_epoch-e > args.patience:
+            elif e - prev_best_epoch > args.patience:
                 break
             print_log('Val Loss: %f' % val_loss, LOG_PATH)
         
