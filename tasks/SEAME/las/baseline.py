@@ -470,7 +470,7 @@ def main():
         model.eval()
         with torch.no_grad():
             l = 0
-            for i, (ccoeffs, labels) in enumerate(dev_loader):
+            for i, t in enumerate(dev_loader):
                 uarray, ulens, l1array, llens, l2array = t
                 uarray, ulens, l1array, llens, l2array = Variable(uarray), \
                     Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
