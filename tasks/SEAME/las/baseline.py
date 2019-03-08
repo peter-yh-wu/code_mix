@@ -480,6 +480,9 @@ def main():
         with torch.no_grad():
             l = 0
             for i, t in enumerate(dev_loader):
+                print('-------------dev-------------------')
+                print('-----------------------------------')
+                print(i) # TODO
                 uarray, ulens, l1array, llens, l2array = t
                 if torch.min(ulens).item() > 1 and torch.min(llens).item() > 1:
                     uarray, ulens, l1array, llens, l2array = Variable(uarray), \
