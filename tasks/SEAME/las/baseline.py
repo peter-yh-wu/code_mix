@@ -35,8 +35,8 @@ class SequenceShuffle(nn.Module): # TODO
         print("sequenceshuffle")
         print(padded.shape)
         print(lens.shape)
-        print(padded)
-        print(lens)
+        # print(padded)
+        # print(lens)
         padded = padded.transpose(0, 1)
         if padded.size(1) % 2 > 0:
             padded = padded[:, :-1, :]
@@ -405,7 +405,7 @@ def main():
 
     print("Loading File IDs")
     train_ids, dev_ids, test_ids = load_ids() # TODO
-    train_ids, dev_ids, test_ids = train_ids[4500:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
+    train_ids, dev_ids, test_ids = train_ids[5000:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
     
     print("Loading X Data")
     train_xs, train_indices = load_x_data(train_ids)
@@ -424,9 +424,11 @@ def main():
     trainchars = map_characters(train_ys, charmap) # list of 1-dim int np arrays
     devchars = map_characters(dev_ys, charmap) # list of 1-dim int np arrays
     
-    print("Building Loader")
-    dev_loader = make_loader(dev_xs, devchars, args, shuffle=True, batch_size=args.batch_size)
-    train_loader = make_loader(train_xs, trainchars, args, shuffle=True, batch_size=args.batch_size)
+    print("Building Loader") # TODO
+    # dev_loader = make_loader(dev_xs, devchars, args, shuffle=True, batch_size=args.batch_size)
+    dev_loader = make_loader(dev_xs, devchars, args, shuffle=False, batch_size=args.batch_size)
+    # train_loader = make_loader(train_xs, trainchars, args, shuffle=True, batch_size=args.batch_size)
+    train_loader = make_loader(train_xs, trainchars, args, shuffle=False, batch_size=args.batch_size)
     test_loader = make_loader(test_xs, None, args, shuffle=False, batch_size=args.batch_size)
     
     print("Building Model")
