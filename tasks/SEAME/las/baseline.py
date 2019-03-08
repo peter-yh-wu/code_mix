@@ -452,17 +452,13 @@ def main():
             if torch.cuda.is_available():
                 uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
                     ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
+                # l2array: LongTensor with shape (225, 32)
             prediction = model(uarray, ulens, l1array, llens)
                 # prediction = logits, generated, char_lengths
+                # logits: FloatTensor with shape (225, 32, 42)
+                # generated: LongTensor with shape (225, 32)
+                # char_lengths: IntTensor with shape (32)
             logits, generated, char_lengths = prediction
-            print(logits.type())
-            print(generated.type())
-            print(char_lengths.type())
-            print(l2array.type())
-            print(logits.shape)
-            print(generated.shape)
-            print(char_lengths.shape)
-            print(l2array.shape)
             loss = criterion(prediction, l2array)
             l += loss.item()
             loss.backward()
