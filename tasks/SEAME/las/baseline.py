@@ -470,7 +470,7 @@ def main():
         model.eval()
         with torch.no_grad():
             l = 0
-            for i, (ccoeffs, labels) in enumerate(val_loader):
+            for i, (ccoeffs, labels) in enumerate(dev_loader):
                 uarray, ulens, l1array, llens, l2array = t
                 uarray, ulens, l1array, llens, l2array = Variable(uarray), \
                     Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
@@ -480,7 +480,7 @@ def main():
                 prediction = model(uarray, ulens, l1array, llens)
                 loss = criterion(prediction, l2array)
                 l += loss.item()
-            print_log('Val Loss: %f' % (l/len(val_loader.dataset)), LOG_PATH)
+            print_log('Val Loss: %f' % (l/len(dev_loader.dataset)), LOG_PATH)
         
         # log
         if (e+1) % 4 == 0:
