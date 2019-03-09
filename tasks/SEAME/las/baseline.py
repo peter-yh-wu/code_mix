@@ -408,7 +408,9 @@ def main():
     test_xs, test_indices = load_x_data(test_ids)
 
     print("Loading Y Data")
-    train_ys, dev_ys, test_ys = load_y_data(train_indices, dev_indices, test_indices)
+    train_ys = load_y_data(train_indices, 'train')
+    dev_ys = load_y_data(dev_indices, 'dev')
+    test_ys = load_y_data(test_indices, 'test')
 
     print("Building Charset")
     charset = build_charset(np.concatenate((train_ys, dev_ys), axis=0))

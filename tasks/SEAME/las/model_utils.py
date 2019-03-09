@@ -60,10 +60,11 @@ def load_ids():
     test_ids = [f.strip() for f in test_ids]
     return train_ids, dev_ids, test_ids
 
-def load_x_data(ids):
+def load_x_data(ids, INTERVIEW_MFCC_DIR=None):
     '''Returns list comprised of shape(seq_len, num_feats) np arrays'''
-    parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    INTERVIEW_MFCC_DIR = os.path.join(parent_dir, 'data/interview/mfcc')
+    if INTERVIEW_MFCC_DIR is None:
+        parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        INTERVIEW_MFCC_DIR = os.path.join(parent_dir, 'data/interview/mfcc')
     mfcc_paths = [os.path.join(INTERVIEW_MFCC_DIR, fid+'.mfcc') for fid in ids]
     mfccs = []
     indices = []

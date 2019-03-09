@@ -7,6 +7,7 @@ import numpy as np
 import os
 import pickle
 import seaborn as sns
+sns.set_palette('Set2')
 
 from Levenshtein import distance
 
@@ -21,7 +22,8 @@ def load_pkl(path):
         return pickle.load(f)
 
 train_ids, dev_ids, test_ids = load_ids()
-test_xs, test_indices = load_x_data(test_ids)
+INTERVIEW_MFCC_DIR = '/home/srallaba/tools/kaldi/egs/seame/s5/feats_interview/cleaned'
+test_xs, test_indices = load_x_data(test_ids, INTERVIEW_MFCC_DIR)
 test_ys = load_y_data(test_indices, 'test') # 1-dim np array of strings
 
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -49,14 +51,14 @@ for i, p in enumerate(paths):
         save_pkl(metrics, pkl_path)
         epochs = [(i+1)*4 for i, _ in enumerate(raw_csv)]
         plt.figure(figsize=(10, 10))
-        plt.plot(epochs, dists)
+        plt.plot(epochs, dists, linestyle='o')
         plt.title("Levenshtein Distance over Epochs")
         plt.xlabel("Epoch")
         plt.ylabel("Levenshtein Distance")
         fig_path = os.path.join(CSV_DIR, '%s_lev.png' % files[i:-4])
         plt.savefig(fig_path)
         plt.figure(figsize=(10, 10))
-        plt.plot(epochs, norm_dists)
+        plt.plot(epochs, norm_dists, linestyle='o')
         plt.title("Levenshtein Distance over Epochs")
         plt.xlabel("Epoch")
         plt.ylabel("Levenshtein Distance")
