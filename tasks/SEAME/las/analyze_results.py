@@ -1,3 +1,7 @@
+'''
+Script to generate plots and analyze results
+'''
+
 import matplotlib
 matplotlib.use('Agg') # Must be before importing matplotlib.pyplot or pylab!
 import matplotlib.pyplot as plt
@@ -132,7 +136,6 @@ def plt_lev_by_epoch():
         norm_dist_vars.append(norm_dist_var)
 
     plt.figure(figsize=(10, 10))
-    # plt.errorbar(epochs, dist_means, dist_vars)
     plt.plot(epochs, dist_means)
     plt.title("Levenshtein Distance over Epochs")
     plt.xlabel("Epoch")
@@ -140,7 +143,6 @@ def plt_lev_by_epoch():
     fig_path = os.path.join(CSV_DIR, 'lev.png')
     plt.savefig(fig_path)
     plt.figure(figsize=(10, 10))
-    # plt.errorbar(epochs, norm_dist_means, norm_dist_vars)
     plt.plot(epochs, norm_dist_means)
     plt.title("Normalized Levenshtein Distance over Epochs")
     plt.xlabel("Epoch")
