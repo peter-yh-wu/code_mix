@@ -33,14 +33,14 @@ def mk_loss_curves():
     with open(val_loss_path, 'r') as inf:
         lines = inf.readlines()
     val_losses = [float(l.strip()) for l in lines]
-    plt.figure(figsize=(10, 10))
+    plt.figure(figsize=(8, 8))
     epochs = [(e+1) for e in range(len(train_losses))]
     plt.plot(epochs, train_losses)
     plt.plot(epochs, val_losses)
-    plt.title("Levenshtein Distance per Sample")
-    plt.xlabel("Sample ID")
-    plt.ylabel("Levenshtein Distance")
-    plt.legend(["train", "val"], loc='upper right', fontsize='medium')
+    plt.title("Loss per Epoch")
+    plt.xlabel("Epoch")
+    plt.ylabel("Loss")
+    plt.legend(["train", "val"], loc='upper right', fontsize='large')
     fig_path = os.path.join(CSV_DIR, 'loss_curves.png')
     plt.savefig(fig_path)
 
