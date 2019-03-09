@@ -111,19 +111,30 @@ def plt_lev_by_epoch():
         norm_dist_vars.append(norm_dist_var)
 
     plt.figure(figsize=(10, 10))
-    plt.errorbar(epochs, dist_means, dist_vars)
+    # plt.errorbar(epochs, dist_means, dist_vars)
+    plt.plot(epochs, dist_means)
     plt.title("Levenshtein Distance over Epochs")
     plt.xlabel("Epoch")
     plt.ylabel("Levenshtein Distance")
     fig_path = os.path.join(CSV_DIR, 'lev.png')
     plt.savefig(fig_path)
     plt.figure(figsize=(10, 10))
-    plt.errorbar(epochs, norm_dist_means, norm_dist_vars)
+    # plt.errorbar(epochs, norm_dist_means, norm_dist_vars)
+    plt.plot(epochs, norm_dist_means)
     plt.title("Normalized Levenshtein Distance over Epochs")
     plt.xlabel("Epoch")
     plt.ylabel("Normalized Levenshtein Distance")
     fig_path = os.path.join(CSV_DIR, 'normlev.png')
     plt.savefig(fig_path)
+
+    metrics = {
+        "dist_means": dist_means, 
+        "dist_vars": dist_vars,
+        "norm_dist_means": norm_dist_means,
+        "norm_dist_vars": norm_dist_vars
+    }
+    pkl_path = os.path.join(CSV_DIR, 'metrics.pkl')
+    save_pkl(metrics, pkl_path)
 
 def main():
     plt_lev_by_epoch()
