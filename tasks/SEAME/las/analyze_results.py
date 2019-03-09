@@ -22,7 +22,27 @@ def load_pkl(path):
         return pickle.load(f)
 
 def mk_loss_curves():
-    pass
+    parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    expt = 'lr_1e-3'
+    CSV_DIR = os.path.join(parent_dir, 'output', 'baseline', expt)
+    train_loss_path = os.path.join(CSV_DIR, 'train_losses.txt')
+    val_loss_path = os.path.join(CSV_DIR, 'val_losses.txt')
+    with open(train_loss_path, 'r') as inf:
+        lines = inf.readlines()
+    train_losses = [float(l.strip()) for l in lines]
+    with open(val_loss_path, 'r') as inf:
+        lines = inf.readlines()
+    val_losses = [float(l.strip()) for l in lines]
+    plt.figure(figsize=(10, 10))
+    epochs = [(e+1) for e in range(len(train_losses))]
+    plt.plot(epochs, train_losses)
+    plt.plot(epochs, val_losses)
+    plt.title("Levenshtein Distance per Sample")
+    plt.xlabel("Sample ID")
+    plt.ylabel("Levenshtein Distance")
+    plt.legend(["train", "val"], loc='upper right', fontsize='medium')
+    fig_path = os.path.join(CSV_DIR, 'loss_curves.png')
+    plt.savefig(fig_path)
 
 def plt_lev_by_id():
     _, _, test_ids = load_ids()
@@ -137,7 +157,7 @@ def plt_lev_by_epoch():
     save_pkl(metrics, pkl_path)
 
 def main():
-    plt_lev_by_epoch()
+    mk_loss_curves()
 
 if __name__ == '__main__':
     main()
