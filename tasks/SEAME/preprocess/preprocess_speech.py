@@ -5,11 +5,6 @@ Peter Wu
 peterw1@andrew.cmu.edu
 '''
 
-# NI01MAX_0101_pinyin.txt
-# NI01MAX_0101 3320785 3327341 wo du dao secondary five a ying gai ying gai shi you a ppl shi shi yi nian ba cong xiao
-#
-# NI01MAX_0101.flac
-
 import os
 from pydub import AudioSegment
 
