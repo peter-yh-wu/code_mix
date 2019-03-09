@@ -75,26 +75,22 @@ def load_x_data(ids):
                 indices.append(i)
     return mfccs, indices
 
-def load_y_data(train_indices, dev_indices, test_indices):
-    '''Returns 3 1-dim np arrays of strings'''
+def load_y_data(indices, stage):
+    '''
+    Args:
+        stage: train, dev, or test
+    
+    Return:
+        1-dim np array of strings
+    '''
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     SPLIT_DIR = os.path.join(parent_dir, 'split')
-    TRAIN_YS_FILE = 'train_ys.txt'
-    DEV_YS_FILE = 'dev_ys.txt'
-    TEST_YS_FILE = 'test_ys.txt'
-    train_ys_path = os.path.join(SPLIT_DIR, TRAIN_YS_FILE)
-    dev_ys_path = os.path.join(SPLIT_DIR, DEV_YS_FILE)
-    test_ys_path = os.path.join(SPLIT_DIR, TEST_YS_FILE)
-    with open(train_ys_path, 'r') as inf:
-        train_ys = inf.readlines()
-    train_ys = [f.strip() for f in train_ys]
-    with open(dev_ys_path, 'r') as inf:
-        dev_ys = inf.readlines()
-    dev_ys = [f.strip() for f in dev_ys]
-    with open(test_ys_path, 'r') as inf:
-        test_ys = inf.readlines()
-    test_ys = [f.strip() for f in test_ys]
-    return np.array(train_ys)[train_indices], np.array(dev_ys)[dev_indices], np.array(test_ys)[test_indices]
+    FILE = '%s_ys.txt' % stage
+    ys_path = os.path.join(SPLIT_DIR, FILE)
+    with open(ys_path, 'r') as inf:
+        ys = inf.readlines()
+    ys = [f.strip() for f in ys]
+    return np.array(ys)[indices]
 
 class SpeechDataset(Dataset):
     '''Assumes all characters in transcripts are alphanumeric'''
