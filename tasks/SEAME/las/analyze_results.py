@@ -44,7 +44,7 @@ for i, p in enumerate(paths):
             y_true = test_ys[j] # string
             dist = distance(y_pred, y_true)
             dists.append(dist)
-            norm_dist = dist / max(len(y_pred), len(y_true))
+            norm_dist = dist / max(len(y_pred), len(y_true), 1)
             norm_dists.append(norm_dist)
     metrics = {"dists": dists, "norm_dists": norm_dists}
     pkl_path = os.path.join(CSV_DIR, '%s.pkl' % files[i:-4])
