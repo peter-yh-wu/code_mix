@@ -24,9 +24,7 @@ def load_pkl(path):
 _, _, test_ids = load_ids()
 INTERVIEW_MFCC_DIR = '/home/srallaba/tools/kaldi/egs/seame/s5/feats_interview/cleaned'
 _, test_indices = load_x_data(test_ids, INTERVIEW_MFCC_DIR)
-test_ys = load_y_data(test_indices, 'test') # 1-dim np array of strings
-print(len(test_ys))
-print(test_ys[0])
+test_ys = load_y_data(test_indices, 'test') # len-4063 np array of strings
 
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 expt = 'lr_1e-3'
@@ -41,18 +39,19 @@ for i, p in enumerate(paths):
     norm_dists = []
     with open(p, 'r') as csvfile:
         raw_csv = csv.reader(csvfile)
-        for j, row in enumerate(raw_csv):
-            print(row)
+        for j, row in enumerate(raw_csv): # row is size-2 list
             y_pred = row[1]     # string
             y_true = test_ys[j] # string
             dist = distance(y_pred, y_true)
             dists.append(dist)
             norm_dist = dist / max(len(y_pred), len(y_true), 1)
             norm_dists.append(norm_dist)
+        print(len(dists))
     metrics = {"dists": dists, "norm_dists": norm_dists}
     pkl_path = os.path.join(CSV_DIR, '%s.pkl' % files[i][:-4])
     save_pkl(metrics, pkl_path)
     epochs = [(e+1)*4 for e, _ in enumerate(dists)]
+    print(len(epochs))
     plt.figure(figsize=(10, 10))
     plt.plot(epochs, dists)
     plt.title("Levenshtein Distance over Epochs")
