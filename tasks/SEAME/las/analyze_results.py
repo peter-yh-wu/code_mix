@@ -126,7 +126,7 @@ def plt_lev_by_epoch():
     plt.savefig(fig_path)
 
 def main():
-    mk_lev_results()
+    plt_lev_by_epoch()
 
 if __name__ == '__main__':
     main()
