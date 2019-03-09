@@ -21,10 +21,12 @@ def load_pkl(path):
     with open(path, 'rb') as f:
         return pickle.load(f)
 
-train_ids, dev_ids, test_ids = load_ids()
+_, _, test_ids = load_ids()
 INTERVIEW_MFCC_DIR = '/home/srallaba/tools/kaldi/egs/seame/s5/feats_interview/cleaned'
-test_xs, test_indices = load_x_data(test_ids, INTERVIEW_MFCC_DIR)
+_, test_indices = load_x_data(test_ids, INTERVIEW_MFCC_DIR)
 test_ys = load_y_data(test_indices, 'test') # 1-dim np array of strings
+print(len(test_ys))
+print(test_ys[0])
 
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 expt = 'lr_1e-3'
@@ -40,6 +42,7 @@ for i, p in enumerate(paths):
     with open(p, 'r') as csvfile:
         raw_csv = csv.reader(csvfile)
         for j, row in enumerate(raw_csv):
+            print(row)
             y_pred = row[1]     # string
             y_true = test_ys[j] # string
             dist = distance(y_pred, y_true)
