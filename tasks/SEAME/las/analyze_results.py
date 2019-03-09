@@ -37,28 +37,28 @@ for i, p in enumerate(paths):
     norm_dists = []
     with open(p, 'r') as csvfile:
         raw_csv = csv.reader(csvfile)
-    for j, row in enumerate(raw_csv):
-        y_pred = row[1]     # string
-        y_true = test_ys[j] # string
-        dist = distance(y_pred, y_true)
-        dists.append(dist)
-        norm_dist = dist / max(len(y_pred), len(y_true))
-        norm_dists.append(norm_dist)
-    metrics = {"dists": dists, "norm_dists": norm_dists}
-    pkl_path = os.path.join(CSV_DIR, '%s.pkl' % files[i:-4])
-    save_pkl(metrics, pkl_path)
-    epochs = [(i+1)*4 for i, _ in enumerate(raw_csv)]
-    plt.figure(figsize=(10, 10))
-    plt.plot(epochs, dists)
-    plt.title("Levenshtein Distance over Epochs")
-    plt.xlabel("Epoch")
-    plt.ylabel("Levenshtein Distance")
-    fig_path = os.path.join(CSV_DIR, '%s_lev.png' % files[i:-4])
-    plt.savefig(fig_path)
-    plt.figure(figsize=(10, 10))
-    plt.plot(epochs, norm_dists)
-    plt.title("Levenshtein Distance over Epochs")
-    plt.xlabel("Epoch")
-    plt.ylabel("Levenshtein Distance")
-    fig_path = os.path.join(CSV_DIR, '%s_normlev.png' % files[i:-4])
-    plt.savefig(fig_path)
+        for j, row in enumerate(raw_csv):
+            y_pred = row[1]     # string
+            y_true = test_ys[j] # string
+            dist = distance(y_pred, y_true)
+            dists.append(dist)
+            norm_dist = dist / max(len(y_pred), len(y_true))
+            norm_dists.append(norm_dist)
+        metrics = {"dists": dists, "norm_dists": norm_dists}
+        pkl_path = os.path.join(CSV_DIR, '%s.pkl' % files[i:-4])
+        save_pkl(metrics, pkl_path)
+        epochs = [(i+1)*4 for i, _ in enumerate(raw_csv)]
+        plt.figure(figsize=(10, 10))
+        plt.plot(epochs, dists)
+        plt.title("Levenshtein Distance over Epochs")
+        plt.xlabel("Epoch")
+        plt.ylabel("Levenshtein Distance")
+        fig_path = os.path.join(CSV_DIR, '%s_lev.png' % files[i:-4])
+        plt.savefig(fig_path)
+        plt.figure(figsize=(10, 10))
+        plt.plot(epochs, norm_dists)
+        plt.title("Levenshtein Distance over Epochs")
+        plt.xlabel("Epoch")
+        plt.ylabel("Levenshtein Distance")
+        fig_path = os.path.join(CSV_DIR, '%s_normlev.png' % files[i:-4])
+        plt.savefig(fig_path)
