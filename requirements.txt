@@ -7,3 +7,6 @@ tensorflow
 torch
 torchvision
 scikit-learn
+pypinyin
+pydub
+python-Levenshtein
