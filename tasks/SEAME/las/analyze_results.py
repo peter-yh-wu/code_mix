@@ -9,7 +9,8 @@ import pickle
 import seaborn as sns
 sns.set_palette('Set2')
 
-from Levenshtein import distance
+# from Levenshtein import distance
+from nltk.metrics import *
 
 from model_utils import *
 
@@ -66,7 +67,7 @@ def plt_lev_by_id():
             for j, row in enumerate(raw_csv): # row is size-2 list
                 y_pred = row[1]     # string
                 y_true = test_ys[j] # string
-                dist = distance(y_pred, y_true)
+                dist = edit_distance(y_pred, y_true) # distance(y_pred, y_true)
                 dists.append(dist)
                 norm_dist = dist / max(len(y_pred), len(y_true), 1)
                 norm_dists.append(norm_dist)
@@ -157,7 +158,7 @@ def plt_lev_by_epoch():
     save_pkl(metrics, pkl_path)
 
 def main():
-    mk_loss_curves()
+    plt_lev_by_id()
 
 if __name__ == '__main__':
     main()
