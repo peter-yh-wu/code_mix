@@ -3,6 +3,9 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 from configs import DEVICE
+from utils.data import is_english_word
+from utils.model import weight_init
+from vocab import _zero_int
 
 
 class FNNLM(nn.Module):
@@ -26,76 +29,86 @@ class FNNLM(nn.Module):
         return logit
 
 
-class LSTMLM(nn.Module):
-    """
-    Feed-forward Neural Network Language Model
-    """
-    def __init__(self, n_words, emb_size, hidden_dim, n_layers, num_hist, dropout, bidirection=1):
-        super(LSTMLM, self).__init__()
-        self.hidden_dim = hidden_dim
-        self.ngram = num_hist
-        self.bidirection = bidirection
-        self.n_layers = n_layers
-        self.embedding = nn.Embedding(n_words, emb_size)
-
-        self.lstm = nn.LSTM(input_size=num_hist*emb_size,
-                            hidden_size=hidden_dim,
-                            num_layers=n_layers,
-                            bidirectional=True if self.bidirection == 2 else False,
-                            dropout=dropout)
-
-        # The linear layer that maps from hidden state space to tag space
-        self.linear = nn.Sequential(
-            nn.Linear(self.bidirection*hidden_dim, n_words),
-            nn.ReLU(),
-            nn.Linear(n_words, n_words)
-        )
-        self.hidden = self.init_hidden()
-
-    def init_hidden(self):
-        return (torch.zeros(self.n_layers, 1, self.hidden_dim).to(DEVICE),
-                torch.zeros(self.n_layers, 1, self.hidden_dim).to(DEVICE))
-
-    def forward(self, sentence):
-        embeds = self.embedding(sentence)
-        lstm_out, self.hidden = self.lstm(embeds.view(len(sentence), 1, -1), self.hidden)
-        prediction = self.linear(lstm_out.squeeze(1).view(len(sentence), -1))
-        return F.log_softmax(prediction, dim=1)
-
-
 class DualLSTM(nn.Module):
     """
-    Dual Bidirectional LSTM Language Model
+    Dual LSTM Language Model
     """
-    def __init__(self, embeddings, freeze, input_dim, hidden_dim, n_layers,
-                 output_dim, vocab_size, dropout, multilingual=2, bidirectional=True):
+    def __init__(self, batch_size, hidden_size, embed_size, n_gram, vocab, vocab_size,
+                 dropout=0.5, embedding=None, freeze=False):
         super(DualLSTM, self).__init__()
-        self.hidden_dim = hidden_dim
-        self.embeddings = nn.Embedding.from_pretrained(embeddings=embeddings, freeze=freeze)
+        self.batch_size = batch_size
+        self.hidden_size = hidden_size
+        self.vocab = vocab
+        self.vocab_size = vocab_size
+        if embedding is not None:
+            self.embedding = nn.Embedding.from_pretrained(embeddings=embedding, freeze=freeze)
+        else:
+            self.embedding = nn.Embedding(vocab_size, embed_size)
+            # self.embedding.weight = nn.Parameter(torch.randn(vocab_size, embed_size))
+        # self.vocab_en = vocab_en
+        # self.vocab_cn = vocab_cn
+        # self.vocab_size_en = vocab_size_en
+        # self.vocab_size_cn = vocab_size_cn
+        # self.embed_en = nn.Parameter(torch.randn(self.vocab_size_en, embed_size))
+        # self.embed_cn = nn.Parameter(torch.randn(self.vocab_size_cn, embed_size))
+        # if embed_en is not None:
+        #     self.embed_en = nn.Embedding.from_pretrained(embeddings=embed_en, freeze=freeze)
+        # if embed_cn is not None:
+        #     self.embed_cn = nn.Embedding.from_pretrained(embeddings=embed_cn, freeze=freeze)
+        self.dummy_tok = _zero_int(embed_size)
 
-        # The LSTM takes word embeddings as inputs, and outputs hidden states
-        # with dimensionality hidden_dim.
-        self.lstm = nn.ModuleList(
-            [
-                nn.LSTM(input_size=input_dim,
-                        hidden_size=hidden_dim,
-                        num_layers=n_layers,
-                        bidirectional=bidirectional,
-                        dropout=dropout)
-                for lang in range(multilingual)
-            ])
+        self.lstm_en = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=True)
+        self.lstm_cn = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=True)
 
-        # The linear layer that maps from hidden state space to tag space
-        self.linear = nn.Linear(hidden_dim, output_dim)
-        self.hidden = self.init_hidden()
+        self.fc = nn.Sequential(
+            nn.Linear(hidden_size, vocab_size),
+            nn.ReLU(),
+            nn.Dropout(p=dropout),
+            nn.Linear(vocab_size, vocab_size)
+        )
+
+        # [batch_size, hidden_size]
+        self.hidden_en = self.init_hidden()
+        # self.cell_en = self.init_hidden()
+        self.hidden_cn = self.init_hidden()
+        # self.cell_cn = self.init_hidden()
+        self.cell = self.init_hidden()
 
     def init_hidden(self):
-        return (torch.zeros(1, 1, self.hidden_dim),
-                torch.zeros(1, 1, self.hidden_dim))
+        return torch.zeros(1, self.hidden_size).to(DEVICE)
+
+    def init_weights(self):
+        self.apply(weight_init)
 
     def forward(self, sentence):
-        embeds = self.embeddings(sentence)
-        lstm_out, self.hidden = [lstm(embeds.view(len(sentence), 1, -1), self.hidden)
-                                 for lstm in self.lstm]
-        prediction = self.linear(lstm_out.view(len(sentence), -1))
-        return F.log_softmax(prediction, dim=1)
+        sent_embed, embed_mask = self.embed_sentence(sentence)
+        lstm_out = []
+        for i in range(len(sent_embed)):
+            if embed_mask[i] > 0:
+                self.hidden_en, self.cell = self.lstm_en(sent_embed[i], (self.hidden_en, self.cell))
+                self.hidden_cn, self.cell = self.lstm_cn(self.dummy_tok, (self.hidden_cn, self.cell))
+            else:
+                self.hidden_cn, self.cell = self.lstm_cn(sent_embed[i], (self.hidden_cn, self.cell))
+                self.hidden_en, self.cell = self.lstm_en(self.dummy_tok, (self.hidden_en, self.cell))
+            lstm_out.append(self.hidden_en + self.hidden_cn)
+        lstm_out = torch.stack(lstm_out)
+
+        prediction = self.fc(lstm_out.squeeze(1))
+        return prediction
+
+    def embed_sentence(self, sentence):
+        embedding = []
+        embed_mask = torch.zeros(len(sentence))
+        for idx, token in enumerate(sentence[:-1]):
+            if is_english_word(token) or token in ['<pad>', '<unk>', '<s>', '</s>']:
+                try:
+                    embedding.append(self.embedding(torch.LongTensor([self.vocab.stoi[token]])))
+                    embed_mask[idx] = 1.
+                except Exception:
+                    print(sentence, self.vocab_size, token, self.vocab.stoi[token])
+            else:
+                try:
+                    embedding.append(self.embedding(torch.LongTensor([self.vocab.stoi[token]])))
+                except Exception:
+                    print(sentence, self.vocab_size, token, self.vocab.stoi[token])
+        return torch.stack(embedding).to(DEVICE), embed_mask
