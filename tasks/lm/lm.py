@@ -1,6 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+# Copyright (C) 2019 Zimeng Qiu <zimengq@andrew.cmu.edu>
+# Licensed under the Apache License v2.0 - http://www.apache.org/licenses/
+
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
 
 from configs import DEVICE
 from utils.data import is_english_word
