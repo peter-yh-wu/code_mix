@@ -13,7 +13,7 @@ tasks/*/tools/
 tasks/*/log*
 tasks/*/scripts/log*
 tasks/*/scripts/*tmp*
-!(tasks/*/log.py)
+!tasks/*/log.py
 
 *.swp
 *.save
