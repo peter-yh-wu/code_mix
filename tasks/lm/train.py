@@ -26,7 +26,7 @@ from log import init_logger
 # Calculate the loss value for the entire sentence
 def calc_sent_loss(sent, model, criterion):
     targets = []
-    targets = torch.LongTensor([model.vocab.stoi[tok] for tok in sent + ['<s>']])
+    targets = torch.LongTensor([model.vocab.stoi[tok] for tok in sent + ['<s>']]).to(DEVICE)
     logits = model(['<s>'] + sent + ['<s>'])
     # loss = F.cross_entropy(logits, targets, reduction='mean')
     loss = criterion(logits, targets)
@@ -86,8 +86,7 @@ if __name__ == '__main__':
     else:
         raise NotImplemented
 
-    if USE_CUDA:
-        model = model.cuda()
+    model = model.to(DEVICE)
 
     # Construct loss function and Optimizer.
     criterion = torch.nn.CrossEntropyLoss()
@@ -111,12 +110,13 @@ if __name__ == '__main__':
 
     # Perform training
     for epoch in range(args.epoch):
+        # shulle training data
+        random.shuffle(train)
         # set the model to training mode
         model.train()
         train_sents, train_loss = 0, 0.0
         start = time.time()
         for sent in train:
-            # sentences = batch.to(DEVICE)
             loss = calc_sent_loss(sent, model, criterion).mean()
             train_loss += loss.data
             train_sents += 1

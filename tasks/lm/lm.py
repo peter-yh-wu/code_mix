@@ -10,7 +10,6 @@ import torch.nn as nn
 from configs import DEVICE
 from utils.data import is_english_word
 from utils.model import weight_init
-from vocab import _zero_int
 
 
 class FNNLM(nn.Module):
@@ -49,21 +48,11 @@ class DualLSTM(nn.Module):
             self.embedding = nn.Embedding.from_pretrained(embeddings=embedding, freeze=freeze)
         else:
             self.embedding = nn.Embedding(vocab_size, embed_size)
-            # self.embedding.weight = nn.Parameter(torch.randn(vocab_size, embed_size))
-        # self.vocab_en = vocab_en
-        # self.vocab_cn = vocab_cn
-        # self.vocab_size_en = vocab_size_en
-        # self.vocab_size_cn = vocab_size_cn
-        # self.embed_en = nn.Parameter(torch.randn(self.vocab_size_en, embed_size))
-        # self.embed_cn = nn.Parameter(torch.randn(self.vocab_size_cn, embed_size))
-        # if embed_en is not None:
-        #     self.embed_en = nn.Embedding.from_pretrained(embeddings=embed_en, freeze=freeze)
-        # if embed_cn is not None:
-        #     self.embed_cn = nn.Embedding.from_pretrained(embeddings=embed_cn, freeze=freeze)
-        self.dummy_tok = _zero_int(embed_size)
 
-        self.lstm_en = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=True)
-        self.lstm_cn = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=True)
+        self.dummy_tok = torch.zeros((1, embed_size)).to(DEVICE)
+
+        self.lstm_en = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=False)
+        self.lstm_cn = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=False)
 
         self.fc = nn.Sequential(
             nn.Linear(hidden_size, vocab_size),
@@ -107,13 +96,13 @@ class DualLSTM(nn.Module):
         for idx, token in enumerate(sentence[:-1]):
             if is_english_word(token) or token in ['<pad>', '<unk>', '<s>', '</s>']:
                 try:
-                    embedding.append(self.embedding(torch.LongTensor([self.vocab.stoi[token]])))
+                    embedding.append(self.embedding(torch.LongTensor([self.vocab.stoi[token]]).to(DEVICE)))
                     embed_mask[idx] = 1.
                 except Exception:
                     print(sentence, self.vocab_size, token, self.vocab.stoi[token])
             else:
                 try:
-                    embedding.append(self.embedding(torch.LongTensor([self.vocab.stoi[token]])))
+                    embedding.append(self.embedding(torch.LongTensor([self.vocab.stoi[token]]).to(DEVICE)))
                 except Exception:
                     print(sentence, self.vocab_size, token, self.vocab.stoi[token])
-        return torch.stack(embedding).to(DEVICE), embed_mask
+        return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE)
