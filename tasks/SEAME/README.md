@@ -2,5 +2,5 @@
 
 ## Setup Instructions
 
- - Put ```.mfcc``` files in ```data/interview/mfcc```
- - Run ```split_data.py``` in ```preprocess``` to generate y-value ```.txt``` files
+ - Run ```./get_mfcc.sh``` in ```preprocess``` directory to download x-value files
+ - Run ```python3 split_data.py``` in ```preprocess``` directory to generate y-value ```.txt``` files
