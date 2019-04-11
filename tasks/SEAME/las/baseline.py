@@ -416,6 +416,8 @@ def main():
     charset = build_charset(np.concatenate((train_ys, dev_ys), axis=0))
     charmap = make_charmap(charset)
     charcount = len(charset)
+    print ('charset:', charset)
+    print('%d Characters' % charcount)
 
     print("Mapping Characters")
     trainchars = map_characters(train_ys, charmap) # list of 1-dim int np arrays
