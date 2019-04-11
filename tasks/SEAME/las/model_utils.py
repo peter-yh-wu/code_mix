@@ -60,7 +60,7 @@ def load_ids():
     test_ids = [f.strip() for f in test_ids]
     return train_ids, dev_ids, test_ids
 
-def load_x_data(ids, INTERVIEW_MFCC_DIR=None):
+def load_x_data(ids, INTERVIEW_MFCC_DIR=None, max_data=1000000000):
     '''Returns list comprised of shape(seq_len, num_feats) np arrays'''
     if INTERVIEW_MFCC_DIR is None:
         parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -69,6 +69,8 @@ def load_x_data(ids, INTERVIEW_MFCC_DIR=None):
     mfccs = []
     indices = []
     for i, path in enumerate(mfcc_paths):
+        if len(mfccs) >= max_data:
+            break
         if os.path.exists(path):
             curr_mfcc = np.loadtxt(path) # shape: (seq_len, num_feats)
             if curr_mfcc.shape[0] > 0:

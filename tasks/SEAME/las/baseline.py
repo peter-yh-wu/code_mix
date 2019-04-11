@@ -378,6 +378,7 @@ def parse_args():
     parser.add_argument('--patience', type=int, default=10, help='patience for early stopping')
     parser.add_argument('--num-workers', type=int, default=2, metavar='N', help='number of workers')
     parser.add_argument('--no-cuda', action='store_true', default=False, help='disables CUDA training')
+    parser.add_argument('--max-data', type=int, default=1000000000, metavar='N', help='max data in each set')
     parser.add_argument('--max-train', type=int, default=1000000000, help='max train')
     parser.add_argument('--max-dev', type=int, default=1000000000, help='max dev')
     parser.add_argument('--max-test', type=int, default=1000000000, help='max test')
@@ -403,9 +404,9 @@ def main():
     train_ids, dev_ids, test_ids = train_ids[:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
     
     print("Loading X Data")
-    train_xs, train_indices = load_x_data(train_ids)
-    dev_xs, dev_indices = load_x_data(dev_ids)
-    test_xs, test_indices = load_x_data(test_ids)
+    train_xs, train_indices = load_x_data(train_ids, max_data=args.max_data)
+    dev_xs, dev_indices = load_x_data(dev_ids, max_data=args.max_data)
+    test_xs, test_indices = load_x_data(test_ids, max_data=args.max_data)
 
     print("Loading Y Data")
     train_ys = load_y_data(train_indices, 'train')
@@ -416,8 +417,6 @@ def main():
     charset = build_charset(np.concatenate((train_ys, dev_ys), axis=0))
     charmap = make_charmap(charset)
     charcount = len(charset)
-    print ('charset:', charset)
-    print('%d Characters' % charcount)
 
     print("Mapping Characters")
     trainchars = map_characters(train_ys, charmap) # list of 1-dim int np arrays
