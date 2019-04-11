@@ -63,7 +63,7 @@ with open(test_ids_path, 'w+') as ouf:
     for fid in test_ids:
         ouf.write('%s\n' % fid)
 
-INTERVIEW_TEXT_DIR = os.path.join(parent_dir, 'data/interview/transcript_pinyin/phaseI')
+INTERVIEW_TEXT_DIR = os.path.join(parent_dir, 'data/interview/transcript/phaseI')
 txt_files = os.listdir(INTERVIEW_TEXT_DIR)
 txt_files = [f for f in txt_files if f.endswith('.txt')]
 txt_paths = [os.path.join(INTERVIEW_TEXT_DIR, f) for f in txt_files]
