@@ -25,7 +25,7 @@ DEV_YS_FILE = 'dev_ys.txt'
 TEST_YS_FILE = 'test_ys.txt'
 
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-INTERVIEW_WAV_DIR = os.path.join(parent_dir, 'data/interview/wav')
+INTERVIEW_MFCC_DIR = os.path.join(parent_dir, 'data/interview/mfcc')
 
 SPLIT_DIR = os.path.join(parent_dir, 'split')
 if not os.path.exists(SPLIT_DIR):
@@ -37,10 +37,10 @@ train_ys_path = os.path.join(SPLIT_DIR, TRAIN_YS_FILE)
 dev_ys_path = os.path.join(SPLIT_DIR, DEV_YS_FILE)
 test_ys_path = os.path.join(SPLIT_DIR, TEST_YS_FILE)
 
-wav_files = os.listdir(INTERVIEW_WAV_DIR)
-wav_files = [f for f in wav_files if f.endswith('.wav')]
+mfcc_files = os.listdir(INTERVIEW_MFCC_DIR)
+mfcc_files = [f for f in mfcc_files if f.endswith('.mfcc')]
 
-ids = [f[:-4] for f in wav_files]
+ids = [f[:-5] for f in mfcc_files]
 
 random.seed(SEED)
 random.shuffle(ids)
