@@ -73,7 +73,7 @@ def plt_lev_by_id():
                 y_true = test_ys[j] # string
                 dist = edit_distance(y_pred, y_true) # distance(y_pred, y_true)
                 dists.append(dist)
-                norm_dist = dist / max(len(y_pred), len(y_true), 1)
+                norm_dist = dist / len(y_true) # max(len(y_pred), len(y_true), 1)
                 norm_dists.append(norm_dist)
         metrics = {"dists": dists, "norm_dists": norm_dists}
         pkl_path = os.path.join(CSV_DIR, '%s.pkl' % files[i][:-4])

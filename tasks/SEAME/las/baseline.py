@@ -13,12 +13,12 @@ peterw1@andrew.cmu.edu
 import argparse
 import csv
 import itertools
+import numpy as np
 import os
 import sys
 import time
-
-import numpy as np
 import torch
+
 from torch import nn
 from torch.autograd import Variable
 from torch.nn.utils.rnn import PackedSequence
@@ -149,19 +149,6 @@ class AdvancedLSTMCell(nn.LSTMCell):
             self.h0.expand(n, -1).contiguous(),
             self.c0.expand(n, -1).contiguous()
         )
-
-
-def output_mask(maxlen, lengths):
-    """
-    Create a mask on-the-fly
-    :param maxlen: length of mask
-    :param lengths: length of each sequence
-    :return: mask shaped (maxlen, len(lengths))
-    """
-    lens = lengths.unsqueeze(0)
-    ran = torch.arange(0, maxlen, 1, out=lengths.new()).unsqueeze(1)
-    mask = ran < lens
-    return mask
 
 
 def calculate_attention(keys, mask, queries):
@@ -321,29 +308,6 @@ def decode_output(output, charset):
     return "".join(chars)
 
 
-def generate_transcripts(args, model, loader, charset):
-    # Create and yield transcripts
-    for uarray, ulens, l1array, llens, l2array in loader:
-        if args.cuda:
-            uarray = uarray.cuda()
-            ulens = ulens.cuda()
-            l1array = l1array.cuda()
-            llens = llens.cuda()
-        uarray = Variable(uarray)
-        ulens = Variable(ulens)
-        l1array = Variable(l1array)
-        llens = Variable(llens)
-
-        logits, generated, lens = model(
-            uarray, ulens, l1array, llens,
-            future=args.generator_length)
-        generated = generated.data.cpu().numpy()  # (L, BS)
-        n = uarray.size(1)
-        for i in range(n):
-            transcript = decode_output(generated[:, i], charset)
-            yield transcript
-
-
 def write_transcripts(path, args, model, loader, charset):
     # Write CSV file
     model.eval()
@@ -453,6 +417,7 @@ def main():
         model.train()
         optimizer.zero_grad()
         l = 0
+        tot_perp = 0
         for i, t in enumerate(train_loader):
             uarray, ulens, l1array, llens, l2array = t
             if torch.min(ulens).item() > 8 and torch.min(llens).item() > 0:
@@ -464,16 +429,20 @@ def main():
                 prediction = model(uarray, ulens, l1array, llens)
                 logits, generated, char_lengths = prediction
                 loss = criterion(prediction, l2array)
+                perp = perplexity(logits, l2array)
                 l += loss.item()
+                tot_perp += perp.item()
                 loss.backward()
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
                 optimizer.step()
         print_log('Train Loss: %f' % (l/len(train_loader.dataset)), LOG_PATH)
+        print_log('Avg Train Perplexity: %f' % (tot_perp/len(train_loader.dataset)), LOG_PATH)
         
         # val
         model.eval()
         with torch.no_grad():
             l = 0
+            tot_perp = 0
             for i, t in enumerate(dev_loader):
                 uarray, ulens, l1array, llens, l2array = t
                 if torch.min(ulens).item() > 8 and torch.min(llens).item() > 0:
@@ -483,8 +452,11 @@ def main():
                         uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
                             ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
                     prediction = model(uarray, ulens, l1array, llens)
+                    logits, generated, char_lengths = prediction
                     loss = criterion(prediction, l2array)
+                    perp = perplexity(logits, l2array)
                     l += loss.item()
+                    tot_perp += perp.item()
             val_loss = l/len(dev_loader.dataset)
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
@@ -492,7 +464,10 @@ def main():
             elif e - prev_best_epoch > args.patience:
                 break
             print_log('Val Loss: %f' % val_loss, LOG_PATH)
-        
+            print_log('Avg Val Perplexity: %f' % (tot_perp/len(train_loader.dataset)), LOG_PATH)
+            cer = cer(args, model, dev_loader, charset, dev_ys)
+            print_log('CER: %f' % cer, LOG_PATH)
+
         # log
         if (e+1) % 4 == 0:
             torch.save(model.state_dict(), CKPT_PATH)

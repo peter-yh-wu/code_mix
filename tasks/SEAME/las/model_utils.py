@@ -17,7 +17,103 @@ import os
 import numpy as np
 import torch
 
+from nltk.metrics import edit_distance
 from torch.utils.data import DataLoader, Dataset
+
+def output_mask(maxlen, lengths):
+    """
+    Create a mask on-the-fly
+    :param maxlen: length of mask
+    :param lengths: length of each sequence
+    :return: mask shaped (maxlen, len(lengths))
+    """
+    lens = lengths.unsqueeze(0)
+    ran = torch.arange(0, maxlen, 1, out=lengths.new()).unsqueeze(1)
+    mask = ran < lens
+    return mask
+
+def log_l(logits, target, lengths):
+    '''Calculates the log-likelihood for the given batch
+
+    Args:
+        logits: shape (seq_len, batch_size, vocab_size)
+        target: shape (seq_len, batch_size)
+        lengths: shape (batch_size,)
+    
+    Return:
+        log_probs: shape (batch_size,)
+    '''
+    seq_len, batch_size, vocab_size = logits.shape
+    mask = output_mask(seq_len, lengths.data).float()
+    logits_masked = logits * mask.unsqueeze(2)
+    range_tens = torch.arange(vocab_size).repeat(seq_len, batch_size, 1)
+    target_rep = target.repeat(vocab_size, 1, 1).permute(1, 2, 0)
+    masked_tens = range_tens == target_rep
+    all_probs = torch.sum(logits*masked_tens.float(), 2) # shape: (seq_len, batch_size)
+    all_log_probs = torch.log(all_probs)
+    log_probs = torch.sum(all_log_probs, 0) # shape: (batch_size,)
+    return log_probs
+
+def perplexity(logits, target, lengths):
+    '''Calculates the perplexity for the given batch
+
+    Args:
+        logits: shape (seq_len, batch_size, vocab_size)
+        target: shape (seq_len, batch_size)
+        lengths: shape (batch_size,)
+    
+    Return:
+        perp: float (tensor)
+    '''
+    log_probs = log_l(logits, target, lengths) # shape: (batch_size,)
+    tot_log_l = torch.sum(log_probs)
+    tot_len = torch.sum(lengths)
+    return torch.exp(-tot_log_l/tot_len)
+
+def generate_transcripts(args, model, loader, charset):
+    '''Iteratively returns string transcriptions
+    
+    Return:
+        generator object comprised of transcripts (each a string)
+    '''
+    # Create and yield transcripts
+    for uarray, ulens, l1array, llens, l2array in loader:
+        if args.cuda:
+            uarray = uarray.cuda()
+            ulens = ulens.cuda()
+            l1array = l1array.cuda()
+            llens = llens.cuda()
+        uarray = Variable(uarray)
+        ulens = Variable(ulens)
+        l1array = Variable(l1array)
+        llens = Variable(llens)
+
+        logits, generated, lens = model(
+            uarray, ulens, l1array, llens,
+            future=args.generator_length)
+        generated = generated.data.cpu().numpy()  # (L, BS)
+        n = uarray.size(1)
+        for i in range(n):
+            transcript = decode_output(generated[:, i], charset)
+            yield transcript
+
+def cer(args, model, loader, charset, ys):
+    '''Calculates the average normalized CER for the given data
+    
+    Args:
+        ys: iterable of strings
+    
+    Return:
+        number
+    '''
+    model.eval()
+    norm_dists = []
+    transcripts = generate_transcripts(args, model, loader, charset)
+    for i, t in enumerate(transcripts):
+        dist = edit_distance(t, ys[i])
+        norm_dist = dist / len(ys[i])
+        norm_dists.append(norm_dist)
+    return sum(norm_dists)/len(ys)
 
 def print_log(s, log_path):
     print(s)
