@@ -13,7 +13,7 @@ peterw1@andrew.cmu.edu
 '''
 
 import os
-from pypinyin import pinyin, lazy_pinyin, Style
+# from pypinyin import pinyin, lazy_pinyin, Style
 
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INTERVIEW_TEXT_DIR = os.path.join(parent_dir, 'data/interview/transcript/phaseI')
