@@ -465,8 +465,8 @@ def main():
                 break
             print_log('Val Loss: %f' % val_loss, LOG_PATH)
             print_log('Avg Val Perplexity: %f' % (tot_perp/len(train_loader.dataset)), LOG_PATH)
-            cer = cer(args, model, dev_loader, charset, dev_ys)
-            print_log('CER: %f' % cer, LOG_PATH)
+            cer_val = cer(args, model, dev_loader, charset, dev_ys)
+            print_log('CER: %f' % cer_val, LOG_PATH)
 
         # log
         if (e+1) % 4 == 0:
