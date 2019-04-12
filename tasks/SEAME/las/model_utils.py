@@ -18,6 +18,7 @@ import numpy as np
 import torch
 
 from nltk.metrics import edit_distance
+from torch.autograd import Variable
 from torch.utils.data import DataLoader, Dataset
 
 def output_mask(maxlen, lengths):
