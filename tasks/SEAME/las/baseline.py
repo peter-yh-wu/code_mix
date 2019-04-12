@@ -2,7 +2,7 @@
 Script to run LAS model
 
 To-do:
- - Levenshtein
+ - Add timestamp
 
 Modified from LAS implementation by Sai Krishna Rallabandi (srallaba@andrew.cmu.edu)
 
@@ -353,39 +353,55 @@ def main():
     args = parse_args()
     args.cuda = not args.no_cuda and torch.cuda.is_available()
 
+    t0 = time.time()
+
     print("Loading File IDs")
     train_ids, dev_ids, test_ids = load_ids()
     train_ids, dev_ids, test_ids = train_ids[:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
-    
+    t1 = time.time()
+    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+
     print("Loading X Data")
     train_xs, train_indices = load_x_data(train_ids, max_data=args.max_data)
     dev_xs, dev_indices = load_x_data(dev_ids, max_data=args.max_data)
     test_xs, test_indices = load_x_data(test_ids, max_data=args.max_data)
+    t1 = time.time()
+    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Loading Y Data")
     train_ys = load_y_data(train_indices, 'train')
     dev_ys = load_y_data(dev_indices, 'dev')
     test_ys = load_y_data(test_indices, 'test')
+    t1 = time.time()
+    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Building Charset")
     charset = build_charset(np.concatenate((train_ys, dev_ys), axis=0))
     charmap = make_charmap(charset)
     charcount = len(charset)
+    t1 = time.time()
+    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Mapping Characters")
     trainchars = map_characters(train_ys, charmap) # list of 1-dim int np arrays
     devchars = map_characters(dev_ys, charmap) # list of 1-dim int np arrays
-    
+    t1 = time.time()
+    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+
     print("Building Loader")
     dev_loader = make_loader(dev_xs, devchars, args, shuffle=True, batch_size=args.batch_size)
     train_loader = make_loader(train_xs, trainchars, args, shuffle=True, batch_size=args.batch_size)
     test_loader = make_loader(test_xs, None, args, shuffle=False, batch_size=args.batch_size)
-    
+    t1 = time.time()
+    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+
     print("Building Model")
     model = Seq2SeqModel(args, vocab_size=charcount)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = SequenceCrossEntropy()
-    
+    t1 = time.time()
+    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+
     print("Running")
     if not os.path.exists(args.save_directory):
         os.makedirs(args.save_directory)
@@ -401,7 +417,8 @@ def main():
     best_val_loss = sys.maxsize
     prev_best_epoch = 0
     for e in range(args.epochs):
-        print_log('Starting Epoch %d' % (e+1), LOG_PATH)
+        t1 = time.time()
+        print_log('Starting Epoch %d (%.2f Seconds)' % (e+1, t1-t0), LOG_PATH)
 
         # train
         model.train()
