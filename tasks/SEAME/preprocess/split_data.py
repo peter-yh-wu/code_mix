@@ -53,16 +53,6 @@ train_ids = ids[:num_train]
 dev_ids = ids[num_train:num_train+num_dev]
 test_ids = ids[num_train+num_dev:]
 
-with open(train_ids_path, 'w+') as ouf:
-    for fid in train_ids:
-        ouf.write('%s\n' % fid)
-with open(dev_ids_path, 'w+') as ouf:
-    for fid in dev_ids:
-        ouf.write('%s\n' % fid)
-with open(test_ids_path, 'w+') as ouf:
-    for fid in test_ids:
-        ouf.write('%s\n' % fid)
-
 INTERVIEW_TEXT_DIR = os.path.join(parent_dir, 'data/interview/transcript_clean/phaseI')
 txt_files = os.listdir(INTERVIEW_TEXT_DIR)
 txt_files = [f for f in txt_files if f.endswith('.txt')]
@@ -82,6 +72,19 @@ for f in txt_paths:
 train_ys = [all_ys[fid] for fid in train_ids if fid in all_ys]
 dev_ys = [all_ys[fid] for fid in dev_ids if fid in all_ys]
 test_ys = [all_ys[fid] for fid in test_ids if fid in all_ys]
+
+with open(train_ids_path, 'w+') as ouf:
+    for fid in train_ids:
+        if fid in all_ys:
+            ouf.write('%s\n' % fid)
+with open(dev_ids_path, 'w+') as ouf:
+    for fid in dev_ids:
+        if fid in all_ys:
+            ouf.write('%s\n' % fid)
+with open(test_ids_path, 'w+') as ouf:
+    for fid in test_ids:
+        if fid in all_ys:
+            ouf.write('%s\n' % fid)
 
 with open(train_ys_path, 'w+') as ouf:
     for y in train_ys:
