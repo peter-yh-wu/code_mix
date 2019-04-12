@@ -116,7 +116,6 @@ def mk_clean_file(in_path, out_path):
         new_lines.append(' '.join(new_words))
     with open(out_path, 'w+') as ouf:
         for l in new_lines:
-            # TODO ignore lines with '' as y value
             ouf.write('%s\n' % l)
 
 def mk_clean_files(in_dir, out_dir):
