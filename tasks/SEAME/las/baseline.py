@@ -2,7 +2,7 @@
 Script to run LAS model
 
 To-do:
- - Add timestamp
+ - Consider moving charmap functionality into DataLoader
 
 Modified from LAS implementation by Sai Krishna Rallabandi (srallaba@andrew.cmu.edu)
 
@@ -365,23 +365,20 @@ def main():
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
-    print("Loading X Data")
-    train_xs, train_indices = load_x_data(train_ids, max_data=args.max_data)
-    dev_xs, dev_indices = load_x_data(dev_ids, max_data=args.max_data)
-    test_xs, test_indices = load_x_data(test_ids, max_data=args.max_data)
-    t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    train_ids = train_ids[:args.max_data]
+    dev_ids = dev_ids[:args.max_data]
+    test_ids = test_ids[:args.max_data]
 
     print("Loading Y Data")
-    train_ys = load_y_data(train_indices, 'train')
-    dev_ys = load_y_data(dev_indices, 'dev')
-    test_ys = load_y_data(test_indices, 'test')
+    train_ys = load_y_data('train') # 1-dim np array of strings
+    dev_ys = load_y_data('dev')
+    test_ys = load_y_data('test')
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Building Charset")
     charset = build_charset(np.concatenate((train_ys, dev_ys), axis=0))
-    charmap = make_charmap(charset)
+    charmap = make_charmap(charset) # {string: int}
     charcount = len(charset)
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
@@ -393,9 +390,9 @@ def main():
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Building Loader")
-    dev_loader = make_loader(dev_xs, devchars, args, shuffle=True, batch_size=args.batch_size)
-    train_loader = make_loader(train_xs, trainchars, args, shuffle=True, batch_size=args.batch_size)
-    test_loader = make_loader(test_xs, None, args, shuffle=False, batch_size=args.batch_size)
+    dev_loader = make_loader(dev_ids, devchars, args, shuffle=True, batch_size=args.batch_size)
+    train_loader = make_loader(train_ids, trainchars, args, shuffle=True, batch_size=args.batch_size)
+    test_loader = make_loader(test_ids, None, args, shuffle=False, batch_size=args.batch_size)
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 

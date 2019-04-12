@@ -169,67 +169,38 @@ def load_ids():
     test_ids = [f.strip() for f in test_ids]
     return train_ids, dev_ids, test_ids
 
-def load_x_data(ids, INTERVIEW_MFCC_DIR=None, max_data=1000000000):
-    '''Returns list comprised of shape(seq_len, num_feats) np arrays'''
-    if INTERVIEW_MFCC_DIR is None:
-        parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        INTERVIEW_MFCC_DIR = os.path.join(parent_dir, 'data/interview/mfcc')
-    mfcc_paths = [os.path.join(INTERVIEW_MFCC_DIR, fid+'.mfcc') for fid in ids]
-    mfccs = []
-    indices = []
-    for i, path in enumerate(mfcc_paths):
-        if len(mfccs) >= max_data:
-            break
-        if os.path.exists(path):
-            curr_mfcc = np.loadtxt(path) # shape: (seq_len, num_feats)
-            if curr_mfcc.shape[0] > 0:
-                mfccs.append(curr_mfcc)
-                indices.append(i)
-    return mfccs, indices
-
-def load_y_data(indices, stage):
-    '''
-    Args:
-        stage: train, dev, or test
-    
-    Return:
-        1-dim np array of strings
-    '''
-    parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    SPLIT_DIR = os.path.join(parent_dir, 'split')
-    FILE = '%s_ys.txt' % stage
-    ys_path = os.path.join(SPLIT_DIR, FILE)
-    with open(ys_path, 'r') as inf:
-        ys = inf.readlines()
-    ys = [f.strip() for f in ys]
-    return np.array(ys)[indices]
-
-class SpeechDataset(Dataset):
+class ASRDataset(Dataset):
     '''Assumes all characters in transcripts are alphanumeric'''
-    def __init__(self, features, transcripts):
+    def __init__(self, ids, labels=None):
         '''
-        self.transcripts is only True for test set
+        self.labels is only True for test set
 
         Args:
-            features: list of shape(seq_len, num_feats) np arrays
-            transcripts: list of 1-dim int np arrays
+            ids: list of file id strings (files contain x values)
+            labels: list of 1-dim int np arrays
         '''
-        self.features = [torch.from_numpy(x).float() for x in features]
-        if transcripts:
-            self.transcripts = [torch.from_numpy(y + 1).long() for y in transcripts]  # +1 for start/end token
-            assert len(self.features) == len(self.transcripts)
+        parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        self.mfcc_dir = os.path.join(parent_dir, 'data/interview/mfcc')
+        self.ids = ids
+        if labels:
+            self.labels = [torch.from_numpy(y + 1).long() for y in labels]  # +1 for start/end token
+            assert len(self.ids) == len(self.labels)
         else:
-            self.transcripts = None
+            self.labels = None
 
     def __len__(self):
-        return len(self.features)
+        return len(self.ids)
 
-    def __getitem__(self, item):
-        '''Returns 2 Torch.tensor objects'''
-        if self.transcripts:
-            return self.features[item], self.transcripts[item]
+    def __getitem__(self, index):
+        curr_id = self.ids[index]
+        curr_path = os.path.join(self.mfcc_dir, curr_id+'.mfcc')
+        curr_mfcc = torch.from_numpy(np.loadtxt(curr_path)).float()
+        curr_label = self.labels[index]
+
+        if self.labels:
+            return curr_mfcc, self.labels[index]
         else:
-            return self.features[item], None
+            return curr_mfcc, None
 
 INPUT_DIM = 39
 
@@ -267,14 +238,33 @@ def speech_collate_fn(batch):
 
     return uarray, ulens, l1array, llens, l2array
 
-def make_loader(features, labels, args, shuffle=True, batch_size=64):
+def load_y_data(stage):
+    '''
+    Assumes that y-values are aligned with file ids (specified by indices)
+
+    Args:
+        stage: train, dev, or test
+    
+    Return:
+        1-dim np array of strings
+    '''
+    parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    SPLIT_DIR = os.path.join(parent_dir, 'split')
+    FILE = '%s_ys.txt' % stage
+    ys_path = os.path.join(SPLIT_DIR, FILE)
+    with open(ys_path, 'r') as inf:
+        ys = inf.readlines()
+    ys = [f.strip() for f in ys]
+    return np.array(ys)
+
+def make_loader(ids, labels, args, shuffle=True, batch_size=64):
     '''
     Args:
-        features: len-num_samples list
+        features: list of file id strings (files contain x values)
         labels: list of 1-dim int np arrays
     '''
     # Build the DataLoaders
     kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if args.cuda else {}
-    dataset = SpeechDataset(features, labels)
+    dataset = ASRDataset(ids, labels)
     loader = DataLoader(dataset, collate_fn=speech_collate_fn, shuffle=shuffle, batch_size=batch_size, **kwargs)
     return loader
