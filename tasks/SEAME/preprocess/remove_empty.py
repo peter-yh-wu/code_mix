@@ -23,6 +23,8 @@ def non_empty_ids(ids):
         curr_mfcc = np.loadtxt(path) # shape: (seq_len, num_feats)
         if curr_mfcc.shape[0] > 0:
             new_ids.append(ids[i])
+        if (i+1) % 5000 == 0:
+            print('removed %d files' % (i+1))
     return new_ids
 
 TRAIN_IDS_FILE = 'train_ids.txt'
@@ -46,8 +48,11 @@ with open(test_ids_path, 'r') as inf:
     test_ids = inf.readlines()
 test_ids = [f.strip() for f in test_ids]
 
+print('removing empty train mfcc files')
 train_ids = non_empty_ids(train_ids)
+print('removing empty dev mfcc files')
 dev_ids = non_empty_ids(dev_ids)
+print('removing empty test mfcc files')
 test_ids = non_empty_ids(test_ids)
 
 with open(train_ids_path, 'w+') as ouf:
