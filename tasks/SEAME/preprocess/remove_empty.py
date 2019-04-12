@@ -23,7 +23,7 @@ def non_empty_ids(ids):
         curr_mfcc = np.loadtxt(path) # shape: (seq_len, num_feats)
         if curr_mfcc.shape[0] > 0:
             new_ids.append(ids[i])
-        if (i+1) % 5000 == 0:
+        if (i+1) % 500 == 0:
             print('removed %d files' % (i+1))
     return new_ids
 
