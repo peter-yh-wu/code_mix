@@ -47,6 +47,8 @@ def log_l(logits, target, lengths):
     mask = output_mask(seq_len, lengths.data).float()
     logits_masked = logits * mask.unsqueeze(2)
     range_tens = torch.arange(vocab_size).repeat(seq_len, batch_size, 1)
+    if torch.cuda.is_available():
+        range_tens = range_tens.cuda()
     target_rep = target.repeat(vocab_size, 1, 1).permute(1, 2, 0)
     masked_tens = range_tens == target_rep
     all_probs = torch.sum(logits*masked_tens.float(), 2) # shape: (seq_len, batch_size)
