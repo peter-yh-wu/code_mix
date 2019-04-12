@@ -20,8 +20,8 @@ INTERVIEW_TEXT_DIR = os.path.join(parent_dir, 'data/interview/transcript/phaseI'
 CONVO_TEXT_DIR = os.path.join(parent_dir, 'data/conversation/transcript/phaseI')
 # INTERVIEW_PINYIN_DIR = os.path.join(parent_dir, 'data/interview/transcript_pinyin/phaseI')
 # CONVO_PINYIN_DIR = os.path.join(parent_dir, 'data/conversation/transcript_pinyin/phaseI')
-NEW_INTERVIEW_TEXT_DIR = 'data/interview/transcript_clean/phaseI'
-NEW_CONVO_TEXT_DIR = 'data/conversation/transcript_clean/phaseI'
+NEW_INTERVIEW_TEXT_DIR = os.path.join(parent_dir, 'data/interview/transcript_clean/phaseI')
+NEW_CONVO_TEXT_DIR = os.path.join(parent_dir, 'data/conversation/transcript_clean/phaseI')
 
 def hanzi_to_pinyin(s):
     '''Returns string with all chinese characters turned to pinyin
