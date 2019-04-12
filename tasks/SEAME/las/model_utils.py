@@ -73,6 +73,15 @@ def perplexity(logits, target, lengths):
     tot_len = torch.sum(lengths)
     return torch.exp(-tot_log_l/tot_len)
 
+def decode_output(output, charset):
+    # Convert ints back to strings
+    chars = []
+    for o in output:
+        if o == 0:
+            break
+        chars.append(charset[o - 1])
+    return "".join(chars)
+
 def generate_transcripts(args, model, loader, charset):
     '''Iteratively returns string transcriptions
     

@@ -298,16 +298,6 @@ class Seq2SeqModel(nn.Module):
         return logits, generated, char_lengths
 
 
-def decode_output(output, charset):
-    # Convert ints back to strings
-    chars = []
-    for o in output:
-        if o == 0:
-            break
-        chars.append(charset[o - 1])
-    return "".join(chars)
-
-
 def write_transcripts(path, args, model, loader, charset):
     # Write CSV file
     model.eval()
