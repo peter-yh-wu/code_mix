@@ -79,9 +79,9 @@ for f in txt_paths:
         y_label = l[start_i:].strip()
         if len(y_label) > 0:
             all_ys[fid] = y_label
-train_ys = [all_ys[fid] for fid in train_ids]
-dev_ys = [all_ys[fid] for fid in dev_ids]
-test_ys = [all_ys[fid] for fid in test_ids]
+train_ys = [all_ys[fid] for fid in train_ids if fid in all_ys]
+dev_ys = [all_ys[fid] for fid in dev_ids if fid in all_ys]
+test_ys = [all_ys[fid] for fid in test_ids if fid in all_ys]
 
 with open(train_ys_path, 'w+') as ouf:
     for y in train_ys:
