@@ -9,4 +9,4 @@ mv feats_interview/cleaned ..
 cd ..
 rm -rf mfcc
 mv cleaned mfcc
-cd ../../../preprocess
+cd ../../preprocess
