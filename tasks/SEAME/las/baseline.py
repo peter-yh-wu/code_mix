@@ -429,7 +429,7 @@ def main():
                 prediction = model(uarray, ulens, l1array, llens)
                 logits, generated, char_lengths = prediction
                 loss = criterion(prediction, l2array)
-                perp = perplexity(logits, l2array)
+                perp = perplexity(logits, l2array, char_lengths)
                 l += loss.item()
                 tot_perp += perp.item()
                 loss.backward()
@@ -454,7 +454,7 @@ def main():
                     prediction = model(uarray, ulens, l1array, llens)
                     logits, generated, char_lengths = prediction
                     loss = criterion(prediction, l2array)
-                    perp = perplexity(logits, l2array)
+                    perp = perplexity(logits, l2array, char_lengths)
                     l += loss.item()
                     tot_perp += perp.item()
             val_loss = l/len(dev_loader.dataset)
