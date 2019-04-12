@@ -355,6 +355,10 @@ def main():
 
     t0 = time.time()
 
+    LOG_PATH = os.path.join(args.save_directory, 'log')
+    with open(LOG_PATH, 'w+') as ouf:
+        pass
+
     print("Loading File IDs")
     train_ids, dev_ids, test_ids = load_ids()
     train_ids, dev_ids, test_ids = train_ids[:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
@@ -408,9 +412,6 @@ def main():
     CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
     if os.path.exists(CKPT_PATH):
         model.load_state_dict(torch.load(CKPT_PATH))
-    LOG_PATH = os.path.join(args.save_directory, 'log')
-    with open(LOG_PATH, 'w+') as ouf:
-        pass
     if args.cuda:
         model = model.cuda()
 
