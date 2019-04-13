@@ -53,7 +53,7 @@ def log_l(logits, target, lengths):
     target_rep = target.repeat(vocab_size, 1, 1).permute(1, 2, 0)
     masked_tens = range_tens == target_rep
     all_probs = torch.sum(logits*masked_tens.float(), 2) # shape: (seq_len, batch_size)
-    all_probs = all_probs.clamp(min=1e-10)
+    all_probs = all_probs.clamp(min=1e-20)
     all_log_probs = torch.log(all_probs)
     log_probs = torch.sum(all_log_probs, 0) # shape: (batch_size,)
     return log_probs
@@ -195,8 +195,7 @@ class ASRDataset(Dataset):
         curr_id = self.ids[index]
         curr_path = os.path.join(self.mfcc_dir, curr_id+'.mfcc')
         curr_mfcc = torch.from_numpy(np.loadtxt(curr_path)).float()
-        curr_label = self.labels[index]
-
+        
         if self.labels:
             return curr_mfcc, self.labels[index]
         else:

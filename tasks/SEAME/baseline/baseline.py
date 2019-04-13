@@ -152,27 +152,34 @@ class AdvancedLSTMCell(nn.LSTMCell):
 
 
 def calculate_attention(keys, mask, queries):
-    """
-    Attention calculation
-    :param keys: (N, L, key_dim)
-    :param mask: (N, L)
-    :param queries: (N, key_dim)
-    :return: attention (N, L)
+    """Attention calculation
+
+    Args:
+        keys: output of encoder, shape (N, L, key_dim)
+        mask: lengths, shape (N, L)
+        queries: linear transformation of previous decoder hidden state
+            shape (N, key_dim)
+    
+    Return:
+        attn: attention, shape (N, L)
     """
     energy = torch.bmm(keys, queries.unsqueeze(2)).squeeze(2) * mask  # (N, L)
     energy = energy - (1 - mask) * 1e4  # subtract large number from padded region
     emax = torch.max(energy, 1)[0].unsqueeze(1)  # (N, L)
-    eval = torch.exp(energy - emax) * mask  # (N, L)
-    attn = eval / (eval.sum(1).unsqueeze(1))  # (N, L)
+    exp_e = torch.exp(energy - emax) * mask  # (N, L)
+    attn = exp_e / (exp_e.sum(1).unsqueeze(1))  # (N, L)
     return attn
 
 
 def calculate_context(attn, values):
-    """
-    Context calculation
-    :param attn:  (N, L)
-    :param values: (N, L, value_dim)
-    :return: Context (N, value_dim)
+    """Context calculation
+    
+    Args:
+        attn: alpha's, shape (num_batches, seq_len)
+        values: h's, shape (num_batches, seq_len, hidden_dim)
+
+    Return:
+        ctx: context, shape (num_batches, hidden_dim)
     """
     ctx = torch.bmm(attn.unsqueeze(1), values).squeeze(1)  # (N, value_dim)
     return ctx
