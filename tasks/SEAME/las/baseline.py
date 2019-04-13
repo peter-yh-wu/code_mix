@@ -406,8 +406,6 @@ def main():
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Running")
-    if not os.path.exists(args.save_directory):
-        os.makedirs(args.save_directory)
     CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
     if os.path.exists(CKPT_PATH):
         model.load_state_dict(torch.load(CKPT_PATH))
