@@ -440,8 +440,9 @@ def main():
                 loss.backward()
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
                 optimizer.step()
-            if (i+1) % 500 == 0:
-                print('Processed %d Batches' % (i+1))
+            if (i+1) % 100 == 0:
+                t1 = time.time()
+                print('Processed %d Batches (%.2f Seconds)' % (i+1, t1-t0))
         print_log('Train Loss: %f' % (l/len(train_loader.dataset)), LOG_PATH)
         print_log('Avg Train Perplexity: %f' % (tot_perp/len(train_loader.dataset)), LOG_PATH)
         
