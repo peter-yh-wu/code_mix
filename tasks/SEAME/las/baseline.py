@@ -355,6 +355,8 @@ def main():
 
     t0 = time.time()
 
+    if not os.path.exists(args.save_directory):
+        os.makedirs(args.save_directory)
     LOG_PATH = os.path.join(args.save_directory, 'log')
     with open(LOG_PATH, 'w+') as ouf:
         pass
