@@ -484,6 +484,7 @@ def main():
             print_log('CER: %f' % cer_val, LOG_PATH)
 
         # log
+        '''
         if (e+1) % 4 == 0:
             torch.save(model.state_dict(), CKPT_PATH)
             write_transcripts(
@@ -493,6 +494,7 @@ def main():
     write_transcripts(
     path=os.path.join(args.save_directory, 'submission.csv'),
     args=args, model=model, loader=test_loader, charset=charset)
+    '''
 
 if __name__ == '__main__':
     main()
