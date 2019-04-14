@@ -247,8 +247,9 @@ class DecoderModel(nn.Module):
 
         # Initial context
         h0 = input_states[-1][0]
-        query = self.query_projection(h0)
-        attn = calculate_attention(keys, mask, query)
+        new_keys = self.key_projection(keys)
+        queries = self.query_projection(h0)
+        attn = calculate_attention(self.v, new_keys, mask, queries)
         ctx = calculate_context(attn, values)
 
         # Decoder loop
