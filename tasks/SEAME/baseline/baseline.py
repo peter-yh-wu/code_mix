@@ -386,7 +386,7 @@ def main():
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Building Charset")
-    charset = build_charset(np.concatenate((train_ys, dev_ys), axis=0))
+    charset = build_charset(np.concatenate((train_ys, dev_ys, test_ys), axis=0))
     charmap = make_charmap(charset) # {string: int}
     charcount = len(charset)
     t1 = time.time()
