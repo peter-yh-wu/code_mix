@@ -154,7 +154,7 @@ if __name__ == '__main__':
                 dev_words += len(sent)
 
         # Keep track of the development accuracy and reduce the learning rate if it got worse
-        if last_dev < dev_loss and type(optimizer) is not torch.optim.Adam:
+        if last_dev < dev_loss and hasattr(optimizer, 'learning_rate'):
             optimizer.learning_rate /= 2
         last_dev = dev_loss
 
