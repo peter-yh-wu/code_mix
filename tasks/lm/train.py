@@ -58,8 +58,8 @@ if __name__ == '__main__':
     logger.info(args)
     # Read in the data
     logger.info('Loading dataset...')
-    train = read_dataset("SEAME-dev-set/dev_man/text")
-    dev = read_dataset("SEAME-dev-set/dev_sge/text")
+    train = read_dataset("data/train.txt")
+    dev = read_dataset("data/dev.txt")
     vocab = Vocab(train)
     # train_set = BilingualDataSet(vocab, examples=train, padding=False, sort=False)
     # dev_set = BilingualDataSet(vocab, examples=dev, padding=False, sort=False)
@@ -92,9 +92,9 @@ if __name__ == '__main__':
     # Construct loss function and Optimizer.
     criterion = torch.nn.CrossEntropyLoss()
     if args.optim.lower() == 'adam':
-        optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+        optimizer = torch.optim.Adam(model.parameters(), lr=args.lr)
     elif args.optim.lower() == 'sgd':
-        optimizer = torch.optim.SGD(model.parameters(), lr=0.005, momentum=0.9)
+        optimizer = torch.optim.SGD(model.parameters(), lr=args.lr, momentum=args.mm)
     elif args.optim.lower() == 'adagrad':
         optimizer = torch.optim.Adagrad(model.parameters())
     else:
@@ -123,6 +123,11 @@ if __name__ == '__main__':
             train_sents += 1
             optimizer.zero_grad()
             loss.backward()
+            # TODO: add clip_grad?
+            # clip_grad_norm helps prevent the exploding gradient problem in RNNs / LSTMs.
+            torch.nn.utils.clip_grad_norm_(model.parameters(), args.clip)
+            for p in model.parameters():
+                p.data.add_(-args.lr, p.grad.data)
             optimizer.step()
             if train_sents % 500 == 0:
                 logger.info("--finished %r sentences (sentence/sec=%.2f)"
