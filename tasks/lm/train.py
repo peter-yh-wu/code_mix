@@ -27,7 +27,7 @@ def calc_sent_loss(sent, model, criterion):
     """
     Calculate the loss value for the entire sentence
     """
-    targets = torch.LongTensor([model.vocab.stoi[tok] for tok in sent + ['<s>']]).to(DEVICE)
+    targets = torch.LongTensor([model.vocab[tok] for tok in sent + ['<s>']]).to(DEVICE)
     logits = model(['<s>'] + sent + ['<s>'])
     loss = criterion(logits, targets)
 
@@ -40,7 +40,7 @@ def generate_sent(model):
     """
     hist = [model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
     # hist += ['<s>']
-    eos = model.vocab.stoi['<s>']
+    eos = model.vocab['<s>']
     while True:
         logits = model(hist + ['<s>'])[-1]
         prob = F.softmax(logits, dim=0)
@@ -131,7 +131,7 @@ if __name__ == '__main__':
                 logger.info("Generate some sentences...")
                 for _ in range(3):
                     sentence = generate_sent(model)
-                    print(" ".join([word for word in sentence]))
+                    logger.debug(" ".join([word for word in sentence]))
 
             model.detach()
 
@@ -176,4 +176,4 @@ if __name__ == '__main__':
         # Generate a few sentences
         for _ in range(5):
             sentence = generate_sent(model)
-            print(" ".join([word for word in sentence]))
+            logger.debug(" ".join([word for word in sentence]))
