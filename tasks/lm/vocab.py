@@ -69,7 +69,7 @@ class Vocab(object):
             numerical identifiers.
         itos: A list of token strings indexed by their numerical identifiers.
     """
-    def __init__(self, words, max_size=None, min_freq=1, specials=['<s>', '<pad>'],
+    def __init__(self, words, max_size=None, min_freq=1, specials=['<s>', '<pad>', '<unk>'],
                  vectors=None, specials_first=True, filter_func=None, unk_init=None):
         """Create a Vocab object from a collections.Counter.
         Arguments:
@@ -163,11 +163,12 @@ class Vocab(object):
             if item in self.stoi:
                 return self.stoi[item]
             else:
-                self.itos.append(item)
-                idx = len(self.itos) - 1
-                self.stoi[item] = idx
-                if self.vectors is not None:
-                    self.vectors[idx] = self.unk_init(torch.Tensor(self.vectors.dim))
+                return self.stoi['<unk>']
+                # self.itos.append(item)
+                # idx = len(self.itos) - 1
+                # self.stoi[item] = idx
+                # if self.vectors is not None:
+                #     self.vectors[idx] = self.unk_init(torch.Tensor(self.vectors.dim))
         else:
             return self.itos[item]
 
