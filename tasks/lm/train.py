@@ -160,12 +160,12 @@ if __name__ == '__main__':
 
         # Keep track of the best development accuracy, and save the model only if it's the best one
         if best_dev > dev_loss:
-            if not os.path.exists('model'):
+            if not os.path.exists('models'):
                 try:
-                    os.mkdir('model')
+                    os.mkdir('models')
                 except Exception as e:
-                    print("Can not create model directory, %s" % e)
-            torch.save(model, "models/model.pt")
+                    print("Can not create models directory, %s" % e)
+            torch.save(model.state_dict(), "models/model.pt")
             best_dev = dev_loss
 
         # Save the model
