@@ -3,7 +3,7 @@ import torch
 from datetime import datetime
 
 parser = argparse.ArgumentParser(description='Language model parameters.')
-parser.add_argument('--epoch', help='maximum training epochs', default=20)
+parser.add_argument('--epoch', help='maximum training epochs', type=int, default=20)
 parser.add_argument('--model', help='choose language model', default='lstm')
 parser.add_argument('--batch', help='batch size', type=int, default=1)
 parser.add_argument('--embed_en', help='pre-trained word embedding for English')
