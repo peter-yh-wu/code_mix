@@ -23,20 +23,21 @@ from torch.utils.data import DataLoader
 from log import init_logger
 
 
-# Calculate the loss value for the entire sentence
 def calc_sent_loss(sent, model, criterion):
-    targets = []
+    """
+    Calculate the loss value for the entire sentence
+    """
     targets = torch.LongTensor([model.vocab.stoi[tok] for tok in sent + ['<s>']]).to(DEVICE)
     logits = model(['<s>'] + sent + ['<s>'])
-    # loss = F.cross_entropy(logits, targets, reduction='mean')
     loss = criterion(logits, targets)
-    # losses.append(loss)
 
     return loss
 
 
-# Generate a sentence
 def generate_sent(model):
+    """
+    Generate a sentence
+    """
     hist = [model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
     # hist += ['<s>']
     eos = model.vocab.stoi['<s>']
@@ -59,8 +60,6 @@ if __name__ == '__main__':
     logger.info('Loading dataset...')
     train = read_dataset("SEAME-dev-set/dev_man/text")
     dev = read_dataset("SEAME-dev-set/dev_sge/text")
-    # vocab_en = Vocab(train, filter_func='eng')
-    # vocab_cn = Vocab(train, filter_func='chn')
     vocab = Vocab(train)
     # train_set = BilingualDataSet(vocab, examples=train, padding=False, sort=False)
     # dev_set = BilingualDataSet(vocab, examples=dev, padding=False, sort=False)
@@ -78,8 +77,10 @@ if __name__ == '__main__':
     # Initialize the model and the optimizer
     logger.info('Building model...')
     if args.model.lower() == 'lstm':
-        model = DualLSTM(batch_size=args.batch, hidden_size=args.hidden, embed_size=args.embed, n_gram=args.ngram,
-                         vocab=vocab, vocab_size=len(vocab), dropout=args.dp, embedding=None, freeze=False)
+        model = DualLSTM(batch_size=args.batch, hidden_size=args.hidden,
+                         embed_size=args.embed, n_gram=args.ngram,
+                         vocab=vocab, vocab_size=len(vocab), dropout=args.dp,
+                         embedding=None, freeze=False)
     elif args.model.lower() == 'fnn':
         model = FNNLM(n_words=len(vocab), emb_size=args.embed,
                       hid_size=args.hidden, num_hist=args.ngram, dropout=args.dp)
@@ -121,18 +122,22 @@ if __name__ == '__main__':
             train_loss += loss.data
             train_sents += 1
             optimizer.zero_grad()
-            loss.backward(retain_graph=True)
+            loss.backward()
             optimizer.step()
-            if train_sents % 50 == 0:
-                logger.info("--finished %r sentences (sentence/sec=%.2f)" % (train_sents, train_sents / (time.time() - start)))
+            if train_sents % 500 == 0:
+                logger.info("--finished %r sentences (sentence/sec=%.2f)"
+                            % (train_sents, train_sents / (time.time() - start)))
                 # Generate a few sentences
                 logger.info("Generate some sentences...")
                 for _ in range(3):
                     sentence = generate_sent(model)
                     print(" ".join([word for word in sentence]))
 
+            model.detach()
+
         logger.info("iter %r: train loss/word=%.4f, ppl=%.4f (sentence/sec=%.2f)" % (
-            epoch, train_loss / train_sents, math.exp(train_loss / train_sents), train_sents / (time.time() - start)))
+            epoch, train_loss / train_sents, math.exp(train_loss / train_sents),
+            train_sents / (time.time() - start)))
 
         train_loss_record.append(train_loss)
 
@@ -165,7 +170,8 @@ if __name__ == '__main__':
 
         # Save the model
         logger.info("iter %r: dev loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
-            epoch, dev_loss / dev_words, math.exp(dev_loss / dev_words), dev_words / (time.time() - start)))
+            epoch, dev_loss / dev_words, math.exp(dev_loss / dev_words),
+            dev_words / (time.time() - start)))
 
         # Generate a few sentences
         for _ in range(5):

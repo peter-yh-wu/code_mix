@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+# Copyright (C) 2019 Zimeng Qiu <zimengq@andrew.cmu.edu>
+# Licensed under the Apache License v2.0 - http://www.apache.org/licenses/
+
 import configs
 import logging
 import os

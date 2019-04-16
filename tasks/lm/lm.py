@@ -71,6 +71,11 @@ class DualLSTM(nn.Module):
     def init_hidden(self):
         return torch.zeros(1, self.hidden_size).to(DEVICE)
 
+    def detach(self):
+        self.hidden_en.detach_()
+        self.hidden_cn.detach_()
+        self.cell.detach_()
+
     def init_weights(self):
         self.apply(weight_init)
 
