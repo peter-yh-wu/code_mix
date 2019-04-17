@@ -8,12 +8,12 @@ import os
 import math
 import time
 import random
+import psutil
 import logging
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-from torch.autograd import Variable
 from lm import FNNLM, DualLSTM
 from utils.data import *
 from configs import *
@@ -111,7 +111,7 @@ if __name__ == '__main__':
 
     # Perform training
     for epoch in range(args.epoch):
-        # shulle training data
+        # shuffle training data
         random.shuffle(train)
         # set the model to training mode
         model.train()
