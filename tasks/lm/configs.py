@@ -3,7 +3,7 @@ import torch
 from datetime import datetime
 
 parser = argparse.ArgumentParser(description='Language model parameters.')
-parser.add_argument('--epoch', help='maximum training epochs', default=20)
+parser.add_argument('--epoch', help='maximum training epochs', type=int, default=20)
 parser.add_argument('--model', help='choose language model', default='lstm')
 parser.add_argument('--batch', help='batch size', type=int, default=1)
 parser.add_argument('--embed_en', help='pre-trained word embedding for English')
@@ -16,6 +16,9 @@ parser.add_argument('--optim', help='optimizer, Adadelta, Adam or SGD', default=
 parser.add_argument('--dp', help='dropout rate, float number from 0 to 1.', default=0.5, type=float)
 parser.add_argument('--mode', help='train/test', default='train')
 parser.add_argument('--nworkers', help='number of workers for loading dataset', default=4)
+parser.add_argument('--lr', help='initial learning rate', type=float, default=0.01)
+parser.add_argument('--mm', help='momentum', type=float, default=0.9)
+parser.add_argument('--clip', help='gradient clipping', type=float, default=0.25)
 
 args = parser.parse_args()
 

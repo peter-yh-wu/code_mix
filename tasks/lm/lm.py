@@ -71,6 +71,11 @@ class DualLSTM(nn.Module):
     def init_hidden(self):
         return torch.zeros(1, self.hidden_size).to(DEVICE)
 
+    def detach(self):
+        self.hidden_en.detach_()
+        self.hidden_cn.detach_()
+        self.cell.detach_()
+
     def init_weights(self):
         self.apply(weight_init)
 
@@ -96,13 +101,13 @@ class DualLSTM(nn.Module):
         for idx, token in enumerate(sentence[:-1]):
             if is_english_word(token) or token in ['<pad>', '<unk>', '<s>', '</s>']:
                 try:
-                    embedding.append(self.embedding(torch.LongTensor([self.vocab.stoi[token]]).to(DEVICE)))
+                    embedding.append(self.embedding(torch.LongTensor([self.vocab[token]]).to(DEVICE)))
                     embed_mask[idx] = 1.
                 except Exception:
-                    print(sentence, self.vocab_size, token, self.vocab.stoi[token])
+                    print(sentence, self.vocab_size, token, self.vocab[token])
             else:
                 try:
-                    embedding.append(self.embedding(torch.LongTensor([self.vocab.stoi[token]]).to(DEVICE)))
+                    embedding.append(self.embedding(torch.LongTensor([self.vocab[token]]).to(DEVICE)))
                 except Exception:
-                    print(sentence, self.vocab_size, token, self.vocab.stoi[token])
+                    print(sentence, self.vocab_size, token, self.vocab[token])
         return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE)
