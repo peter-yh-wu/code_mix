@@ -39,9 +39,9 @@ dev_ys_path = os.path.join(SPLIT_DIR, DEV_YS_FILE)
 test_ys_path = os.path.join(SPLIT_DIR, TEST_YS_FILE)
 
 interview_mfcc_files = os.listdir(INTERVIEW_MFCC_DIR)
-interview_mfcc_files = [f for f in mfcc_files if f.endswith('.mfcc')]
+interview_mfcc_files = [f for f in interview_mfcc_files if f.endswith('.mfcc')]
 conversation_mfcc_files = os.listdir(CONVERSATION_MFCC_DIR)
-conversation_mfcc_files = [f for f in mfcc_files if f.endswith('.mfcc')]
+conversation_mfcc_files = [f for f in conversation_mfcc_files if f.endswith('.mfcc')]
 
 interview_paths = [os.path.join(INTERVIEW_MFCC_DIR, f) for f in interview_mfcc_files]
 conversation_paths = [os.path.join(CONVERSATION_MFCC_DIR, f) for f in conversation_mfcc_files]
