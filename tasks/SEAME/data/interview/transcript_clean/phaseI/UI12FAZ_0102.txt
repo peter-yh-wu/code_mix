@@ -1,0 +1,161 @@
+UI12FAZ_0102 0 3178 你们 可以 进去 他的 店面 那边 前面 吃
+UI12FAZ_0102 8098 13278 它的 客人 也不 会 特别 多 吧 我 enjoy 那个 environment 啦 很 爽 啦
+UI12FAZ_0102 13278 21742 因为 它是 好像 很 乡下 这样 啊 ha 好像 你 进去 里面 只是 吃 东西 啊 看 风景 这样 吧 了 咯
+UI12FAZ_0102 21742 26319 hmm 不会
+UI12FAZ_0102 26319 36256 便宜 差不多 像 你 ah ah of course 贵 过 槟 城 的 那个 rate lah but 它 okay 咯 大概 一碗 四 五 元 这样 咯
+UI12FAZ_0102 40811 49055 它 板 面 我是 觉得 在 槟 城 很难 找 得到 因为 它的 板 面 它 来 add on 那些 curry 啊
+UI12FAZ_0102 49055 57020 curry chicken 啊 那些 东西 哦 and then 它 做到 它的 板 板 面 很 很 弹 牙 啊
+UI12FAZ_0102 57020 61869 觉得 很 爽 很 爽 哦 它 不会 很 kiw 这样 咯 ha
+UI12FAZ_0102 61869 68399 它 不会 啊 我们 这边 也是 有 啦 but 我是 觉得 那边 它 有 它的 unique 的 之 处 啦
+UI12FAZ_0102 70568 76273 hmm 然后 它是 自己 homemade 的 应该 是 mmm 很 纯正 的 那种
+UI12FAZ_0102 83304 85422 next trip ah plan 很多
+UI12FAZ_0102 89090 96748 要 慢慢 来 哦 有 plan 咯 想 要 plan 去 香港 啊 台湾 那些 咯 maybe lah
+UI12FAZ_0102 96748 105799 hmm 我 现在 在 忙 着 那些 哦 啊 我 结婚 的 东西 嘛 结婚 dinner 的 东西 呀 ha
+UI12FAZ_0102 108986 119547 筹备 些 什么 啊 就是 去 看 那些 哦 因为 我们 之前 是 想 找 那个 wedding planner 嘛 去 plan 去 做 deco 因为 我们是 在 hall 里面
+UI12FAZ_0102 119547 133171 and then 我是 想 因为 它 就 err 它的 hall 的 是 它的 color 你 可以 自己 err 自己 decide 咯 它 有 给 你 选 那些 color and then 那些 桌子 的 deco loh
+UI12FAZ_0102 133171 142002 你 要 放 布 啊 什么 色 啊 然后 你 要 什么 花 啊 去 增加 那个 味道 咯 然后 还有 就是 要 几 桌 还要 怎样 排 咯
+UI12FAZ_0102 142002 150152 and then 我们 就要 预算 一下 那些 人 咯 possibility 多少 桌 然后 你 要 add on 多少 桌 了 还有 就是
+UI12FAZ_0102 150152 159027 因为 它的 那个 wedding planner 他是 没有 inclusive 那个 哦 那 那个 err 那个 dinner 的 你 知道 吗 那个 煮 的 人 呢 你 还要 找 外面 的
+UI12FAZ_0102 159027 163274 所以 找 外面 的 好像 agent 这样 还是 怎样 啦
+UI12FAZ_0102 163274 166297 and then err 就 去 找 那些 人 咯
+UI12FAZ_0102 166297 175462 啊 然后 它 就会 给 一张 啊 一个 list 的 menu 咯 然后 里面 有 err 大概 八 样 choice 的 那个 那个 菜 咯
+UI12FAZ_0102 175462 185611 ha 然后 它 有 给 你 几个 choice 啦 a. b. c. 这样 咯 then 你 去 你 去 decide 咯 你 要 什么 了 then after that 你 可以 去 试 菜 噢
+UI12FAZ_0102 185611 200597 if 你 不要 and then 你 have to pay 一半 half price 呀 比如 它是 四百 你 就要 pay 两 百 then 啊 过后 err 如果 你 要 的话 他 就算 你 free
+UI12FAZ_0102 200597 204783 嗯 它是 这样 子 的
+UI12FAZ_0102 209691 219570 哦 就是 有 一些 li 就是 好像 啊 你 去 吃 人家 的 那个 wedding dinner 的 时候 你 觉得 好吃 so 你 就 跟 它 拿 contact loh
+UI12FAZ_0102 219570 228266 或者 是 有 一些 好像 你 去 那些 会馆 它们 请 吃 啊 什么 啊 或者 是 你的 developer 啊 你 屋子 developer 有些 有请 吃 的
+UI12FAZ_0102 228266 233040 and then 你 就可以 有 那个 choices 咯 你 就 叫 他 recommend 给 你 咯
+UI12FAZ_0102 233040 241591 了 或者 是 你 去 那个 wedding planner 他 也 会 recommend 你 因为 他们 有 做 过 很多 嘛 ha 他们 有 contact 的 咯
+UI12FAZ_0102 241591 249297 我 我 还没有 吃 到 只是 我 有 看过 它的 那个 menu menu 很多 组 了 啦 四 五 组 都有
+UI12FAZ_0102 253251 256694 err sixty to seventy loh
+UI12FAZ_0102 258945 262326 因为 我们是 男女 同 请 嘛
+UI12FAZ_0102 262326 270511 ha ha and then 我 skip 掉 那个 我是 请 了 在 老 tiah meh itself loh
+UI12FAZ_0102 270511 276828 then 过后 就是 娶 新娘 err 娶 新娘 咯 then 过后 晚上 的 dinner 就 没有 了 咯
+UI12FAZ_0102 276828 287798 比较 clear cut 啦 ha 因为 他 你 有 两个 两个 method 的 嘛 一个 li 就是 你 娶 新娘 啊 晚上 再 请
+UI12FAZ_0102 287798 296150 然后 老 tiah meh 你 又 再 请 多 一次 but 那个 可能 比较 没有 formal informal 一点 它 就是 请 buffet style 嘛 通常 人家 是 这样 嘛
+UI12FAZ_0102 296150 304943 but 我 没有 咯 我 只是 在 那一 个 老 tiah meh 那边 请 咯 then 隔 天 啊 我们 娶 新娘 that is it 完了
+UI12FAZ_0102 308160 316507 啊 dinner 过后 没有 咯 就是 在 老 tiah meh 那边 请 咯 所以 就是 那个 consider dinner and 老 tiah meh loh
+UI12FAZ_0102 316507 320683 ha 是 这样 咯
+UI12FAZ_0102 320683 323304 噢 我 妈妈 叫 我 honeymoon ah
+UI12FAZ_0102 324102 328597 她 讲 直接 不用 去 啊 这个 replace honeymoon
+UI12FAZ_0102 328597 333084 easy save time save money
+UI12FAZ_0102 336135 339570 是 我 我的 那个 boyfriend 不要
+UI12FAZ_0102 340562 345094 因为 他是 第一个 孩子 嘛 单子 嘛
+UI12FAZ_0102 349053 357753 婚纱 应该 是 april 或者 may ah end of april 啊 或者 是 err early of may 呀 差不多 这样
+UI12FAZ_0102 361339 363697 keep fit
+UI12FAZ_0102 366680 373086 很 惨 啊 现在 做工 tension ma then 哎呀 吃 多少 都 补 不到 啊
+UI12FAZ_0102 375120 379206 很 惨 啊 然后 皮肤 skin 那些 很 dry ah
+UI12FAZ_0102 386180 391464 现在 就要 开始 了 啊 我 都 我 都有 去 给 人家 洗 脸 那些 咯
+UI12FAZ_0102 393321 398676 in package 的 咯 but 真的 是要 dump 一些 钱 进去 咯
+UI12FAZ_0102 402542 404133 唔 不简单
+UI12FAZ_0102 404133 411528 啊 对 呀 我 忘记 跟你讲 昨天 丽 君 啊 她 请 我 去 喜 来 登 的 restaurant 吃 near 那个 auto city 那边
+UI12FAZ_0102 411528 416336 哦 那个 food not bad 你 可以 以后 可以 consider 请 那边
+UI12FAZ_0102 416336 420801 very good 然后 它 又 不会 很 expensive lah 大概
+UI12FAZ_0102 420801 427505 大概 一 桌 大概 是 昨天 她 拿 的 package 是 around four hundred something ah
+UI12FAZ_0102 427505 433181 她 请 两 桌 咯 请 我们 她的 relative 跟 我们 咯
+UI12FAZ_0102 435825 443871 只是 她的 跟 啊 paradise 的 完全 不一样 咯 paradise hotel 啊 它 不是 很好 吃 but 她的 是 很好 吃 的
+UI12FAZ_0102 443871 451294 它的 service 就是 普通 咯 normal service loh but 它的 food very keng 然后 它 又有
+UI12FAZ_0102 451294 455763 啊 我们 去 的 时候 呀 那个 consider 是 十一点 啦
+UI12FAZ_0102 455763 462289 然后 有 一些 人 还在 breakfast 然后 breakfast 它 有 provide dim sum 呀 那些 啊 它 dim sum 也是 很 famous 的
+UI12FAZ_0102 463578 473460 我们 第一 桌 hor 那个 五 福 临门 啊 里面 也是 有 两个 是 好像 more to dim sum 这样的 嘛 ha 只是 很 很 good loh
+UI12FAZ_0102 473460 474748 它是
+UI12FAZ_0102 474748 477791 没有 啦 不是 太 饿 它 很好 吃
+UI12FAZ_0102 477791 480317 了 而且 它的 portion 很大 你 知道 吗
+UI12FAZ_0102 480317 486906 你 大概 吃 到 第三 to 第四 的 时候 hor 它 已经 已经 好像 almost full 了
+UI12FAZ_0102 487957 495720 后面 的 那个 那个 饭 啊 fried rice 来 的 时候 啊 hor mostly 不要 吃 吃 它 里面 的 料 啊 放 着
+UI12FAZ_0102 498837 508500 没有 啦 她 都要 哎哟 她 不能 啦 她 她 就 给 她的 parents 顾 咯 放在 啊 raja uda 的 家 哦
+UI12FAZ_0102 511416 515787 她的 brandon 有 咯 brandon 跟 她 来 咯 brandon 讲 还 好 他 来 咯 tat 吃 这 餐
+UI12FAZ_0102 517210 521085 吃 了然 后 补 回 那个 energy 回去 还要 顾 她的 baby ma
+UI12FAZ_0102 521085 528438 很 啦 她的 baby 她的 baby 也 很 坏蛋 啦 晚上 还要 顾 起来 呀 还要
+UI12FAZ_0102 529100 532517 hmm 然后 李 桂 音 可能 还要 breast feed 啊 这样 子
+UI12FAZ_0102 538092 543849 hmm 很 辛苦 咯 然后 现在 还要 积极 keep fit 咯 她 讲 现在 还 很 肥
+UI12FAZ_0102 543849 551389 but 我是 觉得 okay 啦 很 可爱 呀 她的 hair style 啊 她 最新 的 很 可爱 很 可爱
+UI12FAZ_0102 557000 560267 哦 一点点 那个 东西 啊 黑黑的
+UI12FAZ_0102 562470 568671 ha 应该 是 这样的 东西 啦 but 我 觉得 可能 她 要 搽 一点 cream 可能 它 可以 淡化 咯
+UI12FAZ_0102 570944 584647 不错 啦 然后 昨天 就 among 她的 friend 里面 燕 华 跟 那个 思 盈 没有 去 咯 but 她们 就 觉得 很 很 遗憾 这样 咯 因为 要 要 work ma
+UI12FAZ_0102 584647 587648 不知道 我 不知道 她 知 不知道
+UI12FAZ_0102 588496 592598 but i don't think 她 知道 啦 因为 可能 丽 君 没有 announce 还是 怎样 啦
+UI12FAZ_0102 592598 595037 没有 inform 她
+UI12FAZ_0102 595037 600942 因为 很 rush 嘛 她是 因为 要 要 为了 要 apply 那个 visa 而 去 结婚 的
+UI12FAZ_0102 607338 615442 我 之前 我 有 听 人家 讲 是 around one week 你 要 放在 那个 registration 那边 你 要 放 你的 photo 咯 跟 的
+UI12FAZ_0102 615442 621273 ah husband 的 photo 放在 那边 如果 没有 人 objection and then 你 就可以 as a
+UI12FAZ_0102 621273 626425 hmm 有 一些 人 讲 二十一 天 也有 一个人 讲 七 天 我也 不懂
+UI12FAZ_0102 631869 636104 以后 我 那个 了 我 有了 experience 了 我 跟你讲 现在 还 不知道 kok
+UI12FAZ_0102 644239 649900 然后 很 tired 去 k. l. 的 时候 买 那些 new year clothes 了 咯 你 买 了 没有
+UI12FAZ_0102 652238 655342 我 买 了 咯 只是 买 了 spend 很多 咯
+UI12FAZ_0102 658393 664528 好看 的 fashion 啊 没有 喔 我 买 是 全部 很 mmm 大 size 的 咯
+UI12FAZ_0102 665069 668256 so that 以后 你 肥 的 时候 你 还 可以 穿 回去 嘛
+UI12FAZ_0102 669120 672662 你 pregnant 的 时候 也是 可以 穿 回去
+UI12FAZ_0102 672662 677670 没有 啦 i mean 很 肥 你 知道 吗 现在 连 喝 水 有时候 都会 肥 err
+UI12FAZ_0102 677670 684318 很 肥 啊 then 然后 又 很少 exercise 嘛 然后 又 吃 多 然后 有时候 又 吃 supper 一下
+UI12FAZ_0102 686063 688678 没有 有时候 他 没有 自己 吃 我 自己 在家 煮面 吃
+UI12FAZ_0102 697762 704828 然后 现在 要 要 积极 咯 keep fit 一下 咯 要 要 control 啦 啊 keep fit
+UI12FAZ_0102 704828 710113 take 什么 action 来 keep fit 呀 就是 尽量 你 不要 吃 这样 多
+UI12FAZ_0102 710113 715992 啊 尽量 不要 吃 太 多 那种 fried 的 东西 啊
+UI12FAZ_0102 715992 725453 ha 然后 不要 吃 那种 啊 热 的 东西 最 最 重要 吃 多 一点 fiber 这样的 东西 咯 能 饱 然后 它 又 可以 消化 多 一点
+UI12FAZ_0102 725453 732364 没有 我 吃 那些 fruit ah fruit 是 fiber 的 嘛 吃 多 一点 咯 这样的 东西 咯
+UI12FAZ_0102 732364 736431 然后 尽量 supper 尽量 不要 去 touch 它 咯
+UI12FAZ_0102 756373 757967 你 现在 吃 着 啊
+UI12FAZ_0102 760983 763254 哦 很 满意 啦
+UI12FAZ_0102 763254 766744 很 啦 不能 啦 现在
+UI12FAZ_0102 768406 772509 然后 没有 就 这样 咯
+UI12FAZ_0102 776859 778860 啊 怎样 讲 leh
+UI12FAZ_0102 780742 782413 我 parents 没有 啦
+UI12FAZ_0102 783842 789787 啊 我 不知道 他的 parents 有没有 可能 有 subsidize 一点 啦
+UI12FAZ_0102 791672 794752 and then mostly 都是 应该 是 他 咯
+UI12FAZ_0102 794752 802067 要 存 钱 ha 因为 你 你 ha 你 dinner 了 then 你 还要 给 那些 ang pau
+UI12FAZ_0102 802067 806686 然后 after that 你 还要 去 买 那些 送礼 的
+UI12FAZ_0102 806686 810957 前 两个 星期 我 才 跟 他 一起 去 买 那个 酒吧 了 啊 hennessy
+UI12FAZ_0102 810957 818304 mmm 要 因为 你 要 送 啊 怎样 twins 这样的 嘛 要 两个 嘛 送给 啊
+UI12FAZ_0102 818304 829271 就是 女生 那 side 啦 然后 女生 那 side 啊 然后 那个 女生 呀 要 还给 男生 一一 瓶 的 嘛 mmm 要 return 啦 好像 一个 礼仪 这样 咯
+UI12FAZ_0102 832863 836944 提亲 还有 of course 还有 很多 东西 要 去 买 啦 but
+UI12FAZ_0102 836944 846527 but 有 一些 东西 好像 酒 啊 那些 啊 它的 price 一直 会 up 的 嘛 then 你 就 先 in advance 买 先 咯
+UI12FAZ_0102 848086 859924 去 langkawi free tax hor but 没有 嘛 没有 去 langkawi 嘛 了 而且 那时 候 又 啊 super 做 promotion 嘛 做 promotion 了 就 okay 啦
+UI12FAZ_0102 859924 864851 它的 price consider okay 啦 因为 你 去 你 去 那边 你 也是 要 bring 回来 也是 一个 重 嘛
+UI12FAZ_0102 872918 880173 啊 提亲 啊 depends 的 喔 but 我 我 觉得 我 我们的 我是 要在 one month earlier lah
+UI12FAZ_0102 880173 885075 of 你的 那个 你的 那个 娶 新娘 的 那个 日子 咯
+UI12FAZ_0102 887637 893205 mmm dinner 是 二十八 november
+UI12FAZ_0102 905266 906623 nothing to 准备 err
+UI12FAZ_0102 907808 909130 只是 这样
+UI12FAZ_0102 911231 917061 要 要 spend 很多 钱 咯 现在 要 save money 呀 不知道 怎样 save 然后 salary 又 low
+UI12FAZ_0102 919298 922334 recover ten percent 吧 了 嘛
+UI12FAZ_0102 931393 935120 har 你们 你们 ten 都 没有 咯 hor
+UI12FAZ_0102 939261 946718 permanent 了 wah 这样 快 啊 了 啊 grace leh wah 这样 你们 很 lucky loh
+UI12FAZ_0102 948277 949828 是 啊
+UI12FAZ_0102 953554 959601 哦 你 换 去 permanent 了 她 嘛 有 increase 你 咯 没有 啦 因为 都 没有 到 one year
+UI12FAZ_0102 962943 966908 increment 了 爽 啦
+UI12FAZ_0102 971226 975089 哦 你 做 一个 月 之后 他 就 convert 你 去 permanent
+UI12FAZ_0102 975801 986353 哦 good 啦 ei 只是 很 not relevant 咯 他 炒 这样 多 人 and then after that 他 又 con bring 人家 进来 然后 又 convert 人家
+UI12FAZ_0102 988353 991132 hor 很多 人是 拿 package 出 吗
+UI12FAZ_0102 994284 996521 哦 then 不是 浪费 钱 啦
+UI12FAZ_0102 1003538 1008616 我们 那边 也是 很 很 很 很 gai 哦 好像 我的 boss 他 已经 resign 了
+UI12FAZ_0102 1010618 1012110 hmm 做 么 你 懂
+UI12FAZ_0102 1013228 1015809 我的 boss 你 知道 吗 不是 p. c. s. 的 boss ah
+UI12FAZ_0102 1015809 1017592 bee-khun resign ah
+UI12FAZ_0102 1018406 1019829 bee-khun resign meh
+UI12FAZ_0102 1021728 1027621 bee-khun ah wah bee-khun ah previous boss 是 bee-khun i i mean 我 current 的 boss resign
+UI12FAZ_0102 1033959 1037620 but 不知 不知道 台湾 还是 谁 啦
+UI12FAZ_0102 1039925 1043363 他是 啊 没有 拿 package 走 的
+UI12FAZ_0102 1045595 1048577 这样 应该 是 korea 的 啦 jenny
+UI12FAZ_0102 1051425 1054095 哦 你是 说 current 的 啊
+UI12FAZ_0102 1054095 1059718 哦 我 我 知道 我是 因为 我 现在 buyer job 嘛 我 我 换 来 新的 buyer job 了
+UI12FAZ_0102 1059718 1065825 他们是 啊 mmm 很 stress 咯 现在 我们 很多 escalation 你 知道 吗
+UI12FAZ_0102 1065825 1071283 and then 我的 boss i think 是 他 已经 做 了 i think 十
+UI12FAZ_0102 1071283 1077208 sixteen year ah from h. p. mmm until now lah
+UI12FAZ_0102 1077208 1086827 然后 他 我 觉得 他 他 之 他 他 也是 不能 顶 咯 因为 现在 crisis mode 过了 嘛 然后 现在 他的 order 突然 间 boom up
+UI12FAZ_0102 1086827 1088488 然后
+UI12FAZ_0102 1088488 1095131 很 很多 那些 material 都 pool 不 进来 呀 that's why 没有 东西 出 so 我们 很 stress loh
+UI12FAZ_0102 1096453 1098901 就是 他 没有 那个 head count loh
+UI12FAZ_0102 1100825 1111967 嗯 而且 啊 那个 因为 我 我是 buyer from 啊 那个 deal 跟 jabil side 嘛 然后 jabil 是 semi 啊 好像 contract manufacturing 这样
+UI12FAZ_0102 1111967 1117369 然后 他们的 他们 有 capacity constraint 咯 然后 他们 production 真的 screw up
+UI12FAZ_0102 1117369 1119509 不能不 能 build 东西
+UI12FAZ_0102 1119509 1128166 一个 就是 capacity concern 咯 一个 就是 material 不能 pool 进来 了 他们 没有 full kick kok so 他 material 他 不能 run 他的 production
+UI12FAZ_0102 1128166 1134301 然后 我们 就 很 stress loh here and there 的 escalation and then
+UI12FAZ_0102 1142232 1148708 mmm but 因为 我们 在 q. four 的 时候 material 全部 有的 全部 pool 进来 了
+UI12FAZ_0102 1148708 1157678 了 那些 material 就是 它的 maker 啊 好像 air roll 啊 它们 全部 hor 它们 就是 有 constraint pun 咯 因为 很多 order 来 嘛
+UI12FAZ_0102 1157678 1165074 所以 它的 lead time 就 stress 咯 从 maybe 它的 lead time 是 eight week extend to extend to twelve week sixteen week
+UI12FAZ_0102 1165074 1172042 所以 你的 material 的 时间 越来越 长 然后 你 不能 build 咯 它 来不及 赶 给 你 咯
+UI12FAZ_0102 1175295 1185163 hmm 好像 你 let say 你 要 做 一个 啊 p. c. a. 这样 啊 printed circuit ah printed circuit 那种 东西 啊 assembly 这样的 东西
+UI12FAZ_0102 1185163 1189120 了 你 有一个 青 的 那个 板 然后 你 要 build 很多 component 在 上面 的 嘛
+UI12FAZ_0102 1189120 1195499 了 那些 component 都有 自己的 supplier ma and then 每 一个 supplier lead time 都 不一样 that's why
+UI12FAZ_0102 1195499 1202098 你 可能 这个 来了 这个 还没有 来 等等 了 等 一下 啊 它们的 jabil system 是 这样的

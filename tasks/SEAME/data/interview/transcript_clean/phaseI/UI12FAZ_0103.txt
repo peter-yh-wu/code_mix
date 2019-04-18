@@ -1,0 +1,189 @@
+UI12FAZ_0103 836 4563 等 了 等 下 啊 他们的 jabil system 是 这样的
+UI12FAZ_0103 4563 7897 你的 东西 来了 了 如果 别人 full kick 了 就是
+UI12FAZ_0103 7897 10928 它 可能 有 十个 material 它 九个 来了
+UI12FAZ_0103 10928 20265 了 可能 这个 本来 是 你 先 order 的 了 but 它 已经 full kick 了 嘛 了 人家 给 它 它 就可以 走了 嘛 了 别人 就 抢 去了 因为 是 common 的 part ah
+UI12FAZ_0103 20265 24929 了 它们 就会 share among each other 咯 了 它们 有 它们 就 先 拿 去
+UI12FAZ_0103 24929 32368 了 到 我们 可能 full kick 的 时候 那个 东西 才 啊 才 发现 到 已经 给 它 用 去了 所以 你 又 再不 能 用 了
+UI12FAZ_0103 35298 40081 err 就是 它们的 system 是 这样 run lah ha
+UI12FAZ_0103 41412 51282 mmm 只是 它们是 这样 咯 因为 你 不可能 你 不能 走 的 时候 了 你 还 害 到 别人 不能 走 嘛 了 car common part 是 sharing 的 所以 它们 就 去 它们 就 去 拿 去 咯
+UI12FAZ_0103 51282 56773 因为 它的 system 是 allocate 给 which ever 已经 有 full kick 的 东西 这样 这样 过去 咯
+UI12FAZ_0103 56773 62383 所以 我 觉得 我的 division 是 最 最 gai 的 因为 我是 属于 比较 high end 的 model 你 知道 吗
+UI12FAZ_0103 62383 67655 了 high end 的 model 它 它的 process 比较 high level 比较 啊 多
+UI12FAZ_0103 67655 74915 啊 比较 多 层 啊 了 它的 material 需要 的 比较 多 了 它的 process time 也 很 很 长 咯
+UI12FAZ_0103 74915 77165 我们 要 two weeks loh
+UI12FAZ_0103 82794 92402 ei 它是 分 division but 我 support 的 hor 我是 support c. m. 就是 我 deal 跟 c. m. loh
+UI12FAZ_0103 92402 101505 然后 啊 c. m. support 我的 material loh 了 我的 我的 刚刚 好 我的 s. a. 是 吗 他 purely 都是 sub con 给 jabil 的
+UI12FAZ_0103 101505 106169 ha 我 不是 它 因为 我们 agilent 有 分成 很多 嘛
+UI12FAZ_0103 106169 108388 有 一些 是 community buyer
+UI12FAZ_0103 108388 112987 community buyer li 就是 啊 他们 只是 负责 可能 买 plastic
+UI12FAZ_0103 112987 116396 ha 好像 不同 不同 的 plastic 有些 人 买 carton box
+UI12FAZ_0103 116396 118178 有些 人 买 components
+UI12FAZ_0103 118178 124184 了 我的 li 就是 好像 turn key full turn key 去 给 jabil 的 jabil 就是 做 全部 东西 出来
+UI12FAZ_0103 124184 134098 譬如 hor 好像 那个 jabil 是 如果 它 support 一个 p. c. a. 给 我 啦 了 里面 的 component 就是 它 买 的 不是 我们的 community buyer 买 的
+UI12FAZ_0103 134098 141533 然后 就是 它 买 到 完 顺便 装 进去 了 我们 跟 它 买 整个 end 的 那个 product
+UI12FAZ_0103 141533 150319 of course 我们 回来 还要 自己 做 一些 process 啦 一些 testing 啊 什么 才 会 build 去 给 啊 deliver 去 给 customer lah
+UI12FAZ_0103 150319 155484 but 它是 跟 我们 做 这 整个 东西 咯 but 那个 整个 东西 你 要 跟 它 follow up loh
+UI12FAZ_0103 155484 161650 你 要 check 看 你 这边 有没有 东西 可以 spare 给 它们 用 咯 如果 它们是 shortage 这个 material 的话
+UI12FAZ_0103 164689 173239 唔 就是 会 feel 到 好像 因为 我们 以前 做 的 customer service 呢 它是 好像
+UI12FAZ_0103 173239 178779 讲 难听 一下 好像 人家 人家 人家 spoon feed 你 这样
+UI12FAZ_0103 178779 186426 好像 叫 你 做 这个 做 这个 好像 有 step 有 procedure 这样 走 这个 没有 咯 你 要 自己 去 learn up 咯 那个 那个 process
+UI12FAZ_0103 186426 193804 因为 全部 人 都 很 忙 了 我们的 我们的 boss 他是 他是 没有 他 叫 你
+UI12FAZ_0103 193804 199853 啊 叫 你 不要 听 那些 noises loh escalation noises 然后 他 叫 你 做 你的 工 咯
+UI12FAZ_0103 199853 204777 了 我们是 以前 我们 一点点 escalate 罢了 老板 就 叫 你 做 这些 这些
+UI12FAZ_0103 204777 210106 然后 只是 我们 这边 因为 太 stress 了了 老板 还是 叫 你 不要 去 管 那些 noises loh
+UI12FAZ_0103 210106 213428 then concentrate on your work loh
+UI12FAZ_0103 213428 217019 mmm 有 新的 replacement 的 嘛
+UI12FAZ_0103 217019 221256 mmm 就是 以前 celestica 的 老板 来 我们的 位 咯
+UI12FAZ_0103 224982 229122 然后 再 有 其 他人 就 replace celestica 那边 咯
+UI12FAZ_0103 235902 237742 嗯 会 咯
+UI12FAZ_0103 237742 242904 mmm 如果 我们 因为 我们的 team around 有 六 to 七个 人 罢了
+UI12FAZ_0103 242904 251594 了 如果 你 一个 走 罢了 就 全部 人 也要 sharing 你的 工作 所以 整个 整个 team 就会 lam 下来 咯
+UI12FAZ_0103 255436 257748 没有 现在 没有 人 走
+UI12FAZ_0103 261334 266338 mmm mmm 没有 因为 它们 才 啊 reorg 过 罢了
+UI12FAZ_0103 271499 273772 permanent ah
+UI12FAZ_0103 273772 276757 他们是 拿 package hor
+UI12FAZ_0103 276757 286366 找到 工 哦 不同 了 很 stress 咯 我 每天 都要 去 jabil face to face meeting loh
+UI12FAZ_0103 289333 295241 不是 每天 啦 是 之前 是 比较 frequent 啦 然后 现在 是 啊 一个 星期 去 一次 咯
+UI12FAZ_0103 295241 299681 我的 是在 wednesday and then 的 是 high management 也是 要 去 咯
+UI12FAZ_0103 299681 305595 就是 他们的 management jabil management 跟 agilent 的 management 要 要 去 negotiate on
+UI12FAZ_0103 305595 309444 或者 是 pool lah pool 那些 material from 那个 咯
+UI12FAZ_0103 309444 311323 没有 办法
+UI12FAZ_0103 313455 316762 很多 东西 做 compare 跟 那个 咯
+UI12FAZ_0103 316762 318585 所以 去 那边 的 时候 有 一点点
+UI12FAZ_0103 319289 323199 吓 到 回来 都 没有 都 没有 head count
+UI12FAZ_0103 323199 327101 我 没有 japanese 的 background
+UI12FAZ_0103 329905 336680 没有 嘛 你们 有 at least 有 二点 五 嘛 对 嘛 二点 五 ha above 很 哪 我们 没有 leh
+UI12FAZ_0103 340491 347343 你们 而且 我 我 permanent 的 我 要 过去 也不 能 不是 除非 permanent to permanent 罢了
+UI12FAZ_0103 347343 351114 你们 有 permanent headcount ah
+UI12FAZ_0103 354368 356690 了 做 么 grace 不能 leh
+UI12FAZ_0103 362455 367139 对 啦 but 你们 也是 有 做 certain 的 year of service 了 嘛
+UI12FAZ_0103 373025 375790 了 grace 有 training lah
+UI12FAZ_0103 377308 379059 之前 你们 中 过
+UI12FAZ_0103 388095 391076 噢 我 觉得
+UI12FAZ_0103 397635 405555 mmm 只是 我 做 有时候 做到 十二点 leh 因为 我们是 有 laptop 拿 回去 的 嘛 and then 可以 work at home ma
+UI12FAZ_0103 413366 420511 but 过了 这个 这个 ha 过了 这个 curve 可能 比较 okay lah
+UI12FAZ_0103 420511 424247 hai 我们 那边 也是 很 够 力
+UI12FAZ_0103 424247 433678 很 咯 现在 也是 想 要 再 找 找 找 找 新的 job 咯 就 observe 一下 去 jobstreet 去 看 一下
+UI12FAZ_0103 436295 438027 jobstreet ah
+UI12FAZ_0103 442638 444914 riva 好 做
+UI12FAZ_0103 446032 449191 工钱 高 做 些 什么 会 stress 吗
+UI12FAZ_0103 450196 451915 stress 吗
+UI12FAZ_0103 457080 461326 嘿 很难 讲 jabil jabil 很 stress 它 turnover 很 高
+UI12FAZ_0103 468805 471052 celestica
+UI12FAZ_0103 474241 475786 什么 什么 base 的
+UI12FAZ_0103 477162 481896 没有 我是 说 bayan lepas 嘛 它是 什么 做 些 什么
+UI12FAZ_0103 481896 484987 manufacturing on 什么 东西
+UI12FAZ_0103 498129 500259 fresh grad ah
+UI12FAZ_0103 503460 505977 他是 engineer hor
+UI12FAZ_0103 507341 513957 ei engineer of course lah engineer 的 那个 average 是 minimum 是 二点 五 嘛
+UI12FAZ_0103 513957 519436 了 我们 不是 engineer leh 我们是 普通 com commerce 的 嘛
+UI12FAZ_0103 519436 522176 不同
+UI12FAZ_0103 522176 526839 engineer 在 agilent 也是 eng eng cheng cheng 嘛 很 哪
+UI12FAZ_0103 526839 530376 现在 很少 人 二点 五 了 哦 以下
+UI12FAZ_0103 533801 536330 你 看 啦 你 看 我
+UI12FAZ_0103 536330 539593 喂 我 做 比 你 多 好不 好
+UI12FAZ_0103 541047 545204 but 你 高 嘛 你们的 japanese 的 那边 的 工钱
+UI12FAZ_0103 547066 550307 but 你 已经 比 我 高 了 leh 你 一 进来
+UI12FAZ_0103 551807 555869 but 哎呀 我也 是 多 你 不 多 啊 了 第一 年
+UI12FAZ_0103 555869 563033 你 看 刚刚 起 罢了 刚刚 那个 又 没有 什么 increment 的 然后 第二 年 又 freeze wor 第三 年 这样 你 看 三年 了 你 知道 吗
+UI12FAZ_0103 563033 567919 好像 起了 等于 没有 起 这样 你 知道 吗 很 很 sad 的 at least 你
+UI12FAZ_0103 567919 573463 你 at least 你 你 现在 okay 嘛 你 convert 了 他 给 你 这样的 这样的 工钱
+UI12FAZ_0103 573463 576308 at least 你 satisfied ma
+UI12FAZ_0103 579636 581314 很 哪
+UI12FAZ_0103 585318 587212 哦 是 咯
+UI12FAZ_0103 587212 594317 then 如果 我 去 japan 我是 learn from zero eh 因为 我 没有 那个 language 的 background
+UI12FAZ_0103 597872 599387 then
+UI12FAZ_0103 601726 603549 then 工钱 也是 这样 高
+UI12FAZ_0103 609771 616592 government program 进来 他 不是 他 不是 像 我们 大学 这样 去 三个 月 这样
+UI12FAZ_0103 616592 619386 internship
+UI12FAZ_0103 621642 632759 哦 就是 after after 好像 retrenchment 这样 然后 他 去 那个 program 然后 那个 government 又 allocate 他 来 agilent 这样的 啦
+UI12FAZ_0103 637246 639066 government 给 的
+UI12FAZ_0103 641677 643437 有 这样的 东西 meh
+UI12FAZ_0103 652545 654844 而且 learn 不到 什么 咯
+UI12FAZ_0103 656753 669015 只是 我 就是 也有 一个 好的 东西 就是 after 我 就是 transfer from p. c. f. 去 buyer procurement 啊 就是 给 我 看到 原来
+UI12FAZ_0103 669455 674426 好像 这个 hor 就是 你 自己 要 去 去 learn up 的 那些 skill 咯
+UI12FAZ_0103 674426 680489 then 你 全部 你 都 自己 来 咯 没有 人 去 教 你 这个 是对 的 这个 是 错 的
+UI12FAZ_0103 680489 688632 then 你 要 去 撞墙 了 你 才 知道 哦 原来 之前 你 做 的 全部 都是 很 很 那个 咯
+UI12FAZ_0103 689339 693427 它 没有 好像 一个 proper 的 procedure 啊 比较 messy 一点 咯 那边
+UI12FAZ_0103 693427 698667
+UI12FAZ_0103 698667 706258 有一个 是 china team 去 的 but at least 他 他的 那个 level 啊 他是 较高 的 level 了 的 啦 然后 我们 有
+UI12FAZ_0103 706258 709226 entry 什么 什么 啊 比较 高 level 啊 去 那边
+UI12FAZ_0103 709226 713771 了 我是 最 fresh 最 最 entry level 的 才 去 那边
+UI12FAZ_0103 723704 727366 了 one to one 的 时候 你们 也是 有 go through 这样的 东西 啊
+UI12FAZ_0103 731035 734446 你 你们 进去 了 他 有 起 你们 level 吗
+UI12FAZ_0103 737271 739227 哦 rank two 要 去 rank one 很难 啊
+UI12FAZ_0103 739227 740936 rank three 要 去 rank two 就 容易
+UI12FAZ_0103 742682 744306 啊 是 咯 是 咯
+UI12FAZ_0103 747147 752558 ei 有 leh 有 有 啊 之前 我 刚刚 进去 的 时候 因为 刚刚 做工 了 一 两个 月 罢了 嘛
+UI12FAZ_0103 752558 760346 so 他 不能 justify 你 太 高 的 level 嘛 了 他 就 给 你 可能 rank three 了 只是 也是 有 起 工钱 今年 可能 没有 啦 rank three
+UI12FAZ_0103 760346 762250 rank three 可能 今年 没有
+UI12FAZ_0103 769490 774795 你 不会 直接 promotion 更好 走 entry 去 intermediate 比较 高 eh
+UI12FAZ_0103 776769 780871 啊 是 啦 要 一点点 那些 skill loh
+UI12FAZ_0103 780871 781964 你 要
+UI12FAZ_0103 782586 790495 你 要 很 hard 咯 只是 我 觉得 这 分工 hor 未必 你 你 work hard 你 就可以 得到 你 也要 smart loh
+UI12FAZ_0103 790495 793076 我 觉得 有 一些 skill ah
+UI12FAZ_0103 793076 803413 有 一些 你 不会 的 那些 那些 好像 s. m. t. 啊 是 s. m. t. 的 process 啊 你 不会 就是 不会 你 要 去 learn up 慢慢 take time loh
+UI12FAZ_0103 805553 807609 mmm 但是
+UI12FAZ_0103 807609 812520 mentor mentee leh 他 就是 跟 你 一起 去 meeting loh then 你 自己 learn up loh
+UI12FAZ_0103 812520 817322 了 他 forward email 给 你 咯 他 没有 像 我们 p. p. c. f. loh
+UI12FAZ_0103 817322 821722 真的 比较 spoon feed 然后 去 customer 那边 啊 没有 咯 no such thing
+UI12FAZ_0103 821722 828232 因为 我 进去 的 时候 是 crisis mode 嘛 了 全部 都 很 都 很 乱 啊 他的 东西 都 很 乱
+UI12FAZ_0103 828232 836083 了 我的 老板 也没有 好像 很 formal 的 sit down 跟 我 去 one by one 去 go through 没有 咯
+UI12FAZ_0103 839349 841349 所以 现在 har
+UI12FAZ_0103 841349 846836 我 过去 我 从 八月 就 过去了
+UI12FAZ_0103 846836 848675 四 五个 月 了
+UI12FAZ_0103 848675 853123 只是 还是 一头 很 乱 一头 雾 水
+UI12FAZ_0103 853123 859247 以前 p. c. s. 我们 就 agak-agak 知道 嘛 慢慢 learn up ma at least 你 知道 那个 flow 怎样 走 嘛
+UI12FAZ_0103 859247 872119 了 这个 是 他 没有 每 一天 是 跟你讲 说 可能 我们 p. c. s. 好像 我们 order management 啊 一来 到 office 啊 对 ship ah 出 shipment 然后 啊
+UI12FAZ_0103 872119 878883 ah raise invoice release invoice 然后 过后 下午 进 order 什么 book order 没有 这样的
+UI12FAZ_0103 878883 881101 你 要 自己 去 manage 的 咯
+UI12FAZ_0103 881101 883103 因为 我们的 meeting 很多
+UI12FAZ_0103 883103 891057 我们 要 deal 跟 division 啊 要 deal 跟 production 啊 要 deal 跟 outsider 好像 那些 啊 jabil side lah
+UI12FAZ_0103 891057 894173 然后 要 deal 跟 我们 自己 internal team leh
+UI12FAZ_0103 895927 898471 很 challenging
+UI12FAZ_0103 898471 903770 mmm that's why 我 之前 我 就是 不能不 能 适应 你 知道 吗
+UI12FAZ_0103 903770 910202 了 我的 老板 讲 他 也 understand 啦 可能 p. c. f. 他 就是 跟着 a. to z. 那些 procedure 去 走 咯
+UI12FAZ_0103 910202 916552 比如 你们 credit with bill 啊 这样的 process 要 拿 这个 什么 什么 这样 咯 那边 没有 的
+UI12FAZ_0103 916552 919845 你 就是 要 自己 去 explore 了 咯
+UI12FAZ_0103 922254 924723 错 了 嘛 知道 发生 什么 事 了 咯
+UI12FAZ_0103 927158 930614 错 就是 很 ha 最 迟 了 咯 没 办法 咯
+UI12FAZ_0103 930614 939818 就是 你 要 你 要 真的 是要 错 了 你 才 知道 它 严重性 啊 你 才 知道 咯 然后 你 就要 写 c. a. loh corrective action
+UI12FAZ_0103 941003 943438 啊 我 colleague lah hor
+UI12FAZ_0103 943438 949170 别的 team 的 啦 他 就是 好像 有 一些 miss up 掉 里面 miss up 掉 啊
+UI12FAZ_0103 949170 956448 他 他 严重性 可以 去 到 很 high 的 level 啊 去 到 level 去 叫 你 做 一些 东西
+UI12FAZ_0103 957940 963432 因为 之前 的 我们 都 只是 自己 活 在 自己的 世界 自己的 那个 team 里面 嘛
+UI12FAZ_0103 963432 972829 我们 没有 好像 more to 好像 我们的 tier 台湾 没有 这样 没有 这样 more to production 啊 那些 东西 division 的 东西 比较 少
+UI12FAZ_0103 972829 981354 现在 比较 知道 那些 skill 以前 是 追 工厂 现在 是 别人 来 追 你 咯 了 你 自己 要 去 expedite 那些 part 进来 咯
+UI12FAZ_0103 981354 986838 了 很 messy 咯 可能 我的 memory 没有 这样 好 啊 了 它 有 很多 part number 你 要 去
+UI12FAZ_0103 986838 993180 你 真的 是要 去 memorize 一个 一个 一个 了 它的 part number 又 差不多 一样 的 你 知道 吗
+UI12FAZ_0103 993180 1000594 然后 e. ah 可能 是 n. one one nine nine six six three o. three three six three o. three o.
+UI12FAZ_0103 1000594 1007603 这样的 东西 很 接近 你 一 讲 错 罢了 可能 supplier 讲 噢 i don't have this part number ah sorry ah
+UI12FAZ_0103 1007603 1012427 and then ah not belong to me the parts is not belong to me 了 你 就 惨 了
+UI12FAZ_0103 1014971 1022911 你 要 做 久 了 你 要 memorize 咯 你 要 知道 好像 这个 这个 this week 有 多少 个 shipment 会 进来
+UI12FAZ_0103 1022911 1031745 什么 什么 人家 一 问 你 ah hor 人家 没有 看 你 自己 就 你 做 这个 position 你 就要 expect 你 可以 拿起 这个
+UI12FAZ_0103 1032966 1041977 他 讲 可能 你 来 一个 星期一 个 月 哦 肯 consider 你 fresh but after that should be know the whole process loh
+UI12FAZ_0103 1041977 1045026 should be able to handle all
+UI12FAZ_0103 1045026 1048509 人家 的 expectation 很 高 咯 对 你
+UI12FAZ_0103 1050402 1057613 嗯 是 咯 全部 人 都 很 忙 了 而且 有些 人 又 讲 你 自己 去 explore 你 就 懂
+UI12FAZ_0103 1062090 1064337 所以 就 看 咯 看 几时 中 咯
+UI12FAZ_0103 1068882 1076608 有时候 好像 做到 hor 自己 也是 还 会 很 很 怕 那种 精神 恍惚 啊 然后 啊
+UI12FAZ_0103 1076608 1081310 又 好像 一直 忘记 这个 忘记 那个 啊 会 很 stress 咯 有时候
+UI12FAZ_0103 1085196 1090432 唔 那个 是 consider building eight 啊
+UI12FAZ_0103 1090432 1098117 那个 sunshine ah sunshine market 过后 你 不是 要 去 front door 的 那一 条 是 building eight 嘛 是 吗 e. 是 吗 consider
+UI12FAZ_0103 1098117 1104898 ha e. loh a. b. c. d. e. f. g. 还是 h. 第八 个 building
+UI12FAZ_0103 1104898 1107316 ha building eight loh
+UI12FAZ_0103 1107316 1112831 它 我们 也是 可以 坐 那个 lift 的 有一个 lift 的 嘛 我们 可以 坐 上去 第一 楼
+UI12FAZ_0103 1114513 1123214 ha 第一 楼 然后 你 上去 之前 上去 就是 有一个 很大 的 它 好像 很大 的 东西 呀 包 着 它们的
+UI12FAZ_0103 1123214 1130636 那个 就是 啊 tom team 咯 就是 你们 每次 deal 的 那些 julie loh ah julie loh ah 那些 人 咯 住 在 那边
+UI12FAZ_0103 1130636 1136632 了 我的 是 我是 比较 靠近 d. i. d. 的 那边 了 我的 那边 是 c. m. operation
+UI12FAZ_0103 1140913 1143620 啊 没有 它 没有 open 的
+UI12FAZ_0103 1145349 1150319 tom team 就 more to p. c. s. but tom team 他的 那个
+UI12FAZ_0103 1153802 1158637 那些 sunny sunny loh 啊 那些 在 那边 咯
+UI12FAZ_0103 1168332 1172963 平 的 他 没有 像 啊 p. c. s. 比较 高 的 没有
+UI12FAZ_0103 1172963 1181141 了 而且 hor 他的 我们的 manager 的 位 是 cubicle 然后 manager 在 后面 的 嘛
+UI12FAZ_0103 1181141 1184586 他们 没有 的 他们 就是 比较 摆 出 你 可以 看到 的
+UI12FAZ_0103 1184586 1187197 然后 整 排 都是 manager 来 的
+UI12FAZ_0103 1190295 1194245 他 要 很 senior 他 才有 自己的 那种 cubicle 的 咯
+UI12FAZ_0103 1194245 1198932 他们 要 up to joe 的 level 哦 他们 才 会 有 那个 cubicle 大大 个 的 那种
+UI12FAZ_0103 1198932 1200650 好像 那个
+UI12FAZ_0103 1201127 1206628 我们 有一个 p. c. s. 那个 叫 什么 名 了 啊 啊 ken ken 这样的 cubicle

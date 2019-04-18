@@ -21,7 +21,7 @@ def non_empty_paths(paths):
         if curr_mfcc.shape[0] > 0:
             new_paths.append(path)
         if (i+1) % 500 == 0:
-            print('removed %d files' % (i+1))
+            print('checked %d files' % (i+1))
     return new_paths
 
 TRAIN_PATHS_FILE = 'train_paths.txt'

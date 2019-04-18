@@ -1,0 +1,240 @@
+UI24MAZ_0102 969 2873 so far 你有看 intel 他们有打进
+UI24MAZ_0102 3287 6273 smart phone device 的市场嘛他打不进嘛
+UI24MAZ_0102 9117 13243 啊没有 arm process 是 a. arr 用他们自己的 processor 的
+UI24MAZ_0102 13577 17387 叫 arm process so that's why 你有看到 a for a eight cortex
+UI24MAZ_0102 17651 20596 这样 apple 用的 i. phone 全部是用 a. four
+UI24MAZ_0102 22181 25270 那个是 arm processor a. r. m. 一间公司叫 arm
+UI24MAZ_0102 25938 26816 arm processor
+UI24MAZ_0102 27448 28888 that's why 他们是专
+UI24MAZ_0102 28888 32974 then 你有听到那个啊 core dual mah 全部东西全部是
+UI24MAZ_0102 33488 35490 arm processor design 出来到完的
+UI24MAZ_0102 40161 43729 atom 的 o. k. atom 的 size 还是 still 很大
+UI24MAZ_0102 43729 45373 他应该可以放进 netbook
+UI24MAZ_0102 45373 47184 but 你放进 small 那个
+UI24MAZ_0102 47184 48975 smart phone 里面是放不到
+UI24MAZ_0102 49782 52452 then 现在 o. k. o. k. 你一个比喻
+UI24MAZ_0102 52452 55537 就是你现在你用一个 atom 还是这么大粒
+UI24MAZ_0102 55823 59761 then 我用的那个 arm processor a. four 这么小粒罢了
+UI24MAZ_0102 60187 63559 then 这个他用的 power consumption 比较少
+UI24MAZ_0102 63559 66403 你的这个还是要用 power consumption 比较大
+UI24MAZ_0102 66403 74727 假如我用这个的 processor 放进打进 server 市场里面的话你觉得谁会比较占优势 ler
+UI24MAZ_0102 76202 79152 intel 比较占优势或者是 arm processor 占比较优势 ler
+UI24MAZ_0102 80745 82310 打进 server 市场里面
+UI24MAZ_0102 87172 89806 o. k. 在这个他的卖点在这边就是
+UI24MAZ_0102 89806 94018 他不需要用到这么大这么多的 elec 那个 electricity
+UI24MAZ_0102 98165 101539 o. k. 他他用这个 but 他有 dual core technology hor
+UI24MAZ_0102 102262 104579 intel 每次讲他有 dual core 有 sixteen core
+UI24MAZ_0102 104579 108293 since 他可以做到两个 core 他可以做到 sixteen core 也不是一个问题嘛
+UI24MAZ_0102 108855 111163 then 第二个它的面积比人家小
+UI24MAZ_0102 111163 113203 so 你就可以 help 你 to
+UI24MAZ_0102 113203 115235 reduce 那个 data center 的 space 了
+UI24MAZ_0102 115691 116614 so from 这边
+UI24MAZ_0102 117092 118599 intel 蛮怕
+UI24MAZ_0102 119825 124718 那个 arm 打进来 so that's why intel recently 就出一个 moorestown processor for
+UI24MAZ_0102 124718 126788 smart phone 的 but so far
+UI24MAZ_0102 126788 129581 没有一个 manufacturer 打算跟他合作
+UI24MAZ_0102 130162 130968 这是
+UI24MAZ_0102 131947 134575 这就不清楚哦这是看他们自己哦
+UI24MAZ_0102 134575 136397 就讲他有出这个产品
+UI24MAZ_0102 136397 138920 你的问题是你要有 h. p. la
+UI24MAZ_0102 139270 142109 那一些 samsung la vendor arr
+UI24MAZ_0102 142109 145785 跟你拿你的 processor 放进去他们的 product 里面
+UI24MAZ_0102 145785 147037 这个才算成功嘛
+UI24MAZ_0102 147680 149432 so so far 都没有人跟他拿
+UI24MAZ_0102 150868 156215 最主要人家一想到 small devices 的话 smart phone 那些的话他们就 go for arm processor
+UI24MAZ_0102 160012 165075 没有 apple totally 没有用到 apple apple for 那个 i. phone i. pad
+UI24MAZ_0102 165075 168551 全部是用 arm processor 他没有用到 intel 的 product
+UI24MAZ_0102 171610 176948 i mean 我是讲说for small devices la i. phone i. pad i. i. pod
+UI24MAZ_0102 176948 181382 全部没有用到 except for computer net 啊那个
+UI24MAZ_0102 181698 185123 啊那个 notebook 跟那个 desktop
+UI24MAZ_0102 185552 190177 跟那个 mac pro 的话他们才用到 intel 罢了 small devices 他们
+UI24MAZ_0102 190177 192840 intel 打不进去 small devices 里面
+UI24MAZ_0102 200196 202894 我觉得因为在美国的那个 trade
+UI24MAZ_0102 202894 206994 啊在美国里面他们不会单单给一个公司 monopoly mah
+UI24MAZ_0102 207520 211170 although a. m. d. 要倒也是有政府 backup 他们嘛因为
+UI24MAZ_0102 211374 216922 他们要有讲说至少要有两个 competitor 以上嘛他不会给你 monopolize 这样就对了嘛
+UI24MAZ_0102 217330 218339 so 我觉得
+UI24MAZ_0102 219221 223180 a. m. d. 不会死掉啦 for personal view ma
+UI24MAZ_0102 235210 240668 啊这个我就不清楚因为在美国他们他们的他们的 law 是不 allow
+UI24MAZ_0102 241270 243127 一个公司 monopoly 到完的
+UI24MAZ_0102 244284 246145 至少要有两个以上
+UI24MAZ_0102 251852 252833 啊啊啊
+UI24MAZ_0102 254620 259617 a. m. d. a. m. d. 起来就是在二零零六年跟二零零七年
+UI24MAZ_0102 260120 262845 那时 intel 的product 是一个 fail product
+UI24MAZ_0102 262845 265553 even 比 a. m. d. processor 更烂
+UI24MAZ_0102 266006 270137 啊更热 then 速度又不会比人家快
+UI24MAZ_0102 270736 274661 so 那时 intel 中蛮大的打击啦
+UI24MAZ_0102 274661 276285 so since 那个
+UI24MAZ_0102 276285 281503 二零零七年过后他们啊你有听过叫 pentium d. ma
+UI24MAZ_0102 281503 285335 没有 hypertrading h. t. pentium four h. t.
+UI24MAZ_0102 285988 288651 那时就是他们最差的 product la
+UI24MAZ_0102 289352 291419 最那个 fail 的 product 啊
+UI24MAZ_0102 291419 292730 delay 又 delay
+UI24MAZ_0102 292730 296007 then 出出来又那个quality 又不好
+UI24MAZ_0102 296007 297464 so that's why 你看
+UI24MAZ_0102 298095 303253 h. h. t. 的话那时他的寿命他的 lifespan 很短罢了
+UI24MAZ_0102 303736 306008 after that 他直接就出一个 dual core 了
+UI24MAZ_0102 306008 309113 那时 dual core 的时候 intel 就 pick up 上来了咯
+UI24MAZ_0102 309553 317957 but a. m. d. 要怎样死不能死因为现在 intel 用的 dual core processor 里面的一些的 architecture i. p. 是 from a. m. d. 的
+UI24MAZ_0102 319157 322556 so 每一年他们都会有 pay a. m. d. 一些钱
+UI24MAZ_0102 324132 327253 之前 single core 的话就是 a. m. d. 要 pay intel 钱
+UI24MAZ_0102 327253 331198 then 现在 dual core 的话是他们用到 a. m. d. 的 i. p.
+UI24MAZ_0102 331599 334297 so that's why 他们 pay a. m. d. 钱
+UI24MAZ_0102 335664 340079 arr so 我是觉得怎样子他们也是不会死到哪里因为他们有
+UI24MAZ_0102 340744 342741 得那个 i. p. 的钱那些东西
+UI24MAZ_0102 347470 351920 我 master 时侯我是做 rendering 那个 for 那个 shadow of puppet play 的
+UI24MAZ_0102 351920 353567 那个 wayang kulit 的
+UI24MAZ_0102 354443 358507 啊我也是 under doctor zawawi 做这个东西
+UI24MAZ_0102 359734 367538 那个我们用的就是 rendering 就是比较慢啦我们用另外一个 method 就是叫参 gaming 的那个 style 的
+UI24MAZ_0102 367538 372354 就是用啊那个 blending 跟 textual mapping
+UI24MAZ_0102 373425 378295 so 你要怎样你可能你 move 因为现在的 wayang kulit 他们要 move 去 left hand side 的话
+UI24MAZ_0102 378295 380702 一 move 你还要等几个 second
+UI24MAZ_0102 381449 384916 他才能出那个 production 他才能做那个 animation
+UI24MAZ_0102 384916 389508 but with blending 跟 textual mapping 的话你不需要等
+UI24MAZ_0102 389508 391610 not 没有 delay 到在那一边
+UI24MAZ_0102 391610 394209 so 你直接 move 它可以直接 move 了
+UI24MAZ_0102 394693 400242 so far 他们用那个 monte carlo la photo mapping la 全部还是有 delay 两三秒
+UI24MAZ_0102 400895 402760 then 这个是 totally 没有 delay 到完
+UI24MAZ_0102 403173 405135 他不是用 rendering technique la
+UI24MAZ_0102 405135 408522 是他的 effect exactly same like rendering
+UI24MAZ_0102 420165 422136 哦那个是 master 的时候哦
+UI24MAZ_0102 422618 425141 那个我我的 master 已经完了啦
+UI24MAZ_0102 425141 428750 then 因为哦 o. k. wayang kulit
+UI24MAZ_0102 428750 436045 为什么那时我没有做 wayang kulit 就是因为我们要 preserve 我们 malaysia 的 one of 的那个 traditional culcure ma
+UI24MAZ_0102 436045 445978 so 你每次我们要把一个 product digitalize 的时候你是不是我们的 output 是不是要跟之前 traditional 东西时一模一样 ler
+UI24MAZ_0102 446363 451717 假如你防把那个 wayang kulit 放进 three d. 的话那个就不是叫啊那个
+UI24MAZ_0102 456246 457016 对对对
+UI24MAZ_0102 460554 465880 hmm 他们的那个 objective 就是要 preserve 那个 wayang kulit
+UI24MAZ_0102 465880 470198 then arr 现在有一个 p. h. d. student 也是在做着 wayang kulit
+UI24MAZ_0102 470198 476960 就是他用 rather than 你用 keyboard control 现在是给你你在外面假如你在美国
+UI24MAZ_0102 476960 479588 你也是可以玩的到 wayang kulit 怎样玩 ni
+UI24MAZ_0102 479588 482194 他就用那个 nintendo wii 的那种的
+UI24MAZ_0102 482847 484073 啊那个 controller
+UI24MAZ_0102 484774 488790 那种你用 controller 你 move left 那个东西会跟着 left 那种
+UI24MAZ_0102 489171 493235 就是给人家 feel 一下什么是叫 wayang kulit 那种
+UI24MAZ_0102 498561 506271 hmm 啊因为他的 objective 是 preserve 那个 cul 那个我们 malaysia 的 culture 那一种咯
+UI24MAZ_0102 515063 518426 哦那个 p. s. la 哦现现在他们没有玩
+UI24MAZ_0102 519162 527467 我知道因为现在他们没有用现在哪个啊 microsoft x. box 三六零你有听过吗三六零 console 嘛
+UI24MAZ_0102 527885 532880 他们 microsoft 有一个叫一个 project 叫 norby arr norby project
+UI24MAZ_0102 532880 537268 这是 exactly 他 copy nitendo wii 的 style 那一种的
+UI24MAZ_0102 537268 542882 but 他比 nitendo wii 更 smart 跟 intelligent and without any device on your hand
+UI24MAZ_0102 544353 546262 啊 i think 你有在 youtube 是吗
+UI24MAZ_0102 548785 550769 对他就是 find 一个sensor 罢了
+UI24MAZ_0102 551518 556564 他一看到你走过来他那个人会跟会跟着你你可以去 youtube 找看啦
+UI24MAZ_0102 556564 560383 他就是单单全部是你不需要 device 了
+UI24MAZ_0102 560872 562637 只是他放一个 sensor 在那边
+UI24MAZ_0102 563079 569157 then 你一这样 move 他就会 move 过去别别个 style 那种 then 更 interactive 他讲
+UI24MAZ_0102 570052 574690 因为他讲 o. k. 现在 wii 还是你要用到 hardware mah 我们不需要用到 hardware 了
+UI24MAZ_0102 577020 582653 but supposing 他们讲应该是在二零一二二零一三会出来啦
+UI24MAZ_0102 585362 589779 哦啊对啊啊在外国已经出了嘛只是在 malaysia 今年年尾会出嘛
+UI24MAZ_0102 591985 594227 啊黏黏的东西的那个一个 ball
+UI24MAZ_0102 596154 600674 没有它不是 simulate 它就是跟 nintendo wii 的那种的东西一样
+UI24MAZ_0102 613917 620167 o. k. 他的意思是你拿着一支东西在那个 computer 那个 game 里面啦是用一把刀的话啦
+UI24MAZ_0102 621171 626426 啊它是一把刀 then 它是用啊那个 tri 他们有一个 term tri
+UI24MAZ_0102 629440 631367 就是用那个 x. y. z. 的
+UI24MAZ_0102 631367 634853 那个 nintendo wii 只是用 pak 那个 x. 跟 y. 罢了
+UI24MAZ_0102 635323 639540 啊它用 x. y. z. so that's why 他讲他的比较 accurate
+UI24MAZ_0102 640053 645396 arr so that's why 你怎样 move 的话你他的是比较 accurate 它是用三个 paksi 嘛
+UI24MAZ_0102 649127 649827 啊
+UI24MAZ_0102 652315 654873 that that's why that's why 它因为它用 x. y. z. ma
+UI24MAZ_0102 654873 657096 之前人家只是用 x. 跟 y. 罢了嘛
+UI24MAZ_0102 657096 660688 它 make it to three dimensional ma x. y. z. 在那边
+UI24MAZ_0102 661530 668202 then 那个应该是他他他卖 then 他也是有出他的 special game arr
+UI24MAZ_0102 668398 674334 for then nintendo wii 有 nintendo wii sport then 他也是有他那种 gaming 那个 sport 的 game arr
+UI24MAZ_0102 679959 685776 单单那个 device 全部应该是一我上次有读到一个一八九一个是一九多总共
+UI24MAZ_0102 686546 692321 你他有一个 bundle one box set arr 就是 include 那个 c. d. 给你应该是没有超过五百啦
+UI24MAZ_0102 693344 699746 啊就是你买 p. s. three 了 hor then 他那个是一种另外一种 hardware 可以插进去玩哪一种咯
+UI24MAZ_0102 705045 713315 o. k. for 他我可以分一个是叫 interactive la for interactive i. arr definitely 还是 nintendo wii
+UI24MAZ_0102 713315 717169 就是 nintendo 啊 nintendo 会做的比较好
+UI24MAZ_0102 717624 723019 在里面因为 so far 你玩 game 哪你有好像你玩那个 nintendo wii sport 玩 boxing 的
+UI24MAZ_0102 723019 726997 你那你有现在这样 nintendo wii 这麽 interactive
+UI24MAZ_0102 727343 732144 你要你要用两只这样打这样打 then 你好要 hide 那一种东西
+UI24MAZ_0102 732144 735052 so far 只有 nintendo wii nintendo wii 能做到罢了嘛
+UI24MAZ_0102 735613 738601 then 你 for 那个讲说 for game display
+UI24MAZ_0102 738836 742165 就是讲说他的 in term of quality
+UI24MAZ_0102 742480 745858 看了那个 rendering 我觉得 p. 那个 p. s. three 弄得很好
+UI24MAZ_0102 746843 749436 因为他用的是 blu ray 那个 blu ray
+UI24MAZ_0102 749822 752841 dual layer 可以 contain stuff up to fifty gig
+UI24MAZ_0102 752841 759248 then 那块 d. v. d. 你最多嘛是去到 dual layer 嘛给你才是 eight point four gigabyte 罢了
+UI24MAZ_0102 759248 759948
+UI24MAZ_0102 759948 763557 so in term of 你讲 quality rendering 那些啦
+UI24MAZ_0102 764083 767271 我选 hor p. s. lah sony lah 会做的比较好
+UI24MAZ_0102 767865 771825 but sony 会 fail 是 because that 他的价钱硬
+UI24MAZ_0102 774943 777887 啊它没有 pirate so 价钱价钱很硬
+UI24MAZ_0102 778097 781215 在外国 then 它头头出的时候它也是蛮贵
+UI24MAZ_0102 781215 787452 then 那时你你要玩 p. s. three 你要看到他的 effect first 你要换过你的 t. v.
+UI24MAZ_0102 787732 790785 你要换去 high def 的 high definition 电视机
+UI24MAZ_0102 790785 796450 假如你只是用普通的话你就看不到跟 d. v. d. quality 有什么不一样
+UI24MAZ_0102 797857 801108 so 它最它最大的问题在这边啦
+UI24MAZ_0102 806687 812630 so far 你看那个我嗯那个 p. s. la p. s. three 最出名的就是
+UI24MAZ_0102 813054 814665 啊那个 g. t. i. lo
+UI24MAZ_0102 815051 816768 一定要玩的啦他们讲
+UI24MAZ_0102 816768 819080 then rak 还有一个是
+UI24MAZ_0102 820973 824242 啊没有跑车的啊 gran turismo
+UI24MAZ_0102 824932 827237 then 还有一个就是那个
+UI24MAZ_0102 827560 830960 god of titan 不知道 god god of war
+UI24MAZ_0102 832010 836577 then 还有一个就是那个叫嗯那个 devil may cry four
+UI24MAZ_0102 836577 839962 啊这几个是他们讲 special make 还有一个是 metal slug
+UI24MAZ_0102 840312 842910 metal gear sorry metal gear 是 meta slug 忘记去了
+UI24MAZ_0102 842910 847733 这几个是他们讲说是他们 play station three 最主要
+UI24MAZ_0102 848476 850673 打进去的市场是这几个 game lor
+UI24MAZ_0102 851490 855453 他们弄得你觉得会看起来很想真的哪一种啦
+UI24MAZ_0102 856711 858853 它quality 你看起来很好哪一种
+UI24MAZ_0102 869848 878468 o o. k. 因为现在我看 starcraft two 也是弄得蛮不错嘛现在新出的 game 那种啦 starcraft two la
+UI24MAZ_0102 883547 885064 age of empires arr
+UI24MAZ_0102 894164 894970 啊啊啊
+UI24MAZ_0102 897703 899791 哦哦也是骑东西
+UI24MAZ_0102 902538 903307 啊啊啊
+UI24MAZ_0102 906147 906918 啊啊啊
+UI24MAZ_0102 911156 911787 啊啊
+UI24MAZ_0102 917393 918551 啊啊啊啊
+UI24MAZ_0102 921212 923853 就是你要 online 打的就是嘛
+UI24MAZ_0102 927204 928255 哦
+UI24MAZ_0102 932977 933923 啊对
+UI24MAZ_0102 937217 938128 对对对对
+UI24MAZ_0102 943944 946467 哦我觉得 so far 你要玩这个 game
+UI24MAZ_0102 946467 949554 可以介绍你一个 game la age of empire three 不错啦
+UI24MAZ_0102 950006 953652 你要起一些东西的 game 你可以起你的兵去 attact 人
+UI24MAZ_0102 953930 957082 then 蛮不错啦我觉得他的做
+UI24MAZ_0102 957713 961077 我为什么会想做 graphic rendering 那些东西就是
+UI24MAZ_0102 962058 965036 很多 gaming 他们也是做virtual reality 到完啦
+UI24MAZ_0102 965421 970817 then 我觉得 by using 这样的 technology 应该是应该是可以放进去
+UI24MAZ_0102 971203 975968 那个什么你看现在 i. pad i. phone 也是有他也是有做多game 进去里面
+UI24MAZ_0102 977264 982991 arr so that's why 我是讲说可能不知道能不能用那个 game 的那个 engine arr
+UI24MAZ_0102 983780 985882 会不会 rendering 的出来那种 ler
+UI24MAZ_0102 987669 991769 是用那个 game 的 engine 的哪一种而不是另外一种
+UI24MAZ_0102 991769 996079 我们用那个 game 的一路以来是 game mah 我们拿他们的 engine 跟他们的 library
+UI24MAZ_0102 996604 999513 then 拿来做 reconstruct 那个 heritage
+UI24MAZ_0102 1002911 1007448 啊这就是要要做那个research 的 component 的位是在这边咯
+UI24MAZ_0102 1012545 1013351 啊啊
+UI24MAZ_0102 1019939 1028278 对对对可以这样讲 exactly 你看啊那个 wii 的话他的 color 那个 他的 corrector 很 simple 到完的
+UI24MAZ_0102 1029010 1035065 啊有最主要是红色什么你看很 simple 那种最主要是它是够 interactive
+UI24MAZ_0102 1043271 1045092 啊对对对对对
+UI24MAZ_0102 1052274 1053221 啊啊啊
+UI24MAZ_0102 1055463 1057355 对对对对对对对对啦
+UI24MAZ_0102 1059808 1065521 啊对对那个啊 nintendo wii 是比较 simple 啦就是比较适合小孩哪一种咯
+UI24MAZ_0102 1065521 1069761 maybe arr 你讲二三十岁的话四十多岁二十多岁那种
+UI24MAZ_0102 1069761 1072739 maybe 他们会比较 prefer on p. s. three la
+UI24MAZ_0102 1073054 1075717 but 女生我觉得她们会喜欢 nintendo wii la
+UI24MAZ_0102 1076346 1077503 够 interactive
+UI24MAZ_0102 1080201 1085900 因为啊因为我有 try 过它那个 nintendo wii 那个 yoga 的
+UI24MAZ_0102 1086910 1087891 har 它
+UI24MAZ_0102 1088837 1094723 啊它就是你也是买 nintendo wii hardware ma then 你买另外一个板应该是三四百块
+UI24MAZ_0102 1094723 1100575 then 它可以教你做 yoga 在里面就是我觉得 nintendo 它比较 stress on 那个 sport la
+UI24MAZ_0102 1101661 1110491 它比较它比较 stress on sport then p. s. arr play station 就是没有这么 stress on sport 那一种
+UI24MAZ_0102 1111050 1117006 他们就是 really for gaming 你看到 virtual reality 你一买他的 game 你觉得哦 o. k. 是值得的不是
+UI24MAZ_0102 1117006 1122168 啊你不能不能在 xbox arr 或是在 nintendo wii 在里面找到啊
+UI24MAZ_0102 1122168 1125556 是他们 custom made 另外一种的 game 出来玩
+UI24MAZ_0102 1131442 1132914 对对对对对
+UI24MAZ_0102 1137503 1145106 啊 i think 是 o. k. for 今年的话今年年头你可以看到 nintendo wii 的他的 sales 有 drop 了
+UI24MAZ_0102 1145526 1153235 不会像当年的那种的这么多就是因为我们知道我们 customer 是 various customer ma
+UI24MAZ_0102 1153235 1157894 有些人比较喜欢simple 的 but not necessary 你喜欢simple 我就喜欢 simple ma
+UI24MAZ_0102 1157894 1160732 so 每个人攻打的市场不一样咯
+UI24MAZ_0102 1163114 1168300 啊 then nintendo wii 它真的一出来的时候会给人家一个 stunt 啦就是 wah
+UI24MAZ_0102 1168300 1170788 就像头头那个 apple 出 i. phone 这样
+UI24MAZ_0102 1171454 1174619 so 他的 novelty 在这边啦 so far 哪里有
+UI24MAZ_0102 1175098 1179202 那里有一个那个 game 的公司可以做到这样的东西
+UI24MAZ_0102 1179618 1184299 so far 只有他罢了嘛 then 你有不需要讲说要买到十多千二十多千
+UI24MAZ_0102 1185069 1187116 你就可以玩这样这么 interactive 了
+UI24MAZ_0102 1187522 1194872 只是那时候我朋我朋友买两粒排队买在加拿大的时候他买两粒啦排队买买了 then
+UI24MAZ_0102 1194872 1201173 他的两粒是 free 的看他用他自己一粒玩 then 还有一粒他卖出去他卖

@@ -1,0 +1,159 @@
+UI20MAZ_0101 6017 9862 啊现在我是拿一些 courselah
+UI20MAZ_0101 9862 12364 啊是 s. a. p. 的读
+UI20MAZ_0101 12364 16691 它是 e. r. p. lah 就是 enterprise 和 resourcing 的东西
+UI20MAZ_0101 18791 20604 ah u. k. m.
+UI20MAZ_0101 20604 27638 u. ah u. universiti kebangsaan malaysia loh 那个我是读 i. t. 的
+UI20MAZ_0101 27638 33288 它是我是 major 在那个 information science ah
+UI20MAZ_0101 40721 47505 我是读在first year 是啊 读那些好像java ah
+UI20MAZ_0101 47505 49887 我比较 programming 的东西啦
+UI20MAZ_0101 49887 54463 过后 second year 是比较 more on to database 的东西咯
+UI20MAZ_0101 54463 62720 然后 third year 的时候是比较 more on to 那个啊 website 和 programming 啊
+UI20MAZ_0101 69957 75736 i. t. ah i. t. 好像是有六个 jabatan
+UI20MAZ_0101 75736 77944 六个 department 这样
+UI20MAZ_0101 77944 81062 然后我是其中一个咯
+UI20MAZ_0101 81062 88299 然后我的我的那一个 group 会比较少啦那个 department 会比较少人
+UI20MAZ_0101 89856 93749 最多应该是 computer science loh
+UI20MAZ_0101 98280 103481 computer science 它会学比较多那些 programming ah
+UI20MAZ_0101 103481 110942 programming 那些东西然后我的就比较比较散啊比较杂一点
+UI20MAZ_0101 113831 115851 common 的 subject ah
+UI20MAZ_0101 116454 125041 common 的 subject 大多数都是那些好像最后一年学的是那个叫什么啊 keusahawanan ah
+UI20MAZ_0101 125041 127183 那些 enterprise 的东西
+UI20MAZ_0101 127183 134796 然后过后是 first year 和 second year 是学那些 etika ah 的东西咯
+UI20MAZ_0101 142233 150748 其实其实六个 sub 其实八个选择里面全部都不是不是想想要得
+UI20MAZ_0101 150748 159471 因为我是之前是比较倾向那一种学 bio 学那一些有一点 biology 的东西的
+UI20MAZ_0101 159471 171527 只是说到最后因为看到自己的那个 c. g. p. a 不大不大能够申请比较好的课系就随便放然后进到就好
+UI20MAZ_0101 180034 188140 我放了我也是有放那些 education 的就是啊老做老师的咯
+UI20MAZ_0101 188140 192499 然后 i. t. 也是蛮多一下
+UI20MAZ_0101 192499 197097 然后就是就是 i. t. 比较多咯
+UI20MAZ_0101 197097 201958 本来我的朋友有几我也是要选multimedia 的
+UI20MAZ_0101 201958 209746 然后到但是我的朋友说如果出来的话 graphic 的东西比较难找工作薪水会比较底咯
+UI20MAZ_0101 209746 211736 然后旧没有选了
+UI20MAZ_0101 218922 221537 也不算是我的 choice 来
+UI20MAZ_0101 226486 229552 就就去混混然后出来这样
+UI20MAZ_0101 232668 240005 觉得啊其实 i. t. 如果是读出来是是当着是自己的知识这样咯
+UI20MAZ_0101 240005 243952 不会说是说是很有兴趣啦
+UI20MAZ_0101 243952 245839 只是学罢了咯
+UI20MAZ_0101 252922 264550 啊是有找的过后是因为我找的那个那些工作的时候它大多数他们都是要有experience 的啦大概一两年这样
+UI20MAZ_0101 264550 271080 然后我又不是说做 i. t. 这样旧嘛是刚出来罢了嘛
+UI20MAZ_0101 271080 279316 然后他们都不大他们都在考虑咯考虑到现在都没有接到电话然后就
+UI20MAZ_0101 279316 286450 刚好我的朋友那个brian ah 他又介绍我这个 course 然后就去读看咯
+UI20MAZ_0101 289935 295791 so far 它的 course ah err 它的那个 application 很多
+UI20MAZ_0101 296821 301072 它的menu 可以多到你要 scroll 不知道到几次才能够
+UI20MAZ_0101 301072 307341 然后就有一点难啦因为因为它太多的 function了啊
+UI20MAZ_0101 307341 314846 然后你有时老师讲课太快的话 lecturer 讲太快的话有时真的是跟不上咯
+UI20MAZ_0101 319600 322634 class related ah
+UI20MAZ_0101 322634 326962 它是比较倾向 business 的东西啊
+UI20MAZ_0101 326962 338716 啊我们会学一些好像它里面的那些 logistic ah 然后怎样去怎样去啊 order 它的 material ah
+UI20MAZ_0101 338716 347128 或者是啊好像 raw material 之类的东西咯 production 的东西咯
+UI20MAZ_0101 347128 358196 然后过后会学一些好像 programming 的东西咯怎样去操作它的那些啊它的 software ah
+UI20MAZ_0101 359939 362698 ah s. a. p. e. r. p.
+UI20MAZ_0101 366693 369783 mmm 没有读过
+UI20MAZ_0101 379329 382072 缺少啊
+UI20MAZ_0101 382072 390898 其实我觉得如果是 first year lah first year 如果是学一些好像基本的 i. t. 的 knowledge 就可以了
+UI20MAZ_0101 390898 401219 然后 second year 应该觉得那些比较 umum 的东西啊比较 general 的东西就不用了的
+UI20MAZ_0101 401219 405022 但是第二年又学喔就
+UI20MAZ_0101 405022 414706 就变成说他那些比较重要的好像我们比较学比较其实 third year 很多那些 web programming ah 就学到很少
+UI20MAZ_0101 414706 420620 它应该如果是放在 second year 的话会学比较多咯
+UI20MAZ_0101 420620 430745 third year ah third year 因为我有 l. i. 所以已经用了半年去了
+UI20MAZ_0101 430745 437884 然后过后一年就是过后一半年就是做那个 thesis loh
+UI20MAZ_0101 442791 445866 l. i. ah l. i. 在 kajang
+UI20MAZ_0101 445866 448555 在那个叫做apex ah
+UI20MAZ_0101 448555 452253 它是 holding 的公司来的
+UI20MAZ_0101 455138 462733 出产啊 err 不是喔它好像是 saham ah saham 的公司来的
+UI20MAZ_0101 462733 468694 但是我不是很清楚它是它的 production 很不大清楚
+UI20MAZ_0101 468694 476100 因为我们是做i. t. department 然后它很少给我们知道公司在怎样的运作
+UI20MAZ_0101 476100 482479 第一天过去他就讲说啊什么 rule ah 不可以啊然后什么不可以做啊
+UI20MAZ_0101 482479 488685 然后就这样罢了就直接坐在那边然后就给我们 task loh
+UI20MAZ_0101 493183 496650 他是
+UI20MAZ_0101 496650 501198 他啊不大清楚咯他很少跟我们解释
+UI20MAZ_0101 501198 503552 他是给我们好像好像一个 form 这样
+UI20MAZ_0101 503552 510244 然后过后叫我们做一个 system 出来这样罢了
+UI20MAZ_0101 513690 521582 他啊他是有自己的那个 software 的 oracle ah 他们有自己的那个 interface 的东西要的
+UI20MAZ_0101 521582 527830 只是说他现在要把它变成啊那个什么 software 了啊 s. a. p. ah
+UI20MAZ_0101 527830 535788 然后全部然后就好像有些 form 要变成那个website 的东西说
+UI20MAZ_0101 535788 538577 然后就这样做罢了咯
+UI20MAZ_0101 542321 552090 他是有但是他是他的 website 是啊就是 introduce 他的公司的东西罢了
+UI20MAZ_0101 554347 556135 他是说 share 的东西罢了
+UI20MAZ_0101 560909 565416 有一个是关于好像 complaint 的 system ah
+UI20MAZ_0101 565416 574656 然后我们是啊就是create 那个website 然后跟着他们的公司的 procedure ah
+UI20MAZ_0101 574656 579383 他他就好像从client 去到
+UI20MAZ_0101 579383 582690 去到啊就是 client complaint 的话
+UI20MAZ_0101 582690 593318 就会把他的那些 complaint的email ah 那个 message hor 就是会给到那个 h. o. d. 那边就是 head of department ah i. t. 的 department
+UI20MAZ_0101 593318 603339 然后就会然后 head of err department 会把那些 complaint 的那个 message hor 就是 analyze 然后过后
+UI20MAZ_0101 603339 611191 就 assign to 看给那一个啊 staff 去去 solve 那个东西咯
+UI20MAZ_0101 618579 629283 eh 没有没有啊 a. s. p. a. s. p. 就是最最早的最早的那个 s. a. p. loh
+UI20MAZ_0101 629283 633208 因为最新的是 s. a. ah a. s. p. dot net 了嘛
+UI20MAZ_0101 633208 640019 然后我部懂为什么它的公司要做做 a. ah 那个 a. s. p. loh
+UI20MAZ_0101 649821 653280 mmm 我有些朋友也是回来 penang loh
+UI20MAZ_0101 653280 655629 然后有一些在 k. l.
+UI20MAZ_0101 655629 658954 k. l. 的话蛮多一下
+UI20MAZ_0101 658954 662290 只是说要找地方住会比较贵噢
+UI20MAZ_0101 665908 670958 mmm 因为想要在那边参一些活动啊
+UI20MAZ_0101 670958 680063 然后刚好在那边又听senior 讲那边的公司不错然后就去 try看咯
+UI20MAZ_0101 680063 691047 因为也靠近我的学校啊然后我也是住在那边靠近啊所以不用特地去找一间房子租房子这样咯
+UI20MAZ_0101 697245 701340 mmm 我参加是佛学会的活动咯
+UI20MAZ_0101 701918 708125 然后他的佛学会会里面也是有蛮多活动一下啦
+UI20MAZ_0101 708125 716246 平常呢都是 normal 的好像 common class loh 就是啊有 karma class ah
+UI20MAZ_0101 718908 723084 然后比较特别的活动就好像有 panggung budi ah
+UI20MAZ_0101 723084 727733 然后有还有 camp loh 一些东西咯
+UI20MAZ_0101 735406 740571 啊三年都有参加最后一年比较少了因为比较忙了
+UI20MAZ_0101 753184 758696 我们是 first year 跟 second year 都是比较上课的咯
+UI20MAZ_0101 758696 766450 上课过后过后最后一年就很忙了l. i. 半年然后半年做 thesis
+UI20MAZ_0101 769569 771945 一个 sem
+UI20MAZ_0101 771945 776560 一进去的时候靠近十八二十这样
+UI20MAZ_0101 776560 783057 然后过后 second year 跟 third year的时候是大概十八
+UI20MAZ_0101 783057 785497 然后最少是十七这样
+UI20MAZ_0101 801275 803846 从 penang 过去啊
+UI20MAZ_0101 803846 818114 啊过去那边的话其实如果是要直接到那边的话啦只有几辆就是只有几辆的那个 bus 有去罢了咯
+UI20MAZ_0101 818114 819911 不是很多
+UI20MAZ_0101 819911 829167 而且有时也是如果是去到 k. l. 然后又坐 k. t. m. 过去的话很麻烦
+UI20MAZ_0101 829167 832999 因为有时拿太多东西的话要转站
+UI20MAZ_0101 836599 840747 有时它因为太少人的话它没有直接去的
+UI20MAZ_0101 842527 846396 但是最近比较有了啦以前就比较少
+UI20MAZ_0101 852662 855549 pudu 还没有
+UI20MAZ_0101 855549 858453 全部在 bukit jalil 那边
+UI20MAZ_0101 863205 866082 好像是我 second year 的时候才关
+UI20MAZ_0101 866805 869973 然后换去 bukit jalil 那边
+UI20MAZ_0101 884158 886136 觉得啊
+UI20MAZ_0101 886136 889610 觉得蛮多东西要学咯
+UI20MAZ_0101 889610 893260 而且好像 management 的东西啊很多
+UI20MAZ_0101 895414 898235 要 assume 他的东西很多
+UI20MAZ_0101 898235 899418 assumption 很多
+UI20MAZ_0101 899418 904588 然后有时要predict 他的东西啊 forecast 的东西很多
+UI20MAZ_0101 909270 918127 就好像它的公司公司要出产一样东西的话它要 assume 的东西好像
+UI20MAZ_0101 918127 924729 如果有它的员工不能来做的时候它的 production会少掉啊
+UI20MAZ_0101 926584 933460 然后有些是如果是它的 forecast 好像它 predict 说
+UI20MAZ_0101 933460 939161 这个今今年会或者这个月可能会多少个人买啊
+UI20MAZ_0101 939161 943442 很多很多那些 predict 的东西咯 forecast 的东西
+UI20MAZ_0101 948515 950303 ha 很多状况咯
+UI20MAZ_0101 954548 959360 看到看到很多太多东西然后有时很压力学不来这样
+UI20MAZ_0101 967065 969852 它是两个月罢了
+UI20MAZ_0101 969852 979054 然后他已经用了三个月来 solve 学那些 soft skill ah
+UI20MAZ_0101 979054 988141 然后只有两三个星期是学学那个比较 theory 的就是 e. r. p. 的 theory
+UI20MAZ_0101 995944 998987 啊然后因为两个月嘛
+UI20MAZ_0101 998987 1004015 两个月已经三个月没有三个星期已经学 soft skill 了
+UI20MAZ_0101 1004015 1010997 所以说我们还剩下大概一个月多这样学 e. r. p. 的 theory loh
+UI20MAZ_0101 1010997 1021043 但是已经它已经用了大概两个月啦两个月来学那个 programming ah
+UI20MAZ_0101 1021043 1026943 然后还有一个月还有一个没有两个两个星期是 programming
+UI20MAZ_0101 1026943 1037047 然后一个星期是啊放假 hari raya 放假所以行它它的时间全部都很 pack loh
+UI20MAZ_0101 1040026 1047414 soft skill err 是那个啊 project management ah
+UI20MAZ_0101 1047414 1056048 然后还有一个是 business ah english 和 business business english 才对啊
+UI20MAZ_0101 1058396 1064615 soft skill 就没有咯只有 e. r. p. 的 theory 罢了
+UI20MAZ_0101 1068101 1071912 只是学罢了它没有考
+UI20MAZ_0101 1073225 1079373 啊有他每一个每一个 lecturer 都会给分数给我们
+UI20MAZ_0101 1079373 1085921 他是 based on 我们的那个啊就是 attitude loh
+UI20MAZ_0101 1085921 1093906 ha attitude 然后还有我的他的就是 participate loh
+UI20MAZ_0101 1093906 1100164 然后还有 based on 他的那个 time lah 就是有些人很喜欢迟到嘛
+UI20MAZ_0101 1107792 1116120 programming ah他是他因为 a. s. p. 它 s. a. p. s. a. p. 它有两种 programming
+UI20MAZ_0101 1116120 1118646 一个是 java 的
+UI20MAZ_0101 1118646 1125810 然后还有一个是什么去了好像是 microsoft 这样的
+UI20MAZ_0101 1132214 1141355 它是要因为它要方便他们那些用它的 software 的那个那个 user ah
+UI20MAZ_0101 1141355 1143264 所以所以他给两个咯
+UI20MAZ_0101 1143264 1148691 一个是一个是 java 因为 java 比较 common mah全部都能用
+UI20MAZ_0101 1148691 1151193 然后另外一个是 microsoft
+UI20MAZ_0101 1151193 1158400 microsoft 的话他们好像是听说啦好像是用 ah a. s. p. dot net 的咯
+UI20MAZ_0101 1166010 1168522 目前为止我不大清楚
+UI20MAZ_0101 1180701 1185266 但是我们会学那个 microsoft 的 a. s. p. dot net loh
+UI20MAZ_0101 1185266 1192410 啊不因为他的那个他的那个 time table ah
+UI20MAZ_0101 1192410 1197420 他有分那个 time table 给我们他说是给我们学这个罢了
+UI20MAZ_0101 1197420 1200194 java 他没有 provide 给我们
