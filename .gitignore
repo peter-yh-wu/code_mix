@@ -6,7 +6,6 @@ local/
 pilot/persistent/
 exp/
 tasks/*/kitchen/
-tasks/*/data/
 tasks/*/output/
 tasks/*/feats/
 tasks/*/tools/

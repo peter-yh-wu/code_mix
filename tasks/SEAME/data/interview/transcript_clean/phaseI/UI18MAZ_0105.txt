@@ -1,0 +1,61 @@
+UI18MAZ_0105 0 2379 google 我就不懂 google 应该是可以在 windows 那边走
+UI18MAZ_0105 3287 10838 for android 他一定要你要买 macbook hor 你有那个 macbook 你才 install 那个 development kit 进去才能 install 才才你可以写 program
+UI18MAZ_0105 10838 16352 不然 hmm 厉害的人做生意很厉害的他不会啦但是他 o. s. 才一百块罢了
+UI18MAZ_0105 16352 19372 但是机不便宜他 hardware 太贵了
+UI18MAZ_0105 27239 28784 wah 这样好 lor 这样
+UI18MAZ_0105 33257 35610 android 现在好像给 h. p. 吃去了
+UI18MAZ_0105 35610 41499 h. p. 买他他的 android ei 没有哪个 pump 啊给给给 pump pump 给那个 h. p. 吃去了
+UI18MAZ_0105 41499 46076 他可能是他们会 che invest 那些 pump 在他们的 mobile 那边
+UI18MAZ_0105 48113 52938 hmm 但是他可能他利用他 o. s. hor 改一下给 h. p. 的 mobile 用
+UI18MAZ_0105 52938 56660 h. h. p. 本来是很 support windows 那那个 windows phone 的嘛
+UI18MAZ_0105 56660 58978 现在看那个 windows mobile 不能了
+UI18MAZ_0105 58978 64084 他 market 比较 che 差 所以他可能会换 unix 那种的东西
+UI18MAZ_0105 65335 69303 hmm number one 在世界上了到现在又失败了
+UI18MAZ_0105 71937 78623 hmm hmm 他也是开始 start 那个那个 p. d. a. 就是他们的公他们的 pump 开始 start 流行的嘛
+UI18MAZ_0105 90283 95989 所以要到那个时候你就要想办法赚更多钱了不然的话跌就没有了没价值了
+UI18MAZ_0105 152726 157994 没有他们好像换去我跟你讲跟 intel 合作做那 moblin 嘛来 fight android 的
+UI18MAZ_0105 157994 160994 还在研究着就是还没有真正 release
+UI18MAZ_0105 160994 164820 现在应该是有 beta version 了的他网站了的
+UI18MAZ_0105 167476 174647 hmm 没办法他太慢了他可能他比较注重 on 那个 c. p. u. 那个 for 那电脑的还有 server 先
+UI18MAZ_0105 174647 181553 然后现在比较注重 atom 了看他看到这个市场了所以他发明那个 atom 出来来拿 mobile 的市场
+UI18MAZ_0105 206265 209802 operate 他咯 hmm 对咯很重要这个
+UI18MAZ_0105 211589 220496 假如那个那个那个你出了个 o. s. 那没有 developer 去帮你写 program 帮你写 o. s. application 你的你那个 o. s. 也是卖不出的也是个问题来的
+UI18MAZ_0105 226620 233211 觉得我是讲他会 open source 出来啦给我们知道那些 source hor 然后给你们去发展自由发展
+UI18MAZ_0105 233211 238564 然后或者他们可以 control 一些 device 这样啦不要太多粒啊写的东西比较 centralize mah
+UI18MAZ_0105 238564 242665 可能 user 他们会写自己喜欢的东西出来给自己用嘛
+UI18MAZ_0105 242665 245945 不可能他 user 写出来的东西不不喜欢的 mah
+UI18MAZ_0105 245945 249940 所以他给自己 design 他们要东西咯我觉得这 concept 是很不错啦
+UI18MAZ_0105 252497 256059 open source 有一个问题的他要赚钱的问题就不能了
+UI18MAZ_0105 256059 260625 好像 mi windows 那边也是他们锁着很多些 source code 不要给人知道
+UI18MAZ_0105 260625 264829 他只是给 library 你用可是他们也是赚钱嘛他买那个东西给你嘛
+UI18MAZ_0105 270295 277277 che siemens che 我不懂做么最近会比较差去了但是他有几个几几个 version 出啦
+UI18MAZ_0105 279404 281016 hmm 对咯
+UI18MAZ_0105 284239 287788 对 hmm
+UI18MAZ_0105 299446 301864 hmm 对啊
+UI18MAZ_0105 318225 323128 che 我觉得他们是 control 着 market 先有着 market 了之后他要做什么都可以了
+UI18MAZ_0105 327416 333898 hmm 其实我也是很普通在个大学个 project 这样做来 share 东西然后做到全世界去
+UI18MAZ_0105 338523 345971 对还有 socialize 咯还像 chatting 这样找朋友 share 那些资料
+UI18MAZ_0105 350621 352899 对很少 developer
+UI18MAZ_0105 357507 363805 然后那些 facebook 那些很出名那些 zynga 那些公司啊他们那边也是在 facebook 赚几亿回来
+UI18MAZ_0105 363805 365461 也是 application 咯
+UI18MAZ_0105 368334 371503 我有打算但是好像要跟他们合作也可以的不是啊
+UI18MAZ_0105 372891 373977 open source 出来的 meh
+UI18MAZ_0105 376220 376991 可以的啊
+UI18MAZ_0105 377937 379969 因为也不错啊可以做生意这样
+UI18MAZ_0105 385293 391343 我的同学啊有有几个开公司应该是做那些 business solution 的东西的啦
+UI18MAZ_0105 395805 400973 对啊开公司只是买一个 chap 那个名字罢了然后一年给多少钱就可以了
+UI18MAZ_0105 400973 406858 我朋友几个也是开公司但是他没有公司啦可能他是买那个名字罢了然后就可以做公司了
+UI18MAZ_0105 410445 413184 也是有要本钱嘛
+UI18MAZ_0105 416435 419939 那也要几十千至少
+UI18MAZ_0105 420990 426807 假如只是做我们 i. t. 这这个应该是不用这样大本钱的应该是用 web based 做东西的咯
+UI18MAZ_0105 429154 431992 我觉得很不错可以投资在这种高科技东西
+UI18MAZ_0105 435146 441889 他们啊一个问题就是讲自己的生意嘛所以他们比较忙一下没有自己的时间
+UI18MAZ_0105 443939 454866 是这样罢了赚得钱的只是问题是比较忙自己来咯因为自己做开生意自己全部自己来要做到完这个个问题他们的问题咯
+UI18MAZ_0105 460691 463980 假如成功的话就是爽了请人做了
+UI18MAZ_0105 466542 473507 hmm 慢慢来吧对 reputation 人家知道了出名了就可以了
+UI18MAZ_0105 480346 482524 有几个了我那时候 coursemate
+UI18MAZ_0105 486408 490297 自己想找个 concept 出来做 business solution
+UI18MAZ_0105 491278 499875 web 的也是有 web designer 咯有些他们比较简单一点做跟人家 sub contract 出来这样做 web designer 这样
+UI18MAZ_0105 506305 511037 hmm 出来做 web 还是 freelancer
+UI18MAZ_0105 518870 520764 wah 好像很多一下 lo
+UI18MAZ_0105 527945 530328 有可能啦

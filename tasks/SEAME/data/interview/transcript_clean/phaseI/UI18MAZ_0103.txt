@@ -1,0 +1,132 @@
+UI18MAZ_0103 0 7589 不要他们应该vendor site 他们会provide 那些driver 给我们我们跟他讲他们会写给我们
+UI18MAZ_0103 9025 12880 因为我们的customer 比较大嘛他们我们跟他们买
+UI18MAZ_0103 20518 25564 其实so far market 的 hor 他买的全部好像 core two dual 啊全部讲六十四 bit 六十四 bit lor
+UI18MAZ_0103 25564 28330 其他们还是basic 在三十二 bit 里面
+UI18MAZ_0103 28330 32325 他们是用command 六十四bit 然后再convert decode 去三十二bit 来走的
+UI18MAZ_0103 32325 39402 其实真正的他们真的我听他里面的人讲啦只是itanium 那个才是最真正六十四bit 的command 那instruction 进去
+UI18MAZ_0103 39402 43117 其他的全部都是他们但是 i. seven 我就不清楚啦
+UI18MAZ_0103 43117 45151 那个可能是六十四bit 咯
+UI18MAZ_0103 54292 56570 但是他是depand 你的 o. s. 的嘛
+UI18MAZ_0103 56570 62565 假如你的server 可以support 六十四bit 你install o. s. 是三十二bit 这样你run 那command 三十二bit 是没有问题的咯
+UI18MAZ_0103 63753 67153 hmm 没有办法啦因为你没有那个六十四bit 的application
+UI18MAZ_0103 69709 73996 对要重写的confirm 要重写的这个是问题了
+UI18MAZ_0103 77451 81792 我看应该是会有啊但是我不大清楚那个compiler 是什么
+UI18MAZ_0103 84354 87521 最好了甚至看咯 construction 变成六十四bit 就可以了
+UI18MAZ_0103 109230 113168 hmm 我现在用着windows seven thirty two bit 的因为我的processor 是不能support
+UI18MAZ_0103 113168 114694 maximum 到三十二罢了
+UI18MAZ_0103 115432 121356 也是可以用啦 yi err depand 我看新的全部either 都是六十四bit 了
+UI18MAZ_0103 131864 140572 hmm 除了他instruction 长一点罢了我觉得其实三十二bit 是很够用的他们换去六十四就好像不知道是什么原因啦
+UI18MAZ_0103 142727 148874 可到现在也是很足够的没有问题的我不懂做麽换去六十bit 可能比较长他command 走比较多东西 kua
+UI18MAZ_0103 150432 157997 不可能是这个market 的关系他们已经慢慢换trend 了可能他们跟着球那个那个trend 就慢慢换去有六十四bit 这个东西
+UI18MAZ_0103 167707 176161 hmm 开始我是全部microsoft 东西拿到完啊拿到 m. c. s. e. 那个system engineer for microsoft 的
+UI18MAZ_0103 176161 179940 我也没有想到做麽会进来会走去unix 这行的
+UI18MAZ_0103 179940 187684 可能是那时候market 的没有需求这样没有这样这样好的时候啊可能那个unix 的比较少人去apply
+UI18MAZ_0103 187684 191669 可能我apply 到就是这样做了做做下做了几年了
+UI18MAZ_0103 198930 207381 根本不一样东西的可以讲两两个都不一样东西假如你真正你是要用windows 久了你去用unix 啦可能你会很不习惯的
+UI18MAZ_0103 218797 223876 哦其实他的core 应该是一样的他可能他们改一些东西咯
+UI18MAZ_0103 223876 227239 好像interface 那东西啊可能那些driver 东西可以改一下
+UI18MAZ_0103 227239 234107 他们比较好用很多个不一样咯open source 啊distribute 出去是这样罢了
+UI18MAZ_0103 237821 240916 hmm 对他from 那个unix 换变出来的
+UI18MAZ_0103 241582 245892 慢慢改他应该是我没有记错应该讲过是free b. s. t. 那边慢慢换出来的
+UI18MAZ_0103 245892 247469 b. s. t. 的东西的
+UI18MAZ_0103 261239 263867 hmm 对对对 i. b. m. 的
+UI18MAZ_0103 273571 276724 应该red hat 也是很大的市场上
+UI18MAZ_0103 276724 279493 我看啦在外面的市场很多人都是买red hat 的
+UI18MAZ_0103 279493 283035 我看他red hat 应该是比较same 跟unix 啦
+UI18MAZ_0103 283035 286430 因为linux not unix 嘛有一点不一样的他们改过
+UI18MAZ_0103 288321 290491 arr o. s. 是 enterprise 要钱的
+UI18MAZ_0103 290491 294733 因为他可能他里面的东西比较适合那个unix 的东西比较一样
+UI18MAZ_0103 294733 298622 可能比较好用 kua 可能在那个enterprise 的东西啊
+UI18MAZ_0103 298622 304127 好像走他们enterprise 的application 啊run testing 啊 tester 大大啊大大粒那些啊
+UI18MAZ_0103 304127 308954 可能需要unix 那些来帮助他们走这些command 不然的话走不到
+UI18MAZ_0103 319648 326143 hmm 免费的 fedora 也是不错一下他graphic 也是但是他很大他那个os
+UI18MAZ_0103 338707 342421 hmm 我可能会选着读那些certify 的course 咯
+UI18MAZ_0103 342421 348728 比如好像 cisco 啊或者那个 l. p. i. 啊 vmware 啊
+UI18MAZ_0103 350901 353294 sun solaris 比较喜欢那种
+UI18MAZ_0103 360149 365436 有啊现在我们公司刚刚怎样讲给别的contract sub 出去了
+UI18MAZ_0103 365436 372592 应该是最后一天是在十月二十八号 na 我们intel 嘛 sub 出来contract 嘛
+UI18MAZ_0103 372592 379149 我听他们intel 的人讲啊他们可能是那些金钱的问题啊他们要一个vendor 罢了不要很多个vendor
+UI18MAZ_0103 379149 387308 之前我们这intel 里面有三个vendor 最大的 n. c. s. machine niaga 那个我们 intradeco 我在做着的咯
+UI18MAZ_0103 387308 392581 然后他们这两个已经输去了现在只是n. c. s. control 整个intel 咯
+UI18MAZ_0103 392581 398392 然后他们就要take over 我们的department 我们的department 就是到十月二十八号
+UI18MAZ_0103 407362 412664 对啊 hmm 我觉得很不公平真的很不公平
+UI18MAZ_0103 422847 431913 对咯就是讲他请你可能 err 他他们head count 给你们三千多块他可以给你们千多块给你这样切一半这样
+UI18MAZ_0103 435321 444128 hmm 不一样了他们长期这样吃你假如你比较外国的啊我听他们intel hor 他们外国是有请那些contract worker 的
+UI18MAZ_0103 444128 449050 他们contract worker 比较做比较久的不一样好像马来西亚这样啊做几年这就没有了
+UI18MAZ_0103 449050 453974 因为他们的benefit 很高的因为contract 因第一次contract worker 没有的嘛
+UI18MAZ_0103 453974 457885 所以他薪水要比给比较高不然有有问题的话怎样去cover
+UI18MAZ_0103 457885 464785 他们这边又不一样哦这边的他们的law 啊掉转的 contract worker 是给低工钱的全部的给benefit 给他公司吃掉
+UI18MAZ_0103 481162 484242 可能咯或者他们不用manage 这样多东西啊
+UI18MAZ_0103 500607 502219 department 的东西啊
+UI18MAZ_0103 512308 514717 intel 公司有请他们的请
+UI18MAZ_0103 516513 519737 hmm 对 outsource 出来的
+UI18MAZ_0103 522295 528682 哦有他们会分布出去不一样的公司不一样的大大间的那些啊他们会拿contract 出来做咯
+UI18MAZ_0103 528682 531228 就讲sub 出去好像 osram 啊
+UI18MAZ_0103 533799 537835 或者自己他们自己除了这样outsource 出来他们自己也是做生意的
+UI18MAZ_0103 537835 545096 卖server 咯on site support 帮人家setup 整个他除了还有卖电脑 ler 代理一个电脑卖代一个公司这样卖
+UI18MAZ_0103 545096 548969 他们不只是做outsource 罢了他们multi task 这样去来赚钱
+UI18MAZ_0103 556067 558380 对啊找permanent 比较好
+UI18MAZ_0103 561008 567315 现在 hang zheng 啊 err 我看现在 hang zheng 比较多 fresh grad 出来找工
+UI18MAZ_0103 567315 571359 所以要找也是假如你有experience 的比较容易一点
+UI18MAZ_0103 571359 574676 没有experience 的要跟他们fresh grad 那边慢慢争
+UI18MAZ_0103 574676 580417 因为我我有试过去interview mah wah 看那些 fresh grad 的几百个人来要争个position
+UI18MAZ_0103 580417 582835 真的是很恐怖一下现在的market
+UI18MAZ_0103 594258 600878 现在全部mobile phone 全部是用 linux 来做出来的好像 android 啊iphone 全部是是那个 market
+UI18MAZ_0103 600878 604584 连那个 siemen 也是用那些unix 的东西慢慢换出来的
+UI18MAZ_0103 605293 606625 是 market 来得
+UI18MAZ_0103 607676 611335 像siemen 他打到现在他好像换去跟intel 要做一个meego 啊的
+UI18MAZ_0103 611335 618103 meego combine 起来的那个unix 放在mobile 的 moblin 是吗 moblin
+UI18MAZ_0103 618103 622572 跟 intel 跟 nokia combine 起来的很奇怪的
+UI18MAZ_0103 624984 628733 err 他们可能比较stable on mobile 的东西咯
+UI18MAZ_0103 628733 634059 他可能他不是讲整个好像整个linux hor 他不拿全部packages 进去咯
+UI18MAZ_0103 634059 637212 可能拿需要的packages 进去然后compile 变成 o. s.
+UI18MAZ_0103 637212 643064 比如他电话重要的是可以 install 啊 view document 那些东西啊那些 driver 声音啊他电话啊
+UI18MAZ_0103 643064 646174 har 但是他package 全部拿出来 compile 变成一个 o. s.
+UI18MAZ_0103 646174 647897 给 mobile 用罢了的
+UI18MAZ_0103 647897 654695 可能他没有好像windows 好像那个 desktop 的这样多功能啦他抽一下出来这样 modify 再 compile 过
+UI18MAZ_0103 657393 660792 因为 existing 放进去 hor 那个那个电啊
+UI18MAZ_0103 664155 667309 他们要做赚钱嘛这个是商业的东西嘛
+UI18MAZ_0103 673509 685247 他们可以以广告咯或者人家投资进去咯可能他们觉得这个行可以做或者他们写 application 进去 err 他们要给钱才去放他们的server 这样咯
+UI18MAZ_0103 688716 690293 对 open source 的
+UI18MAZ_0103 697194 700610 hmm 因为可能他们是under google 的嘛
+UI18MAZ_0103 700610 703256 under google mah google 一定赚大钱了的现在
+UI18MAZ_0103 703256 706624 在那个 internet 的广告那边是排第一了的
+UI18MAZ_0103 706624 714095 可能是那边赚钱了然后再 open source 出来可能他以这样方法 hor 引诱那些很多那些 developer 去帮他们写 application 咯
+UI18MAZ_0103 714095 720261 然后他们就可以慢慢赚越多钱咯越来越多人用了他们可能 launch 一些东西就可以control 整个market 了
+UI18MAZ_0103 727326 730480 他可能要给一部分来create 一个account 这样的东西
+UI18MAZ_0103 732972 737347 但是 iphone 就不用 iphone 他 hor 比较 more on user 着想
+UI18MAZ_0103 740851 750730 对他不是 open source 他是给你一个 library 咯给你用咯你去拿那library 来用用用用用对也是很干的这样
+UI18MAZ_0103 754059 755916 对我是觉得 open source 比较好
+UI18MAZ_0103 764395 768901 对他不也是不能因为是放他们server 不是放我们server
+UI18MAZ_0103 788465 800849 我的 coursemate 全部是 science comp 的全部都是做 science comp 比较多那些 server 也有啊 soft programmer 也有啊 developer 也有啊 analysis analysis 也有啊很多种
+UI18MAZ_0103 815547 834265 hmm 我也觉得是这样不懂做麽是这样可能是命运 kua 可能你那时候你把把握这个机会你也得到这样好的机会可能你就改变命运了我觉得是这样啦你看我读了这样多为了我的course 读了全部master 到完出来也找不到那份你要得工也是个问题来的
+UI18MAZ_0103 866806 873036 err 我那边也是有senior 我跟你讲有三个level 嘛第三个level 很多是 u. s. m. 进去那边做
+UI18MAZ_0103 873036 878929 他们做了应该超过二十多年也是做 research 那边 develop 那些 application research
+UI18MAZ_0103 890525 893083 hmm 对要改变
+UI18MAZ_0103 903069 906013 我觉得很普通咯
+UI18MAZ_0103 947460 949528 hmm 不错那个
+UI18MAZ_0103 956711 961837 不会的他赚你那边就够了咯他肯定不会派你去的
+UI18MAZ_0103 963436 965994 除非你是 under 一大学公司的就好
+UI18MAZ_0103 965994 971251 什么工都好 under 公司 permenant 的是最好的他会给你很多福利的
+UI18MAZ_0103 973738 980255 没有福利的 so far 我知道是医药卡去看医生要拿 m. c. 有时候医医生也不批准的
+UI18MAZ_0103 983932 986070 我是一个星期做五天
+UI18MAZ_0103 988663 993673 hmm 大多数是早上到五点半这样罢了早上八点
+UI18MAZ_0103 994935 998368 比较好啦比较好想普通上班这样做读书这样
+UI18MAZ_0103 1001031 1009715 很少的啦大多数是 special 的日子好像大日子就要做啊可能是做整晚这样哪一个时间 down time 做整个晚上
+UI18MAZ_0103 1019257 1025528 可能我现在的 ei 因为我的工做到 end 到十月尾了嘛了就 contract 没有了
+UI18MAZ_0103 1025528 1030860 然后可能要找别的工depand 那个工是什么我就从那个读下去咯
+UI18MAZ_0103 1033201 1036389 开始找了要等机会咯
+UI18MAZ_0103 1046901 1050216 投很多封这个要等那个他们 respond 咯
+UI18MAZ_0103 1055238 1061590 不一样的人我看interview 都是不一样的他们的怎样讲他们的风格 depend 他们公司的
+UI18MAZ_0103 1069114 1084928 我大多数是 apply admin 的啦但是我看 admin 比较难找啦现在我看我可能转别的行这样可能是 en 那个 testing engineer 那些东西这样读比较多东西比较好过死死拿一个
+UI18MAZ_0103 1091866 1094283 有一点浪费啦但是自修咯
+UI18MAZ_0103 1109419 1113438 也是可以考虑啦现在是要等看有没有人给我这样机会罢了
+UI18MAZ_0103 1121365 1124592 本地比较少外国外国公司比较多
+UI18MAZ_0103 1142669 1147954 大多数啊 suft net 看戏咯看那些科技的东西啊那些新闻咯
+UI18MAZ_0103 1150551 1159618 近来啊我看他们那些很多大公司大间吃小间那些东西很多啦比如好像 oracle 他买下 sun o. s. 了嘛
+UI18MAZ_0103 1159618 1163682 因为他们的oracle 是 based on 那个 sun o. s. 来 run 他们的 application
+UI18MAZ_0103 1163682 1167601 他们就吃掉那个 sun 了就是他们自己 mo 变成他们的东西
+UI18MAZ_0103 1169645 1175917 hmm unix 是 sun o. s. 的 因为他们的 oracle hor 他们一定要 install 在 unix 的 pla 那个 platform 里面的
+UI18MAZ_0103 1175917 1180083 假如没有 install 在 unix platform 是不能的所以他们是 based on 那个 solaris 的
+UI18MAZ_0103 1180083 1188360 他们没有那 solaris 他就 oracle 就走不到了所以他们要买下来他们就是他们东西他们不用怕嘛没有威胁
+UI18MAZ_0103 1189863 1198970 hmm 还有很多的比如那些大大间那些啊 google 啊他们是收购那些广告公司咯还是那种他可以知道你的 location 的 place 那些东西

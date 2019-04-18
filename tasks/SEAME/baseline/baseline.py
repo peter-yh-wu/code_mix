@@ -368,15 +368,15 @@ def main():
     with open(LOG_PATH, 'w+') as ouf:
         pass
 
-    print("Loading File IDs")
-    train_ids, dev_ids, test_ids = load_ids()
-    train_ids, dev_ids, test_ids = train_ids[:args.max_train], dev_ids[:args.max_dev], test_ids[:args.max_test]
+    print("Loading File Paths")
+    train_paths, dev_paths, test_paths = load_paths()
+    train_paths, dev_paths, test_paths = train_paths[:args.max_train], dev_paths[:args.max_dev], test_paths[:args.max_test]
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
-    train_ids = train_ids[:args.max_data]
-    dev_ids = dev_ids[:args.max_data]
-    test_ids = test_ids[:args.max_data]
+    train_paths = train_paths[:args.max_data]
+    dev_paths = dev_paths[:args.max_data]
+    test_paths = test_paths[:args.max_data]
 
     print("Loading Y Data")
     train_ys = load_y_data('train') # 1-dim np array of strings
@@ -399,9 +399,9 @@ def main():
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Building Loader")
-    dev_loader = make_loader(dev_ids, devchars, args, shuffle=True, batch_size=args.batch_size)
-    train_loader = make_loader(train_ids, trainchars, args, shuffle=True, batch_size=args.batch_size)
-    test_loader = make_loader(test_ids, None, args, shuffle=False, batch_size=args.batch_size)
+    dev_loader = make_loader(dev_paths, devchars, args, shuffle=True, batch_size=args.batch_size)
+    train_loader = make_loader(train_paths, trainchars, args, shuffle=True, batch_size=args.batch_size)
+    test_loader = make_loader(test_paths, None, args, shuffle=False, batch_size=args.batch_size)
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 

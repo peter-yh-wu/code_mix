@@ -1,0 +1,146 @@
+NI12MAP_0101 11557 13234 啊 我在 这里 n. t. u.
+NI12MAP_0101 24254 31739 我是 undergraduate computer engineering 我 读 了 四年 我 去年 刚 graduate
+NI12MAP_0101 34962 37597 哦 之前 我在 singapore polytechnic
+NI12MAP_0101 39363 40950 三年
+NI12MAP_0101 46638 59807 嗯 之前 我是 读 diploma in electronic computer and communication engineering ok then 我在 n. t. u. 是 bachelor of engineering in computer engineering
+NI12MAP_0101 82230 85973 er 我 小学 市政府 的 学校 是 华 文学 校
+NI12MAP_0101 94892 114860 读 过 什么 subject 很多 from hardware 的 很 像 microprocessor micro controller and data acquisition instrumentation 还有 很多 so 也是 很多 software like database software engineering software software system and models
+NI12MAP_0101 114860 123896 and 还有 一些 mathematics signal processing 啊 也有 一些 computer graphics 的 course
+NI12MAP_0101 125917 128294 啊 我 没有 minor
+NI12MAP_0101 130911 133527 我 最 喜欢 computer graphics
+NI12MAP_0101 135214 142235 为什么 因为 我 很 喜欢 computer games ah 所以 我 玩 很多 games
+NI12MAP_0101 145009 146743 现在 啊 现在 我 还是 很 喜欢
+NI12MAP_0101 150297 153851 现在 啊 现在 我在 做工 我是 full time staff
+NI12MAP_0101 183928 187828 啊 还没有 我们 这个 project 我们 去年 才 开始
+NI12MAP_0101 198206 207189 这个 不大 清楚 不过 agent 就是说 agent 这 方面 很多 人 在 做 不过 是 agent in the co space 我 记 不大 清楚 了
+NI12MAP_0101 212215 238094 就是 在 那个 virtual environment 里面 他 会 interact with the user 就是 给 那个 user 一些 指示 一些 suggestion or recommendation 还有 就是 另外 一个 用处 就是 在 computer games 里面 他 他 就是 一个 intelligent 的 player then the user can play with the players 哦 if you cannot find a player to play with you in the games
+NI12MAP_0101 241364 243505 啊 可以 这么 说是 一个 artificial intelligence
+NI12MAP_0101 246875 248385 呀 还 可以 interact with user
+NI12MAP_0101 260065 278426 要 怎么样 用 啊 我 用 computer 来 上网 啊 跟 朋友 聊天 啊 还有 就是 做 一些 photo editing 的 工作 因为 我 喜欢 拍照 我 有 很多 照片 我也 是 用 photoshop 之类 的 software to do photo editing
+NI12MAP_0101 294115 300995 常用 的 software 就是 adobe adobe creative suite 啊 most mainly 是 adobe photoshop
+NI12MAP_0101 365495 368514 啊 没有 我 通常 都是 上 internet 学 的
+NI12MAP_0101 371533 385434 一些 什么 网站 很多 啊 我 通常 都是 google search 然后 就 看 一些 就 慢慢 找 喽 还有 一些 我 经常 去 一些 forum 像 club clubsnap 还有 一些 是 nikon or cannon 他们的 forum 去 看 一下 他们 拍 的 照片 怎么样
+NI12MAP_0101 388156 403613 通常 我是 拍 event 就是 很 像 朋友 生日 啊 graduation 或者 是 有 一些 party 我 一些 拍 一些 风景 的 像 在 singapore river botanic graden 之 之类 的 地方
+NI12MAP_0101 413373 415469 啊 我 想 去 european country
+NI12MAP_0101 440465 449390 所以 每个人 去了 france 就会 要 看 的 那些 eiffel tower 这些 除了 那些 我 希望 看 一些 郊外 的 风景 去 拍 一些 郊外 的 风景 我 觉得 也不 错
+NI12MAP_0101 455348 460737 就是 我 不知道 就是说 很 特 很 特别是 在 哪 一个 地方 有什么 东西
+NI12MAP_0101 486895 490817 museum 啊 不过 museum 里面 通常 都 不可 以 拍照 的 只 可以 在外 面 拍
+NI12MAP_0101 498166 505591 我 用 啊 nikon nikon 的 d forty x 镜头 啊 eighteen to two hundred m m
+NI12MAP_0101 505591 512506 为什么 nikon 我 觉得 他的 lighting 很好 lighting especially the flash
+NI12MAP_0101 521437 525359 照片 啊 我 没有 哪 去 卖 通常 就是 放 上网
+NI12MAP_0101 528561 536169 website 有 我 知道 有一个 可以 卖 的 我 往 计 叫 什么 名字 了 因为 我 save 在 我的 那个 bookmark 里面
+NI12MAP_0101 544351 553142 backpack 啊 我 觉得 是 不错 的 一个 not a bad idea 啦 只是 我 要 找 朋友 跟 我 一起 去 就有 一点 困难
+NI12MAP_0101 555237 560467 我 去 过 new zealand 我 去 过 new zealand 一个 很 漂亮 的 国家
+NI12MAP_0101 562357 563918 还有 其 他的 没有 了
+NI12MAP_0101 566651 569691 特别 的 景点 哪 那边 有 山 有 水
+NI12MAP_0101 587768 592246 都是 那些 i think is mainly is dair dairy produces
+NI12MAP_0101 608625 616905 那时 候 没有 时间 去 啊 因为 要 坐 要 arrange internal flight to shaw islands 所以 我 只是 explore the north islands 就 回来 了
+NI12MAP_0101 632850 634391 没有 没有 我 不会 驾车 那时 候
+NI12MAP_0101 636363 640122 bus 不是 很 方便 的 就是 你 要 book
+NI12MAP_0101 645315 648130 而且 他的 bus 很 像 早上 一 趟 晚上 一 趟 罢了
+NI12MAP_0101 651026 657429 忘记 多少钱 了 二 三十 块 吧 应该 是 不会 贵 了 长 长途跋涉 应该 是 不算 是 很 贵 了
+NI12MAP_0101 662729 667294 cruise no 啊 不是 cruise 就是 coach 比较 high class 一点 的 啦
+NI12MAP_0101 673115 676237 船 没有 啊 座 coach 座 coach 是 bus bus
+NI12MAP_0101 687689 689271 啊 有的 睡
+NI12MAP_0101 697222 702547 因为 new zealand 是 很大 不 像 singapore 你 到 哪里 到 哪里 是 最多 一个 小时 啊
+NI12MAP_0101 703431 709216 不过 有些 地方 就是 两个 地方 很 近 啊 半个 小时 有的 很 很 远 的 十 多个 小时
+NI12MAP_0101 726811 729462 internet booking 啊 没有 我 没有 作 internet booking
+NI12MAP_0101 733107 738955 我在 那边 的 时候 去 new zealand 的 visitor center 在那里 可以 那个 人 可以 帮 我们 book
+NI12MAP_0101 747800 752845 有 啊 singapore 有 visitor center 在 orchard road 有一个 好像 在 changi airport 好像 也是 有一个
+NI12MAP_0101 754651 756957 我 不懂 他 会不会 帮 我们 book 我 没有 try 过
+NI12MAP_0101 759724 760838 啊 那个 是 可以 的
+NI12MAP_0101 762529 763951 不会 啊 都是 一样 的 价钱
+NI12MAP_0101 767333 770907 internet 看 有没有 discount 啊 他们 有 promotion 这些 比较 便宜
+NI12MAP_0101 775749 779630 可 internet 多数 比较 便宜 都是 因为 有 discount
+NI12MAP_0101 788267 791858 其实 我 那时 候 去 蛮 久 之前 的 好像 还没有 那些 budget airline
+NI12MAP_0101 800573 808758 我 不 清楚 啊 很 很 久 没有 去了 我也 是 没有 什么 注意 因 没有 想 要 再 去 多 一次 啦 想 要 去 其 他国 家 可能 以后 吧
+NI12MAP_0101 813472 818660 现在 还在 安排 着 看 有没有 机会 去了 找 一些 朋友 去
+NI12MAP_0101 829127 837581 还有 一些 比较 大 的 city 像 melbourne sydney 这些 我 觉 他的 地方 都 不错 啦 可以 去 看 一下 该 是 蛮 不同 的
+NI12MAP_0101 839502 844959 gold coast 啊 啧 嗯 应该 有机 会 就 去 吧 不过 我 不大 喜欢 游泳
+NI12MAP_0101 847583 850619 可能 it's not the main place i want to go 啦
+NI12MAP_0101 873925 882310 travel guide 会 啊 去 bookstore 看 一些 书 还有 去 哦 去 internet 找 一些 资料
+NI12MAP_0101 892955 896350 travel guide 就是 那些 booklet 是 吗 brochure 这些
+NI12MAP_0101 911483 919784 ministry of tourism 这些 的 website 剩 的 就 看 那边 有什么 他 会 link up 去 那些 specific place 的 website 我们 就 去 看
+NI12MAP_0101 922490 924988 forum 啊 forum 我 没有 试 过
+NI12MAP_0101 932212 934518 新加坡 啊 应该 有 八年 了
+NI12MAP_0101 938053 956760 新加坡 有什么 特别 的 地方 其实 就是 singapore river 一带 的 地方 吧 比较 一些 比较 historical buildings 啊 像 那些 supreme court city hall 不然 特别 的 地方 其实 orchard 也不 算 什么 特别 的 地方 啦 shopping centers
+NI12MAP_0101 963677 966905 beach 啊 east coast 是 吗 那个 算 beach 吗
+NI12MAP_0101 1022285 1025243 不然 的话 它 飞 的 时候 你 很难 capture 那个 focus
+NI12MAP_0101 1042755 1047328 人 model 啊 model 没有 我 没有 拍 过 model
+NI12MAP_0101 1058877 1065717 cinema 啊 看 戏 的 i think 啧啧 vivo 的 那个 不错 吧
+NI12MAP_0101 1085047 1090434 哦 imax cinema 啊 哦 有 有 有 不过 我 没有 看过
+NI12MAP_0101 1113906 1116558 电视 我 通常 不 看 电视 的
+NI12MAP_0101 1124500 1128689 online movie 啊 没有 啦 我 没有 看 浪费 时间 我 觉得
+NI12MAP_0101 1140176 1142545 应该 是 comedy 吧 比较 好笑
+NI12MAP_0101 1160350 1162417 哦 我 不 喜欢 hongkong 的 comedy
+NI12MAP_0101 1207136 1211031 应该 是 没有 吧 因为 我 通常 都 很少 看 戏 的
+NI12MAP_0101 1225561 1233693 其实 我 吃 了 很多 western food 就是 那些 比较 特别 的 我 会 吃 吧 那 我 想 normal 这种 canteen 我是 不 不是 很 想 吃 了
+NI12MAP_0101 1236865 1246586 怎样 算 special 就是 他 煮 到 有 一点 他 就是 不同 的 sauce 啊 比较 不同 的 sauce 啊
+NI12MAP_0101 1246586 1251308 好像 normal 我们 去 那些 canteen 还是 什么 都是 chicken chop chicken cutlet
+NI12MAP_0101 1256221 1258820 比较 贵 的 啊 不一定 比较 贵 就 比较 好吃 而已
+NI12MAP_0101 1279935 1288186 fast food 啊 嗯 我 现在 不 不是 不 不 需要 少 吃 了 因为 会 增肥 的 有 一段 时期 我 吃 很多 然后 变成 很 胖
+NI12MAP_0101 1292005 1304954 哦 mcdonald 啊 k. f. c. 噢  subway 算 fastfood 吗 算 吧 subway 的 pizza 喽 还有 什么
+NI12MAP_0101 1316305 1318420 哦 singapore everywhere 都有 吧
+NI12MAP_0101 1322130 1326810 nationwide 那些 shopping mall 其实 很多 很多 shopping mall 都有 western food 吧 都有 很多
+NI12MAP_0101 1335846 1345195 mcdonald 啊 once a while 吃 一下 我 比较 喜欢 吃 他的 breakfast but burger 我 觉得 不是 很好 吃 吧 可能 是 因为 吃 太 多 了
+NI12MAP_0101 1348391 1356905 pizza 啊 嗯 pizza 我 很少 吃 吧 不过 我 觉得 canadian pizza 会 比 那个 pizza 好吃
+NI12MAP_0101 1362223 1366778 哦 他是 不同 的 啊 不同 的 company 卖 的
+NI12MAP_0101 1373570 1378292 pizza hut pizza hut 另外 一个 是 canadian pizza
+NI12MAP_0101 1380414 1381869 一个 brand 来 的
+NI12MAP_0101 1385041 1386591 不是 的 singaporean 做 的
+NI12MAP_0101 1401854 1404716 啊 one for one 啊 就是 你 买 一个 他 给 一个
+NI12MAP_0101 1410129 1421957 then pizza hut pizza hut 的 pizza 就 就 好像 certain favorite 的 他们 选 special offer 的 才有 其 他的 都要 自己 还 就是 you pay for the price 啊
+NI12MAP_0101 1428319 1431061 i think canadian pizza 的 choice 会 比较 多 吧
+NI12MAP_0101 1501025 1505246 我 不知道 好像 我 知道 就是 singapore 有 我 不觉 得 canadian 有 啊
+NI12MAP_0101 1517934 1520200 是一个 name 啦 i think 是 singapore 做 的
+NI12MAP_0101 1528336 1531174 薄 皮 的 现在 现在 都是 薄 皮 的
+NI12MAP_0101 1547294 1555044 好像 现在 都是 薄 的 嘛 不知道 现在 他们 做 得 有点 不同 了 不 像 american 也不 像 也 也不 像 italian 的
+NI12MAP_0101 1564711 1568073 我 不会 煮 菜 我 通常 不 自己 煮
+NI12MAP_0101 1569981 1577480 平常 在外 面 的 hawker center food court 吃 有些 是在 学 多数 是在 学校 吃 吧 学校 比较 便宜
+NI12MAP_0101 1607529 1615894 这样 子 啊 有些 比较 不错 的 好像 newton 的 不错 我 听说 是 不错 还有 一个 是 holland village 的 hawker center
+NI12MAP_0101 1619733 1626244 i think newton 的 那个 是 卖 是 卖 一些 seafood 吧 还 一些 比 我 不知道 有什么 特色
+NI12MAP_0101 1627317 1631323 holland village 的 那个 就 卖 很多 那些 本地 的 食物 了 你 像
+NI12MAP_0101 1662467 1668930 啊 那个 算 比较 高级 的 food court 因为 他 卖 比较 贵 啊 好像 在 那些 suntec city 那些 地方 会 卖
+NI12MAP_0101 1669812 1679375 通常 hawker center hawker center 在 h. d. b. 的 都是 那种 风扇 的 没有 aircon 的 so 他的 the price is lower 啦
+NI12MAP_0101 1788893 1794850 啊 有 啊 一个 就是 看 呀 看 malaysia news 有
+NI12MAP_0101 1804777 1809079 malaysia 很多 新闻 吧 我 觉得 他们 每天 都有 新的 故事
+NI12MAP_0101 1811520 1824031 最近 啊 就是 那个 那个 反对党 的 那个 人 被 调查 了 他在 他在 那边 是 人家 说 他是 跳楼 死 了 有些 人 说 他是 被 杀 的
+NI12MAP_0101 1852559 1868985 after graduate 啊 我 打算 现在 打算 做工 吧 做 几年 存 一些 钱 可能 以后 会 再 去 读书 或者 是 可能 以后 会 还是 找 一份 permanent 的 job 啦 就是 not on 现在 我是 on contract basis
+NI12MAP_0101 1879207 1896448 有 打算 继续 做 research 可能 是 会 多数 是 会 不然 的话 应该 会 找 一些 像 more academic 的 job ah 像是 teaching 我 好像 读 个 master 我 可以 去 polytechnic be a lecturer
+NI12MAP_0101 1920517 1925041 i will try to make it everyday 啊 不过 现在 整天 都是 alternate day 我 会 去 跑
+NI12MAP_0101 1937812 1949050 fitness first 啊 一个 是 first fitness 还是 fitness first 忘记 了 另外 一个 我 不知道 叫 什么 名字 不过 我 看过
+NI12MAP_0101 1950874 1954523 啊 jogging 有时 跟 朋友 打 badminton
+NI12MAP_0101 1965666 1973110 不过 你 要 book 人家 要 钱 的 对了 要 钱 的 不懂 而且 你 还要 advanced 不懂 一个 星期 book 因为 很多 人 要 book 嘛
+NI12MAP_0101 1994756 1997383 sports 啊 没有 我 通常 没有 看 的
+NI12MAP_0101 2001105 2006651 football ah 很 像 world cup 的 时候 会 看 一点 吧 通常 就 不会 去 追 的
+NI12MAP_0101 2026623 2038153 喜欢 看 书 啊 有 啊 我 听 我 会 看 一些 那种 technical 的 书 学 一些 啊 好像 有 那些 书 学 photograph 的 时候 我 会 看
+NI12MAP_0101 2046481 2048608 ok 他们 有 一些 collection of their photos
+NI12MAP_0101 2050844 2059121 你 像 几年 之内 他们 拍 的 照片 有 put inside the photo then 他 就有 些 是 they describe the photos what like they
+NI12MAP_0101 2059121 2073244 the photo mean something to them 就是 一个 meaning 的 他们 会 collect 有些 是 啊 比较 technical 的 就是说 好像 这个 scenery you known 我 天空 拍 到 purple color 的 这样 子 然后 他 brightness 这样 那样
+NI12MAP_0101 2073244 2085554 then 他是 用 什么 setting 啊 什么 camera setting 拍 的 so 有时 去 reference 看 一下 看 别人 怎样 拍照 then 有些 是 有些 是 真的 是 他 会 教 你 他 有一个 部分 是 教 你是 怎样 拍 的
+NI12MAP_0101 2133828 2140987 你 觉得 不错 啦 还是 你 放 上 internet 哦 人家 会 comment 的 not bad 你 不可能 拍 到 一样 的 啦
+NI12MAP_0101 2148623 2150464 啊 会 他 会 different by camera model
+NI12MAP_0101 2154613 2156617 要 要 要 都是 要 做 一些 adjustment
+NI12MAP_0101 2156617 2172010 因为 camera 他 有 一些 你 像 好像 你 拍 他 就是 他 exposure is on on the spot 就是 就是 你 拍 到 怎么样 你 ok 就是 你的 setting 怎么样 你 就 拍 到 怎么样 照片
+NI12MAP_0101 2172010 2182122 不过 internally in the camera 他 会 做 一些 adjustment 好像 noise reduction adjust the color 因为 他 有 一些 setting 吗 你 可以 adjust 他的 white balance 这些
+NI12MAP_0101 2185155 2188641 啊 camera 里面 也有 他 会 有 一些 preset 的 setting
+NI12MAP_0101 2192338 2194179 camera 都是 auto 的
+NI12MAP_0101 2197017 2206751 from camera you load into computer 你 可以 load raw format or the camera setting one 所以 看 camera setting 好不 好 还是 你 用 raw 自己 去 调
+NI12MAP_0101 2210257 2212026 我 啊 通常 是 做 manually 的
+NI12MAP_0101 2215890 2219782 好像 一些 那个 天空 你 要 怎么样 拿 到 这个 color 哦
+NI12MAP_0101 2219782 2229016 你 你 拍 raw raw 就是 raw 吗 你 拍 的 这个 就是 你的 照片 其实 你 看到 那些 很 像 哦 很 蓝 的 哦 是 因为 camera internally 他的 software adjust 的
+NI12MAP_0101 2255640 2258960 嗯 我 买 的 是 那种 entry level 的 d. s. l.
+NI12MAP_0101 2270884 2284029 d. s. l. 他 也是 有 很多 人 用 吗 那种 professional 的 那种 他们 真是 在 studio 拍 赚钱 的 一 架 是 很 贵 的 而且 还有 很难 学 了 很大 架 也是 不 不是 很 方便 带 所以 我 买 哪 种 比较 low end 的
+NI12MAP_0101 2369981 2381911 看 你 有没有 想 要 ok 有没有 一些 specific 的 title you want to search then 你 去 google 那边 你 可以 type after that 啊 google image then 你 可以 search for image
+NI12MAP_0101 2381911 2390596 好像 有 那个 新的 function 你 可以 search for the title the image size then 还有 一个 color 那个 那个 很 那个 very interesting one
+NI12MAP_0101 2390596 2395174 好像 你 search for sun sunflower right 通常 什么 什么 颜色
+NI12MAP_0101 2396941 2403192 黄色 哦 他 有一个 那个 color palette 哦 你 click purple one 他 会 出 一些 purple color 的 sunflower
+NI12MAP_0101 2410231 2424616 好像 上 个 星期 我 看到 因为 我 有 去 我 读 那个 google google's blog 吗 他 有 一些 新的 feature 啊 就 放在 那边 我 去 try 了 前 昨天 我 去 try 你 像 那些 好像 你 要 search for rose 他 有 很多 color 吗 你 要
+NI12MAP_0101 2538883 2541650 我 经常 玩 L. A. N. game
+NI12MAP_0101 2709484 2712268 多久 回 一次 应该 一个 月 会 回 一次
+NI12MAP_0101 2922374 2930082 打算 upgrade 啊 没有 啊 因为 我 还有 还有 几年 的 哪 i think 还有 一年 多 三个 月 的 contract
+NI12MAP_0101 2959689 2963639 我 朋友 show 我 哦 那个 你 可以 倒 那个 酒 然后 你 可以
+NI12MAP_0101 2965908 2968511 你 可以 tilt the angle then 他 就会 流出 来
+NI12MAP_0101 2995735 2998944 哦 去 church 哦 啊 每个 星期 去
+NI12MAP_0101 3060069 3064760 我 通常 不会 去 shopping 啊 就有 东 有 要好 像
+NI12MAP_0101 3084006 3091867 不会 通常 东西 我在 这里 买 啊 因为 我 觉得 过 custom 很 麻烦 哪

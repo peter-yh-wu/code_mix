@@ -149,29 +149,29 @@ def map_characters(utterances, charmap):
     ints = [np.array([charmap[c] for c in u], np.int32) for u in utterances]
     return ints
 
-def load_ids():
+def load_paths():
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     SPLIT_DIR = os.path.join(parent_dir, 'split')
-    TRAIN_IDS_FILE = 'train_ids.txt'
-    DEV_IDS_FILE = 'dev_ids.txt'
-    TEST_IDS_FILE = 'test_ids.txt'
-    train_ids_path = os.path.join(SPLIT_DIR, TRAIN_IDS_FILE)
-    dev_ids_path = os.path.join(SPLIT_DIR, DEV_IDS_FILE)
-    test_ids_path = os.path.join(SPLIT_DIR, TEST_IDS_FILE)
-    with open(train_ids_path, 'r') as inf:
-        train_ids = inf.readlines()
-    train_ids = [f.strip() for f in train_ids]
-    with open(dev_ids_path, 'r') as inf:
-        dev_ids = inf.readlines()
-    dev_ids = [f.strip() for f in dev_ids]
-    with open(test_ids_path, 'r') as inf:
-        test_ids = inf.readlines()
-    test_ids = [f.strip() for f in test_ids]
-    return train_ids, dev_ids, test_ids
+    TRAIN_PATHS_FILE = 'train_paths.txt'
+    DEV_PATHS_FILE = 'dev_paths.txt'
+    TEST_PATHS_FILE = 'test_paths.txt'
+    train_paths_path = os.path.join(SPLIT_DIR, TRAIN_PATHS_FILE)
+    dev_paths_path = os.path.join(SPLIT_DIR, DEV_PATHS_FILE)
+    test_paths_path = os.path.join(SPLIT_DIR, TEST_PATHS_FILE)
+    with open(train_paths_path, 'r') as inf:
+        train_paths = inf.readlines()
+    train_paths = [f.strip() for f in train_paths]
+    with open(dev_paths_path, 'r') as inf:
+        dev_paths = inf.readlines()
+    dev_paths = [f.strip() for f in dev_paths]
+    with open(test_paths_path, 'r') as inf:
+        test_paths = inf.readlines()
+    test_paths = [f.strip() for f in test_paths]
+    return train_paths, dev_paths, test_paths
 
 class ASRDataset(Dataset):
     '''Assumes all characters in transcripts are alphanumeric'''
-    def __init__(self, ids, labels=None):
+    def __init__(self, paths, labels=None):
         '''
         self.labels is only True for test set
 
@@ -180,20 +180,18 @@ class ASRDataset(Dataset):
             labels: list of 1-dim int np arrays
         '''
         parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        self.mfcc_dir = os.path.join(parent_dir, 'data/interview/mfcc')
-        self.ids = ids
+        self.paths = paths
         if labels:
             self.labels = [torch.from_numpy(y + 1).long() for y in labels]  # +1 for start/end token
-            assert len(self.ids) == len(self.labels)
+            assert len(self.paths) == len(self.labels)
         else:
             self.labels = None
 
     def __len__(self):
-        return len(self.ids)
+        return len(self.paths)
 
     def __getitem__(self, index):
-        curr_id = self.ids[index]
-        curr_path = os.path.join(self.mfcc_dir, curr_id+'.mfcc')
+        curr_path = self.paths[index]
         curr_mfcc = torch.from_numpy(np.loadtxt(curr_path)).float()
         
         if self.labels:
