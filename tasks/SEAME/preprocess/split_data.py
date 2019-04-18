@@ -64,8 +64,8 @@ interview_txt_files = os.listdir(INTERVIEW_TEXT_DIR)
 interview_txt_files = [f for f in interview_txt_files if f.endswith('.txt')]
 conversation_txt_files = os.listdir(CONVERSATION_TEXT_DIR)
 conversation_txt_files = [f for f in conversation_txt_files if f.endswith('.txt')]
-interview_txt_paths = [os.path.join(INTERVIEW_TEXT_DIR, f) for f in txt_files]
-conversation_txt_paths = [os.path.join(CONVERSATION_TEXT_DIR, f) for f in txt_files]
+interview_txt_paths = [os.path.join(INTERVIEW_TEXT_DIR, f) for f in interview_txt_files]
+conversation_txt_paths = [os.path.join(CONVERSATION_TEXT_DIR, f) for f in conversation_txt_files]
 txt_paths = interview_txt_paths+conversation_txt_paths
 all_ys = {}
 for f in txt_paths:
