@@ -115,11 +115,13 @@ if __name__ == '__main__':
         random.shuffle(train)
         # set the model to training mode
         model.train()
-        train_sents, train_loss = 0, 0.0
+        train_words, train_loss = 0, 0.0
+        train_sents = 0
         start = time.time()
         for sent in train:
             loss = calc_sent_loss(sent, model, criterion).mean()
             train_loss += loss.data
+            train_words += len(sent)
             train_sents += 1
             optimizer.zero_grad()
             loss.backward()
@@ -140,9 +142,9 @@ if __name__ == '__main__':
 
             model.detach()
 
-        logger.info("iter %r: train loss/word=%.4f, ppl=%.4f (sentence/sec=%.2f)" % (
-            epoch, train_loss / train_sents, math.exp(train_loss / train_sents),
-            train_sents / (time.time() - start)))
+        logger.info("Epoch %r: train loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
+            epoch, train_loss / train_words, math.exp(train_loss / train_words),
+            train_words / (time.time() - start)))
 
         train_loss_record.append(train_loss)
 
@@ -174,7 +176,7 @@ if __name__ == '__main__':
             best_dev = dev_loss
 
         # Save the model
-        logger.info("iter %r: dev loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
+        logger.info("Epoch %r: dev loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
             epoch, dev_loss / dev_words, math.exp(dev_loss / dev_words),
             dev_words / (time.time() - start)))
 
