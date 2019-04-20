@@ -4,11 +4,17 @@
 # Copyright (C) 2019 Zimeng Qiu <zimengq@andrew.cmu.edu>
 # Licensed under the Apache License v2.0 - http://www.apache.org/licenses/
 
+import os
 
-def read_dataset(filename):
-    with open(filename, "r") as f:
-        data = f.readlines()
-    return [[word for word in line.strip().split(" ")[1:] if word != '<v-noise>'] for line in data]
+
+def read_dataset(data_path):
+    data = []
+    for (dirpath, dirs, files) in os.walk(data_path):
+        for file in files:
+            with open(os.path.join(dirpath, file), "r") as f:
+                text = f.readlines()
+                data.extend([[word for word in line.strip().split(" ")[3:] if word != '<v-noise>'] for line in text])
+    return data
 
 
 def is_english_word(word):
