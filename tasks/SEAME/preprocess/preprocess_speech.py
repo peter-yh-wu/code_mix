@@ -10,16 +10,14 @@ from pydub import AudioSegment
 
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INTERVIEW_TEXT_DIR_I = os.path.join(parent_dir, 'data/interview/transcript/phaseI')
-INTERVIEW_AUDIO_DIR_I = os.path.join(parent_dir, 'data/interview/audioI')
-INTERVIEW_WAV_DIR_I = os.path.join(parent_dir, 'data/interview/wavI')
-CONVO_TEXT_DIR_I = os.path.join(parent_dir, 'data/conversation/transcript/phaseI')
-CONVO_AUDIO_DIR_I = os.path.join(parent_dir, 'data/conversation/audioI')
-CONVO_WAV_DIR_I = os.path.join(parent_dir, 'data/conversation/wavI')
 INTERVIEW_TEXT_DIR_II = os.path.join(parent_dir, 'data/interview/transcript/phaseII')
-INTERVIEW_AUDIO_DIR_II = os.path.join(parent_dir, 'data/interview/audioII')
+INTERVIEW_AUDIO_DIR = os.path.join(parent_dir, 'data/interview/audio')
+INTERVIEW_WAV_DIR_I = os.path.join(parent_dir, 'data/interview/wavI')
 INTERVIEW_WAV_DIR_II = os.path.join(parent_dir, 'data/interview/wavII')
+CONVO_TEXT_DIR_I = os.path.join(parent_dir, 'data/conversation/transcript/phaseI')
 CONVO_TEXT_DIR_II = os.path.join(parent_dir, 'data/conversation/transcript/phaseII')
-CONVO_AUDIO_DIR_II = os.path.join(parent_dir, 'data/conversation/audioII')
+CONVO_AUDIO_DIR = os.path.join(parent_dir, 'data/conversation/audio')
+CONVO_WAV_DIR_I = os.path.join(parent_dir, 'data/conversation/wavI')
 CONVO_WAV_DIR_II = os.path.join(parent_dir, 'data/conversation/wavII')
 
 def crop_wav(in_path, out_path, t1, t2):
@@ -63,12 +61,12 @@ if not os.path.exists(INTERVIEW_WAV_DIR_I):
     os.makedirs(INTERVIEW_WAV_DIR_I)
 if not os.path.exists(CONVO_WAV_DIR_I):
     os.makedirs(CONVO_WAV_DIR_I)
-crop_data(INTERVIEW_TEXT_DIR_I, INTERVIEW_AUDIO_DIR_I, INTERVIEW_WAV_DIR_I)
-crop_data(CONVO_TEXT_DIR_I, CONVO_AUDIO_DIR_I, CONVO_WAV_DIR_I)
+crop_data(INTERVIEW_TEXT_DIR_I, INTERVIEW_AUDIO_DIR, INTERVIEW_WAV_DIR_I)
+crop_data(CONVO_TEXT_DIR_I, CONVO_AUDIO_DIR, CONVO_WAV_DIR_I)
 '''
 if not os.path.exists(INTERVIEW_WAV_DIR_II):
     os.makedirs(INTERVIEW_WAV_DIR_II)
 if not os.path.exists(CONVO_WAV_DIR_II):
     os.makedirs(CONVO_WAV_DIR_II)
-crop_data(INTERVIEW_TEXT_DIR_II, INTERVIEW_AUDIO_DIR_II, INTERVIEW_WAV_DIR_II)
-crop_data(CONVO_TEXT_DIR_II, CONVO_AUDIO_DIR_II, CONVO_WAV_DIR_II)
+crop_data(INTERVIEW_TEXT_DIR_II, INTERVIEW_AUDIO_DIR, INTERVIEW_WAV_DIR_II)
+crop_data(CONVO_TEXT_DIR_II, CONVO_AUDIO_DIR, CONVO_WAV_DIR_II)
