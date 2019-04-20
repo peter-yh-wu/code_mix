@@ -119,7 +119,8 @@ if __name__ == '__main__':
         train_sents = 0
         start = time.time()
         for sent in train:
-            loss = calc_sent_loss(sent, model, criterion).mean()
+            # TODO: mean or sum loss?
+            loss = calc_sent_loss(sent, model, criterion)
             train_loss += loss.data
             train_words += len(sent)
             train_sents += 1
@@ -156,7 +157,7 @@ if __name__ == '__main__':
         with torch.no_grad():
             for sent in dev:
                 # sentences = batch.to(DEVICE)
-                loss = calc_sent_loss(sent, model, criterion).mean()
+                loss = calc_sent_loss(sent, model, criterion)
                 dev_loss += loss.data
                 dev_words += len(sent)
 
