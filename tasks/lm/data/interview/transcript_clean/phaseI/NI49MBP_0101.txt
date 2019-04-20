@@ -1,0 +1,273 @@
+NI49MBP_0101 2080 5700 hello 我的 name 是 ng-jun-kai
+NI49MBP_0101 7120 10720 我 今年 er 的 age 是 twenty one
+NI49MBP_0101 12330 14500 我 我 live in hall six
+NI49MBP_0101 28120 30580 我 读 er nanyang business school
+NI49MBP_0101 31570 35830 今年 是 first year 的 accountancy er 学生
+NI49MBP_0101 44880 48390 我的 n. s. 是在 er 警察局 那边
+NI49MBP_0101 49730 53720 我 er 两年 er 我的 过去 的 two years
+NI49MBP_0101 54050 59180 都是 在 那个 ppl novena 那边 做 n. s. 的
+NI49MBP_0101 61770 66350 novena 是 靠近 orchard 那边
+NI49MBP_0101 73180 75240 orh 我是 做 clerical work 的
+NI49MBP_0101 76060 77680 ah clerical work 就是
+NI49MBP_0101 78120 80800 everyday 我 基本上 就是
+NI49MBP_0101 81340 85560 mmm 帮 人家 处理 那些 admin 的 的 issue
+NI49MBP_0101 88580 91910 生活 我 我觉得 以前 的 life 还 not bad 的
+NI49MBP_0101 105320 112030 我觉得 for the past two years 在 n. s. 我 我 学 了 quite alot of things
+NI49MBP_0101 115360 117610 er 我的 那边 的 environment
+NI49MBP_0101 118760 122840 不 象 平 人家 平时 的 n. s. 的 work workplace 这样
+NI49MBP_0101 124470 128000 是 没有 这样 多 er uniform officers ah
+NI49MBP_0101 129350 133560 是 比较 多 那些 civilian officers 所以 its more of like a
+NI49MBP_0101 135410 137930 a 正常 的 office environment
+NI49MBP_0101 147500 153980 所以 我觉得 对 我 以后 的 job 的那些 requirement 会 有一点 帮助 lah
+NI49MBP_0101 164890 169750 right lah but er 要 看 你 因为 这 两年 you have to go through it ah
+NI49MBP_0101 170280 175740 所以 er 要 看 你 怎样 perceive 那个 那个 两年 lor
+NI49MBP_0101 175960 184060 所以 i think 既然 这个 two years 都 一定要 have to do it then 不如 er 就 like 乐观 一点 lor
+NI49MBP_0101 185230 189500 like try to learn 一些 新的 东西 during 那个 two years
+NI49MBP_0101 202740 204820 我的 是 five days a week
+NI49MBP_0101 205960 209390 早上 八点 到 six o'clock
+NI49MBP_0101 213610 217200 orh 没有 没有 er 那边 er basically 是 er 一个
+NI49MBP_0101 217790 222680 office 的 环境 来 的 er 没有 宿舍 让 我们 stay over 的
+NI49MBP_0101 223910 227990 er 每天 就要 er 搭车 来 搭车 to and fro lah
+NI49MBP_0101 230210 233060 er 我 住 在 jurong-east ppl
+NI49MBP_0101 235920 240830 er 通常 人家 觉得 是 quite far 的 but i think 是 okay 的 lah
+NI49MBP_0101 243980 249860 er 对 lah 我 我 我 ppl 那时 two years 的时候 最最 怕 的 就是 那个 rush hour
+NI49MBP_0101 253560 257430 要 去 take 那个 train then 就会 很 squeezy ah
+NI49MBP_0101 258260 261770 每次 要 跟 人家 squeeze 到 好像 沙 丁 鱼 这样
+NI49MBP_0101 269230 272540 er 对 lor 记得 以前 那些 train ride 都是
+NI49MBP_0101 284710 286960 会 不是 很 easy bah
+NI49MBP_0101 288250 292700 那个 train 已经 是 每 一 两个 minute 就 来 一 辆 了
+NI49MBP_0101 293810 298420 in the end 还是 er 还是 很 squeezy 都是 满满的
+NI49MBP_0101 307300 311640 er 我 我在 hall six 是 帮 他们 玩 badminton 的
+NI49MBP_0101 312970 316740 then 我自己 的 时间 也有 打 一些 basketball
+NI49MBP_0101 324280 330110 orh 对 ah er 就是 平时 没有 school 的时候 我会 去 gym 一下 lor
+NI49MBP_0101 334200 340190 balance 在 生活 不可以 每次 一直 读书 读书 读书 坐 着 要 去 exercise 一下
+NI49MBP_0101 358910 364380 ah 对 ah accountancy 是 蛮 busy 的 因为 他们 有很多 的 project
+NI49MBP_0101 366590 371200 currently 我 现在 有 three projects that 我 要 做 的
+NI49MBP_0101 373260 379430 比如说 那个 最 recent 的 就是 我的 microsoft access 的 的 project
+NI49MBP_0101 382070 384370 actually 我在 赶 那个 project lah
+NI49MBP_0101 384500 386530 因为 monday 要 交 了
+NI49MBP_0101 389400 394220 这次 是 我 第一次 用 microsoft access 所以 我 有 一些 difficulties ah
+NI49MBP_0101 394410 398180 actually 很多 的 difficulties using microsoft access ah
+NI49MBP_0101 400740 406300 for the past 两个 礼拜 我都 在 erm 慢慢 学 怎样 用 microsoft access lor
+NI49MBP_0101 414090 418740 orh microsoft access 是 来 处理 er 整理 那些 data base 的
+NI49MBP_0101 419690 423260 所以 er 我们的 project 的 context 就是
+NI49MBP_0101 423450 427540 我们是 一个 spa 的 er owner
+NI49MBP_0101 427870 435070 所以 我们 要 处理 那个 那个 er spa 的 daily operations 的那些 data
+NI49MBP_0101 436450 441260 所以 er 我们 er 需要 记录 那些 customer records
+NI49MBP_0101 441470 444020 还有 那些 customer preferences 那些
+NI49MBP_0101 445240 454420 after 我们 randomly er generate 一些 data then 我们 就是 要 er er 想 办法 帮 那个 business
+NI49MBP_0101 455630 459810 orh 就是 刚才 我们 discuss 到 的 就是 那个 business
+NI49MBP_0101 464620 470500 er 他们 刚才 我们 discuss 到 的 那个 business plan 的 那个 idea 就是
+NI49MBP_0101 472310 474680 那个 discount coupon 的
+NI49MBP_0101 475180 479290 primary purpose 就是 来 market 那个 company 的 products
+NI49MBP_0101 479760 483750 but er existing 的 online coupon websites 很
+NI49MBP_0101 484280 490200 太 过 cluttered 了 所以 很难 feature 到 那些 company 的 的那些 coupons
+NI49MBP_0101 493140 497330 er 我们 会 come up with er 一个 function on our websites
+NI49MBP_0101 499830 503760 er 我们的 website er 会 每天 feature 一个 coupon
+NI49MBP_0101 504720 508840 会 很 obvious ah 所以 到 我们 website 的 人 都会 看 得到
+NI49MBP_0101 510970 514620 besides that 我们 还有 一个 coupon 的 system
+NI49MBP_0101 515060 520360 coupon 就是 er collective er cash coupon 的 那种 意思
+NI49MBP_0101 523880 529810 我 我会 放 一个 cash coupon on 我的 website 去 让 人家 投票
+NI49MBP_0101 532535 534865 er 比如说 那个 cash coupon 是
+NI49MBP_0101 535575 540135 十 块钱 worth of macdonald's vouchers at a price of 五 块钱
+NI49MBP_0101 541045 543045 but 那个 requirement 就是说
+NI49MBP_0101 543275 551585 每个人 需要 我 需要 有一个 minimum bid of lets say 一百 个 我 才 会 er release 这个 cash coupon
+NI49MBP_0101 554620 557460 是 这个 薄利 多 销 的 theory lah
+NI49MBP_0101 560490 563800 er 那个 company have a large volume to
+NI49MBP_0101 564180 570380 offset 他的 那个 er ppl er 比较 廉价 的 er products lor
+NI49MBP_0101 571580 576630 所以 这个 这个 coupon 的 idea 是 我们 主要 的 focus lah
+NI49MBP_0101 576860 582210 因为 我们 觉得 这个 薄利 多 销 的 这个 方法 是 not bad 的
+NI49MBP_0101 583310 585670 还有 er 我的 third project ah
+NI49MBP_0101 585750 590290 那个 最后 一个 project 就是 on financial management 的
+NI49MBP_0101 592550 595160 basically 那个 tutor 就是 要 我们
+NI49MBP_0101 596030 600810 把 我们 er 这 整个 semester learn 的 东西
+NI49MBP_0101 602000 605820 to put them in application in 我们的 daily lives
+NI49MBP_0101 606820 610880 所以 我们 学 了 可能 学 了 about bonds ah
+NI49MBP_0101 611750 614670 interest rates ah company 的 financial health
+NI49MBP_0101 615200 623970 所以 我们 需要 做 的 就是 present 一个 business 一个 newspaper article 一个 article lah 不一定 是要 newspaper 的
+NI49MBP_0101 625500 628600 on related 的 financial management 的 topic
+NI49MBP_0101 630870 639020 所以 basically 就是 把 financial 把 theory apply into 我们 现实 ppl 生活 身 生 身上 lah
+NI49MBP_0101 647430 650440 orh bonds ah bonds er basically 就是
+NI49MBP_0101 651050 656840 可以 是 government 或者 是 company ppl 他们 issue 一个 paper
+NI49MBP_0101 658840 662040 他的 idea 就是 他是 一个 loan 来 的
+NI49MBP_0101 663370 666480 一个 loan bond er basically 是一个 loan 来 的
+NI49MBP_0101 667630 671920 er 我 卖 你 这个 certificate for 一千 块
+NI49MBP_0101 677280 682940 er 所以 那个 difference which is 一百 块 就是 那个 买 的 人
+NI49MBP_0101 684690 689430 er creditor lah 他 会 earn the 那个 interest amount lor
+NI49MBP_0101 690760 697630 所以 bond er 可以 be issued by government 或者 是 can be issued by private company lah
+NI49MBP_0101 703100 709170 他们的 bonds 会比较 risky ah as compared to 那些 government 的 bonds
+NI49MBP_0101 710080 713660 所以 erm 他们 有 一些 com 一些 organisations like
+NI49MBP_0101 723510 729550 moody 是一个 也是 多 一个 公司 他们的 他们的 job 就是
+NI49MBP_0101 732480 736560 er 观察 那些 company 的 risk level
+NI49MBP_0101 738410 740750 只要 你的 company 越 risky
+NI49MBP_0101 741110 749690 then 你的 bond 就会 er 越 risky 你的 bond 的 value the return value 就要 er subsequently 要是 high 的
+NI49MBP_0101 751180 756640 but there is a risk of 你 of you er 把 你的 钱 丢掉 lah
+NI49MBP_0101 757930 760580 所以 government 的 bond 是 比较 安全 的
+NI49MBP_0101 761850 765260 他们的 returns 就 相对 的 比较 少 lor
+NI49MBP_0101 778880 781960 investments er 我们 有 学 我们 现在 erm
+NI49MBP_0101 787640 793490 the cost of capital 就是 er 一个 company 要 去向 别人 borrow money
+NI49MBP_0101 793920 800730 then 他们的 actual cost of 他们的 borrowing activity 是 多少
+NI49MBP_0101 801900 807460 companies 的 borrowing ppl activities 可以 分成 three broad categories
+NI49MBP_0101 809040 811560 第一个 就是 issue stocks
+NI49MBP_0101 813330 815550 第二 个 就是 issue bonds
+NI49MBP_0101 815830 819150 第三 个 就是 向 银行 借 loan
+NI49MBP_0101 820240 823580 所以 就是 这 三个 categories lah 因为 每个
+NI49MBP_0101 824080 830550 between 这 三个 categories 他们的 cost 都是 不一样 的 cost of 那个 debt 是 不一样 的
+NI49MBP_0101 831770 835470 我们 需要 找 ppl 那个 aggregate 的 cost 是 多少 lah
+NI49MBP_0101 842500 846240 financial management er 还 满 像 mathematics 的
+NI49MBP_0101 847740 854080 er most of it 就是 mathematics applied in er business lor in finance and business 这样
+NI49MBP_0101 864005 867975 因为 我觉得 ppl 蛮 relevant to 我的 life 的
+NI49MBP_0101 871245 879720 finance 的 articles 我都 一点 都 看 不懂 ah 现在 我 读 了 finance management er then 就 better for me lor
+NI49MBP_0101 880850 884400 我 就 现在 er 现在 比较 了解 那些 articles 在 讲 什么
+NI49MBP_0101 884680 886960 可以 relate to 我的 life lah
+NI49MBP_0101 887690 891410 对 我觉得 是一个 蛮 useful 的 topic 的
+NI49MBP_0101 910420 916620 读 我觉得 我们 读 article 的时候 不可以 take everything on for on face value lah 因为
+NI49MBP_0101 919330 923550 可能 是一个 人 或 一一 组 人 er write the article
+NI49MBP_0101 925090 931280 他们 有 underlying 的 motive 的 erm which 我们 不一定 会 知道
+NI49MBP_0101 933800 938450 可能 他们 有 purpose to sway 我们 这些 reader lah 的 intention
+NI49MBP_0101 941395 951525 一个 pro governenment 的 writer 所以 他 会 写 一些 东西 to er motivate 那些 er readers to go along with 那些 government 的 policies or something lah
+NI49MBP_0101 957185 959395 他们 写 什么 我们 都 swallow 下去
+NI49MBP_0101 960775 963655 要 看 er 那些 writer 的 credentials 也是
+NI49MBP_0101 964360 966755 他们是 一个 independent 的 writer 还是
+NI49MBP_0101 968515 973405 通常 还是 do they usually 写 一些 government 的 policies 的那些 东西
+NI49MBP_0101 991135 994655 对 lah 因为 ppl 那个 stock market 又是
+NI49MBP_0101 1000495 1005765 collectively 有很多 人 觉得 这个 stock 会 是 er 会 out perform itself
+NI49MBP_0101 1008165 1013385 就 subsequently 就会 很多 人 去 买 那个 stock ah then 那个 股票 就会 升 升 升 ah
+NI49MBP_0101 1015965 1020555 这个 不是 那个 true market mar true value of 那个 stock
+NI49MBP_0101 1023025 1026035 but eventually 这种 东西 history have have shown that
+NI49MBP_0101 1026645 1029435 eventually 这些 东西 就会 like
+NI49MBP_0101 1032085 1036535 and then er 他的 那些 那些东西 都是 会 er
+NI49MBP_0101 1037985 1043445 都是 会 er collapse orh 因为 通常 都是 因为 有 一些 人 放假 消息
+NI49MBP_0101 1047365 1052665 adjust 他的 那个 financial statement 所以 人家 会 有 那个 wrong impression that
+NI49MBP_0101 1054035 1057845 那个 stock 那个 company is doing better than it is ah
+NI49MBP_0101 1068625 1072245 ah 对 lah 要 去 要 要 去 放 一点 effort lah
+NI49MBP_0101 1073625 1076275 之前 我也 是 有 听 过 这个 theory that er
+NI49MBP_0101 1076975 1080530 in the long run 那些 股票 的 value 都是 会上 涨 的
+NI49MBP_0101 1082125 1090535 是 true 的 lah but er 也要 看 他们 涨 得 多少 lah 也要 compare to 那些 inflation rate 还是 什么的
+NI49MBP_0101 1102655 1106675 因为 之前 我在 decide between business 还有
+NI49MBP_0101 1107835 1112825 engineering lah as in generally business 还有 engineering lor
+NI49MBP_0101 1114225 1116265 我是 用 elimination method 的 lah
+NI49MBP_0101 1121385 1127055 我在 er junior college 的时候 是 more inclined towards er engineering 的 lah
+NI49MBP_0101 1127285 1132615 因为 我的 强项 是 我的 sciences physics 还有 mathematics ma
+NI49MBP_0101 1133225 1137515 er 可是 到了 junior college er year two 的时候
+NI49MBP_0101 1139345 1144145 虽然 我的 强项 是 physics 和 mathematics 那些 可是我 觉得
+NI49MBP_0101 1144915 1147635 er 那些 topic 有点 boring ah
+NI49MBP_0101 1156255 1163685 我 ended up with 那个 decision of doing accountancy 是 for more practical 的 purposes lah
+NI49MBP_0101 1165510 1169100 business er 是一个 general 的 degree ma 所以
+NI49MBP_0101 1170720 1178560 它 不 不会 对 我们 er 是 很 useful 的 as compared to 一个 accountancy 的 degree lor
+NI49MBP_0101 1178990 1180850 所以 是 for practical reasons ah
+NI49MBP_0101 1181270 1182910 因为 at the end of the day
+NI49MBP_0101 1183200 1189860 er 假如 我 读 accountancy 的话 我 还是 可以 做 business related 的那些 jobs lor
+NI49MBP_0101 1214000 1218290 so far 我 还没有 学 到 er 这么 这么
+NI49MBP_0101 1230140 1233250 ppl so far 我 还没有 学 到 marco economics ah
+NI49MBP_0101 1237740 1240920 the 那些 topics 都是 蛮 micro 的 like
+NI49MBP_0101 1241360 1247090 ppl accounting ah financial management 都是 很 specific 的那些 business tools
+NI49MBP_0101 1257150 1260590 对 lor 还 我们的 topics 还 蛮 technical 的
+NI49MBP_0101 1272580 1275570 就 好像 marathon 这样 er 是一个
+NI49MBP_0101 1279170 1282510 orh 我 我 我 不是 我 不是 er iron man ah
+NI49MBP_0101 1282710 1288680 er 这个 这 我 join 的 这个 er 有 分成 group event 还有 individual event ah
+NI49MBP_0101 1290100 1296890 属于 那个 group event 的 我 还没有 到 那个 individual 的 event 的 那个 ppl er capability
+NI49MBP_0101 1298490 1304460 所以 er 有 三 项 mah three events 分成 cycling running 还有 swimming ah
+NI49MBP_0101 1306630 1313230 我是 cycling 的 ah then 我的 朋友 是 负责 running 还有 swimming 的
+NI49MBP_0101 1314350 1317590 我 我 还 觉得 cycling 是 还是 算是 比较 简单 的
+NI49MBP_0101 1320170 1323970 我 假如 我 没有 记 wrongly 的话 是 好像
+NI49MBP_0101 1328820 1330790 二 三十 k. m. 而已
+NI49MBP_0101 1334940 1337780 difficult 的 项目 还是 swimming bah
+NI49MBP_0101 1348170 1352190 这个 我们 er 的 start off point 是在 east coast park 那边
+NI49MBP_0101 1359930 1364510 er 我们是 er like swim one round then 就 回来
+NI49MBP_0101 1375870 1377850 orh 没有 pool 是 大海 来 的
+NI49MBP_0101 1379290 1382500 所以 它的 难度 是非 常 difficult 的
+NI49MBP_0101 1386500 1390820 difficult 的 东西 就是 getting getting into 那个 sea lah
+NI49MBP_0101 1391980 1399340 er on that day itself 会 有 er a few hundred 人 去 collectively 一起 跳 进 那个 sea mah 所以
+NI49MBP_0101 1399810 1403210 每个人 都 想 er 争 那个 first place
+NI49MBP_0101 1417270 1422030 他们 会 一定 会 er 乱 乱 kick one another 的
+NI49MBP_0101 1423620 1431270 只要 你 不够 你 不够 快 er 冲 上 那个 sea shore 的话 then 你 你 就会 在后面 被 人 踢 倒 很 很 惨
+NI49MBP_0101 1438910 1440640 我觉得 那天 还 not bad lah
+NI49MBP_0101 1443200 1446790 那天 的 天气 还是 不错 的 clear and sunny
+NI49MBP_0101 1457750 1462200 er 因为 我 我觉得 那个 海浪 应该 是 那天 还是 蛮 calm 的
+NI49MBP_0101 1466920 1469170 那个 usual 的 海浪
+NI49MBP_0101 1478480 1480150 running 是 最后 一个 ending 的
+NI49MBP_0101 1485620 1488740 成绩 老实 来说 not very good ah
+NI49MBP_0101 1490660 1494590 participate with 那个 intention of having fun 而已 ah
+NI49MBP_0101 1500120 1502390 average bah average 的 result
+NI49MBP_0101 1516600 1520420 orh 所以 er before 那个 event itself 我
+NI49MBP_0101 1521830 1528860 因为 那时 我 还没有 start school mah 所以 我 就在 我的 free time 的时候 我会 去 骑 脚 车 lah
+NI49MBP_0101 1530350 1533030 我的 distance 我 不会 er
+NI49MBP_0101 1533810 1536400 cycle exactly 三十 k. m.
+NI49MBP_0101 1536490 1546630 所以 我会 try to cycle more than k. m. lah maybe lets say fifty k. m. or something lah 因为 to better prepare 我自己 for 那个 event mah
+NI49MBP_0101 1549870 1556900 可能 usually er 我 有空 的时候 我 就会 er 从 我 家 cycle 到 er lets say
+NI49MBP_0101 1559000 1564600 er around tiong-bahru habourfront 那个 area 再 cycle 回去 lah
+NI49MBP_0101 1566110 1568750 我觉得 应该 是 有 fifty k. m. 了 bah
+NI49MBP_0101 1570940 1575460 我 有 尝试 过 er cycle around singapore lah
+NI49MBP_0101 1576130 1583390 那个 distance 大概 是 一百 一百 三十 plus minus ten k. m. bah
+NI49MBP_0101 1587950 1592400 ah 我 大概 take 了 差不多 一 整天 ah 一 整个 下午
+NI49MBP_0101 1593920 1597520 with er breaks in between 我的 那个 cycling 的 lah
+NI49MBP_0101 1606140 1610570 有 suit 是 会 er 有 better 的 aerodynamics ah
+NI49MBP_0101 1611620 1615780 所以 when 需要 的时候 就会 我 就会 穿 lor 可是
+NI49MBP_0101 1616210 1623670 那个 suit 不是 很 comfortable ah 所以 我 usually training 的时候 会 穿 那种 比较 轻便 的 运动 装 ah
+NI49MBP_0101 1641360 1643160 跟我 的 friend borrow 的
+NI49MBP_0101 1647030 1649710 then er 我 有 买 了 那个 卡 鞋 ah
+NI49MBP_0101 1649850 1655070 因为 那个 是一个 important 的 一个 那个 equipment 来 的
+NI49MBP_0101 1656490 1658040 er 我的 friend 是 说
+NI49MBP_0101 1658960 1662900 as compared to normal 的 鞋子 假如 你 穿 那些 那个 卡 鞋
+NI49MBP_0101 1663020 1668190 你的 efficiency 会 会 提高 ah 你 不会 浪费 掉 你的 energy
+NI49MBP_0101 1684230 1687950 台湾 的 的 路 会 er well developed 吗
+NI49MBP_0101 1709560 1713370 ah japan 的 东西 的 quality 都是 very good 的
+NI49MBP_0101 1803755 1807735 er 那个 也是 for 他们的 aerodynamics 的
+NI49MBP_0101 1810005 1812135 那个 air resistance 会比较 少
+NI49MBP_0101 1812555 1816815 ah 所以 就 相对 的 那个 efficiency 也是 提高 lor
+NI49MBP_0101 1892375 1895745 哪一 个 band ah 他的 band 好像 是 er
+NI49MBP_0101 1896295 1899365 假如 我 没有 记 wrongly 的话 是
+NI49MBP_0101 1911115 1914445 古董 的 bicycle 的那些 model
+NI49MBP_0101 1942875 1946685 我 一直 以来 都 想 去 台湾 去 tour 一下
+NI49MBP_0101 1949885 1955425 t. v. 看到 那些 er 台湾 的 variety show 都 很 精彩 ah 他们
+NI49MBP_0101 1968195 1970925 ah 因为 我的 爸爸 是 hokkien
+NI49MBP_0101 2054965 2058415 我 没有 er 很 很 经常 去 overseas
+NI49MBP_0101 2062445 2064465 台 东 类似 的那些 places
+NI49MBP_0101 2065455 2067435 我都 觉得 蛮 attractive 的
+NI49MBP_0101 2072115 2074205 欣赏 那个 scenery
+NI49MBP_0101 2081655 2084675 then 又 可以 er 吃 到 新鲜 的那些 seafood
+NI49MBP_0101 2108485 2111725 graduate from junior college 的时候 我 有
+NI49MBP_0101 2122610 2126760 购物 ah 吃 东西 ah 享受 一下 life ah
+NI49MBP_0101 2128690 2133930 disneyland ah orh 我们 er 那时 not enough time 所以 我们 没有 去 ah
+NI49MBP_0101 2134840 2137260 most of 我们的 trip 都是 在 er
+NI49MBP_0101 2150600 2154330 就是 mmm 不错 ah 东西 都是 很 cheap 的
+NI49MBP_0101 2165100 2173940 之前 before 我 enter university 我 还有 去 er backpacking er in southeast asia
+NI49MBP_0101 2175930 2185850 我 第一个 stop 就是 vietnam 我们 去了 vietnam ah er 我们 去 after that 我们 就 去 cambodia
+NI49MBP_0101 2186200 2192630 and then after that 我们 去 thailand 然后 malaysia 再 回来 singapore
+NI49MBP_0101 2198800 2205100 firstly 我们 er 飞 去 vietnam then in between 那些 countries 我们 就会
+NI49MBP_0101 2217470 2220440 ah 我们 没有 take 那些 modern 的 transport
+NI49MBP_0101 2237830 2241550 most of 我们的 时间 都是 在 vietnam 还有 cambodia lah
+NI49MBP_0101 2242570 2249090 er vietnam cambodia er as compared to malaysia 跟 er thailand 是 比较 好玩 的
+NI49MBP_0101 2265400 2270780 所以 可以 看到 那些 er 原始 的 东西 ah 都是 觉得 蛮 interesting 的
+NI49MBP_0101 2274650 2276840 我们 去 er ho-chinh-min
+NI49MBP_0101 2283730 2285250 比较 靠近 south 那边
+NI49MBP_0101 2286710 2289560 有 去 er 参观 他的 museum
+NI49MBP_0101 2294700 2297390 er colony 一个 english colony 来 的
+NI49MBP_0101 2302120 2305400 被 很多 englishmen 欺负 的那些 遭遇
+NI49MBP_0101 2306680 2310890 有 有 在那边 我 学 了 有 这个 agent orange 的 东西 ah
+NI49MBP_0101 2314660 2322030 之前 vietnam 是一个 那个 north of vietnam 是 er 是 那些 englishmen 占有 的
+NI49MBP_0101 2325280 2330300 north 是 er 那些 communist 占有 的 south 是 englishmen 占有 的
+NI49MBP_0101 2338100 2345850 那些 south vietnam 就是 那些 english er 那些 airline forces 的 他们 有 比较 advanced 的 武器
+NI49MBP_0101 2346160 2349560 ah 来 对抗 那些 communist 可是 communist
+NI49MBP_0101 2350650 2355500 没有 as well off as 那些 他们的 south vietnamese 的 counterparts 他们 都
+NI49MBP_0101 2366950 2368950 er 躲 在 那些 tunnel 里面
+NI49MBP_0101 2373170 2376980 还 还是 我 还 说 我 还是 得 admit 他们是 蛮 厉害 的
+NI49MBP_0101 2378900 2381920 他们 er 一直 躲 在 那个 jungle 里面
+NI49MBP_0101 2404780 2406970 攻打 那些 north vietnamese
+NI49MBP_0101 2408500 2411300 in the end 他们 er 放 的 那个 分量
+NI49MBP_0101 2417350 2424520 那个 那个 chemical 有 那个 after after effects of 那个 chemical like 有很多 mutations ah
+NI49MBP_0101 2424700 2432320 你 在 museum 看到 有很多 er dead foetous ah then 有 er 一些 人的 head 是 enlarged 的
+NI49MBP_0101 2432540 2435110 那些 手 一一 边 small 一边 big
+NI49MBP_0101 2449290 2451080 只 用 那种 小小 个 的 spade
+NI49MBP_0101 2452890 2455960 挖出 一个 很 complicated 的 ton tunnel system
+NI49MBP_0101 2457030 2461530 他们 那些 tunnel 叫做 他们 当地人 call it as ku-chi-tunnel
+NI49MBP_0101 2464680 2468750 那个 我 只要 我 没有 记 错 是 over three hundred something k. m. ah
+NI49MBP_0101 2482140 2486900 defend 他们的 那个 地方 在 做 那些 surprise attack on 那些
+NI49MBP_0101 2490120 2493440 furthermore 他们 也是 住 在 那些 tunnel 里面 的
+NI49MBP_0101 2498820 2502750 我们 还有 我们 那时 还有 去 参观 他的 那个 ku-chi-tunnel
+NI49MBP_0101 2507460 2509670 but 是 不一样 的 是 modified 过 的
+NI49MBP_0101 2511010 2516290 他们的 tunnel 他们 有 enlarged 过 to allow tourists to go in and see 的
+NI49MBP_0101 2516500 2519750 那个 original 的 是非 常 非常 小 的 因为
+NI49MBP_0101 2520860 2526610 vietnamese 的 那个 nutrition 不是 很好 所以 他们的 size 是 很 small 的
+NI49MBP_0101 2528370 2532840 so correspondingly 那些 美军 不可以 er 爬 进去 那些 tunnel

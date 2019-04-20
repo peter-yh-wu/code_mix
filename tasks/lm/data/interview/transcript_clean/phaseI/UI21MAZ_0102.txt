@@ -1,0 +1,135 @@
+UI21MAZ_0102 0 5414 平时那种 weekdays 的话 四十多个罢了没错的话四十四十三四十六好像是
+UI21MAZ_0102 15213 22156 哦是啊现在就是这样啦就是 dell 的 support 就有分主要两种可以讲三种啦
+UI21MAZ_0102 22156 26335 一个就是电话打进来有问题我们就 check 到是 hardware 问题
+UI21MAZ_0102 26335 30494 我们就 send engineer 去他的家帮他当场帮他修理啰
+UI21MAZ_0102 30494 32713 这是叫 on site service 啰第一个啰
+UI21MAZ_0102 32713 42884 然后第二个是 customer 可以有些他们 warranty 可以的啦有那个有买那那一类型 warranty 他们就可以去我们的 repair center
+UI21MAZ_0102 42884 50565 比如说槟城的是在那个五条路那边的你就拿进去里面就放在那边他们修理好了过后你再去拿回来
+UI21MAZ_0102 50565 57115 那第二种第三种是啊 collect and return 就我们 site 派人过去把你的电脑拿走
+UI21MAZ_0102 57115 61161 过后拿回去我们自己的 workshop 修理好过后再我们再送回给你
+UI21MAZ_0102 61161 63688 第二跟第三差不多一样啦其实
+UI21MAZ_0102 67844 79545 只是还蛮 sien 得啦整天坐着因为迟早会变肥整天坐在那边没有的走啰因为就是一小时 lunch 罢了嘛你要很准时的那边的 discipline 还蛮严的啦
+UI21MAZ_0102 79545 82218 因为你我们的电话要有 login 时间
+UI21MAZ_0102 82218 87523 所以你按 login 的时候他们就会 record ah 你九点 login har 没有迟到
+UI21MAZ_0102 87523 96049 你迟了一分钟也好他们会 ah 过了在同一天里面啦大概三四个小时过后会有一个 report 出来
+UI21MAZ_0102 96049 98086 你们全部 agent 的 login 时间
+UI21MAZ_0102 98086 105149 然后你会有红色就是迟到很多黄色是迟到一点青色是没有迟到会有一个 list 出来的
+UI21MAZ_0102 105149 115003 是这样算然后呃你的 lunch time 也是很准的啰就你如果吃多一分钟的话啊你回来那个 report 你也会看到时黄色红色了啰
+UI21MAZ_0102 115003 122507 就好像五颜六色了然后就这样mmm 是这样啰比较严一点基本上多数时间都是要坐在那边听电话
+UI21MAZ_0102 130185 143657 eh he he 这种 sensitive 问题来得喔呃会有啦比较当然是越便宜的 product 那个 issue 会比较多啦那种贵的贵的系列的那种很少会有问题的
+UI21MAZ_0102 147771 148872 o. k.
+UI21MAZ_0102 151741 156164 notebook 怎样讲 leh 不要买 shh shh 哦做么 leh
+UI21MAZ_0102 157636 158216 ha
+UI21MAZ_0102 161330 164872 hmm 这是 depends hmm hmm
+UI21MAZ_0102 170425 171254 ha
+UI21MAZ_0102 174968 185370 hor 因为我之前 part time 做卖电脑的吗那时候我卖的也有不同的 brand toshiba dell 啊 acer 啊 asus 啊全部我卖过啦
+UI21MAZ_0102 185370 193827 就最不好就听到最多 feedback 不好不好当然是最便宜那个 brand 就是 a. 字头的 brand 啰哈
+UI21MAZ_0102 193827 204889 o. k. 过后因为 dell 跟然后还有一个 c. 字头的 brand 他有两个 company 的 o. k. 那个他走走 low end 路线的都是会比较多问题
+UI21MAZ_0102 204889 213962 比如说 dell dell 也好啦他也是他 product 有分不同的 low end high end 的吗 low end 的当然会问题比较多正常的事
+UI21MAZ_0102 215229 221676 然后如果有钱当然是去买那种 mac 了吗 apple 你最有最好最安最安全的基本上
+UI21MAZ_0102 228445 231931 hmm 也是可以 install 的 mac 也是可以 install 的走 windows 的
+UI21MAZ_0102 233051 238317 可以 meh 可以走走 hmm ha 它可
+UI21MAZ_0102 239499 243467 啊就你要买他的一个 software 啰 你走 dual windows 的
+UI21MAZ_0102 243467 245990 两个一个 windows 一个 mac o. s.
+UI21MAZ_0102 246912 250473 ha parallel 的不懂忘记什么名了以前记得现在忘记了
+UI21MAZ_0102 256941 265842 laptop 啰 都是 laptop 啰 toshiba 啊那些全部都是 laptop 的之前做的那间店现在不在了 queensbay 的之前在现在不再了
+UI21MAZ_0102 267235 270149 啊是哈哈哈现在变成 neway 了
+UI21MAZ_0102 270640 276930 已经不在了之前在卖就 toshiba asus acer 这几个 brand 啰
+UI21MAZ_0102 283057 291198 这种我不会我没有去管只是以前那种他是那种 world top one seller 的现在掉到变 h. p. 店
+UI21MAZ_0102 291198 293881 h. p. 是第一罢了 dell 好像是第三
+UI21MAZ_0102 294490 300249 然后 acer 第二 acer 他便宜很多人买很多马来马来人买
+UI21MAZ_0102 300249 313917 acer 是马来人买的我发现真的是很多因为它 ah ah 对因为它也是很 low end 的他你用可能三千三千块 acer 你可以买到一粒 toshiba 或 dell
+UI21MAZ_0102 313917 320086 五千块的东西了他真的是很便宜那种千多块的 laptop 很多千多块的啦
+UI21MAZ_0102 320086 325264 所以很多马来人买真的是 p. c. fair 的时候你做 p. c. fair 每次 acer 都是马来人买
+UI21MAZ_0102 325264 328540 华人多数去买那种 toshiba 那些
+UI21MAZ_0102 339559 346458 哦你买 compact o. k. 差不多一样其实 com compact 好像是同 line 的对同样 line 的
+UI21MAZ_0102 350400 351402 hmm
+UI21MAZ_0102 353566 354410 hmm
+UI21MAZ_0102 356053 358834 呵呵 呵 o. k.
+UI21MAZ_0102 362938 373430 compact 给我的话我不敢买因为我的在大学的朋友有好像三个三个啊 compact 的都是 battery 有问题然后也不能耐的
+UI21MAZ_0102 376646 380309 ha na 你不能怪 compact pun
+UI21MAZ_0102 387496 396026 hmm 对对因为 battery 而且你也不能怪这 compact 因为 battery 其实很多人的 battery 都是跟 sony 拿
+UI21MAZ_0102 396026 403295 就算 dell 啊还是什么 company 啊最后都是跟 sony 拿很多就主要 battery 的出场商是几个罢了
+UI21MAZ_0102 403295 415083 就好像 hard disk 里面都是拿 western d. 啊 toshiba 还是几个其实很多那种 acer 他也是拿不同厂商接起来 dell 也是拿不同厂商接起来的都一样的基本上
+UI21MAZ_0102 418485 420110 hmm 对
+UI21MAZ_0102 422128 426550 hmm 对 confi 他们的 quality 会 control 有 control 啦至少
+UI21MAZ_0102 430193 437106 mmm 我本身用 toshiba 其实 mmm o. k. 我觉得 o. k. toshiba
+UI21MAZ_0102 440031 448256 ha 是哦有钱我也会买苹果的呵呵给我的话又美又又又好用你看现在通街都是 i. phone
+UI21MAZ_0102 459931 468008 啊对他就其他很多 program 不能在他的 system 上面 run 啰是这样
+UI21MAZ_0102 471782 478526 啊对你可以 modify android 机他们要看有没有人 unlock 到罢了啦 iphone
+UI21MAZ_0102 478526 485692 iphone 是最 so far 是只是 geo break 罢了啦他们那种翻版的 geo break 到然后你去 download 东西不用钱
+UI21MAZ_0102 488418 489099 ha
+UI21MAZ_0102 492514 493201 ha
+UI21MAZ_0102 495624 497232 他们的 system
+UI21MAZ_0102 498288 504289 是啰对因为他的他的 iphone 就是 run 着 on 他的 o. s. 就是 apple 的 o. s. 来的
+UI21MAZ_0102 507019 508505 怎样讲 leh
+UI21MAZ_0102 511441 516165 ha ha o. k. 跑 window 的啦
+UI21MAZ_0102 532144 533592 要不要是
+UI21MAZ_0102 538953 546520 自己的这一个不给人家去 take over 有机会拿掉他那个商机 market
+UI21MAZ_0102 550079 554514 是哦 ha 不能走 flash iphone 不能走 flash 是
+UI21MAZ_0102 565255 586323 hmm 是哦没有办法他们就 hmm 因为他们是已经有那个 brand 了他们不怕人家不怕没有人去用他们的东西而且 designer 全部都是用他们的东西对呀他们已经有一个 fix 的 market 在那边所以他们可以不用管其他人它们可以自己改自己的东西
+UI21MAZ_0102 600414 608416 啊你要看得啰就啊 dell 里面有分我讲我是 consumer 吗 consumer 跟 small medium business
+UI21MAZ_0102 608416 614552 然后就 under 这个 channel 里面就任何的 consumer 他买的电脑我们都要 support 啰
+UI21MAZ_0102 614552 624468 有有一多数 consumer 当然是最便宜的是 inspiron loh series 是 x. p. s. 还有 studio 但是有些 consumer 就很有钱的他去买一个 server
+UI21MAZ_0102 624468 629286 然后他 register under 那个那个 channel 是 consumer 我们也被逼要做
+UI21MAZ_0102 629286 643833 但是会很少啦 server 是已经太 over 了啦有些人买那些比较贵的可能 vostro latitude 或者是 radiant line 那种 series 的我们也是要照 support 啰 只要他的 channel 是 under consumer 我们就要 support
+UI21MAZ_0102 643833 653839 如果他 channel 是 under enterprise 就是说那种大的大型的那种 company 的或者是 under public 比如说政府部门的就不是我们 support
+UI21MAZ_0102 655589 667025 不是他们不是他们 divide by channel 的你进他 website 的话他们也是分你是 small medium business consumer 的然后还有 enterprise 的然后还有一个是那种 public 的他们分这三
+UI21MAZ_0102 667025 681183 啊因为变成是你一次过你订比较多台啊所以他的而且你很多那种是做 server 的 server 机真的是比较难过后就他是分这样这样 service 啦我也不懂做什么
+UI21MAZ_0102 686436 701016 啊基本上 software 没有 hardware 罢了 software 其实 dell 是有另外一个 extra warranty 他是叫 software support 的但是多数人都不会没有买啦因为那个要另外加钱很贵然后我们
+UI21MAZ_0102 701016 710853 ha 没有这个必要因为 software 电脑有问题 format 啰 format window 啰是最快的就 software 问题解决掉了嘛 hardware 问题罢了啰我们是你
+UI21MAZ_0102 710853 719081 我们会 run test 啰你 call 进来的话有问题开不到电脑我们就 run test test 会有 error code 的就
+UI21MAZ_0102 719081 722751 啊他们自己有自己的 system 的好像
+UI21MAZ_0102 722751 734956 不是我们叫叫就只是在电话跟 customer 讲叫他按什么什么然后去 test 的因为 dell 的每一个电脑新的啦里面有 built it 的那个 test system test hardware 的东西的
+UI21MAZ_0102 734956 745593 啊你一开你一开那个你的 laptop 之前你按着 f. function key f. n. 你按 power on 过后他 load 完那个 dell logo 它直接进去那个 test
+UI21MAZ_0102 745593 750304 所以我们只是须要叫 customer 看什么 error code 读给我们听 就 settle 了
+UI21MAZ_0102 760087 774376 啊可以怎样讲他有两个两个 phase 第一个阶段的主要是 detect hard disk 的然后还有 ram 啊还有什么 mother board 的话是 mother board 是最 wide 的
+UI21MAZ_0102 774376 780866 如果你 try 那种 test 都 test 不到有问题但是那个机那个电脑是开不到的话多数是 mother board 有问题啰
+UI21MAZ_0102 780866 788562 就是多数赖给 mother board 吗 因为 mother board 是最主要的 component 吗如果你 test 到很小的 part 都没有问题就可能是 mother board 问题啰
+UI21MAZ_0102 788562 807669 然后那个 test 第一阶段完了过后是 hard disk 什么罢了吗第二个阶段有比较 detail 的你可以只是 test keyboard test 你的那个 touch pad test 你的 l. c. d. test 他有分出来去全部 device 的你只需要 run 那特定的 test 然后他会有 error 的 code 出来
+UI21MAZ_0102 807669 813755 server 的话我不会不知道我没有我们还没有 support 到 server 地步 so far
+UI21MAZ_0102 820840 830917 开 window 开嗯开不到嗯开 window 开不到就要看你所谓开不到 window 是哪一个开不到因为 customer
+UI21MAZ_0102 830917 842828 啊进不到 windows 也是有很多这种讲法因为不同 customer 的讲法是不一样的全部讲进不到 windows 但是有一个是看不到从一开机就看不到东西他讲进不到 windows
+UI21MAZ_0102 842828 848568 有一些人是过了 dell 的 logo 过后黑色 screen 看不到东西他讲进不到 windows 啰
+UI21MAZ_0102 848568 858958 有些是到了 login screen 但是就停在那边 please wait please wait 他也是讲进不到 logo 的啊所以我们要先搞清楚他所谓的进不到 logo 是到哪一个阶段先
+UI21MAZ_0102 858958 866443 如果他是已经按了 power on 有有灯但是 screen 是看不到东西的从一开始就看不到东西那叫 lupus 了
+UI21MAZ_0102 866443 869007 lupus 的话我们多数是 check hardware 了
+UI21MAZ_0102 869007 873982 如果那些它是前面都 o. k. 就到到 windows 的时候
+UI21MAZ_0102 873982 883469 那 login screen 啊进不到啊之类可能是 software 问题啰那是但是基本上我们会会先做最简单的 test 是那 hardware test 先啰然后进不到 windows
+UI21MAZ_0102 883469 889072 最可能最可能就是你的 hard boot boot 不到你 hard disk 的问题吗最大的可能性
+UI21MAZ_0102 889072 897775 就做那个做那个 test 先啰我刚刚讲的 function 加 power on test 如果 hardware 那个 hard disk 有问题一定会有 code 跑出来的
+UI21MAZ_0102 897775 902468 他 code 跑出来我们就 send engineer 了最快然后就是叫 engineer 换新的 hard disk 给他
+UI21MAZ_0102 902468 911805 如果是 test 全部没有问题的话然后第二个 phase 的 hard disk test 也没有问题的话 format windows 就这样啰
+UI21MAZ_0102 911805 918072 或者是不是 format 啦 restore 啦 你按 f. eight 可以进 system recovery console 那边进去
+UI21MAZ_0102 918072 924942 再看还有一点是不是能进 safe mode 啰 能进 safe mode 进不到 windows 应该也是 windows 问题
+UI21MAZ_0102 924942 931019 不是 hardware 的问题先 eliminate eliminate 是 hardware 还是 software的问题就这样 check 的
+UI21MAZ_0102 933482 935461 啊现在全部 windows seven 现在
+UI21MAZ_0102 936798 943612 wah customer 的的电脑三年四五年前买他 warranty 还在还有 warranty 的话我们还是要 support
+UI21MAZ_0102 950152 958931 hmm problem 这些其实基本上两个不同 version 的 windows 啊 seven 是加很多新的东西罢了
+UI21MAZ_0102 958931 966888 然后你要 troubleshoot 的方面其实是一样因为 hardware 归 hardware software 归 software 吗
+UI21MAZ_0102 966888 969404 我们 troubleshoot 怎样都是从 hardware 做起
+UI21MAZ_0102 969404 978540 肯定 hardware 没有问题的话我们会说是 windows 或者是你电脑里面 software 里面有 virus 啊还是什么 spyware
+UI21MAZ_0102 978540 981874 那时候要看他有没有 software support 这个 warranty 啰
+UI21MAZ_0102 981874 987590 如果他没有的话我们只是只能 suggest 他 re reload system restore 罢了啰
+UI21MAZ_0102 987590 995168 因为如果讲 system restore 的话那个 save 啊 restore point 你有 restore point 就可以了嘛是每一个 version windows 都可以做
+UI21MAZ_0102 995929 998808 所以是一样的基本上
+UI21MAZ_0102 1005592 1011246 嗯 weekday 啰因为我们是 new hired 啊所以 so far 我们只是做星期一到星期五喔
+UI21MAZ_0102 1011246 1019168 然后如果是比较 senior 的话他们会排星期六星期六是算 o. t. 来的星期六只做九点到四点罢了
+UI21MAZ_0102 1019168 1032437 就这样罢了啰然后 so far 我们做 weekday 星期日没有的星期日是啊全部 off 除非 customer 的 support 是呃七乘二十四所以七乘二十四是说每一天都有的
+UI21MAZ_0102 1032437 1045730 那种我们整个 call centre 会轮班啰基基本上怎样都会有一到两个 agent 是留在星期天啊或者是到晚上啊会有一两个 agent 留着
+UI21MAZ_0102 1049670 1059695 跑外面啊其实看啰我是看现在 tech support 做做做了啊有一点起色啊我不可能会跳去做 external sales 这一方面的
+UI21MAZ_0102 1059695 1068263 external sales basic 就已经好多很恐怖 external sales 的 basic 是很高然后
+UI21MAZ_0102 1068263 1075556 又可以 claim 喔那种出去跟 client 出去谈东西的时候吃啊全部啊都有得 claim
+UI21MAZ_0102 1075556 1081755 全部有得 claim external 是我听到暂时最最高薪水的啦
+UI21MAZ_0102 1081755 1086425 但是要进我也不懂要怎样进先啦要慢慢观察先
+UI21MAZ_0102 1098224 1108878 一定会有就 so far 接了快要三个星期的电话罢了遇到的有两个有问题的人物
+UI21MAZ_0102 1108878 1121994 一个是很嫌东嫌西的他的电脑 leh 就才来了不久罢了他已经去换过一粒他已经 complaint 过一次说不懂那里有问题已经换一粒新的给他
+UI21MAZ_0102 1121994 1132442 然后他又在打电来打电话来他讲他的 keyboard leh 就那个 key key key pad 那那 keyboard 这边不平就是说有有凸一点起来
+UI21MAZ_0102 1132442 1138950 然后他的 touch pad 也 design 不好他讲 touch pad design 不好手摸的时候会痛
+UI21MAZ_0102 1138950 1149116 他讲很奇怪的东西然后我就叫他就拍照下来如果 keyboard 不平的话你从九十度拍下去你可能看到他弓起来之类嘛他就死都不要拍
+UI21MAZ_0102 1149116 1156467 我叫他拍三个 angle 他 send 一张随便拍的罢了随便拍一个 angle send 一张过来罢了然后跟我讲就有问题
+UI21MAZ_0102 1156467 1166989 这种 customer 然后他就之前因为他之前也弄过很多问题了已经他已经认识很多那种比较 senior 的名字但他以为他们是 manager
+UI21MAZ_0102 1166989 1180973 他要拿那些名字来压我之类他讲 i report to i complain to 谁谁谁其实那些也是普通人罢了啊他们自他电话里面他只是那个是他们帮之前那种 agent 之前的 agent 被他刁难了嘛
+UI21MAZ_0102 1180973 1186923 然后他们的 senior 帮他说我是 manager 之类的然后他以为他真的是 manager 他要拿名字压我之类
+UI21MAZ_0102 1186923 1192134 然后最后我的这个 cases 也是 hand 给丢给 senior manager handle 啰因为他不爽我了吗
+UI21MAZ_0102 1192134 1196676 然后就 senior 帮帮我 handle 他现在我的 senior 也是不 tahan 他每天

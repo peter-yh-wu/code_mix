@@ -1,0 +1,69 @@
+UI18MAZ_0101 8570 12074 我啊我在 Intel 做着咯
+UI18MAZ_0101 12074 19011 Intel 在 Penang based 的 err 我在做着是一个 admin 咯是应该是叫 unix-admin 咯
+UI18MAZ_0101 21359 25283 unix admin 咯是关全部server东西的
+UI18MAZ_0101 26193 33761 hmm more on operation 的咯就是讲在公司做 on hand 去那边 hardware check 看什么问题
+UI18MAZ_0101 33761 38842 比较 more on on site 那种咯它里面有个 data center 很大的
+UI18MAZ_0101 38842 52647 他们几千架电脑server 我们要去suppor 咯每天要看多少server down 坏掉去叫 vender 来修理或者 landing 做 landing 那些东西 set-up 这个 server 拿去给 user
+UI18MAZ_0101 52647 62141 还有 scrap 咯 server 他们有 life time 的然后四年就要scrap 掉 我们要去做那些东西 帮他mantain 一下
+UI18MAZ_0101 64391 68798 他们是用 unix 啊 unix 是 solaris 吧
+UI18MAZ_0101 68798 73949 大多是他们是用 h. p. 还有 i. b. m. 的 server 他们 install suse 的
+UI18MAZ_0101 73949 79764 linux 的 linux o. s. 比较便宜但是旧的 machine 可能会用 unix 咯
+UI18MAZ_0101 98895 106462 应该是只是在大学 take 那些 course 啊 有那些写 program 那些东西罢了 有一些普通 basic 罢了
+UI18MAZ_0101 109931 119146 hmm so far 我 improve 我的 unix knowledge 啊应该是在进去那时候 他们给一些 document 给我读咯 basic 先咯
+UI18MAZ_0101 119146 125383 我已经有 basic 了再增加一些他们 environment 的东西啊那边学咯 已经学了两年多
+UI18MAZ_0101 125383 127659 现在应该是有一点experient 咯
+UI18MAZ_0101 135192 145914 他应该是没有给啦 大多数我都是在上网找那些资料学 应为现在 unix 在 internet 那边 很多 容易找到那些资料
+UI18MAZ_0101 154742 157791 so far 有用这样多种啊
+UI18MAZ_0101 166060 168372 o. s. 的那个不要用啊
+UI18MAZ_0101 168372 178752 我 so far 用很多种 应该有用过 ubuntu 咯 free p. s. t. suse linux err 还有 fedora 咯
+UI18MAZ_0101 178752 189188 最 far 我看到他们每个都有各有各样不同啦有些是要很用 command based 的有些比较有g. u. i. so far 我用到最好用的应该在ubuntu
+UI18MAZ_0101 189188 193473 ubuntu 比较 friendly user 比较好用
+UI18MAZ_0101 197152 199359 有也是有
+UI18MAZ_0101 203494 206752 有用过但是比较难用一点
+UI18MAZ_0101 207628 212218 因为 more 它比较 more on command 的东西要打很多 command
+UI18MAZ_0101 212218 217473 比较可能比较 friend 跟unix 一样一点它command
+UI18MAZ_0101 220451 227494 stable 啊我不懂那个比较 stable 啊但是so far 我们以前有 test 过那个 i. p. v. six horr
+UI18MAZ_0101 227494 230542 他们是用在 free p. s. t. 他们讲比较 stable
+UI18MAZ_0101 230542 235553 我以前也是在 N. R. G. lab 那边做那个 training for i. p. v. six 的东西
+UI18MAZ_0101 235553 247934 所以他们是讲用那个比较好啦 其他的我是觉得一样啦但是跟我比较 windows 的话啦,unix 比较stable 过windows windows 很很容易crash 啊
+UI18MAZ_0101 247934 254594 unix 比较 stable so far 我们用 server 啊用 unix 的也是很顺的没有这样heavy load 啊
+UI18MAZ_0101 259272 262424 hmm 没办法啊有一个方法就是 reboot 啊
+UI18MAZ_0101 272761 274022 那个
+UI18MAZ_0101 275318 276650 那 shell 坏去了
+UI18MAZ_0101 276650 279138 应该 reinstall 应该可以 fix 过
+UI18MAZ_0101 279138 283763 他因为他 basic 很重要也是那个很 terminal shell 的东西
+UI18MAZ_0101 283763 285723 那个全部都是 command based 的
+UI18MAZ_0101 285723 288456 在 server 用全部都是 command 的黑黑白白的
+UI18MAZ_0101 288456 292661 没有 graphic 的 graphic 应该是比 home user 用的
+UI18MAZ_0101 292661 295990 他们目的是要那些 services 要 up 罢了
+UI18MAZ_0101 301456 304303 err 之前他们是用 red hat 的
+UI18MAZ_0101 304303 310385 然后之后他们 e. o. 要 red hat 了不要用了他们要换一个只是全部换去 suse 咯
+UI18MAZ_0101 310385 317594 hmm 为什么他们要换 我不大清楚啊因为他们有自己的 developer team 的专门 develop 那些 software 东西的
+UI18MAZ_0101 317594 318790 给 suse 的
+UI18MAZ_0101 318790 322049 可能是他们 develop team 要选那个 o. s.
+UI18MAZ_0101 322049 324151 所以他们全部 mi 过去那个 o. s.
+UI18MAZ_0101 324151 333102 现在最新的也是用九和十咯迟点可能用十一还是十二 depends 他们的 staple 他们有分 version 的
+UI18MAZ_0101 338270 343070 err 比较便宜我们是用 enterprise edition 也是要给钱但是比较便宜
+UI18MAZ_0101 344717 351995 也是有 free 的因为我们是用enterprise 的麻 是有收的不懂他们怎样收啊应该是比较便宜
+UI18MAZ_0101 355219 358548 一个是要给钱咯一个是不要给钱罢了
+UI18MAZ_0101 358548 360510 怎样讲有分别 ler
+UI18MAZ_0101 364504 370917 哦因为你要讲要有钱好像一个windows 他们一个 o. s. 要几百块
+UI18MAZ_0101 370917 375755 一个 unix 可能 download 的因为是 o open source 的免费的 download 可以用了
+UI18MAZ_0101 375755 385914 同样的东西也是可以用到他们那些东西也可以开出来看一模一样问题是他们比较 more on 要用 command 啊比较自己modify 一点
+UI18MAZ_0101 385914 392955 windows 那边比较他们专门去 modify 然后那些 application 比较 friend user 容易用一点分别是这样我觉得
+UI18MAZ_0101 399613 405920 err 假如是比较外面的啊 我们 intel hor 他们很多东西要做所以他们做 automation 的
+UI18MAZ_0101 405920 412682 他们的 image 应该是改到完了的他们自己的developer team 去改到他们适合他们的standard 的
+UI18MAZ_0101 412682 421265 所以他们每次要改 environment 他们可能要去写一些那些东西讲这个什么跟什么改要跟全部人讲
+UI18MAZ_0101 421265 423963 这是 intel 里面罢了不是给外面
+UI18MAZ_0101 425470 436041 大多数他们去改那些 library 的东西update 啊 library 啊那些 path 啊换去 他们也是有很大database 的他们东西全部收在file 的
+UI18MAZ_0101 436041 443338 跟那些 file 的东西那 setting 也要换咯他们叫 auto ifest 的东西啦他们要自己modify 他们intel 自己用的
+UI18MAZ_0101 443338 453391 在我们外面可能会没有这种东西的看不到的外面可能是普通的可以开机上网 serve net 收 install o. s. 改一下这样罢了
+UI18MAZ_0101 453391 462739 intel more on 比较 automate 东西要做比较方便太多东西要 moti 啊变成 automation 啊改过的
+UI18MAZ_0101 468171 474179 我会 involve 一点点啦大多数是给我们daily 的要做工作重复又重复
+UI18MAZ_0101 474179 477532 我就像他变成写 scripting 来 automate 它
+UI18MAZ_0101 477532 482815 啊我要我是假如是算 level 的话我们有三个 level 的
+UI18MAZ_0101 482815 488877 第一个是 on support from customer 跟他们的然后他们 solve 不到了 extract 给我们的咯
+UI18MAZ_0101 488877 491311 是讲我们 more on on site 的 operation 的
+UI18MAZ_0101 491311 499844 然后我们再solve 不到就是给那个第三level 讲他们more on kernel site 的去改 kernel 研究为什么会这样问题出现
+UI18MAZ_0101 499844 504349 做么会的会server 一直hang 啊一直想想办法做个solution
+UI18MAZ_0101 504349 511418 我们的大多数是帮他们capture 一些data 做 report 给他们他们以这个report 来写他们的 application

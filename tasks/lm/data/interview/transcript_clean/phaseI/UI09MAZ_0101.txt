@@ -1,0 +1,80 @@
+UI09MAZ_0101 77451 83669 我的 childhood 是在 k. l. 度过 的
+UI09MAZ_0101 107595 111545 过后 form three 我 就 换 去 马 来 校 了
+UI09MAZ_0101 111545 116145 在 kulim 上课 咯
+UI09MAZ_0101 120774 124886 我在 k. l. 的 时候 住 在 啊 gombak
+UI09MAZ_0101 132221 143455 gombak 那一 带 还算 是 under developed lah 现在 已经 算是 一个 很 crowded 的 一个 city 了
+UI09MAZ_0101 153615 155853 那时 候 搬 过 两次
+UI09MAZ_0101 155853 158447 搬 过 一次 家 咯
+UI09MAZ_0101 163651 167251 我 记得 我 小时候 是 住 在 flat 的
+UI09MAZ_0101 167251 172637 过后 才 move 去 啊 terrace 啊
+UI09MAZ_0101 175922 181414 啊 我的 父亲 是在 arm force 里面 工作 的
+UI09MAZ_0101 183070 188400 当 他 买 到 一 间 terrace 的 时候 我们 就 搬 去 terrace loh
+UI09MAZ_0101 188400 192757 有 两 层 的 terrace
+UI09MAZ_0101 212064 215014 可能 比较 多 entertainment lah
+UI09MAZ_0101 215014 221242 啊 平常 星期六 星期日 的 活动 叻 就是 就是 去 shopping loh
+UI09MAZ_0101 238736 245040 但是 在 kulim 叻 生活 就会 比较 简单 一点 啦
+UI09MAZ_0101 251710 257988 那时 后学 生 的 activities 就是 啊 玩 computer games loh
+UI09MAZ_0101 257988 265550 所以 时常 就是 和 朋友 啊 讲 关于 computer games 的 东西 啊 之类
+UI09MAZ_0101 269710 277387 来到 kulim 的 时候 那时 候 应该 大部分 的 同学 应该 还没有 电 脑 吧
+UI09MAZ_0101 303239 306389 k. l. 本身 就是 一个 大城 市
+UI09MAZ_0101 311586 315486 就是 很多 的 traffic jam 咯 过后 pollution
+UI09MAZ_0101 327584 332469 可能 它的 所谓 的 好处 就是 很多 entertainment loh
+UI09MAZ_0101 332469 335773 啊 所谓 的 entertainment 也 只是 shopping 而已 啦
+UI09MAZ_0101 350259 357890 在 k. l. 也是 有 一些 比较 郊外 的 活动 啦 其实 也不 是 讲 totally city life lah
+UI09MAZ_0101 361702 368766 我 小学 的 附近 是 种 橡胶 的
+UI09MAZ_0101 368766 373522 所以 你 就可以 玩 一些 橡胶 之类 的 游戏 咯
+UI09MAZ_0101 382047 385414 小学 后面 又有 森林
+UI09MAZ_0101 385414 391680 所以 我们 就会 去 捉 蜘蛛 啊 之类 来 玩 咯
+UI09MAZ_0101 399924 402351 那里 有一个 大水 沟
+UI09MAZ_0101 418022 421211 所以 会 比较 适合 读书
+UI09MAZ_0101 561970 564572 我 没有 参加 什么 活动
+UI09MAZ_0101 565331 569936 或者 是 take part in any activities lah normally
+UI09MAZ_0101 622609 632691 做 monitor 有什么 responsibility 就是 它的 responsibility 啊 就是 帮 班主任 咯
+UI09MAZ_0101 632691 638524 除了 之外 就是 看管 班 里面 的 学生 咯
+UI09MAZ_0101 638524 647394 make sure 他们 啊 做 老师 给 他们的 task ah for example
+UI09MAZ_0101 656147 659589 我 看过 一个 documentary ah
+UI09MAZ_0101 659589 663339 是在 中国 的 啦
+UI09MAZ_0101 681501 684449 democracy 的 方式 来 选 班长 咯
+UI09MAZ_0101 684449 691037 过后 可以 看到 他们的 那个 父母 啊 为 他们的 孩子 啊 打气 什么 啊
+UI09MAZ_0101 693519 698181 所以 其实 好像 在 中国 也是 有所 谓 的 democracy 的
+UI09MAZ_0101 698181 706191 只是 啊 只是 他们的 political system 啊 是 比较 算是 communist 吧
+UI09MAZ_0101 709007 717579 怎么 都 好 中国 的 啊 communist communism 啊 不是 讲 真正 的 pure communism 啦
+UI09MAZ_0101 725497 733854 是不是 一个 很 proud 的 事情 啦 我是 觉得 mmm 啊 不会 是 吧 因为
+UI09MAZ_0101 813248 819902 machine translation 啦 就是 automatic translate 你的 语言
+UI09MAZ_0101 823558 827583 ah automatic translate one language to another ah
+UI09MAZ_0101 827583 835546 过后 啊 speech recognition 叻 是 啊 怎样 convert speech to text loh
+UI09MAZ_0101 846908 855983 degree 的 时候 我们 读 的 就是 theory 比较 多 咯 如果 是在 啊 u. s. m.
+UI09MAZ_0101 858397 866606 到 到 master 的 时候 叻 我们 注重 的 叻 会 比较 多 是 怎样 apply 那些 theory
+UI09MAZ_0101 866606 869931 啊 或者 是 math ah
+UI09MAZ_0101 873482 882263 在 我们 degree 学 的 时候 怎样 apply 那些 and use use it loh
+UI09MAZ_0101 888194 895425 啊 当然 还有 学 一些 新的 东西 啦 比较 research based 的 东西
+UI09MAZ_0101 897355 901258 for example 是 image processing ah
+UI09MAZ_0101 901258 905940 过后 还有 grid ah
+UI09MAZ_0101 909827 912781 还有 natural language processing loh
+UI09MAZ_0101 916442 921509 我 比较 记得 是 是 这 既 课 吧
+UI09MAZ_0101 921509 923705 还有 cryptography 对
+UI09MAZ_0101 930393 934203 我在 啊 master 的 时候 有 上 的 课
+UI09MAZ_0101 936111 940367 其实 我是 会 比较 喜欢 那个 image processing ah
+UI09MAZ_0101 946088 952837 in particular 是 那个 怎样 recognize 那些 image 的 pattern 啊
+UI09MAZ_0101 960547 970690 但是 我 还是 没有 在 image processing 的 field 里面 做 啦 因为 involves 啊 too many too much mathematics ah
+UI09MAZ_0101 971409 976859 过后 就 跑 去 做 了 啊 grid 咯
+UI09MAZ_0101 978873 982182 在 grid 里面 叻 我是 做 p. to p. lah
+UI09MAZ_0101 982182 984863 你 知道 什么 是 p. to p. 吗
+UI09MAZ_0101 986055 989479 p. to p. 叻 就是 peer to peer loh
+UI09MAZ_0101 989479 1001598 啊 example of peer to peer application 叻 就是 啊 啊 那些 bit torrent 的 application ah
+UI09MAZ_0101 1001598 1006658 你 可以 通过 不同 的 peer 来 download 一个 file ah
+UI09MAZ_0101 1006658 1014030 或者 那些 m. s. n. 啊 也 应该 算是 一个 peer to peer 的 application lah
+UI09MAZ_0101 1017285 1020375 architecture 有 几种 啦
+UI09MAZ_0101 1020375 1028018 你 可以 有一个 centralized 的 server 过后 下面 有 那些 peer
+UI09MAZ_0101 1039151 1040831 你 online 的 时候 你 会
+UI09MAZ_0101 1042947 1046002 peer 啊 会 contact to 那个 server
+UI09MAZ_0101 1046002 1052860 过后 那个 server 可能 会 contact 其它 的 peer 在 你的 list 里面 的
+UI09MAZ_0101 1057760 1064309 bit torrent 啊 之类 的 它们是 会 比较 distributed 没有 一个 centralized 的 server 的
+UI09MAZ_0101 1066299 1070496 所以 如果 你 要 downloads some files ah
+UI09MAZ_0101 1076436 1082713 push up 一个 advertisement 咯 或者 是 notice 啊 给 全世界 咯
+UI09MAZ_0101 1082713 1086365 who ever receives 那个 notification
+UI09MAZ_0101 1132160 1135240 啊 我的 master 和 p. h. d. 是 没有 关系 的
+UI09MAZ_0101 1148575 1155149 那时 候 觉得 好像 speech recognition 在 马来西亚 还是 很少 人 做 啊
+UI09MAZ_0101 1155149 1160305 所以 就 involve 在 speech recognition loh
+UI09MAZ_0101 1161558 1167630 我的 supervisor 对 这一 课 有 兴趣 啊 所以 就 跑 去 做 了
+UI09MAZ_0101 1178354 1189578 啊 speech recognition 在外 国 已经 有 more than 啊 六 七十 年 的 development 了

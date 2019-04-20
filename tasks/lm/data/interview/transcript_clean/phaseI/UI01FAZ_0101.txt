@@ -1,0 +1,72 @@
+UI01FAZ_0101 4721 7863 啊 英文 名 啊 ooh-bee-gee
+UI01FAZ_0101 8686 12571 嗯 华语 是 胡 佩 琦 咯
+UI01FAZ_0101 15139 17965 我 之前 也是 在 u. s. m.
+UI01FAZ_0101 17965 25722 嗯 啊 我 上 social science social science
+UI01FAZ_0101 25722 31326 我是 major in economy loh more on economy 的
+UI01FAZ_0101 31326 39621 然后 我的 minor 是 啊 那个 那个 是 business
+UI01FAZ_0101 45551 53676 economy economy 经济学 经济学 然后
+UI01FAZ_0101 54349 60163 err 算是 毕业 有 一段 时间 了 所以 说 哦
+UI01FAZ_0101 60163 65617 啊 not really ah 有用 在 我的 working environment lah 所以
+UI01FAZ_0101 66802 68128 然后
+UI01FAZ_0101 76758 83773 social science 就 好像 说 社会科学 嘛 社会科学 就有 说好 像 研究 那些 社会 有些 东西 然后
+UI01FAZ_0101 83773 92673 啊 economy 就有 也是 在 社会 一个 需要 的 需要 的 一个 话题 这样 然后 就 说 研究 说 那些
+UI01FAZ_0101 92673 97261 economy 是 怎样 然后 知道 大概 经济 状况 这样的 东西
+UI01FAZ_0101 101282 105479 thesis ah thesis 没有 什么 特别 的 thesis lah
+UI01FAZ_0101 107536 116200 有 project 有 project 不过 很 久 了 我也 not really ah 可以 记得 有 做 些 什么 project 了
+UI01FAZ_0101 119563 124059 我 啊 二 零 零 零 一年 嗯
+UI01FAZ_0101 137584 145683 micro economy macro micro 然后 economy loh more on economy 然后
+UI01FAZ_0101 148526 152729 我 really really 不 不大 记得 了
+UI01FAZ_0101 156796 162047 啊 我 做 planning 这样的 project planning 这样的
+UI01FAZ_0101 163778 166183 我在 sony 做工
+UI01FAZ_0101 167164 175706 so 我是 顾 好像 中国 的 工厂 这样 所以 啊 每天 多数 都是 用 chine mandarin 跟 他们 communication 的 啦
+UI01FAZ_0101 178671 184125 job scope 就是 啊 cover planning loh 就是 因为 我们 有
+UI01FAZ_0101 184125 193342 从 sony worldwide 有 很多 的 sales company 嘛 就是 然后 啊 他们 就会 要求 因为 我们 有 卖 product 所 顾 的 是一个 product loh
+UI01FAZ_0101 193342 199272 所以 他们 就是说 他们 order 看看 几时 他们 需要 这个 货 什么 然后 我 就 plan 说
+UI01FAZ_0101 199272 204596 要求 因为 我们的 货 是在 工厂 啊 中国 工厂 那边 生产 的
+UI01FAZ_0101 204596 210925 所以 我们 就要 求 好像 说 plan 说 几时 需要 出 货 几时 什么 日期 然后 给 中国 工厂 要 他们
+UI01FAZ_0101 210925 220882 然后 生产 然后 倒入 生产 给 他们 我们 需要 的 日期 然后 他们 安排 生产 然后 帮 我们 安排 出 货 给 啊 世界 的 sales company loh
+UI01FAZ_0101 222694 228074 logistic loh 另外 就是说 logistic 另外 有 另外 有 logistic 的 人 安排
+UI01FAZ_0101 228074 232064 我们是 负责 好像 说 安排 我们的 出 货 日期 那些
+UI01FAZ_0101 232064 242753 然后 好像 说 负责 负责 船运 那些 啊 book book 船 book vessel 那些 是 啊 另外 工厂 那边 会 负责 安排 因为 从 工厂 直接 出 货 嘛
+UI01FAZ_0101 242753 250429 所以 他们 直接 跟 本地 的 那一 些 forwarder 那些 出 啊 安排 就 比较 方便 咯
+UI01FAZ_0101 253865 259681 没有 啦 多数 都是 用 excel loh 不过 我们 有 自己的 database 这样 啦
+UI01FAZ_0101 261083 269576 就是 computerize 不过 啊 我们 只是 做 invoicing 才 会 用 自己的 system 这样 罢了 普通 普通 就是说 因为
+UI01FAZ_0101 269576 280642 好像 说 sales company 不同 啊 他们 给 的 资料 啊 format 那些 都 不是 说 啊 一样 的 就是说 根据 他们 他们 用 他们的 system 来 create 那些 东西 然后 寄给 我们
+UI01FAZ_0101 280642 289487 然后 more on excel 的 style lah 然后 我们 就 base on 那边 然后 我们 做 自己的 database 多数 是 用 excel loh
+UI01FAZ_0101 289487 294996 har 什么 ah 对 啊
+UI01FAZ_0101 296102 306385 因为 他们 最 主要是 看到 他们 有些 什么 货 因为 我们的 model 不是 说 很多 嘛 然后 他们 就是 要求 几时 要 然后 几时 要 这样
+UI01FAZ_0101 306385 314447 就是说 所谓 的 coordinate 因为 我们 就是说 我们 在 工厂 本身 我们 有一个 自己的 database 所以
+UI01FAZ_0101 314447 320496 根据 那个 外面 的 人 所 需要 的 我们 来 放进 去 这样 咯
+UI01FAZ_0101 330216 331784 嗯
+UI01FAZ_0101 333538 341027 对 咯 就是说 因为 啊 我们 也好 像 说 要 给 一个 format 的 data sheet 这样 给 啊 中国 嘛
+UI01FAZ_0101 341027 348504 就是说 我们的 要求 量 我们的 出 货 产品 然后 几时 要 出 货 那边 就是说 他们 去 负责 安排 咯
+UI01FAZ_0101 348504 356407 然后 他们 那边 本身 也要 采购 部 那些 啊 就是说 purchasing 那些 他们 就要 看 那些 物品 parts 那些
+UI01FAZ_0101 356407 366401 有没有 parts 然后 才能 安排 生产 然后 看 他们 也要 就是说 要 等 啊 看看 那些 他们的 parts 的 他们的 进来
+UI01FAZ_0101 366401 371492 他们 能不能 安排 生产 来 满足 到 我们 所 要求 的 出 货 日期 咯
+UI01FAZ_0101 371492 378424 如果 不能 呢 就是 他们 跟 我们 讲 然后 我们 再 跟 sales company 那边 啊 回应 这样 咯
+UI01FAZ_0101 380850 388694 有 啊 有 有 这样的 事情 的 啊 然后 因为 有时候 中国 中国 那边 要 出 货 他们 有 那个 那些 海关 的 问题 的 嘛
+UI01FAZ_0101 388694 394901 所以 每 一批 货 就是说 好像 说 有什么 新产品 他们 都要 申请 海关 那边
+UI01FAZ_0101 394901 401695 所以 他们 就是 那些 custom contract loh 会 满 吃 时间 的 咯 有时 有时 用 到 两 三个 礼拜 这样
+UI01FAZ_0101 401695 412524 所以 even though 货 已经 生产 好 了 随时 可以 出了 可是 海关 那边 还没有 pass 那些 contract 就 无法 出 到货
+UI01FAZ_0101 414207 420570 啊 我 顾 的 之前 是 顾 那一 些 啊 f. d. d. 啊 f. d. d. 的 drive ah
+UI01FAZ_0101 420570 428567 现在 换 去 啊 顾 另外 一个 就是 那个 读 卡 机 啊 multi card reader
+UI01FAZ_0101 431536 437150 对 对 对 对 对 s. d. m. ah memory stick ah 那些 的 card loh
+UI01FAZ_0101 438267 442468 有 啊 没有 看过 啊
+UI01FAZ_0101 450492 453163 什么 你是 讲 槟 城 的 工厂 啊
+UI01FAZ_0101 453163 461531 啊 那些 hi fi ah more on personal audio 那些 咯 就是说 hi fi 然后 那些 m. p. three
+UI01FAZ_0101 461531 466254 啊 然后 也有 做 battery lah
+UI01FAZ_0101 466254 472811 battery 然后 还有 那些 啊 c. d. rom 那些 啊 也是 在 penang 出产 咯
+UI01FAZ_0101 472811 477202 laptop 不是 在 penang 出产 的
+UI01FAZ_0101 478728 481836 那些 有些 在 中国 有些 日本 也有
+UI01FAZ_0101 490572 493991 还有 plasma plasma 是在 k. l. 那边 的
+UI01FAZ_0101 504100 512941 我 平常 啊 看 书 呵 啊 小说 这些 咯 小说 之类 啦 小说 之类 啦
+UI01FAZ_0101 515406 521803 啊 有 啦 比较 有 看 的 是 一 本 罢了 那个 harry potter 也有
+UI01FAZ_0101 522867 527648 看 完 啊 对 一 到 七 全部 看 完
+UI01FAZ_0101 530840 532387 看 了 看 了
+UI01FAZ_0101 535020 540567 啊 这样 咯 呵呵 因为 现实 生活 里面 没有 的 嘛 只是 看 在 那些 好像 说
+UI01FAZ_0101 540567 545336 特别 的 东西 啊 魔幻 世界 那些 想象 出来 的 世界 咯
+UI01FAZ_0101 551499 559019 有些 会 很难 想象 所以 去 看 电影 咯 过后 大概 知道 哦 有些 东西 是 这样 这样 咯
+UI01FAZ_0101 565119 569138 harry potter 特别 的 magic ah
+UI01FAZ_0101 570403 579500 我 很难 讲 很难 解释 的 哦 就是说 他们 好像 说 能 很 简单 很 轻易 地 飞来飞去 咯
+UI01FAZ_0101 579500 587023 然后 飞 了 魔幻 世界 然后 要 去 哪里 有一个 什么 一瞬间 的 啊 直接 变 过去 那些
+UI01FAZ_0101 590005 591609 harry potter loh

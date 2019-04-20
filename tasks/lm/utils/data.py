@@ -24,7 +24,7 @@ def is_english_word(word):
     :param word: A token in document.
     :return: Boolean value, True or False
     """
-    return all([char in ["\"", "\'", "-"] or char.isalpha() for char in word]) and not is_chinese_word(word)
+    return all([char in ["\"", "\'", "-"] or char.isalpha() for char in word])
 
 
 def is_chinese_word(char):

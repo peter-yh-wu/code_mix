@@ -1,0 +1,79 @@
+UI16MAZ_0105 7851 16715 err 很难讲啦 因为有时正正常来讲 如果是一个course 大约十五到二十分钟会解决
+UI16MAZ_0105 16715 27632 如果一天一个小时里面 那个小时如果刚好 peak hour的话 就是你每二十分钟十五分钟就会一个call 一个call 一个call 一个call
+UI16MAZ_0105 27632 40025 这样如果是那种 non peak hour就是你整天坐住那边一两个钟 像拜六的话就是以前做工就是做十二个钟 才听了两三个call
+UI16MAZ_0105 40025 45178 就是一大早的时候 他们u. s.的人还没有睡 他们打电话进来
+UI16MAZ_0105 45178 52651 做了几个过case 过后 after lunch time大大部分时间都是全部都睡了
+UI16MAZ_0105 52651 54310 全世界都 off day了
+UI16MAZ_0105 57020 65786 星期六还okay 礼 err星期日就不太 因为星期日早上okay 因为全世界还在睡觉 还没有醒
+UI16MAZ_0105 65786 74534 然后 十二点过后 lunch time过后 一两点过后 就是 err israel israel israel开始做工嘛礼拜
+UI16MAZ_0105 79101 81171 没有他们是迟过我们嘛
+UI16MAZ_0105 81171 87201 就是我们在这边他在这边嘛 就是我们一两点 他们才早上
+UI16MAZ_0105 87201 90165 所以他们那个时间他们醒了 他们就很喜
+UI16MAZ_0105 93326 97106 对 他们是礼 ah星期日做到星期四
+UI16MAZ_0105 101525 104967 他们israel是这样的工作时间的
+UI16MAZ_0105 114982 115566 对
+UI16MAZ_0105 116688 117248 对
+UI16MAZ_0105 123287 124759 hmm 差不多这样啦
+UI16MAZ_0105 129033 131896 err不同不同的support loh 就是
+UI16MAZ_0105 131896 139701 他们有些不同不同的地方的人很喜 像israel那些他们一点点小事他们就打电话进来
+UI16MAZ_0105 139701 147759 然后他们有时他们讲英文又讲不太清楚 或者他们的slang 又不一样 所以一开始的时候也是很痛苦
+UI16MAZ_0105 147759 156258 我听不懂 你可以 repeat吗 repeat repeat repeat再repeat 然后repeat 到真的是两次还是三次他开始不爽了
+UI16MAZ_0105 156258 162407 err你等等 我connect 去他电脑看看 这样会比较啊方便 loh
+UI16MAZ_0105 165210 172356 因为我们的support call phone的话啦 我们分啊英文跟华语罢了 两个罢
+UI16MAZ_0105 172356 179119 但是华语的话是另一一小group的人做啦,我不是华语support 我是英文support的 所以他们打电话进来一定要讲英文的
+UI16MAZ_0105 181292 189387 对 他们好像 u. s. 是有spanish 的 但是我他们他们 costa rica的人他们会讲spanish嘛
+UI16MAZ_0105 189387 197435 因为现在是 日本也是有 有得选日本但是我没有我没有遇过啦 我我不懂哪里有那个日本support
+UI16MAZ_0105 198486 207295 他的那个phone menu 那边有得有得选一英文 二华语 err然后三spanish然后四日语这样的东西
+UI16MAZ_0105 209238 214867 so far我我知道有四个啦 但是日日语也是很少很少很少
+UI16MAZ_0105 214867 218305 但是所以最main的只有两个 英语跟华语罢了
+UI16MAZ_0105 220361 224884 err 不同 英文不同region的话 有不同slang
+UI16MAZ_0105 224884 234458 
+UI16MAZ_0105 236143 242374 好像你听完那个call过后 你可以自己好像你要去上洗手间上厕所
+UI16MAZ_0105 242374 246702 你可以 err off from phone几分钟这样loh
+UI16MAZ_0105 246702 253723 然后 如果你每个call 完过后你可以off 几分钟来做你的那个document这样loh 差不多
+UI16MAZ_0105 264065 274828 call ah现在他们有个新的就是 一个礼拜 一个星期啦你做工 err一个人要差不多四十到五十个issue resolve
+UI16MAZ_0105 274828 280816 就是你要 err fix 四十还是五十个 issue loh
+UI16MAZ_0105 280816 285130 这算ticket 啦 就是五十个ticket resolve under你就okay loh
+UI16MAZ_0105 285130 288148 如果under的话 他们就会问你为什么你会少过
+UI16MAZ_0105 288148 293020 然后你就要list给他们看 你那一个 为什么你会这样少
+UI16MAZ_0105 293020 298583 因为可能有时 你不小心遇到一些call 就是说两三个钟 你一天就少了几个
+UI16MAZ_0105 298583 304403 然后你每一天都遇到一个长的call 每一天都少了几个 所以比较少
+UI16MAZ_0105 304403 314155 那有些比较好运的话 就一天就是 non stop 全部短短的 就是 hello 啊你有什么事情 很快land desk啊那个connect 过去就settle 了
+UI16MAZ_0105 314155 320614 connect过去settle了 就是快了 有些就是很麻烦 就是anti virus loh
+UI16MAZ_0105 320614 323856 就是 因为他那个他们用mcafee
+UI16MAZ_0105 323856 327406 他们不知道 三四个package 合在一起
+UI16MAZ_0105 327406 331879 有anti virus 啊那个firewall e. p. o.还有什么
+UI16MAZ_0105 331879 337640 还有agent什么running那个background framework那一个坏 然后全部一起坏
+UI16MAZ_0105 337640 345203 你要慢慢一个一个找出来 一个一个fix 很拖时间 然后如果你不能fix的话 你要engage second level
+UI16MAZ_0105 351640 359287 err 之前有啦 一起几个 但是不是很major到全部电脑死啊 他只是说
+UI16MAZ_0105 359287 366155 他们detect到有这virus 在spread着 所以他们会把 特定那几个电脑 好像他们有
+UI16MAZ_0105 366155 372766 因为他们电脑里面有那个东西一run着他们可以monitor你的电脑 有那个bandwidth 啊 什么东西去跑
+UI16MAZ_0105 372766 376641 他们detect到你电脑有 err suspect
+UI16MAZ_0105 376641 379731 他就会send email给你 怎样讲 你电脑suspect这个这个
+UI16MAZ_0105 379731 386657 然后如你要尽快打电话给我们 loh就是 他email不是我们send 啦 是另外一个那个threat management那边
+UI16MAZ_0105 386657 392375 他叫我们打电话进来叫我们check给他 loh 看能不能run 那个virus scan 啊或是什么
+UI16MAZ_0105 392375 402970 如果真的是不能 loop 他email 那边有写啦 如果在这几天里面没有fix 好 我们会disconnect 你的电脑 就是把你的account lock 掉啦这样东西
+UI16MAZ_0105 413799 424396 err那个web 就是那个 certain loh 有些website 就是像他们有s. a. p. 有purchasing的东西 他们就是s. a. p.的人support
+UI16MAZ_0105 424396 435744 然后如果有certain那个form的东西 他们有时就是有我们support loh 我们support了不能的话就second level support err他们有 自己的second level
+UI16MAZ_0105 435744 442037 就是我们的second level就是support 我 帮我们 就是err 普通outlook啦
+UI16MAZ_0105 442037 451287 software啦那些问题 像certain的那些website 我们只能帮的就是看你的 你的explorer 能不能load 到那个website
+UI16MAZ_0105 451287 461336 接下来你要怎样用 你有什么问题你要改那个website 你要找那个website的second level或者正式那个website的support
+UI16MAZ_0105 461336 463540 你要route来route去
+UI16MAZ_0105 468165 479631 err暂时还没有 暂时还没有这样去err 暂时是想target是err换permanent employee先loh
+UI16MAZ_0105 479631 483003 either是别的公司或者是intel
+UI16MAZ_0105 484752 489100 也是啦暂时是还没有这样 err
+UI16MAZ_0105 489100 494899 err hmm master 应该是没有读啦
+UI16MAZ_0105 494899 506126 可能有的话都是去拿一些别的那种course啊 很多人缺少那种c. c. n. a.啦什么 看看loh 看那个会比较
+UI16MAZ_0105 508940 514264 err还okay啦不是 不是很有兴趣啦
+UI16MAZ_0105 514264 521133 但是比较喜欢做那些好像graphic的东西这样 所以自己在学着photoshop
+UI16MAZ_0105 522011 531331 flash以前有学过一点点 有一点点有做过 有学过一点点 然后还在慢慢研究着 因为
+UI16MAZ_0105 555183 568973 暂时没有正式这样detail去打算 暂时是还在做着这份工 是弄好这份工 学好这应该学的东西先 才来打算看能不能 err
+UI16MAZ_0105 568973 578690 学别的course或者是学其它的东西 可以 err进另外一个field 或者可能是 不是在support layer
+UI16MAZ_0105 589364 595947 他update了 我们也是那个像intel的话 他们software 他们常常用的software
+UI16MAZ_0105 595947 603604 他们的software常常有update了 每次有major update有不同的话 他就会给training 然后去学 去学个不同不同 一路学
+UI16MAZ_0105 603604 606713 基本上是 差不多是学不完的
+UI16MAZ_0105 606713 614550 但是我是我是想可有有有机会 我想去学那个blackberry 的东西yup 因为
+UI16MAZ_0105 614550 621734 最近好像很多人都用啊 很多support 都会有用到 blackberry
+UI16MAZ_0105 624266 625002 学不完
+UI16MAZ_0105 651166 661134 是喔 有些朋友他会一点点啦 看慢慢研究看 能不能正式有兴趣在那边话 就是 比较深一点 看loh
+UI16MAZ_0105 667091 673783 
