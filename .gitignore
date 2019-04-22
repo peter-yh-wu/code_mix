@@ -13,6 +13,7 @@ tasks/*/tools/
 tasks/*/log*
 tasks/*/scripts/log*
 tasks/*/scripts/*tmp*
+tasks/lm/models/
 !tasks/*/log.py
 !tasks/lm/data/
 
