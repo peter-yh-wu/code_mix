@@ -1,0 +1,82 @@
+UI18MAZ_0105 0 2379 CS google 我就 不懂 google 应该 是 可以 在 windows 那边 走
+UI18MAZ_0105 3287 10838 CS for android 它 一定 要你 要买 macbook hor 你有 那个 macbook 你才 install 那个 developer kit 进去 才能 install 才~ 才 你 可以 写 program
+UI18MAZ_0105 10838 16352 CS 不然 嗯 厉害的 人 做 生意 很 厉害的 他 不会 啦 但是 他 o. s. 才 一百块 罢了
+UI18MAZ_0105 16352 19372 CS 但是 机 不 便宜 他 hardware 太 贵了
+UI18MAZ_0105 23738 24579 ZH 嗯
+UI18MAZ_0105 27239 28784 ZH 哇 这样 好 咯 这样
+UI18MAZ_0105 33257 35610 CS android 现在 好像 给 h. p. 吃去了
+UI18MAZ_0105 35610 41499 CS h. p. 买它 它的 android 诶 没有 哪个 pump ah 给 给 给 pump pump 给 那个 h. p. 吃去了
+UI18MAZ_0105 41499 46076 CS 他 可能 是 他们 会  invest 那些 pump 在 他们的 mobile 那边
+UI18MAZ_0105 48113 52938 CS 嗯 但是 他 可能 他 利用 他 o. s. hor 改一下 给 h. p. 的 mobile 用
+UI18MAZ_0105 52938 56660 CS h~ h. p. 本来 是 很 support window 那~ 那个 window phone 的嘛
+UI18MAZ_0105 56660 58978 CS 现在 看 那个 windows mobile 不能了
+UI18MAZ_0105 58978 64084 CS 他 market 比较  差 所以 他 可能 会 换 unix 那种的 东西
+UI18MAZ_0105 65335 69303 CS en number one 在 世界上了 到 现在 又 失败了
+UI18MAZ_0105 71937 78623 CS 嗯 嗯 他 也是 开始 start 那个 那个 p. d. a. 的 就是 他们 的 公 他们 pump 开始 start 流行的 嘛
+UI18MAZ_0105 78623 80063 ZH 到 现在 也 多重
+UI18MAZ_0105 82728 87862 CS  奇怪 啊 不是 我 永远 成功 en life cycles
+UI18MAZ_0105 90283 95989 ZH 所以 要到 那个 时候 你 就要 想 办法 赚 更多 钱了 不然 的话 跌 就 没有了 没 价值了
+UI18MAZ_0105 97907 98721 EN en
+UI18MAZ_0105 112766 113972 EN enen
+UI18MAZ_0105 115459 117030 EN enen
+UI18MAZ_0105 121854 122836 EN enen
+UI18MAZ_0105 135051 136061 EN en
+UI18MAZ_0105 142437 147937 CS market 的 不错 也是 啊 nokia 也是 藏了 很久 我 觉得 也是 不 很强 一下
+UI18MAZ_0105 152726 157994 CS 没有 他们 好像 换去 我 跟你 讲 跟 intel 合作 做~ 做 那 mobile mah 来 fight android 的
+UI18MAZ_0105 157994 160994 CS 还在 研究着 就是 还 没有 真正 release
+UI18MAZ_0105 160994 164820 CS 现在 应该 是 有 beta version 了的 它 网站了的
+UI18MAZ_0105 167476 174647 CS 嗯 没办法 它 太慢了 它 可能 它 比较 注重 on 那个 c. p. u. 那个 for 那 电脑的 还有 server 先
+UI18MAZ_0105 174647 181553 CS 然后 现在 比较 注重 atom 了 看到 他 看到 这个 市场了 所以 他 发明 那个 atom 出来 来拿 mobile 的 市场
+UI18MAZ_0105 192457 193411 EN enen
+UI18MAZ_0105 206265 209802 CS operate 它咯 嗯 对咯 很 重要 这个
+UI18MAZ_0105 211589 220496 CS 假如 那个 那个 那个 你 出了 个 o. s. 那 没有 developer 去 帮你 写 program 帮你 写 o. s. application 你的 你 那个 o. s. 也是 卖不出的 也是 个 问题 来的
+UI18MAZ_0105 226620 233211 CS 觉得 我是 讲 他会 open source 出来 啦 给 我们 知道 那些 source hor 然后 给 你们 去 发展 自由 发展
+UI18MAZ_0105 233211 238564 CS 然后 或者 他们 可以 control 一些 device 这样啦 不要 太多 粒啊 写的 东西 比较 standardize mah
+UI18MAZ_0105 238564 242665 CS 可能 user 他们 会写 自己 喜欢的 东西 出来 给 自己 用嘛
+UI18MAZ_0105 242665 245945 CS 不可能 他 user 写出来 的 东西 不~ 不喜欢的 嘛
+UI18MAZ_0105 245945 249940 CS 所以 他给 自己 design 他们 要 东西 咯 我 觉得 这 concept 是很 不错咯
+UI18MAZ_0105 252497 256059 CS open source 有 一个 问题的 他要 赚钱的 问题 就 不能了啊
+UI18MAZ_0105 256059 260625 CS 好像 买 windows 那边 也是 他们 锁着 很多些 source code 不要 给人 知道
+UI18MAZ_0105 260625 264829 CS 他 只是 给 library 你用 可是 他们 也是 赚钱 嘛 他买 那个 东西 给你咯
+UI18MAZ_0105 266251 267373 EN hi
+UI18MAZ_0105 270295 277277 CS  siemens  我 不懂 做么 最近 会 比较 差 去了 但是 他有 几个 几~ 几个 version 出了
+UI18MAZ_0105 279404 281016 ZH 嗯 对咯
+UI18MAZ_0105 284239 287788 ZH 对 嗯
+UI18MAZ_0105 299446 301864 ZH 嗯 对啊
+UI18MAZ_0105 304567 309308 ZH 可以的 对嗯
+UI18MAZ_0105 315679 316549 EN enen
+UI18MAZ_0105 318225 323128 CS  我 觉得 他们 是 control 着 market 先 有着 market 了 之后 他要 做 什么 都 可以了
+UI18MAZ_0105 327416 333898 CS 嗯 其实 我 也是 很 普通 在个 大学 这个 project 这样做 来 share 东西 然后 就 做到 全世界 去
+UI18MAZ_0105 338523 345971 CS 对 还有 socialize loh 还 chatting 这样 找 朋友 share 那些 资料
+UI18MAZ_0105 350621 352899 CS 对 很少 developer
+UI18MAZ_0105 357507 363805 CS 然后 那些 facebook 那些 很 出名 那些 zynga 那些 公司 啊 他们 那边 也是 在 facebook 赚 几亿 回来
+UI18MAZ_0105 363805 365461 CS 也是 application loh
+UI18MAZ_0105 366608 367169 ZH 强
+UI18MAZ_0105 368334 371503 ZH 我有 打算 但是 好像 要跟 他们 合作 也 可以的 不是啊
+UI18MAZ_0105 372891 373977 CS open source 出来了 么
+UI18MAZ_0105 376220 376991 ZH 可以的 啊
+UI18MAZ_0105 377937 379969 ZH 因为 也 不错 啊 可以 做 生意 这样
+UI18MAZ_0105 385293 391343 CS 我的 同学 啊 有 有 几个 开 公司 应该 是 做 那些 business solution 的 东西的啦
+UI18MAZ_0105 393083 393785 EN 
+UI18MAZ_0105 395805 400973 ZH 对啊 开公司 只是 买 一个 chap 那个 名字 罢了 然后 一年 给 多少钱 就 可以了
+UI18MAZ_0105 400973 406858 ZH 我 朋友 几个 也是 开公司 但是 他 没有 公司啦 可能 他是 买 那个 名字 罢了 然后 就 可以 做 公司了
+UI18MAZ_0105 410445 413184 ZH 也是 有 要 本钱 嘛
+UI18MAZ_0105 416435 419939 ZH 那 也要 几十千 至少
+UI18MAZ_0105 420990 426807 CS 假如 假如 做 我们 i. t. 这~ 这 之类 应该 是 不用 这样 大本钱 的 应该 是用 web-based 做 东西的嘛
+UI18MAZ_0105 426807 429154 CS en no 嘞 时间
+UI18MAZ_0105 429154 431992 ZH 我 觉得 很 不错啊 可以 投资 在 这种 高科技 东西
+UI18MAZ_0105 433072 434306 EN en
+UI18MAZ_0105 435146 441889 ZH 他们啊 一个 问题 就是 讲 自己的 生意 嘛 所以 他们 比较 忙 一下 没有 自己的 时间
+UI18MAZ_0105 443939 454866 ZH 是 这样 罢了 赚得钱的 只是 问题 是 比较忙 自己 来咯 因为 自己 做 开 生意 自己 全部 自己 来 咯 做到 完咯 这个～ 个 问题 他们的 问题咯
+UI18MAZ_0105 458740 459666 EN en
+UI18MAZ_0105 460691 463980 ZH 假如 成功 的话 就是 爽了 请人 做了咯
+UI18MAZ_0105 466542 473507 CS 嗯 慢慢来 吧 对 reputation 人家 知道了 出名了 就 可以了
+UI18MAZ_0105 480346 482524 CS 有 几个了 我 那时候 course mate
+UI18MAZ_0105 486408 490297 CS 自己 想 找个 concept 出来 做 business solution
+UI18MAZ_0105 491278 499875 CS web 的 也是 有 web designer loh 有些 他们 比较 简单 一点 做 跟 人家 sub-contract 出来 这样 做 web designer 这样
+UI18MAZ_0105 502470 503564 EN en
+UI18MAZ_0105 506305 511037 CS 嗯 出来 做 web lah 还是 freelancer
+UI18MAZ_0105 512434 514173 EN oh
+UI18MAZ_0105 518870 520764 ZH 哇 好像 很多 这样
+UI18MAZ_0105 524581 525422 EN en
+UI18MAZ_0105 527945 530328 ZH  有可能 呢

@@ -1,0 +1,533 @@
+NI48FBQ_0101 16290 18700 CS my name is 杨慧婷
+NI48FBQ_0101 20650 23700 CS 我现在就读于 n. t. u.
+NI48FBQ_0101 24500 27380 CS (erm) i am currently taking 经济学
+NI48FBQ_0101 36495 41200 CS 我家里有(呃) three sisters (uh)
+NI48FBQ_0101 41200 45210 CS one of them is (er) also studying in 南洋理工大学
+NI48FBQ_0101 56340 68993 CS 没有是因为 (er) 中学的时候 (er) the teacher said that (er) if you mixed two kind of languages right it's actually in correct
+NI48FBQ_0101 72150 75320 CS 有因为我中学是在 river-valley high school
+NI48FBQ_0101 76949 80481 CS 他们讲说要 be bilingual
+NI48FBQ_0101 80922 88305 CS 可是他们不鼓励我们 to mix english and chinese within a sentence ah
+NI48FBQ_0101 93281 95332 EN ya (uh) you have to be
+NI48FBQ_0101 95930 100490 CS you have to speak proper 语文 in  one sentence
+NI48FBQ_0101 102448 104557 ZH 很奇怪
+NI48FBQ_0101 111564 114239 ZH 现在 (呃) 经济学咯
+NI48FBQ_0101 115040 119270 CS (er) studying economics in 南洋理工大学
+NI48FBQ_0101 121254 122937 ZH uhm 第三年
+NI48FBQ_0101 125768 128872 ZH 现在我只是有
+NI48FBQ_0101 129481 132338 EN two modules for this semester
+NI48FBQ_0101 141573 143040 ZH 学什么啊
+NI48FBQ_0101 143040 147200 CS 第一年的时候就比较多 econs modules ah
+NI48FBQ_0101 148120 153480 CS 我们有 basic econs module for example (er) statistics
+NI48FBQ_0101 155600 157360 ZH 简单 的 数学 ah
+NI48FBQ_0101 157360 159680 ZH 还有
+NI48FBQ_0101 159680 163990 CS micro economics and macro economics ah 那些比较基本的
+NI48FBQ_0101 166350 168540 CS macro 还是 micro
+NI48FBQ_0101 168540 171484 EN micro is (erm) firm level
+NI48FBQ_0101 171484 178350 ZH 就好像我们学 (呃) 那些公司在做什么经济决定的时候会
+NI48FBQ_0101 178350 180330 CS 什么反应 啊 it's like
+NI48FBQ_0101 180740 185590 CS you study all those graphs and 他们怎样 (er) shift left shift right
+NI48FBQ_0101 185930 187981 CS 那种 ya lor micro
+NI48FBQ_0101 189020 190190 EN macro
+NI48FBQ_0101 190190 196914 CS ah macro 就是比较 就是国家与国家之间啦 比较大
+NI48FBQ_0101 197326 199222 EN it's macro perspective
+NI48FBQ_0101 210359 212073 ZH 我没有这样厉害 
+NI48FBQ_0101 212073 219630 CS 有(呃)去年好像有去年有拿过一科 uhm the chinese economy
+NI48FBQ_0101 219630 222450 CS study a bit of (er) 中国历史
+NI48FBQ_0101 222450 225340 ZH 很像他啊对
+NI48FBQ_0101 225340 232465 CS 经济的历史就好像那个 cultural revolution (er) caused the what economic changes ah reforms
+NI48FBQ_0101 232465 234820 ZH 对 huh
+NI48FBQ_0101 234820 237600 ZH 我好像不记得了leh 不是很多
+NI48FBQ_0101 240410 244200 CS 没有我有从以前(呃)有那个 great leap forward
+NI48FBQ_0101 244200 246390 EN great leap forward
+NI48FBQ_0101 246390 249210 CS 是那个  five year plan
+NI48FBQ_0101 251201 253149 ZH 那个毛主席的那个
+NI48FBQ_0101 254006 257070 ZH 他以前不是哦以前是(呃)
+NI48FBQ_0101 257735 260375 CS 那个叫什么  communist economy what
+NI48FBQ_0101 260375 265552 CS 就是 everything is centrally planned by the government then (erm)
+NI48FBQ_0101 265552 273055 ZH 就过后就有改革嘛对 哦 然后就慢慢慢慢变成现在这样
+NI48FBQ_0101 273055 275935 CS 比较多 freedom to the market
+NI48FBQ_0101 275935 277677 EN yah
+NI48FBQ_0101 277677 278949 ZH 什么感觉
+NI48FBQ_0101 284117 287935 ZH 中国真的比较难管因为它的国家很大
+NI48FBQ_0101 287935 289233 ZH 对
+NI48FBQ_0101 289233 294665 CS 所以它做什么决定从上面 it's like 都是很难很难 (er) implement
+NI48FBQ_0101 294665 295785 EN yah
+NI48FBQ_0101 295785 299125 ZH 新加坡比较小 mah 很容易管 ah
+NI48FBQ_0101 305326 307975 ZH 经济有什么特征
+NI48FBQ_0101 311455 315305 CS small open economy 很像在上课 eh
+NI48FBQ_0101 315305 320335 CS small open economy 没有没有特别的就是 exports and imports lor
+NI48FBQ_0101 320335 327595 CS it's largely based on exports and imports that factor is around two hundred 巴仙 ah
+NI48FBQ_0101 327595 329872 EN ya it's quite huge
+NI48FBQ_0101 330422 336525 CS that means it's (uh) 很像美国 right 他们 based largely on the consumption sector
+NI48FBQ_0101 336525 342221 CS 就他们是靠自己人的人消费 to stimulate the economy
+NI48FBQ_0101 342221 349125 ZH 可是新加坡不一样新加坡是其他的国家好那我们就好 对 哦
+NI48FBQ_0101 349125 351745 CS ah  大部分都是靠 exports
+NI48FBQ_0101 351745 361390 CS 嗯 (emm) yah
+NI48FBQ_0101 361390 365500 ZH 差不多 lah 都是外面进来因为外面比较便宜 ah
+NI48FBQ_0101 365500 382370 EN  emm
+NI48FBQ_0101 382370 383565 ZH 大变
+NI48FBQ_0101 388732 393485 ZH 一点点 (uh) 不是很糟糕 (erm) 泰国的
+NI48FBQ_0101 393485 402924 EN hmm 
+NI48FBQ_0101 402924 404352 CS 历史课 okay (uh)
+NI48FBQ_0101 405365 407858 CS 那时候 okay 泰国
+NI48FBQ_0101 408871 412378 ZH 泰国它没有它转变得太快了 就是
+NI48FBQ_0101 414428 419575 CS 我不知道 eh 我只知道 (uh) i think
+NI48FBQ_0101 419575 424040 CS u. s. exerted pressure on 泰国 then 过后 (erm) 泰国就
+NI48FBQ_0101 424260 433220 CS 就做了一些调整 ah 可是它没有想到人家会 speculate against 它的 currency 所以就 cause the downfall of 它自己的 currency ah
+NI48FBQ_0101 433220 439422 EN yah
+NI48FBQ_0101 439422 445980 CS ya and (uh) 泰国的 foreign investments like capital flow out of their country very fast
+NI48FBQ_0101 445980 447151 EN yah
+NI48FBQ_0101 447151 456226 EN but singapore is affected but (er) it implemented some very quick and prudent policies ah
+NI48FBQ_0101 456889 462942 EN (uh) they cut the c. p. f. rate i think ya during that time
+NI48FBQ_0101 464754 472060 CS 就因为 (uh) singaporeans are more receptive of the policies implemented by the government
+NI48FBQ_0101 472060 480200 ZH 所以他们就就比较有效 lor 因为我们人好像笨笨这样的政府讲什么我们就 orh 好啊 好啊 好啊
+NI48FBQ_0101 480200 481040 ZH 对
+NI48FBQ_0101 481040 484760 CS 所以比较快比较快 recover from the shock ah
+NI48FBQ_0101 484760 496930 CS yah 对 对 哦
+NI48FBQ_0101 496930 500820 CS um c. p. f. cut 是 contribution rate do you know what is c. p. f.
+NI48FBQ_0101 502538 505732 EN orh c. p. f. is (uh) central provident fund
+NI48FBQ_0101 505732 513707 ZH 就是我们人们 hor 要付一八仙的那个我们的收入 啊 不是
+NI48FBQ_0101 513707 526071 CS as in 一个 certain amount of percentage ah i think 现在应该是 fourteen fifteen i not very sure i remember that time 我打工的时候是二十好像是二十
+NI48FBQ_0101 526071 528391 EN uhm
+NI48FBQ_0101 528391 534685 ZH 没有它就它就进一个户口很像政府帮你管理那个户口可是你不能拿钱出来
+NI48FBQ_0101 535411 539774 ZH 直到你退休 um 大概五十五岁这样
+NI48FBQ_0101 539774 542890 CS 可是你的 employer right
+NI48FBQ_0101 542890 546425 ZH 也是要出一一部分的钱啊
+NI48FBQ_0101 546425 552337 ZH 就是很像他帮你出几八仙然后你自己要出几八仙 其实我觉是他从你的薪水扣的啦
+NI48FBQ_0101 552337 555978 ZH 他给你的那一份他已经算好了预算好了对咯
+NI48FBQ_0101 559510 561400 CS 它就是 contribution rate
+NI48FBQ_0101 561880 569830 CS 它减少那个 contribution rate 所以人们它希望人们有多一点钱来消费然后 stimulate the economy
+NI48FBQ_0101 569830 573230 ZH umm 对哦
+NI48FBQ_0101 573230 576680 CS 可是人们没有想到 ah 如果它 cut 那个 contribution rate right
+NI48FBQ_0101 576680 581335 ZH 其实是那些钱是用来做你以后的退休金来的
+NI48FBQ_0101 589980 592144 ZH 我不懂我不记得了
+NI48FBQ_0101 602661 604479 ZH 可是也不是很大啊
+NI48FBQ_0101 616489 625225 CS 对可是那个 okay (er) singapore singapore policy right (erm) doesn't really dependent on 那个 interest rate
+NI48FBQ_0101 625525 626995 CS 银行的 interest rate yah
+NI48FBQ_0101 631603 637825 EN we depended more on actually a mix la mix of monetary policies and fiscal policies
+NI48FBQ_0101 638371 640524 ZH 为什么好像在上课这样
+NI48FBQ_0101 643408 644707 ZH 还好啦
+NI48FBQ_0101 651960 654320 EN it's like (er) control the money supply ah
+NI48FBQ_0101 654320 657030 EN it's quite effective
+NI48FBQ_0101 657030 662130 CS 因为 (er) singapore they have a unique (er) exchange rate policy
+NI48FBQ_0101 662130 668340 EN that means (uh) we maintain a wait manage float and
+NI48FBQ_0101 668340 676601 CS ah managed float 就是 那个 exchange rate right 浮动不要太大可是还是有让它浮动 可是
+NI48FBQ_0101 678725 686315 CS 就是 因为 (erm) 政府 control 那个 the band 就是不要让它浮动太大因为浮动太大会 affect 到我们的 exports
+NI48FBQ_0101 686315 690556 CS 可是中国是 fixed they fixed it
+NI48FBQ_0101 690556 695101 EN that's why the currency is fixed right but
+NI48FBQ_0101 702100 704570 CS appreciate 那个人民币
+NI48FBQ_0101 706266 707928 ZH 可是它因为它
+NI48FBQ_0101 707928 717980 CS 因为以前你看泰国的历史 已经是一个 lesson learnt for them so they are very very careful in trying to float their currency
+NI48FBQ_0101 717980 721555 CS 对所以它迟迟还是不要让它 float
+NI48FBQ_0101 728843 734400 EN okay (uh) for singapore currency right it's packed to a basket of currencies that means but
+NI48FBQ_0101 734400 740060 CS 他们没有 reveal like 他们用哪一个国家哪一个国家的那个 currency ah
+NI48FBQ_0101 740060 751247 CS 对他就是人家看看 observe then 就讲 okay 新加坡跟 (uh) 美国 (uh) 关系相联 as in
+NI48FBQ_0101 751530 758024 CS it's closely related lah 他看很像美国的那个 currency 有 drop 一点点 新加坡的也会受到影响 lah
+NI48FBQ_0101 758024 759011 ZH 就很像
+NI48FBQ_0101 759510 765296 CS 它 就 observe lor observe the trend 就讲新加坡 actually the large percentage is from u. s.
+NI48FBQ_0101 766494 776150 CS 他是很像新加坡 (erm) pegged to a currency a few currencies 可能有我不懂其他的国家 ah 中国还是什么就有一个 weight attached to it
+NI48FBQ_0101 780846 781512 ZH 对对
+NI48FBQ_0101 782923 789720 CS 可能会换他们可能会换那个换那个 weights lor 我不知道 trade basket ah
+NI48FBQ_0101 790110 795500 CS 他没有没有跟人家讲因为 (erm) 怕人家 speculate on singapore currency
+NI48FBQ_0101 801696 803280 ZH 哦你是台湾人
+NI48FBQ_0101 811045 814395 ZH 欧欧币也是好像
+NI48FBQ_0101 829781 831391 EN interesting leh
+NI48FBQ_0101 834170 836816 ZH 上什么课啊
+NI48FBQ_0101 845839 851423 ZH um 就现在好像你看某些新闻啊或者是
+NI48FBQ_0101 852330 859000 CS (er) 他讲说 the government want to implement which policies 你懂 what's the reasoning behind this ah
+NI48FBQ_0101 859180 866670 CS 就这样 lor 其他的没有什么 ah 除非你真的是 into statistics ah 我觉得 因为 statistics they deal with
+NI48FBQ_0101 866670 873320 EN regression models then all those weird weird programs la i don't know how to use
+NI48FBQ_0101 873320 879000 CS 哎呀 they like plot then you enter a few numbers 的那种对不然你 就是
+NI48FBQ_0101 879000 884662 CS not analysis analysis lor eh analyst analyst 那些
+NI48FBQ_0101 885530 889430 CS then 你就可以 like predict what will happen in the future or something
+NI48FBQ_0101 906799 912017 EN oh okay (uh) firstly it might be due to the strategic geographic location also
+NI48FBQ_0101 912017 921980 CS 因为新加坡他的旁边周围的国家都还不是很 developed ya so
+NI48FBQ_0101 921980 927470 CS a lot of inflow of capital 都是来新加坡下来新加坡发展
+NI48FBQ_0101 927470 931913 ZH 可是如果其他的国家富裕新加坡人其实会富裕起来啊
+NI48FBQ_0101 932630 941493 CS 所以新加坡有好像在帮忙其他周围的整个环境啊整个 region to prosper
+NI48FBQ_0101 943884 952116 EN hmm hong-kong singapore and hong-kong is always in competition right for almost everything
+NI48FBQ_0101 952765 956238 EN (uh) becase hong-kong is also a financial hub what ya
+NI48FBQ_0101 959001 960546 EN system is slightly different
+NI48FBQ_0101 962796 966435 EN wait ah let me think i also hong-kong currency is pegged to u. s. right
+NI48FBQ_0101 967752 972816 EN then their system is different lor it's pegged to u. s. but (uh) theirs is (uh) like a fixed
+NI48FBQ_0101 972816 974743 EN singapore is a managed group
+NI48FBQ_0101 975306 980629 EN so they allow theirs is stable stable exchange rate so it's like
+NI48FBQ_0101 981060 987160 EN fixed lor they hope to fixate to maintain their exports and imports ah it won't be affected much
+NI48FBQ_0101 988312 992727 EN ya but there's a bad side to it what you said earlier la
+NI48FBQ_0101 992727 1000543 ZH 现在(呃) 美国的经济不是很好 对咯 所以他们多多少少都会受到一些影响 对影响比较大
+NI48FBQ_0101 1013645 1015126 ZH hmm 那一个国家
+NI48FBQ_0101 1016658 1018086 ZH 什么国家跟美国
+NI48FBQ_0101 1032534 1036611 EN orh (uh) (uh) trade surplus or trade defecit ah
+NI48FBQ_0101 1041835 1046355 CS surplus 就是多 的 ah defecit 就是少的
+NI48FBQ_0101 1047744 1055160 CS for singapore 她的 exports and imports 都是 rather balanced 的没有 surplus or deficit
+NI48FBQ_0101 1056324 1057493 EN (uh) two hundred
+NI48FBQ_0101 1059943 1063258 EN export close to two hundred percent
+NI48FBQ_0101 1064079 1066896 CS 很大咯 two hundread of g. d. p.
+NI48FBQ_0101 1067377 1068890 EN (uh) growth domestic product
+NI48FBQ_0101 1070493 1080863 EN (uh) g. d. p. is based on a few factors one is consumption investment government expenditure then exports minus import
+NI48FBQ_0101 1082455 1087155 CS 因为 exports 是进钱 mah  imports 就是你把钱给人家
+NI48FBQ_0101 1091075 1094390 CS consumption 是消费
+NI48FBQ_0101 1095205 1099445 CS investments 就是 (er) 投资
+NI48FBQ_0101 1099955 1103255 CS ah government expenditure 就是政府消费
+NI48FBQ_0101 1103255 1114427 CS 政府消费的钱可能现在那些 infrastructure (uh) develop new areas ya then export export 是什么
+NI48FBQ_0101 1115362 1117725 CS 出口 import 就是进口咯
+NI48FBQ_0101 1125095 1129072 CS 两百八仙 of (er) g. d. p. 就是 for example g. d. p.
+NI48FBQ_0101 1132552 1135175 ZH 我不懂 eh 我没有去记
+NI48FBQ_0101 1135785 1139535 CS 就是一个一个 value g. d. p.
+NI48FBQ_0101 1144055 1149813 CS 都都可以 ah 新加坡也可以新加坡钱也可以 ah convert 来 convert 去 it's still the same
+NI48FBQ_0101 1151525 1156565 CS that means it it just shows that the exports is actually a huge component of 那个 g. d. p.
+NI48FBQ_0101 1160412 1170695 CS 没有越多越好越少越好只是只是说我们的经济的 growth right is largely due to 那个 export factor
+NI48FBQ_0101 1171865 1176875 CS we cannot really depend on 那个 consumption 的那个因为我们的人口很小 ah
+NI48FBQ_0101 1176875 1181160 ZH 如果只扣我们的人类消费可能都不够
+NI48FBQ_0101 1188910 1192286 CS mm 对现在啦应该是 america
+NI48FBQ_0101 1198181 1204927 ZH 对电子电子我们这里都不能种什么大量的蔬菜还是什么
+NI48FBQ_0101 1205533 1210005 CS 就是靠靠那种  technological based products
+NI48FBQ_0101 1210005 1217565 CS 对因为我们这里有那些那些人 with the skills ah and knowledge to to research on all these
+NI48FBQ_0101 1225630 1226565 ZH 这里
+NI48FBQ_0101 1228253 1230365 CS 这里的那个 income tax
+NI48FBQ_0101 1230365 1234335 ZH 比较低啊
+NI48FBQ_0101 1234335 1238405 CS 这个是 (er) one of the policies ah the government hopes to attract foreigners
+NI48FBQ_0101 1238800 1247465 CS 因为 some countries right for example 那些欧美国家他们的 income tax 都是蛮高 ah 就是如果那里的人要来这里做工
+NI48FBQ_0101 1247465 1252589 ZH 他们要给的那些税比较多啦
+NI48FBQ_0101 1253135 1254433 EN hong-kong
+NI48FBQ_0101 1280261 1283689 ZH 商业区啊工业区
+NI48FBQ_0101 1287142 1291033 EN this might be due to the land zoning la
+NI48FBQ_0101 1291033 1295770 ZH 就是好像政府以前它就会规划好 (uh)
+NI48FBQ_0101 1295770 1303380 CS this part of the land will be for industrial purpose this part of land will due to 什么香港的给我感觉好像很 cramped
+NI48FBQ_0101 1303760 1312878 ZH 会吗 我不知道我没有去过香港 他们很多很多都是屋子蛮靠近很窄很窄的那种感觉
+NI48FBQ_0101 1313160 1320487 ZH 可能是他们没有规划好还是什么因为你不可能把工业区放在那个人住的地方嘛
+NI48FBQ_0101 1329008 1334291 CS 所以他就 that's why hong-kong is specialised in financial services ah
+NI48FBQ_0101 1341110 1344210 CS 觉得都蛮 on par 的 for both countries ah
+NI48FBQ_0101 1344210 1347806 ZH 一直在想办法看拿第一吧
+NI48FBQ_0101 1358142 1359518 EN one one of the reasons lor
+NI48FBQ_0101 1362450 1366320 EN environment some people like the environment here
+NI48FBQ_0101 1369755 1385570 CS it's very hot but some people think singapore don't have four seasons (uh) it's quite unique 蛮特别的特殊的 住在这里不会有什么大风大浪 对 哦 就是没有 natural disasters ya it's quite safe
+NI48FBQ_0101 1385570 1392140 EN and it's very near all those other countries la with tourist attractions
+NI48FBQ_0101 1392140 1400630 CS 所以度假的时候很方便 mah 搭一个船去 batam  坐一个飞机 like i think 几个小时就可以到泰国
+NI48FBQ_0101 1400630 1403942 ZH 三四个小时 很容易啦度假的时候
+NI48FBQ_0101 1404280 1414355 CS 对而且这里比起欧美国家 the living of standard right is actually much cheaper as compared to them right ah ya
+NI48FBQ_0101 1414355 1415620 ZH 这里的
+NI48FBQ_0101 1415620 1420040 CS 他们讲 education is also not bad considered world class education
+NI48FBQ_0101 1421300 1424690 CS education 就是 (erm) 教育
+NI48FBQ_0101 1442210 1445118 CS (uh) standard of living 就是
+NI48FBQ_0101 1448853 1451346 EN world-class standard world-class standard
+NI48FBQ_0101 1452385 1454748 ZH 对就是算蛮好的
+NI48FBQ_0101 1455553 1457293 EN recognized by the world
+NI48FBQ_0101 1459098 1467447 ZH 所以他们就好像那些 mm 明星啊 都搬来这里住 对不对好像听了什么巩俐啊
+NI48FBQ_0101 1467447 1470277 ZH 我不知道都在这里买了屋子
+NI48FBQ_0101 1470277 1473089 ZH 就是要把他们的孩子送来这里的学校读书
+NI48FBQ_0101 1473526 1477177 ZH 而且我们这里没有狗仔队啊 太小了 国家
+NI48FBQ_0101 1486510 1490890 CS 我认为 ah singapore's education system is too rigid
+NI48FBQ_0101 1491622 1495700 ZH 因为他们怕出错我觉得啦
+NI48FBQ_0101 1495700 1500410 CS 所以一直都是照 like (er) 有一个一定的程序
+NI48FBQ_0101 1500410 1503559 ZH 还在慢慢的改革啊
+NI48FBQ_0101 1504208 1514270 CS it's like (uh) they focus mainly on 就是 好像 我给你这个东西 then 你一定要一定要吃下去吃了下去你要吐出来那种
+NI48FBQ_0101 1516110 1523940 CS 可是我好像听因为我妹妹现在在 republic poly 他们的学校是 (er) advocate problem-based learning ah
+NI48FBQ_0101 1523940 1526006 EN it's more on based on projects
+NI48FBQ_0101 1526369 1539092 CS it's different la (uh) 他们就是 got how to say periodic assessments 偶尔偶尔一下就会有一个小测验 啊 这样 不是像我们这样考试考试考试
+NI48FBQ_0101 1539092 1545865 CS 他们不一样他们的测验就有 presentations and stuff la 可是你看现在
+NI48FBQ_0101 1545865 1550055 CS 那时候我的年代 before 我的年代没有 project work
+NI48FBQ_0101 1550236 1554940 CS for junior college 没有 project work yah 现在有 project work
+NI48FBQ_0101 1555290 1558640 CS like 一小部分的那个分数是 靠 project work
+NI48FBQ_0101 1562070 1566470 CS junior college 不是小 orh 就是 before pre-university education
+NI48FBQ_0101 1567200 1570380 CS 小学的时候有做 project work 可是是没有算分的那种
+NI48FBQ_0101 1570380 1576054 ZH 很简单很简单叫你剪那些照片啊还是什么贴贴贴对
+NI48FBQ_0101 1579160 1586240 CS what kind of project work ah (er)她现在是 study environmental science what kind of project work 我就不大清楚 lah
+NI48FBQ_0101 1590355 1594515 CS 没有啊没有她现在好像在做她的 final year project
+NI48FBQ_0101 1594515 1598493 EN (uh) she's doing on solar panels i think so
+NI48FBQ_0101 1601430 1604550 CS (er) solar panels 就是那个太阳功能的那个
+NI48FBQ_0101 1607375 1612200 CS 没有没有应该是没有我不知道 eh 因为是 (er) group work 来的
+NI48FBQ_0101 1612760 1614708 ZH 我不太清楚我没有问她
+NI48FBQ_0101 1619278 1626260 CS 可是他们一定是有 (erm) school fund like put aside for 他们的 final year project
+NI48FBQ_0101 1632830 1635550 CS 没有只有大学的时候才有 final year project
+NI48FBQ_0101 1635780 1641020 CS 可是 polytechnic is different from junior-college polytechnics 他们 more hands-on
+NI48FBQ_0101 1641810 1646570 CS junior college 就是好像我们小学中学一样就是读书考试读书考试
+NI48FBQ_0101 1654442 1658300 CS 因为 okay poly right 是拿一个 diploma
+NI48FBQ_0101 1658980 1661970 CS (er) junior-college 是拿一个 a. level cert
+NI48FBQ_0101 1662510 1666970 CS a. level cert 跟 diploma cert 比起来 right diploma cert 比较 好
+NI48FBQ_0101 1666970 1667970 ZH 对
+NI48FBQ_0101 1667970 1672240 CS 可是你 take diploma cert (erm) 来到大学的话
+NI48FBQ_0101 1672604 1676360 ZH 它可以好像跃 跃一个级啊
+NI48FBQ_0101 1676360 1682430 CS 是 start from year two then  你过后拿那个 university degree is better than diploma cert right
+NI48FBQ_0101 1682758 1692940 CS 所以如果你你知道在进 poly 之前你知道自己要走 which course specialise in which area right 你就直接去 poly
+NI48FBQ_0101 1692940 1695585 CS because you have an edge over other people 已经
+NI48FBQ_0101 1696157 1703680 ZH 有做一点点关于你你要以后要当的那个职业还是什么啊 对 哦 就会
+NI48FBQ_0101 1703680 1709690 CS it's more focused ah you got more experience 而且  (er) re  polytechnic right they have
+NI48FBQ_0101 1710164 1714288 EN attachment opportunities for attachment junior-college don't have
+NI48FBQ_0101 1714288 1719644 EN because junior-college is still very wide you study oh physics chem science (uh) all those
+NI48FBQ_0101 1727750 1732660 CS 这个很特别因为  n. t. u. 的 business school 比较好 ah n. b. s. 比较好
+NI48FBQ_0101 1737381 1745743 CS oh 不是 n. b. s is not the only only business school in singapore n. u. s also have their business school
+NI48FBQ_0101 1745743 1751450 EN uhm theirs they have different programme ah three years is without honours
+NI48FBQ_0101 1751450 1754070 CS but n. t. u. 是三年 with honours
+NI48FBQ_0101 1755257 1758088 EN for n. u. s. if you want honours right you need to study one more year
+NI48FBQ_0101 1759412 1762139 EN honours degree is better than a degree
+NI48FBQ_0101 1765878 1769176 ZH 哦不对 (uh) 不是第一年就是你要读 (uh)
+NI48FBQ_0101 1770449 1774480 ZH 不一定要四年他就是有多一点东西 啊
+NI48FBQ_0101 1774480 1778480 CS 可是我不懂是什么因为 n. t. u. 的那些 courses 都是 direct honours
+NI48FBQ_0101 1778690 1784310 CS that means 他已经算在里面你不可以拿一个 degree without honours 的就是 direct honours lor
+NI48FBQ_0101 1789540 1794250 CS n. t. u. 是四年 ah oh n. b. s. ah n. b. s. 是三年三年要读完 ah
+NI48FBQ_0101 1797790 1799090 CS orh 我不是 n. b. s. 的
+NI48FBQ_0101 1800931 1805531 CS 对啊 economics is under (uh) school of humanities and social sciences
+NI48FBQ_0101 1806260 1812950 CS 很多人都有那个 misconception that economics is under n. b. s. but it's not  是 social science 来的
+NI48FBQ_0101 1814850 1816075 ZH 啊 对
+NI48FBQ_0101 1827294 1828205 EN okay (uh)
+NI48FBQ_0101 1828205 1832210 EN this semester i took behavioural economics (uh)
+NI48FBQ_0101 1832210 1837120 CS 他跟我们学的那种 traditional economics 有一点点不一样 
+NI48FBQ_0101 1837120 1839318 ZH 因为它是
+NI48FBQ_0101 1839960 1843530 CS 不是靠那些 theories ah it's not based on theories 就是
+NI48FBQ_0101 1843815 1846412 EN sometimes it's going against theories
+NI48FBQ_0101 1846412 1856774 ZH 就是在讲人(uh)其实做这个决定的时候是会这样做虽然正常的人会这样想可是人类还是跟他做的不一样
+NI48FBQ_0101 1856774 1859510 ZH 像有一个例子就是 (uh)
+NI48FBQ_0101 1859874 1866288 EN by nature right human is selfish but okay for example i give you twenty dollars
+NI48FBQ_0101 1866288 1872376 ZH (呃)我问你你要给多少钱给另外一个人
+NI48FBQ_0101 1873144 1876146 ZH 如果你是自私的是人的本性对不对
+NI48FBQ_0101 1876146 1878847 EN you're selfish you'll keep all for yourself
+NI48FBQ_0101 1878847 1882890 ZH 可是人还是会给一部分的钱给另外一个人对不对
+NI48FBQ_0101 1882890 1883760 ZH 所以就是这样 lor
+NI48FBQ_0101 1883760 1886724 EN behavioral science is behavioral economics is different
+NI48FBQ_0101 1888698 1889399 EN predict
+NI48FBQ_0101 1891710 1893112 EN predict which history
+NI48FBQ_0101 1911159 1912743 ZH 到底会怎么做啊
+NI48FBQ_0101 1924342 1925251 EN oil shock ah
+NI48FBQ_0101 1929483 1930704 EN oh wall street crash
+NI48FBQ_0101 1940832 1942416 EN orhorh economic crisis
+NI48FBQ_0101 1945220 1947780 EN  global global economic crisis ah
+NI48FBQ_0101 1948000 1950920 CS uh-huh oh 你要 讲 tsu tsunami is it 
+NI48FBQ_0101 1950920 1954949 EN orh tsunami is just a descriptive word
+NI48FBQ_0101 1969543 1975478 ZH oh 你是讲看以前到底怎样然后现在的经济状况会怎样
+NI48FBQ_0101 1976788 1981530 CS 可是 oh 那个不一样 behavioral is more micro
+NI48FBQ_0101 1981820 1989860 CS it's more more micro perspective its not (erm) 就是人与人之间不是 (erm) 国家和国家 的
+NI48FBQ_0101 1993010 1994220 ZH 我不知道 eh
+NI48FBQ_0101 1994659 1998381 ZH 老师很像没有讲考试的时候没有讲什么
+NI48FBQ_0101 1998780 2004190 CS 他他他没有他没有讲什么就就现在就是做那种 mini presentations
+NI48FBQ_0101 2004660 2011590 CS ah then 有一个 term paper  that means (er) 我的组是做 (er) smoking behavior
+NI48FBQ_0101 2012185 2023945 CS 就 do a simple survey with smokers and find out which which (uh) programme is suitable for them to help them to quit smoking effectively
+NI48FBQ_0101 2026140 2030630 CS 就好像现在现在新加坡有那个 (er) quit line
+NI48FBQ_0101 2030630 2034080 EN that means you call in this number then
+NI48FBQ_0101 2034080 2039650 CS 它就给你对给你一些意见 ah some advice to help you quit smoking
+NI48FBQ_0101 2040079 2041975 EN other programmes they have
+NI48FBQ_0101 2043556 2044536 CS 就是 advertisement lor
+NI48FBQ_0101 2045608 2046776 EN show you advertisement
+NI48FBQ_0101 2047633 2053402 EN advertisement on t. v.s media everything to discourage you from smoking
+NI48FBQ_0101 2053814 2063293 EN encourage you to quit smoking and another one is the high tobacco tax ya high tobacco tax to discourage smoking
+NI48FBQ_0101 2069132 2073360 ZH 我知道我知道因为我知道中国的那个香烟也是很便宜
+NI48FBQ_0101 2074139 2078002 ZH 因为一直在抽我就看到那边的人一直在抽 eh 香烟不会很贵吗 不会leh
+NI48FBQ_0101 2078398 2081903 ZH 不会贵啊 中国的香烟也是很便宜啊
+NI48FBQ_0101 2083384 2084215 ZH 对新加坡
+NI48FBQ_0101 2088326 2091935 ZH 中国他们不是有自己自己的香烟吗
+NI48FBQ_0101 2094095 2095783 ZH 应该是有吧
+NI48FBQ_0101 2098068 2100044 ZH 哦没有我是我是讲在中国
+NI48FBQ_0101 2100613 2105810 ZH 不是进口的香烟在中国他们那里的人买
+NI48FBQ_0101 2105810 2111170 ZH 很蛮多人抽烟的 ah 因为我我有回有一次回去回去乡下
+NI48FBQ_0101 2111754 2119574 ZH (uh) 因为我的祖先就是我的公公的爸爸就是太公的那个那个年代是在中国的嘛
+NI48FBQ_0101 2120113 2125670 ZH 所以他们就 那里的人都抽烟 eh 他们年纪蛮小的十多岁就抽烟了
+NI48FBQ_0101 2127670 2129332 ZH (uh) 汕头
+NI48FBQ_0101 2131513 2133227 ZH 广东那边
+NI48FBQ_0101 2135711 2140250 ZH 没有没有我们不是讲广东话我们是潮州客
+NI48FBQ_0101 2140250 2145110 CS 对所以会讲一点点 hakka 一点点而已 lah 不会讲
+NI48FBQ_0101 2147656 2153890 CS 好像不是 ah 可能是潮州 bah 潮州有点像 (er) hakka
+NI48FBQ_0101 2155739 2159279 ZH 不知道 我没有学着种乖乖的话
+NI48FBQ_0101 2162803 2166179 CS 台湾台湾 i went last year
+NI48FBQ_0101 2166660 2170910 CS ah yah last year with my (er) junior college 朋友
+NI48FBQ_0101 2172415 2174311 ZH (呃)我们去台北
+NI48FBQ_0101 2179325 2183287 ZH 五天好像是五天还是六天我忘记五天啊
+NI48FBQ_0101 2184670 2192370 CS five days in in 台北 (er) we stayed in a hotel in the 西门町 itself
+NI48FBQ_0101 2195975 2199582 ZH 那边很热我觉得台北比新加坡还热
+NI48FBQ_0101 2200675 2204111 ZH 我们是七月的时候去的时候
+NI48FBQ_0101 2206889 2208265 ZH 台北很热
+NI48FBQ_0101 2208759 2212109 ZH 可是那里的人他们还是穿蛮多的eh
+NI48FBQ_0101 2214540 2219020 CS 很热真的很热我去真的是 cannot imagine eh
+NI48FBQ_0101 2219020 2224052 ZH 你看那些人还是好像没有流汗这样的感觉好像只有我们在觉得很热而已
+NI48FBQ_0101 2227470 2230930 ZH 可是我觉得那边很臭 eh 我不知道为什么
+NI48FBQ_0101 2231562 2234107 ZH 它有一个有一个味道啊空气
+NI48FBQ_0101 2236221 2237078 ZH 为什么啊
+NI48FBQ_0101 2241466 2247202 CS ventilation (uh) 哦 难怪 可是有好像看到
+NI48FBQ_0101 2247870 2251260 CS 他们的夜市 right 就很像新加坡的 pasar-malam 对不对
+NI48FBQ_0101 2252010 2256250 CS 夜市你有没有去过 pasar-malam pasar-malam 就是 (er)
+NI48FBQ_0101 2256770 2259110 CS a malay term for 夜市
+NI48FBQ_0101 2260545 2264530 CS 因为你有没有看过 在  along the road side right
+NI48FBQ_0101 2264530 2268330 ZH 有时候会搭一些帐篷然后就有有
+NI48FBQ_0101 2268330 2274440 CS 小贩在卖小吃 ah 卖 那些东西 ah 零零碎碎的东西那个就是 叫 pasar-malam lor
+NI48FBQ_0101 2276500 2278890 CS it's all year round 好像
+NI48FBQ_0101 2278890 2287900 CS 马来新年要到ah 还是什么  就那些 h. d. b. platlor 那些  路边 就会有一整排的那些 tents
+NI48FBQ_0101 2288270 2297572 CS then they sell all kinds of things 有卖衣服 ah c. d. (er) 很多东西 ah 什么东西都有卖 怪怪的东西
+NI48FBQ_0101 2299130 2305270 ZH orh 不止还有很像马来新年 ah 印度新年ah 还是假期的时候都有
+NI48FBQ_0101 2306583 2311258 CS 他们每次都在改 因为他们是看他们的马来的那个 calendar ah
+NI48FBQ_0101 2311258 2312556 ZH 我不太清楚
+NI48FBQ_0101 2313125 2315748 ZH 可是通常都是蛮靠近华人新年的
+NI48FBQ_0101 2316059 2320355 ZH 就会有一次他们好像有两三次不知道不是新年啦
+NI48FBQ_0101 2320355 2327675 CS 是他们的  festival yah just that 我们 termed it as 新年因为我们不懂什么是什么种节日 ah
+NI48FBQ_0101 2328888 2332160 ZH 可是他们的夜市好挤还比新加坡的还挤
+NI48FBQ_0101 2332160 2333625 ZH 是那种
+NI48FBQ_0101 2333625 2340364 CS 人根本都不能动就很像新年你去买什么去那个 chinatown 买年货一样 ah 对 很挤很挤
+NI48FBQ_0101 2343869 2347681 ZH 去泡温泉第一次去泡温泉
+NI48FBQ_0101 2350102 2352841 ZH 去泡露天的温泉对
+NI48FBQ_0101 2353725 2358115 CS ah 对可是  (erm) 那个地方 very difficult to find eh
+NI48FBQ_0101 2361155 2362935 ZH 对 ah 可是还要 走 ah
+NI48FBQ_0101 2362935 2365474 ZH 我们又不懂路所以我们走
+NI48FBQ_0101 2365474 2373175 ZH 走它是上山对不对有很多间很多间可是不懂是要去哪一间
+NI48FBQ_0101 2373175 2379515 CS 就我们走走走走又绕了一圈 then you come back to the same one then we realise that orh 这间是我们要去的
+NI48FBQ_0101 2381330 2388840 ZH 可是很奇怪因为我们去那边好像每个人觉得我们很像外星人 因为那个我们去的那个
+NI48FBQ_0101 2388840 2395170 CS 那个温泉 right is a public one so 那些人都是蛮年老的
+NI48FBQ_0101 2395499 2399906 ZH 不然就是小孩子 那爷爷带孙子去还是什么
+NI48FBQ_0101 2399906 2405390 ZH 看我们是那里的好像唯一的一群一小组的年轻人
+NI48FBQ_0101 2405390 2408195 ZH 有遇到两个好像美国来的
+NI48FBQ_0101 2408974 2413620 CS 对就就跟他聊了也是年轻人 ah 他们是 backpacking
+NI48FBQ_0101 2414168 2417076 CS then 他们也是有要来新加坡啊 对
+NI48FBQ_0101 2422088 2423610 ZH huh 真的吗
+NI48FBQ_0101 2425598 2426247 ZH 可是
+NI48FBQ_0101 2428350 2431640 CS 可是没有办法 ah 因为我们那个时间是 school holidays what
+NI48FBQ_0101 2431640 2438129 ZH 而且我们我们讲要去台湾去了两年了 讲了两年了终于去又差点不能去
+NI48FBQ_0101 2438462 2443140 CS 因为那时候刚好是因为男生要去 serve n. s. right
+NI48FBQ_0101 2444435 2453238 CS 过了他们 serve n. s. for two years then 就会有一小小的 holiday before they (erm) apply for university right
+NI48FBQ_0101 2453238 2457904 CS 只有那个时间可以去如果再拖的话 i think 我们就要毕业了
+NI48FBQ_0101 2469290 2473220 CS 我不懂他们的 application date is around february to march right
+NI48FBQ_0101 2473790 2478330 CS 可是 aft (er) for private university 是那个 period
+NI48FBQ_0101 2479057 2484490 EN that means (uh) s. i. m. other m. d. i. s ya
+NI48FBQ_0101 2484490 2494170 CS they apply later time 就是可能 they get rejected from (erm) local 的大学他们过后才去 apply for the private universities lor
+NI48FBQ_0101 2502213 2508620 CS 我们我们有讲要去阳明山可是结果还是没有去我们去了满多间的 temple ah
+NI48FBQ_0101 2509117 2512222 ZH 好像两天两天都去 eh
+NI48FBQ_0101 2513012 2516510 ZH 不一样的庙什么龙山庙 哦 他们的庙好不一样哦
+NI48FBQ_0101 2516510 2523950 CS 他们的庙很先进有那种 l. e. d. light 还有什么 welcome to 龙 山 temple then 我就 wah
+NI48FBQ_0101 2523950 2525577 ZH 很多人也是
+NI48FBQ_0101 2528007 2529571 ZH 很多人
+NI48FBQ_0101 2531253 2533917 ZH 没有(呃)他那个是什么我也不懂
+NI48FBQ_0101 2534759 2535499 ZH 忘记了
+NI48FBQ_0101 2535798 2537356 ZH 是孔子 eh
+NI48FBQ_0101 2537356 2543770 ZH 是吗 还是 不是可能不是我不记得了就还有另外一个庙就有
+NI48FBQ_0101 2545448 2548440 ZH 我不记得是什么庙是在台北在台北对
+NI48FBQ_0101 2548440 2553910 CS 都住在台北没有没有出去到 so 我们那时搭那种 budget airline 去
+NI48FBQ_0101 2553910 2555229 ZH 又遇到另外一组朋友
+NI48FBQ_0101 2555625 2556976 ZH 刚巧可是他们
+NI48FBQ_0101 2556976 2561261 ZH (呃)迟一天就是我们我们去五天他们去六天
+NI48FBQ_0101 2561261 2566983 CS 他们有感觉到那个地震我们刚好回来 then 台北不是有一个小地震 lor
+NI48FBQ_0101 2566983 2568869 ZH 他们有感受到那个地震
+NI48FBQ_0101 2569752 2576690 ZH 哦我们有去基隆 ah 基隆也是 风很大风很大又很晒
+NI48FBQ_0101 2576690 2581140 CS 然后有些人带那些 (erm)  那种很大很大的 hats right
+NI48FBQ_0101 2581995 2584482 ZH 飞掉 我看到那个帽子飞掉
+NI48FBQ_0101 2585220 2591600 CS 然后那些 (erm) try to 用他们的 umbrella to 挡那个太阳也是开了 
+NI48FBQ_0101 2591600 2594330 ZH 我什么东西都不敢拿出来可是很晒
+NI48FBQ_0101 2594330 2596030 CS 有点 (er) sunburn ah
+NI48FBQ_0101 2599238 2601200 CS huh but 晚上去可以看得到什么
+NI48FBQ_0101 2601200 2604260 CS 都是看那些 stones ah (erm)
+NI48FBQ_0101 2604540 2609763 CS all those formation rock formation 晚上看得到吗都没有灯 what
+NI48FBQ_0101 2613422 2616720 ZH 哦没有没有我们没有去夜市我们还去那里的鼎泰丰吃
+NI48FBQ_0101 2619161 2621524 ZH 很多人啊 靠近那边不是基隆
+NI48FBQ_0101 2622080 2628383 CS 不懂 (er) 因为我们租了一个 mini van then 有一个好像导游这样的
+NI48FBQ_0101 2628383 2633343 ZH 他就建议我们要去那边附近的一个一个餐馆吃
+NI48FBQ_0101 2633343 2641950 ZH 他讲那边的鼎泰丰跟新加坡鼎泰丰不一样因为他们的比较正宗还是什么我不懂
+NI48FBQ_0101 2641950 2644240 CS 新加坡的 jurong-point 就有了啊
+NI48FBQ_0101 2645248 2647782 ZH 很少啊一次啊一次两次啊
+NI48FBQ_0101 2648728 2653195 ZH 吃的东西不一样 eh 我不懂 我去去台湾那边吃比较多
+NI48FBQ_0101 2653195 2656276 ZH 因为跟朋友吃嘛然后每个人叫不一样的东西你都吃得到
+NI48FBQ_0101 2656276 2658284 ZH 在新加坡只叫一碗面
+NI48FBQ_0101 2658284 2660343 ZH 那你就吃那碗面而已
+NI48FBQ_0101 2661437 2663384 ZH 不懂eh 哦 对
+NI48FBQ_0101 2663384 2667877 ZH 台湾的日本餐好像比新加坡便宜很多
+NI48FBQ_0101 2667877 2671830 ZH 还有他们的那个烤肉烤肉也是很便宜啊
+NI48FBQ_0101 2671830 2679110 CS 跟新加坡不一样可是他们的 buffet style is very different 有 (er) time limit 的
+NI48FBQ_0101 2679110 2682592 CS 很奇怪好像他只给你 three hours
+NI48FBQ_0101 2683371 2685805 CS then 你就要你就要把东西吃完
+NI48FBQ_0101 2687270 2695580 CS 是 meh 很奇怪 eh 因为新加坡的 buffet right 是 okay 你在里面多久就多久 mah 就吃慢慢地吃
+NI48FBQ_0101 2695580 2699268 ZH 我们在那边就好像很赶我们怕三个小时吃不完
+NI48FBQ_0101 2701086 2708454 ZH 他就很像一个小时你只可以叫一盘这个样的东西一盘 (uh) 很像他有一个菜单啊
+NI48FBQ_0101 2708454 2715339 CS that in one hour you can only order 一盘的羊肉啦 一盘的牛肉 还是什么我不懂
+NI48FBQ_0101 2715339 2721230 CS 他有一一一整个就给你打过锅那个 then 一个小时你只可以叫一次而已点一次菜
+NI48FBQ_0101 2722880 2726750 CS 很奇怪可是有有那个 (er) free flow of haggen-daaz ice-cream
+NI48FBQ_0101 2726920 2729530 ZH 超好吃 吃吃那个冰淇淋吃到我们要暴了
+NI48FBQ_0101 2729870 2734840 CS 吃到完 leh 那个一个 flavor of 那个 ice -ream 我们吃到光没有了
+NI48FBQ_0101 2734840 2739144 ZH 那个冰淇淋蛮贵的 那个牌子
+NI48FBQ_0101 2743760 2745059 ZH 啊很好吃
+NI48FBQ_0101 2748175 2750460 ZH 然后还有去那个
+NI48FBQ_0101 2750460 2754077 ZH 那个餐馆有主题餐馆
+NI48FBQ_0101 2754529 2755360 EN theme restaurant
+NI48FBQ_0101 2756295 2760052 ZH (uh) 那个什么大便的那个浴室的那个
+NI48FBQ_0101 2763332 2767660 ZH 因为新加坡有 新加坡好像有可是我不懂在哪里
+NI48FBQ_0101 2767660 2773750 CS 他们就讲去那边一定要一定要 try 他们的那种 theme restaurant  可是其实他的食物不是很好吃 ah
+NI48FBQ_0101 2773750 2774909 ZH 吃那个
+NI48FBQ_0101 2775505 2780425 CS 看那个马桶 ah 看那个浴室啊 you'll find it very interesting ah 对啊
+NI48FBQ_0101 2780425 2782904 ZH 东西是真的不是很好吃 而且他们一直赶人
+NI48FBQ_0101 2783396 2786434 ZH 因为那个时候午餐时间他不要让你坐在那边太久
+NI48FBQ_0101 2786434 2793706 ZH 他就会啊你们几点几点就可以走了吗 不然他们就不要收你进来就他就会
+NI48FBQ_0101 2793706 2797429 ZH 之前他就会跟你说啦 对啦看你要不要去别家吃
+NI48FBQ_0101 2798014 2799416 CS 对咯 then 地方又很小
+NI48FBQ_0101 2804428 2807294 ZH 还好啦对啊还有去什么地方
+NI48FBQ_0101 2807294 2812335 ZH (呃)晚上的时候有去那个我忘记 leh
+NI48FBQ_0101 2812335 2814895 CS 那个一个 bridge 的那个
+NI48FBQ_0101 2817144 2820079 ZH 靠近海那边码头啊
+NI48FBQ_0101 2822115 2825645 CS ah 对去淡水那里 (erm) night cycling
+NI48FBQ_0101 2825948 2828525 ZH 所以我们去租了脚车
+NI48FBQ_0101 2828525 2832965 CS 骑骑骑骑到那边可是我们不可以把我们的 bicycle 拿上那个桥 ah 因为它
+NI48FBQ_0101 2832965 2835607 ZH 它是全部都是梯级是吗好像是
+NI48FBQ_0101 2836208 2837455 CS then 我们就没有上去 eh
+NI48FBQ_0101 2837455 2842045 CS 我们只骑到那边看看海一下然后去那边吃 (uh) seafood
+NI48FBQ_0101 2842595 2845795 CS then 他们的海鲜也不是很便宜 eh
+NI48FBQ_0101 2848610 2857599 ZH 哦难怪因为我们觉得很奇怪我们听人家讲哦去那边要吃那里的海鲜啊应该是蛮便宜的可是其实也不是很便宜
+NI48FBQ_0101 2858300 2863858 EN it's considered like around relative the same price as singapore's seafood
+NI48FBQ_0101 2867533 2868520 EN different
+NI48FBQ_0101 2870026 2874195 ZH 不懂就就平时在新加坡也不会去吃海鲜
+NI48FBQ_0101 2874195 2875935 CS 因为海鲜也不便宜 what
+NI48FBQ_0101 2880095 2884855 CS orh (erm) 台湾的那个人都蛮有 discipline 的
+NI48FBQ_0101 2885375 2891335 CS 很像他们去搭那个 m. r. t. 对不对他们很自动的就会 stand to the right
+NI48FBQ_0101 2891585 2896875 CS so 我们去那边五天回来过后有点不习惯因为新加坡的是站 on the left
+NI48FBQ_0101 2896875 2900885 ZH 对可是新加坡人其实不会真的很遵守他们的
+NI48FBQ_0101 2900885 2905215 CS 而且他们有那个 m. r. t. 的那个闸门不是有那个画那个线
+NI48FBQ_0101 2905215 2909105 ZH 然后要很想排队要等那个列车来对不对
+NI48FBQ_0101 2909105 2912245 CS 他们都蛮有纪律去 really go and queue up ah
+NI48FBQ_0101 2912245 2915516 ZH 对啊新加坡的不会新加坡全部都挤在门口那边
+NI48FBQ_0101 2918165 2920765 CS 他们的 service industry also not bad
+NI48FBQ_0101 2921355 2924945 CS 就 (erm) 好像他们的 seven-eleven stores ah
+NI48FBQ_0101 2924945 2931165 CS then 我们一进去而已就是进去他们有时候没有看到你
+NI48FBQ_0101 2931165 2935145 CS but 就 ding dong 他们就会开始欢迎光这样就会 
+NI48FBQ_0101 2935145 2937205 ZH 我们一直在笑因为很好笑
+NI48FBQ_0101 2937205 2941755 CS 因为我们站在那个门口的时候 then 他会一直一直 repeat 他们的那个 phrase
+NI48FBQ_0101 2941805 2949175 CS welcome 他们蛮搞笑的 (er) 有吃他们的 seven-eleven 的那个 waffle ice-cream 蛮好吃的
+NI48FBQ_0101 2949975 2953515 CS 你懂不懂我在讲哪一个新加坡没有卖那种 waffle ice-cream
+NI48FBQ_0101 2954650 2959203 ZH 就一一个包 很想饼干里面包住冰淇淋的那个
+NI48FBQ_0101 2960283 2962568 ZH 新加坡没有买这样的这样的冰淇淋
+NI48FBQ_0101 2963166 2967655 ZH 就有就是那种小小的小贩骑脚车
+NI48FBQ_0101 2968957 2970033 EN waffle ice-cream
+NI48FBQ_0101 2972281 2978058 ZH 新加坡的是那种饼干 这种在这些商店也不会卖啊
+NI48FBQ_0101 2978058 2981665 ZH 就是那种小贩起脚车啊或者是
+NI48FBQ_0101 2981665 2989375 CS 租那种 mini van then 它就会 go around the neighbourhood 卖那种 ling ling ling ling ling ah 那种就有卖饼干的那个
+NI48FBQ_0101 2989375 2993635 ZH 那种冰淇淋 外面就不会卖 ah
+NI48FBQ_0101 2993635 3002155 CS ah orchard road 有就是那种骑脚车的 ah 什么推那种车的才会卖那种商店 convenience store  他们就不会卖这种冰淇淋
+NI48FBQ_0101 3004315 3009435 CS 还有什么 ah 那时候我的朋友好像要吃什么 (erm) exotic food
+NI48FBQ_0101 3011105 3015225 CS exotic food 就是那种  我忘记什么野味 ah 
+NI48FBQ_0101 3015651 3018325 CS ya 可是也是找不到啊台北有没有卖
+NI48FBQ_0101 3021156 3023288 ZH 阳明山上面哦因为我们没有去
+NI48FBQ_0101 3026690 3032042 ZH 不懂他去找什么他吃什么蜘蛛还是什么我不知道他很奇怪
+NI48FBQ_0101 3035757 3037944 ZH 吃虫啊什么之类
+NI48FBQ_0101 3046092 3047428 EN oh cambodia
+NI48FBQ_0101 3048705 3054690 CS 他就讲可能不懂在哪一个节目上面有看到 documentary or what not very sure
+NI48FBQ_0101 3055210 3056522 ZH 他一个人想吃eh
+NI48FBQ_0101 3057287 3060481 ZH 还有另外一个是另外一个朋友就想吃那个猪血
+NI48FBQ_0101 3061286 3066725 CS 猪血真的吗他一个人吃而已因为我们全部人都 don't dare to try the 猪血
+NI48FBQ_0101 3066879 3072645 CS 看看听起来都觉得很奇怪吃那个猪的 blood pig's blood
+NI48FBQ_0101 3075086 3079872 ZH 没有吃什么都没有吃有有吃臭豆腐啦一一个朋友不敢吃他讲很臭
+NI48FBQ_0101 3081794 3085355 ZH 他吃咯一个人吃而已他点他自己吃
+NI48FBQ_0101 3085355 3088635 CS 没有人敢没有人敢 try nobody dare to try
+NI48FBQ_0101 3088635 3094015 ZH 还蛮搞笑的有有吃臭豆腐还有吃什么不懂
+NI48FBQ_0101 3094015 3097572 CS (er) 他们那边的 baked rice 蛮多的 baked rice
+NI48FBQ_0101 3097895 3101245 CS 好像哪里都是卖 baked rice 可是我们不懂是 baked rice 因为
+NI48FBQ_0101 3101245 3111055 CS 我们没有看过它华文的那个 term of the word baked rice 所以我们看得那个什么烤什么什么我不记得了啦 就是 baked rice
+NI48FBQ_0101 3111055 3116105 CS 就是那个 cheese on top of the rice 的那个 then 拿去烤
+NI48FBQ_0101 3118442 3119585 CS mm rice 米
+NI48FBQ_0101 3122285 3123330 EN baked baked
+NI48FBQ_0101 3124145 3125605 CS 烤 baked 是烤
+NI48FBQ_0101 3126014 3127858 ZH 拿去烤那种
+NI48FBQ_0101 3134807 3137161 ZH 我不懂他们的名字好奇怪
+NI48FBQ_0101 3139819 3140930 ZH huh 是日本的啊
+NI48FBQ_0101 3155695 3158285 CS 上面有 cheese 的那个 eh 乳酪 ah
+NI48FBQ_0101 3164326 3170365 CS 仙贝好像是你在讲那个旺旺那个仙贝 ah  那个是 rice cracker
+NI48FBQ_0101 3171867 3178195 CS 那个是饼我们在讲的是那个米他用他用的是一个一个 dish 这样 then
+NI48FBQ_0101 3178195 3182415 CS 他就可能他是煮了那个米 then 放下去加一点料
+NI48FBQ_0101 3182415 3186475 CS 上面一层是放 (er) cheese covered with cheese
+NI48FBQ_0101 3186475 3190295 ZH 然后拿整个东西去烤
+NI48FBQ_0101 3190295 3193945 CS 所以上面一层是那个 cheese 来的里面是米来的米饭
+NI48FBQ_0101 3198435 3204135 CS potato 好像有吃过 eh 有一个有吃在夜市他  他是烤那个马铃薯
+NI48FBQ_0101 3204135 3208523 ZH 然后就加加那个乳酪然后就不懂不懂
+NI48FBQ_0101 3208523 3213057 CS 就就这样 ah ya ya ya 对对对那个也是蛮不错咸咸的那个
+NI48FBQ_0101 3213855 3217465 CS 然后那边很多很 那个 shaved-ice
+NI48FBQ_0101 3218975 3222345 CS shaved-ice 那个削冰 ah 削冰
+NI48FBQ_0101 3223486 3225565 ZH 削冰还是什么

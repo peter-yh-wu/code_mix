@@ -1,0 +1,459 @@
+33NC37MBP_0101 4600 6920 EN hello testing one two three
+33NC37MBP_0101 44035 45305 CS ok 好的
+33NC37MBP_0101 46423 47173 EN ok
+33NC37MBP_0101 57649 60872 CS (err) j.c. 是
+33NC37MBP_0101 60872 63012 EN meridian junior college
+33NC37MBP_0101 69158 72142 CS (erm) melissa 还有 eunice
+33NC37MBP_0101 73486 74670 ZH (呃) 对
+33NC37MBP_0101 77671 78508 ZH 对 呀
+33NC37MBP_0101 80405 81963 ZH (呃) 然后 你 呢
+33NC37MBP_0101 83175 83723 EN 
+33NC37MBP_0101 91945 93765 CS oh 你是 s. c. g. s. 的
+33NC37MBP_0101 94113 94978 EN oh ok
+33NC37MBP_0101 97272 98552 ZH 你 刚刚 跟 我 讲
+33NC37MBP_0101 101241 102395 EN oh but i think i
+33NC37MBP_0101 102821 105681 CS seen you (er) 穿 那个 学校 的 衣服
+33NC37MBP_0101 107551 111081 EN no no those t-shirts that say s. c. g. s. on it ya
+33NC37MBP_0101 118231 118981 ZH 为什么
+33NC37MBP_0101 126011 127211 ZH 真的 吗
+33NC37MBP_0101 129851 132041 CS then 我 一下子 不是 quit 了
+33NC37MBP_0101 135793 136024 EN but
+33NC37MBP_0101 136536 140280 CS 没有 啦 我 可能 会 try to 回 我 自己的 中学
+33NC37MBP_0101 141576 143046 EN victoria school ah
+33NC37MBP_0101 144039 145021 EN er ya
+33NC37MBP_0101 148107 151117 CS what ah 因为 很多 老师 都是 old boys
+33NC37MBP_0101 154660 156537 ZH 诶 有 啊 有
+33NC37MBP_0101 156537 159367 EN the principal will consider them first ah
+33NC37MBP_0101 159825 160547 EN because
+33NC37MBP_0101 160907 163037 CS 比较 懂 那个 学校 的 culture
+33NC37MBP_0101 164547 167117 EN (er) no autonomous but we have-
+33NC37MBP_0101 168747 170977 EN no (er) it's under government
+33NC37MBP_0101 172277 174167 EN ya ya if you (er)
+33NC37MBP_0101 174167 179317 CS work for independent school your pay scheme is based on 学校 给 你 多少 啊
+33NC37MBP_0101 179317 182757 CS 不是 因为 我 其他的 是 follow m. o. e. 的 那个
+33NC37MBP_0101 183387 189207 CS (er) pay scheme but 如果 你 for in er work for independent school 的 他 就有 他 自己的 pay scheme
+33NC37MBP_0101 192537 194627 ZH 啊 对 也是 看 那一间 学校 的
+33NC37MBP_0101 197437 198617 CS ok 第二 题
+33NC37MBP_0101 198617 199024 EN 
+33NC37MBP_0101 202307 206137 CS (呃) 中学 的 时候 是 华 乐 的 c. o. 的
+33NC37MBP_0101 207249 207653 EN ya
+33NC37MBP_0101 209286 210931 EN no lah ah i was
+33NC37MBP_0101 211657 213347 CS playing 琵琶
+33NC37MBP_0101 215009 216729 CS boys school lah 没有 办法
+33NC37MBP_0101 219571 220105 EN got ah
+33NC37MBP_0101 227388 229266 EN mallet then they hit oh that that one
+33NC37MBP_0101 229786 232166 CS 扬 琴 ya ya ya ya
+33NC37MBP_0101 232867 233646 EN ya ya
+33NC37MBP_0101 234018 237198 EN no choice hey it's a boys school everyone has to play something
+33NC37MBP_0101 239576 240673 ZH huh 唉呀
+33NC37MBP_0101 243179 244088 EN ya lah and
+33NC37MBP_0101 245380 246538 EN the guys who play-
+33NC37MBP_0101 247028 251068 CS ok lah i think it's not exactly very feminine ah i think 古筝 is worse lor
+33NC37MBP_0101 252698 253390 EN ya
+33NC37MBP_0101 255408 256387 CS then 你 呢
+33NC37MBP_0101 260908 261557 EN ok
+33NC37MBP_0101 262598 263838 EN then j. c.
+33NC37MBP_0101 267049 267712 EN ok
+33NC37MBP_0101 268607 269256 EN ya
+33NC37MBP_0101 276648 278728 CS 跟 你 一样 lor q. p. oh
+33NC37MBP_0101 279282 279816 EN ya
+33NC37MBP_0101 280321 281259 EN ya i think that's all
+33NC37MBP_0101 284747 285439 ZH 没有
+33NC37MBP_0101 292579 293141 EN 
+33NC37MBP_0101 293578 294778 ZH 不 公平 诶
+33NC37MBP_0101 295450 295638 EN but
+33NC37MBP_0101 296528 299578 CS 嗯 but 那个 不是 accumulative 的 what
+33NC37MBP_0101 301058 305201 CS as in 我们 拿 这个 five point then the other five point <unk> and on neh
+33NC37MBP_0101 307246 307621 ZH 嗯
+33NC37MBP_0101 309040 310660 EN no no it doesn't
+33NC37MBP_0101 315531 318601 CS 跟 committee that has the highest point
+33NC37MBP_0101 319392 321080 EN whichever has like highest point
+33NC37MBP_0101 321253 321629 EN ya
+33NC37MBP_0101 322307 322595 EN so
+33NC37MBP_0101 325551 329261 EN unless you stay in bedok then you join j. c. r. c. ah
+33NC37MBP_0101 333685 334940 CS 他 住 changi eh
+33NC37MBP_0101 336971 340077 EN ya that's nine then five for
+33NC37MBP_0101 342065 343161 EN (er)
+33NC37MBP_0101 345531 347371 EN eh fourteen then i think
+33NC37MBP_0101 347851 350421 EN play sports ah they say what play three sports right
+33NC37MBP_0101 353231 355661 EN i don't know eh i i'm not very sure but
+33NC37MBP_0101 355661 358171 CS 他 去年 是 best rookie 的
+33NC37MBP_0101 359129 360240 EN the other sports er
+33NC37MBP_0101 364002 364781 ZH 啊 对 对
+33NC37MBP_0101 366631 370681 ZH 他 有 空 还 很 会 安排 时间 的
+33NC37MBP_0101 371805 372425 EN ya
+33NC37MBP_0101 373262 374041 EN (er-ah) but
+33NC37MBP_0101 374201 376551 EN lina can see struggling ah
+33NC37MBP_0101 377227 379636 EN ya i was from her- she was my o. g. l. what
+33NC37MBP_0101 383489 387822 CS trying to cope ah can see lah her face is always like 很 累 这样
+33NC37MBP_0101 394405 394982 EN ya
+33NC37MBP_0101 396396 397521 EN so you
+33NC37MBP_0101 398041 402442 CS 我 我 自己 我 本来 starting 我 来 的 时候 我是 想 ok ah maybe i would join more to get points but
+33NC37MBP_0101 403134 405152 CS after awhile then i like 哎呀 算了
+33NC37MBP_0101 406953 407530 EN q.p.
+33NC37MBP_0101 408929 409449 EN ya
+33NC37MBP_0101 409925 410242 ZH 虽然
+33NC37MBP_0101 410603 412570 ZH 东西 要 讲 不是 很多 但是
+33NC37MBP_0101 413747 414988 ZH 还是 挺
+33NC37MBP_0101 415637 417008 CS ya lah tedious 的
+33NC37MBP_0101 423265 424015 ZH 没有 诶
+33NC37MBP_0101 425047 428867 EN actually i spend most likely doing like like nothing ah
+33NC37MBP_0101 436224 438564 ZH 每天 在 看 戏 哦 闷 在 房间 哪
+33NC37MBP_0101 440134 442914 CS 啊 q. p. 哦 q. p. 没有 东西 诶
+33NC37MBP_0101 444427 445307 ZH (呃啊)
+33NC37MBP_0101 446545 447930 CS ya you will get very 凶
+33NC37MBP_0101 448753 449084 EN i heard
+33NC37MBP_0101 449892 450152 EN that
+33NC37MBP_0101 450235 453105 CS (er) u. c. 是 tag side ah tag side 有 很多 东西
+33NC37MBP_0101 454939 456238 EN the cues and stuff ah
+33NC37MBP_0101 458489 459037 EN ya
+33NC37MBP_0101 462382 462945 ZH 到时候
+33NC37MBP_0101 463825 466307 ZH 因为 人 人 不够 啊 人手 不足
+33NC37MBP_0101 469823 470718 ZH 我 只有 一个
+33NC37MBP_0101 472632 475742 EN guan-heng need need sub comm more than me lah
+33NC37MBP_0101 476085 477831 CS 因为 我的 东西 全部 都是 on
+33NC37MBP_0101 478178 479472 EN in the control room ah
+33NC37MBP_0101 480180 482287 EN guan-heng has to be on stage and
+33NC37MBP_0101 483860 486151 EN as in because just in case mic goes out
+33NC37MBP_0101 487811 491173 EN then if there's feedback and stuff then we need to do sound check
+33NC37MBP_0101 493932 498622 EN he will be but (er) he sub comm will be on stage ah most likely
+33NC37MBP_0101 500731 506704 CS but his sub comm is most probably someone that (er) you know 帮 我 打包 啊 then 来 陪 我 聊天 之类 的
+33NC37MBP_0101 506931 509647 EN quite useless one what like my my my job nothing much
+33NC37MBP_0101 513211 513947 EN help everyone
+33NC37MBP_0101 517332 518444 EN how i know sia
+33NC37MBP_0101 519631 522816 EN no that's when my sub comm would come into play then i ask
+33NC37MBP_0101 525251 526059 EN ya
+33NC37MBP_0101 536247 537797 EN bras-basah orh
+33NC37MBP_0101 539087 543587 CS 不会 啊 bras-basah is across the road tthen 再 走 下去 就 到了
+33NC37MBP_0101 545994 547033 ZH 不 远 啊
+33NC37MBP_0101 552598 553002 ZH 嗯啊
+33NC37MBP_0101 554567 556047 EN who is your sub comm
+33NC37MBP_0101 558197 558933 EN 
+33NC37MBP_0101 561207 562887 EN oh ok ok
+33NC37MBP_0101 569415 570728 CS oh 是 啊 shannon
+33NC37MBP_0101 571997 574047 EN sounds like a girl's name orh
+33NC37MBP_0101 574747 580407 EN ya he stays on my floor no what happened is that many years ago ah he was my friend j. c. mate
+33NC37MBP_0101 580407 584027 EN so they had this birthday party then after that er we were looking at
+33NC37MBP_0101 584047 585887 EN last time was still
+33NC37MBP_0101 585887 590047 EN i think oh ya facebook then his er disp~
+33NC37MBP_0101 590047 597227 EN profile pic was some girl ah some idol stuff then we were like shannon oh must be some hot chick
+33NC37MBP_0101 597227 599167 EN oh man
+33NC37MBP_0101 599167 602457 EN we were super disappointed ah we went down
+33NC37MBP_0101 608906 610335 EN ya lah
+33NC37MBP_0101 612139 613501 EN no ah we we didn't know what
+33NC37MBP_0101 613777 617157 EN the name you thought orh shannon then you look at the profile pic
+33NC37MBP_0101 617808 621248 EN some people some girls like to put those idol profile pic on
+33NC37MBP_0101 621471 622380 EN ya so
+33NC37MBP_0101 622758 625349 EN we didn't know lah basket that guy
+33NC37MBP_0101 633627 634334 ZH 是 吗
+33NC37MBP_0101 642525 643088 EN (er)
+33NC37MBP_0101 644291 646231 EN oh you never seen him before
+33NC37MBP_0101 646741 650441 EN ya he's kind of huge ah ok lah
+33NC37MBP_0101 650819 654220 EN a bit lah slightly plumper than me ah
+33NC37MBP_0101 655550 658760 EN ya that's ok ah actually he's quite he's not like
+33NC37MBP_0101 659390 662540 EN a blob ah or something no lah he's just-
+33NC37MBP_0101 663190 665220 EN who who are you talking to
+33NC37MBP_0101 668496 672194 CS obviously it's 奶粉 奶粉 exaggerates everything ah
+33NC37MBP_0101 675340 677860 CS ya lah 奶粉 很 夸张 的
+33NC37MBP_0101 679085 680371 EN 
+33NC37MBP_0101 682011 683592 ZH 没有 啦
+33NC37MBP_0101 689080 693150 CS you cannot believe 奶粉 哪 奶粉 每天 讲 废话 的
+33NC37MBP_0101 693815 694364 ZH 嗯哼
+33NC37MBP_0101 698955 700053 EN guan-heng and
+33NC37MBP_0101 701190 704160 EN and and we all live on the same block lah actually
+33NC37MBP_0101 704300 706510 EN at least i've seen each other before
+33NC37MBP_0101 710750 711940 EN skip number four lah
+33NC37MBP_0101 711940 712489 EN i i don't
+33NC37MBP_0101 714178 714930 EN five also
+33NC37MBP_0101 719765 720660 EN (er) ya
+33NC37MBP_0101 721873 722595 EN seven
+33NC37MBP_0101 723231 724762 EN (er) kind of fix
+33NC37MBP_0101 732228 733138 CS 下个 holiday
+33NC37MBP_0101 733831 735661 CS 这个 holiday 我 也 是
+33NC37MBP_0101 736211 737971 ZH 可能 出国 啊
+33NC37MBP_0101 740794 745124 CS (er) with with friends ah 我 没有 跟 我的 家庭 出国 过
+33NC37MBP_0101 746794 749114 EN my dad's boat can't fly
+33NC37MBP_0101 750233 753043 EN no no i just phobia lah
+33NC37MBP_0101 757582 758666 EN (er) from-
+33NC37MBP_0101 759892 763322 EN he he say the last time he flew was like when he was young
+33NC37MBP_0101 765402 768972 EN ya the bad incident then he never ever flew again
+33NC37MBP_0101 772559 775199 EN just normal flight ah i guess
+33NC37MBP_0101 775951 777987 CS ah then 应该
+33NC37MBP_0101 778119 782490 CS no i 我 在 看 学校 because n. i. e. travel club is going to (er)
+33NC37MBP_0101 784379 785679 EN nepal ya
+33NC37MBP_0101 785989 790129 EN so i was thinking of going down with them
+33NC37MBP_0101 793122 793787 EN ya it's a trip
+33NC37MBP_0101 796208 800668 EN ok lah but noone to give with eh i still trying to convince my classmate
+33NC37MBP_0101 805458 806108 EN ya hor
+33NC37MBP_0101 807358 809488 EN ya lah they will be busy
+33NC37MBP_0101 812646 816676 EN ya it's a year ah then some more the guys in my class mostly all
+33NC37MBP_0101 817406 820276 EN like (oh) suddenly over holidays then everyone attached
+33NC37MBP_0101 823693 825763 EN then oh then i would be-
+33NC37MBP_0101 826243 826662 EN if not
+33NC37MBP_0101 827200 831360 EN no i i will confirm be going australia lah because i am be visiting my friend
+33NC37MBP_0101 831830 833737 EN ya then maybe taiwan ah
+33NC37MBP_0101 840350 844590 CS no no no i heard their 冬天 also not very cold
+33NC37MBP_0101 849310 851170 EN i thought they would like-
+33NC37MBP_0101 851644 853690 EN (err) because last time i went
+33NC37MBP_0101 854574 860984 CS hong-kong in 冬天 then they will trick like the summer clothings were going on sales
+33NC37MBP_0101 863094 863643 EN oh
+33NC37MBP_0101 864704 866504 EN oh then they don't-
+33NC37MBP_0101 869016 869666 CS then 你 诶
+33NC37MBP_0101 870836 871486 EN holiday
+33NC37MBP_0101 888367 890307 EN whoa so cheap ah
+33NC37MBP_0101 891067 893867 EN oh was it the tiger airway one ah
+33NC37MBP_0101 902607 907707 CS you are not allowed to fly right as in 你 the period that you are allowed to fly is-
+33NC37MBP_0101 912047 912798 EN bangkok ah
+33NC37MBP_0101 914621 916761 EN have you been there before
+33NC37MBP_0101 918096 919352 EN what kind of shows or-
+33NC37MBP_0101 920508 921721 EN  what is in your face
+33NC37MBP_0101 922602 923368 EN ah
+33NC37MBP_0101 923555 924249 EN no no no
+33NC37MBP_0101 925346 926285 EN 
+33NC37MBP_0101 937131 939021 EN just walk away lah
+33NC37MBP_0101 943097 943342 EN what
+33NC37MBP_0101 944802 946682 EN two people playing ping pong
+33NC37MBP_0101 947690 948470 EN no ah
+33NC37MBP_0101 950677 951125 EN it's
+33NC37MBP_0101 951890 954970 EN it's interesting lah i heard i heard
+33NC37MBP_0101 956570 957205 EN ya
+33NC37MBP_0101 965050 967550 EN go watch and you'll find out orh
+33NC37MBP_0101 969110 973040 EN no lah nothing will happen to you one ah there's no inter~
+33NC37MBP_0101 973071 978071 EN ya ya ya things will happen on stage but they don't have interaction with the audience one
+33NC37MBP_0101 979557 981391 ZH 没有 啦 是啦
+33NC37MBP_0101 983634 985214 CS tiger show 也是 what
+33NC37MBP_0101 986693 987140 EN ya
+33NC37MBP_0101 989552 990390 EN (err-ah)
+33NC37MBP_0101 991419 993550 EN some more than- ya
+33NC37MBP_0101 993828 994319 EN ya
+33NC37MBP_0101 996658 1001159 EN (er) i went with my ship crew last time ah very scary no it's very scary to-
+33NC37MBP_0101 1001352 1004024 CS 你 在 路上 走 then 很多 tranny 来 拉 你
+33NC37MBP_0101 1007379 1009170 ZH 很 怕人 啊 真的
+33NC37MBP_0101 1009908 1010644 EN then they will be like
+33NC37MBP_0101 1011020 1011886 EN sir sir
+33NC37MBP_0101 1014861 1018221 EN some some are lah but ya some are pretty but
+33NC37MBP_0101 1018221 1023141 EN their voice is damn scary like sir sir do you want then no no no
+33NC37MBP_0101 1031320 1032921 EN have fun nah
+33NC37MBP_0101 1034037 1035031 EN 
+33NC37MBP_0101 1035031 1037861 EN as in like screaming and running away ah
+33NC37MBP_0101 1043767 1044518 EN ya
+33NC37MBP_0101 1045226 1045919 EN ah
+33NC37MBP_0101 1053363 1055983 EN no i was at pattaya the other time
+33NC37MBP_0101 1056348 1057677 EN i didn't go bangkok
+33NC37MBP_0101 1058196 1060956 EN pattaya is famous for all the trannies ah
+33NC37MBP_0101 1060956 1063806 EN it is like tranny heaven
+33NC37MBP_0101 1066466 1067766 EN ya then
+33NC37MBP_0101 1068589 1070033 EN wah damn scary ah
+33NC37MBP_0101 1073529 1078556 EN no no they normally aim for foreigners and (er) ang-mos ah ang-mos like like to
+33NC37MBP_0101 1079167 1079629 EN ya
+33NC37MBP_0101 1079990 1080467 EN (er)
+33NC37MBP_0101 1081091 1082450 EN have fun with trannies
+33NC37MBP_0101 1082450 1082835 EN 
+33NC37MBP_0101 1086230 1086591 EN they like-
+33NC37MBP_0101 1087311 1090281 EN ya ya they like asian women and
+33NC37MBP_0101 1090281 1093121 EN because we we they are considered exotic ah
+33NC37MBP_0101 1098386 1099960 CS 你 不要 问 我 why
+33NC37MBP_0101 1103431 1106361 CS i don't know ah their personal preference ah 可能
+33NC37MBP_0101 1108772 1109235 EN 
+33NC37MBP_0101 1109871 1113521 CS 哎呀 just don't go and watch ah if you are uncomfortable
+33NC37MBP_0101 1114961 1117161 EN (er) your friends are all girls or what
+33NC37MBP_0101 1117436 1119530 EN guys and g~ oh then don't ah
+33NC37MBP_0101 1122320 1124530 EN no ah they won't attack you lah
+33NC37MBP_0101 1129453 1130059 EN ah
+33NC37MBP_0101 1135022 1138192 EN crime and stuff lah that's what you have to worry about no
+33NC37MBP_0101 1138192 1140192 EN my friend they went then
+33NC37MBP_0101 1140232 1148912 CS i heard lah not just my friend a lot of people they there will be when you walk out of the hotel right then (er) 会 有 这个 人 上来 然后 跟 你 说 oh today is the king's birthday
+33NC37MBP_0101 1149232 1154322 EN then or some special day lah then (er) they are having a sale somewhere
+33NC37MBP_0101 1154402 1158002 EN then (er) or they are having this tour
+33NC37MBP_0101 1158232 1163692 CS one day tour that is very cheap then you find this toot-toot guy 他 会 载 你 去 不同 的 庙
+33NC37MBP_0101 1163822 1168782 EN then the (er) the guy ok then suddenly a toot-toot with a yellow flag will appear
+33NC37MBP_0101 1168782 1172082 EN then they say oh ya it's the yellow flag that has the discount so
+33NC37MBP_0101 1172082 1175442 EN you will board then they will bring you to the first temple then with this guy then say orh
+33NC37MBP_0101 1175452 1179392 EN (er) today is some special day they having some jewellery sale somewhere
+33NC37MBP_0101 1179832 1185472 EN then at first you like ignore him ah so you board the toot-toot to the next temple then the guy will say-
+33NC37MBP_0101 1185502 1191162 EN then you'll meet another guy there who'd say the same thing like he from overseas come back every year just to buy the jewellery
+33NC37MBP_0101 1191322 1200922 CS 啊 then (er) ya you will believe then the toot toot guy will like 顺便 打电话 and say oh really ah today having sales ah
+33NC37MBP_0101 1200922 1205772 EN then they will bring you to the place whereby they sell the jewelleries ah then they will force you to buy say what they-
+33NC37MBP_0101 1205772 1208962 EN you reach there at twelve thirty then they say they closing at one
+33NC37MBP_0101 1208962 1211272 EN then try to get you to buy as fast as possible
+33NC37MBP_0101 1212382 1213306 EN y~ ya
+33NC37MBP_0101 1214372 1218192 EN it's a very complicated sport ya plot lah
+33NC37MBP_0101 1219909 1220313 EN so
+33NC37MBP_0101 1220732 1223802 EN be careful lah if you walk out of the hotel and people approach you
+33NC37MBP_0101 1224456 1224803 EN ya
+33NC37MBP_0101 1227244 1227778 EN 
+33NC37MBP_0101 1238750 1239415 EN 
+33NC37MBP_0101 1251905 1255045 CS 还在 想 诶 no i was thinking that
+33NC37MBP_0101 1255045 1255505 EN (err)
+33NC37MBP_0101 1255505 1257645 CS because 我的 junior 他 不要 stay
+33NC37MBP_0101 1257645 1261495 EN as in one year younger ah so he will be year one next year
+33NC37MBP_0101 1261545 1270675 EN then (er) my roomie have enough points right then i will apply to stay with my roomie through him so i will still stay but i won't be staying under my name ah
+33NC37MBP_0101 1271653 1272129 EN ya
+33NC37MBP_0101 1272655 1274795 EN no my roomy will stay as in-
+33NC37MBP_0101 1276823 1277343 EN yeah
+33NC37MBP_0101 1279455 1281745 EN like that no need to work so hard
+33NC37MBP_0101 1283385 1285305 EN my roomy is in hall five already lor
+33NC37MBP_0101 1289075 1292155 EN (er) you can apply to stay with a senior
+33NC37MBP_0101 1292730 1293236 ZH 嗯呃
+33NC37MBP_0101 1293705 1296045 EN then i will apply to stay with my roomie orh
+33NC37MBP_0101 1298997 1299402 EN can
+33NC37MBP_0101 1306275 1309035 EN no can can can can stay with seniors
+33NC37MBP_0101 1309655 1312885 EN yeah you can apply to stay with seniors don't need to be siblings
+33NC37MBP_0101 1315905 1316930 EN oh got such a thing meh
+33NC37MBP_0101 1318975 1322265 CS can you can check the form mine mine quit* 了
+33NC37MBP_0101 1328921 1329629 EN (err-ah)
+33NC37MBP_0101 1330237 1331190 ZH 庭 庭伟 啊
+33NC37MBP_0101 1338715 1340265 CS anyway hall five 很 烂
+33NC37MBP_0101 1345621 1346358 ZH 哦
+33NC37MBP_0101 1356422 1356769 EN for-
+33NC37MBP_0101 1359325 1361175 EN ate and stuff ah
+33NC37MBP_0101 1361875 1363625 EN then they got air con
+33NC37MBP_0101 1365667 1368847 EN like it's kind of cold ah in the morning in hall five also
+33NC37MBP_0101 1370029 1370434 EN yeah
+33NC37MBP_0101 1372167 1372571 EN ya
+33NC37MBP_0101 1373655 1375012 EN but like (erm)
+33NC37MBP_0101 1375377 1378857 EN what ah i don't like the fact that i stay beside the p. i. e. ah
+33NC37MBP_0101 1379751 1380357 EN whoa
+33NC37MBP_0101 1381556 1382134 EN twin block
+33NC37MBP_0101 1383650 1384560 EN ya ya ya
+33NC37MBP_0101 1385950 1389340 EN sucks lah then some more it's very dust dusty
+33NC37MBP_0101 1395790 1397910 EN got so jia-lat meh
+33NC37MBP_0101 1404966 1406266 EN oh ok ok
+33NC37MBP_0101 1412101 1412765 EN whoa
+33NC37MBP_0101 1416130 1419990 EN it's like six plus seven plus then the big lorry will start driving past
+33NC37MBP_0101 1420226 1421843 EN that wu-wu-wu whoa
+33NC37MBP_0101 1433140 1434411 EN no i stay in second-
+33NC37MBP_0101 1440997 1442990 EN brurrrr ah
+33NC37MBP_0101 1448157 1449092 EN 
+33NC37MBP_0101 1449792 1450861 EN like shit ah
+33NC37MBP_0101 1452881 1455341 EN no lah but mine- what ah
+33NC37MBP_0101 1455401 1461291 EN last sem i was eight thirty everyday so it was still alright it's like a alarm for me but this sem i
+33NC37MBP_0101 1461321 1468061 EN lesson like start at one plus or i have no lesson on some days then i still have whoa damn noisy ah go crazy
+33NC37MBP_0101 1471637 1472388 EN yes
+33NC37MBP_0101 1472891 1474591 ZH 塞进 来 哦
+33NC37MBP_0101 1476984 1478948 EN (err) ya
+33NC37MBP_0101 1481381 1484151 CS 嗯 对 呀 but 我 有 放 blinds ah
+33NC37MBP_0101 1488711 1490171 CS no you know 志 豪
+33NC37MBP_0101 1491406 1494903 EN stayed below- ya ya ya <unk> guy
+33NC37MBP_0101 1495191 1498661 EN then his is so bad that he get tanned
+33NC37MBP_0101 1499091 1501521 EN just by sleeping in his room
+33NC37MBP_0101 1502691 1504491 EN ya lah i don't know ah
+33NC37MBP_0101 1505971 1509261 EN he sleep until his whole leg got tanned then we were like what the
+33NC37MBP_0101 1514977 1518184 EN  don't worry ah very fast one
+33NC37MBP_0101 1521930 1525510 CS like you only had the 凤 梨 饼 凤 梨 酥
+33NC37MBP_0101 1527399 1527832 EN oh
+33NC37MBP_0101 1539650 1541110 EN but you drive right so
+33NC37MBP_0101 1542350 1544300 EN you don't have to stay in hall right
+33NC37MBP_0101 1548680 1550510 EN but do you pay for your own
+33NC37MBP_0101 1550854 1551576 EN huh
+33NC37MBP_0101 1553100 1555750 EN but actually public transport also around the same what
+33NC37MBP_0101 1556891 1559259 EN ya as in no no yeah
+33NC37MBP_0101 1562090 1562524 EN oh
+33NC37MBP_0101 1562980 1566570 EN oh as in six to reach and six to get back
+33NC37MBP_0101 1577684 1578522 EN so little
+33NC37MBP_0101 1590279 1591030 EN ya lor
+33NC37MBP_0101 1591694 1596462 CS to 搭 vivio and <unk> and- is the ya
+33NC37MBP_0101 1597240 1600400 EN some more it's not continual car lah
+33NC37MBP_0101 1603523 1604621 EN like chevrolet ah
+33NC37MBP_0101 1605285 1605863 EN ya
+33NC37MBP_0101 1607192 1607741 EN 
+33NC37MBP_0101 1609700 1612970 EN but at least you have a car right
+33NC37MBP_0101 1622688 1625259 EN i can't even afford a car like 
+33NC37MBP_0101 1636207 1637045 EN ya
+33NC37MBP_0101 1639510 1643220 EN actually it's not so much of business ya like can always go back to teaching
+33NC37MBP_0101 1644561 1645052 EN because
+33NC37MBP_0101 1645720 1649590 EN (er) my my roomie was thinking of setting up a firm
+33NC37MBP_0101 1649590 1651668 EN com (er) advertise something firm
+33NC37MBP_0101 1654181 1655018 EN ya
+33NC37MBP_0101 1655750 1659590 EN because it is in a. d. m. what so actually i want to go a. d. m. one
+33NC37MBP_0101 1660190 1661950 ZH 成绩 不够 好 啊
+33NC37MBP_0101 1662415 1666390 EN then- no i was procrastinating ah i i didn't do my portfolio
+33NC37MBP_0101 1669375 1672435 EN no because once i receive the letter from m. o. e. then my
+33NC37MBP_0101 1672435 1677525 EN mind just switched off then i went into like ah hundred percent play mode in n. s.
+33NC37MBP_0101 1681110 1681804 EN ya
+33NC37MBP_0101 1682381 1683103 EN ah
+33NC37MBP_0101 1683645 1687245 EN like it is a lousy safety net ah it's those with very big holes
+33NC37MBP_0101 1697860 1700341 CS then after that 就 ok yah
+33NC37MBP_0101 1705977 1707887 EN what else do you want to do
+33NC37MBP_0101 1719204 1720042 EN 
+33NC37MBP_0101 1729892 1731510 EN but singapore better lah
+33NC37MBP_0101 1732348 1733272 EN no ah 
+33NC37MBP_0101 1735236 1738501 EN actually personally i want i don't want to stay here and study one
+33NC37MBP_0101 1750098 1752378 EN i have one sis~ elder sister ah
+33NC37MBP_0101 1754280 1755406 EN ya two years
+33NC37MBP_0101 1755984 1757371 EN twenty four this year
+33NC37MBP_0101 1758555 1762513 EN (errr) she's doing a pupilage at some law firm
+33NC37MBP_0101 1763293 1763784 EN ya
+33NC37MBP_0101 1766008 1766990 EN sounds crappy
+33NC37MBP_0101 1770638 1773798 EN (er) ya lah as in after she gets her bar ah
+33NC37MBP_0101 1775251 1780682 EN but aiya she she own owns me ah for everything it's like since p.s.l.e.
+33NC37MBP_0101 1781173 1782068 EN ya lah
+33NC37MBP_0101 1784661 1787571 EN in a sense lah aiya i don't really compete with her one nah
+33NC37MBP_0101 1790705 1792179 EN how many sisters do you have
+33NC37MBP_0101 1794403 1797259 EN oh ok i think i seen one before right the one that work at-
+33NC37MBP_0101 1797935 1800448 EN ya then the other one is older or youn~
+33NC37MBP_0101 1803626 1804319 EN oh
+33NC37MBP_0101 1808334 1809114 EN oh ok
+33NC37MBP_0101 1809692 1810154 EN ah
+33NC37MBP_0101 1811401 1818201 EN no i ever since p. s. l. e. like at first when i wasn't in primary school like i still like try to catch up with whatever she is doing
+33NC37MBP_0101 1818401 1823111 EN then after p. s. l. e. i like ah forget it ah it's impossible
+33NC37MBP_0101 1823621 1828551 EN no she got like two two eighty for p. s. l. e.
+33NC37MBP_0101 1828741 1833881 EN ya then i got only like two five plus then my mum was very disappointed my mum was like
+33NC37MBP_0101 1834171 1835951 EN what what have you been doing
+33NC37MBP_0101 1838233 1840081 EN no lah my myum has high expection one
+33NC37MBP_0101 1842351 1846671 CS ya then 从 从 那天 起
+33NC37MBP_0101 1846956 1847130 EN 
+33NC37MBP_0101 1847852 1848458 CS 就 like
+33NC37MBP_0101 1849498 1850201 EN ya lah
+33NC37MBP_0101 1850201 1855441 EN i i don't really then some more went to v. er boys school then it's all play one nah
+33NC37MBP_0101 1857442 1858193 EN ya
+33NC37MBP_0101 1859030 1859926 EN 
+33NC37MBP_0101 1860301 1861931 EN i know i know
+33NC37MBP_0101 1861931 1865811 CS 很多 did a lot of stupid things lah in secondary school
+33NC37MBP_0101 1869491 1874241 EN ok lah compared to a. c. considered we're very mild already i heard
+33NC37MBP_0101 1874777 1875990 CS a.c. 好像
+33NC37MBP_0101 1879832 1881791 EN ya (er) ok lah
+33NC37MBP_0101 1881791 1885371 EN depends on what you how you determine mild ah
+33NC37MBP_0101 1888501 1891131 EN s. c. g. oh is it
+33NC37MBP_0101 1893621 1896151 EN (er) some get pregnant
+33NC37MBP_0101 1896846 1897684 EN okay
+33NC37MBP_0101 1907216 1908690 EN o~ ok
+33NC37MBP_0101 1914076 1917716 EN don't know lah i i am not sure i think v. s. not that bad ah
+33NC37MBP_0101 1917796 1921136 EN or at least we don't get hear people getting pregnant nah
+33NC37MBP_0101 1921581 1923285 EN 
+33NC37MBP_0101 1926326 1931246 EN no ah as in i i i know after after secondary school and stuff ya lah
+33NC37MBP_0101 1931376 1934816 EN things kind of get out of hand ah i got this friend who is a bi now ah
+33NC37MBP_0101 1935826 1938076 EN ya he came back from australia as in
+33NC37MBP_0101 1938076 1943796 CS then i i was like ah with him then suddenly he tell me i think i'm bi then i'm huh 是 吗
+33NC37MBP_0101 1945108 1945830 EN ya
+33NC37MBP_0101 1946073 1949893 CS then i heard from his ex that he slept with his (er) 同房
+33NC37MBP_0101 1950885 1953110 EN (er) ya then i was like
+33NC37MBP_0101 1954439 1955276 EN that he is*
+33NC37MBP_0101 1956883 1959363 EN that he is bi lah ya lah
+33NC37MBP_0101 1964443 1966353 EN in a sense lah ah
+33NC37MBP_0101 1967728 1968421 EN no
+33NC37MBP_0101 1969463 1973573 CS 我 另外 一个 朋友 也是 跟 他 一起 去 读 住 同一个 block 的
+33NC37MBP_0101 1974122 1974728 EN ah
+33NC37MBP_0101 1975219 1975451 EN but
+33NC37MBP_0101 1977617 1978484 EN ya
+33NC37MBP_0101 1979993 1981323 EN i guess so ah
+33NC37MBP_0101 1986312 1986659 EN <unk>
+33NC37MBP_0101 1986950 1988773 EN i don't know eh i i i
+33NC37MBP_0101 1989553 1995073 EN he he is like a very good friend of mine then i don't know what to tell him it it's like very weird ah then it's like i can't-
+33NC37MBP_0101 1998635 1999733 EN like- 
+33NC37MBP_0101 2001149 2002044 EN ya lah
+33NC37MBP_0101 2003431 2004423 EN no ah
+33NC37MBP_0101 2004423 2006853 EN he he he's he's a screwed up ah
+33NC37MBP_0101 2008458 2010838 EN (er) ya i think so
+33NC37MBP_0101 2013541 2014032 EN ya
+33NC37MBP_0101 2014640 2017960 EN then after then his ex is a friend of mine
+33NC37MBP_0101 2018120 2026240 EN other friend ah so gossip spread then it get back to me that ya he slept with the room mate
+33NC37MBP_0101 2028600 2033450 CS he- no at first 开始 只是 讲 说 他 一直 抽 weed ah and stuff like that
+33NC37MBP_0101 2033450 2038040 EN so that one still can accept because it's just a passing phase ah
+33NC37MBP_0101 2038481 2042911 CS then 突然 间 啊 然后 又 讲 他是 bi then whoa
+33NC37MBP_0101 2043011 2044541 CS 很 stunned ah
+33NC37MBP_0101 2047901 2049591 EN they don't know i think
+33NC37MBP_0101 2050690 2053281 EN he he parents don't even know he smoke mah
+33NC37MBP_0101 2056561 2062561 EN nothing wrong ah ya smoking is a very minor- no but to parents is quite-
+33NC37MBP_0101 2063989 2066650 EN not necessary true
+33NC37MBP_0101 2067971 2070161 EN ya lah ya it's not as expens~ as drug lah

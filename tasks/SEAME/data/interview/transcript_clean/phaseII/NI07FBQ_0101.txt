@@ -1,0 +1,326 @@
+NI07FBQ_0101 0 3066 EN okay
+NI07FBQ_0101 3066 8261 CS en 你在 chinese new year 你 会有 什么 样 的 event 或 activity 要做 的 吗
+NI07FBQ_0101 8261 10570 EN  en 
+NI07FBQ_0101 10570 17060 CS okay lah 首先 就是 年 三十晚 then (er) 就会 有 reunion dinner lah 就是
+NI07FBQ_0101 17060 18072 ZH 啊 这样
+NI07FBQ_0101 18871 20999 ZH 就会 有 全
+NI07FBQ_0101 20999 42450 CS father's side 的 都会 来 啦 这 啊 年 三十 晚 都是 father's side 的 吃而已 就是 then 都会 带 他们的 family 来 啊 就是 (er) 那 多数 都是 因为 是 dinner 嘛 所以 多数 都是 四点 多 (er) 三点 多 四点 多 就是 那些
+NI07FBQ_0101 42450 55177 CS 就是 每个 (er) like 女将 the 家庭 的 女将 都会 (er) 去 那边 煮饭 啊 煮 盛餐 然后 啊
+NI07FBQ_0101 55177 61649 CS 然后 我 就有 一个 uncle lah ah 他是 ah
+NI07FBQ_0101 62327 73847 CS 他 喜欢 fishing then ah 就是 我 family 从小 到 现在 都是 蛮 喜欢 fishing ah ah 出海 捕鱼 之类 的 啦 then ah
+NI07FBQ_0101 73847 83430 CS but 现在 只有 他 carry on 这个 tradition 呐 then 啊 他 都会 到 (er) 樟宜 尾 那边 嗯
+NI07FBQ_0101 83430 91510 CS 就是 啊 changi point (er) changi jetty there ah 就是 抓一些
+NI07FBQ_0101 91510 99481 ZH 去 尽量 去 捕 一些 啊 海鲜 回来 供给 大家 吃 啊 啊 不然 就是
+NI07FBQ_0101 99481 106821 CS 因为 他 时常 到 啊 changi point 那边 去 啊 钓鱼 啊 then 他 就 跟 那边 的
+NI07FBQ_0101 106821 109208 ZH 那边 的 啊
+NI07FBQ_0101 110319 114521 CS fishmonger 啊 那 那边 有一个 seafood market 啦 then
+NI07FBQ_0101 114521 124561 CS 就是 他 跟 那边 的 hawkers 啊 store keepers 都 很 friendly 所以 hor wah 每次 他 要 他 啊
+NI07FBQ_0101 124561 137241 CS 要 买 什么 海鲜 啊 之类 的 啊 他们 都会 给 他 discount 啦 或者 是 给 他 多 一点 这样 啦 哇 then 就 哇 每次 带 回来 很多  很多 海鲜 回来 吃 啊 
+NI07FBQ_0101 137241 149341 CS 那么 嗯 每次 就是 嗯 多数 都会 嗯 yeah 有 螃蟹 then 还有 prawn 啊 嗯 有 啊
+NI07FBQ_0101 149341 156711 CS 新鲜 的 鱼 啊 嗯 then ah 他 有时候 就是 会
+NI07FBQ_0101 157555 172291 CS 啊 分 给 我们 大家 一点 then bring home to cookay and eat  then  就 因为 是 新鲜 的 所以 就 很好 吃 很好 吃 哇 就 especially chinese new year lah  then
+NI07FBQ_0101 172291 192457 CS en  就 觉得 很 丰富  是 很 丰富 的 一 餐   en then actually en actually 除了 女将 then ah sometimes like 我 跟 我的 cousin
+NI07FBQ_0101 192457 200097 CS 都是 满 close 的 啦 啊 就是 那个 叫 samantha 的 那个 en 所以 啊
+NI07FBQ_0101 200097 210110 CS 当 那些 女将 都 去 啊 我的 grandma 的 house 去 啊 煮饭 的 时候 then  我们 有时候 也 会 啊 跟着 去 啊  就
+NI07FBQ_0101 210110 223447 CS 嗯 then 就 嗯 帮 他们 run errands 啊 like (er) buy some stuff that ah they need cookay lah then oh  就有 一次 很好 笑  就 嗯 那 时候 嗯
+NI07FBQ_0101 223447 235927 CS 我的 一个 auntie lah 他 就 啊 叫 啊 我 跟 我的 cousin 啊 一起 去 啊 楼下 买 一些 食料 啊 食材 啦 啊
+NI07FBQ_0101 235927 241107 CS then 我~ 我们~ 我们 就 拿 这 钱 就 去 买 咯 就是
+NI07FBQ_0101 241107 251027 CS then 他 要 的 东西 多数 都是 啊 那些 spices 啊 之类 的 就是 嗯 condiments 之类 的 东西 啦 就
+NI07FBQ_0101 251621 257187 CS then 有一个 食 材 是 嗯 那个 什么 啊
+NI07FBQ_0101 257187 265467 ZH bak-gok* ah bak-goh* 啊 就是那个啊 
+NI07FBQ_0101 265467 267510 ZH 我 有 一点 忘记 了 等 一下 啊
+NI07FBQ_0101 267510 278660 CS (er) i think is star-anise ah or something like that but in (er) dialect then 他们 就 这样 叫 啦
+NI07FBQ_0101 278660 292357 CS ppb) then (er) then but 我们 我 跟 samantha 都 不会 dialect 的 嘛 就是 even if 会 也是 一点点 而已 then (er) 我们 就 以为 是 (er) 白 果 啦 
+NI07FBQ_0101 292357 304857 CS yeah so (er) we told the shopkeeper 白 果  and then (er) after that 那个 shopkeeper 就 嗯 帮 我们 calculate the 价钱
+NI07FBQ_0101 304857 315237 CS then 我们 发现 我们 带 不够 钱  白 果 is (er) that kind of white (er) nuts 啊
+NI07FBQ_0101 315237 324450 EN i'm not sure how to translate lah this kind of food stuff okay  then yeah
+NI07FBQ_0101 324450 336000 CS then (er) 我们 就是 发现 我们 带 不够 钱 then the shopkeeper was very nice 啊 他 就 说 oh okay okay (er) 你们 我 会 帮 你们 (er)
+NI07FBQ_0101 336000 351261 CS oh 你 你们 先 付 你们 现在 可以 付 的 啦 then (er) 食材 你们 带 回去 啦 then (er) the remaining money 啊 啊 你们 就 拿 回来 (er) 等 一下 拿 回来 再 (er) 给 我 啦
+NI07FBQ_0101 351261 365331 CS so 我们 so we~ 我~ 我们 带 那些~ we brought the stuff back that  stuff back  then we gave to the auntie  then the auntie lookay at the 白果 and then she was like (er)
+NI07FBQ_0101 365331 366990 EN 
+NI07FBQ_0101 366990 376850 ZH 就是 很 惊讶 他 就 很大 声 地 就是 有 一点  很大 声 地 这样 骂 我们
+NI07FBQ_0101 376850 383101 CS why you all  why you all 买  白果  回来  我 要 的 是
+NI07FBQ_0101 383101 388281 EN bak-gok  bak-gok you know en
+NI07FBQ_0101 388281 403931 CS 过后  then  she also don't know the  the english translation for it  所以 最后 他 就 拿 那个 sp~ (er) 那个 spice 过来 给 我们 看  我们 才 知道 oh 原来 是 star-anise 来 的 
+NI07FBQ_0101 403931 411090 CS  then 就 很 pai-seh leh 因为 又 要  而 而且 又~ 又 要 拿 
+NI07FBQ_0101 411090 428173 CS  白果 回去 then 他 要 拿 那些 嗯 那个 the money that we owe ah 也是 要 拿 回去 给 那个 shopkeeper  then 我 就 哎呀 boh boh-chap lor 就 哎呀 再 下去 啦 then (er) 
+NI07FBQ_0101 428173 440411 CS oh 因为 那时 候 我们 也是 有 买 米 啦 then 米 很 重 啦 but 我们 买 five k. g. 啦 所以 (er) 那时 候 米 还 留 在 那个 shop 那边 我们
+NI07FBQ_0101 440411 454124 CS 过后 才 回去 拿  then en 就 过后 就 啊 拿 那个 白果 回去 then 换 那个 star-anise  then 啊
+NI07FBQ_0101 454124 463464 CS yeah 对 he's one he's one of the 那个 啊
+NI07FBQ_0101 463464 471490 CS 就在 那个 area 很 久 了 那种  啊 chi~ sh~ 居民 啊 yeah then
+NI07FBQ_0101 471490 479850 CS we also go visit our grandma (er) like quite often 呐 也是 时常 去 光顾 他的 店 呐 yeah so
+NI07FBQ_0101 479850 486610 CS 他 也有 一点 啊 认识 我们 啊 yeah very yeah very nice person
+NI07FBQ_0101 486610 490500 EN then en
+NI07FBQ_0101 490500 499950 CS 就是 回去 跟他讲 的 时候 就 很 pai-seh 啦 因为 你 看 啊 你 又 欠 钱 then (er)
+NI07FBQ_0101 499950 511980 CS food stuff 又 弄错 then 还 trouble 他  you know ah 帮 我们 收 住 那个 米 啊 就 回去 就 很 pai-seh 啦
+NI07FBQ_0101 511980 524346 CS but 哎呀 还是 but 那个 shopkeeper 就是 很 nice oh 他 就 oh (er) 笑 笑 then 就 let go 了 yeah then 最后 就 okay 了 then (er)
+NI07FBQ_0101 524346 543110 CS yeah 也就是 at that time 就 经过 那个 barber shop hor then 就 看到 那个 sign with 那个 word reboning instead of rebonding   samantha 就刚好 就有 camera 在 他 就 拍 下来
+NI07FBQ_0101 543110 549781 EN  yeah then (er)
+NI07FBQ_0101 549781 558811 CS 因为 christmas 那时 候 也是 有 回去 看 grandparents 嘛 then 也 经过 那个 barber shop 那个 sign 还 没有 换到 诶
+NI07FBQ_0101 558811 568631 CS  en okay en 年 三十 晚 就是 大概 这样 啦 就是 嗯 大家 一起
+NI07FBQ_0101 568631 580270 CS 聚起来 then reunion dinner then 过后 可能 watch ah watch 一些 t. v. lah like 看 有什么 好的 programme 吗 就 watch 一下 lor
+NI07FBQ_0101 580270 597249 CS 那么 初一 啊 初一 yeah 就是 也是 男方 的 就是 去 paternal grandparents 的 家 ah 拜年 啊 en 也 拿 红包 啦 然后 (er)
+NI07FBQ_0101 597249 606670 CS yeah 我的 那个 嗯 啊 出海 捕鱼 的 uncle oh 他 他 有 两个 啊 小 的 女儿
+NI07FBQ_0101 606670 620570 CS yeah en one of them is 啊 i think 啊 kindergarten already then 另外 一个 就是 nursery 而已 啦 very 小 不过 很 可爱 en very cute then
+NI07FBQ_0101 620570 627610 CS 都 很 哎呀 我们都很喜欢 跟 我们 这些 小 的 cousin 一起 玩
+NI07FBQ_0101 627610 629070 EN  en
+NI07FBQ_0101 629801 631416 EN en
+NI07FBQ_0101 631416 634696 ZH 初一 还有 做 什么 就是 嗯
+NI07FBQ_0101 635616 649886 CS 啊 当然 啊 吃 new year goodies 啊 就是 会 有 那个 八 宝 箱 啊 啊 eight treasure box you know the 啊 那个 嗯 hexagonal shape 的
+NI07FBQ_0101 649886 662790 EN yeah yeah yeah then only got one part is sweet only  yeah then 
+NI07FBQ_0101 662790 678620 CS 就会 有 yeah 也是 会 有人 带 啊 melon seeds 啦 因为  (er) 我 家 我的 family 都是 满 喜欢 吃 melon seeds 的  then 每次 都会 吃 到  wah 吃 到 一大堆 啦 都 掉 在 地上 之类 的
+NI07FBQ_0101 678620 699000 CS  en  then en peanuts 也是 会 有 yeah then 一定 会 有 beer 跑 出来 的 那些 男将 都会 拿 beer 跑 出来 then 一一 边 吃 beer 一边 吃 peanuts 
+NI07FBQ_0101 699000 706985 CS okay 啊 drink beer  yeah en 然后 多数 都是
+NI07FBQ_0101 706985 722375 CS 因为 my paternal grandma grandma lah actually 因为 我的 啊 grandpa 已经 两个 grandpa 都 已经 去世 了 啦 then 啊  他的 place 比较 小 but
+NI07FBQ_0101 722375 740815 CS 我的 那 (er) father's generation 啊 有 大概 九个 siblings 这样 啊  yeah 也是 就是 很大 then 每个人 just  挤挤 挤挤 挤挤  yeah then 也是 很难 找 位子 这样 啦
+NI07FBQ_0101 740815 749540 CS enthen even 吃 dinner hor 我们 也要 take turns 吃 dinner 的 因为  那个 那个 桌子 实在 太 小 了 
+NI07FBQ_0101 749540 764555 CS  en yeah then (er) 去那边 跟 年 三十 晚 差不多 啦 就是 啊 but this time 是 lunch 啦
+NI07FBQ_0101 764555 777855 CS 啊 多数 都是 lunch  then 等 一下 可能 也 会 有 dinner 啦 就是 你 要 stay for dinner 的话 你 就 stay for dinner loh then 啊 but 多数人 都是 早 走 的 啦
+NI07FBQ_0101 777855 787085 CS en then (er) chinese new year 就是 yeah 大吃大喝  en get ang bao
+NI07FBQ_0101 787085 800970 CS en play with your cousins 看 电视 之类 的 loh en then en 初二
+NI07FBQ_0101 800970 814631 CS 初二 就是 maternal grandma 那边 啊 oh but (er) 因为 我  我 跟你讲 一个 东西 then 你 不要 (er) like 传出 去 or anything lah 就是 嗯
+NI07FBQ_0101 814631 825031 CS 我的 maternal grandma 是 有 一点 痴呆 的 啦 yeah so 啊 他 stay in a nursing home 啊 then
+NI07FBQ_0101 825031 841241 CS 以往 我们 都是 去 nursing home like visit 他 之类 的 then 因为 我的 mother side (er) sib- siblings 不是 很多 啦 他 ppb 只有 两个 brother 而已 elder brother lah
+NI07FBQ_0101 841241 853801 CS then (er) 有一个 elder brother 是 bachelor 来 的 所以 没有 孩子 yeah then 就是 not a lot of relative on the mother side lah then 啊
+NI07FBQ_0101 853801 865184 CS 就是 因为 他们 都 住 很 远 所以 聚 在一起 啊 also very difficult 啦 啊 visit grandmother 也是
+NI07FBQ_0101 866111 869711 CS 有时候 啊 那个 时间 不会 coincide 啦
+NI07FBQ_0101 869711 883491 CS 就是 他们 啊 可能 morning 去 看 他 then 我们 afternoon 才 去 看 他 所以 有时候 就 见 不 连 chinese new year 都 见 不到 面 loh就 but
+NI07FBQ_0101 883491 894501 CS you know 还是 会 尽量 啊 make the timing coincide 这样 啦 嗯 then (er) 通常 chinese new year then
+NI07FBQ_0101 894501 912910 CS 因为 我 妈妈 是 the only ah daughter on of her of 她的 grandma of her mother mah my grandma mah 所以 ah 就是 (er) 她 会 煮 一些 比较 啊 enriching 的 食物 啦 给 我的 grandmother
+NI07FBQ_0101 912910 924131 CS yeah then 就 去 拜年 啊 then 那个 nurse the nursing home 就是 也是 蛮 他的 staff 蛮 friendly 的 啦 ah
+NI07FBQ_0101 924131 937145 CS 就 我们 每次 来 他们 也 会 give ang bao 之类 的 then hah 他们 也 会 (er) 跟 我们 聊 about (er) 我们 grandma 的 事情 啊 and all that 啦 en
+NI07FBQ_0101 938742 939506 EN yeah
+NI07FBQ_0101 940111 958141 CS but 这次 hor ah this year lah ah 我的 grandma 啊 跟 我 妈妈 讲 啊 他 要 来 我们 家 啊 like 过 新年 啊 so 啊 now 我们 就在 make arrangements ah
+NI07FBQ_0101 958141 971790 CS 就是 因为 她 已经 是 那种 很难 走动 了 啊 so 我们 就要 啊 拿 一个 啊 wheelchair 啊 就 wheel 她 到 我们的 家 啦
+NI07FBQ_0101 971790 972974 EN en
+NI07FBQ_0101 976515 979848 CS 初二 对 yeah then (er)
+NI07FBQ_0101 981150 997600 CS 今年 this year 可能 就 对 我 grandma 来讲 比较 好 啦 因为 i mean 来到 家里 then 就可以 you know 跟 一家人 sit at the table 然后 吃饭 之类 的 wah 就 可能 感觉 比较 好 嗯
+NI07FBQ_0101 997600 1007500 ZH 然后 嗯 初 三 （ppo) 初 三 (呃) 多数 都是 没 什么 做 什么 啦 就是 啊
+NI07FBQ_0101 1007500 1020050 CS 啊 跟 neighbour 拜年 啊 或者 去 啊 extended family 拜年 啊 因为  说 起来 有 一点 啊 pai-seh 啦 but then 
+NI07FBQ_0101 1020050 1026391 CS 啊 my grandfather 啊 paternal grandfather 啊 啊 他 有
+NI07FBQ_0101 1026391 1035450 CS 搞外遇  yeah so (er)
+NI07FBQ_0101 1035450 1048410 CS (er) the other yeah the other woman she also got yeah descendants also then 啊 我们 也是 有 keep in touch lah so (er) yeah
+NI07FBQ_0101 1053342 1065212 CS yeah then ah sometimes we also ah 去 看 啊 婆婆 的 siblings ah because some of them are still alive then (er) we also go and see them on 初三 loh
+NI07FBQ_0101 1065212 1066018 EN en
+NI07FBQ_0101 1067129 1079431 EN then (er) (er) speaking of it lah en  ah my neighborhood right ah just ah opposite my house there's this ah i think
+NI07FBQ_0101 1081121 1087991 EN from some foreign country ah a family from i think from indonesia or something then ah
+NI07FBQ_0101 1087991 1107031 CS they got some kids and they always very friendly one for like every christmas every festival then 他们 会 (er) 给 我们 like presents 啊 then usually 使 他们 主动 like 自己 先 take initiative 给 我们 presents 的 哇 就 哇
+NI07FBQ_0101 1107031 1119451 CS and like  like  like 如果 我们 不 给 他们 回 就 lose face 啦  yeah 所以 en 我们 也是 会 跟 他 (er)
+NI07FBQ_0101 1119451 1134740 CS 给 他们 present 啊 之类 的 en but other than that 就是 初三 通常 都是 没有 做 什么 啊 都是 有 一半 是 回到 日常生活 了
+NI07FBQ_0101 1134740 1136850 EN  yeah
+NI07FBQ_0101 1138794 1140669 ZH 初七
+NI07FBQ_0101 1144870 1146675 ZH 会 吗
+NI07FBQ_0101 1160033 1162275 CS 元宵 啊 is it
+NI07FBQ_0101 1166058 1173592 EN  (er) (er) i think
+NI07FBQ_0101 1174205 1177599 CS 新年 的 最后 一天 or something like that yeah
+NI07FBQ_0101 1180987 1181890 EN yeah
+NI07FBQ_0101 1182245 1186785 CS i think aft~ 就 啊 yeah i think that is 元宵 啦 then
+NI07FBQ_0101 1187525 1191549 CS 那天 我们 也是 会聚 在一起 celebrate 元宵 啊
+NI07FBQ_0101 1193239 1195099 CS yeah 大概 就是 这样 吧
+NI07FBQ_0101 1197685 1206291 CS then en i think 我们 yeah we also go and 啊 扫墓 啊 for the ah for
+NI07FBQ_0101 1207555 1217832 CS no after chinese new year lah  yeah after chinese new year 我 we we go and 扫墓 also lah because i mean
+NI07FBQ_0101 1217832 1225720 CS chinese new year what 虽然 chinese new year 不 可以 扫墓 but after that i mean it's good to like
+NI07FBQ_0101 1225720 1235530 CS ah like let yeah in let the  you know let them  yeah let them like (er) 享受 一下 啦
+NI07FBQ_0101 1235530 1248490 CS like (er) like ah make them feel like they are remembered ah 之类 的 yeah 我们 也 会 去 扫墓 啊 就是 纪拜 他们 啊
+NI07FBQ_0101 1248490 1249829 EN en
+NI07FBQ_0101 1253228 1254604 EN 
+NI07FBQ_0101 1257045 1258240 EN en
+NI07FBQ_0101 1264689 1265794 EN en
+NI07FBQ_0101 1266817 1273223 CS 就是 有 family gathering 之类 的 en festival 就 可能 是
+NI07FBQ_0101 1274091 1274855 EN en
+NI07FBQ_0101 1277307 1283067 CS dumpling festival ah 那个 粽子 节 啦
+NI07FBQ_0101 1283067 1292820 CS oh 端午节  我 不懂 我们 每次 都 两个 都 通用 的 啦  yeah en
+NI07FBQ_0101 1292820 1305100 CS 端午节 is not much 啦 we will just (er) 去 买 那个 粽子 loh then (er) 送给 (er) both sides 的 grand grandma 啦
+NI07FBQ_0101 1305100 1314217 CS then 就 一起 吃 粽子 en 粽子 节 就是 大概 是 这样 啦 en then
+NI07FBQ_0101 1315641 1326507 ZH 哦 有 一年 我 妈妈 去 啊 学 怎样 做 粽子 啦 你 就是 做 自 制 粽子 哇 就 很好 吃
+NI07FBQ_0101 1327551 1339786 CS then but  她 现在 忘记 了  mostly yeah 就是 她 朋友 自己 做 的 粽子 then 她的 朋友 就会 给 我们
+NI07FBQ_0101 1340222 1341055 ZH 嗯
+NI07FBQ_0101 1341541 1343821 ZH 还有 什么 就是
+NI07FBQ_0101 1344815 1357211 CS en 中秋节 loh mid autumn yeah then (er) every every relatives will like (er) buy 月饼 啊
+NI07FBQ_0101 1357211 1366165 CS 或者 买 什么 嗯 中秋节 的 其它 食品 啊 就 嗯 送给 嗯 paternal grandma 啦 嗯
+NI07FBQ_0101 1367093 1372133 ZH 然后 当然 会 很多 灯笼 啊 之类 的
+NI07FBQ_0101 1372133 1388240 CS 不过 就是 我 觉得 啊 very 可惜 oh is that now 啊 most of the 灯笼 are like electric use electricity to 啊 give the light one 啊
+NI07FBQ_0101 1388240 1398063 CS en then like very 可惜 啊 because last time 啊
+NI07FBQ_0101 1398063 1407853 ZH 就是 都是 用 纸 做 的 灯笼 啊 然后 就 自己 点 蜡烛 就 觉得 很 很好 玩 就
+NI07FBQ_0101 1407853 1418593 CS 就有 那种 特别 的 那种 feeling 啦 就 你 就是 那种 哦 你 自己 点 蜡烛 自己 好像 成功 地
+NI07FBQ_0101 1418593 1423243 ZH 把 那个 灯笼 这样 啦
+NI07FBQ_0101 1423243 1433925 CS you know (er) 拉 起来 yeah then 就可以 到处 提 啊 then en but 现在 的 就是
+NI07FBQ_0101 1435459 1438979 CS plastic 的 yeah then
+NI07FBQ_0101 1438979 1452053 CS 虽然 是可以 做 很多 variety 的 那种 啊 形状 啊 或者 cartoon characters ah but 就是 觉得 (er) 传统 的 灯笼 啊 比较
+NI07FBQ_0101 1453439 1457873 ZH 比较 有 那个 中秋节 的 味道 啦 嗯
+NI07FBQ_0101 1458259 1467650 CS then 那个 现在 就 流失 了 有 一点 开始 流失 了 en yeah then 中秋节 嗯
+NI07FBQ_0101 1468384 1472040 ZH 嗯 我们 会 我们 和~
+NI07FBQ_0101 1472040 1484751 CS 每次 中秋节 都会 买 那个 sparkler ah then (er) light 那个 sparkler 然后 就 oh 这样 在 空中 like draw stuff and all that like
+NI07FBQ_0101 1484751 1499481 CS and (er) like (er) throw into the air or something like (er) try to ah ah throw the sparkler onto the tree lah like try t~ ah 让 那个 sparkler ah hookay 在 那个 树 上
+NI07FBQ_0101 1499481 1500235 EN en
+NI07FBQ_0101 1501579 1509251 CS  没有 啦 哦 but 有 一次 真的 是 有 一次 真的 是 environmental hazard 虽然
+NI07FBQ_0101 1509251 1515966 CS 那个 好像 不是 中秋节 but anyway 我 跟 我 爸爸 就是
+NI07FBQ_0101 1515966 1532176 CS 在家 里 有  ah 一些 spare 的 sparklers ah 然后 我们 就 想 哎呀 快 点 用 完 它 啦 不然 嗯 不懂 收到 几时 yeah 所以 then 那时 候 啊 我们 家 对面 有一个 很大 的 field 啊
+NI07FBQ_0101 1532940 1534426 EN then ah
+NI07FBQ_0101 1534426 1555626 CS 所以 我们 晚上 就 拿 那些 sparkler 啊 light 起来 啊 然后 这样 玩 来 玩 去 啦 then 过后 because 那时 候 还 i still very small 啦 then  很 喜欢 like try out interesting things  or 出 一些 interesting ideas then 我 我~ 我 就 跟 我 爸爸 讲 嗯
+NI07FBQ_0101 1556160 1558120 EN why don't we try (er)
+NI07FBQ_0101 1559033 1559730 EN you 
+NI07FBQ_0101 1559730 1570280 CS you know 丢 那个 sparkler 然后 看看 它 落 的 时候 hor 会不会 stand upright  so so my my
+NI07FBQ_0101 1570280 1581006 CS then 那时侯 我 爸爸 很 喜欢 humour me 嘛 所以 我们 就 一起 丢 啊 丢 啊 then 哎呀 就 一直 丢 不到 upright position but
+NI07FBQ_0101 1582160 1592550 CS then (er) 我 我们 过后我  我 就在 有 一点 担心 啦 会不会 着火 那个 field 因为 那时 候 嗯
+NI07FBQ_0101 1592913 1606881 CS 天气 蛮 热 的 then 那个 field 的 草 是 蛮干 的 啦 yeah but ah but 我们 一直 丢 就是 no problem lor 就是 没有 着火
+NI07FBQ_0101 1606881 1618921 CS 是 but hor 当 我们 丢 完 oh then 忽然 间 voom 就有 一个 patch on the field 又 着火 起来
+NI07FBQ_0101 1618921 1630121 CS  then 我 那时 候 我们 很 怕 嘞 因为 附近 又 没 又 没有 什么 水 吗 then 我们 我们 又 怕 like (er)
+NI07FBQ_0101 1630121 1648461 CS tell other people then 又 很 难堪 很 pai-seh 这样 like don't know how to explain lah then the (er) 就 过后 我们 最后 就 用 我们的 shoe 去 踩 掉 那个  火  then 最后 才 
+NI07FBQ_0101 1648461 1659452 CS the~ then oh yeah luckily ah 那 附近 got* 有 一些 啊 人家 丢 的 cardboard lah 因为那时侯  哎呀
+NI07FBQ_0101 1659452 1669752 CS 人家 很 喜欢 丢 东 丢 西 的 then 就 用 那个 cardboard 也是 去 啊 fan 掉 那个 fire 啦
+NI07FBQ_0101 1669752 1685520 CS then 幸好 没有 惹 出 大祸 来 yeah but 过后 就是 in the morning 就 莫名其妙 有一个 black colour patch  in the middle  of the field 
+NI07FBQ_0101 1685520 1689814 CS  but 哎呀
+NI07FBQ_0101 1689814 1695749 CS 没有 人 去 问 question 所以 过后 就 nothing already loh
+NI07FBQ_0101 1695749 1697270 EN 
+NI07FBQ_0101 1697270 1699604 EN  then
+NI07FBQ_0101 1699604 1707520 CS oh another thing 就是 mid autumn festival hor 会 点 蜡烛 啦 就是
+NI07FBQ_0101 1707520 1714652 CS 啊 just 拿 那个 蜡烛 then ah 扎在 like
+NI07FBQ_0101 1715915 1731245 CS you know 扎 在 不懂 playground 旁边 啊 还是 什么 啊 还是 kerb 旁边 啊 then 就 点 蜡 蜡烛 like 庆幸 啊 or something like that 啦 like 多数 都是 children 做 的 啦 then (er)  but
+NI07FBQ_0101 1731245 1747475 CS 虽然 是一种 娱乐 啦 but the 蜡烛 melt 了 之后 hor then 就会 留下 很多 那个 wax hor 在 那边 呐 就 then 人家 就是 没有 去 clear 掉 lor then
+NI07FBQ_0101 1747475 1757825 CS en morning 来 的 时候 就 哇 playground 啊 还是 pavement 一边 啊 就 很多 wax 留 在那里
+NI07FBQ_0101 1757825 1771181 CS yeah then 就 觉得 哎呀 不好 啦 嗯 虽然 是 children lah 但是 parents 也要 watch 他们 喏 也要 啊
+NI07FBQ_0101 1771181 1780571 CS you know 当 children 玩 完了 也要 en 负 一点 责任 去 clean up after their children 呐 yeah 我 觉得 应~ 应该 是 这样
+NI07FBQ_0101 1781485 1794041 CS  en tsk 应该 我们 都 (er) 我们的 family 比较 传统 啦 就是 就有 chinese festivals 我们 才 聚 在一起
+NI07FBQ_0101 1794041 1806320 CS 嗯 christmas ah 之类 的 都 没有 啦 都是 嗯 个人 celebration nor 之类 的 嗯
+NI07FBQ_0101 1812531 1827951 CS 有 啦 就是 好像 啊 western festivals ah like ah 圣诞节 啊 or valentine's-day 啊 就是 会 跟 朋友 出去 哦 或 去 party 之类 的
+NI07FBQ_0101 1829523 1836351 CS 没有 啦 就是 跟 就是 有一个 朋友 的 outing lah 因为 valentine's-day 对 我们 没有
+NI07FBQ_0101 1836920 1856420 CS 没有 很大 的 意义 这样 啦 就是 嗯 因为 我的 朋友 跟 我 我们 都是 嗯 single 的 嘛 then (er) 就是 valentine's-day 这个 节日 对 我们 没有 很大 的 意义 lor 只是
+NI07FBQ_0101 1856420 1870016 CS 嗯 一个 occasion for you know an excuse for going out 那种 东西 啦 en but j. c. 的 时候 嗯 我的 班 很 close lah then ah
+NI07FBQ_0101 1870016 1883456 CS 那时 候 you know schools 他们 就是 会 啊 有 valentine's day promotion 啊 就是 卖 玫瑰 啊 嗯 花 啊 嗯
+NI07FBQ_0101 1883456 1895160 CS 巧克力 then this sort of things 啦 en then en that time t. j. c. 啊 啊 他们 有 一~ 嗯 liase with other j. c. 有一个 啊
+NI07FBQ_0101 1895984 1897130 EN how to say
+NI07FBQ_0101 1898067 1912580 CS oh (er) present delivery service 所以 hor 你 从 t. j. c. 你 要 送给 你 like m. j. c. 的 朋友 他们 就会 帮 你 送 咯 en就 很好 then 那时 候 我 们~en 
+NI07FBQ_0101 1912956 1931776 CS but anyway  我 要 说 的 point 不是 这个  是 我们的 班 很 close ah 所以 hor 我们 那些 女 的 hor 就 抽出 钱 嗯 then buy a rose for each of the guys ah because 因为 那时 候 我们的 班 很少 guys lah 就是 大概
+NI07FBQ_0101 1931776 1938750 CS 九个 yeah nine guys (er) 之类 yeah so (er) then
+NI07FBQ_0101 1939166 1952566 CS the whole class 有 大概 二十 多个 人 啊 嗯 let's say twenty five ah 所以 有 十六 个 是 女 的 所以 十六 个 女 的 then (er) 就
+NI07FBQ_0101 1952566 1959186 CS very easy lah no need to pay so much 去 买 那个 玫瑰 啊 yeah 所以
+NI07FBQ_0101 1959186 1969826 CS 那时 候 我们 就 这样 做 咯 then 过后 那些 guys 就 请 我们 吃 东西 咯 yeah 那时 候 我们的 class 真的 very close 的
+NI07FBQ_0101 1970866 1971697 ZH 嗯
+NI07FBQ_0101 1981176 1982631 ZH 嗯
+NI07FBQ_0101 1987121 1999301 CS 那时 候 嗯 j. c. 的 时候 没有 啦 就是 因为 j. c. (er) we concentrate more on 读书 啦 not on ah relationship but
+NI07FBQ_0101 1999301 2016981 CS 那时 候 我 有一个 朋友 她 已经 她在 外面 有 boyfriend 了 啦 then ah 他们 就有 去 i mean besides celebrating with ah the class 他们 也是 有 去 约会 咯 自己的 约会
+NI07FBQ_0101 2016981 2017583 ZH 嗯
+NI07FBQ_0101 2023288 2024171 ZH 嗯
+NI07FBQ_0101 2027644 2039469 CS 就 哎呀 也不 是 第一次 发生 这种 事 啦 有 啊 as in yeah 不是 第一次 我 觉得 then en
+NI07FBQ_0101 2041611 2053731 CS 因为 我 现在 还是 single lah 没有 找到 boyfriend na  所以~  所以  所以 en 对 我 来说 这个 en 不是 很大 的 problem lah
+NI07FBQ_0101 2053731 2060417 CS en but was~ 我 有 一些 朋友 啊 有
+NI07FBQ_0101 2061667 2062535 ZH 有
+NI07FBQ_0101 2064918 2081184 CS 有 boyfriend girlfriend 了 所以 对 他们 来说 嗯 他们 要 考虑 then 啊 they have to like plan in advance 啊 like 啊 when to date and when to 去 拜年 oh
+NI07FBQ_0101 2084484 2085578 ZH 就是 这样
+NI07FBQ_0101 2095096 2097248 EN en
+NI07FBQ_0101 2099331 2101633 EN en
+NI07FBQ_0101 2101633 2119183 CS 有 啊 有 啊 but 不是 出自 于 我的 self initiative 啦 是 (er) 都是 那些 班上 那些 比较 enthu 的 人 啊 他们 都会 (er) try to keep in contact with 每个人 啦
+NI07FBQ_0101 2119423 2135463 CS but 就是 也是 很难 organise outings 啦 因为 男生 都 去 army 嘛 then 他们 很少 有 break 啊 很少 off service 这样的 啦 (er) normally 是 saturday sunday 他们 才有 空 啦 but
+NI07FBQ_0101 2135463 2143593 CS (er) 就是 我们 这些 女 的 我们 saturday sunday 都是 会  (er) 有 自己的 东西 啦 比较 会 有 自己的 东西
+NI07FBQ_0101 2143593 2153173 CS then 就 很难 organise 到 每个人 都会 来 这样 子 啦 but (er) 会 有 一些 比较 啊
+NI07FBQ_0101 2154989 2168182 CS 就是 会 有 一些 比较 有 空 的 人 啊 then they will 啊 gather together 就是 then 就 h. t. h. t. 这样 啊 就 啊
+NI07FBQ_0101 2168856 2180743 CS exchange news about each other 之类 的 啦 then 有 一次 他们 就 去 啊 哪里 啊 啊 鼎泰丰 啦
+NI07FBQ_0101 2180743 2190543 CS 啊 holland-village 那边 去 吃饭 啊 不过 因为 那 时候 就是 很 晚 才 去 吃 啦
+NI07FBQ_0101 2190543 2200249 CS 就是 (er) 大概 差 不 晚上 十点 才 去 吃 that's why (er) 那时 候 我 就 没有 去
+NI07FBQ_0101 2200249 2208583 CS 我 现在 en mostly i go 的 都是 o. g. outing 啊 或者 就是
+NI07FBQ_0101 2209347 2210007 EN (er)
+NI07FBQ_0101 2210429 2235684 CS 以前 o. g. 因为 year one 的 时候 啊 o. g. 都 每 o. g. 的 每个人 都 住 在 hall 里面 嘛 所以 我们 时常 都会 organise like o. g. supper 啦 then 啊 就 好像 去 j. p. 啊 还是 去 啊 学校 外面 just have supper 啦 then 就 谈 很多 东西 咯 then 啊 as for o. g. outing right 嗯
+NI07FBQ_0101 2236799 2255313 CS 就是 因为 year two 啊 比较 分散 了 我们 才 觉得 o. g. outing 比较 重要 啊 then 最近 we also got go 那个 啊 那个 crystal jade restaurant 啊 那个
+NI07FBQ_0101 2255313 2276253 CS 啊 seafood restaurant 他们 那边 啊 有一个 buffet 啦 all you can eat buffet at hundred plus dollars 所以 所以 有 一次 我们 就 哇 每个人 都 而且 (er) 虽然 不是 全员 到 齐 啦 但是 就是 那些 比较 close 的 就是
+NI07FBQ_0101 2276253 2277200 EN en
+NI07FBQ_0101 2277652 2295753 CS yeah 就是 比较 close 的 那 几个 人 我们 都 到 齐 then but 就是 要 等 很 久 啊 因为 是 buffet 啊 then 那时 候 又是 好像 是 friday 还是 saturday 啦 对 就是 就会 就会 也是
+NI07FBQ_0101 2295753 2312803 CS 很多 人 在 before us 啊 已经 正在 吃 了 然后 虽然 我们 bookay 的 是 啊 九点 多 啦 but in the end 我们 还是 等到 十点 多 then 才有 位子
+NI07FBQ_0101 2312803 2324592 CS 我 觉得 是 蛮 worth it 的 啦 因为 久久 一次 嘛 then 又 i mean 虽然 我们 都是 同样 n. t. u. 的 but
+NI07FBQ_0101 2324893 2341323 CS 不同 的 course then 就 比较 少见 面 而且 有些 又 不 住 hall 的 yeah 所以 真的 满 值得 的 啦 then 我们 就 哇 每个人 就 都 叫 了 很多 小笼包 啊 
+NI07FBQ_0101 2341323 2348825 CS 就 哇 吃 到 很 爽 然后 最后 我们 我们 like 因为 过后 嗯
+NI07FBQ_0101 2349700 2369280 CS oh i think 我们 (er) 叫 了 太 多 了 yeah in the end 我们 才 发觉 太 多 了 then (er) 就 叫 那些 guys 啊 吃 因为 guys 胃口 比较 大 嘛 then 就 叫 他们 (er) like try to finish up all the food 啦 then 就
+NI07FBQ_0101 2369280 2382780 CS (er) 变成 一个 competition like (er) 看 是 谁 是 最 像 猪 的  because eat~ eat a lot is like 就是 很 像 猪 一样 啊
+NI07FBQ_0101 2382780 2392458 CS  then 很 好笑  没有 啦 the friendly friendly 的 (er)
+NI07FBQ_0101 2393927 2396660 ZH 没有 没有 整个 一百 多 块
+NI07FBQ_0101 2399408 2408430 CS no lah  and then i 我们 好像 有 八个 人 左右 啦 so it's okay loh
+NI07FBQ_0101 2408430 2410428 EN en en
+NI07FBQ_0101 2415126 2426977 CS  en then (er) 过后 我们 在 想 因为 那 我们 吃 完 的 时候 大概 like midnight 这样 啊 then 我们 在 想 啊
+NI07FBQ_0101 2427231 2436551 CS 哎呀 反正 (er) 坐 不到 m. r. t. 或 bus 了了 所以 就 走 走 一下 then (er)
+NI07FBQ_0101 2436551 2451540 CS 搭 taxi home 啊 (er) so 我们 就在 那个 holland village 那个 vicinity 那边 走 走 啊 then (er)oh 因为 那时 候 有 那个 football match 啦
+NI07FBQ_0101 2451540 2464086 CS 我 忘记 是什么 football match 了 but then (er)  我 我们 就有 一 我们 走 走 走 then 走 到 这个 (er) sports (er)
+NI07FBQ_0101 2465421 2480321 CS sports pub 那边 有一个 很 有一个 wide screen t. v. 啦 then 我们 就 站在 那边 看 那个 match then 很 久  才 走开 but after that 我们
+NI07FBQ_0101 2480321 2503931 CS 我们 就有 过去 一个 到 一个 小 pub 那边 去 (er) 喝 liquor 啦 yeah  then 那些  那些 名字 都 很好 笑 啦 我们 他 有些~ 因为 我的 o. g. 都是 like chinese speaking background then 就有 些 东西 就 比较 保守 啦
+NI07FBQ_0101 2503931 2516881 CS yeah so 我 就 帮 他们 叫 咯 then (er) 就是 then 有一个 drink 它是 它的 名字 叫 啊 叫 什么 啊 啊 blow-job 啊
+NI07FBQ_0101 2516881 2528832 CS  but then 他 他 他 他 真的 是 有 一点 名副其实 啦 就是 啊 它是 ah
+NI07FBQ_0101 2528832 2540870 CS like coffee and coffee liquor and baileys in 啊 那个 shot glass then 上面 有 很多 很多 的 whip cream 所以 真的 是 很 像 在
+NI07FBQ_0101 2540870 2550387 CS (er) 喝的 喝了 很像 在 嗯 对  then 还有 其 他 like sex-on-the-beach 啊 之类 的 啊 yeah
+NI07FBQ_0101 2552539 2554109 EN 
+NI07FBQ_0101 2554109 2564288 CS 总之 有 很多 很多 那种 cocktail 的 名字 啊 都是 啊 有 sexual terms 在 里面 的 啦 but en
+NI07FBQ_0101 2564288 2573320 CS 我们 多数 叫 的 都是 没有 啦 只是 these two 他 比较 sexual 一点 
+NI07FBQ_0101 2573320 2573875 EN en
+NI07FBQ_0101 2578402 2581168 CS 还 okay 啊 嗯
+NI07FBQ_0101 2581168 2590206 CS 我是 比较 难 drunk 的 啦 只是 可能 会 感觉 一些 头晕 还是 什么 a~ and but (er) 那时 候
+NI07FBQ_0101 2591223 2606450 CS 应该 是 不会 很 头晕 因为 hor you know 喝 alcohol then (er) 有时候 为了 解 那个 alcohol 毒 hor then 你 都会 喝 牛奶 的 吗 as in 之类 的 你 不知道 吗
+NI07FBQ_0101 2606450 2619341 CS 有~ 是 有 这种 说法 啦 then 啊 我 叫 的 那个 是 啊 baileys ah with coffee liquor with 牛奶 啦 所以 啊 那个 还算 不错 咯 嗯
+NI07FBQ_0101 2622203 2623142 ZH 对
+NI07FBQ_0101 2624200 2639330 CS 没有 啦 不 but 我 就是 比较 啊 interested in 这种 东西 就是 in cocktail 啦 因为 毕竟 啊 last time 我在 t. c. c. (er) 工作 了 大概 一年 嘛
+NI07FBQ_0101 2639330 2656721 CS then some of the drinks there 他们 都有 酒精 在 里面 呐 (er) 所以 过后 oh 我 就 觉得 wah very interesting (er) 咖啡 也可以 放 酒精 的 所以 过后 就 做 一点 小小的 研究 啦 所以 才 认识 这些 东西
+NI07FBQ_0101 2662981 2686494 CS 嗯 这个 also see your preference 啦 因为 我 本身 是 比较 喜欢 (呃) 那些 比较 甜 的 啦 所以 (er) coffee liquor 好像 kalua ah 因为他是用 coffee 酿成 的 所以 (呃) 就 比较 适合 我 baileys (er) 也是
+NI07FBQ_0101 2686494 2704216 CS (er) (er) from chocolate one ah chocolate liquor 所以 (er) 也是 我 比较 喜欢 baileys 啊 所以 那时 候 我 才 会 叫 这个 cocktail that's made from baileys and coffee liquor like 这种 的
+NI07FBQ_0101 2708893 2711476 EN en en
+NI07FBQ_0101 2711476 2725796 CS 我的 一个 o. g. friend 他 也是 有 叫 一个 tequila base 的 就是 orange sunrise 啊 就是 tequila 加 啊 orange juice ah 之类 的
+NI07FBQ_0101 2725796 2743920 CS 所以 那个 也不 错 啦 我觉得 vodka (er) pure vodka 比较 少 but 啊 vodka mixed with other drinks 会 就是 到了 大学 之后 就
+NI07FBQ_0101 2743920 2767981 CS 时常 drink 了 因为  哎呀 说 回来 也是 o. g. 的 关系 啦  因为  啊 okay 啊 freshman orientation camp then (er) 那些 我们的 o. g. leaders 就会 introduce 我们 to vodka then (er) we will play truth or dare games 啊 然后 punishment 或 penalty 就是
+NI07FBQ_0101 2767981 2789271 CS (er) drink a glass of vodka plus this whatever drink 我们 有 on hand lah like maybe 绿茶 ah or (er) like ah fruit juice ah 之类 的 啦 所以 then 而且 fresh man orientation camp 我们 也是 有 去 club for ah d. and d. 吗
+NI07FBQ_0101 2789271 2805760 CS then 那时 候 也是 drink nothing but vodka mixed with other stuff 啦 好像 ribena 或 lime juice 之类 的 所以 就 就 开始 (er) 比较 appreciate vodka 一点 了
+NI07FBQ_0101 2805760 2822661 CS  对  嗯 then 嗯 哦 有 一次 new year 我们 也是 有 去 一个 o. g. 朋友 的 家 like spend chinese new year 啦 then (er) 我们
+NI07FBQ_0101 2822661 2844801 CS 他们 家 有 那个 steamboat apparatus 所以 我们 then 他们的 parents 就 很 nice 就 让 他 (er) hold 那一 个 like small new years party with the steamboat apparatus then (er) 我们 吃 了 那个 steamboat 过后 就 去 楼下 买 vodka 回来  那时 候 i think 他的
+NI07FBQ_0101 2844801 2866960 CS yeah 他 他的 parents 让 他的 parents 蛮 (er) westernized 的 啦 所以 他们 (er) 比较 allow 这种 东西 yeah then 过后 我们 就 打 麻将  then 打 麻将 那些 (er) lose 的 人 都要 drink some vodka  yeah 就 打 打 打 打 到
+NI07FBQ_0101 2866960 2868082 EN wah
+NI07FBQ_0101 2869442 2872700 ZH 很 凌晨 啦 有 凌晨 啊
+NI07FBQ_0101 2872700 2887156 CS yeah 而且 都是 因为 大家 喝 到 哎呀 不可 以 take it 了 then 就 okay 啊 就 收场 then 就 everyone 就 (er) go and sleep 
+NI07FBQ_0101 2891529 2905060 CS (er) 我们 会 take turns (er) 而且 有 一些 人 不会 打 嘛 所以 (er) 通常 都是 输 家 have to change out of the seat 啦
+NI07FBQ_0101 2905060 2914530 CS then (er) someone else 会 进来 跟 我们 一起 再 打 一场 然后 再 看 (er) 谁 输 then 又 再 change seat
+NI07FBQ_0101 2918228 2920712 CS after that winter 就 不会 喝 嗯
+NI07FBQ_0101 2924140 2929243 CS okay lah because 每一场 的 winner is different loh
+NI07FBQ_0101 2929651 2949530 CS for some reason 啦 we don't have a straight winner  yeah then (er) oh before that 我们 玩 那个 uno stacko 我们 也是 有 drink vodka as penalty  but 那个 比较 好 啦 because one only one person 会 you know make the whole thing fall 嘛
+NI07FBQ_0101 2949530 2969670 CS yeah 所以 那个 会 比较 好 不过 他 过后 也是 喝到 醉醺醺的  yeah then 我 嗯 among my o. g. oh 有一个 guy 他 嗯 每次 喝 酒精 都会 很 red 的  then 我们 就 很 好笑
+NI07FBQ_0101 2969670 2986390 CS then 有 一次 啊 哦 嗯 first year year end 啊 我们 有一个 又有 一个 gathering like last gathering for the year (er) 也是 玩 truth or dare then 也是 哎呀 买 vodka 来 啊 for penalty
+NI07FBQ_0101 2987284 2989157 EN then (er) en
+NI07FBQ_0101 2989747 3002377 CS then 过后 就 很 好笑 就有 那些 男 的 不懂 为什么 hor 都 喝 到 很 红 很 红  yeah then then
+NI07FBQ_0101 3002377 3023401 CS 因为 truth or dare 啊 then 就 (er) say some things that probably 他们 不 应该 讲 的  then 有一个 也是 喝 到 going to vomit 这样 yeah 就 哇 那时 候 真的 很好 笑 but 也是 很 惨 啊 then (er)
+NI07FBQ_0101 3023401 3027510 CS yeah 就 过后 他们 好像 也是 有 hangover 吧
+NI07FBQ_0101 3027510 3032691 EN  en
+NI07FBQ_0101 3033545 3034528 EN 
+NI07FBQ_0101 3038158 3038713 EN 
+NI07FBQ_0101 3041062 3041532 EN 
+NI07FBQ_0101 3044137 3045546 EN aiya i think
+NI07FBQ_0101 3046391 3048361 ZH 这个 也要 看 个人 的 咯
+NI07FBQ_0101 3048521 3050971 CS like 如果 你 不 习惯 喝酒 then
+NI07FBQ_0101 3050971 3053184 ZH 可能嗯
+NI07FBQ_0101 3053184 3058181 EN you~ your~ your alcohol intake ah cannot be very high lah just
+NI07FBQ_0101 3058461 3060941 CS 一点点 then you will red already
+NI07FBQ_0101 3060941 3061381 EN 
+NI07FBQ_0101 3061381 3065051 CS yeah like 有 一次 我 去 意大利 hor then (er)
+NI07FBQ_0101 3065051 3065691 EN 
+NI07FBQ_0101 3065691 3066911 EN that time we were like
+NI07FBQ_0101 3067405 3068425 EN i think
+NI07FBQ_0101 3069610 3075500 CS sec one so we are not really ah 成年 yet  yeah but then ah
+NI07FBQ_0101 3075500 3076160 EN y~ you know
+NI07FBQ_0101 3076160 3078550 CS italians 他们 都是
+NI07FBQ_0101 3079010 3083310 CS 用 wine 来 配 菜 的 吗 especially (er) red wine lah
+NI07FBQ_0101 3083630 3088150 CS then (er) 那 有 一次 我们 就 去 到 那个 一个 italian restaurant
+NI07FBQ_0101 3088150 3089070 EN  en
+NI07FBQ_0101 3089070 3091260 CS then 那些 男生 就 好奇 啊
+NI07FBQ_0101 3091260 3095300 EN  then  they order because ah
+NI07FBQ_0101 3095300 3098280 ZH 那时 候 有一个 男 的 老师 在 啦
+NI07FBQ_0101 3098280 3099291 EN then ah
+NI07FBQ_0101 3099291 3102321 CS the 老师 help to order the red wine
+NI07FBQ_0101 3102321 3102701 EN 
+NI07FBQ_0101 3102701 3105320 CS then 就 请 那些 男生 喝
+NI07FBQ_0101 3105320 3106131 EN 
+NI07FBQ_0101 3106131 3107571 CS then 有一个 男生
+NI07FBQ_0101 3107571 3111159 CS  一喝 not even the
+NI07FBQ_0101 3111159 3113559 CS not even the whole glass you know 就是
+NI07FBQ_0101 3113559 3114219 EN 
+NI07FBQ_0101 3114219 3117589 EN one sip ah like (er) or one gulp ah
+NI07FBQ_0101 3117869 3121070 ZH 他 就 已经 整 脸红 到 不能 红 了
+NI07FBQ_0101 3121070 3122979 EN 
+NI07FBQ_0101 3122979 3124649 ZH 连 耳朵 也 红 哦
+NI07FBQ_0101 3124649 3128819 EN 
+NI07FBQ_0101 3128819 3131469 EN then all the trip we all laugh at him
+NI07FBQ_0101 3131469 3135009 EN 
+NI07FBQ_0101 3138325 3150881 EN 
+NI07FBQ_0101 3150881 3151543 ZH 对
+NI07FBQ_0101 3153298 3154818 EN 

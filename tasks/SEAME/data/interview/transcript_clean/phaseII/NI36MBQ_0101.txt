@@ -1,0 +1,613 @@
+NI36MBQ_0101 0 1093 EN one two three
+NI36MBQ_0101 2807 4261 EN my name is caleb chai
+NI36MBQ_0101 5400 7467 EN ok my name is calab chai
+NI36MBQ_0101 7921 10080 EN i'm from c. b. c year two
+NI36MBQ_0101 10230 14120 EN (er) my major is chemistry and
+NI36MBQ_0101 14150 19245 EN i'm right now studying for my quiz  so
+NI36MBQ_0101 20360 23950 EN what do you want me to say i mean like anything
+NI36MBQ_0101 24933 37195 CS oh oh we have questionnaires ok 我 以前 是 study in which school ok (er) previously i was from tampines junior college and 以前 你 参加 过 什么 c. c. a.
+NI36MBQ_0101 37520 44500 EN i'm from chinese orchestra ya so but i didn't join in uni ah instead i join more in my hall stuff
+NI36MBQ_0101 45037 49720 CS so 你 现在 在 参加 what committees ok (er)
+NI36MBQ_0101 50090 54038 EN committees ah all my committees actually are like (erm)
+NI36MBQ_0101 54636 63517 EN ad-hoc stuff ah so like hexis (er) now i am do doing this for my canvassing for h. s. o. c which is er hall six orientation camp
+NI36MBQ_0101 64140 65127 EN ya
+NI36MBQ_0101 65880 69967 CS so next semester 你 take 什么 electives
+NI36MBQ_0101 70668 80049 EN (er) i'm not sure yet i don't know whether this year i will ta-pao anything or not  so ya it really depends on my this sem result mm
+NI36MBQ_0101 82718 84587 EN oh ok ok (er)
+NI36MBQ_0101 85188 94740 CS 你要 问 我 什么 问题 啊  ok ok right now i am actually giving chinese tuition so ya so i am actually (er) 我 在 教 华文 补习
+NI36MBQ_0101 96355 103285 ZH 哦 我 教 中一 的 学生 他 是 从 (呃) 英华 英华 中学
+NI36MBQ_0101 106375 111855 CS 对 language 真的 很难 教 so actually this is my first time taking up chinese ah tuition
+NI36MBQ_0101 112296 122473 EN (er) i mean this assignment so sometimes i really find it difficult to actually translate in chinese oh because i've been so used in talking in english in all these thing right
+NI36MBQ_0101 122790 126265 EN ya although my chinese used to be not bad lah
+NI36MBQ_0101 126810 132783 CS 还 蛮 不错 的 so i thought 我 可以 胜任 这个 tuition assignment but
+NI36MBQ_0101 133140 138550 CS 最后 i mean 不是 最后 啦 就 还在 努力 当中 对
+NI36MBQ_0101 139310 141732 ZH 我 其实 才 刚刚 教 了 一个 月
+NI36MBQ_0101 144260 153170 CS 对 哦 but 他 的 英文 他 的 华文 也是 不好 啊 就 他们 现在 学 的 东西 right 全部 都 用 汉语 拼音 的
+NI36MBQ_0101 153636 160964 CS 所以 他们 读 的 东西 全部 都 用 汉语 拼音 来 translate oh 他们 不懂 怎么 写 可是 他们 汉语 拼音 很 厉害
+NI36MBQ_0101 162725 168804 CS 啊 因为 他们 现在 他们 不用 词典 哦 你 懂 我们 以前 是 用 词典 right 他们 现在 有 electronic device 的
+NI36MBQ_0101 169271 177480 CS 就是 叫 个 电子字典 so 什么 东西 right 他 just type in 那个 汉语 拼音 hor 它 就 可以 帮 它 出现 那个 华文 字 了
+NI36MBQ_0101 180012 180870 ZH 啊 对
+NI36MBQ_0101 181730 187080 CS yes  ok 为什么 你 choose your course ok (erm)
+NI36MBQ_0101 187080 194340 CS c. b. c. chemistry and biological chemistry actually (er) 本来 我 还 以为 这个 course 是 more into biochemistry
+NI36MBQ_0101 194948 206930 CS but 后来 我 发现 它 真的 是 mainly based on chemistry itself it's very heavily content based in chemistry this subject and i'm struggling i mean to be
+NI36MBQ_0101 206930 207387 EN to be
+NI36MBQ_0101 208166 212170 EN truthful ah i'm i'm struggling with my with my homework all these thing
+NI36MBQ_0101 213992 225540 EN (er) but i do i i still enjoy doing this course ah but i think i will be better in biological science ya b. s. mm
+NI36MBQ_0101 227292 231447 CS ok 为什么 (er) graduate 了 你 要 做 什么 (erm)
+NI36MBQ_0101 232370 244090 CS (啧) ok graduate 后 我 可能 要 apply for 其实 我 的 以前 的 梦想 啊 ambition 就是 要 做 一个 like
+NI36MBQ_0101 244090 257655 CS cause 我 蛮 喜欢 动物 的 啦 animal lover so i either wanted to go into marine biologist or either just be a zoo keeper ah  in the zoo oh if not right (er)
+NI36MBQ_0101 258850 264600 EN i will consider h. s. a. ah health science authority or even a. star if i can get into it
+NI36MBQ_0101 265760 282570 EN cause i used to be a police officer in my army days then i happen to know things about forensic science ah and which i think my chemistry course can actually help in this area
+NI36MBQ_0101 284673 289426 CS ok 下 一个 holiday 你 打算 做 什么 就 下 一个 holiday 是 四个 月 对不对
+NI36MBQ_0101 289990 297870 CS so around 四个 月 啊 so 我 和 我 hall 的 人 we are going vietnam for a short trip ya then enjoy ourselves there
+NI36MBQ_0101 298280 304890 EN after that ok i am also taking up summer research ah in my school because my school actually offer us (er) this
+NI36MBQ_0101 305510 313370 CS 哦 我们 的 学校 actually 有 provide 这个 summer research 给 我们 (er)
+NI36MBQ_0101 314980 324900 CS 给 我们 参加 啦 所以 在 这个 假期 里面 我们 可以 去 (呃) 跟 一些 的 教授 做 他们 的 research program 对 他们 的 (呃)
+NI36MBQ_0101 325270 329713 CS 他们 的 research ah then 我 有 参加 y. o. g. 也是
+NI36MBQ_0101 330414 334380 CS it'll be a busy holiday lorh 一个 很 忙 的 假期
+NI36MBQ_0101 334933 336387 EN ok (erm)
+NI36MBQ_0101 337556 340828 CS are you planning to go 毕 月 毕业 旅行
+NI36MBQ_0101 341347 345534 CS (er) actually of course ah i think 每个人 都会 想 这样 做
+NI36MBQ_0101 347428 349130 EN i'm year two mm
+NI36MBQ_0101 349130 350492 CS 对 哦 你 是 year 几
+NI36MBQ_0101 354101 357296 CS 哦 你 还 没有 进 uni ah ok (er)
+NI36MBQ_0101 358100 366693 CS 对 哦 so 毕业 旅行 is like every graduate 的 梦想 啊 because finally you can put down your all your assignments all these thing and
+NI36MBQ_0101 367135 373550 EN  you know enjoy yourself by having a good trip before you go into the working industry mm
+NI36MBQ_0101 375100 382077 CS so 我 过去 actually 我 有 apply for i.n.s.t.e.p. lah but 我 没有 拿 到 我 喜欢 的 国家
+NI36MBQ_0101 382077 385277 EN so i actually give up the program so you know what is i.n.s.t.e.p.
+NI36MBQ_0101 386446 388640 CS 就是 一个 exchange program lorh 对
+NI36MBQ_0101 390030 396790 CS then 我 去 过 什么 国家 啊 malaysia oh 最 最 常 去 的 就是 malaysia 还有 什么 penang pahang
+NI36MBQ_0101 397810 404630 CS 去 那边 吃 啊  还有 玩 哦 就 genting ah 对
+NI36MBQ_0101 405173 411042 CS 还有 (呃) 最 远 的 国家 我 去 过 就是 中国 那个 是 去 visit relative 啊
+NI36MBQ_0101 411600 412620 EN ya
+NI36MBQ_0101 413180 422686 CS (er)  i don't come from a very rich family so travelling is 一种 奢侈 ya for me ah mm
+NI36MBQ_0101 423660 426110 CS 我 会 去 overseas exchange 吗 yes definitely
+NI36MBQ_0101 426487 431660 EN i will try to apply next sem and will see how ah the result
+NI36MBQ_0101 432304 437850 CS 我 喜欢 吃 什么 food ah food 有 很多 种 啊
+NI36MBQ_0101 438537 439394 EN mm
+NI36MBQ_0101 440850 443040 CS actually 我 蛮 喜欢 吃 nonya food 的
+NI36MBQ_0101 443830 448280 CS 对 哦 因为 hor 我 觉得 他们 的 dishes 很 特别
+NI36MBQ_0101 448770 453050 EN ya different from the normal local cuisine
+NI36MBQ_0101 453569 453881 EN ya
+NI36MBQ_0101 456930 461513 CS 对 that's why it's quite hard to find but katong area 很多
+NI36MBQ_0101 462084 469745 CS cause 我 stay in the east side mah so east 有 蛮 多 这种 nonya peranakan cuisine
+NI36MBQ_0101 470930 473300 EN mm ok then
+NI36MBQ_0101 473590 475750 CS 我 有 什么 hobbies ah
+NI36MBQ_0101 476263 477250 EN ok (er)
+NI36MBQ_0101 479623 480780 EN hobbies ah
+NI36MBQ_0101 481493 486167 CS actually 我 是 from- actually 我 蛮 喜欢 演戏 的 啦 after 我 的 hall production
+NI36MBQ_0101 486946 488770 CS then 我
+NI36MBQ_0101 489390 492780 CS 我 其实 去 mediacorp 演戏
+NI36MBQ_0101 492971 501122 CS  做 (erm) ok 临时 演员 演员 啊 so 有 对白 的 not bad
+NI36MBQ_0101 501824 510237 CS 有些 只是 站在 那边 没有 讲话 可是 我 有 讲话 所以 pay 比较 高 then 下个 星期 三 我 又 会 下去 mediacorp oh
+NI36MBQ_0101 510809 511640 CS for 演戏
+NI36MBQ_0101 513753 515883 ZH 哦 (呃) 我 朋友 介绍 的
+NI36MBQ_0101 516220 525958 CS so firstly 你 要 去 interview 然后 他 就会 叫 你 在 一个 camera 面前 讲话 然后 (er) then 你 就要 自我 介绍 这些
+NI36MBQ_0101 526867 533545 CS 然后 他 给 你 三个 (呃) 小 段 啊 scenes ah so 你 就要 act it out lorh
+NI36MBQ_0101 534558 536970 CS then 他 就会 看 whether you are suitable or not
+NI36MBQ_0101 537596 542193 EN after that they if let's say they need people they will call you down for assignment
+NI36MBQ_0101 542946 543543 EN mm
+NI36MBQ_0101 547839 562780 CS 哦 我 参加 actually 我 只 拍 过 一次 啦 那时候 then 这次 是 第二 次 所以 上 一次 我 演 的 是 那个 长寿剧 也 不算 是 长寿剧 啊 就是 当我们 同在一起 哦
+NI36MBQ_0101 565871 574181 CS 然后 我 必须 去 剪头发 啊 啊 还要 脱 衣服  所以 那个 pay 会 比较 高 
+NI36MBQ_0101 575298 578180 CS 因为 我们 的 那个 戏 是 在 army 里面 的
+NI36MBQ_0101 579174 587015 CS 啊 然后 我们 要 演 的 是 我们 演 的 是 recruit ah 就是 刚刚 进去 的 新兵
+NI36MBQ_0101 590236 593890 CS (呃) 没有 就是 crew cut 就 短 的 那种
+NI36MBQ_0101 593890 594697 ZH 嗯 (啧)
+NI36MBQ_0101 595801 600410 CS then 我 有 玩 什么 sport ah (er)
+NI36MBQ_0101 600821 606180 EN i actually play quite a number of sport lah i swim i play table tennis i
+NI36MBQ_0101 606703 617973 CS play badminton but i'm not good at any of them  not say not good lah i mean average orh above average i can say ya but 就是 还有 很多 人 比 我 比 我 更 强 啊
+NI36MBQ_0101 621620 625920 CS 你 还 想 学 什么 any other things ok (erm)
+NI36MBQ_0101 626535 639476 CS ok i'm from c. o. so i know how to play (er) instrument in c. o. which is 二胡 啦 but i would like to take up a western western instrument i mean musical instrument like piano or what which i never had a chance
+NI36MBQ_0101 640090 650537 EN ya i don't know whether is it too old or what then but i think i will still try out ah i'll learn from anyone oh who know how to play
+NI36MBQ_0101 658182 658832 EN 
+NI36MBQ_0101 659315 666001 CS actually i miss the 的 那种一起表演的感觉 对
+NI36MBQ_0101 667215 668799 CS 就 大 组 咯 but
+NI36MBQ_0101 670136 675120 CS 我 有时候 还是 很 喜欢 听到 那种 music ah 那种 melody
+NI36MBQ_0101 676291 677602 EN (er)
+NI36MBQ_0101 681069 686899 CS but 真的 c.o. take up too much time ah which 在 uni 很难 cope orh
+NI36MBQ_0101 687937 690716 CS 啊 你 是不是 from c.o. 的 哦
+NI36MBQ_0101 692724 697243 CS 哦 什么 performing arts dance ah then maybe you can consider to join dance
+NI36MBQ_0101 697762 701255 CS ya mm not bad 他们 的 我 朋友 在 里面
+NI36MBQ_0101 702490 713657 CS ok (er) 明年 你要 stay in hall 吗 如果 可以 的话 当然 啦 因为 我 住 在 east side ok i'm staying in geylang so (eh) the distance is really very far 很 远 很 远
+NI36MBQ_0101 715596 717449 CS 住 hall 一个 月 百 六
+NI36MBQ_0101 720204 722223 CS 没有 就是 standard rate 百 六
+NI36MBQ_0101 722632 723138 ZH 嗯
+NI36MBQ_0101 725008 731899 CS 百 六 for a month 对 but 如果 你要 加 冰箱 这些 的话 right 就 更 贵 orh
+NI36MBQ_0101 733470 735951 ZH 因为 你 吃 电 嘛  就
+NI36MBQ_0101 737066 744490 ZH 啊 你 可以 加 冰箱 可以 加 电视机 自己 带 进来 的 啦 可是 那个 电 你 就要 付 啊
+NI36MBQ_0101 746710 750203 CS 你 要 declare 对 不然 是 illegal 的 嗯
+NI36MBQ_0101 751016 754172 CS 对 哦 then hall 真的 是 蛮 好玩 的 啦
+NI36MBQ_0101 755145 763110 CS but (er) one thing 是 你 要 懂得 怎么 control yourself lor because uni right 大学 就是 independent learning
+NI36MBQ_0101 763412 765900 CS 没有 人 去 管 你 whether 你 要 去 读书 还是 什么 的
+NI36MBQ_0101 766320 774341 CS so it's really 靠 自己 啊 in a way 你 懂 几时 要 读书 就 真的 去 读书 哦 几时 玩 就 ok go and enjoy
+NI36MBQ_0101 775054 779110 CS but mostly 是 在 玩 啊  ok so (er)
+NI36MBQ_0101 779915 787980 CS ok 我 家里 有 sister or brother 吗 对 我 有 一个 我 有 一个 没有 我 有 一个 姐姐 一个 哥哥 我 最小 嗯
+NI36MBQ_0101 789999 790350 ZH 对
+NI36MBQ_0101 792960 795386 ZH 然后 (呃)
+NI36MBQ_0101 799995 800982 ZH 今年
+NI36MBQ_0101 802540 806773 ZH 你 有 做 比 (啊) 这个 不要 讲 了 你 哇
+NI36MBQ_0101 812140 821281 CS 比较 the food in 食堂 还是 in the campus and outside restaurant ok can b right 是 在 south spine
+NI36MBQ_0101 821774 829030 ZH 他们 的 食物 (呃) 还 过得去 啊 就是 吃 久 了 会 腻 的 那种 哦
+NI36MBQ_0101 829600 831400 CS can a 更 不要 讲 啦
+NI36MBQ_0101 831898 835668 ZH 真的 是 吃 来 吃 去 就是 那 几 间 根本 没有 什么 好吃 的
+NI36MBQ_0101 835941 842707 CS 然后 当然 是 outside restaurant 会 比较 好 啦 因为 有 比较 多 varieties what 对不对
+NI36MBQ_0101 843330 843915 ZH 嗯
+NI36MBQ_0101 845667 846589 EN (er)
+NI36MBQ_0101 848397 857590 CS 你 有 什么 问题 要 问 我 吗  我 觉得 这些 问题 (啧) 很 很 boring ah 
+NI36MBQ_0101 857590 859337 CS 你 来 interview 我 吧
+NI36MBQ_0101 865700 870646 CS 哦 我 是 从 菩提 小学 来 的 就是 maha-bodhi school
+NI36MBQ_0101 872613 875760 CS 啊 对 它 是 个 buddhist (er) missionary school
+NI36MBQ_0101 877614 879990 EN i am buddhist yes mm
+NI36MBQ_0101 883340 892168 CS fun times ah actually i do miss my friend ah even though 我们 现在 没有 联络 了 就 我 觉得 当 你 长大 之后 right
+NI36MBQ_0101 892370 896243 ZH 你 的 朋友 就 好像 越来越 少
+NI36MBQ_0101 897372 904380 CS i mean 真正 true friend lah 你 不 觉得 咩 就 like 可能 j. c. oh (er)
+NI36MBQ_0101 904550 908149 CS 我 觉得 两年 啊 时间 很 短 啊 就-
+NI36MBQ_0101 910006 916914 CS 对 哦 就 好像 不 熟 了 所以 我 觉得 中学 会 比较 久 啊 那个 那种 friendship
+NI36MBQ_0101 917518 917921 ZH 嗯
+NI36MBQ_0101 918596 923525 CS but 现在 我 就 mostly with uni friends oh ya
+NI36MBQ_0101 925860 935550 CS 中学 我 是 从 geylang methodist 的 也是 east side 的 它 是 一个 christian school 所以 我 是 从 一个 buddhist environment 变成 一个 christian environment
+NI36MBQ_0101 935830 936687 EN mm ya
+NI36MBQ_0101 936830 948626 CS (er) initially it is ah because of cultural shock everything they they will have like singspiration 就是 要 唱 那种 (啧) 歌 啊
+NI36MBQ_0101 950242 957782 CS 就 唱 哦 很 好听 啊  可是 有时候 praying 的 时候 like bible study 这种 就 听 就 好 了
+NI36MBQ_0101 958100 960418 CS mm 没有 什么 participate oh
+NI36MBQ_0101 962721 967350 CS oh ya ya ya of course 这种 在 missionary school 一定 会 时常 有 的
+NI36MBQ_0101 968058 973030 CS 就 你 要 i mean you must have faith in your religion ah
+NI36MBQ_0101 973330 977967 EN isn't what christians always talk about ya faith orh so i
+NI36MBQ_0101 979357 987131 CS i 坚持 我 的 religion ah although i never say christian is really bad i mean sometimes i do agree with their their thinking ya
+NI36MBQ_0101 987701 990311 CS then 他们 很 bonded lah 我 可以 这样 讲
+NI36MBQ_0101 990947 991310 EN ya
+NI36MBQ_0101 992038 993070 EN mm
+NI36MBQ_0101 993070 997517 CS then after that 我 就是 tampines junior college orh then 就 来到 n. t. u.
+NI36MBQ_0101 1002435 1005629 CS 哦 为什么 我 会 选 chemistry ah (erm)
+NI36MBQ_0101 1010387 1012049 ZH 为什么 啊 你 问
+NI36MBQ_0101 1014036 1024989 CS 因为 我 是 从 一个 biochemistry 的 background 来 then 我 可能 是 比较 保守 的 那种 我 不 不想 去 venture into 其它 的 area
+NI36MBQ_0101 1029676 1037319 CS (er) initially i had that idea but 后来 我 就 想到 其实 chemistry 只是 一个 basic ah
+NI36MBQ_0101 1037571 1042743 EN you can actually use that to venture into  ah many other areas
+NI36MBQ_0101 1046600 1053190 CS 啊 有 讲 过 啊  其实 已经 要 sign bond 了 没有 啦  就 (呃)
+NI36MBQ_0101 1054552 1065307 CS 老师 i don't mind being a teacher ah 就 我 enjoy teaching 我 以前 也是 做 过 relief teacher ah i mean (erm) in schools
+NI36MBQ_0101 1065922 1077001 CS then 会 有 它 的 stress ah but in terms of (er) 你 的 那个 (啧) 那种 enjoyment in teaching is is
+NI36MBQ_0101 1077661 1078882 ZH 是 值得 的 咯
+NI36MBQ_0101 1080348 1080867 ZH 啊
+NI36MBQ_0101 1083023 1086334 CS patient nah 可是 patient 也 会 有 limit 的 嘛
+NI36MBQ_0101 1087528 1091838 ZH 对 啊 现在 学生 越来越 难 教 了 真的 嗯 不容易
+NI36MBQ_0101 1096382 1096681 ZH 啊
+NI36MBQ_0101 1099549 1115058 CS 就 很难 (呃) 有时候 很难 translate english into chinese oh 因为 他 很 weak in chinese 所以 有时候 他 问 你 一个 英文 的 东西 你 要 跟 他 解释 in 华文 字 华文 的 内容 啊 还是 那些 textbook 还是 什么
+NI36MBQ_0101 1115448 1120018 CS 你 就要 慢慢 一个 一个 跟 他 translate orh which is the tough part lah
+NI36MBQ_0101 1120588 1128083 EN besides this i actually have another student (er) i am teaching sec four (er) pure chem and bio so-
+NI36MBQ_0101 1128083 1140434 CS ya then 那个 我 比较 可以 relate mah to my course 所以 我 觉得 for 那个 student 比较 容易 (呃) 沟通 啊 in a sense
+NI36MBQ_0101 1146134 1147017 ZH (啊)
+NI36MBQ_0101 1150003 1150484 ZH 啊
+NI36MBQ_0101 1153314 1162688 CS  o~ ok (er) so far 还 没有 啦 因为 so far mostly 就是 我 i am doing the talking ah so
+NI36MBQ_0101 1163194 1173574 CS 他 就 做 exercises 这些 咯 可是 我 蛮 stress 的 嘞 因为 他 家里 全部 都是 讲 英文 的 嘛 所以 很少 练习 讲 华文 讲 华语 所以 mm
+NI36MBQ_0101 1174340 1179017 CS 如果 没有 produce results 你 懂 parents 就会 这个 这个 那个 啦
+NI36MBQ_0101 1180925 1182795 CS so far not bad leh 他 的 妈妈
+NI36MBQ_0101 1183159 1192942 CS but 你 自己 也是 要 有 一个 standard mah baseline 在 那边 所以  对 哦 我 trying my best ah ya mmm
+NI36MBQ_0101 1194190 1198087 ZH 对 哦 还有 什么 问题 吗 哦 我 蛮 喜欢 这个 东西 的
+NI36MBQ_0101 1200554 1203560 CS 因为 这个 mic 可以 很 像 新闻 主播 这样
+NI36MBQ_0101 1206773 1212990 CS 不然 到 我 interview 你 了  啊 诶 我 问 嘛
+NI36MBQ_0101 1216052 1218895 ZH 哦 为什么 (呃) 你 会 在 这边 做工
+NI36MBQ_0101 1221894 1223738 CS 哦 你 现在 是 在 holiday 吗
+NI36MBQ_0101 1224984 1231010 CS 刚刚 拿 拿 result so you are applying for n. t. u. or n. u. s. or s. m. u.
+NI36MBQ_0101 1233495 1245011 CS ok but maybe you can try private uni as well which is 现在 的 很 i mean 现在 你 不是 不 应该 把 private uni 看成 的 like 如果 你 进 不了 local u. 才 进
+NI36MBQ_0101 1245071 1255509 CS 因为 有 很多 学生 其实 they are opting to go private uni (er) one thing is that 你 可以 在 读 part time course then at the same time 你 可以 gain work experience
+NI36MBQ_0101 1255996 1261672 CS which 现在 的 industry actually private industry lah 更 需要 找 这种 experienced worker
+NI36MBQ_0101 1262296 1268178 CS 像 我们 这种 a. level 出来 的 right 什么 work experience 都 没有 咯 我 跟 你 讲 很难 找到 工作 的
+NI36MBQ_0101 1270164 1274656 CS 有 啊 就 but it it's not applicable to 我 现在 读 的 东西 嘛
+NI36MBQ_0101 1275046 1284572 CS that's why 我 才 take up summer res~ research 这种 东西 啦 to actually boost up my credentials orh 就 我 的 resume 这些 嗯
+NI36MBQ_0101 1286468 1288207 ZH 然后 你 的 小学 是 哪 一 间 呢
+NI36MBQ_0101 1291476 1293982 CS unity 难道 是 联合 小学 吗
+NI36MBQ_0101 1294956 1301836 CS  不错 不错 ok 在 哪里 你 是 住 靠近 这边 的 吗 哦 所以 是 choa-chu-kang area
+NI36MBQ_0101 1302032 1307940 CS 哦 我 以前 的 那个 police 的 (呃) so called base ah 是 在 choa-chu-kang
+NI36MBQ_0101 1308565 1309941 EN sungei-tengah there
+NI36MBQ_0101 1311201 1312514 EN ya all the camp site ah
+NI36MBQ_0101 1313034 1313436 ZH 嗯
+NI36MBQ_0101 1314968 1318227 EN so (er) do you enjoy your current work 
+NI36MBQ_0101 1319552 1322468 EN how do you actually how do you actually find this job
+NI36MBQ_0101 1325143 1329300 CS oh ok not bad 因为 对 哦 很 少 人 会 找到 uni 的
+NI36MBQ_0101 1332254 1333123 ZH 不容易 不容易
+NI36MBQ_0101 1335570 1339923 EN mm eh that is good have you considered signing a contract over here
+NI36MBQ_0101 1341507 1341987 EN no
+NI36MBQ_0101 1346502 1348579 EN oh so you are actually under a project
+NI36MBQ_0101 1349813 1351579 EN hm interesting
+NI36MBQ_0101 1354721 1361225 CS ok 不要紧 凡事 都是 由 不懂 到 懂 的 时候 (呃)
+NI36MBQ_0101 1363328 1366845 EN ok hall life ah (er) hall life
+NI36MBQ_0101 1371805 1374621 CS oh actually 我 以前 是 从 hall thirteen 的
+NI36MBQ_0101 1375206 1382373 CS so it's a different hall from hall six yah (er) hall thirteen 我 的 roomie 是 我 以前 的 squad mate
+NI36MBQ_0101 1383152 1390170 CS 他 叫做 alex lah 他 现在 已经 飞 去 上海 了 做 他 的 industrial attachment
+NI36MBQ_0101 1391270 1399734 ZH 有一点 想念 他  因为 他 是 我 蛮好 的 一个 朋友 然后 以前 一直 欺负 他 哦 就
+NI36MBQ_0101 1400786 1405690 ZH 我 记得 有一次 我 喝醉 酒 的 时候 就 吐 在 他 的 床上
+NI36MBQ_0101 1406109 1408874 CS then 害 得 他 要 在 桌子 上 睡觉
+NI36MBQ_0101 1409705 1417318 CS 然后 我 就 隔 天 起来 问 他 为什么 你 在 桌子 上 睡觉  then 他 就 讲 给 我 听 哦
+NI36MBQ_0101 1420981 1422580 CS hall six 是 因为 我 拿 不到
+NI36MBQ_0101 1423975 1434724 CS 所以 就 因为 你 懂 uni 有 一个 points system ah 你 要 参加 enough activities in hall plus your distance points 要 超过 十五分 你 才 可以 住 hall
+NI36MBQ_0101 1435555 1442685 CS 啊 which 很多 人 很难 拿到 十五 啊 最多 就是 十四 十三 十二 嗯
+NI36MBQ_0101 1443192 1452738 CS so i didn't meet the criteria that's why my friend actually pull me into hall six initially i was a squatter 你 懂 什么 是 squatter 吗 就是
+NI36MBQ_0101 1453517 1457529 CS 其实 一个 room 只能 住 两个 人 嘛 所以 我 就是 第三 个 人 咯
+NI36MBQ_0101 1458190 1462635 CS 啊 可是 是 bigger 的 啦 then 付 的 钱 也是 比较 少
+NI36MBQ_0101 1464111 1467682 CS 没有 床 睡 地上 but for 男孩子 应该 ok ah
+NI36MBQ_0101 1469573 1470235 EN um ok
+NI36MBQ_0101 1472092 1473027 ZH 然后 (呃)
+NI36MBQ_0101 1474676 1479534 CS 我 进 了 hall six 我 就 参加 了 hall production nah which is also known as hexis
+NI36MBQ_0101 1480339 1484336 CS hexis 就 我 在 里面 的 角色 就是 演 一个 老爸
+NI36MBQ_0101 1485546 1489355 CS 很 像 growing up 的 那种 东西 就
+NI36MBQ_0101 1490329 1504650 CS i enjoy myself ah because it it it's really a a great experience for me to actually know that i actually can act ah in a way ya because 以前 我 都 有 蛮 有 兴趣 in 这种 area 的 只是 没有 opportunity
+NI36MBQ_0101 1504650 1506710 CS cause hall thirteen 以前 没有 hall production
+NI36MBQ_0101 1507273 1510670 EN so i didn't manage to join (er) hall production
+NI36MBQ_0101 1511540 1512682 EN yup (erm)
+NI36MBQ_0101 1514604 1517595 CS then 除了 那个 我 还有 join in-sync ah
+NI36MBQ_0101 1517985 1524543 CS in-sync 在 hall six 是 一个 cultural night 这样 就 唱歌 唱 唱 流行歌曲
+NI36MBQ_0101 1525478 1532377 CS 所以 (呃) 就 每个 wednesday oh 就 有 practise session then (erm)
+NI36MBQ_0101 1534974 1536675 ZH 我 学 了 很多 新的 歌 啊
+NI36MBQ_0101 1536675 1545835 CS 因为 我 的 song bank oh 不是 说 很大 所以 去 了 那边 我 就 可以 学 很多 新的 流行歌曲 哦 which 蛮
+NI36MBQ_0101 1545835 1549053 CS 真的 很好 听 啊 then 可以 跟 人家 切磋 哦
+NI36MBQ_0101 1549728 1553031 CS 歌 歌 singing skill ya
+NI36MBQ_0101 1553446 1563400 CS 嗯  (er) so 现在 left with h. s. o. c which is hall six orientation camp for all the freshie ah
+NI36MBQ_0101 1564000 1566860 CS 嗯 then 就
+NI36MBQ_0101 1568023 1572573 CS 我们 在 做 canvassing orh so this is part of our canvassing event
+NI36MBQ_0101 1573417 1575936 CS 对了 then (er)
+NI36MBQ_0101 1578883 1583469 CS hall thirteen 我 去 过 overseas expedition lah 就 organized by hall thirteen
+NI36MBQ_0101 1584118 1588208 CS 我们 去 malaysia 去 actually go for a hike ah
+NI36MBQ_0101 1590135 1593238 EN ya cause i also enjoy hiking as well and
+NI36MBQ_0101 1594861 1606190 CS it was a a very fun experience orh because 我们 去 爬 那种 cave ah whereby 那个 洞 这么 小 哦 你 要 挤 进去 诶 then some more its flooded with water
+NI36MBQ_0101 1606568 1612040 CS so in a way 你 是 要 breathe in and go through it 的 那种 experience
+NI36MBQ_0101 1612534 1614092 CS ya then 我们 也 是 从
+NI36MBQ_0101 1614507 1618785 CS 我们 也是 有 stay in lke 那种 campsite then 他们 有 waterfall mah
+NI36MBQ_0101 1619000 1626397 CS malaysia 有 很多 waterfall lah so (er) apparently this is one of the better one so you can actually climb up and slide down
+NI36MBQ_0101 1627137 1627643 ZH 啊
+NI36MBQ_0101 1628760 1631875 CS 所以 很 很 喜欢 这种 东西 哦 actually 我 蛮 喜欢 这种
+NI36MBQ_0101 1636991 1644498 CS that's why hall six 的 人 都 叫 我 全 方位 艺人  没有 啦 没有 啦 开玩笑 就 (呃)
+NI36MBQ_0101 1645108 1646368 ZH 对 哦 其实 我 蛮 喜欢
+NI36MBQ_0101 1648134 1653625 CS 很多 东西 啦 but i'm 我 还在 找 一个 东西 that i am really good at you see
+NI36MBQ_0101 1654384 1661378 CS 那 so far 我 看到 哇 如果 是 sportsmen 的话 they're really good at sports 如果 是 cultural people they're really good at culture
+NI36MBQ_0101 1661625 1665280 CS but 我 很像 找不到 一个 我 我 很 厉害 的 东西 啊
+NI36MBQ_0101 1667961 1674350 CS but jack of all trades master of none mah so 就 真的 是 master of none 对 then
+NI36MBQ_0101 1675413 1680400 CS 因为 我 一直 看到  很 像 那种 学 钢琴 的 right 他们 小小 的 就 学 开始 学
+NI36MBQ_0101 1680859 1686611 CS then 学 到 现在 at least even though 他们 没有 practise but 那个 基础 还在 那边
+NI36MBQ_0101 1687026 1693052 CS but for i mean 我 没有 一种 从小 学 的 到 现在 的 东西 啦 so
+NI36MBQ_0101 1694558 1698697 CS 如果 你 要 跟 人家 讲 我 真的 very good at something 的话 actually i have nothing loh
+NI36MBQ_0101 1700495 1701443 EN which is quite sad lah
+NI36MBQ_0101 1701780 1702390 EN mm
+NI36MBQ_0101 1702793 1712621 CS but 不用 急 我 想 在 就 try to discover 我 自己 的 potential 所以 来 ya to slowly build up oh 嗯
+NI36MBQ_0101 1714478 1718625 CS then 我 我 还有 参加 过 什么 啊
+NI36MBQ_0101 1719433 1726104 CS 啊 哦 我 也是 hall thirteen 的 pageant ah 就 有 pageant 这种 东西 就 有 参加 哦 嗯
+NI36MBQ_0101 1726800 1733189 CS 不错 啊 那个 experience 也是 所以 我 真的 是 参加 蛮 多 东西 可是 就是 参加 而已
+NI36MBQ_0101 1737904 1741657 CS ah (er) actually c. o. 是 j. c. 的 时候 才 参加 的
+NI36MBQ_0101 1742488 1745851 CS secondary school 我 好像 不记得 我 参加 什么 东西 因为
+NI36MBQ_0101 1746553 1750280 CS 对 哦 but 其实 我 secondary school
+NI36MBQ_0101 1751202 1757050 CS 就是 代表 学校 学校 去 参加 那种 story telling competition
+NI36MBQ_0101 1757816 1758387 ZH 啊
+NI36MBQ_0101 1760555 1764888 CS 对 啊  就 cross talk (er) 我 以前 是 cross talk 的
+NI36MBQ_0101 1765264 1768520 CS 你 懂 什么 是 cross talk 吗 就是 讲 相声
+NI36MBQ_0101 1769406 1772260 ZH 啊 就 两个 人 在 那边 讲 来 讲 去 啦
+NI36MBQ_0101 1773421 1782378 CS 哦 你 也是 讲 过 对 哦 就 represent school ah so no~ not in really in a c. c. a ah ya but 就 被 拉 去 做 这种 东西 咯
+NI36MBQ_0101 1786097 1788512 CS which 我 觉得 
+NI36MBQ_0101 1788979 1792493 CS but 就 参加 了 没有 拿 到 什么 prize ah 嗯
+NI36MBQ_0101 1792680 1795536 CS 只是 参加 就是 back to 参加 而已
+NI36MBQ_0101 1796705 1799785 ZH 对 哦 然后 可能 明年 我 想 参加
+NI36MBQ_0101 1800213 1804536 CS 因为 你 看 啊 我 现在 已经  cultural 的 东西 我 做 过 了
+NI36MBQ_0101 1804978 1811157 CS sports 的 东西 我 在 hall thirteen 哦 我 是 sports manager ah for hall thirteen 就 管 table tennis 的
+NI36MBQ_0101 1812066 1818965 CS ya then 我 也 是 做 过 所以 可能 next year 我 打算 参加 w.s.c. ah in n.t.u.
+NI36MBQ_0101 1818965 1832365 CS 什么 是 w.s.c. 呢 就是 welfare service club so it's actually (er) doing something to the society back to so contributing back to the society oh 就 很 像 以前 我们 的 那种 c. i. p. points 的 那种 嗯
+NI36MBQ_0101 1832926 1836924 CS 我 不懂 你 有没有- i think 没有 你 的 batch 没有 了 这种 c. i. p. points ah
+NI36MBQ_0101 1837469 1837872 ZH 有 吗
+NI36MBQ_0101 1838339 1841955 CS 我 听说 好像 没有 了 诶 就 like 你 不用 work for the points already
+NI36MBQ_0101 1845095 1846823 CS six hours eh 以前 要 clock 八十 诶
+NI36MBQ_0101 1847914 1855745 CS  then 每个人 都是 去 chiong then 去 做 那种 老人 院  organise then 我们 还要 自己 organise eh
+NI36MBQ_0101 1856658 1864987 CS ya that's why 有些 人 直接 (er) pay money to go overseas 因为 that overseas trip right can clock for eighty hours one
+NI36MBQ_0101 1867697 1878734 CS 就是 学校 有 organise 那种 like overseas 的 (呃) 去 like 穷 的 国家 built 房子 这些 they will sign up ah so in a way 是 you pay the money for the hours oh
+NI36MBQ_0101 1879928 1881668 CS 不是 all the schools have such things
+NI36MBQ_0101 1882195 1882810 EN ya
+NI36MBQ_0101 1883810 1884343 EN mm
+NI36MBQ_0101 1887757 1888745 ZH 哦 我 二十
+NI36MBQ_0101 1889264 1893274 CS 二十三 还 没有 过 生日 啊 所以 二十二  ok
+NI36MBQ_0101 1895056 1896605 ZH 差 两 岁 啊 mm
+NI36MBQ_0101 1898266 1901437 CS 就 有 啊 因为 after 我 的 batch 就 已经 换 了 蛮 多 了
+NI36MBQ_0101 1904706 1909653 ZH 对了 嗯 然后 (呃) 还 有 什么 东西 啊
+NI36MBQ_0101 1910722 1911553 ZH 你 还要 懂 什么
+NI36MBQ_0101 1912072 1920958 CS 就 哦 w.s.c. club 对 w. s. c. club 就 我 可能 要 参加 (um) v. h. ah visually handicapped 就 以前 我 的 我 现在 的
+NI36MBQ_0101 1921283 1925855 CS 以前 的 roomie alex 他 在 里面 所以 我 可能 会 join 他
+NI36MBQ_0101 1929452 1940748 CS ok basically 他们 是 每个 星期六 会 从 会 在 一个 bus 会 带 他们 从 他们的 house 他们 的 residential area ah to 一个 main area oh
+NI36MBQ_0101 1941241 1945180 CS so 在 那边 他们 会 actually 教 他们 读书
+NI36MBQ_0101 1946348 1946933 ZH 然后
+NI36MBQ_0101 1947283 1954803 CS because they are also undergoing the normal stream ah ya studies 就是 course ah 中学 小学 那些
+NI36MBQ_0101 1954858 1963394 CS and 不要 小看 他们 其实 他们 hor 虽然 眼睛 看 不到 right 可是 他们 可以 do as what normal people do lah
+NI36MBQ_0101 1964017 1966069 CS 有些 可以 玩 p.s.p.
+NI36MBQ_0101 1966588 1972361 CS 还 可以 跟 你 讲 哇 这个- you can feel what 他们 已经 很 熟悉 了
+NI36MBQ_0101 1974790 1981881 CS 对 啦 这个 是 他们 就 可以 他们 真的 可以 picture ya then 他们 还可以 s.m.s.
+NI36MBQ_0101 1982232 1984504 CS 还 可以 跟 你 m.s.n.
+NI36MBQ_0101 1985413 1993543 CS 还 可以 跟 你 check website 因为 有 一种 program right whereby 你 open 那个 browser 它 可以 read every single word from the website mm
+NI36MBQ_0101 1994167 2003125 EN so now i'm thinking of like oh ok it comes to point whereby maybe i should join a c. c. a. whereby i can contribute back to the society
+NI36MBQ_0101 2003972 2008638 ZH 是不是 很 伟大  没有 啦 就 有 兴趣 啦
+NI36MBQ_0101 2011650 2020359 CS ok (er) 还有 deaf 的 穷 的 学生 也是 多 一个 project 那种 poor students financially poor student
+NI36MBQ_0101 2020501 2026551 CS then (erm) 还有 什么 还有 overseas 的 那种 project
+NI36MBQ_0101 2027849 2029914 CS mentally 也是 有 对
+NI36MBQ_0101 2032822 2037135 CS huh 哇 你 很 勇敢 唉 我 都 不敢 去 哦 等 一下 他 拿 刀 hello
+NI36MBQ_0101 2038109 2039662 CS but 你们 就 去 那边 做 什么
+NI36MBQ_0101 2042342 2042939 EN ok
+NI36MBQ_0101 2050472 2052737 CS oh ok 他们 很 恐怖 吗
+NI36MBQ_0101 2056536 2057659 CS wow 几岁
+NI36MBQ_0101 2060570 2061102 ZH 哦
+NI36MBQ_0101 2065322 2065958 EN ok
+NI36MBQ_0101 2067982 2070539 CS but 这样 的话 你们 去 那边 帮 他们 做 什么 啊
+NI36MBQ_0101 2078939 2083092 CS mm which 真的 帮 不 了 什么 right
+NI36MBQ_0101 2083936 2085001 ZH (嗯) 对
+NI36MBQ_0101 2091753 2093112 EN oh they are volunteers or what
+NI36MBQ_0101 2095345 2096799 EN oh ok social workers
+NI36MBQ_0101 2096884 2098331 ZH 真的了不起 哦
+NI36MBQ_0101 2099188 2099578 EN but-
+NI36MBQ_0101 2100331 2106271 CS i mean 如果 你 真的 要 我 这样子 的话 我 觉得 我 办不到 (呃) 办不到
+NI36MBQ_0101 2107039 2110610 EN  ok then (erm)
+NI36MBQ_0101 2112440 2118295 EN so far uni life has been quite (er) exciting for me lah mm
+NI36MBQ_0101 2118750 2119802 EN because ah
+NI36MBQ_0101 2120711 2127766 CS i think compared to 我 的 peers 我 应该 算是 参加 蛮 多 东西 的 嗯
+NI36MBQ_0101 2129269 2129760 EN ya
+NI36MBQ_0101 2131581 2132565 CS four years 对
+NI36MBQ_0101 2137926 2138809 ZH (呃) 
+NI36MBQ_0101 2139328 2140294 ZH 诶 有 东西 的
+NI36MBQ_0101 2140873 2142705 CS so 你 还 要 问 我 什么 东西 吗
+NI36MBQ_0101 2147349 2149569 ZH 对 哦 我 也是 不懂 你 怎么 讲 两个 钟头 的
+NI36MBQ_0101 2154919 2157640 EN phobia ah (er)
+NI36MBQ_0101 2158952 2163133 CS 其实 我 蛮 怕 我 蛮 不 喜欢 蟑螂 和 lizard
+NI36MBQ_0101 2165232 2169465 CS 超多 hall six 哇 its like 你 走 到 哪里 都 有 lizard 的
+NI36MBQ_0101 2170520 2173763 CS 除了 房间 啦 although 他们 也是 可以 跑 进来
+NI36MBQ_0101 2174177 2178325 CS 可是 就 i mean 它 不要 弄 到 我 我 是 ok 的 啦
+NI36MBQ_0101 2178890 2183279 ZH 它 就 不要 随便 随便 就 出现 在 你 面前 那种 啦 我 就 不 喜欢 啦
+NI36MBQ_0101 2184616 2188891 CS 打 ok oh lizard 它 会 掉 尾巴 吗 so 你 just chase 它 away ah
+NI36MBQ_0101 2190332 2196747 CS 蟑螂 就 直接 打 了 啦 不是 用 手 啦 用 拖鞋 of course 是 aim 了 then 就 丢
+NI36MBQ_0101 2198552 2199993 EN clean up ok ah
+NI36MBQ_0101 2201655 2204030 CS 就 ok ah  死掉 的 东西 就 很好-
+NI36MBQ_0101 2206225 2212823 CS (er) ok lah 讲 一下 n. s. day ah 就 ok (er) i was from b. m. t.
+NI36MBQ_0101 2213809 2214679 EN do you know what is b. m. t.
+NI36MBQ_0101 2216069 2226695 EN yup (er)ok three months then after that i was selected for police officer cadet course in in our home team academy lah home team so
+NI36MBQ_0101 2227331 2235695 CS i spent another nine months 九个 月 的 训练 在 (呃) sungei-tengah 那边 我们 的 home team academy
+NI36MBQ_0101 2236740 2244550 EN so for police officer we actually are train more in mental skills than physical
+NI36MBQ_0101 2245562 2254776 EN ya so we have to study (er) police laws i mean criminal laws all these thing (er) then
+NI36MBQ_0101 2257222 2267605 CS 我们 的 living environment 就是 两个 两个 的 咯 不 像 b. m. t. 的 时候 就 十四 个人 一起 睡 so what i find that 是
+NI36MBQ_0101 2268190 2276561 CS (嗯) 比较 more of like individual living right 减少 了 很多 interaction ah between your squad mate
+NI36MBQ_0101 2281283 2283516 CS 啊 they 分 给 我 不是 我 要 选 的
+NI36MBQ_0101 2286696 2289916 CS 哦 因为 police 他们 通常 都 觉得 很 seng-lang 的
+NI36MBQ_0101 2291046 2308075 CS 啊 对 but 就 it's a different like 我 的 我 的 (er) so called 我 的 course manager 跟 我们 讲 啦 police and army different balls of games one you cannot compare lah in a way
+NI36MBQ_0101 2308698 2315147 CS 我们 也有 我们 自己的 难处 也有 自己 的 advantage and disadvantage ah army 也是 有 自己的
+NI36MBQ_0101 2317873 2328008 CS (呃) 我们 没有 field training mm but for 我 的 course 因为 we are officer cadets so we actually undergo (er)
+NI36MBQ_0101 2329371 2333708 EN we actually went o. b. s. for training ah
+NI36MBQ_0101 2334461 2334968 EN ya
+NI36MBQ_0101 2336526 2337234 EN outward bound
+NI36MBQ_0101 2338323 2338977 EN mm
+NI36MBQ_0101 2339495 2343958 EN for twelve days ya in total
+NI36MBQ_0101 2344451 2346236 CS but 如果 你 要 让 我 选 的话
+NI36MBQ_0101 2347222 2355558 CS actually i don't know maybe i would like to go army a continue my stay in army because 如果 我 去 army 就 会 进 o.c.s. ah
+NI36MBQ_0101 2356026 2357933 CS then i think 会 蛮 比较 好玩 哦
+NI36MBQ_0101 2358530 2362763 CS i mean 对 啦 就 like all the training all these thing 会 比较
+NI36MBQ_0101 2363218 2367111 CS i think 那个 bonding 会 比较 够 啊
+NI36MBQ_0101 2371915 2375703 CS 就 alex oh  ah
+NI36MBQ_0101 2377443 2389530 CS 有 啦 因为 police 也是 有 蛮多 malay 的 啊 so 还是 会 有 一些 分歧 i don't know what do you call that
+NI36MBQ_0101 2389750 2392763 CS 那种 segregation ah different cliques ah
+NI36MBQ_0101 2400169 2403247 CS 哦 我们 有 自己 的 厕所 啊 两个 四个 人 share 一个 厕所
+NI36MBQ_0101 2404726 2411245 CS 啊 so 要 洗 咯 要 洗 自己 的 厕所 then 要 clean bunk 这些 normal things lah
+NI36MBQ_0101 2415489 2417761 ZH 早上 我 记得 话 是 六点 半
+NI36MBQ_0101 2418592 2424505 CS 起来 就 跑步 跑步 就 跑 either 外面 你 懂 那个 cemetery area 吗
+NI36MBQ_0101 2425452 2430585 CS 啊 还是 跑 自己 十 圈 这样 哦 after that 就是 唱 国歌
+NI36MBQ_0101 2431049 2433027 ZH 唱 国歌 后 就是 吃 早餐
+NI36MBQ_0101 2433404 2440518 CS 吃 早餐 后 回去 就 冲凉 休息 一下 then 就有 lesson at around (erm) nine thirty
+NI36MBQ_0101 2442605 2447085 CS mm nine thirty 就 上 上 上 到 下午 就 去 吃 午餐
+NI36MBQ_0101 2447659 2454536 CS 吃 午餐 后 就 (er) after 吃 午餐 可能 有 next lesson cause we have a lot of lessons ah going on
+NI36MBQ_0101 2455056 2459254 CS then after that 就是 p. t. training 就是 physical training ah
+NI36MBQ_0101 2460235 2471179 CS then 就 o~ o.t.o.t 了 own time own target 你 就 可以 去 like play sports ah slack around 还是 (erm)
+NI36MBQ_0101 2471988 2475335 EN ya lah do whatever you want to do lah in the bunk or what
+NI36MBQ_0101 2477265 2480641 CS so 很 rigid lah 就 很多 东西 你 不可以 做
+NI36MBQ_0101 2481290 2484134 CS then but yet 就 很
+NI36MBQ_0101 2485419 2492475 CS 每天 就 过 一样 的 东西 咯 that's why you will get bored of it eventually- ten months 
+NI36MBQ_0101 2493494 2499991 EN after that i'm posted to a (er) police headquarter under ops department nah so (erm)
+NI36MBQ_0101 2501805 2505674 CS ok 虽然 是 讲 ops department but 我 的 是 under community involvement
+NI36MBQ_0101 2506180 2517410 CS 就是说 we outreach to the community like 你 你 receive 到 的 那种 c. s. s. p. ah 那种 police (er) neighbourhood watch 这种 东西 就是 under 我 department 做 的
+NI36MBQ_0101 2518176 2521885 CS then 我们 就 work like a event company 这样 哦
+NI36MBQ_0101 2521885 2526185 CS 有 event 的话 就是 under 我们 做 的 ops 的 event ah
+NI36MBQ_0101 2527329 2531601 EN mm then (er) i also write for my-
+NI36MBQ_0101 2533133 2537801 CS 因为 你 懂 如果 小学 的话 他们 有 订 这种 magazine ah
+NI36MBQ_0101 2538761 2541878 CS 啊 then 就 有 一个 叫做 s. i. archi
+NI36MBQ_0101 2542371 2548657 CS so i am the writer lah  ya then quite funny lorh 因为
+NI36MBQ_0101 2549598 2554469 CS (呃) 就 每个 星 每个 月 啊 就要 你 要 想 新的 story 出来 写
+NI36MBQ_0101 2555157 2562163 CS then 要 involve 一点 那种 law 的 那种 叫 小孩子 不要 偷 东西 还是 beware of strangers 这种
+NI36MBQ_0101 2562969 2563514 ZH (啊)
+NI36MBQ_0101 2564202 2566734 CS 对 就 蛮 interesting 的 啦
+NI36MBQ_0101 2567617 2573715 EN then i also enjoy myself in in my in my i mean ops department lah c.i.
+NI36MBQ_0101 2573936 2583624 CS because 那些 我 的 boss 这些 他 都 对 我们 这种 n. s. 的 (呃) 蛮好 的 哦 personnel ya then
+NI36MBQ_0101 2585038 2587712 EN mm we have we have
+NI36MBQ_0101 2590608 2593932 CS 在 office 不用 啦 but 你 出去 就要 啊
+NI36MBQ_0101 2595031 2595447 ZH 对 哦
+NI36MBQ_0101 2597576 2603302 CS (呃) 在 office i mean 不是 在 office 在 operation 的 时候 你 就要 带 real gun
+NI36MBQ_0101 2604393 2605927 EN ya it's taurus point three eight
+NI36MBQ_0101 2608706 2611887 ZH 对 啊 有 啊 不可能 是 假的 等一下
+NI36MBQ_0101 2613823 2615849 ZH 哦 真~ 那个 没有 子弹
+NI36MBQ_0101 2616901 2624850 CS so it's like 每次 你 下班 的 时候 你 就要 report off 你 就要 return all your guns all these all these thing you're not allowed to carry back home actually
+NI36MBQ_0101 2625511 2626282 EN ya it's loaded
+NI36MBQ_0101 2627199 2630263 EN mm anything
+NI36MBQ_0101 2631289 2634232 ZH 还 差 多久 啊 哇 半个 钟头 而已 啊
+NI36MBQ_0101 2635686 2637283 CS 哦 forty three 了 啊 不错 不错
+NI36MBQ_0101 2638802 2639570 ZH (呃)
+NI36MBQ_0101 2644400 2645841 CS 快点 你 要 prompt 我 question
+NI36MBQ_0101 2648999 2650596 CS then 你 是 从 哪 一间 中学 来 的
+NI36MBQ_0101 2652439 2656805 CS 哦 诶 是 在 你 是 在 新的 campus 还是 旧的 campus
+NI36MBQ_0101 2661119 2662664 ZH 啊 你 经过 三个
+NI36MBQ_0101 2664469 2665988 ZH 哇 哇
+NI36MBQ_0101 2668793 2673199 CS ok so is it true that river valley high 的 学生 都 很 snobbish
+NI36MBQ_0101 2674602 2678919 CS 不懂 诶 他们 每次 这样 讲 的 护士装 then 就 like-
+NI36MBQ_0101 2679888 2683021 ZH 啊 就 不懂 唉 很 清高 的 样子
+NI36MBQ_0101 2684615 2685329 ZH 你 不 觉得 啊
+NI36MBQ_0101 2686926 2687575 EN friendly ah
+NI36MBQ_0101 2692191 2694541 ZH 啊 会不会 啊 会 啊
+NI36MBQ_0101 2699410 2703466 CS 哦 是 吗 i thought 有 一个 high 的 学校 都是 蛮 厉害 的
+NI36MBQ_0101 2706426 2707231 EN oh ok
+NI36MBQ_0101 2710439 2712846 EN so do you enjoy your stay in river valley high
+NI36MBQ_0101 2715897 2716906 EN ok so-
+NI36MBQ_0101 2720970 2721554 EN mmhm
+NI36MBQ_0101 2724579 2729275 CS i see wow not bad so 你 有没有 想 过 回去 做 老师
+NI36MBQ_0101 2731027 2737953 CS 其实 你 可以 去 sign up for n. i. e. 然后 他们 有 bond 你 then 你的 fees 全部 都是 subsidized 的
+NI36MBQ_0101 2742205 2744820 CS 可是 那个 bond 不是说 很 长 啊 like four years
+NI36MBQ_0101 2747053 2749780 CS 哦 可能 a. level 直接 进去 就 six
+NI36MBQ_0101 2750015 2754138 CS 因为 我 朋友 是 在 读 然后 他 就 sign up 就 four years 而已
+NI36MBQ_0101 2754995 2756423 CS then somemore 他 真的
+NI36MBQ_0101 2757395 2759263 EN heavily subsidized your school fees
+NI36MBQ_0101 2764303 2764849 ZH 嗯
+NI36MBQ_0101 2766692 2769590 EN huh wow  ok
+NI36MBQ_0101 2772129 2775491 CS then 你 有 想 过 你 现在 要 apply 什么 course 吗 还是
+NI36MBQ_0101 2776816 2779180 CS 打算 什么 healthcare ah
+NI36MBQ_0101 2781090 2786206 CS ok 那个 (呃) 有 一个 是 physio 的 right
+NI36MBQ_0101 2788063 2794011 CS those ah my friend is inside graduate 了 so 他 也是 从 a. level jump 去 那边
+NI36MBQ_0101 2794505 2797273 CS 然后 他 现在 在 hospital 做工
+NI36MBQ_0101 2798517 2803294 CS  就是 这样 的 path orh 给 你 看 一下 对的
+NI36MBQ_0101 2804306 2806299 EN (erm)
+NI36MBQ_0101 2817532 2821215 CS  其实 initially 就 是 被逼 过来 的 智凯 啊
+NI36MBQ_0101 2822946 2824024 ZH 哦 对 哦
+NI36MBQ_0101 2826582 2828434 CS 他 讲 什么 啊 我 很 interested
+NI36MBQ_0101 2829446 2830823 ZH 哇 他 这么 厉害 讲话 啊
+NI36MBQ_0101 2834770 2842525 CS 哇  他 这么 厉害 啊 我 不懂 他 有 这么 多 话 讲 的 诶 他 看起来 本来 看起来 就 quiet quiet 的 那种
+NI36MBQ_0101 2843790 2844335 ZH 不会 诶
+NI36MBQ_0101 2846613 2847249 ZH 哦
+NI36MBQ_0101 2849482 2852456 ZH 就 对 哦 我 也是 不懂 要 讲 什么
+NI36MBQ_0101 2856053 2856429 ZH 就
+NI36MBQ_0101 2857325 2858771 EN we are paid right for this study
+NI36MBQ_0101 2860329 2861208 ZH 就 赚钱 咯
+NI36MBQ_0101 2866668 2873532 CS 哦 十五 块 啊 其实 for 一个 钟头 十五 块 应该 算 ok market price
+NI36MBQ_0101 2874693 2885651 CS 对 如果 你 去 h. s. s. 的话 (呃) 他 they are paying half an hour for four bucks 就是 叫 你 去 喝 水 啊 叫 你 去 填 一个 survey 这样 就 四块钱 啦
+NI36MBQ_0101 2886144 2890686 CS 这个 需要 讲 很多 话 啦 所以 i think 十五 块 就 刚刚 好 哦
+NI36MBQ_0101 2891635 2893684 ZH 嗯 对
+NI36MBQ_0101 2899801 2900675 EN from your side
+NI36MBQ_0101 2901918 2902710 EN computer engineering
+NI36MBQ_0101 2904722 2905865 EN oh from outside
+NI36MBQ_0101 2908163 2912666 CS of course mah 你 叫 他们 travel 到 这边 then 讲 一个 钟头 你 给 他 十五块
+NI36MBQ_0101 2916826 2919280 ZH 哦 真的 吗 
+NI36MBQ_0101 2922032 2928654 CS oh fifteen per hour 比 我 教 补习 诶 还 少 对 啊 so 你 现在 教 的 补习 的 rate 多少
+NI36MBQ_0101 2930900 2932405 EN huh oh
+NI36MBQ_0101 2935901 2938900 CS 对 啦 对 啦 but 你 以前 教 的 是 什么 rate
+NI36MBQ_0101 2939212 2941668 CS primary school 应该 是 around 二十 吧
+NI36MBQ_0101 2943914 2944823 ZH 没有 那么 高 啊
+NI36MBQ_0101 2947290 2952728 CS 不是 p. c. m. e. 吗 诶 不是 i mean 不是 (er) english maths science chinese 全部 吗 bao ga liao
+NI36MBQ_0101 2953534 2954209 ZH 哦
+NI36MBQ_0101 2958345 2958838 ZH 喔
+NI36MBQ_0101 2963071 2965929 CS wow 这种 parents ah
+NI36MBQ_0101 2967215 2967849 ZH (呃)
+NI36MBQ_0101 2971032 2971850 ZH 就 问 你 什么 啊
+NI36MBQ_0101 2976008 2977514 ZH 啊 哎哟
+NI36MBQ_0101 2981318 2982656 ZH 哟 什么 学校 的
+NI36MBQ_0101 2984850 2985507 ZH 什么 来的
+NI36MBQ_0101 2986705 2988087 EN oh ok ok
+NI36MBQ_0101 2988468 2989195 EN so- (tsk)
+NI36MBQ_0101 2990805 2992483 CS primary four 没有 二十 咩
+NI36MBQ_0101 2998232 3002867 ZH mm 对 啦 (嗯)
+NI36MBQ_0101 3005970 3008277 CS then 你 打算 做 这个 工 做 到 几时
+NI36MBQ_0101 3013522 3014107 EN ok
+NI36MBQ_0101 3015913 3018030 ZH 七月 啊 哦 还有 几个 月
+NI36MBQ_0101 3021293 3027958 EN seven or more than that oh that's very good you're what what you call your job ah designation
+NI36MBQ_0101 3037823 3042655 CS oh but 你 的 description of the job 是 什么 就 他 有没有 给 你 一个 title for it
+NI36MBQ_0101 3043445 3046196 CS 就 temp staff 这样 啦
+NI36MBQ_0101 3049557 3053327 CS cause 改次 你 可以 将 它 写 一个 resume 里面 对不对
+NI36MBQ_0101 3054400 3055845 CS then 你 就要 (啧) -
+NI36MBQ_0101 3058105 3059013 ZH 对 啦 要 想
+NI36MBQ_0101 3060015 3064939 CS 啊 我 不懂 学校 会 给 这么 多 钱 改次 我 可以 work in school as well
+NI36MBQ_0101 3071548 3072886 EN but cannot compare what
+NI36MBQ_0101 3075017 3078077 EN mm do you have any friends here
+NI36MBQ_0101 3079198 3079847 EN no right
+NI36MBQ_0101 3081381 3082212 CS 哦 很 sian 哦
+NI36MBQ_0101 3085614 3086159 EN ok
+NI36MBQ_0101 3090235 3092884 EN (em) what's the working hour
+NI36MBQ_0101 3096598 3099460 EN wow ten ah then they pay you by hour or what
+NI36MBQ_0101 3101241 3103994 ZH 可以 早 一点 来 吗  赚 多 一个 钟头
+NI36MBQ_0101 3108288 3108912 EN wow
+NI36MBQ_0101 3112807 3113469 EN mm
+NI36MBQ_0101 3114482 3115157 EN ok
+NI36MBQ_0101 3116287 3117455 EN mm
+NI36MBQ_0101 3122197 3125300 EN ok let's count down  oh
+NI36MBQ_0101 3130305 3138316 CS (呃) 会 啦 就 没有 topic 讲 啊 如果 是 如果 我 是 一个 d. j. 的话 如果 有 东西 讲 当然 是 don't mind talking ah
+NI36MBQ_0101 3144944 3151359 CS generally like ah (er) 就 那种 慢 歌 emotional type 的
+NI36MBQ_0101 3151852 3157119 CS 情歌 啊 就 like 李圣杰 的 还是 那种 (嗯)
+NI36MBQ_0101 3158261 3163864 CS 那个 谁 啊 ya michael-buble ya 还是 (嗯)
+NI36MBQ_0101 3166219 3168569 EN more into chinese song ah ya
+NI36MBQ_0101 3170188 3172992 EN ya lor then -(um)
+NI36MBQ_0101 3176966 3184452 CS actually 光良 唱歌 (啊) 不错 j. j. 也是 对 他们 都是 very good singer 嗯
+NI36MBQ_0101 3185441 3190036 CS 诶 有没有 兴趣 来 这个 因为 今天 有 一个 peter-chen 的
+NI36MBQ_0101 3191583 3197260 ZH 就是 (啊)  陈彼得 老师 的 音乐班
+NI36MBQ_0101 3198911 3203115 CS ya i got the tickets ah but i cannot go 你 要 去 吗
+NI36MBQ_0101 3203895 3207129 CS  七点 在 l. t. twenty seven
+NI36MBQ_0101 3208618 3209729 ZH 他 教 你 怎么 唱歌
+NI36MBQ_0101 3210917 3216209 CS just for one day then 后来 就会 他 会 有 一些 students (er) 唱歌 给 你 听 咯
+NI36MBQ_0101 3218274 3219274 CS c.a.c. 的 嘛
+NI36MBQ_0101 3219932 3226780 CS 因为 我 朋友 是 c. a. c. club 的 so 他 给 我 这个 tickets lah which i think 蛮 多 人 都要 的
+NI36MBQ_0101 3227175 3231216 CS but 我 现在 是 我 不可以 去 因为 我 有 quiz lah 我要读 for 我的 quiz
+NI36MBQ_0101 3234817 3236915 EN saturday 
+NI36MBQ_0101 3237400 3238012 ZH 对
+NI36MBQ_0101 3239279 3239526 ZH 要
+NI36MBQ_0101 3240772 3243157 CS 而且 不容易 呀 thermal dy ah
+NI36MBQ_0101 3245446 3251045 CS thermal dynamics 你 你 是 take 什么 course 的 啊 ok
+NI36MBQ_0101 3253541 3255567 CS 哦 but art 也是 cross fac right
+NI36MBQ_0101 3258255 3260911 CS 这样 maths 而已 啊 哇 这么 爽
+NI36MBQ_0101 3263106 3264443 CS 哦 econs 也是 啊
+NI36MBQ_0101 3268419 3274341 CS ok 我 没有 take 过 econs but i tried a module in uni ah
+NI36MBQ_0101 3275210 3279326 EN turn out to be ok orh i mean just need to mug ah for that
+NI36MBQ_0101 3280217 3280607 ZH 嗯
+NI36MBQ_0101 3284035 3289590 CS ya i think - 对 哦 你们 还要 macro micro 这些 right 什么 sai ah 对 啊
+NI36MBQ_0101 3290733 3292447 CS then 你 history 不是 很 强
+NI36MBQ_0101 3297589 3298310 ZH 是 咩
+NI36MBQ_0101 3304445 3305055 ZH 真的 吗
+NI36MBQ_0101 3305873 3314282 CS 哦 对 no wonder 我 一直 读 不懂  就是 没有 读 history 的 可能 咯 可能 我 要 去 读 一下 history
+NI36MBQ_0101 3314521 3321036 CS but 不懂 怎么 approach eh 因为 你 都 不懂 从 哪里 start 起 还是 just grab any book and start reading 是不是 这样
+NI36MBQ_0101 3324829 3325868 EN oh ok
+NI36MBQ_0101 3326740 3329532 CS history mm then literature 好读 吗
+NI36MBQ_0101 3331441 3333505 CS 就 读书 right
+NI36MBQ_0101 3333830 3337608 EN so you are you i can say your language is very strong ah
+NI36MBQ_0101 3340636 3341646 EN it's not lah
+NI36MBQ_0101 3343038 3348881 EN ok i thought lit students wah their english ah like oh queen english ah
+NI36MBQ_0101 3352246 3356388 EN no meh but your understanding of your passage of the story
+NI36MBQ_0101 3367013 3367350 EN oh
+NI36MBQ_0101 3368311 3368818 EN oh is it
+NI36MBQ_0101 3372648 3373752 EN but what do you base on
+NI36MBQ_0101 3374115 3381565 CS i mean your own personal opinion but your own person opinion 一定 是 must be has some concrete things to fall on right
+NI36MBQ_0101 3382144 3383825 EN so what are the things
+NI36MBQ_0101 3388033 3393827 CS 哦 我 记得 以前 sec one 的 时候 我 有 学 过 就是 personalization all these thing right
+NI36MBQ_0101 3394356 3395382 EN metaphor
+NI36MBQ_0101 3396511 3399856 EN so it's the same thing but i thought you need to read storybook already right like what
+NI36MBQ_0101 3401570 3402078 ZH 啊
+NI36MBQ_0101 3403829 3405859 EN ah which is quite interesting what
+NI36MBQ_0101 3411891 3412339 EN wow
+NI36MBQ_0101 3420905 3422217 EN ya old english ah
+NI36MBQ_0101 3423918 3430554 CS oh ok just like bible lah 有 new testament and old testament
+NI36MBQ_0101 3431191 3432541 ZH 嗯 应该 是 啦
+NI36MBQ_0101 3434580 3435891 ZH 哦 还有 三 分钟
+NI36MBQ_0101 3437488 3439402 ZH 不错 啊 这样 讲话 就 有 钱 赚
+NI36MBQ_0101 3441636 3442804 CS then 你们 还有 什么 project
+NI36MBQ_0101 3446466 3446894 ZH 啊
+NI36MBQ_0101 3448037 3449114 ZH 诶 要不要 请 我 啊
+NI36MBQ_0101 3451538 3453498 CS 对 啊 i don't mind i mean
+NI36MBQ_0101 3453888 3455808 CS 就 多少钱 啊 也是 fifteen
+NI36MBQ_0101 3457054 3458080 CS but 有 script 读 啊
+NI36MBQ_0101 3463451 3464490 EN oh ok
+NI36MBQ_0101 3464892 3467785 EN but i mean it's ok right if you don't know how to u~
+NI36MBQ_0101 3470787 3471415 EN ok
+NI36MBQ_0101 3472332 3473973 ZH 如果 有空 的话 我 一定 会 来
+NI36MBQ_0101 3476790 3477297 EN (eh)
+NI36MBQ_0101 3478076 3480785 EN (er) late april to may early may
+NI36MBQ_0101 3483544 3486206 CS 嗯 so in 这个 period i think 你 找不到 人 的
+NI36MBQ_0101 3489292 3489759 ZH 对 哦
+NI36MBQ_0101 3493655 3494590 CS 哦 有 quiz 吗
+NI36MBQ_0101 3497576 3498394 ZH 算分
+NI36MBQ_0101 3499938 3500406 ZH 而且
+NI36MBQ_0101 3501237 3505611 CS 不容易  quiz is good lah in a way 它 帮 你 去 读 咯
+NI36MBQ_0101 3505611 3511379 CS 不然 你 不会 去 读书 的 so but 它 也 可以 pull 你 的 grades down ah
+NI36MBQ_0101 3512327 3512768 ZH 嗯
+NI36MBQ_0101 3519237 3522509 EN (er) no mm second upper will be good lah
+NI36MBQ_0101 3522821 3523184 EN ya
+NI36MBQ_0101 3523976 3525021 EN try to maintain oh
+NI36MBQ_0101 3525597 3528317 CS because 在 uni right 太多 强的 人 了
+NI36MBQ_0101 3528973 3530220 EN very difficult to -
+NI36MBQ_0101 3531596 3533535 EN muggers is common in unis
+NI36MBQ_0101 3533829 3536225 EN we don't- we don't call ourselves muggers
+NI36MBQ_0101 3536345 3539058 CS  就 like 每个人 都会 mug
+NI36MBQ_0101 3540136 3550136 CS ya 是 很 common 的 是 看 你 是 to what extent you know 有些 人 是 like 哇 真的 是 回去 hall 就是 读书 读书 读书 no life 的 那种
+NI36MBQ_0101 3551613 3553066 ZH 那种 就 很 sian 啊
+NI36MBQ_0101 3554236 3555694 CS 就是 a. t. lah
+NI36MBQ_0101 3557326 3557904 EN ah-tiong lorh
+NI36MBQ_0101 3559645 3562025 CS  oh 你 的 professor 好像 也是 哦
+NI36MBQ_0101 3565906 3567334 EN nice person lah looks like a nice person
+NI36MBQ_0101 3570230 3572825 CS (呃) 有一点 sarcastic 的 tone 在 里面
+NI36MBQ_0101 3573696 3575845 CS 哦 真的 啊 ok lah that's good
+NI36MBQ_0101 3579619 3581720 EN oh ok thank you very much

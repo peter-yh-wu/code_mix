@@ -1,0 +1,538 @@
+11NC21FBP_0101 8510 9720 CS today 啊 今天
+11NC21FBP_0101 10497 12882 EN i am not sure leh (erm)
+11NC21FBP_0101 14930 17050 CS 我 不可以 remember 了 咧
+11NC21FBP_0101 19502 23345 ZH 哦 我 到 学校 十二点
+11NC21FBP_0101 23990 24495 ZH 半
+11NC21FBP_0101 26867 29672 EN twelve thirty yeah you
+11NC21FBP_0101 34247 35984 CS 十一点 so early
+11NC21FBP_0101 37608 38139 ZH 对
+11NC21FBP_0101 44948 48385 CS 我 直接 去 那个 caroling 的 room 咯
+11NC21FBP_0101 51040 52660 CS caroling 你 不是 也是 在
+11NC21FBP_0101 52660 54233 CS 那个 caroling 的
+11NC21FBP_0101 55394 56169 CS then 你 没有
+11NC21FBP_0101 57039 57487 EN <unk>
+11NC21FBP_0101 59563 60068 EN we were
+11NC21FBP_0101 62004 62642 EN oh my god
+11NC21FBP_0101 62642 63789 EN 
+11NC21FBP_0101 76214 77280 EN okay
+11NC21FBP_0101 83731 84490 EN oh
+11NC21FBP_0101 85444 86200 EN okay okay
+11NC21FBP_0101 87995 88556 ZH 好
+11NC21FBP_0101 89398 89903 EN okay
+11NC21FBP_0101 92596 93101 EN walau
+11NC21FBP_0101 106200 108501 EN 
+11NC21FBP_0101 115289 116355 EN oh
+11NC21FBP_0101 131362 131783 ZH 好
+11NC21FBP_0101 145400 147090 CS 你 的 favourite fruit 是 什么
+11NC21FBP_0101 153273 154392 CS 为什么 banana
+11NC21FBP_0101 160129 161168 ZH 水果 是 什么
+11NC21FBP_0101 166440 167245 EN no
+11NC21FBP_0101 168180 170890 CS no yes i am 跟 你 开玩笑 的
+11NC21FBP_0101 173612 176012 ZH 不 不就是 水果 咯 你 刚才 讲 了
+11NC21FBP_0101 181636 182337 ZH 鸡
+11NC21FBP_0101 183090 183766 EN 
+11NC21FBP_0101 185064 185947 EN chicken
+11NC21FBP_0101 186388 187170 CS chicken 什么
+11NC21FBP_0101 187575 190050 CS chicken rice 有 chicken (呃)
+11NC21FBP_0101 190465 192569 EN seafood chicken 
+11NC21FBP_0101 197190 200157 CS 有 啊 你 可以 把 那个 seafood 放在 chicken 里面
+11NC21FBP_0101 202624 203195 EN why not
+11NC21FBP_0101 203860 209550 CS 好像 好像 那个 ginseng chicken 你 把 它 的 东西 放在 那个 chicken 里面
+11NC21FBP_0101 211090 211609 EN 
+11NC21FBP_0101 216958 218049 ZH 哦
+11NC21FBP_0101 219639 220594 CS 还有 什么 chicken
+11NC21FBP_0101 226940 228580 CS but 你 说 你 喜欢 chicken 嘛
+11NC21FBP_0101 234103 234960 EN any kind
+11NC21FBP_0101 238621 239219 EN 
+11NC21FBP_0101 243160 246900 CS but you can't 吃 那个 chicken you find on the streets 嘛
+11NC21FBP_0101 249325 250001 EN 
+11NC21FBP_0101 254272 254791 ZH 哦
+11NC21FBP_0101 261022 261713 EN hair colour
+11NC21FBP_0101 262190 263770 CS hair colour 我 喜欢 金色
+11NC21FBP_0101 266477 267572 ZH 因为 我 没有 钱
+11NC21FBP_0101 268180 270590 CS i got no money to to 染 我 的
+11NC21FBP_0101 271039 272476 EN my my hair
+11NC21FBP_0101 275651 276688 ZH 不是 我 的 车
+11NC21FBP_0101 277934 278921 EN 
+11NC21FBP_0101 282202 285465 CS my daddy 他 不会 让 我 run
+11NC21FBP_0101 286650 287700 CS blonde colour 的
+11NC21FBP_0101 289075 290087 ZH 因为
+11NC21FBP_0101 290716 295305 CS 他 就是 不喜欢 咯 因为 我 这样子 会 像 ang-mo
+11NC21FBP_0101 298151 302116 EN ang-mo is red hair  people
+11NC21FBP_0101 305388 305855 EN eh
+11NC21FBP_0101 307068 309191 EN red ang red
+11NC21FBP_0101 310426 312789 EN red oh caucasian
+11NC21FBP_0101 319356 321944 CS t. v. shows 像 什么样 的
+11NC21FBP_0101 325077 325852 ZH 我 喜欢
+11NC21FBP_0101 326550 328710 CS 我 喜欢 看 hong-kong drama
+11NC21FBP_0101 332247 334990 CS 我 是 不懂 它 的 name and title 啦
+11NC21FBP_0101 336401 337860 CS but 我 只是 知道
+11NC21FBP_0101 338593 339909 CS 我 喜欢 hong-kong drama
+11NC21FBP_0101 340402 340974 EN 
+11NC21FBP_0101 344947 345700 EN 
+11NC21FBP_0101 347291 347564 ZH 对
+11NC21FBP_0101 351888 356920 CS 我 是 偶尔 会 like sit down in front of the t. v. and 就 这样子 看 咯
+11NC21FBP_0101 363961 365104 EN 
+11NC21FBP_0101 365779 366480 EN 
+11NC21FBP_0101 370360 374410 CS then 你 在 computer 看 的 都是 movies 电影 这些 是 吗
+11NC21FBP_0101 375647 375903 CS then 你
+11NC21FBP_0101 377906 379698 CS then 你 喜欢 看 什么样 的 电影
+11NC21FBP_0101 392194 393233 EN horror
+11NC21FBP_0101 394180 396740 CS 那种 日本 the ring
+11NC21FBP_0101 397154 397881 ZH 还有
+11NC21FBP_0101 399360 400920 CS 那个 不是 很 exciting 咯
+11NC21FBP_0101 401720 405240 CS 我 以为 男孩子 都 喜欢 exciting 的 movie
+11NC21FBP_0101 411519 414504 CS 哦 那 r. a. 的呢
+11NC21FBP_0101 417388 417874 ZH 哦
+11NC21FBP_0101 421434 425666 CS so 你 几时 你 从小 就 看 r. a. 了 吗
+11NC21FBP_0101 428350 429362 EN 
+11NC21FBP_0101 440113 442416 CS fifteen fifteen 不是
+11NC21FBP_0101 442416 443390 EN 
+11NC21FBP_0101 443390 447779 CS 不是 illegal 咯 因为 r. a. 不就是 二十一岁 以上 吗
+11NC21FBP_0101 450220 451674 ZH 哦 还有 什么
+11NC21FBP_0101 452377 453208 EN 
+11NC21FBP_0101 456662 457700 EN 
+11NC21FBP_0101 462890 467594 CS 那 你 现在 still got still still do all those kind of thing
+11NC21FBP_0101 469570 473680 CS 就是说 你 有空 的 时候 就 indulge in 这些 东西 啦
+11NC21FBP_0101 476065 478896 ZH 哦 那 你 还有 做什么 东西 呢
+11NC21FBP_0101 484090 486890 CS 你 可以 示范 like maybe one phrase
+11NC21FBP_0101 487699 488764 EN 
+11NC21FBP_0101 490270 491049 EN 
+11NC21FBP_0101 492050 495150 CS 你 不是 说 你 有 去 那个 caroling 你 可以 唱歌 的 吗
+11NC21FBP_0101 513231 516046 EN christmas carols so like (erm)
+11NC21FBP_0101 516450 518850 CS 比如 什么样 的 christmas carol
+11NC21FBP_0101 536890 541270 CS 你 有 自己 try 写过 自己 的 christmas carol 吗
+11NC21FBP_0101 544389 547234 ZH 我 也 没有 我 只是 喜欢 听 而已
+11NC21FBP_0101 548455 549571 ZH 嗯 对
+11NC21FBP_0101 554990 557020 CS 最近 我 不是 有 去 australia 咯
+11NC21FBP_0101 557855 560296 CS 嗯 australia 是 很 很 好玩 啊
+11NC21FBP_0101 560764 561809 CS 我 去 perth
+11NC21FBP_0101 562423 563361 CS perth 你 有 听过 吗
+11NC21FBP_0101 564900 568120 CS 哦 因为 我 的 boyfriend 在 perth 所以 我 去 看 他
+11NC21FBP_0101 569884 570707 EN 
+11NC21FBP_0101 570707 571806 ZH 帮 他 做 事
+11NC21FBP_0101 573425 575753 ZH (呃) 我 帮 他 搬家
+11NC21FBP_0101 577110 584410 CS move his furniture and stuff 因为 他 他 刚刚 (呃) 搬进 (呃) 买 买了 一个 new new house
+11NC21FBP_0101 584830 589540 CS yeah 所以 我 去 (呃) 帮 他 看看 furniture 这些 的 东西
+11NC21FBP_0101 596377 597300 ZH 他 已经
+11NC21FBP_0101 597618 601878 CS 他 他 是 读书 but 现在 他 有 holiday 嘛
+11NC21FBP_0101 602255 605700 ZH 所以 他 有 空 我 就 过去 看 他 一下 咯
+11NC21FBP_0101 611543 618428 CS (呃) 其实 今年 我 已经 去 过 四 ~ like three three times already
+11NC21FBP_0101 625515 628972 CS yeah because 他 不可以 come back to singapore
+11NC21FBP_0101 629726 630092 ZH 嗯
+11NC21FBP_0101 632164 634864 CS 不是 是 我 (呃) 别人 sponsor 的
+11NC21FBP_0101 635724 636477 ZH 嗯
+11NC21FBP_0101 641806 644169 CS 没有 是 我 自己 pump petrol
+11NC21FBP_0101 645490 647020 CS petrol 很 贵 你 知道 吗
+11NC21FBP_0101 650050 651051 ZH 我 自己 的 钱
+11NC21FBP_0101 652953 654102 ZH 我 自己 做工
+11NC21FBP_0101 654550 656460 EN i work and earn my own money
+11NC21FBP_0101 657309 658166 EN 
+11NC21FBP_0101 659615 662930 CS 我 去 一个 小小 的 office 做工
+11NC21FBP_0101 665950 668500 CS this small office 就在 paya-lebar
+11NC21FBP_0101 670273 675570 EN i do (erm) just some basic admin and accounting stuff
+11NC21FBP_0101 679543 683264 EN not yeah but not as interesting as you
+11NC21FBP_0101 684503 685101 EN 
+11NC21FBP_0101 686586 687443 ZH 因为
+11NC21FBP_0101 688135 691693 CS 因为 你 不是 有一个 很 精彩 的 那个 job 咯
+11NC21FBP_0101 692147 694370 CS 在 finance 的 company 不是 吗
+11NC21FBP_0101 710508 711521 EN so
+11NC21FBP_0101 712690 715760 CS so what kind of job are you looking for 现在
+11NC21FBP_0101 740247 743390 ZH 银行 银行 不是 很 闷 咯
+11NC21FBP_0101 743390 747259 CS 你 不是 只是 like count money and just talk to
+11NC21FBP_0101 751815 752436 ZH 是吗
+11NC21FBP_0101 769700 770356 EN <unk>
+11NC21FBP_0101 783358 784604 EN 
+11NC21FBP_0101 786110 786759 EN 
+11NC21FBP_0101 792240 795080 CS for example 什么 什么 公司 名字
+11NC21FBP_0101 818100 820489 EN but until studying accountancy now
+11NC21FBP_0101 820810 825719 CS 为什么 你 喜欢 做 这种 investment banking 你 不是 in the wrong field 咯
+11NC21FBP_0101 834501 835206 EN sector
+11NC21FBP_0101 873670 878350 CS so in that case you can really study anything and work in that kind of 银行
+11NC21FBP_0101 889739 890780 ZH 哦
+11NC21FBP_0101 894876 895499 ZH 嗯
+11NC21FBP_0101 913960 917870 CS 那 你 以后 的 future plans like 是 怎样 的
+11NC21FBP_0101 918214 926116 CS 你 有 想 结婚 吗 start a family and stuff like that how if you going to work so hard how you going to start a family
+11NC21FBP_0101 947954 948459 ZH 嗯
+11NC21FBP_0101 949861 950493 ZH 对 啊
+11NC21FBP_0101 970700 977920 CS 所以 现在 你 就是 打算 like just have this as a temporary job for now until 你 可以 找到 一个 比较 舒~ 适合 你 的
+11NC21FBP_0101 997720 999950 CS 那 你 有 想 去 那个 big four 吗
+11NC21FBP_0101 1000640 1001575 EN at all
+11NC21FBP_0101 1003490 1005020 CS accounting big four 没有
+11NC21FBP_0101 1021791 1023139 EN just not right for you
+11NC21FBP_0101 1034285 1034980 ZH 对 啊
+11NC21FBP_0101 1038746 1045290 CS 哦 but 我 的 是 没有 no choice i just have to do big four 因为 我 i just
+11NC21FBP_0101 1046069 1046499 EN 
+11NC21FBP_0101 1046499 1050994 EN the don't see myself in such exciting prospect like you
+11NC21FBP_0101 1053475 1054046 EN isn't it
+11NC21FBP_0101 1086701 1087164 EN oh
+11NC21FBP_0101 1114148 1115844 EN how about the insurance agent
+11NC21FBP_0101 1117360 1124010 CS 那个 不是 比较 like more exciting 因为 你 可以 like you know meet new people and stuff like that you can talk
+11NC21FBP_0101 1134020 1136500 CS actuarial science 跟 insurance agent 不同 吗
+11NC21FBP_0101 1140329 1141004 EN 
+11NC21FBP_0101 1146665 1147442 EN yeah
+11NC21FBP_0101 1156746 1158070 EN oh
+11NC21FBP_0101 1158070 1162240 CS 所以 现在 你 的 internship 你 也是 looking to all the investment banks
+11NC21FBP_0101 1162615 1164225 EN like what you've mentioned
+11NC21FBP_0101 1177370 1177864 EN erm
+11NC21FBP_0101 1213292 1214917 EN what kind of card what card
+11NC21FBP_0101 1229620 1232486 CS 哦 that is quite cool 就是 好像 那个 (呃)
+11NC21FBP_0101 1233252 1236108 EN ah com~ eh
+11NC21FBP_0101 1237562 1239250 EN like like a a commission is it
+11NC21FBP_0101 1240656 1241229 EN okay
+11NC21FBP_0101 1245150 1246058 EN oh that is quite cool
+11NC21FBP_0101 1270942 1272084 EN oh
+11NC21FBP_0101 1294033 1294630 ZH 嗯
+11NC21FBP_0101 1302161 1302888 EN 
+11NC21FBP_0101 1304290 1305277 EN 
+11NC21FBP_0101 1307597 1308466 EN that's quite cool
+11NC21FBP_0101 1310580 1311021 EN okay
+11NC21FBP_0101 1316189 1318111 EN what about me (erm)
+11NC21FBP_0101 1318660 1320863 EN you know previously i was interested in speech therapy
+11NC21FBP_0101 1321597 1323700 ZH 语言 治疗师
+11NC21FBP_0101 1324395 1325408 EN yeah but
+11NC21FBP_0101 1326909 1328168 EN yeah i know that is why
+11NC21FBP_0101 1328680 1329512 EN <unk>
+11NC21FBP_0101 1329512 1331536 EN i really don't like what i am studying right now
+11NC21FBP_0101 1332653 1333510 EN yeah (erm)
+11NC21FBP_0101 1334030 1341773 CS like before before i we we enter uni right we have to sort of 选 我们 想做 的 的 东西
+11NC21FBP_0101 1342266 1346880 CS but then (erm) because 新加坡 都 没有 speech therapy 所以 我 是
+11NC21FBP_0101 1347421 1348473 EN (erm) i was looking at
+11NC21FBP_0101 1348914 1359730 CS courses at australia yeah but (呃) my mum was quite against it because she says that speech therapists 他们 不会 不会 earn a lot of money
+11NC21FBP_0101 1360138 1365098 EN because what you do is just about three k. per month and and you don't get much (erm) like
+11NC21FBP_0101 1365955 1370960 EN raises and stuff because you more or less always remain in that level at that level
+11NC21FBP_0101 1371450 1376498 CS yeah so she says (呃) 如果 她 要 花 很多 钱 like 帮 我 去
+11NC21FBP_0101 1377043 1382934 EN (erm) like fund me to go oversea to study then it doesn't make sense because i won't earn enough to cover the cost
+11NC21FBP_0101 1383531 1388055 EN yeah so i had no choice but to give up that and study something more practical like this accountancy
+11NC21FBP_0101 1392948 1395135 EN i know but she says at least
+11NC21FBP_0101 1395350 1397810 CS 这个 是 比较 practical 的 skill 你 可以
+11NC21FBP_0101 1397810 1405197 CS 去 你 可以 start up your own business and you got your own accountancy skills you will be much better 啦 you know accounting
+11NC21FBP_0101 1422511 1426675 EN yeah that is why but my mum i think she was just looking at erm
+11NC21FBP_0101 1426812 1428233 EN to minimize costs
+11NC21FBP_0101 1428577 1432838 EN so she doesn't want to spend so much on my study because i also have three siblings
+11NC21FBP_0101 1433266 1435240 ZH 我 还有 三个 小 的 弟弟 妹妹 嘛
+11NC21FBP_0101 1435571 1441670 CS 所以 他 不可以 乱 乱 you know just spend a lot on me and then the my remaining siblings don't even have enough money to study
+11NC21FBP_0101 1442420 1447025 CS yeah so at that point i i kind of understand 所以 我 也 我 也 没有
+11NC21FBP_0101 1447357 1450173 EN like no choice but have to give up what i want
+11NC21FBP_0101 1452779 1454399 ZH 车 也 卖不了 很 多 钱
+11NC21FBP_0101 1457636 1458564 ZH 我 没有 整天 啊
+11NC21FBP_0101 1459340 1463030 CS 只是 三次 而已 啊 but sponsored also not sponsored by my family what
+11NC21FBP_0101 1466538 1467628 ZH 啊 对
+11NC21FBP_0101 1469524 1471705 CS 对 啦 but (嗯)
+11NC21FBP_0101 1473004 1475099 ZH 还好 啦 对 啊
+11NC21FBP_0101 1476904 1478618 ZH 诶 其实 你 认识 他 吗
+11NC21FBP_0101 1481085 1481682 EN when
+11NC21FBP_0101 1484773 1485967 CS secondary 什么
+11NC21FBP_0101 1489220 1493862 CS 你们 同样 的 班 还是 just meet up like meet like (呃) this kind of
+11NC21FBP_0101 1494900 1496095 EN acquaintances
+11NC21FBP_0101 1497913 1499288 ZH 他 说 他 不认得 你 诶
+11NC21FBP_0101 1502332 1505345 CS like cannot recognize that you are 文豪
+11NC21FBP_0101 1513603 1514200 ZH 对 啊
+11NC21FBP_0101 1517758 1518511 EN 
+11NC21FBP_0101 1519430 1521470 CS why are you planning to be a 总统
+11NC21FBP_0101 1525242 1526566 CS 总统 is not 诶
+11NC21FBP_0101 1527600 1529200 CS 总统 is not the prime minister
+11NC21FBP_0101 1541888 1542928 EN yeah my boyfriend
+11NC21FBP_0101 1549420 1552820 CS (呃) 其实 很 久 like maybe about
+11NC21FBP_0101 1553137 1554228 EN at least
+11NC21FBP_0101 1554695 1555526 ZH 四年
+11NC21FBP_0101 1557785 1559370 EN yeah at least la but i can't
+11NC21FBP_0101 1560123 1562408 ZH 今年 几岁 你 不知道 我 几岁 吗
+11NC21FBP_0101 1564589 1569379 CS 哦 我 今年 就 twenty twenty years twenty years old
+11NC21FBP_0101 1573086 1577527 EN (erm) no but i can do it illegally like you
+11NC21FBP_0101 1579085 1579734 EN no
+11NC21FBP_0101 1581889 1583266 EN i am not a guy
+11NC21FBP_0101 1587239 1588100 EN no he doesn't
+11NC21FBP_0101 1589810 1590407 EN um-hmm
+11NC21FBP_0101 1597553 1598177 EN yeah
+11NC21FBP_0101 1603695 1608175 CS i don't know (呃) can you intro introduce me some like 好吃 的 地方
+11NC21FBP_0101 1613285 1618195 CS really but 你 有一 你一定 有 会有 经过 一些 好吃 的 地方
+11NC21FBP_0101 1624929 1628929 EN what orchard-road (erm) something cheap and erm
+11NC21FBP_0101 1629910 1634315 CS you know affordable and nice like maybe 那些 hawker centre 的 food or like
+11NC21FBP_0101 1634849 1641004 EN erm you know singapore famous kind of food like hokkien-mee where to find them and stuff like that
+11NC21FBP_0101 1645995 1647994 EN changi hawker centre
+11NC21FBP_0101 1652227 1653021 EN uh-huh
+11NC21FBP_0101 1658823 1660689 EN you are talking about the ah-lian beehoon
+11NC21FBP_0101 1669685 1671775 CS 我 我也 不知道 extension
+11NC21FBP_0101 1671775 1674176 CS 新 的 地方 吗 hokkien mee 啊
+11NC21FBP_0101 1676435 1676766 ZH 哦
+11NC21FBP_0101 1677357 1679811 CS 还有 那个 asam 鱼头 是 吗
+11NC21FBP_0101 1684148 1685561 ZH 才会 爽 吃 的 爽
+11NC21FBP_0101 1690095 1698384 CS 哦 还有 什么 好吃 的 吗 还是 你 只是 去 那些 very expensive places like dempsey to eat
+11NC21FBP_0101 1718611 1720095 CS raffles-city 有 sushi-tei
+11NC21FBP_0101 1721208 1721857 EN okay
+11NC21FBP_0101 1725337 1725934 ZH 是 吗
+11NC21FBP_0101 1728115 1731387 CS sushi-tei 不是 一样 咯 like every where the same
+11NC21FBP_0101 1736638 1737287 ZH 哦
+11NC21FBP_0101 1741675 1743245 CS but chefs 会 rotate 的 嘛
+11NC21FBP_0101 1743526 1746890 CS 所以 it is like the the standard is about there all the time
+11NC21FBP_0101 1747273 1751025 CS i thought they do like 鼎泰丰 they will will rotate right
+11NC21FBP_0101 1757465 1758292 ZH 哦
+11NC21FBP_0101 1763391 1763780 EN right
+11NC21FBP_0101 1776193 1781153 EN that's quite a lot seventy five dollars means it is at least thirty bucks per person
+11NC21FBP_0101 1785409 1786298 EN thirty plus
+11NC21FBP_0101 1791930 1793597 EN seventy five fifty per person
+11NC21FBP_0101 1795448 1796116 EN okay
+11NC21FBP_0101 1802920 1803829 EN wow
+11NC21FBP_0101 1805859 1807496 EN oh
+11NC21FBP_0101 1807496 1809976 CS how about nice buffet 的 地方
+11NC21FBP_0101 1822531 1824920 ZH 没有 啊 没有 啊 我 只是
+11NC21FBP_0101 1825959 1829467 ZH 因为 我 要 带 我 朋友 去 吃 好吃 的 地方 嘛
+11NC21FBP_0101 1830322 1830789 ZH 嗯
+11NC21FBP_0101 1833496 1836956 CS (呃) i don't know as in 我 没有 set 一个 budget 所以
+11NC21FBP_0101 1837754 1848011 CS 我 只是 看 有 什么 好吃 的 如果 我 maybe one day i am feeling rich i can bring them to an expensive place if not i i can just bring them to those hawker centres
+11NC21FBP_0101 1861056 1864230 CS maybe you don't know 新加坡 well enough
+11NC21FBP_0101 1868687 1871856 EN (erm) i do do you like malay food
+11NC21FBP_0101 1875475 1879290 CS (呃) 好像 north-bridge road 有
+11NC21FBP_0101 1879290 1880373 CS 是不是 north-brige road
+11NC21FBP_0101 1881053 1883924 CS (呃) okay 其实 我 忘记 那个 地方 叫 什么
+11NC21FBP_0101 1884585 1890462 EN but as in i (erm) it is near haji haji lane that side bugis bugis area
+11NC21FBP_0101 1890832 1893120 CS 他们 有一个 restaurant 叫 islamic
+11NC21FBP_0101 1894150 1895202 CS islamic 你有听过 吗
+11NC21FBP_0101 1895767 1897206 EN famous islamic restaurant
+11NC21FBP_0101 1899439 1900478 EN actually i don't know
+11NC21FBP_0101 1900990 1904540 CS actually i don't know how much the food is there but i think 不会 很 贵
+11NC21FBP_0101 1904540 1907624 EN like not not as <unk> expensive as your sushi-tei
+11NC21FBP_0101 1908481 1910818 CS 因为 他 的 nasi-briyani 是
+11NC21FBP_0101 1911104 1917040 CS like really nice its not dry it's just it's just right and 他们 有 很好 很好 吃 的 mutton curry
+11NC21FBP_0101 1918609 1919258 ZH 嗯
+11NC21FBP_0101 1921280 1923961 CS not really 只是 他 他 的 mutton 很 好吃
+11NC21FBP_0101 1924376 1926633 CS 还有 他 的 sotong
+11NC21FBP_0101 1928586 1932475 EN en because that that sotong has some (erm) funny sauce
+11NC21FBP_0101 1932871 1934799 EN and that sauce is is really nice
+11NC21FBP_0101 1935714 1936155 EN yeah
+11NC21FBP_0101 1938870 1940194 EN i like all kind of food
+11NC21FBP_0101 1943674 1945518 EN i don't like celery
+11NC21FBP_0101 1949205 1955783 EN erm i am fine with most vegetable except for ah pumpkin celery
+11NC21FBP_0101 1956845 1957364 EN and yam
+11NC21FBP_0101 1959210 1961700 CS pumpkin 不是 很 mushy 咯 我 就 不 喜欢
+11NC21FBP_0101 1964851 1970349 CS 汤 no 我 不喜欢 因为 我 妈妈 每次 每次 煮 那个 我 就是 很 讨厌
+11NC21FBP_0101 1971725 1972192 ZH 嗯
+11NC21FBP_0101 1979391 1980222 ZH 什么 口
+11NC21FBP_0101 1983753 1985441 ZH 是 咩 我 就是 不喜欢
+11NC21FBP_0101 1986506 1988455 EN i don't like yam also yam cakes
+11NC21FBP_0101 1990687 1992816 EN yeah i know everybody tells me that
+11NC21FBP_0101 1994323 1995543 EN no i hate durian
+11NC21FBP_0101 1996605 1998700 CS i find durians 很 臭
+11NC21FBP_0101 2000093 2001053 EN i can't
+11NC21FBP_0101 2002118 2003001 EN we can't
+11NC21FBP_0101 2004916 2006325 ZH 我们 不是 在 讲话 咯
+11NC21FBP_0101 2008580 2009930 CS 不可以 啊 我们 要 record
+11NC21FBP_0101 2015336 2016323 ZH (呃)
+11NC21FBP_0101 2017560 2019900 CS can i say here or 我 也 不知道
+11NC21FBP_0101 2020790 2022711 EN why don't you ask our producers
+11NC21FBP_0101 2025157 2028202 CS actually 我 是 知道 的 but i i just don't know
+11NC21FBP_0101 2028760 2033957 CS 对 因为 你 会 maybe you know kill me or something just yeah
+11NC21FBP_0101 2040799 2043335 ZH 我 你 可以 试一试 吧
+11NC21FBP_0101 2045543 2048243 EN but i just said you can't leave this place
+11NC21FBP_0101 2059467 2060762 ZH 对 啊 你 有 去过 吗
+11NC21FBP_0101 2075682 2076796 ZH 哦 我 没有 听过
+11NC21FBP_0101 2101690 2105790 CS isn't that like something 像 那个 memory foam pillow 这样子 的
+11NC21FBP_0101 2106007 2110388 CS follow your contour memorize your feet shape 是 吗
+11NC21FBP_0101 2114283 2115114 ZH 很 薄
+11NC21FBP_0101 2122728 2123406 EN yeah
+11NC21FBP_0101 2129246 2129817 EN uh-huh
+11NC21FBP_0101 2150519 2151129 ZH 对 啊
+11NC21FBP_0101 2165010 2166280 CS but 那种 sole 不会
+11NC21FBP_0101 2166880 2169380 CS 不会 通常 you know wear off 吗
+11NC21FBP_0101 2171610 2174940 CS 破 and wear off like you know your normal soles will wear off when you
+11NC21FBP_0101 2174940 2176155 CS like 走路 太多
+11NC21FBP_0101 2196364 2198752 CS so this kind of sole 这样子 多少 钱
+11NC21FBP_0101 2207842 2210283 EN oh that's very expensive
+11NC21FBP_0101 2213586 2214433 EN okay
+11NC21FBP_0101 2254803 2255825 EN blood circulation
+11NC21FBP_0101 2263994 2264648 EN yeah
+11NC21FBP_0101 2296000 2301110 CS 所以 那个 sh~ 那个 那个 东西 你 跟 我 讲 的 是 like a sole or it's like a pair of shoes
+11NC21FBP_0101 2323773 2328970 CS so um is it only for guys 他们 还有 like 这种 款式
+11NC21FBP_0101 2329660 2329971 ZH 哦
+11NC21FBP_0101 2331166 2332075 ZH 女人 也是 有
+11NC21FBP_0101 2333171 2335258 ZH 哦 所以 你 没有 买 啦
+11NC21FBP_0101 2341890 2346860 CS what if 现在 那些 shops that you've been to in haji-lane 关掉 了
+11NC21FBP_0101 2350647 2353176 EN because yeaterday i went to ha~ haji-lane and
+11NC21FBP_0101 2353578 2358124 EN ah i found out that there were really quite a quite a lot of shops that have just closed down
+11NC21FBP_0101 2358578 2365940 CS so i was just wondering cause i i've been to the shops there and 我 没有 看到 你 所 说 的 vivo-barefoot at all
+11NC21FBP_0101 2369558 2370193 EN uh-huh
+11NC21FBP_0101 2414727 2415648 ZH 哦
+11NC21FBP_0101 2426010 2429930 CS 对 我 有 我 有 听过 i have read on the internet in the news before
+11NC21FBP_0101 2430859 2431326 EN yeah
+11NC21FBP_0101 2450100 2450630 ZH 对 啊
+11NC21FBP_0101 2463324 2464779 CS boots 也是 有 高跟 的 啊
+11NC21FBP_0101 2479864 2480539 EN boots
+11NC21FBP_0101 2511030 2512981 CS but 我 妈妈 以前 是 跟 我 讲 like
+11NC21FBP_0101 2513202 2516610 EN you know if you wear slippers it is it will be very harmful for your feet as well
+11NC21FBP_0101 2517026 2524307 EN it is better to wear something that is more in like slightly inclined not not like boots like that but slightly inclined so
+11NC21FBP_0101 2524593 2526573 ZH 好像 那种 (呃)
+11NC21FBP_0101 2528150 2532565 EN like not not really higher but just a few inches that kind of thing just elevate your feet
+11NC21FBP_0101 2533683 2537450 CS i don't know i can't remember 她 的 explanation 了 but i always thought
+11NC21FBP_0101 2537885 2544066 EN you know if i wear slippers for a long time it will my feet will hurt more than than you know if i wear (erm)
+11NC21FBP_0101 2544923 2548169 EN not exactly heels but shoes that have that are slightly inclined
+11NC21FBP_0101 2553259 2554015 EN 
+11NC21FBP_0101 2577960 2581597 ZH 这样子 你 也 不可以 你 你 也 不可以 穿 你 的 衣服 咯
+11NC21FBP_0101 2582712 2584374 EN you cannot wear your clothes
+11NC21FBP_0101 2589391 2591469 EN shoes are also covering your body
+11NC21FBP_0101 2609984 2611075 EN oh that is true
+11NC21FBP_0101 2616481 2617993 EN  yeah
+11NC21FBP_0101 2624194 2624739 EN yep
+11NC21FBP_0101 2626765 2627362 EN okay
+11NC21FBP_0101 2633075 2635890 EN right so haji-lane
+11NC21FBP_0101 2647441 2654025 CS not really 可能 你 也是 可以 maybe just find a time to go down because my boyfriend and i went down yesterday
+11NC21FBP_0101 2654395 2658130 EN and to search for his clothes for this wedding that he has this sunday
+11NC21FBP_0101 2658772 2664019 CS and he did buy quite a few stuff there is this shop that is quite cool 它 叫 victoria-jomo
+11NC21FBP_0101 2665214 2667935 CS yeah 它 的 like guy's clothes
+11NC21FBP_0101 2668175 2670440 CS 它 那边 有 的 guys clothes 是 蛮 不错 的
+11NC21FBP_0101 2672225 2673471 EN victoria-jomo
+11NC21FBP_0101 2674510 2679760 CS normal 的 衣服 啊 like you know you (呃) 你 现在 穿 的 这种 like this dress shirt right
+11NC21FBP_0101 2680195 2683220 EN they have cool stuff like the collars are different
+11NC21FBP_0101 2683791 2693448 EN instead of this normal collar they have the rounded collar and or they have this kind of mandarin collars which is which are kind of special and which are what my boyfriend bought
+11NC21FBP_0101 2694391 2696033 EN yeah and they have cool shoes also
+11NC21FBP_0101 2703246 2706544 EN i don't know if it is called mandarin collar it is like this kind of
+11NC21FBP_0101 2708466 2709280 EN french collar
+11NC21FBP_0101 2715735 2717035 CS polo t. shirts 就 没有
+11NC21FBP_0101 2717035 2721767 CS polo t. shirt 你 might as well better going to polo right polo-ralph
+11NC21FBP_0101 2727220 2731913 EN i thought you like money you have been working to earn your own money
+11NC21FBP_0101 2735868 2738023 ZH 你 收 什么 用
+11NC21FBP_0101 2743197 2746417 CS but 你 你 收住 你 也是 没有 用 到 then what's the point
+11NC21FBP_0101 2749466 2750141 EN like
+11NC21FBP_0101 2753831 2758196 EN you don't have to wear the same shirt every day or or stuff like that you can have a few
+11NC21FBP_0101 2765539 2767882 EN but it is a good investment mah if you are
+11NC21FBP_0101 2768610 2769518 EN if isn't
+11NC21FBP_0101 2771025 2776614 EN to have good good shirts good shoes good everything you will be you you make yourself feel confident as well
+11NC21FBP_0101 2778062 2778711 ZH 不是 吗
+11NC21FBP_0101 2798634 2801347 CS actually 你 有 你 有 play golf 吗
+11NC21FBP_0101 2804560 2805209 ZH 没有
+11NC21FBP_0101 2807039 2808837 EN oh okay
+11NC21FBP_0101 2809285 2813909 EN no cause i just suddenly  thought that you know people who play golf they always wear polo isn't it
+11NC21FBP_0101 2818116 2820011 EN okay no i was just wondering side track
+11NC21FBP_0101 2824780 2827560 CS polo t. shirts 你 是 说 cheap 的 吗
+11NC21FBP_0101 2831796 2835562 CS 五十块 到 一百块 maybe you can try finding it online
+11NC21FBP_0101 2836488 2839279 EN like american-eagle (erm)
+11NC21FBP_0101 2840143 2844350 EN (erm) you know like something similar
+11NC21FBP_0101 2845201 2847765 EN i think they have nice polo t. for guys there
+11NC21FBP_0101 2861579 2866240 EN yeah but as in shirt it is it won't be that bad as shorts or pants right
+11NC21FBP_0101 2866682 2871325 EN shirts you get rough roughly the same size and they do provide you some of the measurements
+11NC21FBP_0101 2871917 2875773 CS so if you just follow 他们 他们 在 网上 写 的 东西
+11NC21FBP_0101 2876104 2882606 EN and you just buy i think it is it is fine and you can get it in the price range they want maybe even cheaper
+11NC21FBP_0101 2910462 2911137 EN oh
+11NC21FBP_0101 2923420 2924173 EN okay
+11NC21FBP_0101 2925238 2926505 EN i think you are just lazy
+11NC21FBP_0101 2932034 2932657 EN really
+11NC21FBP_0101 2935670 2944095 EN no but if you can follow the measurement that you have or the computer and just measure it it is you will be right you will be correct
+11NC21FBP_0101 2949407 2950368 EN no they don't
+11NC21FBP_0101 2951277 2952928 CS 他们 有 很多 like size eight
+11NC21FBP_0101 2953253 2959486 EN ten twelve fourteen all the way to sixteen and you you won't know where exactly you fit and we all
+11NC21FBP_0101 2959707 2962547 CS and we always follow 他们 写 的 measurements 嘛
+11NC21FBP_0101 2984786 2986397 EN right k.
+11NC21FBP_0101 2992084 2997398 CS yeah but it is too bad that american-eagle 他们 没有 一个 outlet 在 新加坡
+11NC21FBP_0101 2998550 3002214 EN i don't think so unless you are looking at factory f. o. s.
+11NC21FBP_0101 3003059 3004390 EN stuff like that otherwise
+11NC21FBP_0101 3005878 3009176 EN no it is just cheap and and affordable
+11NC21FBP_0101 3012110 3013798 EN right yeah it is quite affordable
+11NC21FBP_0101 3015907 3019807 CS (呃) 上次 我 买 i think about twenty to thirty dollars
+11NC21FBP_0101 3020524 3024617 EN yeah my own clothes i got a polo t. that is twenty plus
+11NC21FBP_0101 3024937 3027357 CS and if they 他们 他们 有 sale 的 时候
+11NC21FBP_0101 3027914 3029706 EN it can go up to just ten plus
+11NC21FBP_0101 3033082 3034874 EN yeah maybe you can go
+11NC21FBP_0101 3037580 3037995 EN um-hmm
+11NC21FBP_0101 3041952 3045208 EN how often do i buy new clothes whenever i have the money to
+11NC21FBP_0101 3045786 3049341 EN like (erm) when i am schooling i don't earn any money
+11NC21FBP_0101 3049770 3057094 EN whatever i my allowance that i get~ whatever allowance that i get i use it in school for food for everything else
+11NC21FBP_0101 3057563 3065647 CS 所以 我就 (呃) 我 上学 的 时候 就 没有 时 ~ 没有 出去 花钱 啦 只是 holiday 的 时候 like now
+11NC21FBP_0101 3066147 3066718 ZH (呃)
+11NC21FBP_0101 3066987 3072167 CS i will use whatever excess allowance i have and (呃) 我 所 赚 的 钱
+11NC21FBP_0101 3073050 3073933 EN to spend
+11NC21FBP_0101 3077491 3078270 ZH 是 吗
+11NC21FBP_0101 3080647 3082267 CS 我 一个 holiday
+11NC21FBP_0101 3082267 3083936 ZH (呃)
+11NC21FBP_0101 3084923 3090376 CS 我 可 ~ i think i earn about sixty a day as in that small office i work
+11NC21FBP_0101 3091934 3095882 EN but right now i am not working so i i don't really spend a lot so it is proportional
+11NC21FBP_0101 3100141 3102244 CS (呃) 我 也 没有 c. p. f.
+11NC21FBP_0101 3104516 3105287 EN suay
+11NC21FBP_0101 3107157 3109102 EN is it sixty a day not
+11NC21FBP_0101 3112507 3113156 EN yeah
+11NC21FBP_0101 3115805 3118505 EN nine no i think eight hours
+11NC21FBP_0101 3119986 3120687 EN yeah
+11NC21FBP_0101 3123102 3124946 EN yeah it is not a lot it is not a lot
+11NC21FBP_0101 3127496 3137338 CS (呃) it is very difficut because every holiday then 我 要 我 要 去 you know search for the different jobs and stuff like that so i am just
+11NC21FBP_0101 3140532 3143518 EN like i told you i did basic admin stuff
+11NC21FBP_0101 3146686 3154015 EN filing and whatever data entry thingy actually i am just helping out yeah i am helping
+11NC21FBP_0101 3159754 3161441 EN my boyfriend's parent's company
+11NC21FBP_0101 3162402 3162870 EN 
+11NC21FBP_0101 3163545 3164168 EN yeah
+11NC21FBP_0101 3167986 3170297 CS (呃) 他们 make stickers
+11NC21FBP_0101 3171621 3172660 EN stickers like
+11NC21FBP_0101 3173210 3177473 CS every kind of stickers 好 好 像 你 车 上面 那 那 种 car decal
+11NC21FBP_0101 3178170 3184247 CS 他们 也是 有 做 and if not normal stickers like you see on the boxes there they they also do that
+11NC21FBP_0101 3185390 3185987 EN yeah
+11NC21FBP_0101 3187415 3194323 EN normal paper stickers and our plas~ (erm) what plastic (erm) aluminium stickers
+11NC21FBP_0101 3195751 3197023 EN every thing else
+11NC21FBP_0101 3198374 3200083 EN every kind of stickers that you see
+11NC21FBP_0101 3200794 3201313 EN yeah
+11NC21FBP_0101 3207728 3214791 CS is it exactly one hour or because 我们 开始 的 时候 是 about two minutes right
+11NC21FBP_0101 3218349 3220548 ZH 他 会 进来 还是 我们 要 去 找 他
+11NC21FBP_0101 3224510 3226144 ZH (呃) 好 啊
+11NC21FBP_0101 3228715 3231316 EN how often do i stay at home ah
+11NC21FBP_0101 3231770 3235062 EN it varies there is no there is no set thingy
+11NC21FBP_0101 3237043 3239181 EN like my friend ask me out i just go out if not
+11NC21FBP_0101 3242807 3247517 CS (呃) okay maybe mostly during 星期六 星期天 的 时候
+11NC21FBP_0101 3248950 3253437 CS 嗯 你 呢 其~ 你 是 一个 only child 吗
+11NC21FBP_0101 3255712 3257779 CS 是 吗 okay
+11NC21FBP_0101 3259519 3262973 EN so do you stay at home and accompany them
+11NC21FBP_0101 3266011 3266945 ZH 他们 几岁
+11NC21FBP_0101 3275747 3278757 CS 哦 那 你们 应该 是 很 很 close 吧
+11NC21FBP_0101 3282065 3282974 ZH 不会 吗
+11NC21FBP_0101 3283987 3286527 CS 因为 你们 的 age gap 是 蛮 靠近 的 嘛
+11NC21FBP_0101 3295697 3299197 CS 十九 岁 应该 是 out of the of the rebellious
+11NC21FBP_0101 3299676 3300274 EN part
+11NC21FBP_0101 3302559 3303805 EN 
+11NC21FBP_0101 3310220 3311414 EN okay
+11NC21FBP_0101 3315438 3319069 CS (嗯) 那个 christmas party christmas party 是 几点
+11NC21FBP_0101 3322488 3325697 CS seven thirty do we have (呃) 那个 gift exchange
+11NC21FBP_0101 3327890 3328965 EN 
+11NC21FBP_0101 3328965 3330045 CS 那个 budget 是 什么
+11NC21FBP_0101 3330720 3334408 CS 我 还没有 买 maybe i am not i can't make it also
+11NC21FBP_0101 3335472 3340123 EN (erm) cause i might go for a short road trip to malaysia
+11NC21FBP_0101 3344177 3348199 CS it is not it is not that i have a choice if my family 他们
+11NC21FBP_0101 3348797 3350907 CS 只是 可以 make it on that day then
+11NC21FBP_0101 3351474 3354019 EN then it is i can't help it
+11NC21FBP_0101 3366187 3368057 CS 是 吗 like what are we going to do
+11NC21FBP_0101 3369917 3370826 EN oh that's fun
+11NC21FBP_0101 3372072 3372773 EN okay
+11NC21FBP_0101 3376828 3379928 CS right so it is (呃) 其他 人 都 有 去 吗
+11NC21FBP_0101 3385732 3386822 ZH 二十多 个 人
+11NC21FBP_0101 3388277 3389396 ZH 哦
+11NC21FBP_0101 3392592 3394073 CS 我 还没有 r. s. v. p. 呢
+11NC21FBP_0101 3399232 3400253 CS 是 song violet
+11NC21FBP_0101 3400768 3405447 CS okay then 我们 那个 budget of (呃) for the gifts how much is it
+11NC21FBP_0101 3407420 3408277 ZH 十块钱
+11NC21FBP_0101 3409420 3410069 EN okay
+11NC21FBP_0101 3410485 3411861 CS 你 有 很大 的 christmas tree 吗
+11NC21FBP_0101 3414468 3415928 CS then 什么 christmas party 来 的
+11NC21FBP_0101 3420020 3421479 EN are we going to wear santa hat
+11NC21FBP_0101 3426968 3429348 CS 那 我们 有 喝酒 and eat turkey 吗
+11NC21FBP_0101 3435420 3436900 CS 你 不是 那个 host 咯
+11NC21FBP_0101 3438082 3438975 EN then you
+11NC21FBP_0101 3443683 3444669 EN oh
+11NC21FBP_0101 3447111 3448772 EN you just providing the place
+11NC21FBP_0101 3450746 3451525 EN okay
+11NC21FBP_0101 3456303 3457394 EN tupees pay for it
+11NC21FBP_0101 3458589 3459238 EN okay
+11NC21FBP_0101 3463112 3466651 EN so how are we going to earn the extra money to cover up for that
+11NC21FBP_0101 3469464 3471162 ZH 哦 很 容易 哦
+11NC21FBP_0101 3472123 3472669 ZH 嗯
+11NC21FBP_0101 3474564 3475915 ZH 蛮 容易 好
+11NC21FBP_0101 3479472 3483186 ZH  三 分钟 三 分钟 我 不懂
+11NC21FBP_0101 3485004 3485938 EN no
+11NC21FBP_0101 3492358 3499395 EN malaysia i think probably (erm) drive up to penang and ipoh to have the good food there or something like that
+11NC21FBP_0101 3502434 3503083 EN you do
+11NC21FBP_0101 3504341 3505107 EN chicken
+11NC21FBP_0101 3518929 3521595 EN okay i know where there is nice chicken
+11NC21FBP_0101 3521928 3523248 CS have you heard of 纸包鸡
+11NC21FBP_0101 3524564 3526200 EN the clementi one have you tried that
+11NC21FBP_0101 3526823 3530874 EN it is really good it is next to s. i. m. or (erm) maju camp
+11NC21FBP_0101 3532017 3534032 EN yeah it is near that it is like a kampung place
+11NC21FBP_0101 3535502 3539033 EN yeah it is clementi road or something like that it is that clementi
+11NC21FBP_0101 3539605 3550771 CS yeah and it is really really good but it is a little little pricy cause like one paper wrapped chicken one 纸包鸡 can costs a dollar 一块钱 and it is quite small
+11NC21FBP_0101 3554173 3566271 CS (呃) it used to be like 几毛钱 而已 so now it it increase 啦 so but i think for the quality that you get it is quite worth it 因为 他们 的 纸包鸡 是 真的 很 好吃
+11NC21FBP_0101 3570583 3571985 CS 哦 sorry 不顺路
+11NC21FBP_0101 3573647 3574270 ZH 对 啊
+11NC21FBP_0101 3575829 3578508 CS 我们 不是 在 n. u. s. 诶 我们 是 在 n. t. u.

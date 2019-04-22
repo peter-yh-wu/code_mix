@@ -1,0 +1,524 @@
+05NC10MAY_0201 3818 5181 ZH 十二点 半
+05NC10MAY_0201 7969 9684 CS 去 o. c. b. c.
+05NC10MAY_0201 9684 11250 CS 去 o. c. b. c.
+05NC10MAY_0201 12658 17110 CS 去 我去到 o. c. b. c. then 要 排队 一个 差不多 三十 分钟 这 样子 因为
+05NC10MAY_0201 17110 18948 CS 他 只有 两个 counter 在 open
+05NC10MAY_0201 19768 24143 ZH 然后 有 很长 很多 人 在 做 东西 不懂 在 做 什么 
+05NC10MAY_0201 24143 30025 CS then 有 一个 auntie 她 hold 住 那个 counter for  about twenty minutes plus
+05NC10MAY_0201 30025 36520 CS for for 她自己 的 transaction lah  然后 我就 等 咯 排排排排排 幸好
+05NC10MAY_0201 36520 40210 CS 刚才 那个 security guard 蛮 好的 那个 o. c. b. c. 的 security guard
+05NC10MAY_0201 40210 45105 CS 他 就 (嗯) 会 一直 跟  那种 customer
+05NC10MAY_0201 45105 47400 CS 谈话 还是 这样 啊 他 很 friendly 的
+05NC10MAY_0201 47400 57478 CS then 他 就 跟 我 有 讲 一下 话 啦 就 讲 (嗯) 现在 的 security guard 只有 o. 他 只有 n. t. u. o. c. b. c. 的 security guard 是 要  做到 related
+05NC10MAY_0201 57478 60659 CS  好像 去做 (嗯) o. c. b. Ｃ. 的 ambassdor 这样子
+05NC10MAY_0201 60659 70982 CS  其它 的 security guard 不用 这样子 因为 他们 本身 的 那个 branch 有 那种 (呃) 那种 customer service (呃) 的 人
+05NC10MAY_0201 70982 73773 ZH 所以 所以 因为 它 不够 人手
+05NC10MAY_0201 74940 75580 EN ah
+05NC10MAY_0201 77749 81960 CS 没有 他是 他只是 security guard 罢了 but 他 他
+05NC10MAY_0201 81960 84470 CS 自己 offer 帮 那个 bank
+05NC10MAY_0201 84470 94552 CS  (啊) 做那种 就是讲 他会问 讲 那 他会 问 那个人 讲 (啊) 你进来 做 什么 你要 你要 你要 你 you looking for any service 
+05NC10MAY_0201 94552 100630 CS then 他 就会 direct 你 去 讲 哦 这里 没有 那个 东西 了 你 可能 要 去 提钱 还是 讲 就是 他 很熟
+05NC10MAY_0201 100630 103780 CS 可是 他 只是 security guard 罢了 他 不是 那个 bank 的 staff leh
+05NC10MAY_0201 103780 110370 CS 他是 under  那种 security 的  company but 不是 那个 o. c. b. c. 的
+05NC10MAY_0201 114039 120390 ZH  因为 我 怕 如果 等一下 也是 这样 多人 就是 如果 我 两点 多 出来 也是 这样 多人 就 更惨了 所以
+05NC10MAY_0201 121308 128274 CS  没有 我是 想 先 做好 那个 因为 我 先 经过 如果 left 的 话 我 去 lab 了 then 我 要 出 回来 
+05NC10MAY_0201 128274 130439 CS 去 o. c. b. c. bank then 再去
+05NC10MAY_0201 131279 133072 CS (呃) 这个 school 
+05NC10MAY_0201 133072 136986 CS 就是 去回 那个 audi 那边 接你 嘛 就 更 更 久 啊
+05NC10MAY_0201 138123 139907 ZH 就 你 有走 走 更 多 【啊】
+05NC10MAY_0201 144262 148590 CS 我 不是  okay lah sorry loh about that  因为
+05NC10MAY_0201 148590 152280 CS 那个 sample 刚才 是 by two o'clock should be okay 了 的
+05NC10MAY_0201 152280 158700 CS  可是 它 不会 melt  它 一直  in solid form then 我 heat heat heat heat heat heat 了 很久 
+05NC10MAY_0201 158700 163930 CS 到 差不多 两 点 二十分 这样子 才 好 可是 我 又 不能 stop 那个 experiment 所以 我 就 快快 这样子
+05NC10MAY_0201 163930 165090 ZH  随便 弄 一下
+05NC10MAY_0201 165090 166822 CS 所以 我 等下 回去 也是 要 redo 的 
+05NC10MAY_0201 168113 172647 CS  就 弄 咯 弄 到 两点 半 然后 我 就 call 你 讲 (嗯) 我 会 迟 一点点 
+05NC10MAY_0201 172647 174557 ZH 出来 
+05NC10MAY_0201 174557 177220 ZH 不是 因为 不是 因为 那个 （ppb)
+05NC10MAY_0201 177220 183729 CS 不是 因为 我 不懂 两点半 我是 懂 可是 那个 sample suddenly 这 样子 我 没有 办法
+05NC10MAY_0201 193318 196892 CS 没有 可 因为 那个 是 by one hour
+05NC10MAY_0201 196892 203772 CS  你 你 做 一次 就是 one hour then  another  another time for one hour
+05NC10MAY_0201 203772 206975 CS 所以 one hour interval 就 你 可以 stop
+05NC10MAY_0201 208723 210554 ZH 可是 我又 
+05NC10MAY_0201 213629 214889 ZH 不是
+05NC10MAY_0201 218162 220430 ZH  不是 那个 问题 是 我
+05NC10MAY_0201 220430 223750 CS 我 已经 estimate 了 one and a half hour for 那个 东西
+05NC10MAY_0201 223750 226745 ZH 我 给 它 一个 小时 半 了 
+05NC10MAY_0201 226745 231080 EN it should be it should end by one  by one hour 
+05NC10MAY_0201 231080 232240 CS but in fact 它 没有
+05NC10MAY_0201 233730 235409 CS 所以 才会 drag drag 迟 一点
+05NC10MAY_0201 235409 241807 CS 然后 我 我们 我 也是 两点 半 差不多 就 到 了 嘛 可是 然后 我 又 忘记 拿 那个 g. i. r. o. form 
+05NC10MAY_0201 242446 244003 ZH 所以 才会 比较 迟 【啦】
+05NC10MAY_0201 246312 250431 ZH  因为 我 很 我 已经 迟到 所以 我 很 赶 出来
+05NC10MAY_0201 251247 252351 ZH 你懂 当你
+05NC10MAY_0201 252351 259414 CS 当妳 好像 那天 以前 你 上次 f. y. p. 你 很 紧张 你 也 是 很 多 东西 忘记 了 嘛 因为 一个人 紧张 的 时候 他 就会 很 多 
+05NC10MAY_0201 259414 262257 CS 很多 东西 都 没有 is not organise mah
+05NC10MAY_0201 263280 266722 EN is different when  you are calm and when you are nervous mah
+05NC10MAY_0201 269158 270686 EN is not is not because
+05NC10MAY_0201 272151 273231 EN  is not because
+05NC10MAY_0201 273780 275171 ZH 我 我 一下子
+05NC10MAY_0201 275784 278181 CS 啊 我 要 出来 了 很赶 很赶 then 我 就 忘记
+05NC10MAY_0201 278874 280179 CS 我 就 忘记 那个 form 了
+05NC10MAY_0201 280849 282061 ZH 对不对 我 还 跑着 来【耶】
+05NC10MAY_0201 284342 285583 ZH 对不对 
+05NC10MAY_0201 288184 296715 CS  then  做么 你 这样  可能 刚才 你 上课  after that 去 哪里 就 来 了 啦 
+05NC10MAY_0201 300747 306086 CS then 为什么 你 会 你 会 一下子 你 没有 好像 又 message 我 before 你来
+05NC10MAY_0201 312628 315122 CS 对 啊 我有 我有 alarm 
+05NC10MAY_0201 318295 322021 ZH 没有 我 不是 因为 刚才 我 以为 你 你 先去
+05NC10MAY_0201 324322 330942 CS  okay loh but 就 miscommunication lah
+05NC10MAY_0201 333156 335692 CS  then 刚才 上课 老师 讲 什么
+05NC10MAY_0201 339661 343957 ZH 什么 叫 没有 什么  所以 没有 讲 你 没有 听书 是 吗
+05NC10MAY_0201 347300 349960 CS 哦 因为 很 concentrate 所以 现在 很 累 啊
+05NC10MAY_0201 349960 364490 CS  好 咯  then  我们 不如 讲 一下  (嗯)  okay lah 我 讲 一下 如果 有 一天  如果 有 一天 因为 现在 我 在 等 那个 interview from shell 跟 exxon mah 现在 exxon
+05NC10MAY_0201 364490 367020 CS 它 没有 interview 我 所以 我 在 等 shell loh
+05NC10MAY_0201 367020 374864 CS  而已 咯 因为 其它 的 company 都 没有 没有 apply 了  所以 如果 shell 不 请 我 的 话 我 就 真的 是 不懂 要 做 什么 了
+05NC10MAY_0201 380364 385627 ZH 哈呐 就是 说 没有 【啦】 因为 你 一定 要有 
+05NC10MAY_0201 386593 387650 ZH 一定 要 有
+05NC10MAY_0201 387650 390216 CS 一个 company 要 请 你的 嘛 因为 如果 
+05NC10MAY_0201 390810 392868 CS 你 出来 你 graduate 了 妳 一定 要
+05NC10MAY_0201 392868 409658 CS company  你 graduate 了 你 一定 要 找 找工 嘛 如果 你 不 找工 你 玩 不到 三年 unless 你 可以 自己 自己 registered as a as a as a as a employer ah then 你 就 可以 你 就 可以  bond 在 这边 做
+05NC10MAY_0201 409658 410771 ZH 做 生意 三年 【啦】
+05NC10MAY_0201 421144 422732 ZH 对 【啦】 我 
+05NC10MAY_0201 459726 472956 CS  没有 啦 是  is is a is a aim and vision thing lah 就 是  好像 我 我 很想 我 很想
+05NC10MAY_0201 478320 483090 ZH 不是 我 的 我 的 意思 是 不是 讲 拿 它 吃 拿 它 副业 可是
+05NC10MAY_0201 483090 487140 CS first five year five to ten years 是 为了  存 钱 嘛
+05NC10MAY_0201 490795 495710 CS no lah depends lah 如果 那个 business 有 potential 就 concentrate lah but is not potential
+05NC10MAY_0201 495710 497350 CS 没有 potential 的话 then 不要 啦
+05NC10MAY_0201 502683 506378 CS  depends wah dep~ 不 
+05NC10MAY_0201 509507 511915 CS no lah 当然 是 不会 resign lah
+05NC10MAY_0201 515702 531698 CS if if if 我 stay 在 同 一个 company for twenty company for  ten to twenty years 的 话  我 已经 是 比较 high position 了 了 嘛 then that time just just depends on whether  as in the 就 是 那个 opportunity
+05NC10MAY_0201 531698 539761 EN cost of leaving the company  or staying in the company
+05NC10MAY_0201 561038 566058 ZH  哈喏 因为 就是 【咯】 我 就是 乱 乱 的 【咯】
+05NC10MAY_0201 577893 582211 CS  我 是~ 不是 enjoy 做 business lah 是
+05NC10MAY_0201 582211 583986 EN 
+05NC10MAY_0201 583986 586002 EN 
+05NC10MAY_0201 586002 596603 CS 我 有 enjoy 过 因为 我 之前 跟 你 讲过 我 我 有没有 跟 你 讲过 说 我 在  (嗯) 我 放假 的 时候 回去 朋友 朋友 的 店  那边 做 
+05NC10MAY_0201 596603 614380 CS 就 那边 就 回去 朋友 的 爸爸 开 的 茶餐厅 那边 啊  serve as waiter ah  我 没有 不是 那个 问题 是 我  我 觉得 那时候 我 很 很 很喜欢 这样子 因为 那时候 我 没有 收 他 钱 then 我是 
+05NC10MAY_0201 614380 615790 CS 去 帮 他 for free 的
+05NC10MAY_0201 615790 618866 EN then for two to three days ba
+05NC10MAY_0201 618866 624321 CS  我在 那边 就是 顾 一个 一个 一个 counter 这样子 啦 一个 档口
+05NC10MAY_0201 624321 630581 CS  因为 他 爸爸 是 也 不是 business man then 他 是 first  就是 因为 他 他 爸爸
+05NC10MAY_0201 649221 654677 CS 对 啦 如果 如果 我 真 的 是 start 我 很想 start 我 也是 很想 start 如果 我 真的 是 start 的 话 我会
+05NC10MAY_0201 660130 670655 CS  如果 你很 如果 你 真的 是 很 如果 我 是 我 现在 要 start 的 话 i need source i need more information and i don't have the time
+05NC10MAY_0201 683658 685322 EN okay prefer
+05NC10MAY_0201 690143 693494 CS 那个 是 需要 time 可是 我 没有 time
+05NC10MAY_0201 694217 695474 CS 我 没有 time
+05NC10MAY_0201 700427 706627 CS  okay 我 有没有 跟 妳 讲 我 有没有 跟 妳 讲 过 一个 那个  hall hall hall ten 的 那个
+05NC10MAY_0201 712110 717220 CS  hall ten 那个 那个 啊 sauage stall  那个是
+05NC10MAY_0201 717220 719806 CS 那个 g. s. s. 的 friend 他们 开 的
+05NC10MAY_0201 721072 725325 ZH 他们 一开始 他们 你懂 他们 是 迟 我们 半年 毕业 吗
+05NC10MAY_0201 726510 728840 ZH 他们 用 半年 的 时间 来 做 那个 东西 【耶】
+05NC10MAY_0201 728840 731400 CS 他们 没有 上 没有 去 take any module leh
+05NC10MAY_0201 732000 735940 CS 他们 用 半年 的 时间 去 去 run 那个 store set up 那个 store
+05NC10MAY_0201 735940 739050 EN  then test the food then
+05NC10MAY_0201 739050 740890 CS (erm) set up 那个 system
+05NC10MAY_0201 740890 743113 CS 那个 这样 pay 这样 请人
+05NC10MAY_0201 743113 745111 CS 抢 人家 怎样 duty 那种
+05NC10MAY_0201 745111 748947 CS 他们 两个人 浪费 了 半年 的 时间 去 set up 那个 东西
+05NC10MAY_0201 748947 750310 CS then 他们 去
+05NC10MAY_0201 750310 760358 CS 去 跟 那些  (erm) vender ah 那种人 去拿 因为 他 爸爸 以前 也是 卖 这种 东西 他 爸爸 是 有 有 有 做过 类似 的 东西 他要 学 他 爸爸 
+05NC10MAY_0201 760358 765356 CS 可是 他 还是 需要 半年 的 时间 去 就 去 做 一个 这样 小 的 stall ye 
+05NC10MAY_0201 765356 774341 CS 所以 我 就是 讲 不是 所以 我 就是 讲 这种 东西 不是 讲 理想 要 start 就 可以 直接 start 你是 需要 时间 需要 
+05NC10MAY_0201 789510 792680 CS 不是 the thing is the experience is
+05NC10MAY_0201 798429 805337 EN  if if you want to have a successful business you need
+05NC10MAY_0201 809252 812290 CS 没有 他 生活 有 go on 他 只是 很 concentrate on 
+05NC10MAY_0201 825078 827086 ZH 对 我 明白 可是
+05NC10MAY_0201 832284 834847 ZH  要不然 我 跟妳 讲 一个 故事 要不要
+05NC10MAY_0201 835454 840387 CS about my friend my fr~ 我 就 跟 你 讲过 我 那个 friend 的 father ah 他 开 一个 restaurant what 
+05NC10MAY_0201 840387 859839 CS  他 他 before that 他 是 一个 (arh)  (arh) 那种 pharmaseutical 的 sales 就 是 他 卖药 他 去 每一个 每一个 每一个 pharma~ ah  pharmacy 去 那种 医生 那边 卖 卖 它的 他 compa~ 他 的 药  然后 他 做 了 四~ 二三十 年
+05NC10MAY_0201 859839 877007 ZH 可是 他 他 跟 他 儿子 讲 他说  （啊） 他 一直 很想 开 一个 他想 开 一个 茶餐厅 因为 他 从小 就 很想 开了 可是 因为 为了  生活 为了 养他的 儿子 为了养 他的 家庭 他 没有 去  他 没有 去
+05NC10MAY_0201 878259 883460 ZH 他 没有 去 做 他 想 做 的 事情 可是 到了 他 五十岁 了
+05NC10MAY_0201 883460 887000 CS 他 没有 精力 去 去 st~ 去 start 这个 business
+05NC10MAY_0201 887000 892923 CS  可是 他 还是 start 了 but 是~ in the end 他 还 没有 赚钱 啦 现在 还是 亏着 啦 
+05NC10MAY_0201 892923 894570 CS then 他 还 是~
+05NC10MAY_0201 894570 895850 CS 他 没有 experience
+05NC10MAY_0201 897135 900423 CS 他 没有 experience 所以 他 很 多 东西 他 都 不懂 
+05NC10MAY_0201 900423 917856 CS then 他 他 是~ 他 讲 他 做 完 做 了 这次 做 了 (嗯) 几 三 四 个 月 后  他 懂 原来 有 这样 多 东西 他 是 不会 的  因为 他 没有 从小 就 开始 从 小 小本 生意 开始 做  没有 去 学 先  没有 去 很好 好好
+05NC10MAY_0201 917856 921100 CS 的 学 先 才 start 这个 business 
+05NC10MAY_0201 921100 924030 CS 然后 他 跟 他的 那个 partner 也 吵架 因为 他们
+05NC10MAY_0201 924030 939999 CS  (er) quarrel on those  minor minor thing lah due to different opinion lah but  他 的 朋友 很 好  是 因为 他 的 朋友 support 他 爸爸 的 他 爸爸 的 朋友 support 他 爸爸 的 那个  那个 就是 他 爸爸 想 要
+05NC10MAY_0201 939999 943996 CS 做 的 东西 他 爸 爸* 他 的 爸爸 的 朋友 support 他
+05NC10MAY_0201 943996 950835 CS without 就是 没有 这样 讲 啊 可是 因为 他的 爸爸 的 朋友 给 他 儿子 管 then 他 儿子 又
+05NC10MAY_0201 951858 959583 CS 又 又 又不 又 跟 那个  我 朋友的 爸爸 吵架 所以 in the end 那个 business 现在 就  有点 乱 啦 
+05NC10MAY_0201 965224 973686 CS 不是 这个 story 是 跟 我们 我 是 要 带  我 是 要 讲 是 你要 你要 more experience so so that it can help you
+05NC10MAY_0201 978340 981000 CS 对 啦 就是 一定要 有 failure 才 会 experience lah 所以
+05NC10MAY_0201 981000 992003 CS 如果 妳 不 去 start  你 不去 start early 的 话 你 你 你 后面 的 failure 你 就是 你 后面 fail 的 时候 你 就 越 严重  明白 吗
+05NC10MAY_0201 999811 1000268 EN 
+05NC10MAY_0201 1007121 1010498 EN i think  i think this one is because
+05NC10MAY_0201 1012137 1019339 CS nature of men and women also different ah  是 女孩子 可以 同 一个 时间 做 几样 东西 可是 男孩子 一个 时间 只 可以 做 一样 东西 
+05NC10MAY_0201 1028515 1029490 ZH 是～
+05NC10MAY_0201 1029490 1032540 CS 你 一定要 start from small before you go to big one
+05NC10MAY_0201 1042780 1046540 CS that's why that's why 没有 那个 opportunity 没有 那个 chance 跟 那个
+05NC10MAY_0201 1047857 1048843 ZH 你有
+05NC10MAY_0201 1051170 1052378 ZH 你有
+05NC10MAY_0201 1054238 1056481 ZH 为什么 什么 时候 你 没有 讲 过
+05NC10MAY_0201 1065935 1067584 ZH 然后
+05NC10MAY_0201 1076290 1079490 ZH 你 那个 你 那个  
+05NC10MAY_0201 1079490 1081220 CS 没有 你 那个 是 one time 的
+05NC10MAY_0201 1083706 1084340 EN 
+05NC10MAY_0201 1084340 1086485 EN 
+05NC10MAY_0201 1086485 1089539 CS  daily operation 跟
+05NC10MAY_0201 1090121 1092201 ZH 一次 过 的 是 不一样 的
+05NC10MAY_0201 1092201 1095110 CS  好像 你 有 一个 event 你 不用 不用
+05NC10MAY_0201 1095110 1097560 CS 你 都 不用 market 它 嘛 你 just market your event then
+05NC10MAY_0201 1104492 1105718 EN 
+05NC10MAY_0201 1105718 1112726 EN    degree is the thing that safeguard you from
+05NC10MAY_0201 1115683 1122880 CS  你 懂 嘛 degree is 就 是 那 个 可以 保护 你 的 东西 in in case 你 你 你 真 的 是 (呃)
+05NC10MAY_0201 1122880 1127809 CS 失败 还是 你 不能 做 business 还是 怎样 你 还有 那个 degree 可以 帮 你 找 工作 嘛 
+05NC10MAY_0201 1134828 1138723 CS 没有 你 存钱 可以 很 容易 存 的 你 just 不要 吃  就 去 存 了 嘛
+05NC10MAY_0201 1140973 1144410 CS 你 partly 都 蛮 有 有 有
+05NC10MAY_0201 1146095 1148142 CS (er) okay ah 是
+05NC10MAY_0201 1149652 1153378 ZH  对 【咯】  
+05NC10MAY_0201 1154965 1160323 CS 真的 你  你 我 我 也是 没有 讲 要 save on 那个 food ah 可能 你 讲 你 觉得 我 应该 save 蛮 多 的
+05NC10MAY_0201 1171378 1175458 ZH 看 【咯】  
+05NC10MAY_0201 1177896 1183030 CS   the thing is okay lah as for now 是 因为 你 有
+05NC10MAY_0201 1183030 1184060 CS 你 有 scholarship
+05NC10MAY_0201 1184060 1185940 ZH 可能 没有 这样  
+05NC10MAY_0201 1185940 1190481 CS 没有 这样 多  worries ah 没有 这样多 things to worry about 
+05NC10MAY_0201 1190481 1191918 CS then 如果 有
+05NC10MAY_0201 1191918 1196043 CS 我 跟 你 不一样 嘛 我 是 loan mah then 我 也是 要 还 钱 嘛 出 来 
+05NC10MAY_0201 1196695 1199479 CS then 如果 你 不还 你 的 interest rate 就 
+05NC10MAY_0201 1199479 1202254 CS 一直 double double 越来越 多 越来越 多
+05NC10MAY_0201 1202254 1207612 ZH  所以  看 得 出来 为什么 你 觉得 说  有 一些 东西 没有 很 重要
+05NC10MAY_0201 1207612 1209444 ZH 对 
+05NC10MAY_0201 1209444 1214724 ZH 可是 我 就 觉得 很 就是 蛮 严重 【啦】 蛮 重要 【啦】
+05NC10MAY_0201 1223853 1232053 CS 又 很  我 跟 你 讲 financial financial investment 不是 不是 这样 简单 就是 说 你 给 钱 你 叫 那个人 去 帮 你 做 
+05NC10MAY_0201 1232555 1237389 ZH  那个 对 是 一样 的 那个 也是 需要 时间 的 不是
+05NC10MAY_0201 1244517 1245570 ZH 你
+05NC10MAY_0201 1256225 1257556 EN arh
+05NC10MAY_0201 1260221 1262423 ZH 所以 你 的 
+05NC10MAY_0201 1264890 1271736 EN this i i i agree that investment is one of the easy way to earn money
+05NC10MAY_0201 1273027 1279430 CS but 你 的 investment 你  你 不 可以 做  很像 你 不 可以 做 十年 二十年 你 都 在 
+05NC10MAY_0201 1279430 1284500 CS 你 赚钱 你是 你是 base on 你的 你的 analytical skill 可能 加 一点 你的 luck
+05NC10MAY_0201 1284500 1291684 CS  then 一次 你 可以 算 okay 算 两三 千 块 then 你 一 开始 玩 大 了 你 就 很 容易 亏 很 多 你 明白 吗
+05NC10MAY_0201 1300228 1302349 CS 对 啦 我 觉得 研究 stock 是
+05NC10MAY_0201 1310735 1315811 EN  correct lah is one of the way is one is one of the way
+05NC10MAY_0201 1319019 1322981 ZH 我 都 跟 你 讲过 其实 我 是 喜欢 那个
+05NC10MAY_0201 1325570 1327590 CS 其实 喜欢 跟 人家 interact
+05NC10MAY_0201 1327590 1330123 ZH 就是  【哎】 我 也 不懂 【啦】
+05NC10MAY_0201 1337672 1342894 CS 如果 如果 你 是 讲 just investment 的 话 then 倒 不如 一 开始 就 去 读 business 就 好 了
+05NC10MAY_0201 1344276 1348880 EN if if your your aim is to earn money then 
+05NC10MAY_0201 1348880 1351270 CS 你 一 开始 你 就 去 读 business 不 就 更好 吗
+05NC10MAY_0201 1356336 1357858 EN okay
+05NC10MAY_0201 1368222 1372520 CS investment 是  我 我 我有 我有 在 看
+05NC10MAY_0201 1372520 1377845 ZH 我 也 不是 我 也 有些 时候 有 在 看 那些 东西  不是 不是 这样 简单 的
+05NC10MAY_0201 1384345 1388218 CS  investment 的 技巧 就是
+05NC10MAY_0201 1394391 1403870 CS okay 你 讲 high high risk hor 以前 以前 那 个 bond ah 那个 lehman brother 的 bond ah  是 那个 bond 是
+05NC10MAY_0201 1403870 1405600 CS 最 low risk 的 investment ah
+05NC10MAY_0201 1408579 1410040 CS 不是 okay 
+05NC10MAY_0201 1410040 1414520 CS 你 讲 risk mah 那个 是 最 low-risk 的 investment leh 为什么 还是 这样 多人 从 那边 亏 钱
+05NC10MAY_0201 1422128 1424251 ZH 对 所以 你 是 讲 那个
+05NC10MAY_0201 1433829 1439647 CS 不是 那个 是 因为 你 是 讲 low-risk 的 东西 比较 好 investment
+05NC10MAY_0201 1444853 1449940 CS 你 懂 那个 可是 那个 reason for economic recession 不是 因为 那个 lehman brother 的 bond
+05NC10MAY_0201 1456385 1457478 EN xiao jue
+05NC10MAY_0201 1458846 1459781 EN arh
+05NC10MAY_0201 1478177 1479448 EN arh arh arh
+05NC10MAY_0201 1483149 1486077 CS 可是 那个 是 你 要 有 那个 need mah
+05NC10MAY_0201 1486077 1487270 ZH 你 明白 吗
+05NC10MAY_0201 1490655 1492600 CS  okay loh 所以 是
+05NC10MAY_0201 1504387 1505854 EN (erm)
+05NC10MAY_0201 1512061 1515147 ZH  不是 不是 想 要 自己 做 老板 是
+05NC10MAY_0201 1518088 1523717 CS okay lah 可能 男孩子 比较 事业 比较  career
+05NC10MAY_0201 1525375 1527316 CS then 女孩子 就 比较 想 要
+05NC10MAY_0201 1542154 1553539 CS 我 没有 就   不是 我 我 不是 死死 在 一个 东西 是  你 before 你 有 很 多 东西 你 一定 要有 你 一定 要 focus when you do something you need to focus mah 
+05NC10MAY_0201 1553539 1554745 EN is not like 
+05NC10MAY_0201 1554745 1564481 CS 我 在 做工 then 我 part-time 可以 不是 不可以 是 可以 可是  男孩子 男孩子 本身 是 不可以 这样子 分心 做 东西 的 你 知道 吗 
+05NC10MAY_0201 1564481 1571751 ZH 他们 不 可以 一边 读书 一边 看 电视机 他们 不 可以 可是 女孩子 是 可以 一边 讲 电话 一边 读书 还是 怎样 他们 可以 两 三 个 东西 一起 做 
+05NC10MAY_0201 1571751 1574963 CS 男孩子 不 可以 这个 是  by nature of
+05NC10MAY_0201 1576760 1579063 CS men and women 那个 difference mah 
+05NC10MAY_0201 1581203 1582908 ZH 对不对
+05NC10MAY_0201 1586170 1587237 ZH 哦 懂
+05NC10MAY_0201 1589662 1594078 CS 还 没有 想 有些 是 friend 还 没有 discuss but 我 觉得 应该 是 去
+05NC10MAY_0201 1594867 1599361 CS 他们 上次 因为 他们 上次 要去 那个 wild wild wet  还是 去
+05NC10MAY_0201 1599361 1602890 CS  因为 他们 之前 选 要 去 wild wild wet 还是 去 sentosa
+05NC10MAY_0201 1602890 1608120 CS  then 没有 之前 for 我 的 either wild wild wet 还是 sentosa 
+05NC10MAY_0201 1608120 1609510 CS then in the end 他们 去了 sentosa
+05NC10MAY_0201 1609510 1616150 CS 可能 这次 我 觉得 可能 因为 是  before exam ah  如果 他们
+05NC10MAY_0201 1618492 1619718 EN depends loh
+05NC10MAY_0201 1619718 1624354 CS depends 看 他们 讲 我 觉得 因为 有 两个 在 i. a. mah 所以 那 两个 还好 
+05NC10MAY_0201 1624354 1625440 ZH 如果 全
+05NC10MAY_0201 1626703 1628901 ZH 不懂 【叻】 我们 也 没有 还没有 跟 她 讲
+05NC10MAY_0201 1632005 1635048 CS 噢 你们 是 after exam ah  then
+05NC10MAY_0201 1642139 1643522 ZH 【噢】 我也是
+05NC10MAY_0201 1645243 1651717 CS 没有 啊 我 觉得 我们 不一定 不 需要 一定 要 选 啊 因为 我们 多数 都是 singaporean 全部 都 在 啊 
+05NC10MAY_0201 1652653 1655754 CS 没有 我 对 啦 如果 in case 你们 的 人 很
+05NC10MAY_0201 1657318 1659623 ZH  回家 先 然后 再 回来
+05NC10MAY_0201 1659623 1672204 CS  可以 啊 我们 okay ah  我 觉得 他们 等 他们 讨论 看 怎样 啦 but  是 因为 因为 他 附近 考试 嘛 either before exam or after exam mah but most probably will be after exam lah
+05NC10MAY_0201 1676653 1679030 CS  对 咯 but 不是 plan
+05NC10MAY_0201 1679030 1681700 CS 通常 planning 的 人 都 不是 我们 嘛 都 不是 我
+05NC10MAY_0201 1681700 1682909 ZH 都是
+05NC10MAY_0201 1685402 1693288 EN  you plan the important thing that you feel~ you you plan the  thing that you feel imp~ that is important
+05NC10MAY_0201 1704882 1711325 CS so 没有 我 f. y. p. planning lah everything lah  我 的 f. y. p. lah 我 的 study lah
+05NC10MAY_0201 1714664 1719000 EN   correct 
+05NC10MAY_0201 1736360 1742930 CS 是 因为 没有 人 initiate 讲 现在 要 celebrate  我 觉得 
+05NC10MAY_0201 1742930 1746770 CS 因为 我 觉得 我 自己 没有 那个 时间 去 before exam 做 这种 东西
+05NC10MAY_0201 1746770 1750790 ZH  你 明白 吗
+05NC10MAY_0201 1752775 1754410 EN there's always
+05NC10MAY_0201 1757529 1762201 CS okay 我 plan 东西 我 很 少 去 plan 东西  对 咯
+05NC10MAY_0201 1763886 1767475 CS 是 depend on whether i want to plan or i don't want to plan
+05NC10MAY_0201 1772057 1784597 CS is not that is not that 我 我 我觉得 我~ 我 需要 去 做 如果 我需 我觉得 我 需要 去 做 我 就会 去 做 啦  可是 好像是 你 讲 xin hui 生日 这样子 的 东西 
+05NC10MAY_0201 1784597 1791927 CS 因为 一直 以来 那个 生日 的 东西 我 都 没有 讲要 involve 的 就是 人家 organise 了 then 我 就 去
+05NC10MAY_0201 1802556 1805430 EN you mean in the group of friends lah
+05NC10MAY_0201 1810925 1813920 CS  没有 啊 for g. s. s. 是 没有 啦 因为
+05NC10MAY_0201 1813920 1816950 CS 我 一直 以来 都 不是 那种 在 那个 group 的 planner mah
+05NC10MAY_0201 1817538 1818882 CS 我 都 不 需要 plan
+05NC10MAY_0201 1819355 1820285 ZH 我 都 不 需要
+05NC10MAY_0201 1828345 1829414 EN what makes you think that
+05NC10MAY_0201 1836032 1838062 CS 不是 must be someone 会 plan 是
+05NC10MAY_0201 1839432 1843382 CS 我们 可以 一起 plan  我们 可以 给 suggestions
+05NC10MAY_0201 1846429 1850571 CS but 为 什么 要 initiate 它 先 since is after exam mah
+05NC10MAY_0201 1853082 1856464 CS but is not the time yet mah 就是 没有 没有
+05NC10MAY_0201 1860611 1871293 EN is not wait until last minute is is that everyone is busy with their exam with their studies  and no one to really care
+05NC10MAY_0201 1871977 1873089 EN it now
+05NC10MAY_0201 1887045 1889920 CS  okay the point is 你 要 我 跟 他们 讲
+05NC10MAY_0201 1889920 1892980 CS 我们 celebrate after the exam before 你们 celebrate
+05NC10MAY_0201 1897196 1898819 EN then what's the main point
+05NC10MAY_0201 1905988 1910440 CS okay but 我 觉得 这种 动
+05NC10MAY_0201 1919015 1928484 CS not that 她们 比较 我 跟你 讲 女孩子 她们 会 plan for 这种 leisure activities 男孩子 他们
+05NC10MAY_0201 1935673 1937357 EN what you mean by group activities
+05NC10MAY_0201 1940534 1948776 CS  okay let's say let's say let's say let's say if if let's say is for work for for e. c. a. 我 可以 plan
+05NC10MAY_0201 1948776 1950490 CS 我 会 去 take initiative
+05NC10MAY_0201 1955138 1959689 EN no when you have responsibility then you would take initiative to do it
+05NC10MAY_0201 1972202 1975456 CS   is depend on your role mah 这样子
+05NC10MAY_0201 1976057 1982072 CS okay 你 plan 了 你 plan 了 then okay for example 我 是 member then 你 是 leader  correct
+05NC10MAY_0201 1983409 1990400 CS under normal circumstances 如果 你 是 一个 男孩子 我是 我 也是 男孩子 then 我 我 我 我 我去 plan 我去 plan 我去 plan 
+05NC10MAY_0201 1990400 1993470 CS okay 我 propose 给 你 你是 看 okay 你 觉得 okay 了 你 会 拿
+05NC10MAY_0201 1993470 1997774 CS  可是 你 也会 自己 plan 过 一个 你 熟 觉得 你 自己 觉得 是 最好 的
+05NC10MAY_0201 1998311 1999368 EN is the same thing ah
+05NC10MAY_0201 2004544 2008231 CS 所以 我 的 意思 是 我 plan 了 也是 没有 用 的 你 明白 吗
+05NC10MAY_0201 2008231 2017843 CS  我 可以 sub~  no is not is not suggest is plan suggestion is that i 我 刚才 讲 噢 我 觉得 这个 可以 好 叻 
+05NC10MAY_0201 2017843 2023882 CS 没有 我是 讲 你 plan 完 整个 东西 给 他 是 没有 用 的 你 可以 suggests 你 suggest 这个 这个
+05NC10MAY_0201 2028919 2032076 EN what makes you think that he will follow your plan
+05NC10MAY_0201 2033675 2034634 EN arh okay
+05NC10MAY_0201 2036014 2038316 CS okay for example 他 follow 你 然后
+05NC10MAY_0201 2038316 2043617 EN you are still not the leader because you are not you don't have the the role to be the leader
+05NC10MAY_0201 2044503 2045929 CS 因为 你 是 member
+05NC10MAY_0201 2046357 2049249 EN no is because you are member is not you are not the head
+05NC10MAY_0201 2053020 2055040 CS 没有 你 刚才 是在 讲 那个 portfolio mah
+05NC10MAY_0201 2057879 2060772 EN okay why you want to be the head of your of your group of friends
+05NC10MAY_0201 2066937 2068620 EN the quality you want to show
+05NC10MAY_0201 2071058 2075170 CS 那种 是 那种 是 work when you 如果 你 在
+05NC10MAY_0201 2080875 2090210 CS 没有 我 的 意思 是 说 当你 在 做工 的 时候 你 可以 你 可以 show 你 的 leadership 可是 在 在 朋友 你 在 这样 relax 是 时候 你 跑 去 
+05NC10MAY_0201 2095498 2102157 CS okay that means i 对 咯 所以 我要 practice loh 对 对 对
+05NC10MAY_0201 2102157 2110376 CS  不是 不对 是  我觉得 是 因为 在 relax 在 你在 friends 的 时候 是 under relax condition mah
+05NC10MAY_0201 2110376 2121890 CS  correct you can plan lah 好像 okay  你 可以 plan 好像 那种 (嗯) 招 那种 生日 你 可以 plan
+05NC10MAY_0201 2121890 2123180 CS 你 可以 take initiative 去
+05NC10MAY_0201 2123180 2124739 ZH 交 叫 人家
+05NC10MAY_0201 2127552 2130320 EN is culture lah
+05NC10MAY_0201 2135932 2139778 CS  因为 我们 男孩子 的 culture 是 这样子 嘛 你 明白 吗
+05NC10MAY_0201 2144070 2145593 CS 不是 okay for
+05NC10MAY_0201 2148478 2153619 CS 我 跟 你 讲 okay for example 昨天 ai zhao 生日 如果 我 去 plan 很多 很多 很多 东西
+05NC10MAY_0201 2153619 2157802 ZH  你 懂 他们 会 讲 什么 做么 这样 多 事情 做么 搞 这样 多 东西
+05NC10MAY_0201 2157802 2160166 CS  just normal 买 个 cake 就 好 了 啊
+05NC10MAY_0201 2160166 2161411 EN then what's the point
+05NC10MAY_0201 2162525 2165700 CS 你 make 全部人 都 不开心 because of 你的 你的 plan
+05NC10MAY_0201 2168239 2170181 CS confirm 会 有 celebration correct
+05NC10MAY_0201 2170709 2173316 EN but is not is now is not the time to plan
+05NC10MAY_0201 2177007 2180910 CS  no is by today 还没有 那个
+05NC10MAY_0201 2180910 2183660 CS 就是 还没有 还没有 那个 discussion about the plan
+05NC10MAY_0201 2183660 2185960 EN  when there is discussion then we would 
+05NC10MAY_0201 2188673 2190617 EN depends ah
+05NC10MAY_0201 2192096 2193153 EN 
+05NC10MAY_0201 2201926 2205096 CS okay so 我 to  
+05NC10MAY_0201 2212401 2213633 ZH 什么 不 可以
+05NC10MAY_0201 2231016 2231887 EN for what
+05NC10MAY_0201 2234490 2237423 ZH  我 我 不懂 我 不 我
+05NC10MAY_0201 2240238 2242818 ZH 什么 叫 讲 别  别 的 东西 
+05NC10MAY_0201 2243645 2245493 ZH 我 觉得 每次 吵架
+05NC10MAY_0201 2245493 2247320 ZH 都 是 因为 我们 的
+05NC10MAY_0201 2247785 2250620 ZH  我们 的 那个 （嗯） 
+05NC10MAY_0201 2250620 2256070 CS idea 不同 我们的 background 可能 是 因为 different background ah one major problem lah
+05NC10MAY_0201 2256070 2258900 EN  then
+05NC10MAY_0201 2258900 2260180 CS opinion 不一样
+05NC10MAY_0201 2260180 2262105 CS out of the way you think 不一样
+05NC10MAY_0201 2262105 2266381 CS because of your background 就 makes you have a different character
+05NC10MAY_0201 2268787 2270757 CS 所以 你讲 每次 你是 leader okay
+05NC10MAY_0201 2271390 2272619 CS 为什么 你是 leader
+05NC10MAY_0201 2272619 2275400 CS 因为 你 讲 每次 都是 你 take initiative to plan everything
+05NC10MAY_0201 2275400 2276752 EN  but
+05NC10MAY_0201 2276752 2279462 CS 其他人 可能 他们 不觉得 你是 leader is just that
+05NC10MAY_0201 2284907 2293060 CS 没有 okay  我 跟 你 讲 如果 好像 for 那个 ah zhao 的 for example lah 我 just example  如果 我 去 plan
+05NC10MAY_0201 2293060 2299043 CS 我 去 plan then 我 做 很多 很多 那种  很 稀 的 哇 很 excited 
+05NC10MAY_0201 2299043 2302483 ZH 很 很 很 很 很多 很 需要 很多 人 的
+05NC10MAY_0201 2303940 2310896 CS then 他们 可能 需要 给 多 一点 钱 他们 就讲 做么 做到 这样 他们 一定 会 讲 做么 这样子  
+05NC10MAY_0201 2310896 2316095 CS 虽然 你 觉得 啊 我 是 leader 因为 我 plan 全部 嘛 可是 他们 不会 这样子 觉得 你 是 leader
+05NC10MAY_0201 2320042 2330744 CS 没有 他们 会 participate the point is 没有 the problem is 他们 会 participate what you plan but after that 他们 会 complain about it
+05NC10MAY_0201 2334519 2335681 ZH 就 没有 人 【咯】
+05NC10MAY_0201 2337772 2338778 ZH 四个 【咯】
+05NC10MAY_0201 2338778 2341350 CS in the end 就 五个 人 for 
+05NC10MAY_0201 2342153 2346079 ZH 没有 所以 就有 五个人 帮她 庆祝 罢 了 【咯】 其他 都 不要 庆祝 了 【咯】
+05NC10MAY_0201 2347479 2349536 ZH 一 开始 有 十 十五个
+05NC10MAY_0201 2352594 2354465 EN which means you need more time lah
+05NC10MAY_0201 2356013 2358701 EN then which means is not possible because
+05NC10MAY_0201 2358701 2372867 CS   okay  如果 如果 如果 每一年 生日 一直 以来 每一个 我们 的 四个 男子 里面 四个 some text 放在 里面 一直 以来 四个 的 人 都是 这样子 
+05NC10MAY_0201 2373923 2374943 ZH 你 明白 吗
+05NC10MAY_0201 2380567 2382208 CS 你 在 讲 xin hui hor
+05NC10MAY_0201 2383959 2387630 CS   我 觉得 xin hui 的 是 
+05NC10MAY_0201 2387630 2390880 CS maybe till that time 我们 就会 有 那种 discussion lah but
+05NC10MAY_0201 2390880 2392273 EN is not the 
+05NC10MAY_0201 2395456 2400891 ZH 不是 不是 等 时间 到 的 问题 【啊】 我 觉得 
+05NC10MAY_0201 2401630 2409471 CS okay lah 可能 你们 讲 你们 说 你们 可能 很 早  (嗯) discuss 了 因为 你们 觉得 (嗯) 这样子
+05NC10MAY_0201 2411997 2414881 ZH 所以 你 你的 意思 是 
+05NC10MAY_0201 2415980 2422531 CS  所以 the everything 是 你 就是 就是 对 啦 就是 你 自己 plan lah then  没有人 support lah
+05NC10MAY_0201 2423751 2424935 ZH 没有 没有人 是
+05NC10MAY_0201 2436769 2444010 CS   okay okay 我 问 你 为什么 你会 觉得 为什么 会  为什么 她们 不会 
+05NC10MAY_0201 2444010 2447710 CS 为什么 她们 不会 去 去 去 help in planning the thing
+05NC10MAY_0201 2447710 2453638 EN  correct because they are follower  but when thing comes like when there is
+05NC10MAY_0201 2453638 2461387 CS (erm) things that related to their carreers things that related to their future then 她们 会不会 plan 她们 会 plan
+05NC10MAY_0201 2461387 2468092 CS  她们 会 initiate 她们 take initiative to plan because think that things that related to them
+05NC10MAY_0201 2473328 2478230 CS okay lah maybe 可能 你 以前 参加 过 那些 leadership program
+05NC10MAY_0201 2478230 2479568 ZH 你 会 比较 
+05NC10MAY_0201 2483324 2488201 CS 你 会 比较 好 啦   then 你 刚才 讲 的 什么 
+05NC10MAY_0201 2489979 2492836 ZH  你 刚才 讲 的 那个 时间 是 什么
+05NC10MAY_0201 2496361 2500041 CS  什么 trivial
+05NC10MAY_0201 2503649 2508292 CS okay loh  所以 等一下 你 回去 了 啦 没有 上课 了
+05NC10MAY_0201 2509810 2517660 CS 我 等一下 应该 还是 需要 回 lab ah because 我 觉得 今天 应该 会 做 比较 迟 因为  (arh) if for example
+05NC10MAY_0201 2517660 2521460 CS today 我 finish 了 三个 sample then 明天 可能 不 需要 做
+05NC10MAY_0201 2524100 2524717 EN ah
+05NC10MAY_0201 2526574 2527891 EN tomorrow
+05NC10MAY_0201 2528634 2536750 CS 做么 就是 今天 做了 明天 就 不用做 啦 因为 现在 那个 p. h. d. student 他 已经 
+05NC10MAY_0201 2536750 2538550 CS prepare 他的 exam 了 放假 了
+05NC10MAY_0201 2538550 2549510 CS  所以 is like no people guiding us then we do ourself and we don't know whether is correct or wrong  but we just (er) just do loh  
+05NC10MAY_0201 2549510 2551430 CS then some more 那个 equipment 也 坏 了
+05NC10MAY_0201 2551430 2558023 CS  因为 我 跟 妳 讲 我们 的 lab 的  的 equipment 都 很 老牙 了 全部 中国 买回来
+05NC10MAY_0201 2558023 2562585 CS 然后  很容易 坏  then 那天
+05NC10MAY_0201 2564451 2566044 CS 那个 microscope 就 坏 了
+05NC10MAY_0201 2566044 2568530 CS then 那个 电脑 才 坏
+05NC10MAY_0201 2571657 2580814 CS  噢 对 有一次  那个 forceps 我的 一个 friend  他 有一晚 message 我们 讲 他 destroy 全部 forceps
+05NC10MAY_0201 2580814 2584372 CS 因为 他 把 那个 forceps 放进 acid
+05NC10MAY_0201 2584372 2588137 CS 里面 太久 了  then 那个 forceps corroded
+05NC10MAY_0201 2590134 2593583 CS  他 就 message 我们 跟 我们 讲 sorry the
+05NC10MAY_0201 2593583 2598736 CS friends because 他 他 弄 坏 全部 forceps 了 我们 可能 没有 forceps 用 
+05NC10MAY_0201 2598736 2601399 ZH 然后 明天 过后 后天 我们 过去 学校 看 
+05NC10MAY_0201 2601399 2606322 CS 其实 就 还好 只是 那个  外层 corroded 你 还 可以 kiep
+05NC10MAY_0201 2606322 2615459 CS  所以 那个 p. h. d. student 他就 去拿 砂纸 磨磨磨磨磨 磨掉 那些 黑黑 的 就 继续 用 咯  but if 
+05NC10MAY_0201 2615459 2619526 CS if 真的 是 坏了 的 话 就要 买过 新的 买过 新的 就要 钱 
+05NC10MAY_0201 2619526 2622631 ZH 然后 就  看 【啦】 因为 我们 
+05NC10MAY_0201 2622631 2627703 CS 因为 我们 一个 f. y. p. student 有 五百块  所以 如果 他有 六个 f. y. p. student 他就有
+05NC10MAY_0201 2627703 2631026 CS 六 乘 五百 for 那个 semester
+05NC10MAY_0201 2634465 2637336 ZH 可是 我们 也是 没有 的 用到 五百块 【叻】
+05NC10MAY_0201 2638729 2640220 EN 
+05NC10MAY_0201 2646548 2653115 CS 对 咯 所以 你 应该 问 他们  about  你你 
+05NC10MAY_0201 2663808 2667775 CS  then 你们 那个 五百块 怎样办
+05NC10MAY_0201 2671389 2675114 CS then 为什么 没有人 会问 讲 说 我们 不是 有 五百块 for f. y. p. 这样子 嘛
+05NC10MAY_0201 2681084 2683480 CS  你 讲 我是 leader leh 
+05NC10MAY_0201 2686836 2688180 EN ha
+05NC10MAY_0201 2689544 2693442 ZH  没有 【啦】 我～ 
+05NC10MAY_0201 2693442 2701774 CS okay lah 因为 我们 的 五百块 是 拿来 买 那种  material 其实 不是 讲 去 弄到 那个 equipment 的 钱 啊 
+05NC10MAY_0201 2701774 2705730 CS equipment 的 钱 是 under  professor 自己的 fundings 的
+05NC10MAY_0201 2716449 2726560 CS then 又  暂时 还是 这样子 啊 因为 因为 坏 了 then 没有 没有 warranty 所以 可能 professor 就 不爽 咯  
+05NC10MAY_0201 2733036 2734359 ZH 这样 你
+05NC10MAY_0201 2735960 2737105 ZH 你 还没 想到 【啊】
+05NC10MAY_0201 2738961 2739764 EN ha
+05NC10MAY_0201 2743199 2744185 EN oh
+05NC10MAY_0201 2746580 2750430 CS 没有 【啊】 but 讲回 刚才 刚才 讲 到 一半 那个
+05NC10MAY_0201 2750430 2755133 CS  about 那个 leadership 的 问题 啊
+05NC10MAY_0201 2761679 2773777 CS  for xin Ｈui 的 我 觉得 不是 不是 说 我们 我 不要 去 initiate it 还是 什么  只是 说 还没 到 right 的 时间
+05NC10MAY_0201 2777341 2778407 EN 
+05NC10MAY_0201 2780976 2784652 ZH  不是 是因为 要看
+05NC10MAY_0201 2784652 2788077 ZH 其 他 人 都 在 得空 【嘛】 因为 通常 早上
+05NC10MAY_0201 2790486 2798451 CS  没有 因为 早上 早上 大家 都 在 上课 我们 通常 都是 晚上 嘛  then 前 前两天 都是 比较 忙 嘛 我
+05NC10MAY_0201 2800615 2802233 ZH 对不对
+05NC10MAY_0201 2805589 2809481 CS so okay lah 我 会 回去 问 啦 if is that case
+05NC10MAY_0201 2819843 2823645 ZH  对 【啦】
+05NC10MAY_0201 2829150 2832126 ZH  你 对 你 自己 【叻】
+05NC10MAY_0201 2834575 2835820 EN  oh
+05NC10MAY_0201 2835820 2838750 CS then 你有 做到 你有 meet 到 你 对 你 自己的 requirement 吗
+05NC10MAY_0201 2844716 2845481 EN 
+05NC10MAY_0201 2848341 2852702 CS 明白 了 对 咯 你的 requirement 是 蛮高的
+05NC10MAY_0201 2858514 2861916 ZH  等一下 晚上 要 吃 什么
+05NC10MAY_0201 2864307 2865732 ZH  没有 【meh】
+05NC10MAY_0201 2868570 2871570 CS 没有 我 会 迟 一点 回来 就 about six to seven lah
+05NC10MAY_0201 2874490 2876781 ZH 【哦】 好 【啊】 几点 出去 【啊】
+05NC10MAY_0201 2880491 2882903 EN (er) about six to seven ah
+05NC10MAY_0201 2891090 2897642 EN just just pass to finance  can already ah
+05NC10MAY_0201 2902634 2903430 EN so
+05NC10MAY_0201 2909695 2910392 ZH 我 觉得
+05NC10MAY_0201 2911740 2913230 CS 这个 session 蛮 不错 啊
+05NC10MAY_0201 2915666 2921435 ZH  不是 我 觉得 不错 这是 因为 它 有 给 一个  我 觉得 
+05NC10MAY_0201 2926228 2935593 CS  achieve consensus 是 when you have when you comes to same 就是 有一人 让步 还是 两个人 让步 
+05NC10MAY_0201 2935593 2944089 CS 没有 因为 全部人 都 坚实 你 自己 的 想法  你 坚实 你的 所以 就 没有 永远 不会 有 consensus lah that's why lah
+05NC10MAY_0201 2948865 2958121 ZH 我 觉得 我 觉得 当 你 心情 不好 的 时候 你 真的 是 会  什么 都 不 不管 就是 没有 
+05NC10MAY_0201 2964125 2967214 EN the the
+05NC10MAY_0201 2972395 2973578 ZH 对 【咯】
+05NC10MAY_0201 2980580 2982290 CS ok lah 就到 这边 啦 这个 session
+05NC10MAY_0201 2986280 2988224 ZH 没有 还有 十分钟 【啊】 
+05NC10MAY_0201 2999209 3000594 EN yah correct
+05NC10MAY_0201 3005168 3006563 ZH 讲 【啦】 我 在 听 【啦】
+05NC10MAY_0201 3007366 3008339 CS then 为什么
+05NC10MAY_0201 3011808 3015127 EN ok lah  you go and talk lah
+05NC10MAY_0201 3016466 3019168 ZH 我 没有 在 听 你 的 
+05NC10MAY_0201 3021555 3029949 CS  没有 no the problem is why you cannot talk in front of me 
+05NC10MAY_0201 3033239 3035009 EN then just talk to the desktop ah
+05NC10MAY_0201 3038614 3048624 ZH    你 不 觉得 你 不 觉得 你 突然 间 会 心情 很坏 然后 你 就会 就是 你 很 情绪化
+05NC10MAY_0201 3061767 3073199 CS 没有 啊 因为  因为 你 不觉得 你 不会 好像 在 一种 时候 不应该 这样子 then 你就 有时 你 不会了 你就是   anytime any place
+05NC10MAY_0201 3074711 3079601 CS not care 这种 is is manage your own emotion mah
+05NC10MAY_0201 3082625 3083666 EN ah
+05NC10MAY_0201 3085372 3086809 EN 
+05NC10MAY_0201 3090552 3092158 ZH 我 很 我 可
+05NC10MAY_0201 3095181 3097521 ZH 我 觉得 我 没有 你 这样 厉害
+05NC10MAY_0201 3098348 3100099 EN in terms of
+05NC10MAY_0201 3100099 3102345 CS getting angry 还是
+05NC10MAY_0201 3105906 3109976 CS 没有 我是 觉得 你是 很 not 很 很 很 not reasonable
+05NC10MAY_0201 3117117 3127554 CS 没有 我 的 意思 conversation 是 between two ways 的 嘛 if let's say if let's say 我 跟 一个 墙壁 讲话 那个 墙壁 没有 回答 我 what point is not
+05NC10MAY_0201 3137694 3143798 ZH  对 【咯】 不是 我 不是 觉得  可是 我 觉得  当 一 个 人 不想 讲
+05NC10MAY_0201 3143798 3145820 ZH 你 要 讲 宁外 一个人 要 怎样 讲
+05NC10MAY_0201 3147095 3150760 EN you understand or not it's it's conversation it's not talk to yourself
+05NC10MAY_0201 3150760 3156521 EN if is talk to myself okay i~ i can lah do without you lah  but if is a conversation
+05NC10MAY_0201 3168624 3170638 EN then how about you think the other way
+05NC10MAY_0201 3171962 3174977 CS 我 how about you think the other way round 
+05NC10MAY_0201 3183046 3185634 CS okay  为什么 你会
+05NC10MAY_0201 3187649 3190634 CS okay 你 你 不爽 的 原因 是 因为 我 迟到 【嘛】 
+05NC10MAY_0201 3191629 3192773 ZH 对不对
+05NC10MAY_0201 3194791 3195968 EN ah
+05NC10MAY_0201 3197539 3199681 EN then the other half
+05NC10MAY_0201 3202949 3214980 CS is because of  is because okay is because when  我 迟到 then 你 不爽 then after that we have fitted conversation is because of that conversation then 你就 contribute the other half 
+05NC10MAY_0201 3215746 3216845 EN 
+05NC10MAY_0201 3228661 3232698 EN  okay 
+05NC10MAY_0201 3234056 3237206 EN en hurt lor   what can i say?
+05NC10MAY_0201 3239419 3240834 EN is because of
+05NC10MAY_0201 3240834 3243844 EN okay lah is because of the character as you said
+05NC10MAY_0201 3243844 3256589 CS  (er) i   i think if you trace back to very very 很早 之前 呢 我 觉得 你 也是  没有 这样 讲到话 咯 all the way 
+05NC10MAY_0201 3256589 3258306 EN is just you keep
+05NC10MAY_0201 3262160 3263920 CS 一直 在 attack 我
+05NC10MAY_0201 3265307 3267439 ZH 讲我 这个 不好 那个 不好 还是 什么
+05NC10MAY_0201 3273943 3275872 ZH 我 也是 这样 想
+05NC10MAY_0201 3285144 3287895 ZH  没有 没有 没有 八卦 在 里面
+05NC10MAY_0201 3288994 3294038 CS actually 我们 可以 讲 关于 之前 你 遇到 那个 ling yu 那个 d. j.
+05NC10MAY_0201 3294038 3295051 ZH 这 种 东西
+05NC10MAY_0201 3298279 3301737 EN  but there was one that one is a good side ah
+05NC10MAY_0201 3303383 3304831 CS 我 觉得 okay mah
+05NC10MAY_0201 3304831 3309775 ZH  就 看 人家 在  在 生气 的 时候 
+05NC10MAY_0201 3309775 3313888 CS 讲 的 话 compare to 没有 生气的 时候 讲 的 话
+05NC10MAY_0201 3318755 3329369 CS is because is because  你 的 生气 你 生气 的 时候 你 会  remain in silence then you won't talk and  you
+05NC10MAY_0201 3329369 3336720 EN correct correct correct correct that's what that's what you are doing you you won't talk and you expect me  to talk all the way
+05NC10MAY_0201 3337408 3340377 EN and i i took initiative to talk then
+05NC10MAY_0201 3342270 3345436 EN then what's what's your response you you didn't response
+05NC10MAY_0201 3347173 3352373 EN you just hum hum hum you just try to end that conversation with very short answers 
+05NC10MAY_0201 3357673 3364141 EN  i think if you really trace back to the the start you will know lah
+05NC10MAY_0201 3364951 3366769 EN is very obvious lah
+05NC10MAY_0201 3370268 3374021 CS 哈诺 你的 你的 answer 就是 没有 啊 oh hum hum 这样子 咯
+05NC10MAY_0201 3391237 3394455 ZH 所以 妳 是 在 怪 人 的 声音 的 问题
+05NC10MAY_0201 3394455 3396408 CS tone 是 声音
+05NC10MAY_0201 3406352 3408386 ZH  可能 有 人 好像
+05NC10MAY_0201 3408386 3413392 ZH 有 些 人 很会 讲 故事 有 些 人 不会 讲 故事 可能 我 是 那种 不会 讲 故事 的 人 
+05NC10MAY_0201 3416570 3418472 ZH 对 咯
+05NC10MAY_0201 3420489 3427622 CS 对 你也 很会 讲 故事 的  如果 你 不 生气 的 话  so 所以 你 比较 pop~
+05NC10MAY_0201 3437705 3443082 CS 可以 the point is the point is 你 talk to the wall and conversation
+05NC10MAY_0201 3444252 3452086 EN you need to meet the purpose of this recording mah the the purpose of recording is not talk to yourself is talk to the other 
+05NC10MAY_0201 3453074 3459191 CS  that's not the that's not the reason they 他们 请 两个人 回来
+05NC10MAY_0201 3459191 3460790 EN understand or not
+05NC10MAY_0201 3460790 3462800 CS if they really 邀请 一个人
+05NC10MAY_0201 3462800 3466632 ZH 就 算 了 【啦】 你 他 真 的 想 自己 讲话 的 话 
+05NC10MAY_0201 3469899 3471059 EN correct
+05NC10MAY_0201 3471522 3472959 EN is better not to ah
+05NC10MAY_0201 3477312 3482332 EN  no i think can provided if you are not angry
+05NC10MAY_0201 3482332 3483542 EN yes
+05NC10MAY_0201 3485135 3486345 EN yes
+05NC10MAY_0201 3489155 3490138 EN 
+05NC10MAY_0201 3492243 3495256 ZH 换 去 谁 换 去 谁
+05NC10MAY_0201 3501185 3512681 CS 所以 没有 所以 所以 你 的 意思 是 讲 如果 okay 跟 你 讲 一个 小时 人 就是 那种 怪  不会 反对 你 的 不会 反驳 你 的 他 他 觉得 东西 是 跟 你 的 一样 的
+05NC10MAY_0201 3531794 3533400 CS 啊 回去 relax loh
+05NC10MAY_0201 3534875 3535657 EN then
+05NC10MAY_0201 3538905 3540298 EN think can already ah
+05NC10MAY_0201 3544220 3547090 CS 你 不 讲话 for one more minute is no difference what

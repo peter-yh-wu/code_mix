@@ -1,0 +1,784 @@
+07NC13MBP_0101 3653 4522 ZH 我 会 握住 它
+07NC13MBP_0101 7692 8618 CS 它 一直 increasing leh
+07NC13MBP_0101 14481 16079 EN 
+07NC13MBP_0101 16079 19193 ZH 哇 一小时 啊 这样 我 在 这边 待了 一个 钟头半 啊 
+07NC13MBP_0101 20043 23550 ZH  有没有 加 加班费
+07NC13MBP_0101 24391 26159 EN 
+07NC13MBP_0101 30366 31072 ZH 诶 你好
+07NC13MBP_0101 31549 32082 EN hello
+07NC13MBP_0101 33176 33681 ZH 有
+07NC13MBP_0101 34382 35476 ZH 再来 有点 小声 啊
+07NC13MBP_0101 38786 40525 CS hello 哦 真的 哦
+07NC13MBP_0101 41535 42573 ZH 那 我 要 放前 一点
+07NC13MBP_0101 45238 45771 EN hello
+07NC13MBP_0101 46108 46612 EN hello
+07NC13MBP_0101 48296 49137 ZH 不要 这么 <unk> 啊
+07NC13MBP_0101 56374 57468 ZH 最近好 吗
+07NC13MBP_0101 60611 62294 EN 
+07NC13MBP_0101 67231 67792 ZH 好 好
+07NC13MBP_0101 70205 71360 EN <unk> switching
+07NC13MBP_0101 71360 73760 CS 今天 过 得 very nice 这样
+07NC13MBP_0101 73760 77190 ZH 是 嘞  好 好 好
+07NC13MBP_0101 78087 80668 ZH 如果 中间 我 有 一些 笑 不用紧 对不对
+07NC13MBP_0101 85385 86395 ZH 好 好 好
+07NC13MBP_0101 87349 87825 EN 
+07NC13MBP_0101 88499 89396 ZH 好 没问题
+07NC13MBP_0101 92959 94810 CS 聊 什么 okay 我们 先 聊 最近
+07NC13MBP_0101 97600 100920 CS 我们 就 聊 最近 为什么 eunice 变得 这么 blur
+07NC13MBP_0101 105306 106652 ZH 而且 我 也是 很 sian 嘞
+07NC13MBP_0101 106652 108532 ZH 说 真的 
+07NC13MBP_0101 109682 111870 ZH 我 拜四 考完 <unk> 我 就 可以 了
+07NC13MBP_0101 113693 114366 EN <unk>
+07NC13MBP_0101 117329 119550 CS four years ah 这个 是 第一次
+07NC13MBP_0101 119550 122230 ZH 完全 没有
+07NC13MBP_0101 122230 124690 CS 没有 calculation 在 那个 exam 里面 的 leh
+07NC13MBP_0101 124690 128160 ZH  全部是背的 咯 我～
+07NC13MBP_0101 128160 132340 CS everyday 靠背 的 真的 是 jialat ah 我 看 那个 pass year paper hor
+07NC13MBP_0101 133494 134869 CS 没有 calculation 的
+07NC13MBP_0101 134869 140844 CS 全部 是 背的 then 我就 就很 jialat lah 不懂 啦 刚才 读到 很 sian 都 读 不 下去
+07NC13MBP_0101 162964 164759 EN 
+07NC13MBP_0101 182841 184047 CS last year 跟 previous year ah
+07NC13MBP_0101 184776 189629 EN 
+07NC13MBP_0101 189629 190190 CS 是 core 吗
+07NC13MBP_0101 194875 198010 ZH siao 的 读到完 啦 你 还有 时间 嘞
+07NC13MBP_0101 198010 200760 CS 你 还有 one week eh 我 只 剩 one one day eh
+07NC13MBP_0101 207278 213140 EN halo girl you are in university you are not no longer in j. c. how can you pick topic
+07NC13MBP_0101 221647 223425 EN <unk>
+07NC13MBP_0101 224126 225995 ZH  你 heng 啦 那个 时候
+07NC13MBP_0101 244664 246824 CS i think 因为 是 你 因为 你的 是 economics 啦
+07NC13MBP_0101 250162 251509 ZH 我的 我
+07NC13MBP_0101 255969 256769 CS 我 跟你 讲 last
+07NC13MBP_0101 256769 260529 CS 我 last three year 的 exam paper ah 全部 都是 有 come with solution 的
+07NC13MBP_0101 260529 265170 CS let say last year las 以前 它 那种 背的 topic ah 我 just 可以看
+07NC13MBP_0101 265170 266990 CS 啊 看见 solution 背 那个 solution lor
+07NC13MBP_0101 266990 269520 CS this year 没有 咯 他的 exam paper exam paper 这样 出来
+07NC13MBP_0101 269520 270940 CS then 没有 answer 的 leh
+07NC13MBP_0101 270940 276365 CS then answer 我 哪里 懂 为什么 啊 没有 人 做 咯 以前的 solution 是 学生 做的
+07NC13MBP_0101 279374 280327 EN photocopying shop
+07NC13MBP_0101 282067 285601 CS oh 没有 他们 学校 好像 有 给钱 给 他们 做 solution
+07NC13MBP_0101 286723 288743 CS 好像 给 十块 for 一个 paper 你去做 咯
+07NC13MBP_0101 288743 289584 EN 
+07NC13MBP_0101 289584 293005 CS but i think 他们 是 找 全部 a student 去 写 那个 answer 的
+07NC13MBP_0101 296294 297388 CS 所以 我 damn sad
+07NC13MBP_0101 298735 299885 ZH 不懂 嘞 很 jialat
+07NC13MBP_0101 301035 302662 CS never mind 那个 后天 才考的
+07NC13MBP_0101 303448 304205 ZH 后天 我们
+07NC13MBP_0101 304878 306365 CS 我们 去 吃 macdonald ah
+07NC13MBP_0101 308329 309394 ZH 诶 好像 不可以 啊
+07NC13MBP_0101 311330 312136 ZH 拜四
+07NC13MBP_0101 313819 316736 CS <unk> 拜四 考完 我们 就 relax 了
+07NC13MBP_0101 317606 322964 ZH <unk> 直接 跟我 讲 他就 讲 哇 拜四 考完 就是 要 更 勤劳 了
+07NC13MBP_0101 328608 330571 ZH  <unk> 真的 是 很 厉害 hor
+07NC13MBP_0101 330571 334976 CS 哪里 有人 plan exam 两个 两天 四个 paper 的
+07NC13MBP_0101 344429 345568 ZH 我 也是 这样 觉得
+07NC13MBP_0101 346775 350365 CS 可是 他 每次 跟我 讲 讲 考试 的时候 他很 confident
+07NC13MBP_0101 351487 355779 CS 很 confident 咯 对 咯 他讲 诶 这个 paper 应该 是 九十五分 啊
+07NC13MBP_0101 398897 400999 CS 你 认识 这样 聪明的 朋友 in the end
+07NC13MBP_0101 401476 402598 CS in the end 还 考 这样烂
+07NC13MBP_0101 402598 404618 EN 
+07NC13MBP_0101 406593 406958 ZH 啊
+07NC13MBP_0101 416596 419974 ZH 哇 他 帮 你们 很多 啊
+07NC13MBP_0101 420479 421432 CS 他拿 triple a 吗
+07NC13MBP_0101 424434 425640 CS 他 拿 这样多 <unk> ah
+07NC13MBP_0101 427210 429480 CS wah 你 有 这么 聪明 的 friend ah
+07NC13MBP_0101 437167 437932 CS then 还有 联络 吗
+07NC13MBP_0101 441656 442160 EN 
+07NC13MBP_0101 445218 446396 EN 
+07NC13MBP_0101 447266 448304 CS 哇 这样 sad ah
+07NC13MBP_0101 449678 451221 EN n. u. s. 
+07NC13MBP_0101 469451 470487 CS n. u. s. 还是
+07NC13MBP_0101 472481 473575 ZH 那个要 <unk> 的 吗
+07NC13MBP_0101 477471 478425 EN wah jialat
+07NC13MBP_0101 479968 486980 CS 当然 啦 seven a leh 应该是 应该是 秃头的 then 不好看的  很丑的 矮矮的
+07NC13MBP_0101 488551 491640 ZH 真的 假的 不要骗 哦
+07NC13MBP_0101 497928 499358 ZH 我 很像 吃 很多 糖果 哦
+07NC13MBP_0101 499358 504015 CS <unk>  some more 这个是 <unk> leh 
+07NC13MBP_0101 507920 510024 ZH  不要 讲人家 啦
+07NC13MBP_0101 536545 543334 CS  很烂 嘞 直接 drop 掉 math 哪里 有 人 这样的  夸张 嘞
+07NC13MBP_0101 543334 550450 CS  but heng ho 有时 drop 掉 也会 考 比较好 hor
+07NC13MBP_0101 550450 553190 CS i think 我 heng 那时 候 我是 读 three a. 的 不 读 four a. 的
+07NC13MBP_0101 553190 554470 ZH 我就
+07NC13MBP_0101 554470 556750 CS 我 如果 读 four a. 应该 是 没有 three a. 了
+07NC13MBP_0101 556750 558626 CS 应该 是 没有 拿到 a. 到完 了 
+07NC13MBP_0101 562220 564610 CS 你 有没有 friend almost cannot promote
+07NC13MBP_0101 570211 572175 CS 什么 叫 做 basic 就是 没有 pass 那个 英文
+07NC13MBP_0101 575794 576495 ZH 是 要什么
+07NC13MBP_0101 588490 590370 CS <unk> 他连一个 e. 都没有 啊
+07NC13MBP_0101 592446 594409 CS 那 怎么 graduate <unk> 怎么 promote
+07NC13MBP_0101 595643 599374 CS 是 因为 c. c. a. 很好 是不是 captain in any squad* any sport
+07NC13MBP_0101 602279 603093 CS then 怎么 promote 的
+07NC13MBP_0101 610919 611396 EN (em)
+07NC13MBP_0101 613051 614398 ZH 哦 那个 很好的 校长 啊
+07NC13MBP_0101 617091 618802 ZH 不是 华语 很厉害 是 那个 华语 很厉害的
+07NC13MBP_0101 619391 620261 ZH 为什么 <unk>
+07NC13MBP_0101 620261 622056 CS i thought 他 是 一个 很好的 校长 来的
+07NC13MBP_0101 629573 629994 EN (em)
+07NC13MBP_0101 636670 637540 ZH 你找他 什么
+07NC13MBP_0101 641579 642309 ZH 哦
+07NC13MBP_0101 665357 665721 EN oh
+07NC13MBP_0101 668274 668723 EN (em)
+07NC13MBP_0101 677943 679177 CS but 是 combine science leh
+07NC13MBP_0101 683132 684610 ZH 我 记得 以前 中
+07NC13MBP_0101 684610 688720 CS 中学 老师 跟 我说 combine science 的 a. 就 等于 pure science 的 b. oh
+07NC13MBP_0101 693137 694428 CS but combine science 很烂 啦
+07NC13MBP_0101 695522 696307 ZH 以前 我 有
+07NC13MBP_0101 696700 697065 ZH 我
+07NC13MBP_0101 698495 699197 ZH 有
+07NC13MBP_0101 700740 703200 CS oh 我 直接 读 三个 pure science 好不好
+07NC13MBP_0101 703200 705232 EN pure chemistry pure physics pure biology
+07NC13MBP_0101 707616 708121 CS combine 啊
+07NC13MBP_0101 710365 711123 ZH 是 嘛
+07NC13MBP_0101 718720 721721 ZH <unk> 可能 是 你们 比 我们 晚两年 所以 你们 比较难
+07NC13MBP_0101 723096 724302 ZH 我们 比较 早考 比较 容易
+07NC13MBP_0101 732325 734794 CS 为什么 会 没有 electrolysis 的 out of syllabus 还是 什么
+07NC13MBP_0101 739338 746731 CS 哇 诶 你看 这一个 hor 直接 让 你们 拿 a 了 咯  i think 如果 我 take 我 也是 可以 拿 a. 的 哦
+07NC13MBP_0101 774930 778128 EN  
+07NC13MBP_0101 779096 780499 CS then 你们 就 take combine science
+07NC13MBP_0101 786334 787091 EN mister <unk>
+07NC13MBP_0101 791832 793038 ZH 哦 这样 我 就 不懂了
+07NC13MBP_0101 806936 807666 EN in the end
+07NC13MBP_0101 825049 828059 ZH 咦 哪里 有 这样 算的 我 以 我 我 选的 时候 没 这样 算的 嘞
+07NC13MBP_0101 843471 844460 CS then 你 drop 掉 chemistry meh
+07NC13MBP_0101 846024 846444 EN when
+07NC13MBP_0101 850259 853570 CS 其实 直接 把 combine (er) pure chemistry pure physics
+07NC13MBP_0101 853570 855420 CS drop 掉 变成 一个 combine
+07NC13MBP_0101 858394 860470 CS wah then 你有 take pure physics 吗
+07NC13MBP_0101 863310 865030 CS 几时 换 的 after one year
+07NC13MBP_0101 883240 884082 ZH 那时候 我 没有
+07NC13MBP_0101 887251 888734 EN oh
+07NC13MBP_0101 890000 894489 CS 我没有 take 过 history 跟 literature leh 我 那时 要 take literature but when i 我要进 那个
+07NC13MBP_0101 895218 898584 CS 真的 我 我本 不是 secondary three 才 选班的 对不对
+07NC13MBP_0101 899173 901310 CS 诶 ah secondary two 选班 然后 secondary three 进 对不对
+07NC13MBP_0101 901310 904030 CS then 我 secondary two 直接 选 第一 班 跟 第二 班 嘛
+07NC13MBP_0101 904030 906123 ZH <unk> 这样子 选 然后 选 最好的 然后 第二
+07NC13MBP_0101 906768 909060 CS 诶 没有 那时候 我 那时候 是 one two three four <unk>
+07NC13MBP_0101 909060 911040 CS 我 就 直接 写 e. two 跟 e. three
+07NC13MBP_0101 911040 915913 CS 以前 不是 以前 不是 <unk> 不懂 以前 是 e. one e. two e. three 的
+07NC13MBP_0101 915913 924370 CS then 我 就 直接选 咯 first choice e. two then e. three then 第一班 不要管 了 嘛 then 我 根本 没有 去 看 那个 subject 有什么 我没有 <unk>
+07NC13MBP_0101 924370 926970 CS 第一 班 是 triple science pure science 到 完
+07NC13MBP_0101 926980 930040 CS then 第二 班 是 也是 pure science but 没有 biology
+07NC13MBP_0101 930040 931192 CS 换一个 literature
+07NC13MBP_0101 935399 936611 EN <unk> e five take leh
+07NC13MBP_0101 936611 939500 CS 然后 e two 老师 打给我 嘞 他 直接 跟我讲
+07NC13MBP_0101 939500 943540 EN <unk> i see that your english doesn't seem very powerful
+07NC13MBP_0101 944017 947916 EN do you want to change to take bio~ instead of literature
+07NC13MBP_0101 947916 954151 CS 哇 原来 后来 hor 我就讲 哦 okay lor 那时 也 没有 管什么 就 okay lor okay lor 他 就 给我 放 第一班 咯 我 就 进 第一班
+07NC13MBP_0101 954151 961491 CS then 我 来的时候 才 发现 打给 我 的 那个 hor 是 e two 的 form teacher leh 原来 他不要 我 这个 垃圾 在 他的班 里面 害他
+07NC13MBP_0101 963913 964530 ZH 为什么
+07NC13MBP_0101 965792 968008 CS then e two 每次 e 跟 e one 都会 fight 的
+07NC13MBP_0101 969093 972250 CS 因为 第一 班 跟 第二 班 mah 他们 都有 rivalry
+07NC13MBP_0101 975659 979053 CS 我们 那时候 e one 到 e five secondary three secondary four
+07NC13MBP_0101 980736 983597 CS 啊 secondary three secondary five 什么 secondary three secondary five secondary three secondary four lah
+07NC13MBP_0101 1009795 1011719 ZH 哦 就是  就是
+07NC13MBP_0101 1011719 1013680 CS 英文 烂 science 不错
+07NC13MBP_0101 1015215 1019282 ZH 那 就是 等于 是我 了 咯  诶 可是 我的
+07NC13MBP_0101 1023599 1027442 CS wah then that means 以前 我在 你 那边 我 就 变成 那个 j. 了 那个 k. 了
+07NC13MBP_0101 1028817 1030640 CS 谁说的 我 o-level 拿 b four leh}
+07NC13MBP_0101 1033277 1036593 CS <unk> 很 proud leh g. p. 拿 多少 你 a-level g. p.
+07NC13MBP_0101 1037631 1038921 CS 我拿 c five leh
+07NC13MBP_0101 1041895 1042846 ZH 当然 啦 <unk>
+07NC13MBP_0101 1044093 1045729 ZH 有得比 啦 为什么 没有得比
+07NC13MBP_0101 1045729 1047261 ZH 什么 没有得比
+07NC13MBP_0101 1047650 1049806 CS 有得比 诶 justin* fail leh
+07NC13MBP_0101 1050775 1052195 CS justin 跟我 同一年 他 fail leh
+07NC13MBP_0101 1055060 1059262 ZH 诶 他 他 比我晚 晚 两年 他大 晚我两年咯
+07NC13MBP_0101 1060483 1063079 CS 可是 g. p. 是一样的 嘛 <unk> 是一样的
+07NC13MBP_0101 1063079 1066429 EN 
+07NC13MBP_0101 1066429 1069494 CS 为什么 为什么 yvonne 拿 c. five 很 jialat leh 她 英文 很好 嘞
+07NC13MBP_0101 1072910 1075039 EN (em) is english
+07NC13MBP_0101 1111233 1112835 CS 真的 吗 全 全校 只有 一个 a
+07NC13MBP_0101 1115544 1116375 CS 你不也 c five
+07NC13MBP_0101 1119154 1119881 EN oh okay
+07NC13MBP_0101 1127031 1127879 CS 乱来 i thought
+07NC13MBP_0101 1127879 1129680 CS yvonne 不是你 j. c. friend meh
+07NC13MBP_0101 1130147 1131939 CS 为什么 你懂 她 中学拿 a two
+07NC13MBP_0101 1133575 1134311 EN oh
+07NC13MBP_0101 1136934 1139504 CS  你中学有 a one meh
+07NC13MBP_0101 1142984 1143954 ZH 对啊 考 比你 好 啊
+07NC13MBP_0101 1152656 1154370 EN (em) a. lev (eh) o. level
+07NC13MBP_0101 1154811 1155279 ZH 中学
+07NC13MBP_0101 1156603 1157148 EN mister shan
+07NC13MBP_0101 1158447 1159042 EN oh okay
+07NC13MBP_0101 1175564 1175872 ZH 是
+07NC13MBP_0101 1177226 1179953 CS 真的是 <unk> 那个 年轻的 吗 然后 他 每次 在
+07NC13MBP_0101 1180602 1180965 ZH 在那
+07NC13MBP_0101 1182004 1183069 CS but 年轻 for
+07NC13MBP_0101 1183328 1183666 ZH 年
+07NC13MBP_0101 1183666 1186590 CS 年轻 for principal leh 校长 嘞
+07NC13MBP_0101 1186590 1188780 CS 之前 的 那个 principal 是 超 老 的 leh
+07NC13MBP_0101 1188780 1194842 CS 他 是 一个 很老的 then 突然间 换 一个 这么 年轻的 我们就 哇 好年轻 哦 then 他每次 在 那种 normal* performance 会 表演 唱歌的嘞
+07NC13MBP_0101 1195777 1198348 ZH  做么 嘞 
+07NC13MBP_0101 1221993 1222689 EN <unk>
+07NC13MBP_0101 1222689 1224980 EN 
+07NC13MBP_0101 1224980 1226278 CS then 就这样
+07NC13MBP_0101 1228589 1229706 CS 你 懂 那时候 actually
+07NC13MBP_0101 1229706 1234510 CS actually miss loh 很好 嘞 你们 如果 没有 miss loh 你们 没有 这么好 的 学校 嘞
+07NC13MBP_0101 1234510 1238587 CS  before that 的 那个 校长 before that 的 那个 校长 hor 很 niao 的 嘞
+07NC13MBP_0101 1239396 1240171 ZH 他 他
+07NC13MBP_0101 1240954 1253367 CS wah before that 那个 校长 他 真的 是很 niao 嘞 他 没有 花什么钱 的 嘞  是 到了 miss loh 进来 hor 他 才 换掉 canteen 我们* 全部的 bench 椅子 then 还有 做很多 renovation lah
+07NC13MBP_0101 1254016 1256717 CS 哇 很多 都是 都是 因 miss miss loh 进来 然后 才 换的 咯
+07NC13MBP_0101 1257444 1259210 CS 他 花了 很多 school <unk>
+07NC13MBP_0101 1271284 1272658 CS 你又 你又 懂 他们的 budget 是多少
+07NC13MBP_0101 1278945 1280166 CS 以前 也 没有 什么 budget <unk>
+07NC13MBP_0101 1284736 1287878 ZH 以前 中学 中学 有 这种 东西的 嘛 我都 没有问 的 啊
+07NC13MBP_0101 1289914 1293186 CS 他是 <unk> 是 是 是 那个 <unk> 的 嘛
+07NC13MBP_0101 1294250 1296198 ZH hor 那 那天 我 应该 问他 啊
+07NC13MBP_0101 1296562 1297522 ZH 跟他 聊天 一下
+07NC13MBP_0101 1301686 1302855 ZH <unk>
+07NC13MBP_0101 1302855 1303478 ZH 我都不知道
+07NC13MBP_0101 1305010 1306438 ZH 这样 我 可以 问他 认不认识
+07NC13MBP_0101 1307243 1308646 ZH 认 认识
+07NC13MBP_0101 1313764 1314648 ZH <unk> 是 啊
+07NC13MBP_0101 1323175 1323590 ZH 哦
+07NC13MBP_0101 1323590 1325823 CS 要 <unk> leh 要 bonding leh
+07NC13MBP_0101 1327356 1331952 CS 诶 but jess* hor 她 外面 给我 一个 pattern 感觉 是 那种 很 cold 很 cold 的 女孩子 会不会 啊
+07NC13MBP_0101 1333458 1334133 ZH 为什么 啊
+07NC13MBP_0101 1336289 1339833 CS 看 她 其实 她 很像 一个 很 cold 的人 hor but 我听 你 这样 讲她 很像 很 okay leh
+07NC13MBP_0101 1350278 1351603 ZH  对 对 对 对 对
+07NC13MBP_0101 1352226 1353057 ZH 对 对 对 
+07NC13MBP_0101 1355083 1356044 ZH 真的 咯 现在
+07NC13MBP_0101 1357446 1360562 ZH 那时候 帮 你们 拍照的 时候 我也是 看 诶 我 觉得 她的 表情 怪怪 嘞
+07NC13MBP_0101 1362094 1363237 ZH 不容易 亲近
+07NC13MBP_0101 1363237 1364900 ZH 她有 一个
+07NC13MBP_0101 1364900 1367480 CS 她 有一个 icy icy 的 感觉
+07NC13MBP_0101 1367480 1369002 ZH 会 把你 给 冰冻
+07NC13MBP_0101 1380006 1381061 CS 大你 一年的 senior
+07NC13MBP_0101 1390506 1391623 EN so sad
+07NC13MBP_0101 1397414 1397959 EN 
+07NC13MBP_0101 1403831 1405741 ZH 做 什么 嘞 他 出卖了 他
+07NC13MBP_0101 1410868 1412686 CS  我 i
+07NC13MBP_0101 1412686 1417309 EN i have not speak english for very long 
+07NC13MBP_0101 1418947 1424816 CS  how ah i i just realized 我跟你 讲话 讲得 太开心 then i forget all about the english part 
+07NC13MBP_0101 1429412 1430841 EN yeah lor how leh
+07NC13MBP_0101 1431828 1434269 CS 一样 啦 justin 跟我讲 hor 他也是 al 他也是
+07NC13MBP_0101 1435804 1439466 CS yeah 他会 change to english (eh) no 他会 change to chinese but 他跟
+07NC13MBP_0101 1440600 1443040 CS 他 跟 gerald 讲话 他 就会 change to english
+07NC13MBP_0101 1443040 1445075 CS then 我也是 cannot cannot
+07NC13MBP_0101 1445075 1448607 CS 诶 你跟 gerald 不可以 讲华语 hor 会不会 why hah
+07NC13MBP_0101 1449983 1450581 EN okay meh
+07NC13MBP_0101 1451152 1453489 EN do you speak chinese to gerald or you speak english
+07NC13MBP_0101 1457784 1461316 CS ho english ho  因为 你听 很少 听到 gerald
+07NC13MBP_0101 1461835 1463315 ZH 讲 讲华语
+07NC13MBP_0101 1468311 1469116 EN the the
+07NC13MBP_0101 1470908 1471843 CS 那个 poem* lor
+07NC13MBP_0101 1475271 1482230 CS 是 life principle  我直接  <unk> who who will not see it i got like
+07NC13MBP_0101 1483451 1487034 CS fifty sixty emails leh 都是 notification for 那个照片
+07NC13MBP_0101 1487034 1488515 ZH 哇 你们
+07NC13MBP_0101 1490306 1491133 ZH 没有 嘞 什么
+07NC13MBP_0101 1496694 1498979 EN 
+07NC13MBP_0101 1500121 1501913 EN 
+07NC13MBP_0101 1501913 1502926 ZH 很烂 嘞
+07NC13MBP_0101 1502926 1504796 EN  lawrence never
+07NC13MBP_0101 1505393 1506886 CS lawrence 不会 看华语 是不是
+07NC13MBP_0101 1510693 1511420 EN lawrence ah
+07NC13MBP_0101 1513887 1514640 EN eh yeah loh
+07NC13MBP_0101 1520830 1521635 EN en yeah
+07NC13MBP_0101 1522933 1523245 ZH 对
+07NC13MBP_0101 1529246 1530077 ZH 燕宁* 啊
+07NC13MBP_0101 1530518 1532051 ZH 有 啊 她有 跟我 讲华语 啊
+07NC13MBP_0101 1534284 1535271 EN 
+07NC13MBP_0101 1538049 1539633 EN why hah i don't understand
+07NC13MBP_0101 1539633 1541863 EN  <unk>
+07NC13MBP_0101 1541863 1547784 CS <unk> really very laughing lor 那时 那时 i remember the time 我们 不是 去 那个 那个 <unk>
+07NC13MBP_0101 1547784 1549316 ZH 我们 不是 叫她 翻 那个板
+07NC13MBP_0101 1549316 1551004 CS then 问她 <unk> what you want to
+07NC13MBP_0101 1551004 1553809 CS then 我问她 为什么 why you want to flip over the board
+07NC13MBP_0101 1554458 1555782 CS and then 她直接 跟我 讲华语 咯
+07NC13MBP_0101 1555782 1557210 CS <unk>
+07NC13MBP_0101 1557210 1566986 CS then 我就 直接 再拉 你过来 <unk> 为什么 跟你讲 为什么 要 flip over the board then 他直接 跟你 讲英文 then 我 直接 笑出来 就直接 <unk>
+07NC13MBP_0101 1569160 1569809 ZH 为什么 啊
+07NC13MBP_0101 1569809 1571315 EN i already changed you know
+07NC13MBP_0101 1572276 1574224 EN can't you see my english is so perfect
+07NC13MBP_0101 1576249 1576639 ZH 真的
+07NC13MBP_0101 1577558 1578155 ZH 真的 啊
+07NC13MBP_0101 1581349 1583297 CS opportunity 为什么 嘞
+07NC13MBP_0101 1583894 1585062 CS opportunity ah 对 啊
+07NC13MBP_0101 1585971 1586543 ZH 我 刚才 讲什么
+07NC13MBP_0101 1587607 1587815 EN op
+07NC13MBP_0101 1590178 1591165 EN opportunity
+07NC13MBP_0101 1591928 1592447 ZH 现在嘞
+07NC13MBP_0101 1594577 1595590 EN opportunity
+07NC13MBP_0101 1597252 1598264 EN opportunity
+07NC13MBP_0101 1600108 1601666 EN that's why you are not singaporean
+07NC13MBP_0101 1601900 1603458 EN that's why you are not singaporean
+07NC13MBP_0101 1603900 1607276 EN that's why you are not singaporean you talk like american you know
+07NC13MBP_0101 1608262 1608782 EN yeah you-
+07NC13MBP_0101 1612804 1613765 EN 
+07NC13MBP_0101 1614622 1615973 CS bimbo 是 指 女孩子 的 音*
+07NC13MBP_0101 1644997 1646243 CS 她坐 在你的 side mah
+07NC13MBP_0101 1654420 1656264 EN 
+07NC13MBP_0101 1656264 1659328 EN 
+07NC13MBP_0101 1659328 1663960 CS bimbo 不是指 big brain 四肢发达 的 嘛
+07NC13MBP_0101 1663960 1667040 CS 为什么 这样 讲话 就是 bimbo leh i don't understand
+07NC13MBP_0101 1671992 1672927 EN dumb blonde
+07NC13MBP_0101 1673550 1674537 EN what is dumb blonde
+07NC13MBP_0101 1676874 1679549 CS 饺子 吗 饺子 dump dumpling
+07NC13MBP_0101 1681990 1684181 CS dumb blonde 什么 是 叫 dumb blonde 我只听
+07NC13MBP_0101 1686882 1688102 EN b. l. o. n. d. e
+07NC13MBP_0101 1689738 1692186 EN oh dumb blonde okay okay dumb blonde
+07NC13MBP_0101 1692985 1693530 EN oh brunette
+07NC13MBP_0101 1693893 1694283 ZH 不懂
+07NC13MBP_0101 1694802 1696360 ZH 我 懂 是指 女孩子 不懂 什么 意思
+07NC13MBP_0101 1698022 1699009 EN oh
+07NC13MBP_0101 1702122 1704199 CS <unk> 第一次 提过 嘞 then dumb blonde 就是
+07NC13MBP_0101 1705083 1706564 CS 就是 stupid stupid
+07NC13MBP_0101 1707057 1708641 EN ah brown girl with stupid mind
+07NC13MBP_0101 1709498 1711731 EN dumb blonde wah first time i heard okay
+07NC13MBP_0101 1722466 1723168 EN bobby doll
+07NC13MBP_0101 1728777 1730439 EN 
+07NC13MBP_0101 1731789 1734048 CS 坐在 你 隔壁 那个 is she a blonde
+07NC13MBP_0101 1739245 1742306 EN <unk> that means next time i cannot speak in american english
+07NC13MBP_0101 1749648 1750531 EN accent
+07NC13MBP_0101 1751570 1752193 ZH 我 有没有
+07NC13MBP_0101 1753336 1754193 EN of course
+07NC13MBP_0101 1756192 1757543 CS 完全 singaporean
+07NC13MBP_0101 1758088 1760711 CS 那时 我 不是 做 那个 他们 全部讲 i look like malaysian
+07NC13MBP_0101 1762330 1764680 CS 而且 他们 讲 我 sound like malaysian
+07NC13MBP_0101 1765415 1765727 EN yup
+07NC13MBP_0101 1767207 1768401 CS 我 也是 不懂 为什么 why hah
+07NC13MBP_0101 1768739 1769284 EN maybe i
+07NC13MBP_0101 1770141 1771751 ZH 是 因为 我 接触 很多
+07NC13MBP_0101 1772219 1773751 EN china people
+07NC13MBP_0101 1773751 1777283 EN  that is why i i go into the china accent
+07NC13MBP_0101 1780710 1782788 ZH 不懂 嘞 他们 都会 问我 诶 你是 新加坡人 吗
+07NC13MBP_0101 1782788 1785220 ZH 哦 我怎么 看不出来 吗
+07NC13MBP_0101 1785220 1788630 CS 对 啊 你 看起来 很 像是 malaysian
+07NC13MBP_0101 1791065 1791481 EN 
+07NC13MBP_0101 1792467 1793870 CS 是吗 justin 像 malaysian 吗
+07NC13MBP_0101 1795246 1798752 CS  你看 变成 justin 黑不像 malaysian 我黑 像 malaysian leh
+07NC13MBP_0101 1799843 1800777 ZH 很烂 咯
+07NC13MBP_0101 1805636 1806960 CS 诶 你 roomie 是 不像 malaysian meh
+07NC13MBP_0101 1809661 1811891 ZH  破功
+07NC13MBP_0101 1812878 1814202 ZH 哎呀 有一点 破功
+07NC13MBP_0101 1816020 1818747 CS 几时 得空 <unk> 因为是 cantonese 他们 转过来
+07NC13MBP_0101 1820175 1820987 ZH 可是今天太
+07NC13MBP_0101 1821195 1823662 ZH 今天 很夜了 嘞 这么夜 还去 吃 那边
+07NC13MBP_0101 1824181 1825787 ZH 他们 不讲晚 他们讲 很夜 对不对
+07NC13MBP_0101 1826700 1828246 ZH 呵 我也是 很厉害 嘞
+07NC13MBP_0101 1828246 1830470 EN because i got malaysian friends you know
+07NC13MBP_0101 1834405 1835762 ZH 你也会 得空 啊
+07NC13MBP_0101 1836412 1837237 ZH 真的 假的
+07NC13MBP_0101 1837518 1838570 ZH <unk> 在学校 得空
+07NC13MBP_0101 1852834 1853747 EN pretty good leh
+07NC13MBP_0101 1854889 1855574 EN lingo
+07NC13MBP_0101 1856627 1859080 EN lingo is it the shorten
+07NC13MBP_0101 1859080 1861620 CS can you explain to me 什么 是 lingo
+07NC13MBP_0101 1864701 1865509 ZH  我真的 不懂
+07NC13MBP_0101 1870181 1871516 EN oh linguistic way
+07NC13MBP_0101 1872025 1872640 EN linguistic
+07NC13MBP_0101 1874080 1875854 EN linguistic occasion
+07NC13MBP_0101 1878944 1879458 EN 
+07NC13MBP_0101 1881333 1882755 EN 
+07NC13MBP_0101 1882755 1884060 ZH 老师 是 中国人 哦
+07NC13MBP_0101 1884921 1888135 ZH 我说 在 跟我们 录音的 老师 是 中国人 哦
+07NC13MBP_0101 1890154 1892402 CS 我 觉得 是 啦 不然 怎么 会有 government
+07NC13MBP_0101 1894054 1896284 CS 刚才 我 直接 看到 gong-ge-ment
+07NC13MBP_0101 1900622 1901693 ZH 我直接 笑出来
+07NC13MBP_0101 1903098 1905144 CS 我也是 stunned a while 我 也是 看* 不到 什么 来的 嘞
+07NC13MBP_0101 1908726 1909359 EN then
+07NC13MBP_0101 1909359 1912678 CS 跑过来 帮你 <unk> 那* 是 government 他就 oh man government
+07NC13MBP_0101 1913643 1915364 ZH 然后 我 直接 笑出来 了 beh-tahan 现在
+07NC13MBP_0101 1918655 1921149 CS 很多 英文的 mistake 我在那边一直在笑 beh-tahan
+07NC13MBP_0101 1921869 1925310 CS 很烂 嘞 然后 你 又一直 害 我 笑 我 本来 不想 有 n.
+07NC13MBP_0101 1925310 1927770 CS 我 不想 有 n. g. 的 lor i don't want to have
+07NC13MBP_0101 1927770 1928929 EN cut taken
+07NC13MBP_0101 1928929 1929807 EN action
+07NC13MBP_0101 1930158 1931106 EN action you know
+07NC13MBP_0101 1931458 1932476 EN three two one action
+07NC13MBP_0101 1932968 1933618 ZH 我 本来 想要
+07NC13MBP_0101 1934267 1935529 CS 我 本来 想 act action all the way
+07NC13MBP_0101 1938201 1938745 ZH 累了 嘞
+07NC13MBP_0101 1938745 1940656 CS 这样 你 meet <unk> 几点
+07NC13MBP_0101 1950295 1951050 ZH 我要 吃糖 了
+07NC13MBP_0101 1954563 1956021 CS 今天 <unk> 好像 有煮 dinner leh
+07NC13MBP_0101 1959603 1963116 CS 诶 你 hor 讲到很 bad* leh 对 咯
+07NC13MBP_0101 1963116 1965646 CS 真的 讲到 这样 bad* sad leh
+07NC13MBP_0101 1969683 1970842 ZH 真的 不懂 读得玩 吗
+07NC13MBP_0101 1977129 1980782 CS <unk> 你有跟 <unk> 去玩 happy aquarium 吗
+07NC13MBP_0101 1981379 1983082 EN aiyo so sad
+07NC13MBP_0101 1983767 1985588 ZH (呃) 你看了 没有 你 有没有 看到 (呃) 没有 看到
+07NC13MBP_0101 1987553 1987957 ZH 哼
+07NC13MBP_0101 1988607 1989450 ZH 有玩 <unk>
+07NC13MBP_0101 1990556 1991821 ZH 对 咯 很好玩 嘞 对不对
+07NC13MBP_0101 1992576 1994314 CS 我已经 我已经 有建 farm* 了 嘞
+07NC13MBP_0101 1994314 1997580 CS <unk> then 我就 多一粒了 咯 等一下 回去 应该 会 长出来了
+07NC13MBP_0101 1997967 1998880 ZH 快点 帮我 想名字
+07NC13MBP_0101 2000790 2001369 EN qi-qi
+07NC13MBP_0101 2002036 2002704 EN kai-kai
+07NC13MBP_0101 2003986 2004881 EN kai-fen hor
+07NC13MBP_0101 2005584 2006708 CS okay 改天我 online
+07NC13MBP_0101 2008113 2013374 CS 改天我 online 叫 qi-fen 快点 go and see the epic happy-aquarium  应该 蛮好玩的 啦
+07NC13MBP_0101 2017561 2018614 EN 
+07NC13MBP_0101 2021112 2024431 CS 我 已经 把我 两个 squid 跟两个 turtle 放去另外一个 tank 了
+07NC13MBP_0101 2028172 2030674 CS 你 adopt 这样多做么 我三个 <unk> 都没有 adopt 了
+07NC13MBP_0101 2033616 2034406 CS 哈 已经 adopt 了 啊
+07NC13MBP_0101 2035056 2036004 CS 有 adopt 五个了 没有
+07NC13MBP_0101 2037110 2037848 CS dolphin* 拿了 啊
+07NC13MBP_0101 2038937 2040605 CS 不是 有那个 achievement lor
+07NC13MBP_0101 2042443 2043479 ZH 对 咯 很恶心 hor
+07NC13MBP_0101 2043479 2046324 CS 我 就 觉得 怎么 之前 我 有 这么 多个 then 他没有 <unk>
+07NC13MBP_0101 2049432 2052365 CS 你 养很多 你 make 很多 很多 baby lor
+07NC13MBP_0101 2053559 2057861 CS 你 make 这样多 我看你 一个 fish tank 有 五个蛋 在 那个 下面 嘞 每次
+07NC13MBP_0101 2058810 2060759 CS 哇 很夸张 嘞 你的 tank 很大 hor
+07NC13MBP_0101 2061303 2063499 CS 我的 laptop 不可以 玩 这么多 鱼 啊 很 lag 不可以
+07NC13MBP_0101 2064183 2066502 CS 玩 pet-society 都很 lag yor 你有玩 pet-society吗
+07NC13MBP_0101 2067028 2069434 CS  那时 我 刚刚 start 玩一下
+07NC13MBP_0101 2070548 2073626 CS  你 还 没有玩 嘛 justin 也是有玩
+07NC13MBP_0101 2076431 2078556 CS justin 也是有玩 <unk> 也是有玩
+07NC13MBP_0101 2082243 2082647 EN <unk>
+07NC13MBP_0101 2084632 2085959 CS 哦 我有玩 mafia-world
+07NC13MBP_0101 2092575 2093348 CS 我有玩 farm-town leh
+07NC13MBP_0101 2094155 2094858 EN is it farm-town
+07NC13MBP_0101 2095736 2096491 CS 我有玩 farm-town
+07NC13MBP_0101 2098019 2102005 CS 我懂 啊 我 也是 很久 没有 玩了 是 那天 有一个 friend 忽然 send 我一个 gold then 我就 <unk> 看一下
+07NC13MBP_0101 2102883 2104552 CS (呃) 看一下 then 我就 <unk> 一下 咯
+07NC13MBP_0101 2104552 2108460 CS 我都 没有 时间 plot ah 那个 field 超大 我都 都懒惰去 plot
+07NC13MBP_0101 2108460 2110610 CS 我 听说 现在 如果 你 有 八个 neighbor hor
+07NC13MBP_0101 2110610 2111190 ZH 你可以 叫
+07NC13MBP_0101 2111997 2112366 ZH 没有
+07NC13MBP_0101 2112893 2114772 CS 没有 你有 八个 neighbor 你可以 叫人家 帮你 plot
+07NC13MBP_0101 2122517 2124115 CS 那时候 我玩 我自己 plot 到完 嘞
+07NC13MBP_0101 2126485 2129471 CS 干久 我直接 用 四十五 分钟 在 plot 因为 我在 学校 computer 玩
+07NC13MBP_0101 2130384 2131139 ZH 会 很快
+07NC13MBP_0101 2131771 2133369 CS 很 free eh 真的是很 free eh
+07NC13MBP_0101 2134570 2136860 CS 你 library 的 你 要 玩 二 楼 的
+07NC13MBP_0101 2136860 2138532 ZH 随便玩
+07NC13MBP_0101 2138532 2139691 CS 楼下 诶 楼下 那边的很 lag
+07NC13MBP_0101 2139691 2140727 ZH 楼下 他 每次
+07NC13MBP_0101 2140727 2142747 CS 楼下的 它有 那个 google search 然后 什么 什么
+07NC13MBP_0101 2142747 2146420 ZH 楼上的 好像 有 换到完 嘞 你 没有 发现 嘛 楼上的 它的 的 那个
+07NC13MBP_0101 2146420 2151730 CS 楼上 它的 c. p. u. hor 是 全部 新的 the small small one behind the monitor 的
+07NC13MBP_0101 2151730 2153038 CS 它们 没有 大大个 的 c. p. u. 了
+07NC13MBP_0101 2158255 2159080 EN s. p. m. s
+07NC13MBP_0101 2159080 2161275 EN is it the one that i saw you last time
+07NC13MBP_0101 2163979 2165314 CS 我是 有 看过 你在 s. p. m. s ah
+07NC13MBP_0101 2166017 2166596 CS 那个 lab
+07NC13MBP_0101 2168124 2170641 CS 我有在 我 好像 有 去过 一个 computer lab 然后 我 看过 你 是不是 啊
+07NC13MBP_0101 2173129 2174253 CS 哦 那个不是 s. p. m. s. 的 啊
+07NC13MBP_0101 2174955 2176623 CS 诶 找一天 带我 去 <unk> s. p. m. s. 的 嘞
+07NC13MBP_0101 2178977 2179802 ZH 诶 等一下
+07NC13MBP_0101 2179802 2182490 CS 等一下 你去 canteen b ah 一起去 啦
+07NC13MBP_0101 2182490 2185230 CS 没有 我 要 去 买 mister bean ice cream
+07NC13MBP_0101 2188511 2193622 CS 我 已经 懂 mister-bean 在 哪里了 好不好 哪里 有 这样烂 好不好  有去过 啦 just 买来吃 啦 我没有 吃到 嘞
+07NC13MBP_0101 2195149 2195651 EN so sad
+07NC13MBP_0101 2198890 2199522 ZH 我 没有 吃过
+07NC13MBP_0101 2200716 2201313 ZH 我 每次 听
+07NC13MBP_0101 2202051 2203631 CS 我 每次 听 josline* 讲而已 嘞
+07NC13MBP_0101 2203860 2204509 ZH 没有 吃过
+07NC13MBP_0101 2205493 2206101 ZH 你 有 吃过 吗
+07NC13MBP_0101 2208689 2210867 ZH 你 要 吃 他的 豆花 加 汤圆
+07NC13MBP_0101 2213527 2214106 ZH 为什么
+07NC13MBP_0101 2215213 2216091 ZH 汤圆 里面 有 那个
+07NC13MBP_0101 2216881 2217864 CS peanut 你 不喜欢 吃 啊
+07NC13MBP_0101 2221078 2221886 ZH 你 有 吃过
+07NC13MBP_0101 2222711 2226233 CS j. p. 的 那个 记得吃 吗 the the the dessert shop
+07NC13MBP_0101 2229086 2229876 EN i think it is not bad
+07NC13MBP_0101 2229876 2232370 CS especially you eat the 不是 汤圆 那个
+07NC13MBP_0101 2233125 2234038 EN durian
+07NC13MBP_0101 2235619 2236655 ZH 啊 有一个 什么
+07NC13MBP_0101 2238267 2240954 CS durian bean curd 还是 什么的 啦 durian egg 还是什么 <unk>
+07NC13MBP_0101 2240954 2244707 CS  很 <unk> 可能 你 要 加 加 加 add du add durian wah
+07NC13MBP_0101 2246749 2249366 CS luxury 很幸福 but but 那个 这样吃 一个 五块钱 哦
+07NC13MBP_0101 2249805 2251631 EN 
+07NC13MBP_0101 2253528 2255600 CS 比较 <unk> 咯 normal lor normal 豆花 碗*
+07NC13MBP_0101 2258340 2259341 ZH 太大了 啦
+07NC13MBP_0101 2262324 2266824 CS 四五块 真的 那个 只有 one group 去吃 才会去 吃的 你 不会 自己
+07NC13MBP_0101 2287368 2291021 EN 
+07NC13MBP_0101 2293707 2297109 CS 你 买给 她 的时候 you didn't tell her that it is durian 的月饼
+07NC13MBP_0101 2305947 2312392 EN 
+07NC13MBP_0101 2312392 2317125 CS 那 你问她 ah-ma 你 要不要 吃莲蓉的 du snow skin moon cake
+07NC13MBP_0101 2320637 2321181 ZH 有 嘛
+07NC13MBP_0101 2322885 2326555 CS 没有吃过 but 很贵 嘞 我 那时候买 我 长这么大 第一次 买这样 贵的 榴莲
+07NC13MBP_0101 2327609 2330067 CS 买这么 贵的 mooncake
+07NC13MBP_0101 2331068 2332714 ZH 就是说 咯 你骗我买 咯
+07NC13MBP_0101 2334528 2337531 ZH 很好吃 啊 <unk> 那时 你 没有 看 我们 <unk> 吃 哦 你不在 了
+07NC13MBP_0101 2338304 2338918 ZH 对 咯
+07NC13MBP_0101 2339506 2341789 ZH 我 带一粒 来 而已 啦 我 本来 有 两粒的 我 不是 买两个 咯
+07NC13MBP_0101 2341789 2343510 CS 一个 放在 家里 then 带一粒来
+07NC13MBP_0101 2344265 2345196 ZH 早知道 带 两个 来 啊
+07NC13MBP_0101 2345863 2347901 ZH 家里 不要 给 妹妹 不要 给 妹妹吃
+07NC13MBP_0101 2348392 2351149 ZH 我 自己 吃到完 他们 赚了 嘞 一个五 一个十块 嘞
+07NC13MBP_0101 2351869 2354907 CS 一粒十块 嘞 one ten dollars you know one moon cake
+07NC13MBP_0101 2363477 2364232 ZH niao hor 你们
+07NC13MBP_0101 2364232 2368030 CS 我 那时候 我 这样 拿 出来 给 <unk> share 一人吃
+07NC13MBP_0101 2368030 2370730 CS 一 人 吃 one quarter 一 人 吃 掉 两 块 半 eh
+07NC13MBP_0101 2371276 2373523 ZH 我就 哇 一人 吃 两块半 shiok
+07NC13MBP_0101 2373927 2374612 ZH 很爽
+07NC13MBP_0101 2375209 2377018 CS but 也 不可以 一个人 吃 一整粒 啦 那种
+07NC13MBP_0101 2379477 2381953 ZH 而且 那种 要 一起吃的 一个人 吃 那么腻 这么 sian
+07NC13MBP_0101 2384324 2385131 CS 有 feel ah
+07NC13MBP_0101 2385623 2391822 CS 头 头 我 头 头 我跟 samuel* 讲 诶 我带 mooncake 过来时 他就讲 我吃 mooncake 我只 吃 冰皮的
+07NC13MBP_0101 2391822 2394746 CS then 我 对 咯 我的 是 冰皮的  他就 哦
+07NC13MBP_0101 2396361 2397063 CS (hm) 有 嘛
+07NC13MBP_0101 2397784 2400242 ZH 他 现在 跟我讲 他 礼拜 在家里 看戏 看到 疯了
+07NC13MBP_0101 2401524 2403210 ZH 他 讲 他 礼拜在 家里 看戏 看到 疯
+07NC13MBP_0101 2403210 2405739 CS 又看 什么 silver surfer 又看 什么爱
+07NC13MBP_0101 2409884 2410498 EN oops
+07NC13MBP_0101 2424623 2426469 EN 
+07NC13MBP_0101 2427117 2430137 CS  他直接 <unk> network show all the way lor
+07NC13MBP_0101 2431226 2434159 CS seven watch until ten no wonder 你们 meet* 礼拜 没有 回家
+07NC13MBP_0101 2439831 2440481 ZH 拜一晚
+07NC13MBP_0101 2441499 2442553 ZH 我拜一 九点半 嘞
+07NC13MBP_0101 2443062 2443905 EN but i almost
+07NC13MBP_0101 2444695 2447470 CS every monday i came back in the 十二点
+07NC13MBP_0101 2450015 2453211 ZH  是不是 觉得 我 <unk> 觉得 很奇怪 
+07NC13MBP_0101 2453211 2455652 CS 没有 啊 我现在 monday 也是 九点半 lesson ah
+07NC13MBP_0101 2457267 2458110 CS 我都是 skip ah
+07NC13MBP_0101 2459269 2464193 CS 很 sian 的 嘞 walao  then 礼拜 老爸 晚上 又 不要 载我回来
+07NC13MBP_0101 2465416 2465925 EN so sad
+07NC13MBP_0101 2466540 2467084 ZH 为什么 啊
+07NC13MBP_0101 2470315 2472667 CS 屁 啦 走开 啦 then-
+07NC13MBP_0101 2472667 2475020 CS aiya monday 回来 i still can go and buy
+07NC13MBP_0101 2475020 2479037 CS 水果 买 买 snack 买 tibit* 这种东西
+07NC13MBP_0101 2480828 2484411 ZH 我 <unk> 回来 啊 哇 你 没有 看我 每次 拜一 回来 都 大包小包 进来的 哦
+07NC13MBP_0101 2485816 2486922 ZH 你 当然 看不到 啦
+07NC13MBP_0101 2487396 2490785 CS 我 已经 很久 没有买 我 本来 要买 水果的 嘞 this week this week 没有 买到 水果
+07NC13MBP_0101 2491769 2494473 CS 本来 想说 after 拜四 after exam 出去 嘞
+07NC13MBP_0101 2496001 2496756 CS 出去 shop shop
+07NC13MBP_0101 2497880 2500374 CS 诶 我拜四 after exam 几点了 七点半 嘞
+07NC13MBP_0101 2501568 2502341 ZH 我 考 五点 嘞
+07NC13MBP_0101 2503684 2504478 CS 去 sheng-siong 做 什么
+07NC13MBP_0101 2509058 2509690 ZH 七点半
+07NC13MBP_0101 2510638 2513904 ZH 你们 要去 吃 吗 出去 外面吃 <unk> 我看 你们 都不要 哦
+07NC13MBP_0101 2520507 2521561 CS 还是 friday 吃 啦
+07NC13MBP_0101 2524792 2525249 ZH 为什么
+07NC13MBP_0101 2532420 2534400 CS then in the end 还是 要 吃 dinner 的 嘛
+07NC13MBP_0101 2542517 2543834 CS then 拜四 有什么 分别 这样
+07NC13MBP_0101 2549981 2551473 CS 可以去 celebrate
+07NC13MBP_0101 2551473 2554863 ZH  什么叫 破例 <unk>
+07NC13MBP_0101 2554863 2557581 CS <unk> 跟我讲 他 拜四 考完 都不可以 celebrate 了
+07NC13MBP_0101 2561281 2562967 CS 他跟我 讲 panic level 到了
+07NC13MBP_0101 2574083 2575616 CS actually 我 不懂 我 可以 吃 macdonald 吗
+07NC13MBP_0101 2579035 2581634 CS 真的 啊 好像 不是 很舒服 okay
+07NC13MBP_0101 2582495 2585750 CS 不知不觉 我们 可以 我们 讲了 forty three minutes 了 可以
+07NC13MBP_0101 2585750 2588150 CS 这么 久 了 我们 可以 可以 rest 了
+07NC13MBP_0101 2593520 2595890 CS 如果 我们 rewind hor 我 可以 跟你讲
+07NC13MBP_0101 2595890 2598320 EN throughout the whole conversation eunice
+07NC13MBP_0101 2598320 2599860 CS occupied 差不多
+07NC13MBP_0101 2599860 2601715 CS 七十五 巴仙 of the conversation
+07NC13MBP_0101 2603858 2604964 ZH 这就 证明了
+07NC13MBP_0101 2604964 2609361 ZH 证明了 女孩子 跟 男孩子 女孩子 是 八婆 男孩子是
+07NC13MBP_0101 2610116 2614718 ZH 安静的 诶 你没有 你不懂 嘛 爸爸 跟 妈妈 吵架 谁 是 没有 出声的
+07NC13MBP_0101 2616509 2620716 ZH 啊 对不对 为什么 嘞 因为 妈妈 因为 女孩子 是 八婆
+07NC13MBP_0101 2623217 2623902 ZH 不是
+07NC13MBP_0101 2624411 2627133 ZH 因为 爸爸懂 如果 爸爸再 讲下去的话 就完蛋了
+07NC13MBP_0101 2627133 2631488 ZH 真的 爸爸 男孩子 是 聪明的 动物 女孩子是
+07NC13MBP_0101 2633105 2636038 ZH 不 不知所谓 的 一个东西
+07NC13MBP_0101 2639217 2640815 ZH 对 啊 因为 就你让我 我让你
+07NC13MBP_0101 2641886 2643203 CS i think 不可以 一直 让来让去 啦
+07NC13MBP_0101 2643677 2646627 ZH 因为 让到 最后 哈 如果 哪一天 有一个 很重要的 东西 发生 的时候 hor
+07NC13MBP_0101 2647453 2648138 ZH 哇
+07NC13MBP_0101 2649297 2651105 ZH 就是说 你们 没有 学会 怎么 摊开来讲
+07NC13MBP_0101 2652879 2653989 ZH 怎么 你有感触 啊
+07NC13MBP_0101 2654705 2655197 ZH 哈
+07NC13MBP_0101 2657305 2658007 ZH 我没有 啊
+07NC13MBP_0101 2660710 2661992 ZH 没有 啊 只是 在想 而已 啦
+07NC13MBP_0101 2663010 2664503 ZH 你 爸爸 妈妈 没有 这种 东西的 嘛
+07NC13MBP_0101 2666575 2668156 ZH 我爸爸妈妈吵到烂
+07NC13MBP_0101 2669332 2670421 ZH 真的
+07NC13MBP_0101 2670983 2671916 ZH 吵到烂
+07NC13MBP_0101 2673125 2673705 ZH 当然 啦
+07NC13MBP_0101 2675285 2677217 ZH 一定 会 吵架的 啦 哪 哪里 有 可能 不吵架
+07NC13MBP_0101 2683223 2686050 ZH 我 妈妈 太累了 我 爸爸 也太累了 两个 都太累了
+07NC13MBP_0101 2689395 2691959 CS tiok 对 yes
+07NC13MBP_0101 2702727 2704097 ZH 呵 没有用的 啦
+07NC13MBP_0101 2705151 2706350 ZH 一个 一个 一
+07NC13MBP_0101 2706350 2708520 CS 一个 妹妹 在 做 nurse
+07NC13MBP_0101 2708520 2710454 ZH 我看她 赚的钱 也 够 自己花 而已 啦
+07NC13MBP_0101 2710454 2712170 ZH 你讲她 有给一
+07NC13MBP_0101 2712170 2714690 CS 她 有 给 一点点 family allowance
+07NC13MBP_0101 2715124 2718960 CS then 那个 第二的 自己 好像 没有 叫他 第二的 不懂在 做什么 哦
+07NC13MBP_0101 2718960 2721390 CS 一下子 做 这个 part time 一下子 做 那个 part time
+07NC13MBP_0101 2722587 2724888 CS 他 现在 又 跑 回去 <unk> cinema 做工 嘞
+07NC13MBP_0101 2726870 2729090 CS 她 讲 什么 part time 赚 比较 多 钱
+07NC13MBP_0101 2729310 2732500 CS 然后 她 讲 她 不可 以 work 朝 九 晚 五 的 工作
+07NC13MBP_0101 2733320 2735150 CS 她 不可 以 work eight to five
+07NC13MBP_0101 2735928 2736981 CS 她 she cannot wake up
+07NC13MBP_0101 2738685 2741126 CS 烂的 answer 对不对 很烂的 answer 对不对
+07NC13MBP_0101 2746830 2748840 CS at least 有 十一点 lor
+07NC13MBP_0101 2748840 2750714 ZH 做工 都 做到 一两点
+07NC13MBP_0101 2758160 2758845 ZH 哇 他
+07NC13MBP_0101 2759670 2762954 CS 他 十一点 睡 then 早上 十一点 起来 啊
+07NC13MBP_0101 2765571 2767046 ZH 不然 就是 有时 他们 看
+07NC13MBP_0101 2767678 2773020 CS 他们看 show 一点多睡 哇 then 就 睡到 下午 一两点 哇
+07NC13MBP_0101 2774000 2776230 ZH 哇 你看 我比他们 晚睡 都比他们 早起来 哦
+07NC13MBP_0101 2776775 2780480 CS 为什么 呢 因为我们是 university 的 我们是 大学生 eunice
+07NC13MBP_0101 2781788 2783175 ZH 你 这件 衣服 是 昨天 那件 衣服 吗
+07NC13MBP_0101 2785494 2786705 ZH 裤子 是 昨天 那件 裤子 吗
+07NC13MBP_0101 2789216 2791693 ZH 为什么 你的 感觉 好像 全身 都没有 换到 这样
+07NC13MBP_0101 2793923 2794748 ZH 你 又 懂 我的事
+07NC13MBP_0101 2796434 2796715 ZH 呵
+07NC13MBP_0101 2798875 2801176 CS 你没有 不觉得 我这件 print* 有大件 一点点 吗
+07NC13MBP_0101 2802897 2805583 CS 不 觉得 有 变大件了 吗 那时 你们 一直讲 我的 print 很小件
+07NC13MBP_0101 2807587 2807832 ZH 呵
+07NC13MBP_0101 2808307 2811152 CS 我 不知道 啊 现在 我 觉得 你 两件 print* 都 short hor
+07NC13MBP_0101 2811907 2823764 CS 哇 多一件 不懂 是 谁的 hor  我看 等到 哪一天 hor 有 convocation 的时候 hor 然后 有人 要穿 print 的衣服 他们 少了 一件 hor 他们才 哇 我 就 知道 谁的了 因为 没有人
+07NC13MBP_0101 2823764 2825587 ZH 完全 没有人 问你 那件
+07NC13MBP_0101 2825587 2827571 CS s. s 的是谁的
+07NC13MBP_0101 2827571 2831136 CS 不可能 是 我的 嘛 s. s. 的 我又想又不同你穿 s. s.
+07NC13MBP_0101 2831136 2834944 CS justin 也穿 s. s. 哪里 可能 穿一样的 size 的
+07NC13MBP_0101 2836911 2839000 ZH 哦 对 啊 这样 很好笑 啊
+07NC13MBP_0101 2843815 2844324 EN <unk> shirt
+07NC13MBP_0101 2845114 2845589 EN m. lor
+07NC13MBP_0101 2847099 2847994 CS that's why 你 很大件 嘛
+07NC13MBP_0101 2849259 2849786 ZH 对 啊
+07NC13MBP_0101 2851138 2851770 ZH 就是说 咯
+07NC13MBP_0101 2858654 2860410 CS <unk> 太 fit 了 很 mascular lah
+07NC13MBP_0101 2860410 2862482 ZH 怎么 嘞 很难看 嘛
+07NC13MBP_0101 2863318 2864421 ZH 哪里会
+07NC13MBP_0101 2866338 2867919 ZH 这样 有 多一件 裤子 嘞 很棒 hor
+07NC13MBP_0101 2869816 2874557 CS <unk> 这个 souvenir 来的 嘞 好像 我 还在 看 哪一天 see got who go and claim for me
+07NC13MBP_0101 2874557 2877016 ZH 然后 我 会 直接 笑出来 嘞 你们 不要笑 hor
+07NC13MBP_0101 2877718 2879738 ZH 因为 不会 你们 不应该 会懂的 应该 只有 我会懂
+07NC13MBP_0101 2880510 2881037 ZH 好不好
+07NC13MBP_0101 2882969 2883706 ZH 不要笑
+07NC13MBP_0101 2884796 2886728 CS 那时 我 也是 跟 joslin 讲 then 我们 去做工 嘛
+07NC13MBP_0101 2887132 2887860 CS then 我 他讲
+07NC13MBP_0101 2887860 2890050 CS 那个 工作 要 穿 black shorts
+07NC13MBP_0101 2890050 2891250 ZH 我就讲 哈
+07NC13MBP_0101 2891250 2895320 CS i don't have any black shorts anymore 怎么办 等 下 要 穿 那个 s. s. 的 print short ah
+07NC13MBP_0101 2895653 2898709 CS then joslin 跟我 说什么 哈 你 回家 找一下 咯 看 有没有
+07NC13MBP_0101 2898709 2902248 CS then 我 真的 那时 带 那个 s. s. 回去 咯 then 我 在 家里 找一下 哎呦 真的 有一个
+07NC13MBP_0101 2902810 2910747 CS m. size 在家里 嘞 then 我 就 直接 我就 wah man 然后 我就 穿去 做工 然后 我就 穿去 做工 我就 joslin 会不会 觉得 我 今天 裤子 大件一点 哈 <unk>
+07NC13MBP_0101 2910747 2912415 ZH hor 对 咯 为什么 哈 为什么 哈
+07NC13MBP_0101 2912415 2918105 CS  then 我就 不好意思 讲出来 啦 then 又刚好 mark 跟 gary 在我 隔壁 然后我还是讲
+07NC13MBP_0101 2918958 2920521 ZH 呵 很好笑 啦 一直在笑
+07NC13MBP_0101 2920521 2925659 CS 呵 我还 我 还 没有跟 josline 讲 为什么 这个是 m. 的 i think 会 笑出来 啊
+07NC13MBP_0101 2929792 2938769 CS 你屁 咯 我 记得 我 第一次 我 第一次穿 <unk> 穿去 <unk> 的时候 我 记得 跟你们 一样 我 穿的时候 觉得 里面 空空的 觉得 里面 很像 很 baggy baggy 对不对
+07NC13MBP_0101 2939572 2942224 CS 那个 <unk> then <unk> s. s. 可以 送给 你们了
+07NC13MBP_0101 2946192 2947369 CS joslin 不会要的 咯
+07NC13MBP_0101 2948124 2949670 ZH 谁会要 好不好
+07NC13MBP_0101 2953673 2954288 ZH 给你看
+07NC13MBP_0101 2955272 2956360 ZH 给你看 刚才 拍的 咯
+07NC13MBP_0101 2966155 2966787 ZH 当然 啦
+07NC13MBP_0101 2977297 2978649 ZH  为什么
+07NC13MBP_0101 2985064 2987683 CS  为什么 很怪 alright what
+07NC13MBP_0101 3000743 3003482 CS 因为 是 录音 啊 have you ever been on the <unk> side
+07NC13MBP_0101 3006590 3009312 ZH 我 诶 我中学 中学有
+07NC13MBP_0101 3009312 3010457 ZH 中学 有参过
+07NC13MBP_0101 3010457 3011730 CS 参加 过 talent time leh
+07NC13MBP_0101 3011730 3013773 EN you know the singing competition
+07NC13MBP_0101 3016302 3017601 CS 对 咯 then 那时候我 join
+07NC13MBP_0101 3017601 3020702 CS  我 stage fright leh 唱歌 啦
+07NC13MBP_0101 3020702 3025461 CS then 我就 stage fright leh then on the on the stage 我就 直接 forget the lyrics
+07NC13MBP_0101 3025461 3031810 CS then 突然间 then i think 我 我不懂为什么 啦 then 我 楼下的 那个 friend ho
+07NC13MBP_0101 3031810 3034150 CS 隔壁 那个 老师 就有 问 我的 friend leh
+07NC13MBP_0101 3034150 3042850 CS hey, who is this guy huh why is he always making a fun of hiself on stage then 我就 哦 damn sad
+07NC13MBP_0101 3042850 3046700 CS then 这个 老师 是 那时 候 那个 reject 我 进 literature class 的 老师 lor
+07NC13MBP_0101 3047453 3048331 EN mister-tang
+07NC13MBP_0101 3053126 3054548 ZH 英文的 (呃) 你又懂
+07NC13MBP_0101 3055250 3055970 ZH 你懂 是谁 吗
+07NC13MBP_0101 3056480 3058640 ZH 那个 看起来 很温柔 那种 感觉的
+07NC13MBP_0101 3060027 3061239 ZH 很好笑 很烂 啦
+07NC13MBP_0101 3062099 3063501 CS 害到我 害到我 这么 sad
+07NC13MBP_0101 3073312 3075068 CS 不懂 嘞 我只懂 shu-bus
+07NC13MBP_0101 3076631 3078334 CS shu-bas 还是 shu-bas
+07NC13MBP_0101 3082005 3085411 CS 她 现在是 他 现在是 principal leh
+07NC13MBP_0101 3087030 3089200 CS 为什么 p. e. 老师 可以 做 principal 的
+07NC13MBP_0101 3089200 3090800 ZH 哇 酷 hor
+07NC13MBP_0101 3090800 3093870 CS p. e. 老师 可以 work his way out to become a principal leh
+07NC13MBP_0101 3095379 3095712 EN but
+07NC13MBP_0101 3096573 3098891 EN did he got the qualification to become a principal
+07NC13MBP_0101 3100155 3103316 CS i was so shocked when 我 听到 我朋友 跟我讲 他做 principal
+07NC13MBP_0101 3105728 3106413 ZH 他 姓什么
+07NC13MBP_0101 3107835 3109012 CS then 那时 他 有 跟 <unk> 讲过 是不是
+07NC13MBP_0101 3109890 3110417 ZH 跟谁 哈
+07NC13MBP_0101 3121149 3122010 ZH 是 <unk> 的 吗
+07NC13MBP_0101 3124925 3125838 ZH <unk> 的 吗
+07NC13MBP_0101 3126787 3127557 ZH 真的 吗
+07NC13MBP_0101 3128911 3130229 ZH 小他 十岁
+07NC13MBP_0101 3130738 3132775 CS 现在 mister mister-ng 几岁了
+07NC13MBP_0101 3140730 3141959 CS 嗯 他很 baby face ah
+07NC13MBP_0101 3143604 3144482 EN <unk>
+07NC13MBP_0101 3145325 3146642 CS miss-loi 是 你们 老 学校 老师 啊
+07NC13MBP_0101 3156033 3157912 EN so interesting
+07NC13MBP_0101 3157912 3159640 ZH 哇 师生恋 嘞
+07NC13MBP_0101 3161846 3164058 ZH 我以后 以后 应该 是 不会要 这种 东西的
+07NC13MBP_0101 3166130 3168308 ZH 我跟你 讲 我 找女朋友 一定要 找 比我 小只的
+07NC13MBP_0101 3168308 3171420 ZH 因为 什么 呢 因为 我 太小只
+07NC13MBP_0101 3171420 3173348 CS then 我的 那个 shoulder 不够 阔
+07NC13MBP_0101 3173787 3174489 CS 不够 broad
+07NC13MBP_0101 3177387 3182006 CS 哪里有 女孩子 全部 都 很小只的 嘛 现在 哪里 有 这么 大只的 yvonne 也是 很小只
+07NC13MBP_0101 3192454 3194994 EN nice hah that was a good consolation
+07NC13MBP_0101 3198811 3204729 CS 啊 你看 又 词不达意的 刚才 一半讲 you cut down half of the population 现在 你 有 忽然讲
+07NC13MBP_0101 3226657 3229764 CS 诶 我 一七三 hor 我高她 thirteen c. m. can
+07NC13MBP_0101 3230351 3233126 CS thirteen c. m. 不够 吗 那你要 你要 拿 多高的
+07NC13MBP_0101 3233126 3240747 CS 怎么 看不出来 你不要 你 不要 眼里 只看 到 <unk> 好 吗 you cannot just see the appearance you must see your <unk>
+07NC13MBP_0101 3243021 3244549 ZH 我 一七四 hor
+07NC13MBP_0101 3245726 3249396 ZH 没有 啦 <unk> 一七四 那时 你 不是 讲 那时 不是 跟 俊杰比
+07NC13MBP_0101 3251099 3252522 ZH 对 咯 俊杰 讲他 <unk> 多少
+07NC13MBP_0101 3253224 3254418 CS 俊杰 讲 他 一七三 okay
+07NC13MBP_0101 3254998 3256157 ZH 哦 我 还 比 俊杰 高一点 哦
+07NC13MBP_0101 3256631 3257562 CS that's why 我讲
+07NC13MBP_0101 3258053 3261794 EN it's not in your eye the fact you must see the fact
+07NC13MBP_0101 3262830 3264657 ZH 不要 以为 看 <unk> 高 你 就是 很高
+07NC13MBP_0101 3271065 3271767 ZH 是 吗
+07NC13MBP_0101 3274348 3275174 ZH 要带住 hor
+07NC13MBP_0101 3276825 3277422 ZH 没有 没有
+07NC13MBP_0101 3278177 3279055 ZH 他 有一点 痛 啊
+07NC13MBP_0101 3282008 3284835 ZH (呃) 好 现在 现在 拿下来讲 不好 啊
+07NC13MBP_0101 3287487 3289840 CS 哦 你看 you see
+07NC13MBP_0101 3289840 3292079 EN you have did the wrong thing now
+07NC13MBP_0101 3292079 3293818 ZH 好 没问题
+07NC13MBP_0101 3295521 3296513 ZH 我会 了解 一下
+07NC13MBP_0101 3304234 3306148 ZH 还好 啊 诶 我 也是 差不多
+07NC13MBP_0101 3311750 3313717 CS hello 啊 你看
+07NC13MBP_0101 3314332 3317475 CS 现在 就 差不多 了 真的 吗 诶 不错不错 okay lah
+07NC13MBP_0101 3320332 3321930 ZH 呼 我刚才 讲到 哪了 哈
+07NC13MBP_0101 3323265 3324135 ZH 我讲到 俊杰
+07NC13MBP_0101 3336096 3337501 CS 是 那个 shoulder 的关系 是不是
+07NC13MBP_0101 3344551 3346659 CS alright what 女孩子 喜欢 瘦的 还是 喜欢 大的
+07NC13MBP_0101 3350944 3352717 ZH 我知道 我知道
+07NC13MBP_0101 3354994 3356522 CS that's why 我要找 小小 小小只的
+07NC13MBP_0101 3356522 3360082 CS but 现在 小小  谁
+07NC13MBP_0101 3362856 3364542 CS but 小小只的 很难找了
+07NC13MBP_0101 3365191 3366579 ZH 而且 小小只 的 全部 都是
+07NC13MBP_0101 3367492 3372879 ZH 都 有 一些 很像 hor 很奇怪 这样 诶 你 不觉得 小小只 hor 长大了 过后 就 很像 很奇怪 了 嘞
+07NC13MBP_0101 3374003 3376198 ZH 她老了 之后 hor 她 太小只 我 觉得 很好笑
+07NC13MBP_0101 3377690 3378252 ZH 不会 吗
+07NC13MBP_0101 3384577 3386193 ZH 我妈妈 也是 比我 小只 很好笑
+07NC13MBP_0101 3387422 3388405 CS but 我 不觉得 好笑 啦
+07NC13MBP_0101 3388880 3390688 ZH 因为 我 看久 看久 习惯了
+07NC13MBP_0101 3390688 3394552 CS 我 觉得 是 <unk> i think 我 老爸 <unk> 不是 我 老爸 i don't think my dad is very big also
+07NC13MBP_0101 3396536 3400136 CS my dad how do i know how tall 我都没有 take 他 go for height measurement
+07NC13MBP_0101 3400136 3402000 ZH 没有 啦 问我 老爸 我 老爸 也不懂
+07NC13MBP_0101 3403792 3405197 ZH 我问 我老爸 他哪里 懂 这种 东西
+07NC13MBP_0101 3408007 3409236 CS 他 都没有 measure b. m. i.
+07NC13MBP_0101 3410289 3411009 EN what is your b. m. i
+07NC13MBP_0101 3413136 3414909 CS 你又懂 healthy are you sure
+07NC13MBP_0101 3415507 3417737 CS justin 那时候 measure 他 high risk leh
+07NC13MBP_0101 3418755 3418913 ZH 他
+07NC13MBP_0101 3419756 3421249 CS 因为 他 b. m. i. too low
+07NC13MBP_0101 3424476 3425406 CS 他 too low lah then
+07NC13MBP_0101 3426232 3435316 CS i think 他 gain another five to six k. g. to change average level 他就讲 太多了 if i gain five k. g. i become a ball 我 直接 笑出来 
+07NC13MBP_0101 3442318 3443547 CS nanyang 有 嘛
+07NC13MBP_0101 3460947 3461404 CS then 就
+07NC13MBP_0101 3462018 3462563 EN okay
+07NC13MBP_0101 3467597 3469657 CS fail i. p. t. then 就要去 measure fats
+07NC13MBP_0101 3475363 3476961 CS  这 semester 这 semester 你要去 啦
+07NC13MBP_0101 3490716 3491032 ZH 对
+07NC13MBP_0101 3496856 3499104 CS but do you pass i thought 你 fail
+07NC13MBP_0101 3500790 3501826 CS 你 不可以 run leh
+07NC13MBP_0101 3504615 3507794 CS  那个时候 就可以 因为有 incentive  对不对
+07NC13MBP_0101 3510691 3513234 EN wah then what happen now
+07NC13MBP_0101 3517037 3519601 CS just cui leh 跟 <unk>
+07NC13MBP_0101 3524965 3526704 EN  okay let's go run next week
+07NC13MBP_0101 3542453 3544666 EN okay eunice let's go for run tomorrow
+07NC13MBP_0101 3546492 3547844 EN i ask <unk> along
+07NC13MBP_0101 3548933 3551866 CS on 明天 我叫 <unk> 一起 跑步 then 我们 一起去 run
+07NC13MBP_0101 3555255 3556055 EN friday lor
+07NC13MBP_0101 3561472 3563158 ZH <unk> 在 学校 读书 吗
+07NC13MBP_0101 3567776 3568619 CS then 他 讲什么
+07NC13MBP_0101 3571817 3572519 ZH 昨天 啊
+07NC13MBP_0101 3573573 3575136 ZH 哈 昨天我 我 在跟 谁 吃饭
+07NC13MBP_0101 3577313 3578753 CS 昨天 dinner 我 不是 跟你们 吃 嘛
+07NC13MBP_0101 3579227 3579877 EN hello
+07NC13MBP_0101 3580790 3581598 EN hello girl
+07NC13MBP_0101 3582722 3584490 CS hello 昨天
+07NC13MBP_0101 3584490 3586710 CS 昨天 是 谁 吃 pepper chicken 的
+07NC13MBP_0101 3587614 3588650 EN oh oh oh
+07NC13MBP_0101 3590652 3593500 ZH  你们 不
+07NC13MBP_0101 3593500 3595640 CS are you very tired 你 累 了 吗
+07NC13MBP_0101 3601171 3602154 EN then what happened to me
+07NC13MBP_0101 3605227 3605947 EN oh
+07NC13MBP_0101 3608002 3610560 EN oh then we are not in school oh last week lah

@@ -1,0 +1,134 @@
+UI22MAZ_0105 289 2263 CS develop 也是在那边啊好像是
+UI22MAZ_0105 6915 9353 ZH 哈 不只是啊 不只是那些啦
+UI22MAZ_0105 16684 17817 ZH 哈 有 其实
+UI22MAZ_0105 18355 20733 CS 不一定是在这种 area ah 只是
+UI22MAZ_0105 21158 22673 ZH 看他的
+UI22MAZ_0105 24160 25666 CS usage 在哪里啦
+UI22MAZ_0105 26491 30244 CS 只是有些人是要 view image 就没有东西咯就看罢了
+UI22MAZ_0105 30497 36960 CS then 假如你要 analysis 的话你可能需要一些 algorithm 可能需要一些 process ah pre-processing 那些东西
+UI22MAZ_0105 37605 40781 CS 有些 medical tools 有些 tools 是没有的啦
+UI22MAZ_0105 41244 46294 CS 有些只是给你 view 罢了 then 你可以画一些四方形圆形三角形在上面
+UI22MAZ_0105 46741 52445 CS then 有些是 enable 你 enhance 它的 contrast ah brightness ah
+UI22MAZ_0105 52976 55324 CS 啊那些都是 basic tools 都会有啦
+UI22MAZ_0105 56192 58958 ZH 嗯这些我们都有到完
+UI22MAZ_0105 59718 60429 ZH 而且
+UI22MAZ_0105 61382 64462 CS enhancement lor 可能那个圆圈你画了不美
+UI22MAZ_0105 65162 67179 ZH 你要画那个心脏你画不到
+UI22MAZ_0105 67955 72886 CS then 我们这边是你画了 hor 你按一个 enhance 直接 capture 好好
+UI22MAZ_0105 73915 75862 CS 那个是 没有现在 so far
+UI22MAZ_0105 79867 87091 CS 对 我们现在也~ 现在是 在 package up 这个 algorithm 就是
+UI22MAZ_0105 87568 89463 CS 我们有 liver mah 肝 嘛
+UI22MAZ_0105 89627 93650 CS then 我们用手画 用 你知道用 mouse 画的画 那个东西不会很美的嘛
+UI22MAZ_0105 94162 99049 CS 你按 画完了 hor 你按 enhance 按那个 button run 一下 它就会
+UI22MAZ_0105 99409 102047 CS capture 到你要画的 大概你要画的东西了
+UI22MAZ_0105 102709 105478 ZH 现在只是现在还没有讲很完美啦
+UI22MAZ_0105 111157 119664 CS 嗯 不一定的 可能你不一定要用圆~ 你不用 因为我们有 freehand 跟那个很多很多 很很多种 tools lah
+UI22MAZ_0105 120043 126391 CS 你可能不需要浪费时间慢慢画 直接两个 一个是 region of interest 另外一个是你的 identi-
+UI22MAZ_0105 126757 132925 CS 啊 画在那边一个 object 你知道那边你要 你是 你要的 那直接能 string 到那边去
+UI22MAZ_0105 133837 135808 CS accuracy base 就
+UI22MAZ_0105 136152 139299 CS 就不知道 因为那个 researcher 没有讲 
+UI22MAZ_0105 141371 142443 ZH 啊
+UI22MAZ_0105 149832 154926 CS 啊 而且 accuracy 不是我们 define 的 要给医生 define
+UI22MAZ_0105 155305 160759 CS 而且每一个医生 definition 都不同 那个才是最头痛的地方
+UI22MAZ_0105 161680 166081 CS 啊 同样的东西 liver 那个 size
+UI22MAZ_0105 166335 169453 ZH 你给不同的医生医生都会给你不同的答案
+UI22MAZ_0105 169699 171797 CS 那个才是问题 我们很难 standardise
+UI22MAZ_0105 172209 181039 CS 因为我们好像我们 computer 的 我们 computer science 的人都是看你的数目 我们都是看数目嘛 你讲多少 percent 是算 precise
+UI22MAZ_0105 181406 190615 CS 还是你讲这个是 precise 的 then 我们就能做 很好做东西 你东西很 varies 的话你就很难 capture 到那个 knowledge 到底你要怎样才是算 accurate
+UI22MAZ_0105 199552 200342 EN mm hmm
+UI22MAZ_0105 203699 204376 EN huh huh
+UI22MAZ_0105 207422 212479 CS 就 de~ 看 要问 doctor lor 我们都是要 depends on doctor huh huh
+UI22MAZ_0105 213036 213657 EN ah ha
+UI22MAZ_0105 214136 215001 ZH 对对
+UI22MAZ_0105 215688 216393 ZH 哦
+UI22MAZ_0105 218652 219611 EN ha ha ha
+UI22MAZ_0105 220288 221794 EN ah ha okay
+UI22MAZ_0105 227453 232333 CS 哦 我们有几个 entropy lah 可以 based on 它的
+UI22MAZ_0105 232926 235518 CS segment 的啊那个 size 它的 area lor
+UI22MAZ_0105 236960 238330 CS 最 basic 就是 area lor
+UI22MAZ_0105 238755 247001 CS area 你你的 segment area 跟我的 area 差多少就 percentage lor then 还有一些 shape 的 criteria
+UI22MAZ_0105 249395 252324 CS 就它 cover 的 area ha ha ha ha 对那个
+UI22MAZ_0105 252832 256474 CS metre 那个 centimetre cube lah 那个是最最最普通啊
+UI22MAZ_0105 256725 260359 CS 就主要的是算它 pixel lor pixel per 什么咯
+UI22MAZ_0105 260758 263413 CS 啊 then 还有另外一种就是
+UI22MAZ_0105 265779 268967 CS 讲它的 compactness ah
+UI22MAZ_0105 269672 270995 ZH 那个我就不大会算
+UI22MAZ_0105 271223 273243 CS 因为是一个 mathematical formula 的
+UI22MAZ_0105 273395 276400 CS available 的 你只要把那 image pump 进去
+UI22MAZ_0105 276978 284945 CS 那个 original 你 你的 test image 跟你的 compare 的 image 两个 pump 进去就有两个 result 出来了
+UI22MAZ_0105 289708 293415 CS 有不同的方法 啊 不同的方法 哦 不同的 criteria 算咯
+UI22MAZ_0105 294447 296224 CS so far 知道的有十五种
+UI22MAZ_0105 297353 302609 CS 就 你要上 journal 的话你就看你要拿哪几种对你有利的咯
+UI22MAZ_0105 303982 310774 CS 哈啦 而且你不只是自己写一些 image 啦你可能你要上这些 journal 它只是承认这些 calculation
+UI22MAZ_0105 311287 313939 CS 因为这些 calculation 是已经是被承认了的
+UI22MAZ_0105 314080 314898 ZH 这十五种
+UI22MAZ_0105 315237 315829 ZH 你也是
+UI22MAZ_0105 316224 320117 CS 你人家来 evaluate 你的照片照相 啊你的 你的 result 的
+UI22MAZ_0105 322938 328122 CS 呃除非是好像刚才讲的 micai lor ah micai 就有自己的 standard lor
+UI22MAZ_0105 328580 331105 CS 就是讲我一定是用这种 formula formula formula
+UI22MAZ_0105 331654 334645 CS then 你的全部人你的 result 就是跑这个 formula
+UI22MAZ_0105 335258 340259 CS ah then 好像你普通 conference 的话你一你要 show 你的 result 的话你一定是
+UI22MAZ_0105 340505 344993 CS 你不要十五个 result 你都 show 完啦因为不一定你的是很好的啊
+UI22MAZ_0105 345219 351494 CS 因为你一定是 因为有它不同的 calculation 是 de~ cater for 不同的 feature ah
+UI22MAZ_0105 351736 355497 CS 啊 有些是你能 capture 到很好但是你的 shape 就很糟糕的
+UI22MAZ_0105 363782 367883 CS (呃) 有我 看过有一个是他十五个 method 都放出来
+UI22MAZ_0105 368477 372144 CS then 他到最后还有一个什么 total 的我不知道是 他他不知道怎样算的
+UI22MAZ_0105 372398 374836 CS 但是那个他是就 improve 到很够力的
+UI22MAZ_0105 375276 379554 CS total 不知道 improve 了八十多巴仙 我不知道他是怎样 improve 的啦他那条线
+UI22MAZ_0105 380212 381934 ZH 他有这样讲咯 但是
+UI22MAZ_0105 383123 386704 ZH 就大多数我是用其中的两三个罢了 不要用太多
+UI22MAZ_0105 387608 397264 CS 尤其是等下假如我放进 thesis 里面的话就够力了 被被他被 examiner 问到做么你要用这个 这样多 method 你做么要用这几个
+UI22MAZ_0105 397933 399660 CS 那个你也要 defend 的不是
+UI22MAZ_0105 401374 402323 CS viva 的时候
+UI22MAZ_0105 407901 412011 CS 除了 u. s. m. u. t. m. u. p. m.
+UI22MAZ_0105 413684 416116 CS so far u. k. m. u. m. 也有
+UI22MAZ_0105 416364 418851 CS u. u. m. 就没有听过罢了 其他的都有
+UI22MAZ_0105 419439 426379 CS 最近的 u. p. m. 的一个学生还是 lecturer 不清楚啦 很 刚刚今年就出了四张 paper
+UI22MAZ_0105 427891 429859 ZH 就跟我很靠近的才紧张
+UI22MAZ_0105 430948 434022 CS 所以 在在看着他的 paper 到底写什么东西啊
+UI22MAZ_0105 434333 435506 ZH 刚刚知道罢了
+UI22MAZ_0105 441357 445621 ZH 那种等下你很怕的是什么 你完全是撞到了啊
+UI22MAZ_0105 446040 452010 CS 那时候你就可能还要改 title ah refine 这个从头来过啊 那个才才够力
+UI22MAZ_0105 452443 454531 ZH 因为已经有看到一个例例子了
+UI22MAZ_0105 455603 457362 CS 同样跟我是 mixed mode 的
+UI22MAZ_0105 457859 461505 CS 他要上去要交 final draft 的时候一张 paper submit
+UI22MAZ_0105 461837 462632 EN publish
+UI22MAZ_0105 462965 464309 CS 跟他 title 完全一样
+UI22MAZ_0105 464883 467268 CS 别间 university idea 一模一样
+UI22MAZ_0105 467760 470218 ZH 不能不能换 换不过了他的
+UI22MAZ_0105 470778 474871 CS 他的 draft 换不过了所以他的 title 要重新换过
+UI22MAZ_0105 476674 481244 ZH 对你应该知道嘛 有嘛去年 一个马来人的
+UI22MAZ_0105 485419 486322 EN uh huh
+UI22MAZ_0105 487045 488322 EN under
+UI22MAZ_0105 489330 491176 CS under doctor chan 的喔好像是
+UI22MAZ_0105 491784 493055 ZH 啊
+UI22MAZ_0105 494147 496353 ZH 那个小小只的马来人啊 啊
+UI22MAZ_0105 498576 504372 CS 哦我不懂哦 他讲他做到 chapter 五就 stop 了 就要重头来过了
+UI22MAZ_0105 505600 506446 ZH 啊
+UI22MAZ_0105 509536 521214 CS (呃) 我没有问到很清楚啦 他是讲他要 sub~ 要 submit 的时候就 他要 好像要交上去那个 first draft 还是什么的时候 就有一张 paper submit ah publish
+UI22MAZ_0105 521469 528408 CS then 他的 supervisor 好像是跟他讲有这张 paper then 他去看一下 就跟他的 title 是撞完啊
+UI22MAZ_0105 533789 537055 CS 不是我的 title 他的 他们的 那就有这个东西啦
+UI22MAZ_0105 537428 553140 CS 就有这样的情况了 我我自己就 realise 讲有可能会撞到我的 所以我要去看一下到底什么事情 他的他们的那个 现在那个我讲的 u. p. m. 的~ 的那学生 publish 的东西是怎样的咯 所以就预防同样事情发生在我的身上
+UI22MAZ_0105 555128 558220 ZH 他们就不知道喔 没有去问
+UI22MAZ_0105 564014 566708 CS  result 一样会有了咯
+UI22MAZ_0105 569120 571146 CS 因为 idea 都是个人的 hor
+UI22MAZ_0105 577252 577901 ZH 是咯
+UI22MAZ_0105 581145 582076 ZH 抄啊
+UI22MAZ_0105 583092 586389 ZH 哦 抄的那个手快的人就赢咯
+UI22MAZ_0105 586759 588396 CS 先 publish 的人就赢了
+UI22MAZ_0105 595328 601388 CS meet一点呃 写起来全部给你 supervisor 讨论好好 全部 procedure 写起来
+UI22MAZ_0105 606047 607687 CS 会给人家 tap 掉了
+UI22MAZ_0105 608417 612895 CS 我大多数我的 idea 都不会直接 e-mail 他 我的 supervisor 我会
+UI22MAZ_0105 613325 616747 CS 写起来了 then appoint 时间跟他讨论
+UI22MAZ_0105 617776 624231 CS then 直接涂在我的纸 我有一本书特地就是写 research 的东西就给他涂咯 涂到怎样我就收起来了
+UI22MAZ_0105 624969 626339 CS 这样会比较 secure
+UI22MAZ_0105 627846 632078 ZH 自己辛苦了这样多年你又要重新来过就很很够力了
+UI22MAZ_0105 643431 648954 CS 对对对 一开始第一年你就很够很高的 peak 了的 慢慢来了 走下坡
+UI22MAZ_0105 655274 659108 ZH 毕业的时候已经是没有没有了没有感觉了
+UI22MAZ_0105 659900 663976 CS 尤其是 我就是 我就我能想到想象得到是 p. h. d. 的时候啦
+UI22MAZ_0105 695181 697506 ZH 对咯 你学学到什么东西咯
+UI22MAZ_0105 701247 703644 ZH 你怎样度过那个时～ 几年
+UI22MAZ_0105 705394 707876 ZH 越痛苦的事情越容易记得
+UI22MAZ_0105 708469 709512 ZH 不能忘记啊
+UI22MAZ_0105 713081 715897 ZH （ppl) 熬熬过了 
+UI22MAZ_0105 717313 718272 EN okay okay

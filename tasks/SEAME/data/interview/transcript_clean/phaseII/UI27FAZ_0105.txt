@@ -1,0 +1,34 @@
+UI27FAZ_0105 1435 3604 CS okay 他们 就会
+UI27FAZ_0105 3604 8816 CS (啊) 通常 是 老板 就会 教你 不然 就是 product executive
+UI27FAZ_0105 8816 10983 CS okay 他们 就会 教你 咯
+UI27FAZ_0105 10983 16624 ZH 然后 (嗯) 一个 东西 一个 东西 慢慢 这样 教你
+UI27FAZ_0105 16624 19358 ZH 然后 教了 过后 就考试
+UI27FAZ_0105 19358 23427 ZH 考试了 过后 及格了 你才 可以 出去卖
+UI27FAZ_0105 35337 37698 ZH 嗯 对 嗯哼
+UI27FAZ_0105 48509 54791 CS 啊 不同的 这个 是你 开始 做工 的时候 那个 是你 (啊) prosat 是
+UI27FAZ_0105 54791 58811 CS 你 已经 做工 一年了 才可以 拿这个 prosat
+UI27FAZ_0105 58811 60961 ZH 每 一个人 都 需要 拿
+UI27FAZ_0105 62580 67890 CS to advance 我们 去 另外 一个 stage loh for career path
+UI27FAZ_0105 71862 73696 CS 我们的 career path
+UI27FAZ_0105 74374 77605 EN advance to career another stage ha
+UI27FAZ_0105 77605 81982 CS 因为 我们 好像 我讲 这样 sales exect. 有三个 stage
+UI27FAZ_0105 81982 85763 CS 但是 如果 你 过到 三个 stage 你 没有 拿 这个 prosat
+UI27FAZ_0105 85763 90789 CS 你 不能 上 好像 product exec. 你不能 上去 product exec. 这样
+UI27FAZ_0105 91933 96791 CS product 罢了 咯 他 没有 什么 他 没有 做买卖 的 但是 他 只有 做 (啊)
+UI27FAZ_0105 97372 101345 CS teaching 还是 customer 需要 clinical paper
+UI27FAZ_0105 103653 105628 CS customer 要 你做 presentation
+UI27FAZ_0105 105628 109739 CS 这个 product exec 就会 做这样 的东西
+UI27FAZ_0105 112388 116481 CS (啊) 他是 会 他 没有 commission 但是 他有 incentive
+UI27FAZ_0105 116481 121854 CS 他的 incentive 就是 讲 (啊) 每年 他会 做几个 product
+UI27FAZ_0105 121854 126955 CS ah demonstration demonstration 还是 (啊) presentation
+UI27FAZ_0105 126955 133483 CS okay and 他的 要看 他的 accept ah customer level acceptance
+UI27FAZ_0105 133483 140690 CS accept~ customer level acceptance 就是 好 好像 (啊) 他们的 sales 了咯 customer 的 sales 了 咯
+UI27FAZ_0105 140690 147474 CS 如果 customer sales according 有 有起 的话 他 就有 incentive 拿咯
+UI27FAZ_0105 157887 159455 ZH 嗯 有
+UI27FAZ_0105 160794 168040 CS 嗯 因为 因为 (嗯) sales exec 他们是 (啊)
+UI27FAZ_0105 168040 170161 CS 他的 他的 basic
+UI27FAZ_0105 170161 172235 CS 跟 他的 他的 incentive
+UI27FAZ_0105 172235 180240 CS 他的 basic 会比 product exec 比他低 但是 他的 incentive 会比 product exec 比他多
+UI27FAZ_0105 185177 189660 CS benefit benefit 就是 他的 career wise loh 他有 management mah
+UI27FAZ_0105 189660 193298 CS 但是在 sales exec 他们 没有 management 他 是在
+UI27FAZ_0105 193298 196514 CS ah sales field 里面 罢了

@@ -1,0 +1,236 @@
+UI24MAZ_0101 8660 16037 CS oh okay 现在 是 under ah prof zawi and 我 现在 是 我们 要 打算 做 那个 virtual heritage
+UI24MAZ_0101 16699 21990 CS so 在 virtual heritage 我的 负责 就是 讲 我会 reconstruct 那个 building 起来
+UI24MAZ_0101 22410 24407 CS after that then 我会
+UI24MAZ_0101 25669 29235 CS 啊 会 可能 会 把 它 放 进去 small devices
+UI24MAZ_0101 29767 33201 CS for example like 可能 i. pad 或者 是 i. phone 那 一些
+UI24MAZ_0101 33201 35548 CS 就是 fast enough to rendering
+UI24MAZ_0101 35548 37691 CS 他的 那个 building 出来
+UI24MAZ_0101 38562 43011 CS so 这 这 几个 就是 最 主要 的 就是 on reconstruction on
+UI24MAZ_0101 43011 48172 CS 那个 我们 的 以前 的 东西 就是 for example malacca kingdom 这样
+UI24MAZ_0101 53523 60074 CS okay so that's why usually 我们 有 看过 有 很多 张 那个 for example 在 新加坡 的 paper
+UI24MAZ_0101 60354 64874 CS 他们 用 一个 是 virtual strike dialer 他们 是 放在 small devices
+UI24MAZ_0101 65365 69486 CS then 他们 有 他们的 technology 就是 他们 弄 那个 东西 才 放 进去
+UI24MAZ_0101 69486 74961 CS 那个 small device 里面 then reconstruct then 在 里面 是 很 interactive 那 一种
+UI24MAZ_0101 74961 77791 CS for example 你 进去 这边 他 知道 你 在 level five
+UI24MAZ_0101 78117 80710 CS then 他 可以 跟 你 讲 在 level five 里面
+UI24MAZ_0101 81025 84605 CS okay 有 几个 房间 在 里面 so 他 走去 那里
+UI24MAZ_0101 85020 89284 CS 他的 那个 device 也 会 知道 为什么 因为 它有 放 那个 g. p. s. 在 里面
+UI24MAZ_0101 89284 91949 CS so 你的 location 去 哪里 他 会 知道 到 完 咯
+UI24MAZ_0101 91949 94866 CS so for example 你一 step in 这边 他 就 跟 你 讲 哦 okay
+UI24MAZ_0101 94866 98229 CS 你的 right hand side 有 一间 这样 的 lab acoustic lab
+UI24MAZ_0101 98229 100717 CS 在 你的 left hand side 就是 u. u. t. m. k. lab
+UI24MAZ_0101 101488 106003 CS 他们 会 有 新加坡 那个 n. t. u. 他们 在 做 着 这样 的 research lah
+UI24MAZ_0101 106672 110912 CS so 我们 打算 讲说 不知道 能 不能 放进 i. pad. that's why 就是
+UI24MAZ_0101 110912 113996 CS 一个 research lah component 那种 看 能 不能 放 进去 啦
+UI24MAZ_0101 117184 117760 ZH 对
+UI24MAZ_0101 119286 119987 EN building
+UI24MAZ_0101 120513 123777 CS 对 for example let's say 我们 要 做 是 malacca kingdom 的话
+UI24MAZ_0101 124120 128983 CS then 你 可能 就是 要 reconstruct 那个 malacca kingdom 的 那个 它的 皇宫
+UI24MAZ_0101 129936 132897 CS so 我们 就是 要 re~ 要 fast enough lah but
+UI24MAZ_0101 133580 137531 CS 我 可 相 我 觉得 相信 因为 现在 那个 game engine ah
+UI24MAZ_0101 138065 139537 CS 他们 是 可以 fast enough
+UI24MAZ_0101 139817 145696 CS ah to 做到 这样 的 东西 因为 他们 只是 用 polygon 只是 then after that texture mapping
+UI24MAZ_0101 146574 150957 CS 放下去 then 他们 就是 fast enough 因为 像 在 这边 他们 不用 delay mah
+UI24MAZ_0101 151343 155452 CS then second thing 是 kingdom 他 不会 经常 在 变 了 嘛
+UI24MAZ_0101 155452 158098 CS maybe 你 第一次 for the first time being 会 比较 难
+UI24MAZ_0101 158098 161619 CS but after that 你 可以 给 人家 可以 看 得 到 讲说
+UI24MAZ_0101 161619 164109 CS 他 是 几个 component 做 出来 那 一些 咯
+UI24MAZ_0101 164109 167786 CS so maybe for first time being 会 比较 难 to construct but after
+UI24MAZ_0101 167786 169400 CS 就 讲 你 一个 video clip 这样
+UI24MAZ_0101 169872 174372 CS 你 做 好 过后 你 放 几次 video clip 不会 很 慢 了 的 嘛
+UI24MAZ_0101 174372 177405 CS 只是 在 那个 making 的 时候 会 比较 久 的 时间
+UI24MAZ_0101 180278 182834 CS okay maybe real time 就是 讲说
+UI24MAZ_0101 183467 188737 CS 可能 他 讲说 啊 那个 user 讲说 okay 我 要 再 看 着 这边 detail 一点点
+UI24MAZ_0101 189318 191683 CS 这个 东西 是 beyond our control mah
+UI24MAZ_0101 192330 198043 CS 这个 假如 是 user 要 的话 你 是 不是 要 给 他 real time just reconstruct 给 他 看 多 一次 嘞
+UI24MAZ_0101 198043 204839 CS so 最 challenging 的 part 就是 在 这边 how real time and how fast that you can provide to them
+UI24MAZ_0101 204839 207642 CS 因为 我们 一来 都 知道 讲说 做 graphic
+UI24MAZ_0101 208308 215513 CS 最 主要 就是 你的 processor 是 fast enough 或者 是 你 用 g. p. u. graphic processing unit to 去 rendering 那些 东西
+UI24MAZ_0101 215513 219405 CS then 我们 就是 要 尝试 放在 small device
+UI24MAZ_0101 219405 223715 CS 我们 一路来 都 知道 在 small device processor 又 少 memory 又 少
+UI24MAZ_0101 223715 228515 CS 怎样 能 跑 这样 的东 西 so 他的 challenging part 就是 在 这边
+UI24MAZ_0101 228515 231143 CS 你 怎样 去 make use of 那个 processor
+UI24MAZ_0101 231143 243221 EN ahhuh
+UI24MAZ_0101 243221 243782 ZH 对
+UI24MAZ_0101 246695 247780 ZH 对 对 对
+UI24MAZ_0101 248447 254900 CS 啊 或者 是 我 有 看 读 到 一张 paper 就是 他们 是 比较 简单 的 就是 用 photo 罢了
+UI24MAZ_0101 255315 259318 CS 因为 现在 我们 每次 讲 reconstruct ah 我们的 heritage
+UI24MAZ_0101 259318 263934 CS 只有 两种 problem 一 第 一种 problem 是 那种 heritage 还有 在 那边
+UI24MAZ_0101 264179 268944 CS 就是 我们的 fort cornwallis 有 在 那边 嘛 不用 怕 咯 你 可以 用 laser point 那个 laser gun
+UI24MAZ_0101 268944 273665 CS 去量那个 measurement 才来放进去 virtual reality 里面或者是 v. r.
+UI24MAZ_0101 273665 283278 CS if 那个 a famosa 被 炸 过了 的 只是 剩下 ten percent 那个 ninety percent how you construct it 那 就是 一个 问题 在 这边
+UI24MAZ_0101 284189 285766 EN so ah huh
+UI24MAZ_0101 288639 289410 EN ah huh huh
+UI24MAZ_0101 290356 290952 EN ah huh
+UI24MAZ_0101 293685 294183 ZH 对
+UI24MAZ_0101 296311 298379 EN angle ah huh
+UI24MAZ_0101 301952 308715 CS 啊 我 知道 你 讲 什么 他们 也有 人 用 这个 来 做 heritage 东西 咯 就是 在 那个 cape town
+UI24MAZ_0101 308715 311126 CS 就是 在 africa south africa 那 一边
+UI24MAZ_0101 311126 317157 CS 他们 因为 那个 building 已经 弄掉 了 then 那时 他们 只是 用 照片 拍 拍 起来 罢了
+UI24MAZ_0101 317633 321317 CS so 那边 最大 的 challenging 就是 那时 的 quality 又 不好
+UI24MAZ_0101 321317 323485 CS then 他们 只是 拍 一个 angle 罢了
+UI24MAZ_0101 323485 327378 CS 假如 if 你是 能 拍 这个 angle 这边 又 有 一个 angle 的话
+UI24MAZ_0101 327378 332041 CS 你 可以 make 那个 building 看 起来 就是 一个 three d. type rather than two d. plan
+UI24MAZ_0101 332805 337010 CS so 问题 是 这边 那个 building 是 不是 还有 在 那边
+UI24MAZ_0101 337499 340512 CS 因为 我们的 的 title 是 stress on heritage mah
+UI24MAZ_0101 340897 343666 CS heritage 就是 很久 很久 那 一种 啦 假如 是
+UI24MAZ_0101 343946 352369 CS latest 的 我们 都 no 不用 去 做 这个 东西 了 我们 可以 拿 那个 它的 floor plan 直接 build up 用 那个 autocad to build out 就 这样 就 okay 了 嘛
+UI24MAZ_0101 354037 354913 ZH 啊 我 知道
+UI24MAZ_0101 356525 360768 CS okay 我 上次 我 我有 visit 过 一些 hollywood 的 那个 东西 啊
+UI24MAZ_0101 361162 363439 CS 其实 你 看 那个 u. five seven one ah
+UI24MAZ_0101 363790 368730 CS 那个 潜水艇 的 啦 其实 他 最 challenging 给 他们 最
+UI24MAZ_0101 368730 372622 CS 怎样 显示 那个 director 好料 的话 就是 他 用 空间 越少
+UI24MAZ_0101 373355 377630 CS 而 拍 出来 的 效果 就是 那个 director 是 最 成功 的 那种
+UI24MAZ_0101 377630 383143 CS 你 可能 你 用 大制作 那 一些 but 因为 你 用 钱 去 买的 嘛 最 主要 是 他们
+UI24MAZ_0101 383143 389039 CS 因为 一个 小小 一个 地方 他们 放在 那个 fish pond 那边 他们 放 u. five seven one 就是 在 那边 罢 了
+UI24MAZ_0101 389039 392126 CS but 他们 拍 的 时候 你 可以 看 得 到 你 以为 是 真的
+UI24MAZ_0101 392126 394887 CS 他们 that's why 他们 就 叫 v. r. virtual reality
+UI24MAZ_0101 394887 401158 CS then 进去 里面 他们 才 去 一个 studio 里面 才 set up 那 一种 的 潜水艇 的 里面 的 东西 啦
+UI24MAZ_0101 401573 407425 CS so 那个 是 最 challenging 的 part 那种 gladiator 其实 你 看 他 里面 讲说 他们 有 很多 人
+UI24MAZ_0101 407425 410156 CS but 他 不是 请 那个 临时 演员
+UI24MAZ_0101 410156 413134 CS 他们 全部 是 用 cloud simulation 来做
+UI24MAZ_0101 413134 416919 CS 就是 computer 那些 可能 只是 你 看到 前面 是 三个 罢了
+UI24MAZ_0101 417304 421120 CS 后面 的 人 全部 是 用 computerize 的 graphic 做 出来 到 完 的
+UI24MAZ_0101 421786 425465 CS 啊 他们 是 这样 做 不是 请 全部 let's say 讲 colosseum 里面
+UI24MAZ_0101 425920 431507 CS 可以 坐 五百个人 他们 不可能 请 五百个人 坐 在 里面 maybe 可能 他 只 一个 section
+UI24MAZ_0101 431800 435913 CS 一个 section 他 请人 做 到 完 then 他 就 用 怎样 copy and paste 这样 啦
+UI24MAZ_0101 436390 440104 CS pop pop pop pop pop 下去 then 你们 就 可以 看到 很多 人 咯
+UI24MAZ_0101 440688 443526 CS 这个 是 one of the reality so that's why 你看 for
+UI24MAZ_0101 443877 448082 CS hong kong 的 film 跟 universe 那个 hollywood 的 film 你看
+UI24MAZ_0101 448350 452380 CS 他们的 分别 很大 就是 hong kong 的 一 touch 到 讲说 是
+UI24MAZ_0101 452695 456795 CS computerize 的 东西 的话 你 看 他们 的 效果 你 一看 你 就 知道 是 fake 的
+UI24MAZ_0101 457005 465440 CS then 你看 hollywood 的 我 他们 的 爆炸性 是 没有 比较 少 but 他们 用 那个 computer 的 东西 做 出来 的话 你 看 你 觉得 比较 像 真的 这样
+UI24MAZ_0101 469512 474797 ZH 哈 对 对 对 这 就是 这个 这样 的话 你 就 大制作 了 嘛 这样 的话
+UI24MAZ_0101 479673 480444 EN ah huh huh
+UI24MAZ_0101 486120 486611 ZH 对
+UI24MAZ_0101 487347 495908 CS 在 里面 最大 的 就是 水 他们 很难 弄得 到 水 水 用 computerize ah 很难 弄 很难 弄 得 到
+UI24MAZ_0101 495908 498676 CS 因为 它的 fluid ah 它的 那个
+UI24MAZ_0101 498921 502881 CS okay computer 全部 东西 都 能 做 出来 你 可以 全部 digital
+UI24MAZ_0101 502881 506160 CS gi~ ah digital 到 完 but 问题 是 how realistic
+UI24MAZ_0101 506560 510122 CS 你看 了 怎样 会 不会 很 reality 这 又是 一个 问题
+UI24MAZ_0101 512061 512832 EN ha
+UI24MAZ_0101 528458 536309 CS ah okay 就是 现在 你 去 马六甲 你 有 你 能 看得 到 那个 以前 parameswara 我们 读到 的 那个 皇宫 吗
+UI24MAZ_0101 536832 540720 CS 没有 嘛 对 不对 so that's why 我们 就是 要 reconstruct 这个 东西
+UI24MAZ_0101 541455 546711 CS 整个 kingdom 因为 一 讲 到 malaysia 马六甲 的 history 是 起码 的 嘛
+UI24MAZ_0101 546711 551301 CS 也是 最 辉煌 的 一个 了 的 嘛 就是 to represent 我们 malaysia lah
+UI24MAZ_0101 551301 556277 CS so that's why 我们 选 malacca as 我们 的 topic 这样 的 东西 咯
+UI24MAZ_0101 561881 562512 EN okay
+UI24MAZ_0101 564334 568762 CS okay three d. camera 他们 最 主要 是 一个 camera 里面 他们 放 两个 lens 在 一起
+UI24MAZ_0101 569590 575136 CS 两个 lens so that's why 你 拍 的 时候 你 可以 看到 那个 three d. 就是 你 可以 看到 three d. view lor
+UI24MAZ_0101 575136 577964 CS 你看 usually 现在 我们 camera 只是 一粒 lens 罢了 嘛
+UI24MAZ_0101 578350 580385 CS then 他们 有 两个 lens 他们 放 这样
+UI24MAZ_0101 581048 583983 CS so that's why 拍 出来 的 时候 的 效果
+UI24MAZ_0101 584456 586664 CS 会 给 人家 看到 好像 是 three d. effect 那 一种
+UI24MAZ_0101 593356 600748 CS 哦 这个 我 就 不 清楚 我 所 for 那个 surface 来看 hardware part 来看 啦 我 有 看过 就是 他们 放 两个 lens 在 里面
+UI24MAZ_0101 600748 603141 CS 或者 是 他们 的 lens 又 不 一样 了
+UI24MAZ_0101 603761 609804 CS usually 我们 只是 用 一种 的 嘛 他们 里面 他们 排法 的 那个 lens 是 至少 有 两粒 以上
+UI24MAZ_0101 613082 613922 EN ah huh huh
+UI24MAZ_0101 620580 626149 CS okay actually 现在 啊 samsung ni ah 他 已经 有 出 一种 电视机 是 without
+UI24MAZ_0101 626149 629439 CS 我们 每次 要 讲说 要 看到 那个 three d. three d. ah
+UI24MAZ_0101 629439 631484 CS 是 我们 要 戴 那种 的 spec mah
+UI24MAZ_0101 631484 634594 CS 现在 samsung 他们 是 没有
+UI24MAZ_0101 635049 638137 CS 你 不 需要 那个 spec 你 也是 可以 看到 那种 的 effect 了
+UI24MAZ_0101 638728 641276 CS 只是 他们 没有 release 出来 上次 因为 他们
+UI24MAZ_0101 641697 647202 CS from 他们的 research 他们 讲说 有 五巴仙 或者 是 一巴仙 里面 人家 看了 会 副作用
+UI24MAZ_0101 647758 650575 CS so that's why until now 他们 没有 release 这个 product 出来
+UI24MAZ_0101 651718 654460 CS okay for example 那个 他 讲 怀孕 的 女生
+UI24MAZ_0101 655011 661759 CS 看了 他们 会 觉得 不 舒服 会 会 晕 那 一种 东西 that's why until now 他们 i. think 是 他们 还是
+UI24MAZ_0101 662194 666729 CS 在 想着 办 办法 来 去 solve 这个 problem lah
+UI24MAZ_0101 671513 674842 CS 啊 对 that's why 他们 讲 within this three year 那个
+UI24MAZ_0101 675262 681303 CS ah three d. 的 t. v. 就 会 变成 很 普遍 的 东西 within this three years to five years 里面
+UI24MAZ_0101 690958 699492 CS 我 有 读过 samsung 的 他的 东西 他是 讲说 他们 把 那个 frame 那个 就是 我们 戴的 那个 眼镜 他们 其实 是 一种 的 frame 来的 嘛
+UI24MAZ_0101 699492 704495 CS 他们 就是 把 它 直接 embedded 在 里面 了 so that's why 你 不需 要 戴 了
+UI24MAZ_0101 705920 707901 CS 啊 他们的 technology 就是 这样
+UI24MAZ_0101 708372 711164 CS 就是 讲 他 直接 embedded 在 藏 在 里面 了
+UI24MAZ_0101 711164 715275 CS 不要 给 你 戴 啦 so that's why 因为 一粒 这样 也 它的 frame 也 不 便宜 嘛
+UI24MAZ_0101 715834 720923 CS 你是 你 只 假如 是 你 买 三粒 let's say 你 有 朋友 来 就 不能 了嘛 不 practical mah
+UI24MAZ_0101 722364 724059 EN ah huh
+UI24MAZ_0101 728279 730747 EN ah huh ah huh huh
+UI24MAZ_0101 732933 740325 CS 对 okay 你 你 要 有 这样 的 电视机 t. v. 能 play 这个 东西 第二个 就是 你的 那个 你买
+UI24MAZ_0101 740885 744810 CS d. v. d.. 肯定 是 不能 跑 嘛 那个 全部 要 用 blu ray 了 嘛
+UI24MAZ_0101 744810 746667 CS 因为 capacity 比较 大 嘛
+UI24MAZ_0101 746667 749400 CS then blu ray 的话 你 就 要 买 blu ray 的机
+UI24MAZ_0101 750556 754227 CS 啊 那一种 so hardware 加 起来 是 蛮贵 的 那 一种 啦
+UI24MAZ_0101 755251 755812 ZH 啊
+UI24MAZ_0101 760472 766013 CS 啊 对 因为 一出 戏 let say 你 买 这个 也是 blu ray 对 咯 百多块 两百 这样 了 啦
+UI24MAZ_0101 770545 771771 ZH 对 对 对 对 对
+UI24MAZ_0101 772822 779899 CS 他们 sam~ samsung 有 一个 technology 就是 你 买 的 那个 戏 假如 不是 three d. 的话
+UI24MAZ_0101 780144 784190 CS 他的 hardware 可以 变成 好像 three d. 的 这样 给你 看
+UI24MAZ_0101 784190 786407 CS but 那个 是 用 software 来 control
+UI24MAZ_0101 787327 793809 CS 而 不是 真的 啊 那个 three d. effect 那 一种 so that why 你 可以 看 得 出 有 比较 不 一样
+UI24MAZ_0101 793809 797771 CS 就 好像 我们 拍照 一个 是 叫 optical zoom 一个 是 叫 digital zoom
+UI24MAZ_0101 798222 801675 CS digital zoom 你 zoom 进去 的话 你 看了 会 比较 blur 一点
+UI24MAZ_0101 801675 803093 CS optical 看了 比较 美
+UI24MAZ_0101 803093 804880 CS 因为 它是 用 optical
+UI24MAZ_0101 805230 809855 CS 啊 你 有 放 lens 在 里面 嘛 它 直接 focus mah 它 不是 用 software 来 control mah
+UI24MAZ_0101 810241 813674 CS 你有 hardware 的话 看 起来 会 比较 美 啦 你用 software 的话
+UI24MAZ_0101 813674 818254 CS 只是 能 help 你 去 那个 level but 那个 effect 是 蛮差 的 那 一种
+UI24MAZ_0101 824605 825551 EN ah huh huh
+UI24MAZ_0101 829510 836919 CS okay actually 那个 那个 其实 是 啊 是 spend 很多 钱 那个 很多 钱 咯 它 那个 就 叫 concave
+UI24MAZ_0101 837324 841949 CS concave 就是 一 进去 里面 你 就是 看 mino~ mino~ minority report 这样 了 的
+UI24MAZ_0101 841949 845521 CS 你 一 进去 你 可以 看到 几个 它 全部 是 用 projector 打 出来 嘛
+UI24MAZ_0101 845521 849621 CS 他 打 三个 嘛 so to set up 那个 concave
+UI24MAZ_0101 849621 854457 CS so far 我 觉得 malaysia 没有 啦在 university level 有 u. s.
+UI24MAZ_0101 856629 857138 ZH 对
+UI24MAZ_0101 857855 863301 CS 有 其实 他们 他们 叫 concave lah 我 觉得 应该 是 你 讲 的 那个 是 concave lah
+UI24MAZ_0101 863301 869907 CS 一 进去 他们 里面 一个 房间 里面 啊 你 可以 是 看到 那个 东西 全部 是 three d. 到 完 了 的
+UI24MAZ_0101 870701 880965 CS 只是 odesk 啊 全部 是 要 钱 啦 你 有钱 的话 他们 能 弄 得 到 啊 因为 to set up 那个 lab 都 要 几 million 在 那边 了
+UI24MAZ_0101 881842 887343 CS then 你 还要 四个 projector 在 那边 打 出来 一个 projector 我 上次
+UI24MAZ_0101 888079 891803 CS 我 听 那 一个 lecturer 讲说 大概 要 几 million 到
+UI24MAZ_0101 892038 894419 CS 单单 做 这个 要 几十 million 那 一种
+UI24MAZ_0101 895575 899955 CS then so far 应该 是 malaysia 我们的 university 里面
+UI24MAZ_0101 900271 905303 CS so far 应该 没有 人 会 做 没有 做 得 到 啦 那个 因为 很大 那个 project 很大
+UI24MAZ_0101 909207 910224 EN mm hmm hmm
+UI24MAZ_0101 915970 917081 EN ah huh
+UI24MAZ_0101 923219 923850 ZH 对
+UI24MAZ_0101 926758 927985 ZH 对 对 对
+UI24MAZ_0101 931699 936060 CS yes exactly so that's why 你 看 他们 那个 去 for training 那个
+UI24MAZ_0101 936481 938771 CS ah then eh ah 你 要 你 要 做 pilot 的话
+UI24MAZ_0101 938771 944923 CS 因 他们 mostly 全部 他们 有 给 他们 戴 一种 那个 device 全部 也是 virtual reality 的 东西 罢了
+UI24MAZ_0101 945871 951898 CS 啊 就是 给 他们 test lor rather than 给 他们 去 用 真正 的 飞机 给 他们 try 那 一种
+UI24MAZ_0101 953440 953965 ZH 啊
+UI24MAZ_0101 955542 963669 CS 对 对 对 对 对 对 全部 他们 也是 都 有 这样 的 东西 到 完 啦 只是 问题 是 你 要 买 那个 equipment 进来 的 时候 是 很贵
+UI24MAZ_0101 964966 967033 CS then 和 那种 的 software 也 不 便宜
+UI24MAZ_0101 969110 969769 ZH 嗯
+UI24MAZ_0101 975548 978805 CS okay maybe 假如 是 你 要 做 在 i. pad 的话 可能 你 要
+UI24MAZ_0101 978805 984629 CS lose out 很多 没有 那种 的 flexibility detail 那 一种 maybe 你 不要compare
+UI24MAZ_0101 985287 989833 CS ah i. pad 的 effect 去 跟 那个 concave 的 effect 那 一种
+UI24MAZ_0101 990262 995061 CS 那个 我 我的 啊 想法 hor 放进 i. pad ni 就是 讲说
+UI24MAZ_0101 995061 998321 CS 现在 i. pad 越来越 普遍 嘛 每个人 你看
+UI24MAZ_0101 998321 1001615 CS 一 一下子 就 hit 到几 million 几 million 几 million 到 完
+UI24MAZ_0101 1002035 1008620 CS so that's why why not that 我们 可以 用 这个 virtual heritage 的 东西 放 进去 i. pad 里面 给 它 run leh
+UI24MAZ_0101 1015033 1015874 EN ah huh
+UI24MAZ_0101 1022006 1022742 EN ah huh
+UI24MAZ_0101 1024949 1026692 CS 对 对 exactly
+UI24MAZ_0101 1029273 1030610 EN mm hmm hmm
+UI24MAZ_0101 1037316 1041074 CS 对 因为 这个 once 你 一 touch 到 graphic 那些 东西
+UI24MAZ_0101 1041074 1045108 CS 最 consume 最多 就是 你的 processor 跟 memory
+UI24MAZ_0101 1045434 1052096 CS that's why 他们 才 come out nvidia 跟 a. t. s. 才 出来 一个 叫 gra~ 那个 g. p. u. grahic processing unit graphic card 出来
+UI24MAZ_0101 1052096 1054193 CS to 帮你 enhance 他的 东西
+UI24MAZ_0101 1055840 1058922 CS so 就是 他们 在 这边 then 我 知道 讲说
+UI24MAZ_0101 1059588 1063910 CS 啊 以前 是 因为 我们 电脑 只是 出 一个 single core 一个 single core 罢了 嘛
+UI24MAZ_0101 1063910 1070796 CS 没有 dual core ma 现在 有 sixteen core twelve core 那 一些 so 我 do believe that
+UI24MAZ_0101 1072447 1076617 CS 应 with 这样 的 hardware 的 应该 是 可以 弄 得 到 啦
+UI24MAZ_0101 1076617 1078719 CS 好像 for 那个 mobile 的
+UI24MAZ_0101 1079034 1083117 CS arm processor 他们 都 已经有 出 一个 叫 dual core processor 了
+UI24MAZ_0101 1083800 1088077 CS just for mobile device how powerful 我们 不 知道 那 一种 啦
+UI24MAZ_0101 1096026 1100231 CS okay actually ah 那个 for nvidia 他 有 一种 叫
+UI24MAZ_0101 1100231 1104436 CS ah tetra processor if 我 没有 记错 它 有 一个 名字
+UI24MAZ_0101 1104436 1109129 CS 就是 他 讲说 他 不 需要 intel 了 或者 是 他 不需要 a. m. d. 了
+UI24MAZ_0101 1109480 1114659 CS 他 自己 可以 create 一个 processor to generate 一个 netbook 了
+UI24MAZ_0101 1114981 1118485 CS 他 不需 要 过 那个 intel 的 atom 那 一些 东西 到 完 咯
+UI24MAZ_0101 1118485 1120587 CS but 他们 还是 在 fight 着 那 一些 啦
+UI24MAZ_0101 1125072 1132175 CS 啊 a. m. a. m. d. a. m. d. 跟 nvidia a. m. d. 买 n. ah ha 没有 a. m. d. 买 a. t. i. 起来
+UI24MAZ_0101 1132175 1134460 CS 对 对 对 ha a. m. d. 买 a. t. i. 起来
+UI24MAZ_0101 1134908 1137200 CS nvidia 还是 still stand alone
+UI24MAZ_0101 1141040 1141749 ZH 啊
+UI24MAZ_0101 1143037 1145710 CS 现在 他们 最大 的 challenging 就是
+UI24MAZ_0101 1145710 1149183 CS 因为 一讲 到 computer 或者 是 processor 或者 是 server
+UI24MAZ_0101 1149183 1152885 CS 人家 最 concern 最大 的 concern 是 什么 第 一个 是 space
+UI24MAZ_0101 1153489 1157263 CS 就是 在 你 放 那个server 进去 那个 data center 里面 那个 space
+UI24MAZ_0101 1157263 1161608 CS 第二个 就是 power consumption 会 不会 是 用 到 很大 的 power
+UI24MAZ_0101 1161608 1163790 CS 你是不是需要很大的 power
+UI24MAZ_0101 1163790 1165874 CS 第三 就是 那个 heat
+UI24MAZ_0101 1166592 1170656 CS 就是 你 你的 processor 生产 出来 的 那个 heat 到底 热 不热
+UI24MAZ_0101 1171567 1182009 CS 假如 这 三个 的话 现 that's why intel 最大 的 啊 最 不是 最大 的 卖点 他 现在 最怕 的 arm processor 那个 arm ah 放进 mobile device 的 啦
+UI24MAZ_0101 1182009 1185478 CS 因为 你 知道 我们 要 放 进去 mobile device 第 一个 就是

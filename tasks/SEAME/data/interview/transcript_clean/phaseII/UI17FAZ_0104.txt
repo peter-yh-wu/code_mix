@@ -1,0 +1,148 @@
+UI17FAZ_0104 354 8610 CS 它们的 很 嗯它们的 而且 它们的 highway 是 很 很 systematic 的 有 numbering 到完的
+UI17FAZ_0104 8816 12165 ZH 所以 你 拿着 它的 那个 地图 来看 很 容易 跟 哦
+UI17FAZ_0104 13168 22731 CS 而且 它们的 那个 路牌 也 做到 很 漂亮的 咯 i mean 就是 应该 在 哪一个 地方 出现 就 出现 那一种 啦 所以 不大 会 迷路 啦
+UI17FAZ_0104 33552 35530 CS ah malaysian people 不需要
+UI17FAZ_0104 35530 37061 EN ah
+UI17FAZ_0104 37697 40037 CS 不过 不过 我 听说 australia 要哦
+UI17FAZ_0104 40375 48869 CS 哈 因为 之前 本来 plan 明年 要去 australia mah 哪里 知道 今年 九月 要去 美国了 嘛 可能 要 推到 后年 才去 咯 .
+UI17FAZ_0104 49027 56801 CS 那天 有去 online 看~ 看一下 啊 哦 诶 原来 它要 visa 的 不过 它的 visa compare to 美国的 没有 这样 麻烦
+UI17FAZ_0104 57007 60893 CS 它的 是 online apply electronics something 这样的 东西的
+UI17FAZ_0104 61272 71024 CS new zealand 就 不 需要 咯 你连 那些 international license 也 不用咯 因为 你 只是 去 那边 驾 几个 星期 罢了嘛 你只 拿 你的 那个 current 那个 car license 去 给他 就 okay了 mah
+UI17FAZ_0104 72314 80339 CS 哈哈哈 他是 讲 unless 你要 驾 超过 三个月 哦 好像 没有 记错 的话啦
+UI17FAZ_0104 80546 89232 CS 就是 说 它有 一个 期限 哦 with your current car license 你 好像 是 可以 驾 三个月 罢了 假如 你要 驾 超过 三个月 你 就要 去 拿 一个 international license loh
+UI17FAZ_0104 89490 95730 CS 因为 去 美国 我~ 我~ 我的 husband 上次 去 美国 啊 好像 是 也 不需要 拿 international license 的咯
+UI17FAZ_0104 96128 98312 CS 他拿 一个 car license 去 罢了咯
+UI17FAZ_0104 107497 111737 CS new zealand ah en 那个 我就 不是 很 记得 啦
+UI17FAZ_0104 112408 118273 CS 我 可能 是 一个月 两个月 吧 我 不是 很 记得 啦 那个 那个 要 check 过 一下咯
+UI17FAZ_0104 121145 125598 CS 它的 south island 风景 很美 湖 特别 多
+UI17FAZ_0104 126114 132272 ZH 你 驾车 整条路 就是 看湖 看树 看湖 看树 看羊 看牛
+UI17FAZ_0104 132478 136434 CS 不过 很 它的 风景 很 漂亮 咯 很 original 那一种 咯
+UI17FAZ_0104 137415 139446 ZH 我去的是秋天了
+UI17FAZ_0104 139824 146868 CS 你从 christchurch 越~ 越 下去 因为 它是 靠近 南极了 嘛 你 越 南下 越 冷 哦
+UI17FAZ_0104 147409 152294 CS christchurch 的 秋天 没有 这样 冷 因为 它 不算 很 南下 个 嘛
+UI17FAZ_0104 152569 161096 CS 所以 你 看到 你 你 去到 christchurch 的 时候 哦 它的 那个 秋天 它的 叶子 没有 完全 变黄的 有些 还是 有 青青 一点点的
+UI17FAZ_0104 161274 167776 CS 不过 你 越南 你~ 你 驾车 越~ 越 moving towards 那个 越 南下 的 时候 啊 哦 越冷咯
+UI17FAZ_0104 168395 171982 CS 最后 我们 有 去到 一个 好像 是叫 fox glacier ah
+UI17FAZ_0104 172351 181467 CS 那边 可以 坐 helicopter 的嘛 你坐 helicopter 上去 它的 那个 mount cook 和 mount mount mountain tasmania ah 算是
+UI17FAZ_0104 181708 186556 CS 我 不知道 是不是 new zealand 最高 还是 south island 最高啊 应该 是 south island 最高啊 应该
+UI17FAZ_0104 186763 193333 CS 它 那边 常 每一年 四个 season 它们 看 那个 山啊 那个 peak 那边啊 都是 冰到 完的咯
+UI17FAZ_0104 195896 198684 ZH 没有 啦 因为 秋天 嘛
+UI17FAZ_0104 201264 202623 EN en
+UI17FAZ_0104 203087 208152 CS 不过 它的 山的 那边 好像 是 not for skiing 的哦 很高 一下哦 它的 那边
+UI17FAZ_0104 208316 212834 ZH 我~ 我~ 我 只 知道 有些人 会~ 会 跑去 那边 爬山咯
+UI17FAZ_0104 213505 218545 CS 它们 有 那个 给 人家 爬山 的 那个 path ah 他们 会 慢慢 爬上去 咯
+UI17FAZ_0104 218820 223223 CS for 我 自己 是 不可能 去爬 啦 直接 坐~ 坐~ 坐 那个 helicopter 上去啦
+UI17FAZ_0104 223791 228694 CS 不过 世界 很小 啊 跟我 一起 坐 helicopter 的 是~ 也是 come from malaysia people
+UI17FAZ_0104 230448 234477 EN three k. l people and two penang people
+UI17FAZ_0104 236761 239083 ZH 我 跟我 老公 啦 
+UI17FAZ_0104 245791 247668 ZH 租车
+UI17FAZ_0104 248304 255477 CS 没有 因为 我们 是 through 那边 local 那边 一个 travel agency 直接 拿 整个 package 的
+UI17FAZ_0104 256905 258160 ZH 哈
+UI17FAZ_0104 258384 266830 CS 就是 说 我们 contact 他们 一个 因为 之前 我 老公 的 朋友 有 去过 嘛 了 他讲 那个 trav~ travel agency 不错 我们 就去 contact 他咯
+UI17FAZ_0104 266963 274324 CS basically 你 就跟 他讲 咯 你 想要 去 几天 他们 就会 安排 那些 itinerary 给你咯 包括 租车啊 全部 到完咯
+UI17FAZ_0104 274565 284509 CS 所以 你要 真正 讲 租车 一天 多少 钱 我 不是 很 清楚 啦 不过 假如 你要 讲 啊 那个 整个 package 呢 一个人 大致上 是 三千多 块 这样 咯
+UI17FAZ_0104 285970 289686 ZH 对 吗 好像 是 咯 两个人 就 差不多
+UI17FAZ_0104 292541 298222 CS 它 已经 哈 booked 到完 hotel booked 到完 车也 跟你 拿了 租到 完
+UI17FAZ_0104 298394 299925 CS 其实 可以 更 cheaper 的
+UI17FAZ_0104 300183 304122 CS 因为 我们 住 hotel 其实 可以 要求 住 motel
+UI17FAZ_0104 304328 311172 CS 因为 最后 我 最后 两天 extend trip 多 两天 因为 我 为了 要坐 那个 hot air balloon ah 死 都要 坐到 嘛
+UI17FAZ_0104 311344 319737 CS 因为 去 都 秋天 啦 它 早上 风大 他们 就 不能 飞啊 就 try luck gong 讲说 多住 两天 看 能不能 坐到 嘛 最后 还是 坐不到
+UI17FAZ_0104 319961 326395 CS 那个 我 最后 两天 我们 讲 要去 book motel loh 它 motel 其实 也不错 你 知道吗
+UI17FAZ_0104 326808 333337 CS 它 motel 也 很好 住 一下 咯 也是 有 living room 有 kitchen 什么 很 漂亮 一下 的 咯 它的 motel
+UI17FAZ_0104 336440 341416 CS new zealand farm stay loh 除非 你讲 咯 farm stay 我是 没有 try 过啦
+UI17FAZ_0104 341777 344642 CS 我们 讲去 australia 看 有没有 咯  哈
+UI17FAZ_0104 345974 347212 ZH 不过 不过
+UI17FAZ_0104 347660 353467 CS 不错啦 compare 它的 motel 还比 那个 hong kong 的 hotel 好看 多 多 
+UI17FAZ_0104 361222 364059 ZH 嗯 不错 真的 很 不错
+UI17FAZ_0104 365195 370205 ZH 一来 是 干净 二来 它 不会 说 小间 到 很 恐怖 那一种
+UI17FAZ_0104 370377 371082 ZH 我
+UI17FAZ_0104 371288 373886 CS 那个 哦 那个 hong-kong 那一间 hotel hor
+UI17FAZ_0104 374109 382972 CS 一开始 就 已经 不爽了 的 他是 讲 两点 check in mah 我们 十二点多 到 不用紧 咯 我们 讲 我们 等到 两点 咯 因为 我们 也 没有 什么 地方 去 嘛
+UI17FAZ_0104 383247 393406 CS 过后 的 时候 他 一点多 就跟 我们 讲 啊 你 可以 去 check in 了 哪里 知道 我们 去 check in 的 时候 啊 还有 一个 女生 住着 在 里面 还 没有 check out 你 知道 吗 就是说 他 根本 都 没有 check 的
+UI17FAZ_0104 394112 396232 ZH 那个 女生 还要 等她
+UI17FAZ_0104 396713 402836 CS 收拾 她 东西 收拾 她 东西了 不过 我~ 我也 不能 讲 什么 啦 因为 我是 before 两点 check in mah
+UI17FAZ_0104 402957 411075 CS 不过 问题 是你 那边 counter 的 人 跟我 讲 since 你讲 我 可以 check in 了 嘛 means that 你 by right 是 应该 是 check 到完 那些 东西 到完了 嘛
+UI17FAZ_0104 411333 413200 ZH 最后 的 时候 也 没有 咯
+UI17FAZ_0104 420441 422497 CS 很 小间 罢了 它的 hotel
+UI17FAZ_0104 422767 425794 CS 超小 我 第一次 看到 这样 小间 的 hotel
+UI17FAZ_0104 426070 430479 CS 我 跟 我老公 讲 this is the worst trip i have ever been 
+UI17FAZ_0104 433380 435272 CS new zealand 那 一间 hotel ah
+UI17FAZ_0104 435444 440103 CS 哦 它那个 hotel 很 奇怪的  它是 在
+UI17FAZ_0104 440275 447275 CS 一栋 building 里面的 something 有时候 你看 我们 apartment 有啊 building a. building b. 这样的 嘛
+UI17FAZ_0104 448273 454448 CS 它的 counter service customer service counter 是在 另一个 building hotel 又在 另一个 building
+UI17FAZ_0104 454671 465158 CS 而且 我 听说 它的 hotel 呢 有 不同的 不同的 不同 floor loh 有些在 floor three 有些 在 floor seven 有些 在 floor nine 这样咯
+UI17FAZ_0104 465554 468640 ZH 到底 总共 有 几间 我 就 不是 很懂 啦
+UI17FAZ_0104 496782 502762 CS 想看咯 不同 国家 嘛 一定 有 不同的 culture 的嘛
+UI17FAZ_0104 505256 507664 ZH 嗯 我 觉得 不大像 啦
+UI17FAZ_0104 508335 511397 CS new zealand 草原 会 比较 多
+UI17FAZ_0104 511814 516252 CS australia 你 也要 看你 去 什么 部分 吧 好像 你去 melbourne ah
+UI17FAZ_0104 516940 519606 ZH 应该 也是 会 看到 不同 的 东西 啦
+UI17FAZ_0104 519864 528223 CS 他们 那边 有 那些 什么 philip island ah 那些 看~ 看 penguin ah 看 不同 东西 啦
+UI17FAZ_0104 547795 549252 ZH 戏啊
+UI17FAZ_0104 549854 551058 ZH 最近 啊
+UI17FAZ_0104 551471 553466 CS 那个 咯 salt loh
+UI17FAZ_0104 554275 555808 EN salt
+UI17FAZ_0104 556734 558678 ZH 你有 去看 吗
+UI17FAZ_0104 561998 563288 EN okay loh
+UI17FAZ_0104 563752 566476 CS 没有 什么 我 觉得 okay lah
+UI17FAZ_0104 570173 571308 EN en
+UI17FAZ_0104 572409 573802 EN en
+UI17FAZ_0104 575023 580202 CS okay loh 我是 喜欢 看 angelina jolie 做 那个 action movie loh
+UI17FAZ_0104 580804 586486 CS 我 自己 觉得 她做 那个 romantic movie 就 不够 不 gam ah 
+UI17FAZ_0104 595287 597277 EN maybe pun lah
+UI17FAZ_0104 597569 604897 CS 不过 我 不过 我 自己 本身 觉得 她 假如 做 action movie 会 比较 那种 比较 有型 的 样子 啊
+UI17FAZ_0104 605344 614107 CS 真的 叫她 去做 那个 romantic movie ah 好像 有点 怪怪 去 这样咯 不知道 啦 可能 是 先入为主 的 那个 观念 啊 好像 你讲 这样 咯
+UI17FAZ_0104 618561 623810 CS 好像 很少 啊 哈 很少哦 多数 都是 做 action movie 的
+UI17FAZ_0104 627276 630793 ZH 除了 这个 之外 在 之前 是 什么 戏 啊
+UI17FAZ_0104 632203 634739 CS toy story 又 没有 去看 哦
+UI17FAZ_0104 636331 638296 ZH 在 之前 有 什么 戏
+UI17FAZ_0104 643641 645017 ZH 没有 看
+UI17FAZ_0104 647358 649216 ZH 在 更 之前 嘞
+UI17FAZ_0104 653946 656165 CS soso and brendy 好看 吗
+UI17FAZ_0104 658005 661276 CS inception 我就 then 没有 得 看
+UI17FAZ_0104 661718 663301 ZH 我就 没得看
+UI17FAZ_0104 663731 666362 ZH 我 去到 两个 星期 票 都 卖到 光
+UI17FAZ_0104 666913 667962 ZH 最后
+UI17FAZ_0104 668185 672623 ZH 最后 听说 完了哦 好像啊
+UI17FAZ_0104 673552 677301 CS inception loh 没有 得 看 咯 嗯
+UI17FAZ_0104 678574 680144 EN inception ah
+UI17FAZ_0104 680981 683462 ZH 在 之前嘞 还有 什么 戏啊
+UI17FAZ_0104 688893 692602 CS hor 不过 summer 很~ 很多 的 戏的嘛
+UI17FAZ_0104 695767 696799 ZH 没有
+UI17FAZ_0104 697109 703131 CS 上次 我去 new zealand 它的 那个 戏院 很小 罢了 小到 很小 那一种的
+UI17FAZ_0104 708719 710043 ZH 啊
+UI17FAZ_0104 710284 712209 CS 我 没有 去过 e. u. 欧洲的啦
+UI17FAZ_0104 712381 722977 CS 不过 我 上次 去过 那个 new zealand 不知道 是 因为 他们 是算 countryside country 还是 怎样 啊 哦 它的 戏院 真的 很小 哦 就是 像 一个 shop lot 的 size 罢了 你 知道 吗
+UI17FAZ_0104 723235 730799 ZH 然后 而且 没有 什么 人的 哦 不像 我们 这边 这些 这边 的 戏院 哇 什么 时候 都 一大堆 人 看到 三更半夜 这样的
+UI17FAZ_0104 731055 733119 ZH 它 那边 真的 是 没有 什么 人的
+UI17FAZ_0104 733859 737132 CS 而且 它们 shopping centre 也 很少 人 咯 那边
+UI17FAZ_0104 745490 750023 CS 还 没有 想要 去 l. a.
+UI17FAZ_0104 750665 754243 CS l. a. 想要 去 disneyland
+UI17FAZ_0104 755464 760246 ZH 本来 是 十一号 到 二十三 咯 二十三 从 那边 飞 回来
+UI17FAZ_0104 760504 761484 EN en
+UI17FAZ_0104 761725 766443 ZH 不过 我 老公 十八号 就 做工了 哦 我们 是 早飞 一个 星期 去的
+UI17FAZ_0104 770416 774183 ZH 对 对 对 对 对 他 跟我 一起 去 我 自己 回来了
+UI17FAZ_0104 775387 778791 ZH 不能 开学了 我 也想 呵呵
+UI17FAZ_0104 780035 791673 CS 不能 turn time 很难 拿 leave 的 我们 那边 他~ 他在 教书 期间 不可以 拿 leave 的 不是 不可以 拿 可以 拿 but must be very valid reason
+UI17FAZ_0104 792035 800516 CS 又要 写 一大堆 理由 啊 又要 写信 啊 我们 那边 很 喜欢 写信 的 很 讨厌的 你 不要 去 一个 board meeting ah okay loh write letter loh
+UI17FAZ_0104 805074 806175 EN en
+UI17FAZ_0104 809219 815389 CS 没有 你 可以 做 replacement 不过 我 自己 也 尽量 不要 拿 啦 也是 很 sien lah 你要 做 replacement
+UI17FAZ_0104 815578 821045 CS 只是 说 有时候 没有 okay 你 turn time 你 不给 我们 拿 leave okay one
+UI17FAZ_0104 821234 825414 CS 不过 you make it easy for people during the semester break to take leave loh
+UI17FAZ_0104 825603 828166 CS 问题 是 它的 semester break 又 两个 星期
+UI17FAZ_0104 828475 831647 CS 一个 星期 它放 一个 pre board 另一个 星期 它放 另外 一个 board
+UI17FAZ_0104 831858 834248 CS 人家 要去 travel 很难 travel 的 你 知道 吗
+UI17FAZ_0104 834404 837517 CS hor 人家 要去 travel 的 时候 才讲 哦 写信 咯 写信 咯
+UI17FAZ_0104 837689 841851 ZH 你要 人家 每个 学期 都 这样 写信 给你 meh 很 sien 的哦
+UI17FAZ_0104 846043 849861 CS 自己 cover loh 没有 办法 咯 不然 他 做工 期间 怎样 玩
+UI17FAZ_0104 850394 852579 ZH 你也 不会 也 不能 玩 啦
+UI17FAZ_0104 852905 855537 CS 因为 他是 在 arizona 做嘛
+UI17FAZ_0104 857532 865040 CS 哈 想要 去啊 不过 要看 有没有 空 有没有 时间 咯 因为 so far 我们 要 先去 那个 california 那边啊
+UI17FAZ_0104 865315 870733 CS san-fran~ 因为 我们是 槟城 飞 hong-kong hong-kong san-francisco mah
+UI17FAZ_0104 871404 872643 ZH 九月
+UI17FAZ_0104 875726 877663 ZH 没有 啦秋了 秋了
+UI17FAZ_0104 879187 880821 ZH 进 秋了
+UI17FAZ_0104 881286 887724 CS san fransisco 已经 一大堆 雾了 我看 我 朋友 的 照片 飞 回来 的 已经 是 开始 雾 很多了
+UI17FAZ_0104 887896 892970 CS 蛮冷了 假如 你讲 arizona 可能 就 不会 这样 冷 啦 那边 是去 看沙 吗 
+UI17FAZ_0104 896324 901622 CS 哈 对咯 很干哦 不过 我的 husband 讲 九月 还好
+UI17FAZ_0104 901811 907944 CS 因为 我的 因为 我有 一个 朋友 现在 在 那边 做工 做 五个月 在 arizona mah 他讲 之前 真的 很干

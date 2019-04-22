@@ -1,0 +1,456 @@
+NI50FBQ_0101 4750 7170 CS (er) ah-nor 为什么 他
+NI50FBQ_0101 7170 8676 EN is is it recording
+NI50FBQ_0101 10910 14970 CS but yah 我 the other time when i come 他的 不是 这样 的
+NI50FBQ_0101 15150 17610 CS it's like 他 会 有 上下 上下
+NI50FBQ_0101 17610 24968 CS eh hello hello 哦 可能 是 我 的 啊 是 这样 以前 就是 这样 对
+NI50FBQ_0101 31460 33370 CS rectify it 就
+NI50FBQ_0101 34566 36236 ZH 改善 那个 问题
+NI50FBQ_0101 41551 44880 CS 哦 就 like
+NI50FBQ_0101 47160 51310 CS tend tend to speak in one language 然后 很少 很少 一直 like 换
+NI50FBQ_0101 51470 55400 CS change here and there 是吗 所以 你们的 那个 结果 没有 这样 好 哈
+NI50FBQ_0101 56285 57090 ZH 哦
+NI50FBQ_0101 58830 61713 CS oh okay okay i get what you mean 了解
+NI50FBQ_0101 62440 65865 CS so 现 现在 是 已经 开始 record 了 是吗
+NI50FBQ_0101 65865 68285 CS oh okay 好
+NI50FBQ_0101 70345 77035 CS oh 我是 从 s. p. m. s. 的 (er) school of physical and mathematical sciences 读 的 是 数学 系
+NI50FBQ_0101 77712 82246 CS (呃) 为 为 为什么 what's your reaction oh
+NI50FBQ_0101 83310 90110 CS (er) 其 其 其实 还好 lah 我 知道 我们 这边 女生 比较 多 的 是 读 che chemistry 化学
+NI50FBQ_0101 90360 95396 CS 然后 for me is 我 比 我 对 maths 比较 有 兴趣 lah like
+NI50FBQ_0101 96230 103010 CS so far 我 看过 的 是 maths is my both my interest and 我的 强项 啊
+NI50FBQ_0101 103440 107000 CS so 所以 我 觉得 我在 maths 可以 excel lor 就
+NI50FBQ_0101 107570 113110 CS 因为  我 其实 我 比较 interested in design but 我 就
+NI50FBQ_0101 113319 118320 CS 我 的 画画 啊 我 的 drawing 那些 就 没有 很好 啊 所以
+NI50FBQ_0101 118590 121000 CS in the end 我 就 选择 哎呀 还是 去 maths
+NI50FBQ_0101 122096 126206 CS 既然 我 因为 本身 觉得 自己 没有 天分 只是 like
+NI50FBQ_0101 126585 130139 ZH 就 很 喜欢 自己 想象 一些 东西 然后 画 出来 然后 哦
+NI50FBQ_0101 130139 133720 CS imagine 如果 我自己 的 衣服 是 我 自己 design 的 会 比较 好 but
+NI50FBQ_0101 134064 137838 ZH 就 这种 东西 就 觉得 也 不是 我 强项 啦 所以
+NI50FBQ_0101 138332 139474 EN there's no
+NI50FBQ_0101 140695 143670 CS 嗯 (呃) 我 觉 我 觉得 i cannot do well in it lor 所以
+NI50FBQ_0101 144123 152700 CS migh 既然 我 进来 这边 了 i might as well go to some  花 这样 多 钱 i might as well go to somewhere that 我 觉得 我 可以 do well 的 所以 我 就 选 maths lor
+NI50FBQ_0101 152870 155480 CS 而且 我 觉得 design 这种 东西 在外 面 可以 学
+NI50FBQ_0101 155890 160210 CS maths 这种 without the help of 你的 tutor 是 actually 很难
+NI50FBQ_0101 160210 161154 EN so ya
+NI50FBQ_0101 164400 167560 CS 哦 我 maths 其实 我 不 喜欢 号码 耶
+NI50FBQ_0101 167560 172357 CS  i don't like numbers 我是 觉得  i like analytical maths 就 那些
+NI50FBQ_0101 172800 177654 CS 需要 我 分析 的 like on the spot 我 本身 我 不 喜欢 memorize 东西 也是 所以
+NI50FBQ_0101 178045 186630 CS 我很 我 喜欢 的 是 那种 problem sums you know those kind that 我 需要 on the spot analyse and then 讲 出 我的
+NI50FBQ_0101 186630 189340 ZH 讲 讲 出 我的 理论 那些
+NI50FBQ_0101 189857 196240 CS ah so yah 我 比较 喜欢 那一 方面 就 okay proving recurrences 这种
+NI50FBQ_0101 196609 198334 EN discrete mathematics
+NI50FBQ_0101 202352 203157 ZH 哦
+NI50FBQ_0101 204920 210260 CS for me 是 背 for me 我 背 是 as long as i can understand i can memorise
+NI50FBQ_0101 210636 217260 CS 我就 只要 我 明白 我就 不用 我 就是 在 我 脑 脑 里面 的 我就 不会 忘记 but
+NI50FBQ_0101 217260 221850 CS when 我 讲 我 不 喜欢 背 我是 不 喜欢 背 那种 historical facts 很 像 like
+NI50FBQ_0101 222050 229040 CS dates and time like 就 还有 statistics 的 一些 numbers ah 因为 statistics 里面 也是 有 一些
+NI50FBQ_0101 229310 235170 CS way of answering that you have to remember 因为 你要 跟 住 他的 format 来 answer which i don't like also
+NI50FBQ_0101 235370 237640 CS 所以 maths 方面 我也 不 喜欢 statistics
+NI50FBQ_0101 238294 240150 CS then 我也 不喜
+NI50FBQ_0101 240150 243240 CS 不是 我 蛮 喜欢 history in the sense that 我 喜欢 读
+NI50FBQ_0101 243539 252870 CS 不过 我 不 喜欢 去 记 它的 哦 一定 一定 是 哦 这天 这几日 我会 记得 他 大概 大概 是 几时 发生 的 事 but 你要 我 记得 很 exact 的 东西
+NI50FBQ_0101 252870 253940 ZH 不 可以 啦
+NI50FBQ_0101 255265 260105 CS even 以前 我在 做 这种 subject 的时候 我 强项 也是 case study
+NI50FBQ_0101 260779 263965 CS 就 就 很 像 case study 就是 很 像 那种
+NI50FBQ_0101 263965 266455 ZH （嗯） 他 给你 他 给你 一个
+NI50FBQ_0101 267145 271975 CS 一个 passage 然后 你 从 里面  你 讲 你 讲 出 哦 是
+NI50FBQ_0101 272195 277445 CS 这个 这个 为什么 会 这样 发生 啊 就 an 就 analyse 他们 背后 的 东西
+NI50FBQ_0101 278266 282055 CS 那种 我 啊 我也 是 靠 那种 来 来 score 的
+NI50FBQ_0101 282055 284304 ZH 不然 我 也是 过 过不了 关
+NI50FBQ_0101 285225 288305 CS ya 所以 i guess 就是 我的
+NI50FBQ_0101 288305 297006 CS analytical 方面 也是 比较 好 啦 analyzing 方面 也是 比较 好 然后 本身 也是 比较 喜欢 这种 所以 就 变成
+NI50FBQ_0101 297495 300745 CS 我在 这边 在 这种 范围 比较 可以 do well
+NI50FBQ_0101 304433 308735 CS oh female in my class ah (er) actually 不多 eh
+NI50FBQ_0101 309513 309903 ZH 就
+NI50FBQ_0101 312967 315486 EN en ya actually true like
+NI50FBQ_0101 316291 321845 CS 我班 actually 其实 还好 啦 就有 就有 到 那个
+NI50FBQ_0101 321845 326230 CS 就有 到 很 像 around 三 四十 percent 都是 女 的
+NI50FBQ_0101 326230 328323 ZH 就 其实 其实 也是 蛮高 的
+NI50FBQ_0101 328932 330230 ZH 嗯 不过 就
+NI50FBQ_0101 330646 332989 ZH 我 发 我 发现 的是 就
+NI50FBQ_0101 333606 341517 CS 比较 多 男生 会 做 比较 好 like they tend to do better than us girls like some some of them la so
+NI50FBQ_0101 341915 346645 CS 我 发现 in s. p. m. s. most most of the girls go into chemistry
+NI50FBQ_0101 347478 350880 CS like 我们 数学 和 数学 还有 物理 就 比较 少
+NI50FBQ_0101 350880 354574 CS 因为 我们 s. p. m. s. 就是 三科 嘛 数学 物理 还有 科学
+NI50FBQ_0101 355191 358374 ZH  比较少 女孩子 在 物理
+NI50FBQ_0101 358374 362796 EN mo ya most of them are in chemistry or maths so ya
+NI50FBQ_0101 367205 370437 CS okay actually a lot people like 问 过 我 因为
+NI50FBQ_0101 370895 376925 CS 就 觉得 他们就 觉得 maths 是一个 很 奇怪 的 subject ah 因为 出来 只 可以 做 老师 啊
+NI50FBQ_0101 377277 382566 CS 其实 我就 我 讲话 会不会太小声 吗 is it getting very soft
+NI50FBQ_0101 385285 387805 CS yah yah okay 这样 会比较 好 是吗
+NI50FBQ_0101 387925 390445 CS okay so 我 就 try to maintain 这个 distance bah
+NI50FBQ_0101 390445 392515 CS okay 我就
+NI50FBQ_0101 392515 400722 ZH （呃） 怎么 讲 呢 就 以前 我是 真的 想要 当 老师 啦 不过 我 不想 一 毕业 过后 就 出来 当 老师
+NI50FBQ_0101 401452 405162 ZH 我 其实 我 教 蛮多 补习 的 我 现在 有 四个 学生
+NI50FBQ_0101 405503 409575 CS 啊 等一下 after 这个 survey 过了 一下子 我 也是 我 也是 要 出去 教 补习
+NI50FBQ_0101 409970 416445 ZH  啊  还好 因为 我 是 觉得 其实 我蛮 喜欢 教 补习 的 就
+NI50FBQ_0101 416860 420518 ZH 本身 是喜欢 哦 教了 然后 人家 eh 发现
+NI50FBQ_0101 421639 425983 CS kay 他们 可以 了解 我 在 讲 什么 eh 感 感觉 不错
+NI50FBQ_0101 426510 429190 ZH 就 有 一种 成就感 啦 所以
+NI50FBQ_0101 429190 431937 EN like i actually enjoy teaching than
+NI50FBQ_0101 432430 438550 CS but i i don't want to like once 过 毕业 过后 like go straight away into teaching 因为
+NI50FBQ_0101 438680 442830 CS teaching oh is a path that 你 回 不 来 的
+NI50FBQ_0101 442830 445800 ZH 就 很像 你 一 开始 教书 过后
+NI50FBQ_0101 445800 450980 CS you will be stuck in the teaching industry it's very hard for you to 出来 然后 找 另外 一份 工作
+NI50FBQ_0101 451515 458330 CS 因为 在外 面 工作 人家 希望 你 会 有 knowledge about 他们 在 做 的 东西
+NI50FBQ_0101 458480 465950 CS once 你 在 进去 teaching right 你 教 的 就是 not not real life 的 东西 就 课 室 里面 学 的
+NI50FBQ_0101 465950 472665 CS it's not about outside world anymore 就 会 有些 外面 的 变化 你 已经 不 了解 了
+NI50FBQ_0101 472665 480045 CS 所以 once 你 进 你 进来 教书 过后 unless 你 以后 做 researcher or something it's very hard for you to move on to another job
+NI50FBQ_0101 480835 484880 CS 转转 到 转 到 的话 很多 employer 会 觉得 很 像
+NI50FBQ_0101 485219 487684 ZH 就 不大 好 因为 （嗯）
+NI50FBQ_0101 488958 496175 CS how to say ah 就 like 他们 会 觉得 你 有点 疏 疏 离 那个 疏 离 那个 environment 了 对
+NI50FBQ_0101 496175 506485 CS 所以 我 不想 进去 啦 我 想 出去 外面 看看 那个 世界 先 我才 go back to teaching although 其实 我 蛮 喜欢 教书 itself 的
+NI50FBQ_0101 506906 507374 ZH 啊
+NI50FBQ_0101 510415 515205 CS (呃) 我是 actually i intending to teach for rest for rest of my life
+NI50FBQ_0101 515502 523522 CS like 就 就过 就 看完 世界 了 决定 回去 教书 了 就 教 一辈子 了 but 重点是 我 想 出去 看看 先
+NI50FBQ_0101 524167 533490 CS then 因为 我 本身 是 一个 比较 不 静 不 下 来 的 人 我 比较 是 我 比较 好玩 啊 比较 喜欢 出去
+NI50FBQ_0101 533490 543695 CS and that's another reason 为什么 我觉得 a job as a teacher will suit me a lot 因为 我 以前 可能 是 我 以前 中学 老师 啊 就 常常 会 带 我们 去 那些 field trips 那些 也是
+NI50FBQ_0101 544311 547791 CS 就 like 照顾 我们 啊 那些 然后 带 我们 去看
+NI50FBQ_0101 547791 557280 CS 我 就 蛮 喜欢 这种 东西 的 以前 我在 学校 我 i will join a lot of camps a lot of like this kind of mountain climbing expeditions with my teachers
+NI50FBQ_0101 557280 564956 CS so i find that actually 做 老师 也 蛮好 玩 的 although 是 哦 你 教书 不过 it's not a job that 单单 你就 教书
+NI50FBQ_0101 564956 567695 CS 教 关于 你 会 的 东西 就 like 这样 而已
+NI50FBQ_0101 567695 570805 CS 你 还 会 interact with students 你 还 会 带 他们 出去
+NI50FBQ_0101 570805 574990 ZH 你 跟 他们 出去 的 时候 你 自己 出去 外面 看 也是
+NI50FBQ_0101 574990 581665 CS 所以 我觉得 actually 这个 job 蛮 vibrant 蛮 dynamic 的 所以 我 就 觉得 会比较 适合 我的 个性
+NI50FBQ_0101 582392 588495 CS but in the in the same time 我也 觉得 可能 以后 教 久 了 我也 会 觉得
+NI50FBQ_0101 589196 597950 CS 会 不是 说 腻 啦 可能 我 会 想说 要 去 外面 看 看 其他 东西 也是 因为 我 我就 不 可以 stay 在 一个 地方
+NI50FBQ_0101 597950 600610 CS 所以 我会 想 要 出去 gain experience
+NI50FBQ_0101 601070 605460 CS 以后 会 想 要 进 like events management 不然 就是 cryptology
+NI50FBQ_0101 605752 610430 CS 有 mainly 想 过 的 是 就是 这 两个 events management 就会 more like
+NI50FBQ_0101 610430 617900 CS 哦 筹 啊 帮忙 筹 计划 那些 events like run a certain event stuff like that
+NI50FBQ_0101 617900 624730 CS then cryptology 是 比较 applicable to what i am studying now la 就 好像 因为 我 有 学 applied maths then
+NI50FBQ_0101 624965 628510 CS siv erm r. a. s. cryptology 有 听 过 吗
+NI50FBQ_0101 628834 635460 CS  就 那种 decoding lah decoding 还有 encoding 就 他们就 有 那些 密码 然后 我 要
+NI50FBQ_0101 635752 639454 CS 不 那 那种 他们 哦 秘 secret message
+NI50FBQ_0101 639454 643023 EN secret message ah public crypt crypt ah
+NI50FBQ_0101 643724 646685 CS ya 对 对 对 那种 然后 我要
+NI50FBQ_0101 646685 650465 CS 想 哦 这些 东西 要 可 要 要 怎么 decipher 那种
+NI50FBQ_0101 653375 657035 CS 不过 就 那种 我 哦 maths 我 喜欢 这种
+NI50FBQ_0101 657682 662668 CS an 就 analyse 就 分析 咯 对 我 对 这种 会 比较 有 兴趣
+NI50FBQ_0101 663057 667155 CS crete discrete maths lah 所以 我 想 说 either 我会 go into this kind of field
+NI50FBQ_0101 667335 670535 CS then 不然 就是 去 那种 events events 工作
+NI50FBQ_0101 671295 675175 CS events 工作 就 不同 的 events 就是 like
+NI50FBQ_0101 675175 680674 EN ya gain different experience lor ike maybe organise a concert or something this kind of thing
+NI50FBQ_0101 680674 686024 ZH 我 会 对 这种 东西 蛮有 兴趣 也是 本身 也是 有 参加 很多 这种 怪怪 的 东西 啦
+NI50FBQ_0101 687208 688611 EN like y. o. g.
+NI50FBQ_0101 688974 692100 CS then (er) y. (er) youth olympics games 青 奥 会
+NI50FBQ_0101 693051 693778 EN volunteer
+NI50FBQ_0101 696240 702590 CS 哦 我来 canvassing 不是 不是 for 青 奥 会 的 是 for freshmen 明年 的 freshmen orientation camp
+NI50FBQ_0101 705683 708110 ZH 哦 我 哦 哦 青奥会 啊
+NI50FBQ_0101 708110 713680 CS 青 奥 会 我是 (呃) 我是 volunteer lor 就 因为 他们 里面 会 有 cultural workshops
+NI50FBQ_0101 713920 723960 CS then 我在 cultural workshop 里面 我 就是 帮忙 他们 哦 make sure the workshop run well make sure 有 有人 在 workshop 里面 而且 那些 因为 都是 外 外国 的 athletes
+NI50FBQ_0101 724384 729994 CS then 会 需要 翻译员 就 一个 room 里面 不可以 有 太过 太多 外国人 不然
+NI50FBQ_0101 730513 733941 CS 啊 (嗯) 因为 一个 room 里面 只 可以 有 最多 一两 个 翻译员 嘛
+NI50FBQ_0101 734434 737233 EN if not if there's too many interpreters then
+NI50FBQ_0101 737950 743350 CS 会 很 乱 啊 他们就 会 一直 讲 in different languages so at most one or two so 我 要 make sure
+NI50FBQ_0101 743520 747670 CS 在 同一 个 workshop 里面 的 不可以 有 太 多 不同 国籍 的 人
+NI50FBQ_0101 748030 749960 CS 就 stuff like that and make sure that
+NI50FBQ_0101 749960 758800 CS 他们 when 那些 trainers 他们 需要 某些 资 (嗯) 资料啊 或者 需要 帮忙 的话 我就 会去 帮忙 他们 咯
+NI50FBQ_0101 758800 764200 CS 那 那 就是 我的 工作 范围 volunteer 的 工作 范围 for my post lah
+NI50FBQ_0101 764707 772570 CS then 我是 我在 学校 itself 我 join 的 是 (erm) 你懂 cultural activities club mah
+NI50FBQ_0101 773563 776240 ZH 是 一个 蛮大 的 学生 组织 就
+NI50FBQ_0101 776240 778790 CS student union 是 like 最大 的 嘛
+NI50FBQ_0101 779190 783130 CS 过 (erm) 最最 多 最多 committee 的 那种
+NI50FBQ_0101 783530 786250 CS (er) cultural activities club 第一 第二 个 最大
+NI50FBQ_0101 786410 790900 CS cultural activities club handle 的 就是 比较 多 performing arts 那些
+NI50FBQ_0101 790900 798450 CS 就有 很像 唱歌 啦 so 然后 有会 organise 比赛 唱歌 比赛 然后 还有那种
+NI50FBQ_0101 798450 806310 CS 鼓 lah drums out 我们 有 drums out 还有 impresario 都是 一些 不同 的 events 来 的
+NI50FBQ_0101 806753 810000 CS 就 参与 organizing 那些 events
+NI50FBQ_0101 810571 811272 EN ah ha
+NI50FBQ_0101 816310 817452 EN ah miss
+NI50FBQ_0101 820676 821949 ZH 哦
+NI50FBQ_0101 824546 828649 ZH 哦 哦 我 我 的 那个 不是 青 我在 学校 参加 不是 青奥会 耶
+NI50FBQ_0101 830934 834005 CS o hall olympiad 是 另外 一个 也是
+NI50FBQ_0101 835205 837475 CS (呃) 不是 不是 under 我们的
+NI50FBQ_0101 838973 844945 CS (呃) 那个 应该 不 也 不算 是 吧 就 i think student union 有 参与 有 参与
+NI50FBQ_0101 844945 850795 CS student union 肯定 有 参与 involve in organizing all these 的 因为 是 人家 住宿 舍 的
+NI50FBQ_0101 851382 855005 CS 这些 是 他们 inter-宿 因为 我们 有 十六 个 宿舍
+NI50FBQ_0101 855005 862005 CS 然后 他们 宿舍 之间 会 有 一些 比赛 啊 那些 所以 就会 有 那个 hall opening closing hall olympiad 那些
+NI50FBQ_0101 862303 866404 CS 都是 他们 自己 hall 里面 自己 招人 自己 选人 然后
+NI50FBQ_0101 866769 868606 ZH 准备 参加 比赛 就 这样
+NI50FBQ_0101 869132 872465 CS 哦 那个 就 跟 c. a. c. 没有 什么 关系
+NI50FBQ_0101 874785 881385 CS 哦 就 哦 june 那个 是 june 可能 就 他们 都会 send in email lah in the email
+NI50FBQ_0101 881755 884735 CS 会 n. n. t. u. mail for students lah
+NI50FBQ_0101 885446 887899 ZH 就 有 时候 可能 没有 留意 到 吧 可能
+NI50FBQ_0101 888510 891725 CS 老 老实 说 如果 我 不在 c. a. c. 我 也 不会 留意 
+NI50FBQ_0101 891725 895015 CS 就 很 像 student union send 的 一些 东西 我也 不会 去 看 啦
+NI50FBQ_0101 895415 900395 CS 就 like okay 他们 还 会 有 那种 你 懂 我们 有 时候 有 open house 那些
+NI50FBQ_0101 900475 903445 CS then 会 有 那些 表演 normally 都是 c. a. c. 的
+NI50FBQ_0101 903615 905840 CS 因为 c. a. c. 里面 就会 有 dance clubs
+NI50FBQ_0101 906197 910476 CS dance 有 很多 不 hello hi 你好 哦 好
+NI50FBQ_0101 915545 918844 CS (呃) 还 还有 唱歌 比赛 也是 啊 impresario
+NI50FBQ_0101 919414 926607 ZH 那 （呃） 下 下 一个 就 要 等 明年 了  刚刚 过 你对歌唱 也是有兴趣 啊
+NI50FBQ_0101 928105 932545 CS oh okay 其实 c. a. c. 常常 都会 有 eh 这个 volume 很 像 会比较 好
+NI50FBQ_0101 933255 940235 CS  其实 c. a. c. 常常 都会 有 那些 performances lah 就 很 像 学校 有时候 inter school 也是 最近
+NI50FBQ_0101 940585 942905 CS 刚刚 也是 过了 一个 joint dance concert
+NI50FBQ_0101 943065 947635 CS 就 不同 的 我们 dance society 的 去 去 去 那个 concert lor
+NI50FBQ_0101 948255 952060 CS 自己 都会 筹办 一些 东西 不过 现在 focus 就在
+NI50FBQ_0101 952060 957235 CS drums out 只 剩下 今年 的 啦 今年 的 只 剩下 drums out 还有 就
+NI50FBQ_0101 957235 959365 CS 明年 的 freshmen orientation camp 了
+NI50FBQ_0101 959365 961375 ZH 还 还 没有 筹备 完
+NI50FBQ_0101 961375 964665 CS 就 for me 我是 under 那个 camp 的
+NI50FBQ_0101 965082 967065 CS 我 under 那个 camp 然后
+NI50FBQ_0101 967465 974885 CS okay 我是 main com for 那个 camp but 我 有 join as sub com for impresario 还有 那个 drums out
+NI50FBQ_0101 976690 984655 CS impresar 我 我 不懂 impresario 中文 是 什么eh 就 不过 它 就是 一个 就是 那个 歌唱 比赛 ya it's the
+NI50FBQ_0101 984655 987635 CS yah 就是 我 刚才 讲 的 那个 singing competition
+NI50FBQ_0101 988217 995475 CS 它是 就 不只 n. t. u. 的 students 有 outside students 也是 然后 我们 还 会 请 外面 的
+NI50FBQ_0101 995475 998632 ZH 我们 有 今年 有 洪俊扬 来做 裁判
+NI50FBQ_0101 999345 1004815 CS 啊 就 还有 derrick ho (erm) 就 那个 何 维 建 啊 as 我们的 guest performer
+NI50FBQ_0101 1005490 1010015 CS 所以 其实 这个 event 还 算是 蛮 大型 的
+NI50FBQ_0101 1010015 1015455 CS 还有 里面 就有 什么 vocal solo 有 dance group 的 比赛 那些
+NI50FBQ_0101 1015835 1018875 CS then for drums out 就是 percussion
+NI50FBQ_0101 1018875 1026545 CS 就 那种 鼓 啊 他们 就 不同 还有 不同 的 项目 有 field 的 有 那种 military 的
+NI50FBQ_0101 1026545 1034136 ZH 不同 的 不然 还有 那种 用 不同的 就是 飞鼓 类 的东西 然后敲打 啦
+NI50FBQ_0101 1037418 1038015 ZH 什么
+NI50FBQ_0101 1044637 1045442 ZH 啊
+NI50FBQ_0101 1047180 1052345 CS (呃) 对 对 对 有 有 这样 有 这样的 com 有 这个 category 的 competition 也是
+NI50FBQ_0101 1052893 1062855 CS so 所以 啊 就 那 drums out itself 就是 蛮 就是 专门 就是 这种 打击乐器 的 啦 的 比赛 啊 然后
+NI50FBQ_0101 1062855 1065145 CS 今 今年 june 今年 的 june
+NI50FBQ_0101 1065785 1068699 CS (呃) 我 忘记 exact date 了 不同 but
+NI50FBQ_0101 1070915 1075565 CS (er) not very sure  我 本身 不大 清楚 啦
+NI50FBQ_0101 1078655 1085645 CS (嗯) 你 去 w. w. w. dot n. t. u. c. a. c. dot com yah eh
+NI50FBQ_0101 1086680 1090165 CS w. w. w. dot yah 对 dot com 对 是 dot com
+NI50FBQ_0101 1091245 1095885 CS 哦 因为 它是 c. a. c. n. t. u. c. a. c. itself 的 网站 来 的
+NI50FBQ_0101 1096365 1101365 CS 它 就 跟 n. 它 就 不是 n. t. u. 的 网站
+NI50FBQ_0101 1101365 1108595 CS 他是 我们 自己 有一个 set up 这个 网站 来 introduce 我们 自己的 different events 还有 members club
+NI50FBQ_0101 1109244 1110505 ZH 啊
+NI50FBQ_0101 1112490 1116853 CS com 对 没有 没有 错 都 都 不用
+NI50FBQ_0101 1119145 1121945 ZH （呃） 不 这 这 个 我 不 清楚 eh
+NI50FBQ_0101 1121945 1129415 CS 其实 本 我们 f. o. c. 本身 c. a. c. f. like freshmen orientation camp 那个 是 明年 的 那个
+NI50FBQ_0101 1129827 1133767 ZH 怎么 讲 （呃） 就 那些 就是 一个 露营 啦
+NI50FBQ_0101 1134270 1135567 EN ah camp
+NI50FBQ_0101 1137142 1138710 ZH 对 我 我
+NI50FBQ_0101 1140061 1142119 ZH 嗨 你好 好 没 问题 了 吧
+NI50FBQ_0101 1144424 1148070 CS 嗨 你好 可以 吗 可以 吗 可以 吗 okay
+NI50FBQ_0101 1148070 1152940 CS 嗯 其实 那个 声音 好像 好 小 like looks very 小 声
+NI50FBQ_0101 1154290 1154965 EN ya
+NI50FBQ_0101 1155848 1161639 CS 应 应该 应该 像 刚才 那样 应该 还 可以 再 高 一点 hello
+NI50FBQ_0101 1164054 1167536 CS 我本身 喜 蛮 喜欢 唱歌 的 常常 去 k. 啦
+NI50FBQ_0101 1167536 1172600 CS 就 跟 朋友 其中 一个 比较 喜欢 的 消遣 就是 去 k. box
+NI50FBQ_0101 1172600 1178310 ZH 不过 就 没 也是 没 没有 唱得 很 好听 啦 就
+NI50FBQ_0101 1178310 1183380 CS like leisure singing lor for 就 喜欢 的 歌 就 唱
+NI50FBQ_0101 1187530 1193580 CS (er) i i i sing both mandarin and 英 英文 歌 啦 两个 都有
+NI50FBQ_0101 1195060 1195747 ZH 什么
+NI50FBQ_0101 1198499 1199699 ZH 哦 
+NI50FBQ_0101 1200889 1212185 CS 哦 啊 我 的 声音 宏亮 不过 我 的 那个 pitch ah the range 没有 很 很 高 就 我 可能 就 不 可以 太 低音 也 不 可以 太 高音
+NI50FBQ_0101 1212756 1219157 ZH 不过 我 我 的 声音 会 比较 适合 唱 那种 有 点 像 啊 张惠妹 那种 歌
+NI50FBQ_0101 1219690 1223764 ZH 就 她的 她 那种 喊到 太高的歌 我就不可以 啦 就 那种
+NI50FBQ_0101 1224154 1229990 ZH 它 普通 那些 歌 我都 比较 好唱 因为 我 声音 比较 适合
+NI50FBQ_0101 1229990 1234650 CS s. h. e. 的 okay ah 就 其实 我都 唱
+NI50FBQ_0101 1235217 1242760 CS like normally one thing about me going to k. box 因为 我 的 朋友 他们 都 喜欢 找 别人 陪 他们 唱
+NI50FBQ_0101 1242760 1245960 CS 不过 normally 是 我 听 的 歌 就 比较 多 like
+NI50FBQ_0101 1245960 1251520 CS 我 什么 歌 我 都 听 啦 所以 就 like 可能 别人 不懂 的 歌 我 会 懂
+NI50FBQ_0101 1251520 1257130 CS 所以 like 很 像 他们 两个 要 唱 不同 的 歌 不过 他们 两个 都 不懂 each other 的 歌 然后 我都 懂
+NI50FBQ_0101 1257406 1262710 CS 所以 在 k. box 的 时候 他们 就 eh 英明 陪我 唱 英明 陪我 唱 so end up like
+NI50FBQ_0101 1262710 1267850 CS 就 很 像 我在 hog 住 那个 mike 这样 就 一 整天 很 像 都是 我 一定 会 在 拿 住 那个 mike
+NI50FBQ_0101 1268261 1271620 ZH 因为 很 因为 他们 就 很难 找 到 他
+NI50FBQ_0101 1271620 1274650 CS like 我的 friends 他们 都会 想 唱 的 歌
+NI50FBQ_0101 1274650 1277750 CS so 对咯 不过 他们
+NI50FBQ_0101 1277750 1282500 CS 有时候 也不 喜欢 我 用 mike 尤其 我 用 我 唱 那种 f. i. r. 的 歌 的 时候
+NI50FBQ_0101 1282500 1285080 ZH 因为 我 的 声音 就 很 宏亮
+NI50FBQ_0101 1285080 1290180 CS 然后 有 时候 用 mike ah 就 这样 这样 跟 拿 mike 没有 分别
+NI50FBQ_0101 1290340 1297710 CS then 哎呀 我 就 okay 关 住 then 我朋友 就 因为 after that after that 我 就 realise that eh 其实 我 好像 越来越 大声 了
+NI50FBQ_0101 1297710 1302600 CS then 我 自己 可能 也是 有点 受不了 因为 他 的 因为 我 朋友 蛮 小声 的
+NI50FBQ_0101 1302600 1309080 CS 所以 就 the speaker 就 到 我的 声音 就 肯定 会 盖 过 他的 then 我 就 okay 把 我的 mike 放 一边
+NI50FBQ_0101 1309080 1313693 CS 就 唱 唱 唱 唱 到 一半 我 朋友 就 忽然 转 过来 他就 英明 你 没有 用 mike ah
+NI50FBQ_0101 1313693 1316465 ZH 因为 就 可能 是
+NI50FBQ_0101 1317425 1321120 ZH 我 本身 我 就 比较
+NI50FBQ_0101 1321120 1327120 CS i am i am louder lah 所以 就 可能 我 有时候 不用 mike 都 比 他们 用 mike 的时候 还要 大声
+NI50FBQ_0101 1327536 1329650 EN  so
+NI50FBQ_0101 1329650 1338310 CS so 所以 in the end 他们 就 不是 很 就 okay 英明 你 尽量 不要 用 mike lah okay for 其中 一些 歌 你 还是 不要 用 mike 比较 好
+NI50FBQ_0101 1338310 1344330 CS then 我就 哦 okay la 其 其实 我 不 介意 啦 我就 因为 我 进去 我 只是 要 那个 气氛 这样 唱歌 然后 就
+NI50FBQ_0101 1344330 1348390 CS 唱歌 而已 嘛 so 用 mike 不用 mike 我 其实 也 okay 的
+NI50FBQ_0101 1352205 1354752 ZH 哦 张韶涵 不 可以 因为 张韶涵 是 高音 的
+NI50FBQ_0101 1354986 1365192 ZH 我 是 可以 唱 她 的 歌 不过 我的 （呃） 我 就 我 不会 用 我的 音 来 唱 咯 我 就会 用 啊 假 假音 来唱 我 需要 用 假音 来唱
+NI50FBQ_0101 1365840 1370310 CS 因为 到 到 不了 她 她的 vocal 她的 pitch 太 high 了
+NI50FBQ_0101 1373845 1377233 CS (呃) 可能 是 都 不敢 try 吧 
+NI50FBQ_0101 1377233 1378448 ZH 因为 我
+NI50FBQ_0101 1378448 1382474 ZH 因为 觉得 如果 我 升 上 去 的话 应该 真的 是 蛮 大声 的 
+NI50FBQ_0101 1383297 1384280 ZH 会 很 大声
+NI50FBQ_0101 1385335 1388257 ZH 我 反而 （呃） 那个 杨丞琳 的 歌
+NI50FBQ_0101 1388892 1394531 CS 杨 杨 杨丞琳 的 歌 因为 although 她的 她 是 high 不过 我 的 假音 还是 撑 得 上
+NI50FBQ_0101 1395234 1398468 ZH 啊 也 也 也 不 啊 而且 够气 啊
+NI50FBQ_0101 1400461 1405126 ZH 啊 都 有 啊 有啊 我 我 都 我 真的 是 什么 歌 都 唱 啊 对
+NI50FBQ_0101 1405751 1415040 CS 男 男生 的 歌 可能 我 觉得 比较 难 唱 的 就 like maybe (erm) you know show 罗志祥
+NI50FBQ_0101 1415040 1418470 CS like his songs 会 比较 低
+NI50FBQ_0101 1418680 1425810 CS then j. eh j. j. 还好 j. j. lin 还好 it's people like (em) maybe 李圣杰
+NI50FBQ_0101 1426433 1437010 CS 范逸臣 like 他们 like they are very low like 就 chorus 我都 okay chorus part 因为 他们 都 唱 they 他们 会 唱 的 比较 高 音 but
+NI50FBQ_0101 1437210 1441235 CS for 那种 verse right 他们 会 就 很 低音
+NI50FBQ_0101 1441235 1444092 ZH 然后 我 唱 的 时候 就会 很 辛苦 因为
+NI50FBQ_0101 1445296 1450250 CS it's really low for me 对 我 要 压 压 我 声音 压 到 很低
+NI50FBQ_0101 1450250 1455900 CS but 我 就 naturally 我 我 连 讲话 都是 蛮 我 连 讲话 都是 蛮 high ah
+NI50FBQ_0101 1455900 1458270 CS like high high pitch 蛮 loud 的 so
+NI50FBQ_0101 1458270 1463906 ZH 你 要 我 压 低 声音 其实 蛮 困难 的 尤其 还 还 唱到 他们 的 歌 所以
+NI50FBQ_0101 1464919 1469045 CS 就 就 还是 会 唱 啦 but 就 不 喜欢 在 k. box 的 时候 唱
+NI50FBQ_0101 1469045 1471795 CS 因为 k. box 的时候 是 你要 跟着 那个 music
+NI50FBQ_0101 1471795 1474975 ZH 所以 一定 要 压低 不然 会 很 难听
+NI50FBQ_0101 1475408 1476754 CS ya 就 这样 咯
+NI50FBQ_0101 1479563 1486087 ZH 啊 几  都会 都会 都会 都会 我 我 相信 其实 很多 人 都会
+NI50FBQ_0101 1486548 1488392 CS 啊 ya 我
+NI50FBQ_0101 1489768 1494258 ZH 其 其实 就 有 时候 一个 人 的 时候 都 会 唱
+NI50FBQ_0101 1494757 1500006 ZH 就 很像 走 路 走 很像 从 eh 望 望 一下 周 周围 没有 人 就 就 唱歌 了
+NI50FBQ_0101 1500297 1506311 CS 就 很像 走 like 自己 一个 人 走 的 时候 就 周 周围 没有 什么人就 会 唱歌 来 entertain 自己 啦
+NI50FBQ_0101 1506919 1510175 ZH 就是 随 随 随时 随地 都 可以 就 会 唱
+NI50FBQ_0101 1510996 1513939 CS 就 很 闷 就 真的 很 喜欢 唱歌 咯 ya
+NI50FBQ_0101 1515560 1522470 CS no no no i 我 没有 那个 i i don't have the kind of voice lah 我的 声音 不够 好
+NI50FBQ_0101 1523321 1524878 ZH 我 本 可能
+NI50FBQ_0101 1526230 1532500 CS (呃) 敌不过 敌不过 那些 真 真 真 真的 在 那些 我 看过 的 那些 表演 i i know
+NI50FBQ_0101 1532500 1541655 CS 因为 i i know roughly how where i stand when it comes to singing 我是 觉得 我的 voice it's okay lah its better than average
+NI50FBQ_0101 1541685 1544650 CS yah 我是 觉得 yah 可能 也是 better than average but
+NI50FBQ_0101 1544650 1547363 CS 就 it's not it's not really the best la
+NI50FBQ_0101 1547753 1551700 CS like 就 我 声音 也 高 不 到 哪里 去 啊 就
+NI50FBQ_0101 1552116 1557452 ZH 他们 而且 他们 都 那种 专 受过 专业 训练 的 他们 会 换气 啊 那些
+NI50FBQ_0101 1557452 1559776 ZH 我 换气 转音 那些 都 不好
+NI50FBQ_0101 1560503 1565651 CS 就 自 自己 自己 唱 自己 爽 一直 这样 like i
+NI50FBQ_0101 1565988 1568005 EN sometimes i don't really care also so
+NI50FBQ_0101 1568507 1572247 ZH 可能 有些 东西 我 也 没有 一直 去 留意 啦 就 变成
+NI50FBQ_0101 1572247 1577985 EN it's not really a habit la when it comes to singing in that manner so
+NI50FBQ_0101 1577985 1580635 ZH 结果 就 哎呀 就 不要 去 参加了 算了
+NI50FBQ_0101 1581466 1587154 ZH 看 其他 人 的 表演 其实 也 蛮 不错 的 因为 他们 其实 真的 有些 真的 是 唱 得 很 好听
+NI50FBQ_0101 1587442 1593122 CS their voice is really superb like 你 听 到 他们 唱歌 你 会 哦 okay
+NI50FBQ_0101 1593857 1596450 CS ya 那种 感觉 就
+NI50FBQ_0101 1596450 1600724 ZH 本身 自己 就是 没有 那种 潜力 啦 大概 就是 这样
+NI50FBQ_0101 1605863 1609265 ZH 其实 我 不知道 eh 我 从 我 从来 没有 听过我 父母亲 唱 什么 歌
+NI50FBQ_0101 1609758 1612566 ZH 我 爸爸 有 唱 啦 不过 我
+NI50FBQ_0101 1612566 1620409 ZH 不过 他的 可能 是 因为 我 爸爸 其实 已经 蛮 上 上 了 一个 年龄 的 所以 就 觉得 可能 他的 气 也是 不够
+NI50FBQ_0101 1621032 1625441 ZH 就 其实 我 父母亲 很迟 的 时候 才 生 我
+NI50FBQ_0101 1625441 1631275 ZH 啊 晚 我在 我的 表 我的表姐 我 的 大表姐
+NI50FBQ_0101 1631275 1634700 CS 可能 是 因为 我 mother 也是 第 五个 孩子
+NI50FBQ_0101 1634700 1639064 ZH 我妈 是 第五 个 孩子 我的 大表姐 已经 五十多 了
+NI50FBQ_0101 1639064 1642207 EN ah i'm sure i'm sure i'm sure
+NI50FBQ_0101 1642726 1649485 CS ya 我 的 最 最大 最大 的 表姐 啦 已经 五十多 了 yes my then
+NI50FBQ_0101 1649485 1653265 CS 有 比较 young 的 啦 有 我 还有 表妹 也是 啦 不过
+NI50FBQ_0101 1653265 1657463 ZH 因为 我 我 哦 妈妈 家 我 那边 就是 大姨
+NI50FBQ_0101 1657463 1663539 CS 大舅 二舅 三舅 my mother then 一个 小舅
+NI50FBQ_0101 1663929 1669278 ZH 就 嗯 后面 后面 我 大姨 还有 我 大舅 的 孩子
+NI50FBQ_0101 1669278 1672539 EN are quite old already like they have kids also
+NI50FBQ_0101 1672539 1677034 CS 我有 i have nephews 我有 侄子 小 我 一岁 罢了
+NI50FBQ_0101 1677684 1682395 CS  ya ya ya 我 更
+NI50FBQ_0101 1682395 1687530 CS 这个 还好 更 离谱 的 是 我的 cousin (er) 我 妈妈 的 cousin 我 妈妈 的 表
+NI50FBQ_0101 1688435 1694172 CS 表姐 还是 什么 的 孩子啊 就 我 妈妈 表姐 的 孩子 也 算是 我的 cousin
+NI50FBQ_0101 1694172 1699688 CS 也 算是 我的 cousin 我 cousin 已经 六十 多 了 六十 多 七十 多 了
+NI50FBQ_0101 1699688 1706645 CS 他 的 孩子 三十 多 四十 多 了 已经 生 孩子 了 i'm i'm already a grand aunt you get what i mean
+NI50FBQ_0101 1706645 1712385 CS it's like 我的 辈分 in the family is actually quite high you know although i am only like twenty
+NI50FBQ_0101 1715280 1724370 CS  no no no but 我们 传 传统 华人 啊 就 你要 结婚 了 才 可以 啊 for 我的 age 还算 是  年轻
+NI50FBQ_0101 1724370 1729773 ZH 所以 不 不需 要 给 红包 啦 现在 还在 收 红包 的 年龄 对 咯
+NI50FBQ_0101 1731357 1735920 CS 不要 结 ya 对 咯 我 还 我 还 很 年轻 啦 so ya
+NI50FBQ_0101 1735920 1741150 CS but 我 for my yah lor for my mum 就 她 就 比较 迟 结婚 也是
+NI50FBQ_0101 1741150 1748310 CS so end up 我的 妹 我 跟 我 妹妹 都 我 还 有个 妹妹 which is even younger than me three years younger than me
+NI50FBQ_0101 1748310 1751670 CS 所以 so 你 可以 imagine 她的 那个 age gap you know
+NI50FBQ_0101 1751670 1754740 ZH 她 比 我 那个 小 我 一岁 的 侄子 还 要 小 eh
+NI50FBQ_0101 1755571 1758609 ZH 她的 就是 讲 她的 那个 侄子 比 她 大 两岁
+NI50FBQ_0101 1760531 1765090 CS yah but okay lah 我们 都 习惯 了 就 我的 family structure 就是 这样
+NI50FBQ_0101 1771047 1776293 CS (呃) 没有 都是 新加坡人 both both of them are singaporeans like (er) 我
+NI50FBQ_0101 1778526 1783630 ZH 哦 哦 他的 籍贯 啊 哦 我 妈妈 是 客家人
+NI50FBQ_0101 1783630 1785240 CS 我 爸爸 是 cantonese
+NI50FBQ_0101 1787410 1789098 ZH （呃） 我
+NI50FBQ_0101 1790578 1794915 CS 广 我会唱 广东 歌 but 我 不大 会讲 广东 话 我 听 得 懂 广东 话
+NI50FBQ_0101 1795382 1796680 CS like 就
+NI50FBQ_0101 1798524 1803207 ZH  哦 没 没 没有 啦 我 唱 我 唱的 都是 那种 好像
+NI50FBQ_0101 1803730 1807250 CS 就 电视 连续剧 很 喜 我 很 喜欢 看 hong-kong drama
+NI50FBQ_0101 1807250 1812750 CS so 我 也 觉得 香 (嗯) 广东 歌 蛮 好听 的 like 我 觉得 因为
+NI50FBQ_0101 1812750 1815370 CS 其实 广东 one thing about 广东 歌 is that
+NI50FBQ_0101 1815761 1823434 ZH （呃） 他们 为了 配合 那个 音 因为 你 懂 有些 华 华文 歌 啊 他 我 觉得 本身 填 填词人 不好 啦
+NI50FBQ_0101 1823434 1828383 ZH 填词人 就 他的 那个 音 那个 因为 我们 有 四个调
+NI50FBQ_0101 1828383 1833462 ZH 就 有 时候 跟 那个 音乐 没有 很 配 就 听 起 那个 歌 听 起 来 就 怪 怪 的
+NI50FBQ_0101 1834605 1840530 CS but 广东 歌 不会 因为 广东 歌 他们 的 其实 他们 的 pronunciation is not very accurate
+NI50FBQ_0101 1840530 1843590 CS 他们 有时候 会 换 那个 pronunciation to fit the song
+NI50FBQ_0101 1844400 1850036 CS 所以 其实 广 而且 我 觉得 写 很多 都 写 得 蛮好 啦 so 本身 我蛮 喜欢 广东 歌 也是
+NI50FBQ_0101 1852347 1859696 ZH （呃） 不 不会 啦 啊 哈 没 都 电视 连续剧 的 都是 那种 哦 其 其他 的 那些 艺人 本身 唱的
+NI50FBQ_0101 1859696 1864550 CS 就很 there are very few that sing by those hong-kong and
+NI50FBQ_0101 1864550 1869490 CS 我 开始 会 喜欢 这些 的 时候 是 when i am much older 我 以前 小时候 是 比较 喜欢 chinese drama
+NI50FBQ_0101 1869490 1877160 ZH 就 新 新加坡 那种 不过 可能 是 因为 看 久 了 然后 来来 去去 都是 看 一样 的 东西 有 点 看 看了 有 点 倦 啦
+NI50FBQ_0101 1877160 1884280 CS 就 觉得 cantonese drama 会 比较 innovative 他 做 的 东西 会比较 不 一样 所以 我 开始 喜欢 hong-kong drama 也是
+NI50FBQ_0101 1884280 1888318 ZH 我 比较 大 的 时候 那 时候 就 已经 很少 听 这种
+NI50FBQ_0101 1889000 1891640 CS (er) like 以前 那种
+NI50FBQ_0101 1891640 1893886 CS (嗯) 其他 的 歌手 的 歌 like
+NI50FBQ_0101 1893886 1898067 ZH 刘 刘德华 他们 广东 歌 我 都 不大 不大 懂
+NI50FBQ_0101 1899082 1901419 ZH 啊 我 张 张 学
+NI50FBQ_0101 1901419 1906795 ZH 有 啦 会 比较 少 啦 比较 少 听 啦 现在 都 都是 很像 这个
+NI50FBQ_0101 1907288 1914560 CS 也是 只 听 那种 戏 的 因为 其实 我 也 不是 很 听 得 懂 啦 so 我 还是 会 听 华文 歌 还有
+NI50FBQ_0101 1914560 1918920 CS 英 英文 歌 居多 because i can understand bet i can understand these songs better
+NI50FBQ_0101 1919100 1923720 CS but the thing is 广东 歌 比较 it's harder for me to understand
+NI50FBQ_0101 1923720 1932847 CS although i can but it will take me some time lah 会 我 会 要 一直 听 一直 听 很多 遍 我 才 可以 听 得 懂 okay what actually the song is talking about stuff like that
+NI50FBQ_0101 1933610 1938550 CS as for 我 妈妈 side 的 那个 dialect (呃) 她是 hakka
+NI50FBQ_0101 1938924 1941490 CS 所以 我 其实 比较 听 得 懂 hakka
+NI50FBQ_0101 1941750 1946610 CS 因为 我 爸爸 的 relatives 都是 most of them 都在 malaysia i hardly see them
+NI50FBQ_0101 1946610 1949309 CS but 我 每次 看 到 我 妈妈 跟他的 几个 兄弟 姐妹
+NI50FBQ_0101 1949854 1956940 CS 所以 其实 就是 几个 兄弟 还有 那个 她的 姐姐 大姐 还有 我 大姨 and
+NI50FBQ_0101 1956940 1965150 CS 他们 讲话 的 时候 they speak in hakka so 我 就 从小 在 那个 environment 长大 所以 也 会 比较 听 得 懂 hakka
+NI50FBQ_0101 1965693 1969634 EN it's just that i also don't know how to speak hakka  ah
+NI50FBQ_0101 1974210 1977990 CS 哦 是吗 taiwan 不是 mainly 是 hokkien 吗
+NI50FBQ_0101 1983871 1986040 EN oh okay okay
+NI50FBQ_0101 1986040 1988840 CS oh i i i 我 不知道 eh i didn't know about this
+NI50FBQ_0101 1988840 1996625 CS then 我 我 一直 哦 another thing is 我 从 小 长大 哦 是 因为 我 父母 都 做工
+NI50FBQ_0101 1997093 2002990 CS 所以 我 从 小 长大 其实 都是 我的 (呃) 我 有 一个 babysitter 把 我 带 大 like
+NI50FBQ_0101 2002990 2006050 EN i i stayed with her until i was in secondary four
+NI50FBQ_0101 2006050 2009120 CS 因为 那时候 就 我 妹 sec one 了 我们 才 搬 回家 住了
+NI50FBQ_0101 2009567 2012220 CS 啊 所 所以 but
+NI50FBQ_0101 2012220 2014120 CS 我的 babysitter itself ah
+NI50FBQ_0101 2014120 2018380 CS 她 自己 herself she is a cantonese herself
+NI50FBQ_0101 2018380 2020990 CS 不过 她的 husband 是一个 hokkien
+NI50FBQ_0101 2022270 2026760 CS 啊 啊 but 她是 就
+NI50FBQ_0101 2026760 2032830 CS 她是 like when 其实 我 就 比较 我 最 听 得 懂 的 dialect 还是 hokkien
+NI50FBQ_0101 2033229 2036740 CS 因为 她的 那些 relatives like 我 看到 的 那些
+NI50FBQ_0101 2037176 2043010 CS (嗯) 我 babysitter 的 relatives 会 过来 的 他们 都 她 会 跟 他们 讲 hokkien
+NI50FBQ_0101 2043673 2046950 ZH 所以 我 我 一个 星期
+NI50FBQ_0101 2046950 2054323 CS 七 天 而已 嘛 五 天 我都 是在 我的 guardian 家 住 in fact 六 天 ah 我 拜 六 早上 回去 拜 六 星期天 晚上
+NI50FBQ_0101 2054917 2057449 CS 晚上 又 要 回去 我 babysitter 的家
+NI50FBQ_0101 2057449 2062260 CS 所以 我 i spend more time with them so actually 我 understand hokkien better
+NI50FBQ_0101 2062260 2068985 EN than i understand hakka and cantonese then in fact i can speak hokkien bet a little ha
+NI50FBQ_0101 2070439 2072023 EN (er) no not not really i
+NI50FBQ_0101 2073893 2082340 CS no i i i i cannot spe 我 不 可以 讲 我 不会 讲 广东 话 还有 我 只会 听 我只 听 得 懂 广东 还有 客家 我 都 听 我 都 不会 讲
+NI50FBQ_0101 2082340 2089580 CS hokkien 也是 那种 很 basic 很 basic 的 而且 one thing about me is that 可能 我 被 exposed 的 dialects 有点 太 多 了
+NI50FBQ_0101 2089780 2095449 CS 结果 很 像 有 时候 我 讲 的时候 我 不懂 我是 讲 我 讲 的 是 hokkien 的 还是 hakka 的 还是
+NI50FBQ_0101 2095903 2099211 CS  还是 can cantonese 的 对 就
+NI50FBQ_0101 2099461 2104811 CS eh 我 我 我 刚才 讲 的 那 那 那 句 dialect 是 哪 一个 了 啊 哎呀 随便 啦 
+NI50FBQ_0101 2105494 2106845 CS 就 ya
+NI50FBQ_0101 2116755 2125180 CS (嗯) 就 其实 通常 都是 人家 跟我 讲 hokkien 然后 我会 reply in hokkien 我 就 reply ah 我 不会 reply 的话 我 就 用 华 用 华文 reply ah
+NI50FBQ_0101 2126300 2129417 CS 因为 她 的 (呃) 因为 我 babysitter 那边 有 个
+NI50FBQ_0101 2129702 2136141 CS (呃) 比较 她 她的 (呃) 她的 grandmother (呃) 不是 她的 grandmother 她的 什么 她的 mother-in-law
+NI50FBQ_0101 2136417 2148680 CS 哦 就 她的 婆婆 啊 然后 就 她 有 时候 过 我 我 叫 她 ah-ma 啦 然后 她 过来 的 时候 她 不会 她 不大 会 讲 华文 她 听 得 懂 but 不会 讲 所以 她 就会 跟 我 讲 hokkien
+NI50FBQ_0101 2148680 2151710 CS then 我 可以 的话 我 就 尽量 reply her in hokkien but
+NI50FBQ_0101 2151920 2156620 CS you know 有 时候 我 就 我的 hokkien 也没有 很好 啊 因为 我 normally 跟我 朋友 讲话
+NI50FBQ_0101 2156620 2164970 CS 都是 in chinese 或 英文 所以 就 变成 哦 so end up in the end 我 hokkien 也 没有 很好
+NI50FBQ_0101 2164970 2171034 CS end up 我 跟 她 讲话 normally in 华文 可以 的话 我 才 reply in hokkien 就 这样 咯
+NI50FBQ_0101 2177760 2181663 EN ya that's that's why sing that's why there's singlish what
+NI50FBQ_0101 2181863 2185000 CS 因为 就 exposed to 很多 different 的 culture
+NI50FBQ_0101 2185359 2189299 ZH 全 全部 就 jiat-ba 就 全部 放 在 一起 就 变成 这样 了
+NI50FBQ_0101 2194890 2195902 EN ah ya
+NI50FBQ_0101 2199616 2202810 CS (er) 有 i went for like
+NI50FBQ_0101 2202810 2205830 CS 那种 but 都是 学校 organise 的 啦
+NI50FBQ_0101 2206030 2212660 CS like 很 像 中学 的 时候 就有 开始 去 malacca trip like overseas mountain climbing trip
+NI50FBQ_0101 2213230 2218340 CS like 我们 我 有 去 过 mountain climbing trip 三次 三次 都是 其他 的 国家
+NI50FBQ_0101 2218600 2222610 CS like 本身 自己 新加坡 只 爬 过 bukit-timah hill
+NI50FBQ_0101 2222610 2224420 ZH 啊 就 这样 而已
+NI50FBQ_0101 2224420 2228220 CS 然后 我 有 去 过 (嗯) mount ophir 我 不懂 华文 叫 什么 啦
+NI50FBQ_0101 2228470 2233910 CS mount-ophir gunung-stone 还有 gunung-datok 这 三个 这 三 座 山
+NI50FBQ_0101 2234947 2237250 CS malaysia 都是 malaysia 的 山
+NI50FBQ_0101 2237250 2244470 CS mount-ophir mount-ophir 很 像是 比 kina 会 因为 kinabalu 是 (呃)
+NI50FBQ_0101 2244470 2248670 CS malaysia 最高 的 山 啊 but kinabalu 比较 容易 爬
+NI50FBQ_0101 2249040 2254830 CS mount-ophir 会 比 kinabalu 难 爬 因为 它的 它 比较 它的 terrain 比较 多 就 那种
+NI50FBQ_0101 2255502 2258540 CS 它 会 有 那种 straight wall that 你要
+NI50FBQ_0101 2258540 2265540 CS 啊 真 真的 是 用 你 的 手 爬 上 去 啊 so there's a difference lah
+NI50FBQ_0101 2265540 2268030 CS 就 actually 这些 experience 都 蛮 不错 的
+NI50FBQ_0101 2268798 2271200 CS then other than this 我
+NI50FBQ_0101 2271200 2275200 CS 到了 j. c. 之后 就 比较 少 参加 这种 mountain climbing trip 了
+NI50FBQ_0101 2275200 2282920 CS 然后 我 就 开始 参加 其他 东西 也是 然后 有 一次 有 去过 一 个 yun-nan trip
+NI50FBQ_0101 2282920 2288930 CS it's a overseas c. i. p. trip 就 community 你 懂 就 那种 community involvement programme ah 
+NI50FBQ_0101 2289590 2295750 CS 就 overseas 的 然后 我 就有 过去 云南 就 interact with 那些
+NI50FBQ_0101 2295750 2300221 ZH 其他 学校 就 有去哪里啊 北大 啊
+NI50FBQ_0101 2300766 2302535 ZH 有 去 （嗯）
+NI50FBQ_0101 2303623 2307972 ZH 就 我们 有去 云南 丽江 啊 那些
+NI50FBQ_0101 2308690 2314310 CS (呃) 有 去 那些 rural rural school 也是 like 就 跟 他们 interact
+NI50FBQ_0101 2314734 2318489 ZH 九 有 一个 叫 什么 啊 九
+NI50FBQ_0101 2319035 2321709 ZH （呃） 九寨沟 没有 不是 九寨沟 是
+NI50FBQ_0101 2321917 2326691 CS 是 一间 学校 的 名字 哦 我 忘 忘 忘记 了 it's a few years ago 了
+NI50FBQ_0101 2326691 2332150 CS 过 已经 过了 就 那 啊 就 过去 跟 他们 interact 那些
+NI50FBQ_0101 2332150 2334420 CS it's a total of a 八 天 trip
+NI50FBQ_0101 2334770 2341080 CS 我是 part of 那个 organise organizing committee lor 就 他们 就 招 人 然后 我们 volunteer
+NI50FBQ_0101 2341080 2345690 ZH 然后 我们 就 带 了 一群 六 大概 六十个
+NI50FBQ_0101 2345690 2348995 CS 六十 个 中学生 还有 一些 n. c. c. cadets bah
+NI50FBQ_0101 2349487 2356415 CS 带带 他们 过去 那边 看 看 那 interact with 那些 学生 喏 那边 的 学生
+NI50FBQ_0101 2356937 2361247 EN like something like ex exchange trip but it's actually more of a c. i. p. trip ah
+NI50FBQ_0101 2364156 2364945 ZH 啊 有
+NI50FBQ_0101 2364945 2366995 CS 有 performance 也是 dance lor
+NI50FBQ_0101 2367246 2368077 ZH 啊
+NI50FBQ_0101 2373080 2381285 CS oh not really ah 就 我们 学校 我们 本身 学校 的 dance lah 就 我们 常常 不同 的 学校 都会 有 啊 就 他们 自己 的 mass dance

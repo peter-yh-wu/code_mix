@@ -1,0 +1,169 @@
+UI28FAZ_0101 13299 14181 ZH 黄秀中
+UI28FAZ_0101 24142 25410 ZH 哦
+UI28FAZ_0101 30786 36265 ZH 哦 黄色 的 黄 咯 山明水秀 的 秀 咯 中国 的 中 咯
+UI28FAZ_0101 40590 41622 ZH 哦
+UI28FAZ_0101 45005 46927 ZH 然后
+UI28FAZ_0101 47539 50160 ZH 住在 benmadang rawa 咯 小时候
+UI28FAZ_0101 51218 55689 CS 以前 小的 时候 跟 grand mother 一起 住 啦
+UI28FAZ_0101 55689 59446 CS ah grand mother 很 喜欢 gardening
+UI28FAZ_0101 59446 63388 CS 我家 旁边 有 一个 很大 的 garden
+UI28FAZ_0101 63388 69113 CS 嗯 那时侯 是 最 快乐 的 时光 很多 sweet memory 在 那边
+UI28FAZ_0101 72814 77015 ZH 小时候 跟 哥哥 姐姐 一起 在 那边 玩咯
+UI28FAZ_0101 77015 85983 CS 然后 那时侯 parents 没有 什么 管 我们 的 咯 都是 我们 grandmother 照顾 我们
+UI28FAZ_0101 85983 92311 ZH 还 记得 小时候 有 一次 家里 进了蛇
+UI28FAZ_0101 92311 96557 ZH 我们 两个 都 很 好~ 很 害怕 eh
+UI28FAZ_0101 96557 104148 CS 啊 不过 我们的 grand mother 很 勇敢 eh 她 竟然 拿 一支 长长的 木棍 去 attack 那个 蛇
+UI28FAZ_0101 104148 112515 CS 可惜啦 当时 我 没有 照相机 如果 可以 take photo 的话 就 好 了
+UI28FAZ_0101 112515 114707 CS 有 video cam 的话 更好 eh
+UI28FAZ_0101 114707 120387 ZH 两个 小孩子 又 怕 到 在 沙发 上面 跳 跳 跳
+UI28FAZ_0101 122393 125505 EN after that
+UI28FAZ_0101 125505 131143 CS garden 里面 啊 很多 种 花 很多 树 啦
+UI28FAZ_0101 131143 135371 CS 有 chiku lah 有 papaya lah 有 banana 树 啦
+UI28FAZ_0101 137370 142022 CS pineapple 我 不懂 有没有 eh
+UI28FAZ_0101 142022 145563 CS 还记得 我们 toilet 很 特别 的 在 外面 的
+UI28FAZ_0101 146846 149060 ZH 哦 那时候 啊
+UI28FAZ_0101 149060 152868 CS 我 daddy 就负责 雇 那个 toilet loh
+UI28FAZ_0101 152868 155498 ZH 然后 旁边 有 一条 很大 的
+UI28FAZ_0101 159581 162177 ZH 嗯 那 水流 很急
+UI28FAZ_0101 162788 170994 ZH 啊 还记得 哦 又 一次 家 进蛇 也是 进到 晒 屋子 那边 eh 晒 衣服 那边
+UI28FAZ_0101 170994 177384 CS 然后 daddy 就 煮水 ha boil 那个 water 然后 烫它 烫 到 他 熟
+UI28FAZ_0101 177384 183338 ZH 然后 过后 就把 那只蛇 丢在 水沟 丢在 longkang 里面
+UI28FAZ_0101 183338 192295 ZH 那个 小孩子 就 就 把 那些 蛇 拉着 拉着 骑脚车 拉着 那个 蛇 拉在 tonggai 走
+UI28FAZ_0101 193117 199683 CS 嗯 很 顽皮 这 就是 village people 的 生活
+UI28FAZ_0101 199683 206764 CS after that 到 standard two 就 move 去 嗯 move 去 taman jaya
+UI28FAZ_0101 206764 209457 ZH 那 时侯 很 不开心 eh
+UI28FAZ_0101 209457 211741 ZH 可是 没 办法 啦
+UI28FAZ_0101 211741 214256 ZH 需要 跟着 家人
+UI28FAZ_0101 214256 216744 CS 跟着 parents 的 意见 咯
+UI28FAZ_0101 216744 221989 ZH 不过 也好 啦 至少 不会 淹水 不用 每次 要扫
+UI28FAZ_0101 221989 230002 CS 打扫 干净 嗯 move 去 那个 新 taman 之后 新的 garden
+UI28FAZ_0101 230002 239580 ZH 觉得 城市的人 没有乡下 的生活 这样 开心咯 就 自己 过 自己的 生活
+UI28FAZ_0101 249573 251650 ZH 小时候 啊
+UI28FAZ_0101 252205 253700 ZH 爸爸 载去 哦
+UI28FAZ_0101 256112 258276 ZH 嗯 很远 哦 载 一段 路
+UI28FAZ_0101 259932 262759 ZH 哦 那时候 那时候 就 感觉 很像
+UI28FAZ_0101 262759 269861 CS 会很 sweet leh 每次 上学的 时候 daddy 都会 买糕点 给我吃 买 马来糕 kuih ah
+UI28FAZ_0101 269861 272891 CS oh dessert 也有了 一点 咯
+UI28FAZ_0101 272891 277475 ZH 就 卖给 我们 吃 放学 在 车里 吃
+UI28FAZ_0101 277475 282555 CS 然后 after move 去 town 之后 就 每天 自己要 走路去 school
+UI28FAZ_0101 282555 285951 CS 还要 take bus eh
+UI28FAZ_0101 285951 290711 CS 不过 <unk> sister 就 比较 容易 啊 自己 cycle 去
+UI28FAZ_0101 290711 294077 CS 嗯 因为 她 比较 independent 不像 我 这样
+UI28FAZ_0101 294077 295726 CS 什么 都要 depend 人家
+UI28FAZ_0101 299345 304342 ZH 然后 嗯 想不到 
+UI28FAZ_0101 314017 318565 CS 在 kampung 的 inconvenient ah
+UI28FAZ_0101 318565 321781 ZH 会 咯 上厕所 的 时候 咯
+UI28FAZ_0101 323766 326912 CS 啊 上 厕所 的 时候 会 inconvenient loh
+UI28FAZ_0101 328606 329821 ZH 要 去到 很远
+UI28FAZ_0101 330723 335955 ZH 不然 就 在家 上了 嗯 过车 来 解决掉它
+UI28FAZ_0101 335955 342012 CS 哇 我记得 有 一次 很 好笑 啊 我跟 我的 sister 竟然 看到 biawak 在 longkang 那边 打架
+UI28FAZ_0101 342012 346271 CS 嗯 我们 不懂事 我们 还 以为 那个 是 crocodile
+UI28FAZ_0101 348489 351632 ZH 那两只 很大只 的 biawak 就在 那边 打架
+UI28FAZ_0101 358374 365398 ZH 应该是 流水的 问题吧 还是 那边 比较低
+UI28FAZ_0101 366321 368902 ZH 不然 的话 也 不用 这样 麻烦 咯
+UI28FAZ_0101 368902 372294 ZH 其实 kampung 也 很好 啦 空气 清新
+UI28FAZ_0101 372294 374717 ZH 大家 都 那么 单纯
+UI28FAZ_0101 374717 377242 ZH 也不用 防人之心 那么 强
+UI28FAZ_0101 377242 381234 ZH 那 屋子 又这样 简陋 又 不会 进贼 哦
+UI28FAZ_0101 381234 387063 ZH 哦 对 啊 屋子 这样 quwa* 还有 贼 要来 meh
+UI28FAZ_0101 387063 392447 CS 那 taman 就 不 一样 啊 garden 也 不一样 啊 这样 麻烦 啊 还要 security 来过
+UI28FAZ_0101 392447 398504 CS security 又 不懂 可 不可以 相信的 现在 security en 好像 很多 rape case
+UI28FAZ_0101 401698 403224 ZH 然后 又 <unk>
+UI28FAZ_0101 405126 407570 CS 印度人 嘛 indian 嘛 所以 <unk> loh
+UI28FAZ_0101 415832 417200 CS 去 到 town oh
+UI28FAZ_0101 419286 422834 ZH 觉得 很 孤僻 哦
+UI28FAZ_0101 422834 428381 ZH 又 没有 小时候 那种 童年的 生活
+UI28FAZ_0101 428381 432621 CS 去到 town 了 就很多 entertainment 了 至少
+UI28FAZ_0101 432621 436346 CS 哇 有 很多 shopping mall lah 可以 去 啦
+UI28FAZ_0101 436346 441544 ZH 因为 我们 都 很会 搭巴士 对吧 这边 去 那边 跑
+UI28FAZ_0101 446007 451151 CS convent 的 生活 啊 也 蛮开心 的
+UI28FAZ_0101 455610 459343 CS 唉 比较 想念 小学 唉 primary school 的时候
+UI28FAZ_0101 459343 462299 CS 就是 primary school 的 时候 成绩 很好
+UI28FAZ_0101 462975 467025 ZH （ppl) 是 每天 给 老师 赞
+UI28FAZ_0101 467025 470542 ZH 然后 很少 给 老师 骂的 喔 还 记得 eh
+UI28FAZ_0101 470542 478685 CS 为了 一个 o'clock o. apostrophe c. l. o. c. k. o'clock wah 我 又被打 又被 拉耳朵 又被打
+UI28FAZ_0101 478685 481457 ZH 然后 又 不知道 我 错在 哪里
+UI28FAZ_0101 481457 485489 ZH 小时候 老师 啊 那个 英文 老师 很严 eh
+UI28FAZ_0101 485489 487763 ZH 她 错了 又 不懂
+UI28FAZ_0101 487763 490593 ZH 你错在 哪里 就丢 你的书 喔
+UI28FAZ_0101 493241 495628 ZH 知道 错了 又被打
+UI28FAZ_0101 495628 501718 ZH 打了 又问 他 哪里 错 啊 他竟然 丢我的书 叫我去 拉耳朵 我 真是 不明白 我 到底 错在 哪里
+UI28FAZ_0101 501718 505152 CS 后来 他跟我 讲 apostrophe 放错 的时候 我 才懂
+UI28FAZ_0101 505152 508979 ZH 我 错在 那边 啊 我 永远 都 记得 她
+UI28FAZ_0101 508979 516480 CS 因为 我 从来 就 没怎么 被 打 竟然 为 那个 apostrophe 放错 地方 就 又打 又骂 又 拉耳朵 又丢 我书
+UI28FAZ_0101 519557 523915 CS 不用紧 啦 很多 student 陪我 pun 很多 pupils 陪我 一起 拉耳朵
+UI28FAZ_0101 523915 526506 ZH 因为 那个 老师 真的 很严
+UI28FAZ_0101 533842 537072 ZH 他 教导 的 方式 有点 不对 啦
+UI28FAZ_0101 537072 545238 ZH 不用 丢 人家 书 就 讲明 就 好了 应该 设门 读前班 不应该 错 这样的 东西 咯
+UI28FAZ_0101 545238 550590 CS 所以 对 咯 他 觉得 这个 是 很 严重 的 错误 吧 不 应该 有的 mistake
+UI28FAZ_0101 552705 555047 ZH 也好啦 让我 记 一辈子 
+UI28FAZ_0101 561157 565275 ZH 不会 啊 怎么 只有 我 错在 那个 地方 其它 没有 错在 那个 地方 嘞
+UI28FAZ_0101 575673 578230 ZH 小学 让我 怀念 的 事情
+UI28FAZ_0101 578907 581722 ZH 哇 我 小学 喜欢 上 音乐课
+UI28FAZ_0101 582698 585756 ZH 音乐课 很喜欢 玩乐器
+UI28FAZ_0101 585756 588000 ZH 因为 家里 没有的 乐器
+UI28FAZ_0101 588000 592039 CS piano ah organ ah 口风琴 啊
+UI28FAZ_0101 592039 594656 ZH 三角铁 啊 相棒
+UI28FAZ_0101 596177 599233 ZH 啊 最好玩 乐器 还有 笛子
+UI28FAZ_0101 601073 603737 CS 就 比较 喜欢 music class ah
+UI28FAZ_0101 603737 609140 CS 还有 moral class loh moral class 有的 看 图书 很多 story book
+UI28FAZ_0101 609140 611672 ZH 每次 就 有的 看 图书
+UI28FAZ_0101 613284 615315 CS moral class 的 teacher 很好 eh
+UI28FAZ_0101 615789 621138 ZH 就很 很 善良 哦 就 不会 怎么 骂 我们的
+UI28FAZ_0101 621892 626725 CS 啊 应该是 很有 moral  很有 moral 对咯
+UI28FAZ_0101 627432 629191 ZH 这种 老师 很好
+UI28FAZ_0101 634483 639260 CS 最 喜欢 啊 piano organ 口风琴 吧
+UI28FAZ_0101 639260 643919 ZH 因为 老师 都 不给 我们 不给 我们 玩 很多 啊
+UI28FAZ_0101 643919 646357 CS drum 他 只是 给男生 碰 而已
+UI28FAZ_0101 646357 649289 CS 没有 女的- 女的 学生 去 碰 那个 drum
+UI28FAZ_0101 651453 655968 CS 嗯 碰了 就 class 然后 可以 唱歌 咯
+UI28FAZ_0101 656623 659437 ZH 还 可以 跳舞的 记得 也是 跳舞 eh
+UI28FAZ_0101 659437 662936 CS 因为 刚好 他的 song 是 一首 舞蹈 来的
+UI28FAZ_0101 662936 668155 CS 哦 我们 就在 那个 mus~ 那个 classroom 里面 跳舞 dance
+UI28FAZ_0101 668155 672396 CS 要 couple 的 leh 一男一女的 leh 要 bow 的 leh
+UI28FAZ_0101 672396 681706 CS 哦 就 很开心的 要在- 要跑着 就 run 着 run 着 那个 music class 那整个 又 bow 又 一起 跳 又 run around 那个 music class
+UI28FAZ_0101 681706 690091 CS 然后 middle 是那些 chair ah table ah 然后 旁边 是 我们 walk around 的 嘛 地方 每个人 run wah 很爽 很难的
+UI28FAZ_0101 690942 693531 ZH 我 记得 那个 跟 我 跳的 他叫 赤勇
+UI28FAZ_0101 693531 697157 EN tan chu yong lah
+UI28FAZ_0101 697157 703250 CS after- after primary school 过后 他去 日新国中 读 嘛
+UI28FAZ_0101 704967 707819 ZH 他 是有 全宅 的 儿子 来
+UI28FAZ_0101 707819 712053 CS 然后 有 看到 他在 tuition class
+UI28FAZ_0101 712053 717347 CS 在 明月 tuition class 跟我 上 一样 的 chemistry tuition
+UI28FAZ_0101 717347 721508 CS 哇 想不到 他变 这样 多 又 smoke 又 很瘦
+UI28FAZ_0101 721508 726334 ZH 以前 我们 第一班 的 嘛 当然 他也是 像 会读书 的 男生 咯
+UI28FAZ_0101 726334 730337 ZH 竟然 是有钱人 应该 是会 成绩 很好 什么
+UI28FAZ_0101 730337 737236 CS maybe 会接 他 爸爸的 business 下来做 又 想不到 他在 sekolah menengah 的时候 这 样子
+UI28FAZ_0101 737236 744995 CS 没有想到 竟然 又 smoke 又- 总之 变了 很多 又 瘦瘦 很恐怖 好像 本来 可以 大大 这样
+UI28FAZ_0101 745597 757655 CS 可是 懂 不是 啦 他 不是 take drug 什么 啦 他是 smoke 的啦 因为 经过 他的 身边 的 时候 都会 嗅到 他 smoke 的
+UI28FAZ_0101 757655 759893 ZH 没有 想到 他 变 这样多 咯
+UI28FAZ_0101 759893 766281 ZH 当然 啦 小 小学 的 时候 哇 第一个 男的 跟你 跳 你 当然 记得 他 还是 谁的 嘛
+UI28FAZ_0101 766281 771165 CS 然后 又 啊 又 hold 着 你的 hand 又 转着 那个圈 然后 就 开始 跳 啊
+UI28FAZ_0101 771165 773778 ZH 然后 又 边 边唱 边跳 嗯
+UI28FAZ_0101 774985 776870 ZH 那是 最 开心 的 时候
+UI28FAZ_0101 783887 786421 ZH 小学 什么 都 不用想 咯
+UI28FAZ_0101 786421 788506 ZH 努力 读书 就 可以 了
+UI28FAZ_0101 791769 796028 CS 可是 爸爸 载去 学校 嘛 载去 school
+UI28FAZ_0101 796028 800949 ZH 载去 放学 是 他 载 哇 爸爸 很 yao ying 的 嘞
+UI28FAZ_0101 800949 805824 CS 放学 的 时候 hor 我先 走的 嘞 我不用 我不用 line up 像 其他 的 student 这样
+UI28FAZ_0101 805824 808763 CS line up line up 到 半命 eh 他 走到 我 面前
+UI28FAZ_0101 808763 810598 CS 帮我 carry 我的 书包
+UI28FAZ_0101 810598 813336 ZH 然后 我就走 咯 跟他 走 咯
+UI28FAZ_0101 813336 816369 ZH 全部 老师 看着他 跟他讲 要 排队
+UI28FAZ_0101 816369 821675 ZH 他要讲 赶时间 走啦 走啦 就每次 就 这 样子 赶时间 就这样 拉着我 走了
+UI28FAZ_0101 821675 830850 CS 我就 好像 一只 小猫 这样 躲在 后面 就 跟着他 走 走 走 走 走 走 走 走到 学校的 corridor after corridor 走到 school gate 然后 可以 到 他车 在 外面
+UI28FAZ_0101 830850 833993 ZH 哇 就 觉得 哇 爸爸 很 yao ying
+UI28FAZ_0101 835488 837578 CS 那 到了 primary sc~
+UI28FAZ_0101 837578 842418 CS eh secondary school 的时候 啊 没有 自己 上学 自己 走路 上学
+UI28FAZ_0101 842418 845031 ZH 每次 都 很怕 过 马路
+UI28FAZ_0101 845031 847795 ZH 那车 很多 都 不让你 的 喔
+UI28FAZ_0101 847795 850417 ZH 过 马路 的时候 很 恐怖
+UI28FAZ_0101 850417 854427 CS so after that 那边 有 那个 traffic light ah 至少 还好 一点
+UI28FAZ_0101 854427 856870 CS 有 traffic light 这 样子 就 比较 好
+UI28FAZ_0101 858583 860829 CS primary school 很多 麻烦 eh
+UI28FAZ_0101 860829 865174 CS eh secondary school 比较 麻烦 primary school 没有 麻烦
+UI28FAZ_0101 865174 868474 ZH 就 比较 开心 咯 童年生活
+UI28FAZ_0101 868474 873985 CS 有的玩 早上 早早 去到 学校 就玩 game
+UI28FAZ_0101 873985 878438 ZH 哦 学校 后面 还 一个 <unk>
+UI28FAZ_0101 878438 885988 CS 每次 u. p. s. r. 还是 有什么 test 的时候 exam 的时候 我们 都有 去拜 拜
+UI28FAZ_0101 885988 892659 CS 还有 一次 差点给 那个 leech ah lintah ah 弄到
+UI28FAZ_0101 892659 898947 CS 还好 它没有 吸到饱饱 一直在 那边 抓痒 的时候 它就 掉在地上 原来 是它 那个 leech

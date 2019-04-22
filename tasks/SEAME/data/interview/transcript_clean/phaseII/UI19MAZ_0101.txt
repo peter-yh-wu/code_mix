@@ -1,0 +1,114 @@
+UI19MAZ_0101 5872 9463 CS 我是 已经 毕业了 然后 现在 是 有拿 extra course
+UI19MAZ_0101 12915 16703 CS 啊 讲 一个 system 啦 s. a. p. 的
+UI19MAZ_0101 16703 24326 CS 也会 讲 他是 more to management 的 东西 就讲 那些 公司 的 资料 啊 怎样 handle 里面 资料 那些 东西
+UI19MAZ_0101 27841 30380 CS 之前 我是 读 multimedia
+UI19MAZ_0101 33201 39332 CS 啊 他是 参的 design 也有 然后 programming 也有 web design 那些 three d. 也是 有
+UI19MAZ_0101 39732 40278 ZH 啊
+UI19MAZ_0101 42065 45247 CS 我 现在 在 那个 bayan lepas 的 p. s. t. c.
+UI19MAZ_0101 47112 47683 EN yeah
+UI19MAZ_0101 49529 51802 CS 啊 我 不懂 他 building 是 叫 p. s. t. c.
+UI19MAZ_0101 51802 58161 CS 他在 bayan lepas 就是 说 那边 他有 他 本来 那边 是 training 那些 engineering ah more to engineering 的
+UI19MAZ_0101 58161 63279 CS 然后 就是 说 这次 他有 就说 intake government 那种 government funded 的 program
+UI19MAZ_0101 63279 68863 CS 就是 说 sponsor 拿 train 我们 咯 然后 就是 给 我们 拿 cert 这样子
+UI19MAZ_0101 71742 77153 CS en course 是 三个月 然后 过后 他就 他 就是 会 如果 我们
+UI19MAZ_0101 80657 84719 CS 他的 course 是到 三个月 啦 大概 到 十月中 这样子
+UI19MAZ_0101 84719 86994 CS 然后 就会 派 我们 去 internship loh
+UI19MAZ_0101 86994 92750 CS en internship 三个月 然后 如果 performance good 的话 就会 送你 去 permanent 这样子
+UI19MAZ_0101 96282 97333 ZH 哈 六个月
+UI19MAZ_0101 101713 111895 CS 啊 只是 刚开始 罢了 因为 我们 现在 还是 more to soft skill 的 东西 然后 正式 接触 进去 那个 s. a. p. 的 course 是 下 星~ 下个 礼拜
+UI19MAZ_0101 113730 116698 ZH 啊 刚开始 罢了 刚开始 大概 几个 星期 这样
+UI19MAZ_0101 122209 122945 ZH 对
+UI19MAZ_0101 125643 128094 CS 我 觉得 可以 啦 因为 他的 他的 course 只是
+UI19MAZ_0101 128094 130410 CS more to basic 的 东西 fundamental
+UI19MAZ_0101 131073 138390 CS 然后 他 就是 说 接下来 more to practical 就是 在 internship 里面 咯 然后 internship 会有 专门 的 人 就在 那边 train 你
+UI19MAZ_0101 141234 150414 CS 啊啊 还 没有 派 哦 不过 多数 他会 看你 看你 的 选择 咯 如果 你要 penang 就会 派你 penang loh 如果 你要 k. l. 就会 帮你 找 k. l. 的 公司
+UI19MAZ_0101 157175 160679 CS ah government sponsor 不需要
+UI19MAZ_0101 169123 170104 ZH 啊 可以
+UI19MAZ_0101 175322 176906 ZH 啊
+UI19MAZ_0101 180229 188498 CS 这个 这个 他 不是 跟 大学 有 关系的 大学 我是 已经 grad 了的 就说 已经 毕业了 这是 我在 外面 另外 拿
+UI19MAZ_0101 188498 192563 CS 因为 之前 我有 找 工作 啦 因为 我 本身 是读 multimedia 嘛
+UI19MAZ_0101 192563 199271 CS 就说 如果 我 回来 penang 找 工作 啊 是 more to 好像 graphic design ah web design 之类的 东西 做 设计 方面
+UI19MAZ_0101 199271 208347 ZH 不过 就说 我 不想 在~ 在 设计 行业 就说 工作 所 我想 转行 然后 我 看到 这 机会 就说 有 朋友 介绍
+UI19MAZ_0101 208347 217276 ZH 就说 这我 觉得 这是 一个 很好 机会 就说 学多 一个 学多 一门 技术 然后 就 可以 在 别的 方面 工作 这样子
+UI19MAZ_0101 222618 225208 EN ah u. k. m. ah
+UI19MAZ_0101 232217 240241 CS 嗯 我的 fact 是 information technology lah 后 他 里面 有分 很多 major loh 比如 讲 啊
+UI19MAZ_0101 240241 243808 CS 有些 是 more to programming 的 有些 是 networking 的
+UI19MAZ_0101 243808 246401 CS 然后 我们 multimedia 就是 讲 多媒体
+UI19MAZ_0101 246401 255311 CS 就讲 好像 我们 会 做 会 学到 一些 好像 animation ah art ah graphic design three d. 这些 之类的啊
+UI19MAZ_0101 259529 266136 CS 嗯 因为 我 觉得 在 malaysia lah 尤其 是 penang 设计 行业 真的 很难 做
+UI19MAZ_0101 266136 272077 CS 而且啊 最 主要 原因 是 两个 第一 就是 underpaid loh 然后 第二 就是 说 他 要你 multitask
+UI19MAZ_0101 272952 279963 CS 然后 还有 一点 就是 additional lah 我 觉得 就是 customer 他们 尤其 是 做 local business 的啦
+UI19MAZ_0101 279963 284518 CS for graphic design 他们 有时候 不知道 真正的 design 是 怎样啊
+UI19MAZ_0101 284518 290708 CS 就是 讲 有些 好像 我们 觉得 这样子 比较 比较 好 比较 好像 我们 要 create 一个 web site 给你
+UI19MAZ_0101 291369 305700 CS 我们 觉得 以 这样的 设计 来讲 会 对 你的 公司 比较 有 帮助 不过 有些 顾客 他们 他们 好像 一些 强硬 要 坚持 要 那样 的 设计 他们 自己 本身 的 设计 然后 就是说 这样子 我们 做 design 的 就会 很难 做咯
+UI19MAZ_0101 305700 313600 CS 因为 如果 我们 design 到 web site 给他 的话 然后 真正 以后 有 什么 事情 不 成功 还是 失败 的话 他们 就会 赖 我 我们 这些 designer
+UI19MAZ_0101 321142 322824 ZH 嗯 还是 有 嗯
+UI19MAZ_0101 335393 344491 ZH 这个 也是 有 不懂 不过 不过 我 只是 觉得 这 一行 不大 适合 我 因为 我 我 觉得 我 本身 没有 什么 那 艺术 细胞
+UI19MAZ_0101 347645 354337 CS 之前 是 因为 因为 我 我 家境 不说 啊 不能 不能 support 我去 读 那些 private mah
+UI19MAZ_0101 354337 360816 CS 然后 我走 就是 去 申请 government loh 然后 就是 中 那个 选择 然后 就说 尝试 去
+UI19MAZ_0101 360816 363304 CS 其实 我 最 主要 是 拿 一张 degree cert lah
+UI19MAZ_0101 363304 371627 CS 很多 学生 是 这样子 就说 你 拿 你 拿了 一张 cert 你 出来 工作 你 怎样 也有 一个 也有 一个 certificate 给 人家 看 嘛 就说
+UI19MAZ_0101 373657 387815 ZH 没有 后悔 我有 学到 很多 东西 啊 有~ 有 学到 很多 东西 因为 也~ 也是 我们 不一定 讲 我们 读 什么 就要 出来 工作 就要 照着 我们 读的 东西 我们 可以 就说 看 自己 最 适合 自己 是做 是 什么 东西 啦
+UI19MAZ_0101 394157 395835 ZH 啊对啊 对 我 懂
+UI19MAZ_0101 399744 401816 CS 我的 interest ah 我 觉得 就是
+UI19MAZ_0101 402898 410182 CS 可以 more to 比较 啊 management ah 还是 technical 的 东西咯 就说 不用 不用 接触 到 art 的
+UI19MAZ_0101 412053 419452 CS 因为 好像 做 design 你要 整天 想 idea 你要 creative 就说 这样子啦
+UI19MAZ_0101 426319 427125 ZH 对 我 知道
+UI19MAZ_0101 428421 439181 CS 我 只是 觉得 不 适合 我 而且 而且 我在 啊 art 的 方面 在 就说 对我 来讲 我 看不到 未来 坦白 讲 真的
+UI19MAZ_0101 439181 445876 ZH 可能 对 别人 讲 可以 呀 不过 我 觉得 对我 就是 说 我 觉得 啊 我 比较 想在 别的 方面 发展
+UI19MAZ_0101 452965 453841 EN management
+UI19MAZ_0101 456004 458632 CS 我 i. 我 multimedia 他 没有 教 management 的 东西
+UI19MAZ_0101 458632 463362 CS 我是 讲 我 拿着 extra course 才有 就说 manage 那些
+UI19MAZ_0101 463362 473238 CS 因为 我学 那 system 是 s. a. p. mah 他是 一个 application 就是 讲 handle 那些 公司 里面 的 资料 啊 好像 human resource ah finance ah 那 data 的 变动 全部 东西
+UI19MAZ_0101 485568 492437 CS 因为 我进 我进 u. k. m. 他派 我的 course 就是 multimedia 因为 你要 你要
+UI19MAZ_0101 506827 518632 CS 你要 转 很难 咯 因为 坦白 讲 我 觉~ 尤其 我们 是 尤其 我们 华人 啊 你要 转 更加 难 除非 是 真的 很有 除非 是有 空位 还是 你 真的 lucky 的话 他 才 给你 转行啦
+UI19MAZ_0101 518632 523212 ZH 他 才 给你 就是 说 转 你要 读的 科系 不然 他 不给 你 转的 哈
+UI19MAZ_0101 528933 533612 ZH 有啊 嗯 也是 有 成功的 例子 啦 不过 要有 耐性咯
+UI19MAZ_0101 544664 547694 CS computer science 是你 是讲 more to programming 了啊
+UI19MAZ_0101 548553 550620 ZH 啊 不会 啦
+UI19MAZ_0101 551672 562110 CS 不会 啦 因为 因为 我有 我有 一个 朋友 他 也是 读 programming 的 然后 他 也是 可能 之前 是 没有 没有 什么 兴趣
+UI19MAZ_0101 562110 565519 CS 我~ 我 不是 要 就是 说 在 programming 发展
+UI19MAZ_0101 569899 573893 CS 啊 我 知道 因为 是他 他有 分 很多 module 在 里面的
+UI19MAZ_0101 573893 575949 CS 看你 要 specialize 在 哪 一方面咯
+UI19MAZ_0101 575949 580759 CS 他有 很多 好像 你 很多 department 你 可以 做 很多 position 你 不一定 要 读 programming 的
+UI19MAZ_0101 580759 587161 CS 还有 还有 好像 more 分 to 好像 technical 跟 functional 这样 两个 部分
+UI19MAZ_0101 591120 593433 CS 我 比较 有 兴趣 应该 是 functional loh
+UI19MAZ_0101 600122 607428 CS 啊 现在 目前 接触 到的 只是 前期 那些 soft skill 罢了 正式 进去 那些 是 啊 星期一
+UI19MAZ_0101 608356 615598 CS 我 觉得 soft skill 是 好像 之前 经过的 是 那个 business english loh project management 还有 intelligence skill 那些
+UI19MAZ_0101 621079 621885 ZH 什么
+UI19MAZ_0101 624723 625844 EN u. k. m. ah
+UI19MAZ_0101 637634 639171 CS 其他 的 course ah
+UI19MAZ_0101 639895 649040 CS 有些 是 可以的 看 他的 条件咯 有些 条件 他 是说 它 可以 公开 给 不管 你是 什么 fac~ 的人 都 可以 去 拿 那个 course 有些 就 可以了
+UI19MAZ_0101 664666 670482 CS 他 还有 他 还有 很多 方面 啦 有 分 s. a. p. consultant loh 然后 就是 说
+UI19MAZ_0101 671183 673986 CS 有些 是 more to programming loh 有些 是 management
+UI19MAZ_0101 674406 681754 CS 我 就是 讲啦 就是 说 因为 像 我们 还 没有 接触 嘛 我们 只是 只是 有 一个 概念 大概 知道 s. a. p. 是 什么 东西 罢了
+UI19MAZ_0101 681754 690417 ZH 实际上 嘞 它 里面 那种 那种 细节 他 关于 怎样 操作 那些 东西 我们 要去 正式 正式 说 接触 那 课程 我们 才 了解
+UI19MAZ_0101 690417 694482 CS 然后 我们 才能 知道 就是 说 analyze 了 我们 才能 知道 那一方面 我们 要走
+UI19MAZ_0101 694482 697951 CS 我们 就说 我们 要走 more to 哪 一个 position 这样子
+UI19MAZ_0101 702015 705589 ZH 嗯 大概 二十八个 二十八个 学生
+UI19MAZ_0101 716415 722757 CS 有 有 他有 给你 一个 exam 然后 如果 你 pass 的话 就 可以 直接 给你 一个 证书 这样子
+UI19MAZ_0101 726716 727627 CS 那 exam
+UI19MAZ_0101 729394 736387 CS 他是 他是 official 就是 好像 s. a. p. 承认 的 那个 cert 来 啦 就说 他们 会 好像
+UI19MAZ_0101 737884 744401 CS 我 不懂 他们的 程序 是 怎样 啦 不过 他们 会 就是 说 好像 帮你 帮你 register 那些 那些 exam ah
+UI19MAZ_0101 744401 748083 CS 就说 真正 有跟 那些 s. a. p. 他的 总部 联络的
+UI19MAZ_0101 748083 754460 CS 就说 如果 你 pass 的话 那些 资料 会 传送 到 那边 去 然后 他们 就是 会 寄 approve 你 了 就会 给你 一张 cert loh
+UI19MAZ_0101 758244 762249 CS 嗯 我们 现在 拿的 只是 overall 罢了 就说 fundamental
+UI19MAZ_0101 762249 767482 CS 如果 你 以后 你要 拿 的话 你 是说 要 另外 拿 它的 course loh 就说 specialize 在 那一方面
+UI19MAZ_0101 772971 774085 ZH 这个 哇
+UI19MAZ_0101 777000 779544 CS 你是 讲 这个 fundamental 的 过后
+UI19MAZ_0101 781028 782360 ZH 这个 我 还 不大 清楚
+UI19MAZ_0101 801232 802389 CS 除了 s. a. p.
+UI19MAZ_0101 809154 811741 ZH 你是 讲 我 以后 出来 要 做的 工作
+UI19MAZ_0101 816933 819260 ZH 目前 我是 专注 在 这~ 这方面 啦
+UI19MAZ_0101 824728 827672 CS 啊 只是 读 s. a. p. 罢了 就说
+UI19MAZ_0101 828267 829879 CS fundamental 的 东西
+UI19MAZ_0101 832857 836273 CS 那 course ah 目前 soft skill 是 那些
+UI19MAZ_0101 836273 842720 CS 是 普通 lecturer 然后 就说 正式 下星期 开始 s. a. p. 的 course 他们 就会 请 那些 好像
+UI19MAZ_0101 843771 853091 CS 他们 是会 请 公司 那些 人 比如 讲 有些 他们的 公司 他们 会有 专门 那些 人 就说 特地 去 train 你们的
+UI19MAZ_0101 853091 858289 CS train 那些 好像 新人 啊 就说 他们 会派 派 那些 professional 的人 来 教你咯
+UI19MAZ_0101 865220 866378 ZH 啊 今年 毕业
+UI19MAZ_0101 871579 875290 CS 有些 是 有些 是 做回 design 方面咯
+UI19MAZ_0101 875290 881877 CS 然后 有些 有些 还 没有 找到 工 然后 有些 就是 也是 有 extend 他们的 course ah
+UI19MAZ_0101 882928 886823 CS 然后 有的 有的 跑~ 跑去 好像 做 mass comm ah d. j. 这样子
+UI19MAZ_0101 890461 891544 EN master ah
+UI19MAZ_0101 892716 893767 ZH 因为 我 觉得

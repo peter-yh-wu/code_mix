@@ -1,0 +1,269 @@
+NI08FBP_0101 1457 9535 CS 嗯 可以 了 吗 可以 了 吗 i think 可以 了 嗯
+NI08FBP_0101 15760 18310 CS testing testing 好 嗯 ah 可以 了
+NI08FBP_0101 18310 21710 ZH 嗯 
+NI08FBP_0101 21710 23480 CS (er) 我的 名字 叫 xiu-min
+NI08FBP_0101 23850 24940 EN my name is xiu-min
+NI08FBP_0101 27880 29920 EN is it code switch between sentence or
+NI08FBP_0101 31280 33470 CS oh okay 好 我 会 尽量 
+NI08FBP_0101 34326 35001 EN 
+NI08FBP_0101 35702 37132 ZH 嗯
+NI08FBP_0101 39390 40506 ZH 没关系×
+NI08FBP_0101 42532 43892 EN okay
+NI08FBP_0101 47393 49589 EN (er) i'm from m. b. s.
+NI08FBP_0101 49880 52460 CS (er) 我在 读 accountancy business
+NI08FBP_0101 53030 54470 CS 然后 今年 year-one
+NI08FBP_0101 54470 55544 EN en
+NI08FBP_0101 57100 59540 CS 之前 是 从 temasek-junior-college
+NI08FBP_0101 60178 60854 EN en
+NI08FBP_0101 61983 62834 ZH 什么
+NI08FBP_0101 63540 64849 CS ah 对 j. c.
+NI08FBP_0101 70100 75640 CS (er) c. c. a. not really but (er) 在 hall 还 有 参加 一些 东西
+NI08FBP_0101 76060 80680 CS 在 嗯 我是 block-manager 然后 之前 有 参加
+NI08FBP_0101 80680 81234 ZH 嗯
+NI08FBP_0101 81900 86690 CS when in january 我 参加 chingay-performance ah under n. t. u. contingent 的
+NI08FBP_0101 87224 88070 EN en
+NI08FBP_0101 88070 89630 ZH 那个 妆艺 大 游行
+NI08FBP_0101 89630 91640 ZH 嗯 
+NI08FBP_0101 91640 94570 ZH (呃) 那个 啊 因为 我
+NI08FBP_0101 95590 98820 CS can say 我 去年 从 印度 回来 吧 然后 我 就 很 想
+NI08FBP_0101 98820 99914 ZH 错 (呃)
+NI08FBP_0101 100210 107290 CS try 一下 something different 所以 我 就 跟 另外 一个 朋友 一起 参加了 chingay-performance
+NI08FBP_0101 107540 109120 CS 那个 chingay-performance
+NI08FBP_0101 109520 111850 ZH (呃) 我 觉得 还 蛮 好玩 的 在 那里
+NI08FBP_0101 112000 122670 CS 因~ 因为 那个 c. c. point c. a. c. a. points 是 五分 所以 我 觉得 有 很多 foreign students 参加 所以 因此 就 可以 认识 比较 多 外籍 学生
+NI08FBP_0101 123184 124024 ZH 嗯
+NI08FBP_0101 124800 128389 ZH 嗯 有 印度 的 中国 的 还有
+NI08FBP_0101 129509 131690 CS 马来西亚 malaysia
+NI08FBP_0101 134120 137230 CS (er) 都是 n. t. u. students en
+NI08FBP_0101 139630 140880 ZH (呃) 没有 
+NI08FBP_0101 140880 141634 EN en
+NI08FBP_0101 144085 144950 EN (er)
+NI08FBP_0101 144950 146980 CS 因为 我们的 是 samba segment
+NI08FBP_0101 146980 151500 ZH 所以 就会 有 嗯 其 他 两个 老师 来 教 我们 怎样 跳舞
+NI08FBP_0101 151500 152974 ZH 嗯
+NI08FBP_0101 153526 155954 CS 可是 i think 是 很 简单 的 
+NI08FBP_0101 157380 160330 CS (er) practice 是 every saturday
+NI08FBP_0101 160956 161604 EN en
+NI08FBP_0101 163420 165778 EN no  its a whole day 
+NI08FBP_0101 165778 168300 CS yeah 可是
+NI08FBP_0101 168300 170660 CS for that experience 我 觉得 还 蛮 值得 的 吧
+NI08FBP_0101 170660 171648 ZH 嗯
+NI08FBP_0101 172967 174034 EN 
+NI08FBP_0101 177630 182320 CS (呃) 印度 我是 参加 global-discovery-program 在 那里 待 一个 月
+NI08FBP_0101 182793 183154 ZH 嗯
+NI08FBP_0101 183980 185260 ZH 在 那里
+NI08FBP_0101 185260 186314 ZH 嗯
+NI08FBP_0101 187050 193710 CS 嗯 那个 是 叫 因为那边 有 okay 那边 有 lectures 然后 我们 还有 去 很多 company visits
+NI08FBP_0101 193710 194630 EN come
+NI08FBP_0101 194630 196710 ZH 我们 在 印度 去了 三个 地方 有
+NI08FBP_0101 196710 197686 EN puni
+NI08FBP_0101 198270 200180 CS mumbai 和 new-delhi
+NI08FBP_0101 200830 213940 CS 然后 一直 从 我 不懂 从 南 还是 哪 一 哪 一个 方向 走 然后 就 and 在那里 诶 一个 月 哦 两个 星 two weeks in delhi then one week in mumbai one week in puni
+NI08FBP_0101 214680 223030 CS (er) 在 那边 有 上课 然后 有 去 company visits company visits 有 包括 like tata-company i. c. i. c. i. bank 之类 的 coca-cola 等等
+NI08FBP_0101 223604 224264 ZH 然后
+NI08FBP_0101 225090 228250 ZH 本来 去 那边 还 觉得 嗯 还 会 怕 不 习惯
+NI08FBP_0101 228250 230400 CS 可是 在 那边 who yu* en
+NI08FBP_0101 230400 232570 EN never expect that the food will be very nice instead
+NI08FBP_0101 232570 233400 EN ah
+NI08FBP_0101 233400 234360 ZH 还 吃 得 蛮 惯
+NI08FBP_0101 234360 234854 EN ah
+NI08FBP_0101 237183 238189 EN (er)
+NI08FBP_0101 239210 242630 CS (er) ironically 在 这里 我 没有 什么 吃 印度 餐 
+NI08FBP_0101 243605 246510 ZH 嗯 我 吃 没有 在 啊华人
+NI08FBP_0101 246510 247360 ZH 华人 餐
+NI08FBP_0101 247360 247990 ZH 嗯
+NI08FBP_0101 247990 256852 CS because when i before i went there right the army guys were like aiya 你 去 那边 confirm diarrheoa 的 你 懂 我们 去 那边 三 天 r. and 因为 他们 有些 当兵 被 派到 印度 去
+NI08FBP_0101 257220 258120 ZH 然后 他们 就 说
+NI08FBP_0101 258120 259160 ZH 嗯
+NI08FBP_0101 259160 262164 CS we only have three days of r. and r. 然后 就会 嗯
+NI08FBP_0101 262490 270601 CS 泻 肚子 因为 那里 的 水 很 不干 净 可是 我们 去 那边 one month 都 还 好 每个人 都 和 蛮 啊蛮 healthy 的 
+NI08FBP_0101 271121 271781 EN en
+NI08FBP_0101 273656 274690 EN (er)
+NI08FBP_0101 274690 279190 CS 那边 很好 笑 的 是 india don't have roti-prata 
+NI08FBP_0101 279190 281450 ZH 对 所以
+NI08FBP_0101 281450 292800 CS 我们 在 那边 expect 每天 吃 roti-prata 可是 到 那边 到了 印度 就 反而 发现 (诶) actually india there's no roti-prata in india then 然后 就 觉得 (诶) 这个 是一个 错误 的 wrong perception
+NI08FBP_0101 292800 297840 CS (er) india don't only have (ai) india 不是 只有 嗯 不会 有 roti-prata
+NI08FBP_0101 299250 307444 CS 那边 啊 我 不知道 那边 不 叫 他们 那边 不是 roti-prata 他们是 比较 比较 硬 和 脆 的 一种
+NI08FBP_0101 307444 308594 CS 他们 叫 naan
+NI08FBP_0101 309334 320004 CS 啊 他们 叫 naan 他们 不 叫 roti 他们 没有 roti-prata 你 去 看 你 去 餐厅 点菜 还是 嗯 on the on the roadside stalls right there's no roti-pratas they don't sell roti-prata there
+NI08FBP_0101 320606 321258 EN en
+NI08FBP_0101 325197 326185 ZH 对 
+NI08FBP_0101 327280 327995 EN slades*
+NI08FBP_0101 328679 329543 EN (er)
+NI08FBP_0101 329543 330838 ZH 那边（呃）
+NI08FBP_0101 331364 335838 CS 他们的 naan 没有 sauce 诶 (er) 就是 我们 都 我们 喜欢 叫 garlic naan
+NI08FBP_0101 336144 339504 CS ah 然后 我们 每 一 餐 都会 有 tandoori-chicken
+NI08FBP_0101 339864 348424 CS 啊 还有 那边 butter-chicken 也 蛮 好吃 的 然后 还有 then we ate what else we eat oh 还有 一一 种 饮料 叫 lassi
+NI08FBP_0101 349039 350174 EN en (er)
+NI08FBP_0101 350174 353624 CS 是 很 像 yogurt drink but then 比 yoghurt 甜
+NI08FBP_0101 353624 354574 EN en
+NI08FBP_0101 354574 357984 CS but 他 他 蛮 怪 的 口味 有 咸 的
+NI08FBP_0101 358324 364964 CS 还有 嗯 哦 他们 很 著名 的 one cup of spices right 加 masala
+NI08FBP_0101 365284 375414 CS 好像 那种 curry 粉 curry powder 然后 你 在 每 一种 你 在 okay whatever food that you can think of right 都有 masala flavored 很像
+NI08FBP_0101 375664 381174 CS ah masala 就是 curry curry 一种 curry 的 spice lah 也 会 有 masala potato chips
+NI08FBP_0101 381384 388624 CS 啊 我们 去 pizza-hut 看到 了 masala lemonade 就 说 他们的 柠檬 汁 加 了 curry powder
+NI08FBP_0101 388824 392804 CS  我们 点 了 来 了来 try 很 很难 喝
+NI08FBP_0101 392804 398584 CS 然后 还有 masala 的 yoghurt drink ah 全部 都会有 curry powder 就 对了
+NI08FBP_0101 398974 401644 CS en 还有 ice cream 也有 masala 口味 的
+NI08FBP_0101 402234 403171 EN en
+NI08FBP_0101 405498 407060 EN 
+NI08FBP_0101 407254 408314 CS curry 的 味道
+NI08FBP_0101 408314 409517 EN en
+NI08FBP_0101 413084 415944 ZH (呃) 都是 那边 的 学校 帮 我们 安排 的
+NI08FBP_0101 416974 424264 CS 嗯 for example 我们 会 好像 我们 今天 学 嗯 印度 的 经济发展 是 如何 所以 就会 有 大概
+NI08FBP_0101 424264 429584 CS 两 到 四个 小时 的 lecture 时间 吧 然后 去 吃饭
+NI08FBP_0101 429584 434384 CS 然后 就 哦 下午 我们 就会 去 一个 somewhere related to the 早上 的 lecture
+NI08FBP_0101 434384 435074 EN en
+NI08FBP_0101 435074 441144 CS 然后 就是 会 去 嗯 let's say 今天 是 economics 我们 就会 去 bank 那个 i. c. i. c. 的 bank 看看
+NI08FBP_0101 441374 445614 CS then 那边 的 人 会 再 跟 我们 讲解 他们的 嗯 运作 如何 是 怎样 的
+NI08FBP_0101 446168 446888 EN en
+NI08FBP_0101 447304 452134 CS then 好像 今天 学 历史 然后 我们 就会 去 下午 的 下 嗯 its either
+NI08FBP_0101 452694 457964 CS afternoon lecture or morning lecture 所以 早上 or afternoon 都会 去 一个 site visit 之类 的
+NI08FBP_0101 457964 458694 EN en
+NI08FBP_0101 458694 467104 CS 我们的 visit (er) 不是 不是 一个 tourist 可以 去 as in 不是 一个 tourist 身份 去 的 地方 都会 去
+NI08FBP_0101 467104 468064 ZH 嗯
+NI08FBP_0101 468064 473851 CS companies ah 然后 saturday sunday 是 free 的 所以 我们 就可以自己 到处 走
+NI08FBP_0101 473851 474719 EN en
+NI08FBP_0101 477934 479544 ZH 那边 的 生活 观察
+NI08FBP_0101 479544 483694 ZH 我 觉得 嗯 不管 怎样 还 终于 没有
+NI08FBP_0101 483694 485794 CS it's not as safe as singapore lah 然后 就
+NI08FBP_0101 485794 486534 ZH 嗯
+NI08FBP_0101 486534 495854 CS 因为 我 跟 我的 朋友 在 街~ 街上 走 的 时候 因为 有 因为 那个 okay 那个 整个 group right 有 二十五 个人 可是 只有 五 位 男生
+NI08FBP_0101 495854 496654 EN 
+NI08FBP_0101 496654 501434 ZH 二十 位 都是 女生 然后 所以 如果 我们 搭 那个
+NI08FBP_0101 502424 508284 CS (er) transport 叫 tut-tut 啊 很 像 一种 小型 的 车 很 像 scooter then 后面 可以 做 三个 人的
+NI08FBP_0101 508284 508904 EN ah
+NI08FBP_0101 508904 512754 ZH 不管 怎样 分 都会 有 要有 女生 得 自己 去
+NI08FBP_0101 512964 515769 ZH 然后 有时候 我 就有 一次 跟 我的 朋友 我们 俩 个
+NI08FBP_0101 515769 517154 ZH 女生 我们 就 一起 出去
+NI08FBP_0101 517154 518484 ZH 可是 我们 到了
+NI08FBP_0101 518833 523794 CS 晚上 八点 半 就 发现 诶 什么 what there's no more girls on the streets 
+NI08FBP_0101 523794 528414 CS  then 我们 就 哦 okay okay better 入乡嗯 随俗 then 快点 回去
+NI08FBP_0101 528414 532654 CS go back to the hotel 我 觉得 因为 我们 怕 不会 安 不安 全
+NI08FBP_0101 532654 534844 ZH 嗯 然后 就 快点 回去 了
+NI08FBP_0101 534844 538404 ZH 可~ 可是 那边 的 应该 是 那边 的
+NI08FBP_0101 539034 547384 CS 人 比较 保守 吧 因为 我的 朋友 因为 他们 有些 穿 sleeveless top right 在 街上 走 都会 被 盯 着 看
+NI08FBP_0101 547384 548358 EN en
+NI08FBP_0101 549774 555924 ZH 嗯 他们 都是 穿 长袖 长裤 的 很少 人 穿 短裤 之类 的 即使 很 热
+NI08FBP_0101 559228 561404 ZH 嗯 有 因为 有
+NI08FBP_0101 561404 573424 CS 在 每 一个 地方 都会 有 因为 都是 一样 的 学校 那个 学校 那个 学校 就 叫 i. p. m. 可是 印度 很大 嘛 所以 there's (er) eighteen such colleges in india
+NI08FBP_0101 574134 589194 CS eighteen 就是很像 new-delhi 有 一 间 然后 mumbai 有 两 间 puni 会 有 一 间 所以 when we are there right 我们 就会 去 visit the 我们 上课 都是 在 the different schools the same i. b. m. schools but across different campus
+NI08FBP_0101 590634 597774 CS in one city 没有 因为 嗯 有 我们 去 去 threes three states 啊 所以 每个 state 都会 有 那个 学校
+NI08FBP_0101 598184 601254 CS 那个 学校 只有 教 business it's a business school
+NI08FBP_0101 601254 603365 ZH en 然后
+NI08FBP_0101 603994 608634 CS 那边 啊 就会 有 学生 带着 我们 然后 有 一点点 interaction 之类 的
+NI08FBP_0101 609249 609928 EN en
+NI08FBP_0101 610804 612594 CS en 蛮 friendly 的 
+NI08FBP_0101 613124 616494 CS 因为 i think (er) 他们是 business student so is 比较 活泼
+NI08FBP_0101 617904 624034 CS en 然后 比较 因为 他们 嗯 marketing is a compulsory subject to them 所以 他们 i think 很 会 讲话
+NI08FBP_0101 624509 624834 EN en
+NI08FBP_0101 624834 631874 CS 可是 嗯 我们 发现 一个 很 shocking 的 事情 是 他们 每 一个 sem 要 take eight eighteen papers
+NI08FBP_0101 632448 634044 EN  really
+NI08FBP_0101 634044 640644 CS eighteen papers 他们的 他们的 课程 是 monday to saturday then 很 像 都是 挤满 的
+NI08FBP_0101 641154 642444 EN yeah it's the whole day
+NI08FBP_0101 643114 648354 CS eighteen papers 因为 他们 在 两年 就可以 毕业 了 而且 他们的 两年 是 拿 masters
+NI08FBP_0101 648748 649368 EN yeah
+NI08FBP_0101 649704 652084 CS 所以 你 可以 看到 有些 like (er)
+NI08FBP_0101 652434 659274 CS 十七 因为 我 去年 去 十九 岁 所以 他们 有些 十七 岁 他们 已经 first year of masters
+NI08FBP_0101 659911 661768 CS yeah 所以
+NI08FBP_0101 662694 664874 CS yeah 所以 but 不懂 诶 i think 是
+NI08FBP_0101 665384 666694 ZH 印度 就是 这样吧
+NI08FBP_0101 666974 672514 CS their papers they don't 他们 不 需要 like undergraduate then graduate 他们 可以 直接 去 masters
+NI08FBP_0101 674574 679994 CS (er) 他们 说 因为 那 间 学校 他们 说 那个 学费 很 贵 比 n. t. u. 贵 吧
+NI08FBP_0101 680304 684094 CS 只要 你 还 得了 钱 进去就 应该 no problem
+NI08FBP_0101 684094 685128 EN en
+NI08FBP_0101 688144 692774 CS 应该 大一 一年 for undergraduate 应该 大概 七千 吧
+NI08FBP_0101 693004 695604 ZH 六千 六千 多 到 七千 左右
+NI08FBP_0101 697477 698481 EN en
+NI08FBP_0101 702069 703605 EN 
+NI08FBP_0101 704882 705904 EN en
+NI08FBP_0101 705904 710374 CS no no no one year so in one semester 大概 three point five
+NI08FBP_0101 712657 713544 EN en
+NI08FBP_0101 713544 714584 EN around three point five
+NI08FBP_0101 715014 717964 ZH 可是 如果 外籍 学生 读 的话 不只 这个 价钱
+NI08FBP_0101 718914 721114 EN (er) one
+NI08FBP_0101 721114 727204 CS 我 看到 上次 我 忘~ 忘 了 可是 那个 one sem 没有 one year 大概 twenty over k.
+NI08FBP_0101 728584 736154 CS 他们 没有 因为 i think foreigner foreign students 没有 subsidies 除非 你是 like p. r. 还是
+NI08FBP_0101 736984 742124 CS 你 but 如果 foreigners 拿 tuition grants 的话 就要 在 这里 呆 三年
+NI08FBP_0101 742974 743858 EN en
+NI08FBP_0101 744454 747954 CS en 不是 contract eh 我也 不知道 是 怎样 i don't know how it works
+NI08FBP_0101 748872 749358 EN en
+NI08FBP_0101 752523 753314 EN (er)
+NI08FBP_0101 753314 755817 CS 在 n. t. u. 就 哦 我 我在 n. t. u.
+NI08FBP_0101 756524 762644 CS 因为 我的 我 想 要在 n. t. u. 去 as many exchange as i can lah 因为 我 想到 处 去 看看
+NI08FBP_0101 762974 767134 CS 所以 就 first stop 去 india 可是 嗯 有 那种 小小的 trip
+NI08FBP_0101 767284 774184 CS 我 去 上 个 sem 有 跟 我 朋友 去 malaysia 就 很 像 我们 join 那个 odac 的 trekking trip
+NI08FBP_0101 774883 775564 EN ah
+NI08FBP_0101 775564 778077 CS (er) 那个 outdoor-activities-club
+NI08FBP_0101 778624 780184 ZH 所以 就 去 嗯
+NI08FBP_0101 780569 780844 ZH 诶
+NI08FBP_0101 780844 793274 CS i think 是 去 k. l. 去 那边 爬山 ah 所以 那个 是 那种 very short trip like (er) three days two 诶 没有 two days one night 那种
+NI08FBP_0101 795001 796126 EN en
+NI08FBP_0101 799912 801127 ZH 啊 有
+NI08FBP_0101 801458 810358 CS 他们 i think 他们 every sem 都会 organise 蛮 多 activities but  这次 的 recess-week 没 办法 去 因为 really too much deadlines to meet 了
+NI08FBP_0101 810358 811568 ZH 一
+NI08FBP_0101 811568 815168 CS 没有 因为 嗯 他们的 trip usually 在 recess-week
+NI08FBP_0101 815168 816328 EN like
+NI08FBP_0101 816328 822248 ZH (呃) 那个 因为 我们 读 了 七个 星期 就会 放 一个 星期 的 假
+NI08FBP_0101 822918 831498 CS ah 就 上 个 星期 可是 我们 这个 sem 那 一个 星期 需要 赶 很多 projects 所以 really cannot go anywhere
+NI08FBP_0101 835508 836538 EN fourteen weeks
+NI08FBP_0101 839004 839752 EN 
+NI08FBP_0101 841248 849718 CS en 上次 就 上次 去 k. l. 然后 这次 may hol~ (er) 那个 long long holidays 就会 跟 我 朋友 去 korea
+NI08FBP_0101 850109 850552 EN ah
+NI08FBP_0101 851412 852012 EN ah
+NI08FBP_0101 852366 856092 CS  of course  north-korea 没有 这么 容易 去 
+NI08FBP_0101 858038 863458 CS (er) 没有 跟 我的 j. c. 朋友 因为 他的 姐姐 在 那边 exchange
+NI08FBP_0101 865281 866692 EN seoul en
+NI08FBP_0101 867258 882838 CS 所以 就 去 那边 因为 嗯 cathay 现在 有 上次 我们 book 的 时候 嗯 到 march ah (eh) ah in the month of march right 如果 你 在 cathay book 的话 去 korea 的 机票 是 五百 五十 块 他们 有 discount
+NI08FBP_0101 884278 889338 CS ah only five fifty ah 只有 机票 but 我们 如果 住 在 那边 住 hostel 还 蛮 便宜 的
+NI08FBP_0101 890073 893503 ZH 很像 民俗 字* 啊 很像 民俗 这样 嗯
+NI08FBP_0101 895875 896453 EN 
+NI08FBP_0101 897208 899470 CS then 我们 就 去 看看 lor 
+NI08FBP_0101 902465 903089 EN en
+NI08FBP_0101 904058 905308 ZH 那 我 不知道 诶
+NI08FBP_0101 905713 906428 ZH 因为 那个
+NI08FBP_0101 907658 911188 ZH 嗯 没有 可是 有 跟 朋友 去 过
+NI08FBP_0101 911438 912448 ZH 那个 是
+NI08FBP_0101 912908 920418 CS 嗯 因为 我 现在 才 year one 嘛 所以 是 去年 跟 朋友 去 的 before 我们 进 before 进 uni 也是 有 嗯 跟 朋友 出国
+NI08FBP_0101 920418 921088 EN en
+NI08FBP_0101 921698 930968 CS it's a very long holiday from december until 就 一直 before 进 uni 在 august 吧 大概 八 八个 月
+NI08FBP_0101 933918 935518 ZH 而 那时 候 都是
+NI08FBP_0101 935518 939848 CS 嗯 straight away after exams 就 休息 一下 大概 两三个 星期 吧
+NI08FBP_0101 939848 947968 CS 然后 就是 开始 找 工作 第一 份 工作 在 嗯 marina-keppel-bay 这个 靠近 harbour-front 那边 的
+NI08FBP_0101 947968 948842 EN en
+NI08FBP_0101 949438 951438 EN (er) receptionist plus admin
+NI08FBP_0101 951438 952232 EN work
+NI08FBP_0101 952638 958468 CS 因为 我们 (呃) a. levels 刚 出来 就是 either 做 admin 不然 就是 卖 东西 不然 就是
+NI08FBP_0101 958922 959898 ZH 嗯 在
+NI08FBP_0101 959898 968898 CS restaurants 做 waitress 还是 waiters 简直 就是 cheap labour 就 对了 啦 然后 在 那边 做 大概 i think 四个 月
+NI08FBP_0101 968898 969778 EN ah
+NI08FBP_0101 969778 975018 CS 然后 就 okay 就 觉得 诶 嗯 赚 了 一点 钱 因为 我 妈妈 说
+NI08FBP_0101 975018 975498 EN if you want
+NI08FBP_0101 975498 981388 CS to go out right 就 用 自己的 钱  then 我 就 okay 我们的 我 和 我的 朋友 就
+NI08FBP_0101 981388 993668 CS 我们 就 自己 先 去 打工 然后 赚 like 做 三 四个 月 有了 钱 然后 就 一起 出国 然后 after that 回来 就 去 changi-general-hospital 做工 也是 做 admin
+NI08FBP_0101 993668 995348 ZH 可是 当时
+NI08FBP_0101 995348 997568 CS 刚好 碰到 h1n1
+NI08FBP_0101 997568 999618 CS 然后 他们 就 i think 他们 蛮
+NI08FBP_0101 999618 1004548 ZH 嗯 啊 蛮～ 也蛮 体恤 那些 员工 因为 那时 她 就 问 我们 那些
+NI08FBP_0101 1004548 1005698 EN en part time workers
+NI08FBP_0101 1005698 1006148 EN like
+NI08FBP_0101 1006148 1013958 CS do you all want to consider continue working here 因为 他们 like they say that they understand that (er) 这种 情况 你们的 父母 可能会
+NI08FBP_0101 1014578 1021498 CS ah 会 担心 然后 不会 让 你们 来 做工 then but 我的 parents 都 还 okay lah 就 continue work lor 在 那边
+NI08FBP_0101 1021888 1030798 CS (er) 在 那边 我也 pick up 了 一个 因为 本来 那个 campus (er) 那个 office 是在 跟 c. g. h. 在一起 的 所以 本来 是在 simei
+NI08FBP_0101 1031028 1040867 CS 可是 嗯 in the end 在 august 的 时候 就 搬 去 tampines 因为 simei 要 expand 他们 需要 build 多 一个 clinic (er) 在 c. g. h.
+NI08FBP_0101 1041108 1043137 ZH (呃) 养成 一个 很好 的 习惯 因为
+NI08FBP_0101 1043377 1051748 CS 嗯 因为 我们 跟  okay 我 和 还有 多 另外 一个 part time 的 就 好像 跟 我 一样 等着 进 uni 的 女孩子
+NI08FBP_0101 1051908 1060378 CS then 我们 就 认识 了 i. t. department 的 一些 那些 some of the guys in i. t. department lah 他们是 (er) full time 来 的 都
+NI08FBP_0101 1060378 1061018 EN 
+NI08FBP_0101 1061018 1066048 ZH 然后 他们 他们 都会 下班 就会 去 跑步
+NI08FBP_0101 1067668 1070128 CS testing testing ah i think okay 了
+NI08FBP_0101 1072878 1078428 CS (er) 我在 那里 工作 了 大概 three months 然后 就 每个 星期 就 大概 跑 一 两次 吧
+NI08FBP_0101 1078888 1084288 ZH 嗯 然后 就 跟～ 跟 他们 一起 跑 因为 可是 跑 了 我们 就会 去 吃 晚餐 所以
+NI08FBP_0101 1084598 1087078 CS 那个 还 okay lah 所以 就
+NI08FBP_0101 1087748 1091588 CS 好像 没有 什么  效用 的 感觉 but 因为 他们 都
+NI08FBP_0101 1091918 1094938 CS but 他们 都 参加 很多 marathon 而且 他们 有些 都
+NI08FBP_0101 1094938 1097858 ZH 啊 很像 嗯 在 那边
+NI08FBP_0101 1097858 1104488 CS 一个 叫 doctor ben-ong 啊 忘记 他 叫 什么 名字 啊 因为 他是 他 以前 是 嗯 olympic
+NI08FBP_0101 1104488 1106767 CS gold 所以 他是 olympic 诶
+NI08FBP_0101 1107198 1110088 ZH 他是 什么 啊 他 代表 新加坡 有 去
+NI08FBP_0101 1111288 1120708 CS sails 诶 那个 sail~ sailing ah 所以 他是 他 他 参加 okay ah 那些 marathon 就 那些 男生 参加 我们 就 没有 参加 就

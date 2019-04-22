@@ -1,0 +1,169 @@
+UI25FAZ_0101 19328 27293 CS 之前 我 做 final year project 是 啊 regarding vibrios bacteria 的 东西 咯
+UI25FAZ_0101 27701 39326 CS mmm vibrios so ah 在 那个 啊 research 的 时候 我 要 test 看 怎样 的 concentration of antibody
+UI25FAZ_0101 39326 46259 CS 会 怎样 affect 到 啊 the bacteria's viability
+UI25FAZ_0101 48944 50552 EN with
+UI25FAZ_0101 50552 57589 CS so 之前 这 样子 我 做 的 时候 我 prepare 不 同样 的 concentration
+UI25FAZ_0101 57589 69508 CS 然后 不同 的 antibody 我 我 用 到 两个 type of antibody ah to test lor so
+UI25FAZ_0101 69508 75995 CS so 因为 啊 这个 antibody 我 retrieve from ah rabbit
+UI25FAZ_0101 75995 80168 CS so 有 test 了 用 啊
+UI25FAZ_0101 80168 85022 CS 相 相同 的 experiment method protocol
+UI25FAZ_0101 85022 89163 CS to 看 怎样 哪 一个 protocol 会 比较 好
+UI25FAZ_0101 89163 91528 CS 给 比较 好 的 results lor
+UI25FAZ_0101 92439 95573 EN ah vibrio cholera ah
+UI25FAZ_0101 96304 97010 EN type
+UI25FAZ_0101 97736 99361 EN o. one three nine
+UI25FAZ_0101 106805 118541 CS 哦 啊 会 cause (erm) diarrhoea acute diarrhoea ah 然后 if 会 很 严重 的 时候 可以 be fatal
+UI25FAZ_0101 125982 133904 CS (嗯) 我的 result 我 得 到 的 给 一个 method 用indicator dye 会 比较 快 因为
+UI25FAZ_0101 134517 141025 CS using indicator dye 我们 要 我们 just observe 看 他的 color changes
+UI25FAZ_0101 141279 142040 EN so
+UI25FAZ_0101 142891 149463 CS 啊 得到 的 results 会 比较 比较 好 可是 因为 要 看 results valid
+UI25FAZ_0101 150807 156863 CS ah whether is it valid 我们 要 test 看 compare with another type of method
+UI25FAZ_0101 157378 162985 CS so 用 别个 methods 是 用 看 o. d. 然后 compared with growth curve
+UI25FAZ_0101 162985 170952 CS so 得 到 的 时候 觉得 最 比较 好的 呢 是 用 standard method
+UI25FAZ_0101 170952 174595 CS meaning plate 看 几多 咯 因为
+UI25FAZ_0101 174595 177985 CS 那个 比较 safe 因为 shows by number
+UI25FAZ_0101 177985 190509 CS because using indicator dye 跟 o. d. method 呢是 based on more of just compare results instead of 得到 accurate results 这 样子 咯
+UI25FAZ_0101 192530 201002 CS 一个 task ah (erm) 给indicator dye 跟 o. d. 的 呢 是 in a few hours 可以 得 到 了
+UI25FAZ_0101 201002 208519 CS 可是 if 要 做 plating 的 呢 要 等 啊 后天 因为 要 incubate 给 它 twenty four hours
+UI25FAZ_0101 220008 228762 CS ah if 要 看 要 if 不要 很 accurate 的 results 呢 just to test 看 啊 有 得到 啊
+UI25FAZ_0101 228762 231121 CS kill 的 viability
+UI25FAZ_0101 231121 240191 CS 啊 用 indicator dye 会 比较 快 咯 因为there and then once 你 放 那个 indicator dye 会 得到 results 了
+UI25FAZ_0101 245629 250914 CS (erm) the findings 因为 这个 是 在 一个 preliminary stage so if 要
+UI25FAZ_0101 250914 256593 CS ah publish papers 呢 要 做 比较 more 跟 in depth 的 research
+UI25FAZ_0101 256593 264560 CS so 给 final year ah 没有 咯 可是 even though 我的 dean 有讲 啦 比较 好 可以 publish la 可是
+UI25FAZ_0101 264560 269006 CS 我的 (嗯) supervisor 不 recommend 做 咯
+UI25FAZ_0101 269006 269817 ZH 这 样子
+UI25FAZ_0101 278625 286289 CS 啊 这个 research 是 啊 之前 有人 做过 了 可是 讲 这样 的 method 不是 很好
+UI25FAZ_0101 286289 294279 CS 啊 因为 不够 accurate so 有 啊 others methods 比较 好 啦
+UI25FAZ_0101 294279 303142 CS so anyway 我 做的 是 just (erm) compare to compare 哪 一个 method 比较 好 咯 比较 好 用
+UI25FAZ_0101 305777 307288 CS 因为 看 in
+UI25FAZ_0101 314486 322735 CS ah maybe because for researcher 他们 要 because 是 science so 他们 要 比较 accurate ah
+UI25FAZ_0101 322735 328501 CS so whether 可以 valid 不 valid lor 这 样子 吧 应该 是
+UI25FAZ_0101 333013 334980 CS 我 读 的 course ah (erm)
+UI25FAZ_0101 334980 336211 CS 我读 bio tech lor
+UI25FAZ_0101 336211 342750 CS so ah 读的 东西 有 不同 的 样 啊 不同 的 subject
+UI25FAZ_0101 342750 352842 CS so 我们 有 读到 啊 有about plants animals ah cells genetics 的 东西 全部 一点点 on the surface lor 可是
+UI25FAZ_0101 352842 359717 CS quite a wide scope lah so 我们 以后 要 choose 一个 course to major in 给 master 也 可以 咯
+UI25FAZ_0101 365995 367099 EN food bio tech
+UI25FAZ_0101 367772 373794 CS 因为 (嗯) 我的 兴趣 我的 interest 就是 在 food 了 so
+UI25FAZ_0101 373794 382801 CS 比较 easier to 要 读 要 understand 因为 之前 already 有 那个 knowledge about food 了 so 比较 容易
+UI25FAZ_0101 388895 394043 CS ah food tech 有 学 到 (erm) about calories lor
+UI25FAZ_0101 394043 401256 CS (嗯) 然后 怎样 要 theoretically 怎样 要 produce ah 面包
+UI25FAZ_0101 401256 410029 CS fermentation 给 啊 红酒 给 beer 做 cheese ah 跟 yogurt
+UI25FAZ_0101 410029 420674 CS 嗯 这 样子 咯 然后 在 lab 有 做 到 (呃) fermentation for mm for tempe
+UI25FAZ_0101 420674 426257 CS 跟 fermentation for ah yogurt
+UI25FAZ_0101 426257 427942 ZH mm 做 是 个 样子 咯
+UI25FAZ_0101 431626 435402 CS 啊 因为 是 在 lab la 很多 bacteria 应该 是 不能 吃
+UI25FAZ_0101 439046 440593 CS 因为 bac~ ah inside
+UI25FAZ_0101 440593 446308 CS 因为 lab 很多 contamination so 不够 safe 给 con~ consumption
+UI25FAZ_0101 449042 450535 ZH 在 家 没有
+UI25FAZ_0101 453978 457300 CS 因为 没有 那个 facility
+UI25FAZ_0101 458093 459860 ZH 那个 东西 一定 要 去 做
+UI25FAZ_0101 461726 462967 EN 
+UI25FAZ_0101 466435 470176 ZH 做么 怎样 做了 忘记 去 了 惨了
+UI25FAZ_0101 470628 471399 EN (erm)
+UI25FAZ_0101 472588 474265 ZH 没有 那个 因为
+UI25FAZ_0101 475791 480850 CS 我 不 喜欢 吃 yoghurt 的汁 so no point making yoghurt
+UI25FAZ_0101 486568 491465 CS 怎样 做 yogurt ah ah actually 很 simple
+UI25FAZ_0101 491465 499337 CS 呃 我们 需要 的 是 一个 starter for the fermentation to begin
+UI25FAZ_0101 499337 507455 CS so last time 他们 用 bacteria 那个 啊 可是 我们 现在 没有 嘛
+UI25FAZ_0101 507455 508410 ZH 我 问 怎样
+UI25FAZ_0101 508410 513942 CS so 可以 我们 的 starter product 是 可以 用 available commercial yogurt
+UI25FAZ_0101 514346 521086 CS 然后 你 参 下去 你的 牛奶 然后 等 它 给 他 ferment
+UI25FAZ_0101 521086 521960 ZH 这 样子 啦
+UI25FAZ_0101 526855 530082 ZH 应该 是 啊 嗯 应该 可以
+UI25FAZ_0101 541724 546916 CS 这个 不大 清楚 喔 你 要 有 信心 咯 that 你的 东西 可以 吃 咯
+UI25FAZ_0101 551214 552270 ZH 没有
+UI25FAZ_0101 555360 556070 EN 
+UI25FAZ_0101 570410 580209 CS 没有 因为 food tech 是 more on technical 的 东西 像 (嗯) 在 industry 你 用 什么 东西 咯
+UI25FAZ_0101 580209 581114 ZH 有像
+UI25FAZ_0101 581114 586641 CS food stabilizer food coloring additive 全部 里面 有 什么 东西
+UI25FAZ_0101 586641 589421 CS 然后 有 啊 你的 sugar
+UI25FAZ_0101 589421 596580 CS 怎样 的 sugar 不 不 同样 的 sugar 它的 calorie compound 有 什么 effect 这 样子 咯
+UI25FAZ_0101 602773 609373 CS sugar 有 不同 的 sugar 有 啊 bulk sugar 有 啊 我们 吃的 sugar lor
+UI25FAZ_0101 609373 614342 CS bulk sugar 是 啊 那个 less calorie content
+UI25FAZ_0101 614342 622720 CS meaning 我们的 (嗯) the calorie content would be one so 可以 用 给 patient 像 diabetic 的
+UI25FAZ_0101 622720 634320 CS mmm then example 像有 那个 xylitol meditol 那个 是 啊 have the same sweetness as sugar but then lower calorie content
+UI25FAZ_0101 634320 640439 CS so (erm) it's a sugar substitute lor 这 样子 咯
+UI25FAZ_0101 645392 650240 CS 冰糖 啊 应该 是 冰糖 it's the rock sugar is it
+UI25FAZ_0101 650240 663859 CS ah that one 应该 是 the normal sugar lor which ah we use because ah it's not being processed like how the sweetener are
+UI25FAZ_0101 667963 668598 EN mm
+UI25FAZ_0101 673793 674434 EN 
+UI25FAZ_0101 674434 680033 CS 这个 我 不大 清楚 做么 要用 啊 rock sugar maybe
+UI25FAZ_0101 682772 687032 CS sugar 是 全部 是 process from sugar cane so
+UI25FAZ_0101 688802 691905 EN different solute solubility
+UI25FAZ_0101 692120 693217 ZH 应该 是 吧
+UI25FAZ_0101 693217 696274 EN to give different texture
+UI25FAZ_0101 696274 697647 ZH 这 样子 咯
+UI25FAZ_0101 701379 703031 CS 什么 是 calorie
+UI25FAZ_0101 703031 704063 EN (erm)
+UI25FAZ_0101 704063 714557 CS calorie 是 the energy given when you for the food consumption and the energy you produced
+UI25FAZ_0101 721855 736141 CS 啊 怎样 啊 different 像 carbohydrate 跟 protein each gram of that thing would produce four calories lor
+UI25FAZ_0101 736981 740637 EN but for fats it would be nine calories lor
+UI25FAZ_0101 740637 745497 CS so 要 怎样 吃了 比较 健康 是 cut down on fats lor
+UI25FAZ_0101 746242 747210 EN mm
+UI25FAZ_0101 749448 757028 CS carbohydrates 我们 需要 carbohydrate to produce energy so 可以 find alternative
+UI25FAZ_0101 757028 760664 CS 不是 讲 全部 东西 我们 吃的 diet 要 有 balance
+UI25FAZ_0101 760664 770395 CS so 也要 carbohydrate if 我们 不够 carbohydrate 我们 不能 去 exercise to burn cause we need calories to burn up
+UI25FAZ_0101 770395 773477 EN we need energy to burn up the calories
+UI25FAZ_0101 783088 785212 CS 我 suggestion ah
+UI25FAZ_0101 785212 789041 CS 啊 应该 是 吃 全部 东西 要 balance
+UI25FAZ_0101 789041 794906 CS (erm) if 可以 是 cut down on sweet stuff lor
+UI25FAZ_0101 794906 801593 CS 嗯 喝 比较 多 水 ah so to keep ah the body hydrated
+UI25FAZ_0101 801593 806641 CS 然后 (嗯) exercise mmm
+UI25FAZ_0101 806641 810747 ZH 这 样子 嘛 可以 比较 健康 咯
+UI25FAZ_0101 816875 822881 CS 啊 有去 啊 krabi island mmm
+UI25FAZ_0101 824793 832120 ZH 那边 啊 啊 啊 到 到 去 那边 的 时候 吃 很多 他们 的 东西 咯 很 好吃 咯
+UI25FAZ_0101 832487 838869 CS 啊 加饭 咯 变 肥 去 了咯 然后 有 去 啊 island hopping
+UI25FAZ_0101 838869 843969 CS mmm 得到 看 然后 做 (嗯) snorkeling
+UI25FAZ_0101 843969 849819 CS 嗯 看鱼 看有 那个 sea cucumber mmm 这 样子 咯
+UI25FAZ_0101 851218 851991 EN oh
+UI25FAZ_0101 858126 859676 CS 特别 island ah 他的
+UI25FAZ_0101 859676 866134 CS water 很 crystal clear lor 然后 啊 鱼 很多 咯
+UI25FAZ_0101 866134 869743 CS 因为 它们 很 习惯 给 人家 啊 feed
+UI25FAZ_0101 869743 873183 CS so 它们 来 很 靠近 你 咯
+UI25FAZ_0101 875465 881459 CS redang 有 一次 咯 很 我 很 小 的 时候 咯 以前 很久 了 没有 去 了
+UI25FAZ_0101 885352 888320 CS 因为 没有 钱 了 redang 很 贵 然后
+UI25FAZ_0101 888320 892296 CS ah thailand 还 没有 去过 嘛 那边 so mah 去 看 看 咯
+UI25FAZ_0101 892296 897375 CS 然后 when 我们 去 到 那边 的 时候 我们 也有 去 hatyai hatyai
+UI25FAZ_0101 897375 907905 CS 然后 在 hatyai 的 时候 (嗯) so happen it was on the weekend so 得到 try 那个 insects 跟 worms ah mmm 在 那边 的 时候
+UI25FAZ_0101 910276 919445 CS 啊 那个 他们 是 讲 那个 silk worm 比较 肥 的 咯 嗯 有 两种 的 worm kok
+UI25FAZ_0101 919445 923943 CS 我 不大 清楚 是 什么 worm 然后 有 grass hopper 跟 scorpion lor
+UI25FAZ_0101 923943 926280 CS 这个 five types lor
+UI25FAZ_0101 929998 938036 CS among 这个 五种 呢 我 最 喜欢 的 是 那个 很 小 个 的 啊 worm lor 真的 很 好吃 的
+UI25FAZ_0101 940529 943550 ZH 啊 不 想 像 ikan bilis 很像
+UI25FAZ_0101 944090 946914 ZH 薯条 啊 煎的 薯条 咯
+UI25FAZ_0101 957102 965133 CS 没有 喔 是 just purchase 然后 他 因为 他 煎 了 跟 那个 curry leaf
+UI25FAZ_0101 965133 971561 CS so 给 它 比较 香 然后 他 要 给 你 的 时候 他 喷 一点 那个 chilli sauce ah
+UI25FAZ_0101 971561 973715 CS 他们 做 的 自己 的 chilli sauce lor
+UI25FAZ_0101 976350 981641 ZH 啊 我 和 我 的 啊 跟 我的 爸爸 然后 跟 他的 朋友 一班 咯
+UI25FAZ_0101 985744 991278 ZH huh (erm) 全部 没有 事 我 跟 我 爸爸 也是 两个 咯
+UI25FAZ_0101 997774 998656 ZH 啊 可以
+UI25FAZ_0101 1003605 1011324 CS 我 去 到 那边 是 没有 really 吃到 seafood okay lah 有 (嗯) a few places 比较 便宜
+UI25FAZ_0101 1011324 1019727 CS 有 a few places 比较 贵 咯 可是 我 最 喜欢 among 这个 全部 的 restaurant 是 他们 的 design
+UI25FAZ_0101 1019727 1029922 CS 他们 really ah spent a lot on designing to 给 一个 很 nice 的 ambience atmosphere 这 样子 咯
+UI25FAZ_0101 1038931 1043131 CS 怎样 去 啊 first 我们 啊 坐 bus 过去 咯
+UI25FAZ_0101 1043131 1048785 CS ah rent 一个 bus lor 因为 全部 是 啊 friends so
+UI25FAZ_0101 1048785 1054363 CS ah from penang so ah rent 一个 bus 了 然后 叫 啊
+UI25FAZ_0101 1054363 1061617 CS 跟 那个 driver 那个 driver 他 也 带 他的 老婆 跟 他的 mother in law 去 so the whole family goes lor
+UI25FAZ_0101 1063932 1065820 EN ah
+UI25FAZ_0101 1065820 1069570 CS 一个 人 at first 是 六百块
+UI25FAZ_0101 1069570 1078461 CS 然后 dinner lunch 是 exclude so when 加 起来 给 那个 six days 是 一千 咯 这 样子
+UI25FAZ_0101 1081371 1082643 EN mm 
+UI25FAZ_0101 1088132 1089568 CS six days 六天
+UI25FAZ_0101 1102735 1106739 CS 我 很久 没有 去 新加玻 the last 我 去 新加玻 一次
+UI25FAZ_0101 1107894 1112115 CS 应该 是 咯 我在 standard five
+UI25FAZ_0101 1112115 1113994 CS so 很久 了 
+UI25FAZ_0101 1123809 1129255 CS 那里 啊 很久 没有 去过 哪里 啊 没有 去 holiday 了
+UI25FAZ_0101 1129255 1135474 CS 所以 应该 是 没有 呱 if 在 malaysia 去过 tasik kenyir
+UI25FAZ_0101 1135474 1138497 CS 也是 在 primary school
+UI25FAZ_0101 1138497 1143472 CS mmm cameron highlands 这 样子 咯 没有 了 咯
+UI25FAZ_0101 1148550 1155613 CS 在 家 做 什么 啊 煮 东西 吃 咯 try out 新的 recipe lor
+UI25FAZ_0101 1158612 1161281 CS 可以 share ah ah
+UI25FAZ_0101 1161281 1166856 CS for the first time 不久 我煮 pumpkin soup lor from scratch
+UI25FAZ_0101 1171212 1176499 EN normal type of pumpkin lor avalable in the not too big one la the small ones
+UI25FAZ_0101 1176499 1177909 EN available in
+UI25FAZ_0101 1178986 1180285 ZH 应该 是 他们 叫
+UI25FAZ_0101 1181743 1183134 ZH 黄瓜
+UI25FAZ_0101 1186098 1187601 ZH 怎样 煮 啊
+UI25FAZ_0101 1187601 1195337 CS 很 容易 罢了 first eh put a bit of oil put in garlic onion

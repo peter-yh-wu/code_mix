@@ -1,0 +1,634 @@
+19NC37MBP_0101 1696 3971 EN testing testing one two three
+19NC37MBP_0101 5776 7983 EN testing testing one two three
+19NC37MBP_0101 11892 13258 EN testing testing one two three
+19NC37MBP_0101 15708 18366 EN testing testing one two three
+19NC37MBP_0101 33320 34804 CS okay 可以
+19NC37MBP_0101 35749 37504 CS okay 好了
+19NC37MBP_0101 43532 44207 ZH 可以 可以
+19NC37MBP_0101 45009 45909 ZH 好了 谢谢
+19NC37MBP_0101 56846 59416 ZH 嗯 好的
+19NC37MBP_0101 62884 63985 EN okay
+19NC37MBP_0101 72174 74951 ZH 唉 就 算了 啦
+19NC37MBP_0101 77985 81137 CS 是 吗 我 觉得 不是 很 easy 哎
+19NC37MBP_0101 81137 85087 CS 哎 那样 简单 的 东西 哪里 不 easy
+19NC37MBP_0101 85087 85752 ZH (呃)
+19NC37MBP_0101 88008 90351 ZH 我 不 喜欢 做 东西 我 不要 用 手
+19NC37MBP_0101 91796 92408 ZH 哦
+19NC37MBP_0101 94697 95391 ZH 还是
+19NC37MBP_0101 95391 96656 ZH 所以 你 学* 什么*
+19NC37MBP_0101 96656 97023 ZH 啊
+19NC37MBP_0101 98614 99144 ZH 嗯
+19NC37MBP_0101 100401 103601 ZH 还 喜欢 兜圈子
+19NC37MBP_0101 103601 104600 EN ah
+19NC37MBP_0101 104600 107100 CS 我的 instructor 很 慢 的 他们
+19NC37MBP_0101 108644 109501 EN private private
+19NC37MBP_0101 111011 111827 CS 我 还 lesson
+19NC37MBP_0101 112200 114300 CS 我 还 一直 lesson five ah but
+19NC37MBP_0101 114510 118010 CS 因为 之前 lesson one and two 是 like 半年 前
+19NC37MBP_0101 119124 120310 EN holy crap
+19NC37MBP_0101 120310 122610 CS 所以 我 就 你 你 拿 license 了 啊
+19NC37MBP_0101 124386 126748 ZH 哇 几时 考 你 是 什么 时候 考 的
+19NC37MBP_0101 130787 131522 ZH 哇 这样 快
+19NC37MBP_0101 133175 134358 CS 你 是 manual 啊
+19NC37MBP_0101 134358 136091 CS 我 啊 manual 啊 你
+19NC37MBP_0101 136091 137111 ZH 怎样
+19NC37MBP_0101 137111 139448 ZH 哇 我 学 很久 了 呢
+19NC37MBP_0101 139611 140590 ZH 啊 多久
+19NC37MBP_0101 141120 145485 ZH 我 当兵 第一 年 就 开始 学 了
+19NC37MBP_0101 145485 146995 CS 那 为什么 才 六 个 lessons
+19NC37MBP_0101 147158 152821 CS 没有 我 就 学 like 一 两个 我 去 考 v.p.p.* 和 f.p.p.* 了 then 我 就 学 一 两个
+19NC37MBP_0101 153188 155472 CS then 我 就 没有 空
+19NC37MBP_0101 155799 160898 CS then 我 就 到 当兵 第二 年 不要 有空 去学
+19NC37MBP_0101 161143 163006 CS then 又 没有 空 而且
+19NC37MBP_0101 163822 166400 CS 我 hate air condition 很差
+19NC37MBP_0101 166400 168600 CS 所以 我 就 take a longer time 啊
+19NC37MBP_0101 169023 171552 CS then 最近 年头 又学
+19NC37MBP_0101 171879 174408 CS then 又 做工 又 没有 时间 又 没有 钱
+19NC37MBP_0101 176095 177318 ZH 你 做工 为什么 没有 钱
+19NC37MBP_0101 177849 181806 CS 我 还有 学 别的 东西 then 我 还 希望 那个 钱 做 别的 东西
+19NC37MBP_0101 182418 184131 CS then 就 嗯
+19NC37MBP_0101 184865 187232 CS 比较 慢 了 then 就 现在 哦
+19NC37MBP_0101 188115 203005 CS then 就 我 妈妈 一直 在 家里 骂我 所以 没有 办法 我 只好 have to start learning fast already 要不然 就 她 一直 在 那边 骂 她 讲 哇 人家 都 拿 licence 拿 多久 了 你 还 一直 在 那边 学
+19NC37MBP_0101 204245 205265 EN yeah
+19NC37MBP_0101 205265 207345 ZH 笨 死 你 做 什么 工
+19NC37MBP_0101 207794 213179 CS 啊 我 在 iras 做工 inter unk house c.o.g.*
+19NC37MBP_0101 216528 217540 ZH 啊 嗯
+19NC37MBP_0101 217540 221500 CS 也不 是 通常 就是 part time job 噢 听 电话 咯
+19NC37MBP_0101 221500 222520 ZH 然后 这样 咯
+19NC37MBP_0101 222520 226500 CS 带 着 一个 mike 然后 再 跟 那些 auntie 讲话
+19NC37MBP_0101 227116 228544 EN costumer service
+19NC37MBP_0101 228544 229401 ZH (呃)
+19NC37MBP_0101 230421 236989 CS not really costumer service lah but call center lah then call and ask about their taxes or 问 你们 要 花 多少 钱 之类 的 东西
+19NC37MBP_0101 239570 241039 ZH 哦 是么 
+19NC37MBP_0101 241610 249100 CS 没有 啦 就是 好像 说 那些 aunty 会 打电话 问你 为什么 她 会 还 这样 多 为什么 她 要 还 多少
+19NC37MBP_0101 249100 255790 CS then 有些 是 打 来 纯粹 是 骂 government 的 咯 就 打 来 就 那边 oh oh why you all so (er) collect so much taxes
+19NC37MBP_0101 256267 257450 EN then stop by that ah
+19NC37MBP_0101 261000 263651 EN then ah seven plus an hour
+19NC37MBP_0101 264100 266700 CS 其实 not good pay ah but 很多 朋友 在 那边 做
+19NC37MBP_0101 267209 270429 CS 为什么 可以 like 朋友 一起 做
+19NC37MBP_0101 271367 275039 ZH 很多 人 那边 要 三十多个 人 到 四十多个
+19NC37MBP_0101 276303 278046 EN in the call center ah
+19NC37MBP_0101 278658 283388 CS then 全部 都是 我们 age 的 like 你们 这种 a-level 刚刚 出来 的 啊
+19NC37MBP_0101 283524 289358 CS  要不然 就是 (er) 刚刚 做完 兵 哦 全部 都在 等 uni~ 啊
+19NC37MBP_0101 291987 293415 CS wai-min* (er) 你认识 wai-min* 么
+19NC37MBP_0101 294300 298300 CS 他 也是 在 那边 做 but 他 跟 我们 不一样 department ah but 我也 是 看过 他
+19NC37MBP_0101 301514 303800 ZH 啊 有 看过 他 吧
+19NC37MBP_0101 303800 307490 CS 因为 他的 朋友 在 我的 department then 他 会 过来 然后 一起 上 厕所
+19NC37MBP_0101 310374 312210 ZH 我们 懒虫 而已
+19NC37MBP_0101 314209 316561 CS (er) then 你 有没有 做工 没有 啊
+19NC37MBP_0101 317744 318356 ZH 有啊
+19NC37MBP_0101 318356 319009 ZH 你做过
+19NC37MBP_0101 331520 333682 CS 什么 document survey form ah
+19NC37MBP_0101 339232 340621 EN 
+19NC37MBP_0101 342400 347710 CS 然后 他们 会 给 你 准备 like 哦 有 one piece of document 是 用 写 的
+19NC37MBP_0101 348353 349658 CS then 要你 把它 换成
+19NC37MBP_0101 368210 369556 ZH 跑掉 啊 啊
+19NC37MBP_0101 381550 387590 CS 那 scanner 是 哪 一种 那 我们 这种 家里 的 放 一张 放 一张 还是 那种  go through 的
+19NC37MBP_0101 388401 390441 CS 哇 不是 很 tedious
+19NC37MBP_0101 391100 394300 CS as in 如果 有 double feeding 的话
+19NC37MBP_0101 402718 404554 CS en but 很 boring
+19NC37MBP_0101 407039 409079 ZH 多久 诶 多少 钱
+19NC37MBP_0101 411613 412755 EN 
+19NC37MBP_0101 414060 415307 ZH 做 死 啊 
+19NC37MBP_0101 424852 436690 CS 他们 的 effiency 很满 呐 我 跟你 讲 我 三月 啊 我 还没有 找 之前 我 是在 一个 video game shop 做工 卖 video game 然后 我 就 觉得 他们 啊 因为 每天 自己 一个人
+19NC37MBP_0101 436690 440690 CS then 做 sales 我 很 sian 我 就 去 recruit express 找 工作
+19NC37MBP_0101 440690 444600 ZH  然后 那时候 应该是 二月 刚刚 过新年 我 就去 找
+19NC37MBP_0101 444600 449800 CS then after that 我 就 我 朋友 打电话 叫 我 去 iras 我 就 去 iras try 我 就 拿 iras 工作 了
+19NC37MBP_0101 449906 458900 CS then 我去 iras 做工 then (er) about 我 iras 要 quit 了 已经 六月半 六月多 了
+19NC37MBP_0101 458900 461600 CS 他们 recruit express 才 打 给 我 跟 我 讲 找到 工作
+19NC37MBP_0101 462525 463463 ZH 神经病 哦
+19NC37MBP_0101 466758 477651 ZH 他们 很慢 要不是 没有 打 就是 几个月后 还打 然后 还 一直 跟我 讲 写明了 你就是 要 找工作 这样 而 那是 三个月前 的 事
+19NC37MBP_0101 478121 481058 CS then 他们 like try to push me to do the job
+19NC37MBP_0101 486033 486890 ZH (呃)
+19NC37MBP_0101 488032 493254 CS 因为 i think 其他人 都 不要 了 都要 开学了 还有 谁 要 做工
+19NC37MBP_0101 499920 502449 CS but 要还 他们 很多钱 哎 我觉得 划不来
+19NC37MBP_0101 506692 510404 EN  ah 
+19NC37MBP_0101 511342 526436 CS then 我也不喜欢 去那种 做工 then 自己 一个人 那种 like 也 不认识 人 then 每个人 要不然 就是 比你 大 then 你也是 去那边 like 都没人 陪你 聊天 之类的 东西
+19NC37MBP_0101 532332 532985 EN 
+19NC37MBP_0101 535272 536536 ZH 哦
+19NC37MBP_0101 547079 552810 ZH 那个 时候 我 也是 一整天 在 电话里 给 人家 骂 骂 骂 骂 因为 他们
+19NC37MBP_0101 552810 559400 CS the thing is 他们 骂 你 not personal 的 他们是 骂 government 骂 tax agency 之类 的 东西 then
+19NC37MBP_0101 559400 564682 CS 我们 就在 那边 我们 也是 做到 很 sien 我 每天 很早 起来 要 去到 novena 从 tampines
+19NC37MBP_0101 565620 573698 CS then 我的 朋友 我 就跟 他们 讲 哎呀 我要 quit 我要 quit 我要 quit 每个 礼拜 他们 都 跟我 讲 不要 quit 不要 quit 不要 quit then 就 一个 礼拜 拖 一个 礼拜 一个 礼拜 拖 一个 礼拜
+19NC37MBP_0101 574044 577022 ZH 就 到了 六月多 了
+19NC37MBP_0101 578713 579529 ZH 嗯
+19NC37MBP_0101 585118 585852 ZH 啊
+19NC37MBP_0101 591074 591686 ZH 哎呀
+19NC37MBP_0101 593265 597400 CS 要 respone 的 啦 要他 打给 你 做么
+19NC37MBP_0101 597400 602600 CS then 他们的 他们 骂 的 东西 很 ridiculous 的 他们 有 一次 有一个 人 打 来 then 他 就 讲
+19NC37MBP_0101 603157 611602 EN i would like to know why your auto data system take so long for us to reach you i gonna launch a complain
+19NC37MBP_0101 613232 616006 CS then 很多 啦 有 那种 打电话 来 骂 粗话 的 then
+19NC37MBP_0101 617026 620085 CS 乱骂 ah-moh 打来 就 (er) 哇
+19NC37MBP_0101 620600 624400 CS why is this that way then 他 就 what 一连串 的 粗话 all the way
+19NC37MBP_0101 627540 631600 CS then 很多 很多 奇奇怪怪 的人 有 一个 打来 跟我 讲
+19NC37MBP_0101 631600 638100 CS i'm very scared 因为 我 还 没有 还 all the taxes then 明天 要 还 了 怎么办 怎么办 警察 会不会 抓 我
+19NC37MBP_0101 640265 642753 ZH 他们 有些 真的 是 神经病 啊
+19NC37MBP_0101 648491 650735 ZH 他们 会 寄信 给 他们
+19NC37MBP_0101 651810 656300 CS singapore government 没有 管 你 神经病 还是 不 神经病 的 有 作 工 就是 要 还钱
+19NC37MBP_0101 658421 658911 ZH 唉
+19NC37MBP_0101 662664 664418 CS 没有 啦 part-time 哪里 好
+19NC37MBP_0101 665400 669900 CS 你 要 每 每年 work year 超过 thirteen thousand 的
+19NC37MBP_0101 672043 675918 CS thirteen to sixteen thousand above that 还是 需要 还
+19NC37MBP_0101 679100 682241 ZH 这种 事情 没有 坐在 哪里 谁 要去 管 呐
+19NC37MBP_0101 687200 690700 CS by the way 你 毕业 出来 打算 作 什么 工
+19NC37MBP_0101 693607 697646 CS 你问问 你bio~ 有没有 malaysia* 学 bio~
+19NC37MBP_0101 702333 702823 ZH 嗯
+19NC37MBP_0101 709676 710166 ZH 啊
+19NC37MBP_0101 720334 722333 CS f.a.s.s. 还 可以 try 啦
+19NC37MBP_0101 735875 737792 EN 
+19NC37MBP_0101 739549 740283 EN 
+19NC37MBP_0101 741711 743995 CS 想 想读 bio
+19NC37MBP_0101 745545 748442 CS  but 出来 做 什么 没有 想到
+19NC37MBP_0101 753278 753971 ZH 医生
+19NC37MBP_0101 758948 760417 ZH 每个人 要做 医生
+19NC37MBP_0101 762334 764945 CS at least 我 认识 的 很多 人 啊
+19NC37MBP_0101 765945 770595 ZH 我 中学 的 我 中学班 有 四个 医生 呢
+19NC37MBP_0101 771982 773043 CS 四个 medicine
+19NC37MBP_0101 773736 774430 ZH 嗯
+19NC37MBP_0101 776633 778020 EN victoria
+19NC37MBP_0101 780391 781002 ZH 没有 啊
+19NC37MBP_0101 782471 784756 CS 没有 m.j. 哪里 是 中学 m.j. 是 j.c. 啊
+19NC37MBP_0101 787489 789080 CS 没有 啦 m.j.
+19NC37MBP_0101 790426 792099 CS m.j. 我是 读 arts 的
+19NC37MBP_0101 793100 795400 CS then 我的 班 全部 是 arts students 来 的
+19NC37MBP_0101 798315 800233 CS 哦 我们 有 分 啊 arts 和 science right
+19NC37MBP_0101 802273 803007 ZH 就是
+19NC37MBP_0101 804068 805618 ZH 没有 啦 嗯
+19NC37MBP_0101 806230 807698 ZH 啊 你们<unk>
+19NC37MBP_0101 812709 815565 CS 不需要 所以 就是 arts 是 arts science 是 science 啦
+19NC37MBP_0101 816300 821500 CS then 我的 班 就是 全部 都是 take arts 的 as in other than maths ah maths 不要 算 ah but maths sucks ah
+19NC37MBP_0101 822422 824461 CS math 啊 我 觉得 math 很难 哦
+19NC37MBP_0101 825300 832820 CS 你 现在 叫 我 算 东西 as in anything that do with logarithm ah al~ algebra 之类 的 我 做 了 我 会 头痛
+19NC37MBP_0101 835234 836131 EN  who
+19NC37MBP_0101 837314 838905 EN ah <unk> wah
+19NC37MBP_0101 843099 845506 CS 我 背 formula 就好
+19NC37MBP_0101 845855 857890 CS 我 statistics 我 不懂 哎 我 没有 去 上课 我 每天 lecture 都 skip 每天 tutorial 也是 去 那边 睡觉 then end of the day 我 才 发现 原来 stat~ 是 背 formula 带 那些 value 进去 就好了
+19NC37MBP_0101 860803 861456 ZH 没有 啊
+19NC37MBP_0101 863000 868600 CS 本来 啊 比较 想 去 a. d. m. loh but market saturated 了
+19NC37MBP_0101 870004 871146 CS then 成绩 也不好
+19NC37MBP_0101 872370 873186 EN ah
+19NC37MBP_0101 874900 876123 ZH 作广告 哦
+19NC37MBP_0101 877167 879533 ZH 还是 做 老师 啊 做 老师
+19NC37MBP_0101 883511 886652 CS but 出来 很 危险 哎
+19NC37MBP_0101 887876 889793 CS 出来 like 我 怕 没有 工作
+19NC37MBP_0101 893791 898902 CS but 如果 去 f.a.s.s. 那里 是 这样 f.a.s.s. 都是 读 那种 econ~ 之类 的 东西
+19NC37MBP_0101 906001 907306 EN japanese studies ah
+19NC37MBP_0101 910080 910896 EN 
+19NC37MBP_0101 917708 919870 CS 你 和 m.j. 是 同班 同学 啊
+19NC37MBP_0101 929105 930859 ZH 哎呦 还 真 不信 啊
+19NC37MBP_0101 934735 939304 CS 哦 所以 like just random friend then 你们 是 一个班 的 对吗
+19NC37MBP_0101 940405 941466 CS 他 没有 c.c.a.
+19NC37MBP_0101 943293 946639 CS oh service learning club ah 哎呦
+19NC37MBP_0101 953784 954967 ZH 没 没有么
+19NC37MBP_0101 956925 958231 CS t.j. 有 我 懂
+19NC37MBP_0101 959210 961005 CS but 在 里面 人 都 怪怪 的
+19NC37MBP_0101 963655 968428 CS 没有 history 比较常 这种 事 看学生 要不要 去 initiate 他们
+19NC37MBP_0101 974400 978600 CS 很 奇怪 每次 我 graduate 过后 啊 学校 就有 很多 古里古怪 的 c. c. a.
+19NC37MBP_0101 978800 982600 CS 我的 中学 我 graduate 过后 他们 有 cable skiing wakeboarding
+19NC37MBP_0101 982762 988804 CS c.c.a.for 中学 啦 也是 很~很 special 了 but after that 还有 什么 kenjutsu
+19NC37MBP_0101 991100 993400 CS you know japanese 他们 有 那个 wooden sword 的
+19NC37MBP_0101 995728 997115 EN ah yah can do ah
+19NC37MBP_0101 1000005 1004982 EN yeah yeah yeah it is japanese way of fancing* lah whatever you call that lah
+19NC37MBP_0101 1007458 1008804 EN i think its japan~
+19NC37MBP_0101 1010150 1016480 CS 我 也 不懂 我 不大懂 我 只懂 then 他们 有 很多 很酷 的 c.c.a. 啦 then
+19NC37MBP_0101 1016480 1021710 CS 以前 我在 的 时候 都是 那 几个 standard 的 cultural group ah 还有 一些 club and society
+19NC37MBP_0101 1023341 1024565 ZH 我 是 华乐
+19NC37MBP_0101 1026034 1027135 EN chinese orchestra
+19NC37MBP_0101 1028237 1030703 ZH 我 没有 吹 东西 我是
+19NC37MBP_0101 1033029 1034130 EN yes yes
+19NC37MBP_0101 1036333 1040446 CS yeah boy school bobian but 我在 m.j. 我 是 photography club 的 啊
+19NC37MBP_0101 1042091 1045313 CS 哎呦 我 是 s. co slack不懂 哪里 去
+19NC37MBP_0101 1048780 1052000 CS 有 每次 有 school event 我们 都要 到处 跑
+19NC37MBP_0101 1053461 1055256 EN 
+19NC37MBP_0101 1056900 1061080 CS 没有 school event 我 通常 不 去 的 除非 我 有 duty
+19NC37MBP_0101 1062600 1066810 CS 啊 我 有 duty 拍照 还 会 去 他们 新年 我 他们 email 我 放 我 duty 啊
+19NC37MBP_0101 1067179 1071177 CS 我就 没有 那些 想 你 不觉得 m.j. 很 sien 吗
+19NC37MBP_0101 1074507 1083042 CS 我 觉得 m.j.很 无聊 啊 每次 上学 我 都 嗯 不大 想 去 我 也 不大 喜欢 我的 同班 同学
+19NC37MBP_0101 1086046 1087392 ZH 那边 是去 读书
+19NC37MBP_0101 1088045 1088779 EN temasek
+19NC37MBP_0101 1095306 1097958 ZH 去 那边 的 人 是 纯粹 要去 读书 的 
+19NC37MBP_0101 1102288 1103145 ZH 哪里 有
+19NC37MBP_0101 1103879 1104532 ZH 是吗
+19NC37MBP_0101 1107130 1107864 EN v.j.*
+19NC37MBP_0101 1108558 1119205 CS 我 很多 朋友 没有 啦 因为 很多 人 都是 觉得 维多利亚 victoria 的人 直接 去 v.j. 就会 很 好玩 这样 他们 不是 that is not the case ei
+19NC37MBP_0101 1121108 1122046 ZH 啊 那些
+19NC37MBP_0101 1122870 1126220 CS 那边 is populated by 那些 dunman-high 的 人
+19NC37MBP_0101 1126700 1134000 CS then 他们 很 their idea of fun is different from our idea of fun then 去 那边 我们的 人 觉得 很 boring
+19NC37MBP_0101 1138242 1139221 EN chinese one loh
+19NC37MBP_0101 1141179 1145422 CS 那些 不一样 啦 我们 跟 他们 idea 不一样 咯
+19NC37MBP_0101 1145900 1150400 CS then 很多 东西 我们 做 他们 觉得 我们 很 stupid then 他们 做东 西 我们 觉得 很 stupid 这样
+19NC37MBP_0101 1150490 1152790 CS that's why meridian 还 比较 好 因为 meridian
+19NC37MBP_0101 1153447 1156017 CS 很多 也是 很多 victoria 去的 人
+19NC37MBP_0101 1156629 1158873 CS 因为 去不了 v.j. 的 就会 去 m.j.
+19NC37MBP_0101 1162729 1164524 CS t.j. 很 cheena 诶
+19NC37MBP_0101 1167951 1177823 CS 比较 english in a way t.j. 很 cheena at least that it is the stereotype thinking lah 我们 是 这样 想
+19NC37MBP_0101 1180256 1182050 CS then 为什么 你 没有 去 t.j.
+19NC37MBP_0101 1190911 1193033 ZH 哎 等一下 电话 响
+19NC37MBP_0101 1199349 1200042 EN hello
+19NC37MBP_0101 1201506 1201995 ZH 你好 你好
+19NC37MBP_0101 1249613 1252938 CS 我 都 没有 看 我都 没有 save 他 number
+19NC37MBP_0101 1254519 1257653 ZH (呃) 他 以为 我的 是 明天
+19NC37MBP_0101 1258765 1260987 ZH 他 问我 他 应该 是 问我 要不要 换 吧
+19NC37MBP_0101 1263209 1265633 CS 不是 换他 啦 应该 是 跟 sieria 换
+19NC37MBP_0101 1266730 1268490 CS 听说 sieria 要换 我 哪里 懂
+19NC37MBP_0101 1270395 1272992 CS 等下 回去 要跟 heslie 讲 我 明天 没有 空
+19NC37MBP_0101 1273367 1274752 ZH 忘记 跟她 讲
+19NC37MBP_0101 1275560 1276542 ZH 明天 跟 后天
+19NC37MBP_0101 1277840 1280351 ZH 哇 很多 东西 要做 诶 头 很 痛
+19NC37MBP_0101 1283203 1286666 CS 你~ 你 的 都是 玩 sports 而已 不用 恼
+19NC37MBP_0101 1289939 1291902 ZH 为什么 你 参加 这样 多 东西
+19NC37MBP_0101 1298501 1300492 EN 
+19NC37MBP_0101 1308724 1312822 CS 谁~ 谁~ 谁 叫 你 给 他 骗 呐 他 也 叫 我 做 i.h. 我 都 不要 做
+19NC37MBP_0101 1315231 1318088 ZH (呃) 反正 呢 我 觉得 浪费 时间 嘞
+19NC37MBP_0101 1324065 1325941 CS 其实 我 也 想 abandon q.b.
+19NC37MBP_0101 1328317 1329558 ZH 哎呀 没有 啦
+19NC37MBP_0101 1330164 1333627 CS 先 把 这个 做完 啦 q.b. 反正 二月 三月 就 完了 对 吗
+19NC37MBP_0101 1335070 1335647 EN 
+19NC37MBP_0101 1346430 1348767 CS  你 几个 module 五个
+19NC37MBP_0101 1349287 1350174 CS 四个 module
+19NC37MBP_0101 1351689 1352281 EN then
+19NC37MBP_0101 1352944 1353983 ZH 哦
+19NC37MBP_0101 1354608 1356138 CS then 只有 两个 有 middle term
+19NC37MBP_0101 1357119 1367377 CS 我~ 我 又 不懂 我的 module 会出来 怎样 啦 应该 也是 跟 以前 之前 一样 啦 两个 e-learn~ as 两个 没有 考试 的
+19NC37MBP_0101 1367377 1376109 CS then 三个 有 考试 的 很 sian nei 我 的 module 三个 都是 华文的 core~ 三个 core 都是 华文
+19NC37MBP_0101 1377558 1378785 ZH 是 啊 但是
+19NC37MBP_0101 1379751 1381241 CS 很 boring 诶
+19NC37MBP_0101 1381847 1382367 EN okay lah
+19NC37MBP_0101 1384200 1387300 CS 我 没有 选 that's the point 我~ 我 没有 选
+19NC37MBP_0101 1388118 1392528 CS 没有 okay 我 进去 那个 interview then 我 就 放 我要 教~ 教 history
+19NC37MBP_0101 1393827 1394346 ZH (呃)
+19NC37MBP_0101 1395154 1396512 EN geography history
+19NC37MBP_0101 1396960 1401317 CS then 他 就 跟我 讲 一大堆 废话 过后 他 问我 are you all right with chinese 我 就 哦 随便 咯
+19NC37MBP_0101 1402722 1405694 CS then end up 我 就 在 华文 班 了 
+19NC37MBP_0101 1409400 1412600 CS (er) as in i am studying chinese ah then 就会 教 chinese loh
+19NC37MBP_0101 1413888 1416154 EN yeah only chinese mother tongue mah yeah
+19NC37MBP_0101 1419171 1420138 ZH 没有 
+19NC37MBP_0101 1421177 1422172 ZH 很烂 lah
+19NC37MBP_0101 1422580 1425700 CS but 他们 讲 the truth is 他们 很 desperate for chinese teachers
+19NC37MBP_0101 1433839 1437677 ZH 没有 人 要 教 华文 老实 讲 你 要去 教 华文 咩 如果 给你 这样 一个 机会
+19NC37MBP_0101 1441700 1443790 CS 没有 人 要 做 老师 那是 number one
+19NC37MBP_0101 1443900 1446510 CS then out of 每个 要 做 老师 的 很少 要教 华文
+19NC37MBP_0101 1447539 1448318 CS 华人 这样 boring
+19NC37MBP_0101 1448700 1451690 CS 每个人 的 thinking 是 华文 老师 都是 那种 老 ah-peh
+19NC37MBP_0101 1451990 1455110 CS then 穿着 那 黄黄的 polo-tee 坐在 office 里面
+19NC37MBP_0101 1460594 1463393 CS m.j. 里的 华文 老师 是 谁 有没有 给 陈婉妤 教
+19NC37MBP_0101 1465026 1466389 ZH 谭婉妤 有没有 转到 别的 做
+19NC37MBP_0101 1472674 1473381 ZH 哇
+19NC37MBP_0101 1478960 1481961 CS 应该 是 h.o.d 吧 还是 discipline ah tan wanyu
+19NC37MBP_0101 1482632 1483916 ZH 没有 看过 走了
+19NC37MBP_0101 1489007 1489786 ZH 你 厉害 啊
+19NC37MBP_0101 1491518 1493874 CS 没有 then 你的 g.p. 老师 是 谁
+19NC37MBP_0101 1498753 1502302 CS 你 没有 被 m.r. audi 哦 你懂 谁 是 m.r. audi 吗
+19NC37MBP_0101 1503024 1503529 ZH 没有 了
+19NC37MBP_0101 1504770 1505491 EN ms. huda
+19NC37MBP_0101 1507780 1508718 ZH 那个 白白的
+19NC37MBP_0101 1510161 1513391 CS 他~ 他 就是 我的 g.p. 老师 是 咩
+19NC37MBP_0101 1516125 1518390 EN 
+19NC37MBP_0101 1523555 1524681 ZH 肥肥的 啊
+19NC37MBP_0101 1525965 1527538 ZH 没有 没有 我 老师 瘦瘦的
+19NC37MBP_0101 1533457 1536588 CS 哦 挺 漂亮的 for malay teacher
+19NC37MBP_0101 1540202 1541082 ZH 是 吗
+19NC37MBP_0101 1544795 1548431 CS all right lah 反正 也是 他们 家 的 事
+19NC37MBP_0101 1553331 1554890 EN <unk>
+19NC37MBP_0101 1555607 1557064 EN <unk>
+19NC37MBP_0101 1559928 1562640 CS  我们 开始 靠到 in both english and chinese
+19NC37MBP_0101 1563200 1567400 CS by the seconds ah 可能 那种 五十六 秒
+19NC37MBP_0101 1579060 1579638 ZH 是 吗
+19NC37MBP_0101 1581167 1581744 ZH 哦
+19NC37MBP_0101 1583072 1585684 CS then 不是 要 那种 很 strict 很 serious 的 topic
+19NC37MBP_0101 1594096 1594933 EN yeah lah
+19NC37MBP_0101 1596173 1599867 CS  then mingjiu* 是 你 什么 朋友 呢
+19NC37MBP_0101 1601985 1603702 ZH (ppb）嗯
+19NC37MBP_0101 1610738 1612527 EN 
+19NC37MBP_0101 1613984 1615889 EN 
+19NC37MBP_0101 1617851 1619410 EN 
+19NC37MBP_0101 1620247 1621776 EN 
+19NC37MBP_0101 1623462 1626622 CS  你们 两个 好像 b.f.f. 每次 看到 他 就 看到 你 一样
+19NC37MBP_0101 1629100 1631520 CS 没有 eh melissa 每次 in her own world leh
+19NC37MBP_0101 1644667 1645562 EN a.d.m.
+19NC37MBP_0101 1647842 1652748 CS 没有 啦 羡慕 归 羡慕 啦 but 他 也是
+19NC37MBP_0101 1655000 1660100 CS 他 也是 读 爽 的 咯 我 觉得 他 better off doing business ah but 他 不要
+19NC37MBP_0101 1664056 1665083 ZH 他~ 他 比较 喜欢
+19NC37MBP_0101 1665530 1666223 ZH 他 很 喜欢
+19NC37MBP_0101 1666843 1668359 ZH 赚钱 呐
+19NC37MBP_0101 1669500 1675400 CS 他 读 a. d. m. 是 因为 out of interest but 他 很 喜欢 做 business 那种 东西
+19NC37MBP_0101 1679254 1681621 ZH 他 不一样 因为 他 爸爸 有 生意
+19NC37MBP_0101 1682963 1684840 ZH 他 爸爸 是 卖 椅子的
+19NC37MBP_0101 1685763 1686889 EN oh timber timber
+19NC37MBP_0101 1687293 1688837 EN as timber business ah
+19NC37MBP_0101 1689796 1692408 CS 是 木~ 木质的 那样 东西 then
+19NC37MBP_0101 1693366 1696223 ZH (ppb）还好 啦 就是 够 养他 啊
+19NC37MBP_0101 1696973 1698229 ZH 他 就是 够 给他
+19NC37MBP_0101 1698843 1702623 CS graduate 出来 他 如果 帮他 爸爸 做 他 不怕 不愁 吃 不愁 穿 咯
+19NC37MBP_0101 1710037 1711234 CS yeah lah 他 不像 我们的
+19NC37MBP_0101 1713108 1714335 ZH 出来 只是 要
+19NC37MBP_0101 1715359 1716889 ZH 填饱 自己 肚子 诶
+19NC37MBP_0101 1721726 1724410 ZH 没有 啦 哪里 有 我 家里 穷 诶
+19NC37MBP_0101 1725738 1727036 ZH (ppb）哦
+19NC37MBP_0101 1728609 1729626 EN 
+19NC37MBP_0101 1730925 1731978 ZH 那个 是 自己
+19NC37MBP_0101 1732656 1734143 ZH  喜欢
+19NC37MBP_0101 1734703 1736723 ZH 但是 家里 是 穷 <unk>
+19NC37MBP_0101 1740953 1741386 EN ah
+19NC37MBP_0101 1742137 1747961 CS 哎呀 反正 我 有 父母 钱 then 有剩 多余的 就自己 花 了
+19NC37MBP_0101 1749867 1750891 ZH 反正 有赚 啦
+19NC37MBP_0101 1751714 1752709 EN then all right lah
+19NC37MBP_0101 1754329 1758010 CS 我 不像 他 啊 他~ 他 很~ 他 mul~ to do 而已
+19NC37MBP_0101 1758100 1760690 CS 而且 one more thing 是 因为 influence ah
+19NC37MBP_0101 1761035 1762524 CS 因为 我 朋友 就会 well to do 的
+19NC37MBP_0101 1765245 1767539 ZH 每个人 都是 乱 花钱
+19NC37MBP_0101 1767828 1769403 ZH 我算 蛮 省 了
+19NC37MBP_0101 1770137 1781810 CS 我 没有 车 then 我 也是 他们 有车 but 他们 车 不是 自己 的 then 我 没有 抽烟 了 then 我也 很少 喝酒
+19NC37MBP_0101 1781810 1789300 CS 那些 都是 where all the money come from 好像 我 以前 我 抽烟 我 一个 月 花 三百 买 烟
+19NC37MBP_0101 1789912 1796092 CS ah around that then 那个 三百 你 不要 花 的花 三百 就 可以 买 很多 东西 了 啊
+19NC37MBP_0101 1798244 1800535 ZH 啊 以前 啦 很久 以前
+19NC37MBP_0101 1801612 1815297 CS ah then that's for yeah then 你就 没有 抽~ 没有 那些 钱 你就 少花 不要 抽烟 不要 喝酒 喝酒 也是 很贵 哎 去 一次 club 五十 minimum 那些 钱 省 下来 你就 可以 买 别的 东西 了 哦 买 电话 啊
+19NC37MBP_0101 1815500 1818500 CS 而且 这 支 电话 是 moe (er) subsidize 的
+19NC37MBP_0101 1819276 1824519 CS 他们 每年 有给 四百 块 for (er) electronical items loh
+19NC37MBP_0101 1825942 1828928 CS 所以 啊 that's why 我 很多 东西 都是 有
+19NC37MBP_0101 1832494 1839438 CS 哎呀 这种 事 甜头 还 你 吃~ 你 咬 他 的 bite 了 他 把 东西 拿起来 又拿去 煎了
+19NC37MBP_0101 1844918 1846376 ZH 很 很少 哎
+19NC37MBP_0101 1847515 1852514 CS 会有 啊 会有 我班 有 几个 r.j. 的学生 在 我班 呢 我很 understand
+19NC37MBP_0101 1854400 1859400 CS yeah yeah 有一个 r. j. 的 还有 一个 like (er) triple a. student 也是 在 我 班
+19NC37MBP_0101 1859692 1868406 CS 而 而且 他们 真的 是 patient for teaching 他们 看到 小孩子 很 开心 啊 我们 是 这种 去 演戏 还
+19NC37MBP_0101 1875000 1882990 CS 没有 啦 but at the end of the day 你 还是 of course you must have that 有一个 minimum level to reach ah 如果 真的 没有 passion 我 可以 去 s.i.m. 了
+19NC37MBP_0101 1883265 1885939 CS 哦 我 可以 去 try 别的 course en something
+19NC37MBP_0101 1888022 1893794 CS 很多 哎 我 我 first year 我 try 好像 就 拿到 这个 course 了 then after 好像 没有 去 try 别的 course 了
+19NC37MBP_0101 1894940 1897683 CS (er) yah yah 就 drag drag all the way
+19NC37MBP_0101 1898300 1901200 CS 好像 first year a. d. m. 本来 他们 叫 我 去 interview 的
+19NC37MBP_0101 1902000 1904790 CS then 我 这个 就 来了 我 就 去 这个 interview
+19NC37MBP_0101 1904790 1911475 CS then after that 我 a.d.m. 那个 我 就 懒得 去 管 我也 懒惰 去 做 portfolio 去 collet 然后 就 拖 拖 拖
+19NC37MBP_0101 1917360 1921200 CS okay 我 十张 照片 (呃)
+19NC37MBP_0101 1921200 1928000 CS 没有 二十 张 work twenty pieces of work then 一个 video 这样 而已 咯 还有 一个 essay
+19NC37MBP_0101 1931915 1932991 ZH 嗯
+19NC37MBP_0101 1934265 1936626 CS 很 build* lah portfolio 很 容易 build 的 啦
+19NC37MBP_0101 1940701 1941500 EN ah
+19NC37MBP_0101 1942576 1949450 CS then 还要 下来 take that exam 我 我 因为 太 懒惰 啊 then 就 没有 去 做
+19NC37MBP_0101 1955144 1963351 ZH 我 就是 怕 出来 没有 饭 吃 读书 的 时候 好玩 是 一回事 如果 出来 没有 饭 吃 就 恶心 了
+19NC37MBP_0101 1968978 1974649 CS 很多 我 我 朋友 我 朋友 啊 他 有 两个 哥哥 他们 都是 跟 minsui 一样 读 chinese
+19NC37MBP_0101 1975343 1976801 CS 现在 他们 在 做 banking
+19NC37MBP_0101 1978155 1980446 CS 全~ 全部 人 出来 都是 做 banking
+19NC37MBP_0101 1981200 1984510 CS banking and finance ah 要不然 就是 engineer
+19NC37MBP_0101 1985513 1989000 CS 要不然 就是 unless 你是 读 那种 professional 的 course ah like
+19NC37MBP_0101 1989256 1993491 EN dentistry lawyer medicine
+19NC37MBP_0101 1998090 2001200 CS 没有 没有 lawyer 其实 不是 每个 出来 都 打官司 的
+19NC37MBP_0101 2002000 2004410 CS 他们 做 consultation 之类 的 东西 比较 多
+19NC37MBP_0101 2004809 2005608 EN en
+19NC37MBP_0101 2006615 2009343 CS 因为 我 姐姐 她 刚刚 graduate 嗯 不久
+19NC37MBP_0101 2009794 2010558 EN en
+19NC37MBP_0101 2012511 2022800 CS 她 她是 <unk> 嘞 that's why 我 妈妈 totally 都 不管 我 了 after i think after sec four 我 妈妈 就 放 我 去 死 了
+19NC37MBP_0101 2023040 2028283 CS 我 姐姐 她是 <unk> 她 也是 她 p.h.d. 她 就 拿了 两百七十八
+19NC37MBP_0101 2030088 2043548 CS then 我 拿了 二五多 then 我妈妈 就 嫌弃 我 then o-level 她 拿 六分 啊 standard ah then 我 拿了 十三 我 妈妈 也是 嫌弃 我 咯 她 就跟 我 讲 你要 读 我们 就 读 不要 读 我们 就 算了
+19NC37MBP_0101 2046400 2051110 CS then 我 就 aiya yeah i just 吊儿郎当 all the way ah 到 现在
+19NC37MBP_0101 2051631 2057602 CS 也 是 现在 还 怕 啊 因为 这个 有 bond 啊 不要 读 如果 screw out 的话 要 还 一大笔 钱 会 死掉
+19NC37MBP_0101 2059610 2062590 CS 如果 by year four screw up 的话 是 twelve k. ah
+19NC37MBP_0101 2062961 2064801 EN ei sorry hundred fifty k.
+19NC37MBP_0101 2065912 2069690 CS ah 因为 他们 pay tuition fee 他们 又有 给 我 钱
+19NC37MBP_0101 2072459 2076800 CS 所以 add 完 也是 很多 很多 钱 所以 不 可以 啦 一定 要 读
+19NC37MBP_0101 2076800 2082130 CS that's why 有时候 我 每次 自己 回来 楼下 叫 我 去 吃 supper 我 有 一点 sian loh 我 又
+19NC37MBP_0101 2082130 2084749 ZH 不想 去 他们 就 去吧 去吧
+19NC37MBP_0101 2090070 2095243 CS what like 他们 都有 去 然后 就 socialble 一点 哦 然后 就 一起 跟着 下去
+19NC37MBP_0101 2096528 2098055 EN ah
+19NC37MBP_0101 2101805 2106874 CS 没有 啦 每个 人 都 讲 有没有 啊 n.i.e. 也是 part of n.t.u.
+19NC37MBP_0101 2109800 2111990 CS 没有 没有 没有 it's the same thing one
+19NC37MBP_0101 2111990 2114038 CS n.i.e. 没有 自己 的 hostle 的
+19NC37MBP_0101 2115671 2117754 EN (er) probably
+19NC37MBP_0101 2118865 2119941 EN 
+19NC37MBP_0101 2124350 2125913 ZH 有 啊 有 啊
+19NC37MBP_0101 2127544 2130037 CS 他们 有 很多 不同 的 program 的
+19NC37MBP_0101 2130700 2133010 CS at the end of the day 他 要 很多 老师 就 对了 lah
+19NC37MBP_0101 2133434 2134788 ZH 每天 都在 加薪
+19NC37MBP_0101 2135969 2138087 CS (er) civil servant 每天 都在
+19NC37MBP_0101 2138573 2139542 ZH 加 钱 呢
+19NC37MBP_0101 2140479 2146000 CS 他们 很 desperate 了 for civil servant 因为 没有 人 要去 civil servant 了 每个人 都 要去 privite industry 做 banking
+19NC37MBP_0101 2149420 2153552 EN civil servant okay ai but
+19NC37MBP_0101 2155215 2156937 ZH 铁～ 铁饭碗 诶
+19NC37MBP_0101 2158734 2160264 ZH 比较 铁饭碗 呐
+19NC37MBP_0101 2163707 2168628 CS then 你 出来 你 怎么 做 bio~ research
+19NC37MBP_0101 2172781 2174081 EN yes*
+19NC37MBP_0101 2174617 2177026 CS how about graduate 怎么 graduate 的 啦
+19NC37MBP_0101 2181884 2183567 ZH 这样 不是 很多 年
+19NC37MBP_0101 2184990 2186022 EN 
+19NC37MBP_0101 2187514 2188547 ZH 哇
+19NC37MBP_0101 2196270 2198948 CS 可以 啦 just try hard loh
+19NC37MBP_0101 2199789 2208548 CS 我 现在 in year three 看 他们 可以 不可以 如果 我 读的 够 xiong 的话 but 我在 board* 他们 year three 给我 graduate 了
+19NC37MBP_0101 2209650 2212400 CS as in 不是 year three as in 给 我 一个 graduate course ah
+19NC37MBP_0101 2212991 2216090 EN master in education
+19NC37MBP_0101 2219570 2224466 CS yeah 人 就是 因为 我 肯定 是要 存活 这种 要不然 没有 钱 呐
+19NC37MBP_0101 2226400 2233410 CS civil servant government board 都是 看 degree 的 leh 不 像 private sector private sector 是 看 ability 的
+19NC37MBP_0101 2237746 2239888 CS but medicine okay lah 可以
+19NC37MBP_0101 2243300 2249500 CS 其实 medicine 他们 讲 赚的钱 不 多 (er) 除非 你 很 老 as in experience 很多
+19NC37MBP_0101 2252075 2254064 EN ah
+19NC37MBP_0101 2257506 2259954 CS 你是 only child 啊
+19NC37MBP_0101 2261826 2264580 CS 读 什么 啊 medicine
+19NC37MBP_0101 2266148 2267793 EN oh
+19NC37MBP_0101 2279267 2281256 EN 
+19NC37MBP_0101 2282934 2286900 ZH 啊 你去 用工 去读 就好 啦
+19NC37MBP_0101 2286900 2290400 CS you put in effort 读 什么 出来 都 一样 的
+19NC37MBP_0101 2292052 2293696 EN 
+19NC37MBP_0101 2294767 2298478 ZH 为什么 么 你 一直 在 玩 meh 没有 嗯
+19NC37MBP_0101 2304674 2307734 CS  没有 type lab code
+19NC37MBP_0101 2319836 2320945 ZH 厉害 厉害
+19NC37MBP_0101 2325879 2336589 CS 为什么 你在 hall 里面 做 什么 at least 我 还会 特地 会 翻一翻 like two a.m. 我还 去 翻我 的 notes prepare next day lesson oh
+19NC37MBP_0101 2338959 2345270 CS  但是 我 很 迟 睡 啊 but 我 每天 at least 我懂 我 明天 要 做 什么 啊 大概 大概
+19NC37MBP_0101 2349323 2354869 CS sem two ah sem two 可以 take notes all 这些 东西 啊
+19NC37MBP_0101 2357776 2362175 ZH 哎呀 每个人 嘴巴 都 这样 讲 嘛 真的 嘛
+19NC37MBP_0101 2366115 2369710 CS oh then malissa leh i thought 她 跟你 same course
+19NC37MBP_0101 2373167 2374912 EN en
+19NC37MBP_0101 2378254 2380320 CS mengga 几分钟 来的
+19NC37MBP_0101 2382006 2384186 EN 
+19NC37MBP_0101 2386404 2388202 ZH 嗯
+19NC37MBP_0101 2389770 2391415 EN 
+19NC37MBP_0101 2394590 2396273 EN 
+19NC37MBP_0101 2397420 2399333 EN 
+19NC37MBP_0101 2400557 2402737 CS then 她就
+19NC37MBP_0101 2404801 2405948 EN 
+19NC37MBP_0101 2409391 2410730 EN 
+19NC37MBP_0101 2411024 2414084 CS 你们 为什么 你们 去 lesson 就 睡觉 then 起来
+19NC37MBP_0101 2420800 2424210 CS then 哦 你们 lecture 很大 啦 所以 没有 人 会 管 啦
+19NC37MBP_0101 2425620 2429025 CS 啊 我的 一个 lecture 三十三个 人 啊
+19NC37MBP_0101 2429688 2431100 EN it like
+19NC37MBP_0101 2431100 2433500 CS 没有 啦 我们 tutorial class 十七
+19NC37MBP_0101 2433610 2437090 CS then lecture 三十三 then after that it's like wah
+19NC37MBP_0101 2437090 2446366 ZH 进去 很 明显 哦 你 你头 一 低下来 那个 老师 因为 我们 男孩子 只有 五个 唉 六个 嗯 六个男的
+19NC37MBP_0101 2446864 2451874 CS then all the profs know all the guys by name ah 因为 我们 只有 六个 人 呐
+19NC37MBP_0101 2453481 2468170 CS yeah only the guys the girls 他们 也是 老师 都是 比较 怎么 讲 啊 偏心 的 很 相信 女孩子 啊 女孩子 睡觉 他 也 没有 讲 什么 我们 男孩子 他 这样子 哪有 啊 后面 那排 的
+19NC37MBP_0101 2468170 2472000 CS starting ah starting ah 后面 那 排 的 学生 请 站 起来
+19NC37MBP_0101 2473968 2476569 CS 起来 回答 问题 then 我 很 paisei 咯
+19NC37MBP_0101 2476990 2483340 CS then 我是 没有 很 suilah 我 旁边 那个 有 一次 那个 桌子 他们 有 一些
+19NC37MBP_0101 2483340 2487370 CS lecture 他的 桌子 是 你 一 躺 you lean your weight on it 整个 就 飞 了
+19NC37MBP_0101 2487570 2495067 CS 整个 就会 like go down ah go back to it original position 他 没 那种 support 的 然后 就 整个人 呜呜
+19NC37MBP_0101 2497282 2498506 EN then aiya
+19NC37MBP_0101 2499463 2500648 ZH 他们 就
+19NC37MBP_0101 2501719 2509905 CS 他 女孩子 睡觉 他 就 like 盖 一只 眼 哦 男孩子 睡觉 就 like 男生 你 不要 睡觉 了 kind of shit like wah
+19NC37MBP_0101 2511726 2513447 EN 
+19NC37MBP_0101 2513792 2516239 CS 很多 嗯 but
+19NC37MBP_0101 2516966 2522630 CS 那些 老师 他 也是 有 一个 lecture 是 每个人 进去 just 跑出来 玩 facebook lah
+19NC37MBP_0101 2522630 2529500 CS 另外 一个 是 比较 大 的 lecture 那个 由 那些 returning teachers ah 就是 他们 已经 教 过 书 了 他们 还是 回来 读
+19NC37MBP_0101 2530405 2533427 CS (呃) to 一两个 module 来的
+19NC37MBP_0101 2537290 2540902 CS 我 我老师 他们 讲 (er) more respect 叫 我们 不要 开 电脑
+19NC37MBP_0101 2544326 2548113 CS 哦 我们 的 notes 他 他 已经 bring 给 我们 了
+19NC37MBP_0101 2549490 2558326 CS  oh 他 他有 put online 他 也是 有 print 给 我们 他讲 开 电脑 一定 没有 听课 的
+19NC37MBP_0101 2559320 2562648 CS 已经 看 出来 一 开 电脑 就是 玩 facebook 的 咯
+19NC37MBP_0101 2566988 2578883 CS lecture notes 要 还钱 的 他 print 帮 我们 print but 我们 要 还他 钱 的 一样 啦 normal rate lah photocopying rates loh
+19NC37MBP_0101 2580190 2583890 CS just that we don't have to take the effort to 去 电 脑 找 啦 因为 没有 人 会 去 找 mah
+19NC37MBP_0101 2586945 2589737 CS 他 都 帮你 print 了 你 为何 自己 去
+19NC37MBP_0101 2592338 2594754 CS 自己 print 也是 要 还钱 呐
+19NC37MBP_0101 2596246 2599688 ZH 方便 呐 我们 都 贪 方便 咯
+19NC37MBP_0101 2602633 2605732 CS then 这样子 也 比较 快 嗯 你
+19NC37MBP_0101 2606535 2609748 CS then 他 是 整个 sem 的 notes
+19NC37MBP_0101 2611010 2613764 CS 啊 他 是 print 整个 sem 的 notes 给你
+19NC37MBP_0101 2618117 2620527 CS 嗯 lately lecture 他 晚上 给
+19NC37MBP_0101 2625270 2627106 ZH 哦 怪不得
+19NC37MBP_0101 2627871 2644984 CS 因为 我们 的 东西 都是 他们 n.i.e. 那些 华文 especially 那些 chinese 的 course 啦 因为 我有 两个 module 是 english lah 那 两个 就 比较 last minites lah 那些 就 自己 print but 那些 华文 的 core 我的 core module 的 他们 都 早就 plan 好 全部 lesson 了
+19NC37MBP_0101 2646891 2651700 CS 嗯 没有 因为 我们 有 new modules
+19NC37MBP_0101 2651700 2654800 CS 有些 module 是 我们 first year think 第一 年 第一 年 take 的
+19NC37MBP_0101 2655900 2662500 CS but 那些 老师 他们 都 很 systematic 的 those typical chinese teacher 他们 很 systematic 东西 很
+19NC37MBP_0101 2662700 2665700 CS 他们 就是 有一个 timeline 的 一定要 跟着 timeline 走 的
+19NC37MBP_0101 2668546 2671912 CS  yeah but 东西 很 efficient lah
+19NC37MBP_0101 2674475 2677600 CS 他们 讲 那些 angmoh的 老师
+19NC37MBP_0101 2677600 2683990 CS 我 有一个 angmoh 的 (er) like coordinator lah for 我 那个 service learning 的 module
+19NC37MBP_0101 2683990 2687596 ZH 他 没有 来 唉 他 来 也是 讲 几句 废话 就 不见 掉 了
+19NC37MBP_0101 2692420 2694906 CS ah 他们 是 like en
+19NC37MBP_0101 2700492 2701601 EN 
+19NC37MBP_0101 2703437 2706598 CS ah 他们 自己的 system 就是 很 slate 了
+19NC37MBP_0101 2708128 2718571 CS 他 then 新加坡 其他人 都很 冲 都很 冲 咯 都很 快 then 他们 就 比较 慢一点
+19NC37MBP_0101 2720483 2723428 ZH 哇 十二点
+19NC37MBP_0101 2725073 2728286 ZH 我 管他 啊 先去 吃 啊 他们 哪里 懂 啊 先去 玩
+19NC37MBP_0101 2732112 2735708 EN ah oh man
+19NC37MBP_0101 2741445 2750663 CS 这个 system 是要 track down 什么 我们的 bilingual abilities啊 at least 倒一杯水 给 我们 喝 啦
+19NC37MBP_0101 2758048 2761835 CS ah try to use some program that can identify 华文 和 英文 呐
+19NC37MBP_0101 2765442 2768349 EN ah i'm an engineer also
+19NC37MBP_0101 2769229 2771256 ZH 啊 会做 那些
+19NC37MBP_0101 2773286 2775696 CS redundant 的 东西
+19NC37MBP_0101 2777532 2780860 CS 那种 东西 现在 都 没有 人 会用 了 啦 like
+19NC37MBP_0101 2782313 2786023 EN evolutionary music
+19NC37MBP_0101 2792794 2794707 CS actually 这个 computing engine 的
+19NC37MBP_0101 2797690 2801480 CS 用 media files like 用 电脑 做 音乐
+19NC37MBP_0101 2803507 2805037 EN 
+19NC37MBP_0101 2810163 2812774 CS 唉 那些 我要 去吃 subway leh
+19NC37MBP_0101 2815184 2821954 CS 不要 啦 打包 回去 okay like 打包 回去 都 没有 时间 吃 你 不用 吃的 么
+19NC37MBP_0101 2822527 2823790 ZH 不用 吃的
+19NC37MBP_0101 2826499 2828297 CS 等下 不是 brunch 了 okay
+19NC37MBP_0101 2831931 2839138 CS brunch 是 between breakfast and lunch then 你 吃的 就是 lunch 和 dinner 了 linner ah
+19NC37MBP_0101 2840692 2843254 EN 
+19NC37MBP_0101 2843637 2845473 CS 你是 one meal cover all ah
+19NC37MBP_0101 2846016 2855004 CS  唉 很sian 哦 来 hall 的 meal time totally 也是 我在 房间 已经 lunch time 了 just 不要 出来 咯
+19NC37MBP_0101 2857590 2870748 CS 在家 家里 可以 找 东西 吃的 可以 去 厨房 去 煮 一包 面 还是 什么 这边 没有 要 煮 东西 要 下楼 又 没有 人 要 煮 then 又 杯面 then 就 算了 就 不要 吃 咯 就 坐在 里面 等
+19NC37MBP_0101 2874344 2878173 CS 我 本来 也要 去 吃 supper 的 but 楼上 在 打麻将 我 又 找不到 人
+19NC37MBP_0101 2879627 2881386 ZH 我 也 不懂 你们 要不要 去 吃 啊
+19NC37MBP_0101 2882457 2884102 CS but 走去 ah-fang 有点 远 啊
+19NC37MBP_0101 2886830 2889700 CS but ah-fang 东西 很 standard 了 (呃) 我 觉得 我
+19NC37MBP_0101 2892318 2896258 ZH 有 啊 那个 有 一杯 那个 面 啊
+19NC37MBP_0101 2898859 2902990 CS but 我去 那边 每次 都是 吃 prata 啊 
+19NC37MBP_0101 2905888 2909101 CS as in 因为 其他 的 东西 看起来 都 不好吃
+19NC37MBP_0101 2917363 2921436 CS 去 哪里 买 哦 你 知道 那个 不会分 horlicks sell ovaltine 呢
+19NC37MBP_0101 2923770 2928545 CS  ovaltine is like milo then horlicks 就是 那个 horlicks 啊
+19NC37MBP_0101 2929654 2938304 CS yeah ovaltine is like milo but 没有人 喝 ovaltine 了 每个人 喝 hot milo 了 it's same thing it's chocolate drink
+19NC37MBP_0101 2944736 2951315 CS okay coco coco drink then as in 都是 有 chololate tea flavour 的 啦 that's why i'm trying to <unk>
+19NC37MBP_0101 2953800 2957680 CS 你 应该 是 有 吃 过 他的 糖 吧 他的 packet 是 那种 orange colour 的
+19NC37MBP_0101 2959347 2960610 EN (er) brown
+19NC37MBP_0101 2962101 2962866 EN 
+19NC37MBP_0101 2964894 2970555 CS horlicks 也是 有 糖 对 对 horlicks 也是 有 糖 诶 对 哈 我 没有 看到 horkicks 有 糖 了 诶
+19NC37MBP_0101 2974839 2981775 CS i thought 有 它的 广告 那个 horhorhor 你 有看 么 那个 小孩子 拿着 牛奶 倒
+19NC37MBP_0101 2983458 2985944 EN 
+19NC37MBP_0101 2987130 2989769 CS 而且 住 hall 没有 电视机 看 呐 很 闷
+19NC37MBP_0101 2991145 2993937 ZH 我 就是 懒 得 出去 啊
+19NC37MBP_0101 2994740 2997150 ZH 没有 啊 你在 房间 里面 你 想
+19NC37MBP_0101 2997418 3001205 CS 到处 乱跑 你 just 进取 嘣 门 关起来 then just 在 那边
+19NC37MBP_0101 3001931 3003308 ZH 用 电脑 用 电脑
+19NC37MBP_0101 3006636 3010767 ZH 你会～ 我 唯一 会 出去 就是 去 志豪 房间 拿 香烟 诶
+19NC37MBP_0101 3013456 3017090 CS 啊 then 这样 我 都 没有 离开 房间 了 要不然 就是 去 打麻将 啊
+19NC37MBP_0101 3017664 3019194 CS 打麻将 supper
+19NC37MBP_0101 3020035 3021680 ZH 这样 来咯 都没有 东西 做 了
+19NC37MBP_0101 3026893 3029074 EN year four year three ah
+19NC37MBP_0101 3030604 3031598 ZH 谁
+19NC37MBP_0101 3033319 3034505 ZH 哦 志豪 他们啊
+19NC37MBP_0101 3036073 3037565 ZH 诶 你 跟 他们 熟 吗
+19NC37MBP_0101 3039439 3041084 ZH 不是 志伟
+19NC37MBP_0101 3043073 3045100 ZH 志伟 他 住 这样 靠近
+19NC37MBP_0101 3053495 3055943 CS 没有 他们 也是 in their own world
+19NC37MBP_0101 3058691 3059804 ZH 我是
+19NC37MBP_0101 3061334 3064203 CS mix around 也 不是 mix around 我是 怎样
+19NC37MBP_0101 3065771 3072082 CS just 哪里 有 东西 做 就去 哪里 做 but 我通常 很想 躲在 房间 不要 出去
+19NC37MBP_0101 3076602 3081612 CS 我 又 没有 到 otah 这样 jialat 了 要不 是在 房间 要不 就是 跟 我的 朋友 在外面
+19NC37MBP_0101 3083640 3085476 CS okay 宅男 啦 宅男
+19NC37MBP_0101 3089146 3093698 CS 我 有 看 <unk> 有 看 anyway qualify 了 checklist 上面 可以 take 了
+19NC37MBP_0101 3097331 3101615 CS 玩 game take tick so <unk> tick
+19NC37MBP_0101 3104830 3105863 ZH 有 啦
+19NC37MBP_0101 3107737 3109496 CS then 还有 什么
+19NC37MBP_0101 3113130 3114048 ZH 二十六
+19NC37MBP_0101 3116496 3117643 ZH 二十八
+19NC37MBP_0101 3121162 3128153 CS 两块 其实 很多 诶 如果 你 整个~ 整个 everything over 了 用死人
+19NC37MBP_0101 3132743 3134005 ZH 你 是 在 学校 啊
+19NC37MBP_0101 3135000 3136109 CS 也是 private ah
+19NC37MBP_0101 3138710 3140775 ZH 我 不懂 学校 多少 学校 多少
+19NC37MBP_0101 3152908 3154285 ZH 我 懂 我 朋友 全部 学
+19NC37MBP_0101 3157230 3159869 ZH 没有 啦 有 一个 也是 跟我 一样 的
+19NC37MBP_0101 3160826 3163044 CS 他~ 他 fail 两次 了
+19NC37MBP_0101 3163885 3166666 CS 我 没有 我 还 没有 考到 我 朋友 fail 两次
+19NC37MBP_0101 3167928 3174851 CS 他们 just 不会 as 他 just 很 不会 驾车 他 都 已经 有车 等着 他 了 just 不会 驾车 诶
+19NC37MBP_0101 3179403 3182022 ZH 你 家里 有车 吗 有车 吗
+19NC37MBP_0101 3182978 3184546 ZH 哇 你 家里 没有 车 啊
+19NC37MBP_0101 3185694 3186344 ZH 去 买 一辆 咯
+19NC37MBP_0101 3187109 3188448 EN 
+19NC37MBP_0101 3189825 3190896 ZH 啊 有 啊
+19NC37MBP_0101 3193267 3194491 ZH 没有 我 爸爸
+19NC37MBP_0101 3197500 3200800 CS just happens so that 他 有 车 other than that 都 很 穷
+19NC37MBP_0101 3201519 3202590 CS 真的 seriously
+19NC37MBP_0101 3204234 3212955 CS 呃 some business some work related stuff then 那个 老板 不要 那辆 车 then 他 刚好 有 那个 钱 就 拿辆 车 过来 这样
+19NC37MBP_0101 3214906 3216958 CS just nice 而且 是 辆 很旧 的 车
+19NC37MBP_0101 3217302 3218641 ZH 那种 跑
+19NC37MBP_0101 3219810 3222800 CS every ten click 就会 停 一下 you know
+19NC37MBP_0101 3224880 3231536 CS 很烂 的 啦 but 也是 他 也 不会 给我 这样 咯 拿去 script*掉 很旧的
+19NC37MBP_0101 3233066 3234787 EN er more than that actually
+19NC37MBP_0101 3241328 3246262 CS 没有 啦 他 是 like 他 miss 那个 period 了 他是 有 一个 period 了 他们 要
+19NC37MBP_0101 3246989 3251885 CS 没有 没有 没有 but 要 script* 了 他 已经 要 十三 年 了 十三 年 一定 要 script* something <unk>
+19NC37MBP_0101 3253835 3255001 ZH 你～ 你 住 哪里 啊
+19NC37MBP_0101 3257219 3257716 EN bedok
+19NC37MBP_0101 3259170 3260585 CS 哪里 啊 bedok 很大
+19NC37MBP_0101 3263721 3264831 ZH 那个
+19NC37MBP_0101 3267126 3268273 CS clear water 那边
+19NC37MBP_0101 3270071 3271907 ZH 哦
+19NC37MBP_0101 3272328 3274623 CS 我 住 temasek poly 那边
+19NC37MBP_0101 3275961 3277759 ZH 诶 蛮 靠近 你的 啦
+19NC37MBP_0101 3278600 3283267 CS 但 诶 你是 你住 什么 那个 condo 啊
+19NC37MBP_0101 3285456 3287560 CS condo 后面 的 那些 h.d.b.
+19NC37MBP_0101 3290696 3294139 ZH  哎呀 我 也是
+19NC37MBP_0101 3295324 3296740 EN h.d.b. lah
+19NC37MBP_0101 3297543 3300679 ZH 不是 不是 红红的 再 过去 一点 白美* 那边
+19NC37MBP_0101 3302018 3303242 ZH 也 很远
+19NC37MBP_0101 3306420 3309786 EN er not at other it's like temasek-poly then er
+19NC37MBP_0101 3310589 3311966 EN yeah lah further down lah
+19NC37MBP_0101 3312965 3319276 CS it's in it's towards the near the tampines centre 那边 了 靠近 minxiu 家 那边 了
+19NC37MBP_0101 3320696 3323334 ZH 唉 你 不懂 你是 住在 哪里
+19NC37MBP_0101 3327003 3331551 CS aiya somewhere in between lah 就是 我家 lah
+19NC37MBP_0101 3333166 3335041 ZH 哇 你 住 那边 很 不方便 啊 我 觉得
+19NC37MBP_0101 3336430 3339346 CS 你 那边 没有 东西 没有 coffee shop 的 啊
+19NC37MBP_0101 3341078 3353681 CS 一个 可 那边 没有 东西 吃 啊 因为 我 朋友 住 clear waters. 然后 每次 去 那边 玩 yeah 我去 看 你 那边 没有 东西 吃的 要 出去
+19NC37MBP_0101 3354965 3357810 ZH 你 那边 挺 靠近 八十五 八十二 吧
+19NC37MBP_0101 3360915 3363242 ZH 哦 那 还好 啊
+19NC37MBP_0101 3368162 3370592 ZH 就 躲在 家里 等 人家 打包
+19NC37MBP_0101 3372539 3374171 EN 
+19NC37MBP_0101 3376532 3378650 ZH （ppb) 唉
+19NC37MBP_0101 3380386 3384274 ZH 那种 面包 又 不是 面包
+19NC37MBP_0101 3390206 3393400 ZH 家里 没有 妈妈 没有 煮的 啊
+19NC37MBP_0101 3394024 3395205 ZH 哦
+19NC37MBP_0101 3396385 3400413 ZH 我 妈妈 是 做工 之前 就 煮 啦 所以 每次 吃 东西 都是 那种
+19NC37MBP_0101 3402135 3408732 CS 又冷 又干 啊 不过 okay 啦 好过 没有 东西 吃 啦 我也 懒得 下去 打包 啊
+19NC37MBP_0101 3417832 3424625 CS 在 lor 真的 lucky 楼下 有 canteen loh 如果 楼下 没有 canteen i think 我 就 如果 住 hall seven 我就 饿死 了
+19NC37MBP_0101 3426721 3432380 CS 我 不想 搭 巴~ then 去吃 又要 搭 bus 谁去 啊 浪费 时间 啊
+19NC37MBP_0101 3435247 3439587 CS 啊 做 久了 很 sian
+19NC37MBP_0101 3443788 3445871 EN 
+19NC37MBP_0101 3452247 3455059 EN  <unk> is it
+19NC37MBP_0101 3456860 3461617 ZH 哎呀 我们 也是
+19NC37MBP_0101 3463160 3465590 CS yes 快要 到了
+19NC37MBP_0101 3469040 3471539 ZH 我们 哎呀
+19NC37MBP_0101 3479159 3482318 ZH 啊 当然 咯
+19NC37MBP_0101 3487803 3492039 CS 啊 他们 东西 就是 like 三百块 钱 就
+19NC37MBP_0101 3493500 3498650 CS but 这个 牌子 真的 是 famous 的 for sound equipment leh
+19NC37MBP_0101 3499828 3501876 EN yeah sure but
+19NC37MBP_0101 3502814 3504688 ZH 不懂 为什么 这样 cui
+19NC37MBP_0101 3507137 3513620 CS oh 这种 事 是 很 as in 他是 那种 很 technical 很 for sound equipment 的 东西 啊
+19NC37MBP_0101 3513620 3518400 ZH  通常 没有 人 买 的 啦 又贵 贵的 要死
+19NC37MBP_0101 3518400 3521110 CS 他 可以 一个 headphone 两 三百 啊

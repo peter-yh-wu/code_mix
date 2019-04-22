@@ -1,0 +1,555 @@
+NI29MBP_0101 505 2553 ZH 好 好啊 好
+NI29MBP_0101 3290 6320 CS 哦 我叫 alex 英语 华语 叫 金泉
+NI29MBP_0101 6320 7760 ZH 嗯
+NI29MBP_0101 7760 9280 ZH 今年 二十三
+NI29MBP_0101 9280 10504 ZH 好
+NI29MBP_0101 11580 13350 ZH 嗯 到了
+NI29MBP_0101 13350 14840 ZH 嗯
+NI29MBP_0101 14840 16640 EN naval diver n. t. u.
+NI29MBP_0101 18070 20140 ZH 描述 一下 就是 海军 咯
+NI29MBP_0101 20980 22790 ZH (呃) 华人 对 
+NI29MBP_0101 23141 24391 EN 
+NI29MBP_0101 25016 25849 EN okay
+NI29MBP_0101 27029 28020 ZH 那
+NI29MBP_0101 28020 32470 EN how many years (er) two and a half ei one and a half ah sorry
+NI29MBP_0101 34295 35996 EN train very tough ah
+NI29MBP_0101 35996 37037 EN en
+NI29MBP_0101 37315 41829 EN  (er) actua~  sorry
+NI29MBP_0101 42384 43540 EN 
+NI29MBP_0101 43540 45373 ZH 比如 啊 诶
+NI29MBP_0101 45997 47178 EN common ah
+NI29MBP_0101 47820 51070 ZH 就 好像 七天 没有 睡觉 这样
+NI29MBP_0101 51070 52682 EN ah
+NI29MBP_0101 56918 57786 ZH 对
+NI29MBP_0101 60740 63850 ZH 哦 没有 啊 我 我 没有 到 这个 地步 啦 可是
+NI29MBP_0101 64196 65203 ZH 哦
+NI29MBP_0101 66766 68154 ZH <unk> 是 什么 意思 啊
+NI29MBP_0101 69890 70891 ZH 嗯哼
+NI29MBP_0101 70891 73431 ZH 对 对 对 都有 都有 训练
+NI29MBP_0101 74851 78961 CS (呃) 有 到 taiwan ah 有 到 brunei 也是 brunei
+NI29MBP_0101 79101 80944 CS brunei 的 jungle 很 
+NI29MBP_0101 81673 83513 ZH 很 凶 
+NI29MBP_0101 83791 85061 ZH 在 里面
+NI29MBP_0101 85388 86603 ZH 度日如年 哦
+NI29MBP_0101 86603 87671 ZH 这样 
+NI29MBP_0101 88701 90301 ZH 台湾 呃 都有  啊 
+NI29MBP_0101 91211 95951 ZH 都 我 想 不 起来 了  星 组  我 想 不 起来 了  对不起
+NI29MBP_0101 97511 100691 ZH 什么 时候 二零零六年 到 二零零八年
+NI29MBP_0101 100968 101663 ZH 对
+NI29MBP_0101 102651 104881 CS 现在 读 大学 n. t. u. ah
+NI29MBP_0101 105911 106641 ZH 对  啊  对  啊 
+NI29MBP_0101 109361 110171 ZH 对  啊  对  啊 
+NI29MBP_0101 110862 111591 ZH 啊
+NI29MBP_0101 112211 114751 CS 我 不 住 hall 我 对
+NI29MBP_0101 115751 119151 ZH (呃) 在 学校 外面 啊 其实 每天 我 都 走来 学校
+NI29MBP_0101 120051 121162 ZH 嗯 那里
+NI29MBP_0101 122655 123557 ZH 什么
+NI29MBP_0101 124181 126791 CS (呃) 区 六十 啊 street seventy four
+NI29MBP_0101 127432 129342 ZH 可以 拨 那里
+NI29MBP_0101 131703 132397 ZH 嗯哼
+NI29MBP_0101 133911 136581 CS 嗯 我是 n. b. s. 的 accountancy
+NI29MBP_0101 140861 143061 ZH 嗯 课程 啊 都 是在 读
+NI29MBP_0101 143931 146051 CS business related 的 东西 咯
+NI29MBP_0101 146541 151832 ZH 其实 也  我也 不懂 怎样 描述  啊 
+NI29MBP_0101 152181 153681 ZH 大声 一点  啊  没 问题
+NI29MBP_0101 154332 155721 EN en okay
+NI29MBP_0101 158331 159261 CS second year 对
+NI29MBP_0101 165311 169161 ZH (呃) 我也 不知道 我的 朋友 叫 我 来  我 就 来 咯
+NI29MBP_0101 169563 170431 ZH 对
+NI29MBP_0101 176391 180541 CS c. c. a. ah 我 有 参加 嗯 c. a. c. cultural activities club
+NI29MBP_0101 181181 192061 CS 有 听 过 吗  没有 啊 描述 一下 就是 我们 嗯 学校 有什么 concert ah 什么 (呃) 文化 的 表演 都是 我们 安排 的 就是
+NI29MBP_0101 192251 202321 CS 比如 choir 比如 dances 都是 我们 安排的 帮 他们 给 他们 一个 (呃) platform 去 表演 啦 就是 帮忙 安排 concert 帮忙 卖票 的
+NI29MBP_0101 203281 204809 ZH 大概 就 这样
+NI29MBP_0101 206371 211470 CS 学期 对 啊 呃 刚刚 过了 很多 唱歌 比赛 还在 inpresario
+NI29MBP_0101 211747 215531 ZH 可是 没有 听 过  没 听 过 就是
+NI29MBP_0101 215531 217111 ZH 是个 舞 嗯
+NI29MBP_0101 217111 219921 CS 是个 nationwide talent competition ah
+NI29MBP_0101 219921 221052 ZH 就
+NI29MBP_0101 221771 226911 ZH 全 新加坡 的 人 都 可以 参加 就是 一个 歌唱 比赛 懂 刚刚 刚刚 结束 诶
+NI29MBP_0101 227197 228586 ZH 对 
+NI29MBP_0101 228931 231611 ZH  喜欢 唱歌  啊 
+NI29MBP_0101 232143 233462 ZH 哇 啊
+NI29MBP_0101 238435 242045 ZH 诶 还有 蛮 多 的 多过 十多 二十多 吧
+NI29MBP_0101 242901 244341 ZH 都有 都有 不同 的
+NI29MBP_0101 247081 251176 CS 嗯 还有 一些 dance concert ah 这些 
+NI29MBP_0101 251871 253259 EN 
+NI29MBP_0101 255273 256072 EN ah
+NI29MBP_0101 256870 258921 EN the last competition we invited some
+NI29MBP_0101 259243 264341 ZH (呃) 和我 一届 的 (呃) 只要 和我 一届 就是 哦
+NI29MBP_0101 264341 265601 EN hong-jun-yang ah
+NI29MBP_0101 265601 267861 ZH 我 不知道 啊 
+NI29MBP_0101 267861 270161 ZH 都是 本地 的  啊  对 本地 歌手
+NI29MBP_0101 276025 277483 ZH  谁
+NI29MBP_0101 278341 280231 ZH 哦 xu-jia-ying 是 吗
+NI29MBP_0101 283242 284805 ZH 哪个 
+NI29MBP_0101 286923 291887 CS 对 对 其实 那些 那些 concert 都是 我们 办的 对 都是 我们 办的
+NI29MBP_0101 295591 299981 CS 可是 我们 都在 里面 不能 做 观众 我们 都是 做 security 
+NI29MBP_0101 300330 301441 EN officer
+NI29MBP_0101 301927 303004 ZH 对 对 对
+NI29MBP_0101 304771 310001 ZH 哦 你 也是 要 参加  要 报名 咯 要 明年 才 开始
+NI29MBP_0101 310643 311233 EN en
+NI29MBP_0101 312171 313282 CS 嗯 对 close 的
+NI29MBP_0101 316267 317621 EN en
+NI29MBP_0101 318991 321271 ZH 哦 了解 了解 了解 了解 啊
+NI29MBP_0101 321561 334971 CS 还 不错  啦  就是 可以 看到 明星 可以 有 那种 planning 的 经验  啊  我 觉得 挺重要的 一旦 踏出 社会 做工 需要 有 那种 management 的 经验  啊 
+NI29MBP_0101 336135 337524 EN 
+NI29MBP_0101 341851 344111 ZH 歌唱 比赛  啊  其实 我们 也
+NI29MBP_0101 347261 360031 CS 嗯 其实 我 只是 拿住 walkie talkie  催 人家 快点 进来  我是 overall in charge 的 就是 叫 他们 做事 做 快点  啊  赶 跟着 timeline 走 不要
+NI29MBP_0101 360531 364571 CS 因为 其实 到头 我们 还是 delay 了 一个 小时 多
+NI29MBP_0101 365441 371041 CS 所以 也不是 算 因为 有 很多 technical difficulty ah 那些 speaker 都
+NI29MBP_0101 371793 375334 ZH 没有 声音 啊 但 彼此 的 <unk>
+NI29MBP_0101 376966 378598 EN 
+NI29MBP_0101 379081 384541 CS 今年 (呃) 我们 有 分 很多 组合  啊  有 solo 有 duet  啊 
+NI29MBP_0101 384861 389061 CS 也有 自己 (呃) 自己的 original composition 就是 自己 写作 的 歌曲
+NI29MBP_0101 389231 394121 ZH 然后 总共 应该 有 二十 多 位 参加 在 大决赛  啊  对
+NI29MBP_0101 396681 409389 CS 初选 初选 就是 谁 都 可以 参加 的 嗯 他们 去 只要 去 海蝶 音乐 那里 我们 跟 海蝶 音乐 他们 一起 合作 所以 有 兴趣 者 就去 海蝶 音乐 audition ah ah audition 对
+NI29MBP_0101 410431 411299 EN 
+NI29MBP_0101 417741 419791 CS 有  啊  有  啊  也可以  啊  then
+NI29MBP_0101 420395 422790 ZH (呃) 就 可以 
+NI29MBP_0101 425581 435301 CS 有 有 有 应该 是 有  啊  可以 去 w. w. w. dot c. a. c. (er) 那个 是 c. a. c. i. m. p. e. r. s. a. r. i. o. dot com
+NI29MBP_0101 435801 437016 ZH 啊 对
+NI29MBP_0101 437641 438300 EN 
+NI29MBP_0101 442675 443577 ZH 好 好
+NI29MBP_0101 446819 450411 ZH 嗯 两年 咯 对 从 第一年 我 就 参加了
+NI29MBP_0101 451841 458381 CS 其实 是 朋友 拉我 进去  因为 有 seniors 在 里面 seniors 就 讲 很好 玩 咯 就
+NI29MBP_0101 458381 460079 ZH 一起 这样 看看
+NI29MBP_0101 460079 461260 ZH 嗯
+NI29MBP_0101 464781 468671 ZH 有时候  啦  有时候 没 时间 读书
+NI29MBP_0101 468671 470165 ZH 一次 啦
+NI29MBP_0101 470651 472005 ZH 啊
+NI29MBP_0101 472630 474539 ZH 对 
+NI29MBP_0101 483431 491041 ZH 嗯 少 过 五次  啦  我 觉得  因为 我们 大多数 时间 都在 做 课外 活动 可是
+NI29MBP_0101 491631 494991 ZH 只要 成绩 不会 太差 我 还觉得 还好  吧 
+NI29MBP_0101 495916 501263 ZH  我还 没有 到 非常 差的 地步  还好 啊
+NI29MBP_0101 501957 503033 EN 
+NI29MBP_0101 505911 510361 CS 嗯 我在 家里 都是 讲 华语  啊  可是 english 也
+NI29MBP_0101 511701 515991 CS 嗯 不错  啊   因为 我们 project 都是 在 用 english
+NI29MBP_0101 515991 517971 CS discusstion ah 大家
+NI29MBP_0101 518596 519568 ZH 对
+NI29MBP_0101 520591 526481 ZH 我 父母亲 的 英语 很差 所以 没 办法 跟 他们 沟通 用 英语 沟通 所以 在家 里 都是 讲 华语
+NI29MBP_0101 527968 533731 ZH 对 对 多数 啊  对 咯
+NI29MBP_0101 539491 557991 CS 对 对 啊 就是 我们的 because our class has a lot of class participation ah in business school so we must always speak up (er) if you don't speak up you have no class participation ah which is which constitute ten percent of your final grade la so you must always speak up la
+NI29MBP_0101 560979 563027 ZH 哦 好
+NI29MBP_0101 564671 567401 CS okay 好 没 问题
+NI29MBP_0101 571505 573172 ZH 海军陆战队
+NI29MBP_0101 573781 577651 EN ah naval diving unit unit
+NI29MBP_0101 577651 578449 ZH 对
+NI29MBP_0101 581021 591101 CS 其实 是一种 荣幸 啊  我 觉得 就是 经历过 很多 人 都 没有 无法 经历过 的 东西 lah 就是 so cool 对
+NI29MBP_0101 592986 593959 EN en
+NI29MBP_0101 595799 596701 EN 
+NI29MBP_0101 597291 598159 EN ahhah
+NI29MBP_0101 599479 601353 ZH 路军 也 不错 啊
+NI29MBP_0101 603911 614111 CS 我 真的 记不起  那个 camp 的 名字  因为 我们 其实 到 那边 到 台湾 训练 过后 训练 那边 的 台 那边 的 训练 不是 很
+NI29MBP_0101 615161 625432 CS 太 difficult 了 所以 我们 只 记得 训练 过后 去 一零 一  啊  去 旅行 那种 去 买 东西 吃 东西 
+NI29MBP_0101 626057 628799 ZH 台北 而已 啊 对
+NI29MBP_0101 630674 632306 EN 
+NI29MBP_0101 633799 642821 CS 嗯 哦 就是 我们 身为 蛙人 就是 要 如果 海里 有什么 sea mine ah 就是 我们 去
+NI29MBP_0101 643082 648761 CS detonate 这个 华语 怎样 讲 啊 我也 不懂 就是
+NI29MBP_0101 648761 652871 CS 还有 其实 我们 蛙人 部队 也 分 很多种 啊 一种 就是 detonate miner
+NI29MBP_0101 653115 656471 ZH 那是 跟 那是 我 被 训练 的 还有
+NI29MBP_0101 656471 657751 ZH 很多 种 就是
+NI29MBP_0101 657751 661561 ZH 从 海~ 从 海~ 海队 冲锋 部队 啦
+NI29MBP_0101 661561 666041 ZH 就是 突然 间 从 海岸 伸去 然后 就
+NI29MBP_0101 666231 668061 ZH 冲锋 啊 对
+NI29MBP_0101 668061 672951 CS 那种 是 比较 更 更 更 tough 的 对
+NI29MBP_0101 673173 674736 EN 
+NI29MBP_0101 675569 676541 EN 
+NI29MBP_0101 677461 679422 ZH 平常的圈 是 什么 意思
+NI29MBP_0101 680082 681158 ZH 哈
+NI29MBP_0101 681610 682721 ZH 训练
+NI29MBP_0101 683611 693171 CS 对 对 都是 在 水~ 水中 水中 训练 比如 憋气 在 水中 绑 knots  大概
+NI29MBP_0101 693921 695827 CS 还有 demolition 的 这些
+NI29MBP_0101 696625 698049 ZH 赞
+NI29MBP_0101 699311 703631 CS 主要 任务 就是 clear mine  clear sea mine lor
+NI29MBP_0101 705461 708251 ZH 嗯 不是 不是 不是 是 地雷  啊 
+NI29MBP_0101 708251 712498 ZH  水 诶 水  对
+NI29MBP_0101 713054 714026 ZH 对
+NI29MBP_0101 718880 724643 ZH 我 也 不知道 我也 不清楚 啊 我 只是 小兵 对
+NI29MBP_0101 725928 727698 ZH 对 啊
+NI29MBP_0101 730471 734241 ZH 比较 有 兴趣 啦 (嗯) 什么 嘞
+NI29MBP_0101 735591 739001 ZH 歌手  啊  台湾 歌手 
+NI29MBP_0101 741661 743981 ZH 周杰伦 不错 哦  周杰伦
+NI29MBP_0101 744741 748571 CS 还有 什么 嘞 其实 s. h. e. 也 不错 
+NI29MBP_0101 751768 753921 ZH  对 对 对
+NI29MBP_0101 753921 755553 ZH 嗯哈
+NI29MBP_0101 756601 758041 ZH 对 啊 喜欢 啊 
+NI29MBP_0101 758831 760331 ZH 新加坡 人 都 喜欢  嘛 
+NI29MBP_0101 762323 764059 ZH 都 知道 咯
+NI29MBP_0101 765011 769691 CS 有  啊  k. box  啊  l. box 很 挺 famous 的  啊 
+NI29MBP_0101 771021 777861 CS 收费 每次 都 不同  啊  大概 平均 average 应该 是 十八 这样  吧 
+NI29MBP_0101 778691 784821 CS 不是 不是 不是 一整~ 一整夜 咯 不 不是 一整夜 啦 就是 你的 整个 sessions 十八 块
+NI29MBP_0101 785967 786974 EN 
+NI29MBP_0101 787981 793771 CS 他 有 不同 的  time slot ah 有时 五个 小时 有时 七个 小时 啊 这样
+NI29MBP_0101 795161 797591 ZH 平均 十八 块 应该 是 哦
+NI29MBP_0101 797861 799891 ZH 可是 有时候 会 很贵 很贵
+NI29MBP_0101 800201 805081 CS 那种 christmas eve 那种 public holiday eve of public holiday 就 可能 就 到 三十 多 块
+NI29MBP_0101 805579 806620 EN en
+NI29MBP_0101 807781 808901 ZH 不可 以  啊  不可 以
+NI29MBP_0101 810057 812501 ZH 对 有 对
+NI29MBP_0101 812501 814821 CS 然后 就 额外的 哦 extra charge
+NI29MBP_0101 816064 818772 ZH 对 哦 有时候 有时候 没有
+NI29MBP_0101 821967 824421 ZH 啊 应该 是 
+NI29MBP_0101 825057 830022 ZH 别 是吗 新加坡 人 是 喝 汽水  为什么
+NI29MBP_0101 831951 835101 CS 我们 都是 喝 (呃) honey lemon
+NI29MBP_0101 835591 836320 ZH 对
+NI29MBP_0101 839521 840771 ZH 没有 诶 
+NI29MBP_0101 846391 847521 EN how often ah
+NI29MBP_0101 847871 854231 EN (em) now during school time i hardly go ah but during holiday i'll go like two weeks once
+NI29MBP_0101 854751 864093 CS actually it depends on new songs la 那么 有 新歌 我们 就会 很 奋 很兴奋 地 去  不然 老是 去 唱 旧歌 对
+NI29MBP_0101 864545 865343 EN 
+NI29MBP_0101 866385 868120 ZH 啊 不会 啊 不会 啊
+NI29MBP_0101 869491 871741 ZH 只是 喜欢 唱歌 罢了
+NI29MBP_0101 875631 878891 CS  新加坡 的 market 太小了 很难 发展
+NI29MBP_0101 880351 886111 ZH  啊  那个 是要 有 明星脸  啊  不 不只 不只 唱歌 要好 所以
+NI29MBP_0101 886541 888231 EN i don't have the idols look ah so
+NI29MBP_0101 888629 890816 ZH 哪 一些 
+NI29MBP_0101 891361 893411 ZH 特色 没有 特色 
+NI29MBP_0101 895711 897412 ZH 嗯
+NI29MBP_0101 898113 899745 ZH 对 对
+NI29MBP_0101 901221 905421 CS 是个 nationwide 大家 都 可以 参加 可是
+NI29MBP_0101 905781 907951 ZH 可能 那个 知名度 没有 这么
+NI29MBP_0101 907951 909341 ZH 响亮 啊 就
+NI29MBP_0101 909341 913981 CS 有人 参加 参加 mediacorp 的 我们 电视台 的 歌唱 比赛
+NI29MBP_0101 914570 915931 ZH 好像
+NI29MBP_0101 915931 920671 CS 那个 几年 办一次 吧 所以 反正 singapore idol 这种
+NI29MBP_0101 922464 923401 EN en
+NI29MBP_0101 924781 927881 ZH (呃) 他们 偶尔 有 办 可是 我也 不清楚  啊  其实
+NI29MBP_0101 934381 938661 ZH  啊  对 对 对 黄金 年华 那个 是 给 老人 唱歌 咯
+NI29MBP_0101 939327 940577 ZH 对
+NI29MBP_0101 941340 942590 EN 
+NI29MBP_0101 944777 945993 ZH 对
+NI29MBP_0101 948319 949603 EN 
+NI29MBP_0101 950853 951964 EN en
+NI29MBP_0101 954603 956348 ZH 没有 我 了解 其实
+NI29MBP_0101 956348 958628 CS 我 啊 打 篮球 啊 basketball
+NI29MBP_0101 958948 963788 ZH 我 喜欢 看 足球 可是 我的 足球 很 烂  啊   踢 足球
+NI29MBP_0101 963878 965838 CS 我的 soccer skills 很 差  啊  所以
+NI29MBP_0101 965838 967128 ZH 就
+NI29MBP_0101 967128 973568 CS 其实 篮球 足球 在 新加坡 也没有 什么 别的 sports 可以 好玩  啊  游泳 哦
+NI29MBP_0101 973828 979548 ZH 其实 游泳 嗯 其实 我也 不是 很 喜欢 游泳 
+NI29MBP_0101 979865 980872 ZH 对
+NI29MBP_0101 982258 984328 ZH (呃) 可以 这样 讲  啊 
+NI29MBP_0101 985801 989620 ZH  好 （ppl)
+NI29MBP_0101 990835 993161 ZH 好 （ppl)
+NI29MBP_0101 994048 995428 ZH 嗯 吃了 吃了
+NI29MBP_0101 997113 999612 EN 
+NI29MBP_0101 1002911 1008818 CS travel 这样 我 去过 其实 我 最 去过 最远的 应该 台湾 罢了
+NI29MBP_0101 1009558 1011568 CS 没有 去 我 一直 想要去 europe ah
+NI29MBP_0101 1011568 1012568 ZH 去
+NI29MBP_0101 1012568 1015008 CS france ah 这种 都 没有 时间
+NI29MBP_0101 1015008 1017878 CS  嗯 其实 学校 有 instep
+NI29MBP_0101 1017878 1020478 CS 就是 exchange program ah 可是
+NI29MBP_0101 1020618 1030458 ZH 我 都 没有钱 去  听说 去 那边 要 花 几万 块 几万 台 新币 新币 没钱 对 所以 去过 最远 就是 去 台湾
+NI29MBP_0101 1031028 1039488 ZH 几个 星期 就是 除～ 除了 除了 跟 兵 军队 一起 去 就是 自己 去 那边 消遣 去了 高雄 这种
+NI29MBP_0101 1039917 1042238 ZH 我 还 记得 上次 我们 去 高雄
+NI29MBP_0101 1042778 1049098 CS 我们 离开 高雄 去 台北 的 那一天 的 隔 天 the next day 就 刮台风 了 高雄
+NI29MBP_0101 1049098 1051357 ZH 所以 逃过 一劫
+NI29MBP_0101 1052399 1053649 ZH 啊
+NI29MBP_0101 1054188 1056578 ZH 二零零八年 七月
+NI29MBP_0101 1058870 1059911 ZH 啊 哦
+NI29MBP_0101 1060608 1061848 EN  yeah
+NI29MBP_0101 1063036 1064385 EN so luck
+NI29MBP_0101 1065253 1067718 ZH 在 台湾 一下 垦丁 咯 垦丁
+NI29MBP_0101 1068238 1073508 CS 垦丁 的 beach 很美  啊  很多 美眉 是  对 啊
+NI29MBP_0101 1073932 1075356 ZH 对
+NI29MBP_0101 1075911 1086648 ZH 可能 台湾 的 女生 比较 会 打扮 比较 比较 敢 穿 吧 我 觉得 不管 是 泳装  啊  还是 什么 新加坡 的 女生 都 比较 保守
+NI29MBP_0101 1086648 1088698 EN conservative
+NI29MBP_0101 1091024 1098738 CS ah ture ah ture but i think 垦丁 的 少 better
+NI29MBP_0101 1098738 1100918 EN as in (er) i i don't know also but
+NI29MBP_0101 1100918 1103198 CS actually when in 垦丁 it's like a
+NI29MBP_0101 1103828 1113138 EN is very carefree ah girls everybody is like very no stress et cetera i think maybe it's the holiday period when i went there so
+NI29MBP_0101 1113898 1119968 EN (er) yeah everybody is like no stress on their face can see sentosa is different ah sentosa
+NI29MBP_0101 1121208 1123348 EN i don't know how to explain 
+NI29MBP_0101 1129488 1132438 ZH 我 其实 我 真的 觉得 会 有
+NI29MBP_0101 1136395 1141198 ZH 嗯 就像 我们 学生 就是 成绩  啊 
+NI29MBP_0101 1141718 1149880 CS 成绩 那 很 competitive ah n. t. u. 所以 有时候 不管 读到 多
+NI29MBP_0101 1150470 1152860 ZH 崩溃 啊 还是 考 不好  啊  对
+NI29MBP_0101 1154100 1157620 ZH 你 大人 我 就 觉得 他们 其实 我也 是 大人
+NI29MBP_0101 1157620 1162190 ZH 其实 工作 人物 他们 新加坡 的 东西 都很贵 啊 物质
+NI29MBP_0101 1162190 1171570 CS 车子 什么 都贵 所以 钱 都 很重要 很多 人 都 没钱  啊  no money 都 take loans loan 了 过后 就
+NI29MBP_0101 1171570 1176025 CS can not re-pay interest 这样 然后 越来越 stress lor
+NI29MBP_0101 1176650 1178698 EN 
+NI29MBP_0101 1179809 1181490 EN 
+NI29MBP_0101 1181490 1183360 ZH 是  吗  我 不清楚 诶 
+NI29MBP_0101 1188168 1189071 ZH 哦
+NI29MBP_0101 1192786 1198330 ZH 对 对 对 台湾 的 食物 应该 比较 便宜 吧
+NI29MBP_0101 1198330 1200340 ZH 哇 台湾 的 食物 很好吃  啊  
+NI29MBP_0101 1201180 1208090 ZH 最 喜欢  啊  其实 他的 肉饭  啊  我 就 很喜欢  可以 叫个 大碗 吃个不停
+NI29MBP_0101 1208960 1211630 CS pearl (er) 珍珠 奶茶 也是 不错
+NI29MBP_0101 1211630 1213053 ZH 对
+NI29MBP_0101 1217280 1222900 ZH 啊 有 有 有 哇 那个 阿姨 是吗 台北 有一个 阿姨 面线
+NI29MBP_0101 1225640 1227690 CS 那个 那个 很 famous ah 那个
+NI29MBP_0101 1227690 1231650 ZH 超好吃 对 对 对 对 西门町
+NI29MBP_0101 1231650 1233470 ZH 哎 阿中  啊  对 对 阿中
+NI29MBP_0101 1233840 1235260 ZH 对 超好吃 的
+NI29MBP_0101 1237046 1239570 ZH 鸡扒 超大只
+NI29MBP_0101 1239570 1241790 ZH 就是 新加坡 的 鸡扒 没有
+NI29MBP_0101 1241790 1243781 ZH 不比 好吃 啊
+NI29MBP_0101 1244540 1251470 ZH 新加坡 很多 地方 都有 士林 夜市 是 是 一间店的 那个 店 的 名称 叫 士林 夜市
+NI29MBP_0101 1252180 1258300 CS 然后 他 卖 的 都是 士林 的 食物 可是 食物 都 not comparable ah 没有 这样 好吃
+NI29MBP_0101 1260937 1262499 EN oh
+NI29MBP_0101 1263749 1265103 EN 
+NI29MBP_0101 1268040 1272130 ZH 我 我 对 对 对 应该是 可是 没 这么 好吃  啦 
+NI29MBP_0101 1276328 1279487 ZH 故宫 有 故宫
+NI29MBP_0101 1281223 1283376 ZH 为什么 呢
+NI29MBP_0101 1287924 1303710 CS 哦 其实 新加坡 有 可是 新加坡 的 museum ah exhibition 都 不出名 的 没有 他们 也没有 advertise 这样 所以 大家 都 不了解 so 我 本身 也不是 很了解
+NI29MBP_0101 1303710 1308827 CS 去 故宫 对 哦 故宫 是看 artifacts 这样
+NI29MBP_0101 1309660 1311049 ZH 嗯
+NI29MBP_0101 1312229 1316891 ZH 对 对 对 对 有 <unk> 有
+NI29MBP_0101 1316891 1319451 ZH 应该 是 每个 景点 都有 去 过
+NI29MBP_0101 1322141 1325421 ZH 嗯 其实 才 十天  吧  十天  吧 
+NI29MBP_0101 1328331 1332621 ZH 对 对 可是 中间的 和 东边的 我们 都 没有去
+NI29MBP_0101 1332621 1333711 ZH 对
+NI29MBP_0101 1333711 1335611 ZH 什么 阿里山 是什么 我们 没去
+NI29MBP_0101 1336421 1337567 ZH 嗯
+NI29MBP_0101 1338296 1339337 ZH 是
+NI29MBP_0101 1340136 1341073 ZH 嗯
+NI29MBP_0101 1342601 1346281 ZH 是吗 
+NI29MBP_0101 1352912 1354409 ZH 哦
+NI29MBP_0101 1356562 1357534 ZH 嗯
+NI29MBP_0101 1359061 1364731 CS 我 怎么 了解 不过 你 可以 去 malaysia malaysia 的 seafood 更好 更好 吃
+NI29MBP_0101 1364731 1366353 ZH 对
+NI29MBP_0101 1367152 1376141 CS malaysia 不用 去 很远  啦  就是 好像 j. b. johor-bahru 在 在 上面 而已  那边的 海鲜 都 很好吃的
+NI29MBP_0101 1376581 1381481 ZH 嗯 又 便宜 超 便宜 比 新加坡 便宜 两 倍 诶 便宜
+NI29MBP_0101 1382205 1384114 ZH 对 对 对
+NI29MBP_0101 1386718 1387899 ZH 嗯
+NI29MBP_0101 1389183 1391217 EN 
+NI29MBP_0101 1392640 1394064 ZH 对 咯
+NI29MBP_0101 1396702 1398473 ZH 印象 啊 不错 啊
+NI29MBP_0101 1400348 1401632 ZH 比较 一下 啊
+NI29MBP_0101 1405000 1415441 CS 嗯 老实说 我 觉得 台湾 的 streets ah 有点乱  很 容易 迷路  啊  新加坡 的 比较 organise 这样
+NI29MBP_0101 1415891 1419461 ZH 嗯 对 哦 所以 我们 在 那边 其实 迷路 了
+NI29MBP_0101 1420571 1431331 ZH 好几次  啊  然后 都要 搭 的士 有时候 的士 司机 也  迷路 了 对 可是 那边 的 东西 都 很 便宜  啊  所以 东西 又 好吃
+NI29MBP_0101 1431701 1441861 ZH 女生 又 好看  所以 我 觉得 挺 不错 是个 华人的 天堂  啊  只要 会讲 华语 就 应该 去 逛逛 一下 对
+NI29MBP_0101 1442823 1446071 ZH 哪边 可以 <unk> 嗯
+NI29MBP_0101 1446071 1448781 ZH 我 觉得 都 很好 的 吧 可能
+NI29MBP_0101 1451437 1453763 ZH 不 满意 意
+NI29MBP_0101 1459596 1461801 ZH 都不 <unk>
+NI29MBP_0101 1461801 1465271 ZH 我也 不知道 诶  可能 (呃)
+NI29MBP_0101 1466531 1468691 ZH 可能 可以 更 干净 一点  嘛  对不起
+NI29MBP_0101 1468691 1469774 ZH 对
+NI29MBP_0101 1476051 1481451 CS 就是 新加坡 本身 是个 garden city ah 很多 树木  啊 
+NI29MBP_0101 1481811 1487151 CS 大家 看了 都 觉得 很干净  啊  比较 觉得 啊 compared to other countries ah
+NI29MBP_0101 1487531 1491781 ZH 所以 嗯 可是 新加坡 可以
+NI29MBP_0101 1492271 1494461 CS 可能 我们 singaporean 的
+NI29MBP_0101 1495281 1497781 CS attitude 对 foreigner 可以 好一点  啊 
+NI29MBP_0101 1499371 1502371 ZH 怎么 讲 (呃) 因为 新加坡 人 其实
+NI29MBP_0101 1502641 1506641 ZH 有时候 我们 虽然 受 教育 受到 很高 可是 我们 还是
+NI29MBP_0101 1507547 1508762 ZH (呃)
+NI29MBP_0101 1509471 1512501 ZH 怎样 讲 很 自私  啊  在 在 在 公共场所
+NI29MBP_0101 1513191 1514961 ZH 都
+NI29MBP_0101 1514961 1517431 ZH  我 不懂 怎样 说 诶 
+NI29MBP_0101 1519857 1522773 ZH 对 对 对 对 对 就是 这种 就是 这种 观念
+NI29MBP_0101 1523329 1526210 ZH 好 好 好的 新加坡
+NI29MBP_0101 1527251 1528881 ZH 新加坡 很 不错
+NI29MBP_0101 1530541 1535091 CS 新加坡 比如 刚 开 的 i. r. 这种  啊  其实 新加坡 的 东西
+NI29MBP_0101 1535771 1539141 CS 嗯 对 tourist 来说 应该 会 有 很多 东西 可以 玩  吧 
+NI29MBP_0101 1541841 1547021 CS 比如 sentosa zoo ah  这类 i. r. casino
+NI29MBP_0101 1548732 1550741 EN en
+NI29MBP_0101 1550741 1558501 CS culture 其实 新加坡 culture 很 很好  啊  multi cultural 有很多 有 马来 印度 华语 华人 
+NI29MBP_0101 1559271 1567091 CS 所以 社会 种族 诶 racial harmony  对 挺重要 啊
+NI29MBP_0101 1570361 1577631 CS 政府 做 得 很好 啊 就是 从 六十 年代 到 现在 都 都很 peaceful ah
+NI29MBP_0101 1582141 1583291 ZH 是  吗 
+NI29MBP_0101 1584531 1585573 ZH 哦
+NI29MBP_0101 1589891 1592871 CS 其实 都是 government 在
+NI29MBP_0101 1593416 1596821 ZH 压迫 不是  我 不懂 怎么 说
+NI29MBP_0101 1597211 1603121 CS 这个 因为 sin~ singapore law 很 strict ah 很多 东西 都 不能做 做了 就是 违法
+NI29MBP_0101 1603121 1604631 ZH 所以
+NI29MBP_0101 1604631 1607891 CS 虽然 很多 很多 人 都说 他们的 freedom 被
+NI29MBP_0101 1608731 1616851 CS (呃) 被 control ah 可是 我 觉得 其实 只要 国家 管得好 社会 治安 好  啊  这样
+NI29MBP_0101 1617791 1620792 ZH 其实 也不用 管 太多  吧 
+NI29MBP_0101 1622354 1624298 EN 
+NI29MBP_0101 1627006 1632301 ZH 嗯 对 啊 啊 啊 偶尔 啦 可是 有时候
+NI29MBP_0101 1633161 1635411 ZH 你 会 觉得 反正 都
+NI29MBP_0101 1636531 1639981 ZH 都 已经 很好了 不要 再 去想 了  对
+NI29MBP_0101 1643231 1644571 EN yeah true true
+NI29MBP_0101 1647021 1648121 ZH 是吗
+NI29MBP_0101 1652911 1655091 EN oh i see i see
+NI29MBP_0101 1657072 1658495 EN 
+NI29MBP_0101 1658495 1660231 EN 
+NI29MBP_0101 1667041 1670531 ZH 不对  啊  其实 因为 新加坡 (呃)
+NI29MBP_0101 1671091 1677651 CS 我 不晓得 台湾 可是 新加坡 如果 你 无法 生存 the government won't really help you much
+NI29MBP_0101 1679231 1685571 ZH （呃） 你 没有钱 新 新 政府 也不 会 好像 像 那种
+NI29MBP_0101 1686261 1692470 CS european countries ah 会 给你 钱 过生活 这样 没钱 就是 睡街头 的
+NI29MBP_0101 1695351 1697365 ZH 嗯 嗯
+NI29MBP_0101 1698411 1699241 EN that's why
+NI29MBP_0101 1704431 1713141 CS 嗯 我 觉得 i think the singapore government is very rich so why not we subsidise their life a bit la
+NI29MBP_0101 1713381 1715511 EN because some of them is
+NI29MBP_0101 1715791 1725541 CS 他们 有 一些 真的 是 无法 再 做工 了 他们 不是 不想 做工 而是 他们 身体 已经 不能 再 做工 了 可是 新加坡 还是 maintain 一个 很 strict 的 stand 就是
+NI29MBP_0101 1725981 1729581 ZH 你的 生活 是 靠你 自己的 我们 不会 帮你 太多 这样
+NI29MBP_0101 1730693 1731839 ZH 对
+NI29MBP_0101 1733679 1744381 ZH 改天 不由得 我 改天 来的 我 总 觉得 新加坡 的 太多 钱 了 可是 也不 知道 放在 哪里  啊  应该 还 一点 给 社会 这样  嘛 
+NI29MBP_0101 1749221 1752991 ZH 对  啊  这 这 只是 这 只是 一小部分  吧  对 吧
+NI29MBP_0101 1760401 1761859 EN 
+NI29MBP_0101 1765071 1766331 ZH 歌手  啊  
+NI29MBP_0101 1766821 1769046 ZH 你 要 聊 什么  新歌 么
+NI29MBP_0101 1771428 1774518 ZH 嗯 有 有 有 喜欢 啦
+NI29MBP_0101 1775091 1776901 ZH 这样 我 猜  啊  我 猜 我 猜
+NI29MBP_0101 1777712 1782815 ZH 偶尔 会 追 啊 可是 最近 没 时间 看 多 好笑 啊 吴忠宪
+NI29MBP_0101 1784761 1787681 ZH (呃) 没有 我 只看 电视机  啊  我们
+NI29MBP_0101 1789122 1791066 ZH 对 对 对 有
+NI29MBP_0101 1793751 1798021 CS 不是  啊  是 delay 两三个 星期 了
+NI29MBP_0101 1798600 1799954 ZH 对
+NI29MBP_0101 1801462 1804031 CS 对 新加坡 data 对 对 对
+NI29MBP_0101 1804461 1808614 ZH 不是 不是 不是 那个 还 那个 我们 也会
+NI29MBP_0101 1810861 1812771 ZH 对
+NI29MBP_0101 1812771 1814221 EN 
+NI29MBP_0101 1814221 1815181 ZH 你 住 哪边
+NI29MBP_0101 1816312 1817353 ZH 啊哈
+NI29MBP_0101 1818041 1819151 ZH 对 对 对  哦 
+NI29MBP_0101 1819784 1824831 ZH 对 啊 啊  什么 意思 
+NI29MBP_0101 1827337 1828657 ZH 嗯啊
+NI29MBP_0101 1829761 1831291 ZH 没有 没有 没有
+NI29MBP_0101 1832811 1834761 CS 哦 不要紧 不要紧 nevermind
+NI29MBP_0101 1836156 1837649 ZH 嗯
+NI29MBP_0101 1840044 1841676 ZH 嗯
+NI29MBP_0101 1843941 1845921 ZH (呃) 其实 我 跟 我的 家人
+NI29MBP_0101 1846361 1850758 CS 因为 我的 爸爸 是 属于 那种 比较 strict 的 好像
+NI29MBP_0101 1851661 1852671 ZH 不是 不是
+NI29MBP_0101 1852981 1861321 CS 就是 warehouse controller warehouse manager 这样 管理 warehouse 的 咯 就是 他 比较
+NI29MBP_0101 1861321 1862951 CS strict ah 怎么 讲
+NI29MBP_0101 1863161 1866761 CS so 严格 对 所以 我们的 家 其实 都是
+NI29MBP_0101 1867441 1870781 ZH 很少 有 那种 一起 活动 的 东西  啦  都是
+NI29MBP_0101 1871041 1875081 ZH 吃饭 吃 吃 怎么 讲 
+NI29MBP_0101 1875549 1876903 ZH 是 啊
+NI29MBP_0101 1879281 1881831 ZH 嗯 妈妈 哥哥 姐姐 咯
+NI29MBP_0101 1882881 1886000 CS 对 我是 最小 smallest 
+NI29MBP_0101 1887736 1888674 ZH 嗯
+NI29MBP_0101 1889958 1898261 ZH 哦 我 姐姐 对 我 姐姐 在 做工 我 哥哥 哈 还 没有  还 没有 我 哥哥 也 还 没有 娶  啊 
+NI29MBP_0101 1898661 1908301 CS 我 哥哥 其实 是 有一个 degree 了 n. t. u. degree 可是 他 没有 在 做工  啊  他 去  full time gambler
+NI29MBP_0101 1909025 1911108 EN ah full-time
+NI29MBP_0101 1911951 1915061 EN en enough to sustain enough to live lor
+NI29MBP_0101 1917891 1924971 CS 他 每次 都 参加 那种 poker competition ah tournament 到 澳门 这种
+NI29MBP_0101 1925041 1926111 ZH  啊 对
+NI29MBP_0101 1930071 1931641 CS 对 texas poke
+NI29MBP_0101 1932064 1933210 EN taxes poker
+NI29MBP_0101 1934151 1941581 CS 对   哦  这个 我 不 清楚 可是 他 参加 过 挺多 competition 都 赢 一点点 钱  吧  过 生活
+NI29MBP_0101 1945451 1950841 CS (呃) 可是 我 觉得  赌博 (呃) 很 uncertain ah
+NI29MBP_0101 1953508 1955140 EN 
+NI29MBP_0101 1956355 1968721 CS 我 我 不懂  啊   我 希望 他 可以 make it big lor 不然 就 因为 他 现在 本身 已经 take 一个 很大 的 gamble 就是 不去 做工 而去
+NI29MBP_0101 1968721 1970731 ZH 专业 的 做 这个 东西
+NI29MBP_0101 1974641 1975591 ZH 是  啊 
+NI29MBP_0101 1976251 1979306 ZH 哦 对 对 对 嗯
+NI29MBP_0101 1981181 1982674 ZH 嗯 对
+NI29MBP_0101 1983507 1985311 EN 
+NI29MBP_0101 1985311 1988571 ZH (呃) 有 两三年 了  吧  两三年
+NI29MBP_0101 1992131 1994411 ZH 应该 是 没 问题  暂时 没 问题
+NI29MBP_0101 1998751 2000201 CS 哦 他是 business 的
+NI29MBP_0101 2001201 2004991 CS 那 我是 accountancy 对 差不多 也是 n. b. s. 的
+NI29MBP_0101 2008301 2010871 ZH （呃） 他问 是 说是
+NI29MBP_0101 2011641 2014991 CS yeah 是 包赚 因为 每个 公司 都 需要 accountant mah
+NI29MBP_0101 2015151 2019301 CS 唯一 不能 不能 retrench 的 就是 accountant
+NI29MBP_0101 2019301 2020954 ZH 对
+NI29MBP_0101 2021267 2023801 EN 
+NI29MBP_0101 2025607 2026926 ZH 嗯
+NI29MBP_0101 2029181 2031381 ZH  啊  也 也 对  啦  也 对了
+NI29MBP_0101 2037292 2039687 ZH  没有 啊
+NI29MBP_0101 2042651 2044031 EN  engineering
+NI29MBP_0101 2047441 2049790 ZH 看 行情 怎样 对
+NI29MBP_0101 2057500 2059340 ZH 什么 月薪 啊
+NI29MBP_0101 2059741 2062311 CS 刚 加入 starting pay 应该 是 两 千
+NI29MBP_0101 2063141 2070460 CS 其实 也不多  compared to engineer 可是 engineer 我 听说 是 三千 多
+NI29MBP_0101 2072891 2078860 ZH 可是 我们 加薪 会 比较快 对  啊  几个月 六个月 就 加一次  吧 
+NI29MBP_0101 2082931 2085071 EN bonus bonus
+NI29MBP_0101 2090494 2104931 CS  这 我也 不知道 啊  因为 新加坡 新加坡 的 natural resource 新加坡 没有 natural resource ah 所以 我们的 only resource 就是 human mind oh 就是 我们的 人 啊 所以 只要 我们的 人
+NI29MBP_0101 2105993 2111761 ZH 啊 我 看 就 新加坡 新加坡 就是 靠 我们的 人才 在 奋斗  啊 
+NI29MBP_0101 2113931 2115054 ZH 对 对
+NI29MBP_0101 2118769 2121871 ZH  没有 诶  我们 读的 都是
+NI29MBP_0101 2122264 2123895 ZH 对 就是
+NI29MBP_0101 2128041 2129401 ZH 对 对 计算
+NI29MBP_0101 2131141 2134381 CS 嗯 还 好  吧  我 其实  not bad la 
+NI29MBP_0101 2134381 2135352 ZH 可是
+NI29MBP_0101 2135941 2141383 CS 有 有 有 读 statistics ah 那个 我 读到 要 疯掉 
+NI29MBP_0101 2142285 2142980 ZH 对
+NI29MBP_0101 2147805 2149229 ZH (嗯)
+NI29MBP_0101 2149871 2152051 ZH 其实 我 觉得
+NI29MBP_0101 2152770 2154263 ZH 是 靠 什么
+NI29MBP_0101 2155561 2160681 ZH 是 靠 兴趣 吧 就是 嗯 其实 (呃)
+NI29MBP_0101 2161371 2163281 ZH 老实 说 我在
+NI29MBP_0101 2163281 2163941 EN 
+NI29MBP_0101 2163941 2177861 CS (呃) 初级 学院 j. c. ah junior college 读 physics 读 chemistry 读 到 有点 厌倦  啊  所以  想 换 一个 新的 东西 来读  啊  所以 我 就 选择 biz (er) accounting ah 我 不想 再 读 engineering 这种 累死 了
+NI29MBP_0101 2179874 2181471 EN 
+NI29MBP_0101 2183485 2188161 CS 是 有 business accounting 还有 business and computing ah
+NI29MBP_0101 2188651 2191631 ZH 那个 我 不大 清楚 就是 其实 只有 三个  吧 
+NI29MBP_0101 2192465 2195501 CS 啊 三个 business accounting 还有 business computing
+NI29MBP_0101 2196492 2197499 ZH 对 
+NI29MBP_0101 2198241 2200971 CS business 还有 分 很多 specialisation ah
+NI29MBP_0101 2201401 2209251 CS 比如 tourism tourism ah economics ah actuarial science
+NI29MBP_0101 2210391 2212111 ZH 还有 什么 
+NI29MBP_0101 2212881 2219333 CS (呃) 还有 (呃) 我 想 不 起来  因为 我 不是 business 的 我是 accounting 还有 marketing 是啊 是啊 对
+NI29MBP_0101 2221051 2222721 CS 我是 accountancy 对
+NI29MBP_0101 2224681 2225881 ZH 嗯 对
+NI29MBP_0101 2233698 2236094 EN 
+NI29MBP_0101 2242341 2244321 ZH 应该 是 四月  吧 
+NI29MBP_0101 2244829 2247721 CS 对 那年 是 时候 pay tax 了 
+NI29MBP_0101 2251061 2258671 CS (呃)  不 清楚 leh 虽然 我 有 读过 只是 我 只是 读 怎么 calculate tax 而已 我 不懂 要 几时 pay
+NI29MBP_0101 2266061 2268301 EN actually depend on the tax rate ah
+NI29MBP_0101 2270301 2272931 CS tax rate personal tax rate 应该 是
+NI29MBP_0101 2274349 2288051 CS 我 不 记得  所以 我 就是 我 我 觉得 大学 学的 东西 很 容易 就被 忘记 了 就是 我们 一个 学期 一个 semester 学 的 东西 下个 semester 可能 都 忘记 了
+NI29MBP_0101 2288891 2295391 CS 因为 我 觉得 我们 实在 是 learn 太多 东西 了 无法 retain knowledge ah 有时
+NI29MBP_0101 2297781 2302341 ZH （呃） 五 四五个 五 有时候 还有 六个 这样
+NI29MBP_0101 2302341 2303822 ZH 对
+NI29MBP_0101 2305488 2308127 EN 
+NI29MBP_0101 2308127 2310627 CS elec~ ah electives 对
+NI29MBP_0101 2310627 2311772 ZH 对
+NI29MBP_0101 2312581 2318871 CS  哦  我 都在 学 french ah 那种 因为 我 对 对 别的 语言 有 兴趣
+NI29MBP_0101 2320536 2321890 ZH 放弃了 对
+NI29MBP_0101 2321890 2322758 EN 
+NI29MBP_0101 2323452 2324598 ZH 我 不记～
+NI29MBP_0101 2327063 2329216 EN mosu*  en
+NI29MBP_0101 2331891 2333611 ZH  啊   啊  对
+NI29MBP_0101 2334875 2336680 EN 
+NI29MBP_0101 2338541 2342101 ZH  啊  对 啊 就是 在 学校 学 咯 没有 在外面 学 过
+NI29MBP_0101 2344161 2348667 ZH 学校 学校 是 免费的  啊  外面 要 付 好几百块 对
+NI29MBP_0101 2353354 2355090 ZH 什么 是 <unk>
+NI29MBP_0101 2358961 2366761 EN oh i'm not sure cause i haven't seen these kind of thing happen yet but i think you can try 
+NI29MBP_0101 2369891 2377181 EN no its it's not its a small class because (er) language course if its very big then everybody cannot its very difficult to learn
+NI29MBP_0101 2377951 2380188 EN must be small and interactive ah as
+NI29MBP_0101 2381161 2383035 EN twenty ah twenty
+NI29MBP_0101 2384146 2385396 EN yes yes yes
+NI29MBP_0101 2388378 2393238 EN 
+NI29MBP_0101 2394871 2397521 EN (er) i'm study
+NI29MBP_0101 2399571 2401271 EN actually one and a half years only
+NI29MBP_0101 2401780 2402475 EN en
+NI29MBP_0101 2403377 2406120 CS level three ah 对
+NI29MBP_0101 2409071 2410901 ZH 会 会 有 有 有 有
+NI29MBP_0101 2413251 2421961 CS 就是 其实 也是 很 basic 的 因为 有时候 他们 the native speaker they speak very fast then 我们 听 不懂
+NI29MBP_0101 2421961 2423038 ZH 对
+NI29MBP_0101 2425711 2428593 ZH 啊 这 造句 没问题 没问题 对
+NI29MBP_0101 2431731 2436101 CS 有  啊  有 看过 可是 下面 都有 英文 字母 subtitle 对 
+NI29MBP_0101 2440795 2443086 EN oh 
+NI29MBP_0101 2451071 2458031 CS  哦  我 知道 我 知道 那个 是 那个 choir 的 哎 我 自己 有 看过 诶  哇 不错 不错 嗯
+NI29MBP_0101 2458031 2459045 ZH 对
+NI29MBP_0101 2461311 2463231 ZH  啊  对 对 对 对
+NI29MBP_0101 2464741 2466091 ZH 那个 很好 看  啊  
+NI29MBP_0101 2467650 2468414 ZH 嗯
+NI29MBP_0101 2469698 2470731 ZH 嗯
+NI29MBP_0101 2470731 2472151 CS taxi 每个人 都 看过 吧
+NI29MBP_0101 2475199 2476483 CS 对 top four
+NI29MBP_0101 2481136 2482594 EN 
+NI29MBP_0101 2483701 2485531 ZH 是吗 
+NI29MBP_0101 2486721 2488481 ZH 我 嗯 不知道
+NI29MBP_0101 2488761 2491631 EN oh okay
+NI29MBP_0101 2496773 2498856 EN what else to talk about
+NI29MBP_0101 2500961 2508191 EN religion ah (er) my family is buddhist but actually i've not really
+NI29MBP_0101 2508191 2512151 ZH 你知道 我 每天 烧香 其实 就 (呃) 其实 我也 没有 兴～
+NI29MBP_0101 2512151 2516901 ZH 不是 不是 说 没有 兴趣  啦  只是 其实 没有 那种 习惯 啊
+NI29MBP_0101 2517081 2525361 CS 可是 如果 我的 parents 带 我 去 temple 这种 我 就会 很 认真的 去祈祷 这种 对
+NI29MBP_0101 2525361 2527155 ZH 会了 对
+NI29MBP_0101 2530210 2533661 CS i hope oh oh oh 那个 挺 
+NI29MBP_0101 2536216 2537674 ZH 哦 我 不会
+NI29MBP_0101 2538001 2540021 ZH 我 父母 是 嗯 潮州人
+NI29MBP_0101 2540021 2540755 EN teochou*
+NI29MBP_0101 2542771 2544421 CS 不是  啊  hokkien 是
+NI29MBP_0101 2547281 2552721 ZH 我 我 不 清楚  啊   就是 我 不会 我们 这一 这一代 的
+NI29MBP_0101 2553351 2559701 CS 都 应该 是 lose touch with 我们的 native type level ah 我 觉得
+NI29MBP_0101 2561161 2561995 ZH 嗯
+NI29MBP_0101 2565021 2566091 ZH 对 会要
+NI29MBP_0101 2568001 2574211 CS 拜 拜 (呃) 都是 去 chinatown 驷马路 那间  有听过 吗
+NI29MBP_0101 2574261 2577701 EN there's this very famous temple in chinatown
+NI29MBP_0101 2580061 2586231 ZH 不是 不是 是  总之 (呃) 每 每当 新年 都会 爆 挤满 人  啊  就是
+NI29MBP_0101 2587258 2589584 ZH 就是 观音庙 观音庙 对
+NI29MBP_0101 2590071 2591008 EN 
+NI29MBP_0101 2592231 2594671 ZH 啊 对 应该 是  吧  可是
+NI29MBP_0101 2596945 2600903 CS 上面 啊 怎 怎样 算过 okay
+NI29MBP_0101 2603720 2605788 ZH 可是 我 我也 没有 去 那里

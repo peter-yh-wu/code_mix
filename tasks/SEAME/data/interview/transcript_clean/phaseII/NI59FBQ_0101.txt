@@ -1,0 +1,917 @@
+NI59FBQ_0101 296 1338 CS okay 这样 可以 吗
+NI59FBQ_0101 1950 2580 ZH 太 小 声
+NI59FBQ_0101 4671 5678 EN 
+NI59FBQ_0101 6390 11070 CS 这样子 呢 testing testing testing hello hello hello
+NI59FBQ_0101 11520 12190 EN okay
+NI59FBQ_0101 12190 12934 EN en
+NI59FBQ_0101 14704 15572 EN 
+NI59FBQ_0101 17343 19030 EN okay
+NI59FBQ_0101 19030 21770 ZH 你要 我 用 英语 还是 华语 讲
+NI59FBQ_0101 31938 33014 EN yeah
+NI59FBQ_0101 36001 38651 CS yeah f. y. p. 是 做 纪录片
+NI59FBQ_0101 40205 41701 EN (erm)
+NI59FBQ_0101 41701 45611 CS 我 跟我 的 group mates 我们 去 泰国
+NI59FBQ_0101 46611 48051 CS (呃) 我们 去 bangkok
+NI59FBQ_0101 48241 54171 CS 我们 做 一个 documentary on the stigmatization of aids in thailand
+NI59FBQ_0101 54801 55801 EN yeah so
+NI59FBQ_0101 56171 62481 EN we went there to like speak to the people there lah like make friends and then they will tell us their stories
+NI59FBQ_0101 62991 63571 EN en
+NI59FBQ_0101 65161 68491 EN (erm) they are people with h. i. v.
+NI59FBQ_0101 69391 75211 EN so like stories that like~ like we don't know lah like
+NI59FBQ_0101 77011 79101 CS 有  就是 like
+NI59FBQ_0101 79171 79881 EN (erm)
+NI59FBQ_0101 80321 80891 ZH 他们
+NI59FBQ_0101 81276 86616 CS 他们就 会 跟我 们 讲 哦 they used to be very rich or like they used to have a good family
+NI59FBQ_0101 86770 97220 CS but because they have this disease ah this virus then now they don't have a job 没有 家庭 没有 朋友 没有 人 要 接近 他们
+NI59FBQ_0101 97731 100341 ZH 哦 所以 我们 就 拍 他们 咯
+NI59FBQ_0101 102006 104606 CS contact 他 (呃) 我们
+NI59FBQ_0101 105738 112398 ZH 我们 去年 七月 我们 去了 一个 星期 然后 就去了 解 一下 情况
+NI59FBQ_0101 112408 114468 ZH 然后 十月 我们 再 去 一个 星期
+NI59FBQ_0101 114968 121651 CS 去 好像 跟 他们 make friends 交朋友 了解 他们 (呃)
+NI59FBQ_0101 122458 124858 ZH 就是 (呃)
+NI59FBQ_0101 126218 126838 ZH 对
+NI59FBQ_0101 127301 138772 CS 好像 他们 他们 比较 信任 我们 比较 trust 我们 之后 我们 就可以 啊 talk more 然后 他们就 就 比较 愿意 比较 willing to 跟我 们 share 他们的 stories
+NI59FBQ_0101 139050 139988 ZH 啊
+NI59FBQ_0101 142821 146811 EN for (erm) as in my team has four of us
+NI59FBQ_0101 147183 155483 CS and we visited a lot of people like different organizations different (erm) 那种 疗养 对
+NI59FBQ_0101 155854 156722 EN en
+NI59FBQ_0101 157463 161693 ZH 有 疗养院 有 医院 有 私人 机构
+NI59FBQ_0101 167663 173363 ZH 就 有些 地方 是 比较 小的 因为 泰国 跟 新加坡 不一样
+NI59FBQ_0101 173411 175771 ZH (呃) 泰国 他们 比较
+NI59FBQ_0101 177934 188558 CS restriction 可能~ 可能 没有 那么 多 就是 好像 那种 不用 go through a lot of paperwork 然后 你 就可以 跟 他们 说话 就可以 跟 那些 病人 谈天 啊
+NI59FBQ_0101 201418 207518 CS (呃) 有些 地~ 有些 人 我们 是 好像 通过 一些 organization 他们 就 讲 哦 (呃)
+NI59FBQ_0101 207963 219415 CS (erm) bangkok 的 这个 地方 有 有 这个 疗养院 还是 什么的 啦 所以 可以去 try our luck 对 然后 我们 就 去 那边 然后 跟 他们 谈天 这样子
+NI59FBQ_0101 222054 224519 EN ahen
+NI59FBQ_0101 226923 230313 EN (erm) in thailand there's like one in hundred
+NI59FBQ_0101 232643 237453 EN every one person in a hundred is h. i. v. positive
+NI59FBQ_0101 238653 242913 CS 嗯 百分之 一 so it's actually 蛮 严重 的
+NI59FBQ_0101 244002 246603 ZH (呃) 所以 嗯
+NI59FBQ_0101 246603 252603 ZH 在 好像 在 亚洲 还是 亚细亚 这个 地带 泰国 是 比较 严重
+NI59FBQ_0101 253100 254350 ZH 嗯
+NI59FBQ_0101 258843 262353 CS protection 啊 其实 okay 啊
+NI59FBQ_0101 264587 269967 ZH (呃) 就是 血液 啊 血液 传染 所以 如果 我们 跟 他们 谈天
+NI59FBQ_0101 269967 271607 ZH 就是 继～
+NI59FBQ_0101 271607 272877 CS 都 都 okay
+NI59FBQ_0101 272984 276024 ZH 所以 我们 其实 跟 他们 吃 东西 我们 也是
+NI59FBQ_0101 276654 278054 ZH 好像 啊 他们 煮
+NI59FBQ_0101 278634 279884 ZH 其实 他们 很 好客 的
+NI59FBQ_0101 280227 283107 ZH 啊 所以 他们就 煮 很多 东西 然后 我们 也是 可以 吃
+NI59FBQ_0101 283887 288647 ZH 啊 可是 如果 我们 生病 的话 最好 就是 不要 靠近 他们
+NI59FBQ_0101 288926 290206 EN because we will
+NI59FBQ_0101 292016 298279 EN yeah their their immune system is lower so if we go near them they might get infected like
+NI59FBQ_0101 298960 299770 EN by us
+NI59FBQ_0101 300154 301195 EN en
+NI59FBQ_0101 305315 306175 EN age range
+NI59FBQ_0101 306490 309030 EN en we interviewed a lot of people like
+NI59FBQ_0101 310350 313850 EN (erm) like our youngest is is fifteen
+NI59FBQ_0101 314390 321220 EN fifteen sixteen and twenties thirties forties yeah
+NI59FBQ_0101 325285 327090 EN en
+NI59FBQ_0101 327825 332855 EN we interviewed four persons like one one teenager one
+NI59FBQ_0101 333964 336495 EN t~ twenty nine thirty she's a mother
+NI59FBQ_0101 336927 338157 EN and one gay
+NI59FBQ_0101 338847 342137 EN gay man and one male
+NI59FBQ_0101 342628 343253 EN like
+NI59FBQ_0101 346273 347558 EN yeah
+NI59FBQ_0101 350162 352210 EN 
+NI59FBQ_0101 360877 363237 ZH 嗯 可以 啊 可以 啊
+NI59FBQ_0101 364838 367442 EN en okay 
+NI59FBQ_0101 374768 375809 EN en
+NI59FBQ_0101 376642 378170 EN en
+NI59FBQ_0101 380617 383097 ZH 其实 他们的 生活 是 蛮 复杂
+NI59FBQ_0101 383777 385587 CS 就是 很 complicated 的 因为
+NI59FBQ_0101 387103 395073 CS 就是 每个人 的 uh relationships wise (erm) 有些 人 根本 就 不知道 他们 从 哪里 得到 这个 病
+NI59FBQ_0101 395607 400567 CS 好像 那个 十五 岁 的 okay 是 明显 的 是 从 他的 爸爸 妈妈
+NI59FBQ_0101 400749 404249 ZH 他的 妈妈 传 给 他的 因为 他
+NI59FBQ_0101 406594 415544 CS 对 他 一 出世 就有 可是 他 嗯 十四 十五 岁 才 去 test 才 去 验
+NI59FBQ_0101 415990 418880 ZH 因为 他的 父母 死 于 爱滋病
+NI59FBQ_0101 419790 424450 ZH 所以 他 才 知道 哦 我 我的 爸爸 妈妈 死 了 所以
+NI59FBQ_0101 424942 427183 ZH 嗯 他的 阿姨 才 带他去 验
+NI59FBQ_0101 427913 430633 ZH 嗯 所以 其他 的 呢 可能 就是 好像
+NI59FBQ_0101 431785 434185 ZH 他们的 生活 很 复杂
+NI59FBQ_0101 434255 434825 ZH 好像
+NI59FBQ_0101 435149 436052 ZH 呃
+NI59FBQ_0101 436224 440154 ZH 就 搞 很多 性~ 性交 或者 是 (呃)
+NI59FBQ_0101 440807 450477 CS 或者 是 也是 有 捐 血 啦 也是 有 (erm) take drugs 啊 或者 是 tattoos 好像 share needles
+NI59FBQ_0101 450723 458677 CS 啊 所以 就 他们 做 了 很多 东西 所以 他们 根本 就 不知道 是 从 哪一个 source 得到 这个 病 (呃)
+NI59FBQ_0101 459659 465569 CS 好像 我们 会 问 他 so where did you get it from where like what did you do 他 就 i don't know i don't know
+NI59FBQ_0101 465895 467110 ZH 就是
+NI59FBQ_0101 468759 471089 ZH 就是 好像 可能 (呃) 有一个 就是 他
+NI59FBQ_0101 471449 472419 ZH 撞车
+NI59FBQ_0101 472756 480976 ZH 遇到 车祸 然后 去 到 医院 就是 他 验血 验血 的时候 才 发现
+NI59FBQ_0101 484611 485618 ZH 嗯
+NI59FBQ_0101 495645 500055 ZH 嗯 其实 据 我的 了解 啦 听 他们 说好 像
+NI59FBQ_0101 500305 503505 CS like if you get h. i. v. 是 okay 的
+NI59FBQ_0101 503690 508630 CS 因为 it's just that your immune system is low 可是 如果 你 按时 吃药 现在 有
+NI59FBQ_0101 508900 510570 EN (erm) that thing called a. r. v.
+NI59FBQ_0101 510991 512441 CS 就是 anti
+NI59FBQ_0101 513049 522219 CS rec~ rec~ 什么 什么 什么 vi~ viral it's some it's some medicine like you eat it twice daily 就是 可以 control 你的 病情
+NI59FBQ_0101 522807 525203 ZH 啊 可是 如果 你 没有
+NI59FBQ_0101 527103 537323 CS 对 如果 你 没有 take medicine 你 没有 发现 到 你 有 这个 h. i. v. 的 东西 然后 病情 就会 就会 越来越 严重 严重 的话 它 就会 变成 a. i. d. s.
+NI59FBQ_0101 538165 539276 ZH 嗯
+NI59FBQ_0101 540523 547683 CS 就是 a. i. d. s. 是 a a worse version 啊 worse case of h. i. v.
+NI59FBQ_0101 548364 549854 ZH 啊 所以 好像 有些 人
+NI59FBQ_0101 550669 554979 ZH 好像 那个 十五 岁 的 女孩 她 她 只是 得了 h. i. v.
+NI59FBQ_0101 555379 556339 ZH 她 还没有 她
+NI59FBQ_0101 556519 558949 ZH 它 到 现在 为止 她 跟 本 就 不 需要 吃药
+NI59FBQ_0101 559729 562019 ZH 因为 她的 身体 还是 很 强壮
+NI59FBQ_0101 562249 567009 CS 所以 她 没有 什么 sickness illness symptoms
+NI59FBQ_0101 567329 569359 ZH 所以 她 根本 就 不用 吃药
+NI59FBQ_0101 569518 570386 ZH 啊
+NI59FBQ_0101 575837 577017 ZH 嗯
+NI59FBQ_0101 577503 578267 EN (er)
+NI59FBQ_0101 579448 581969 EN yes because their immune system is lower
+NI59FBQ_0101 582207 583867 EN so they take longer to
+NI59FBQ_0101 584655 585861 EN yeah
+NI59FBQ_0101 585861 591841 CS that's why when we are sick 好像 感冒 还是 什么 我们 就 don't go don't go too close to them
+NI59FBQ_0101 592315 593704 EN yeah
+NI59FBQ_0101 599771 602321 ZH 对 而且 很多 很多 人是
+NI59FBQ_0101 602491 609851 CS 他们 不是 死 于 like a. i. d. s. 而是 死 于 好像 感冒 发烧 可是 很难 好 就 死掉
+NI59FBQ_0101 610438 612181 ZH 嗯 所以 很 可怜
+NI59FBQ_0101 615682 616516 ZH 嗯哼
+NI59FBQ_0101 617106 618147 ZH 听过 可是
+NI59FBQ_0101 619361 620451 ZH 好像 还 活 着
+NI59FBQ_0101 621491 623921 ZH 那个 打 篮球 的 啊
+NI59FBQ_0101 625540 630660 CS 就 做 research 的时候 有 看到 他的 wikipedia page
+NI59FBQ_0101 630660 632069 ZH 对
+NI59FBQ_0101 633537 634682 ZH 嗯
+NI59FBQ_0101 635760 637670 ZH 其实 在 中国 也是 很多
+NI59FBQ_0101 638460 639190 ZH 很多
+NI59FBQ_0101 639980 644660 ZH 好像 有 那个 爱滋 春 啊 那时 我 看 一个 记录 片
+NI59FBQ_0101 649264 650680 ZH 嗯
+NI59FBQ_0101 650680 653710 ZH 不然 就 捐 血 还是 什么 很 可怜
+NI59FBQ_0101 657310 660780 ZH 嗯 新加坡 应该 很 严 就是
+NI59FBQ_0101 662080 664400 CS 好像 好像 要 tab
+NI59FBQ_0101 664998 669165 CS 他们 就 是 你 捐血 之后 他们 也不 会 马上 用 你的 血 他 会 去 test
+NI59FBQ_0101 677810 678748 ZH 嗯
+NI59FBQ_0101 682950 683890 ZH 对 可是
+NI59FBQ_0101 684210 690090 CS donor 捐 了 之后 那个 医院 它 还是 会 去 那个 red cross 它们 还是 会 去 先 去
+NI59FBQ_0101 691160 695820 CS 验 你的 对 sample 然后 觉得 okay 了 才
+NI59FBQ_0101 696780 699290 ZH (呃) 可是 好像 又 听 过 就是 有人
+NI59FBQ_0101 699690 702030 ZH 好像 一个 是 新加坡 人
+NI59FBQ_0101 702947 707145 CS 好~ 就是 因为 啊 他是 receipt receive 的
+NI59FBQ_0101 707395 709235 ZH 啊 然后 他 就 得到 咯
+NI59FBQ_0101 712257 715617 CS 可是 好像 还 okay 啦 他 还是 活 着
+NI59FBQ_0101 721551 725301 ZH 我觉得 我 好像 我 很 我 很 幸运 咯
+NI59FBQ_0101 725682 729891 ZH 嗯 因为 他们的 生活 跟我 的 很 不一样
+NI59FBQ_0101 731411 732209 ZH 嗯
+NI59FBQ_0101 736741 739381 ZH 就是 在 (呃) 泰国
+NI59FBQ_0101 739839 742529 ZH 可能 不是 很 有钱 很 有钱 这样子 可是
+NI59FBQ_0101 742529 743749 ZH (呃)
+NI59FBQ_0101 743749 746159 EN like well of well to do
+NI59FBQ_0101 746439 751409 CS 可是 after they got the disease their family don't want to live with them
+NI59FBQ_0101 751537 758007 CS 还是 like 说 你 你 自己 住 另外 一个 地方 我们 不可以 照顾 你 还是 什么
+NI59FBQ_0101 758567 759331 ZH 嗯
+NI59FBQ_0101 760338 761032 EN yeah
+NI59FBQ_0101 762707 764647 EN so they're abandoned by their family
+NI59FBQ_0101 765407 766240 EN yeah
+NI59FBQ_0101 768844 769781 ZH 嗯
+NI59FBQ_0101 770267 771587 ZH 嗯
+NI59FBQ_0101 774937 777667 ZH 他们的 药 好像 是 免费
+NI59FBQ_0101 778467 779477 EN 那个 a. r. v.
+NI59FBQ_0101 779957 781787 ZH 生活 因 该 没有 补助 吧
+NI59FBQ_0101 782891 785731 ZH 因为 (呃) 我们 去
+NI59FBQ_0101 785951 789931 ZH 一个 地方 那个 就是 那 十五 岁 她 住 的 一个 地方 是一个
+NI59FBQ_0101 790457 795807 EN german this german man he started this organization
+NI59FBQ_0101 795837 798187 EN yeah for children with h. i. v.
+NI59FBQ_0101 798647 807687 CS yeah 所以 他们就 会 有 charity charity events like (erm) 那种 midnight run 义走 啊 义跑
+NI59FBQ_0101 808337 813147 CS 就是 要 raise awareness 还有 raise funds
+NI59FBQ_0101 813860 814936 ZH 嗯
+NI59FBQ_0101 820213 826847 ZH  所以 好像 你 去 泰国 你 可能 就是 周围 的 人 可能 都有 些 人是
+NI59FBQ_0101 827365 828268 ZH 嗯
+NI59FBQ_0101 828769 830409 CS 是 h. i. v. positive
+NI59FBQ_0101 831119 834839 ZH 可是我 们 都 看 不出 因为 真的是 他们 跟我 们 都 一样
+NI59FBQ_0101 835212 836184 ZH 嗯
+NI59FBQ_0101 841774 843609 ZH 嗯 对
+NI59FBQ_0101 843609 845689 ZH 可是 还好 啦 不会 很 严重
+NI59FBQ_0101 848089 849139 ZH 对 可是
+NI59FBQ_0101 849967 851546 EN yeah
+NI59FBQ_0101 851546 854556 CS but like our thai friends 他们就 觉得
+NI59FBQ_0101 855136 857246 CS okay 因为 他们
+NI59FBQ_0101 857345 865055 CS 好像 on facebook 我 就会 问 他 (呃) 为什么 (呃) how is it how how are things there are you all safe 他们就 讲 yeah okay
+NI59FBQ_0101 865555 869685 CS 没有 什么 事 诶 还可以 去 看 电影 shopping
+NI59FBQ_0101 870867 872187 EN yeah
+NI59FBQ_0101 884047 885935 EN 
+NI59FBQ_0101 885935 890540 EN then you have to pray very hard that the blood is clean 
+NI59FBQ_0101 891199 892276 EN yeah
+NI59FBQ_0101 895366 896442 ZH 嗯
+NI59FBQ_0101 896965 900945 EN we went there for a month one month in december
+NI59FBQ_0101 902161 902855 EN yeah
+NI59FBQ_0101 910736 912489 ZH 嗯
+NI59FBQ_0101 912489 918269 ZH 其实 因为 我们 七月 已经 去 一个 星期 然后 十月 已经 去 一个 星期 而且 我们 都 很 喜欢 泰国
+NI59FBQ_0101 919289 920129 EN thai food
+NI59FBQ_0101 920562 921360 ZH 嗯
+NI59FBQ_0101 922549 929199 CS the lifestyle the people like they are always smiling and 就是 很 亲切 啊
+NI59FBQ_0101 931702 940682 CS 我们 用 英语 还有 一点点 泰 语 因为 我们 就是 好像 我们 去 那边 一个 月 嘛 然后 you pick up a little bit here and there
+NI59FBQ_0101 941432 945722 CS 就 sawadika 是 女孩子 讲 啊 然后 如果 是 男生 你 就要 讲 sawadikrap
+NI59FBQ_0101 946345 947630 ZH 嗯
+NI59FBQ_0101 950928 952699 ZH 哦 是 吗
+NI59FBQ_0101 954042 958052 ZH 哦 哦 那个 中国 娃娃 是不是 是不是
+NI59FBQ_0101 959436 967146 CS krap 就是 好像 你 跟 别人 打招呼 你 就是 sawadikrap
+NI59FBQ_0101 967381 972141 CS 男~ 男人 就 讲 sawadikrap 女 的 就说 sawadika 这样子
+NI59FBQ_0101 972743 978303 ZH 所以 我们 就学 了 一点点 好像 学 怎么 买 东西 多少钱
+NI59FBQ_0101 978638 983378 ZH 很好 吃 很 热 冷 的 什么 什么 就学 一点点 这样
+NI59FBQ_0101 984461 985676 ZH 嗯
+NI59FBQ_0101 986301 987759 EN 
+NI59FBQ_0101 989287 990294 EN yeah
+NI59FBQ_0101 991028 993328 EN have you been to thailand before
+NI59FBQ_0101 999648 1000398 ZH 几时
+NI59FBQ_0101 1001329 1002232 EN oh
+NI59FBQ_0101 1005418 1006138 EN bangkok
+NI59FBQ_0101 1007405 1008412 EN 
+NI59FBQ_0101 1008898 1011498 EN yeah i think you will love the food there
+NI59FBQ_0101 1011498 1012933 EN 
+NI59FBQ_0101 1019148 1020448 ZH 哦 没有
+NI59FBQ_0101 1021821 1023948 ZH 有 嗯
+NI59FBQ_0101 1023948 1028058 ZH 就 工作 然后 有空 我们 就 自己 走 咯
+NI59FBQ_0101 1028147 1031698 CS 因为 我们 蛮 熟 那个 路 我们 就可以 搭 那个 bus
+NI59FBQ_0101 1032117 1037088 ZH 根本 就 不用 搭 地铁 地铁 比较 贵
+NI59FBQ_0101 1040387 1041627 ZH 对 对 对 就是
+NI59FBQ_0101 1042007 1045987 CS 地铁 是 方便 啦 可是 bus 比较 便宜
+NI59FBQ_0101 1046271 1049231 CS 好像 seven baht eight baht 就可以 去
+NI59FBQ_0101 1049231 1050731 ZH 市中心
+NI59FBQ_0101 1051182 1051703 ZH 嗯
+NI59FBQ_0101 1052363 1053404 ZH 很便宜
+NI59FBQ_0101 1057331 1063001 ZH 哦 好像 以前 有 去 过 因为 以前 跟 学校 也是 有 去
+NI59FBQ_0101 1065381 1066591 ZH 很多 次 了
+NI59FBQ_0101 1067715 1068583 EN 
+NI59FBQ_0101 1071331 1073591 ZH 啊 一个人 去 为什么
+NI59FBQ_0101 1075249 1077159 ZH 哦
+NI59FBQ_0101 1079931 1083901 CS 你 是 做 res~ 你是 research student 还是
+NI59FBQ_0101 1089604 1090611 ZH 哦
+NI59FBQ_0101 1093250 1095941 EN oh must be very smart
+NI59FBQ_0101 1096082 1097922 EN 
+NI59FBQ_0101 1100001 1101111 EN just lucky
+NI59FBQ_0101 1101359 1102574 EN en
+NI59FBQ_0101 1103191 1104941 EN which part of china were you from
+NI59FBQ_0101 1105771 1106931 EN taiwan ah
+NI59FBQ_0101 1107551 1110751 ZH 哈 可是 你 没有 台湾 腔 诶 讲话
+NI59FBQ_0101 1111809 1116580 ZH  没有 因为 你的 就是 好像 比较 南方 的
+NI59FBQ_0101 1119295 1123795 ZH 台南 啊 我 没有 去 过 台湾 诶 我 很 想 去
+NI59FBQ_0101 1126615 1127985 ZH 比较 安全 啊
+NI59FBQ_0101 1132590 1133770 ZH 哦
+NI59FBQ_0101 1136061 1137554 ZH 城市 这样子
+NI59FBQ_0101 1141443 1143561 ZH 哦 讲我 讲我
+NI59FBQ_0101 1146269 1147414 EN sorry
+NI59FBQ_0101 1147866 1149106 EN ahhah
+NI59FBQ_0101 1149106 1152226 EN oh next week i am having my oral presentation
+NI59FBQ_0101 1152761 1153956 EN yeah
+NI59FBQ_0101 1153956 1157646 EN like (erm) it's not an oral presentation it's like defense
+NI59FBQ_0101 1157646 1158085 EN like
+NI59FBQ_0101 1158085 1164435 CS our moderators 就会 问 我们 问题 然后 我们 就要 回答 咯
+NI59FBQ_0101 1166659 1172219 CS 不懂 诶 我们 就 就在 想 说 可能 他们 会 问 我们 (er) ethical questions
+NI59FBQ_0101 1172916 1178156 ZH 好像 为什么 我们 坚持 不要 还 他们 钱
+NI59FBQ_0101 1178435 1184785 CS 还是 (呃) 你 觉得 还 钱 的话 will you get the answers that you want or
+NI59FBQ_0101 1188145 1191315 ZH 因为 因为 我们是 拍 记录 片 嘛
+NI59FBQ_0101 1191625 1196825 EN so we are doing the documentary we have to (en) like set their set their permission to film
+NI59FBQ_0101 1197206 1201616 EN so some of them might ask for money
+NI59FBQ_0101 1202216 1206076 CS like 哦 i am doing a favor 你 可以 给 我 一点 钱 吗 这样
+NI59FBQ_0101 1206076 1207036 EN ah
+NI59FBQ_0101 1207036 1209626 EN but we decided that we shouldn't give them money
+NI59FBQ_0101 1211066 1213656 ZH 我们 没有 给 他们 现金
+NI59FBQ_0101 1213771 1217491 ZH 可是 我们 因为 我们 知道 他们 可能 生活上 需要
+NI59FBQ_0101 1217961 1222751 ZH 好像 他们 没有 钱 买 衣服 啊 没有 钱 买 食物 我们 就 买 给 他们
+NI59FBQ_0101 1223121 1226451 CS 啊 我觉得 that is the best alternative
+NI59FBQ_0101 1226561 1229701 EN ah we're helping them in some ways but we don't want to give them money because
+NI59FBQ_0101 1229913 1238343 EN if we give them money they may use it to like buy cigarettes drugs or like~ like alcohol so not very nice
+NI59FBQ_0101 1238744 1239808 EN yeah
+NI59FBQ_0101 1239808 1243268 EN so maybe our moderators they may ask us this kind of questions
+NI59FBQ_0101 1245018 1246138 ZH 不会 吗
+NI59FBQ_0101 1246949 1252279 CS 会 问 什么 问题 如果 你是 一个 moderator
+NI59FBQ_0101 1256139 1257189 ZH 有 啊 有 啊
+NI59FBQ_0101 1270779 1276219 CS 其实 我们 有 talk to a lot of people 可是 到 最后 我们 拍 下来 的 我们 拍 四个 人
+NI59FBQ_0101 1279380 1280419 ZH 嗯
+NI59FBQ_0101 1280419 1286089 CS 可是我 们 有 做 research 然后 只是在 那 纪录片 里 也是 有 statistics
+NI59FBQ_0101 1286984 1287991 ZH 啊
+NI59FBQ_0101 1291671 1293824 ZH 嗯
+NI59FBQ_0101 1308589 1313259 ZH 不懂 呃 可是 因为 以内 对 我们 来说 好像 蛮 重要 的 好像
+NI59FBQ_0101 1316738 1317467 ZH 对
+NI59FBQ_0101 1325008 1326015 ZH 嗯
+NI59FBQ_0101 1327786 1336739 CS 嗯 那些 我们的 report 好像 we handed in a report 里面 已经 有 我们的 research 还有 我们的 findings
+NI59FBQ_0101 1336739 1338782 ZH 什么的 所以
+NI59FBQ_0101 1339929 1343559 ZH 不知道 他们 会 问 什么 就 进去 看
+NI59FBQ_0101 1344190 1345023 ZH 对 啊
+NI59FBQ_0101 1352210 1353425 ZH 嗯
+NI59FBQ_0101 1360659 1365009 EN oh we're not allowed to do a presentation
+NI59FBQ_0101 1365580 1370990 CS 因为 我们是 做 (er) 一个 documentary 所以 他们 不要 我们 present anything
+NI59FBQ_0101 1371383 1373233 EN they want us to go in and
+NI59FBQ_0101 1373833 1376273 EN unless we have new things to share with them
+NI59FBQ_0101 1376303 1379143 CS 好像 我们的 report 应该 有 全部 的 东西 了
+NI59FBQ_0101 1379561 1383281 CS 可是 如果 我们 有 额外 的 东西 我们 才 present
+NI59FBQ_0101 1383481 1385661 EN if not we'll just take their questions
+NI59FBQ_0101 1386927 1387726 ZH 嗯
+NI59FBQ_0101 1388921 1392871 CS 啊 咯 因 该 是 很 okay 的 好像 我们 因为 (erm)
+NI59FBQ_0101 1393141 1395501 EN for my school for my faculty like
+NI59FBQ_0101 1395805 1399495 CS 那些 做 有些 人 做 campaigns 有些 人 做
+NI59FBQ_0101 1400008 1401266 ZH 嗯
+NI59FBQ_0101 1401266 1407846 CS marketing research 有些 人 做 journalism feature articles 他们 全部 都要 做 presentation 他们 要 present
+NI59FBQ_0101 1408506 1413106 CS and a lot of things 可是 只有 film students 不 需要 做 presentation
+NI59FBQ_0101 1413547 1415040 ZH 嗯
+NI59FBQ_0101 1417914 1421983 CS 我们 已经 给 他们 了 我们的 documentary
+NI59FBQ_0101 1424929 1431479 CS 会 有一点 like nervous 啦 可是 因 该 很快 十五 二十分 钟 就 okay 的
+NI59FBQ_0101 1432219 1433191 ZH 嗯
+NI59FBQ_0101 1437719 1443659 CS (呃) 他们 因 该 不会 assign 可是 可能 他们 会 问 好像 (er) why did you choose to use this shot
+NI59FBQ_0101 1444324 1455104 CS or this angle 又 不是 我 拍 的 嘛 所以 就是 当然是 我 如果 我朋友 是 那个 拍 的 (呃) 他是 那个 camera woman cameraman 他 就会 答 咯
+NI59FBQ_0101 1455604 1458424 CS 好像 director 就 回答 比较 directing 的 question
+NI59FBQ_0101 1459189 1462903 EN ah en okay
+NI59FBQ_0101 1464392 1468032 CS 我是 做 producer job 所以 我会 interview
+NI59FBQ_0101 1468152 1473082 CS 我会 make friends with them 啦 好像 like talk to them 诶 诶 你 还好 吗 什么 什么
+NI59FBQ_0101 1473218 1474928 CS i think 他们 好像 很 容易 亲近 我
+NI59FBQ_0101 1475478 1478088 CS 然后 我 就 跟 他们 讲话 做 producer 的 东西
+NI59FBQ_0101 1478088 1479468 ZH 兼职
+NI59FBQ_0101 1479468 1482058 CS 然后 director 就
+NI59FBQ_0101 1482754 1489094 CS 我朋友 他 就 比较 静 的 啦 所以 他 就 没有 什么 说话 它 就 比较 (er) make sure that things are okay
+NI59FBQ_0101 1489622 1493297 EN en make sure the shots are good make sure the shots are okay
+NI59FBQ_0101 1493527 1497127 ZH 这样子 咯 所以 我们 四个 人 都 做 不一样 的 东西
+NI59FBQ_0101 1498753 1500217 ZH 嗯
+NI59FBQ_0101 1500217 1507607 CS 好像 去 之前 pre 我们 好 我们 film 有 pre-production (erm) production 还有 post production
+NI59FBQ_0101 1507769 1514819 CS 所以 我 我 跟 另外 一个人 我们 两个 人 会比较 做 producer 的 东西 所以 producer 我们 会 做 pre 和 post
+NI59FBQ_0101 1514819 1515869 ZH 嗯
+NI59FBQ_0101 1515869 1517349 ZH 三个 都有 啦 就是
+NI59FBQ_0101 1517719 1522940 CS pre production 就是 我们 去 泰国 之前 我们 要 contact translators (erm)
+NI59FBQ_0101 1523880 1529440 CS teachers whoever 啦 whoever can help us with the project 我们 就 打 给 他们
+NI59FBQ_0101 1529560 1533870 CS email send email 然后 就 做 report
+NI59FBQ_0101 1534081 1536651 CS report 那些东西 咯 好像
+NI59FBQ_0101 1537951 1540571 CS 跟 人家 contact 的 就是 我们 做
+NI59FBQ_0101 1541091 1548621 CS 然后 cameraman 就是 做 拍 啦 他们就 拍 咯 有什么 美的 东西 就 拍
+NI59FBQ_0101 1554171 1557981 CS 其实 director 要事 先 就要 想 很多 东西
+NI59FBQ_0101 1558111 1559081 CS director 要 想
+NI59FBQ_0101 1559463 1567173 CS okay 我 可能 最后 我 要 看到 的 东西 会 有 这样 这样 这样 所以 他 就会 跟 cameraman 讲 i want you to 拍 this kind of things
+NI59FBQ_0101 1567875 1572235 CS 可是 how you do it is your you can play with it 啦
+NI59FBQ_0101 1572485 1577315 CS 所以 导演 跟 cameraman 会 一直 合作
+NI59FBQ_0101 1577675 1580205 CS 所以 producer 我们 两个 就会 比较
+NI59FBQ_0101 1581285 1584675 ZH 不是 我们 就是 看到 人的 时候 我们 就要 跟 他们 讲话
+NI59FBQ_0101 1585014 1588694 ZH 啊 可是 拍 就会 另外 两个 会比较 负责
+NI59FBQ_0101 1589473 1590167 ZH 嗯
+NI59FBQ_0101 1592234 1593964 ZH 啊 对 他们 会
+NI59FBQ_0101 1594864 1596184 ZH 可是 因为 我们
+NI59FBQ_0101 1596364 1598194 ZH 我们 拍 的时候 是 拍
+NI59FBQ_0101 1598264 1602414 ZH 不是 好像 怕 连续剧 还是 电影 你 可以
+NI59FBQ_0101 1602557 1608157 CS direct them 哦 i want you to stand here i want you to stand here 因为 我们是 拍 documentary 所以 it's like a
+NI59FBQ_0101 1609511 1620261 CS you must take a backseat 比较 不要 太 involved 不要 太 影响 到 我们的 interviewees 会 做 什么 会 说 什么 话
+NI59FBQ_0101 1620441 1623681 ZH 最好 就是 你 站在 旁边 不要 打扰 到 他们
+NI59FBQ_0101 1624061 1626131 CS 所以 蛮 challenging 的
+NI59FBQ_0101 1626567 1627747 ZH 嗯
+NI59FBQ_0101 1630231 1636881 CS 我们 拿 两 架 camera 一个 是 sony e. x. one 就是 比较 大 架 的 <unk >这样 大架
+NI59FBQ_0101 1637327 1641407 CS 啊 然后 另外 一个 就是 canon seven d
+NI59FBQ_0101 1641542 1652382 CS 就是 很 像 那种 看 那种 d. s. l. r. 啊 那种 普通 不是 普通 啦 就是 digital yeah yeah 那种 因为 我们 两个 都 用 咯
+NI59FBQ_0101 1659240 1659970 ZH 哦 我们
+NI59FBQ_0101 1660281 1674601 CS 我们 不会 用 很 那种 很 悲伤 还是 很 tragic 的 music 不会 我们 选 我们 找 很 久 我们 只 找到 一个 是 okay 他是 比较 慢 可是 也不 会 很 sad 也不 会 很 happy 就是 很 neutral
+NI59FBQ_0101 1675151 1678331 ZH 很 中性 的 那种 那种 音乐
+NI59FBQ_0101 1679351 1680671 EN (er) it's twenty minutes
+NI59FBQ_0101 1681419 1682373 EN yeah
+NI59FBQ_0101 1682373 1683863 EN it's look like this uh actually i have a
+NI59FBQ_0101 1685073 1688833 ZH 没有 因为 我 要 我 要 去 寄给 人的 所以
+NI59FBQ_0101 1689577 1690654 EN yeah
+NI59FBQ_0101 1691567 1693637 ZH 哦 我们 交 了
+NI59FBQ_0101 1694607 1699577 CS 可是 我们 还没有 finalize 那个 design this is like just a prototype
+NI59FBQ_0101 1700977 1704217 ZH 可以 啊 可以 可以
+NI59FBQ_0101 1709969 1712749 ZH 哦 对 (呃) 就是 去 印 咯
+NI59FBQ_0101 1713205 1715489 CS 啊 这个 就要 自己 design
+NI59FBQ_0101 1715679 1717699 EN oh we have to do the design and
+NI59FBQ_0101 1720184 1721191 EN yeah
+NI59FBQ_0101 1722069 1725069 EN yeah but this d. v. d. yeah correct correct
+NI59FBQ_0101 1728437 1729375 EN ah
+NI59FBQ_0101 1730555 1731458 EN 
+NI59FBQ_0101 1731874 1736819 CS 没有 没有 没有 yeah 我们 要 因为 交给 学校 我们 只 交 dvd 可是
+NI59FBQ_0101 1737169 1738849 CS 好像 要 backup
+NI59FBQ_0101 1739373 1744794 CS like 那个 学校 要 很多 种 啦 什么 beta blue-ray different type
+NI59FBQ_0101 1748377 1755987 CS because in the end 我们 只 用 了 两个 人 因为 我们 interview 四个 人 我们 chose two stories and then we edited
+NI59FBQ_0101 1756617 1757347 ZH 放在 一起
+NI59FBQ_0101 1758273 1759245 ZH 嗯
+NI59FBQ_0101 1760460 1762087 EN 
+NI59FBQ_0101 1762087 1765687 CS 所以 交 了 咯 end of march
+NI59FBQ_0101 1765838 1769488 CS 我们 就 交了 可是我 们 还在 改 啦 我 要 换 那个 design
+NI59FBQ_0101 1770469 1771788 ZH 嗯
+NI59FBQ_0101 1774670 1782738 CS  会 吗 对 对 对 就是 就是 (erm) one of the one of the organisations we visited
+NI59FBQ_0101 1783078 1784188 ZH 他 有 这个
+NI59FBQ_0101 1785462 1786226 ZH 啊
+NI59FBQ_0101 1786927 1789147 ZH 那些 小孩子 就 每次 在那里 玩
+NI59FBQ_0101 1790184 1791399 ZH 嗯
+NI59FBQ_0101 1792914 1795154 ZH 他们 还是 有 上学 因为
+NI59FBQ_0101 1795530 1796594 ZH (呃)
+NI59FBQ_0101 1796594 1800514 CS 他们 比较 幸运 啦 就是 住 在 那个 organisation 的 小孩 他们
+NI59FBQ_0101 1801164 1805274 CS 我 刚才 说是 那个 german man set up 这个 foundation 所以
+NI59FBQ_0101 1805714 1808384 EN yeah they raise funds to support them loh
+NI59FBQ_0101 1811684 1816304 CS 不是 不是 他们 send these kids to 一个 neighborhood school
+NI59FBQ_0101 1821841 1824481 CS okay leh 因为 因为 好像
+NI59FBQ_0101 1825441 1828241 EN this is not in bangkok this is in another province like
+NI59FBQ_0101 1828241 1829537 EN <unk>
+NI59FBQ_0101 1829537 1833947 CS 一个 一个 比较 就是 离 bangkok 差不多 三个 小时
+NI59FBQ_0101 1834557 1836357 CS 的 的 一个 countryside
+NI59FBQ_0101 1836457 1838077 ZH 所以 他们去 的 学校
+NI59FBQ_0101 1838363 1843193 CS 每个人 都 知道 这些 小孩 有 h. i. v. 的 and they are okay with it
+NI59FBQ_0101 1851559 1853260 ZH 嗯
+NI59FBQ_0101 1853783 1858263 CS 我觉得 compared to singapore 新加坡 会 更 secretive
+NI59FBQ_0101 1858884 1859943 ZH 嗯
+NI59FBQ_0101 1859943 1863613 CS 因为 thailand 有很多 人 蛮 多 人 有的 所以
+NI59FBQ_0101 1864415 1865975 ZH 他们 可能 不
+NI59FBQ_0101 1866085 1871645 ZH (呃) 可能 他们 会 怕人 家 知道 可是 他们 有很多 好像 那种
+NI59FBQ_0101 1871971 1873571 EN half way house
+NI59FBQ_0101 1873571 1876221 ZH 好像 人家 去 那边 (呃)
+NI59FBQ_0101 1877525 1878681 EN (erm)
+NI59FBQ_0101 1878681 1882291 CS like like they are recovering from their sickness 好像
+NI59FBQ_0101 1882729 1889299 CS 因为 他们 要 take medicine 所以 他们 take medicine 的时候 可能 还没有 recover 他们 有 side effects 还是 什么 他们就 要 疗养
+NI59FBQ_0101 1889371 1893801 CS 疗养 之后 他们 才 要 才 出去 社会上 (erm) like 做工
+NI59FBQ_0101 1894041 1896061 CS 所以 bangkok 有很多 这种
+NI59FBQ_0101 1896561 1897571 ZH 所以
+NI59FBQ_0101 1898704 1899984 ZH 不会 很难
+NI59FBQ_0101 1900014 1903124 CS 发现 到 好像 你的 邻居 的 那个 house
+NI59FBQ_0101 1903444 1906634 CS is a is a halfway house for a. i. d. s. patients 这样子
+NI59FBQ_0101 1907233 1908101 ZH 嗯
+NI59FBQ_0101 1911851 1917884 CS  哦 可是我 因 该 跟你讲 bangkok 比较 好的 地方 的 事情 对 吗 
+NI59FBQ_0101 1917893 1926163 CS 没有 其实 他们 都是 okay 的 他们 也不 会 忽然 间 也不 会 伤害 你 呀 啊 所以 不用 担心
+NI59FBQ_0101 1930298 1935138 CS 啊 对 拉 可是 那 总是 one in a million case 吧 不会 到处 都有
+NI59FBQ_0101 1935514 1936833 ZH 嗯
+NI59FBQ_0101 1937952 1941412 ZH 对 啦 所以 我们 在那边 还 蛮 愉快 的 啦 比较 好玩
+NI59FBQ_0101 1944265 1950185 CS 我们 我们 租 我们 组 一间 那种 guesthouse
+NI59FBQ_0101 1950704 1960364 ZH 啊 好像 那个 屋主 他 有 就是 他 自己的 家 是 蛮 大 一块 地 的 所以 他 就有 建 对
+NI59FBQ_0101 1962364 1968614 CS okay lah it's like a room lah  就是 有 那个 房间 就有 客厅 有 厕所 有
+NI59FBQ_0101 1970350 1975480 CS mini (er) 蛮 小间 的 啊 所以 我们 就 租 了 两间 小间 的
+NI59FBQ_0101 1975660 1976800 CS side by side 这样子
+NI59FBQ_0101 1977482 1978142 ZH 嗯
+NI59FBQ_0101 1979325 1983615 CS okay 啦 因为 我们 要 住 一个 月 如果 我们 住 hotel 我们 就 没有 钱 啦
+NI59FBQ_0101 1983615 1984665 EN 
+NI59FBQ_0101 1984665 1987815 ZH 所以 我们 就 住 那里 而且 靠近 好吃 的
+NI59FBQ_0101 1988375 1994315 CS 因为 那些 小 巷 那种 alleys 他们 买 的 东西 比较 便宜 又 比较 好吃
+NI59FBQ_0101 1994695 1996175 ZH 而且 份量 会比较 大
+NI59FBQ_0101 1996446 1997175 ZH 啊
+NI59FBQ_0101 1998945 2000404 EN 
+NI59FBQ_0101 2002015 2008845 CS 哦 那个 是 i think 你要 take 那个 你要 take 一个 bus 我 很 久 以前 有 坐过 啦
+NI59FBQ_0101 2009185 2010515 ZH 哦 你 应该 去
+NI59FBQ_0101 2010935 2014435 CS 体验 一下 好像 weekend market 这样子
+NI59FBQ_0101 2016295 2017385 ZH 啊 对 对 对
+NI59FBQ_0101 2018535 2020655 CS 他们 有 tour group 吧 你 可以 跟 tour group
+NI59FBQ_0101 2021369 2022369 ZH 哦 就是
+NI59FBQ_0101 2023809 2031229 CS 好像 一个 一个 一个 market 这样子 咯 他们就 栽 他的 sampan 他们就 划船 然后 就 卖菜 啊 卖鱼 那些
+NI59FBQ_0101 2033929 2036849 ZH 如果 有 卖 十五 的话 你 就可以 买来 吃 呀
+NI59FBQ_0101 2040196 2044456 ZH 嗯 对 他的 河 应该 不是 很 干净 啦 
+NI59FBQ_0101 2046982 2049606 ZH  其实 他的
+NI59FBQ_0101 2050426 2054826 CS 很多 人 说 那种 路边 摊 的 食物 不 应该 吃 可是我 觉得 okay leh
+NI59FBQ_0101 2058282 2063652 CS 啊 对 我 吃 很多 次 都 okay 啊 对
+NI59FBQ_0101 2067278 2068112 ZH 嗯
+NI59FBQ_0101 2069831 2072322 CS 对 他们的 immune system
+NI59FBQ_0101 2073215 2074542 EN like
+NI59FBQ_0101 2074542 2078762 CS they never get used to 这种 东西 啊 好像 现在 的 小孩子
+NI59FBQ_0101 2079059 2083438 CS 他们就 一直 洗手 啊 just eat at restaurants
+NI59FBQ_0101 2083728 2087768 CS 就 很 干净 所以 他们 可能 cannot take it
+NI59FBQ_0101 2088264 2089202 ZH 对
+NI59FBQ_0101 2089965 2090695 ZH 看 咯
+NI59FBQ_0101 2095833 2096597 ZH 嗯
+NI59FBQ_0101 2097603 2098263 ZH 什么
+NI59FBQ_0101 2099202 2099982 ZH 建议 啊
+NI59FBQ_0101 2101082 2103082 CS 你 去 chatuchak 咯
+NI59FBQ_0101 2103763 2111663 CS chua-chu-kang 是一个 很大 很大 很大 的~ 的~ 的 不是 shopping mall 来 的 他是 好像 你 懂 新加坡 那种 pasar-malam
+NI59FBQ_0101 2112140 2115480 ZH 那种 (呃) (呃) 夜市场
+NI59FBQ_0101 2115480 2116840 ZH 啊
+NI59FBQ_0101 2116840 2118380 ZH 有 去 过 吗 就是
+NI59FBQ_0101 2118620 2121270 CS 他们 会 搭 那种 tents
+NI59FBQ_0101 2121615 2124415 ZH 然后 好像 在 组屋 区 的
+NI59FBQ_0101 2125915 2128145 CS boon-lay 每次 都有 的 以前
+NI59FBQ_0101 2130726 2131871 ZH 白米 是 哪里
+NI59FBQ_0101 2137253 2138190 ZH 不懂 诶
+NI59FBQ_0101 2140481 2143016 EN oh oh oh oh okay okay
+NI59FBQ_0101 2143305 2144865 ZH 啊 对 对 对 那种
+NI59FBQ_0101 2145945 2148885 ZH 可是 泰国 的 是 他 什么 都 卖 的
+NI59FBQ_0101 2149155 2153255 ZH 好像 你要 买 衣服 有 鞋子 有 然后
+NI59FBQ_0101 2153354 2157024 ZH 有 书 啊 有 花 啊 有 动物 啊 有
+NI59FBQ_0101 2157615 2163685 ZH 就是 很 有 吃 的 什么 都有 咯 所以 就是 一个 开~ 就是 你 可以去 那边 开眼界 这样子
+NI59FBQ_0101 2164905 2166405 ZH 啊 有 啊 什么 都有 的
+NI59FBQ_0101 2166666 2172006 ZH 好像 有 差不多 可能 有 二十 个 足球场 那么 大 吧 就是 很大 很大 所以
+NI59FBQ_0101 2172491 2176241 CS 走不完 的 一天 是 走不完 的 而且 他 只有 saturday sunday
+NI59FBQ_0101 2176691 2178851 ZH 会比较 多 点 开
+NI59FBQ_0101 2179119 2179779 ZH 嗯
+NI59FBQ_0101 2180528 2185678 CS 就在 你要 搭 那个 b. t. s. 那个 b. t. s. 是 他的 地铁 要 搭 到 mochik
+NI59FBQ_0101 2186273 2187002 ZH 嗯
+NI59FBQ_0101 2188495 2193543 CS  对 mochik m. r. t. station 然后 他 就可以
+NI59FBQ_0101 2194053 2197863 CS 啊 就可以 走 到 那边 就 很多 人 就要 小心 你的 wallet
+NI59FBQ_0101 2198355 2203213 CS 嗯 因为 我朋友 以前 去 的时候 我朋友 是在 那边 不见 他的 handphone
+NI59FBQ_0101 2203909 2204812 ZH 嗯
+NI59FBQ_0101 2205913 2207183 ZH 就要 小心
+NI59FBQ_0101 2207893 2209383 ZH 然后
+NI59FBQ_0101 2209953 2212963 CS 你要 你是 想 去 做 什么 你是 要 shopping 还是
+NI59FBQ_0101 2215000 2216146 ZH 嗯
+NI59FBQ_0101 2217916 2218750 ZH 嗯
+NI59FBQ_0101 2219319 2224149 CS 因为 有很多 地方 你 都 可以 你 可以 sign up for 那种 one day tour
+NI59FBQ_0101 2224559 2227749 CS 所以 one day tour 可能 他 会 带 你 去 可能 palace
+NI59FBQ_0101 2228029 2233109 ZH 也 可 或者 是 可以去 那个 那个 划船 那里 所以 看 你 想 去 哪里
+NI59FBQ_0101 2234349 2235439 ZH 哦 也可以 啊
+NI59FBQ_0101 2238869 2241459 ZH 那边 应该 会 有 啦 就是 如果 你要 买
+NI59FBQ_0101 2241609 2243849 ZH 我 不知道 哪里 需要 买 入门 票 吗
+NI59FBQ_0101 2244119 2246909 CS 所以 如果 要 买 入门 票 的话 可能 他们 会 有 tour guides
+NI59FBQ_0101 2248238 2249696 ZH 嗯
+NI59FBQ_0101 2252329 2254029 ZH 哦 有 朋友 在那里
+NI59FBQ_0101 2254559 2256709 ZH 啊 不然 就可以 去
+NI59FBQ_0101 2257119 2260639 CS 市区 也没有 什么 咯 只是 shopping
+NI59FBQ_0101 2261879 2264089 CS 所以 我觉得 chatuchak 会比较
+NI59FBQ_0101 2269501 2272981 ZH 我觉得 如果 你是 那种 喜欢 (呃)
+NI59FBQ_0101 2275271 2278231 CS 就是 (er) live the life of a local
+NI59FBQ_0101 2278311 2283571 CS 然后 你 就要 就是 要 去 那边 吃 那种 路边 摊 看 人家 吃 什么 你 就 哦 same
+NI59FBQ_0101 2283841 2284991 ZH 啊 就 这样 啦
+NI59FBQ_0101 2285241 2285681 ZH 那种
+NI59FBQ_0101 2286413 2294603 CS 因为 因为 好像 如果 你 live a life of a tourist 你 就是 去 restaurant 去 那种 paragon 那种 就 没有 什么 咯
+NI59FBQ_0101 2294842 2298892 ZH 啊 好像 我们 去 我们 就 去 那些 那种 那种 小巷
+NI59FBQ_0101 2299312 2300122 ZH 然后 我们 去
+NI59FBQ_0101 2300212 2305432 CS okay 有 另外 一个 一个 (呃) 一个 地方 叫 victory monument
+NI59FBQ_0101 2305622 2309872 CS 他是 一个 b. t. s. 的 地铁 站 所以 你 可以去 那边
+NI59FBQ_0101 2310059 2311319 CS 就是 很多 locals
+NI59FBQ_0101 2311479 2315289 CS 也是 有 像 那 鲜 种 夜市场 可是 都是 locals 去 的
+NI59FBQ_0101 2315639 2317079 CS 啊 比较 少 tourist
+NI59FBQ_0101 2317319 2319679 ZH 然后 那边 吃 的 也是 很多
+NI59FBQ_0101 2320137 2321127 ZH 啊 所以
+NI59FBQ_0101 2324817 2326187 ZH （呃） 我们 就
+NI59FBQ_0101 2327467 2329227 ZH 你要 学 一点点 啦 要
+NI59FBQ_0101 2329227 2330386 EN 
+NI59FBQ_0101 2330386 2332666 CS 要 学 一点点 thai words 咯
+NI59FBQ_0101 2332846 2335996 ZH 啊 我们 我们 会 讲 好像 我会
+NI59FBQ_0101 2336956 2339096 ZH 好像 饭 就是 kao
+NI59FBQ_0101 2339440 2340456 ZH 嗯
+NI59FBQ_0101 2340456 2344186 ZH 面 面 是什么 啊 我 忘记 了 哦 面 我 已经 忘记 了
+NI59FBQ_0101 2345016 2351616 ZH 好像 你 就可以 横 他 讲 你要 (呃) 鸡 饭 啊 就是 kao-man-gai 这样子 好像
+NI59FBQ_0101 2352166 2354966 ZH 好像 奶茶 就是 叫 chayen
+NI59FBQ_0101 2355224 2358144 ZH 我们 就学 一点点 然后 就 哦 我 要 chayen 这样子
+NI59FBQ_0101 2358144 2359094 ZH 嗯
+NI59FBQ_0101 2360729 2363719 ZH 很 柔 嗯 真的 他们
+NI59FBQ_0101 2365280 2372950 CS 他们 凶 起来 就 比较 就 没有 那么 柔 啦 可是 okay 还 still okay lah yeah
+NI59FBQ_0101 2375486 2376285 ZH 嗯
+NI59FBQ_0101 2377014 2377743 ZH 嗯
+NI59FBQ_0101 2378477 2383797 ZH 通常 专机 每 一个 国家 的 声音 都是 很 柔 的 嘛
+NI59FBQ_0101 2386437 2388387 ZH 哦 是吗 他们 用 广东话
+NI59FBQ_0101 2391377 2392997 ZH 哦 没有 去 过
+NI59FBQ_0101 2393534 2395809 EN 
+NI59FBQ_0101 2395809 2402849 CS 对 咯 泰国 就是 去 那些 好像 我 刚才 说 那个 victory monument 是 比较 locals 去 的 地方
+NI59FBQ_0101 2403712 2407712 EN yeah so you can like see what they eat that kind
+NI59FBQ_0101 2413021 2414301 ZH 有很多
+NI59FBQ_0101 2414901 2416831 ZH 其实 呃
+NI59FBQ_0101 2417471 2422131 ZH 好像 如果 有 新加坡 人 走过 我会 知道 嗯 那个 是 子 新加坡 人 因为
+NI59FBQ_0101 2422318 2429898 CS 他们 讲话 啊 他们的 accent 就是 singlish 不然 就是 他们 会 穿 (er) t-shirt f. b. t. and slippers
+NI59FBQ_0101 2430552 2433982 CS 啊 就是 很 很 singaporean 的
+NI59FBQ_0101 2436872 2439792 CS depends 咯 他们 有很多 种 不同 的 人 啦 可是 他们 都是
+NI59FBQ_0101 2440354 2446954 CS 穿 也是 t-shirts 啦 可是 他们 会 穿 比较 thai 有 thai thai style
+NI59FBQ_0101 2449764 2452364 ZH 比较 没有 那么 干~ 爱 干净 的 那种
+NI59FBQ_0101 2456461 2460751 ZH 就 不要 穿 红色 啦 也不 要 穿 黄色
+NI59FBQ_0101 2461011 2463771 ZH 对 穿 穿 黑白 那种
+NI59FBQ_0101 2463941 2465651 ZH 可是 你 不要 穿 黑色 因为 很 热
+NI59FBQ_0101 2465826 2468406 ZH 所以 穿 浅色 的 比较 好
+NI59FBQ_0101 2468659 2469776 ZH  对 对 对
+NI59FBQ_0101 2471156 2474376 CS 啊 啊 啊 你 这样 okay 啊 okay 啊
+NI59FBQ_0101 2479106 2480926 ZH 啊 他们 会 有些 很 黑
+NI59FBQ_0101 2480986 2482506 ZH 可是 有些 人 又 很 白
+NI59FBQ_0101 2483086 2485126 CS 因为 那种 chiang-mai
+NI59FBQ_0101 2485637 2488437 CS 那种 南部 那种 chiang-mai 啊 还是
+NI59FBQ_0101 2489297 2492227 ZH 不懂 嘞 有些 我的 朋友 他们就 是 很 白
+NI59FBQ_0101 2492469 2493232 ZH 啊
+NI59FBQ_0101 2493991 2496121 CS 或者 他们 擦 那种 s. p. f.
+NI59FBQ_0101 2496661 2497991 ZH 一百 的
+NI59FBQ_0101 2498321 2500671 ZH 我 不知道 五十 七十
+NI59FBQ_0101 2500671 2502224 ZH 啊
+NI59FBQ_0101 2503971 2509661 CS 没有 诶 可是我 我 每次 会 经过 它的 zoo 看起来 okay 啊
+NI59FBQ_0101 2512752 2516522 CS (呃) 我 不知道 它 因为 现在 bangkok 好像 不可以 骑 了
+NI59FBQ_0101 2516752 2518702 CS 可是 可能 那个 zoo 还可以 啦
+NI59FBQ_0101 2519270 2523960 CS 我的 朋友 作 另外 一个 documentary is about elephants in thailand
+NI59FBQ_0101 2523960 2525196 EN yeah
+NI59FBQ_0101 2526556 2529516 CS i think chiang-mai 会比较 多 现在
+NI59FBQ_0101 2530265 2531029 ZH 嗯
+NI59FBQ_0101 2534188 2535697 EN yeah
+NI59FBQ_0101 2535697 2538097 ZH 对 他们 很 可怜 耶
+NI59FBQ_0101 2538097 2539221 ZH 嗯
+NI59FBQ_0101 2539827 2541877 ZH 所以 还是 不要 骑 比较 好
+NI59FBQ_0101 2541877 2543873 EN 
+NI59FBQ_0101 2549087 2554157 ZH 很久 以前 有 去 过 诶 跟我 的 跟 家人 去 的时候
+NI59FBQ_0101 2555742 2556541 EN 
+NI59FBQ_0101 2556541 2558731 ZH 那 你 你 喜欢 做 什么
+NI59FBQ_0101 2561193 2562512 ZH 嗯
+NI59FBQ_0101 2563471 2564501 CS 去 palace 咯
+NI59FBQ_0101 2567374 2569908 ZH 对 是 都 一样
+NI59FBQ_0101 2571019 2571922 ZH 嗯
+NI59FBQ_0101 2574005 2576921 ZH 嗯
+NI59FBQ_0101 2578692 2580311 ZH 嗯
+NI59FBQ_0101 2580311 2581501 ZH 就 去 吃 咯
+NI59FBQ_0101 2581501 2585301 CS  因为 它的 thai food 然后 就 你有
+NI59FBQ_0101 2585301 2588541 CS singapore 的 thai food 跟 thailand 的 thai food 很 不一样
+NI59FBQ_0101 2590828 2593598 CS 他们 他们 会 有 好像 condiments
+NI59FBQ_0101 2593834 2599984 ZH 有 有 (呃) 有 辣椒 有 鱼露 有 糖 有
+NI59FBQ_0101 2600291 2605161 CS 有 不同 的 东西 好像 每每 间 小吃店 都会 有 那个 condiment
+NI59FBQ_0101 2605661 2606901 ZH 啊 那 调味 料
+NI59FBQ_0101 2607022 2608942 ZH 所以 我 就 看 别人 怎么 吃 咯
+NI59FBQ_0101 2609113 2614723 CS 然后 好像 我们的 thai friends 他们 有时候 会 加 很多 很多 很多 辣椒 不然 就 很多 很多 很多 糖
+NI59FBQ_0101 2615683 2618003 ZH 可是 其实 那个 那 碗 东西 已经 很 辣 的
+NI59FBQ_0101 2618358 2621898 ZH 嗯 所以 就 诶 为什么 他们 要 加 这么 多 这样子
+NI59FBQ_0101 2624808 2626618 ZH 没有 什么 没有 什么 味道 啊
+NI59FBQ_0101 2628638 2630098 ZH 哦 不懂 耶
+NI59FBQ_0101 2630098 2631188 ZH 好～
+NI59FBQ_0101 2631188 2632498 CS yeah 他们
+NI59FBQ_0101 2636168 2636808 ZH 可能
+NI59FBQ_0101 2638753 2641328 CS 嗯 他们的 tomyam 很 好吃
+NI59FBQ_0101 2642225 2643518 ZH 有
+NI59FBQ_0101 2643518 2646198 CS tomyam 你 有 吃 过 吗
+NI59FBQ_0101 2647259 2648288 ZH 嗯
+NI59FBQ_0101 2648288 2650328 ZH 酸 辣 这样子 有一点 酸 辣
+NI59FBQ_0101 2652675 2658498 CS 嗯 新加坡 的 tomyam okay 咯 not very nice yeah
+NI59FBQ_0101 2658498 2660313 EN yeah with the
+NI59FBQ_0101 2660313 2661803 ZH 我们 去 (呃)
+NI59FBQ_0101 2662243 2668823 CS 我们 一个 interview 那个 女 的 对 吗 她的 她的 我们 去 她的 家乡
+NI59FBQ_0101 2669292 2670792 CS 就是 another province
+NI59FBQ_0101 2671248 2675678 ZH 所以 我们 就 真的 跟 她 回去 她的 家乡 所以 她 住 的 地方 是 那种 木 板
+NI59FBQ_0101 2675998 2679598 CS 然后 那个 木 板 就 很 like like
+NI59FBQ_0101 2680498 2687778 CS maybe thirty c. m. log (er) wide thirty c. m. wide 然后 我们 就要 走 好像 catwalk 这样
+NI59FBQ_0101 2687828 2692038 ZH 啊 所以 好像 一 掉 就 掉 进水 里面 了
+NI59FBQ_0101 2692038 2693096 ZH 嗯
+NI59FBQ_0101 2694068 2695048 ZH 没有 啦
+NI59FBQ_0101 2697775 2701615 CS 哦 对 对 对 好像 木屋 那种 on stilts 啊
+NI59FBQ_0101 2703735 2705925 ZH 啊 有 啦 可是 也没有 什么 啦 就是
+NI59FBQ_0101 2706732 2708452 ZH 很 简陋 咯
+NI59FBQ_0101 2709062 2716142 CS 啊 对 对 对 所以 啊 所以 很 不一样 啦 跟 跟 在 新加坡 的 生活 很 different 咯
+NI59FBQ_0101 2716600 2717815 ZH 嗯 所以
+NI59FBQ_0101 2718252 2721402 CS 啊 可是 他们 煮 的 那个 tomyam 真的是 很好 吃
+NI59FBQ_0101 2721512 2727572 CS 就是 海鲜 不然 就是 又 虾 嗯 tomyam
+NI59FBQ_0101 2735782 2739672 CS 行业 don't know ai still thinking
+NI59FBQ_0101 2740303 2741691 EN yeah cause
+NI59FBQ_0101 2744677 2748802 EN en maybe like no maybe like
+NI59FBQ_0101 2750640 2753240 EN actually i don't know ai because i like to do a lot of things
+NI59FBQ_0101 2754580 2758330 CS 所以 我是 okay with a lot of things
+NI59FBQ_0101 2758488 2763408 CS 可是 my specialization when i am studying is like broadcast
+NI59FBQ_0101 2763958 2765478 ZH 好像 就是 广播
+NI59FBQ_0101 2766378 2768188 ZH 广播 之类 的 所以
+NI59FBQ_0101 2768388 2772668 CS 嗯 我 internship 的时候 我是 去 radio station
+NI59FBQ_0101 2773168 2775848 CS 嗯 我是 做 那种 promotion events
+NI59FBQ_0101 2776498 2778888 ZH 那种 东西 呀 宣传 的 东西 所以
+NI59FBQ_0101 2779449 2782919 CS 因为 singapore 的 那个 market very small 啊
+NI59FBQ_0101 2783279 2787779 CS 他们 应该 是 不会 要 请 很多 d. j. 还是 很多
+NI59FBQ_0101 2789049 2791839 ZH 我 不知道 就是 没有 没有 市场 咯
+NI59FBQ_0101 2791839 2792989 ZH 嗯
+NI59FBQ_0101 2792989 2796849 CS 所以 我 就 昨天 遇到 一个 professor 他 也是 从 台湾 来 的
+NI59FBQ_0101 2797135 2801165 CS 然后 我 就 跟 他说 哦 maybe i want to go china and work or like china or something
+NI59FBQ_0101 2801265 2804065 CS then 他 就 讲 哦 but the pay will be like half of singapore's
+NI59FBQ_0101 2804285 2807245 CS 听 了 like okay maybe i will think again
+NI59FBQ_0101 2807245 2808297 EN yeah
+NI59FBQ_0101 2811817 2816557 CS 对 因为 他 他 一直 跟我 说 like when you're young you should try more things
+NI59FBQ_0101 2816977 2821997 CS 嗯 他 他是 professor but 他 以前 也是 做 那种 broadcast journalist
+NI59FBQ_0101 2822687 2825537 ZH 新闻 就是 在 台湾 的时候 啦
+NI59FBQ_0101 2825983 2826955 ZH 嗯
+NI59FBQ_0101 2828518 2836294 CS <unk> lin  lin 什么  哦 可以 查得到 啊 yeah
+NI59FBQ_0101 2837128 2838968 EN <unk> lin's uh
+NI59FBQ_0101 2840077 2841897 CS 忘记 他的 chinese name 了
+NI59FBQ_0101 2842439 2843412 EN yeah
+NI59FBQ_0101 2843820 2846780 ZH 他 教 那种 (呃)
+NI59FBQ_0101 2848510 2851370 EN communication and new technology
+NI59FBQ_0101 2852983 2861973 CS 嗯 很 像 en (erm) internet t. v. (er) mobile t. v. 他 也是 有 教 broadcast journalism
+NI59FBQ_0101 2863063 2864113 ZH 对 所以
+NI59FBQ_0101 2864863 2866543 ZH 应该 是 蛮
+NI59FBQ_0101 2867403 2870423 CS 不懂 他 做 research 很多 东西 咯
+NI59FBQ_0101 2870423 2871393 ZH 哦
+NI59FBQ_0101 2872331 2876151 CS 然后 他 就 跟我 说 哦 you should try more things when you are young like
+NI59FBQ_0101 2876151 2878871 EN like don not~
+NI59FBQ_0101 2878871 2884761 ZH 因为 我 就 跟 他说 哦 有些 朋友 已经 在 找 工 做 啊 找 什么样 什么样 的 工作 然后 他 就 讲 哦 你 不用 管 人家 怎样
+NI59FBQ_0101 2885286 2890256 CS 找 什么 工 自己 do whatever you like yeah
+NI59FBQ_0101 2894665 2896485 ZH 其实 我 喜欢 广播 啦
+NI59FBQ_0101 2900385 2901655 ZH 电台 广播 咯
+NI59FBQ_0101 2901927 2907027 CS promotion 然后 有时候 就 客串 on air 讲 几 句 话 这样子 咯
+NI59FBQ_0101 2908799 2913519 CS 没有 啦 因为 刚好 可能 那个 topic 那个 那个 话题 关于 好像
+NI59FBQ_0101 2913759 2917159 CS 学生 什么 什么的 然后 我的 我的 colleague
+NI59FBQ_0101 2917460 2920000 CS 就是 那个 d. j. 他 就会 讲 哦 凯茹 你 要不要 来
+NI59FBQ_0101 2920760 2925920 CS like 半个 次 小时 我们 可以 聊 一下 我 就 哦 okay 咯
+NI59FBQ_0101 2926312 2927942 ZH 啊 他就
+NI59FBQ_0101 2927942 2930022 ZH 蛮好玩 的 啦 我觉得
+NI59FBQ_0101 2930804 2933443 ZH 什么 
+NI59FBQ_0101 2938082 2942202 CS 哦 对 可是 on radio different 啊
+NI59FBQ_0101 2942469 2943476 ZH 啊
+NI59FBQ_0101 2945941 2947105 ZH 嗯
+NI59FBQ_0101 2947105 2949725 CS 就是 headphones 好像 叫 headphones
+NI59FBQ_0101 2951084 2952795 ZH (呃)
+NI59FBQ_0101 2952795 2955035 CS different 啦 有些 有 那个
+NI59FBQ_0101 2957333 2958826 ZH 一样 啦 就是
+NI59FBQ_0101 2960964 2968124 CS 好像 电台 有很多 那种 宣传 活动 或者 (erm) 好像 call in 就 赢 奖 啊 还是
+NI59FBQ_0101 2969864 2971254 ZH 我～ 我～ 我～ 就
+NI59FBQ_0101 2972214 2975514 CS 我 就 call out to call out to people
+NI59FBQ_0101 2975514 2976470 EN like
+NI59FBQ_0101 2976470 2981140 CS collect their prizes 不然 我 就 organize 一个 event 好像 (erm)
+NI59FBQ_0101 2982014 2992924 CS 我的 我的 radio station 要有 一个 birthday party coming up so i have to call like the sponsors 那些 咯
+NI59FBQ_0101 2994134 2996014 ZH 啊 不然 就是 (呃)
+NI59FBQ_0101 2996444 3001524 EN work with the sales people come up with promotion ideas
+NI59FBQ_0101 3001735 3006335 CS 然后 他们就 可以 卖 他们就 可以 sell the idea to clients 啦 那种
+NI59FBQ_0101 3007115 3009105 ZH 什么 余 仁 生 啊 还是
+NI59FBQ_0101 3009427 3020367 CS 那种 大 那种 big companies then 他们 要 advertise but they don't know what is the best way like o. c. b. c. bank 啊 所以 我们 就 帮 他们 想 ideas 咯
+NI59FBQ_0101 3021456 3022202 ZH 嗯
+NI59FBQ_0101 3026207 3027977 EN haven't tried before
+NI59FBQ_0101 3027977 3029294 EN 
+NI59FBQ_0101 3029294 3032864 ZH 我的 朋友 很 喜欢 吃 茶叶蛋 他 可以 一天 吃 十粒 这样
+NI59FBQ_0101 3033644 3036774 ZH 我 就 (呃) 太~ 太 夸张 了
+NI59FBQ_0101 3039264 3040714 ZH 很 香 很 香
+NI59FBQ_0101 3043534 3044414 ZH 台湾
+NI59FBQ_0101 3044994 3048834 ZH 台湾 吃 的 也是 很 听 每个人 讲 很好 吃
+NI59FBQ_0101 3048914 3053454 CS 然后 我 每次 看 那种 tv shows 也是 很多 啊 很 想 去
+NI59FBQ_0101 3062016 3063082 ZH 嗯
+NI59FBQ_0101 3064609 3065923 ZH 哦
+NI59FBQ_0101 3070291 3074446 ZH  到处 都是 香味 
+NI59FBQ_0101 3077500 3082393 ZH 嗯 还有 那个 什么 茶 柚子 茶
+NI59FBQ_0101 3083076 3084503 ZH 是不是 柚子
+NI59FBQ_0101 3084503 3088813 ZH 因为 我 以前 我 有 教 补习 我 就 教 一个 台湾人
+NI59FBQ_0101 3089036 3093456 ZH 然后 他 那个 那个 妈妈 她 就 每次 会 煮 会 给 我 喝 那个
+NI59FBQ_0101 3094256 3097346 ZH 啊 有 有 对 对 对 她 就 讲
+NI59FBQ_0101 3098406 3102426 CS 啊 对 对 对 它 就 她 就 讲 哦 you must try this
+NI59FBQ_0101 3102715 3103922 ZH 嗯
+NI59FBQ_0101 3104686 3105916 ZH 啊 对 咯 对 咯
+NI59FBQ_0101 3108539 3111816 ZH  你 会 想念 台湾 这样
+NI59FBQ_0101 3112263 3113258 EN yeah
+NI59FBQ_0101 3113886 3115496 EN i will go there someday
+NI59FBQ_0101 3118123 3119224 ZH 嗯
+NI59FBQ_0101 3119863 3120396 EN 
+NI59FBQ_0101 3121666 3122596 ZH 应该 会 啦
+NI59FBQ_0101 3132249 3133899 CS 哦 我 没有 join c. a. c.
+NI59FBQ_0101 3134091 3138081 CS 以前 我 join (erm) 你 知道 那个 nanyang chronicle
+NI59FBQ_0101 3138501 3139861 ZH 那个 报纸
+NI59FBQ_0101 3140951 3142841 CS 就是 student publication
+NI59FBQ_0101 3143292 3147262 CS 啊 所以 我 以前 我 去 做 那个 layout editor
+NI59FBQ_0101 3147582 3149812 ZH 所以 我 就 排版 咯
+NI59FBQ_0101 3150336 3152556 ZH 做 排版 的 东西 我觉得 很好 玩
+NI59FBQ_0101 3152956 3154316 ZH 有 兴趣 啦
+NI59FBQ_0101 3154938 3161706 CS 嗯 还有 就是 join student club 咯 我的 学校的 committee
+NI59FBQ_0101 3162148 3163071 ZH 嗯
+NI59FBQ_0101 3168646 3170186 ZH 比较 困难 的 地方 就是
+NI59FBQ_0101 3170996 3171966 ZH 很 赶 啊
+NI59FBQ_0101 3172136 3178976 CS 因为 好像 我们 (erm) 星期五 要 off stone 就是 星期五 要 send 去 那个 publisher
+NI59FBQ_0101 3179270 3182150 ZH 然后 我们 星期三 星期四 会比较 忙
+NI59FBQ_0101 3182610 3184790 ZH 所以 星期四 是 不用 回家 的
+NI59FBQ_0101 3185089 3191349 CS 我们 每 三个 星期 就是 要 stay over in school to 做 完 他 这样
+NI59FBQ_0101 3191799 3192449 ZH 所以
+NI59FBQ_0101 3193349 3203059 CS 好像 如果 我的 (er) text 我的 article 太长 然后 照片 又 要 放 那么 多 所以 i have to like tell the editor 诶 你 可不可以 cut
+NI59FBQ_0101 3203441 3206711 EN your words or you cut your photos like i cannot do both
+NI59FBQ_0101 3208731 3213291 CS 没有 啦 因为 那个 对 啦 照片 可以 缩小 啊 可是 有时候 text 太 多 咯
+NI59FBQ_0101 3213705 3215425 CS 我 就 讲 readers don't want to read
+NI59FBQ_0101 3216065 3218435 EN they just want to see photos and a little bit of words
+NI59FBQ_0101 3218847 3227987 CS 啊 所以 就 一个 一个 process 啦 i have to do i have to choose like what i want to do design 这样 咯
+NI59FBQ_0101 3233642 3235914 ZH 嗯 会 会 有人
+NI59FBQ_0101 3235914 3237854 ZH 啊 投稿 会有
+NI59FBQ_0101 3237854 3243244 CS 可是 we have like a pool of writers 好像 different semesters 都会 有 different writers
+NI59FBQ_0101 3243764 3250494 CS 嗯 好像 有很多 人 要 做 journalist 他们就 要 practice 嘛 就 it's a good platform for them to practice 咯
+NI59FBQ_0101 3250924 3253814 EN and it's also offered as a module
+NI59FBQ_0101 3254314 3256484 EN like a practical like
+NI59FBQ_0101 3257004 3261164 CS 很 想 没 就是 没有 exams but in one semester you need to write five articles
+NI59FBQ_0101 3261944 3264604 CS 嗯 所以 okay 啊 你 就 写 五个 stories
+NI59FBQ_0101 3265818 3270864 CS 嗯 it ah sto~ five stories that are published in chronicles 啊 对
+NI59FBQ_0101 3272814 3275107 EN every three weeks once but
+NI59FBQ_0101 3275184 3278484 CS 最后 一个 应该 已经 出了 吧 因为 要 考试 了 所以 就要 stop
+NI59FBQ_0101 3279226 3279830 ZH 嗯
+NI59FBQ_0101 3284527 3287127 CS 啊 对 对 对 还有 那个 a. d. m. 有一个 ret
+NI59FBQ_0101 3287127 3292793 CS then 那个 就是 那~ 那篇 我 不知道 诶 很大  可能 他就
+NI59FBQ_0101 3293234 3295784 CS 应该 是 真的 camp 在 a. d. m. then
+NI59FBQ_0101 3300424 3301954 CS 可能 它的 shutter speed
+NI59FBQ_0101 3302422 3305822 CS 他的 相机 的 shutter speed 我 不知道 诶
+NI59FBQ_0101 3306212 3307136 ZH 啊
+NI59FBQ_0101 3308002 3309182 ZH 太 恐怖 了 吧
+NI59FBQ_0101 3309868 3317318 CS but 还有 那个 就是 chronicles 也是 有 那个 chinese publication 南院 啊
+NI59FBQ_0101 3319191 3321438 CS 嗯 也是 有 chinese editors
+NI59FBQ_0101 3321788 3324578 ZH 好像 啊 对
+NI59FBQ_0101 3325122 3328118 CS 啊 因为 有些 人 真的是 不 喜欢 写 news
+NI59FBQ_0101 3328296 3334866 CS 就是 写 lifestyle 不然 就是 sports 还是 (erm) (erm)
+NI59FBQ_0101 3338422 3348176 CS 嗯 那种 (erm) travel log 好像 你 出国 然后 你 觉得 哦 你要 share with the readers something
+NI59FBQ_0101 3348649 3350539 CS 就 回来 跟 你 share 这样 啦
+NI59FBQ_0101 3351317 3352275 ZH 嗯
+NI59FBQ_0101 3357079 3360259 ZH 梁智强 吗 哦 是吗 我 没有 读 到 诶
+NI59FBQ_0101 3360509 3362859 CS 就是 在 那个 chinese section 啊
+NI59FBQ_0101 3363759 3367009 ZH 以前 我也 是 有 写 写 华语 的
+NI59FBQ_0101 3367376 3373159 ZH 那个 可是 现在 哦 我的 话语 很 烂 啊 华文 我的 华文
+NI59FBQ_0101 3377568 3380499 EN yeah especially after second day school
+NI59FBQ_0101 3380669 3384639 CS cause like when we went to like junior college 不用 上 华文 课
+NI59FBQ_0101 3385179 3387339 ZH 朋友 有些 根本 就 不会 讲 华语
+NI59FBQ_0101 3387759 3390509 ZH 其实 他们是 华人 可是 他们 不会 讲 华语
+NI59FBQ_0101 3391173 3396039 CS like like very little 啦 就是 一点点 一点点 就是 can order food that kind
+NI59FBQ_0101 3396199 3398899 CS yeah so 就 english 咯
+NI59FBQ_0101 3399279 3404989 CS 来 university 我的 course most people speak english
+NI59FBQ_0101 3407349 3412379 CS yeah so like chinese 就 lose 了 yeah
+NI59FBQ_0101 3417969 3422053 EN it's like what spices yeah yeah yeah yeah
+NI59FBQ_0101 3424309 3425639 EN correct correct correct
+NI59FBQ_0101 3426492 3429382 CS okay okay 我的 眼睛 敏感 的 每次 都会 这样
+NI59FBQ_0101 3430470 3432332 ZH 嗯 有 每天 都会 的
+NI59FBQ_0101 3433192 3434672 EN yeah time of the day
+NI59FBQ_0101 3436995 3441008 EN en it's okay yeah then
+NI59FBQ_0101 3442412 3447102 CS yeah but then if like 去 中国 就要 讲 华语 咯 去 台湾
+NI59FBQ_0101 3447102 3447898 ZH 嗯
+NI59FBQ_0101 3450342 3452022 ZH 福建 咯 一点点
+NI59FBQ_0101 3452512 3455112 ZH 一点点 啦 就 台湾 台湾 也是 讲 啊
+NI59FBQ_0101 3456277 3464442 CS 嗯  只是 嗯 yeah yeah yeah yeah
+NI59FBQ_0101 3464442 3468752 ZH 对啊 我们 就 看 那个 百万 大 歌 大 歌星 他们就 有 唱 那 台 语 歌
+NI59FBQ_0101 3469232 3470262 ZH 我 就 觉得 很好 笑
+NI59FBQ_0101 3471018 3476061 ZH 嗯 福建 闽南语 啦
+NI59FBQ_0101 3479897 3482684 ZH 嗯 差不多 啦 就是
+NI59FBQ_0101 3483484 3485274 ZH 听 得 懂 听 得 懂
+NI59FBQ_0101 3485986 3491002 ZH （呃） 可是我 我 只 会 我 只是 听 而已 嘞 因为 我也 是 很少 讲
+NI59FBQ_0101 3491382 3494912 CS 就是 没有 人 nobody talk to me
+NI59FBQ_0101 3495872 3497092 ZH 英文 华文
+NI59FBQ_0101 3497452 3501762 CS 我的 爸爸 妈妈 就会 讲 福建 咯 like to each other 啦
+NI59FBQ_0101 3501942 3503632 ZH 然后 跟 我们 就 讲 华语 咯
+NI59FBQ_0101 3504662 3507090 ZH 嗯 从小 听 到大
+NI59FBQ_0101 3507090 3509700 ZH 然后 就 跟 阿妈 嗯
+NI59FBQ_0101 3510290 3514930 CS 一点点 其实 我 有 我 有 relatives in china
+NI59FBQ_0101 3514930 3516062 ZH 嗯
+NI59FBQ_0101 3516062 3517752 ZH 在 福建
+NI59FBQ_0101 3518302 3520802 ZH 是不是 福建 啊 啊 对 对 对 诶 厦门
+NI59FBQ_0101 3521132 3523162 ZH 所以 厦门 也是 讲 福建 的 吗
+NI59FBQ_0101 3523359 3526049 ZH 对 我 就 听 他们 讲 然后 讲 一点点
+NI59FBQ_0101 3526049 3527014 ZH 啊
+NI59FBQ_0101 3527618 3531869 CS 有 我 去 我 去 北京 exchange
+NI59FBQ_0101 3532171 3537711 CS 半年 然后 那 半年 我 就 travel 咯 like i go to different places then 我 就 去 厦门 咯
+NI59FBQ_0101 3540331 3541311 ZH 搭 飞机 咯
+NI59FBQ_0101 3542071 3543891 ZH 因为 我 那时 要 去 厦门
+NI59FBQ_0101 3544331 3546151 ZH 然后 之后 我 要 去 云南
+NI59FBQ_0101 3546421 3550771 ZH 我 去 昆明 啊 所以 很 靠近 而已 两个 小时 的 飞机
+NI59FBQ_0101 3552368 3553618 ZH 两 三个 小时
+NI59FBQ_0101 3553618 3554776 ZH 嗯
+NI59FBQ_0101 3556218 3558108 ZH 差不多 吧 就是 南方
+NI59FBQ_0101 3559558 3560798 ZH 是吗 啊 对 对 对
+NI59FBQ_0101 3560958 3562518 ZH 我 就 飞 会 北京
+NI59FBQ_0101 3562978 3564068 ZH 应该 是 北京 吧
+NI59FBQ_0101 3564448 3569028 ZH 没有 因为 我 之后 还要 去 内蒙古 所以 我 就
+NI59FBQ_0101 3569417 3570057 ZH 嗯
+NI59FBQ_0101 3571903 3576988 EN yeah  no lah one semester but i don't have lessons everyday
+NI59FBQ_0101 3577954 3579108 ZH 嗯
+NI59FBQ_0101 3579108 3582168 CS then like 有 holiday 或者 after exams then
+NI59FBQ_0101 3582439 3585849 ZH 去 很多 地方 咯 还有 上海
+NI59FBQ_0101 3587559 3589899 ZH 上海 杭州
+NI59FBQ_0101 3590224 3591854 ZH 可是我 要 去 台湾
+NI59FBQ_0101 3591854 3593074 EN 
+NI59FBQ_0101 3593074 3594144 ZH 还没有 去 过
+NI59FBQ_0101 3598294 3599750 ZH 嗯
+NI59FBQ_0101 3602004 3605334 ZH 不是 我在 （呃） 传媒 大学
+NI59FBQ_0101 3605914 3608164 ZH 就是 以前 的 广播 学院
+NI59FBQ_0101 3611358 3612178 ZH 是吗
+NI59FBQ_0101 3612178 3613009 ZH 哦
+NI59FBQ_0101 3613918 3615798 ZH 然后 他 也是 他 也是 从 那里
+NI59FBQ_0101 3617270 3621603 ZH  是 蛮多 好看 的 啦 
+NI59FBQ_0101 3623698 3629258 ZH 嗯 因为 都是 要 做 广播 员 啊 新闻 播报 员
+NI59FBQ_0101 3638595 3640229 ZH 嗯
+NI59FBQ_0101 3642510 3647807 CS 嗯 yeah loh 不然 就是 做 那种 advertising 还是
+NI59FBQ_0101 3648757 3656087 CS 有 actually 那 间 大学 好像 有 (呃) 戏剧 组
+NI59FBQ_0101 3656594 3661604 ZH 所以 就是 你要 演戏 一定要 长 得 好看 啊 男 的 女 的 都要 长 得 好看
+NI59FBQ_0101 3661604 3663744 ZH 嗯
+NI59FBQ_0101 3663744 3665704 CS 对 so quite interesting 啊
+NI59FBQ_0101 3666786 3667496 EN yeah
+NI59FBQ_0101 3670784 3672254 ZH 东西 很 便宜 啊
+NI59FBQ_0101 3672838 3673726 ZH 对
+NI59FBQ_0101 3674314 3676874 CS 所以 okay 啦 蛮 喜欢 那里 的
+NI59FBQ_0101 3677684 3681104 CS 北京 可是我 比较 喜欢 北京 compared to like 上海
+NI59FBQ_0101 3683784 3685444 CS 上海 比较 city
+NI59FBQ_0101 3685774 3688714 EN less cultural stuff beijing like
+NI59FBQ_0101 3689167 3693447 ZH 紫禁城 有 长城 有 天坛 有 地坛 有
+NI59FBQ_0101 3693447 3696171 ZH 日月潭 就是 诶 不 日月潭 是
+NI59FBQ_0101 3696171 3699731 CS so 有 different things 咯 比较 多 东西 看
+NI59FBQ_0101 3700191 3701881 CS (erm) 台 (erm) sorry
+NI59FBQ_0101 3702041 3703291 ZH 上海 就 比较
+NI59FBQ_0101 3705851 3711091 CS 嗯 比较 city like and the people there are more snobbish
+NI59FBQ_0101 3711514 3712580 EN yeah
+NI59FBQ_0101 3713148 3713752 EN 
+NI59FBQ_0101 3715705 3717268 ZH 嗯 嗯 胡同
+NI59FBQ_0101 3717871 3719754 CS 吃 okay
+NI59FBQ_0101 3720606 3722391 ZH 我 没有 去 全聚德 诶
+NI59FBQ_0101 3722391 3723811 ZH 因为 很 贵
+NI59FBQ_0101 3724221 3727291 ZH 可是我 去 另外 一间 也是 很好 吃
+NI59FBQ_0101 3727744 3728739 ZH 嗯
+NI59FBQ_0101 3729691 3735011 ZH 我 去 靠近 我 学校 那里 有 一间 我的 北京 的 朋友 带 我们 去
+NI59FBQ_0101 3737339 3742033 ZH 嗯 我 去 两次 因为 跟 不同 的 朋友
+NI59FBQ_0101 3742493 3746999 ZH 我的 朋友 飞 到 北京 来 找 我 玩 嘛 然后 我们 就 一起 去
+NI59FBQ_0101 3747414 3749974 ZH 我 去 两次 一次 很 冷 一次 很 热
+NI59FBQ_0101 3751863 3756233 ZH 四月 我 我 四月 去 一次 七月 去 一次
+NI59FBQ_0101 3756713 3758823 ZH 现在 七月 了 真的是 很 热
+NI59FBQ_0101 3760528 3763653 CS 嗯 很 stick 啊 okay 啊
+NI59FBQ_0101 3765703 3768753 CS 可能 小时 后 你 比较 like 小 只
+NI59FBQ_0101 3769080 3771353 EN ah ah ah ah ah but
+NI59FBQ_0101 3772631 3775437 ZH 对 对 对 可是 八达岭 应该 是 比较 容易 的
+NI59FBQ_0101 3776433 3779353 CS 好像 比较 touristy 比较 多 游客 去
+NI59FBQ_0101 3779999 3781561 ZH 啊 嗯
+NI59FBQ_0101 3783133 3785983 CS 对 对 对 而且 我也 是 搭 public transport
+NI59FBQ_0101 3786603 3790173 CS 因为 你 跟 好像 那种 tour group
+NI59FBQ_0101 3790403 3793373 ZH 他们就 会 带 你 去 很多 不同 的 地方 我 不 喜欢
+NI59FBQ_0101 3794033 3797533 CS yeah so 我 just check out like which bus to take
+NI59FBQ_0101 3798193 3800333 EN yeah it's quite interesting
+NI59FBQ_0101 3804023 3805483 ZH 就是 在 在 中国 啊
+NI59FBQ_0101 3805483 3806494 ZH (呃)
+NI59FBQ_0101 3810243 3813243 ZH 就是 买 东西 的时候 他们 很 喜欢 跟 你
+NI59FBQ_0101 3813853 3816133 CS bargain 就是 很 累 呀
+NI59FBQ_0101 3816253 3820243 CS 因为 singapore 都是 fixed price 嘛 好像 这个 东西 两 块 你 觉得 okay 你 就 买
+NI59FBQ_0101 3820423 3824023 ZH 那边 可能 是一个 很 便宜 的 东西 可是 他们 会
+NI59FBQ_0101 3824693 3828693 ZH 讲 到 好像 很 贵 就是 哦 两百 块 人民币 你 就 觉得 很
+NI59FBQ_0101 3829153 3831503 ZH 很 夸张 啦 其实 只是 可能
+NI59FBQ_0101 3831803 3834160 ZH 二十 人民币 的 东西 一个 就
+NI59FBQ_0101 3834383 3836663 CS 很 累 要 一直 跟 他 bargain 跟 他
+NI59FBQ_0101 3837853 3843383 ZH 然后 他们就 会 跟 你 大小 生 可是 他们 不是 生 你的 气 只是 做做 生意
+NI59FBQ_0101 3843383 3844981 ZH 嗯
+NI59FBQ_0101 3844981 3848371 ZH 北方 人 对 我觉得 北方 人 有一点 没有 礼貌
+NI59FBQ_0101 3848371 3849621 ZH 对 
+NI59FBQ_0101 3849621 3851061 ZH 南方 人 就 很 温柔
+NI59FBQ_0101 3851462 3854381 ZH 嗯 所以 我 不是 很 喜欢 在 那 那里 买 东西
+NI59FBQ_0101 3854487 3856277 ZH 虽然 是 便宜 可是 很 累
+NI59FBQ_0101 3856790 3857677 ZH 嗯
+NI59FBQ_0101 3858967 3861947 ZH 所以 我 回到 新加坡 我朋友 就 讲 诶 为什么 你 突然 好象 间 很 凶
+NI59FBQ_0101 3861947 3862961 EN 
+NI59FBQ_0101 3862961 3866471 ZH 因为 在 在 北京 住了 半年
+NI59FBQ_0101 3866761 3869991 ZH 你 一定要 凶 一点 不然 会 给 人家 欺负 嘛
+NI59FBQ_0101 3872831 3874231 ZH 哦 对 我也 时 有 读 到
+NI59FBQ_0101 3874642 3876596 ZH 嗯 我 觉得 那种 也是
+NI59FBQ_0101 3879511 3882111 ZH 不会 啦 我都 没有 北京 的 那个～ 那个 腔
+NI59FBQ_0101 3883101 3889691 ZH 没有 我 每次 我 每次 说话 他们就 会 说 你是 南方 人 吗 因为 南方 比较 温柔 比较
+NI59FBQ_0101 3895770 3897226 EN yeah
+NI59FBQ_0101 3899073 3900316 EN yeah
+NI59FBQ_0101 3903050 3908342 CS 是 吗 得 need more energy really 啊
+NI59FBQ_0101 3909904 3911911 EN yeah yeah yeah why you should
+NI59FBQ_0101 3911911 3913531 CS 有时候 有一点 cannot stand it
+NI59FBQ_0101 3913531 3924411 CS  对 所以 我们 就讲 哦 我 不是 我是 南方人 可是 很南 啊  亚洲 对 就是 yeah

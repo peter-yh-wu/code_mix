@@ -1,0 +1,716 @@
+NI05MBQ_0101 887 1700 EN okay
+NI05MBQ_0101 1700 2760 EN hello hello
+NI05MBQ_0101 3694 4854 EN okay
+NI05MBQ_0101 7434 12394 CS 好 okay  
+NI05MBQ_0101 16600 20155 CS yeah i think we can 继续
+NI05MBQ_0101 29660 30525 EN en
+NI05MBQ_0101 30525 33215 EN yeah correct what i'm in engineering but
+NI05MBQ_0101 33775 35640 CS 我 不知道 会 take 什么
+NI05MBQ_0101 35640 36695 EN (er)
+NI05MBQ_0101 36695 41615 CS 现在 还 还没有 接触 到 different engineering 的
+NI05MBQ_0101 42089 42949 EN en
+NI05MBQ_0101 44985 46655 ZH 角度 所以
+NI05MBQ_0101 46875 49828 EN not too sure which engineering i'm going to yet
+NI05MBQ_0101 51430 54260 CS yeah but for engineers 我们的
+NI05MBQ_0101 54260 55230 EN 
+NI05MBQ_0101 55230 59150 CS 我们的 那个 option 也没有 很多 就是
+NI05MBQ_0101 60291 63921 EN (er) civil engineering environmental
+NI05MBQ_0101 66241 69211 CS mechanical electrical 啊 就是 这样
+NI05MBQ_0101 80285 81788 ZH 哦 对
+NI05MBQ_0101 83550 85090 CS 其 他的 course
+NI05MBQ_0101 85090 85471 EN en
+NI05MBQ_0101 85471 87620 CS 其实 initially
+NI05MBQ_0101 87620 87911 EN en
+NI05MBQ_0101 87911 90451 EN i wanted to take (er) mathematics
+NI05MBQ_0101 90741 95581 CS but 就是 进 不了 所以 second option 就是 engineering 了
+NI05MBQ_0101 97075 98589 EN yeah so
+NI05MBQ_0101 98589 105319 CS 已经 是 想 要 也就是 已经 想 (er) will take engineering in uni 了
+NI05MBQ_0101 110753 111929 EN en
+NI05MBQ_0101 111929 116589 CS 其实 我 觉得 graduate 了 for an engineer graduate
+NI05MBQ_0101 116589 119859 ZH (er) 也
+NI05MBQ_0101 119859 123029 CS 还没有 一个 fixed 的 route 啊 就是
+NI05MBQ_0101 123029 130878 CS (er) 有 很多 engineers 他们 也是 graduate 了 之后 then they do something else instead of engineering
+NI05MBQ_0101 130878 132259 EN (er)
+NI05MBQ_0101 132259 135489 CS like 就 像 我 姐姐 他 也是 engineering 的 but
+NI05MBQ_0101 136129 139509 CS 她 after that 出来 she is now she is working in a bank
+NI05MBQ_0101 142279 143420 EN (er)
+NI05MBQ_0101 143420 145129 CS 她在 bank 啊 她是
+NI05MBQ_0101 145415 151955 CS facilitate 那个 (er) some flow of (er) transactions 的 吧
+NI05MBQ_0101 153789 154309 EN en
+NI05MBQ_0101 154995 157815 CS like 也有 跟 stocks 有关 系 的
+NI05MBQ_0101 159505 164225 CS (er) 其实 他 也 算不算 是一个 full time worker 所以
+NI05MBQ_0101 164675 168255 CS her salary 会 比较 少 compared to others
+NI05MBQ_0101 176998 182928 CS 哦 对 (er) 其实 也 看 那个 passion 在 哪里 (er)
+NI05MBQ_0101 185502 186378 EN (er)
+NI05MBQ_0101 186378 189038 EN  i wouldn't say i have passion for engineering
+NI05MBQ_0101 189038 190138 EN but
+NI05MBQ_0101 190138 192718 CS can't say no 我也 有 想 过 要 当 老师
+NI05MBQ_0101 192718 195618 CS tha~ that is just (er) 一个
+NI05MBQ_0101 196308 197428 ZH 想法
+NI05MBQ_0101 201562 203680 CS (er) sta~ 但是
+NI05MBQ_0101 203680 206528 CS 其实 当 老师 很 像 满 stressful 的
+NI05MBQ_0101 207528 210148 ZH 哎呀 其实 不管 在 哪 一个 行业
+NI05MBQ_0101 210458 211648 CS 都会 有 stress 的
+NI05MBQ_0101 216186 217366 ZH 嗯 对
+NI05MBQ_0101 222921 227986 CS oh have to depend on 去 哪 一个 maybe 小学 还是 中学
+NI05MBQ_0101 228294 229197 EN yeah
+NI05MBQ_0101 240549 241591 EN en
+NI05MBQ_0101 246417 247861 EN yeah i i think
+NI05MBQ_0101 247861 250121 EN 
+NI05MBQ_0101 250121 252260 CS 中学生 应该 比较 sensible
+NI05MBQ_0101 252260 253231 EN 
+NI05MBQ_0101 253231 256380 CS but 小学生 maybe they would complain
+NI05MBQ_0101 256380 258591 CS 一点点 就 complain 很多 东西 了
+NI05MBQ_0101 265641 269661 CS (er) 我 应该 会 打算 教 maths 还 还有 science
+NI05MBQ_0101 270104 270521 EN take
+NI05MBQ_0101 273264 275486 EN en yeah lah i
+NI05MBQ_0101 276081 278921 EN quite like mathematics like
+NI05MBQ_0101 278921 281941 CS 就是 满 难 的 as we go higher
+NI05MBQ_0101 282841 284651 CS 欸 like in uni
+NI05MBQ_0101 292325 297211 CS 哦 其实我没有什么 hobby 只是 i
+NI05MBQ_0101 297211 300611 CS 看到 一些 人 他们 玩 computer games but
+NI05MBQ_0101 300901 302401 ZH 其实 我 不 玩 的
+NI05MBQ_0101 302401 303571 EN (er)
+NI05MBQ_0101 303571 304751 EN i do play
+NI05MBQ_0101 305171 307141 EN music sometimes
+NI05MBQ_0101 308989 311439 EN (er) the maybe the keyboard
+NI05MBQ_0101 312533 313013 EN en
+NI05MBQ_0101 314270 317130 ZH (er) 一点点 而已 啦 就是 小时候 有
+NI05MBQ_0101 317560 318960 ZH 接触 到 一点
+NI05MBQ_0101 319211 322051 CS but 现在 not much already
+NI05MBQ_0101 327925 330445 EN en yeah correct
+NI05MBQ_0101 334691 336561 EN oh yeah the scores can
+NI05MBQ_0101 336791 338353 EN search from the internet
+NI05MBQ_0101 338611 340167 CS then 看到 哪 一个
+NI05MBQ_0101 340549 344141 CS (er) 歌 好听 then i would try and look for the score
+NI05MBQ_0101 348789 350719 EN any instrument ah (er)
+NI05MBQ_0101 351319 354301 CS i think 要 看 depends on 哪 一个
+NI05MBQ_0101 355378 356384 CS part 吧
+NI05MBQ_0101 357959 362889 CS yeah instrument 啊 yeah the keyboard has 满 多 的 instrument 的
+NI05MBQ_0101 363309 367049 CS yeah then 可以 调 to the tune of the instrument
+NI05MBQ_0101 376698 378619 ZH 哦 不会 弹 吉他 诶
+NI05MBQ_0101 379059 380204 EN (er)
+NI05MBQ_0101 381126 384386 CS 是 i think 是 蛮 难 学 的 但是
+NI05MBQ_0101 384736 388626 EN yeah some people are very good with guitar and i quite admire that
+NI05MBQ_0101 389286 390786 ZH 只是 他们 很 厉害
+NI05MBQ_0101 397186 401096 CS 哦 如果 有机 会 i think i will want to go overseas exchange 啊
+NI05MBQ_0101 401466 404356 CS (er) 是一个 很好 的 experience
+NI05MBQ_0101 404711 413741 CS i think and yeah can get to 看看 different places other than only in singapore
+NI05MBQ_0101 417735 418775 EN en
+NI05MBQ_0101 419441 421641 CS 你 gigi 也没有 打算 去 哪里
+NI05MBQ_0101 421641 423601 CS (er) i think 如果 去
+NI05MBQ_0101 423601 425321 EN (er)
+NI05MBQ_0101 425321 427321 CS western country 会 比较 贵
+NI05MBQ_0101 428015 430915 CS but asian country 啊 也 也 算是 不错
+NI05MBQ_0101 430915 434635 CS 我 有一个 senior 他 刚刚 去了
+NI05MBQ_0101 434635 435925 ZH 中国
+NI05MBQ_0101 436065 437925 EN (er) for attachment
+NI05MBQ_0101 448427 452137 CS 哦 对 有 想 过 then 就是 在 asia
+NI05MBQ_0101 452137 454067 EN like
+NI05MBQ_0101 454067 463187 CS 那个 城市 生活 应该 也是 差不多 so maybe if i go to like some western country the experience 会 不同 哦
+NI05MBQ_0101 464777 466897 EN en the culture is also
+NI05MBQ_0101 466897 468227 EN very different
+NI05MBQ_0101 477341 479287 ZH 啊 (呃)
+NI05MBQ_0101 479287 481277 CS 如果 去 exchange i think 我
+NI05MBQ_0101 481277 491901 CS 也不会选那么 贵的一个 country 因为 也不想花太多钱 on exchange en
+NI05MBQ_0101 491901 494651 CS so 看看 咯 哪 一个 country 比较 好
+NI05MBQ_0101 513201 514312 EN (er)
+NI05MBQ_0101 514991 517491 CS yeah i think you 讲 得 有 道理
+NI05MBQ_0101 517491 518881 EN (er)
+NI05MBQ_0101 518881 520650 CS exchange 不只 是
+NI05MBQ_0101 521221 525071 CS 玩 or no 不只 是 study i think 也是 会
+NI05MBQ_0101 525651 530541 CS sometimes you get to play during your exchange 啊 and 那个 是 蛮好的
+NI05MBQ_0101 536400 539802 EN en not actually
+NI05MBQ_0101 540561 542060 EN i'm not really
+NI05MBQ_0101 542060 543281 EN (er)
+NI05MBQ_0101 543281 547111 CS i don't really listen to songs a lot 啦 就是 有时
+NI05MBQ_0101 547111 549851 CS 听到 哪 一首 歌 比较 好听 then 我 就会
+NI05MBQ_0101 550011 552001 EN (er) just listen to that song
+NI05MBQ_0101 556295 557651 EN en
+NI05MBQ_0101 557651 561081 CS more english than chinese 吧
+NI05MBQ_0101 567087 567643 EN en
+NI05MBQ_0101 571715 574080 ZH (er) (er) 我的 家 有 一～
+NI05MBQ_0101 574080 575240 CS 两个 sister
+NI05MBQ_0101 575240 576370 EN then
+NI05MBQ_0101 576370 579110 CS 一个 比 我 大 one younger
+NI05MBQ_0101 579850 580930 EN yeah then
+NI05MBQ_0101 581140 584260 CS my elder sis 她 比 我们 大 四 岁
+NI05MBQ_0101 584690 586640 CS younger sis 就 小 我们 两 岁
+NI05MBQ_0101 592773 593606 EN en
+NI05MBQ_0101 595611 601671 CS elder sis 现在 已经 在 做工 了然 后 younger sis (er) 现在 现在 还在
+NI05MBQ_0101 602161 605711 CS poly 读书 then i think she's coming to n. t. u.
+NI05MBQ_0101 605711 611684 EN in yeah maybe next year
+NI05MBQ_0101 612851 616771 CS 哦 and she is 她 也是 engineer student
+NI05MBQ_0101 617445 618131 EN en
+NI05MBQ_0101 618131 620061 CS 她 是 mechanical engineer 的
+NI05MBQ_0101 621290 625220 EN so i think she will come in and carry on
+NI05MBQ_0101 625220 627000 ZH 啊
+NI05MBQ_0101 627000 629230 CS 继续 追求 她的 studies
+NI05MBQ_0101 647924 652070 EN en learning
+NI05MBQ_0101 652070 653920 ZH 新的 东西
+NI05MBQ_0101 655233 657873 CS yeah 有 想 过 啦 但是
+NI05MBQ_0101 658243 665353 CS as it is school 是 蛮 繁忙 的 then learning guitar
+NI05MBQ_0101 666023 669403 CS i think 我的 passion 就是 有时候
+NI05MBQ_0101 669403 671933 CS 会 不见 掉 then 就 没有 兴趣
+NI05MBQ_0101 672453 674043 EN to learn the guitar already
+NI05MBQ_0101 675013 678093 EN yeah i have thought of learning a guitar before
+NI05MBQ_0101 679043 682203 CS yeah but i think 没有 人 教 我也 是 蛮 难 的
+NI05MBQ_0101 690637 692437 ZH (呃)
+NI05MBQ_0101 694597 696336 ZH (呃)
+NI05MBQ_0101 697685 699643 ZH 嗯 我 中学
+NI05MBQ_0101 699643 700431 EN 
+NI05MBQ_0101 700431 701851 ZH 啊 对 我 中学
+NI05MBQ_0101 702431 704191 EN ah i was from the band
+NI05MBQ_0101 704441 706161 EN yeah j. c. as well
+NI05MBQ_0101 706471 707611 CS then 我是
+NI05MBQ_0101 707921 709541 EN play the tuba
+NI05MBQ_0101 710831 713931 CS then 很多 人 会 问 我 tuba 是什么 then
+NI05MBQ_0101 713931 715421 EN so i  find it
+NI05MBQ_0101 715421 717221 EN quite hard to describe to them
+NI05MBQ_0101 718395 719841 EN yeah
+NI05MBQ_0101 719841 723901 CS 是 比较 很少 人 知道 的 instrument 吧
+NI05MBQ_0101 725275 725701 ZH 嗯
+NI05MBQ_0101 725701 727281 ZH 对 是 用 吹 的
+NI05MBQ_0101 730155 730915 ZH 啊
+NI05MBQ_0101 731321 734841 CS it's actually quite big 啊 蛮 大 的 it's like
+NI05MBQ_0101 735991 739301 CS 你 站 起来 的话 it's half your height at least
+NI05MBQ_0101 744201 746911 EN yeah it's quite oval in shape
+NI05MBQ_0101 748121 749871 CS yeah 是一个 很 长 的
+NI05MBQ_0101 749871 752645 ZH 啊 对 对 对
+NI05MBQ_0101 760445 762321 EN en then (er)
+NI05MBQ_0101 762321 765881 CS actually 我也 是 想 要 take 个 一个 elective in n. i. e.
+NI05MBQ_0101 765881 768121 CS 一个 band 的 module
+NI05MBQ_0101 769295 770031 ZH 啊
+NI05MBQ_0101 770031 778441 CS but 他们的 那个 module 太 太 多 人 了 所以 我 没有 去 它的 audition
+NI05MBQ_0101 782781 787171 CS 哦 因为 他们的 那些 人 都是 seniors then
+NI05MBQ_0101 787411 789461 CS 他们 已经 在 那个 band 了
+NI05MBQ_0101 789671 797581 CS 那个 module so i think the chances of me getting in is 不 高 啊 因为 他们 instrument 也不 够
+NI05MBQ_0101 809951 812001 CS 哦 this chinese new year
+NI05MBQ_0101 813231 819761 CS i think 会 跟 其 他的 年 一样 吧 就是 (er) mainly go around visiting
+NI05MBQ_0101 819761 820741 EN yeah
+NI05MBQ_0101 820741 822761 ZH 看看 亲戚 朋友
+NI05MBQ_0101 823456 824931 EN yeah then
+NI05MBQ_0101 824931 826731 EN meet up with friends also
+NI05MBQ_0101 834605 836305 EN 
+NI05MBQ_0101 837626 841024 CS ah 其实 that's the question that
+NI05MBQ_0101 842577 846007 EN i don't know myself as well cause every year
+NI05MBQ_0101 846017 849067 CS i collect my ang bao then 我 会 pass 给 我 妈妈
+NI05MBQ_0101 849207 851467 CS so yeah it's since young 的
+NI05MBQ_0101 851537 854457 CS 所以 around average
+NI05MBQ_0101 854457 858737 CS how how much i can collect in a year 其实 我也 不知道
+NI05MBQ_0101 862157 866167 CS yeah some people also cannot believe (er) 他们 不 相信 then
+NI05MBQ_0101 866467 868597 EN but yeah but that's the truth
+NI05MBQ_0101 869332 871511 CS then 我 自己 也 不 知道 
+NI05MBQ_0101 875527 876152 EN en
+NI05MBQ_0101 887991 889457 EN oh early bird ah
+NI05MBQ_0101 889457 890167 EN 
+NI05MBQ_0101 890167 893887 CS 其实 有时候 会 late 嘞 but
+NI05MBQ_0101 894037 897756 EN just try (er) yeah i do try to make an effort to
+NI05MBQ_0101 898217 903337 CS 早 一点点 到 啊 不然 就是 at least (er) reach on time
+NI05MBQ_0101 904951 905931 EN (er)
+NI05MBQ_0101 907291 908251 EN en
+NI05MBQ_0101 916687 922170 CS oh (er) 以前 last time i used to 迟到 myself also quite
+NI05MBQ_0101 922170 924760 EN often so i
+NI05MBQ_0101 924760 928970 CS yeah i know i kind of understand how (er) 人家 会 feel
+NI05MBQ_0101 929430 933350 CS yeah so 我 就 try not to 迟到 啊 and then
+NI05MBQ_0101 933960 936960 CS if 别人 迟 到 then i will also understand
+NI05MBQ_0101 937030 942050 CS that okay 有些 人 sometimes they have 没有 choice
+NI05MBQ_0101 943045 943984 EN en
+NI05MBQ_0101 950214 952124 EN en during holidays ah
+NI05MBQ_0101 953078 953860 EN en like
+NI05MBQ_0101 953860 956810 CS 之前 那个 december holiday
+NI05MBQ_0101 956810 959556 ZH en 我
+NI05MBQ_0101 959556 961636 CS 都是 mainly 在 hall 里面
+NI05MBQ_0101 962006 964596 CS 因为 hall 有 很多 activities
+NI05MBQ_0101 965455 967550 EN so yeah loh
+NI05MBQ_0101 967550 971626 CS my life is just in hall 不然 就是 回家
+NI05MBQ_0101 972526 976446 EN yeah i also got to meet up with some friends ah
+NI05MBQ_0101 978356 984216 CS yeah but as for the after the holiday after 那个 second sem 的话
+NI05MBQ_0101 984516 986166 ZH 我 就会 觉得
+NI05MBQ_0101 986166 997150 CS 是蛮久的 so i might take up (er) 就是想要 take special 先 啊 at least 有东西做啊
+NI05MBQ_0101 997150 999880 CS at least 有 东西 做 during the holiday
+NI05MBQ_0101 1013289 1014781 EN en
+NI05MBQ_0101 1018390 1019960 CS 哦 yeah 其实
+NI05MBQ_0101 1020460 1021910 CS 现在 you mention
+NI05MBQ_0101 1022400 1025450 CS i think holidays 会 有 很多
+NI05MBQ_0101 1026440 1028599 CS (er) canvassing 的 东西 要 做
+NI05MBQ_0101 1030574 1031594 EN en yeah hor
+NI05MBQ_0101 1032020 1037700 CS 哎呀 but if i am in special sem then 我也 会 在 学校 所以 应该 会 有
+NI05MBQ_0101 1039349 1041710 CS 应该 是 还 可以 继续 做 canvassing
+NI05MBQ_0101 1056040 1060080 CS en normal school day 啊 i think 我的
+NI05MBQ_0101 1060430 1062160 CS life 就是
+NI05MBQ_0101 1062160 1065901 CS quite boring  的
+NI05MBQ_0101 1065901 1070801 CS (er) maybe 我 会上 internet 咯 去 surf for a while
+NI05MBQ_0101 1072061 1073600 EN then see
+NI05MBQ_0101 1074031 1075941 CS (er) for the day 要 做 什么
+NI05MBQ_0101 1076141 1078141 EN like maybe try and accompany
+NI05MBQ_0101 1078141 1078847 EN (er)
+NI05MBQ_0101 1078847 1079867 ZH 家人
+NI05MBQ_0101 1080198 1083447 CS or 找 朋友 then 可以 一起 go out
+NI05MBQ_0101 1094487 1097837 CS current hall life oh 其实
+NI05MBQ_0101 1098147 1100270 CS 我是 蛮 喜欢 hall life 的
+NI05MBQ_0101 1100270 1103097 EN then en
+NI05MBQ_0101 1103097 1106117 CS 学校 也是 quite okay 啊 就是 觉得
+NI05MBQ_0101 1106117 1110337 CS 那个 speed 会 蛮 快 so as a result
+NI05MBQ_0101 1110507 1112907 CS 得 找 一个 balance 咯
+NI05MBQ_0101 1114521 1115847 EN (er)
+NI05MBQ_0101 1115847 1119717 CS 要 handle hall~ hall 的 东西 还有 学校
+NI05MBQ_0101 1129393 1131375 EN en hall politics ah
+NI05MBQ_0101 1131375 1134945 CS 其实 我也 不知道 有什么 hall politics 诶 因为
+NI05MBQ_0101 1135445 1138215 CS (er) from my point of view 的话
+NI05MBQ_0101 1139310 1140652 EN (er)
+NI05MBQ_0101 1140652 1143632 CS i feel that if i just 做 我 自己的 东西
+NI05MBQ_0101 1143632 1145054 EN then
+NI05MBQ_0101 1145054 1147074 EN yeah loh just fill my roles
+NI05MBQ_0101 1147074 1148934 EN and
+NI05MBQ_0101 1148934 1154634 EN yeah lah maintain a good relationship with my friends the hall
+NI05MBQ_0101 1155074 1158108 CS then 就 应该 可以 了 吧 hall politics 啊
+NI05MBQ_0101 1158420 1163550 ZH 我也 不知道 我也 我也 不想 我也 没有 去 多 问 啊
+NI05MBQ_0101 1163550 1164410 ZH 是
+NI05MBQ_0101 1164410 1165740 EN got hear before
+NI05MBQ_0101 1166514 1167990 EN as in 
+NI05MBQ_0101 1167990 1169970 CS 有 一些 人 unhappy with each other
+NI05MBQ_0101 1170502 1170930 EN (er)
+NI05MBQ_0101 1170930 1172680 CS but 我也 是 没有 去 多 问
+NI05MBQ_0101 1178994 1179854 EN en
+NI05MBQ_0101 1185634 1188605 EN ah sports champ (er) en
+NI05MBQ_0101 1188605 1191725 CS 其实 今年 hall three 是 quite strong leh
+NI05MBQ_0101 1192035 1193725 CS 他们 有 很多 gold medal
+NI05MBQ_0101 1194859 1196179 EN then
+NI05MBQ_0101 1197545 1199995 ZH (呃) 其实 我也 不大 清楚
+NI05MBQ_0101 1200055 1203651 CS not sure but for rec 的话
+NI05MBQ_0101 1203885 1206545 CS they got second place then 我们 有 third place
+NI05MBQ_0101 1207015 1209625 CS so 他们的 sports 也是 很 strong 所以
+NI05MBQ_0101 1210719 1212375 ZH (呃) 今年
+NI05MBQ_0101 1212375 1216105 CS (er) 要 拿 到 rec champ 的话 是 蛮 难 的 i think hall three will get it
+NI05MBQ_0101 1217755 1219465 EN yeah overall champ
+NI05MBQ_0101 1220479 1221355 EN en
+NI05MBQ_0101 1221355 1224495 CS i think maybe we can 拿 到 第二 名 啊
+NI05MBQ_0101 1230707 1232595 EN oh yeah
+NI05MBQ_0101 1232595 1237525 CS yeah then 我们的 squash like recently 也是 拿 到 gold
+NI05MBQ_0101 1237525 1238435 EN en
+NI05MBQ_0101 1238435 1240995 CS soccer i think doing 蛮好的
+NI05MBQ_0101 1242129 1242715 EN (er)
+NI05MBQ_0101 1242715 1247085 CS actually 还有 一些 sports 啊 tennis also right and basketball
+NI05MBQ_0101 1250779 1251475 EN en
+NI05MBQ_0101 1251475 1253580 CS so 希望 they can help to
+NI05MBQ_0101 1253580 1254574 EN (er)
+NI05MBQ_0101 1256365 1257455 EN shorten the gap
+NI05MBQ_0101 1258395 1261265 CS yeah between 我们 跟 hall three
+NI05MBQ_0101 1262395 1264745 CS then 我们 比较 有 chance
+NI05MBQ_0101 1270579 1271399 EN 
+NI05MBQ_0101 1273599 1274835 EN oh yeah
+NI05MBQ_0101 1274835 1279455 CS 如果 那样 也好 嘞 it's quite good 啊 because hall two 现在
+NI05MBQ_0101 1279455 1280795 EN (er)
+NI05MBQ_0101 1280795 1282470 EN isn't as strong as
+NI05MBQ_0101 1282470 1285515 EN hall (er) isn't
+NI05MBQ_0101 1285515 1288610 EN much of a threat ah compared to hall three
+NI05MBQ_0101 1294175 1297583 CS actually last sem i didn't 我 没有 考 好 嘞
+NI05MBQ_0101 1297865 1299315 EN seriously
+NI05MBQ_0101 1299315 1301165 EN en
+NI05MBQ_0101 1301165 1302425 ZH 我 拿 到
+NI05MBQ_0101 1302425 1303515 ZH 我
+NI05MBQ_0101 1303515 1304665 CS 蛮 多 c. 的
+NI05MBQ_0101 1306035 1307175 ZH 啊 真的
+NI05MBQ_0101 1311625 1317685 CS (er) although engineering 我是 听说 有 一些 人 跟 我的 g. p. a. 也是 差不多 一样 啊
+NI05MBQ_0101 1317995 1319435 CS 没有 到 three
+NI05MBQ_0101 1319435 1321160 EN en but
+NI05MBQ_0101 1321160 1324140 CS i think 也有 一些 人 考 得 not bad one 咯
+NI05MBQ_0101 1324340 1327960 CS i have a friend 他 考 four point five eight 的
+NI05MBQ_0101 1329054 1330714 CS (er) 所以 是 first sem
+NI05MBQ_0101 1336254 1339000 ZH 嗯 所以 要
+NI05MBQ_0101 1339000 1340150 CS work hard 了 咯
+NI05MBQ_0101 1342204 1343424 EN en for
+NI05MBQ_0101 1344560 1345920 EN next sems to come
+NI05MBQ_0101 1350094 1350854 EN 
+NI05MBQ_0101 1357761 1359441 CS then elective 的话
+NI05MBQ_0101 1359441 1361201 EN mm
+NI05MBQ_0101 1361201 1363558 CS 这个 sem i'm taking psychology
+NI05MBQ_0101 1363821 1367021 CS yeah then 我是 觉得 psychology 很 interesting
+NI05MBQ_0101 1370701 1371831 EN out of ten hor
+NI05MBQ_0101 1372141 1375051 CS 应该 是 蛮难 的 although 现在 我 还 没 看到
+NI05MBQ_0101 1375051 1375761 EN (er)
+NI05MBQ_0101 1375761 1377781 EN the papers how tough
+NI05MBQ_0101 1377781 1378991 EN yeah
+NI05MBQ_0101 1378991 1385190 CS actually 我 有 另外 一个 sem (er) 另外 一个 elective 的 是 living with mathematics
+NI05MBQ_0101 1386221 1391561 CS but 我 看到 它的 那个 exam paper 就 觉得 very tough so i decided to
+NI05MBQ_0101 1391941 1392631 EN drop it
+NI05MBQ_0101 1392631 1394991 ZH  啊
+NI05MBQ_0101 1394991 1397241 CS 对 我 已经 drop living with mathematics 了
+NI05MBQ_0101 1399495 1404475 CS (er) 所以这个 sem 只有 psychology
+NI05MBQ_0101 1413504 1414530 EN en
+NI05MBQ_0101 1414530 1418501 CS yeah 我也 有 想 过 要 s. u. 两个 psychology
+NI05MBQ_0101 1420535 1421395 EN en
+NI05MBQ_0101 1425070 1428080 CS i think 这个 room 的 那个 r two d. two 很 cute 嘞
+NI05MBQ_0101 1428080 1430260 ZH  他们
+NI05MBQ_0101 1430260 1432550 CS 花 了 how much time to do it
+NI05MBQ_0101 1437290 1439720 CS 哦 我也 我也 so think so
+NI05MBQ_0101 1445637 1450557 CS oh actually i think 在 university 做 research
+NI05MBQ_0101 1450557 1453457 ZH 是 (呃)
+NI05MBQ_0101 1453457 1457417 CS 蛮 interesting 的 because 很多 东西 我们 can't see 的 咯
+NI05MBQ_0101 1457417 1458227 EN (er)
+NI05MBQ_0101 1458227 1461337 EN like maybe the engineering (er) material science
+NI05MBQ_0101 1461557 1463187 CS like 他们 都是
+NI05MBQ_0101 1463187 1464887 EN (er) yeah loh
+NI05MBQ_0101 1464887 1469257 CS 蛮厉害 的 professors 就是 我们 平常 看 不到 他们 做 什么
+NI05MBQ_0101 1472451 1473227 ZH 哦
+NI05MBQ_0101 1473227 1477477 CS but i think if 他们 在 lab 的话 就 可能 不一样 了 吧
+NI05MBQ_0101 1478087 1480067 CS conduct 很多 东西
+NI05MBQ_0101 1483477 1487547 CS then 听说 也是 有 s. i. a. 找
+NI05MBQ_0101 1488127 1493375 CS mechanical engineering 的 sector professors 做 东西
+NI05MBQ_0101 1493375 1502829 CS like improve 他们的那个 efficiency 吧 yeah so 他们就要做很多 research so 就觉得他们蛮厉害的
+NI05MBQ_0101 1512480 1513501 ZH 哦
+NI05MBQ_0101 1513501 1519617 CS 在家 i think 我 会 speak mainly english 吧
+NI05MBQ_0101 1520241 1521179 EN yeah
+NI05MBQ_0101 1527255 1530801 CS en for me i think english 跟 chinese 都是
+NI05MBQ_0101 1530801 1532901 EN i'm
+NI05MBQ_0101 1532901 1535871 EN i think i do equally well in
+NI05MBQ_0101 1536471 1540591 CS (er) secondary school and j. c. 啊 the grades 都是 一样 的
+NI05MBQ_0101 1540591 1542181 EN so yeah
+NI05MBQ_0101 1542181 1543211 EN considered myself
+NI05MBQ_0101 1543501 1544741 EN okay lah
+NI05MBQ_0101 1548961 1549898 EN 
+NI05MBQ_0101 1553513 1557304 CS oh 以前 my favourite subject 就是 maths
+NI05MBQ_0101 1559318 1560186 EN en
+NI05MBQ_0101 1569595 1571971 EN oh yeah
+NI05MBQ_0101 1571971 1580511 CS 有 啊 有 啊 在 j. c. 有 做 过 econs actually in uni i also did econs in the first sem as an elective
+NI05MBQ_0101 1581271 1583821 ZH 就是 诶 看到 熟悉 的 东西
+NI05MBQ_0101 1584261 1589051 CS then 也 接触 到了 chemistry i find chemistry 很 interesting
+NI05MBQ_0101 1590792 1593110 CS en 其实 是 很 interesting 只是
+NI05MBQ_0101 1593400 1599130 CS 不知道 他们 怎么 看 like the atoms molecules and these kind of structure
+NI05MBQ_0101 1599130 1611722 CS and (er) a lot of different bonds then 他们还可以 link 到很多东西 so chemistry 是很intersting 但是
+NI05MBQ_0101 1611722 1613792 CS no talent 啊  for chemistry
+NI05MBQ_0101 1621416 1623152 EN en
+NI05MBQ_0101 1624922 1626522 EN oh
+NI05MBQ_0101 1626522 1629292 CS after this i think 我 会 去
+NI05MBQ_0101 1629292 1631550 ZH 嗯 看
+NI05MBQ_0101 1631550 1634280 CS hall 的 一个 match 吧
+NI05MBQ_0101 1634280 1638570 CS 是 最近 i. h. g. 有 很多 hall matches
+NI05MBQ_0101 1638830 1643420 CS then yeah 咯 i think quite close to the end of i. h. g. 了 所以
+NI05MBQ_0101 1643930 1646350 ZH 有时候 有 空 的话 就 支持 一下
+NI05MBQ_0101 1655250 1659510 CS yeah after hall i. h. g. maybe 我 会 留 在 学校 for a while
+NI05MBQ_0101 1659510 1660983 EN then
+NI05MBQ_0101 1660983 1665073 CS 做 一点 homework then after that 就 go back home
+NI05MBQ_0101 1667987 1669973 ZH 嗯 对 啊
+NI05MBQ_0101 1669973 1671003 EN i stay in bishan
+NI05MBQ_0101 1671774 1673198 EN 
+NI05MBQ_0101 1676426 1677574 EN oh
+NI05MBQ_0101 1677574 1682294 CS yeah i think 那个 是 an option that we can go for
+NI05MBQ_0101 1684084 1687874 CS that will not be the 第一次 啦 我们 有 cab 过
+NI05MBQ_0101 1689044 1690934 CS after 那个 d. and d.
+NI05MBQ_0101 1697930 1700014 EN (er) no actually
+NI05MBQ_0101 1700014 1703004 CS 我 不 认同 eat on train
+NI05MBQ_0101 1706017 1706850 EN yeah
+NI05MBQ_0101 1707440 1709840 CS 其实 i think 我是 蛮
+NI05MBQ_0101 1710070 1711680 CS follow the rules 的
+NI05MBQ_0101 1712461 1714911 CS even on bus 我也 是 try not to
+NI05MBQ_0101 1714911 1716311 EN (er)
+NI05MBQ_0101 1716311 1717241 EN eat or drink
+NI05MBQ_0101 1721605 1722421 ZH 啊 呀
+NI05MBQ_0101 1722421 1723321 EN that's true
+NI05MBQ_0101 1729541 1732101 CS en actually 糖果 都 不可 以 吃
+NI05MBQ_0101 1733121 1735411 CS 他们 i think 是
+NI05MBQ_0101 1735411 1738661 CS 要 totally prevent 吧 因为 if
+NI05MBQ_0101 1738661 1742331 CS let's say 那个 m. r. t. train 有 很多 蚂蚁 还是 什么 then
+NI05MBQ_0101 1742641 1745231 EN nobody will be would like it ah
+NI05MBQ_0101 1745471 1747871 CS 还是 什么 其 他的 insect
+NI05MBQ_0101 1749111 1750211 ZH 然后
+NI05MBQ_0101 1750651 1754141 CS yeah 那个 是 太 strict 了 啦 太 extreme 了 but
+NI05MBQ_0101 1754916 1755835 EN yeah loh
+NI05MBQ_0101 1756633 1758369 EN 
+NI05MBQ_0101 1760695 1761667 EN en
+NI05MBQ_0101 1767871 1774631 CS 哦 yeah that's 太 extreme 了 but i think some people will 很像 army 这样咯 do but don't get caught
+NI05MBQ_0101 1787784 1788964 EN en
+NI05MBQ_0101 1790043 1792613 CS i actually 喝 水 they should not
+NI05MBQ_0101 1792813 1794950 CS they should not 禁止 喝 水
+NI05MBQ_0101 1794950 1796664 ZH (呃) 喝水
+NI05MBQ_0101 1798098 1799953 EN  it's such a important thing
+NI05MBQ_0101 1799953 1800943 ZH 很 重要
+NI05MBQ_0101 1803413 1805663 CS 啊 他们 这样 太 extreme 了
+NI05MBQ_0101 1812619 1814111 EN en
+NI05MBQ_0101 1814111 1815538 EN yeah
+NI05MBQ_0101 1815538 1818278 EN but since it's set that way then we also
+NI05MBQ_0101 1818588 1820178 CS 都 没有 什么 choice
+NI05MBQ_0101 1820598 1824088 EN although yeah lah i think we can voice out loh
+NI05MBQ_0101 1824542 1825302 ZH 就是
+NI05MBQ_0101 1832305 1834570 CS 嗯 讲 的 quite true
+NI05MBQ_0101 1849023 1852850 CS yeah 咯 我们也 cannot say much
+NI05MBQ_0101 1852850 1854470 CS singapore 就是 这样
+NI05MBQ_0101 1866841 1870621 CS actually i think 这个 room 也是 有 很多 interesting 的 东西
+NI05MBQ_0101 1871241 1874781 CS 他们 在 后面 有 很多 有 一些 objects
+NI05MBQ_0101 1874781 1875894 EN then
+NI05MBQ_0101 1875894 1877534 EN don't know what they are doing leh
+NI05MBQ_0101 1877654 1881914 CS maybe filming some video 吧
+NI05MBQ_0101 1891644 1894034 CS (er) scary 的话 啊
+NI05MBQ_0101 1894674 1897404 CS 还 好 啦 but sometimes maybe they will get confused
+NI05MBQ_0101 1898074 1900604 CS 是 怕 会 overlookay 嘛 
+NI05MBQ_0101 1903166 1904354 EN 
+NI05MBQ_0101 1904354 1906520 CS 看起来 很 像是 animation
+NI05MBQ_0101 1906520 1909710 CS i don't know 啊 我在 猜 而已
+NI05MBQ_0101 1913414 1915210 CS 哦 这个 weekend 啊
+NI05MBQ_0101 1915210 1916654 EN en
+NI05MBQ_0101 1916654 1920034 CS saturday 我 会 celebrate 我的 friend 的 birthday
+NI05MBQ_0101 1921084 1923304 CS yeah then sunday 有
+NI05MBQ_0101 1923304 1924054 EN (er)
+NI05MBQ_0101 1924054 1926974 CS 我们 d. and d. 的 karang guni
+NI05MBQ_0101 1927684 1929934 CS yeah 是 跟 hexis 一起 right
+NI05MBQ_0101 1933228 1934088 EN en
+NI05MBQ_0101 1935975 1938875 CS 哦 sunday 有 karang guni
+NI05MBQ_0101 1938975 1941335 CS then 我们 会 在 serangoon area
+NI05MBQ_0101 1945565 1948645 CS 哦 我们是 跟 hexis together 的
+NI05MBQ_0101 1950839 1953099 CS (er) d. and d. 跟 hexis
+NI05MBQ_0101 1960859 1962178 ZH 嗯 没有
+NI05MBQ_0101 1963778 1964723 EN en
+NI05MBQ_0101 1964723 1967903 CS 没有 啊 i think 他们是 需要 很多 manpower 的
+NI05MBQ_0101 1969457 1971297 EN but that's in newspaper
+NI05MBQ_0101 1977143 1978203 EN yeah actually
+NI05MBQ_0101 1978953 1982183 CS very hard to strike 那个 balance 嘞 i think
+NI05MBQ_0101 1982863 1984583 CS 因为 for me 我 会
+NI05MBQ_0101 1986377 1988870 CS 我做 hall activities 的是
+NI05MBQ_0101 1988870 1991423 CS k. 啦 i find joy in doing it 啊 sometimes
+NI05MBQ_0101 1991593 1993463 CS but 太 多 也是
+NI05MBQ_0101 1993463 1996053 EN en 
+NI05MBQ_0101 1996053 1998093 CS 对 studies 不好 啊
+NI05MBQ_0101 1998643 2000693 CS but for studies maybe 我
+NI05MBQ_0101 2001467 2002343 EN en
+NI05MBQ_0101 2002343 2004463 CS 没有 allocate 很多 time for it
+NI05MBQ_0101 2006417 2007693 CS yeah 所以
+NI05MBQ_0101 2007693 2013303 CS from now onwards 啊 this sem 也是 要 continue working hard for studies 啊
+NI05MBQ_0101 2022997 2025116 EN en
+NI05MBQ_0101 2030216 2031796 ZH 嗯 其实
+NI05MBQ_0101 2032313 2035963 CS not just canvassing 啊 i think sports sub-com 有时候
+NI05MBQ_0101 2035963 2037717 ZH 因为有其他的东西做
+NI05MBQ_0101 2039583 2042743 CS like (er) supporting 那个 games
+NI05MBQ_0101 2042743 2044413 ZH en
+NI05MBQ_0101 2044413 2047113 CS 他们 有时候 还是 还是 convening
+NI05MBQ_0101 2047553 2052053 CS and 有时 找不到 人 就会 call those who often go down
+NI05MBQ_0101 2054707 2055567 EN en
+NI05MBQ_0101 2057167 2058587 EN 
+NI05MBQ_0101 2062827 2065526 CS en 应该 almost 了
+NI05MBQ_0101 2074384 2077593 CS actually 已经 over 了 啊
+NI05MBQ_0101 2089231 2090759 ZH 啊
+NI05MBQ_0101 2096899 2098744 EN holiday destination ah
+NI05MBQ_0101 2098999 2101559 CS actually 我是 有 想 过 要 去
+NI05MBQ_0101 2101559 2105739 CS (er) new zealand 的
+NI05MBQ_0101 2105739 2109269 EN yeah that was before school start sem one started
+NI05MBQ_0101 2110289 2112829 CS 但是 找不到 friends 跟 我 一起 去
+NI05MBQ_0101 2115043 2115969 ZH 哦 对咯
+NI05MBQ_0101 2115969 2116999 ZH 因为 他们 已经
+NI05MBQ_0101 2117479 2118129 ZH 要 去
+NI05MBQ_0101 2118479 2120669 CS holiday 的 都 已经 去了
+NI05MBQ_0101 2121239 2124259 CS then 就 找不到 friend 一起 去
+NI05MBQ_0101 2129326 2131201 EN en
+NI05MBQ_0101 2137041 2140439 EN en yeah but to they be
+NI05MBQ_0101 2140439 2142669 CS to be able to see these sights 诶 sight
+NI05MBQ_0101 2143039 2145749 CS 蛮 (er) interesting 的 就是
+NI05MBQ_0101 2146429 2148329 CS 你 will find out 哎 nature 是
+NI05MBQ_0101 2148329 2150110 EN wah is
+NI05MBQ_0101 2150639 2153189 CS now in singapore 就是 很少 看到
+NI05MBQ_0101 2155899 2160979 CS then 别的 国别 的 country 有些 地方 也是 满 majestic 的 就是
+NI05MBQ_0101 2160979 2162533 EN maybe
+NI05MBQ_0101 2163979 2165829 EN u. s. ah
+NI05MBQ_0101 2165829 2168339 EN en
+NI05MBQ_0101 2168339 2173749 CS 也没有 什么 去 想 过去 go to u. s.
+NI05MBQ_0101 2173749 2175899 EN but
+NI05MBQ_0101 2175899 2180369 CS 我也 是 觉得 哎 it will be quite a good experience 咯
+NI05MBQ_0101 2181232 2184199 CS 也是 看看 different parts of the 世界
+NI05MBQ_0101 2189625 2191049 ZH 
+NI05MBQ_0101 2191049 2193239 CS i also don't know 诶 没有 girlfriend
+NI05MBQ_0101 2194798 2196187 EN en
+NI05MBQ_0101 2197249 2201769 CS i think 我 现在 是 cannot even take care of myself 啦
+NI05MBQ_0101 2201915 2205879 CS 所以 有时 也没有 去 想 要 找 girlfriend
+NI05MBQ_0101 2208401 2210149 EN  yeah
+NI05MBQ_0101 2210149 2211969 CS 看 my life so screwed up
+NI05MBQ_0101 2211969 2215239 CS 就是 cannot
+NI05MBQ_0101 2215239 2217319 EN (er) studies also not that good
+NI05MBQ_0101 2217319 2218149 EN en
+NI05MBQ_0101 2218149 2219449 CS hall 也是 这样
+NI05MBQ_0101 2222358 2228468 CS okay lah maybe i used study <unk> 就是 yeah loh
+NI05MBQ_0101 2233155 2235818 EN  yeah loh
+NI05MBQ_0101 2235818 2238348 CS so i think 我 cannot take care of myself
+NI05MBQ_0101 2238788 2241002 EN so
+NI05MBQ_0101 2242796 2243752 EN oh
+NI05MBQ_0101 2250028 2251318 EN oh yeah i know ah
+NI05MBQ_0101 2253992 2255332 EN en yeah
+NI05MBQ_0101 2257088 2260068 EN yeah success in life
+NI05MBQ_0101 2260218 2263438 CS 有 很多 different 的 东西 咯 consider 咯
+NI05MBQ_0101 2265843 2267996 EN en
+NI05MBQ_0101 2270530 2273065 EN 
+NI05MBQ_0101 2279258 2281258 ZH 最 喜欢 吃 的 是什么
+NI05MBQ_0101 2281258 2282300 EN (er)
+NI05MBQ_0101 2284417 2285827 ZH 其实
+NI05MBQ_0101 2286047 2287687 CS i think 要 看
+NI05MBQ_0101 2288002 2291982 CS depend on feeling 的 咯 like depend on 我的 mood
+NI05MBQ_0101 2293216 2294002 EN (er)
+NI05MBQ_0101 2294002 2296402 CS 哇 这个 人 很  random 咯 就是
+NI05MBQ_0101 2296752 2298882 CS 有 很多 都 些 是 看 bookay 的
+NI05MBQ_0101 2302156 2303076 EN en
+NI05MBQ_0101 2304692 2305632 EN ice cream
+NI05MBQ_0101 2308286 2309972 EN (er) actually
+NI05MBQ_0101 2309972 2315622 CS 我 小时候 my parents are like damn puzzled 啊 how come this kid 不 喜欢 吃 ice cream 的
+NI05MBQ_0101 2315622 2321505 EN  yeah yeah but after that (er)
+NI05MBQ_0101 2321505 2324400 CS 他们 introduce ice cream into me then 我 就 哦 okay 咯
+NI05MBQ_0101 2325075 2328045 CS 还 觉得 满 neutral 的 就是 还 好 啦 ice cream
+NI05MBQ_0101 2328825 2329705 ZH 有时候
+NI05MBQ_0101 2329705 2333075 EN  yeah but
+NI05MBQ_0101 2333075 2335515 CS 长大 了 i think 会 比较
+NI05MBQ_0101 2336285 2339505 CS crave ice cream 啦 compared to 小时候
+NI05MBQ_0101 2346595 2348155 EN like it at hall six ah
+NI05MBQ_0101 2348155 2349335 EN en
+NI05MBQ_0101 2349335 2352815 ZH 其实 我 跟 志 凯 也是 这样 讲 啦 就是
+NI05MBQ_0101 2353255 2355935 CS hall six 只是 一个 地方 而已 咯
+NI05MBQ_0101 2356115 2358775 CS 最 重要 is the people in there
+NI05MBQ_0101 2359782 2360929 EN en so
+NI05MBQ_0101 2361969 2362885 EN if
+NI05MBQ_0101 2362885 2365645 CS 我们是 其 他的 hall then
+NI05MBQ_0101 2365645 2366385 EN (er)
+NI05MBQ_0101 2366385 2373135 CS if the people are nice but the 地方 not that good but at least yeah still bonded 是 觉得 还 好 啦
+NI05MBQ_0101 2373645 2376435 CS for hall six i think location 很好 leh
+NI05MBQ_0101 2376795 2378105 EN people also not bad lah
+NI05MBQ_0101 2381459 2383179 EN (er)
+NI05MBQ_0101 2387255 2391705 CS actually 我的 friends in hall six 也 只有 几个 啦 it's like
+NI05MBQ_0101 2391795 2394815 CS some people 就是 know them only 啦 not
+NI05MBQ_0101 2394935 2396605 EN not that close
+NI05MBQ_0101 2396755 2398515 EN or not personally but
+NI05MBQ_0101 2398515 2401875 EN yeah so
+NI05MBQ_0101 2401875 2403405 CS (er) maybe 就是
+NI05MBQ_0101 2404185 2406225 EN get close to your friends loh as in
+NI05MBQ_0101 2407305 2411545 CS friends 也不 代表 有 很多 friends 是一个 good thing 啊
+NI05MBQ_0101 2412005 2417685 CS 啊 有些 人 在 friendster 还是 facebookay 有 一大堆 friends but how many 他们 会
+NI05MBQ_0101 2417685 2419285 EN (er)
+NI05MBQ_0101 2419285 2420455 CS maintain contact 的
+NI05MBQ_0101 2421925 2424045 EN yeah so friends once
+NI05MBQ_0101 2424730 2426625 ZH 也不 需要 太 多 啦
+NI05MBQ_0101 2426625 2429445 ZH 就是
+NI05MBQ_0101 2429445 2431355 CS in hall 就是 要 happy 咯
+NI05MBQ_0101 2431355 2433491 EN 
+NI05MBQ_0101 2433491 2436081 CS 也不 要 去 管 什么 politics 啊
+NI05MBQ_0101 2440634 2441729 EN en
+NI05MBQ_0101 2441729 2445729 CS i think 就是 要 找 找到 那些 close friends 咯
+NI05MBQ_0101 2454290 2455332 ZH 哦
+NI05MBQ_0101 2456009 2461289 CS i think yeah 那个 也是 一个 good thing ah to be able to have close friends with
+NI05MBQ_0101 2461289 2462159 EN 
+NI05MBQ_0101 2462159 2464059 EN your people in your school
+NI05MBQ_0101 2464209 2466029 CS then 也是 可以 help each other
+NI05MBQ_0101 2466029 2467085 EN en
+NI05MBQ_0101 2467085 2471205 CS do work together because in hall like 有 很多 different 的
+NI05MBQ_0101 2472525 2474945 CS modules different 的 courses
+NI05MBQ_0101 2475245 2477575 CS 啊 如果 是 n. b. s. 的话 就
+NI05MBQ_0101 2477575 2479260 EN en
+NI05MBQ_0101 2479260 2481350 EN can study together
+NI05MBQ_0101 2482885 2487475 CS and 你们 也是 有 orientation camp 也是 可以 蛮 bonded 的
+NI05MBQ_0101 2487915 2489725 CS and welcome 那些 freshie
+NI05MBQ_0101 2490015 2491235 EN next year
+NI05MBQ_0101 2508410 2509417 EN oh
+NI05MBQ_0101 2513055 2515285 CS actually 我 看 那个 是 e. c. a. record
+NI05MBQ_0101 2516055 2519099 CS then although 里面 有 三个 东西 啊
+NI05MBQ_0101 2519355 2521245 CS 就是 sub-com sub-com sub-com
+NI05MBQ_0101 2521835 2525155 CS but the sports sub-com 是 那个 比较 高 的 score 啦 so
+NI05MBQ_0101 2525155 2526945 CS 他们 只 consider 那个
+NI05MBQ_0101 2528403 2529305 EN yeah
+NI05MBQ_0101 2529305 2530935 CS 很 像 没有 accumulate 的
+NI05MBQ_0101 2540311 2542725 EN (er) if you compare
+NI05MBQ_0101 2543655 2545765 CS maybe d. and d. 的 sub-com
+NI05MBQ_0101 2545765 2548235 EN (er) yeah
+NI05MBQ_0101 2548235 2551025 CS but 如果 maybe 你是 其 他的
+NI05MBQ_0101 2552625 2555330 CS 那个 main committee then 就会 比较 高
+NI05MBQ_0101 2555330 2562490 EN mm 
+NI05MBQ_0101 2562490 2564510 CS so w. o. c. 没有 跟
+NI05MBQ_0101 2564510 2567938 CS j. c. r. c. 的 一起 mix
+NI05MBQ_0101 2569882 2574083 EN yeah  
+NI05MBQ_0101 2577730 2582680 CS what will i do next sem i think 我 会 继续 sports sub-com 吧 but
+NI05MBQ_0101 2582680 2585411 EN en
+NI05MBQ_0101 2585411 2586591 EN yeah that is one option
+NI05MBQ_0101 2586591 2608503 CS but i will consider again  is like 太多东西了 as in en (er) 没有 i mean d. and d. and h. s. o. c. yeah 对 对
+NI05MBQ_0101 2613207 2617637 CS 哦 actually no 啊 if i say 很多 东西 also not really true 啦 就是
+NI05MBQ_0101 2617637 2621097 CS because biz mag 我们有
+NI05MBQ_0101 2621097 2627077 CS canvassing 要 做 but then other people 也是 有 canvassing to do although they are in other committees
+NI05MBQ_0101 2627077 2633377 CS yeah so considered biz mag 的话 也也
+NI05MBQ_0101 2633377 2634907 ZH 不是 说 很多 啦
+NI05MBQ_0101 2639417 2641717 CS yeah 我也 是 think so
+NI05MBQ_0101 2650024 2651972 EN 
+NI05MBQ_0101 2651972 2655522 CS 我是 觉得 not very 啦 除非
+NI05MBQ_0101 2655522 2659420 CS 很爱讲话  就是 earlier
+NI05MBQ_0101 2659420 2662553 CS previous 的 就是 厅 有 做 then don't know 他
+NI05MBQ_0101 2662553 2663543 ZH 怎么样
+NI05MBQ_0101 2663543 2670007 CS chin ting 跟 vincent  这个 combination 可能会 talk kokay 吧
+NI05MBQ_0101 2679183 2681403 CS 哦 but very fast 的 啦
+NI05MBQ_0101 2682026 2682936 ZH 一下子
+NI05MBQ_0101 2683106 2684620 CS yeah 我们 halfway 了
+NI05MBQ_0101 2684620 2691640 CS en 对 then
+NI05MBQ_0101 2691640 2694510 CS but 等 一下 我们 会 一起 去 看 那个 match then
+NI05MBQ_0101 2694510 2695890 EN after
+NI05MBQ_0101 2695890 2697020 EN after this thing
+NI05MBQ_0101 2697020 2699554 ZH 差不多 这个 时间
+NI05MBQ_0101 2702737 2704327 EN other activities
+NI05MBQ_0101 2705167 2709587 CS actually 没有 since young my life 就是
+NI05MBQ_0101 2709587 2712827 EN more 
+NI05MBQ_0101 2712827 2715267 EN school and home
+NI05MBQ_0101 2717027 2719087 CS 啊 在外 面 的 activities 很少
+NI05MBQ_0101 2724274 2725281 EN en
+NI05MBQ_0101 2725967 2727827 EN if i am at home ah
+NI05MBQ_0101 2727827 2729097 EN (er)
+NI05MBQ_0101 2729097 2730593 EN try and do abit of work loh
+NI05MBQ_0101 2730807 2733247 CS then 有时候 weekend 会 去
+NI05MBQ_0101 2733247 2734337 EN 
+NI05MBQ_0101 2734337 2737667 CS (er) relax 一下 看 电视 还是 看 anime
+NI05MBQ_0101 2737880 2739590 EN and spend time with family
+NI05MBQ_0101 2739590 2741580 ZH 你 
+NI05MBQ_0101 2741580 2744070 CS 之前 在 army 也是
+NI05MBQ_0101 2744070 2744840 EN (er)
+NI05MBQ_0101 2744840 2747200 CS weekend 才 可以 回家 then 现在
+NI05MBQ_0101 2747571 2750731 CS 住 hall 也 只 只有 weekend 才 回家
+NI05MBQ_0101 2750731 2757284 CS so try and spend more family time en 对
+NI05MBQ_0101 2766658 2768587 EN work ah
+NI05MBQ_0101 2768587 2771407 EN not very productive ah but
+NI05MBQ_0101 2771797 2773947 CS try at least 做 一点点
+NI05MBQ_0101 2784661 2785808 EN 
+NI05MBQ_0101 2785808 2787108 CS actually 我 跟 你的
+NI05MBQ_0101 2787474 2788884 CS thinking 也是 一样
+NI05MBQ_0101 2788884 2792064 EN situation
+NI05MBQ_0101 2792064 2795074 CS but i think 你的 results should be okay 的 吧
+NI05MBQ_0101 2795074 2803574 EN migrating en actually
+NI05MBQ_0101 2803574 2804864 ZH 很 像 没有 嘞
+NI05MBQ_0101 2804864 2806804 ZH (嗯) 就是
+NI05MBQ_0101 2806804 2808974 EN i see do see some people
+NI05MBQ_0101 2808974 2810964 EN my (er)
+NI05MBQ_0101 2810964 2815574 CS with strong desires of leaving singapore but 我是 觉得 singapore is
+NI05MBQ_0101 2815914 2817454 EN quite a nice country
+NI05MBQ_0101 2817454 2818304 EN like
+NI05MBQ_0101 2818304 2820324 EN after having been here for so long
+NI05MBQ_0101 2820324 2824224 EN and yah like (er)
+NI05MBQ_0101 2824224 2825824 CS 外国人 they will say
+NI05MBQ_0101 2826124 2829904 CS singapore is a safe country now 在 晚上 出去 也是
+NI05MBQ_0101 2830164 2831400 ZH 不怕 人家
+NI05MBQ_0101 2831694 2833410 CS maybe 打枪 or something like that
+NI05MBQ_0101 2834534 2835818 EN yeah
+NI05MBQ_0101 2839931 2841941 CS yeah then singapore 的
+NI05MBQ_0101 2842321 2844380 CS lifestyle 也是 okay 啦
+NI05MBQ_0101 2844380 2847211 CS 有时候有一点 stressful but
+NI05MBQ_0101 2847211 2849191 EN yeah loh life is comfortable
+NI05MBQ_0101 2850325 2851225 EN en
+NI05MBQ_0101 2852361 2855891 CS 如果 去 别的 国家 还要 adapt again 嘛
+NI05MBQ_0101 2856491 2858161 CS 会 需要 一点 time
+NI05MBQ_0101 2865060 2866030 EN (er)
+NI05MBQ_0101 2866030 2869620 CS last time 我是 从 nanyang j. c. 的
+NI05MBQ_0101 2869620 2886251 CS en 哦 alvin choi 啊 (er) 不认识嘞  but mm jie ying no
+NI05MBQ_0101 2886251 2889220 CS i think 我在 school 也是 满 low profile 的
+NI05MBQ_0101 2889220 2892261 CS 不是 no
+NI05MBQ_0101 2892261 2893541 EN don't really know
+NI05MBQ_0101 2893541 2895891 EN people yeah
+NI05MBQ_0101 2895891 2898131 EN oh alvin was from n. y. as well
+NI05MBQ_0101 2898131 2899821 EN alvin
+NI05MBQ_0101 2899821 2901151 CS 我们 o. g. 的
+NI05MBQ_0101 2901151 2905551 CS 他也是 nanyang 的
+NI05MBQ_0101 2905551 2906991 CS i think 他的 班
+NI05MBQ_0101 2908321 2911168 EN not very far away from  my
+NI05MBQ_0101 2923957 2925172 EN en
+NI05MBQ_0101 2926630 2933560 EN t. j. c. oh en
+NI05MBQ_0101 2933560 2936801 CS i think 那 时候 hall one 的 bash 他们 有
+NI05MBQ_0101 2936801 2937809 EN (er)
+NI05MBQ_0101 2938389 2940039 CS 很多 n. y. 的 人
+NI05MBQ_0101 2940039 2940530 EN 
+NI05MBQ_0101 2940530 2942229 EN can even mingle together
+NI05MBQ_0101 2942229 2944849 EN then from
+NI05MBQ_0101 2944849 2946489 CS 啊 hall one 的
+NI05MBQ_0101 2948939 2950739 CS i think 他们的 pageant 吧

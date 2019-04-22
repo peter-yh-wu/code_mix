@@ -1,0 +1,211 @@
+UI24MAZ_0103 0 4040 CS 他 买 的 时候 是 三百块 啊 canadian 那个
+UI24MAZ_0103 4470 11864 CS 加拿大 马币 啊 他们的 钱 啊 then 他 过后 卖 六百 也是 有人 跟他 买 啦 那时 是 在 二零零八 年 的 时候
+UI24MAZ_0103 11864 18100 EN hmm
+UI24MAZ_0103 18100 23719 CS 啊 便宜 了 啊 那时 他 头头 出的 时候 他 排队 买 嘛 他买 他买 两粒 第 then
+UI24MAZ_0103 23719 26725 CS 卖到 断市 嘛 nintendo 的 时候 那时 哇
+UI24MAZ_0103 26725 30264 CS 本 他 没有 出 wii 的话 人家 以为 nintendo 就是 going to
+UI24MAZ_0103 30684 34657 CS 他要 死 要 死了 的 这间 公司 but 他的 wii 救了 他 起来 嘛
+UI24MAZ_0103 34657 41301 EN ah
+UI24MAZ_0103 41301 47790 CS 啊 哦 nintendo d. s. 他 就 好像 game boy 这样 的 but 他 用 一支 笔 这样 玩 玩 玩 的 har
+UI24MAZ_0103 55175 59660 CS 笔 啊 那个 我 那个 我 就 没有 那种 statistic lah
+UI24MAZ_0103 59660 62813 CS 我 不 知道 那 一种 啦 but 今年 他的 我 知道
+UI24MAZ_0103 63234 65834 CS nintendo wii 它的 sales 有 drop 了
+UI24MAZ_0103 66493 69120 CS then 之前 在 malaysia 你 看 到 会 卖 到 这么 贵 因为
+UI24MAZ_0103 69646 72449 CS 其实 nintendo wii 没有 在 malaysia launch 过 你 知道 吗
+UI24MAZ_0103 73220 78935 CS 没有 在 全部 是 他们 你去 game master 全部 东西 是 他们 在 外国 拿 回来 的
+UI24MAZ_0103 80717 87129 CS 啊 他们 在 其 then and second thing p. s. three 是 去 年 年尾 才 不 知道 去年 还是 今年 才 launch
+UI24MAZ_0103 87549 90949 CS 真正 launch 在 malaysia 你 知道 吗 but 之前 全部 是
+UI24MAZ_0103 91544 95538 ZH 他们 去 美国 或者 是 去 日本 拿 回来 卖的 你 知道 吗
+UI24MAZ_0103 96169 102019 CS then 他们 讲 给你 warranty 你 你 你 问 他们 他们 warranty 是 不是 sony warranty 你 啊
+UI24MAZ_0103 102649 107641 CS 也 不是 nintendo 是 他们 自己 warranty 你 罢了 他 讲 有 什么 问题 你 回来 找 他们 罢 了
+UI24MAZ_0103 109307 109871 ZH 啊
+UI24MAZ_0103 110428 114401 CS 没有 official launch nintendo wii 没有 official launching 在 malaysia 过
+UI24MAZ_0103 119083 127227 CS 啊 因为 那时 他 他 啊 他 最 主要 的 target customer 是 在 美国 嘛 美国 跟 那个 日本 嘛
+UI24MAZ_0103 128471 130854 CS but so far 因为 在 美国 他们
+UI24MAZ_0103 131204 137855 CS 真的 你 去 看 他们 的 shopping complex 有 很多 是 这样 的 game 的 那个 店 他们 买 的 全部 买 正版 哦
+UI24MAZ_0103 139228 140455 CS 他们 一 - ah har
+UI24MAZ_0103 145080 146174 ZH 对 对 对 对
+UI24MAZ_0103 151175 152331 EN hmm hmm hmm
+UI24MAZ_0103 157272 158171 EN hmm hmm hmm
+UI24MAZ_0103 160600 161294 EN hmm hmm hmm
+UI24MAZ_0103 163754 164583 EN hmm hmm
+UI24MAZ_0103 170937 172865 EN hmm hmm hmm hmm hmm hmm
+UI24MAZ_0103 179695 185617 CS 对 我的 我 我的 想法 是 这样 啦 因为 你 看 啊 你在 美国 let's say
+UI24MAZ_0103 185617 190792 CS 你在 这边 我们 在 这边 做工 let's say 讲 说 我们的 salary let's say 是 ringgit malaysia 是four thousand
+UI24MAZ_0103 191293 196754 CS 你 拿 你 你 then 你去 美国 做 你 也是 赚 他们 那边 钱 的 四千块 let's say lah
+UI24MAZ_0103 197038 200261 CS but 你 在 那边 那边 的 四千块 你 好买 东西 哦
+UI24MAZ_0103 200261 204355 ZH 你 看 哦 你 单单 买 一粒 不要 讲 说 我们 讲 一粒 电脑
+UI24MAZ_0103 204606 208215 CS 你买 mac book pro 这样 罢了 他们 那边 才 less than 一千块
+UI24MAZ_0103 208425 210983 ZH 在 那边 的 薪水 啊 那 那边 的 钱
+UI24MAZ_0103 210983 216634 CS 我们 这边 convert 过来 要 四千多 就是 等于 你 用 你 一个月 的 薪水 买 一粒 电脑
+UI24MAZ_0103 216985 222871 CS 他们 在 那边 不是 用 他们 一个 月 的 薪水 哦 可能 只是 一 percent 他们的 薪水 就 可以 买 得 到 了
+UI24MAZ_0103 223642 225006 CS so 我 朋友 跟 我 讲 他在 那边
+UI24MAZ_0103 225454 232847 CS 很 便宜 不是 讲 什么 在 那个 game 那边 啦 才 二十多 块 罢 了 十多 就是 他讲 exactly 我们 去 买 pirated
+UI24MAZ_0103 232847 236667 CS 你 买 pirated 一张 也是 要 十块钱 嘛 他 那边 也是 十多块 美金
+UI24MAZ_0103 236667 242567 CS 只是 我们 convert 回来 这边 五六十 嘛 then 我们 有 pirated 一个 六十块 一个 十块
+UI24MAZ_0103 246162 249491 EN ah huh huh
+UI24MAZ_0103 249491 253788 CS but 他们 讲 我们 其实 malaysia 是 duty free 的 你 知道 吗 for electronic stuff
+UI24MAZ_0103 256532 257198 EN ah huh
+UI24MAZ_0103 258459 259265 ZH 啊 啊 啊
+UI24MAZ_0103 261192 262069 ZH 啊 啊 啊
+UI24MAZ_0103 263400 265057 ZH 马币 啦 啊 啊 啊
+UI24MAZ_0103 266378 266910 EN ah huh
+UI24MAZ_0103 268515 269351 ZH 啊 啊 啊
+UI24MAZ_0103 271494 279809 CS okay 那个 我 我 不 清楚 因为 我 知道 啊 electronic stuff 在 malaysia 是 有些 是 duty-free 的 duty-free 的
+UI24MAZ_0103 285823 286594 ZH 啊 啊 啊
+UI24MAZ_0103 290518 291499 ZH 啊 啊 啊
+UI24MAZ_0103 295599 296433 ZH 啊 啊 啊
+UI24MAZ_0103 297805 301733 CS 对 你 不要 看 i. phone 在 美国 便宜 哦 因为 他 要 tied to contract oh
+UI24MAZ_0103 306249 306810 ZH 啊 啊
+UI24MAZ_0103 311365 312772 ZH 啊 一百 块 至少
+UI24MAZ_0103 316691 317707 ZH 对 对 对
+UI24MAZ_0103 323802 328033 CS but 你 要 知道 哦 不要 讲 美国 不 知道 how they charge up 在 新加坡 啦
+UI24MAZ_0103 328497 333730 CS okay 最 主要 是 我们 现在 在 malaysia 就是 我 call 给你 我 中 我 charge 罢了 嘛
+UI24MAZ_0103 333730 336451 CS telco charge 我 罢了 吗 telco 不会 charge 你的 嘛
+UI24MAZ_0103 336451 340305 CS 在 新加坡我 call 给你 telco 也 charge 你的 哦
+UI24MAZ_0103 342092 346716 CS ohh depends on 你的 plan lah ah 因为 我 知道 这是 在 新加坡 他们 的
+UI24MAZ_0103 347311 352675 CS 他 他们的 charging 他们charge 的钱 跟 他们 charge 的 fees 跟 我们 的 fees 不 一样 啦
+UI24MAZ_0103 356141 356772 ZH 啊 啊
+UI24MAZ_0103 358138 358810 ZH 啊 啊
+UI24MAZ_0103 363464 364525 ZH 啊 啊 啊 啊 啊
+UI24MAZ_0103 365461 367737 CS 的 plan okay ah har har
+UI24MAZ_0103 367737 379160 EN oh ok
+UI24MAZ_0103 379160 379745 ZH 啊 对 咯
+UI24MAZ_0103 380597 381122 ZH 对 咯
+UI24MAZ_0103 382068 386065 CS 你 看 那个 他们 在 那边 你 subscribe for i. phone lah maybe 你 只是 pay for
+UI24MAZ_0103 386483 391604 CS 三四百 那个 新加坡 的钱 我们 这边 你要 买 一粒 i. phone 可以
+UI24MAZ_0103 392054 396636 CS 啊 你 还是 你 subscribe to plan 还是 有 还是 要 靠近 两千 哦
+UI24MAZ_0103 397449 399939 CS then 你 每个月 还要 多 给 多 一百块 哦
+UI24MAZ_0103 403125 403826 ZH 啊 啊
+UI24MAZ_0103 406734 408111 ZH 啊 他们 赚 很多 钱 啦
+UI24MAZ_0103 415003 415494 ZH 对
+UI24MAZ_0103 416929 420103 CS 因为 我 朋友 在 那个 telco 里面 做工 他讲 其实
+UI24MAZ_0103 421308 424917 CS 三国 鼎立 了 的 就是 celcom
+UI24MAZ_0103 425688 429297 CS ah celcom digi 跟 maxis 已经 是 三国 鼎立 了
+UI24MAZ_0103 429297 433092 CS then 他 不 可能 讲 说 一直 抢 他们的 customer 过来的
+UI24MAZ_0103 433092 436970 CS then 他们 讲 大概 有 五巴仙 至 十巴仙 里面 呢 是
+UI24MAZ_0103 437496 447232 CS 他们 讲 说是 flexible 的 就是 爽爽 他们 在 celcom 就 switch 去 digi 或者是 digi 又switch 去 maxis 这是 for 十 percent 那 一种 他们 讲
+UI24MAZ_0103 447692 454523 CS 他 他们 已经 不能 讲 说 会 suddently cut out 你的 market share twenty percent or thirty percent
+UI24MAZ_0103 454523 459080 CS 他们 讲 很难 做 得 到 啦 其实 usually 是 五巴仙 在 那边 跑来 跑去 跑来 跑去 罢 了
+UI24MAZ_0103 463598 470054 CS hmm 已经 是 already 是 在 那 一边 了 你 不能 讲说 suddently 去 overtake 人家 东西 啦
+UI24MAZ_0103 482615 489703 CS 啊 刚刚 开始 因为 我 register as a student 是在 effective on 八月 一号 就是 august start 起
+UI24MAZ_0103 490287 494270 CS 我是 七月 中 啊 七月 七月 尾 register 那种 啦
+UI24MAZ_0103 495017 499502 CS then ah then 现在 应该 是 有 几个 月 了 啊 两个月 这样
+UI24MAZ_0103 505038 507105 CS 因为 p. h. d. 没有 course work 了 的 哦
+UI24MAZ_0103 507981 511273 CS 我 也是 想有 coursework lah 我们 这边 都 没有 coursework mah
+UI24MAZ_0103 514182 514812 ZH 啊 啊
+UI24MAZ_0103 517966 523117 CS coursework 有 coursework 的 coursework 有 coursework 的难 也是 有 它的 容易 那 一种 啦
+UI24MAZ_0103 523117 526158 CS 我 记得 我 那时 拿 master 的 时候 是 拿 mix mode 的
+UI24MAZ_0103 526585 531174 CS ah then 我的 那时 n. l. p. 老师 就是 那个 doctor renovo
+UI24MAZ_0103 531946 536631 CS 啊 他 教 我们 就 一年 咯 then 哦 也是 蛮 tough 啦 就是
+UI24MAZ_0103 537019 538601 CS 拿 二十个 unit then
+UI24MAZ_0103 539093 541950 CS 一个 你 看 一科 他 给你 两个 assignment
+UI24MAZ_0103 542456 544547 CS usually 是 individual 那 一些 then
+UI24MAZ_0103 544944 548593 CS 做的 那个 assignment hor 不是 像 我们 degree 时 做 那个
+UI24MAZ_0103 549219 554194 CS assignment 那 一种 哦 他 现在 做的 全部 是 要 contain from begining until the end
+UI24MAZ_0103 554194 563644 CS 因为 他们 already thought that 你是 会 了 这样 的 东西 了 so 你 做 那 ki~ kiddy kiddy 的 program 出来 他们 是 不会 accept 那 一种 了 的
+UI24MAZ_0103 564326 568767 CS har 那 一种 咯 so 那时 你读 coursework 也是 很 challenging pun lah
+UI24MAZ_0103 574312 580794 CS 还好 是 因为 我 有 有 一 group 的 好朋友 就是 一起 读 大概 参 我 应该 是 有 五六 个 人 啦
+UI24MAZ_0103 581283 586924 CS then 我们 因为 你看 啦 每 一科 每 一本 书 每 一个 subject 都有 自己 的 书
+UI24MAZ_0103 587380 593301 CS 这么 厚 这么 厚 这么 厚 这么 厚 那 一种 so the way that 我们 study 就是 讲说 okay 我 啊
+UI24MAZ_0103 593301 598732 CS 这个 礼拜 我读 n. l. p. chapter one then 你 就 读 别的 科 的 chapter one
+UI24MAZ_0103 599258 601931 CS then 过后 我们 才来 讨论 咯
+UI24MAZ_0103 602867 607736 CS 才来 讨论 咯 讲说 啊 这个 你 讲 你 就是 你 会 当 temporary 的 tutor 这样 啦
+UI24MAZ_0103 607736 617371 CS 你 讲 讲 讲 then 你 讲说 啊 这个 then 会 去 看 past year ah 或者 是 什么 东西 讲 说 啊 这个 是 这样 这样 这样 啊 calculation 是 这样 这样 这样 咯 then
+UI24MAZ_0103 617652 623551 CS so 当 我们 了解 过后 你 读 第二次 的话 你 就会 比较 快 了 嘛
+UI24MAZ_0103 623884 630015 CS 问题 是 当 你 是 不是 了解 你 不 了解 的话 你 读 十次 也是 no point mah
+UI24MAZ_0103 630366 633408 CS so 我们 是 practice group work 那 一种 咯
+UI24MAZ_0103 638073 640682 CS oh financial 是我的 parent support 我 啦
+UI24MAZ_0103 641541 648269 CS ah so 就是 这样 我 知道 我 我 有 一些 朋友 也是 借 p. t. p. t. n. 那 一种 to sustain lah
+UI24MAZ_0103 648830 652120 CS for 我的 financial plan 是 我的 family support 我 那 一种 啦
+UI24MAZ_0103 653139 655359 CS 啊 现在 也是 我 family 有 support 我 啦
+UI24MAZ_0103 655359 657903 EN 
+UI24MAZ_0103 657903 662366 ZH 没有 啦 也是 这么 大 了 也是 不好 意思 跟 他们 拿钱 那 一种 啦
+UI24MAZ_0103 662879 667473 CS 因为 之前 的 是 我 有 做工 我 做工 then 我 才 回来 拿 拿 p. h. d. 罢了
+UI24MAZ_0103 667473 670097 ZH 啊
+UI24MAZ_0103 670097 674632 CS 什么 东西 之前 我在 intel 做工 啦 啊
+UI24MAZ_0103 680678 689927 CS good question ah 因为 那时 因为 u~ 那 我在 intel 的 role 就是 我是 from beginning until the end 就是 我 做 我是 developer
+UI24MAZ_0103 690908 692485 CS ah permanent permanent 的
+UI24MAZ_0103 692940 700702 CS 我 before 回来 我 before 回来 那 时候 啊 我 我 又 去 business trip 在 美国 几个 几个 place to 跟 他们 deal
+UI24MAZ_0103 701350 708181 CS then 在 那边 我 有 看到 so 我的 role 就是 我 deal 跟 china india u. s.
+UI24MAZ_0103 708636 715101 CS u. s. 就是 我的 main customer 啦 就是 我们 啊 在 我的 department 我 develop 了一个 software
+UI24MAZ_0103 715539 719288 CS 一个 tools 那 一些 then 要 push 去 给 他们 用
+UI24MAZ_0103 721110 727832 CS ah okay actually 我是 在 engineering computing 做工 的 so 是 我们 我 做 一个 tool 就是
+UI24MAZ_0103 727832 730986 CS 在 okay 你看 server 里面 他们 有 分 三种
+UI24MAZ_0103 730986 736012 CS 一种 是 叫 net batch 一种 是 叫 interactive 跟 interactive server
+UI24MAZ_0103 736592 741117 CS ah okay 对 interactive batch server 这 三个 都有 serve 三个 purpose
+UI24MAZ_0103 741503 746787 CS net batch 就是 讲说 就是 像用 grid computing 的 technology lor 就是
+UI24MAZ_0103 747494 750374 CS 啊 我 这个 department intel 里面 有 很多 个 department mah
+UI24MAZ_0103 750753 755797 CS 有 很多 个 business group mah 十个 business group 每个 business group 都 出钱 买 一些 server 在 里面 咯
+UI24MAZ_0103 756184 759378 CS then 那个 server 就是 共用 的 那个 就叫 net batch
+UI24MAZ_0103 759933 763120 CS har net batch 这样 咯 因为 他们 每次 要 submit job mah
+UI24MAZ_0103 763435 767319 CS then interactive server 就是 dedicated 给你 用 罢了 就是 好像 这粒 电脑
+UI24MAZ_0103 767319 770058 CS 这是 dedicated 给 你的 business group 用 罢了
+UI24MAZ_0103 770478 775511 CS interactive batch 就是 讲 说 它 hybrid net batch 跟 interactive 在 一起
+UI24MAZ_0103 775839 780569 CS 就是 晚上 的 时候 它 早上 七点 a. m. 到晚上七点 p. m. 过后
+UI24MAZ_0103 781375 789860 CS 七 a. m. 到 七 p. m. 就是 dedicated 给你 用 罢了 after 七 p. m. 过后 它 里面 没有 东西 做的 话 它 就会 open to all 给 别人 来用
+UI24MAZ_0103 790852 792585 CS so 我们 就是 做 这样 的 software lor
+UI24MAZ_0103 795337 800241 CS ah distribute job 那一 些 东西 给 他们 咯 then 可能 okay 在 一个
+UI24MAZ_0103 800592 803465 CS 啊 在 好像 在 u. s. flow some 里面
+UI24MAZ_0103 803465 808499 CS 他们 有 三十多千 架 server 在 那边 how do you manage and how do you maintain
+UI24MAZ_0103 809386 813987 CS then 你 要 怎样 知道 他们 有时 可能 换 rackmount 嘞
+UI24MAZ_0103 814432 819226 CS 他们 有 很多 个 rack 的 嘛 可能 他们 会 脱 这个 server 去 去 插 去 别个 role
+UI24MAZ_0103 819442 824622 CS 像 library 这样 一本 书 你 换 去 别个 那 也是 一个 problem lah 当 你要 maintain 的 时候
+UI24MAZ_0103 825306 828775 CS then 我们 就是 做 这个 software 他 他们
+UI24MAZ_0103 829580 833552 CS 应该 要 用 那一个 server 我们 可以 知道 到 完 咯 所以 谁是 person-in-charge
+UI24MAZ_0103 834346 836133 CS 在 这个 server 因为 有时 你看
+UI24MAZ_0103 836483 841091 CS let 我们 用 一个 server 有 十个 department 人 在 一起 用 一天
+UI24MAZ_0103 841984 848257 CS 那个 server 倒 的话 我们 要 怎样 通知 那个 十个 department 的 人 嘞 没有 keep track 到完 的 喔
+UI24MAZ_0103 848257 853587 CS so from 这边 我们 有 这样 的 data 到 完 我们 可以 send email 跟 他们 讲说 okay 现在 这个 server down
+UI24MAZ_0103 855052 860436 CS temporary 你们 不能 用 if 你们 有用 你们 可以 去 rack 去 pick 你们 可以 去 mount ah 那个 point 去
+UI24MAZ_0103 860833 864232 CS 别 粒 s. s. h. ah 别 别 别 粒 的 machine 用
+UI24MAZ_0103 865525 873684 CS ah then 就是 我 我 啊 我 还有 跟 我 一个 group lah 因为 我 是 那边 啊 我是 那个 project 的 p. m. lah so
+UI24MAZ_0103 874530 877450 CS 我们 做了 then 我们 有 push 去给 india 用 咯
+UI24MAZ_0103 877924 880283 CS then 也是 有 push 去 给 u. s. 用 咯
+UI24MAZ_0103 881008 883778 CS 啊 那种 咯 then u. s. 的 时候 去 那边
+UI24MAZ_0103 884687 890885 CS u. s. 有 几个 地方 是 蛮 nice 就是 像 我有 去 folsom 我 有 去 j. f.
+UI24MAZ_0103 891411 898993 CS ah san jose lor san jose 就是 他们 叫 santa clara for ah san jose lor then 过后 又 有 一个 去 folsom f. m.
+UI24MAZ_0103 899386 904337 CS then 还有 一个 是 去 j. f. f. n. 跟 j. f. 他们 就 比较 sensitive
+UI24MAZ_0103 904922 908530 CS santa clara san jose 他们 的 我 觉得 他们 思想 比较 开放 啦
+UI24MAZ_0103 915818 919602 CS 那个 比较 好 deal 他们 能 接受 你的 idea
+UI24MAZ_0103 924858 925348 ZH 对
+UI24MAZ_0103 927100 927591 ZH 对
+UI24MAZ_0103 928607 934532 CS 对 你 去 到 那个 比较 centric america 的 那个 就像 j. f. wah 你 就 很难 跟 他们 deal 了
+UI24MAZ_0103 936137 938938 CS 啊 啊 他们 就 问 你 why 我要 trust 你
+UI24MAZ_0103 939816 946719 CS 他讲 we 他 第 二个 他 第二句 他 就 问 你 i am a p. h. d. holder why i want to trust you
+UI24MAZ_0103 947420 951527 CS then 你 讲的 他 讲 bullshit this not happen my to my environment
+UI24MAZ_0103 954110 964338 CS 就是 有 过后 我在 这边 我 看到 一个 东西 就是 讲说 啊 你的 qualification 也是 蛮 重要 啦 你 讲 你 有 多 几好 的 idea
+UI24MAZ_0103 965288 971735 CS 啊 你 有 多好 你 讲 说 我 有 这样 的 idea 可以 help 你 to solve 这边 那时 我 亲自 做 嘛 我 讲说
+UI24MAZ_0103 971735 980175 CS comparison ah before and after lah 用 我的 system 用 我的 tools 跟 before 跟 after 第 一个 你会 save 你们 time 那 一些 到完
+UI24MAZ_0103 980772 986133 CS 啊 第 二个 就是 在 你们 不用 不用 浪费 这么 多 时间 嘛 就是 improve 你们 productivity mah
+UI24MAZ_0103 986133 995876 CS then 他 讲 我 不需要 我们 我 then 去 到 后面 他 很 牛 的 跟 我 讲说 我 还是 要 preserve manual 的 方法 我 不要 用 automated
+UI24MAZ_0103 997509 999762 CS 是 because that 我们 是 from asia mah
+UI24MAZ_0103 1000802 1009489 CS let's say 你 讲说 不要 讲 u. s. lah 你 假如 是 你 也是 在 u. s. 另外 一个 side 做 这个 东西 你 push 过去 给 他们 看 他们 okay 的
+UI24MAZ_0103 1017689 1034051 CS okay 就是 那边 啊 我在 j. f. 的 时候 有 就是 很多 的 business group mah 就是 我 暂时 是 deploy 一个 叫 c. c. d. o. 就是 他们 那边 最大 的 business business group 他们 有 buy 那个 人 那个 manager buy off 我的 idea lah
+UI24MAZ_0103 1034051 1038271 CS then 过后 我 做到 一半 我 就 出来 了 我 就 回来 读书 了
+UI24MAZ_0103 1039412 1043956 CS 嗯 那个 我就 leave 回去 给我 另外 一个 partner 他们 做了
+UI24MAZ_0103 1043956 1046565 CS then 我 不知道 so far 他们 做 到 怎样 了 那个
+UI24MAZ_0103 1052622 1057917 CS 没有 啦 因为 一路来 哦 我 也是 我的 family 也是 encourage 我 读 回去
+UI24MAZ_0103 1058436 1063689 CS 读 啊 也是 叫 我 啊 回来 读书 那 一种 他 讲说 啊 你 剩下 一个 level 了
+UI24MAZ_0103 1063689 1067231 CS 就 读 读 去 那 一种 啦 就是 p. h. d. 就 没有 了 嘛
+UI24MAZ_0103 1067546 1074659 CS then 他 讲说 哦 (呃) 你 不要 读 的话 那时 你 三十多 岁 你要 读 的话 就 比较 很 challenging 那一种
+UI24MAZ_0103 1074659 1078188 CS 就是 你 讲说 你要 读 part time 也是 更 加难 啦
+UI24MAZ_0103 1078188 1084055 CS 也是 没有 那种 时间 啦 那是 你 有 孩子 啦 有 家里 啦 你的 concern 你的 东西 就 比较 多 了
+UI24MAZ_0103 1084881 1090656 CS so that's why finally 我讲 okay 剩下 最后 一个 step then 我 就 回来 咯
+UI24MAZ_0103 1092227 1101254 CS 啊 对 对 对 因为 就 剩 应该 是 i try my best 是 希望 讲 说 在 三四年 里面 能 弄好 啦
+UI24MAZ_0103 1101793 1105832 CS best case lah 最好 的 best case 那 一种 啦 因为 我读 full time mah
+UI24MAZ_0103 1107538 1110855 CS intel 大概 有 做 一 要 靠近 两年
+UI24MAZ_0103 1116613 1117208 ZH 啊
+UI24MAZ_0103 1118049 1122750 CS 牺牲 很大 咯 okay for example 你看 你在 intel 拿的 pay 是 一个 月 是 多少 钱 啦
+UI24MAZ_0103 1123585 1127971 CS then 你 现在 回来 是 很 dramastically change 你的 life style 到 完 咯
+UI24MAZ_0103 1130313 1131108 ZH 啊
+UI24MAZ_0103 1131853 1139808 CS 啊 你 你 你 你 你 自己 也 可以 了解 到 那个 你的 牺牲 在 那里 啦 but 我 觉得 是 值得 啦 因为 after that
+UI24MAZ_0103 1140858 1147621 CS 你 好过 你 三十多 岁 你要 回来 读 时 那时 你要 叫你 suddenly dump 掉 你的 工 你的 工作 而 回来 读
+UI24MAZ_0103 1148251 1151635 CS 第 一个 你的 fin~ who will support your financial
+UI24MAZ_0103 1160758 1166630 CS okay but 我 觉得 是 emm 见仁见智 啦
+UI24MAZ_0103 1167836 1171256 CS 那种 我 也是 有 看到 intel 很多 个 manager 进出 进出 嘛
+UI24MAZ_0103 1173197 1173941 ZH 啊
+UI24MAZ_0103 1173941 1178097 EN em hmm
+UI24MAZ_0103 1178097 1181460 CS hmm 你 之前 你在 你 before 你 读 p. h. d. 你是 在 哪里 做
+UI24MAZ_0103 1184298 1186050 CS 哦 semicon 很 tough 喔
+UI24MAZ_0103 1193128 1193991 ZH 啊 啊 啊

@@ -1,0 +1,196 @@
+UI08MAZ_0104 626 4416 CS okay 因为 studio 很 subjective 你 知道 吗 subjective 是 老师 喜欢 你的 东西
+UI08MAZ_0104 5274 8806 ZH 他 就 给 你 高分 他 不 喜欢 你 的 东西 他 就 给 你 低分
+UI08MAZ_0104 9196 10104 CS 他 觉得 你 东西 不 logic
+UI08MAZ_0104 10702 19453 CS 给 你 低分 但是 你 觉得 你 自己 已经- 因为 每个 每个 学生 都是 拼 去 做 的 你 知道 吗 就是说 我 一定 读 了 很多 东西 我 觉得 是 对 我 才 去 present 的 吗
+UI08MAZ_0104 19947 27971 CS 然后 老师 如果 一 不 喜欢 that's all 给 你 一个 b 给 你 一个 c 给 你 一个 b c 你 怎样 拿 到 dean list leh 不可能 的 吗
+UI08MAZ_0104 35889 43368 CS ar model 做 model lor 做 model 有 做 three d. 也 有 用 computer 也 有 (啊)
+UI08MAZ_0104 44614 51250 CS (呃) 怎样 讲 啊 base on 那个 老师 咯 因为 现在 build model 很 很 不 sustain ah
+UI08MAZ_0104 51250 58399 CS  你 要 去 买 board ahh 我们 一 build model oh 我们 耗资 for 每个 project minimum 百 五 以上
+UI08MAZ_0104 59778 65569 CS 所以 我 觉得 不是 一个 很好 的 move lah 觉得 用 computer 比较 好 啦
+UI08MAZ_0104 69103 72375 CS 那 final year exam ah 有 有 有
+UI08MAZ_0104 73963 80347 CS 我们 是 这样子 分 我们 分成 (啊) studio 跟 其它 科目 studio 就 我 现在 studio 八个 unit
+UI08MAZ_0104 81124 86058 CS okay 一 万一 fail lah 就 死 了 okay fail 就要 resit 要 resit
+UI08MAZ_0104 86525 93511 CS 然后 过后 其它 的 那个 三个 unit 就是 其它 的 读 那些 energy efficiency ah 那种 historical lah 那些
+UI08MAZ_0104 94264 101195 CS 然后 (呃) 这个 八个 unit 呢 就是 project 罢了 没有 没有 exam 的 没有 paper 没有 paper writing 那种
+UI08MAZ_0104 102078 104905 CS 八个 unit 就 如果 今年 我们 做 housing mah
+UI08MAZ_0104 105973 113970 CS 一 fail 就 fail 一 拿 到 c 减 就 完了 有 它 housing 是 最 难 fail 的 去年 有 八个 人 fail
+UI08MAZ_0104 116179 124271 CS 它 它 因为 如- 它 是 讲 这样子 它 没有- 你 没有 达到 basic requirement nah 就是 有- 你 你 很 美 你 的 东西 很 美 你 在 那边 看 下来
+UI08MAZ_0104 124921 132867 CS 我 有 park ah 那些 东西 啊 很 舒服 啊 但是 你 一样 屋子 啊 自己 本身 的 design ah 不好 我 一 进去
+UI08MAZ_0104 133646 138828 ZH 我 觉得 不 舒服 啊 老师 老师 一 自己 想像 的 嘛 他 会 自己 想像 不 舒服 什么 啊 他 就 觉得
+UI08MAZ_0104 138828 146028 CS 你 就 mm-dim 了 你 就 不是 一个- 你 还 不够 资格 去 升 for second sem 他 就 留 一年 哦
+UI08MAZ_0104 148728 154493 CS 是 是 architect 又 是 practising architect 然后 一个 research architect
+UI08MAZ_0104 155791 161608 CS 有 啦 蛮 多 的 然后 我 就 based on 那些 因为 讲 真 要 做 一个 architect ah
+UI08MAZ_0104 162257 168604 CS 要 读 的 period ah (er) throughout research oh 要 用 二十二 年 才能 做 一个 好的 architect
+UI08MAZ_0104 169461 179329 CS 二十二 年 我们 已经 现在 是 读 五年 罢了 吗 就 出来 做 architect 所以 那个 是 一个 就 你 能 吸收 多少 就 吸收 多少 啊 是 那种 那种 道理 哦
+UI08MAZ_0104 185125 194586 CS 对 啊 这 based on 你 自己 的 vision lah 诶 我们 那个 practising 的 是 (啊) part-time 的 他 在 外面 有 做 还 还是 有 工资 啊 啊 他 回来 教 回来 教 的
+UI08MAZ_0104 196811 205271 CS 对 还有 allowance ko 那些 对 是 有钱 人 他们 他们 是 外面 赚 一笔 好像 说 几个 million  然后 里面 就 加 那种
+UI08MAZ_0104 206341 207453 ZH 生活费
+UI08MAZ_0104 210226 210995 CS 这 这-
+UI08MAZ_0104 217056 220458 CS 可以 没有 问题 对 有 啊 有的 q. s. 的 老师 是 这样子 啊
+UI08MAZ_0104 221616 229414 CS q. s. 老师 直接 在 那边 找 两 千 块 薪水 因为 两 千 块 对 他们 来说 是 很少 的 他们 一个 project 接 几个 million 了
+UI08MAZ_0104 234965 242851 CS 有 我 就 有 我 平常 就 有 接 part-time 的 有 接 part-time 有 接 part-time 我 帮 过 n. u. s. 的 p. h. d. 做
+UI08MAZ_0104 243184 249006 CS 一个 research 画图 那些 compile thesis ah 然后 帮 老师
+UI08MAZ_0104 249839 255578 CS 然后 有 我 我 是 喜欢 involve in 这些 东西 啊 因为 他们 看到 东西 我们 看 的 东西 不一样 嘛
+UI08MAZ_0104 256383 257954 CS 我 很 喜欢 absorb 那些
+UI08MAZ_0104 259343 264797 ZH 已经 深入 了解 的 了 他们 已经 已经 懂 了 我 就 去 那边 偷偷 一点 偷师 这样子 啊
+UI08MAZ_0104 265290 271013 CS 然后 就 会 哦 不是 讲 会 啦 就是 诶 有 那 一些 东西 也 能 work 然后 就 可以 apply
+UI08MAZ_0104 279451 287062 CS 我们 我们 的 adva~ disadvantage 会 多 过 advantage 因为 是 我们 policy 我们 policy 的 问题
+UI08MAZ_0104 287851 288552 ZH (啊)
+UI08MAZ_0104 290032 295226 ZH 老师 就 好像 刚才 讲 哦 马来人 老师 喜欢 马来 学生 华人 就 不 理 了
+UI08MAZ_0104 296031 303795 CS 就 就 就 有 那种 偏见 感觉 有 偏见 感觉 然后 我们 自己 的 standard 不 up to international standard 我 自己 觉得 啦
+UI08MAZ_0104 305786 313528 CS international standard (啊) 好像 那种 我们的 work 可以 拿 去 present in international state 就 好像 比赛 那种
+UI08MAZ_0104 314044 318750 CS 因为 我 我 经常 都 参加 比赛 的 我 参加 architecture 比赛
+UI08MAZ_0104 318750 324578 CS 他 跟 我们 的 studio 完全 是 两回事 的 但是 如果 in singapore lah 你 做 的 studio project
+UI08MAZ_0104 324578 332345 CS 老师 鼓励 他们 拿 去 competition 的 所以 他们 的 standard automatically 就是 已经 reach 到 那个 international level 了
+UI08MAZ_0104 333176 339071 CS 然后 我们的 没有 我们的 就要 老师 喜欢 什么 好像 比如说 我 喜欢 orange 色 你 最好 你的 board 是 orange 色 的
+UI08MAZ_0104 339702 344602 CS okay 然后 又 我 这个 屋子 我 喜欢 这种 shape 的 你 就要 出来 这种 shape 的 啊
+UI08MAZ_0104 345277 353378 CS 那种 我们的 没有 那种 比较 自由 去 发挥 我们 是 play safe 我们 一个 concept 就是 play safe 因为 我们 要 pass
+UI08MAZ_0104 354259 357470 CS 八个 unit okay 没有 的话 就 一年
+UI08MAZ_0104 357992 365436 CS 啊 你 自己 想 清楚 哦 要 fail 还是 要 一年 还是 要 继续 啊 所以 要 做到 他 自己 他 要 的 东西
+UI08MAZ_0104 369656 376395 CS top leading 是 u. k. loh u. k. 是 叫 一个 叫 a. a. a. a. 叫 architect's associate
+UI08MAZ_0104 377070 383822 ZH 它 是 一个 一个 私人 私人 学院 私人 学院 然后
+UI08MAZ_0104 384627 391395 ZH 那边 它 学费 很 很 贵 很 贵 它 是 那些 有钱 人 有钱 人 才能 去 读 的 然后 一 读 出来 就 很 出名 了
+UI08MAZ_0104 395472 403887 CS france ah (啊) 它 是 讲 trend 的 因为 现在 (啊) 那种 modern trend 已经 过去了
+UI08MAZ_0104 403887 410128 CS 那种 整个 glass ah high rise ah 那个 trend 已经 过去 了 每个人 towards to sustainable 现在
+UI08MAZ_0104 410128 414821 CS 那边 一直 讲 着 green 的 因为 他们 已经 出了 那种 guideline ah
+UI08MAZ_0104 414821 420856 CS 就 好像 我- 你 的 minimum requirement for 你 的 building 一定要 reach 到 那种 green green 的 requirement
+UI08MAZ_0104 421694 424418 CS 如果 你 reach 不到 我 不 给 你 我 不 给 你 approve
+UI08MAZ_0104 425304 432099 CS 就 我 不 给 你 进去 住 o. c. 拿 不到 那个 叫 什么 啊 o. c. ah 啊 o. c. 那 不到 那种
+UI08MAZ_0104 437279 437799 ZH (嗯)
+UI08MAZ_0104 442161 448294 CS 我 还~ 还 没有 我 是 看 书 的 我 base on 书 的 我 是 去 新加坡 新加坡 有 啊 新加坡
+UI08MAZ_0104 448294 453657 ZH 新加坡 不错 就 好像 那些 (啊) 他们 的 国家 图书馆
+UI08MAZ_0104 454696 462342 CS 啊 很 很 很 厉害 它 是 by ken-yang 那个 ken-yang 本地 的 architect 来的 很 厉害 也 是 在 a. a. 读 a. a. 毕业 的
+UI08MAZ_0104 463031 472079 CS 然后 他 就 design 一个 national library 如果 你 看 书 咧 你 是 不知道 它 真正 的 情况 是 怎样 的 你 要 亲身 体会 哦 你 才 感觉 到 它的 诶
+UI08MAZ_0104 472832 481960 CS 有 wind 有 风 的 哦 这个 地方 然后 不是 那种 书* 造* 像* 的 那种 windy area 那种 你 能 feel 到 它 happening 那 整个 地方
+UI08MAZ_0104 482648 488905 CS in malaysia 我们 缺乏 这个 东西 就是 因为 我们 好像 拿 到 一个 钱 一笔 钱
+UI08MAZ_0104 488905 496570 CS 就 去 建 我 要 建 哦 随便 哦 建 完了 approve 就 可以 了 咯 就 给 人家 去 用 他 没有 顾虑 到 end user 这是 第一 点
+UI08MAZ_0104 497776 504391 CS 好像 commercial area 我们 的 housing 的 怎样 啦 来 来 去 去 就 duplicate 一样 的 不是 每 一个人 的 家庭 一样 的 嘛 有些 大有 些 小
+UI08MAZ_0104 504884 514698 CS okay 有些 没有 结婚 啊 他 要 怎样 去 适应 那些 end user 我们 没有 提到 这一点 我们 没有 tackle 这 是 我们 差 的 地方
+UI08MAZ_0104 519384 523244 ZH 你 有 去 过 哦 哦 好
+UI08MAZ_0104 543462 550670 CS 它 有 自己 identity 可以 这样子 讲 就是 (啊) 他们 有 一 看到 这个 诶 这个 就是 holland 的 屋子 你 看 得出 这个 building
+UI08MAZ_0104 551525 560392 CS 他们 有 自己 create 自己 的 identity lah 然后 in singapore 就 没有 identity 因为 他是 adapt 全部 全世界 的 东西 放在 他 那边
+UI08MAZ_0104 575409 575773 ZH (嗯)
+UI08MAZ_0104 581330 584354 CS 对 了解 就-
+UI08MAZ_0104 589636 593123 ZH 嗯 对 (啧) 不错
+UI08MAZ_0104 594110 595097 EN 
+UI08MAZ_0104 597045 602359 CS 有 我们 有 (啊) 我们 有 现在 有 另外 一个 科 就 叫 architecture mah
+UI08MAZ_0104 602359 607091 CS 另外 一 科 就 landscape architecture 啊 另外 一 科 有人 现在 开始 读
+UI08MAZ_0104 608099 614821 CS landscape 就 就 种 种 植树 罢了 哦 好像 这些 comp science 的 你 看 那个 旁边 那种 trees ah
+UI08MAZ_0104 615396 618098 CS 那种 (啊) christmas tree 其实 不 应该 这样子 种
+UI08MAZ_0104 619135 623920 CS 它 得 不到 它 没有 shade 你 知道 吗 我 我 之前 有 研究 过 这个 地方 我 before 来 这个 的 时候
+UI08MAZ_0104 624667 629651 CS 研究 那个 地方 没有 shade 然后 他 种 树 来 做 么 absorb 那个 carbon ah
+UI08MAZ_0104 629651 636285 CS 如- 因为 in malaysia oh 最 最 comfortable 的 地方 咧 就是 有 shade 的 地方 有 影子 的 地方
+UI08MAZ_0104 636876 640044 CS 像 park 车 你 一定 是 找 树 下 你 不会-
+UI08MAZ_0104 644822 653106 CS 啊 啊 对 那个 是 那个 是 in certain certain factor lah 好像 是 如果 你 想像 那个 树 是 清洁 的 通常 人家 就 park 树 的
+UI08MAZ_0104 659727 667989 CS ah okay okay 我 了解 但是 讲 到 shade 先 啊 那个 christmas tree 的 shade 会 那 会 多少 一个 三角形 啊
+UI08MAZ_0104 669252 678310 CS 因为 那个 是 common area 那个 给 人家 走 的 地方 来的 吗 如果 他 建 在 一个 那种 大 棵 树 啊 有 盖 这样子 看 每天 有 人 走 每天 有 人 在 那边 读书
+UI08MAZ_0104 684713 694421 CS 有 有 读 到 (啊) 不同 种类 的 树 okay 应该 在 什么 季节 什么 时候 应该 种 什么 时候 不 应该 种 然后 (嗯)
+UI08MAZ_0104 695226 702342 CS 花 然后 有 像 (啊) 那 叫 scrub ah scrub 它 有 不同 的 不同 阶级
+UI08MAZ_0104 703302 709279 CS 你 要 美 什么 其实 种 树 很 讲 是 容易 它 take times 懂 吗
+UI08MAZ_0104 709832 718212 CS 它 讲 是 容易 它 那种 是 你 那种 大 棵 树 是 几年 前 的 你 知道 吗 六十 六 七十 年 前 的 不是 一 dup 就有 的
+UI08MAZ_0104 721458 729111 CS 竹 哦 竹 是 maximum 它 如果 要 去 eight meters 的话 啦 它 在 三个 月 到 十二 个 月 里面 可以 拿 到
+UI08MAZ_0104 732767 733338 ZH 嗯
+UI08MAZ_0104 750218 751490 CS suitable 对
+UI08MAZ_0104 757462 760344 ZH 只是  <unk>
+UI08MAZ_0104 762776 773106 CS 因为 因为 我 喜欢 我 之前 是 我 involve in drawing 很多 我 很 喜欢 画 画 的 画 画 然后 画 画 了 过后 我 就 本来 想 做 artist 的 画家 啊
+UI08MAZ_0104 773106 780718 CS 画家 我 觉得 画家 不是 很 realistic ah okay 不是 一个 很 正当 的 职业 这样子 不过 我 不是 讲 看小 画家 画家 有 自己的 identity
+UI08MAZ_0104 780718 784856 CS 然后 我 的 老师 全部 都是 很 厉害 画家 的 啦 在 在 alostar
+UI08MAZ_0104 785555 793582 CS okay 然后 我 就 觉得 因为 要- 我 要 我 想 拯救 世界 啊 okay 我 想 拯救 世界
+UI08MAZ_0104 794569 801098 CS (啊) 所以 我 就 选择 architect loh architect 可以 可以 所谓 的 save the world
+UI08MAZ_0104 801098 807377 CS 就是 我 可以 create 一个 building okay 可以 给 人家 高兴 okay 可以 给 人家 last long
+UI08MAZ_0104 807377 812341 CS 然后 可以 create 那种 environment 给 the whole family live together
+UI08MAZ_0104 812341 819019 CS 啊 那个 是 一个 creation 来的 啊 我 要 那种 feel 或者 是 in 深 深入 一点 进 一个 city
+UI08MAZ_0104 819668 823018 CS okay 每个人 在 用 着 我 自己 product 啊 这样子 的 东西
+UI08MAZ_0104 825693 830289 CS 我 我 的 vision lah 我 觉得 很难 达到 但是 人 还是 要有 目标 吗
+UI08MAZ_0104 834586 840454 CS (啊) 画 水彩 有 啊 那个 是 media lah 水彩 有 啊
+UI08MAZ_0104 840454 844068 CS 是 我 是 参加 比赛 有 oil paint 有 oil paint 有 touch
+UI08MAZ_0104 847155 851128 ZH 什么 题材 水彩 啊 哦 那个 油画 的 题材 啊
+UI08MAZ_0104 854764 858841 CS 就 me~ media lah 啊 哦 画 哦 okay okay
+UI08MAZ_0104 859974 868194 CS (啊) 什么 都有 啦 我 是 因为 我是 参加 比赛 了 吗 okay 我 是 针对 比赛 来 参加 然后 什么 都有 啊
+UI08MAZ_0104 871180 871959 ZH 树 哦
+UI08MAZ_0104 873855 879356 CS 树 哦 树 portrait portrait ah
+UI08MAZ_0104 880032 881668 CS 不要 讲 强项 啦 那 是 -
+UI08MAZ_0104 882161 887539 CS okay lah okay lah portrait okay lah 要- 你 要 你 要 我 画 可以 勉强 可以 画 的 还是 可以 画 的
+UI08MAZ_0104 888861 897350 CS huh 几分 像 啊 (嗯) 几分 像 啊 major 应该 是 五十 到 七十 啊 五十 到 七十 percent ah
+UI08MAZ_0104 899272 901661 ZH 你 如果 你 要 逼 我 画 我 是 可以 画 的
+UI08MAZ_0104 903375 905400 ZH  (嗯)
+UI08MAZ_0104 906777 913427 CS 我 我 因为 我 很 (啊) for me lah 我 画 东西 我 是 我 不要 讲 我 自己- 我 不要 我 自己 讲 美 啦 我 要人 家 讲 美
+UI08MAZ_0104 914102 921359 CS  所以 我 要 给 人家 judge 我 的 东西 然后 因为 如果 我 讲 我 美 的话 啦 人家 讲 不 美 我 就 死 了 很 悲哀 的
+UI08MAZ_0104 926572 929091 CS 我 不 美的 东西 我 是 不会 present 的
+UI08MAZ_0104 933350 936207 ZH 水彩 水彩
+UI08MAZ_0104 939920 945218 CS 墨画- 墨画 没有 我 没有 没有 机会 去 touch 到
+UI08MAZ_0104 945706 950597 CS 但是 墨画 其实 一个 艺术 我 喜~ 喜欢 那个 艺术 简单 simple and -
+UI08MAZ_0104 952207 959452 CS 对 黑色 红色 很 很 强 我 很 喜欢 simple lah 最 主要 我 是 喜欢 这
+UI08MAZ_0104 962776 967316 CS pencil 可以 sketch sketch 可以 现在 是 我们 architecture more to sketch
+UI08MAZ_0104 968313 974545 CS 快 嘛 你 用 水彩 到来 天亮 了 咯 很 慢 sketch 快 点 sketch 用 art line 的 笔
+UI08MAZ_0104 979557 980466 EN the greatest ah
+UI08MAZ_0104 981196 987997 CS (呃) 我 要 去 到 那个 咯 (啊) 那个 lion club 举办 的 international lion club 有 nominees oh
+UI08MAZ_0104 989217 992926 CS nominees 然后 最近 最近 是 second year
+UI08MAZ_0104 992926 999220 CS second year 是 architecture competition 我 那时 赢 到 中国 international (啊) 第四 名 啊
+UI08MAZ_0104 1001145 1007426 CS 然后 前天 才 公布 那个 成绩 (啊) for barcelona 的 然后 我 fail 掉 了
+UI08MAZ_0104 1007834 1012335 ZH  啊 改次 啊 改次
+UI08MAZ_0104 1016742 1023502 CS 以前 我 我 接触 比较 多 的 是 pablo pablo picasso 因为 他 东西 比较 粗
+UI08MAZ_0104 1023961 1027042 ZH  他 不 细 我 我 不是 走 那种 细 那种 啊
+UI08MAZ_0104 1027042 1036874 CS 因为 画家 有 分 两种 的 一种 是 很 细 的 就 毛 也 要 画 完 的 毛 画 完 了 他 看 了 比较 美 的 我 是 粗 的 rough 的
+UI08MAZ_0104 1039403 1047992 CS 对 啊 as in 就是 因为 画家 的 artist 的 他们 东西 不是 (啊) 因为 每个人 看 东西 不一样
+UI08MAZ_0104 1047992 1052466 CS 因为 我 读 那个 drawing 跟 你 读 drawing 是 不一样 的 意思 的
+UI08MAZ_0104 1052466 1062060 CS 这是 画家 要 达到 的 东西 他 才 满意 诶 你 看 的 东西 不一样 哦 不过 我 觉得 我 成功 哦 如果 每个人 看 一样 东西 一样 的话 啦 就 好像 比如说 我 画 portrait
+UI08MAZ_0104 1062060 1068799 CS okay 我 看 着 我 照 着 那个 图画 画 那个 不是 叫 artist 对 我 来讲 不是 叫 artist 那个 是 一个
+UI08MAZ_0104 1069692 1074577 CS more to photographer 一个 artist photographer 我 我 不 喜欢 那种
+UI08MAZ_0104 1075901 1080809 ZH 因为 (啧) 这样子 你 没有 表达 到 你 你 要 表达 什么 你 要 看 诶 那个 是 人 哦
+UI08MAZ_0104 1081588 1091226 CS 他 在 笑 哦 好像 mona lisa 人家 看到 笑 人家 哭 啊 那 那种 artist 啊 对 我 来讲 那种 啊 那种 叫 artist oh
+UI08MAZ_0104 1095719 1104633 CS architect ah 现在 啊 现在 (啊) 还 没有 真正地 去 去 深入 了解 他们 的 philosophy
+UI08MAZ_0104 1104633 1110940 CS 因为 我 我 现在 能 尽量 吸收 多少 就 吸收 多少 okay 这个 architect 的 philosophy 我 拿 一点 那个 就 拿 一点 拿 一点
+UI08MAZ_0104 1113212 1119473 CS 很多 (嗯) 就 比如 讲 我 刚才 之前 讲 的 ken-yang 因为 他是 green building 的 他 整天 做 green building
+UI08MAZ_0104 1120122 1126017 CS 就是 他 的 philosophy 第一 点 他 的 building 一定要 是 (啊) sustainable 的
+UI08MAZ_0104 1126666 1135506 CS okay sustainable 他 一定 要 touch 到 他 的 solar 一定 要 touch 到 阳光 第二 点 他 一定要 touch 到 water
+UI08MAZ_0104 1136337 1142810 CS 他 一定 有 一个 一个 tank 在 上面 collect water to reuse 啊 这是 然后 还有 一个 wind
+UI08MAZ_0104 1143635 1149818 CS 他 的 风向 他 的 shape 全部 是 based on 那个 风 去 design 的 啊 那个 是 叫 philosophy
+UI08MAZ_0104 1149818 1159123 CS 然后 有些 是 high tech 如果 喜欢 high tech 因为 我 很 喜欢 input 进 那个 high technology 啊 我 就 放进 去 啊 那种 philosophy
+UI08MAZ_0104 1160344 1169095 CS 然后 有些 的 是 叫- 他 很多 种 他 很多 种 的 那个 叫 什么 expressionist ah 然后 neo-expressionist ah
+UI08MAZ_0104 1172384 1179343 ZH 对 他 有 分 很多 种 然后 你 你 做 的 东西 不一定 是 其他 人 承认 的 但是 有 一部分 人 会 喜欢
+UI08MAZ_0104 1179343 1185078 CS 好像 鸟巢 这样子 很多 人 complain 然后 有些 人 很多 人 喜欢 美 是 美 但是 建 的 是 其实
+UI08MAZ_0104 1185961 1193526 CS 啊 它 它 是 这样子 它 是 c. c. t. v. 你 知道 beijing 的 c. c. t. v. 吗 很多 人 complain okay 人家 讲 做 不到 但是 他 能 做到
+UI08MAZ_0104 1193761 1199802 CS 哦 这 是 他们 的 那种 philosophy 觉得 诶 这个 是 一个 因为 那个 整个 地方 是 heritage area mah
+UI08MAZ_0104 1199802 1208478 CS 他 故意 建 这样子 他 讲 他 的 镜子 可以 reflect 到 四周围 的 heritage 然后 你 就会 看到 overall heritage 那种 感觉
+UI08MAZ_0104 1208478 1213611 CS 然后 有些 人 讲 它 很 iconic ah 很 alien building ah 啊 很多 人 comment
+UI08MAZ_0104 1215238 1220573 CS 就 很 subjective 是 很 subjective ah 是 喜欢 就 喜欢 如果 是 不 喜欢 就 不 喜欢
+UI08MAZ_0104 1224065 1225908 ZH (嗯) 因为 它 它 是
+UI08MAZ_0104 1229154 1236815 CS oh building ah 亲身 体会 咯 亲身 体会 的 因为 看 书 的 不要 讲 啊 看 书 的 你 不能 讲
+UI08MAZ_0104 1237231 1242007 CS 前 几 回 之前 我 讲 的 (啊) national library oh 它 很 practical 很 美
+UI08MAZ_0104 1243669 1252628 CS singapore 你 去 过 吗 有 一天 你 要 去 (啊) (啊) technology university technology petronas
+UI08MAZ_0104 1254438 1257959 CS u. t. p. 在 在 在 perak
+UI08MAZ_0104 1260960 1266452 CS 诶 u.~ u.t.p.~ pe~ pe~ petronas 的 petronas 的 那个 campus 一流
+UI08MAZ_0104 1272238 1278219 CS p.b.c. 哦 有 去 拍 啊 那个 因为 那个 它 的 architect 是 norman-froster
+UI08MAZ_0104 1280426 1286837 CS 对 他 是 它 的 architect 是 norman-froster 他 是 london 的 top leading architect 来 设计 的
+UI08MAZ_0104 1288291 1295094 CS 你 看 他 有钱 的 地步 就是 打造 他们 是 好像 abu-dhabi 我 就 打造 一个 完美 的 城市
+UI08MAZ_0104 1295094 1298465 CS 然后 就 请 完 他 那个 整个 building oh 整个 city oh
+UI08MAZ_0104 1298465 1302603 CS 它 是 invite 的 你 知道 吗 它 是 invite 世界 一千 个
+UI08MAZ_0104 1302603 1307234 CS 有名 的 architects 去 build 每 一个 part 然后 combine 起来
+UI08MAZ_0104 1309011 1314441 CS 所以 现在 architect 是 basically  (呃) 讲 是 (啧)
+UI08MAZ_0104 1315571 1322877 CS 一个 一个 讲 是 consultant 好听 啊 consultant 另外 一个 就是 salesman noh 我们 在 sales 我们 自己 idea
+UI08MAZ_0104 1324233 1327348 CS 就 跟 跟 外面 的 marketing 没有 两样 啦
+UI08MAZ_0104 1330002 1339753 CS sicile-pelly argentina 人 来的 他 那个 也 很 简单 尤其 是 讲 不要 讲 简单 啦 其实 这个 idea 他 他 他 要 拿 那个 foam ah
+UI08MAZ_0104 1340636 1347578 CS 之前 如果 你 看 discovery channel 的话 应该 是 有 的 你 讲 那个 foam 他 就 随便 拿 那种 (啊) basic 的 element
+UI08MAZ_0104 1347578 1354643 CS 加 加 加 就 bok 起来 为什么 这样 简单 的 东西 不 叫 本地 的 local architects 建 要 叫 外国 architects 建
+UI08MAZ_0104 1355785 1361911 CS 他的 他的 用意 在哪里 对不对 这个 东西 可以 建 那种 k. l. i. a.
+UI08MAZ_0104 1361911 1367354 ZH 很 不是 说 很难 你 可以 叫 本地 的 可以 做到 的 做 么 不 叫
+UI08MAZ_0104 1371118 1379691 CS 没有 他 是 在 日本 啊 kino (啊) kino krukawa kino krukawa 他 是 刚刚 去世 一 九-
+UI08MAZ_0104 1379691 1384661 CS 二零零七年 去世 他 也 是 很- 蛮 不错 啦
+UI08MAZ_0104 1388387 1395154 CS 啊 没有 petronas tower 是 sicile-pelly 啊 k. l. i. a. 哈 啊 算是 算是 久 的
+UI08MAZ_0104 1396870 1402823 CS 他 已经 很 老 了 他 已经 是 差不多 七 八十 岁 了 他 建起 k. l. i. a. 的 时候 不是 其实 不是 他 建 的 他 只是
+UI08MAZ_0104 1402823 1406439 CS 他 只是 给 idea okay 讲 诶 我 要 build 一个 building in the forest
+UI08MAZ_0104 1407270 1415800 CS 诶 叫 下面 的 人 去 建 的 其实 一个 一个 他 的 一个 construction ah 一个 一个 firm ah 一个 firm 里面 (啊) 好像 norman_froster
+UI08MAZ_0104 1416527 1423175 CS 他是 一个 最大 的 principle 他 下面 有 六个 design group design studio 一个 design studio 里面 有 二十 个 architect
+UI08MAZ_0104 1424292 1430317 CS 二十 个 architect 二十 个 然后 okay 这个 project 我 拿 到了 啊 丢 给 你 去 design studio one 你 去 做
+UI08MAZ_0104 1430887 1439040 ZH 你 kao-tim 全部 我 去 我 去 跑 外面 我 去 看 我 去 上 电视机 我 去 跟你讲
+UI08MAZ_0104 1440877 1449174 ZH 这个 是 他 的 他 的 他 操作 他 运作 懂 吗 这 东西 如果 我 没有 讲 你 会 知道 吗
+UI08MAZ_0104 1450953 1459091 CS 这个 这样子 哦 他 不是 你 如果 在 那边 做 我 做 几 厉害 claim 的 名誉 的 人是 在 上面 的 人
+UI08MAZ_0104 1466221 1473982 CS 啊 对 名誉 好像 他 有 讲 静静 啦 thesis 也好 啦 我的 老师 全部 咧
+UI08MAZ_0104 1473982 1478608 CS 就 找 那些 很 厉害 英文 的 啊 okay assign 他 我 给 他 两 千 块 一个 月
+UI08MAZ_0104 1479413 1483464 CS 叫 他 去 写 thesis 然后 我 的 topic 我 的 approach 是 这些 这些 这些
+UI08MAZ_0104 1484173 1490603 CS okay 你 就 去 写 啊 你 写 写 写完 全部 meeting 我 来 看 我 check 看 诶 不对 然后 就要 去 写过
+UI08MAZ_0104 1491798 1500783 CS 现在 happen  很 很 前面 东西 啊 然后 最后 thesis 的 名字 是 写 他 的 名字 啊  claim 是 claim 他 的 名字 啊
+UI08MAZ_0104 1502601 1508081 ZH 因为 不要 讲 讲 好听 是 他们 忙 哦 他们 太 多 东西 做 咯 要 做 很多 东西 吗
+UI08MAZ_0104 1508548 1514703 CS 然后 又 在 因为 apex university ah 每个 老师 要 produce paper 嘛 要 reach 那个 standard
+UI08MAZ_0104 1519118 1520705 EN 

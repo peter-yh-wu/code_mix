@@ -1,0 +1,926 @@
+01NC01FBX_0101 0 6010 CS (呃) 十一号 十月 哦 我 跟 你 讲 一个 东西 but 不 可以 讲 出去
+01NC01FBX_0101 7799 9415 EN ah final saturday
+01NC01FBX_0101 10194 18304 CS 啊 我 跟 你 讲 一个 事 but 不可以 讲 出去 我们 有 进 then 我们 拿 第三 but mr. cheng 讲  不用紧 啊 他们 讲 是 confidential 的
+01NC01FBX_0101 20411 22142 ZH 八十六 加
+01NC01FBX_0101 24076 25749 ZH 没有 没有 八 八十 没有 算
+01NC01FBX_0101 26384 27712 CS 因为 top four mah
+01NC01FBX_0101 28347 31515 ZH 就 八十 我 拿 了 一 三 九 啊
+01NC01FBX_0101 31515 33449 ZH 一 三 九 八十六
+01NC01FBX_0101 33449 36017 CS okay kay 让 我 拿出 我 的 calculator
+01NC01FBX_0101 38586 39705 EN area five
+01NC01FBX_0101 41860 43117 CS top one 是 area five lor
+01NC01FBX_0101 43117 45843 CS as in first is area five then top two 我 不懂
+01NC01FBX_0101 45843 49791 CS 因为 我 一直 bug 他 讲 诶 result 几时 会 出 result 几时 会 出 then 
+01NC01FBX_0101 49791 53608 CS then 他 就 讲 (呃) i glance through ah
+01NC01FBX_0101 53608 59685 CS then 他 就 讲 like but not official yet cause f.y. have to do something then 我 就 huh but what can they do i mean
+01NC01FBX_0101 59685 65358 CS 就是 score 就是 score mah then 为什么 要 then 他 讲 like 不知道 喔 then but top five 没有 n.t.u. 的人
+01NC01FBX_0101 65358 70317 CS 就 可以 imagine name* list* 连 submit 一六五 都 没有 进 top five 是 很 强 的 啊
+01NC01FBX_0101 72439 73686 ZH 啊 一八四
+01NC01FBX_0101 75688 76726 ZH 一七八
+01NC01FBX_0101 77428 78492 ZH 你 拿 多少 一五一 啊
+01NC01FBX_0101 81219 83115 CS 哦 对对对 一五一 是 jane
+01NC01FBX_0101 84127 86300 CS 我们 的 total 是 五十七
+01NC01FBX_0101 86300 88370 CS then area five 的 total 是
+01NC01FBX_0101 90921 92194 ZH 五六七
+01NC01FBX_0101 94531 97466 CS 啊 saturday then 那天 是 salvy 的 生日
+01NC01FBX_0101 97466 106250 CS then mr. cheng 讲 呃 during 不懂 几时 他要 录一个 video then 叫 我们 去 恭贺 you know the  birthday message 那种
+01NC01FBX_0101 107505 108259 EN ya lor
+01NC01FBX_0101 108259 110428 ZH 诶 十号 十月
+01NC01FBX_0101 111609 112440 EN saturday
+01NC01FBX_0101 114595 118516 CS 你 不可以 拿 hopefully 是 一定 要 有空 靠 你 了 嘞
+01NC01FBX_0101 120771 123082 CS 哦 but 应该 是 早上 吧
+01NC01FBX_0101 127019 128369 ZH 啊 对 拜六
+01NC01FBX_0101 133771 136679 CS just 早上 吧 then like
+01NC01FBX_0101 139092 147064 CS 去年 就 八点 九点 到 他 就 会 射 individual 先 then 就 到
+01NC01FBX_0101 147064 154543 CS 你 你 真的 真的 不可以 then 你 就 很早 很早 去 then 你就 可以 跟 dominique 讲 啊 这样 like 唉 让我 射 先 哪
+01NC01FBX_0101 158799 161369 CS 啊 对 哦 hopefully
+01NC01FBX_0101 165090 167860 CS 不懂 but official result 还没有 出 i think 出了 他们 就会
+01NC01FBX_0101 168745 169264 ZH 这样
+01NC01FBX_0101 175714 178804 CS ya 我们 不 可以 给 area five 看扁
+01NC01FBX_0101 184180 188439 CS i think 第二 应该 是 area four 吧 <unk> 一个 一八四 可以 压倒 很多 人 哪
+01NC01FBX_0101 194707 199927 CS 骗人 雁博* 讲 他 很 烂 then 他 射 一个 一五零 出来 can
+01NC01FBX_0101 201563 206055 CS 如果 他 没有 诶 ya lor 他 赢 我们 二十多 分 他们 就 拿 冠军 那个 top
+01NC01FBX_0101 209298 213375 CS 就 我们 五四 多 他们 五六 多 then 就是 差 我们 二十多 分
+01NC01FBX_0101 213375 218828 CS 就 你 算 as in total 他们 top four 
+01NC01FBX_0101 221941 226679 ZH 去年 喏 你们 你 的 那个 一七零 加 他们 的 一 就 过 了 六百 了
+01NC01FBX_0101 228797 236881 CS 真的 去年 你 三天三夜 没有 睡觉 啊 所以 你 你 就 七 八 九 你 不要 睡 then 十号 应该 是 可以 拿 一个 一八零 还是 什么
+01NC01FBX_0101 239374 242802 ZH 啊 对对对 就 连做 三天三夜
+01NC01FBX_0101 252423 253281 EN 
+01NC01FBX_0101 256064 257933 CS huh 你们 要 去 哦 你们 要 去 gym 啊
+01NC01FBX_0101 266331 268045 CS 哦 我 没有 meeting 了
+01NC01FBX_0101 268045 273395 CS 我 昨天 不是 跟 你 讲 我 的 group-mate then 你 还 讲 你 <unk> 来 呀 then 我 就 yes my group-mate 又
+01NC01FBX_0101 275720 281420 CS as in 我 可以 meet la but 我 不懂 我 还 以为 你们 我 不懂 你们 有 confirm 去 gym then 我 自己 也没有 带 我 东西
+01NC01FBX_0101 283942 285656 CS 啊 ya oh 我 也 是
+01NC01FBX_0101 289032 290122 CS then 他 讲 什么
+01NC01FBX_0101 303584 306181 ZH  是 你 跟 我 讲 他有 驾车 诶
+01NC01FBX_0101 328957 330125 EN (erm)
+01NC01FBX_0101 334098 334825 ZH 八点
+01NC01FBX_0101 337864 338565 EN ya lor
+01NC01FBX_0101 345747 347747 ZH 啊 
+01NC01FBX_0101 359324 360342 EN 
+01NC01FBX_0101 372469 374157 EN 
+01NC01FBX_0101 376033 377185 EN 
+01NC01FBX_0101 386304 388563 CS 他 就去 check 他 的 me~ message history
+01NC01FBX_0101 394202 395111 ZH 啊
+01NC01FBX_0101 407175 408837 ZH 啊 (呃) 对啊 对啊
+01NC01FBX_0101 412655 413953 CS cheng 会 online
+01NC01FBX_0101 423709 429136 CS 他 还 没有 起来 是 吗 还是 他 spend too long spend too long 去 做工 哈
+01NC01FBX_0101 447255 449540 CS oh the one that 你 post on 你的 blog 那个 啊
+01NC01FBX_0101 459018 460037 EN 
+01NC01FBX_0101 465743 467002 EN 
+01NC01FBX_0101 473396 475915 CS 对啊 每次 出 这种 stunt 的
+01NC01FBX_0101 486670 490513 CS 他的 是 selective 的 他 也是 会 自己 换掉 in 他的 mind
+01NC01FBX_0101 494071 496538 CS 没有 你 讲 完 先 我 要 讲 another 东西
+01NC01FBX_0101 499212 499748 EN 
+01NC01FBX_0101 514742 515251 EN 
+01NC01FBX_0101 532940 538300 CS maybe 他 at least at least 他 没有 跟 你 讲 他在 做工 during the week saturday and sunday
+01NC01FBX_0101 541357 541759 ZH 哦
+01NC01FBX_0101 544910 545741 ZH 对 哦
+01NC01FBX_0101 551275 557066 CS 对对对 我 不 知道 因为 that time the first time 我 问 瑞宝 时候 瑞宝 讲 the second 我 就 讲 哇 andy 这样 厉害
+01NC01FBX_0101 557066 566389 CS 对 可是 有一天 就 那时候 你 记得 有 瑞宝 就 约 大家 去 vivo 喝茶 喝咖啡 then 就 大家 pangseh 我们 剩 我 跟 瑞宝 就在 那边 晃 了 三个 小时
+01NC01FBX_0101 566389 571443 CS 就 hopefully 显惠 会 早点 放 then 下来 join 我们 对 就
+01NC01FBX_0101 571443 586187 CS 没有 then 没 chungan 他 in the end pangseh 哦 他 就 不懂 做了什么 then 就 显惠 也是 做工 做到 很 迟 then in the end 他 还 跟着 他 老板 回家 他 老板 就 讲 oh come to my house to do then 我们 就 哇啊 以为 他 老板 要 干吗
+01NC01FBX_0101 586187 597330 CS 对 不知道 then 那天 andy 有 (呃) 不懂 什么 recce ah the point is after that 我们 就 我 就 有 驾车 then 我 就 驾 回 toa-payoh 因为 andy 在 toa-payoh then 我们 就 meet 了
+01NC01FBX_0101 597330 606920 CS then 就 不懂 讲 什么 话 then andy 就 started saying that like 你 去 civil service 你 真的 要有 like 你的 honors 那种 不然 就 like 很 disadvantage in terms of 你的 pay 这些 then 我 就 讲 你 不是 second up
+01NC01FBX_0101 606920 615770 CS 瑞宝 讲 的 他 就 like 才怪 他 就 讲 唉呀 then 就 不懂 突然间 讲到 一个 peggy 你 懂 吗 那个
+01NC01FBX_0101 615770 625430 CS andy's school 的 那个 miss singapore universe 那个 头发 短短 then 每次 参加 那种 pageant 就 总之 她 蛮 出名 的 then 就 他 突然 间 讲 到 like peggy 是 第六 年 了 了
+01NC01FBX_0101 625650 627930 CS 她 还在 读 她的 对 对 对 她 今年 是 sixth year
+01NC01FBX_0101 627930 635364 CS then 就 something about 她 要 就 读 嘛 六年 还 可以 graduate 因为 some modules 她要 take 还是 什么 就 打包 太多 啊
+01NC01FBX_0101 635364 645415 CS then in the end andy 就 讲 唉呀 我 又 不是 没有 打包 过 我 连 academic warning 都 拿过 then 我就 stun 了 讲 serious 我还以为你是second upp 诶 then 他 就 opps it's like 讲 不要 like
+01NC01FBX_0101 669870 673820 CS oh 他 拿 third class 他 差 一点点 他的 f. y. p. screwed up 他 拿 到 b. minus c. plus
+01NC01FBX_0101 673820 675597 ZH 就 本来 是
+01NC01FBX_0101 676662 677571 ZH 没有 没有 他 有
+01NC01FBX_0101 677571 682079 CS 屁 if prof get 你 d 我 砍 我 头 给 你 哦 真的 啦
+01NC01FBX_0101 683352 691973 CS 喂  就 你 一定 是 a student 的 诶 他 是 你的 你 是 他的 new 什么 那什么 我 忘记 那个 词 是 什么
+01NC01FBX_0101 695297 698286 CS 对对 then 哦 kelmo*(name) 有 一定 d plus 也是 他的 final sem
+01NC01FBX_0101 699878 704526 CS 没有 可是 就 本来 他 是 like three point five 出 then 就 突然间 跌 了(liao) 了
+01NC01FBX_0101 706820 709160 ZH 屁 没有 打包 啊 他 没有 打包 过
+01NC01FBX_0101 717598 718871 ZH 对对对对对
+01NC01FBX_0101 720584 721067 EN 
+01NC01FBX_0101 725508 728156 CS 所以 alvin 的 成绩 很 好 啊 such that 他
+01NC01FBX_0101 728156 730727 CS 他 会 拿 m.c. 我 觉得
+01NC01FBX_0101 730727 736311 CS 很 哇 很 wasted 唉 整个 对 整个 sem 就 浪费 掉 了 嘞
+01NC01FBX_0101 743340 747050 CS 我 我是 觉得 很 浪费 那个 sem 我 die die 继续 take then 看 怎么样 这样
+01NC01FBX_0101 751362 753206 ZH 对 对 对 对 对 对 对
+01NC01FBX_0101 753790 756523 EN 
+01NC01FBX_0101 756845 757488 EN 
+01NC01FBX_0101 758104 759470 EN ya okay 
+01NC01FBX_0101 763252 764421 ZH 对对对
+01NC01FBX_0101 771199 773744 EN 
+01NC01FBX_0101 777106 778508 ZH (嗯） 不懂 诶 那时候
+01NC01FBX_0101 779729 784273 CS that's why i think 他 打包 很多 such that 他 也 不可以 去 做 一个 full 的 i.a.
+01NC01FBX_0101 784273 787987 CS that's why 你 见 他 那个 时候 去 做 那个 i.o. during 那个 three months holiday 而已
+01NC01FBX_0101 792624 795013 CS as in 我 不懂 他 有没有 打包 but 就-
+01NC01FBX_0101 803463 806917 CS 这样 他 还 可以 graduate in four years 还 蛮 强 的
+01NC01FBX_0101 806917 808371 ZH (嗯) 对啊 对啊 对
+01NC01FBX_0101 817100 820269 CS (erm) 不懂 诶 就  ya
+01NC01FBX_0101 827048 828891 CS 婷瑜 你 minor 很多 right
+01NC01FBX_0101 831203 832319 ZH 这样 很好 啊
+01NC01FBX_0101 837487 839097 ZH 哇
+01NC01FBX_0101 844291 845459 CS 你 去 i.o.
+01NC01FBX_0101 854241 855461 EN then wasted leh
+01NC01FBX_0101 860180 864580 CS but then 如果 你 不 take i. a. 你 take i. o. 你 要 clear more electives
+01NC01FBX_0101 864580 868202 CS 不用 right 因为 对 诶 诶 then 你 should lah
+01NC01FBX_0101 873560 878234 CS but 就 你要 like 如果 你 早点 发现 你 就 可以 save 一个 e-sem
+01NC01FBX_0101 892139 895021 CS so 你 拿 你 去 i.o. 你 去 拿 几个 a.u.
+01NC01FBX_0101 902640 905678 CS 这 i.a. 是 多少 十多 right
+01NC01FBX_0101 910821 915594 CS but i.o. 还 几个 ei-pps like oh okay lah 就 half ah then okay lor
+01NC01FBX_0101 917378 920198 CS then 其实 我们 比较 好 赚 哦 我们 eight weeks five a.u.s eih
+01NC01FBX_0101 928169 931736 CS i think 也是 ten eight ten nor 还是 最多 twelve
+01NC01FBX_0101 936747 942702 CS 哇 你 就 这样 了 半个 sem 的 学费 在 学校了 where you could have graduated earlier
+01NC01FBX_0101 946631 948560 CS 哦 you mean 不是 through school 的
+01NC01FBX_0101 956583 958367 ZH 哈 这样 还 蛮 屌 的 嘞
+01NC01FBX_0101 966375 968014 CS 对啊 对啊 then 也
+01NC01FBX_0101 979647 980660 CS then 他们 做 什么
+01NC01FBX_0101 987376 989908 CS then 她 不是 i.t. 的 then 她 还去 读 i.t. 的 东西
+01NC01FBX_0101 998064 1004380 CS 所以 她 没有 读过 like computing in j.c. huh 这样 很惨 很惨 很惨 吶
+01NC01FBX_0101 1013706 1015417 CS then exam 怎么办
+01NC01FBX_0101 1024455 1026095 ZH 哈啊 就
+01NC01FBX_0101 1026938 1029518 ZH 对 我 觉得 很 不
+01NC01FBX_0101 1031579 1036200 CS she could have transferred course eh 你 懂 我 有 两个 or should say 我 那个 f. y. p. friend 那个 男 的
+01NC01FBX_0101 1036230 1045849 CS 他是 from engine 的 then 他 就 就 也是 a levels 考 得 很 烂 很 烂 then 就 被 丢进 engine but then 他 year one sem one 就 考 得 like three point something 就 not bad then 他 就 apply then 就 换
+01NC01FBX_0101 1045859 1051850 CS 他 year one sem two 就 来 econs then 我 还有 多 两个 friend 也是 有一个 女 的 更 惨 她 是 我 j. c. first three months 的 friend
+01NC01FBX_0101 1051850 1057233 CS then 她 就 die die 她 自己 course but 也是 cui 掉 then 就 in the end 读 什么 就 one of the com engine
+01NC01FBX_0101 1057233 1062056 CS then by the end of year one 她 还 transfer somehow in which 她 还 graduating the same time as 我们 吶
+01NC01FBX_0101 1066867 1071472 CS 对对对对 你 要 花 extra but then 就 她 可以 在 year one sem one sem two 的 时候 就 换 掉
+01NC01FBX_0101 1080262 1081973 CS 换 course ya lor
+01NC01FBX_0101 1087971 1089562 ZH 那 就 好
+01NC01FBX_0101 1092130 1096831 CS i think 你 真的 要 换 喜欢 你 读 的 东西 不然 你 会 很 struggle
+01NC01FBX_0101 1099510 1105490 CS 超 喜欢 啦 我 觉得 我是 读 对 东西 我 很 开心 我 那时 候 appeal accountancy 我 没有 进
+01NC01FBX_0101 1106560 1115600 CS 因为 我的 first choice 我 放 accountancy second choice 我 才 放 econs then 我 就 没有 进 accountancy 因为 那时 候 那个 cutoff 是 a. a. b. s. 我 不是 蛮 高 的 我 就 拿 b. b. b. 那种
+01NC01FBX_0101 1115690 1118680 CS then in the end 就读 econs then 我 还 去 appeal 一次
+01NC01FBX_0101 1118680 1123027 CS then 我 的 appeal reject cause i got not valid grounds on 为什么 我 要 appeal mah
+01NC01FBX_0101 1124910 1131600 CS 就 我 觉得 three years then some more 它是 一个 professional job then 我 就 觉得 i mean like why spend four years doing a general arts
+01NC01FBX_0101 1132529 1138098 CS then after that 我就读 那个 double major 后 诶 要 take 很多 econ accountancy mods 我 就 超 heng 我 没有 去 读 啊 这样
+01NC01FBX_0101 1159438 1164573 CS 你 就 写 就 gain some marks at at least 你 没有 扣 对 啊 i think
+01NC01FBX_0101 1172923 1176081 CS 你们 也是 要 读 accountant (er) accounting right
+01NC01FBX_0101 1185377 1186776 EN oh then okay mah
+01NC01FBX_0101 1200255 1201002 CS a. 的
+01NC01FBX_0101 1202372 1206932 CS then since 你 有 那个 background 你一样 你 就 直接 去 take 那个m.b. one o. one 去 clear 你的
+01NC01FBX_0101 1208288 1209875 EN accountant (er) accounting loh
+01NC01FBX_0101 1211924 1213396 CS but 你 都 可以 s.u. 啊
+01NC01FBX_0101 1219601 1222660 CS but language 这种 不可以 讲 i meaning 其他的 应该 ok
+01NC01FBX_0101 1233330 1235090 CS 哦 所以 你 不打算 要 s.u. 啊
+01NC01FBX_0101 1238005 1240140 CS 你 去 take marketing loh 你 就 最 zai 这种
+01NC01FBX_0101 1245791 1247320 CS but 现在 是 open-book 的
+01NC01FBX_0101 1259004 1259869 ZH 对 对 对
+01NC01FBX_0101 1261312 1263044 ZH 对 对 对 对 对 对 对 对
+01NC01FBX_0101 1270685 1271320 ZH 对
+01NC01FBX_0101 1273282 1273975 ZH 啊
+01NC01FBX_0101 1276774 1278159 EN swot analysis
+01NC01FBX_0101 1281445 1284071 CS 对 i think 你 做久 对 你 做久 你 就会
+01NC01FBX_0101 1284071 1286005 CS 就 全部 会 produce 出来
+01NC01FBX_0101 1288916 1290820 CS then 就 yah take marketing loh
+01NC01FBX_0101 1302039 1306339 CS but last sem nah 瑞宝 就 take marketing then 她 就 很讨厌 很讨厌
+01NC01FBX_0101 1306339 1313415 CS then exam 在 五点 她 什么 都 不 知道 她 就 叫 我 和 我 那个 business friend 我们 就 坐下来 就 真的 是 跟 她 go through什么 important
+01NC01FBX_0101 1313415 1315808 CS then 她 就讲 ok just go with the answers for 那些
+01NC01FBX_0101 1315808 1318708 CS (呃) past year exam 她 说 一定出 一定出 then 就 跟 她 讲
+01NC01FBX_0101 1318708 1321578 CS in the end 她 也是 随便 这样 拿 一个 s 了 了
+01NC01FBX_0101 1327259 1328630 CS 对 哟 take marketing
+01NC01FBX_0101 1330860 1335395 CS but i think 这种 business 的 应该 没有 很 凶 啦 like 那种 major project 酱
+01NC01FBX_0101 1336100 1341136 CS probably 就是 出 一个 i think 记 我 记得 瑞宝 她 就是 写 一个 business plan for 那个 project 而已
+01NC01FBX_0101 1341136 1342348 CS but 是一个 groupwork ah
+01NC01FBX_0101 1344869 1345475 ZH 对
+01NC01FBX_0101 1357432 1358341 ZH 几时 要 交
+01NC01FBX_0101 1370328 1371727 ZH 你们 就 真的 八点
+01NC01FBX_0101 1400440 1400988 ZH 啊
+01NC01FBX_0101 1423510 1425414 CS 就 大家 以为 是 eight thirty
+01NC01FBX_0101 1430147 1430724 ZH 啊
+01NC01FBX_0101 1434274 1436092 CS 对 你 昨天 也是 跟 我 讲 eight o' clock
+01NC01FBX_0101 1449012 1450138 EN eight thirty
+01NC01FBX_0101 1460865 1462056 CS 我 本来 想要 meet 你们 吃 breakfast
+01NC01FBX_0101 1462056 1463528 CS in the end 我 就 起 then 我 就
+01NC01FBX_0101 1463528 1467048 CS 我 instead of 按 那个 sleep button 我 就 直接 cancel 掉
+01NC01FBX_0101 1467048 1470440 CS then 我 的 next moment 时候 oh shit 不用 吃 早餐 了
+01NC01FBX_0101 1470440 1480000 CS 从 我 一 到 那个 toa-payoh m. r. t. station 我 就 看 很多 人 讲 惨 了 那个 announcement 就 讲 there was some delay in the previous train then 就 什么 it might cause it might cause a 什么 delay in your ride 什么 东西
+01NC01FBX_0101 1480000 1483997 CS then 就 真的 是 我 等了 like 十几 分钟 二十 分钟 那个 我 才 搭 到 train
+01NC01FBX_0101 1485120 1490863 CS 有 that moment 我 进去 我 看到 对面 的 train 啊 我 就 讲 其实 我 可以 搭 去 jurong-east to 来 学校 对吧 我 就 没有 想到
+01NC01FBX_0101 1492100 1493817 CS but 就 okay lah 也 没有 很 迟 啊
+01NC01FBX_0101 1500191 1501576 ZH 十 分钟 哦
+01NC01FBX_0101 1511471 1511990 ZH 啊
+01NC01FBX_0101 1520038 1521034 ZH 啊 对 对 对
+01NC01FBX_0101 1527885 1530670 CS i thought all trains 都是 via jurong-east 去到 pasir-ris
+01NC01FBX_0101 1536020 1538891 ZH 哦 哦 我 懂 我 懂
+01NC01FBX_0101 1546000 1548655 ZH 哦 我 不 我 我 我 不懂 有 一个 从
+01NC01FBX_0101 1556330 1560860 CS but then 谁 会 要 从 ang-mo-kio 搭 到 jurong-east then 搭 去 pasir-ris
+01NC01FBX_0101 1564385 1568430 CS 哦 我 不懂 chua-chu-kang 的人 要 去到 pasir-ris 他 不用 搭 到 all the way
+01NC01FBX_0101 1571558 1572389 ZH 明白 了解
+01NC01FBX_0101 1581984 1582386 EN 
+01NC01FBX_0101 1600430 1601930 CS 哦 then 你 就 过 不 了
+01NC01FBX_0101 1604448 1606216 CS 你 等 中间 的 train 来
+01NC01FBX_0101 1637328 1638399 ZH 刚 啊
+01NC01FBX_0101 1649193 1651738 CS 所以 他 就会 make announcement 就 讲 这个 train will go to
+01NC01FBX_0101 1654604 1656667 CS 哦 这样 还 蛮 cool 诶
+01NC01FBX_0101 1658939 1659582 ZH 对
+01NC01FBX_0101 1661109 1665569 CS no wonder 我 每次 就 觉得 ang-mo-kio 干吗 有 三 条 line 就 它 又 不是 inter-change
+01NC01FBX_0101 1670907 1675649 CS 因为 它 就有 它 是 一个 inter-change ah 它 就 去 expo then 去
+01NC01FBX_0101 1677926 1680632 CS 哦我 不懂 我 以前 没有 搭 到 tanah-merah 过
+01NC01FBX_0101 1687323 1689466 CS 他们 那时候 已经 plan to 建 changi-airport 跟-
+01NC01FBX_0101 1698275 1703151 CS 对 对 对 i think 这种 就 有 plan 过 了 嘛 他们 就 有 做 那种
+01NC01FBX_0101 1707759 1708991 ZH 有 远见
+01NC01FBX_0101 1719728 1720693 EN 
+01NC01FBX_0101 1725081 1734217 CS but i think is circle-line 它 不可以 跟 你的 line 混 在 一起 好像 dhoby-ghaut 也是 你 要 去到 another area to 搭 那个 north-east-line
+01NC01FBX_0101 1749531 1755933 CS i think 可能 他们 要 建 地下 不然 你 imagine 他 建 link to ang-mo-kio 他 要 拆 几条 马路 to 建 那个-
+01NC01FBX_0101 1756864 1758391 CS ya lor 所以 地下 比较 容易
+01NC01FBX_0101 1765919 1766777 ZH 你 二姐 住 哪里
+01NC01FBX_0101 1778424 1779281 EN dhoby-ghaut
+01NC01FBX_0101 1791998 1794382 CS 有经过 那个 buang-kok crescent 那边
+01NC01FBX_0101 1798958 1799789 EN 
+01NC01FBX_0101 1802813 1805439 ZH 这样 你 二姐 家 还 真是 蛮 不方便
+01NC01FBX_0101 1805439 1811975 CS like 我 friend 她 要 买 屋子 哦 她 就 die die 不要买 punggol 耶 but 她 就 要 买 新的 then 她 就 什么 选择 都 没有 那种
+01NC01FBX_0101 1814467 1817521 CS 对 ang-mo-kio 它 then 那种 the peak 也是 那种 超贵
+01NC01FBX_0101 1820495 1825553 CS h.t 是是是 but 就 like 比较 high-end 因为 它 cover with 那个 flooring and air-con 那种
+01NC01FBX_0101 1837494 1838379 ZH 哦哦
+01NC01FBX_0101 1846144 1848073 CS 哦 你 懂 晶 姐姐 她 买 the peak yeh
+01NC01FBX_0101 1848073 1854286 CS then 那天 她 就 跟 我们 讲 因为 她 then 我们 就 then the first thing that came to my mind 我是 我 stunned since when 晶 姐姐 她 engage 了
+01NC01FBX_0101 1854286 1862323 CS 对 then the 呃 不要紧 the next thing 是 她 买 the peak then 大家 就 看 她 就 跟她 讲 哇哦 that is the stupidest thing to do 因为 就 又 贵 then 又 什么什么 then 她 买一个
+01NC01FBX_0101 1863336 1868882 CS 在 toa-payoh 那个 很 出名 很 出名 可是 很 全部 都 卖 不出 因为 就 太贵 了
+01NC01FBX_0101 1869620 1878690 CS 它 有 那个 show flat then 我 跟 我 friend 我 跟 jerrin 就 很 gian to 去 看 then 就 弄 到 很 美 很 美 可是 很 小 很 小 but 它的 five rooms hor 就 你 家 也是 five rooms 对 吗
+01NC01FBX_0101 1878690 1886689 CS four 就 你家 的 four room 比 那个 five room 还 大 还是 什么 就 每次 他们 by 什么 hundred 这 这种 then 它 的 five room 才 一百 而已 耶
+01NC01FBX_0101 1893728 1897398 ZH 诶 这样 不懂 就 总之 就 很小 很小 对
+01NC01FBX_0101 1898810 1906880 CS and then 他 就 pay 了 like almost sixty six hundred thousand for 那个 屋子 就 more than half of a million for 一个 新的 h. d. b. flat leh
+01NC01FBX_0101 1906880 1910414 CS 对 then 大家 就 讲 你是 kam 的 咯 你 干吗 去 买 这么 贵
+01NC01FBX_0101 1912043 1914159 CS 对 对 对 我的 就 ya lor
+01NC01FBX_0101 1919812 1920669 ZH 要 卖掉
+01NC01FBX_0101 1921232 1923161 ZH 就 就 也可以 卖 六千多
+01NC01FBX_0101 1924527 1925599 ZH 六百 千
+01NC01FBX_0101 1926215 1927742 EN ah four five
+01NC01FBX_0101 1928840 1930046 ZH 你 的 楼 也是
+01NC01FBX_0101 1931593 1935424 ZH 可是 它 就 超贵 我 不 知道 她 住 几楼 可是
+01NC01FBX_0101 1936523 1937487 ZH 做 老师
+01NC01FBX_0101 1938824 1942146 CS 我 应该 开 电脑 then 我们 可以 you know
+01NC01FBX_0101 1942762 1945950 ZH 我 没有 我 本来 我 以为 你 有 带 我 就 没有 带
+01NC01FBX_0101 1946887 1947584 EN 
+01NC01FBX_0101 1947584 1950908 ZH 对 就 超贵
+01NC01FBX_0101 1954927 1956079 ZH (嗯） 不知道
+01NC01FBX_0101 1956641 1958811 CS 对 within 几年 就要 结婚 了
+01NC01FBX_0101 1960842 1964164 CS 没有 没有 就 三年后 re-deal 现在 在 刚刚 建 对 对 对
+01NC01FBX_0101 1973163 1974851 ZH 没有 晶 姐姐 也 比 我们 大 唉
+01NC01FBX_0101 1976149 1976899 ZH 两三岁
+01NC01FBX_0101 1977971 1978614 ZH 我 不 知道 呃
+01NC01FBX_0101 1981609 1984315 ZH 哦 她 八五 的 晶 姐姐 哇 她 其实 还 蛮 年轻 的
+01NC01FBX_0101 1986373 1989776 CS 二十四 yah 二十七 就 结婚 啊
+01NC01FBX_0101 1997331 1998161 ZH 不懂
+01NC01FBX_0101 1998826 2000755 CS 它这种 four k. 现在
+01NC01FBX_0101 2004158 2012302 CS 对 mervin 有 讲过 他 就 讲 我的 pay 不会 太高 to qualify for 如果 如果 要买 h.d.b. 对
+01NC01FBX_0101 2015084 2016504 ZH 七千 还是 八千
+01NC01FBX_0101 2017736 2018941 ZH 对 对 对 对 对
+01NC01FBX_0101 2021138 2022290 EN 
+01NC01FBX_0101 2024749 2034099 CS the thing 我们 跟 跟 真的 没有 讲到 这么 严重 诶 就 那天 他 会 讲到 like 你 薪水 不会 太高 就 我 也 不懂 为什么 就 突然间 讲到 就 讲到 这句 then 我们 就 stop ah
+01NC01FBX_0101 2034367 2043897 CS 我们 从来 没有 讲过 我们 几时 要 结婚 then the thing is 我 每次 都会 讲 唉呀 都不懂 end of the year 还 会不会 在一起 呢 现在 我们 根本 没有 到 那个 plan to 要 要 哇 要 spend the fif~
+01NC01FBX_0101 2045531 2046415 ZH 两年 酱
+01NC01FBX_0101 2047085 2051505 CS then the thing is last saturday 就 去 他 的 妹妹 的 birthday dinner then 他 的阿姨 就 开始
+01NC01FBX_0101 2053179 2055030 CS 跟 我 一样 对 but 比 我 小 两 天
+01NC01FBX_0101 2057449 2060380 ZH 我 二十二 啊 他 妹妹 二十二 二十二 跟 我 一样 二十二
+01NC01FBX_0101 2063341 2064064 ZH 对 对 对
+01NC01FBX_0101 2065720 2066283 ZH 对 对 对
+01NC01FBX_0101 2069792 2071453 ZH 哦 就
+01NC01FBX_0101 2073302 2076704 CS 哦 拜六 晚上 我 吃 我 跟  我 跟 mervin 吃 dinner
+01NC01FBX_0101 2078120 2081308 ZH 有空  耶 你们 要 帮 我 庆祝 我 好 开心 啊
+01NC01FBX_0101 2083719 2087790 CS 哇 这样 很 对 对 对 啊 the thing is 就 我 要 讲的 那个 then 我们 就 去 then 就
+01NC01FBX_0101 2087973 2091482 CS mervin 跟 他 阿姨 超熟 超熟 因为 他 阿姨 比 他 大 十岁
+01NC01FBX_0101 2091482 2100920 CS then 他 阿姨 结 了 婚 十三 年 then 她的 女儿 才 三 岁 就 他们 根本 不要 有 孩子 in the first but 就 in the end in the end like 十年 后 觉得 还是 有一个 孩子 比较 好
+01NC01FBX_0101 2100920 2103428 CS then 他 阿姨 就 要 like 三十六 还 三十七
+01NC01FBX_0101 2103428 2112881 CS then 他 阿姨 就 整天 觉得 你要 生 你 就要 很早 生 then 我 每一次 看到她 他阿姨 就会 讲 你们 哦 要生 就早一点 生 then the thing is 她 讲 她就 问我 你 几时 毕业 哦
+01NC01FBX_0101 2113491 2122788 CS 对 对 对 她 就 那天 她 就 问 我 你 几时 毕业 我 讲 等一下 她 就 哦 那就 一下 你们 就 快点 去 结婚 生孩子 啊 then the thing is 我 就 看着 她 在 那边 呵呵呵呵 then the thing is 我们 根本 没有 这种 plans oh
+01NC01FBX_0101 2124760 2134290 CS 因为 她 就 觉得 like 她 自己 很 迟 生 then 她 就 她的 husband 四十 then 儿女 儿 三 岁 then imagine like 她 她 就 觉得 like 你 要 你 就要 真的 是要 plan 好好
+01NC01FBX_0101 2134858 2148146 CS then the thing is 那时候 他们 when 他们 got married 他们 就 like 蛮 急急忙忙地 so 他们 no choice but to 买 一个 很贵 的 屋子 因为 他们 就 不 可以 等 再多 三年 to 你 懂 吗 你 就 每次 要 买 那种 新 屋子 你要 等 like 三四年 那种
+01NC01FBX_0101 2150363 2154918 CS 对 对 对 but the thing is 他们 要 结婚 就 他们 没有 在一起 很久 before 他们 要 结婚
+01NC01FBX_0101 2155266 2160570 CS 对 then 他们 就 觉得 like 哦 你们 明年 毕业 你们 就 应该 去 申请 屋子 啊 then 等 三年后 啊 那种 东西
+01NC01FBX_0101 2165305 2166591 EN 
+01NC01FBX_0101 2167475 2168976 ZH 可以 你 gor-gor 他 没有 结婚 啊
+01NC01FBX_0101 2172432 2173744 ZH 哦 是 你 吗
+01NC01FBX_0101 2174923 2178057 ZH 我 有 听 你 讲过 可是 我 忘记 是 你的 gor-gor
+01NC01FBX_0101 2181299 2181915 ZH 对 对 对
+01NC01FBX_0101 2182551 2183649 ZH 他 拿 到
+01NC01FBX_0101 2184131 2190132 CS oh my 天 that's like the coolest h.d.b. flat you can- 我 就 超爱 那时候 我 就 叫 我爸爸妈妈 去 买 啊
+01NC01FBX_0101 2191016 2192115 ZH 诶 它 很贵 哦
+01NC01FBX_0101 2199475 2201457 EN oh then okay lah
+01NC01FBX_0101 2206788 2207967 ZH 啊 对 对 对
+01NC01FBX_0101 2223443 2225426 ZH 你 gor-gor 的 妈妈 还是 那个 女朋友 的
+01NC01FBX_0101 2247891 2250329 CS but at that time 他 可以 存 这么多 钱
+01NC01FBX_0101 2252954 2253570 CS 就-
+01NC01FBX_0101 2256330 2257723 CS 就- 啊
+01NC01FBX_0101 2260107 2263804 CS 嗯啊 okay 就 有 蛮多 excess to 存 啊
+01NC01FBX_0101 2272231 2273463 ZH 就 随便 就 完 咯
+01NC01FBX_0101 2280402 2283108 CS  就 ya lah ya lah 就 in the end 他们 有 申请 啊
+01NC01FBX_0101 2294675 2297033 CS 没有 嘞 你 只是 还 十块钱 to 抽 那个 lucky draw
+01NC01FBX_0101 2297809 2300140 ZH 哦哈 抽 他 就 抽到 他就 拿 那个 钱
+01NC01FBX_0101 2300403 2300912 CS 跟 你-
+01NC01FBX_0101 2301635 2304634 CS 对 对 ten percent of 那个 还是 five percent
+01NC01FBX_0101 2311329 2312803 ZH 他们 还 在 一起 呢 事后
+01NC01FBX_0101 2313633 2314222 EN oh yah
+01NC01FBX_0101 2332939 2335217 ZH 哇 那个 女的 很 贱 哦
+01NC01FBX_0101 2337708 2343173 CS 诶 那个 女的 很 过分 哪 她 又 害 你的 pay 那个 deposit
+01NC01FBX_0101 2346140 2347694 CS but 那个 女的 恶心 can
+01NC01FBX_0101 2350453 2351605 ZH 就 认识
+01NC01FBX_0101 2370078 2373882 CS oh so sad then 屋子 怎么办
+01NC01FBX_0101 2378512 2381888 CS 他 还可以 maintain 他 的first class 好厉害
+01NC01FBX_0101 2394948 2401698 CS huh sad then in the end 那个 屋子 怎么办 我 比较 有 兴趣 知道
+01NC01FBX_0101 2402117 2403418 CS 要 forfeit 那个-
+01NC01FBX_0101 2409638 2413206 CS 诶 i think 你 以后 要 申请 你 会 at a disadvantage
+01NC01FBX_0101 2417070 2420780 CS then 叫 你 阿姨 叫 你 姑姑 直接 就 换 名 then 搬进 去 那里
+01NC01FBX_0101 2423138 2425886 CS oh ya if not 很多人 会
+01NC01FBX_0101 2426561 2427718 EN true true true
+01NC01FBX_0101 2429638 2434748 CS if not 就 like 你 gor-gor 换 跟 你 的 姑姑 买 那个 屋子 啊 then like at least 他 名字 还 在
+01NC01FBX_0101 2434748 2438171 CS 诶 but 你 姑姑 有 自己 她 的 屋子 okay
+01NC01FBX_0101 2441838 2444056 CS 他 才 才 可以 跟 parents 买
+01NC01FBX_0101 2451341 2453703 ZH 叫 那个 女的 赔 那个 钱 啦
+01NC01FBX_0101 2455005 2456692 EN oh ya she should
+01NC01FBX_0101 2466830 2467687 ZH 啊
+01NC01FBX_0101 2469437 2473776 CS 哇 这样 是 好事 啊 but but in the end 他们 没有 复合
+01NC01FBX_0101 2485155 2487710 ZH 好 马 不 吃 回头 草
+01NC01FBX_0101 2494827 2495936 EN cannot work out
+01NC01FBX_0101 2498891 2499904 EN ya lor ya lor
+01NC01FBX_0101 2500820 2502266 CS 对 then
+01NC01FBX_0101 2515670 2517309 ZH 你 gor-gor 太 爱 她 了
+01NC01FBX_0101 2535490 2536454 ZH 受不了 啊
+01NC01FBX_0101 2541352 2542509 ZH 拖拖拉拉
+01NC01FBX_0101 2548067 2550815 CS 晴天霹雳 没有 expect 这个
+01NC01FBX_0101 2562221 2562800 ZH 啊
+01NC01FBX_0101 2565500 2568345 CS 你 gor-gor 讲 他 卖掉 那个 东西 to pa~
+01NC01FBX_0101 2571093 2571816 ZH 啊
+01NC01FBX_0101 2584101 2586994 CS hala hala 的 那种
+01NC01FBX_0101 2607765 2609404 CS then 有 帮 他 做 吗
+01NC01FBX_0101 2624812 2626500 ZH 他 就 没有 心情 了
+01NC01FBX_0101 2655024 2656133 EN yea lor
+01NC01FBX_0101 2657247 2658158 EN 
+01NC01FBX_0101 2659685 2660891 EN 
+01NC01FBX_0101 2668526 2668981 EN 
+01NC01FBX_0101 2674119 2675485 EN 
+01NC01FBX_0101 2681427 2682970 CS ya lor 这种 东西
+01NC01FBX_0101 2685525 2688659 CS 超 cool 啊 then in the end 那个 屋子 你 gor-gor 讲 要 怎么办
+01NC01FBX_0101 2689141 2691986 CS 哦 你 不懂 but 已经 还了 那个 钱
+01NC01FBX_0101 2721830 2727730 CS 没有 the thing is 他 应该 那时候 就 放 掉 那个 那个 屋子 了 他 不可能 再 拿 回 了 嘛
+01NC01FBX_0101 2731560 2736120 ZH 哦 所以 现在 所以 现在 那个 屋子 还是 他 跟 那个 女 的 名字
+01NC01FBX_0101 2740220 2742679 CS 对对 哦 it is 对 okay that is a good idea
+01NC01FBX_0101 2753789 2754898 CS 叫 他-
+01NC01FBX_0101 2767670 2770580 CS 应该 可以 哦 then 那个 女 的 不会 介意 right
+01NC01FBX_0101 2784203 2787260 CS cool cool cool i think 他 建 好 了
+01NC01FBX_0101 2787260 2790330 CS 就 已经 整个 building 都 起 来 了 i think 他们 在 做 里面 而已
+01NC01FBX_0101 2791553 2793433 ZH 有有有 你 每次 搭
+01NC01FBX_0101 2797965 2802828 CS 对 它 很美 很美 很美 somemore 它 是 link 的 你 懂 吗 那个
+01NC01FBX_0101 2803407 2805480 CS 对 then 就 中间 有- 啊
+01NC01FBX_0101 2819462 2821680 ZH  还 挺 看得 顺眼
+01NC01FBX_0101 2829858 2831738 ZH 啊 对对对对对
+01NC01FBX_0101 2842058 2843167 ZH 你 gor-gor 几岁
+01NC01FBX_0101 2844662 2845433 EN okay lah
+01NC01FBX_0101 2861374 2862868 ZH 对对对 就
+01NC01FBX_0101 2866967 2870100 CS then 为什么 你 gor-gor 会 认识 她 啊
+01NC01FBX_0101 2870100 2872077 CS 她 是 个 high-flyer eh
+01NC01FBX_0101 2877018 2877795 EN 
+01NC01FBX_0101 2899821 2901123 EN true true
+01NC01FBX_0101 2905719 2907117 ZH 暗恋 暗恋
+01NC01FBX_0101 2912517 2913819 EN friends ah
+01NC01FBX_0101 2914870 2921650 CS i think when you break up 跟 你们 可以 做 继续 做 friend 是 因为 at that time 你们 真的 没有 很 在一起 那种 感觉
+01NC01FBX_0101 2923010 2926880 CS 因为 我 觉得 when 两个 人 真的 很 在一起 and you all breakup 你们是 不可能 做 朋友 的
+01NC01FBX_0101 2942056 2943551 ZH 那 是 好事
+01NC01FBX_0101 2957356 2959622 CS 对 哦 ya
+01NC01FBX_0101 2962322 2963286 EN ya lor
+01NC01FBX_0101 2967483 2969749 ZH 就 现在 那个 哇
+01NC01FBX_0101 2985775 2988378 ZH 啊 对对对对对对对
+01NC01FBX_0101 3027051 3032451 CS so in the end 他们 有没有 你 你 gor-gor 有没有 因为 这件事 而 离开 她
+01NC01FBX_0101 3033125 3035633 CS but 就 broke up with some other reason
+01NC01FBX_0101 3070923 3073141 CS i think banking 的 人 有 这种 东西 也是
+01NC01FBX_0101 3073141 3077914 CS 我 一个 friend 她 的 就 我 friend 的 friend 他 的 girlfriend 就 banking 就 比 他 大 两岁 就 same batch but
+01NC01FBX_0101 3077914 3083025 CS graduated earlier then 他 女朋友 就 会 很 like 买 那种 名牌 then 就 很
+01NC01FBX_0101 3083025 3087171 CS then 那个 男的 就 是 一个 很 脚踏实地 的 人 then 那个 男的 本来 就
+01NC01FBX_0101 3087171 3096910 CS 他 是 本来 在 j.a.m. 做 jenny 的 job 的 but 就 因为 他 cannot take 这种 office work 他 就 quit 那个 job then 叫 jenny to go for the interview then 那种 东西 then 他 现在 去 starbucks 泡 咖啡
+01NC01FBX_0101 3096910 3101819 CS 对 then 那个 女 的 就 很 i think 他们 就有 some problem 就 因为 那个 女 的 是 很 aggressive 那种
+01NC01FBX_0101 3101819 3105821 CS 就 那种 banking 的 人 ya i think they are trained
+01NC01FBX_0101 3107797 3109726 ZH 对 有有有
+01NC01FBX_0101 3110635 3113046 CS i think 就是 因为 那个 environment you have to be like that
+01NC01FBX_0101 3121532 3123412 ZH 几很 九个月
+01NC01FBX_0101 3145104 3148189 CS 很 呃 ya lor
+01NC01FBX_0101 3153364 3155100 EN ya lor ya lor
+01NC01FBX_0101 3159970 3161561 CS in the end 有 去 吧
+01NC01FBX_0101 3170577 3174193 CS 所以 你 ya 所以 姑姑 okay with the current girlfriend
+01NC01FBX_0101 3192438 3194126 ZH 嗯 明白 了解
+01NC01FBX_0101 3197404 3199188 ZH 哦 这样 不是 喔
+01NC01FBX_0101 3242431 3243878 ZH 啊
+01NC01FBX_0101 3265188 3267503 ZH 啊 楼上 楼下
+01NC01FBX_0101 3274560 3275814 ZH 哦
+01NC01FBX_0101 3279579 3281026 EN yea lor
+01NC01FBX_0101 3291536 3293079 ZH 啊
+01NC01FBX_0101 3301806 3304072 CS but okay lah 就
+01NC01FBX_0101 3305793 3306730 ZH 嗯
+01NC01FBX_0101 3331900 3333106 ZH 那就好
+01NC01FBX_0101 3346996 3348876 CS 没有 这么 aggressive
+01NC01FBX_0101 3360583 3362126 CS but 她 有 跟 你 讲话 这种
+01NC01FBX_0101 3401250 3402108 EN 
+01NC01FBX_0101 3402786 3404136 ZH 要不要 跟 你 换
+01NC01FBX_0101 3413662 3414723 ZH 对对对
+01NC01FBX_0101 3420942 3422051 ZH 就 弄脏 了
+01NC01FBX_0101 3454724 3457906 CS 嗯 ya lor 对 咯 洗 一下 啊
+01NC01FBX_0101 3461185 3466537 CS 就 ya 我 对 你 好 你 也是 at least 要 show some thank you 还是 什么
+01NC01FBX_0101 3486865 3489008 EN 
+01NC01FBX_0101 3490830 3492196 EN yah lah okay lah
+01NC01FBX_0101 3492625 3494071 ZH 我们 讲 一个 小时 了 了
+01NC01FBX_0101 3496289 3497656 ZH 肚子 还 有点 饿 哦
+01NC01FBX_0101 3499879 3503978 ZH 哦 不用紧 没有 啊 我 明天 没有 来 学校
+01NC01FBX_0101 3504510 3507457 ZH 不用紧 我 没有 要 很 <unk>
+01NC01FBX_0101 3545424 3547111 ZH 唉 
+01NC01FBX_0101 3588835 3589451 EN 
+01NC01FBX_0101 3590335 3592666 EN 
+01NC01FBX_0101 3593091 3595020 ZH 等下 你 的 课 到 六点半
+01NC01FBX_0101 3596170 3597268 CS then 瑞宝 哪
+01NC01FBX_0101 3601292 3603596 EN oh then how
+01NC01FBX_0101 3613330 3615780 CS 酱 你们 可以 早点 去 gym then 我们 可以 一起 去 吃
+01NC01FBX_0101 3617333 3618512 CS 她 在 赶 f.y.p. 也是 啊
+01NC01FBX_0101 3622286 3624054 ZH 哦
+01NC01FBX_0101 3625795 3629332 CS 她 的 prof finally came come back from 那个 不懂 什么 国家
+01NC01FBX_0101 3631780 3633720 CS 不过 等下 你们 去 lecture 我 可以 去 找 你们
+01NC01FBX_0101 3635020 3635917 ZH 哦哦 会
+01NC01FBX_0101 3637403 3638086 EN 
+01NC01FBX_0101 3653137 3653901 EN yea lor
+01NC01FBX_0101 3661020 3662920 CS 你 i thought 你 之前 有 run 过了
+01NC01FBX_0101 3684132 3685392 ZH 哦
+01NC01FBX_0101 3690584 3693357 EN 
+01NC01FBX_0101 3705994 3708205 CS 所以 你 刚刚 才 add 那个 to second one
+01NC01FBX_0101 3713264 3715434 EN 
+01NC01FBX_0101 3719638 3722371 CS okay 你 跟 她 friendly mood 的 嘞
+01NC01FBX_0101 3730215 3731889 CS oh ya ya ya 有 那个
+01NC01FBX_0101 3732318 3734166 CS 那个 multiplication is addition
+01NC01FBX_0101 3746388 3749335 CS 你 二姐 住 punggol but 她 为什么 载 你 去 pasir-ris
+01NC01FBX_0101 3751612 3752656 ZH 哦 靠近 啊
+01NC01FBX_0101 3756769 3759635 EN you mean tampines safra there is a minds cafe there ohh
+01NC01FBX_0101 3779903 3781028 ZH 载 你们 一起 去
+01NC01FBX_0101 3787976 3789516 CS 不是 你 不是 有 y.a.c. meeting
+01NC01FBX_0101 3800601 3801351 ZH 不可以
+01NC01FBX_0101 3812398 3812974 ZH 哦
+01NC01FBX_0101 3820738 3822238 EN you got oh you oh
+01NC01FBX_0101 3822453 3823752 EN the roomie lives in serangoon right
+01NC01FBX_0101 3827407 3828197 ZH 哦
+01NC01FBX_0101 3867092 3867547 ZH 啊
+01NC01FBX_0101 3869275 3869972 EN mathew
+01NC01FBX_0101 3871123 3871391 ZH 噢
+01NC01FBX_0101 3873359 3874484 ZH 哦
+01NC01FBX_0101 3901524 3902623 EN  
+01NC01FBX_0101 3918046 3918354 EN 
+01NC01FBX_0101 3919278 3920872 ZH  你们 就 
+01NC01FBX_0101 3921702 3922747 EN try to fight
+01NC01FBX_0101 3946754 3947129 ZH 啊
+01NC01FBX_0101 3965337 3966355 ZH 大大 本 的
+01NC01FBX_0101 3976464 3977803 EN read january
+01NC01FBX_0101 3986799 3987268 EN 
+01NC01FBX_0101 4031130 4032081 EN december
+01NC01FBX_0101 4035859 4036997 ZH 哦
+01NC01FBX_0101 4042366 4042955 EN 
+01NC01FBX_0101 4054054 4054831 ZH 哦
+01NC01FBX_0101 4061591 4062073 EN stun
+01NC01FBX_0101 4094774 4097855 CS oh you know 果然 是 p.h.d. stduent in maths
+01NC01FBX_0101 4129449 4130092 EN twelve
+01NC01FBX_0101 4140591 4143377 CS 对 刚好 都是 two to the power of five 到
+01NC01FBX_0101 4158529 4161029 CS 哦 你 post 在 你的 那个 blog 的
+01NC01FBX_0101 4169989 4170927 EN huh
+01NC01FBX_0101 4197597 4198400 ZH 你 就 哭
+01NC01FBX_0101 4235087 4236346 ZH 哦 对 对 对
+01NC01FBX_0101 4243148 4245023 ZH 他 又 找 你 吵架 了
+01NC01FBX_0101 4265106 4266607 EN ya lor it's every thing
+01NC01FBX_0101 4275576 4277907 EN so don't tell people you are from n.t.u.
+01NC01FBX_0101 4303453 4304203 EN form of
+01NC01FBX_0101 4308516 4309721 EN true true
+01NC01FBX_0101 4328676 4330015 ZH 对 对 对
+01NC01FBX_0101 4334382 4335561 EN 
+01NC01FBX_0101 4347424 4349112 EN 
+01NC01FBX_0101 4350318 4351068 EN 
+01NC01FBX_0101 4355270 4358900 CS 搞 笑 那 两个 哦 relationship 真的 是 太 奇怪 了
+01NC01FBX_0101 4362340 4364992 ZH 哇哦 突然间 很累 唉 好想 睡觉 哦
+01NC01FBX_0101 4367001 4368662 ZH 四十 分钟 三十八
+01NC01FBX_0101 4370987 4372139 ZH 唉 四十八
+01NC01FBX_0101 4378993 4380145 ZH 这个 他们 的
+01NC01FBX_0101 4382153 4384457 CS 对 对 but 他们 印 出来 的
+01NC01FBX_0101 4393239 4394819 ZH 哦
+01NC01FBX_0101 4426475 4427949 EN serious
+01NC01FBX_0101 4430970 4431961 ZH 笔 吗
+01NC01FBX_0101 4454028 4455100 EN ah okay
+01NC01FBX_0101 4462382 4464150 EN for mm
+01NC01FBX_0101 4472718 4474271 CS 你 怎么 懂 sub 什么 value
+01NC01FBX_0101 4481501 4482064 ZH 嗯】
+01NC01FBX_0101 4510717 4511681 ZH 啊
+01NC01FBX_0101 4519607 4520759 ZH 啊 对
+01NC01FBX_0101 4528951 4530719 CS 就- ya 对 对 对 对 对
+01NC01FBX_0101 4532514 4534068 CS then 你们 found out 那个 answer 吗
+01NC01FBX_0101 4545399 4546310 ZH 为什么
+01NC01FBX_0101 4556723 4558705 ZH 哇 你们 很 厉害 诶
+01NC01FBX_0101 4593219 4594370 EN stun
+01NC01FBX_0101 4607144 4610493 CS huh but exam 这样 做 会 很 stress eh
+01NC01FBX_0101 4613330 4614321 ZH 啊
+01NC01FBX_0101 4620184 4621845 ZH (嗯) 明白 了解
+01NC01FBX_0101 4627011 4628003 ZH 那 就 好事
+01NC01FBX_0101 4638582 4641020 CS you mean 八三六 加 八三六 要 equals to
+01NC01FBX_0101 4643054 4644045 ZH 哦
+01NC01FBX_0101 4649721 4651757 ZH 对 哦 那个 六 六 六
+01NC01FBX_0101 4654731 4655507 ZH 嗯】
+01NC01FBX_0101 4666701 4668175 ZH 哦 哇
+01NC01FBX_0101 4675428 4677598 CS 六- 哦 对 因为 它 就 不会 有 four number
+01NC01FBX_0101 4689654 4692065 CS 六个 哦 就有 way back repetitive
+01NC01FBX_0101 4698643 4700813 CS 啧 啧 啧 not bad 了
+01NC01FBX_0101 4729681 4730324 ZH 诶
+01NC01FBX_0101 4731823 4732626 EN ya lor
+01NC01FBX_0101 4750036 4750920 ZH 哦
+01NC01FBX_0101 4751589 4752500 ZH 诶 对 嘞
+01NC01FBX_0101 4753974 4754911 ZH 哦
+01NC01FBX_0101 4757483 4758984 ZH 哇
+01NC01FBX_0101 4767174 4769505 ZH 啧 啧 啧 zai
+01NC01FBX_0101 4771350 4774136 CS module 是 他 是 什么 来头 的
+01NC01FBX_0101 4775583 4776306 ZH 哦
+01NC01FBX_0101 4777217 4778101 ZH 哦 跟 渊博 一样 哦
+01NC01FBX_0101 4784933 4786406 EN serious
+01NC01FBX_0101 4787605 4789883 CS but 雁博 是 读 computing 他 是 读 com engine 是吗
+01NC01FBX_0101 4792978 4794077 CS 雁博 computing 啊
+01NC01FBX_0101 4796327 4798470 CS 他 读 com engine 的 啊 哦 i didn't know eh
+01NC01FBX_0101 4801549 4803398 CS maybe n.t.u. 可以 n.u.s. 不可以
+01NC01FBX_0101 4809553 4810625 CS but 雁博 也是 拿 a.
+01NC01FBX_0101 4813230 4817650 CS 哦 可能 可能 他 就 只有 s. paper 他 s. paper 拿 distinction 那种
+01NC01FBX_0101 4817650 4819546 CS 只有 exam half a sem
+01NC01FBX_0101 4820832 4822306 CS 所以 他 graduating this sem ah
+01NC01FBX_0101 4823401 4824929 ZH 哇 好厉害
+01NC01FBX_0101 4825920 4826804 ZH 他 有 找到 工 吗
+01NC01FBX_0101 4828408 4829614 CS 一大堆 job offer
+01NC01FBX_0101 4833655 4835397 ZH 哇 就 直接 就 有 工 了
+01NC01FBX_0101 4837942 4838611 ZH 啊
+01NC01FBX_0101 4838906 4842201 ZH  对 咯 你 刚刚 骗人
+01NC01FBX_0101 4843966 4847208 CS 我 就 like 你 写 了 我 就 以为 你 就 不要 了 我 就 继续 写
+01NC01FBX_0101 4848253 4849619 ZH 什么 我 没有 偷 哦
+01NC01FBX_0101 4854193 4855667 CS 我们 可不可以 去 facebook 啊
+01NC01FBX_0101 4859657 4860568 EN let's attempt
+01NC01FBX_0101 4861110 4863370 CS 我们 就 看 有 谁 可以 gossip ya lor
+01NC01FBX_0101 4867080 4869870 CS 哦 对 我 觉得 他们 会 last leh
+01NC01FBX_0101 4873234 4874359 ZH 你 觉得 不会
+01NC01FBX_0101 4880919 4881643 ZH 偷 什么
+01NC01FBX_0101 4882795 4884590 ZH 不可能
+01NC01FBX_0101 4886381 4888310 CS as in 瑞宝 是 个
+01NC01FBX_0101 4888953 4893059 CS (嗯) 你找到就找到他不会很像like
+01NC01FBX_0101 4893936 4897982 ZH 他 真的 把 雪晶 当成 他 以后 要 嫁 娶 的 人 吶
+01NC01FBX_0101 4899187 4900339 ZH 就 他
+01NC01FBX_0101 4902210 4909170 CS ya but then 他 就会 like 讲 things like oh 我 几 岁 要 结婚 什么 then like 雪晶 有 很多 loans 要 还
+01NC01FBX_0101 4909170 4915495 CS then like (啧) 就 讲 那种 like 我 就是 以后 要 嫁 给 他 了 嘛 就 讲 like 我 要 like 开始
+01NC01FBX_0101 4915495 4919487 CS 其实 她 就是 买 stocks 就是 因为 她 要 like you know earn more money 那种
+01NC01FBX_0101 4920260 4922060 CS 就 earn more money for 他的 future
+01NC01FBX_0101 4925262 4926093 ZH 耶
+01NC01FBX_0101 4932897 4933728 ZH 劈腿
+01NC01FBX_0101 4934371 4937907 ZH 他 找 谁 他 混来混去 就是 我们 两个 诶
+01NC01FBX_0101 4939943 4940613 EN yea loh
+01NC01FBX_0101 4944491 4946956 CS (err) i 不 i don't believe in long term relationship but
+01NC01FBX_0101 4946956 4948644 EN (eh) not long term long distance
+01NC01FBX_0101 4948858 4951537 CS but 我觉得 瑞宝 and 雪晶 will prove me wrong
+01NC01FBX_0101 4954080 4957200 ZH 就 他们 俩 个 很 在乎 彼此 啊
+01NC01FBX_0101 4964551 4964899 EN 
+01NC01FBX_0101 4966265 4966962 ZH 对
+01NC01FBX_0101 4973894 4975019 CS 你 要 log in 你 的 吗
+01NC01FBX_0101 4977537 4978234 EN ya loh
+01NC01FBX_0101 4979144 4981127 CS 你 会 看到 jesslyn 的 她 要 (erm)
+01NC01FBX_0101 4981929 4982840 ZH 她 要
+01NC01FBX_0101 4983992 4984661 ZH 对 对 对
+01NC01FBX_0101 4984902 4987957 CS then 她 要 她 就 要 等 那个 re-proposal
+01NC01FBX_0101 4989373 4993177 CS 就 啊 不是 就 她 accept 了 but 她 又 她 要 那个 (呃)
+01NC01FBX_0101 4993472 4994999 CS boyfriend to 再 repropose
+01NC01FBX_0101 4995506 4996524 ZH 因为 她 觉得 很 没有 诚意
+01NC01FBX_0101 4997007 5001213 CS then the thing is then 你 就 accept then 你 又 要 人家 re-propose 就 很奇怪 哦
+01NC01FBX_0101 5012645 5013100 EN 
+01NC01FBX_0101 5031145 5034173 ZH  所以 其实 大家 都 有 在 看
+01NC01FBX_0101 5036637 5037227 ZH 诶
+01NC01FBX_0101 5043732 5045286 CS 你 认识 sean-ang 吗
+01NC01FBX_0101 5046732 5047911 CS lynna 的 ex-boyfriend
+01NC01FBX_0101 5049492 5050349 EN lynna tan
+01NC01FBX_0101 5057842 5059476 CS 哦 but 他 是
+01NC01FBX_0101 5060655 5061352 ZH 哦
+01NC01FBX_0101 5062396 5063388 CS 她 的 boyfriend noh
+01NC01FBX_0101 5065263 5068531 CS 不知道 i think 她 boyfriend 是 以前 n.p. 的 他 是 瑞宝 的 前辈 前辈 就
+01NC01FBX_0101 5068719 5069764 EN one of the-
+01NC01FBX_0101 5070648 5072175 EN one of the you know
+01NC01FBX_0101 5076321 5079027 CS during 我们 h.b. 和 h.b.d.c. 他 是 lynna 的 boyfriend
+01NC01FBX_0101 5079911 5081009 CS then i think 他们 broke up
+01NC01FBX_0101 5081358 5082188 EN around like
+01NC01FBX_0101 5084865 5086713 ZH 几 好像 是 几个月 而已
+01NC01FBX_0101 5086820 5087865 ZH 如果 我 没有
+01NC01FBX_0101 5089419 5092312 CS 我 不懂 like maybe 一年 吧 我 觉得 我 记得 不久 啊
+01NC01FBX_0101 5094851 5096833 ZH 不知道 哎 我 很 没有
+01NC01FBX_0101 5098253 5101494 CS 我 很 没有 like 注意 她 的 东西
+01NC01FBX_0101 5105750 5108295 CS 她 jesslyn 八三 的 诶 都 而是
+01NC01FBX_0101 5110133 5111553 CS 应该 比 jesslyn 大 几岁 吧
+01NC01FBX_0101 5112087 5113668 ZH (恩) 三岁 两岁
+01NC01FBX_0101 5115360 5117390 CS 他 graduate in two o. o. six eh
+01NC01FBX_0101 5119181 5122637 CS 对 哦 that's why 比 我们 大 四 加 二 六岁 哦
+01NC01FBX_0101 5127297 5127994 EN em noh
+01NC01FBX_0101 5136960 5137791 EN ya loh
+01NC01FBX_0101 5145664 5147646 ZH (恩) 不懂 诶 就
+01NC01FBX_0101 5149064 5152252 CS on and off 有 吧 然后 我 也 没有 很 了解 她 的
+01NC01FBX_0101 5153005 5154746 CS 她 的 什么 ya loh
+01NC01FBX_0101 5160045 5162188 ZH 我 不知道 诶 可能 会 吧
+01NC01FBX_0101 5165266 5166740 CS 会 啊 她 跟 h.q. 的 人 这么 熟
+01NC01FBX_0101 5172173 5173540 EN tan-yao-jun
+01NC01FBX_0101 5180371 5181309 EN 
+01NC01FBX_0101 5182600 5185060 CS 他是 tan-yao-jun y. a. o.
+01NC01FBX_0101 5185215 5185751 EN wait ah
+01NC01FBX_0101 5188269 5189957 CS  你 以为 nalgene-tan
+01NC01FBX_0101 5193570 5196100 CS 不是 不是 tan-yao chinese name 来 的
+01NC01FBX_0101 5200453 5200881 ZH 没有
+01NC01FBX_0101 5204763 5206880 EN 
+01NC01FBX_0101 5207892 5210678 CS 有 想 哇 yah
+01NC01FBX_0101 5215147 5216407 EN not bad not bad
+01NC01FBX_0101 5236197 5237429 EN in the- yah
+01NC01FBX_0101 5248863 5251756 CS 哇 impress 到
+01NC01FBX_0101 5254139 5254889 EN zai
+01NC01FBX_0101 5258290 5259790 ZH 唉呀 哇 
+01NC01FBX_0101 5260407 5265845 CS  因为 刚才 它 就 land 到 这里 then if double click then 你 就 gone case
+01NC01FBX_0101 5270796 5274895 CS 诶 do you realize that 我 讲 的 话 as compare to 你 的
+01NC01FBX_0101 5276526 5279499 ZH 就 你 看 我 这样 讲 就会 有 这种 声音
+01NC01FBX_0101 5279499 5282714 ZH 可是 你的 就 没有 可是 只有 一 就 这里 就 全部 没有
+01NC01FBX_0101 5283116 5283786 ZH 你 了解 吗
+01NC01FBX_0101 5284507 5289115 CS 就 (啧) 就 好像 我 讲话 这里 then 现在 就会 有 这样 then 你 的 就 平 平 平 平 平
+01NC01FBX_0101 5289461 5291979 CS then for 之前 就是 平 all the way
+01NC01FBX_0101 5292461 5294122 CS 对 对 对 damn cool right
+01NC01FBX_0101 5297498 5298248 ZH 是 咩
+01NC01FBX_0101 5305527 5307456 ZH 哦 你 讲 明天 做 什么 啊
+01NC01FBX_0101 5307750 5308393 ZH 我 做
+01NC01FBX_0101 5309063 5314960 CS  我 要 start on 我的 four thousand one of the essays loh no choice leh
+01NC01FBX_0101 5318487 5320121 ZH 不要 啦 我们 就
+01NC01FBX_0101 5320603 5325533 CS relax lah  我 本来 想 去 看戏 的 嘞 你 有没 听说 一个 日本 那个 korean show 是
+01NC01FBX_0101 5326069 5329766 CS 就 那个 d.j. scandler s- scandler something
+01NC01FBX_0101 5330280 5334890 CS 就 那个 d. j. 啦 他 突然 间 有一个 孙子 and 孩子
+01NC01FBX_0101 5334890 5336352 CS then 他 try to hide 那个 东西
+01NC01FBX_0101 5337080 5343090 CS apparently they say 这个 movie 是 like one of the 比 那个 两百 磅 美女 还 好笑 的
+01NC01FBX_0101 5344198 5344573 EN huh
+01NC01FBX_0101 5345483 5347546 ZH 两 那个 两百磅 美女
+01NC01FBX_0101 5348189 5349020 EN ya
+01NC01FBX_0101 5349955 5351348 EN so quite cool
+01NC01FBX_0101 5355846 5356730 ZH 什么 来 的
+01NC01FBX_0101 5359543 5360374 ZH 没有
+01NC01FBX_0101 5361391 5362167 ZH 好看 咩
+01NC01FBX_0101 5365969 5366987 ZH 哦 好看 啊
+01NC01FBX_0101 5369017 5373491 CS i think 那时候 瑞宝 有 叫 我 可是 我 就 没有 上课 我 不想 去 all the way 到 woodlands
+01NC01FBX_0101 5373893 5375098 EN cause we pon
+01NC01FBX_0101 5380749 5381204 ZH 哦
+01NC01FBX_0101 5383776 5385544 ZH 很 有 雅兴 诶 你们 大家
+01NC01FBX_0101 5387040 5387925 ZH 哦
+01NC01FBX_0101 5391749 5392955 EN 
+01NC01FBX_0101 5392955 5395178 ZH 好看 你 应该 去 看 真的 很 好看
+01NC01FBX_0101 5399894 5401447 CS ya loh 就 nua throughout
+01NC01FBX_0101 5407047 5407261 EN 
+01NC01FBX_0101 5409775 5411838 ZH 诶 很 sian noh
+01NC01FBX_0101 5413175 5414916 CS but okay 了 嘞 你
+01NC01FBX_0101 5431682 5434468 CS  所以 他 知道 你 kill 了 那个 server 过
+01NC01FBX_0101 5451174 5452701 ZH 他 去 告状 
+01NC01FBX_0101 5453773 5454255 ZH 啊
+01NC01FBX_0101 5479986 5480709 EN uh-huh
+01NC01FBX_0101 5489196 5490911 EN 
+01NC01FBX_0101 5493179 5495108 CS i press the server 了
+01NC01FBX_0101 5495617 5496126 EN look
+01NC01FBX_0101 5535696 5536714 ZH 哦
+01NC01FBX_0101 5551525 5554767 CS  还 蛮 good analogy 的 啊
+01NC01FBX_0101 5591159 5593945 CS stun 呱 呱 呱
+01NC01FBX_0101 5640293 5644124 ZH 哦 这个 我 这个 话 我 听过 搞笑 啊
+01NC01FBX_0101 5698884 5700224 ZH 神奇
+01NC01FBX_0101 5723490 5724026 ZH 啊
+01NC01FBX_0101 5741756 5743364 CS 你 就 remove 了
+01NC01FBX_0101 5781363 5782086 ZH 诶
+01NC01FBX_0101 5791914 5792450 ZH 啊
+01NC01FBX_0101 5814861 5815638 ZH 什么
+01NC01FBX_0101 5819469 5822845 ZH 哦 你 找到 那架
+01NC01FBX_0101 5834276 5836232 ZH  搞笑
+01NC01FBX_0101 5856073 5856877 EN 
+01NC01FBX_0101 5858511 5860788 CS 就 did the other way round right
+01NC01FBX_0101 5863223 5865205 EN 
+01NC01FBX_0101 5877336 5878327 CS gone 掉
+01NC01FBX_0101 5883895 5884216 EN 
+01NC01FBX_0101 5889491 5890857 ZH  高兴
+01NC01FBX_0101 5891875 5894501 CS  每次 做 那种 funny 的 东西 咯
+01NC01FBX_0101 5897046 5897742 EN 
+01NC01FBX_0101 5902452 5903819 CS again 天
+01NC01FBX_0101 5912601 5914771 CS 你 不要 给 他 听到 这段 conversation
+01NC01FBX_0101 5920849 5922563 CS 对 f.y.p. student 哦
+01NC01FBX_0101 5930918 5932713 EN so what's the plan later
+01NC01FBX_0101 5937428 5941126 CS as in 啊 我 有 东西 做 喔 可以 (啊) try to entertain myself
+01NC01FBX_0101 5943263 5944281 EN 
+01NC01FBX_0101 5945165 5945942 ZH 嗯
+01NC01FBX_0101 5958793 5960133 ZH 就 做 整天 那种
+01NC01FBX_0101 5968675 5972988 CS then 蔡瑞宝 meet 他 的 prof 哦 三点 okay lah 差不多 要 完 了
+01NC01FBX_0101 5975426 5976016 ZH 哦
+01NC01FBX_0101 5977007 5978614 CS 他 有没有 跟你 讲 昨天 那个 interview 怎样
+01NC01FBX_0101 5979530 5982910 CS 他 跟 我 讲 是 some wedge mana weight management 的 interview
+01NC01FBX_0101 5982910 5984531 CS then 我 就 在 那边 
+01NC01FBX_0101 5985790 5987638 CS 就 我 也是 奇怪 then 我 就
+01NC01FBX_0101 5988143 5992242 ZH 他 就 在 那边 开始 骂 了 他 讲 浪费 他 的 时间 哪 还是 什么
+01NC01FBX_0101 5994354 5996015 ZH 有 你 有没有 看 他 的裤子
+01NC01FBX_0101 5997007 5999123 ZH 他 穿 那个 裤 跟 鞋 等下 他 回去 他 换 那个 衣
+01NC01FBX_0101 5999418 6000088 CS as in 就
+01NC01FBX_0101 6001775 6004186 CS 他 就 穿 那种 office pants 跟 那种 office 的
+01NC01FBX_0101 6004990 6005821 EN leather shoe
+01NC01FBX_0101 6011064 6011975 ZH 嗯
+01NC01FBX_0101 6015484 6016797 ZH 唉
+01NC01FBX_0101 6017815 6018940 ZH 好 sian
+01NC01FBX_0101 6028845 6030238 ZH 应该 是 有 进 了 hoh
+01NC01FBX_0101 6031846 6032998 ZH 对 呀 就
+01NC01FBX_0101 6036849 6040640 CS ya loh 那些 area eight 没有 很 but i think n.t.u. guys 没有 进
+01NC01FBX_0101 6043493 6044699 ZH 他们 很 cui 咩
+01NC01FBX_0101 6047458 6050405 CS oh yah yah yah 就 那个 adio-lee
+01NC01FBX_0101 6061512 6063334 CS 你 不是 已经 go and delete 了 咯
+01NC01FBX_0101 6065692 6067058 CS then 你 现在 又 add 回 它
+01NC01FBX_0101 6072228 6072979 ZH 哦 那个 书
+01NC01FBX_0101 6074368 6076913 ZH 你 讲 你 的 先 你 讲 完 先 我 要 听
+01NC01FBX_0101 6083393 6088831 CS 有 明白 了解 就 每次 我 看 then 我 就 诶 他 是 在 reply to 惠萍 的
+01NC01FBX_0101 6095606 6097803 CS but 他 on and off 会 一直 跟 你 讲话 咩
+01NC01FBX_0101 6100268 6101339 EN try to like
+01NC01FBX_0101 6107413 6109021 CS 这样 他 会 知道 你 block 他 诶
+01NC01FBX_0101 6109315 6111994 CS 他 会 start to realize eh how come 惠萍 don't come online
+01NC01FBX_0101 6112878 6115772 ZH 哈 你 这样 会 伤 了 他 的 心 诶
+01NC01FBX_0101 6120210 6123720 CS but i mean if you delete him then 就 okay 了 what 就 他 你 不懂 他 会
+01NC01FBX_0101 6126615 6128169 EN comment on it and like
+01NC01FBX_0101 6128566 6130495 EN okay but he will be very sad
+01NC01FBX_0101 6140054 6141206 EN oh well
+01NC01FBX_0101 6143858 6146270 ZH 有 有 有 他 有 给 我
+01NC01FBX_0101 6148493 6149752 ZH 哦 有 有 有
+01NC01FBX_0101 6161615 6163061 ZH 就 对 那些 小孩子
+01NC01FBX_0101 6170153 6171493 ZH 了解
+01NC01FBX_0101 6178887 6179476 EN 
+01NC01FBX_0101 6185417 6186488 EN understand
+01NC01FBX_0101 6191659 6193186 CS 啊 last 拜三
+01NC01FBX_0101 6195728 6196773 ZH 明天 是*
+01NC01FBX_0101 6197496 6198273 EN 
+01NC01FBX_0101 6205049 6205612 EN 
+01NC01FBX_0101 6206710 6207112 EN 
+01NC01FBX_0101 6208880 6209791 EN 
+01NC01FBX_0101 6212196 6217420 CS   i think 你 不会 你 会 直接 把 那个 照片 丢进 垃圾桶 or something
+01NC01FBX_0101 6219855 6221891 ZH  搞笑 啊
+01NC01FBX_0101 6230377 6231127 ZH 对 哦
+01NC01FBX_0101 6233297 6235253 ZH 就是 你 猜 什么 来的 
+01NC01FBX_0101 6236914 6239583 CS yea yea yea 你 的 那个 chempedak 的 还是
+01NC01FBX_0101 6240232 6247037 CS 就 超 酷 啊 就 我爸 买了 一粒 回来 then 就 切 then 就 哇 从来 没有 看过 是 整粒 每次 都是 吃 一粒 一粒 的
+01NC01FBX_0101 6247278 6247760 ZH 对
+01NC01FBX_0101 6249070 6250785 CS 对 对 对 then 包 好好 了 了
+01NC01FBX_0101 6252607 6253303 EN cool right
+01NC01FBX_0101 6258689 6262547 CS 你 的 chempedak 比较 油 i think chempedak 比较 好吃
+01NC01FBX_0101 6264771 6266807 ZH 你 懂 那个 goreng-pisang 那个 炸的 吗
+01NC01FBX_0101 6267367 6268894 CS 啊 就 那个 是 chempedak
+01NC01FBX_0101 6271434 6275211 CS oh as in goreng-pisang 的 friend 
+01NC01FBX_0101 6276176 6280141 CS 就 goreng 有 炸 goreng-pisang 的 这个 就是 这个
+01NC01FBX_0101 6281500 6286500 CS 对 对 对 对 对 就有 那个 圆 圆 的 then 就 好像 jackfruit but 它 不是 jackfruit 它是 这个
+01NC01FBX_0101 6287367 6295184 CS 这个 就是 like nua nua nua 酱 好像 very soft then 很 sticky 的 texture then jackfruit 是 要 有 一个 shape 很 比较 硬 的
+01NC01FBX_0101 6295431 6298619 CS jackfruit 是 超 大 粒 but 是 长得 一模一样 then chempedak 是
+01NC01FBX_0101 6298860 6299637 ZH 真的 有
+01NC01FBX_0101 6300276 6302179 ZH 我 真的 有 我 
+01NC01FBX_0101 6303084 6304236 ZH 那时候 我 去
+01NC01FBX_0101 6304932 6306004 CS like 酱 大粒
+01NC01FBX_0101 6306915 6308629 ZH 那时候 
+01NC01FBX_0101 6308629 6310049 CS 酱 酱 酱 okay 酱
+01NC01FBX_0101 6310826 6315702 CS 就 那个 giant 你 每次 去 giant 看 他们 就 会 有 这样 大 粒 then 就 放 那种 桌子 then 就 拿 很大 刀
+01NC01FBX_0101 6315702 6321429 CS then 过后 就 会 开始 切 then 把 它 放在 那种 styrofoam box then 拿 那个 那个 保鲜纸 把 它 包住
+01NC01FBX_0101 6322634 6329171 CS then chempedak 就是 小小粒 酱 就是 different size but taste a bit different but they are like relative 酱 可以 可以
+01NC01FBX_0101 6330216 6331127 EN fish and co.
+01NC01FBX_0101 6335862 6339122 CS 这个 很 cute hor 是 我 friend 在 日本 买 的 then 他 住 我 旁边 我 就 超 high
+01NC01FBX_0101 6339561 6342481 CS 铜锣烧 yes then 他 还 咬 了 一口 then 上面 有 一个 小叮当
+01NC01FBX_0101 6343017 6344276 ZH 他 讲 他 在 日本 买的
+01NC01FBX_0101 6346414 6349147 CS 对 对 对 对 对 如果 他 没有 咬 一口 这 是 我 best friend
+01NC01FBX_0101 6350538 6352092 EN (erm) grant hyatt h.r.
+01NC01FBX_0101 6353860 6354905 CS 因为 他 读 h.r. 的 嘛
+01NC01FBX_0101 6355065 6356485 CS 他 读 h.r. 的
+01NC01FBX_0101 6358093 6358950 EN n.t.u oh
+01NC01FBX_0101 6360504 6364978 CS bus- nanyang business school mah business then 有 五个 specialization 他 是 specialize in h.r.
+01NC01FBX_0101 6369020 6377293 CS no 就 specialize 他们 真的 有 学 那种 like compensation and benefit how do you like 就 很 是一个 蛮 specialize 的 field 来 的 嘞
+01NC01FBX_0101 6379520 6383810 CS 就 谁 都 可以 做 right but 就 他 整个 department 都是 graduates and p. h. d.
+01NC01FBX_0101 6385913 6387440 CS ya 就
+01NC01FBX_0101 6388190 6389288 EN two k.
+01NC01FBX_0101 6391292 6394668 CS but 就 因为 starting pay 都是 酱 i think
+01NC01FBX_0101 6394668 6401152 CS 就 我 其他 的 friends 就 刚刚 graduate then 就 找 那种 工 都 千 八 还是 两千 最多 两千四 那种
+01NC01FBX_0101 6401152 6408973 CS 那个 最高 最高 就是 在 barclays 做 h.r. then 他 拿 四千 因为 他 是 barclays 这样 that's all then 就 有人 去 recruit express 那种 two point two
+01NC01FBX_0101 6412315 6416360 CS (erm) i think is 就 i think 真的 经济 不好 then 他们 找 了 很多 很多 then
+01NC01FBX_0101 6416597 6420696 CS but 我 的 那个 friend 很 heng oh 他 就 那种 不做 就 totally 没有 在 找工 那种
+01NC01FBX_0101 6420857 6426295 CS then 就 去 了 like twelve days australia 回来 再 plan for 他 的 taiwan trip then 这 是 那个 friend who
+01NC01FBX_0101 6426671 6428251 ZH 去 泡咖啡 那个 
+01NC01FBX_0101 6429879 6430281 ZH 啊
+01NC01FBX_0101 6433174 6433924 EN serious
+01NC01FBX_0101 6446806 6450395 CS i guess 这种 哇 you really have to
+01NC01FBX_0101 6458668 6460383 CS yah 那个 friend 也是
+01NC01FBX_0101 6463539 6467638 CS 就 诶 yah very <unk> family eh 就 有 keep 叫 他 做 这种
+01NC01FBX_0101 6470396 6471709 EN engineering job
+01NC01FBX_0101 6480972 6484250 CS 我 那个 friend 也是 哦 喜欢 喝 starbucks 咖啡 我 friend 的 friend
+01NC01FBX_0101 6486486 6497015 CS 对 他 就是 不要 他 的 job then 过后 我 的 friend 就 不要 去 then 我 friend 就 去 了 一个 interview 他 什么 application 都 没有 写 他 就 得到 一个 job while other people like send like 几百 个 可能 shortlist 了 几个 才 找到 那 一个 then 他 就是 那个
+01NC01FBX_0101 6497680 6510120 CS then 你 懂 他在 那边 做工 很 cool eh 他们 包 你 全部 的 meals then during lunch 它 就会 有 那种 like 菜饭 malay stall then 有 todays special then 有 free flow of drinks ice cream 那种 煲 汤 sandwich food 什么 都有
+01NC01FBX_0101 6510120 6513592 CS then 就 我们 在 那边 吃 超 high oh 就 差不多 是 hotel stuff
+01NC01FBX_0101 6516163 6518253 CS u.s. 啊 他们 也是
+01NC01FBX_0101 6525505 6529015 ZH 哇 诶  啊
+01NC01FBX_0101 6530247 6532229 ZH 超 酷 啊 天天 要 这种
+01NC01FBX_0101 6532819 6534373 CS 对 哦 我 friend 也是 哦
+01NC01FBX_0101 6535658 6536784 CS then 他 的
+01NC01FBX_0101 6537319 6539168 CS 呃 我 做 给 他 it's a book 来的
+01NC01FBX_0101 6540234 6543181 ZH 就 是 去年 的 事情 今年 你 就 我 就 不会 做 这种 酱
+01NC01FBX_0101 6543261 6544735 ZH 这样 这样 <unk> <unk> 的 事 啊
+01NC01FBX_0101 6548320 6554482 CS then 他 的 supervisor 就 跟 他 讲 你 要 小心 哦 在 这里 做 一年 gain 了 五公斤 你 要 you know  then 我 friend 就 huh
+01NC01FBX_0101 6557781 6564251 CS some more 你 可以 在 那边 吃 breakfast 也是 then 有 那种 western kind then 还是 nasi-lemak 那种 then 你 可以 在 那边 留 for dinner
+01NC01FBX_0101 6576305 6579467 CS 没有 but 他 就 讲 他们 都 很 friendly 很 friendly
+01NC01FBX_0101 6580404 6582601 CS 对 对 对 then 为什么 会 黑暗
+01NC01FBX_0101 6584979 6586292 ZH 哦 不懂 唉
+01NC01FBX_0101 6588167 6591409 CS but then 就 i think 因为 我 friend ya lah
+01NC01FBX_0101 6593844 6597809 CS but i think 因为 我 的 friend 他 是 h.r. then 感觉上 h.r. 的 人 会 比较
+01NC01FBX_0101 6598077 6605203 CS 因为 怎么 讲 人家 都要 看 你 你 懂 吗 like 你 什么 事情 都 <unk> so i think maybe that's why 他 觉得 like 大家 都 对 他 很 friendly 那种
+01NC01FBX_0101 6609963 6612588 CS 安琪 跟 维嘉 有没有 申请 屋子 啊 他们 有 right
+01NC01FBX_0101 6613660 6614731 ZH 好像 有 诶
+01NC01FBX_0101 6616312 6618830 CS i think 就 申请 也 不一定 要 我 不懂
+01NC01FBX_0101 6620940 6626861 CS huh 两个 月 每个 月 huh 每 一个 月 都要 存 like 不懂 五千块 还是 一千块 into this combined income
+01NC01FBX_0101 6628843 6631228 ZH 诶 五百块 还是 一千块 pai-sei
+01NC01FBX_0101 6631522 6632835 CS 五百块 还是 yah
+01NC01FBX_0101 6633398 6635487 CS so i think 存 存 存 就 应该 有钱 了 吧
+01NC01FBX_0101 6637010 6639528 CS 阿普* 对 他 也 有 做工 也是 就 half half
+01NC01FBX_0101 6640761 6641109 ZH 嗯
+01NC01FBX_0101 6642984 6643975 EN ya loh
+01NC01FBX_0101 6647990 6649624 ZH 不一样 嘛
+01NC01FBX_0101 6660733 6662046 EN yah yah yah
+01NC01FBX_0101 6671578 6674043 CS 就 because of ja~ job experience ah
+01NC01FBX_0101 6685853 6686684 ZH 哇
+01NC01FBX_0101 6689626 6690296 EN 
+01NC01FBX_0101 6699110 6700852 EN eh yah different noh
+01NC01FBX_0101 6701602 6703316 ZH 读 了 都 读 了 都 要 读 完 了
+01NC01FBX_0101 6706310 6710080 CS 哪里 可能 读 不 完 都 progressing well leh
+01NC01FBX_0101 6712176 6713221 CS yes 陈爸
+01NC01FBX_0101 6714668 6716061 ZH 哈 你 没 看出 是 陈爸 咩
+01NC01FBX_0101 6718040 6719245 ZH 就 他 啊 陈爸 啊
+01NC01FBX_0101 6722540 6723157 CS 就-
+01NC01FBX_0101 6723799 6726157 ZH 我 讲 陈爸 哦 我 讲 诶 叫 我 拍 一下 他 就 酱 哦
+01NC01FBX_0101 6728160 6731490 CS 就 我 就 拿 着 camera 就 讲 诶 你 你 摆 一个 姿势 让 我 拍 一下
+01NC01FBX_0101 6731995 6733093 EN 
+01NC01FBX_0101 6739221 6744365 CS i think 这个 是 他 trying to like no 那种 我 就 拍 了 then 这个 是 那个 正常 的
+01NC01FBX_0101 6744606 6745704 EN something like that i don't know
+01NC01FBX_0101 6747660 6748384 EN yah ah
+01NC01FBX_0101 6749959 6751165 EN 
+01NC01FBX_0101 6757889 6759095 CS 哦 我 那 是 在 s.m.u.
+01NC01FBX_0101 6761448 6764856 CS 哦 不是 不是 在 s.m.u. 他们 有 那种 individual reading room
+01NC01FBX_0101 6765413 6767770 CS yea 那时候 就 你 直接 可以 book 这些
+01NC01FBX_0101 6771917 6775561 CS yes yes last one i think before exam 刚 买 电话
+01NC01FBX_0101 6779788 6780458 EN 
+01NC01FBX_0101 6782923 6783861 ZH 有 咩
+01NC01FBX_0101 6785093 6787879 CS 哦 对 对 不是 kindergarten 是 primary school
+01NC01FBX_0101 6788120 6790183 ZH 耶 差不多
+01NC01FBX_0101 6791439 6792725 EN 
+01NC01FBX_0101 6797973 6804646 CS (erm) swensen's 的 salmon salmon something sandwich 还是 不懂 什么 就 yeh
+01NC01FBX_0101 6813879 6814951 ZH 讲 多 七分钟
+01NC01FBX_0101 6815326 6816397 EN 
+01NC01FBX_0101 6816639 6817282 EN 
+01NC01FBX_0101 6819586 6822372 CS 呃 婷娅 那时候 h.o.d.b.c. 我们 拍 的 你 记得 吗
+01NC01FBX_0101 6827244 6834750 ZH 这个 是 我 超爱 超爱 超爱 的 结果 找 了 全 新加坡 我 都 找不到 <unk> 也 找不到 就 <unk>
+01NC01FBX_0101 6834750 6843840 CS 我 找到 but 它 就 只 剩 last pair 这个 size at 那个 bishan 的 adidas then 就 after that 我 就有 问 它 can you check for me like other outlets if you have other available size
+01NC01FBX_0101 6843840 6848027 CS then 他 就 讲 sorry this is the last pair and everybody like it has been asking the same question
+01NC01FBX_0101 6848290 6853916 CS 就 喔 it's like nice right then 就 为 为什么 不要 再 出 一点 similar
+01NC01FBX_0101 6854692 6855255 ZH 对 哦
+01NC01FBX_0101 6856273 6859490 CS 就 i think design and the other things 都 差不多 只是 它 颜色 不一样
+01NC01FBX_0101 6861892 6862615 ZH 对对
+01NC01FBX_0101 6863365 6867062 ZH 就 去年尾 还是 去年 就 一年多 两年 的 事
+01NC01FBX_0101 6868803 6869768 CS ya loh 就
+01NC01FBX_0101 6877825 6880686 CS 啊 就 黑 跟 pink yeh 还是 hot pink somemore
+01NC01FBX_0101 6882514 6884443 EN wrong direction
+01NC01FBX_0101 6886714 6890705 CS 哦 这个 是 那时候 我爸 的 friend 他 house warming then 就 我爸 他们 钓鱼 的 嘛
+01NC01FBX_0101 6891000 6894456 CS then 他们 就 很多 friend 有 kelong 他们就自己抓 then make
+01NC01FBX_0101 6895099 6896224 CS yah 就
+01NC01FBX_0101 6898394 6900216 CS 他们 就 own kelong 哦
+01NC01FBX_0101 6900993 6901502 EN yah
+01NC01FBX_0101 6903070 6911560 CS 有 有 有 他 以前 有 带 过 我 跟 我的 cadet mates 去 but 就 以前 我 secondary school 的 时候 我 现在 就 哎呀 都 没有 很少 跟 他 出去
+01NC01FBX_0101 6912959 6916602 CS 这个 是 no no changi-beach 很 里面 很 里面 then 要
+01NC01FBX_0101 6917727 6919576 CS 那个 n.s.r.c.c.
+01NC01FBX_0101 6921044 6926108 CS yah 那个 national service cent 那个 什么 resort 啊 对 对 对 那边 就 在 里面 里面
+01NC01FBX_0101 6926265 6926774 ZH 对
+01NC01FBX_0101 6934463 6935910 ZH 就 食物 多
+01NC01FBX_0101 6936388 6936951 ZH 美 hor
+01NC01FBX_0101 6937299 6937942 ZH 可是 就 很
+01NC01FBX_0101 6938910 6942080 CS 为什么 我 的 adidas jacket 会 不见 掉 那个 我 穿 了 很多 年 那个
+01NC01FBX_0101 6942577 6945604 CS 对 我 还 没有 跟 你 讲 我 ah-mah 的 故事 我 刚才 讲 她
+01NC01FBX_0101 6945895 6950606 CS 对 你 懂 我 那个 陈 那个 陈 ah-mah 她 很 喜欢 偷东西 like 偷 东 不懂
+01NC01FBX_0101 6950825 6956344 CS 就 啧 家里 的 东西 整天 不见 我妈 会 铅笔盒 不见 then 我 的 jacket 不见 then 就会
+01NC01FBX_0101 6956344 6957844 ZH 东西 不见 因为 根本
+01NC01FBX_0101 6959099 6963627 CS the thing is 我们 觉得 她 拿 but 就 我们 没有 去 翻 她 的 东西 or anything
+01NC01FBX_0101 6965181 6966386 ZH 是 我爸 的 妈
+01NC01FBX_0101 6967400 6969222 CS 不熟 他们 都 totally 不 讲话
+01NC01FBX_0101 6969945 6970749 EN yes
+01NC01FBX_0101 6971579 6973026 CS 对 就 i think like
+01NC01FBX_0101 6973722 6975169 ZH 你 懂 他 会 怎样 去 分钱
+01NC01FBX_0101 6976241 6976642 ZH 啊
+01NC01FBX_0101 6977600 6984410 CS 就 like 我 爸 他们 会 给 我 ah-mah like monthly allowance then 我 ah-mah 不是 去 她 现在 去 那个 day care centre 去了 like 一年 多 了 .
+01NC01FBX_0101 6984836 6987461 ZH 就 因为 她 在 家里 自己 吃 她 就 很 多 她 就 很 大只
+01NC01FBX_0101 6987461 6990135 CS then 就 每次 有 like 糖尿病 这种 then 就 不可以 喝
+01NC01FBX_0101 6990456 7006557 CS like 啧 就 不可以 吃 那种 unhealthy food 所以 她 每次 在 她 就会 吃 到 很恐怖 很恐怖 你 懂 那时候 我 买 一个 awfully chocolate 整个 蛋糕 回家 我 只 吃 了 一片 我妈 吃 了 一片 陈妹 吃 了 一片 陈爸 没有 吃 啦 then the next day 还是 two days later 整个 蛋糕 就 gone 了 then 就 陈 ah-mah 在 那边 一直 吃 一直 吃 一直 吃 耶
+01NC01FBX_0101 7006557 7013420 CS  她 这样 不可以 control 她 的 diet then 就 send 她 去 那个 day care whereby 他们 早上 会 来 载 她 like 九点多 then 三点多 就 送 她 回来
+01NC01FBX_0101 7013420 7020870 CS then 在外 面 they will make you exercise and eat those healthy food but then apparently 他 就 跟 那些 人 讲 他 很 累 还是 她 不可 以 运动 所以 她 只是 去 那边 吃 and
+01NC01FBX_0101 7020870 7022300 EN like chit-chat those kind
+01NC01FBX_0101 7022300 7024494 CS then 她 每次 就 每次 拿 那个钱 去 那边 分
+01NC01FBX_0101 7026471 7028078 CS yah then 就 like 就
+01NC01FBX_0101 7028212 7030677 CS try to con~ 就 不要 给 她 这么多 钱 咯
+01NC01FBX_0101 7030677 7033731 CS but 她 就 很奇怪 她 就 很 喜欢 like 分钱 那种
+01NC01FBX_0101 7033919 7039862 CS then when 我们家 买 来 我 姑姑 还是 我 的 那些 uncles 来 看 她 他 就 买 东西 给 她 吃 like 买 mango 她 就 会 自己 收起来 then 就
+01NC01FBX_0101 7040103 7043023 CS 带 去 那边 给 人家 吃 then like even in the morning
+01NC01FBX_0101 7047867 7053493 CS no but the thing is she's 就 (啧) 她 很 then 她 唉呀 我 不知道 就 我
+01NC01FBX_0101 7055181 7058006 ZH 就 十块 十块 五 就 五十块 那种
+01NC01FBX_0101 7059517 7063723 CS 对 then 我 就 讲 这样 陈 ah-mah 分 给 我们 啊 为什么 她 不要 分 给 我们 要 分 给 他们 就 
+01NC01FBX_0101 7063991 7069563 CS 就 like imagine like 那 uncle 他们 uncle untie 做 辛辛苦苦 赚了钱 就 给 ah-mah then ah-mah 拿去 给 like 乱
+01NC01FBX_0101 7070227 7072746 CS then 就 每次 给 我 姑姑 他们 讲 喔
+01NC01FBX_0101 7073013 7078639 CS ah then regarding 那个 就 有一天 我 就 发现 我 雨伞 不见 then 就 那个 pink 雨伞 那个
+01NC01FBX_0101 7079175 7086269 CS pink heart one yes yes then 就 不见 then in the end 发现 陈 ah-mah 藏在 那个 沙发 你懂 那个 handle 的 下面 对 她 怎样 藏
+01NC01FBX_0101 7086939 7090904 CS 没有 她 就 自己 嘿嘿嘿 你 懂 吗 你 跟 她 讲 最后 你 like
+01NC01FBX_0101 7091325 7099041 CS 你 问 她 讲 有没有 看到 没有 没有 then 找到 她 讲 then i mean other than her 谁 会 藏 then 她 就 嘻嘻嘻 你 懂 吗 then 她 就 那种 这样 笑 就
+01NC01FBX_0101 7099229 7100300 ZH 我们 每次 就
+01NC01FBX_0101 7100970 7106971 CS 对 then 我们 每次 就 讲 什么 东西 不见 一定 是 ah-mah 拿 的  then 每次 问 ah-mah ah-mah 都 不知道
+01NC01FBX_0101 7107507 7107935 EN 
+01NC01FBX_0101 7109350 7112840 CS 就 搞 笑 啊 她 哎呀 不知道 but i think 她 就 人 老 了 也就
+01NC01FBX_0101 7115776 7117250 EN wah two more minutes
+01NC01FBX_0101 7120839 7122313 ZH 我 不知道 就 不见 了 咯
+01NC01FBX_0101 7122715 7123813 ZH 就 真的 不见 了
+01NC01FBX_0101 7125160 7129420 CS 啊 应该 不是 他 拿 可能 就 东西 飞 走 还是 什么 but 就 我也 真的 不知道

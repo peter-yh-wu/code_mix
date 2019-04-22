@@ -1,0 +1,484 @@
+NI47MBP_0101 0 7715 CS test okay umm 然后
+NI47MBP_0101 7715 15210 CS 你 需要 知道 一个 特别 的 东西 就是 他的 air pressure 因为 air pressure 每次 换 的 时候
+NI47MBP_0101 15480 20232 ZH 你 上 飞 你 上 飞机 的 时候 你 要 调 它 的
+NI47MBP_0101 22566 28512 CS altimeter 就是 它的 气压 会 多少 会 换 会
+NI47MBP_0101 28512 37524 ZH 每天 不同 的 气压 它 的 高度 会 影响 一点点 所以 那个 气压 需要 调整 还有啊
+NI47MBP_0101 40667 42615 CS wind 它的 wind strength
+NI47MBP_0101 44910 47580 CS take-off landing 都是 要 逆风 飞
+NI47MBP_0101 52677 66211 CS 对 对 对 啊 对 对 那种 东西 它 有 两个 不同 的 跑道 in 不同的 directions 所以 逆风 的 时候 是 看 那个 风的 方向 还有 它的strength
+NI47MBP_0101 66211 71452 ZH 你 就 选 他们 那天 就 会 选择 哪个 跑道 来飞咯
+NI47MBP_0101 86232 88504 ZH 很像 不是 是 同一个 跑道
+NI47MBP_0101 88504 98135 CS 只是 只是 你从一个是从 a 到 b 另外 一边 是 从 要是 风的方向 不对 的话 就从 b 到 a 飞 take-off
+NI47MBP_0101 99392 100604 ZH 侧风
+NI47MBP_0101 105500 116710 CS 忘了 我 看 要是 是 侧风 的 话 不 可以 超过 多少 多少 degree 多少 strength 不然 很难 很难 take-off
+NI47MBP_0101 121038 128448 CS 所以 starting 开始 飞 的 我们 飞 蛮低 的嘛 大概 大概 六千 feet
+NI47MBP_0101 145423 146317 ZH 啊 对 对
+NI47MBP_0101 146317 149203 EN umm
+NI47MBP_0101 149203 154167 CS 你 land 的 时候 要是
+NI47MBP_0101 154773 159640 ZH 通常 风 的 方向 uh 你 回 的 时候 你
+NI47MBP_0101 159640 165624 CS 我们 会 做 一个 sequence 就是 你 你 飞 然后 你 做一些 manual control manoeuvring
+NI47MBP_0101 165624 179590 CS 然后 回 的 时候 你 要 再 听 你 会 在 从 radar 那边 radiostation 那边 听到 新的 新的 风 的 方向 你 才 那时候 选择 做 一个呃 适当 的 landing
+NI47MBP_0101 179590 185100 CS 可是 要是 那种 呃那种 gust of wind 一下子的风呃
+NI47MBP_0101 186730 198590 CS ah 那个 instructor 会 会 land 的 时候 要是 有 那个 风 不对 他会 他会 abort 那个 landing 他会 just take-off 再 转一圈 回来 to to to land safely lor
+NI47MBP_0101 200719 204612 CS 呃 我 很像 没有 no
+NI47MBP_0101 204612 207259 EN umm
+NI47MBP_0101 207259 213589 CS 我 还 记得 有一次 不是 说 教我 test 的的 过程嘛
+NI47MBP_0101 214270 218352 CS take-off 的 时候 你 要 你 要
+NI47MBP_0101 218352 227160 CS take-off ninety percent 都是 我们 做的 instructor 只是 会 check 看 你 有没有 做 做 对
+NI47MBP_0101 227160 233959 CS 所以 take-off 的 时候 你 要 从 那个 hangar uh control 飞机 到 那个 airway
+NI47MBP_0101 234271 242100 CS 是 他 会有 一条线 你 要 跟着 一条线 control 那个 飞机 到 那个 跑道
+NI47MBP_0101 242857 248725 CS 然后 到了 一半 的 时候 你 要 停下来 呃 做一些 check
+NI47MBP_0101 249120 255895 CS 呃 一些 air traffic control 的的呃 叫什么 radiotalk
+NI47MBP_0101 256200 257790 CS 就是 有个 call sign
+NI47MBP_0101 258025 263037 CS 呃那些 call sign 叫 呃 harer* eight-niner
+NI47MBP_0101 264491 269771 CS 就是 eight nine 可是 我 每次 发音 不准 like pronounce 不对~ 不好
+NI47MBP_0101 270369 273433 CS uh 我的 instructor 就 会 就 会 笑 我
+NI47MBP_0101 273433 276550 ZH 然后 有时 发音
+NI47MBP_0101 276550 284118 CS 我的 pronunciation 不好到ah 那个 air control 那边他会又问我一直问回我我的 call sign 到底是什么
+NI47MBP_0101 285070 287170 CS 所以 有点 embarrassing lor
+NI47MBP_0101 287961 294712 CS 然后 呃 我 take-off 的 时候 那个 control 飞机的 control 不是 很好
+NI47MBP_0101 294712 300253 ZH 我 我 不可以 把 飞机 转 转左 因为 我 踩 很大力 很大力
+NI47MBP_0101 300253 306182 CS 结果 没有 办法 我 需要 change 到 另一架 飞机
+NI47MBP_0101 306182 308494 CS then 就 slow down 了 整个 test
+NI47MBP_0101 309377 316831 CS 可是 后来 他们 test 的时候 就讲哦那飞机 no problem with the 飞机 我 就 觉得 不可能 啊 我 用的时候 很怪
+NI47MBP_0101 317791 325259 CS 所以 考试的时候 忽然 间 换飞机 就 有点 有点 nervous 了 啊
+NI47MBP_0101 326686 329447 CS 那些 procedure 就 有点 开始 乱乱掉
+NI47MBP_0101 329963 332742 ZH 所以 开始 飞上去 飞上去 的 时候
+NI47MBP_0101 332742 335339 EN uh it's okay uhm
+NI47MBP_0101 335728 337780 EN take-off take-off
+NI47MBP_0101 338818 341475 CS 都 蛮 还 好 procedure
+NI47MBP_0101 345285 350975 CS uh 大概 是 三十 到 四十分钟 thirty-four minutes
+NI47MBP_0101 350975 356663 EN umm but umm
+NI47MBP_0101 356663 362324 CS 我 飞 大概 normally training 的 时候 大概 飞 三十四 十分钟 then on the way back 大概
+NI47MBP_0101 362324 370919 CS 二十 分钟 这样 可是 test 的时候 if 他 any point of time 他 觉得 你 已经 不及格 他 就 会 他 就 会 stop 你
+NI47MBP_0101 370919 371968 ZH 因为
+NI47MBP_0101 372825 379992 CS 呃 那个 应该 会是 你的 last fly 所以 他会 他会 做一些 aerobatics 给你 给你玩
+NI47MBP_0101 379992 383896 CS 然后 他会 like take you on a joyride
+NI47MBP_0101 385662 387246 CS 就是 joyride
+NI47MBP_0101 387740 388882 ZH 带你去看
+NI47MBP_0101 389272 393155 ZH 飞 比较 远 飞 比较高 让 你 看 比较 远 的 地方 才 再 回来
+NI47MBP_0101 393787 395553 ZH 呃 那时有
+NI47MBP_0101 396176 403213 CS 做 最 错 的 的 mistake 是 我 忘记 关 一个 switch
+NI47MBP_0101 403213 406343 CS 飞到了 three-thousand feet 的 时候 我 需要 关 一个 switch
+NI47MBP_0101 406343 410407 CS 结果 我 关 错 switch 我 关 了 那个 electrical switch
+NI47MBP_0101 412729 417351 CS 啊 因为 飞机 飞 by uh 只有 instruments 用 power 而已
+NI47MBP_0101 417585 422936 CS uh normal 的 flying if 你 关掉 电话 engine 还是会走
+NI47MBP_0101 423166 425806 CS 所以 你 只是 instruments 就没有在 work la
+NI47MBP_0101 425806 430935 CS 可是 因为 飞 的 时候 ninety percent of your time 你 是 要 看 外面
+NI47MBP_0101 430935 434082 CS 你 看 完 外面 你 就 要 看 回 instruments 看 外面 看 instruments
+NI47MBP_0101 434082 439199 CS 所以 那时候 在 飞 的 时候 我 一直 太 focused on 我的 outside
+NI47MBP_0101 439323 441323 ZH 结果 我 就 我 就
+NI47MBP_0101 442050 446933 CS 平时 啊 平时 关 我 五年 那个 switch 我 都 没有 看 我 靠 感觉 我 就 关 那个 switch
+NI47MBP_0101 446933 453771 CS 就 大概 等 了 五秒 之后 我 的 instructor 就就就 tell me lor
+NI47MBP_0101 453978 461541 EN uh derrick are you sure you uh off the <unk> yes uh yes sir i offed the <unk>
+NI47MBP_0101 462150 464920 CS then 我 讲 的 时候 我 看 过去
+NI47MBP_0101 464920 468480 CS 原来 我 的 那个 那个 switch 关错 我 关掉 那个 electrical switch
+NI47MBP_0101 468480 476864 CS 如果 if 他 没有 跟 我 讲 他 也 没有 注意 的 话 可能 飞 多 一下子 飞机 可能 就 开始 会 有 事情
+NI47MBP_0101 476864 479245 CS 不会 crash but uh
+NI47MBP_0101 481539 487381 CS 因为 propeller 是 by diesel 的 by fuel 的 所以
+NI47MBP_0101 487381 491140 CS 关掉 电 只是 它的 system inside
+NI47MBP_0101 491140 494790 CS 你 的 left right control 都 还 可以 正常 地 振作
+NI47MBP_0101 495520 498070 CS 旧的 飞机 是 比较 mechanical
+NI47MBP_0101 498070 503340 CS 可是 新 的 新 的 飞机 要是 你 关掉 电 的 话 你 根本 不可以 control 那个 飞机 只是
+NI47MBP_0101 503340 506608 CS 飞机 就 算 没有 电 的 话 它 还 可以 glide
+NI47MBP_0101 507335 509830 CS 它不可能 你 关掉 电 就 没有 pow
+NI47MBP_0101 509830 512435 CS 就算 没有 power 他 还可以 安全 地 glide
+NI47MBP_0101 512435 516824 CS even 有 这个 procedure to land without power 的
+NI47MBP_0101 516824 520103 CS 所以 是 还 算 蛮 安全 要 是 关掉 那个 electrical switch
+NI47MBP_0101 520391 523824 CS 所以 关掉 那个 switch 开回 我 就 觉得 哇 我 就
+NI47MBP_0101 524936 526234 CS uh disappointed 了 我就
+NI47MBP_0101 527117 529454 ZH 开始 做 东西 有 一点 乱
+NI47MBP_0101 530104 532129 ZH 然后呃
+NI47MBP_0101 533090 536360 CS 因为 他 他 要飞 within 一个 boundary
+NI47MBP_0101 537089 542883 CS and 它的 boundary 到处 都是 山 所以 你 要 认对 那个 山 还有
+NI47MBP_0101 543657 551400 CS 你 要 认 对 你 的 方向 要是 你 飞 错 方向 你 可能 找不回 你 要 的 那个 mountain 了 所以 ah
+NI47MBP_0101 553031 554408 ZH 有 一定 的 挑战
+NI47MBP_0101 554408 560136 EN umm
+NI47MBP_0101 560136 568554 CS 没 没 有 得 view 的 就是 你 前几次 你 飞过 就是 靠你的 photographic memory to 记住 那些 地方
+NI47MBP_0101 568554 570811 EN umm
+NI47MBP_0101 570811 573512 CS 做 了 只能 revise 那些 procedures lor
+NI47MBP_0101 574395 578631 CS 然后 boundary 还 认得 出 只是 uhm
+NI47MBP_0101 579980 582150 CS 有些 manoeuvre 做不到
+NI47MBP_0101 583165 588567 CS 有一个 first phase 有一个 manoeuvre 就是 你 你 要 飞到六千 feet
+NI47MBP_0101 588982 592585 CS 然后 在 上面 的 时候 关掉 你 的 engine
+NI47MBP_0101 593004 596847 CS to to uh simulate 一个 stall
+NI47MBP_0101 597211 603250 CS 就是 飞机 故 会 停 lose engine power 会 怎样
+NI47MBP_0101 604352 607366 ZH 那个 我 做得 蛮 糟 我 做 了 大概 两 三 次
+NI47MBP_0101 609417 611520 EN i cannot remember
+NI47MBP_0101 612481 616807 CS 多 糟 啊 我 只 记得 做 了 two three times
+NI47MBP_0101 617477 619113 ZH 然后啊
+NI47MBP_0101 620490 622541 ZH 回来 的 时候
+NI47MBP_0101 622541 626419 EN umm
+NI47MBP_0101 626419 628289 ZH 回来 的 时候
+NI47MBP_0101 629639 631197 ZH 要 飞 过
+NI47MBP_0101 632574 634340 ZH 一个 很小 很低 的 山
+NI47MBP_0101 634443 636700 CS 要飞 fly past 他们
+NI47MBP_0101 636700 644747 CS 可是 我 没有 注意 到 我 就 飞 on the other side 所以 我 actually fly out of 我 的 flight path 了
+NI47MBP_0101 645349 647219 ZH 那个 错误 就
+NI47MBP_0101 647219 651296 EN umm
+NI47MBP_0101 651296 653140 EN caused my failure
+NI47MBP_0101 655590 656950 CS 那个 switch
+NI47MBP_0101 658076 661378 CS 应该 还 okay
+NI47MBP_0101 661868 666568 CS 因为 要是 那 个 那 个 switch 要是 有 关 那 个 switch 会
+NI47MBP_0101 667321 671139 CS 要是 不好 hor 他 会 马上 fail 我
+NI47MBP_0101 671476 676415 CS 就是 所以 at the point of time 是 还 不算 failure 的 所以
+NI47MBP_0101 676800 678537 ZH 是 过了 回去 的 时候
+NI47MBP_0101 679004 686509 CS 过了 那个 山 missed 掉 那 个 山 我 才 不及格 可是 还好啦
+NI47MBP_0101 687314 691002 CS 反而 fail 了 之后 我 蛮 relieved 的
+NI47MBP_0101 691521 693804 ZH 就 跟 我 谈了 一些
+NI47MBP_0101 693804 696296 EN umm
+NI47MBP_0101 696296 698373 ZH 对 真的 真的
+NI47MBP_0101 698763 700269 ZH 就问我呃
+NI47MBP_0101 701282 704528 CS 他 是 singapore but 他们 都是 新加坡 人 来 的
+NI47MBP_0101 704528 709714 CS uh 只是 based in that australia for that period of time
+NI47MBP_0101 709714 715570 CS 他们 的 家人 都 都 在 那边 有 自己 的 house car 都有
+NI47MBP_0101 715570 719910 CS ah 他们 的 salary 也 比 留 在 新加坡 还 来得多
+NI47MBP_0101 720432 722795 CS 所以 fail 了之后
+NI47MBP_0101 724743 730975 ZH 就 跟 我 讲 谈一谈 我 以后 的 什么 前途 啊 跟 以后 要 做 什么啊
+NI47MBP_0101 731546 735154 CS 呃 还 可以 还 还 跟 我 讲 呃 your future like uh
+NI47MBP_0101 735907 741594 CS in a commercial commercial flying in a s. i. a. 这样子
+NI47MBP_0101 743749 745697 EN ya ya uh
+NI47MBP_0101 746762 752022 CS s. i. a. 的话你要 get into 它的 cadet program
+NI47MBP_0101 752022 760030 CS 所以他们一是 get into 那个 program 的 once 你 get into 那个 program 他们会 subsidise 你的 the flying cost ah everything
+NI47MBP_0101 760776 765710 CS 又一个 career 这样 啦 所以 这是 比较 难进
+NI47MBP_0101 765710 768177 CS 普通 的 话 可能 你 要 take 自己的 license
+NI47MBP_0101 768593 773968 CS 我看 都要 两百 三百千吧 commercial pilot license 都是这样贵
+NI47MBP_0101 780110 782450 CS i think commercial pilot license 要一年多吧
+NI47MBP_0101 783693 791146 CS 才可以才可以去 apply for 一个 commercial pilot 的 job la
+NI47MBP_0101 798417 800037 ZH 没有 没有 没有 呃对
+NI47MBP_0101 800037 806581 CS uh the catch is uh when 你是 air force 的 pilot 你根本没有 flying 的 license
+NI47MBP_0101 807412 812101 CS 所以你只可以飞 military aircraft 而已
+NI47MBP_0101 812101 816777 CS 你到了外面你是不你没有你没有 license to 飞
+NI47MBP_0101 818894 826477 CS 你要自己考一张除非你是 airforce 的呃 transport 机师
+NI47MBP_0101 827256 832360 CS 就是 transport 机师要要懂 ah transport 的的 regulation 所以他们
+NI47MBP_0101 832829 837296 CS 需要通过这个 commercial transport 的 regulation
+NI47MBP_0101 837296 843180 CS 所以 transport pilot 才会有才有一个 pilot license
+NI47MBP_0101 843180 845142 ZH 可使他们是少数啦很少
+NI47MBP_0101 848330 854095 CS 对对所以在 air force 很多人都蛮想去呃 transport
+NI47MBP_0101 854485 856173 CS 被派去 transport 因为
+NI47MBP_0101 856432 862111 CS uh 你 after airforce 还有还有蛮 好 可以
+NI47MBP_0101 862535 869443 CS fighter 是 fighter 是比较难进是最难进
+NI47MBP_0101 871936 874750 CS 哦那个是 f. 十五 是新的
+NI47MBP_0101 877607 883891 CS 可是 f.十五 也不是算 the best la 可是算不错啦
+NI47MBP_0101 886150 888574 CS 美国的就是 american based 的
+NI47MBP_0101 898520 906938 CS 马来西马来西亚喜欢用 russian russian planes 那不同因为不知道啦 要跟我们作对
+NI47MBP_0101 908704 909690 ZH 可能吧
+NI47MBP_0101 910521 913793 CS but f. fifteen is wah 不错
+NI47MBP_0101 918442 920393 CS f. fifteen 的
+NI47MBP_0101 922060 924420 CS sixteen sixteen 是双人的
+NI47MBP_0101 924420 926723 CS 对 double 啊有一个
+NI47MBP_0101 927710 936470 CS 后面的那个是呃 weasel fighter 就是它前面的负责飞后面的的负责 uh navigation 还有 uh
+NI47MBP_0101 938115 939102 EN air combat la
+NI47MBP_0101 939439 941725 CS 他就是负责 fire missle 的那种
+NI47MBP_0101 942114 944529 CS 那个也是一个不同的的 training
+NI47MBP_0101 944841 956948 CS 其实我 fail 了之后 hor 有考虑尝试那个有考虑啦没有尝试啦考虑 take up 这个 position but 还是不要啦
+NI47MBP_0101 957539 965971 CS 因为我觉得飞飞 air force military flying 很 stressful 很 stressful uh
+NI47MBP_0101 970022 972036 EN uh kay uh
+NI47MBP_0101 975804 980224 CS 这个就是他的一个 advantage 有好处 uh
+NI47MBP_0101 980764 989104 CS 只有 for uh pilots 他们 serve as pilot 的话呢就可以当成 serve 他们的 n. s.
+NI47MBP_0101 989983 990969 ZH 就是呃
+NI47MBP_0101 992035 995743 CS 只要你有 serve 不管你你只要 serve 足两年你就可以走了
+NI47MBP_0101 996787 997722 ZH 所以
+NI47MBP_0101 999565 1002424 ZH 所以 有 很多人 喜欢 选 这条路
+NI47MBP_0101 1002814 1009640 CS 就是就算他们真的没有考虑 uh military flying to stay in the air force 他们会
+NI47MBP_0101 1009964 1019520 CS 飞 呃 可能 半途 呢 呃故意 drop-out la 就是 就是 故意 perform badly
+NI47MBP_0101 1019520 1025040 CS 对咯 then 他们就可以 drop-out and 他们不需要赔偿你什么就可以走了
+NI47MBP_0101 1025602 1029988 CS 所以是一个 loophole 吧
+NI47MBP_0101 1031185 1043105 CS 呃很多人都蛮喜欢尤其有这种飞行的 experience 很少人有所以很多人很喜欢选 可使被选中的就没有几个
+NI47MBP_0101 1045687 1053218 CS 呃在 basic training 的时候他们有下来跟我们谈叫我们 sign-up
+NI47MBP_0101 1053893 1059280 CS 所以我也想既然既然都在 army 了为什么不试试看
+NI47MBP_0101 1059280 1060541 CS 就 try ba
+NI47MBP_0101 1061035 1065709 CS 就 try ba 因为他的只是要 try 一个 computerized test 而已
+NI47MBP_0101 1065709 1072490 CS 所以只用过了那个个 computerized test uh 你就还有过了一个 interview ba
+NI47MBP_0101 1072490 1080826 ZH umm umm 就是
+NI47MBP_0101 1080826 1088120 CS 那个是到 australia 的时候他们其实有教你飞的时候有顺便测试你会不会晕晕机
+NI47MBP_0101 1088120 1092093 CS 所以你飞 the first three times
+NI47MBP_0101 1093262 1096793 CS 如果你连续三次都晕机的话你就直接 fail 了
+NI47MBP_0101 1097443 1100878 CS 我第一次我的 first time 我我我有吐
+NI47MBP_0101 1101114 1105580 CS 我有 seasick ah seasick airsick 我就有一点怕了
+NI47MBP_0101 1106440 1108010 CS 他会做一些 aerobatics
+NI47MBP_0101 1108010 1112639 CS 他会做那个 loop 转一圈 还有那个 roll
+NI47MBP_0101 1113601 1115653 ZH 所以转了一圈
+NI47MBP_0101 1118639 1124950 CS 没有没有 有 strap 住 的 只是你会感觉那个 g-force
+NI47MBP_0101 1126170 1129525 CS like 坐 roller-coaster 这样的感觉就是冲下来那种感觉
+NI47MBP_0101 1129958 1134119 ZH 很刺激会很辛苦就是很刺激然后
+NI47MBP_0101 1135359 1136840 ZH 然后他转了一圈
+NI47MBP_0101 1138268 1147120 CS 起初他们讲 oh 你的第一趟你的 first ride will be your joy ride 就是 uh 很好玩因为都是那个 instructor 带你到处飞酱
+NI47MBP_0101 1147120 1153042 CS 可使不是真的因为第一次他一开始 take off 我就有点晕机了
+NI47MBP_0101 1153353 1164650 CS 所以从头到尾就是忍着我的我的那个 nause nausea then 我就 try not to puke la
+NI47MBP_0101 1164650 1171507 CS 结果还是他做完了那个 loop 之后我没有办法就直接拿那个 bag 我就吐吐进去了
+NI47MBP_0101 1173087 1177086 CS but 第二次还好啦第二次就比较好因为比较习惯
+NI47MBP_0101 1177086 1179426 CS used to the 那个 control
+NI47MBP_0101 1186113 1196340 CS 因为他的飞机 is much slower 所以 uh 他 take-off 的时候比较慢 take-off angle 也不会太高
+NI47MBP_0101 1196340 1198552 CS 所以是 okay but
+NI47MBP_0101 1199520 1202490 CS uh take-off 的时候蛮好玩
+NI47MBP_0101 1202893 1203724 ZH 因为
+NI47MBP_0101 1207957 1214366 CS 你就感觉到 on the ground 的时候就是你只可以在车里面 left right
+NI47MBP_0101 1214366 1220650 CS 可是在在飞机你有那个上下的感觉 wah it's terrific
+NI47MBP_0101 1224724 1229849 ZH 有机会我会想继续飞吧
+NI47MBP_0101 1231470 1237248 CS after college 可能考虑试试看因为是很难很难被选中
+NI47MBP_0101 1237248 1239426 CS 那个 s. i. a lor ah 对
+NI47MBP_0101 1240101 1246113 CS 也没有 the capabilities to 自己自己考一个 license lor 贵
+NI47MBP_0101 1249190 1250894 ZH 我没有近视
+NI47MBP_0101 1253673 1271975 CS uh 多一个好处是要是你有近视的话 not above uh 五百 once 你 pass 了这个 first phase 的话呢 air force 会赞助你 sponsor you to uh correct 你的眼睛 send you for operation
+NI47MBP_0101 1273739 1285750 CS uh it's another kind of uh lasik 因为 lasik 他是把你的第一层的割开然后 correct 了之后呢他再盖回去
+NI47MBP_0101 1285750 1293371 CS 所以它会有它的 healing 是比较快可能你隔天就可以继续继续看得很清楚了
+NI47MBP_0101 1293371 1301350 CS 可是呃因为飞行的时候会有 high pressure ma like 那些 uh gravitational force g. force
+NI47MBP_0101 1301350 1306535 CS 所以可能 under intense pressure 的话 erm 那个 cut wound 会开出来
+NI47MBP_0101 1306535 1313157 CS 所以他们 not recommend to use recommend lasik 因为他是 heal by the side ray
+NI47MBP_0101 1313157 1323690 CS whereas for air force 他们选择的 procedure 是他会把整片割掉让它自己 heal 所以他会 grow back
+NI47MBP_0101 1323690 1327665 CS 所以是 uh grow back to original 这样的啦
+NI47MBP_0101 1327665 1337493 CS uh 不会有一个一个 cutting 在那边 like lasik 用的方法可是它的 healing time 需要 one month two months 这样
+NI47MBP_0101 1337493 1338301 CS 所以ya
+NI47MBP_0101 1341287 1343469 CS about one two months 你就有 perfect eyesight 了
+NI47MBP_0101 1345588 1348600 ZH 呃我听说看东西会比较蒙
+NI47MBP_0101 1349371 1350288 EN glasses
+NI47MBP_0101 1351275 1357421 CS 是一个一个眼睛一个眼睛做嘛你一个眼睛 heal 你不可能你需要另外一边 to 看所以
+NI47MBP_0101 1358042 1362598 CS uh 还好吧不是一次两个做应该 it's not a problem
+NI47MBP_0101 1363885 1368483 CS 所以在 air force 的好处还蛮多的
+NI47MBP_0101 1374887 1377146 CS 很酷啊 it's cool
+NI47MBP_0101 1383249 1384491 EN commercial pilot
+NI47MBP_0101 1389108 1390926 ZH 要两百千
+NI47MBP_0101 1397963 1401254 CS 哦你是从台湾 china 来的
+NI47MBP_0101 1404810 1406600 CS australia 的天气 very good
+NI47MBP_0101 1414762 1418240 CS uh south-east ba uh sydney 那边
+NI47MBP_0101 1418240 1420110 CS ah new south wales 那边
+NI47MBP_0101 1420529 1422970 CS 是一个很小的 town 这样 lor tamworth
+NI47MBP_0101 1423671 1427678 CS 那边是呃我们是用 australian air force 的 ground
+NI47MBP_0101 1428060 1435870 CS 他们也是在那边 train 所以我们会还他们钱 to share 那个那个 airfield
+NI47MBP_0101 1436995 1439151 ZH 也是用他们的飞机那种东西
+NI47MBP_0101 1440108 1444312 ZH 很小的一个地方它天气很好呆了
+NI47MBP_0101 1445068 1450184 CS thirty plus days uh only 一天下雨而已
+NI47MBP_0101 1451119 1458648 CS 下雨的时候蛮开心所以 because 不用 training 我们又可以呆多一天
+NI47MBP_0101 1460138 1470350 CS 在那里生活还蛮它的 pace 蛮慢的 所以蛮喜欢的 天气又很好 yeah
+NI47MBP_0101 1476302 1480299 CS 有有他们 actually 有 talked about it uh
+NI47MBP_0101 1481522 1488890 CS 因为他们都是他多数都是 retired uh pilot 来的就是他们以前 是在 air force but 他们 retire
+NI47MBP_0101 1489348 1496413 CS 所以他们拿得 pay 会比较 spee 他们 hold the same rank 可是拿的 pay 比较少一点 but
+NI47MBP_0101 1496670 1506825 CS 我听说他们有 overseas allowance 还有 family because 他们的 family 在那边还有 pay for 他们的屋子车子
+NI47MBP_0101 1507571 1511077 ZH 算到来听说有是二十三千吧一个月
+NI47MBP_0101 1512869 1517295 CS i think 是 australian dollar so 还会比较多一点点
+NI47MBP_0101 1519896 1526991 CS one point three 那时候那时候 one point 可是有一段阵子掉比还比新币 low la
+NI47MBP_0101 1528024 1531322 ZH 所以是蛮好的一个享受听说
+NI47MBP_0101 1531946 1541134 CS 然后很 relax 大概每天飞到两点多 then will call it a day la 就
+NI47MBP_0101 1541650 1552727 CS rest of the time 我们就 rent uh c. d. v. d.s 来看 那里有一个 common area 给我们看戏
+NI47MBP_0101 1553491 1556295 ZH 它的房间也很好一个人一间房
+NI47MBP_0101 1556993 1564923 CS 有自己的床自己的厕所自己的 bathtub it's very comfortable
+NI47MBP_0101 1568078 1571458 CS how many people 多少 uh
+NI47MBP_0101 1572540 1575370 CS mm every month 他们会 send one batch
+NI47MBP_0101 1575370 1578339 CS 所以一个 batch 的学生
+NI47MBP_0101 1579270 1585313 CS 我去的时候有 three 三个而已 很少啦 i think 是我听说过的最少的
+NI47MBP_0101 1585915 1593452 CS 然后 normally 大概有七八个吧 多的话都有十十四到十五个
+NI47MBP_0101 1593799 1598162 CS uh pass 的机的机率也不一定
+NI47MBP_0101 1598759 1602421 CS 我三个当中我是唯一一个 fail 的
+NI47MBP_0101 1602836 1606368 CS 可是 next batch 大概有八个人去啊
+NI47MBP_0101 1606368 1610460 CS 也是只有一个人 pass 而已所以
+NI47MBP_0101 1610460 1614860 CS 不一定 ah 他们觉得你 not up to the standard 他们就踢你出去
+NI47MBP_0101 1639315 1648782 CS 我是听说他们都会跟 fail 的 fail 的 trainee 讲留在外面还是比较好啦
+NI47MBP_0101 1651058 1653960 CS 可能 speaking from 他们的 personal experience
+NI47MBP_0101 1653960 1658641 CS 我不懂是来安慰你还是还是还是他们真正的 experience la
+NI47MBP_0101 1658641 1668587 CS but 你 fail 了他就会跟你讲 10 years down the road you will have you will not regret that you are out of here
+NI47MBP_0101 1669392 1671996 CS 差不多这样的 meaning
+NI47MBP_0101 1673002 1674765 ZH 可能是真的吧因为
+NI47MBP_0101 1675025 1681940 CS 起初你要去的时候你要 sign 十年的合约
+NI47MBP_0101 1683049 1685360 CS 所以那 sign 一 sign 就是十年
+NI47MBP_0101 1685360 1692632 ZH 我会觉得十年以内我根本没有设么变化就要跟着这条路走
+NI47MBP_0101 1692632 1702366 CS 所以那时候我开始飞的时候我很担心 我不我会怕被 controlled uh
+NI47MBP_0101 1704264 1712029 CS so 有一点也不希望 to 飞 for military la
+NI47MBP_0101 1713847 1726785 CS 可是当时我很想 pass 这个 test 不只不只不只能不只能继续飞还还还可以证明呃自己的实力自己的 confidence
+NI47MBP_0101 1727704 1735183 ZH 可是结果我还是做不到因为很是蛮难的
+NI47MBP_0101 1736509 1748037 CS 我还记得每次飞的时候我早上 wake up 的时候我都会我都会抖一方面是天气 eh very cold 一方面是很紧张
+NI47MBP_0101 1750011 1758644 CS 一起来就在那边抖没有一定一定会抖得很厉害就是那时要飞的那个 the anxiety
+NI47MBP_0101 1759195 1762467 ZH 哇人真的承担不了啊
+NI47MBP_0101 1772533 1781889 CS uh 没有 religion la 所以我也没有我 just try to 跟另外两个 friend 讲话 calm down
+NI47MBP_0101 1782713 1785757 ZH 可是没有什么很大的帮助
+NI47MBP_0101 1787387 1793424 ZH 所以飞时候就是上去的时候就希望早点下来
+NI47MBP_0101 1793929 1797727 ZH 因为那个压力很大
+NI47MBP_0101 1798187 1802083 CS uh 还有我的 instructor 比较严特别严
+NI47MBP_0101 1802083 1808367 ZH 就是他们会一直批评飞的时候也会批评你飞的时候批评
+NI47MBP_0101 1809795 1810804 ZH 因为
+NI47MBP_0101 1812181 1814596 ZH 你可以飞到一半他就会叫你
+NI47MBP_0101 1814596 1820985 CS 因为是双人双人 uh dual control 的所以 uh 有个 procedure 就是 uh
+NI47MBP_0101 1820985 1824816 CS when 你你 in control 的时候你一定要讲出来
+NI47MBP_0101 1829413 1832268 CS 你要 through the comms* 你要讲 i have control
+NI47MBP_0101 1832936 1834702 CS it's a our 类似这样的
+NI47MBP_0101 1835481 1838508 CS 他 then 他要 acknowledge that you have control
+NI47MBP_0101 1838910 1841760 CS 我才可以 take over 那个 control of 那个飞机
+NI47MBP_0101 1842181 1850043 CS 所以有时呢你可以飞到一半他就 i have control 他就他觉得你根本没有能力去飞他就直接拿回 control
+NI47MBP_0101 1850460 1853518 CS 所以是蛮 demoralising 的一件事
+NI47MBP_0101 1853518 1857128 ZH 然后他一面飞一面骂你一面飞一面骂你
+NI47MBP_0101 1857777 1863777 CS so 有一次他他教你看下去看看周围你一定要认识周围的 environment
+NI47MBP_0101 1864217 1869927 ZH 然后我讲我讲看不到看不到他就直接他就直接推我的头推过去
+NI47MBP_0101 1870506 1878068 CS 撞 against 那个 cockpit 就 看看看到没有看到没有看到那个那个 lake 在下面他要我们看那个 lake 在下面
+NI47MBP_0101 1878068 1881620 CS 因为你要很因为蛮难看的飞在上面 then 看到下面
+NI47MBP_0101 1882191 1885233 CS 就有点很 demoralizing la
+NI47MBP_0101 1887160 1893427 CS 因为 eh we are flying uh 在 directly 他的上面
+NI47MBP_0101 1893427 1899020 CS 所以你可以看到它的它的 border 而已所以 if 你不仔细看你不
+NI47MBP_0101 1899020 1902958 CS 你不 vertically 看下去你你是真的很靠那边那个 pond 的
+NI47MBP_0101 1903477 1907620 CS 所以他就真的这样推你的头按住你的头按住你的 helmet
+NI47MBP_0101 1907620 1909408 ZH 才看下去才看得到
+NI47MBP_0101 1909745 1914917 CS 后来是是有帮助可是你会觉得很 insulting 这样
+NI47MBP_0101 1915666 1920341 ZH 所以你要你要你要挨得起他们的的的的骂他们爱骂你的
+NI47MBP_0101 1922520 1925532 ZH 要拿得起这样
+NI47MBP_0101 1925870 1935398 CS and after every flight 他就会有个 post-flight session 就跟你讲你哪里哪里哪里错哪里哪里错
+NI47MBP_0101 1936595 1939217 CS 那个也蛮 demoralizing 的
+NI47MBP_0101 1939633 1945620 ZH 因为有时他是在他是在骂你他不是在跟你讲他已经在骂你
+NI47MBP_0101 1945620 1948381 ZH 就讲你多多多没有用
+NI47MBP_0101 1948783 1950652 ZH 这样都做不到怎样都都都怎样
+NI47MBP_0101 1950652 1952296 CS like 一点点小事 ya
+NI47MBP_0101 1952296 1955990 CS so this kind of stuff is 很难
+NI47MBP_0101 1956705 1958393 ZH 你要每天因为
+NI47MBP_0101 1958393 1958601 ZH 连续
+NI47MBP_0101 1958601 1961873 CS 你是连续 continuously flying everyday
+NI47MBP_0101 1961873 1965794 CS 所以你今天飞完之后你需要 pick it up
+NI47MBP_0101 1965794 1972920 CS next day 你才可以做更好所以你做不到的话 你的 morale 就越来越低 酱
+NI47MBP_0101 1973771 1976679 ZH 可能是会会是这样吧
+NI47MBP_0101 1977095 1979691 CS 所以 morale 就不是很好
+NI47MBP_0101 1980782 1984843 ZH 其他朋友还做得不错咯
+NI47MBP_0101 1989838 1994787 CS 其实我的经验算蛮 li little 了
+NI47MBP_0101 1994787 1999784 CS 其他的他们会他们会继续回去 australia 再继续飞
+NI47MBP_0101 1999784 2006244 CS another plane also another part of australia to fly a more powerful 飞机这样
+NI47MBP_0101 2008220 2016378 CS 因为我 fail 了这次因为 fail 了这次所以所以没有机会 to 飞那个更好
+NI47MBP_0101 2019049 2023525 CS 就他们在那边多呆了 five months 这样
+NI47MBP_0101 2024165 2024996 ZH 蛮好玩
+NI47MBP_0101 2027539 2035223 CS 最后还是有一个 uh 有一个有一个 fail 有一个结果他的心脏有问题
+NI47MBP_0101 2036680 2039970 CS 其实 after 了这个 phase
+NI47MBP_0101 2039970 2043224 CS 你需要 go through 一个 mm g-lock test
+NI47MBP_0101 2043744 2051480 CS uh 不知道你有没有听说过 g-lock test is a test to uh experience 那个 g. sit in 那个东西
+NI47MBP_0101 2051714 2057738 CS and 他的 heart-rate 听说 like 去到两百多 inside the nine g-lock
+NI47MBP_0101 2058258 2060643 CS 所以他会觉得呃 it's a
+NI47MBP_0101 2061582 2063426 EN it's a quite a common
+NI47MBP_0101 2066334 2068240 CS symptoms ah like 你会看到
+NI47MBP_0101 2068240 2076730 CS 因为这种 symptoms 是 under nine g 的 pressure 你才你才会看得到所以他刚刚好有这样的病
+NI47MBP_0101 2076730 2078940 CS 结果需要 go through 一个 operation
+NI47MBP_0101 2079620 2085956 CS 然后他他们他就听 advice from 其他的呃那些 senior 的 pilot他们讲
+NI47MBP_0101 2086399 2094759 CS 可能你 go through 了这个 operation 之后你以后可能飞的机会都其实你飞的机会是算蛮少因为
+NI47MBP_0101 2095517 2101550 CS 呃没有人会肯 clear 你 to validate 你 to 继续飞
+NI47MBP_0101 2101550 2103300 CS 因为你有酱的 heart condition
+NI47MBP_0101 2103300 2110394 CS although 你 go through 了 这个 operation 可是他们会想要是你飞到一半你有事怎么办
+NI47MBP_0101 2110394 2114003 CS 没有人敢敢担起这个 responsibility 所以
+NI47MBP_0101 2114730 2119166 CS 他们讲你飞的机会是就算你 go 去了这个 operation 你要飞的机会还是蛮少
+NI47MBP_0101 2119616 2124083 CS 他就他就他就 decide to uh cancel dropout 了
+NI47MBP_0101 2124855 2128798 CS oh because of 因为是 medical condition 他也不需要还钱
+NI47MBP_0101 2129493 2136517 CS 然后他他呆了一年多就刚刚好 clear 了他的 n. s. 他就 clear 了他的 n. s.
+NI47MBP_0101 2137309 2139828 ZH 所以蛮算是蛮幸运的
+NI47MBP_0101 2140529 2142737 CS 他现在也在 n. t. u.
+NI47MBP_0101 2144800 2146460 CS 还有最近还有 contact
+NI47MBP_0101 2146992 2152757 CS 另外一个呢就 last month 他刚刚飞回来 last month
+NI47MBP_0101 2153276 2159457 CS last december 他 fail 因为他生病
+NI47MBP_0101 2160028 2164460 CS 然后他有 ear infection ear infection
+NI47MBP_0101 2165082 2169958 CS 然后你有 ear infection 的时候你飞机他的那个 balance
+NI47MBP_0101 2169958 2173869 CS 你的 balance in 那个我也不懂那个 exact term 是什么
+NI47MBP_0101 2174223 2179441 CS 所以你飞的时候这个呃 body 的 balancing 很重要
+NI47MBP_0101 2179706 2185177 CS because of 他的 ear infection 他的 body balancing 有点 off 了
+NI47MBP_0101 2185757 2190880 CS 所以他飞的时候每次会 dizzy then 结果这样他影响到他的 performance
+NI47MBP_0101 2191704 2199390 CS 然后刚好 coincide with 一个 periodically 的 check
+NI47MBP_0101 2199888 2203082 EN air force uh base check
+NI47MBP_0101 2203913 2208860 CS 然后 by right 他还可以飞多几次 to improve 他的 flying 可是
+NI47MBP_0101 2209730 2217647 CS to coincide with 这个 check 他们要继续飞的话他们要另外特地去 book 另外一个地方 for 他 to carry on flying
+NI47MBP_0101 2218304 2223053 CS then 他们是觉得很麻烦
+NI47MBP_0101 2223289 2227133 CS 有时候他们做事情也是他们觉得麻烦 and
+NI47MBP_0101 2230768 2236328 CS 他们就跟他讲呃 if by 这两次你飞不好 hor 我们就把你送回去
+NI47MBP_0101 2236965 2239899 ZH 结果他还在是做不好
+NI47MBP_0101 2240263 2247727 CS 可还是那 instructor 跟他讲你只要飞多一两次你就应该你就应该可以了
+NI47MBP_0101 2248028 2251559 CS 所以就刚刚好有点 unlucky 他就没有继续飞
+NI47MBP_0101 2260076 2263581 ZH uh 他们就放假了
+NI47MBP_0101 2263581 2271613 CS 我听说才光一个月吧 就就回来所以不是很大的 problem
+NI47MBP_0101 2278452 2286547 ZH 对啦 可是听的故事比较多啦自己经验的还算那一点点而已 听的还比较多
+NI47MBP_0101 2299083 2302631 EN celtics celtics boston celtics uh
+NI47MBP_0101 2302953 2304874 CS 喜欢 kevin garnett
+NI47MBP_0101 2307108 2311418 CS i like his playing style 他的打法很好 it's good
+NI47MBP_0101 2328730 2332184 CS n. s. 我在很多不同的地方做咯
+NI47MBP_0101 2332834 2338034 CS uh 我以前是 tank army tank technician
+NI47MBP_0101 2338443 2340724 CS 修 tank 然后我
+NI47MBP_0101 2341815 2343295 CS fail 了之后
+NI47MBP_0101 2344204 2345892 ZH 因为因为
+NI47MBP_0101 2347164 2353133 CS 我被派到另外一边去然后我去了那个 o. c. s. uh
+NI47MBP_0101 2354113 2358512 CS 可是在 o. c. s. 的时候我又患有 dengue fever
+NI47MBP_0101 2361696 2363254 EN officer cadet school
+NI47MBP_0101 2364293 2375408 CS 然后呢大概呆了 one week 我就 uh out of course 了 因为我我被蚊子咬
+NI47MBP_0101 2375408 2379088 ZH 呆了大概有一个多月
+NI47MBP_0101 2380190 2382730 CS 然后我 out of course 了之后
+NI47MBP_0101 2384159 2391508 ZH 我就我就在那边等了一下子
+NI47MBP_0101 2392595 2398783 CS 然后然后呢我就去 try out for uh pilot
+NI47MBP_0101 2400931 2410263 CS 然后给我拿到了我就去了 australia for one for one one month plus ya
+NI47MBP_0101 2410929 2418461 CS to uh uh just 他是 to test 你的 flying skills 先
+NI47MBP_0101 2418743 2424560 CS 他会在很短的时间内教你怎样 control 那个飞机
+NI47MBP_0101 2424949 2425754 ZH 然后
+NI47MBP_0101 2428195 2431513 CS 大概学了 two weeks 他就要你开始飞
+NI47MBP_0101 2431769 2437556 CS 旁边有位 instructor 坐在那边 then 大概飞了八次吧
+NI47MBP_0101 2438573 2444964 CS 第八次的时候他就会 grade 你看你有没有够资格继续飞咯
+NI47MBP_0101 2445870 2454109 CS mm 除了飞了那八次之后你才可以去 second phase 就是要第二次继续飞大概多六次
+NI47MBP_0101 2454645 2459971 CS mm 你要 pass 了那个你才可以 uh uh continue 你的 course ah
+NI47MBP_0101 2460670 2467963 CS 可惜我没有 pass 那个 所以到了那边我就 stop 了 然后就回来新加坡
+NI47MBP_0101 2468717 2470670 CS 继续别的 try out 别的东西
+NI47MBP_0101 2472742 2478195 CS 然后 by right 我是可以回去 o. c. 我是可以回去 o. c. s. 的
+NI47MBP_0101 2478435 2483239 ZH 可是呃时间不够多啊 需要多一年半的时间
+NI47MBP_0101 2483239 2491134 CS 我大概只需要少过一年半我就不用继续了不然要 extend 我的 n. s. service
+NI47MBP_0101 2491134 2493403 ZH 然后我就做
+NI47MBP_0101 2493844 2496389 CS uh train for 做
+NI47MBP_0101 2498181 2503410 CS s. i. s. p. e. c 就是 sergeant course 然后就去了 sergeant course
+NI47MBP_0101 2507556 2518400 CS 不同吧 我是觉得很不同因为通常人家去一个 course 他们就跟着那个 course 然后就去他们的uh unit 他们的部队
+NI47MBP_0101 2519755 2520819 ZH 然后
+NI47MBP_0101 2521417 2527973 ZH 可惜我去了我的部队之后他们在 mm 台湾
+NI47MBP_0101 2530420 2533884 EN okay in in after after i
+NI47MBP_0101 2535978 2544650 CS 去了台湾 and then uh 他们在那边打 fight atech*
+NI47MBP_0101 2544650 2546850 CS uh every year 有的 evaluation
+NI47MBP_0101 2547939 2553902 ZH 所以刚好我去到那边的时候我什么都没有学到我什么都不需要做
+NI47MBP_0101 2554587 2559990 CS 大概 stay there for about four months
+NI47MBP_0101 2560898 2564462 CS 然后我就 pass out o. r. d. 了
+NI47MBP_0101 2565901 2572466 CS 去了很多 course 可是没有真的学到一个 skill 这样
+NI47MBP_0101 2579642 2586770 CS okay 是很刺激很好玩因为去了澳 australia 的一个 suburbs
+NI47MBP_0101 2587121 2595120 CS nosburk* nobody is there and you get to meet uh australian 的其他的 pilot
+NI47MBP_0101 2596318 2598162 ZH 所以在那边呆了
+NI47MBP_0101 2599616 2602706 CS uh 我就说 like 每天我们会做什么
+NI47MBP_0101 2603860 2607774 CS 早上的时候 morning 我们 have to uh report 一个
+NI47MBP_0101 2608942 2616011 CS uh morning brief flight brief to 那边全部的 instructors 还有那些 trainee pilot
+NI47MBP_0101 2616525 2619451 CS 所以一大清早 right 六点多就要起来
+NI47MBP_0101 2619979 2626452 CS uh 如果当天有飞的话不可以吃太饱不然吃太饱会 vomit
+NI47MBP_0101 2628000 2630584 CS uh 它的 breakfast 是很好吃的它的
+NI47MBP_0101 2631130 2632220 ZH 有呃
+NI47MBP_0101 2633467 2639916 CS 有 bacon 有 scrambled egg 很多不同的 fruit juice 都有
+NI47MBP_0101 2641581 2646931 ZH 你要吃多少就吃多少 可是有飞的时候啊就尽量不要吃太多不然会会吐
+NI47MBP_0101 2648898 2651240 EN uh aerobatics
+NI47MBP_0101 2651240 2654030 CS 是 second phase 的时候才会做
+NI47MBP_0101 2654170 2661690 CS 所以 first phase 的时候他会教怎样 control 比如说 take- off take-off 的时候是蛮很多很多 steps
+NI47MBP_0101 2662878 2663709 ZH 你要
+NI47MBP_0101 2664540 2665553 EN uh steps
+NI47MBP_0101 2667994 2671765 CS 飞飞之前你一定要 uh check 它的 weather
+NI47MBP_0101 2671765 2673370 ZH 还有 uh
+NI47MBP_0101 2673759 2678927 CS 你要知道当天你用哪一个飞机 which uh what is the flight uh number
+NI47MBP_0101 2679940 2683880 CS 还有呃他的 different weather conditions like uh
+NI47MBP_0101 2683880 2686651 CS cloud level 还有呃
+NI47MBP_0101 2687800 2690440 CS wind temperature direction 都很重要
+NI47MBP_0101 2690936 2696537 CS uh and 你要最 up to date 因为它的 wind temp wind direction 还有它的 strength 一直在换
+NI47MBP_0101 2697298 2701830 CS uh and 你要知道你飞的 area 的 weather condition
+NI47MBP_0101 2702383 2708148 ZH 还有从你开始飞到飞完的时候会不会变化太多
+NI47MBP_0101 2712878 2714514 ZH uh 你飞的时
+NI47MBP_0101 2715059 2719604 CS 因为我们飞的时候 fly ah 不可以太多云
+NI47MBP_0101 2719837 2723494 CS 太多云的话 you cannot see your flying path
+NI47MBP_0101 2723860 2727280 CS 所以你一定要懂当天的的 cloud condition 是怎样
+NI47MBP_0101 2727720 2730940 CS wind condition 太强的话你就不可以
+NI47MBP_0101 2731140 2736350 CS 你做 circuit training 的时候会很 unstable 所以你就要懂 uh
+NI47MBP_0101 2736350 2740461 CS 你转的时候你要大概知道 wind 的 condition 是多少
+NI47MBP_0101 2745554 2747424 EN find the
+NI47MBP_0101 2750436 2758282 CS the wind knots 要在 我忘记大概那个 the actual amount 是多少
+NI47MBP_0101 2759421 2762055 EN about twenty knots
+NI47MBP_0101 2765891 2769059 ZH 我也是我也是忘了都两两年前的事
+NI47MBP_0101 2769942 2779685 CS uh 可是有什么 condition 你需要懂当天
+NI47MBP_0101 2788403 2792731 CS uh 我是 derrick 今年
+NI47MBP_0101 2800723 2805282 CS 我是 derrick 今年二十一要二十二岁了
+NI47MBP_0101 2806139 2812028 CS 我家里有四个人 one brother
+NI47MBP_0101 2812438 2818292 CS 哥哥是在 n. s. 爸爸妈在做工
+NI47MBP_0101 2821790 2826530 CS 我在 college of uh engineering 暂时还没有 specialise
+NI47MBP_0101 2828471 2829509 ZH uh 第一年
+NI47MBP_0101 2830211 2831483 ZH 对对
+NI47MBP_0101 2834028 2835352 CS year one 对
+NI47MBP_0101 2837869 2839375 ZH 我喜欢
+NI47MBP_0101 2841505 2844506 CS older brother 今年
+NI47MBP_0101 2846127 2852005 CS 他在 poly 对 他去了 poly 然后比我迟了一点
+NI47MBP_0101 2852697 2853969 CS 所以暂时还在 n. s.
+NI47MBP_0101 2858868 2863161 CS 我的 interest basketball 喜欢打球
+NI47MBP_0101 2867489 2868138 EN once
+NI47MBP_0101 2869281 2871203 CS once 一个礼拜 once
+NI47MBP_0101 2875124 2879746 CS 我喜欢我喜欢弹 guitar
+NI47MBP_0101 2882619 2886566 ZH 喜欢听mm 英文歌

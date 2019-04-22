@@ -1,0 +1,150 @@
+UI20MAZ_0102 626 2989 CS java 他 没有 provide 给 我们
+UI20MAZ_0102 7927 13932 CS 它 里面 也是 没有 讲 清楚 是给 我们 什么 software
+UI20MAZ_0102 13932 17198 ZH 没有 是 什么 学 什么 东西 他 没有 讲
+UI20MAZ_0102 21520 23957 CS 用 dreamweaver
+UI20MAZ_0102 25488 26475 EN dreamweaver
+UI20MAZ_0102 29394 35265 CS a. s. p. dot net 我们 就用 那个 microsoft visual studio
+UI20MAZ_0102 38062 40123 CS 啊 那个 adobe 的
+UI20MAZ_0102 48291 52299 CS 如果 是 讲 microsoft 的话
+UI20MAZ_0102 52299 58153 CS 它的 microsoft visual studio 的话 他 比较 advanced lah
+UI20MAZ_0102 58153 65191 CS 很多 东西 你会 可以 那个 function ah 那个 object hor 你 可以 drag and drop ah
+UI20MAZ_0102 65191 66949 ZH 很 方便
+UI20MAZ_0102 66949 70125 CS dreamweaver 不能 要 自己 type
+UI20MAZ_0102 70125 75316 CS 很多 typing 的 东西 或者 是 它 也是 有 但是 比较 少
+UI20MAZ_0102 75316 77620 CS 好像 那个 table 的话
+UI20MAZ_0102 77620 83223 CS 你要 create 一个 table 的话 它是 可以 直接 按 它的 function 出来的
+UI20MAZ_0102 87067 89128 CS en drag and drop 比较 容易
+UI20MAZ_0102 99751 102967 ZH 所~ 所以 有时 我
+UI20MAZ_0102 102967 108659 CS 我 比较 喜欢 做 做 这些 website 的 东西 我 喜欢 看 比较 喜欢 coding
+UI20MAZ_0102 108659 112339 ZH 因为 你 错的 时候 你会 容易 比较 容易 找回
+UI20MAZ_0102 112339 117907 CS 要不然 有时 错的 时候 有时 scroll 到 几次 都 找不到 
+UI20MAZ_0102 124682 125954 EN a. s. p. dot net ah
+UI20MAZ_0102 127422 128528 ZH 就是
+UI20MAZ_0102 128528 132917 CS final year project 的 时候 我是 用~ 用 这个咯
+UI20MAZ_0102 132917 146318 CS 啊 蛮好 我是 说 做 那个 啊 那个 叫 什么啊 嗯 就是 pendaftaran kursus ah 那些 register 的 东西
+UI20MAZ_0102 146628 151003 CS register course 的 东西 咯
+UI20MAZ_0102 155860 160940 CS a. s. p. a. s. p. 他 比较 麻烦
+UI20MAZ_0102 160940 164032 CS 因为 它 很多 很多 不能 support
+UI20MAZ_0102 164390 166192 ZH 比较 麻烦 如果 要 的话
+UI20MAZ_0102 166761 171287 CS 好像 比较 third party 的 东西 比较~ 比较 麻烦
+UI20MAZ_0102 171287 177133 CS 而且 没有 这样的 experience 然后 有时 要 加上去 又 不知道 怎样 加
+UI20MAZ_0102 180908 185797 CS 好像 说 好像 要 加 一些 google map ah
+UI20MAZ_0102 185797 189572 CS google map 的 时候 有时 又 不懂 怎样 加 上去
+UI20MAZ_0102 189572 197247 CS 然后 好像 要 加 一些 比较 就 好像 一些 text
+UI20MAZ_0102 197247 201347 CS 就是 text area ah 的 东西 好像 要
+UI20MAZ_0102 201347 206415 CS 它有 一个 好像 是 rich ah rich text ah
+UI20MAZ_0102 206415 210608 CS ri~ uh rich text 的话 如果 要 加上去 的话 很 麻烦
+UI20MAZ_0102 210886 214334 CS 通常 都会 去 internet 那边 search
+UI20MAZ_0102 214334 217413 CS search 那些 code 然后 抄 下去 罢了
+UI20MAZ_0102 232242 240405 CS 啊 我 觉得 会 咯 因为 drag and drop 然后 你 没有 去 set 它的 security ah
+UI20MAZ_0102 240405 243748 CS 会 很 危险 咯 一下子 就 被 hack 了
+UI20MAZ_0102 252851 253673 ZH 啊 对
+UI20MAZ_0102 256590 257421 ZH 啊 对咯
+UI20MAZ_0102 257781 262079 CS 我的 学校 学 a. s. p. dot net 的 时候 都是 drag and drop loh
+UI20MAZ_0102 263444 270362 ZH 啊 解释 解释 都是 啊 有~ 有 一些啦
+UI20MAZ_0102 270362 272151 ZH 不是 很多 咯
+UI20MAZ_0102 273078 274273 ZH 然后
+UI20MAZ_0102 275753 277509 ZH 那个 还有 一个 是 什么
+UI20MAZ_0102 278422 282270 CS 就 好像 他 有时 会 set 它的 configure 的 东西啊
+UI20MAZ_0102 282270 286909 CS 他有 教 一点啦 就 好像 set 他的 user 什么 user
+UI20MAZ_0102 286909 290946 CS 可以 进 那个 website 然后 什么 不可以 进 罢了咯
+UI20MAZ_0102 290946 293606 CS 就是 比较 比较 basic 的啦
+UI20MAZ_0102 293606 302034 CS 然后 如果 是学 那些 好像 好像 啊 security 的啊 就 很少
+UI20MAZ_0102 305417 309010 CS java 学 很少 罢了
+UI20MAZ_0102 309010 312569 CS 就是 一个 sem 有 一个 sem 学 这个 罢了
+UI20MAZ_0102 322807 326475 CS 有 有 一种 是 学到的 是 用 graphic ah
+UI20MAZ_0102 326475 332717 CS graphic 用 java 写的 哇 很 麻烦 不懂得 怎样 set 它的 那个 coordinate ah
+UI20MAZ_0102 333365 334707 ZH 要算 
+UI20MAZ_0102 338196 340922 ZH 嗯 要学 要
+UI20MAZ_0102 351106 351521 ZH 是咯
+UI20MAZ_0102 359234 360325 ZH 是咯 会 比较 麻烦
+UI20MAZ_0102 361208 363888 ZH 因为 错的 时候 不懂 要从 哪里 下手
+UI20MAZ_0102 383452 390839 CS 是咯啊 很多 那些 drag and drop 然后 大~ 大多数 我都 不会 用啊
+UI20MAZ_0102 390839 394633 ZH 除非 是 逼不得已 才用 罢了
+UI20MAZ_0102 394633 398665 CS 通常 我 drag and drop 过后 会看 它的 coding 先咯
+UI20MAZ_0102 398665 401658 CS drag and drop 一个 然后 看 它的 coding 是 怎样
+UI20MAZ_0102 401658 404583 ZH 或者 是 分成 两个 部分啊
+UI20MAZ_0102 404583 410449 CS 一个 部分 是 看 那个 coding 的 一个 部分 是 看 它的 interface 的 drag and drop
+UI20MAZ_0102 410449 417010 CS 要 不然 有时 它的 setting 那些 有 什么 错 的话 很 麻烦
+UI20MAZ_0102 420855 427078 CS ah programming 一个 是啊 c. plus plus loh
+UI20MAZ_0102 427078 431387 CS 是 first year first semester 的 时候 学
+UI20MAZ_0102 431387 441601 CS 然后 second second year 不知道 second year 还是 second year first semester 还是 first year second semester 的 时候 学 java
+UI20MAZ_0102 441601 442719 ZH 忘记了
+UI20MAZ_0102 450003 454978 CS 呃 还好咯 只是 说 我 programming 会 比较 差
+UI20MAZ_0102 463747 465546 CS 比较 喜欢 weby lor
+UI20MAZ_0102 466171 472607 CS 因为 可以 看到 看到 说 做 一个 website 出来 能用的 话
+UI20MAZ_0102 472607 475190 ZH 蛮有 成就感 一下 成就感
+UI20MAZ_0102 480174 481074 CS 做 web 的话
+UI20MAZ_0102 486195 490166 CS 有 申请 过 但是 他们 大多数 要 有 experience
+UI20MAZ_0102 491233 494245 ZH 然后 就～ 就 没有 申请 到
+UI20MAZ_0102 498610 507123 CS course mate ah 有些 也是 找不到 然后 有些 是 已经 做 不是 做 i. t. 了 转行
+UI20MAZ_0102 508529 518394 CS 有些 去做 老师 然后 有些 就 不知道 做 那个 customer 的 service help desk
+UI20MAZ_0102 527561 530805 CS s. a. p. 的 theory 都 开始了
+UI20MAZ_0102 534545 536363 CS e. r. p. 的 concept
+UI20MAZ_0102 537479 538804 ZH 他
+UI20MAZ_0102 540430 542485 CS 比较 product based 那种
+UI20MAZ_0102 544125 546527 ZH 通常
+UI20MAZ_0102 546527 552231 ZH 很有 一点 很 压力 啊 因为 它 时间 太 紧了 然后 老师 也是 讲 很 快 一下
+UI20MAZ_0102 552231 555371 CS 有些 都是 这样 skip 过 罢了
+UI20MAZ_0102 556064 562056 CS 然后 他 就是 讲说 啊 你 这个 好像 你 order 东西的 时候
+UI20MAZ_0102 562056 564105 CS 你 order 过后要 confirm
+UI20MAZ_0102 564105 572189 CS confirm 过后 要 怎样 去 去用 那些 data 去 process 这样 这样
+UI20MAZ_0102 577557 584420 CS 他是 有给 我们 用 但是 我们 是 通过 internet 那边 好像
+UI20MAZ_0102 584420 594960 CS 他 好像 不是 我们 自己的 operation ah 他 好像 是 通过 那个 internet 那边 去的 另外 一个 operation 出来的 system operation
+UI20MAZ_0102 596456 598662 ZH 他们 好像 是
+UI20MAZ_0102 598662 608109 CS 如果 是 上网 的话 可以 去 那边 找 但是 它是 要有 它的 那个 user i. d. 才 可以 进的咯
+UI20MAZ_0102 613410 620779 CS passing rate 听说 蛮 难 pass 一 pass 下 那个 course 因为 蛮 难 一下
+UI20MAZ_0102 620779 624662 CS 然后 它 因为 它 时间 也是 很 pack ah
+UI20MAZ_0102 624662 630215 CS 所以 他们 说 去年的 passing rate 很 低 罢了
+UI20MAZ_0102 632325 636953 ZH 他 没有 讲 多少 巴仙 他们 说 很 低 很 不 乐观
+UI20MAZ_0102 641501 648863 CS 啊 读完 过后 他是 有 一个 星期 给 我们 啊 revision loh
+UI20MAZ_0102 648863 655446 ZH 然后 过后 就 考了 大概 一个 星期 温习咯
+UI20MAZ_0102 661232 670127 CS theory ah 蛮 就是 好像 很 基本 罢了 他 不是 解释 到 很 清楚 啦 有些
+UI20MAZ_0102 671529 681169 ZH 考试 的噢 他 他的 听说 他的 考试的 方式 是 好像 上网的咯
+UI20MAZ_0102 681169 685003 ZH 上网 然后 他 可能 一个 题目 可能 很多 答案 啊
+UI20MAZ_0102 685003 687903 ZH 你 少 一个 答案 可能 就 扣 一分
+UI20MAZ_0102 698853 707065 CS past year question 没有 目前为止 那个 lecturer 有给 我们 去 看啊
+UI20MAZ_0102 707065 710687 CS 看 那个 website 那 一个 website 是 有 那个 past year 的
+UI20MAZ_0102 715325 720498 ZH 嗯 不是 很 清楚 因为 刚刚 接触 罢了
+UI20MAZ_0102 722425 723515 ZH 是咯 
+UI20MAZ_0102 724943 730096 CS 因为 之前 之前 也是 没有 什么 idea 什么 是 s. a. p. 的
+UI20MAZ_0102 730096 733375 ZH 然后 就是 这样 进去 看 咯
+UI20MAZ_0102 733375 740511 CS 才 知道 说它 是 好像 一个 business 里面 要的 function ah 要 怎样 run 它的 process
+UI20MAZ_0102 744784 753578 CS 嗯 其实 蛮 不错 一下 啦 它 因为 有时 我 也是 蛮 喜欢 那些 有点 management 的 东西
+UI20MAZ_0102 753578 761985 CS 然后 如果 叫我 整天 呆在 电脑 前面 写 那些 programming 的话 我 觉得 很 辛苦
+UI20MAZ_0102 762337 768217 CS 因为 我 不是 那种 做 programming 的 东西的 人才
+UI20MAZ_0102 795608 796724 ZH 但是
+UI20MAZ_0102 796724 801925 ZH 其实 我 一直 以来 不是 对 电脑的 东西 很 有 兴趣
+UI20MAZ_0102 802827 806548 ZH 只是 当着 自己的 知识 罢了
+UI20MAZ_0102 806956 809061 ZH 然后 通常
+UI20MAZ_0102 809061 815420 ZH 有空 我 也是 不大 回去 做 去看 电脑 咯 有时 啦 因为 有时 也 不知道 要 做 什么
+UI20MAZ_0102 815420 823772 CS 有时 会去 如果 上网 的话 也是 search 一些 好像 recipe ah
+UI20MAZ_0102 824440 829274 ZH 就是 因为 有空的 时候 我 有时 也是 煮 一些 东西 来吃
+UI20MAZ_0102 833923 836015 ZH 厨师 啊 
+UI20MAZ_0102 840491 842324 ZH 厨师
+UI20MAZ_0102 842324 849686 ZH 只是 兴趣 而已 没有 想多 想说 要当 当着 当 这个 兴趣 成为 自己的 事业
+UI20MAZ_0102 859673 860426 ZH 不懂
+UI20MAZ_0102 860790 866791 ZH 嗯 目前为止 对 自己的 方向 也是 很
+UI20MAZ_0102 867453 869689 CS 就是 direction 不是 很 清楚
+UI20MAZ_0102 871222 875319 ZH 有时 也是 还在 还在 想着 要 怎样
+UI20MAZ_0102 903684 909940 ZH 我 觉得 有时 是 教育 那边 是 有 问题咯
+UI20MAZ_0102 909940 912601 ZH 因为 他们 也 没有 什么
+UI20MAZ_0102 912601 922274 ZH 因为 如果 是 外国 的话 我 听说 有些 是 跟着 小时候 他 就会 跟着 自己的 兴趣 去 上课 嘛 上 什么 课程
+UI20MAZ_0102 922274 928465 CS (er) malaysia 不是 喔 是 跟着 它 malaysia 的 education 的 system 去 走
+UI20MAZ_0102 944369 948759 ZH 不懂 因为 有时 是 想说
+UI20MAZ_0102 949666 956498 ZH 如果 是 跟着 自己的 兴趣 读 的话 也是 要有 自己的 本钱 去读
+UI20MAZ_0102 956498 969405 CS 如果 没有 那个 本钱 的话 你要 读 好像 比较 就是 private 的 那些 college 的话 你 又要 有 真正 有 一笔 钱 才能 去读
+UI20MAZ_0102 993078 1003254 CS so far 是我 也是 有 想过 做 那个 好像 直销 这样 那个 herbalife
+UI20MAZ_0102 1003254 1009332 CS 但是 我 还 没有 真正的 进入 啦 因为 我 现在 是想 要用 它的 product 罢了
+UI20MAZ_0102 1009332 1016229 ZH 因为 过后 才看 它的 效果 是 怎样 过后 才说 要不要 做咯
+UI20MAZ_0102 1043234 1055722 ZH 可能 会 不懂啦 可能 会 往 比较 偏向～ 偏向 食物 那边 发展 可能 会 啦 很大 可能
+UI20MAZ_0102 1075772 1080093 CS s. t. p. m. ah ah 我 不是 读 bio
+UI20MAZ_0102 1080093 1081690 CS 我 读 physics 啊
+UI20MAZ_0102 1085470 1088088 ZH 是咯 因为 我
+UI20MAZ_0102 1088088 1092872 CS 我的 家人 也 不大 赞同 我读 bio 的 东西
+UI20MAZ_0102 1092872 1098177 CS 然后 选 那个 的话 它又 吵 这样 然后 就 算了 就 读 physics
+UI20MAZ_0102 1098177 1108322 CS 因为 读 bio 也是 有 它的 风险 啦 因为 出来 不懂啦 以前 他们 讲说 出来 就 很难 找到 工作 如果 读 bio 的话
+UI20MAZ_0102 1148717 1150172 ZH 有时 不懂 啊
+UI20MAZ_0102 1152038 1163119 ZH 如果 要从 新 开始 的话 也是 要看 要找 那个 出路 啦 要会 找 那个 出路
+UI20MAZ_0102 1183932 1185412 ZH 不懂 嘞 
+UI20MAZ_0102 1186243 1191263 ZH 对 有时 我们 蛮在 挣扎 一下 这些 东西

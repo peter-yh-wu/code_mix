@@ -1,0 +1,348 @@
+25NC47MBP_0101 23880 25450 CS can 可以
+25NC47MBP_0101 35490 40240 CS 我 以前 是 study in gan eng seng school
+25NC47MBP_0101 44497 47632 CS 不 this would be primary school
+25NC47MBP_0101 53070 62770 CS 对不起 我的 学校 是 secondary school 就是 gan eng seng school 我的 小学 是 fairfield methodist
+25NC47MBP_0101 72870 81330 CS paya lebar methodist 是一个 girl's school 吗
+25NC47MBP_0101 84000 88640 CS 所以 你 small 的 时候 没有 handsome boys to lookay at ah
+25NC47MBP_0101 93830 94441 EN okay
+25NC47MBP_0101 102110 106930 CS singapore chinese girls school 是 靠近 raffles town club 是 吗
+25NC47MBP_0101 111470 114630 CS 那 你 住 在 什么 location
+25NC47MBP_0101 120950 123926 CS 哦我住在 bukit <unk> road
+25NC47MBP_0101 128620 133020 CS 靠近 harbour front 和 mount faber area
+25NC47MBP_0101 140477 148552 CS 哦不 是 很 远 啊 靠 近 outram m. r. t. 或 tiong-bahru m. r. t. 我 可 以 搭 巴 士
+25NC47MBP_0101 148552 152936 CS 到 那 些 m. r. t. 很 快 的 五 分 钟 就 到
+25NC47MBP_0101 167652 169080 EN okay
+25NC47MBP_0101 169080 172870 CS 以前 你 参加 what c. c. a.
+25NC47MBP_0101 182220 196281 CS 以前 我的 c. c. a. 是 a. v. a. club 在 primary school 的 时候 我 就是 跟 我的 好 朋友 (er) 一起 (er) 参加 a. v. a. club
+25NC47MBP_0101 206950 214680 CS 没有 我们的 a. v. a. club 是 prepare microphone for principal every morning 的
+25NC47MBP_0101 215380 221510 CS 还有 帮 他们 玩 那个 national anthem 还有 school song
+25NC47MBP_0101 225500 231880 CS 除了 那些 有时候 要在 backstage hor 帮 他们 set up 那个 sound system
+25NC47MBP_0101 241642 244378 ZH 我 参 加 一 个 是 什 么嗯
+25NC47MBP_0101 244378 249107 EN simi q. p. ah <unk> production
+25NC47MBP_0101 256857 258477 CS 现 在 q. p. 很 忙
+25NC47MBP_0101 259513 265729 CS uh for sets and props 很 忙 因 为 我 们 有 有 很 多 东 西 还 没 有 做
+25NC47MBP_0101 274420 280040 CS 哦 我们 也是 要 靠 那个 scripts 才 可以 做 我们的 things
+25NC47MBP_0101 282040 287730 CS 我们 现在 要 (er) 找 contractor to make our sets and props
+25NC47MBP_0101 293640 302570 CS 我们 应该 没有 做 我们 自己的 props 都是 买 的 all our props should be brought or in the storeroom
+25NC47MBP_0101 312010 321830 CS (er) because that was last time when the 去年 的 committee 他们 用 的 sets and props 是 自己 paint 自己 construct 的
+25NC47MBP_0101 322290 332920 CS 那 我们 今年 要 print 在 一个 canvas 我们 找到 了 canvas company (er) professional stage backdrop printing company
+25NC47MBP_0101 333328 336940 EN so they will be printing it on canvas instead of
+25NC47MBP_0101 338826 344060 EN instead of us painting our- our stage yeah our backdrop
+25NC47MBP_0101 350800 360230 CS 应该 没有 lah  only transportation of props and sets probably just the manual labour
+25NC47MBP_0101 372713 378863 EN yeah that one will be writer's block ah some writer block
+25NC47MBP_0101 383240 391200 CS 我们 s. and p. 还没有 收到 那个 the finalised script the lastest script which timothy is supposed to send
+25NC47MBP_0101 393982 397605 EN yes (er) he said only since
+25NC47MBP_0101 397605 402864 EN i think up till act two only the scenes in act two are concrete and
+25NC47MBP_0101 405361 406557 EN finalised
+25NC47MBP_0101 427190 436030 CS okay so they should cater to the masses by adding more 英文 inside lah  so 更多 人 会 明白
+25NC47MBP_0101 460831 464178 EN she can try speaking more
+25NC47MBP_0101 464922 466516 EN singlish will that work
+25NC47MBP_0101 484328 485497 EN okay
+25NC47MBP_0101 490603 495836 EN anyway enough about <unk> we will have a lot of
+25NC47MBP_0101 496288 502663 CS that 下 个 星 期 已 经 有 我 们 的 第 一 个 two zero one zero 的 meeting
+25NC47MBP_0101 504003 505411 EN okay so
+25NC47MBP_0101 506850 511930 CS next semester 你 take 什么 electives
+25NC47MBP_0101 520809 528550 CS (er) 现在 已经 (er) max a. u. 你 不要 去 apply overload meh
+25NC47MBP_0101 532940 540570 CS orh 也是 很 忙 啊 okay 那 你 有 打算 take special sem mah
+25NC47MBP_0101 546030 554760 CS special sem 是 让 你 clear 你 unrestricted electives 的 a. u. s. lor 不是 core 的 就是 那些
+25NC47MBP_0101 555394 559989 EN unrestricted electives orh even prescribed electives you can clear a. u.s
+25NC47MBP_0101 560361 564911 CS during a more intensive but shorter 的 那 段
+25NC47MBP_0101 564911 572461 CS 那 那 段 时间 yah during the holidays probably you can clear around six a. u. s.
+25NC47MBP_0101 573262 577592 EN which is two- two (er) u. e.s
+25NC47MBP_0101 579257 589007 EN so it will lighten your workload cause anyway you are- you are your first two sem your first year you didn't take any electives so
+25NC47MBP_0101 602310 604489 EN there is (er)
+25NC47MBP_0101 604489 607703 EN there is probably there are probably lesser
+25NC47MBP_0101 607703 612113 EN slots for u. e.s during the special semester
+25NC47MBP_0101 613981 620331 CS 所以 应该 有 应该 不会 比较 容易 拿 到 那些 slots lorh
+25NC47MBP_0101 626738 629846 EN i intend to <unk> special sem ah
+25NC47MBP_0101 632476 639528 EN during next year- next year after sem two i will try to <unk> special sem
+25NC47MBP_0101 641706 644283 EN i want to clear my u. e.s
+25NC47MBP_0101 645889 651122 EN yeah next time i will just focus on my core and my f. y. p.
+25NC47MBP_0101 663131 669271 CS 我的 没有 什么 specialisation 的 因为 我的 是 civil engineering
+25NC47MBP_0101 673280 678587 CS 你 的 是 你 现 在 是 double degree 对 吗 是 accounting 跟 business
+25NC47MBP_0101 686391 691451 CS (er) 你 要 什么 有什么 cut off point mah g. p. a.
+25NC47MBP_0101 694741 697871 CS 应该 是 apply lah  应该 有 interview
+25NC47MBP_0101 703810 707870 ZH 可 是 你 huh 今 年 三 十 个 已 经
+25NC47MBP_0101 714971 723001 CS 他们 怎么 拿 到 hotel hotel industry 的 experience 他们 不是 学生 part time 啊 那 你
+25NC47MBP_0101 723406 727417 CS 那 你 的 姐 姐 是 hotel industry 对 吗
+25NC47MBP_0101 727896 731243 CS some more 是 saint-regis 的 six star hotel
+25NC47MBP_0101 731722 733874 ZH 那 你 叫 她 帮 你
+25NC47MBP_0101 733874 736584 CS 拿 一 些 attachment ah
+25NC47MBP_0101 737248 741578 CS 你 可 以 做 一 些 attachment one month two month that kind
+25NC47MBP_0101 741578 744657 EN then attach to her or someone else
+25NC47MBP_0101 745658 749244 EN then i think you will have an advantage already
+25NC47MBP_0101 749563 753282 EN cause if you have (er) had an attachment for at least
+25NC47MBP_0101 753415 760109 EN two months you will- you will be a- a cut above those part timers
+25NC47MBP_0101 760821 768881 CS rarely do rarely do 学生 ah 拿 到 这种 机会 在 hotel 有 attachment
+25NC47MBP_0101 786101 789351 CS 为什么 你 choose your course
+25NC47MBP_0101 803681 806451 CS graduate 了 你 要 做 什么
+25NC47MBP_0101 820063 822056 EN i'm going to be a bollywood actor
+25NC47MBP_0101 827156 831336 EN don't need ah everyone will be speaking in english by two zero one two
+25NC47MBP_0101 833460 834257 EN hey that's right
+25NC47MBP_0101 843891 846271 CS 她 有 那个 filipino 的 accent mah
+25NC47MBP_0101 846271 850726 CS 没 有 then then 教 他 怎 么
+25NC47MBP_0101 854126 856119 ZH 应 该 是 讲 不 到
+25NC47MBP_0101 871461 885701 CS 应该 是 做 一个 civil engineer lorh 帮 那些 government 的 company h. d. b. 可是 civil engineer 那种 civil engineer 要 拿 到 first class honours ah 应该 是 first class
+25NC47MBP_0101 888191 898711 CS 可 是 我 也 是 考 虑 要 work for private companies because you get more pay probably
+25NC47MBP_0101 899348 907504 EN then probably you'll get more opportunities to work overseas like maybe india i think they'll send me to india
+25NC47MBP_0101 911117 912418 EN that's right
+25NC47MBP_0101 927716 933773 EN yes but (er) as long as you are in the company ah which can monopolise
+25NC47MBP_0101 934596 939243 EN probably then you should be doing pretty well
+25NC47MBP_0101 948868 952135 EN in the bigger- the bigger fish in the pond ah
+25NC47MBP_0101 959525 960349 EN study
+25NC47MBP_0101 963811 973401 CS 我 要 我 要 study and 跟 朋友 玩 lah  我也 是 会 i will still spend most of my
+25NC47MBP_0101 973401 975802 EN time actually relaxing and playing
+25NC47MBP_0101 976705 979574 EN and hopefully lookay for girlfriend or something
+25NC47MBP_0101 989165 990122 EN true
+25NC47MBP_0101 999231 1004511 CS are you planning to go 毕业 旅行 啊
+25NC47MBP_0101 1005268 1009014 EN this is what exchange programme when
+25NC47MBP_0101 1011528 1013440 EN oh okay
+25NC47MBP_0101 1017664 1020427 EN okay (er) initially
+25NC47MBP_0101 1020427 1027440 EN most of my secondary school friends they are all hyped up about taiwan cause they went there once
+25NC47MBP_0101 1028085 1031937 EN but i think taiwan is overrated
+25NC47MBP_0101 1032154 1034290 ZH 我 认 为 台 湾
+25NC47MBP_0101 1034290 1041711 CS 没有 什么 好 东西 去 看 的 只有 好吃 的 可是 其实 他们的 variety 很少
+25NC47MBP_0101 1042891 1048602 EN so i don't think my friends will choose taiwan again after graduation
+25NC47MBP_0101 1049054 1055775 EN probably they are more keen on going to a european country because they've not done that before
+25NC47MBP_0101 1065957 1068200 EN five k. <unk>
+25NC47MBP_0101 1069369 1074709 EN for graduate seven k. just backpacking okay
+25NC47MBP_0101 1078621 1095531 CS okay lah  i do have (er) intention to go to switzerland because my 阿姨 is staying there so probably i can get free lodging and maybe free food too
+25NC47MBP_0101 1097656 1101322 EN yeah so we'll just be sightseeing then
+25NC47MBP_0101 1102021 1109751 CS (er) that's also one of the reason why i am learning french 法国 now in uni
+25NC47MBP_0101 1112850 1119412 EN yes because my relatives in switzerland they speak only mandarin or french
+25NC47MBP_0101 1120288 1125017 CS and i gave up on mandarin so 我 要 学 bonjour
+25NC47MBP_0101 1129174 1136001 EN (er) by far i've been speaking to my cousins in chinese but we rarely speak
+25NC47MBP_0101 1149531 1166801 CS okay the only mandarin which i get is from my (er) close friends ah my neighbours my hostel mates my og mates because they all actually are inclined to speaking 华语 when to each other
+25NC47MBP_0101 1167348 1174335 CS even in their families they speak 华 语 and they told me that it was only when they met me
+25NC47MBP_0101 1174840 1179117 EN that was when they- they started speaking english (er)
+25NC47MBP_0101 1179861 1185341 EN without (er) knowing it yeah cause it's just me they would speak
+25NC47MBP_0101 1185341 1195521 CS to me in mandarin 华语 and then 我 会 跟 他们 讲 英语 i will reply in english (er) so its like a duck and a chicken talking
+25NC47MBP_0101 1196625 1201121 EN yes but they somehow they adapted to it very quickly
+25NC47MBP_0101 1201121 1212041 CS so actually i just continue speaking in english and they will just talk to me in chinese like eh 你们 要 去 吃饭 吗 yah but don't want to go to can five
+25NC47MBP_0101 1214515 1231118 EN yeah but (er) they've started to speak more english since i was around as my roomie does (er) my room mate is actually very chinese but with me he tends to speak english only
+25NC47MBP_0101 1234291 1238231 CS no 没有 我的 roommate 是 derick ong
+25NC47MBP_0101 1238231 1244994 EN (er) yes he's also in double degree also accountancy and business
+25NC47MBP_0101 1248294 1251711 EN no he was from temasek j. c.
+25NC47MBP_0101 1251711 1260601 CS (er) 我们是 中学 的 同学 (er) we were in the same class for three years in secondary school
+25NC47MBP_0101 1262092 1271682 EN and he stays around tiong-bahru area which is pretty close to gan-eng-seng and also to my house there
+25NC47MBP_0101 1281061 1293371 CS 我 应该 是 不会 去 吧 因为 i feel that it will be a disruption to my studies and i wish to focus on my studies
+25NC47MBP_0101 1293371 1301968 EN but i might reconsider depending on how my studies are in maybe year three
+25NC47MBP_0101 1328821 1334745 EN is something like (er) getting a satisfactory unsatisfactory ah s. u. for free ah
+25NC47MBP_0101 1340661 1344805 EN yeah for overseas it should be easier
+25NC47MBP_0101 1350209 1352573 EN okay i probably will
+25NC47MBP_0101 1361820 1366256 EN i think maybe for scholars is there any scholarship
+25NC47MBP_0101 1376481 1382701 CS i see one sem so (er) 应该 会 多少 啊 one sem
+25NC47MBP_0101 1391263 1392512 EN okay
+25NC47MBP_0101 1395195 1400242 EN yeah i think (er) the popular choice would be australia right
+25NC47MBP_0101 1404350 1410646 EN no actually for engineers most want to go to european countries probably germany
+25NC47MBP_0101 1411709 1416039 EN cause that's where the engineering stuff is
+25NC47MBP_0101 1433250 1434897 EN attachments there
+25NC47MBP_0101 1442807 1444507 EN yeah so
+25NC47MBP_0101 1445225 1453147 EN (er) but overseas exchange ah means you have to eat more overseas food ah
+25NC47MBP_0101 1459304 1465016 EN okay ah but (er) if i were to go to australia i would probably get sick of
+25NC47MBP_0101 1465414 1467333 EN their fish and chips
+25NC47MBP_0101 1470892 1473651 EN their national food is fish and chips
+25NC47MBP_0101 1490291 1494101 CS but there's nothing to see in 巴黎
+25NC47MBP_0101 1498515 1501198 EN can take picture in museum meh
+25NC47MBP_0101 1505948 1512881 EN all i know is they have lots of pigeons in paris yes
+25NC47MBP_0101 1513354 1518959 EN i went there when i was a boy probably five years old
+25NC47MBP_0101 1520595 1527608 EN that's not lucky because you can't remember anything at the age of five that's why i only remembered pigeons
+25NC47MBP_0101 1539501 1541413 EN precisely so
+25NC47MBP_0101 1542961 1547631 CS that's right your 你们的 父母 会 跟你讲 orh 我 已经
+25NC47MBP_0101 1547631 1553018 CS 带 你 去 disneyland 了 只 是 你 不 记 得 then you'll be like so sian
+25NC47MBP_0101 1553736 1557216 EN then from now on they just bring you to malaysia
+25NC47MBP_0101 1560362 1563603 EN yes thailand then if you're lucky you go australia
+25NC47MBP_0101 1571911 1589251 CS everything is 轻松 in australia its the land of the 轻松 everyone then everyone almost everyone is like okay i am going to retire and take my c. p. f. and i'll go to australia buy a house buy a farm and i'll just i'll just collect dust there
+25NC47MBP_0101 1590452 1600015 EN yeah that's right because (er) in australia hardly anything is i'm sure you all know that rarely anything is open after five p. m.
+25NC47MBP_0101 1600777 1604337 EN they actually stop work on the dot at five
+25NC47MBP_0101 1605107 1616892 EN (er) in fact most of the shopping malls everything is they are all closed by five you know they don't have a lot of traffic most of it is countryside actually so
+25NC47MBP_0101 1617131 1625366 EN according to my friend when he went there bascially after seven p. m. they could start playing badminton in the streets
+25NC47MBP_0101 1628591 1639111 CS yes 路上 很 empty (er) but yah 他们 有一个 还有 他们 有一个 minimum 的 wage ah
+25NC47MBP_0101 1639111 1644757 EN i think it is fourteen or fifteen aussie dollars per hour
+25NC47MBP_0101 1644757 1654738 EN so even if you work at a macdonald's you'll be earning a lot more than what we do as part timers in singapore
+25NC47MBP_0101 1666812 1671381 EN the only countries which have (er)
+25NC47MBP_0101 1672654 1678392 EN what is is called left-hand drive ah that means the car is on the right side of the road right
+25NC47MBP_0101 1678844 1692812 EN yeah that will be hong-kong and the european countries like u. s. is definitely so these are the countries ah
+25NC47MBP_0101 1693130 1703784 EN so it it will- (er) korea also i don't know i'll be- i'll be scared to drive on such a road one day because you just forget then suddenly you are driving against traffic
+25NC47MBP_0101 1707119 1709138 EN definitely scary
+25NC47MBP_0101 1717355 1721818 EN yeah at the- at the traffic light also you rules kind of change a lot so
+25NC47MBP_0101 1727901 1731110 EN okay lah but (er) generally
+25NC47MBP_0101 1732385 1738979 EN most countries are right hand drive because
+25NC47MBP_0101 1741423 1749458 EN according to research (er) people found it easier to steer the wheel with the right hand and then change gear with the left hand
+25NC47MBP_0101 1750176 1759291 EN so that's why actually- that's how most countries will adopted the right hand drive ah just a- just a fact
+25NC47MBP_0101 1769505 1777341 EN yeah it will be impossible to actually change it now i don't see how it will happen unless there is a world war three
+25NC47MBP_0101 1788034 1793693 EN (er) that's why- that's why (er) most sports cars like
+25NC47MBP_0101 1794541 1805311 CS (er) ferraris and all that all those sports cars 他们 要 特 的 special order 那些 right hand drive for
+25NC47MBP_0101 1805311 1815028 EN for asian countries (er) so usually- usually you won't see yeah usually they are more expensive
+25NC47MBP_0101 1820191 1828301 CS (er) 要 要 等 很 久 i think maybe up to 一年 多 then you will get your car
+25NC47MBP_0101 1833147 1837264 EN no ah no- no sports car is worth- worth it in singapore
+25NC47MBP_0101 1839813 1844731 CS you you (er) 你 永远 会 stuck 在 first gear
+25NC47MBP_0101 1862173 1866423 EN okay for singapore ah
+25NC47MBP_0101 1867533 1875983 CS singapore all i know is that 每天 至少 会 有一个 road accident for motorcyclist
+25NC47MBP_0101 1880873 1888763 CS motorcyclist 应该 是 每天 会 有一个 至少 会 有一个 statistics show lah 
+25NC47MBP_0101 1897393 1905453 CS if i am not wrong every year (er) 至少 会 有 至少 会 有 around thirty motorcyclists will
+25NC47MBP_0101 1908652 1912212 EN on the road then it's not their fault
+25NC47MBP_0101 1913036 1924087 EN most of the time it's not their fault it's- it's really suay then some lorry bang into them that's it ah
+25NC47MBP_0101 1928683 1941723 CS no matter how 安全 他们 drive right it still depends on other road users so it just takes one drunk driver to bang into them
+25NC47MBP_0101 1943743 1950363 CS yah and usually such accidents 如果 我 记得 的话
+25NC47MBP_0101 1950943 1955938 EN most of the deaths are actually the pillion riders those who sit behind
+25NC47MBP_0101 1957000 1969806 EN yeah because they will get flung off they have no- no yes yes except for the rider which will also be flung off both will- so both will be flung off
+25NC47MBP_0101 1977123 1989043 CS that's why (er) 很多 人 会 advise us not to to pick up motor cycling ah although it is a good skill but
+25NC47MBP_0101 1989850 1992480 EN as in learn ah but don't do it
+25NC47MBP_0101 1998373 2003712 EN true ah but it's a skill ah in case next time you- you have to ride a bike
+25NC47MBP_0101 2005413 2012362 EN like maybe if your friend rode a bike to the club and he got drunk then you have to ride the bike
+25NC47MBP_0101 2023070 2026709 EN no i'm learning i'm still learning
+25NC47MBP_0101 2028213 2033613 CS (er)m yah yah im currently 在 bukit batokay 学 驾车
+25NC47MBP_0101 2037603 2045413 CS 还没有 定 i'm still waiting for my time table to be finalised my exam timetable then i will 定 了
+25NC47MBP_0101 2052034 2057851 EN no i've not gone into parking yet i've only gone out of the circuit
+25NC47MBP_0101 2059255 2065444 EN to drive and i'm still (er) a few lessons away from parking
+25NC47MBP_0101 2069163 2073998 EN (er) no slope yet just- just stopping at the stop line that's all
+25NC47MBP_0101 2076814 2078116 EN not yet
+25NC47MBP_0101 2088640 2090021 EN i'm taking manual
+25NC47MBP_0101 2094298 2097406 EN true to start off on a slope right
+25NC47MBP_0101 2107201 2108370 EN and you cannot roll back
+25NC47MBP_0101 2118307 2122849 EN (er) on my first lesson i stalled around fifteen times
+25NC47MBP_0101 2131733 2134443 EN the manual ah true
+25NC47MBP_0101 2136621 2138507 EN it's better to learn manual ah
+25NC47MBP_0101 2147040 2149829 EN (er) or when you need to drive a lorry
+25NC47MBP_0101 2153688 2155096 EN i don't know
+25NC47MBP_0101 2156371 2163118 EN depends ah but you see ah next time work for construction industry drive banglas around
+25NC47MBP_0101 2174191 2179398 EN okay (er) talking about food you actually like
+25NC47MBP_0101 2180423 2183873 CS what what 你 喜欢 吃 什么 food
+25NC47MBP_0101 2193004 2195103 EN you are allergic to peanuts
+25NC47MBP_0101 2196484 2200629 EN you just don't like the nutty taste the- the texture
+25NC47MBP_0101 2201798 2206632 EN the crunchy thing in your mouth so you don't like peanut butter with peanut
+25NC47MBP_0101 2208470 2217104 CS then the creamy peanut butter ah actually i like 我 也 是 比 较 喜 欢 creamy peanut butter
+25NC47MBP_0101 2221413 2236123 CS yah 因为 我的 我 知道 我的 姐姐 (er) 喜欢 超 喜欢 那个 chunky 的 peanut butter extra chunky 可是 我 我 喜欢 的 是 creamy 所以 每次 我 妈妈 都要 买 两种
+25NC47MBP_0101 2247936 2249158 EN peanut ah
+25NC47MBP_0101 2253434 2259119 EN every kind of nut like almond so basically when you go to a
+25NC47MBP_0101 2259757 2267248 EN ice cream parlour then you sort of have to no- no toppings no nuts
+25NC47MBP_0101 2272431 2276602 EN yes (er) usually you have the almond flakes at the sides
+25NC47MBP_0101 2279816 2282313 EN oh it's the taste is it
+25NC47MBP_0101 2283907 2284837 EN walnuts
+25NC47MBP_0101 2293389 2297533 EN yes i- i- i detest garlic
+25NC47MBP_0101 2299511 2311383 EN oh you never see  garlic is like a- is like a- one of the major ingredients in chinese dishes and i'm born chinese i am chinese you know
+25NC47MBP_0101 2316093 2318351 CS 真 的 吗 哇 我-我 喜 欢 你 嗯
+25NC47MBP_0101 2321068 2323697 ZH 我 的 朋 友 都 说 我 是 印 度 人
+25NC47MBP_0101 2326327 2329994 EN is this recorded down i want to keep this recording
+25NC47MBP_0101 2333952 2343408 EN a lot of people do if you like follow me to boggle and you ask hey he's indian they'll be like oh yeah he is
+25NC47MBP_0101 2345763 2351953 CS 很多 人 讲 我是 印度 人 and it only started when i came into n. t. u.
+25NC47MBP_0101 2354776 2357805 EN i don't know it's like a it's like maybe there's
+25NC47MBP_0101 2357938 2366810 EN 6 month long episode of punked i'm just waiting for the guy to pop out and ha ha you were punked actually no one thinks you're indian
+25NC47MBP_0101 2371625 2376460 CS i don't know but yeah actually 真 的 是 很 多 人
+25NC47MBP_0101 2376992 2385917 EN (er) if not indian they will think i'm mixed blood (er) a bit filipino a bit indochinese a bit thai vietnamese
+25NC47MBP_0101 2386422 2390460 EN but mostly now it's just indian
+25NC47MBP_0101 2391983 2405993 CS 真的 (er) (er) 有 一次 我们 打 完了 那个 inter block games mah 那个 hockey ah 然后 有一个 (er) 我们 交 了 一个 新的 朋友 是一个 (er) its a girl lah 
+25NC47MBP_0101 2407066 2416443 EN called sharon i think (er) my- my room mate just casually ask her (er) so does my room mate lookay mixed blood to you
+25NC47MBP_0101 2416770 2426971 EN and she was saying no and at first i was quite happy i was like yes then she continued oh actually your room mate is pure indian right
+25NC47MBP_0101 2427692 2431518 EN and then that's when i- that's when i decided not to talk to her
+25NC47MBP_0101 2445113 2447318 EN yeah and i have no idea
+25NC47MBP_0101 2448513 2458753 CS 有 有 一些 人 说是 我的 眉毛 then got some say is my side burns because most chinese can't grow side burns past their ear lobes and (er)
+25NC47MBP_0101 2460282 2467503 EN yeah they just say it's my eyelashes or my features i know i have beautiful eyes thanks
+25NC47MBP_0101 2477552 2481064 EN oh no i have to talk about myself for twenty minutes
+25NC47MBP_0101 2483136 2486058 EN no you can- you can- you can talk about yourself too
+25NC47MBP_0101 2488689 2492355 EN okay actually you do have i can ask you (er)
+25NC47MBP_0101 2493813 2499603 CS (er) 你 认为 eh how do you feel about 你的 姐姐 比 你 大 那么 多
+25NC47MBP_0101 2499603 2504096 EN your- your sister elder sister is- you only have one sibling do you
+25NC47MBP_0101 2505976 2512538 EN oh both are older so what's the- yeah what's the age difference
+25NC47MBP_0101 2519534 2525404 EN so basically for them their age gap is only three years but for you it's quite
+25NC47MBP_0101 2526387 2534065 EN that's really literally one- one decade apart more than that yes
+25NC47MBP_0101 2548945 2553712 CS 我 认 为 all little sisters are irritating even mine
+25NC47MBP_0101 2554540 2565618 EN actually (er) most- i think most (er) younger siblings would feel- i don't know there's just this difference for some reason
+25NC47MBP_0101 2566263 2579333 CS i think in most 家庭 right the middle child will tend to (er) tend to submit more to the elder sibling you know lookay up to them and
+25NC47MBP_0101 2580193 2586197 EN and i don't~ won't really find them irritating i don't know maybe this is (er) gender based
+25NC47MBP_0101 2586914 2593901 EN so (er) yeah i- i usually disturb my younger sis but i don't dare to touch her i just tease her
+25NC47MBP_0101 2596921 2598037 EN yeah
+25NC47MBP_0101 2601969 2605661 EN not much difference (er) actually
+25NC47MBP_0101 2607999 2612314 EN i would say six years six years that's right six years (er)
+25NC47MBP_0101 2613430 2620257 EN six years age gap no sec. four this year sec. four
+25NC47MBP_0101 2627978 2631033 EN o. levels this year should be o. levels
+25NC47MBP_0101 2639567 2645411 EN beyond me already cause i forgotten all my o. level curriculum
+25NC47MBP_0101 2650913 2656193 CS i had two years of national service 我 为了 我的 国家 花 了 两年
+25NC47MBP_0101 2667308 2671904 EN actually yeah most of it is based on my previous knowledge
+25NC47MBP_0101 2673220 2677842 EN physics and maths and yeah chemistry
+25NC47MBP_0101 2679902 2687394 EN yeah actually chemistry was junior college level a. level standard in fact slightly easier than a. level standard
+25NC47MBP_0101 2697826 2700004 EN okay you should talk more about yourself
+25NC47MBP_0101 2706858 2709913 ZH 你 的 你 的 生 日 几 号
+25NC47MBP_0101 2713947 2716152 ZH 真 的 啊 生 日 快 乐
+25NC47MBP_0101 2716951 2719794 CS 我 真 的 不 知 道 我 真 的 不 知 道 that's why
+25NC47MBP_0101 2721813 2724788 EN oh why- why did you arrange it for today
+25NC47MBP_0101 2728155 2729324 CS yes 对
+25NC47MBP_0101 2755304 2760644 EN okay ah you should you should feel honored then this will be my birthday present to you
+25NC47MBP_0101 2766219 2768609 EN oh it's really painful thanks
+25NC47MBP_0101 2771863 2776483 CS 我 真的 不知道 it's a coincidence that i asked
+25NC47MBP_0101 2779043 2785503 CS talk about yourself so usually the first few things you talk about is your 你的 your age
+25NC47MBP_0101 2791653 2801213 CS 我的 是 (er) 刚刚 过 eh 不是 刚刚 过 lah  是 (er) third of november lah 
+25NC47MBP_0101 2804319 2810550 EN yeah third of- yes i'll- i'll be twenty one for quite a long time
+25NC47MBP_0101 2811240 2814641 EN you are twenty now
+25NC47MBP_0101 2816548 2819656 EN then how come you are twenty i thought you should be nineteen
+25NC47MBP_0101 2823481 2831241 CS oh that's right i always forget you're no longer a teenager 老 了
+25NC47MBP_0101 2834621 2840811 EN oh yeah actually now- now in ah at our age is- so you're in the in between ah
+25NC47MBP_0101 2845841 2849454 EN okay ah growing old is optional growing up is
+25NC47MBP_0101 2851765 2857742 EN growing old is not a choice but growing up is okay
+25NC47MBP_0101 2863371 2864965 EN oh you actually went nepal
+25NC47MBP_0101 2866453 2870862 EN q. p. sarah oh okay just two of you
+25NC47MBP_0101 2871447 2873200 EN so weird how come you are so
+25NC47MBP_0101 2882256 2886665 EN oh just shopping and you just stay in the hotel
+25NC47MBP_0101 2897886 2899878 EN okay that's cool
+25NC47MBP_0101 2911393 2916923 CS he'll drive you all around eh 你 有 去 那个 mid valley 吗
+25NC47MBP_0101 2925013 2933943 CS no idea actually k. l. is pretty big (er) (er) 很大 我 懂 一个 是 mid valley ah its like
+25NC47MBP_0101 2934600 2937655 CS (er) the 他 们 的 equivalent of
+25NC47MBP_0101 2939293 2942803 CS orchard ion ah 应该 是 equivalent
+25NC47MBP_0101 2944038 2950786 CS 他 们 也 有 times-square-berjaya that's their biggest shopping mall
+25NC47MBP_0101 2956313 2962593 CS because my 我的 妈妈 的 亲戚 都在 k. l.
+25NC47MBP_0101 2966658 2969952 EN no but that can be tried at sentosa so
+25NC47MBP_0101 2972529 2974229 EN everything is much cheaper
+25NC47MBP_0101 2988893 2994472 EN okay but that's okay i have- i have a <unk> at home but i don't think i'll do it because
+25NC47MBP_0101 2995176 2998789 EN i might end up with floating fish
+25NC47MBP_0101 3000276 3003889 EN no i think they will just die and i will get fish food
+25NC47MBP_0101 3010062 3010992 EN so that
+25NC47MBP_0101 3015056 3020768 EN i think it's i think it's to break all the dead skin cells into bite size pieces for the fish
+25NC47MBP_0101 3025927 3028212 EN actually i do also have a hamster
+25NC47MBP_0101 3032382 3035730 EN i don't know you can try to get him to massage your toes
+25NC47MBP_0101 3039457 3043273 EN you should have a portable hamster in your bag so (er)
+25NC47MBP_0101 3043565 3049728 EN oh there are nuts never mind i'll take out my hamster put it on the plate and it will take care of the nuts for me
+25NC47MBP_0101 3051877 3059528 EN and then if you- if you meet a boy which you don't like like maybe he's trying to hit on you you can take out your hamster and say i think you're a big nut
+25NC47MBP_0101 3064939 3069402 EN yes yes obviously they do
+25NC47MBP_0101 3070199 3075140 EN it's their way of showing love they love me a lot
+25NC47MBP_0101 3080533 3090363 CS no lah  but (er) 通常 (er) 如果 那个 仓 鼠 是 从小 你 养 到 大 的 那 他们 不会 咬 你的
+25NC47MBP_0101 3091063 3108233 CS 可能 咬 别 别人 lah  可是 他们 会 (er) 习惯 你的 你的 味道 your your smell your feel cos hamsters have 很 差 的 eyesight ah so how they how they recognise is by smelling
+25NC47MBP_0101 3111788 3122069 EN because i think my hamster has poor memory so he will- he will have to you know taste- taste again okay that's my own
+25NC47MBP_0101 3127603 3138823 CS two ah but actually 我 送 一个 给 给 我 妈妈 的 her colleague's daughter to rear and i have one other hamster
+25NC47MBP_0101 3142593 3155943 CS no (er) hamsters are actually (er) solitary solitary 的 动物 他们 会 打架 so you put two or three you will still end up with one
+25NC47MBP_0101 3158881 3162468 EN yes one and a half sometimes depending on
+25NC47MBP_0101 3163716 3171819 EN yes they do they actually leave behind half usually half ah cause they are not heavy
+25NC47MBP_0101 3176843 3179833 CS 通常 ah 你 会 看到 很多 蚂蚁 also
+25NC47MBP_0101 3189002 3191367 EN usually but sometimes they don't
+25NC47MBP_0101 3194170 3199961 EN if they don't then you get lots of hamsters and you get lots of reluctant friends
+25NC47MBP_0101 3201441 3205001 EN yes (er) like you start asking around
+25NC47MBP_0101 3211773 3219183 CS (er) actually 他们 会 打架 他们 because as i said ah actually hamsters live alone no matter what
+25NC47MBP_0101 3219969 3230144 EN although you see them at the pet shop like in one bunch of six together once they are adults they- once they hit puberty they start fighting
+25NC47MBP_0101 3231929 3234506 EN usually they remind me of
+25NC47MBP_0101 3244326 3248895 CS and and the 男 的 will be blur and clueless
+25NC47MBP_0101 3255061 3256973 EN it's just being a guy
+25NC47MBP_0101 3265190 3270317 EN i think they are one of the simplest animals already other than fish
+25NC47MBP_0101 3282376 3286573 EN i see myself again who's that fish lookaying at me
+25NC47MBP_0101 3290015 3292379 EN that explains why they are so fat
+25NC47MBP_0101 3312913 3319133 CS 你的 朋友 打 来 should be to what
+25NC47MBP_0101 3335183 3338253 CS then 我 明年 打算 stay hall
+25NC47MBP_0101 3339333 3347143 CS (er) 其实 因为 我 觉得 更 方便 啊 so i can i can just wake up at eight
+25NC47MBP_0101 3354481 3358545 EN also because it'll be a five day week for me
+25NC47MBP_0101 3364933 3375723 CS okay then (er) 也是 因为 aiya actually our hall got a lot of pretty girls lah  有 很多 美女
+25NC47MBP_0101 3385787 3392670 CS 应 该 是 four or five for me should be five
+25NC47MBP_0101 3393121 3398884 EN but they will still take into account proximity to m. r. t. station
+25NC47MBP_0101 3408089 3412366 EN eh actually i only represented for two games
+25NC47MBP_0101 3418463 3427017 EN no actually (er) technically no one actually makes- makes it has enough points ah other than j. c. r. c.
+25NC47MBP_0101 3427383 3432803 EN so it'll be dependent on the <unk> list already internal hall points
+25NC47MBP_0101 3442875 3446886 EN yeah plus how handsome i am
+25NC47MBP_0101 3455227 3459531 EN i mean they need to keep the- the - the indian population yeah
+25NC47MBP_0101 3474466 3479832 EN (er) indian but (er) i rarely see malays
+25NC47MBP_0101 3483520 3486655 EN yeah but i hardly see actually
+25NC47MBP_0101 3488403 3496479 EN i think so but according to my neighbour he saw a lot of new neighbours moving in
+25NC47MBP_0101 3503303 3514013 CS 应该 是 吧 but (er) they'll be there might not be a lot of exchange students due to y. o. g.
+25NC47MBP_0101 3524704 3535197 EN (er) they will- they will dump no they will dump a lot of the- those foreign students first priority goes to them
+25NC47MBP_0101 3538332 3545850 EN then you'll get vacated out and i don't think there are lots of slots for foreign exchange students also
+25NC47MBP_0101 3556053 3559267 EN you can sing like birthday song to yourself in chinese and english
+25NC47MBP_0101 3564501 3566334 EN happy birthday
+25NC47MBP_0101 3567317 3568964 EN it doesn't sound right eh
+25NC47MBP_0101 3570611 3572550 EN happy birthday to you

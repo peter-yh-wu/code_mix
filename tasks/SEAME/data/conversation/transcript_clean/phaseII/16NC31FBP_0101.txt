@@ -1,0 +1,403 @@
+16NC31FBP_0101 10150 12900 CS okay 你 以前 是 study in which school
+16NC31FBP_0101 19850 23950 CS oh last time 我 是 study in hwa-chong junior college
+16NC31FBP_0101 29310 32659 CS 今年 你 是 year one or year two
+16NC31FBP_0101 36400 41290 CS 我 今年 是 (呃) year one at
+16NC31FBP_0101 44892 46822 EN at n. i. e.
+16NC31FBP_0101 54207 57684 CS oh okay 以前 你 参加 what c. c. a.
+16NC31FBP_0101 62574 65114 CS (uh) last time 我 是 (呃) 田径 的
+16NC31FBP_0101 65114 69387 CS 我 since secondary one 就 join 了
+16NC31FBP_0101 71374 72904 CS oh 田径 is track-and-field
+16NC31FBP_0101 74381 78892 CS (uh) and then 我 是 做 撑杆跳 的 which is pole-vaulting lah
+16NC31FBP_0101 86164 92484 CS 我 参加 sport sub committee as track manager 然后我还有 join
+16NC31FBP_0101 92484 96407 CS h. s. o. c. as logistics 的 sub committee lor
+16NC31FBP_0101 97406 99301 ZH 你呢
+16NC31FBP_0101 105248 107118 EN oh you're in sports sub committee
+16NC31FBP_0101 109455 110857 ZH 你 是 做 什么 的
+16NC31FBP_0101 114801 118806 CS oh okay okay no wonder 我 没有 看过 你 嘞
+16NC31FBP_0101 125188 130693 CS next semester 我 take 的 都是 我 的 p. e. 的 electives
+16NC31FBP_0101 133826 140814 CS yeah cause uh 因为我的 p. e. 是 uh fixed 的
+16NC31FBP_0101 140814 143714 CS electives 所以 我 没有 得 什么 选择 的
+16NC31FBP_0101 147200 148577 ZH 啊 对
+16NC31FBP_0101 150810 154424 CS as in it's 我 的 兴趣 lor and passion lor
+16NC31FBP_0101 161874 164234 ZH 然后 你嘞以后 要 做 什么
+16NC31FBP_0101 176184 181514 CS 不懂 leh 因为 你 读 maths as in 还 可以 做 什么 东西 other than teacher
+16NC31FBP_0101 189234 191104 CS but 你 的 兴趣 是 要 做 老师 啊
+16NC31FBP_0101 196744 201346 CS 所以 你 拿 完 你 的 degree 就 准备 去 n. i. e. 啊 one year ah
+16NC31FBP_0101 222114 229904 CS 可以 选 (呃) sports science or p. e. ah but 通常 每 个 人 会 选 做 p. e. lo
+16NC31FBP_0101 232368 233480 ZH 啊 应该 会 啦
+16NC31FBP_0101 234414 236884 CS 因为 如果 你 选 sports science 你 就 会
+16NC31FBP_0101 237554 239984 CS 很 scientific ah 你 做 的 东西
+16NC31FBP_0101 243464 247444 CS 就是 not like part of 那个 teaching 的 那个 那个 job scope 了 yeah
+16NC31FBP_0101 255164 258187 ZH 为什么 啊 因为 我 的 成绩 很烂 啦 
+16NC31FBP_0101 259276 264495 CS (uh) my a. levels 我 考 到 c c d
+16NC31FBP_0101 265504 268154 CS never really 用功 to study ah
+16NC31FBP_0101 270053 277144 CS then but so uh i apply n. i. e for as a 体育 老师 啦 so
+16NC31FBP_0101 277144 282274 CS in a way is something that i 我 想要 做的 啦 so to me it's okay ah not that bad lah
+16NC31FBP_0101 282714 288674 CS another option for me 就是 选 做 (呃) 那个 n. t. u. 有 开 那个 sports science and management
+16NC31FBP_0101 289034 294480 CS 我 就是 选 那个 either 那个 or as a p. e. teacher lor so in the end it will be about the same lah
+16NC31FBP_0101 294734 298034 CS 所以 如果 拿 那个 degree then after that 也是 去 n. i. e. 嘛
+16NC31FBP_0101 298034 300311 CS p. e. 那个 course lor
+16NC31FBP_0101 302716 304514 CS 啊 因为 今年 第一次 开 then
+16NC31FBP_0101 305274 307084 CS 那个 spacing like 不多 这样咯
+16NC31FBP_0101 310429 311546 CS but 进 不 了啦
+16NC31FBP_0101 313260 316280 CS 哦 not bad not bad
+16NC31FBP_0101 317429 319229 CS 你 是 选 hall six 还是
+16NC31FBP_0101 319760 322369 EN they as in random
+16NC31FBP_0101 322369 325009 CS random 啊 so so far 你 喜欢 吗
+16NC31FBP_0101 326148 327343 ZH 为什么 嘞
+16NC31FBP_0101 329469 331629 CS what do you mean by environment 很好
+16NC31FBP_0101 339429 341549 CS but 离 你的 学校 very far
+16NC31FBP_0101 344352 348253 EN bus c ah huh walk ah
+16NC31FBP_0101 348253 352454 CS 很近 you walk through hall two is it
+16NC31FBP_0101 355865 359051 CS playground 在 哪里
+16NC31FBP_0101 365899 368049 EN the
+16NC31FBP_0101 368879 370915 EN ah ah ah ah
+16NC31FBP_0101 373216 374609 EN mmm ah
+16NC31FBP_0101 377414 378375 EN ah
+16NC31FBP_0101 381024 384819 ZH 哦 这样 你 每天 是 走路 上学
+16NC31FBP_0101 386899 388309 CS 很近 要走 how long
+16NC31FBP_0101 392369 393799 CS ten minutes 你 讲 很近
+16NC31FBP_0101 394657 398007 CS it's quite far leh ten minutes 不会 啊
+16NC31FBP_0101 405304 407479 EN as in uh
+16NC31FBP_0101 407479 411689 CS 我 之前 有 朋友 是 被 拉 进 hall six cause hall six 是 sports hall 嘛
+16NC31FBP_0101 412991 418849 CS then uh 我 也是 做 sport 体育 的 嘛 所以 是 想 进 hall six lah but 那时候 我 找 不 到 roomie then
+16NC31FBP_0101 419299 420959 CS (呃) 我 就 random 我 的
+16NC31FBP_0101 421059 422609 CS hall 的 application lo
+16NC31FBP_0101 422609 426829 CS in the end random 到 进 hall six lor 不然 我
+16NC31FBP_0101 426829 430289 CS 本来 我 是 想 如果 进不到 那些 two three six
+16NC31FBP_0101 430969 435139 CS then i anything then 我 有 一个 friend 在 seven then 他 就 会 拉 我 帮 我 拉 进去 seven
+16NC31FBP_0101 435569 437109 CS 因为 seven 也是 sports 不错
+16NC31FBP_0101 437939 439609 CS then 我 有 认识 蛮多 人 在 那边
+16NC31FBP_0101 439966 446564 CS then 刚好 进 six then 我 刚好 我的 friends 在 几个 在 比较 好了 咯 in n. t. u 的
+16NC31FBP_0101 446939 450059 EN so i just remain lor it's not bad lah
+16NC31FBP_0101 450641 454889 CS 因为 我 认识 xiao feng 他 以前 是 我的 track senior
+16NC31FBP_0101 456718 464839 CS then he come and talk to us psycho 讲讲 几句 then 就 嗯 嗯 okay okay lor 也 是 没有 话 讲
+16NC31FBP_0101 471615 486780 CS i must say it's lucky lah cause 不 容易 random 到 hall six 因为 通常 都是 for sports people 都 被 拉 进来啊 then 那 spaces 就 不是 很多 so lucky lor got one to sixteen
+16NC31FBP_0101 487287 489520 CS 刚 好 tio six 我 也是 没有 话讲
+16NC31FBP_0101 497544 499752 EN is it as in i think it's mine
+16NC31FBP_0101 501777 504712 EN oh never mind one lah yeah
+16NC31FBP_0101 506884 509792 ZH 哎呀 不要讲 不要讲 
+16NC31FBP_0101 516230 517840 CS 为什么 你 会 一直 想要 laugh ah
+16NC31FBP_0101 524430 530990 CS 那些 sentences 的 structuring 就是 有 一点 奇怪 咯 then just try to 讲 咯}
+16NC31FBP_0101 533934 543826 CS 是 meh 还好 我 也是 为什么 你 一直 在 笑 then 我 就 eh 很好 笑 meh okay lah but 是 有点 奇怪 咯
+16NC31FBP_0101 553168 554623 ZH 啊 对 咯
+16NC31FBP_0101 559341 564842 CS 下个 holiday 是 which month ah? i don't know i really don't know
+16NC31FBP_0101 569830 573500 CS june 我 可能 跟 我 的 friends 一起 出国 啊
+16NC31FBP_0101 575242 581163 CS 因为 做 n. i. e. 每年 有 拿 薪水 啊 we get salary
+16NC31FBP_0101 581959 583854 EN so
+16NC31FBP_0101 584780 589740 CS 我们 有 省 一些 money can go 旅行
+16NC31FBP_0101 595228 598007 CS 你 会 想 要 去 什么 countries
+16NC31FBP_0101 603821 606252 CS but 你 比较 喜欢 什么 种 (呃)
+16NC31FBP_0101 606860 611600 CS like 你 出国 你 要 做 什么 的 activities as in 你 要 去 看 的 还是 你 要 去 play 的
+16NC31FBP_0101 621080 624360 CS do you travel frequently 常常 出国
+16NC31FBP_0101 629217 631220 CS 所以 你 去 过 什么 countries
+16NC31FBP_0101 635380 642260 CS 我 啊 我 是 最近 是 从 phuket 回来 i went with my
+16NC31FBP_0101 642260 648023 EN uh track-and-field friends then
+16NC31FBP_0101 649321 651870 CS about last year 啊
+16NC31FBP_0101 651870 655290 CS yeah before i 进 大学 的 时候
+16NC31FBP_0101 655700 658860 CS 在 家 没有 东西 as in 当 完 兵 没有 东西 做 就 是 在 家
+16NC31FBP_0101 665919 667191 EN enter
+16NC31FBP_0101 669450 678413 CS august eh 对 对 对 that means 是 今年 sorry sorry sorry sorry ah 对 对 对 我 以为 我 二零一零 年 了
+16NC31FBP_0101 683531 687160 CS 所以 我 去 phuket and then uh before that
+16NC31FBP_0101 687710 690970 CS 我 跟 我的 brother 我 跟 他的 friend 去 new zealand
+16NC31FBP_0101 691563 699240 CS that was during my army days lah i take leave then 去 出国 玩 一下 relax 嘛
+16NC31FBP_0101 701249 710370 CS 纽西兰 是 很 贵 but 纽西兰 是 真的 一个 很 it's a 很美 的 地方 ah it's 不只 是 美 then 可以 玩 很多 东西 也是
+16NC31FBP_0101 710370 717540 CS 因为 纽西兰 它 mainly 是 一个 mountainous area
+16NC31FBP_0101 717540 721670 CS 所以 那 风景 很美 then 那时候 我们 去是 winter 所以
+16NC31FBP_0101 722894 727680 CS 那个 like eh 不算 是 winter 啦 like near near spring 的 时候 了
+16NC31FBP_0101 728490 738686 CS then 那个 weather 很好 哇 我们 就 relax 驾车 travel the whole of new zealand 然后 我们 有 做 一个 坐 一个 cruise at one of the forts
+16NC31FBP_0101 739291 747486 CS 然后 我们 有 做 sky-diving 我们 有 玩 white-water rafting 我们 玩 just
+16NC31FBP_0101 748170 750331 CS 那边 什么 都 玩 的 我们 just 去 玩 咯
+16NC31FBP_0101 750576 752852 EN really really very fun experience there
+16NC31FBP_0101 754255 757085 CS went there for about 十二 天
+16NC31FBP_0101 765941 772421 CS 哦 没有 带 你 去 啊  last month oh oh oh too bad
+16NC31FBP_0101 772421 775061 CS never ask them after your exam 才 一起 去
+16NC31FBP_0101 781190 782450 CS then 你 哥哥 o. r. d.
+16NC31FBP_0101 795012 798710 CS oh wah that's a very 贵 的 present leh
+16NC31FBP_0101 804360 809974 CS 还好 啊 我 的 二十一 岁 是 just with my friends 而已 celebrate at my 家
+16NC31FBP_0101 813817 818310 CS 你 没有 celebrate 的 啊 怎么 嘞 为什么
+16NC31FBP_0101 825680 828035 CS 你 的 family 是 多 大
+16NC31FBP_0101 833696 835358 ZH 啊 对 啦
+16NC31FBP_0101 844875 850870 CS oh i got one elder brother 他 现在 在 (呃) london 读书
+16NC31FBP_0101 855600 860010 CS 他 在 imperial college 读 triple e.
+16NC31FBP_0101 862274 867027 CS okay lah 我的 brother 很 聪明 啦 but 我 比较 笨  我 as in
+16NC31FBP_0101 867027 869321 ZH 他 比较
+16NC31FBP_0101 869321 872171 CS studious side 我 是 比较 sporty side lo
+16NC31FBP_0101 872521 874231 CS 所以 就是 有 这样 那个 difference lah
+16NC31FBP_0101 891844 896255 CS 毕业 yeah 应该 会 啦 因为 一 毕业 过 后 就
+16NC31FBP_0101 896726 900344 ZH 做 老师 就 很忙 啊 应该 会 很 忙 啦
+16NC31FBP_0101 915155 922081 CS but 其实 我 最 担心 做 老师 的 事情 是 每天 早上 要 去 唱 国歌 in the morning very early
+16NC31FBP_0101 924568 931398 CS 因为 现在 like 在 university 的 时候 我的 lessons 是 like ten-thirty like that
+16NC31FBP_0101 931840 936488 CS so if we go back to 六点 起来 那种 很累 啦 会 很累 啦
+16NC31FBP_0101 938924 941751 EN oh you okay with it lah that means
+16NC31FBP_0101 961694 964109 ZH 怎么 你 每次 这样 迟 才 睡
+16NC31FBP_0101 967351 970082 CS as in 读书 的 东西 而已 啊 studying ah
+16NC31FBP_0101 975371 978401 CS so how your this semester 你 的 成绩 如何
+16NC31FBP_0101 985300 987689 EN you only aim to pass ah
+16NC31FBP_0101 1014881 1018221 CS 我 okay 啦 mainly 全部 拿 b. lo
+16NC31FBP_0101 1020885 1029792 CS as in as in 我 我 是 有 try to 读 啊 but 我 不是 很 会 读书 的 那种type ah so i try my best lah then can means can lor
+16NC31FBP_0101 1032311 1033973 EN three point five five
+16NC31FBP_0101 1048585 1050281 CS 他们 有没有 mark 错 那个 paper
+16NC31FBP_0101 1064931 1066991 CS oh means 你 本来 就是 蛮 clever 的 what
+16NC31FBP_0101 1072276 1076405 CS i thought maths 的 paper mainly 是 calculation
+16NC31FBP_0101 1076899 1078223 EN electives ah
+16NC31FBP_0101 1102378 1107481 CS 可是 怎么 你 没有 读书 嘞 你 忙 busy with 什么 东西
+16NC31FBP_0101 1135491 1137081 CS 哇 你 做 这样 多 sports 啊
+16NC31FBP_0101 1141556 1144201 CS uh huh 所以 你 是 做 swimming
+16NC31FBP_0101 1148931 1153393 CS 不用紧 啦 just 去 try 游 一下 咯 just 玩 玩 give it a try lah
+16NC31FBP_0101 1179390 1182850 CS then what about your next semester will it be 比较 好
+16NC31FBP_0101 1227143 1231190 CS 哦 你的 year three 那 些 啊 就 很 relax lo okay lah
+16NC31FBP_0101 1235180 1237930 CS 我 啊 我的 很 slack 的 我 的 courses
+16NC31FBP_0101 1238803 1246350 CS 我 那种 一天 eh 我 last semester 一个 礼拜 只 读 about
+16NC31FBP_0101 1249464 1252398 EN about ten hours of lessons ah one week
+16NC31FBP_0101 1254398 1263244 CS i got uh monday go school two hours tuesday go school 一个 钟头 wednesday go school 三个 钟头
+16NC31FBP_0101 1263910 1267060 CS 然后 thursday 没有 钟头
+16NC31FBP_0101 1267060 1269140 CS then friday 多 几个 钟头 这样 就 完 了
+16NC31FBP_0101 1318981 1321292 ZH 会呀 我 有 想过
+16NC31FBP_0101 1322253 1328711 CS as in in 我 想 去 u. k. lor
+16NC31FBP_0101 1330781 1332871 CS 可以 可以 n. i. e. 可以 选 but
+16NC31FBP_0101 1333391 1335821 CS mainly 要 看 那个 成绩 够 好不好 啊
+16NC31FBP_0101 1336461 1340511 CS 所以 我 next semester 会 try to 用功 多 一点啦
+16NC31FBP_0101 1343919 1348841 CS ah nor 你 也 想 去 overseas 哪里
+16NC31FBP_0101 1353423 1360024 CS should be all the courses also 大概 大概 有的 嘞 if 我 没有 听错 的 话 啦
+16NC31FBP_0101 1375635 1379011 CS 重要 要 自己 去 find out 自己 去 ask lor
+16NC31FBP_0101 1409051 1416912 CS 去 玩 咯 我 听 我 的 friends mainly year two 就 just go there and play for six months come back lor
+16NC31FBP_0101 1417561 1420461 CS choose a country that 你 喜欢 的 then 你 just 去 那边 玩
+16NC31FBP_0101 1422729 1424962 CS as in 在 那边 读书 啊
+16NC31FBP_0101 1432129 1440391 CS 啊 是 在 这边 your grades good enough 然后 你 就 过去 那边 你 只要 你 pass 你 的 那边 的 东西 就 可以 了 不用 说 拿 a. or anything 啊
+16NC31FBP_0101 1440855 1445010 CS 你 去 那边 pass so mainly they go there just play play play then exam come study a bit then
+16NC31FBP_0101 1445451 1457846 CS try to go 拿 及格 咯 then 通常 是 在 玩 的 我 每次 跟 他们 讲话 他们 eh 你 在 哪里 哦 我 在 relax 然后 等一下 go and watch soccer match oh okay like that lor
+16NC31FBP_0101 1461274 1462780 ZH 因为 成绩啊
+16NC31FBP_0101 1484027 1485606 ZH 就是
+16NC31FBP_0101 1486935 1489361 CS 刚刚 不是 有 five point zero 了 咯
+16NC31FBP_0101 1492570 1496544 CS 有 啊 everywhere got this kind of clever people one lah
+16NC31FBP_0101 1504516 1512290 CS i heard my friend from uh s. m. u. this one of 我 的 朋友 hor 他的 g. p. a. s. m. u 是 upon four point zero 对 嘛 upon four
+16NC31FBP_0101 1512400 1515055 CS 他 break 那个 他 拿 four point one something
+16NC31FBP_0101 1515055 1518530 CS 因为 他们 有 很多 种 project 的 东西 then 会 like
+16NC31FBP_0101 1518790 1522150 CS 拿 extra extra credit 这样 then 他们 就 讲
+16NC31FBP_0101 1522330 1531727 CS 跟 那个 prof 很好 good friend 这样 就 拿 多 一点 then in the end he get four point one something. i got two friends like that from all hwa-chong then i say huh they crazy already ah
+16NC31FBP_0101 1537102 1544940 CS 因为s. m. u. 是 mainly 看 这种 看 那个 prof 他们 他们 讲讲啦 then class participation 很多 这种 叮叮咚咚 啦
+16NC31FBP_0101 1553289 1560274 EN it's a different environment from n. t. u. or n. u. s. lah from what i see lah
+16NC31FBP_0101 1560461 1563681 CS so 蛮有趣 的 啦 as in 就是 一个 不一样 的 东西 咯
+16NC31FBP_0101 1574060 1580604 CS 为什么 你 觉得 你 不会 生存 呢 你 是 那种 not very vocal 的 or very you very shy one or what
+16NC31FBP_0101 1592861 1600867 CS 我 啊 我 什么 都 吃得 i anything i 可以 吃得 就 吃 咯 我 敢 try anything ah 讲 真的
+16NC31FBP_0101 1605749 1611748 CS just 吃 咯 吃 进去 吃 不好 就 大便 咯 just pass it out
+16NC31FBP_0101 1616137 1619264 EN mm hobbies ah i play soccer lor
+16NC31FBP_0101 1620800 1622650 CS 在 家 没有 东西 做 就 打 game lor
+16NC31FBP_0101 1623148 1626330 CS then as in i think guys mainly 大多数 都 一样 的 啦
+16NC31FBP_0101 1627400 1639041 CS but 我们 sports 我有 pole-vaulting so i 蛮 忙 的 啦 so i don't really have time for other games or
+16NC31FBP_0101 1639340 1642591 CS but 我 有 打 网球 啦 有时候 啊 跟 我的 friends lor
+16NC31FBP_0101 1645780 1647909 CS 你 要 我 slap 你 是不是
+16NC31FBP_0101 1649571 1651207 CS then 排球 是 什么
+16NC31FBP_0101 1660508 1665671 CS 网球 是 tennis netball 的 华文 我 不懂 是 什么
+16NC31FBP_0101 1668766 1672121 CS actually 有 道理 what you say 蛮 有 道理 的 eh
+16NC31FBP_0101 1672410 1676281 CS 网球 跟 net as in yeah but 网球 is tennis
+16NC31FBP_0101 1676773 1680460 EN netball i don't know is what in chinese really i don't know
+16NC31FBP_0101 1685691 1695700 CS 我 啊 我 跟 我 的 friends 通常 是 讲 华语 mainly ah but in school i think 以后 我 去 做工 的 时候 也是 mainly in english lah
+16NC31FBP_0101 1696210 1698444 EN as medium of profession
+16NC31FBP_0101 1701456 1706131 CS yeah 我 both 都 蛮 comfortable 的
+16NC31FBP_0101 1706720 1709640 CS but 我 在 家 mainly 跟 我 的 parents 是 华语 咯
+16NC31FBP_0101 1710675 1714240 CS as in cause both 我的 parents 都是 chinese educated
+16NC31FBP_0101 1714622 1721820 CS then 我 自己 也 算 是 chinese educated in a hwa-chong in a chinese environment 华语 的 environment
+16NC31FBP_0101 1723347 1724750 CS then 你 嘞
+16NC31FBP_0101 1735470 1739650 CS 哪 一个 比较 好 英文 还是 chinese
+16NC31FBP_0101 1747775 1750943 CS oh so you converse main~ uh 比较 多 用 英语 啊
+16NC31FBP_0101 1788320 1790611 CS 你 读 什么 secondary school
+16NC31FBP_0101 1796474 1802395 CS cedar is english as in 比较 english
+16NC31FBP_0101 1814752 1816752 ZH 对 对 对 对
+16NC31FBP_0101 1833324 1845840 CS 我 啊 我 listen to both english and 华文 的 歌 都 有 but 我 以前 在 中学 跟 中学 的 时候 都是 只是 听 chinese songs lor
+16NC31FBP_0101 1846090 1852320 CS it's until 我 到 j. c. 的 时候 then 我 start to listen to english songs ah so and then now 现在 我就
+16NC31FBP_0101 1852530 1853640 CS both 都有 啦 but
+16NC31FBP_0101 1855864 1867225 CS yeah lor but 没有 as in 我的 computer 里面的 songs 都是 那些 旧的 我 没有 去download or 去 听 新的 歌 啊 很 懒惰 啊 很忙 也 是 啊
+16NC31FBP_0101 1868576 1872640 CS 以前 比较 多空 在 家 读书 的 时候 放 radio 听咯
+16NC31FBP_0101 1872640 1875860 CS then 有 听 一些 new 的 songs lah but now don't have already lah
+16NC31FBP_0101 1882616 1889108 CS uh they say n. t. u already down everything the already what 喜欢 meh 为什么
+16NC31FBP_0101 1891835 1903681 CS but like it's really like back to my army days where i stay in my camp like that 就是 like 在兵营 里面 没有 东西 做 then very boring like that lah
+16NC31FBP_0101 1912956 1925576 CS true ah true ah and then 在 n. t. u. like 你 想 出去 很 麻烦 你 晚上 either 你 认识 people with cars or you take a bus out then you very sian cause take very long or you walk out ah
+16NC31FBP_0101 1925828 1927670 EN to go eat supper or anything lah
+16NC31FBP_0101 1927670 1931307 CS but luckily 我 有 认识 几个 with cars lah so yes
+16NC31FBP_0101 1934838 1937123 EN mmm weekends lor
+16NC31FBP_0101 1940590 1950666 CS ah cause~ i don't really like to stay at home ma 因为 在 家 like 也是 没有 东西 做 我 比较 喜欢 出去 啦
+16NC31FBP_0101 1972860 1974420 CS but 你 有 住 very far 吗
+16NC31FBP_0101 1978910 1980460 CS 高文 is kovan 啊
+16NC31FBP_0101 1982650 1991134 CS my parents divorced then er 我的 mother 住在 er bukit-timah then 我的 father 住 serangoon so uh i got go 两边 都有 走 啊
+16NC31FBP_0101 1994656 1997950 CS 我 both side 都还好 eh
+16NC31FBP_0101 1997950 2008430 CS 关系 还好 啦 not really that jialat 的 那种 very bad divorce 啦 so i okay lor but now 我 mainly 去我 mother 那边 因为 比较 靠近 n. t. u.
+16NC31FBP_0101 2008861 2012810 CS then 我 比较 有空 的 时候 我 才 travel all the way back to serangoon lo
+16NC31FBP_0101 2014181 2016180 EN then how you go home from here
+16NC31FBP_0101 2024809 2027009 CS m. r. t. is really 很远 嘞
+16NC31FBP_0101 2027380 2029410 CS 我 坐过 一次 去 到 serangoon whoa
+16NC31FBP_0101 2041300 2044870 CS 所以 你 next year 还 会 想要 stay in hall 啊
+16NC31FBP_0101 2052239 2053820 CS 你有 enough points 吗
+16NC31FBP_0101 2057210 2060742 EN then you never join more things to earn the points
+16NC31FBP_0101 2079139 2083980 CS 当你 not enough points 的 时候 你 就 要 去 认识 那些 j. c. r. c. 的人了
+16NC31FBP_0101 2087840 2096003 CS 你 要 跟 他们 做 very good friends 真的 你 要 去 跟 xiao huat eh very good friends like that good friends then after that next semester 你 就要 eh actually i not enough points ah then
+16NC31FBP_0101 2096003 2100330 CS i stay very far leh very busy then 你 可以 帮 我 一下 吗
+16NC31FBP_0101 2100330 2103330 CS 就是 要 这样 啊 因为 我 some friends in hall two hor
+16NC31FBP_0101 2103750 2105060 CS as in 有我的 classmate 啦
+16NC31FBP_0101 2105490 2110012 CS 他们 一起 去 hall two 啊 then one of them uh is the sports sect now ah
+16NC31FBP_0101 2110220 2114713 CS 所以 他们 讲 他 以后 sports sect then 他 明年 就 做 president of hall two 的 j. c. r. c
+16NC31FBP_0101 2114972 2117720 CS then in the end 他的 room mate 跟他的 friends hor
+16NC31FBP_0101 2118063 2120851 CS 什么 东西 都 没有 join 他们 只 join soccer 而已
+16NC31FBP_0101 2121075 2125400 CS 他们 讲 靠 那个 president 把 他们 next year 拉 back into hall two
+16NC31FBP_0101 2125832 2127338 EN that's the plan
+16NC31FBP_0101 2131727 2139933 EN uh it's like that one lah cause if you think about it you want to remain in hall you need to contribute a lot of things ah you might not have the time lah
+16NC31FBP_0101 2140427 2149464 CS as in 如果 你 放 这样 多 时间 在 里面 hor 如果 你 还是 不够 hor then 你 还是 没有 得 住 hor then 你 like 浪费 这样啦
+16NC31FBP_0101 2166632 2167541 ZH 对 啦
+16NC31FBP_0101 2169300 2174708 CS it's a 好 的 经验 啦 but to me ultimately i will want to stay hall
+16NC31FBP_0101 2175358 2181071 CS 因为 那个 traveling 的 那个 时间 it's 真的 is a very very 浪费 时间 的 一个 东西 啦
+16NC31FBP_0101 2213774 2216481 CS oh actually for me 我
+16NC31FBP_0101 2216881 2220971 CS 不需要 join 这样 多 东西 啦 因为 我 track-and-field i. v. p.
+16NC31FBP_0101 2221356 2225433 CS 所以 我 是 稳住 for hall 的
+16NC31FBP_0101 2225433 2238418 CS but 我 跟 我的 friends 是 讲 哎呀 as in if people see you i. v. p. then you never contribute to hall then 对 其他 人 不 公平 啊 so to me i just try out something lah so i join the sports sub committee
+16NC31FBP_0101 2238418 2243801 CS then 我就 er then 我 会 玩 sports 所以 我 就 帮 他们 踢球 玩 track 这 些 东西 咯
+16NC31FBP_0101 2244370 2246805 CS 帮 他们 conduct 那些 coaching 也是 trainings
+16NC31FBP_0101 2247567 2255280 EN you try to give back to the hall ah as in as in if you stay then you want to do something for the hall also
+16NC31FBP_0101 2256578 2259990 CS cause~ but 有时候 我 join then 我 就 有一点 regret like
+16NC31FBP_0101 2260842 2267686 EN ah like eat up time as in cause~ i i. v. p. then i got my own i got a lot of my own trainings outside then
+16NC31FBP_0101 2267686 2269671 EN as in some i can go some i cannot go ah
+16NC31FBP_0101 2269671 2273583 EN like actually today now i supposed to have my pole vault trial with my coach
+16NC31FBP_0101 2273583 2277291 CS then i cannot go lah  没有 得 去 咯 then 我 跟 我的 教练 讲 then 他就
+16NC31FBP_0101 2277291 2281122 ZH 啊啦 你 很 厉害 啦 大学 了 你 就 这样 以前 中学 就 没有 这样
+16NC31FBP_0101 2285300 2288250 CS 不会 啦 要 懂得 怎样 prioritise 自己 的 时间咯
+16NC31FBP_0101 2288550 2295418 CS as in 到了 这种 阶段 已经 够大 to understand what is important and what is
+16NC31FBP_0101 2295870 2298490 CS important but less important 的 时候 就要
+16NC31FBP_0101 2298915 2302706 CS give chance lah then take and give lah this kind of 东西
+16NC31FBP_0101 2308740 2310726 CS for 我 不会 啊
+16NC31FBP_0101 2310726 2312661 ZH 通常 是 那些
+16NC31FBP_0101 2312661 2317325 CS track 的 人 一起 在 学校 训练 然后 我 因为 我 撑杆跳 我
+16NC31FBP_0101 2317325 2320391 EN i need to go outside and train separately with my coach
+16NC31FBP_0101 2320391 2326827 CS the n. t. u. coach 不会 教 撑杆跳 所以 我 自己 一个人 去 外面 练 咯
+16NC31FBP_0101 2327437 2331941 CS but 我 也是 认识 n. t. u. 的 i. v. p. track and team track-and-field team lah
+16NC31FBP_0101 2331941 2334630 CS 有 gatherings 那些 啦 they try to
+16NC31FBP_0101 2335154 2339720 EN uh get everybody together then like have a sense of belonging
+16NC31FBP_0101 2339720 2342037 EN but a bit difficult ah
+16NC31FBP_0101 2342037 2346802 CS really lah if you don't train together you 你 没有 那种 亲切感 啊
+16NC31FBP_0101 2351783 2355107 CS ah ya 我 认识 ferrous* 你 怎样 认识 他 的
+16NC31FBP_0101 2362014 2365250 CS uh 他 以前 是 hall six 的
+16NC31FBP_0101 2366143 2369370 CS yeah then uh 他 去 hall three
+16NC31FBP_0101 2369961 2371598 CS then 很多人 很 生气
+16NC31FBP_0101 2372298 2375380 CS cause~ hall six 跟 hall three 是 sports rivals
+16NC31FBP_0101 2376080 2378570 CS so then er 他 跑 过去 hall three as in
+16NC31FBP_0101 2379222 2382427 CS 也不是 他 要 的 啦 他 只是 去 住 一个 hall 而已 啦
+16NC31FBP_0101 2382754 2386077 CS then 他们 就 讲 咯 很多 人 在讲 啦 but 我 是 随便 啦
+16NC31FBP_0101 2389844 2394371 CS yeah 我 不是 很 清楚 啦 没有 问 他 啦 but 他 就是 跑到 hall three lor
+16NC31FBP_0101 2400530 2402815 CS 为什么 go to other halls
+16NC31FBP_0101 2432074 2436411 ZH oh 难怪 他们 要 留 他
+16NC31FBP_0101 2462058 2464670 CS oh but 这种 can talk it out 的 嘞
+16NC31FBP_0101 2476060 2478426 CS then 不要 住 hall six lo change
+16NC31FBP_0101 2482581 2483672 ZH 为什么
+16NC31FBP_0101 2487822 2492230 CS but 其他 hall 的 points requirement 可能 会 比较 低 啊 会不会 啊
+16NC31FBP_0101 2496418 2498870 CS but 因为 hall six very competitive what
+16NC31FBP_0101 2499000 2504540 CS 每 个 人 在 earning 那个 points what so even if 你 earn 够 hor as in to hit the minimum requirement orh
+16NC31FBP_0101 2504940 2508720 CS let's say 每 个 人 都 over 那个 minimum requirement hor 你 也是
+16NC31FBP_0101 2509330 2512107 CS 没 有 得 住 啊 that's the thing about hall six
+16NC31FBP_0101 2512687 2514276 EN that's why quite jialat lah
+16NC31FBP_0101 2526113 2528179 ZH 搬家
+16NC31FBP_0101 2531950 2534180 CS rent a house 靠近 哇 so serious ah
+16NC31FBP_0101 2560655 2563632 CS 我的 我的 parents 是 有点 不管 我 啦
+16NC31FBP_0101 2563900 2566151 CS 因为 我 每次 army 也是 以前 just 出国 这样
+16NC31FBP_0101 2566758 2573730 CS training like two three months then 没有 看到 我 咯 then 他们 都 okay eh just 久久 一次 我 打电话 回去 就 okay 了
+16NC31FBP_0101 2573730 2579350 CS then 现在 我住 hall hor 我 想 回 就 回 咯 不想 回 就
+16NC31FBP_0101 2579350 2580460 CS but 我 通常 weekend
+16NC31FBP_0101 2581130 2583850 CS 都有 回 啊 unless 我有 trainings or 我 比较 忙
+16NC31FBP_0101 2584715 2589052 EN then not worth the time to travel just stay lor not say as in
+16NC31FBP_0101 2589820 2591980 CS stay here and go home 有 什么 difference 这样
+16NC31FBP_0101 2591980 2594482 ZH 回家 也是 睡觉 看 电视
+16NC31FBP_0101 2594482 2601320 CS 玩 game lor 在 这边 也是 一样 没有 电 没有 去 看 那个 电视 而已 啦 but 还好 啦
+16NC31FBP_0101 2618569 2621380 CS 是 meh actually 我 也是 very excited to stay hall 的
+16NC31FBP_0101 2626645 2628932 CS 对 咯 你 是 哪一个 block
+16NC31FBP_0101 2638201 2644382 CS oh thirty-three is the 那个 leading to 那个 s. r. c. 那个 road 那个 block right
+16NC31FBP_0101 2653522 2655516 EN hall six ah good choice good choice
+16NC31FBP_0101 2688229 2694630 CS ah as in 我 跟 我的 friends 讲 hall six 他们 就 oh so what sport you play and what sport were you pulled in for 他们 就 问 这种 问题
+16NC31FBP_0101 2694900 2696540 CS as in 他们 的 mentality 就是
+16NC31FBP_0101 2696710 2701440 CS hall six 就是 你 问 那一个 hall six 的就 confirm 是 sports 很 厉害 的 什么 都 会 玩的
+16NC31FBP_0101 2701630 2706820 CS so what sport you do oh i play soccer oh so you pulled in for soccer 没有 啦 没有 啦 是 random ah 这样
+16NC31FBP_0101 2707650 2710640 CS 每个 就 很 interested 这个 sports hall 这些 东西咯
+16NC31FBP_0101 2715340 2718929 CS 对 啦 是 有 这个 道理 啦 but like
+16NC31FBP_0101 2719158 2722540 CS 太 over-emphasis on 这 个 sports hall 这个 东西 了啦
+16NC31FBP_0101 2737370 2740019 CS 就是 有 那个 thinking lah but actually
+16NC31FBP_0101 2740019 2742710 CS 还好 啦 有 这些 hall life hor is
+16NC31FBP_0101 2742710 2748790 CS a different form of life as in compared to 你 j. c. 在 读书 的 时候 没有 这种 东西 嘛
+16NC31FBP_0101 2749510 2757340 CS then 你 就 想 like let's say s. m. u. 没有 他们 的 classes like not so 他们 的 students like not so close-knitted together
+16NC31FBP_0101 2757680 2764100 CS as in 我们 读 完 书 我们 回来 hall 我们 meet up with your hall friends we spend like it's like a mini community 这 样子啦
+16NC31FBP_0101 2764100 2765546 ZH 这样 的 一个 感觉咯
+16NC31FBP_0101 2766291 2768255 CS 所以 to me 我是
+16NC31FBP_0101 2768255 2771690 CS look forward to it but 一 到 这里 then uh
+16NC31FBP_0101 2771690 2774090 CS oh 所以 是 这样 而已 啊 then 我就 okay ah
+16NC31FBP_0101 2774090 2775789 EN but i still quite like it ah
+16NC31FBP_0101 2777110 2778175 EN thirty-four
+16NC31FBP_0101 2782296 2787045 EN but i not really very active in my block activities or the hall stuff ah
+16NC31FBP_0101 2787255 2791176 CS 我 每次 看 flyer then 就 just 丢 掉
+16NC31FBP_0101 2792916 2793903 EN hall four ah
+16NC31FBP_0101 2798551 2803226 EN your block is the noisy block right is it or is it thirty-two
+16NC31FBP_0101 2832552 2833850 CS 他们 是 locals ma
+16NC31FBP_0101 2872601 2876121 CS your roomie is as in 你 认识 的 啦 before that you know you know her already ah
+16NC31FBP_0101 2876692 2878692 EN oh yeah cause i random
+16NC31FBP_0101 2879315 2881441 EN he's a indonesian
+16NC31FBP_0101 2882269 2885100 EN then as in he's quite okay ah then
+16NC31FBP_0101 2885100 2895461 CS because my roomie is like indonesian so his indon friends always 回来 他 的 房 回来 我 的 房间 咯 then 我 就 会 我 就 认识 almost 整个 hall six 的 indon community ah
+16NC31FBP_0101 2895461 2900911 CS they always come then 他们 很 喜欢 like play guitar 他们 喜欢 play computer games 这样 then 讲话
+16NC31FBP_0101 2901265 2907887 CS then but 他们 每次 讲 in 他们 的 indon language ah 所以 我 听不懂 then 我就 just 做 我会 tone down 做 自己 的 东西 咯
+16NC31FBP_0101 2908024 2910104 CS but 有时候 我 会 跟 他们 讲话 then 我有
+16NC31FBP_0101 2910104 2913384 EN play soccer with them also just join in lah as in
+16NC31FBP_0101 2913384 2917449 CS 因为 我的 block 那边 我 不是 很 认识 then 我 只 认识 那些 indon 的
+16NC31FBP_0101 2917449 2922948 CS then 他们都 stay like a few together quite together so it's always them together lor
+16NC31FBP_0101 2926458 2932610 CS nino 你 懂 是 谁 吗 哦 你 不懂 啊 不用紧 啊 他 已经 飞 他 回 印尼 了 他 一月 多 才 回来
+16NC31FBP_0101 2934223 2936129 EN so i got the whole room to myself
+16NC31FBP_0101 2981284 2984452 CS 为什么 他 不要 just 直接 sunday night 就 sleep 了
+16NC31FBP_0101 2992061 2996175 CS then then 为什么 它 要 住 hall in the first place
+16NC31FBP_0101 3004604 3009284 CS 他们 没有 想 的 他 的 parents it's really very inconvenient to travel really really it's a waste of time
+16NC31FBP_0101 3009284 3015678 EN on the thing on the m. r. t. you have nothing to do you can only sleep if you have no space to seat then you can only stand and you can only stare
+16NC31FBP_0101 3026792 3031165 EN my mother will always kao-pei me if i take public transport
+16NC31FBP_0101 3031165 3035595 EN back home ah as in she will ask whether need to fetch me or not
+16NC31FBP_0101 3036167 3039696 CS then i always say 哎呀 我 自己 搭 bus 回 then 她就讲
+16NC31FBP_0101 3040036 3044051 CS 你 自己 搭 bus 你 浪费 这样 多 时间 你 不会 早 一点 回来 休息 还是 什么
+16NC31FBP_0101 3046294 3051188 CS uh then 我 mother 每次 讲 then 我 就 讲哎呀我 i don't want to ask you come out fetch like very inconvenient of you
+16NC31FBP_0101 3051188 3056804 CS then 她 讲 没有 啦 载你 哪里 是 inconvenient 你 just 叫我 then 我 就 okay okay okay you come and fetch me like that
+16NC31FBP_0101 3058828 3064671 EN but i also can drive so sometimes i drive to school then i drive back home something like that lah but
+16NC31FBP_0101 3066671 3069714 CS ah yeah 我 妈妈 的
+16NC31FBP_0101 3069714 3073211 CS 她 是teacher 来的 then 她 现在 school holiday 所以 she never go school
+16NC31FBP_0101 3078681 3079686 EN ah yeah
+16NC31FBP_0101 3081668 3082959 EN uh physics
+16NC31FBP_0101 3085251 3087492 EN serangoon secondary school
+16NC31FBP_0101 3095084 3096642 ZH 做什么
+16NC31FBP_0101 3118599 3120676 EN where is meridian j. c.
+16NC31FBP_0101 3121819 3123949 CS then kovan 不是 很远
+16NC31FBP_0101 3140724 3143451 CS 我蛮难的 cause 我
+16NC31FBP_0101 3145354 3153631 CS speak 完 一个 sentence hor 我 english 就是 pure english 我 chinese 就会 pure 华文 我 很难 参
+16NC31FBP_0101 3164217 3166258 CS put in 那个 effort to 讲 咯
+16NC31FBP_0101 3170813 3175380 CS but to 要 bilingual 不是 说 要 mix 的好 耶 是 like
+16NC31FBP_0101 3175380 3182270 CS 你的 chinese 讲 pure 的 时候 要 pure 好 then 你的 english complete pure english
+16NC31FBP_0101 3188273 3190969 CS 啊 to me 我 比较 习惯 这种 东西 啊
+16NC31FBP_0101 3191800 3196931 CS but when i talk to my friends right i know that 这 个 人 是 英文 的 i naturally talk to him in english
+16NC31FBP_0101 3197721 3201770 CS then if it's chinese then i naturally 就是 跟 他 讲 华文 咯 as in 很难
+16NC31FBP_0101 3201770 3204760 CS but 有时候 我 我 有 一个 friend hor 很 funny 的 leh 他 是 我 army 的啦
+16NC31FBP_0101 3204760 3207100 CS then 那时候 他 是 很 ang-moh 的 啦 他是 s. a. j. c. 的
+16NC31FBP_0101 3207100 3209689 CS then 我 hwa-chong ah so i don't know ah then
+16NC31FBP_0101 3209689 3213522 CS i go and talk to him eh 你 等 一下 去 哪里 吃 then 他就 oh later i'm going back home
+16NC31FBP_0101 3213522 3218540 EN as in i always talk to him mandarin he will reply in english then
+16NC31FBP_0101 3218540 3223077 CS for very long leh cause er 我们 在 army together er nine months 九个 月 啦
+16NC31FBP_0101 3223381 3233423 CS then throughout these nine months 我 每次 跟 他 讲话 都是 in chinese until i remember the last few months ah suddenly he convert eh he become then he always say i very cheena-pok
+16NC31FBP_0101 3233423 3237396 EN cause~ i chinese high one then i always talk to him in chinese
+16NC31FBP_0101 3237681 3242736 CS then 他 就 会 seng kiat you very cheena-pok leh then i say ahyeah 你 去死 啦 like that lah
+16NC31FBP_0101 3242736 3251768 EN uh in the end i convert him into speak mandarin then just recently i met him ah i pick him up from clementi m. r. t. then i say hi clement what have you been doing recently
+16NC31FBP_0101 3251768 3258010 CS then he reply to me in mandarin leh oh 我 最近 在 hall 忙 咯 忙 那些 rag games then i look at him then i stare at him very long then i
+16NC31FBP_0101 3258426 3263052 CS eh clement you okay not i ask you i talk to you in english 你 用 华语 reply 我
+16NC31FBP_0101 3263308 3266783 CS then 他 讲 哎呀 看到 你 就 要 想要 用 华语 reply 你
+16NC31FBP_0101 3298590 3301966 CS no lah just very funny lah my friend is just 超 好 笑 啦
+16NC31FBP_0101 3303784 3307561 CS uh s. a. 的 都是 ang-moh 的 ang-moh 派 right
+16NC31FBP_0101 3327169 3329506 EN he recently o. r. d. ah he what camp one
+16NC31FBP_0101 3332324 3334803 CS 他 是 你的 brother eh
+16NC31FBP_0101 3336284 3339495 EN as in which army camp he goes to
+16NC31FBP_0101 3343390 3346324 EN so is he an officer or what you don't know
+16NC31FBP_0101 3366163 3368490 CS for a better or 变坏
+16NC31FBP_0101 3385284 3389704 CS but 我 认识 很多 人 他们 经过 army they have a turn change for a better
+16NC31FBP_0101 3389769 3392960 CS all become 比较 成熟 这样 咯 比较 好 啊
+16NC31FBP_0101 3434673 3439010 CS very easy one lah 我 很 厉害 talk cock 的 所以
+16NC31FBP_0101 3442905 3448289 CS 不用 不用 讲 这些 的 what as in these are just a guidelines for us 跟 啊 if we have nothing to say
+16NC31FBP_0101 3467077 3470635 EN oh you are a freethinker ah then
+16NC31FBP_0101 3500382 3507119 CS 我 是 my family don't celebrate christmas 因为 我们 我们 是 freethinker 所以 通常 我 跟 我 的 friends lor
+16NC31FBP_0101 3507627 3517469 CS then 买 礼物 真的 是 big headache ah seriously ah wah i can spend the whole day oh 在 那个 shopping centre 走 hor 看这个
+16NC31FBP_0101 3517469 3523156 CS like 没有 用 这样 看 那个 eh 很 贵啊 then look at this aiya like no use then wah
+16NC31FBP_0101 3541314 3546334 CS ah yeah 啦 对 啦 我 就是 去 买 cards then 写 but i also bought a gift lah

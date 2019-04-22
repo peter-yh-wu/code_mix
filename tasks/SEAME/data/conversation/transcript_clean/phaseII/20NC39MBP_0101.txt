@@ -1,0 +1,464 @@
+20NC39MBP_0101 29500 31201 EN okay sure
+20NC39MBP_0101 38131 39121 EN hello
+20NC39MBP_0101 43359 44504 EN hi
+20NC39MBP_0101 45834 48773 CS hi 你~ 你好
+20NC39MBP_0101 56497 58211 EN okay sure
+20NC39MBP_0101 62343 63364 EN yes
+20NC39MBP_0101 72081 72885 EN yes
+20NC39MBP_0101 75669 78237 EN oh okay can okay thank you
+20NC39MBP_0101 79010 84239 EN <unk> yes started has we already started
+20NC39MBP_0101 85940 87054 EN oh okay can
+20NC39MBP_0101 90369 91523 EN okay can
+20NC39MBP_0101 92472 93617 EN okay
+20NC39MBP_0101 96804 102032 CS they~they just cut <unk> they 喜欢
+20NC39MBP_0101 107739 109859 ZH 哈 我 是 我 也是 这样 觉得
+20NC39MBP_0101 114337 115211 EN really
+20NC39MBP_0101 116560 119780 CS 我 真是 觉得 我 quite bad 的 嘛
+20NC39MBP_0101 122492 124126 EN 
+20NC39MBP_0101 125987 127503 ZH 诶 我 也 这么 觉得
+20NC39MBP_0101 133376 133931 EN 
+20NC39MBP_0101 135139 137026 CS yes 真的 是
+20NC39MBP_0101 137800 139285 EN headache ah
+20NC39MBP_0101 141619 142840 EN 
+20NC39MBP_0101 156678 160138 CS 应该 是 他们 make it 吧
+20NC39MBP_0101 160630 165880 CS 因为 我 有 cheerleading practice 在 那天 晚上
+20NC39MBP_0101 171731 174051 ZH 我 也 不知道
+20NC39MBP_0101 176897 178475 EN do not laugh
+20NC39MBP_0101 184308 186282 ZH 啊 真的 嘛
+20NC39MBP_0101 192336 193356 EN really
+20NC39MBP_0101 193670 197580 CS 因为 可能 他们 没 做 conversation 吧
+20NC39MBP_0101 201234 202534 ZH 他们 只 念
+20NC39MBP_0101 203514 205014 EN hundreds lines of
+20NC39MBP_0101 205695 207754 ZH 句子 
+20NC39MBP_0101 208394 209074 EN 
+20NC39MBP_0101 209450 213910 CS so 你 在 caroling practice 的 时候
+20NC39MBP_0101 214278 215804 ZH 好玩 吗
+20NC39MBP_0101 221989 223969 EN 
+20NC39MBP_0101 227063 228609 EN 
+20NC39MBP_0101 236591 240674 CS 我 看 你们 还 not bad 的 嘛
+20NC39MBP_0101 242283 244139 ZH 那些 女孩子
+20NC39MBP_0101 245624 250366 CS yes you looks 棒
+20NC39MBP_0101 251913 254635 EN 
+20NC39MBP_0101 265170 269670 CS 因为 可能 男人 born to have louder voice
+20NC39MBP_0101 282661 284022 EN oh really
+20NC39MBP_0101 285020 289020 CS 我们 已经 尽力 了 we tried our best
+20NC39MBP_0101 291170 293560 CS 你们 女孩子 可能 can sing louder
+20NC39MBP_0101 299428 304090 ZH 对 (呃) 刚～ 刚才 听 问题 就是
+20NC39MBP_0101 304090 308444 CS 说 这样 一句话 当 sarah walk into the room 
+20NC39MBP_0101 316424 317844 EN oh really
+20NC39MBP_0101 319704 321127 EN en
+20NC39MBP_0101 326325 328720 CS 哦 真的 吗 really
+20NC39MBP_0101 335775 339240 EN oh my 
+20NC39MBP_0101 340477 349139 CS 还有 什么 吗 你们 觉得 的 do you find anything else any gossips
+20NC39MBP_0101 355512 361885 CS ai caroling practice 还 还是 每天 下午 真是 累啊
+20NC39MBP_0101 378798 381953 ZH 嗯 我 也是 这么 觉得
+20NC39MBP_0101 384861 388931 CS 哎 可是 actual caroling session 要 start 了
+20NC39MBP_0101 390881 392661 CS 就是 this saturday
+20NC39MBP_0101 399863 402956 CS 有 一 that's one sembawang
+20NC39MBP_0101 406545 410133 ZH 啊 就是 这么 说
+20NC39MBP_0101 423751 428881 CS i think you can 住 宿舍 during the choa-chu-kang session
+20NC39MBP_0101 431175 435235 CS 可是 you house is very far
+20NC39MBP_0101 436511 439851 CS you save a lot of 时间 on traveling
+20NC39MBP_0101 457111 458971 CS can do that in 宿舍
+20NC39MBP_0101 466449 468284 EN momie's girl
+20NC39MBP_0101 472636 473812 EN 
+20NC39MBP_0101 475341 477861 CS in hall you can 用 电 脑
+20NC39MBP_0101 491581 493141 CS 真的 吗 i didn't notice it
+20NC39MBP_0101 503395 505134 EN oh
+20NC39MBP_0101 512894 517054 ZH 哦 真的 啊 还 真是 辛苦 你了
+20NC39MBP_0101 522009 523247 EN 
+20NC39MBP_0101 524175 525598 EN is it cool
+20NC39MBP_0101 532899 536611 CS okay ohoh 我 可以 想象 的到
+20NC39MBP_0101 540818 542593 ZH 真的 吗
+20NC39MBP_0101 548121 551281 CS 你 房间 里面 have a fan isn't it
+20NC39MBP_0101 554595 557755 EN but oh you can open the window
+20NC39MBP_0101 562295 565594 EN really what is on the other side of your window
+20NC39MBP_0101 575608 578268 EN more oh i see
+20NC39MBP_0101 579651 582101 CS so 你 明年 打算 stay hall 吗
+20NC39MBP_0101 588699 590740 EN yeah stay in
+20NC39MBP_0101 591483 595257 CS tampenis right so you have distance point 七分
+20NC39MBP_0101 596371 598969 CS 再加 q. b. 的 五分
+20NC39MBP_0101 604191 607171 CS you can be in the recommendation 名单 里面
+20NC39MBP_0101 616621 618671 CS those are 师兄 师姐
+20NC39MBP_0101 624265 627145 EN  
+20NC39MBP_0101 645864 647288 ZH 你 可以
+20NC39MBP_0101 647782 651873 CS 下 个 学期 be more active 
+20NC39MBP_0101 656699 659855 EN yes (er) maybe
+20NC39MBP_0101 665429 673929 ZH 我 也是 这么 认为 可是 如果 现在 退出 有点～ 有点 (呃) 不合 人情 啊
+20NC39MBP_0101 688254 689306 ZH 谁
+20NC39MBP_0101 694715 697314 CS 谁 who~ who is the person
+20NC39MBP_0101 698860 702041 CS 哦 他 他的 knee 严重 吗
+20NC39MBP_0101 706421 709251 CS 没有 人 跟 我 讲 no one told me about that
+20NC39MBP_0101 714213 721947 EN what what is after exam the first traning she is not with us what
+20NC39MBP_0101 730623 735944 CS 为什么 很 好玩 的 you can play chair
+20NC39MBP_0101 742738 746578 ZH 什么 在 空中 的 感觉 不是 很棒 吗
+20NC39MBP_0101 758243 760594 CS 很 frightening
+20NC39MBP_0101 779028 783178 EN don't worry you have sixty in place
+20NC39MBP_0101 793882 795429 EN so understand
+20NC39MBP_0101 802375 804511 CS oh oh elevator 是 吗
+20NC39MBP_0101 806401 809366 CS 是 两个 guys lift you up
+20NC39MBP_0101 810701 812151 CS 那个 是 elevator
+20NC39MBP_0101 826602 828521 EN 
+20NC39MBP_0101 828521 830601 CS when you are used to it 就可以 了
+20NC39MBP_0101 839691 844821 CS but you're the lightest girl in 宿舍
+20NC39MBP_0101 849891 853881 CS i don't see any girl 比 你 还 轻 的 在 宿舍 里面
+20NC39MBP_0101 856351 858451 CS 应该 是 吧 that's what i think
+20NC39MBP_0101 861436 863973 ZH 你 不 这么 认为 吗
+20NC39MBP_0101 870591 872385 CS like 比如
+20NC39MBP_0101 875912 879941 CS li~ lisa but i think you are smaller smaller 你 比 她 小
+20NC39MBP_0101 881480 882656 EN really
+20NC39MBP_0101 893845 895516 ZH 可以 应～
+20NC39MBP_0101 896320 898671 EN (er) i think so
+20NC39MBP_0101 899909 906303 EN 
+20NC39MBP_0101 915006 916181 EN yes
+20NC39MBP_0101 917233 918780 EN i agree
+20NC39MBP_0101 922987 928432 CS okay 所以 所以 你 经常 是 做 什么的
+20NC39MBP_0101 929917 931464 CS what's your 嗜好
+20NC39MBP_0101 932021 933568 EN what's your hobby
+20NC39MBP_0101 939551 941871 CS 好看 吗 is it interesting
+20NC39MBP_0101 960802 962906 ZH 感动
+20NC39MBP_0101 969101 972461 CS 你 看 了 多少 and
+20NC39MBP_0101 981891 990126 CS so you only watch manga* 而 没有 看 anime as in (er)
+20NC39MBP_0101 1004047 1009059 CS anime 不会 比 manga* slow a lot
+20NC39MBP_0101 1027021 1035231 CS 我 有时候 看 then i watch like naruto 我 抓 有些 重要 的 细节 i didn't catch it
+20NC39MBP_0101 1038145 1041645 ZH (呃) 像 打斗 新
+20NC39MBP_0101 1049641 1052301 CS but is not as 精彩
+20NC39MBP_0101 1066252 1067737 EN 
+20NC39MBP_0101 1068481 1070491 CS 发生 了 什么 事 what happen ah
+20NC39MBP_0101 1078598 1084043 CS as in 你 你 还有 deduct one minute plus form the start
+20NC39MBP_0101 1085191 1090081 CS okay from the 时间 来看 还有 差不多 四十分 钟
+20NC39MBP_0101 1092581 1093695 EN around there
+20NC39MBP_0101 1097221 1104460 EN i think we need to speak louder from the wavelength from the monitor
+20NC39MBP_0101 1107863 1110957 ZH 我 是 这么 觉得
+20NC39MBP_0101 1114741 1119171 CS so 你 在 初级 学院 的 时候 好玩 吗
+20NC39MBP_0101 1120858 1126612 EN yes 
+20NC39MBP_0101 1161371 1162951 CS don't you feel the 压力
+20NC39MBP_0101 1184677 1189141 CS  你 不是 讨厌 mugger people
+20NC39MBP_0101 1207481 1209361 CS do you think 你 考 得 好 吗
+20NC39MBP_0101 1224171 1227471 CS so 大致 上 do you like your junior college
+20NC39MBP_0101 1231880 1234354 CS 你 参加 了 什么 c. c. a.
+20NC39MBP_0101 1238314 1239799 EN 
+20NC39MBP_0101 1242027 1243573 ZH 诶
+20NC39MBP_0101 1244501 1246110 CS 你 found out
+20NC39MBP_0101 1246667 1248152 EN this secret
+20NC39MBP_0101 1249637 1252730 EN  
+20NC39MBP_0101 1253991 1263361 CS i join a sports club 就 做 例如 frisbee in line skating
+20NC39MBP_0101 1265331 1270161 CS yes 那种 不是 久留 的 运动
+20NC39MBP_0101 1271601 1274351 CS as in 不是 mainstream sports
+20NC39MBP_0101 1274351 1275861 EN like (er)
+20NC39MBP_0101 1275861 1280431 CS frisbee its like soccer basketball 这类 的 运动 我们 都 不 做
+20NC39MBP_0101 1284697 1285811 ZH 因为
+20NC39MBP_0101 1286291 1290471 CS it is something like o. d. a. c. 可是 有点 不同
+20NC39MBP_0101 1291070 1292122 EN en
+20NC39MBP_0101 1292740 1294151 CS 嗯 对 i think
+20NC39MBP_0101 1294151 1296911 CS 也是 算 outdoor 可是 跟 他们 做 的
+20NC39MBP_0101 1296911 1301216 EN the activities quite different
+20NC39MBP_0101 1303208 1308405 EN in line skating (er) surfing
+20NC39MBP_0101 1309457 1311498 EN yes (er) but in
+20NC39MBP_0101 1312117 1316572 EN it's actually really it's not i don't think it's dangerous as it in the wind surfing yeah
+20NC39MBP_0101 1317624 1320903 ZH 那个 需要 (呃) 拿住 那个
+20NC39MBP_0101 1322512 1324739 CS 那个 surf
+20NC39MBP_0101 1326410 1330369 EN 
+20NC39MBP_0101 1344070 1345802 EN what what do you called that
+20NC39MBP_0101 1352608 1354588 ZH 他 叫做 什么
+20NC39MBP_0101 1357929 1359786 ZH 想 不起 了
+20NC39MBP_0101 1361121 1364661 CS 很好 像 很好 玩 是 这样 可是 我 觉得 很 tiring
+20NC39MBP_0101 1365849 1367210 EN don't you think so
+20NC39MBP_0101 1378038 1381193 EN okay oh ah this rock climbing as well
+20NC39MBP_0101 1382617 1383731 EN it's quite
+20NC39MBP_0101 1383731 1394011 CS actually its not really rock climbing its more like sports climbing 有点 不一样 rock climbing 是 真的 是 爬 真的 山
+20NC39MBP_0101 1395610 1397157 EN yes
+20NC39MBP_0101 1400684 1407799 CS 啊 对 圣安德烈 初级 学院 st. andrew junior collage if you don't know yeah
+20NC39MBP_0101 1413161 1417801 CS it sounds better than 我 想象 的
+20NC39MBP_0101 1429259 1440447 CS no you did better than than 我 your your reading is much better than me
+20NC39MBP_0101 1442687 1449436 ZH 我 一直 漏掉 很多 华文 字 在 句子 里面
+20NC39MBP_0101 1464099 1465522 EN 
+20NC39MBP_0101 1473978 1480104 EN (er) maybe i'm not <unk> enough
+20NC39MBP_0101 1485425 1487157 CS ah 对 yes
+20NC39MBP_0101 1487581 1494211 CS 因为 我 mother don't speak chinese 所以 我 用 english
+20NC39MBP_0101 1495324 1502130 CS 我 爸爸 啊 两种 语言 can do so i will speak english
+20NC39MBP_0101 1503791 1511601 CS since 我 妈妈 我 已经 用 英文 了 so 干脆 在家 just use english
+20NC39MBP_0101 1544851 1546781 CS didn't you 尝试 speaking
+20NC39MBP_0101 1547783 1550443 CS 母语 with them
+20NC39MBP_0101 1556074 1560157 ZH 像 我们 现在 做的
+20NC39MBP_0101 1568967 1574288 ZH 你 父母 华 华语 华语 是 对讲的
+20NC39MBP_0101 1576851 1582911 CS 华语 is used for speaking 华文 is something like a written language
+20NC39MBP_0101 1589141 1593281 CS but i guess we will just 算了 吧 just 用 错 就 错 吧
+20NC39MBP_0101 1597631 1599116 EN 
+20NC39MBP_0101 1600044 1606046 CS 我们 加油 let's keep up the good work
+20NC39MBP_0101 1611502 1613234 EN oh yeah
+20NC39MBP_0101 1618891 1628511 CS electives is not stated but me personally 我 要 拿 三个 electives 可是 seniors are saying that it is too
+20NC39MBP_0101 1628911 1632861 CS intensive 所以 可能 我 拿 两个 吧
+20NC39MBP_0101 1633157 1633961 ZH 会
+20NC39MBP_0101 1636127 1641641 CS if i add two elective 我的 中 中
+20NC39MBP_0101 1641641 1644261 CS 我的 total number 可能 是 二十 吧
+20NC39MBP_0101 1645711 1650811 CS 我的 core for next semester is only 十四 个
+20NC39MBP_0101 1653879 1655241 ZH 很少
+20NC39MBP_0101 1657839 1674174 CS i have 应该 是 有 差不多 四五个 吧 five one lab lab physics 数学 material science and a
+20NC39MBP_0101 1674861 1678430 CS 生理学 是不是 生理学 life science
+20NC39MBP_0101 1682229 1688107 CS 应该 是 吧 可是 you are taking bio 所以 你 know the
+20NC39MBP_0101 1691701 1694951 CS 你 应该 去 问 一下 bioscience
+20NC39MBP_0101 1694951 1700048 CS 是 in 华语 是 怎么 说的
+20NC39MBP_0101 1715991 1717721 CS 化学 应该 是 chemistry
+20NC39MBP_0101 1734875 1757127 CS poly 自己 poly i don't think 有 华语 名称 理工 学院 理工 学院 应该 是 poly 好像 新加坡 理工 学院 南洋 理工 学院
+20NC39MBP_0101 1759911 1762757 ZH 应该 是 吧
+20NC39MBP_0101 1764761 1767321 CS so did you regret going 初级 学院
+20NC39MBP_0101 1779733 1781651 EN 
+20NC39MBP_0101 1786787 1788101 ZH 真的
+20NC39MBP_0101 1788101 1792711 CS what do you want to be in future 你 将来 要 做 什么
+20NC39MBP_0101 1806211 1809591 CS but like this 你 不用 到 你 所 读 的
+20NC39MBP_0101 1809877 1811053 ZH 科目
+20NC39MBP_0101 1827851 1830701 CS then you should have taken h. s. s. 这条 路
+20NC39MBP_0101 1839285 1841017 EN 
+20NC39MBP_0101 1843554 1845348 EN really
+20NC39MBP_0101 1846214 1848132 EN but i thought
+20NC39MBP_0101 1848681 1852021 CS 女生 can write very well compared to 男生
+20NC39MBP_0101 1865447 1867056 EN oh okay
+20NC39MBP_0101 1868912 1873614 EN yeah quite true don't you like reading like story book
+20NC39MBP_0101 1875195 1886023 EN oh okay unless it is better then me i mean i read <unk> manga* then same
+20NC39MBP_0101 1890521 1896238 CS hardly especially when i am in hall 我 totally 没有 读 到 报纸
+20NC39MBP_0101 1906137 1907746 EN 
+20NC39MBP_0101 1908701 1911921 CS 我 天生 not born for reading
+20NC39MBP_0101 1912581 1916311 CS when i read 我 觉得 会 觉得 很 疲倦 很 想 睡觉
+20NC39MBP_0101 1924774 1926011 EN 
+20NC39MBP_0101 1935945 1937059 EN 
+20NC39MBP_0101 1944381 1946551 CS how many hours 你 睡 in a day
+20NC39MBP_0101 1948876 1950547 ZH 平常 吧
+20NC39MBP_0101 1959580 1964131 CS 对 超过 you sleep less than 五个 小时 a 五个 小时 a day
+20NC39MBP_0101 1970145 1973591 CS 啊 我 以为 you sleep a lot in the day
+20NC39MBP_0101 1980044 1982457 EN unless amazing
+20NC39MBP_0101 1991081 1994751 CS personally i feel 睡觉 是 很 一个 很 浪费 时间 的
+20NC39MBP_0101 1995698 1998606 EN (er) activity
+20NC39MBP_0101 2003123 2009231 CS 我 啊 我 很 喜欢 睡觉 but i feel sleeping is a waste of time
+20NC39MBP_0101 2015891 2023381 CS i feel 八个 小时 在 一天 内 是 很多 我的 理想 sleeping hours a day 是
+20NC39MBP_0101 2023745 2025849 EN two to four hours
+20NC39MBP_0101 2027457 2030180 ZH 可是 我 目前 还 办不到
+20NC39MBP_0101 2045276 2052454 EN but it seems okay to me they can operate very well like a normal person
+20NC39MBP_0101 2055485 2060710 CS ah i admire 我 很 欣赏 这些 people in office
+20NC39MBP_0101 2074463 2076195 EN re~ really
+20NC39MBP_0101 2082761 2084201 CS 太 少 了 too little
+20NC39MBP_0101 2102335 2107347 EN yeah it was a day it is a lot of sleeping time
+20NC39MBP_0101 2124547 2130239 CS oh okay 我 我 一直 以来 都 好像 很
+20NC39MBP_0101 2131191 2133611 CS do you feel i have a very sleepy 脸
+20NC39MBP_0101 2137540 2142614 CS 很多 人 tell me that when i i just woke up
+20NC39MBP_0101 2142981 2146861 CS they had a shower then 我 上班 then 我 同事 就 跟 我 讲
+20NC39MBP_0101 2147276 2149380 EN ei <unk> you looks like you just
+20NC39MBP_0101 2149751 2151360 EN you looks like very tired
+20NC39MBP_0101 2155258 2156124 EN 
+20NC39MBP_0101 2162868 2165281 EN what do you do during the
+20NC39MBP_0101 2166333 2170602 ZH 几个月 的 假期 开学 前
+20NC39MBP_0101 2175675 2179326 EN 
+20NC39MBP_0101 2192431 2193381 CS where did you 工作
+20NC39MBP_0101 2228247 2228835 EN 
+20NC39MBP_0101 2230010 2231371 EN 
+20NC39MBP_0101 2234094 2234801 EN 
+20NC39MBP_0101 2234801 2238651 CS so 你 在 what 公司 上班
+20NC39MBP_0101 2240905 2245329 EN  is it fun
+20NC39MBP_0101 2252909 2256590 EN  hah really
+20NC39MBP_0101 2259243 2262769 EN 
+20NC39MBP_0101 2264501 2270881 CS 有 这么 tiring that you need to sleep during 工作 时间
+20NC39MBP_0101 2272064 2273147 EN 
+20NC39MBP_0101 2276488 2277323 EN twelve
+20NC39MBP_0101 2277756 2281623 CS midnight wah 你的 工作 这么 迟 啊
+20NC39MBP_0101 2282304 2283046 EN oh
+20NC39MBP_0101 2290011 2292131 CS 很多 that's a lot
+20NC39MBP_0101 2293674 2295036 EN 
+20NC39MBP_0101 2298500 2299088 EN 
+20NC39MBP_0101 2302041 2307131 CS 哦 i work at 建设 局 building and construction authority
+20NC39MBP_0101 2307473 2309855 ZH 是 政府 的 一个
+20NC39MBP_0101 2310721 2314217 CS 是 跟 政府 有关 的 啦 is 就是 跟
+20NC39MBP_0101 2314521 2318491 CS 建筑 行业 跟 contractors have close relationship
+20NC39MBP_0101 2318491 2319411 EN like
+20NC39MBP_0101 2319411 2330011 CS 好像 contractors wants to 建 屋子 then they need to 申请 准 证 这样 then 我是 做 那种 paperwork
+20NC39MBP_0101 2330011 2333158 EN and a counter work yeah
+20NC39MBP_0101 2336592 2351039 CS not really 蛮 差 蛮远的 but 有~ 有点 有点 as as in 不是很 close related but my cert can be is accepted in that company
+20NC39MBP_0101 2359441 2368321 CS yes mine is electrical which is 跟 电 有关 的 不是 跟 建筑 很 closely related 的
+20NC39MBP_0101 2368988 2370164 EN yes triple e
+20NC39MBP_0101 2370597 2373041 CS same as violet 师姐
+20NC39MBP_0101 2374804 2377774 CS 师姐 师姐 senior senior ah
+20NC39MBP_0101 2378918 2384178 CS 师兄 no 师兄 师姐 right the seniors senior guys and senior girls
+20NC39MBP_0101 2386170 2389542 EN sirous* is also taking
+20NC39MBP_0101 2390346 2391924 ZH 电 电子系
+20NC39MBP_0101 2401678 2402730 EN oh yeah
+20NC39MBP_0101 2404215 2405854 EN 
+20NC39MBP_0101 2408422 2409133 EN 
+20NC39MBP_0101 2409443 2416218 EN andrew andrew is regular right as he he sign on for air force
+20NC39MBP_0101 2417765 2419466 EN so i think now he is back in camp
+20NC39MBP_0101 2420951 2421786 EN yeah
+20NC39MBP_0101 2430115 2431383 EN 
+20NC39MBP_0101 2433208 2434446 EN 
+20NC39MBP_0101 2436054 2438406 EN i think that is next semester
+20NC39MBP_0101 2441190 2443819 EN 
+20NC39MBP_0101 2446087 2448655 EN  a~ amplitude*
+20NC39MBP_0101 2449552 2451037 ZH 很 很小
+20NC39MBP_0101 2453141 2454533 EN 
+20NC39MBP_0101 2456172 2462093 CS yeah 我 有时候 也是 这样 就 现在 我把 麦 放在 蛮 靠近 我 嘴巴里 的
+20NC39MBP_0101 2466091 2469361 CS is 好像 唱歌 一样 you can speak louder
+20NC39MBP_0101 2472991 2475421 CS we still have 二十分 钟 to burn
+20NC39MBP_0101 2482542 2487461 EN en anyway let's bit~ a start talk more generous staff
+20NC39MBP_0101 2488111 2495968 CS you have a~ oh i just watched this movie called couple richey* 蛮 不错的 嘛 那个
+20NC39MBP_0101 2496961 2502941 CS 那个 风景 in the movie or 那个 scenery in the 电影 蛮 不错 的
+20NC39MBP_0101 2503334 2505252 EN it some we thought
+20NC39MBP_0101 2506304 2508284 ZH 在 某某 个 国家
+20NC39MBP_0101 2509274 2510171 ZH 对 
+20NC39MBP_0101 2510851 2517841 CS then 他们 就 就是 talking about all girls have their dream honeymoon
+20NC39MBP_0101 2519281 2523131 CS so 你 do you have a dream too 蜜月
+20NC39MBP_0101 2543066 2545974 CS i heard 听说 好像 又 maldives
+20NC39MBP_0101 2546902 2548542 EN maldives
+20NC39MBP_0101 2549408 2551140 EN maldives or maldives
+20NC39MBP_0101 2551605 2553584 EN m a l d i v e s
+20NC39MBP_0101 2554161 2557721 CS 听说 那个 是个 很好 的 地方 for honeymoon
+20NC39MBP_0101 2558937 2562000 EN m a l d i v
+20NC39MBP_0101 2563082 2564011 EN e s
+20NC39MBP_0101 2570786 2571930 EN do you know fen wong
+20NC39MBP_0101 2572621 2579561 CS i think her wedding is like sponsored and they can 去 那里 for fun photo shoot
+20NC39MBP_0101 2581352 2582064 EN yep
+20NC39MBP_0101 2588811 2590091 CS really 真的 吗
+20NC39MBP_0101 2596675 2597355 ZH 阿哥
+20NC39MBP_0101 2600975 2603914 EN quite i think so quite high profile
+20NC39MBP_0101 2609071 2611271 CS do you watch 本地 制作
+20NC39MBP_0101 2614231 2620251 CS you only glue your eyes to the 电 脑 看
+20NC39MBP_0101 2625023 2626570 EN 
+20NC39MBP_0101 2630039 2632235 EN what is momo love
+20NC39MBP_0101 2644421 2647811 CS what is the 华语 名称
+20NC39MBP_0101 2650840 2653129 CS 桃花 小妹 哦 i 哦 我 知道
+20NC39MBP_0101 2668281 2673791 CS so 那 部 戏 there's a local guy acting in it right he's 黄晋伦
+20NC39MBP_0101 2681421 2682781 CS do you find him 可爱
+20NC39MBP_0101 2684571 2685375 EN 
+20NC39MBP_0101 2688902 2689614 EN 
+20NC39MBP_0101 2694966 2696760 ZH 大哥 通常 是 这样 的
+20NC39MBP_0101 2703938 2704587 ZH 嗯哼
+20NC39MBP_0101 2708980 2709908 EN 
+20NC39MBP_0101 2725180 2726387 EN really
+20NC39MBP_0101 2742598 2746682 CS  isn't it 太过 保护性 了 吗
+20NC39MBP_0101 2749219 2750518 EN really wah
+20NC39MBP_0101 2750721 2753301 CS 可以 看 得出 你 看 了 很多 manga*
+20NC39MBP_0101 2763877 2764805 EN okay
+20NC39MBP_0101 2770126 2774804 EN so oh wait where are we before this
+20NC39MBP_0101 2779343 2782220 EN oh yeah do you have dream ah in anyway (er) wait
+20NC39MBP_0101 2782870 2784076 EN (er)
+20NC39MBP_0101 2786459 2787325 EN en
+20NC39MBP_0101 2790953 2794480 EN honeymoon right then after that <unk>
+20NC39MBP_0101 2798411 2799494 EN then you talk about
+20NC39MBP_0101 2800329 2802371 EN these lo~ oh local product
+20NC39MBP_0101 2802866 2806702 EN anyway they say only watch taiwan show all~ all of them
+20NC39MBP_0101 2816579 2820101 CS so you can start thinking of your 理想 的 蜜月
+20NC39MBP_0101 2825009 2825504 EN 
+20NC39MBP_0101 2826617 2828226 EN okay yeah
+20NC39MBP_0101 2829123 2834071 CS it looks like those kind of 宅女 do you know 宅女
+20NC39MBP_0101 2840722 2842826 EN oh yeah yeah like half a day right
+20NC39MBP_0101 2846381 2851351 CS so do you do you have a 理想 家园 a dream house
+20NC39MBP_0101 2859321 2861641 EN so i guess you are not top of one yet
+20NC39MBP_0101 2875015 2877552 EN en 
+20NC39MBP_0101 2891931 2894661 CS 没有 想 过 公寓 condominium
+20NC39MBP_0101 2896512 2899265 EN but that's a lot facilities around
+20NC39MBP_0101 2902742 2903979 EN then can
+20NC39MBP_0101 2907259 2908063 EN (er)
+20NC39MBP_0101 2909486 2911811 EN what if what about (er)
+20NC39MBP_0101 2911811 2913991 CS landed property 之类 的 屋子
+20NC39MBP_0101 2915801 2919851 CS 太 大 then 太 小 你 又 feel too small
+20NC39MBP_0101 2929373 2930177 EN 
+20NC39MBP_0101 2934281 2936881 CS 没有 想 过 要 migrate to overseas
+20NC39MBP_0101 2937403 2938207 EN in future
+20NC39MBP_0101 2940731 2943251 CS so you like 新加坡 a lot
+20NC39MBP_0101 2949004 2949716 EN 
+20NC39MBP_0101 2959456 2963694 CS i can always have new 朋友 s in overseas
+20NC39MBP_0101 2971451 2972224 EN okay
+20NC39MBP_0101 2977001 2979951 CS 麻烦 singapore weather is so screwed up
+20NC39MBP_0101 2982721 2985821 CS so hot no four seasons 没有 雪
+20NC39MBP_0101 2986539 2988303 ZH 热 
+20NC39MBP_0101 2995731 2998361 CS you can always wear 厚 一点 的 衣服
+20NC39MBP_0101 3005684 3006643 EN really
+20NC39MBP_0101 3007385 3011174 EN so~ so do you ever~ have ever being wear a <unk>
+20NC39MBP_0101 3026784 3029073 CS for <unk> 其实 蛮 适合 你的
+20NC39MBP_0101 3029483 3033833 CS isn't it you can just watch 在家
+20NC39MBP_0101 3036590 3038601 ZH 做你 喜欢 做 的 东西
+20NC39MBP_0101 3054045 3055005 EN it looks like
+20NC39MBP_0101 3055499 3057696 ZH 一直 出 问题 给你 回答
+20NC39MBP_0101 3059490 3061161 EN 
+20NC39MBP_0101 3062398 3064579 ZH 我 是 到～ 到你 问我 问题 了
+20NC39MBP_0101 3068516 3069475 ZH 哦
+20NC39MBP_0101 3070094 3071826 EN just ask what you what to ask
+20NC39MBP_0101 3075755 3076683 ZH 迟钝了
+20NC39MBP_0101 3082283 3083427 EN when are you
+20NC39MBP_0101 3087202 3088656 EN no you have to talk
+20NC39MBP_0101 3089113 3093303 CS i can't possibly ask myself then 我 又 自己 回答 我 自己的 问题
+20NC39MBP_0101 3095802 3098834 CS so 你要 问我 什么 just bring you on
+20NC39MBP_0101 3100999 3101587 EN what
+20NC39MBP_0101 3103618 3104453 EN no
+20NC39MBP_0101 3109589 3115714 CS working i can see can see the 喜悦 in your eyes
+20NC39MBP_0101 3123183 3126113 CS so yes 有什么 问题 just bring it on
+20NC39MBP_0101 3130223 3130904 ZH 快点
+20NC39MBP_0101 3134523 3139303 CS what so it is precisely you have to 问 我 问题 so that i can talk more
+20NC39MBP_0101 3147391 3151784 EN no should provide the question for me it's like so long
+20NC39MBP_0101 3155723 3159403 CS 都是 说 那个 is for girls only
+20NC39MBP_0101 3159403 3163457 EN man don't really dream honeymoon their dream
+20NC39MBP_0101 3166705 3167819 EN (er) usually
+20NC39MBP_0101 3168423 3176183 CS for me 我 觉得 我 会 看 我 以后 的 老婆 要 会 去 哪里
+20NC39MBP_0101 3177533 3177842 EN yeah
+20NC39MBP_0101 3178413 3181813 CS 应该 是 没有 我 自己的 dream honeymoon
+20NC39MBP_0101 3182988 3187845 CS yeah 应该 是 从 老婆 during that period
+20NC39MBP_0101 3190042 3190660 EN yeah
+20NC39MBP_0101 3191623 3195023 CS 没 没有 一个 固定 的 地方 maybe like europe
+20NC39MBP_0101 3199387 3200563 ZH 又 可以
+20NC39MBP_0101 3201513 3206993 CS 在 欧洲 tour around within like maybe two weeks
+20NC39MBP_0101 3209233 3212753 CS 因为 不可 以 放假 太久 怕 没有 钱 no money
+20NC39MBP_0101 3222925 3225090 ZH 你 在家 有 几个 兄弟姐妹
+20NC39MBP_0101 3236298 3237195 EN oh same
+20NC39MBP_0101 3237423 3240843 CS 一个 elder brother 一个 elder sister
+20NC39MBP_0101 3244433 3251693 CS two years old and two years and 三年 哥哥 三年 sister two years
+20NC39MBP_0101 3253813 3260529 CS 哇 我 有 朋友 during s study work at s work at work
+20NC39MBP_0101 3261353 3264033 CS overseas during 署 假
+20NC39MBP_0101 3264923 3273873 CS during the 署 假 they go europe to 做工 then after that 他们 manage to
+20NC39MBP_0101 3274829 3279284 CS 环游 europe for maybe one month
+20NC39MBP_0101 3280119 3285700 CS what 听说 他们 花 蛮多 钱 的 好像 有 五位数 这么 多
+20NC39MBP_0101 3288298 3290093 EN yes that's i think so
+20NC39MBP_0101 3291033 3297633 CS but i heard some jobs in overseas 蛮 好 赚 的 吗 比 新加坡 好 赚 多 了
+20NC39MBP_0101 3299292 3303583 CS 忘记了 真 真的 是 忘记 了 i don't really remember
+20NC39MBP_0101 3304450 3306121 EN like life guard or something like that
+20NC39MBP_0101 3308194 3311164 CS 你在 嘀嘀咕咕 what
+20NC39MBP_0101 3315723 3320223 CS 可是 要 等 他 come in 了 then is a stop
+20NC39MBP_0101 3322173 3326203 CS cause 没有 一个 固定 的 boundary
+20NC39MBP_0101 3330483 3341595 CS i think they will i think is whether how long we talk then they will cut 我们 真正 开始 差不多 一分钟 三十四 秒 之类 的
+20NC39MBP_0101 3345277 3346607 EN seven minutes
+20NC39MBP_0101 3347937 3351093 EN yes yeah okay lah you can start counting down
+20NC39MBP_0101 3352053 3353753 CS 你 可以 现在 开始 countdown 了
+20NC39MBP_0101 3355962 3357849 ZH 哇 真是 辛苦 啊
+20NC39MBP_0101 3363139 3366078 EN i don't think so
+20NC39MBP_0101 3377073 3379343 CS evolutionary 音乐
+20NC39MBP_0101 3380042 3382238 EN this ends* and attempt to
+20NC39MBP_0101 3384218 3385084 EN as
+20NC39MBP_0101 3386446 3387621 CS like by 你
+20NC39MBP_0101 3388473 3397333 CS 虽然 not everyone 可以 写 歌 that they 觉得 they 喜欢
+20NC39MBP_0101 3398943 3407283 CS 可是 经过 个人 的 input and 思想
+20NC39MBP_0101 3410963 3412913 CS okay 算了 i give up
+20NC39MBP_0101 3414511 3415037 EN 
+20NC39MBP_0101 3416800 3418038 EN 
+20NC39MBP_0101 3425669 3427649 CS to 创作
+20NC39MBP_0101 3430155 3434022 CS 创作 可以 算 okay oh
+20NC39MBP_0101 3437953 3441193 CS 我 觉得 我们 翻译 damn lousy
+20NC39MBP_0101 3441984 3447293 CS i think it~ it can be better like like 读 完整 个 句子 然后 再
+20NC39MBP_0101 3456961 3458724 CS com* 装作
+20NC39MBP_0101 3460828 3462220 EN corp*
+20NC39MBP_0101 3462653 3464113 CS 我 不知道 what is chord
+20NC39MBP_0101 3464577 3465505 ZH 说
+20NC39MBP_0101 3474879 3477632 ZH 哇 我们 的 谈话 内容 真的 好烂 哦
+20NC39MBP_0101 3489305 3493605 ZH 不错 不错 给 自己 一个 鼓励 掌声
+20NC39MBP_0101 3495059 3496668 ZH 哎呦 真 扫兴
+20NC39MBP_0101 3499103 3501143 CS 你 回去 房间 就是 开始 在 读 menga*
+20NC39MBP_0101 3501763 3512373 CS so 你 一天 内 花 时间 就是 睡觉 起来 去 caroling go back to sleep 起来 再 看 看 吃饭
+20NC39MBP_0101 3517956 3519503 EN design for
+20NC39MBP_0101 3522504 3523834 EN always
+20NC39MBP_0101 3539586 3544722 CS ai i also have lots of 事情 未 做完 for assist of prof
+20NC39MBP_0101 3545279 3546454 ZH 还要 找
+20NC39MBP_0101 3548094 3550971 EN yes i heard shengsong told me
+20NC39MBP_0101 3551775 3553786 ZH 昨天 很少
+20NC39MBP_0101 3553923 3560183 CS 在 去年 很少 人 wants to be s. and p. sub com
+20NC39MBP_0101 3561583 3567073 CS 真的 是要 找 熟人 来 help out 不然 真的 是 找不到 enough people to help
+20NC39MBP_0101 3575668 3576534 ZH 应该 是
+20NC39MBP_0101 3577803 3581515 EN i don't think so p. n. p. not very interesting
+20NC39MBP_0101 3583309 3584640 EN portfolio to be
+20NC39MBP_0101 3594673 3596023 CS like 例如
+20NC39MBP_0101 3608788 3610737 CS 真的 啊 dave
+20NC39MBP_0101 3618223 3620173 CS he did by himself 他 一个人 做 的 吗
+20NC39MBP_0101 3621101 3623195 ZH 哇 可是 他 蛮 厉害 的

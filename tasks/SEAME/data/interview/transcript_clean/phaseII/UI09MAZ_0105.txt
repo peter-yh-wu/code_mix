@@ -1,0 +1,149 @@
+UI09MAZ_0105 0 6746 CS 啊 belgium 的 capital 就是 brussel 啊 它 啊 那个 brussel 啊 就 是 啊
+UI09MAZ_0105 6746 14848 CS 所谓 rules by 啊 french french speaking people 它 的 northern part 嘞 是
+UI09MAZ_0105 14848 21417 CS 讲 那些 啊 holland 的 语言 啊 就是 netherland 的 语言 啊
+UI09MAZ_0105 21417 27240 CS 所以 他们 在 belgium 啊 他们 就 是 有 两个
+UI09MAZ_0105 27240 37227 CS 两队 的 人 咯 到 因为 这个 因为 因为 不同 的 那个 叫 什么 啊 不知道 是 算 race 啊 还是 什么 啊
+UI09MAZ_0105 37227 43844 CS 所以 他们 到 目前 到 为 目前 为止 他们 要 create 一个 government 也是 有 问题 咯
+UI09MAZ_0105 43844 45100 ZH 因为
+UI09MAZ_0105 45100 48475 CS 他们 好像 fifty fifty 这样 就 很 麻烦 啦
+UI09MAZ_0105 48475 50755 ZH 啊
+UI09MAZ_0105 50755 55717 CS northern 听说 是 northern part 的 是 比较 有钱 啦 那些 southern part 的 会 比较 穷
+UI09MAZ_0105 55717 59558 CS 所以 bel~
+UI09MAZ_0105 59558 62491 CS 在 那里 去了 brussel
+UI09MAZ_0105 62491 64143 ZH 过后 还有
+UI09MAZ_0105 64143 73575 CS 还有 一个 地方 其实 也 是 挺 美 的 就 是 在 brussel 的 east side 啊
+UI09MAZ_0105 73575 86517 CS 他们 是 叫 那个 是 叫 啊 啊 不知道 是 好像 是 叫 north of 啊 north of venice 啊 好 就 是 讲 啊
+UI09MAZ_0105 86517 88617 CS 北方 的 venice 啊
+UI09MAZ_0105 88617 100987 CS 就 好像 啊 泰国 也 是 有 一个 什么 啊 east 的 啊 西方 的 venice 啊 泰国 有 一个 地方
+UI09MAZ_0105 100987 111924 CS 但是 他们 是 好像 不是 吗 泰国 有 一个 地方 好像 是 bangkok 是 吗 不是 很 记得 啦 早 知道
+UI09MAZ_0105 111924 122797 CS 他 早 知道 那个 belgium 那里 有 一个 地方 是 叫 啊 啊
+UI09MAZ_0105 122797 133507 CS 啊 叫 北方 的 venice 啦 过后 啊 对 我 还有
+UI09MAZ_0105 133507 136199 CS 那 时候 我 还有 去 holland 咯
+UI09MAZ_0105 136199 138011 CS 或者 是 netherland 啊
+UI09MAZ_0105 138011 140421 ZH 啊
+UI09MAZ_0105 140421 142861 CS netherland 的 capital 叫 什么 名字 啊
+UI09MAZ_0105 142861 146373 ZH  啊
+UI09MAZ_0105 146373 150029 CS 我 有 去 那个 the hague 咯
+UI09MAZ_0105 150029 159893 CS  the hague 就是 啊 你 知道 united-nations 的 那个 那个 什么 啊
+UI09MAZ_0105 159893 174525 CS 马来 文 是 啊 那个 叫 什么 啊  united-nations 的 那个 makuma 叫 什么 啊
+UI09MAZ_0105 174525 185797 CS the hague 啊 啊 t h e space h a g u e the hague
+UI09MAZ_0105 185797 200343 CS 那里 嘞 啊 okay 啦 他 那 那里 的 那个 (呃)
+UI09MAZ_0105 200343 202871 ZH 建筑物 很 特别 咯 我 觉得
+UI09MAZ_0105 202871 204548 ZH 过后
+UI09MAZ_0105 204548 206586 ZH 而且 又是 靠近 海边 的
+UI09MAZ_0105 206586 214943 CS 啊 那个 makama 英 makama 英文 叫 什么 啊
+UI09MAZ_0105 214943 223902 CS 不是 court 啦 他 是 啊 makama kehakimun 啊 他是
+UI09MAZ_0105 223902 225238 CS united-nation 的 啦
+UI09MAZ_0105 225238 230084 ZH 那些 好像 国际 的 那些 犯罪 的 人 他们 都是 在 那里 被 审 的
+UI09MAZ_0105 233445 235451 CS 所以 就 去了 the hague
+UI09MAZ_0105 235451 238142 CS 还有 一个 它的 capital 咯
+UI09MAZ_0105 238142 244586 ZH 还有一个地方
+UI09MAZ_0105 244586 248767 CS 除了 europe 之外
+UI09MAZ_0105 248767 253047 CS 我 因为 conference 有 去 的 地方 就是 hawaii 咯
+UI09MAZ_0105 253047 259695 ZH 呃 但是 在 那里 也 是 几天 罢 了 因为
+UI09MAZ_0105 259695 263895 CS 呃 hawaii 啊 hawaii 有 什么 地方 好玩 啊 就 是
+UI09MAZ_0105 263895 266105 CS 可以 看 那个 pearl-habour 咯
+UI09MAZ_0105 266105 275911 CS 过后 啊 啊 pearl-harbour 过后
+UI09MAZ_0105 275911 286611 CS 啊 其实 也 啊 那里 应该 是 其实 有 那个 什么 啊 volcano 啊 但是 我 没有 去 看 啦
+UI09MAZ_0105 286611 289671 ZH 因为 它 是 在 另外 一个 岛
+UI09MAZ_0105 289671 294754 CS 我 就 在 那个 main 的 那个 岛 有
+UI09MAZ_0105 294754 297905 CS 坐 了 那个 round island trip 啊
+UI09MAZ_0105 297905 305522 CS 参加 了 一个 round island trip 过后 就 回去 了
+UI09MAZ_0105 305522 322974 CS 其实 那个 你 知道 那个 ha~ 那个 hawaii 的 人 啊 他们 的 language 啊 应该 是 如果 没有 错 记 错 的 话 他 的 language 和 那个 malay 的 language 啊 是 同 一个 family 的
+UI09MAZ_0105 322974 334240 CS 呃 可能 可能 当 时候 那个 啊 以前 啦 他们 那些 malays 他们 都 是 啊
+UI09MAZ_0105 334240 343247 CS 他们 出名 那些 那个 叫 什么 啊 他们 很 有 名 的 就 是 做船 的 吗 是 吗 malay
+UI09MAZ_0105 343247 349715 CS 所以 他们 可能 是 从 啊 malay malaysia
+UI09MAZ_0105 349715 356753 CS 或者 是 indonesia 的 area 嫁 到 那里 去 的 吧 有 这个 可能 性
+UI09MAZ_0105 356753 364690 ZH 但是 但是 也 是 有 也 是 有 我 是 有 读过 一个 啊 书 啦 他 是 讲
+UI09MAZ_0105 364690 370400 CS 那些 malay 啊 在 malaysia 是 从 taiwan 那里 来 的
+UI09MAZ_0105 370400 390070 CS taiwan 那里 的 原住民 啊 跑 过来 的 这个 是 我 读 到 的 啦 不知道 不知道 啊 不知道 有 没有 记错 就 不知道
+UI09MAZ_0105 390070 403924 ZH 过后 你 还有 什么 东西 要 问
+UI09MAZ_0105 403924 414518 ZH 平时 的 空 喜欢 做 什么 啊
+UI09MAZ_0105 414518 420378 ZH 平时 的 空 就是 的 空 的 话 就 看
+UI09MAZ_0105 420378 422963 CS 去 cinema 咯 看 movies
+UI09MAZ_0105 425134 434048 CS 近来 有 看 的 戏 就是 orphan 啊
+UI09MAZ_0105 434048 436633 ZH 过后
+UI09MAZ_0105 436633 440451 CS 应该 很多 戏 都 有 看 啦 transformer
+UI09MAZ_0105 440451 445813 ZH 过后 还有 什么 戏 啊
+UI09MAZ_0105 445813 448328 EN g. i. joe for example
+UI09MAZ_0105 448328 454715 ZH 其实 我
+UI09MAZ_0105 454715 460733 ZH 可以 讲 什么 戏 都 看 啦 只是 呃
+UI09MAZ_0105 460733 462586 ZH 鬼 戏 就 比较 少 看
+UI09MAZ_0105 462586 468803 CS 啊 horror movies 啊 会 比较 少 看 过后
+UI09MAZ_0105 468803 479282 ZH 如果 你 问 我 喜欢 哪 一 类型 的 戏 啊 其实 可以 讲 啊 各 啊
+UI09MAZ_0105 479282 483315 CS 各 有 各 的 优点 咯 好像 comedy 啊
+UI09MAZ_0105 483315 494544 CS 如果 你 是 想 要 笑 的 话 你 不是 去 看 comedy 咯 如果 你 是 要 想 要 看 一些 special effect 的 话 你 不是 看 一些 好像 transformer 那 种
+UI09MAZ_0105 494544 510240 CS 啊 那种 那种 类型 的 movies 咯 如果 可能 你 想 要 看 故事 的 话 你 不是 看 爱情 故事 咯 love stories 啊 呃 但是
+UI09MAZ_0105 510240 516386 ZH 啊 目前 嘞 我 还是 现在 嘞 我 还是 比较 喜欢 看 一些
+UI09MAZ_0105 516386 523410 CS 一些 movies 啊 会 比较 有 故事 的 啦
+UI09MAZ_0105 523410 530955 CS 可能 是 看 了 太 多 的 那些 special effect 啊 所以 已经 看到 好像 有点 麻木 了 吧
+UI09MAZ_0105 530955 541721 CS 还是 但是 他 但是 也 是 也 不可以 这样 讲 啦 他们 现在 的 special effect 做 到 越 来 越 像 真 的 咯
+UI09MAZ_0105 541721 548176 ZH 可能 可能 呃
+UI09MAZ_0105 548176 550828 CS 目前 的 special effect 真的 是 做 的 很好 啦
+UI09MAZ_0105 550828 561354 ZH 只是 还 还 不能 达到 啊 还 不能 达到 就 是 好像 啊 就是 把 那个
+UI09MAZ_0105 561354 569624 CS 啊 你有 看 final fantasy 吗 就是 把 那些 那种 假 的 人 做 到 很 真 啊
+UI09MAZ_0105 569624 572824 CS 那个 是 目前 还 达 不到 的 technology 咯
+UI09MAZ_0105 572824 580417 ZH 好像 那些 什么 啊 有 很多 已经 可以 他们 已经 可以 做 到 了 啊 好像 那种
+UI09MAZ_0105 580417 585940 ZH 啊 很多 啊 很 好像 危险 的 那种 镜头 啊
+UI09MAZ_0105 585940 593092 CS 好像 在 high rise 啊 他们 其实 啊 真正 的 拍 的 时候 他们 background 都是 for example 整个 蓝色 的
+UI09MAZ_0105 593092 595483 ZH 过后 才 把 他
+UI09MAZ_0105 595483 601911 CS 真正 你 看到 的 时 他们 是 把 它 replace 那个 蓝色 啊 把 它 放 一个 background 在 后面 罢了
+UI09MAZ_0105 601911 608964 ZH 就是 就是 这样 做 的 啊 很 但是 啊 啊
+UI09MAZ_0105 608964 613890 CS 好像 很多 special effect 都是 可能 用 一些 比较 小 的 一些 模型 啊 来 拍
+UI09MAZ_0105 613890 616385 ZH 但是 啊
+UI09MAZ_0105 616385 626840 CS 一些 好像 比较 那种 animation 的 啊 用 animation 来 做 的 那些 special effect 啊 还 不是 很 很 真 咯
+UI09MAZ_0105 626840 629165 CS 好像 那个 final fantasy 啊
+UI09MAZ_0105 629165 634160 ZH 做 到 虽然 是 已经 很好 了 啦 但是 还
+UI09MAZ_0105 634160 636205 CS 我 觉得 应该 是 还 可以 improve 咯
+UI09MAZ_0105 636205 641420 ZH 可能 有 一天 可以 看到 呃
+UI09MAZ_0105 641420 644390 CS 那个 人 其实 不 exist 的 但是 看 起 来 很 真 啊
+UI09MAZ_0105 644390 650574 ZH 那个 可能 是 可能 是 我 想 看 的 啦
+UI09MAZ_0105 650574 654009 CS 或者 可以 看到 一个 好像 很 three d 的 那个 movie 啊
+UI09MAZ_0105 654009 661240 CS 可能 可能 那个 也 也 是 一个 future 的
+UI09MAZ_0105 661240 665421 CS 啊 movie in~ movie industry 啊 我 觉得
+UI09MAZ_0105 665421 668847 CS 会 朝向 的 一个 areas 咯
+UI09MAZ_0105 668847 679348 CS prefer 什么
+UI09MAZ_0105 679348 694275 CS animation in animation 喔 okay 咯 我 也 是 很 喜欢 看 animation 的 啊
+UI09MAZ_0105 694275 696981 CS japanese 的 animation 啊 也 okay 啊
+UI09MAZ_0105 696981 710550 CS 或者 是 american 的 animation animation 也是 okay 的 (呃) 各 有 各 的 好 啦
+UI09MAZ_0105 710550 718104 CS 好像 japanese 的 animation 他们 很多 时候 都有 一个 moral 后面 有 个 moral story 啦
+UI09MAZ_0105 718104 723930 CS 很多 时候 他 的 moral of the story 就 是 叫 他们 的 就 是 鼓励 好像 啊 讲
+UI09MAZ_0105 723930 726998 ZH 讲 关于 友情 啊
+UI09MAZ_0105 728366 730820 ZH 啊 很多 时候 就 讲 关于 友情 咯
+UI09MAZ_0105 730820 735484 CS 好像 japanese 的 animation 他们 很 注重 就是 就是 讲 什么 友情 啊
+UI09MAZ_0105 735484 740618 ZH 的 可贵 啊 所谓 啊 好像 好像 在 讲 什么 主角 在
+UI09MAZ_0105 740618 746287 CS 一个 很 difficult 的 situation 啊 过后 那些 人 他的 朋友 怎样 帮助 他
+UI09MAZ_0105 746287 749356 ZH 很多 的 题材 都是 关于 这个 啦
+UI09MAZ_0105 749356 755424 CS 过后 american 的 那种 animations
+UI09MAZ_0105 755424 767710 ZH 啊 可能 类型 就 比较 多 吧 好像 啊
+UI09MAZ_0105 767710 771901 CS 有 那种 super hero type 的 就 很多 啦 那种 什么
+UI09MAZ_0105 771901 773866 ZH 但是 啊 对 啊 啊
+UI09MAZ_0105 773866 779040 CS 啊 super heroes type 的 就 很多 那种 x man 啊 spiderman 啊 superman 啊
+UI09MAZ_0105 779040 792247 CS incredible hulk 啊 很多 这种 heroes type of 的 animation 咯 呃 其他 的 也
+UI09MAZ_0105 792247 800069 ZH 其他 的 可能 也 有 吧 但是 那 其他 的 就 会 比较
+UI09MAZ_0105 800069 805865 ZH 比较 小孩子 看 吧 应该 也 不可以 这样 讲 嘞
+UI09MAZ_0105 805865 811033 CS 当然 现在 的 很多 的 animation 好像 disney 做 的 都是 给 大人 看 啦
+UI09MAZ_0105 813875 819997 CS 但是 好像 japanese 的 animation 大部分 可以 讲 都是 给 大人 看 的 对 吗
+UI09MAZ_0105 819997 830943 ZH 这个 是 我 的 感觉 啦 除了 那种 好像 小叮当 啊 可能 是 小孩子
+UI09MAZ_0105 830943 836095 CS 比较 适合 看 吧 好像 conan 啊
+UI09MAZ_0105 836095 838620 CS 有 几个 小孩子 会 看 conan 的
+UI09MAZ_0105 838620 840727 ZH 而且 可以 明白
+UI09MAZ_0105 840727 847229 CS 不要 讲 到 我 看 了 有 时候 也 也 有 一点 blur 了 他 他 他 的 他 
+UI09MAZ_0105 847229 849393 CS 他 的 那些 logic 啊
+UI09MAZ_0105 849393 853787 CS 我 觉得 他的 他的 他的 一些 logic 啊 不是
+UI09MAZ_0105 853787 857622 ZH 一个 好像 五 六 岁 的 小孩子 可以 看 的 明白 咯
+UI09MAZ_0105 857622 862328 CS 而且 有 时候 好像 那些 conan 啊 也是 有 一点 暴力 的
+UI09MAZ_0105 862328 868353 CS 因为 很多 那种 murder cases 啊 for example
+UI09MAZ_0105 868353 876208 CS 所以 好像 这种 animation 啊 还是 不 适合 给 小孩子 看 咯
+UI09MAZ_0105 878403 884952 CS 就算 是 那种 蜡笔 小 新 有 时候 我 我 觉得 它的 content 有 一些 有 一点 色 吧
+UI09MAZ_0105 884952 897920 CS 我 觉得 如果 一个 一个 五 岁 的 小孩子 看 蜡笔 小 新的 话 他 他 其实 会不会 understand 他 里面 讲 的 东西 嘞
+UI09MAZ_0105 897920 912259 CS 其实 是 not totally 会 understand 的 咯 尤其 是 那些 比较 色 的 那些 地方
+UI09MAZ_0105 912259 925721 CS 自己喜欢的 character 应该是 目 以前有看一个 就是 one piece 咯 和 naruto
+UI09MAZ_0105 938980 948740 ZH 人生 的 哲学 啊
+UI09MAZ_0105 948740 958968 CS 没有 什么 人生 的 哲学 啊 什么 是 人生 的 哲学 principle 啊
+UI09MAZ_0105 958968 965435 ZH 人生 的 哲学 就 是
+UI09MAZ_0105 965435 967989 ZH 不要 对不起 人家 咯
+UI09MAZ_0105 967989 970607 ZH 过后
+UI09MAZ_0105 970607 973164 ZH 尽量 做到 最好
+UI09MAZ_0105 973164 983672 ZH (呃) 真的 没有 我 是 没有 真正 想 过 什么 人生 的 哲学 啦
+UI09MAZ_0105 983672 996230 CS okay 啦 就 讲 到 这里  

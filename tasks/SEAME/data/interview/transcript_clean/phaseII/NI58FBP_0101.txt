@@ -1,0 +1,508 @@
+NI58FBP_0101 28633 30433 EN hello 
+NI58FBP_0101 33332 34912 CS okay 可以
+NI58FBP_0101 43130 44488 CS 哦 hello
+NI58FBP_0101 47462 48367 ZH 可以
+NI58FBP_0101 50649 52071 ZH 哦 我 是 轩莲
+NI58FBP_0101 53274 57196 CS then 我 今年 啊 读 s. p. m. s. 的
+NI58FBP_0101 57602 59805 EN ah chemistry and biological chem
+NI58FBP_0101 60867 61414 ZH 对
+NI58FBP_0101 62445 63273 EN mm
+NI58FBP_0101 64397 68085 EN (er) which year year one only yah come from j. j. c.
+NI58FBP_0101 69771 71381 EN jurong-junior-college
+NI58FBP_0101 72239 73677 ZH 啊 在 这边 而已
+NI58FBP_0101 75365 86027 CS 有住 hall 啦  我的 家 蛮 靠近 的 对 咯  (呃) 跟 我 另外 一个 朋友 也是 对 只是 住 一年 而已 明年 应该 没有 住 对
+NI58FBP_0101 89471 95383 ZH （呃） 要 独立 一点 咯 对 （呃） 因为 很多 东西 家务 自己 做
+NI58FBP_0101 95945 97320 ZH （呃） 比如 洗 衣服
+NI58FBP_0101 98335 102090 CS 可是 因为 这边 的 hall 不 可以 煮饭 啊
+NI58FBP_0101 102090 105250 CS 对 所以 就 同 常 是 吃 外面 咯 吃 canteen food
+NI58FBP_0101 108033 110146 CS 啊 然后 在 hall 有 (呃) i think
+NI58FBP_0101 110990 113693 ZH （呃） 它的 好处 就是 （呃）
+NI58FBP_0101 115239 120560 ZH 就是 (erm) 读书 的 时候 比较 寂静 比较 安静 在 家里 比较 吵 对
+NI58FBP_0101 120560 122180 CS 可是 我 的 hall 是在 hall nine
+NI58FBP_0101 122180 127038 ZH 所以 它的 嗯 那个 要 爬 很高 的 楼梯
+NI58FBP_0101 129850 132396 CS hall nine 我们 是 第六楼 最高
+NI58FBP_0101 134411 138740 CS no elevator 也 没有 电梯 (呃) 所以 就 爬山 这样
+NI58FBP_0101 140630 146239 ZH 洗 衣服 啊 （呃） 要 爬 下来 洗 咯 啊 所以 每次 爬 六楼 上下
+NI58FBP_0101 147990 155177 CS 它的 六楼 哦 是 等于 这边的 就是 好像 等于 ground level 的 十楼 啊 对
+NI58FBP_0101 161439 162794 ZH 各有 各的 好 吧
+NI58FBP_0101 164471 167823 ZH 在 家里 妈妈 有 煮饭 啊 她的 饭 很 好吃 对
+NI58FBP_0101 170410 172090 CS ah weekend 都有 回去
+NI58FBP_0101 176796 178494 EN (er) okay
+NI58FBP_0101 180431 182087 CS weekend ah 对
+NI58FBP_0101 184589 185651 ZH 了解 了解
+NI58FBP_0101 188370 193259 ZH 我 妈妈 她 煮 蛮 清淡 的 对 可是 我 喜欢 吃 啊 因为 很 健康
+NI58FBP_0101 201089 202340 ZH 西餐
+NI58FBP_0101 202934 203996 ZH 虾面
+NI58FBP_0101 207871 209278 ZH 不 记得
+NI58FBP_0101 212860 214480 CS 啊 对 我 是 读 chemistry
+NI58FBP_0101 217402 218198 ZH 啊
+NI58FBP_0101 219839 227036 CS 选 这个 school 啊  (呃) 真 原因 还是  真 原因 啊
+NI58FBP_0101 228311 232750 CS 哦 yah lah yah lah 哦 对 (嗯) 选 这个 course (erm) 一半 是
+NI58FBP_0101 232750 234880 CS 一半 对 chemistry 有 兴趣 啦 对
+NI58FBP_0101 236410 238847 CS then 选 这边 也是 因为 比较 靠近 家里 啊
+NI58FBP_0101 242894 243566 EN sorry
+NI58FBP_0101 247030 248905 EN (er) organic chem bah
+NI58FBP_0101 252813 254990 ZH 哦 没有 没有 兴趣 当 农夫
+NI58FBP_0101 254990 256519 CS 可是 actually 我也 是 一半
+NI58FBP_0101 256925 261080 ZH （呃） 第一 科 选的 进 不了 啦 现在 这算 是 第二 科 咯 对
+NI58FBP_0101 261611 262813 EN oh business
+NI58FBP_0101 269000 270900 CS yeah n. b. s. 现在 蛮 出名 的
+NI58FBP_0101 273290 275757 EN yeah it takes only three years can graduate faster
+NI58FBP_0101 276821 278055 CS 可以 在 那边 graduate huh
+NI58FBP_0101 279071 280970 CS 我 读的 是 four year 对
+NI58FBP_0101 284940 286490 CS 这个 semester ah oh 我 take
+NI58FBP_0101 287505 291700 CS (er) take 那个 就是 take
+NI58FBP_0101 291700 293330 CS 学校 要 我们 take 的 module lor
+NI58FBP_0101 294954 297470 EN for example (erm)
+NI58FBP_0101 297470 299157 CS chemistry 的
+NI58FBP_0101 299157 303671 CS physical chem maths physics 还有
+NI58FBP_0101 304998 305780 EN biochem
+NI58FBP_0101 306490 308710 CS 然后 自己 take electives 是
+NI58FBP_0101 309350 311355 CS 那个 japanese ah
+NI58FBP_0101 313376 316032 ZH 有 兴趣 啊 很 好玩
+NI58FBP_0101 317297 323850 CS ah actually 没有 嘞 我选 那个 我 不看 日本 戏 我 不看 日本 comic 很少 看 日本 comic
+NI58FBP_0101 333510 334322 EN as in
+NI58FBP_0101 335371 337350 CS course japanese 的 course
+NI58FBP_0101 337350 340698 CS japanese 只有 语言 课程 对
+NI58FBP_0101 344685 351419 CS (呃) 在 学习 咯 欣宜 还拿 h. m. j. one 嘞 第一 个 科 第 一个 level 的
+NI58FBP_0101 360148 362039 CS 不是 science
+NI58FBP_0101 369600 373490 CS ah c. a. c. 你 怎么 懂 t. shirt 
+NI58FBP_0101 375349 377802 CS 啊 对 我们 都是 c. a. c. 的 
+NI58FBP_0101 378286 380146 CS 啊 c. a. c. f. o. c. 的 对
+NI58FBP_0101 383096 390757 CS 啊 我是 那个 programmer for 今年的 camp 就是 去 安排 那个 行程 啊 玩 什么 游戏 做 些 什么 对
+NI58FBP_0101 394620 396670 CS 对 去年 有 参加 c. a. c. camp
+NI58FBP_0101 398185 406526 CS 啊 第一 就是 因为 参加 那个 camp 所以 才会 去 做 这个 东西 不然 你 都 不知道 有 这个 c. a. c. 的 存在 还是 什么 对
+NI58FBP_0101 408244 409807 ZH 等 一下 给 他们 听到 就 死 了
+NI58FBP_0101 413531 414828 CS okay 可以
+NI58FBP_0101 417422 418812 ZH 哦 可以 好
+NI58FBP_0101 426315 427455 EN difficulties ah
+NI58FBP_0101 428299 429205 EN (er)
+NI58FBP_0101 430722 446980 CS okay 做 programmers 因为 现在 还 没有 开始 真的 嗯 那个 camp 到 的 时候 我 听 我的 学长 说 会 比较 比较 辛苦 咯 seniors 讲 会 比较 辛苦 因为 你 要 去 如果 有 事情 或 状况 发生 的话 要去
+NI58FBP_0101 446980 449230 CS 要 去 补救 那个 situation ah
+NI58FBP_0101 449230 462915 CS yah then (erm) 因为 我们 到 现在 只是 去 (嗯) 还要 特地 去 下去 看 那些 地方 有 哪 一个 地方 可以 适合做 我们 的 camp 的 地方 (呃) 它的 它的 环境 那些 好 不好
+NI58FBP_0101 463290 464850 CS 有 没有 那个 atmosphere
+NI58FBP_0101 464850 476477 CS for 很像 我们 好像 有 有 一个 有 很像 那个 五天 的 camp 其中 有 一天 是 那种 (呃) adventure night 啊 吓人 的 那些 啊 是 要 找 一个 适合 的 地点 对
+NI58FBP_0101 482882 483806 EN eh
+NI58FBP_0101 485525 486731 ZH 啊 有时 两三点
+NI58FBP_0101 487300 496890 CS 可是 c. a. c. camp 不错 eh 因为 hor 如果 他 给你 睡 两三点 哦 它 隔天 十一点 多 才 开始 start camp  所以 是 足够 的 睡眠 的
+NI58FBP_0101 497522 504087 CS 可是 有些 camp 就 不 一样 啦 他们 就 很像 有些 玩得 比较 迟 可是 第二天 就 要 很早 叫 你 起来 对
+NI58FBP_0101 511097 518461 CS 会 啊 会 会 recommend 毕竟 是我 organise 啦 加 其他 人 当然 要 找 人家 来 对 啊 support 我们 的 camp 啦
+NI58FBP_0101 522159 523590 CS programmers 有 六个
+NI58FBP_0101 524038 527065 CS 啊 then 再加 两个 头 的 所以 就 八个
+NI58FBP_0101 530470 533930 CS category ah (er) 有 programmers 然后 有 logistics 的
+NI58FBP_0101 533930 536750 CS 然后 有 有 chairman 那些 啦
+NI58FBP_0101 536960 538340 CS 还有 有些 是 biz mag
+NI58FBP_0101 538840 541280 CS biz mag 是 专门 筹 钱 for 这个 的 camp 的
+NI58FBP_0101 541844 549000 ZH 因为 有时 很多 东西 都 需要 更多 的 (呃) 钱 (呃) 钱 来 赞助 这些 东西
+NI58FBP_0101 549000 554025 CS 然后 biz mag 的 人 也是 要 去 找 sponsor for 我们的 camp 对
+NI58FBP_0101 567985 580316 CS 哦 哦 现在 (呃) 那个 头 就是 分 给 我们 很像 你是 做 第一 天 安排 第一 天 的 行程 做 些 什么 然后 另外 一个 programmer 就是 做 第二 天 的 行程 去 想 构思 那些
+NI58FBP_0101 584222 591416 CS 哦 哦 加 多 一点 idea ah  对 对 对 通常 我是 会 用 idea lah
+NI58FBP_0101 593015 593907 EN okay lor
+NI58FBP_0101 597420 598829 CS oh okay 可以
+NI58FBP_0101 599741 600776 EN can no problem
+NI58FBP_0101 607105 611608 EN (er) it will begin on (er) twenty seven july yah
+NI58FBP_0101 613428 614691 CS 五天 吧 yah
+NI58FBP_0101 615743 617729 EN five days then one night yah
+NI58FBP_0101 624244 638713 CS my habit ah eh actually cycling 是 很爽 啦 but 还是 我 蛮 喜欢 cycling ah but 对 就是 很 (呃) 通常 你 cycling 要 有 脚车 啊 cycle 人家 马路 上 cycle 也是 很 危险 对 咯
+NI58FBP_0101 639375 646854 CS (er) but 最近 每次 都 跟 我的 我的 roomie 一起 去 跑步 啊 yah we go running then around n. t. u. lor
+NI58FBP_0101 647624 654650 CS around n. t. u. 跑 对 然后 (呃) 就 跑 晚上 啊 跑 长 长 跑 bus b. 的 路线
+NI58FBP_0101 658266 663041 EN eh half an hour yah half an hour yah 
+NI58FBP_0101 665239 666240 ZH 哪里 会
+NI58FBP_0101 671218 673311 EN running ah i think running is fun eh
+NI58FBP_0101 675538 682783 CS no no we don't talk cannot talk we talk we don't have breath already 不够 气 啊 not enough breath to to 继续 跑 咯 对
+NI58FBP_0101 686774 692296 EN ah huh one hour just run lor cause you don't run how are you gonna go back to your hall so must run back to your hall
+NI58FBP_0101 693951 699690 EN no bus b. (er) (er) the time finish the time stop already for their the shuttle bus
+NI58FBP_0101 699690 702020 CS normally we run at night yah 我们 在 晚上 跑
+NI58FBP_0101 702020 703040 EN yah
+NI58FBP_0101 704926 708325 EN (er) around ten yah ten o'clock when that time we start to run
+NI58FBP_0101 711392 712023 EN (er)
+NI58FBP_0101 713118 720535 EN currently it's like once a week yah yah now exam coming then i don't think we going to run a lot lah
+NI58FBP_0101 726595 731838 CS (er) yah warm up exercise lor ah 去 massage warm up exercise before runnning ah
+NI58FBP_0101 733020 733767 EN sorry
+NI58FBP_0101 735162 737775 CS after the jogging cool down 对
+NI58FBP_0101 740607 748207 CS 哪些 方法 (呃) 就是 cooldown 咯 边 走 边 边 走 i think 就 可以 cooldown 了 yah
+NI58FBP_0101 757073 758784 ZH (呃) 通常 是 把
+NI58FBP_0101 759515 765938 CS right leg 放 出去 then left leg 拉 behind then 就 可以 就 可以 就 可以 stretch lah
+NI58FBP_0101 768013 769301 EN yeah do some stretching
+NI58FBP_0101 774053 775663 EN eh any other habit ah
+NI58FBP_0101 775663 779780 CS (er) but currently the are running of i think bus b. 还 比较 长
+NI58FBP_0101 780200 785257 CS 因为 我们 有 try we got try like from 我们的 hall hall nine to chinese heritage center
+NI58FBP_0101 785257 786065 EN then go back
+NI58FBP_0101 787917 803710 CS okay lah 讲 一点 proud 的 东西 (呃) 最近 去 那个 around singapore 也是 (呃) for the first station ah 我们 就跑 咯 从 chinese heritage center 跑到 (呃) hall sixteen 那边 then 转弯 then 再 回去 那个 nanyang height 那边
+NI58FBP_0101 805500 813942 CS but 我 比较 佩服 那些 two hundred and eighteen kilometer 的 star runners 他们 真的 很 厉害 很 厉害 呃  then 有九个 哦
+NI58FBP_0101 813942 815842 CS 有 九个 runners right then 有
+NI58FBP_0101 815842 832102 CS (呃) 只有五个 make it 啦 有 四个 突然 间 last minute (呃) 就是 不 可以 撑 下去 啊 then they give up 咯 then of the five right then 那个 第一个 第一个 撞 到 的 (呃) 就是他 跑回 的话 他 finish in around thirty two hours ah thirty one or thirty two hours
+NI58FBP_0101 832102 834592 CS then 他是 n. i. e. 的 alumni 来 的
+NI58FBP_0101 835172 837022 CS then 现在 在 hwa-chong 教 physics
+NI58FBP_0101 837836 852874 CS then (er) for 另外 一个 他 更 令人 敬佩 的 是 哦 那 五个 里面 hor 有 一个 男的 hor 他跑 哦 他是 (erm) 南大 的 就是 他 已经 五十多 六十多 岁 了 对 对 咯 很 厉害
+NI58FBP_0101 854075 868252 CS ah alumni when n. t. u. 还 不叫 n. t. u. 的 时候 n. t. u. 叫 南大 他就 跑去 跑 two hundred eighteen 咧 around singapore 我 那时 跑 station one 我 都 很像 要 死掉 了 更 何况 是 他们 跑 two hundred and eighteen kilometer
+NI58FBP_0101 872152 875092 CS h finally 在 这边 啊 可是 我 没有 去 看 啦 final
+NI58FBP_0101 877990 882252 CS yeah i read the 学校的 paper i try to go online 看 因为 我 觉得 还蛮 interesting
+NI58FBP_0101 885961 888789 CS 不眠 不休 yah thirty
+NI58FBP_0101 889898 892725 EN thirty two hours two hundred eighteen kilometers
+NI58FBP_0101 893275 896736 CS yeah i think it's very very oh my 天
+NI58FBP_0101 896736 900302 CS then then 我 读 那个 newspaper article hor 它 就 讲
+NI58FBP_0101 900302 903986 CS 啊 问 他 就 访问 那个 人 说 the guy who
+NI58FBP_0101 904764 908608 CS who is the first lah 他是 第一个 then 他 就 讲说 他 已经
+NI58FBP_0101 908608 918101 CS 他 (嗯) like 他 问 他 会 不会 再 继续 跑 他 讲 no i have to rest for six months 他 讲 会 要 他 要 休息 for 六个月 先 对 啊
+NI58FBP_0101 919275 921440 ZH 真的 很 辛苦 eh 如果 是 我 不 可以 eh
+NI58FBP_0101 926297 931174 CS 超 夸张 哦 比 那个 standard chartered 的 forty plus kilometre 还要 厉害
+NI58FBP_0101 937105 943285 CS 所以 very good very good 他们 i don't think 我们 可以 做 得到 啦 太难了 two hundred eighteen
+NI58FBP_0101 946848 948943 EN yah correct
+NI58FBP_0101 952849 953929 EN sports aspect ah
+NI58FBP_0101 954727 962539 CS (呃) 还好 啦 其他 的 都 还好 咧 因为 我 badminton 很烂 也是  badminton (er)
+NI58FBP_0101 963054 972898 CS 打了 没有 力 啊 不懂 为什么 别人 打得 比较 有力 但 我 打 可能 打 太高 哦 他 已经 lose energy in the process 当 它去 另外 一个 open (er) 对方 的 yah
+NI58FBP_0101 973741 974444 EN yeah correct
+NI58FBP_0101 984798 986969 CS overseas ah 去 hong kong 而已 咯
+NI58FBP_0101 987266 987766 EN yah
+NI58FBP_0101 988094 989031 EN (erm)
+NI58FBP_0101 989604 991634 CS 去 hong kong ah 那个 是 自由 旅行 啊
+NI58FBP_0101 991734 993304 CS 因为 我 cousin 他 要 去
+NI58FBP_0101 993844 997794 CS (呃) 他 要 去 take japanese course 的 level j. l. p. t. two
+NI58FBP_0101 998200 999214 ZH 就是 那个
+NI58FBP_0101 999808 1015034 CS before the first 啦 就是 最高 的 前 一个 exam ah then 他 就 去 hong kong 咯 then 就 顺便 带 我 去 因为 我 都 不是 常 出国 的 他 就 出钱 啦 then 我 就 去 咯
+NI58FBP_0101 1015034 1018374 CS 啊 他 第二天 他 要 去 take exam so before that 就是
+NI58FBP_0101 1018374 1018857 ZH (呃)
+NI58FBP_0101 1019326 1020669 ZH 就是 (嗯)
+NI58FBP_0101 1021015 1025904 CS 因为 我 姑姑 他们 因为 hong kong 人都是讲 cantonese 的 then 我 又 不会 讲 cantonese
+NI58FBP_0101 1025904 1036154 CS then 就 有时 就 要 呆 在 那边 陪 我 的 他们 他在 那边 读书 then 我 他在 那边 读书 我 就 不懂 要 做 什么 害 我 就 拿 那个 map hor 在 那边 画 地图 要 去 哪里 要 去 哪里
+NI58FBP_0101 1036154 1044965 CS 我的 cousin 就讲 (嗯) 我 来 这读 japanese oh 你 来 这边 考 地理  很 好笑 因为 我 在 写 geography 这边 怎么 去 怎么去
+NI58FBP_0101 1045496 1050887 CS but 还 蛮 好玩 的 啦 因为 因为 hong kong 好像 它的 路 很 特别 咧 就是 很 窄小 这样
+NI58FBP_0101 1051309 1057011 CS like 它 不是 跟 新加坡 一样 大 小 可是 我 觉得 新加坡 的 看 起 来 比较 大 因为 它的 路 看 起来 比较 宽
+NI58FBP_0101 1057558 1065390 CS hong kong 的路 看 起来 比较 窄 every 很像 隔壁 那边 就是 那个 buildings 了 like all the buildings are very packed close together 对 咯
+NI58FBP_0101 1066265 1067234 ZH 所以 比较 窄
+NI58FBP_0101 1069421 1070983 CS 没有 eh 没有 去 disneyland
+NI58FBP_0101 1072827 1075046 CS (呃) 还好 ocean park you mean
+NI58FBP_0101 1075858 1079250 ZH 啊 没有 去 那边 都 是 去 吃 那些 啊
+NI58FBP_0101 1080578 1084562 ZH 啊 叉烧饭 哦 还有 它的 叉烧饭 不错
+NI58FBP_0101 1085233 1087484 ZH 比 这边 的 好 很多 huh
+NI58FBP_0101 1088436 1090437 ZH 糯米鸡 啊 很像 有 吃过
+NI58FBP_0101 1092187 1093655 ZH 凉茶 也有 对
+NI58FBP_0101 1094451 1096530 CS dim sum 也有 dim sum 好吃 啊
+NI58FBP_0101 1097982 1098764 ZH 粥 也有
+NI58FBP_0101 1099529 1103891 ZH 可是 那边 的 人 他们 动作 很快 就是 你 要 什么 很快 就 拿 给你 了 对
+NI58FBP_0101 1104891 1110803 CS 所以 就是 不 可以 拖 要 先 先 选 好 东西 then 再 跟 他们 讲 他们 动作 比较 快 对
+NI58FBP_0101 1112647 1115272 ZH 对 咯 很快 可能 想要 打算 再去 啊
+NI58FBP_0101 1115820 1119755 CS 找 朋友 啊 因为 我 朋友 讲 他的 他的 舅舅 住 在 macau 嘛
+NI58FBP_0101 1120239 1125449 CS 所以 就 可以 省 那个 transport ah accomodation fee then 就 搭 (呃)
+NI58FBP_0101 1126027 1128309 ZH 去 咯 去 咯 去 玩 一下 嗯
+NI58FBP_0101 1129512 1129996 ZH 对
+NI58FBP_0101 1134965 1140105 CS exchange ah 想 啦 mm but financially 要 看 先 啦 对 咯
+NI58FBP_0101 1149754 1150816 EN go overseas
+NI58FBP_0101 1151503 1152316 EN oh
+NI58FBP_0101 1152894 1154253 CS yah yah yah 很多
+NI58FBP_0101 1154941 1157334 CS 因为 学校 会 subsidise right or something
+NI58FBP_0101 1161224 1163616 CS 嗯 对有 scholarship 就好 啊
+NI58FBP_0101 1170506 1173037 CS 在 hall ah (erm)
+NI58FBP_0101 1174599 1177239 ZH 上网 咯 (erm)
+NI58FBP_0101 1177239 1192034 CS 上网 啊 facebook lor facebook 第一 啊 facebook 每次 都是 facebook 随便 打 一个 网址 第一个 出来 就是 facebook 了 对 然后 不然 就 听歌 听 korean song 好听 然后 还有 (嗯)
+NI58FBP_0101 1192034 1200805 CS 以前 有 写 blog 啊 现在 没有 写 blog ah 对 没有 时间 写 然后就 (呃) 上网 听歌 看 看 电 电视 咯 yah
+NI58FBP_0101 1201820 1206894 ZH (呃) 韩国剧 啦 台湾 喜剧 那些 啊
+NI58FBP_0101 1206894 1209024 CS taiwan shows 然后 korean shows
+NI58FBP_0101 1212769 1224802 CS (er) why i take japanese course ah (er) why i take japanese course is because i like japanese snacks 很好吃 japanese 的 东西 哦 每次 没有 写 英文 字 来 解释 怎么 用 它的 东西
+NI58FBP_0101 1224802 1228317 CS then 我 觉得 它的 东西 又 很 好用 有 很好 吃 很 cute
+NI58FBP_0101 1228317 1234223 CS then 我 cousin 有去 japanese japan 过的 then 他 每次 回来 就 拿 大箱 的
+NI58FBP_0101 1234223 1234831 ZH 那种
+NI58FBP_0101 1234831 1241145 CS snacks lah 给 我们 吃 then 他们的 snacks 是 很 精致 的 因为 日本人 很 注重 他们 的 包装 那些
+NI58FBP_0101 1241145 1246630 CS 所以 就 看了 很 可爱 啊 then 我 觉得 我 想 要 知道 那些 字 在 讲 什么 意思
+NI58FBP_0101 1246630 1251192 CS 对 可是 有 有时 有 看 日本 show lah 以前 有 看 manga 那些 对 ah
+NI58FBP_0101 1254379 1257164 EN sakura 
+NI58FBP_0101 1260980 1262293 EN oh really ah
+NI58FBP_0101 1263386 1265215 CS 哦 是 在 n. t. u. 的 right
+NI58FBP_0101 1266855 1269378 CS sa~ sake 那边 啊 是 sushi 的 啊
+NI58FBP_0101 1271174 1272049 EN sakura
+NI58FBP_0101 1276393 1277236 EN oh
+NI58FBP_0101 1278830 1279643 EN oh
+NI58FBP_0101 1280864 1287907 CS 哦 哦 哦 那个 jurong-west sports complex 那边 啊 哦 十三块 啊 便宜 嘞 很 便宜
+NI58FBP_0101 1290280 1293766 EN  oh okay
+NI58FBP_0101 1294937 1297672 EN  oh okay
+NI58FBP_0101 1298843 1301234 CS  okay 好 可以 可以
+NI58FBP_0101 1305701 1307515 CS 不然 我 讲 我 c. c. a. 给 你 听 咯
+NI58FBP_0101 1307952 1311513 CS ah my c. c. a. all along 都是 chinese orchestra lah
+NI58FBP_0101 1312422 1316391 ZH 所以 就是 弹 那个 柳琴 的 有 表演 你 懂 柳琴
+NI58FBP_0101 1317203 1320156 ZH （呃） 啊 柳琴 小 小 个 那个
+NI58FBP_0101 1321265 1322281 ZH 啊
+NI58FBP_0101 1323530 1325061 CS (er) perform 柳琴 的 咯
+NI58FBP_0101 1325999 1335345 CS (呃) 六年了 吧 没有 啦 因为 中学 开始 学 四年 then j. c. 又 再 继续 继续 学 就 总共 是 六年 这样
+NI58FBP_0101 1337594 1339687 ZH （呃） 没有 啊 很长 
+NI58FBP_0101 1341965 1346372 ZH 哦 不用 不用 因为 柳琴 是 弹片 用 弹片 的 对
+NI58FBP_0101 1347392 1348617 ZH 那个 是 扬琴
+NI58FBP_0101 1349120 1350074 ZH (呃)
+NI58FBP_0101 1351843 1356429 ZH 那个 直直 的 长长 的 是 琵琶 柳琴 是 比较 小 个 它 声音 比较 尖
+NI58FBP_0101 1358853 1360197 CS ah yah yah 杨柳 的 柳
+NI58FBP_0101 1360693 1361228 ZH 琴
+NI58FBP_0101 1361815 1363482 CS google 一下 哦 okay
+NI58FBP_0101 1364189 1367533 ZH 啊 它是 很像 琵琶 的 妹妹 啦 算是 这样 对
+NI58FBP_0101 1372249 1373419 EN chinese orchestra
+NI58FBP_0101 1375000 1376304 CS 啊 我是 chinese orchestra 的
+NI58FBP_0101 1380931 1386802 CS 都是 弹 啊 (呃) 最 出名 的 应该 会 懂 啦 mazuri 有 没有 听过
+NI58FBP_0101 1388129 1390710 CS (er) mazuri (呃) 那个
+NI58FBP_0101 1396960 1405126 CS you have no idea it's okay (er) yah that one that one 好像 很 出名 因为 我的 朋友 懂 啦 even though 他 不是 chinese orchestra
+NI58FBP_0101 1405126 1406305 ZH 啊 对
+NI58FBP_0101 1406305 1420784 ZH 啊 还有 （呃） 弹 有 啦 有时 有 老师 创作 那个 就是 他 会 拿 周杰伦 的 歌曲 给 我们 看 很像 那个 菊花台 那个 啊 那个 我们 也会 弹 啊 啊 啊 那个 有 听过 
+NI58FBP_0101 1423863 1424995 ZH （呃） 连续
+NI58FBP_0101 1429195 1429771 EN ah huh
+NI58FBP_0101 1431271 1441224 CS yeah 不同 的 弹法 but 通常 我们 是 we won't perform 是有 composer compose 那个 歌了 then 我们 才 perform 的 我们 不是 那么 厉害 去 写 啦
+NI58FBP_0101 1441224 1444314 CS then 那个 instructor 通常 都是 singapore chinese orchestra
+NI58FBP_0101 1444314 1446672 ZH 他们 请 他们 来 教 的 对
+NI58FBP_0101 1448918 1449528 ZH 两次
+NI58FBP_0101 1451469 1455087 ZH 以前 中学 的 时候 是 下午 咯 到 傍晚
+NI58FBP_0101 1457043 1458052 CS 就 一直 practise lor
+NI58FBP_0101 1459862 1465096 CS but 我 还 蛮 喜欢 的 现在 来 uni 没有 没有 没有 join chinese orchestra
+NI58FBP_0101 1465734 1468134 CS 有时 会 想念 回 那个 music yah
+NI58FBP_0101 1470774 1473191 ZH 之前 都是 用 学校 没有 什么 买 对
+NI58FBP_0101 1481501 1490569 ZH  可是 柳琴 它的 它的 它的 比较 比较 细 所以 有时 我们 弹 弹 弹 太 大力 它 会 断线
+NI58FBP_0101 1490569 1501844 CS 哦 要 跟 你们 讲 很 特别 right 它会 断线 可是 断线 的 要 很 小心 所以 有时 一断 到 太厉害 哦 有 一段 时间 会 我们 会 怕 来 转 那个 东西 因为 你 要 调音 嘛
+NI58FBP_0101 1501844 1504408 ZH 它 它 会 走掉 你 要 转 那个 线
+NI58FBP_0101 1504408 1508756 ZH 它 才 会 有 那个 那个 声音 出来 老师 要 我们 有 一个 调音器 啊
+NI58FBP_0101 1508756 1515049 CS 那个 i don't know what is the english ah ah 对 then 就 就 (嗯) 就 可以 调 调 它的 音 note
+NI58FBP_0101 1515049 1521120 CS then 有时 断线 到 它 很细 啊 所以 很尖 有时 会 the pressure 会 打到 你的 手 then 就 痛
+NI58FBP_0101 1524461 1527082 ZH 啊 会 会 会 硬 硬 对
+NI58FBP_0101 1531654 1536741 CS yah yah got c. and d. ours was c. and d. for 柳琴 啊
+NI58FBP_0101 1540404 1541139 ZH 四条
+NI58FBP_0101 1542154 1543294 ZH 四条 而已 对
+NI58FBP_0101 1547560 1548388 ZH 五条
+NI58FBP_0101 1551920 1553467 ZH 哈 哈 哈 我 不懂
+NI58FBP_0101 1555216 1562192 ZH 哦 有些 人 有在 弹 古筝 可是 古筝 很少 只有 两架 所以 只有 几个 人 可以 弹 而已 对
+NI58FBP_0101 1562754 1568678 CS but 我 现在 蛮 喜欢 扬琴 扬琴 好听 扬琴 好听 嘞 扬琴 每次 都是 主旋律 对 哦 对 哦
+NI58FBP_0101 1568678 1571834 CS  you also 很 excited hor
+NI58FBP_0101 1572396 1572997 ZH 对 咯 对 咯
+NI58FBP_0101 1572997 1578667 CS 啊 扬琴 比较 也是 好听 (呃) 扬琴 因为 柳琴 的 声音 很 小声 then 扬琴 的 声音 哦
+NI58FBP_0101 1578667 1586771 CS 哇 可以 可以 自己 一个 一个 在 那个 台上 表演 的 那种 很 好听 笛子 也是 另外 一个 可以 solo 的 啊
+NI58FBP_0101 1590735 1591599 ZH 会 什么 歌
+NI58FBP_0101 1599043 1599609 EN 
+NI58FBP_0101 1608259 1613388 EN no idea sorry  yah 
+NI58FBP_0101 1619153 1634038 CS eh actually 当初 我 我 喜欢 扬琴 也是 扬琴 和 柳琴 可是 后来 朋友 不要 就 丢弃 我 在 柳琴 我们 他们 很 坏 eh 我们 讲好 说 三个人 三个人 嘛 我们 一起 去 选 柳琴 啊 老师 讲
+NI58FBP_0101 1634038 1641327 ZH （呃） 看你 喜欢 什么 乐器 就 讲 这样 他 就 看 你的 手掌 说 你的 手掌 够大 够小 才 可以 弹 那个 东西
+NI58FBP_0101 1641327 1650896 CS then 我们就 okay lor 我 就 跟 我 朋友 讲 说 原本 我要 选 扬琴 的 可是 扬琴 只 可以 几个人 也是 啊 对 then 我们 就 讲 说 (呃) 我们 一起 学 柳琴 啊
+NI58FBP_0101 1650896 1663752 CS 可是 (呃) 到 那边 他们 突然 间 跟 那个 老师 讲 他们 要 选 扬琴 我 整个 人 吓 到 你 不是 讲 你 要 选 柳琴 的 咩 then 他们 全部 就 哦 okay then 就 算了 啦 反正 我 也是 喜欢 杨 柳琴 哈 所以 都 okay 对
+NI58FBP_0101 1664717 1665316 ZH 对 咯
+NI58FBP_0101 1667981 1670938 CS  这段 心声 but okay lah 可以 啦
+NI58FBP_0101 1672835 1675598 ZH 柳琴 好处 是 比较 小 啦 可以 带 回家 嘛
+NI58FBP_0101 1678868 1680051 ZH 扬琴 主旋律 哦
+NI58FBP_0101 1680686 1682185 ZH 有空 应该 去 学 一下
+NI58FBP_0101 1684637 1685861 CS (呃) 比较 好听 right
+NI58FBP_0101 1686789 1691479 ZH 还 可以 用 它的 后面 啊 来 弹 那个 珠子 的 后面 就 不同 声调
+NI58FBP_0101 1694746 1699621 CS 对 啊 很好 哦 很好 eh aiyo  就 很想 弹 了 对 咯
+NI58FBP_0101 1704634 1707042 CS 哦 那个 cello 哈 啊 对 cello
+NI58FBP_0101 1709854 1717473 CS 咦 这个 我 也 不是 很 清楚 咧 就是 有 哦 那个 chinese orchestra as in 他们 是 坐 后 后面 的 伴奏 的 曲子 对
+NI58FBP_0101 1721204 1724435 CS  i don't know eh yah 应该 是 啊
+NI58FBP_0101 1726016 1728067 CS 不知道 嘞 要 回去 问 那个 instructor
+NI58FBP_0101 1730073 1734461 CS 很 shocked right like 我们 每次 看到 then 就 then 突然 间 有 一个 cello 在 那边
+NI58FBP_0101 1740667 1742172 EN <unk>
+NI58FBP_0101 1743897 1747792 ZH  要 有 气  对 要 有 气
+NI58FBP_0101 1756407 1762222 CS 哦 哦 flute 啊 啊 那个 metal 的 对 呀 嗯 对 咯 对 咯 那个 也是 好听 啊
+NI58FBP_0101 1767519 1769763 CS 放低 的 pitch ah yah pitch 比较 高 对
+NI58FBP_0101 1774114 1776108 ZH 暑假 做工
+NI58FBP_0101 1777511 1779116 ZH 在 学校 做 那个 打 电话 的
+NI58FBP_0101 1780665 1788739 CS (呃) 学校 phonaton 就是 打 电话 给 graduating (er) 就是 他 每次 有 不同 project lah then 这次 的 project 是 (呃) 打 给 graduating students lor
+NI58FBP_0101 1789257 1790594 CS 你是 graduating student 是 吗
+NI58FBP_0101 1791571 1792697 ZH 哦 不是 你是
+NI58FBP_0101 1800117 1815982 CS 哦 毕业 了 哦 sorry  okay (erm) 要 开心 一点 因为 我 讲 你很 年轻 啊  yah yah then (呃) 就 打 电话 给 graduating students lah 问 他们 要 不要 contribute back to n. t. u. or something lah yah
+NI58FBP_0101 1823027 1825572 ZH 哦 没有 没有 不是 他 算 一个 小时 的 对
+NI58FBP_0101 1832014 1835591 ZH （呃） 不是 eh 就是 人家 捐 五快 我 也 没有 拿 东西 啊
+NI58FBP_0101 1839395 1841702 ZH 啊 请 打 这个 号码 啊 对 对 对 然后 讲
+NI58FBP_0101 1842236 1844871 CS 我们 是 call out call 给 他们 啊 问 他们 要 不要
+NI58FBP_0101 1846441 1852088 CS 他们 要 actually (呃) 很 容易 哦 现在 是 用 giro so 直接 deduct 那个 钱 from 他们 的 giro
+NI58FBP_0101 1855459 1856748 CS 啊 有 啊 有 giro ah
+NI58FBP_0101 1866269 1868586 EN it's the same what it's still the using the same
+NI58FBP_0101 1869184 1872756 CS giro account 就是 giro account 就是 你的 户口 里面
+NI58FBP_0101 1872756 1877523 CS 你 银行 户口 里面 then 他 apply giro 它会 每 个月 automatic 跟 你 拿掉 那个 钱
+NI58FBP_0101 1878336 1883006 CS to 还 for either tuition fee hostel fee 还是 miscellaneous fee ah
+NI58FBP_0101 1884512 1884821 EN then
+NI58FBP_0101 1885370 1892525 ZH (呃) 如果 是 进 学校 进钱 的话 应该 是 像 我们 这种 在 那边 学校 做工 它 就 进钱 来 咯
+NI58FBP_0101 1895564 1898634 CS 然后 暑假 i think 就是 忙 c. a. c. 的 东西
+NI58FBP_0101 1899004 1903071 ZH 很像 会 很忙 他们 讲 会 很忙 啊 所以 应该 是 很忙 对
+NI58FBP_0101 1906380 1907854 EN july camp
+NI58FBP_0101 1907854 1910792 CS before the camp 要 做 很多 planning 要
+NI58FBP_0101 1910792 1922749 CS 要 要 要 要 还要 去 设计 那些 (呃) 就是 (呃) 我们 的 头 讲 他要 他要 做 做 一些 不 一样 的 东西 还是 什么 对 then 就 要 帮忙 呃 decorate 那些 东西
+NI58FBP_0101 1935088 1936221 ZH 还有 什么 啊
+NI58FBP_0101 1936623 1947954 CS 我 我 自己 讲 啊 就是 你 不要 问 你 不懂 要 问什么 okay okay lah then 我 自由 发挥 啊 okay (呃) then 就 (呃) western ah 加 western music western instrument
+NI58FBP_0101 1947954 1952860 CS (er) western instrument 最近 蛮 喜欢 那个 后面 打 那个 drums 啊
+NI58FBP_0101 1953947 1962482 CS 那个 western 不是 有 很多 那种 drums ah percussion lor ah 还蛮 interesting 的 嘞 因为 你要 coordinate 你的 手 还有 脚 对 咯
+NI58FBP_0101 1963453 1967408 ZH 啊 对 对 很酷 哦 很酷 （呃） 很酷 很 喜欢 也是
+NI58FBP_0101 1967408 1969602 CS 就是 那个 image 很酷 这样 对 咯
+NI58FBP_0101 1972426 1975254 CS 没有 嘞 可是 现在 不是 有 invent 那个 game
+NI58FBP_0101 1975254 1980750 CS 叫 guitar hero 还是 什么 就是 那时 我们 c. a. c. ah open house ah 学校 open house
+NI58FBP_0101 1980750 1984894 CS 就是 给 j. c. 的人 进来 看 啊 then 有 一个 有
+NI58FBP_0101 1984894 1988334 CS (呃) 学校 有 一个 game cyber society ah cyber game society
+NI58FBP_0101 1988334 2002654 CS ah then 他就 (呃) 开场 就 放 一个 游戏 给 我们 在 那边 玩 and then 那个 游戏 叫 guitar hero 然后 guitar hero 有 四种 就是 有 四个 人 可以 玩 一个 人 是 中 唱歌 的 then 他 就会 就 可以 选歌 在 那个 game 里面
+NI58FBP_0101 2002654 2009924 CS then 有 可以 唱歌 的人 然后 第二个 人 maybe (呃) 有 两个 人 是 guitar 的 然后 最后 一个 是 那个 打 那个 drum 的 咯
+NI58FBP_0101 2009924 2012894 CS then 我们 原本 是要 出去 宣传 我们 的 c. c. a.
+NI58FBP_0101 2012894 2021860 CS 哪里 知道 变成 全部 人 在 那边 玩 那个 guitar hero 因为 很 好玩 then 就 like 那个 如果 是 那个 guitar 的 就 要 跟着 他的 beat 走 那个
+NI58FBP_0101 2021860 2027593 CS 啊 那个 那个 game 的 beat 咯 要 一起 走 then 就 (呃) 他的 beat 到 你的 话 你就 打 下去 咯
+NI58FBP_0101 2027593 2031960 CS like even though 是 那个 假的 啦 but 还是 很 好玩 很 好笑 对 咯
+NI58FBP_0101 2031960 2035376 CS 啊 有些 人 可以 act zai 啦 but 有些 人 真的 打得 很 厉害 eh 他们
+NI58FBP_0101 2035376 2041644 CS 啊 有 几个 like 上场 来 表演 的 hor 都是 看 得出 是 有 经验 的 got experience 的
+NI58FBP_0101 2044507 2045227 ZH 你 有 玩 过 啊
+NI58FBP_0101 2046513 2047354 EN p. s. three
+NI58FBP_0101 2063275 2067420 CS 哦 现在 有 那个 sing sing i think sing 的 很 特别 嘞
+NI58FBP_0101 2071875 2078232 CS 啊 对 对 singing 是 跟 pitch 所以 有些 拉 不到 他们 就 作 假音 在 那边  very funny
+NI58FBP_0101 2081507 2084508 CS drums 很 困难 right drums 跟 piano 一样 困难 嘞 我 觉得
+NI58FBP_0101 2087325 2088484 ZH 啊 对 对 对
+NI58FBP_0101 2089274 2091396 CS 对 咯 还 蛮 难 的 咧 那个 drums 的
+NI58FBP_0101 2093122 2100654 CS yah 那个 beat 很快 coordinate 要 很好 你 一乱 hor then 那个 band 的 整个 人 都会 跟着 你 一起 乱 对
+NI58FBP_0101 2106975 2107916 ZH 对 对 对
+NI58FBP_0101 2109021 2112896 CS 很 interesting eh  你有 学过 啊
+NI58FBP_0101 2115947 2117459 CS 哦 都很 cool 哦 那种
+NI58FBP_0101 2118195 2118781 ZH 很好 很好
+NI58FBP_0101 2122780 2126587 CS 然后 等下 最后 一个 然后 锵 在 那边 很 interesting
+NI58FBP_0101 2135506 2142075 CS 哦 不是 啦 嗯 就是 bangle lor 一个 bangle (呃) 就是 plastic 的 啦 yah i think so
+NI58FBP_0101 2144457 2145093 EN sorry
+NI58FBP_0101 2146588 2148510 ZH 哦 没有 啊 没有 这个 是 自己 买 的
+NI58FBP_0101 2150819 2151406 ZH 为什么 嘞
+NI58FBP_0101 2153558 2160013 CS 哦 不是 不是 可以 拿 下来 我是 讲 做么 问  碍眼  okay lah okay okay
+NI58FBP_0101 2161843 2163818 ZH 哦 有些 人 小时候 就 戴 那些 链
+NI58FBP_0101 2164568 2165428 ZH 啊 对对对
+NI58FBP_0101 2165967 2168023 ZH 没有 啦 那个 不 可以 戴 太久 对
+NI58FBP_0101 2173015 2178809 CS 啊 对 咯 对 咯  随机 随机 any anytime anywhere 可以 绑 啊
+NI58FBP_0101 2187272 2188405 EN singapore food
+NI58FBP_0101 2192347 2194289 EN what do i like ah satay
+NI58FBP_0101 2195156 2196111 ZH 好吃
+NI58FBP_0101 2202309 2208575 CS (呃) 有 羊肉 和 鸡肉 羊肉 跟 鸡肉 都 有 吃 啊 牛肉 就 没有 吃 有 没 有 有 牛肉 的 吗 应该 没有 right
+NI58FBP_0101 2211756 2213541 CS 哦 有 猪肉 的 what
+NI58FBP_0101 2214229 2215260 ZH 没有 猪肉 的 咩
+NI58FBP_0101 2216715 2217662 EN oh yah
+NI58FBP_0101 2222214 2223771 EN <unk>
+NI58FBP_0101 2224515 2225954 CS satay 酱 哦 那个
+NI58FBP_0101 2227225 2229465 CS 那个 很多 peanut 的 那个 satay 酱
+NI58FBP_0101 2230747 2234419 ZH 啊 是 花生酱 来的 啊 蛮 好吃 的 要 沾 那个 才 好吃
+NI58FBP_0101 2236530 2237421 ZH 哪 一家 啊
+NI58FBP_0101 2237958 2243196 ZH 通常 是 人家 买 给我 吃 (呃) 所以 我 不知道 是 哪 一家  mm
+NI58FBP_0101 2244992 2248037 ZH （呃） 通常 人家 讲 是 那个 老巴刹 那个 最 好吃
+NI58FBP_0101 2248963 2249954 CS orchard roaad 那边
+NI58FBP_0101 2251214 2252662 ZH 啊 有 一个 老巴刹
+NI58FBP_0101 2253272 2257474 CS 那个 是 蛮旧 的 通常 好像 老师 以前 叫 我们 做 那些 itinerary
+NI58FBP_0101 2257474 2260494 CS 要 很像 就 做 一个 project 做 itinerary
+NI58FBP_0101 2260494 2266748 CS 很像 有 有 有 foreigners (erm) 还是 外国人 他们 要 进来 嗯  then 你 就是 那个 安排 行程 的 人 咯
+NI58FBP_0101 2266748 2272784 CS 啊 then 你 就 我们 通常 会 介绍 他们 哎呀 然后 (呃) 做完 这个 东西 就 去 老巴刹 吃 东西
+NI58FBP_0101 2272784 2275184 CS 所以 i think that place 是 famous for
+NI58FBP_0101 2275534 2277544 CS 它的 food ah singapore food 对
+NI58FBP_0101 2281075 2286624 CS (呃) 老巴刹 就是 old 一个 food market place 吧 i think so yah
+NI58FBP_0101 2287341 2288874 CS old food market place 对
+NI58FBP_0101 2293041 2293859 ZH （嗯）
+NI58FBP_0101 2294494 2302673 CS 不是 很 清楚 嘞 对  我 回去 再 给你 看 讲  就是 那 一带 啦 蛮 靠近 m. r. t. 的 嘛 yah
+NI58FBP_0101 2308037 2310459 CS 有 啊 有 玩 一个 玩 那个 cafe world
+NI58FBP_0101 2311315 2312423 ZH （呃） 蛮 好玩 的
+NI58FBP_0101 2313108 2315881 CS but 有时 如果 可是 那个 game 就是 你要
+NI58FBP_0101 2316354 2319037 ZH 你要 记得 说 你 煮 了 什么 菜 在 那边
+NI58FBP_0101 2319449 2334684 CS 因为 你的 很像 有些 菜 可能 他 一个 小时 后 就 会 熟 了 所以 你就 next day 你 就 要 (呃) maybe 你 等 一下 就要 来 看 那个 菜 啊 then 就 click 啦 to serve the food 可是 你 如果 你 忘记 你 第二天 去 的话 then 就 wasted 咯 那个 food 就 全部 变 坏
+NI58FBP_0101 2334834 2336944 CS 它 会 show 你 那个 picture of 它 变 坏
+NI58FBP_0101 2336944 2338518 CS then 很 好笑 yah
+NI58FBP_0101 2338518 2340746 CS 你 就 会 浪费 钱 咯 就 minus marks 对
+NI58FBP_0101 2344491 2344934 EN sorry
+NI58FBP_0101 2346699 2347441 ZH 我 啊
+NI58FBP_0101 2347441 2352189 CS 也 没有 always 上 internet lah 有 啦 晚上 回 回去 hall 的 时候 通常 都是 在 internet
+NI58FBP_0101 2357973 2360068 EN (er) just waste the food lor nothing can do
+NI58FBP_0101 2361504 2368754 CS  通常 你 你 你要 你要 cook 那个 food 之前 你 就 想 (呃) 第二天 要去 要去 serve 那个 food
+NI58FBP_0101 2368754 2371424 CS but 我 听 我 朋友 讲 说 他 会 给 两天 allowance ah
+NI58FBP_0101 2371424 2380023 CS 就是 两天 过后 then 你 再去 很像 如果 你的 食物 是 一天 (呃) 一天 的话 then 第二天 你 去 没有 人家 多 一天 咯 就 两天
+NI58FBP_0101 2380023 2383562 CS 如果 是 one hour 的话 maybe two hours later 他 才 他 还会 在 啊
+NI58FBP_0101 2384170 2386544 CS 啊 cafe world 好玩 啊 restaurant city 也 有 玩 啊
+NI58FBP_0101 2386544 2388202 ZH 其他 的 就 没有 玩 啊 对
+NI58FBP_0101 2388871 2392901 CS 因为 要 时间 玩 啊 就 没有 通常 是 去 看 人家 的 profile 那些
+NI58FBP_0101 2395853 2403134 CS 啊 对 咯 对 咯 看 人家 的 照片 也是 then 就 会 知道 那个 人 大概 最近 做 些 什么 yah then how he has changed also
+NI58FBP_0101 2403134 2404092 ZH 啊 对 咯
+NI58FBP_0101 2407792 2411003 CS psychology test i 还会 蛮 喜欢 做 psychology test 的
+NI58FBP_0101 2411003 2412075 ZH 好玩 （呃） 那些
+NI58FBP_0101 2412075 2421406 CS 有些 蛮 准的 but 有些 不是 很 准 then 就 没有 publish ah  有些 准 的话 then 就去 publish lor then 就 给 人家 看 like 给 人家 玩 也是 啊
+NI58FBP_0101 2424235 2425144 EN suggest ah
+NI58FBP_0101 2425514 2429584 CS 以前 做过 很多 嘞 就是 有 英文 的 嘛 还有 华语 的 yah
+NI58FBP_0101 2429584 2431684 CS i i got do both 啊 有 做 两种
+NI58FBP_0101 2431684 2432430 ZH 对 咯
+NI58FBP_0101 2434469 2439203 CS 通常 是 做 english 的 then after i 再看 chinese 的我 cousin 介绍 then 我 才 做
+NI58FBP_0101 2445451 2446846 CS 喔 你 有 去 facebook 吗
+NI58FBP_0101 2447338 2450480 CS 哦 你 也是 有 做 psychology test 啊 哦
+NI58FBP_0101 2453337 2454537 EN oh yah lor yah lor
+NI58FBP_0101 2455138 2457824 CS 最近 有 一个 也是 很 好笑 一个 application
+NI58FBP_0101 2457824 2459344 CS 他是 about social interview
+NI58FBP_0101 2459344 2470973 CS so 就是 (呃) 就是 你去 click 这个 application hor 它就 generate 你的 朋友 突然 间 有 一个 问 你 出来 (呃) what do you think of (er) what would you say to what what what (呃) to this person
+NI58FBP_0101 2470973 2475772 CS if he or she says that she likes you or something (呃) then 你 就 要 假 假 写 啦
+NI58FBP_0101 2475772 2482746 CS then 有些 人 通常 通常 你 可以 选择 你要 publish 或不 publish for 那个 questions 可是 如果 有 那些 好像 那个人 是 你 很好 的 朋友 的话
+NI58FBP_0101 2482746 2486114 CS 我们 就 会 通常 会 写 then 写 一些 无聊 的 东西 在 那边
+NI58FBP_0101 2486114 2487526 CS but 是 蛮 好玩 的
+NI58FBP_0101 2488112 2496727 CS 就是 then 那个 东西 就会 在 那个 朋友 的 profile then 他就会 (呃) 那个 朋友 就 会 在 reply back 啊 所以 就是 like interacting with your friend
+NI58FBP_0101 2497495 2498114 EN yah
+NI58FBP_0101 2498878 2500590 CS 有时 它会 突然 间 generate 一些
+NI58FBP_0101 2500590 2506311 CS 你的 朋友 可是 那个 朋友 是 你 很久 没有 看到 的 你 可以 写 几个 comment 在 那边 咯 对
+NI58FBP_0101 2522420 2524196 EN singapore food ah
+NI58FBP_0101 2524980 2525850 EN (er)
+NI58FBP_0101 2526704 2527426 EN facebook
+NI58FBP_0101 2527788 2529017 CS 有 问 这种 test meh
+NI58FBP_0101 2531487 2532454 ZH 哦
+NI58FBP_0101 2537583 2540742 CS 哦 很 interesting oh i think facebook 每天 都 有 人 在 用 eh
+NI58FBP_0101 2541444 2542186 ZH 对 咯 对 咯
+NI58FBP_0101 2542587 2545299 CS 是 it'ss the most popular website 现在 啊 对
+NI58FBP_0101 2557919 2558866 EN 
+NI58FBP_0101 2559628 2561423 CS as in 我 不懂 sorry
+NI58FBP_0101 2564813 2565604 EN ah huh
+NI58FBP_0101 2569112 2572888 EN oh then the whole pictures will be gone yah yah i agree
+NI58FBP_0101 2573337 2573821 EN but
+NI58FBP_0101 2574246 2578129 CS 我 i don't know leh 很像 现在 每个人 都 把 自己 的 pictures upload 上去
+NI58FBP_0101 2579072 2581526 CS 以前 的 人 不是 每次 去 洗 照片 吗 then got
+NI58FBP_0101 2581818 2585532 EN then you can keep as keepsake or something lah then if like internet goes down then
+NI58FBP_0101 2585931 2588981 EN confirm no more right but do you think the internet will go down
+NI58FBP_0101 2589947 2591124 EN i also no sure leh
+NI58FBP_0101 2591433 2593387 CS yah lor should should be 不会 right
+NI58FBP_0101 2593889 2599280 CS 因为 全部 人 都 technology is advancing 哦 应该 是 不会 breakdown 啦 真的 对 咯
+NI58FBP_0101 2603548 2604146 ZH 嗯
+NI58FBP_0101 2606942 2612844 CS (erm) oh then 有时 会 upload youtube 的 的 you can upload 那个 youtube 的
+NI58FBP_0101 2612844 2616174 CS movie ah 还是 show 你 觉得 很 interesting 的 to 那个 website
+NI58FBP_0101 2616174 2618168 EN to facebook lah then you share with your friends
+NI58FBP_0101 2620473 2623500 EN ah just press the link yah yah the link the link
+NI58FBP_0101 2623924 2624354 EN yeah
+NI58FBP_0101 2624354 2625524 CS i think its quite 方便 嘞
+NI58FBP_0101 2625524 2629214 EN then you just copy down the link then it will automatically attach the link
+NI58FBP_0101 2635041 2636346 EN 
+NI58FBP_0101 2639111 2639556 EN hello
+NI58FBP_0101 2640377 2640863 EN yah
+NI58FBP_0101 2646722 2650094 CS (er) for us chemistry students 应该 是 chemistry lor
+NI58FBP_0101 2650364 2652624 CS confirm 是 chemistry lah yah 因为
+NI58FBP_0101 2652913 2659527 EN you are doing you are studying chemistry all along so confirm is chemistry then maybe you can do organic chem physical chem or
+NI58FBP_0101 2660060 2661299 CS 其他 的 chemistry 啊
+NI58FBP_0101 2663704 2665245 EN organic chem ah synthesis lor
+NI58FBP_0101 2665731 2669314 CS like 就是 i think organic chem mainly 他的 research hor 如果
+NI58FBP_0101 2669314 2671404 ZH 现在 没有 猜错 的 话 应该 是
+NI58FBP_0101 2671792 2675021 CS 就是 how you code how you can syntehsis a product ah
+NI58FBP_0101 2675594 2677844 CS true maybe 不用 用 这么 多 mechanism
+NI58FBP_0101 2678124 2679934 CS 因为 有 mechanism 会 有 by product
+NI58FBP_0101 2679934 2681533 ZH 就是 那些 不要 废的
+NI58FBP_0101 2681533 2684531 CS product 出来 所以 你要 可能 去 思想
+NI58FBP_0101 2684531 2685994 CS (呃) 构思 (呃) think about
+NI58FBP_0101 2685994 2690864 CS (呃) 有 没有 比较 比较 啊 比较 faster efficient way of
+NI58FBP_0101 2690864 2692524 CS forming 那个 product that you want
+NI58FBP_0101 2693182 2695342 EN like other through other type of mechanism lor
+NI58FBP_0101 2705560 2706321 EN ah huh
+NI58FBP_0101 2713625 2714721 EN fertilizers
+NI58FBP_0101 2715194 2715751 EN ah
+NI58FBP_0101 2718702 2719849 EN fertilizers ah
+NI58FBP_0101 2720295 2721214 EN (eh)
+NI58FBP_0101 2722746 2724219 EN it's not healthy for human beings leh
+NI58FBP_0101 2726821 2727501 EN (er)
+NI58FBP_0101 2729876 2733524 EN (oh) chemical fertilizers yah yah i think i can agree yah
+NI58FBP_0101 2733524 2739217 EN like if there is excess then it will be absorbed by the plants right then it will be bad for the human health
+NI58FBP_0101 2739592 2742548 EN yah for some lor yah if they use excessive lah
+NI58FBP_0101 2742548 2744243 EN but if not i think before that
+NI58FBP_0101 2744243 2753803 CS it should be still okay because they still need the fertilizers itself what  because (erm) yah yah you know 对 咯 then 我 朋友 就 讲
+NI58FBP_0101 2753803 2756137 EN oh okay we got a joke ah very funny
+NI58FBP_0101 2756137 2758084 EN like yesterday during lab then my friends say
+NI58FBP_0101 2758084 2759394 CS 不然 你 去 做 farmer lah
+NI58FBP_0101 2759394 2766534 CS 我做 farmer 现在 缺少 嘛 then 我 就 讲说 fa~ 你 做 famer 更 死 没有 钱 为什么 嘞 因为 hor
+NI58FBP_0101 2766534 2771300 CS technology advance so fast that's why 才 不会 没有 人 要 用 做 farmer 对 不对
+NI58FBP_0101 2771300 2776828 CS 不然 人家 早就 去做 farmer very funny okay sorry i don't think you get the joke yah then 就 这样
+NI58FBP_0101 2781440 2785230 ZH 哦 对 咯 你 要 种 啊 你 家 的 前面 那个 小果园 就 可以 了
+NI58FBP_0101 2785897 2787403 CS 不然 的话 i i don't think farmer
+NI58FBP_0101 2788044 2789767 CS 新加坡 有 一个 farmer 有 啦 有
+NI58FBP_0101 2789767 2791384 ZH 那种 嗯
+NI58FBP_0101 2791973 2795958 CS farming small farms lor 那种 他们 maybe like (er)
+NI58FBP_0101 2796561 2800447 CS hydroponics 的 东西 啊 用 water yah
+NI58FBP_0101 2804469 2806243 CS 比较 有 兴趣 than physical lah
+NI58FBP_0101 2806683 2809822 CS physical 因为 有 physics sorry lah but 我不喜欢 physics
+NI58FBP_0101 2810512 2813513 CS 不是 不 喜欢 是 i find it very hard to comprehend the
+NI58FBP_0101 2814002 2817750 CS the the teachings like i don't really understand 它在 讲 什么
+NI58FBP_0101 2824844 2826429 EN lab module in physics
+NI58FBP_0101 2827829 2831411 EN oh in chemistry yes ah we have it yesterday was the last lab that session
+NI58FBP_0101 2831848 2832701 CS yah 这个
+NI58FBP_0101 2834081 2835748 CS (呃) 做 electrochemistry lor
+NI58FBP_0101 2838457 2840065 CS yeah 还蛮 interesting 的
+NI58FBP_0101 2840065 2841434 ZH 哦 就是

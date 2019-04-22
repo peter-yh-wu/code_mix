@@ -1,0 +1,186 @@
+UI28FAZ_0102 6921 11721 CS 然后 secondary school 的 时候 convent
+UI28FAZ_0102 12856 18373 CS  还好 他 没有 什么 要 prayer 啊 要做 什么 prayer
+UI28FAZ_0102 18373 22863 CS convent 的 时候 起初 就 觉得 好像 没有 人 睬我 这样
+UI28FAZ_0102 22863 28837 CS 因为 我 cousin sister 没有 什么 管我 的 我们 好像 不同 class eh
+UI28FAZ_0102 28837 32003 CS 然后 我又 很难 mix around 然后 我 又 不会 socialize wor
+UI28FAZ_0102 32003 35276 ZH 就 自己 一个人 过 咯
+UI28FAZ_0102 35276 42666 CS then after that 读 后面 班 的 时候 发现 到 啊 她们 比较 friendly 就会 跑过来 自己 跟我 讲话
+UI28FAZ_0102 42666 48974 CS 因为 我是 比较 passive 的人的 嘛 我 都不 active 的 人家 过来 讲话 嘛 我就 跟她 讲话 咯
+UI28FAZ_0102 48974 52495 CS then after than 才会 交到 一些 朋友
+UI28FAZ_0102 52495 55925 CS 所以 我 cousin sister 有她 自己 的 朋友 咯
+UI28FAZ_0102 56662 62494 ZH 然后 我 有 我自己的 朋友 咯
+UI28FAZ_0102 62494 65510 CS convent 的 life ah
+UI28FAZ_0102 69214 74284 CS 比较 开心 的时候 是在 form two 吧
+UI28FAZ_0102 74284 74781 ZH 吧
+UI28FAZ_0102 74781 78789 CS form two ah 那 时侯 啊 对 form two
+UI28FAZ_0102 78789 84126 CS form one 我读 比较 前面班 成绩 很好
+UI28FAZ_0102 84126 85172 ZH 中等啊
+UI28FAZ_0102 85172 87959 ZH 那些 成绩 好 的人 都 不 跟你 做 朋友 的
+UI28FAZ_0102 88721 93090 ZH 因为 都是 好像 有 目的 的 觉得 你 成绩 好 才 跟你 做 朋友
+UI28FAZ_0102 93090 99698 CS 成绩 不好 就 觉得 你 没有 料 咯 没有 什么 info 可以 拿到 帮不到 她们 的
+UI28FAZ_0102 99698 101507 ZH 所以 就 不管 你
+UI28FAZ_0102 101507 108164 CS 然后 form two 的时候 读 后面班 想不到 我 每次 成绩 都拿 第一 eh
+UI28FAZ_0102 108164 113220 ZH 不过 大家 都 对我 很好 就 不会 因为 这 样子 而 不睬我
+UI28FAZ_0102 113220 116688 ZH 然后 我又 很 愿意 帮 她们 啦
+UI28FAZ_0102 116688 122794 CS 我记得 有 一次 我的 guru tingkatan 竟然 问我 那个 mathematics
+UI28FAZ_0102 122794 128248 CS 那个 clockwise 和 anti-clockwise 要 怎样 教 那些 student 明白
+UI28FAZ_0102 128248 131134 CS 因为我 mathematics 很好 那时侯
+UI28FAZ_0102 133163 134683 ZH 我 嘛 跟她 讲 咯
+UI28FAZ_0102 135501 138276 ZH  但他 还是 用他 自己 的 方式 教
+UI28FAZ_0102 138276 142927 CS 因为 他懂 我有 take tuition mah 所以 mathematics 很好
+UI28FAZ_0102 142927 148414 CS form two 的 science 嗯 也 不错 我 记得 <unk>
+UI28FAZ_0102 148414 154595 CS 很 可怜 eh 有 一次 她 很久 没有来 school 因为 她要 operate
+UI28FAZ_0102 155776 160317 CS 然后 每次 operate 回来 时候 坐的 时候 椅子 都要 放 一个 pillow
+UI28FAZ_0102 161196 162854 CS 因为 operate 赌博 那边
+UI28FAZ_0102 163547 165218 ZH 很 可怜 <unk>
+UI28FAZ_0102 166281 168058 ZH <unk> 还 记得
+UI28FAZ_0102 172008 178118 CS 我 form four form five 的时候 我 还 记得 我给 另外 一个
+UI28FAZ_0102 178118 182427 CS 我的 physics 老师 很 喜欢 我 很疼我 很 pamper 我
+UI28FAZ_0102 183080 187662 ZH 我忘了 他 叫么 名 了 哇 很 可惜 啊
+UI28FAZ_0102 188118 194218 ZH 女的 很凶的 嘴巴 红红的 矮矮 的 头发 平妆的
+UI28FAZ_0102 194218 199229 CS 很凶的 竟然她 会 喜欢 我 啊 对 discipline teacher
+UI28FAZ_0102 200068 201447 EN discipline teacher
+UI28FAZ_0102 201447 208602 CS 不是 ban fajia ban fajia 也是 discipline 啊 另外 一个 矮矮的 她是 我们 的 physics teacher
+UI28FAZ_0102 208602 212884 CS 然后 因为 我的 emotion 会 很高 很底 的
+UI28FAZ_0102 212884 218632 ZH 他 讲到 开心 的时候 我会 笑 啊 他敢 讲到 很恐怖 的时候 有 一次 我 竟然 嘴巴 开到 很大
+UI28FAZ_0102 218632 220613 ZH 他就问 我 怎么 嘴巴开 这样 大
+UI28FAZ_0102 220613 222799 CS 他就 很 pai-seh
+UI28FAZ_0102 222799 228055 CS 因为 我是 很 emotion 的人 讲到 开心 嘛 笑 咯 讲到 很奇怪 好像 哈
+UI28FAZ_0102 228055 230889 ZH 嘴巴 开 很大 他就 问我 嘴巴 为什么 开 这样 大
+UI28FAZ_0102 230889 236085 CS 不过他 教 physics 就 不懂 eh 应该 是 我 比较 懂 物理 的人
+UI28FAZ_0102 236085 244020 CS 所以 他 的 时候 他 教的 时候 hor 他 还 没有 讲 为什么 他要 我们 自己 understand 的 时候 只有 我 一个 明白 所以 他很 pampered 我
+UI28FAZ_0102 244020 252255 CS 然后 physics 虽然 我 不是 physics 最好 的 可是 都会 时常 是 physics 拿 最 高分 那个 咯
+UI28FAZ_0102 253894 260835 CS 不是 讲我 physics 好 不过 因为 我 比较 会 tafsir 这些 东西 所以 比较 看重 我 这样
+UI28FAZ_0102 262160 264572 CS 他 不会 很 show off 的 这样 疼我 可是
+UI28FAZ_0102 264572 273341 CS 拍照时 他 经常 会 叫我 跟他 一起 拍 哦 哇 觉得 好 自豪 eh  很 proud eh 没有 没有 teacher 会 这样 对我 的 嘞
+UI28FAZ_0102 273341 276695 CS 还有 另外 一个 english teacher 也是 很疼我
+UI28FAZ_0102 277426 282354 CS ah hair curly curly hair 那个 戴 眼镜 那个 嘴巴 很厚 的
+UI28FAZ_0102 286503 288471 ZH 不懂 eh 他 也是 很疼 我
+UI28FAZ_0102 289143 293094 CS 拍照时 他们 那个 叫 一起 啊 拍 很开心 eh 很 proud
+UI28FAZ_0102 301082 304724 CS oh convent 当然 是 全部 女的 啦 school 不是吗
+UI28FAZ_0102 305345 310190 CS teacher leh teac~ 是 convent student girl's school mah
+UI28FAZ_0102 313706 314956 ZH 哦 不懂 eh
+UI28FAZ_0102 316033 318724 CS 哇 真的 不懂 eh 不是 全部 convent 都是 女的
+UI28FAZ_0102 319204 322937 CS 不过 我的 school 是 convent girl school 全部 女的
+UI28FAZ_0102 322937 326315 CS 哦 最 讨厌 的 就是 b. m. high school
+UI28FAZ_0102 326315 330667 CS form six 我没有 没有 任何的 memory ah
+UI28FAZ_0102 332201 335248 ZH 我的班 只有 二十六 个人
+UI28FAZ_0102 335248 339962 ZH 然后 六个 女生 而已
+UI28FAZ_0102 342368 346221 CS 哎呦 真的是 没有 任何的 memory
+UI28FAZ_0102 346221 350678 CS 然后 我的 partner 最好的 朋友 deborah chao
+UI28FAZ_0102 350678 352713 ZH 她 读书 很厉害
+UI28FAZ_0102 352713 358634 CS 她 也是 太过 教会了 吧 她的人 她竟然 教我唱 church song
+UI28FAZ_0102 358634 368842 CS 还教我 memorize church song 因为 她 觉得 我很 自卑 很 down 所以 教我 唱 church song
+UI28FAZ_0102 369479 374527 ZH 哇 她 真的 很教会 还 带 嘛 我 去 她 教会 奇怪 eh
+UI28FAZ_0102 374527 380197 CS 不过 不用紧 我那天 只是 当着 一餐 buffet 的 晚餐
+UI28FAZ_0102 382304 386042 ZH 因为 她 教会 太过 离奇 了 吧 很怪 嘞 对我 来讲
+UI28FAZ_0102 386042 388706 ZH 我们 的华人 就叫做 乱童 吧
+UI28FAZ_0102 388706 393050 ZH 她竟然 当场 这样多人 这样多 乱童 哎
+UI28FAZ_0102 393050 398871 CS 就 教会 都会 好像 一层楼 然后 很多人 一起 pray do prayer 这样子 的 嘛
+UI28FAZ_0102 398871 404165 CS 然后 她就讲 她的 野兽咯 什么 bible 里面的 第几 第几个 第几段 咯
+UI28FAZ_0102 404165 410296 CS then after that squat down also ah 然后 有圣水 这样子 什么 时候
+UI28FAZ_0102 410296 417095 CS 哈 然后 好像 人家 pray 到很 投入 的 会 竟然 好像 什么 神 上身 还是 spirit 上身
+UI28FAZ_0102 417095 418537 ZH 在那边 乱童
+UI28FAZ_0102 419733 424336 CS 我 就 很怕 还好 我坐在 corner 靠墙 在 那边 看
+UI28FAZ_0102 424336 430139 ZH 不是 华人 只是 一个人 乱童 而已 他们 哇 整场有 有 几个 人 leh
+UI28FAZ_0102 430139 437693 CS 很 恐怖 那 乱童 你就 不要 对我 什么 就 好了 after that ah 就 可以 下来 吃 dinner loh
+UI28FAZ_0102 437693 440181 CS 我就 享受 那个 buffet 餐 啊
+UI28FAZ_0102 440181 442213 CS 然后 after that 载我 回家
+UI28FAZ_0102 442213 446432 CS 至少 experience 一次 啊 这样 奇怪的 教会
+UI28FAZ_0102 447508 450907 ZH ah 反而 去 gualagula 那个 他们的 教会 没有 这样 奇怪
+UI28FAZ_0102 450907 453727 ZH 因为 不同 教会 有 不同 祷告 方式 的
+UI28FAZ_0102 453727 459163 CS 哇 deborah chua 的教会 吓死我了  然后 就
+UI28FAZ_0102 459163 464716 CS kuala gula 的 因为 被 逼 啦 不是 什么 kuala gula 的 trip 那时侯
+UI28FAZ_0102 464716 469127 CS sunday morning 的时候 他们 就叫 我们 join loh share word loh
+UI28FAZ_0102 469127 472350 CS 然后 就开 那个 church song 的 song book
+UI28FAZ_0102 472350 474468 CS 然后 他们 还有 guitar woh
+UI28FAZ_0102 474468 476491 CS 哇 很厉害 pun hor 自己 带 guitar
+UI28FAZ_0102 476491 480077 CS 然后 伴奏 咯 又唱 几首 song
+UI28FAZ_0102 480077 487496 CS 然后 okay after sing 那个 song 过后 church 的歌 就有 讲 一些 道理
+UI28FAZ_0102 487496 494878 CS 跟着 bible book 讲 一些 道理 过后 那个 leader 又会 讲 一些 他的 人生 故事 咯
+UI28FAZ_0102 494878 498647 CS from 那个 故事 hor gain 什么 好像
+UI28FAZ_0102 498647 502617 CS experien~ nah gain 一些 experien~ nah gain 一些 人生 的 道理 这样 咯
+UI28FAZ_0102 502617 505626 ZH 我们 应该 怎样 做 我们 不 应该 怎样 做
+UI28FAZ_0102 505626 511931 ZH 然后 还要讲 monilof monatrio* 因为 gualagula* 都是 那些 bayabaco* 的地方 没有 什么 特别的
+UI28FAZ_0102 511931 513765 CS 然后 就看 一些 crab ah
+UI28FAZ_0102 513765 518868 ZH 然后 看 一些 ular ah biawak ah biawak 很多 想不到 海水 也 这样 多 biawak 的喔
+UI28FAZ_0102 518868 521202 ZH 我 以为 biawak 在 淡水 不是 啊
+UI28FAZ_0102 521202 524640 ZH 还是 我们 靠海啊 很多 biawak pun
+UI28FAZ_0102 524640 534187 CS 然后 它的虾 很 漂亮 啊 他的虾 好像 小星星 这样 在那边 跳 因为 那个 boat 过 hor 它的 它的 浪后面 有 很多 浪 咯 浪去 那个 paya bakau 它的 那个根 哦
+UI28FAZ_0102 534187 541928 CS 那 小虾 就从 那个 根 跳下来 跳下来 跳下来 就 看 起来 很多 小 dolphin 在 那边 跳 可是 是 虾 来的 白色 的 虾 跳 跳 跳 跳 跳 跳 跳
+UI28FAZ_0102 541928 551245 CS 而且 不是 这样子 跳 嘞 是 跳跳  很 厉害 啊 虾 还 白色 的 prawn wah 看着 好像 小星星 在那边 跳舞 这样
+UI28FAZ_0102 551245 553111 ZH 哈 最 值得 看的 是 这个 咯
+UI28FAZ_0102 553531 557222 CS 就坐 boat 罢 了 咯 然后 给 我们 experience 驾 boat 的 experience
+UI28FAZ_0102 557222 560907 CS 可是 都 不轮 到 我 驾 啦 他们 church 的 三十个人
+UI28FAZ_0102 560907 569325 CS 唉 不 轮到 我驾 也 不要 跟 我们 争 争得 很 狠 轮不到 他们 这样 踢到我 也没有 讲 一声 sorry
+UI28FAZ_0102 569325 572279 CS 因为 boat 也 不敢 走 了 嘛 太 太 什么 嘛
+UI28FAZ_0102 572279 575901 CS 而且 那个 又 不是 eh 很多 那个 size 很大 的 嘞
+UI28FAZ_0102 575901 584157 CS 哦 好像 你的 size 这样 jia mai 我的 size jia mai 婷华 jia mai kawati 四个 size 这样 它的 size 这样 那个 尾梁 很大 只
+UI28FAZ_0102 584157 589509 CS 还好 他坐 中间 我在 imagine 如果 他 他 坐 旁边 的 话 我 都 不知道 会 不会 歪 一边
+UI28FAZ_0102 589509 596594 ZH 哦 就是 走过 咯 然后 又 又 跑到 后面 这样 啊 然后 有一个 叫谁 呀 他的 名字 叫 什么 鬼 啊
+UI28FAZ_0102 596594 600489 CS 啊 叫 winson 他驾 的 时候 他差点 撞到 那个 因为
+UI28FAZ_0102 600489 607657 CS 有 <unl> 绑在 一起了 然后 晴 很 chu 应该 坐 corner 嘛 阿晴 然后就 然后 他的 手 就很 出 差点 撞到
+UI28FAZ_0102 607657 613810 CS 就讲 他的 boat 就 很 靠近 那个 绑着 的 地方 然后 阿晴 差点 被撞到
+UI28FAZ_0102 613810 623384 CS 然后 buna* 那边 say 这样 不要再 啊 我 也是 很怕 的  不过 他 speak english lah 因为 整个 boat 都是 speak english 的
+UI28FAZ_0102 623384 625301 CS 因为 他们 是 church 的
+UI28FAZ_0102 625301 633836 CS 哇 所以 都是 speak english 只有 我 这个 mandarin 在 里面 等 等 等 也 没有 人 管 我 咯 就 觉得 啊 好像 很 又 被 孤僻 了
+UI28FAZ_0102 633836 639414 ZH 我就 觉得 庭华 带我 很累 啊 看他 这样 他 又要 带着 我 又要 顾 我们 两个
+UI28FAZ_0102 639414 645108 CS 不过 阿晴 阿晴 还好 啊 因为 他又 他看 又 cute ah 又 看 得 友善 哦
+UI28FAZ_0102 645108 647615 ZH 所以 那些 男的 又 跑 过来 跟他 讲话 咯
+UI28FAZ_0102 648877 651019 ZH 然后 我 又是 被 孤避 的 一个
+UI28FAZ_0102 653030 655816 CS 庭华 又 很好 啊 他就 好像 很-
+UI28FAZ_0102 655816 660139 CS 女孩子 不知道 叫 什么 好像 很 gentleman 这样 的 感觉
+UI28FAZ_0102 660139 661957 CS 因为 church song 很多 啊
+UI28FAZ_0102 661957 665940 CS 我 又 不懂 他们 讲 page number 还是 song number
+UI28FAZ_0102 665940 670803 CS 所以 他讲 的时候 起初 我 真的 是 不 知道 到 哪里 然后 庭华 竟然 跑过来 跟我 讲 eh song number
+UI28FAZ_0102 670803 672740 CS 然后 我才找 song number
+UI28FAZ_0102 672740 675949 ZH 然后 听 他们 唱歌 庭华 唱歌 很 好听 eh
+UI28FAZ_0102 675949 679771 CS 他的 声音 很 strong 他 唱 高音 他都 拉得 到
+UI28FAZ_0102 679771 681226 ZH 好像 什么
+UI28FAZ_0102 681226 683368 CS 啊 总之 唱 k 叫 他 去 就 对 了
+UI28FAZ_0102 683368 686326 CS 啊 他唱 adam lambert 的歌 很 好听
+UI28FAZ_0102 686326 688236 ZH 他 很会 唱歌
+UI28FAZ_0102 688236 693462 CS 他 就在 那边 唱 唱 唱 哇 他 唱 就 好像 不用 拿 mic 都有 那个 strong 的
+UI28FAZ_0102 693462 695805 CS maybe 他的 中气 很好
+UI28FAZ_0102 695805 698634 CS 啊 而且 庭华 很 aggressive eh
+UI28FAZ_0102 698634 700502 CS 他 among 那个 trip ah
+UI28FAZ_0102 700502 702839 CS 到 那个 mangrove farm 里面 的 时候 啊
+UI28FAZ_0102 702839 704339 CS 他是 mangrove
+UI28FAZ_0102 704339 714875 CS 红树林 mangrove farm 它 那个 根 它的 树 很高啊 然后 他的 根 也 很高 他竟然 爬到 那个 最 上面 的 根 那边
+UI28FAZ_0102 715672 725923 CS 很 很快 啊 噔 噔 噔 噔 噔 很像 monkey 一样 一步 就到 上面了 啊 然后 那个 男的 男的 后来 爬 上去 也 不比 庭华 快 哦 xia suay
+UI28FAZ_0102 725923 737779 CS 他 爬上去 还 还 还 抱 在 那边 哦 他 下的 时候 很很 辛苦 可怜哦 庭华 又 噔 噔 噔 庭华 又 忙着 在 那边 教 他们 怎样下 step here step here en
+UI28FAZ_0102 737779 740435 CS 因为 庭华 是 rock climber mah 不 一样
+UI28FAZ_0102 740435 742517 CS walao 然后 weileong
+UI28FAZ_0102 742517 745382 CS 然后 那个 uncle 叫 wei-leong 讲 去爬 去爬
+UI28FAZ_0102 745382 751058 CS 还 show 给 你们 看 那个 bakau 它的 mangrove farm 它的 那个 根 hor 有多 strong
+UI28FAZ_0102 751058 755548 CS weleong 在 那边 噔 噔 噔 都 不会 断 哦 而且 他的 他的 他的
+UI28FAZ_0102 755548 759986 CS 它的 diameter around around two inch only ha
+UI28FAZ_0102 759986 769299 CS 它的 根 啊 哈 都 不会 断 嘞 而且 啊 那个 uncle 讲 因为 kuala gula 有 这些 mangrove farm 所以 tsunami 的 时候 他们 没有 事情
+UI28FAZ_0102 769299 771636 ZH batu ferringgi 有 事情
+UI28FAZ_0102 772550 774952 ZH 啊 所以 就 kuala gula
+UI28FAZ_0102 774952 783173 CS 而且 我们 以为 kuala gula 是 出产 tebu 的 你 知道 吗 原来 不是 因为 他们是 最 among malaysia 是 最 咸的 海水
+UI28FAZ_0102 783173 785535 ZH 所以 他们的 海鲜 是 最甜 的
+UI28FAZ_0102 785535 793041 ZH 所以 叫做 kuala gula 我 还 以为 出产 tebu 的 eh ladang gula mah ladang gula gula 以为 tebu 在 哪里 没有 tebu
+UI28FAZ_0102 793041 796610 ZH 原来是 讲着 他的 海鲜
+UI28FAZ_0102 796610 806584 CS 而且很 disappointed 的 是 我们 早上的 trip afternoon 到 那边 的 时候 只 参观 两个 地方 咯 咸鸭蛋 咯
+UI28FAZ_0102 806584 811598 CS 很 好笑 他们的 translation direct translation uncle 不会 讲 英文 嘛
+UI28FAZ_0102 811598 814179 CS 因为 那个 tourist guide 他 就 讲 华语 咯
+UI28FAZ_0102 814179 818213 CS 然后 那个 里面 的 arou~ 啊 就 随便 一个男的 在 里面 translate loh
+UI28FAZ_0102 818213 820497 CS 然后 就 translate 到 咸鸭蛋
+UI28FAZ_0102 820497 823954 ZH 他 讲 完 了 就 很 好笑 全部 在 那边 笑 喔
+UI28FAZ_0102 823954 827403 CS 然后 他就 direct translate 然后 就 不错
+UI28FAZ_0102 827403 833404 CS 很 好笑 他 direc~ 就是 他 讲 吗 salty 什么 duck egg
+UI28FAZ_0102 833404 838503 CS 因为 因为 他的 华语 也是 蛮好的 所以他 direct translate 不行 然后 最后 才叫 另外 一个 男的 translate
+UI28FAZ_0102 838503 842799 ZH 他 英文 比较 好 对 就 很 好笑
+UI28FAZ_0102 842799 849167 CS 哦 又 懂了 怎样做 咸鸭蛋 after that 就去那个 arang 的厂
+UI28FAZ_0102 849167 854610 CS arang 的厂 嗯 arang 的厂 它的 那个 o~ oven 很 大 个
+UI28FAZ_0102 854610 861416 CS 看他 怎样 做 咯 把 那些 kayu balak 那个 mangrove ah 红树 的 balak 做成 arang
+UI28FAZ_0102 861416 863259 ZH 大概 一个 炉
+UI28FAZ_0102 863259 871078 ZH 然后放 那些 树 在 里面 他的 树 hor 下面 不 可以 动到 地的 他的树 下面 要 顶着 一块 石头
+UI28FAZ_0102 871078 873136 ZH 而且 他 不是 烧
+UI28FAZ_0102 873136 876955 ZH 他是 在 外面 烧 烘干 他的 树 里面 的 水
+UI28FAZ_0102 876955 878267 ZH 跑出去
+UI28FAZ_0102 878267 883333 CS 所以 起初 的 时候 很多 烟 因为 树 里面 的 水分 water mah
+UI28FAZ_0102 883333 892031 CS 然后 就 出去 然后 他的水 出完 过后 哦 才 关掉 那些- eh 放~ 换成 小火 前面 关小 一点
+UI28FAZ_0102 892031 894545 ZH 就 再 烘多 十二天 这样
+UI28FAZ_0102 894545 903502 CS 烘到 真的 是 比较 没有 烟 他们 嗅到 有 香味 的 时候 他的 smell 很 nice 的 时候 hor okay 才关完 它的 窗口 的洞

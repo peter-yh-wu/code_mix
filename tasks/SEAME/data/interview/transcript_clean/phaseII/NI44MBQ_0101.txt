@@ -1,0 +1,321 @@
+NI44MBQ_0101 210 2820 EN hello hello hello hello
+NI44MBQ_0101 4370 10500 CS 介绍 自己 (er) 我是俊峰 (er) 读 n. t. u. mass com
+NI44MBQ_0101 10540 12180 CS 今年 year two 
+NI44MBQ_0101 12180 13680 EN 
+NI44MBQ_0101 13680 19910 CS (er) english name is ng jun-feng (er) 汉语拼音的 translation 这样啦
+NI44MBQ_0101 21840 24310 EN (er) mass com
+NI44MBQ_0101 24920 29050 CS mass com 就是 大众 传 媒
+NI44MBQ_0101 29050 29850 ZH 啊
+NI44MBQ_0101 29850 34350 ZH 做 广播 啦 新闻 啦 采访 啦
+NI44MBQ_0101 34350 41670 CS (er) advertising 那些 之类 的 东西  year two mm
+NI44MBQ_0101 45010 48380 CS (er) you mean 今年
+NI44MBQ_0101 49000 65920 CS (er) media basic media writing then (er) 一些 media professional and practices like basics of foundation communication studies then 还有 一些 elective 啦好像 business law 啦不然 就是 photo photography loh
+NI44MBQ_0101 65920 72400 EN mm
+NI44MBQ_0101 72400 81900 CS 就 比较 感兴趣 的 可能 就是 那些 比较 hands-on 的 哦 那些 比较 需要 用 手 去 做 的 好像 那些 拍照 啊 还是
+NI44MBQ_0101 81900 86080 CS 拍 video 啦之类 的 东西 啊啊就 不 像
+NI44MBQ_0101 89720 96200 CS (呃) 有 啦 可是 不是 professional 的 啦 家里 自己的 本身 professional 就要 跟 学校 借 咯
+NI44MBQ_0101 96200 97840 ZH 就 跟 学校
+NI44MBQ_0101 105730 115270 CS 商业 的 课程 有 咯好像(呃) 我 有 take 那个 minor in entrepreneurship 学校 offer 的 啦then 就在 holiday 的时候
+NI44MBQ_0101 115270 118860 CS 我在 holiday 的时候 他 就会 有 lessons loh
+NI44MBQ_0101 118860 127080 CS 就 好像 一个 礼拜 好像 clear 三个 a. u. 然后 就在 放假 的时候 clear 完 一些 course 啦
+NI44MBQ_0101 127080 135980 CS 就是 好像 教 你 怎样 做生意 啦教 你 accounting 教 你 finance 教 你 marketing 之类 的 东西 咯嗯
+NI44MBQ_0101 137020 141670 ZH 不错 啦 不错 啦(呃) 有 你 认识 一群 好像
+NI44MBQ_0101 141670 151050 ZH 你 你 会比较 有 同样 兴趣 朋友 咯好像 同样 有 商业 些 (呃) 兴趣 的 朋友 咯 嗯
+NI44MBQ_0101 151100 153180 ZH 我 我 可以 带 这个 吗
+NI44MBQ_0101 153180 163740 EN 
+NI44MBQ_0101 163740 167870 CS hello hello 可以 horah
+NI44MBQ_0101 170130 172490 EN okay mm
+NI44MBQ_0101 175120 179410 ZH 平常 就 弹 钢琴 唱歌 弹 吉他
+NI44MBQ_0101 179410 182780 ZH 啊就是 还有 用 电脑 咯
+NI44MBQ_0101 183280 188310 ZH 就 兴趣 啦 自己 自己 自己 学 咯自己 唱 就 这样
+NI44MBQ_0101 189050 192630 CS 啊poly 的时候嗯
+NI44MBQ_0101 193940 204880 CS guitar 是 只是 基本 而已 啦弹 chords 然后 唱 唱 这样 咯then 钢琴 也是 都 比较 是 弹 唱 咯弹 唱
+NI44MBQ_0101 204880 206620 ZH 弹 唱 会比较 多 啦
+NI44MBQ_0101 208500 212110 ZH 都是 流行 的那些 歌曲 好像 一些 (嗯)
+NI44MBQ_0101 212110 222860 ZH 就是 周杰伦 啦林俊杰啦 啊之类 之类 的 咯就是 比较 流行 的 一些 华文 歌 啦都是 通常 就是 华文 歌 英文 歌 就 比较 少 
+NI44MBQ_0101 222860 229410 EN mm
+NI44MBQ_0101 229410 231740 ZH 象棋
+NI44MBQ_0101 231740 232760 ZH 啊
+NI44MBQ_0101 232760 242760 CS 就 象棋 是 以前 好像 在 之前 在 来 大学 之前 在 poly 嘛我在 poly 的时候 就是 代表 代表 学校
+NI44MBQ_0101 242870 247420 ZH 啊 参加 比赛 咯象棋 比赛
+NI44MBQ_0101 248720 253730 ZH 还好 啦兴趣 咯都是 兴趣
+NI44MBQ_0101 257649 260130 ZH mm比较 静态 啊
+NI44MBQ_0101 273830 278160 ZH 没有 住 宿舍 mm住家
+NI44MBQ_0101 278160 283920 CS 蔡 厝 港 choa-chu-kang 有 有 去 过 吗
+NI44MBQ_0101 287170 299100 CS 没有 什么 啦 新加坡  那边 是 好像 就是 shopping centre lorhshopping centre 那 到处 都有 嘛then 像 jurong-point 这样的 每个m. r. t. 都有 一间
+NI44MBQ_0101 299100 301400 ZH 没有 什么
+NI44MBQ_0101 306670 316740 ZH 差不多 啦 差不多 一个 小时 来学校 快 的话 可以 四十五分 钟 没有 不然 通常 就是 平均 一个 小时 到 这样子 啦
+NI44MBQ_0101 326120 332390 CS rush hour 就 也还好 啦 其实 因为 我 只要 转 一趟 车 而已 嘛
+NI44MBQ_0101 332390 337050 CS so 我 这边 搭车 搭 去 出去 然后 转 一趟 车 就 到家
+NI44MBQ_0101 337050 338410 ZH 就
+NI44MBQ_0101 338410 348240 CS 也不 会 说 很 也就是 没有 什么 分别 咯就是 跟 就是 你 有没有 rush hour 可能 快慢 是 差不多 五 五 到 十分 钟 这样子 而已
+NI44MBQ_0101 348240 351760 EN mm
+NI44MBQ_0101 351760 356100 ZH (呃) 家里 有 啊 父母 咯然后 一个 弟弟
+NI44MBQ_0101 356100 357360 EN mm
+NI44MBQ_0101 357360 360210 CS 弟弟 在 读 poly
+NI44MBQ_0101 360830 365500 ZH 啊 要 读 完 刚 读 完 而已 咯要 等 成绩 出来 然后 去 当兵
+NI44MBQ_0101 365500 369060 EN mm
+NI44MBQ_0101 369060 373800 CS national service 是在 你 是 说 在 哪里 啊
+NI44MBQ_0101 373800 381080 CS 我的 camp 在 mandai 婉 丽 那边 啊 做 office work 咯
+NI44MBQ_0101 385230 394670 CS army army 啊 陆军 可是 是 陆军 的 那种 总部 所以 在 陆军 总部 里面 做 那些 做 一些
+NI44MBQ_0101 394670 399220 CS 比较 多 是 (er) office 的 东西 啦mm
+NI44MBQ_0101 399980 410570 ZH 啊 比较 多 电脑 东西 啊 然后 就是 一些 有 一些 活 一些 演习 的话 他们 也是 用 也是 要 用 电脑 做 些 策划 这些 东西 咯
+NI44MBQ_0101 410570 418060 EN mm
+NI44MBQ_0101 418060 429370 ZH 以前 比较 多 啦 现在 没有 什么 时间 现在 今年 啊 今年 就 没有 什么 时间 因为 读书 嘛 读书 比较 比较 多 功课 咯
+NI44MBQ_0101 429390 434820 CS 因为 我 本来 是 好像 读 要 读 四年 的 嘛 可是我 要 自己 accelerate
+NI44MBQ_0101 434820 441740 ZH 就是 变成 读 三年 就 好 所以 要 自己 把 那个 课程 自己 排 就要 排 比较 多 啦
+NI44MBQ_0101 443940 450750 CS 这个 semester 是 twenty six a. us 啊 上 个 semester 是 twenty three
+NI44MBQ_0101 450750 456980 CS 然后 有 加 holiday 那个 minor 啦所以 就 所以 就会 比较 多 一点 咯mm
+NI44MBQ_0101 460480 463770 CS minor 是 (er)
+NI44MBQ_0101 463790 469510 CS 因为 你 放假 有 好像 去 上 个 sem december 考 完 试 嘛
+NI44MBQ_0101 469510 476590 ZH 然后 你 放假 就有 三个 三四 个 礼拜 然后 三四 个 礼拜 他 就有 一个 礼拜一 个 课程咯
+NI44MBQ_0101 476590 482920 CS 哦(er) that means it's like (er) 就是说
+NI44MBQ_0101 482920 489480 CS 就有 好像 好像 上 个 semester 对不对 上 个 semester 他 有 (er) 三个 礼拜
+NI44MBQ_0101 489480 493280 CS then 每个 礼拜 就有 3 a. u. 啦of courses 啦
+NI44MBQ_0101 493280 505430 CS 然后 (er) last recess week 对不对 recess week 我们 就有 (er) 一个 礼拜 of courses 也是 就是 那个 礼拜 是 好像 (er)
+NI44MBQ_0101 505430 517370 CS 就是 整个 礼拜 hor拜 一到 拜 五 他是 你要 在 学校 做 simulation 咯就是 好像 business 这样的 东西 啦 就 比较 凶 一点 啦 可是 还好 啦
+NI44MBQ_0101 517370 526020 CS 也是 三个 a. u. loh然后 最后 一个 course 他是 four a. u. then 他 要 你 做 一些 business 就是 real real life 的 那种 business 啦
+NI44MBQ_0101 526020 528280 ZH 啊
+NI44MBQ_0101 528280 534040 CS then 你要 他 就要 grade 你 based on 你的 real life business 这样子 咯mm
+NI44MBQ_0101 534040 538090 ZH 还好啦
+NI44MBQ_0101 538090 550730 CS 你 今年 忙 就 你 忙 一年 it's better than 你 忙 你 忙 多 好像 三四 年 这样子 咯啊
+NI44MBQ_0101 552910 558300 CS 啊你 减少 一年 then 你的 学费 也是 会比较 少 啊
+NI44MBQ_0101 562320 579110 CS 应该 是 会 去 做 那种 (er) film 那种 film director 那种 就是 摄影 啊 就是 类似 (er) produce 那些 电视节目 的那些 工作 啦 比较 比较 媒体 的 咯
+NI44MBQ_0101 582910 591400 CS 通常 是 你要 从 assistant director 开始 的 啦你要 就是 要 跟着 一些 director 去 跑 啦去 做 一些
+NI44MBQ_0101 591400 596690 CS (er) 有的 没 的 那种 then 慢慢的 你 就会
+NI44MBQ_0101 596690 606760 CS 如果 他们 (er) 他们 觉得 你 okay 的话 right 他 就是 就会 可能 给 你 一些 新的 东西 做 啦 mm
+NI44MBQ_0101 615050 636400 CS 这些 (er) t. v. program 好像 (erm) 在 我们 course 我们 就会 (er) 就会 study about 这些 东西 啦 可是 平时 自己 看 这些 programs 是 不会 去 分析 好像 他们是 怎么 拍 的 啊有什么 special 的 东西 就 不会 咯就是 这样 就
+NI44MBQ_0101 636400 639620 ZH 啊
+NI44MBQ_0101 639620 642850 ZH 电影 都是 (er)
+NI44MBQ_0101 642850 651960 CS 比较 要 要 那些 有 action 的 咯那些 有 打架 啊 那种 比较 刺激 的 那种 不然 不然 就会 睡觉 
+NI44MBQ_0101 651960 658030 ZH 所以 要 看 就是 看 那些 比较 不然 就是 那种 搞 笑 的 那种
+NI44MBQ_0101 658030 663740 EN mm
+NI44MBQ_0101 663740 672040 CS english chinese 都有 周 星 驰 族 现在 比较 少 了 啦我觉得 他的 戏 越 做 越 烂 啊
+NI44MBQ_0101 672040 676590 CS 现在 就 比较 多 (er) jackie chan 咯jackie chan 就比较
+NI44MBQ_0101 676620 685500 CS jackie chan 就还好 啊 他的 就 就是 那一 类似 的 咯就是 就有 有 action 又有 搞 笑 啊 就会 啊
+NI44MBQ_0101 690220 695790 ZH 以前 啊 蛮 久 以前 的 那个 啊我 喝 水 一下
+NI44MBQ_0101 695790 705290 EN 
+NI44MBQ_0101 705290 707280 ZH 刚刚 吃
+NI44MBQ_0101 707650 713520 ZH 因为 我 十一点 半 才 下课 然后 就 吃 了 就 赶 过来 咯(嗯)
+NI44MBQ_0101 713520 719020 EN  
+NI44MBQ_0101 719020 722290 CS 你们 做 什么 这个 是 这个 是 for what 的?
+NI44MBQ_0101 722920 729330 CS 哦你们 要 做 那种 software 来 帮 人家 就是
+NI44MBQ_0101 733310 736410 CS 哦okay okay
+NI44MBQ_0101 736410 742910 CS 就 人家 讲话 then inside 就会 有 那种 字 type 出来 这样子 啊
+NI44MBQ_0101 750360 758070 CS 可是 现在 不是 有 已经 有很多 种 program 可以 好像 translate 这些 这些 text 的 咯
+NI44MBQ_0101 758070 762940 CS 没有 吗现在 没有 这种 program 吗好像 已经 有 这种 software
+NI44MBQ_0101 762940 780351 ZH  哦哦
+NI44MBQ_0101 780351 783381 CS 哦okay okay 
+NI44MBQ_0101 783761 789411 CS 可是 每个人 的 就是 他们的 (er) speech 就是 不一样 的 嘛 他们的
+NI44MBQ_0101 789411 800631 CS 他们 如果 有些 人的 可能 他们是 不同 乡 的 人 对不对 然后 他们就 会 有 不同 的 语音 then 这些 accent 你们 怎么 去
+NI44MBQ_0101 800631 822631 EN    mm
+NI44MBQ_0101 822631 828041 CS 你们 也是 n. t. u. 的 final year project 啊
+NI44MBQ_0101 830811 833871 CS 所以 你们是 under masters
+NI44MBQ_0101 833871 839431 CS 还是 你们是 p. h. d. 毕业 了
+NI44MBQ_0101 840261 844511 CS 就是 officially 是 researcher 这样 啦uh-horh
+NI44MBQ_0101 850251 855251 ZH 这些 可能 到 以后 咯现在 就 先 把 书 读 好 啦
+NI44MBQ_0101 855251 859591 CS 就 yah 以后 才 看 吧
+NI44MBQ_0101 872271 875471 ZH 电视台 方面 啊
+NI44MBQ_0101 875471 890501 CS 对 新加坡 的 华文 戏 就 没有 台湾 的 好 啦你看 你看 就 知道 的 啦 这种 事 都 看 得出 来 的 啦我觉得 新加坡 都是 在 抄 人的 咯很像他有很多节目都是 like copy 那些 很 有名 的 好像 我 猜 啊 那种 then 他就 copy
+NI44MBQ_0101 890501 895871 CS then 他 就 copy 一些 好像 美国 那种 american idol 他 就变成 singapore idol 这样
+NI44MBQ_0101 895871 900691 CS then 就 什么 都是 抄 的 咯then 新加坡 自己 做戏 也是 
+NI44MBQ_0101 900691 905271 ZH 不是 很 强 啊 所以 如果 好像 在 媒体 业 发展 你 可能
+NI44MBQ_0101 905271 913891 CS next time 就 可能 要 去 台湾 这些 地方 咯去 可能 做 overseas internship 啊这样子 啦
+NI44MBQ_0101 916871 937721 CS for me internship 是 third year third year second semester 啊second 可是我 我 明年 就要 take 了 因为 我 今年 是 算是 first year 跟 second year 一起 take 就是说好像 first year 他 本来 是 一年 嘛 可是我
+NI44MBQ_0101 937721 949001 CS 够 一些 再 一些 是 exemption 这种 then 我 first year 就变成 first semester then 我 second year 就变成 second semester 这样子 咯mm
+NI44MBQ_0101 949001 962351 EN  
+NI44MBQ_0101 962351 970811 CS 新加坡 电视台 中文 电台 channel eight channel five channel u. 然后
+NI44MBQ_0101 970811 978721 CS (er) 就 还有 一些 可能 是 malay malay channel indian channel 这样子 咯啊
+NI44MBQ_0101 978721 985241 ZH mm就是 基本上 是 这样 啦mm
+NI44MBQ_0101 992151 994961 ZH 电视台 有没有 介绍 这个
+NI44MBQ_0101 994961 1000041 ZH 很 想 没有 叻没有 听 过 这种 东西 就是
+NI44MBQ_0101 1001401 1009471 CS 没有 有 啦 可能 他们 有 那些 电视 的 school 啦 可是 你要 去 take 他们的 course 你要 还 钱
+NI44MBQ_0101 1009471 1011431 ZH 啊
+NI44MBQ_0101 1011431 1019111 CS 所以 就 还是 会 可能 你 会 觉得 n. t. u. 啊n. u. s. 这些 会比较 比较 实际 啦
+NI44MBQ_0101 1019111 1020491 ZH 比较
+NI44MBQ_0101 1020491 1024031 CS 比较 recognise 就 这样 咯
+NI44MBQ_0101 1024031 1039141 EN mm
+NI44MBQ_0101 1039141 1047931 CS i turn 以前 就有 才华 才华横溢 出新秀 这种 节目 啊 就是 那种 (嗯) 选 星的 比赛
+NI44MBQ_0101 1047931 1055991 CS (er) but now 很 像 就是 一些 通常 是 singing 的 比较 多 唱歌
+NI44MBQ_0101 1055991 1060561 CS 那种 (er) project superstar 啦绝对 superstar 啦
+NI44MBQ_0101 1060571 1068541 CS (er) then 就是 他们 比赛 是 比比 唱歌 比 绝对 superstar 绝对 superstar 可是
+NI44MBQ_0101 1068541 1073621 ZH 最后 呢 如果 还是 得了 什么 前 三 名 这种 就会 跑 去 演戏
+NI44MBQ_0101 1073621 1083051 CS 就是 电视台 就 找 这种 有 明星 相 的 去 演戏 所以 基本上 现在 的 演员 他们的 skill 也不 是 怎么样 啦 就是 
+NI44MBQ_0101 1083051 1087391 CS 啊很 很 fake 咯他们 演的那种
+NI44MBQ_0101 1087391 1091481 EN mm
+NI44MBQ_0101 1091481 1099031 CS 以前 的 演员 还好 以前 的 actor 这些 他们 因为 是 有 培训 班 啊 训练班 这种
+NI44MBQ_0101 1099031 1109501 CS then 是 通过 训练班 选 那些 top top few students 可是 现在 不是 嘛 现在 是 选 那些 有 明星 相 的 才 丢 去 这些 训练班 的 所以 可能 他们 本身 也没有 什么 演艺 才华
+NI44MBQ_0101 1109501 1117191 CS then 就 没有 办法 也 可能 不是 那些 top few 很 会演 的 student 可是 他们 有 明星 相 所以 那些 电视台 就 把 他们 拿 去 演戏 咯
+NI44MBQ_0101 1117191 1123791 CS (er) 所以 可能 the difference is there laah就是 这样
+NI44MBQ_0101 1123791 1133891 EN  
+NI44MBQ_0101 1133891 1154761 CS 就 因为 我们的 course 是 比较 就是 mass com mass com 不只 是 电视台 而已 你 也要懂 (嗯) (嗯) journalism 就是 报 报 章 then 你 还要 懂 p. r. public relations then 还有 public relations 就是 好像 那些 公司 的 corporate com
+NI44MBQ_0101 1154761 1164871 CS corporate communications 这些 咯你要 怎样 就是 帮 公司 跟 public 打 关系 啊 打交道
+NI44MBQ_0101 1164871 1171401 CS 就是 他 像 公关 这样 啦啊所以 可能 还有 advertising 咯
+NI44MBQ_0101 1171401 1177111 CS 也是 有 research 啦communications research 好像 research 就
+NI44MBQ_0101 1177111 1183141 CS 比较 没有 这样 因为 我们 用 我们的 research 是 mm很多 都是 要 打电话 的
+NI44MBQ_0101 1183141 1187621 CS 就是 你 坐在 那边 它 会 给 你 一个 survey 然后 你 就要 去
+NI44MBQ_0101 1187621 1198371 CS 打 给 很多 不同 的 family 啦那些 numbers ah household number 他们 会 generate 一个 random 的 的 那个 number then 你 就要
+NI44MBQ_0101 1199431 1205181 CS (erm) 打 去 好像 给 一个 很 长 的 survey 你 就要 问 到 完 咯全部 的 问题 你 就要 问 到 完
+NI44MBQ_0101 1205181 1211281 CS 你 就要 一个 一个 问 啊then 很多 人 你 打 去 他们就 会
+NI44MBQ_0101 1211281 1219151 CS 拒绝 你的 他们就 讲 没有 空 i don't know 这种东西啦then 你就会 觉得 很 哎呀很 frustrated 咯
+NI44MBQ_0101 1219151 1223791 EN 
+NI44MBQ_0101 1223791 1232661 ZH mm 就是 一些 关于 也不 是 做 很多 啦 因为 我们 在 地面 而已 嘛
+NI44MBQ_0101 1232661 1239751 CS 一些 关于 (er) 孝顺 父母 的 一些 survey lohah就是
+NI44MBQ_0101 1243221 1244731 EN okay
+NI44MBQ_0101 1252021 1254371 ZH 通常 是 用
+NI44MBQ_0101 1254371 1263231 ZH 没有 你要 看 那个 人 啊 你 打 去 然后 如果 他 跟你讲 华语 你 就 讲 华语 咯他 跟你讲 英文 你 就 讲 英文 咯
+NI44MBQ_0101 1265921 1273171 CS 不 不是 很 清 不是 很 记得 啦 就是 好像 你 觉得 孝顺 父母 是什么 吗 什么 吗then 你 觉得
+NI44MBQ_0101 1273171 1281421 ZH 现在 的 新加坡 人是 应该 怎样 孝顺 父母 的 你 就 讲 这些 东西 咯之类 的 啦之类 的东西
+NI44MBQ_0101 1287611 1290081 EN communication research
+NI44MBQ_0101 1294116 1298441 CS journalism 就是 要 做 那种 报章 啦那种
+NI44MBQ_0101 1298441 1301631 ZH (er) 就是 报章 报道 咯
+NI44MBQ_0101 1301631 1307251 ZH 有没有 兴趣 啊 我觉得 是 蛮好 玩 的 啦 可是
+NI44MBQ_0101 1307251 1313861 ZH (嗯) 就是 你 也是 要 采访 很多 东西 就是 到处 跑 如果 你是 做 记者 的话
+NI44MBQ_0101 1313861 1318861 ZH 新鲜 是 新鲜 啦 只是 说 很 不 固定 时间 咯
+NI44MBQ_0101 1318861 1325071 CS 因为 有时 他们 突然间 有 新闻 来 你 就要 去 采访 then 你 也不 懂 会 采访 到 多久 嘛
+NI44MBQ_0101 1325071 1333121 CS 不然 就是 派 你什么 event 这些 东西 then 你要 去 interview 一些 人 then 你 也要 去 到处 跑
+NI44MBQ_0101 1333121 1339951 EN 
+NI44MBQ_0101 1339951 1347601 ZH 现在 开始 的 起 薪 应该 不是 很 高 啦
+NI44MBQ_0101 1347601 1360111 CS 应该 有 两千 出 啦 可是 通常 会 进 journalism 都是 因为 不是 为了 钱 啦 都是 为了 自己的 嗜好 兴趣 之类 才 去 这 行 的
+NI44MBQ_0101 1360111 1369141 ZH 如果 是 真的 要 讲 钱 的话 可能 你 就要 去 做 政府 的咯政府工 通常 会比较 高
+NI44MBQ_0101 1379761 1391831 CS 我们的 theory mm就 比较 general 的 theory 啦那些 如果 讲 到 journalism 还是 要 你的 writing 要好
+NI44MBQ_0101 1391831 1399921 CS 然后 你的 (嗯) language skills 要强 这些 咯你的 grammer 这些 不可以 错 咯
+NI44MBQ_0101 1399921 1407781 CS then mm 因为 他的 assignment 还是 based on 你的
+NI44MBQ_0101 1409251 1418661 CS 就是 那些 report 你 就会 写 一张 好像 真实 的 报道 他 就 给 你 一个 topic then 你 就 去 自己 找 人 自己 interview
+NI44MBQ_0101 1418711 1423441 CS 然后 你 就在 自己 写 你的 report 啦这样子 咯
+NI44MBQ_0101 1425741 1427541 ZH 像 mm
+NI44MBQ_0101 1427861 1437881 CS 就是 teachers' day lohteachers' day 在 (er) 中学 小学 secondary school 啦j. c. 他们 都是 public holiday
+NI44MBQ_0101 1437881 1447611 CS 可是 在 (er) university 跟 poly 是 没有 关 的 啦所以 就 就 去 问 些 poly student 他们 就觉得
+NI44MBQ_0101 1447611 1454481 CS 应该 给 他们 holiday 嘛 啦啊 为什么 啦啊之类 的 东西 咯
+NI44MBQ_0101 1455071 1459091 ZH 教师节 九月 一号
+NI44MBQ_0101 1459091 1467141 EN mm
+NI44MBQ_0101 1467141 1470801 ZH 学生 通常 都会 要 啦
+NI44MBQ_0101 1470831 1480621 CS 可是 就是 因为 老师 方面 就是 老师 就 觉得 没有 必要 啦在 poly 了 因为 都是 大大 大人 咯就是
+NI44MBQ_0101 1480621 1489731 CS  他们就觉得 teacher's day 不是因为只有 teacher's day 才记得老师而已 他们就觉得 老师是一个 job 来的 这样子咯
+NI44MBQ_0101 1494021 1501591 CS 就 采访 几个 学生 然后 就  写 个 report 咯给 老师 因为 我们的 report 也不 是 很 长
+NI44MBQ_0101 1501601 1509231 CS 一篇 而已 三百 五十 个 字 所以 it's not very long then don't need to write so much 咯就是
+NI44MBQ_0101 1509231 1519631 EN mm
+NI44MBQ_0101 1519631 1522751 CS 最近 就是 write about world cup 咯
+NI44MBQ_0101 1522801 1532671 CS mm因为 新加坡 对啊 很 疯狂 可是 还没有 拿 到 那个 broadcasting right 就是 singtel 跟 starhub
+NI44MBQ_0101 1532671 1544241 CS 还没有 rights to show then 那个 deadline 要 到了 then 就 好像 问问 那些 会 看 足球 的 人 他们 有什么 response then 写 个 story 这样子
+NI44MBQ_0101 1546651 1551021 ZH 有些 就 hah-nah通常 那种 比较 很
+NI44MBQ_0101 1551021 1555131 ZH 很 想 看 就 比较 挤 一点 可以
+NI44MBQ_0101 1555131 1564061 CS 也不 可以 做 什么 咯他们就 讲 好像 如果 真的 没有 就 too bad 咯就 去 internet 看 咯可能
+NI44MBQ_0101 1571271 1573441 CS 那个 是 e. p. l. 啦
+NI44MBQ_0101 1573441 1577511 CS 欧盟 english premier league
+NI44MBQ_0101 1577591 1585211 CS 不是 world cup 嘛不同 不同 version 不同 的 genre 
+NI44MBQ_0101 1586181 1589061 CS 看 啊 我 很 new 比较 没有 速
+NI44MBQ_0101 1591111 1593561 ZH 新加坡 的 我 没有 看
+NI44MBQ_0101 1593561 1603201 EN mm
+NI44MBQ_0101 1603201 1609511 CS 我也 是不是 很 清楚 还是 好像 是 被 人 tackle 跌倒 就 受伤 咯
+NI44MBQ_0101 1610151 1612371 ZH mm然后
+NI44MBQ_0101 1613231 1619701 ZH mm我觉得 哎呀 就 人家 已经 是 那种
+NI44MBQ_0101 1620241 1629761 CS 这种 难免 的 嘛 这种 玩 soccer 受伤 也没有 什么 大不了 可是 因为 他是 那种 很 有名 有 明星 啦那种 很 出名 的
+NI44MBQ_0101 1629761 1642351 CS 这样 多 人 会 觉得 huh是 件 很大 的 事情 其实 哎呀就 is nothing la玩 soccer 每天 玩 soccer 的 人 受伤 的 还 我觉得 也 不少 啦
+NI44MBQ_0101 1642351 1649041 CS 就 因为 也没有 什么 咯哦就是 他 就是 不可以 玩 for england 而已 啦
+NI44MBQ_0101 1649041 1650471 EN 
+NI44MBQ_0101 1650471 1660021 CS mm不 落 其他 mm就 可能 unfortunate 啦but 这种 事 cannot be helped  
+NI44MBQ_0101 1660021 1667751 EN mm
+NI44MBQ_0101 1667751 1669581 CS rugby 啊
+NI44MBQ_0101 1673401 1674811 ZH 没有
+NI44MBQ_0101 1674811 1682751 EN mm
+NI44MBQ_0101 1682751 1685181 ZH 有 啊 有 看 啊
+NI44MBQ_0101 1687491 1692591 CS 新加坡 啊 新加坡 都是 外国 来 的那些 player
+NI44MBQ_0101 1692591 1703091 CS 所以 要 讲 强 也不 是 说 很  yah 啦就是 买 人才 啦就是 看看 好玩 啊
+NI44MBQ_0101 1703091 1717232 EN 
+NI44MBQ_0101 1722091 1725301 ZH 小 新加坡 mm
+NI44MBQ_0101 1729151 1737871 CS 买 人才 没有 办法 嘛 没有 人 then 新加坡 什么 都要 赢 就 其实 也不是 只 新加坡 在买 人才 而已
+NI44MBQ_0101 1737871 1755531 ZH 很多 现在 外国 啊 很多 国家 都在 买 所以 也是 一点 什么 很 很 也不 是 一点 什么 很难 说 啊 说 的 东西 啦
+NI44MBQ_0101 1755531 1768450 EN mmmm
+NI44MBQ_0101 1768450 1783435 EN mm
+NI44MBQ_0101 1786311 1796811 CS 没有 啊 因为 前 前年 都在 当兵 then 今年 就读 书 也没有 出国 咯也没有 什么 出国
+NI44MBQ_0101 1796811 1804851 CS 出国 就是 最后 一次 是 去 australia 因为 去 当兵 then 去 训练
+NI44MBQ_0101 1804851 1807561 EN mm
+NI44MBQ_0101 1807561 1813361 ZH 一个 月 训练 的 过程
+NI44MBQ_0101 1813361 1816671 ZH mm就是
+NI44MBQ_0101 1816671 1835551 CS 就在 森林 里面 坐车 到处 跑 而已 咯因为 我们是 那种 总部 嘛 所以 我们 到处 跑 就 set up 那些 office 在 森林 的 office 然后 就 就是 这样 咯我们是 因为 我们是 总部 所以 我们 不会 这样 不会 这样
+NI44MBQ_0101 1836061 1838891 ZH 不是 这样 凶 所以
+NI44MBQ_0101 1847871 1851221 ZH 我们是 被 (呃)
+NI44MBQ_0101 1851221 1857321 ZH 不是 空 军 是 那种 民航 的 军 飞机 过去 的
+NI44MBQ_0101 1857321 1861661 ZH (呃) 没有 啦 到 那边 才 换 咯
+NI44MBQ_0101 1861781 1865451 CS 不用 穿 uniform 过去 啊 mm
+NI44MBQ_0101 1865451 1870641 EN rocantum
+NI44MBQ_0101 1870641 1881281 CS 一个 就是 没有 听 过 的 啦 那种 没有 什么 没有 什么 人 会 去 因为 是 是 training for 那些 兵 的 嘛 所以
+NI44MBQ_0101 1881741 1887191 ZH 所以 就 这样 咯 mm没有 什么 啦没有 什么
+NI44MBQ_0101 1887901 1891421 ZH 那边 也没有 什么 好玩 也没有 什么 好看
+NI44MBQ_0101 1891421 1911991 EN   
+NI44MBQ_0101 1911991 1922641 CS  你 进去 的时候 先是 算是 b. m. t. 然后 就是 你 去 military training basic 啦
+NI44MBQ_0101 1922641 1930291 CS 然后 basic 过后 它 就会 看 你 程度 咯看 你的 i. p. p. t. test 如果 你 i. p. p. t. 好的 话
+NI44MBQ_0101 1930291 1952831 CS 你的 fitness level 好的 话 then 你 就会 (呃) 被 取 那种 比较 就 派 去 看 考虑 要不要 给 你 去 做 officer 啦还是 给 你 做 sergeant then 不然 你 就是 做 manlor就是 那种 听 指令 的那些
+NI44MBQ_0101 1952831 1963121 CS 不是 什么 挂 东西 then 就 过后 你 就会 去 你的 unit 然后 就是 在那边 就 就 all the way 了 就是 到你
+NI44MBQ_0101 1963121 1969331 CS o. r. d. 为止 
+NI44MBQ_0101 1969331 1972111 EN army
+NI44MBQ_0101 1972161 1976151 ZH 没有 咯他们 政府 有
+NI44MBQ_0101 1976151 1992341 CS 你 在 当兵 之前 它 会 给 你 一个 quiz 然后 你 就 just 做 那个 测验 好像 心理 测验 这样的 quiz 然后 政府 就会 assign 你 也不 懂 他们 怎么 选 mm
+NI44MBQ_0101 1997391 2007971 CS mm对 咯police 啦civil defence 也是 政府 randomly 这样 就 使 assign 给 你们的 咯mm
+NI44MBQ_0101 2007971 2021051 EN 
+NI44MBQ_0101 2021051 2030801 ZH 去 澳洲 是 差不多 有 一年 半 之后 咯嗯
+NI44MBQ_0101 2032521 2037171 ZH   mm两年
+NI44MBQ_0101 2037971 2041141 ZH 看 你是
+NI44MBQ_0101 2041491 2047751 CS 有 六月 有 九月 看 你是 读 poly 还是 读 j. c. 咯
+NI44MBQ_0101 2047751 2052541 CS 如果 你是 读 poly 你 就 三月
+NI44MBQ_0101 2052541 2067031 CS 三月 六月 咯哎没有 没有 poly 是 june june 或 september 如果 你是 读 j. c. 的话 就是 february 跟 mm这样 咯
+NI44MBQ_0101 2067031 2085061 EN mm mm
+NI44MBQ_0101 2085061 2090281 ZH 食物 啊 嗯因为 我是 吃 斋 的 嘛
+NI44MBQ_0101 2090281 2098741 CS mm所以 学校 只有 can b 而已 咯can b 跟 can a 有 vegetarian 而已
+NI44MBQ_0101 2100001 2107451 CS 就 宗教 关系 啦 then 全家 算是 佛教 (嗯) buddhist loh
+NI44MBQ_0101 2107451 2113261 EN 
+NI44MBQ_0101 2113261 2118851 ZH 就 平时 烧香 咯这样子 mm
+NI44MBQ_0101 2119101 2121671 EN primary three
+NI44MBQ_0101 2121671 2129241 EN  mm
+NI44MBQ_0101 2129241 2135061 ZH 你们 大学 在 哪里 台湾 的 斋 容易 找
+NI44MBQ_0101 2135061 2144751 EN  
+NI44MBQ_0101 2144751 2152141 CS 所以 在 台湾 的 学校 都会 有 vegetarian 都 找 得到 啦
+NI44MBQ_0101 2152141 2154081 ZH 中国叻
+NI44MBQ_0101 2156531 2159421 ZH mm所以 你是 从 台湾 来 的
+NI44MBQ_0101 2159421 2164101 EN  
+NI44MBQ_0101 2164101 2170961 ZH 妈妈 煮 咯我 妈妈 在家 煮 然后 就 吃 咯
+NI44MBQ_0101 2170961 2176331 EN  
+NI44MBQ_0101 2176331 2182231 ZH mm 简单 的 就可以 咯可能 炒饭
+NI44MBQ_0101 2182231 2192221 CS 那种 东西 啦炒 鸡蛋 那种 煎 鸡蛋 比较 简单 的 就 okay 咯比较 复杂 的 就 可能 没有 这样 熟悉
+NI44MBQ_0101 2192221 2198401 EN 
+NI44MBQ_0101 2198401 2200881 ZH 全家 吃 斋
+NI44MBQ_0101 2200881 2219071 EN mmmm
+NI44MBQ_0101 2219071 2228011 ZH 也没有 什么 咯就是 觉得 他们 这样 就有 道理 就 对 啦 因为 好像 佛教 都在 鼓励
+NI44MBQ_0101 2228011 2235721 ZH 不要 杀 生 就 就要 (嗯) 不要 好像 要
+NI44MBQ_0101 2236081 2247401 CS 就是 慈悲心 啦 这种 东西 咯then 就 就 觉得 他们 讲 有 道理 就 okay 就 也没有 什么 特别 啦
+NI44MBQ_0101 2247401 2251551 EN mm
+NI44MBQ_0101 2251551 2254091 ZH 没有叻
+NI44MBQ_0101 2254091 2255721 EN 
+NI44MBQ_0101 2255721 2258911 ZH 什么 来的 不知道
+NI44MBQ_0101 2263671 2269261 ZH 平常 就 没有 啦 平常 十二点 过后 才 会 睡 的
+NI44MBQ_0101 2269261 2271601 ZH 半夜过后才会睡
+NI44MBQ_0101 2271601 2278851 ZH 早上 差不多 七 八点 咯七点 八点 起来 mm
+NI44MBQ_0101 2278851 2296801 EN mm
+NI44MBQ_0101 2296801 2306201 CS 新加坡 还好 啦 其实 新加坡 政府 有 给 他们 一些 津贴 嘛 一些 Ｍedisave c. p. f.
+NI44MBQ_0101 2306201 2313201 ZH 这些 之类 的 东西 所以 我觉得 新加坡 还好 还 不算 会 有很多 老人 在 街头
+NI44MBQ_0101 2313891 2322171 CS 啊 还 不至于 啦 mmthe 新加坡 的 situation 还算 不错 咯
+NI44MBQ_0101 2326101 2335571 CS compared with 别的 国家 but 我是觉得 不是 很 清楚 别的 国家 but 我是 觉得 新加坡 还好 啦 新加坡
+NI44MBQ_0101 2336501 2343571 ZH 就 你 走 在 路上 你 也不 会 看到 很多 的 那种 流浪 的 老人 (嗯) 所以
+NI44MBQ_0101 2357921 2360971 ZH 暑假
+NI44MBQ_0101 2361511 2364281 ZH 五月 六月 休息 咯
+NI44MBQ_0101 2364281 2375091 CS 然后 七月 就要 有 那些 freshmen freshmen 进来 freshmen orientation camp 八月 就要 有 y. o. g.
+NI44MBQ_0101 2375091 2379791 CS 是 那个 青 奥 youth olympic games
+NI44MBQ_0101 2379791 2386621 CS 九月 就 出国 去 e-step exchange
+NI44MBQ_0101 2386621 2395151 CS 去 canada 读 三个 月 咯exchange program 啊就是 你要 去 外国
+NI44MBQ_0101 2395151 2399481 ZH 对 mm
+NI44MBQ_0101 2399481 2407381 CS 还好 啦 就 我 本身 是 比较 有 就是 你的 生活 要有 plan 啊 不想 好像
+NI44MBQ_0101 2407381 2416181 ZH 不懂 你 自己 要 做 什么 然后 就 吊儿郎当 不是很 好 啦 所以 就 就 想 远 一点 咯
+NI44MBQ_0101 2418001 2424241 EN canada (er) toronto mm
+NI44MBQ_0101 2424241 2428711 ZH mm应该 会 下雪 啦 那时候
+NI44MBQ_0101 2429001 2436201 CS 九月 九月 去 还没有 咯可能 十一月 十二月 就 开始 snow 下雪
+NI44MBQ_0101 2440791 2448231 CS loan 咯起码 都 可能 要 要 一万
+NI44MBQ_0101 2448851 2451651 ZH 机票 就 两 两 三千 了
+NI44MBQ_0101 2451651 2458731 CS 你 还有 住宿 啦 保险 (嗯) 那种 transportation
+NI44MBQ_0101 2458731 2462701 CS mmfood 啦这些
+NI44MBQ_0101 2462701 2465041 CS yah 咯
+NI44MBQ_0101 2470001 2472971 CS 应该 会 那边 有 arrange 啦
+NI44MBQ_0101 2473461 2476251 CS 他们 应该 会 有 pick up 我们
+NI44MBQ_0101 2476251 2490461 EN 
+NI44MBQ_0101 2490461 2498721 ZH 学 学校 有 啦 应该 有 一些 我 只 懂 我 懂 有 差不多 七 八个 人 会 一起 去 这样子
+NI44MBQ_0101 2498721 2509661 ZH 只是 还 不是 很 认识 他们 而已 啦 所以 我觉得 到时候 就会 有 有 一样 的 学生 去 就会 比较 就会 比较 好 也好 照应 这样子 咯

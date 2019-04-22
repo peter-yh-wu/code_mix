@@ -1,0 +1,194 @@
+UI06MAZ_0103 686 9867 CS 就是 有 residential area 在 中间 啊 在 前面 sorry 在 前面 中间 我们 有 一个 好像 公园 这样 theme park
+UI06MAZ_0103 11013 17330 CS 可以 有 swimming pool 有 那些 东西 咯 好像 可以 给 他们 散步 jogging ex~ exercise 这样 咯
+UI06MAZ_0103 17635 23764 CS 旁边 就会 有 shopping 就是 一个 shop lot 就 好像 这些 commercial lot
+UI06MAZ_0103 24439 30512 CS 就是 可以 给 他们 做生意 啦 就 open 就是 给 要 卖 出去 的
+UI06MAZ_0103 30733 31409 ZH 是 卖 出去 的
+UI06MAZ_0103 32369 39121 CS 我们 的 process 就是 这样 咯 然后 过后 到 最后 最后 final project 的 时候 就是 要 presentation  presentation 的话 就要 做 一个 model 起来 咯
+UI06MAZ_0103 39848 47247 CS 嗯 就是 要 做 一个 用 我们 是 用 cardboard lah cardboard 就是 你 要 做 一个 condominium 起来
+UI06MAZ_0103 48020 54084 CS 嗯 就 shop lot 这样 就是 很 小 的 skill 罢了 就是 一个 大概 一个 table 一个 table 这样的 size oh
+UI06MAZ_0103 55012 61270 CS 就 你 的 surrounding ah 当然 the building 就是 is in the middle mah 是 这样 咯 如果 是 如果 是 swimming pool 的话 你 就 okay maybe you color it
+UI06MAZ_0103 61815 68898 CS blue color 这些 shop 这些 这样 咯 还有 foam model ah 要 做 人 人 车 car everything ah
+UI06MAZ_0103 69375 72050 CS 就是 其实 是 这 是 一个 很好 的 subject ah 就是
+UI06MAZ_0103 72725 78506 CS 当然 有些 好像 对 他们 来讲 啦  因为 他们 是 design 的 design 的 people mah
+UI06MAZ_0103 78966 85162 CS 他们 会 比较 喜欢 这些 design 的 东西 好像 对 我们 来讲 我们 non design 就是 很  很 stress ah
+UI06MAZ_0103 85505 93114 CS 就是 why 我们 我们 就是 major in building 我们 我们 就是 everything about the building mah structure 那些 东西 为什么 我们 要 做 那些
+UI06MAZ_0103 93871 99897 CS 就是 discuss 那种 就是 那些 design 的 东西 唉 因为 first first year 真的 是 cannot 没有 办法 避免 哪
+UI06MAZ_0103 100467 103645 CS 就 everyone 就是 一定 要 involve 在 那个 project 里面
+UI06MAZ_0103 105311 110244 CS 当然 就是 好像 在 那个 project 里面 有 一个 有 一个 一个 stage 就是 要 做
+UI06MAZ_0103 111129 120391 CS quanti~ 就是 cost building cost 就是 这 整个 cost 的 整个 building 你 的 这个 whole development 的 这个 cost 几多 就 calculate loh
+UI06MAZ_0103 120841 127332 CS 我们 是 用 这个  (呃) square feet ah 就是 each square feet 就 多少 钱 那里 times 那个
+UI06MAZ_0103 127810 135611 CS times 现 上来 就是 就是 你 的 cost lor  就是 我- 因为 我们 这个 你 要 慢慢 analysis ah 好像 你 的 column 你 有 how many columns 你 要 算
+UI06MAZ_0103 136224 143943 CS 然后 你 要 乘 好像 你 的 slab the walls windows 全部 要 list out 然后 你 要 做 这些 calculation 的 东西 这样 咯
+UI06MAZ_0103 144421 151502 CS 当然 在 这个 step 的 时候 他们 design 的 design 的 就 会 很 stress oh 到 他们 很 stress loh 因为 他们 就是 不 喜欢 这些
+UI06MAZ_0103 151502 152798 CS 差不~ 我 的 朋友 也是 我们-
+UI06MAZ_0103 153116 160679 CS 因为 我们 的 一个 group 我们 有 分 group mah 一个 group 还有 mix 全部 major 的 有 design 和 non design 的 他们 mix 在 一起 变成 他们 就 很 很 stress ah 就
+UI06MAZ_0103 161452 168060 CS 为什么 我们 why 我们 architecture ah we do we do drawing we do drawing only why we need to calculate all this cost ah 就是
+UI06MAZ_0103 168578 171053 CS 就 其实 都 很- 就 就是 -
+UI06MAZ_0103 171486 176190 CS 他们 的 objective 就是 让 我们 好像 有 学 这些 东西 哦
+UI06MAZ_0103 176940 183296 CS 就是 全部 的 basic 的 东西 都要 学 到 啦 好像 我们 做 model 我们 要 学 到 他们 calculate cost 的话 他们 也要 学 到
+UI06MAZ_0103 183519 184091 ZH 这些 这样 咯
+UI06MAZ_0103 190895 191726 ZH 啊 对 对 对
+UI06MAZ_0103 197828 198218 ZH 啊
+UI06MAZ_0103 198737 205648 CS 因为 我 父亲- 因为 之前 怎样 讲 我 小小 我 是 我 是 不 记得 啊 因为 我 小小 的 时候 我 父亲- 我
+UI06MAZ_0103 206174 211627 ZH 现~ 我 我 大 了 父亲 才 跟 我 讲 啊 就是 我 小小 的 时候 我 公公 时常 就会
+UI06MAZ_0103 212199 218017 CS 就是 做 那种 baby 的 (呃) baby 这样 推 的 车  就会 带 我 去 走 咯
+UI06MAZ_0103 218407 228604 CS maybe 从小 就 可能 是 影响 就 他 会 推 我 去 看 好像 他们 在 construct 那些 屋子 啊 就 我们 以前 住 板屋 嘛 住 板屋 别 边 就 会 好像 有 development 就
+UI06MAZ_0103 229129 237031 ZH 我 爸爸 我 父亲 就 说 我 公公 会 推 我 去 去 看 这样 咯 然后 过后 大 了 我 记得 我 很 很 小 应该 是
+UI06MAZ_0103 237491 246501 CS 差不多 五 六 年级 这样 啦 (啊) 五 六 年级 这样 已经 就 去 site 了 跟 我 父亲 去 site 了
+UI06MAZ_0103 247453 254064 CS 就 他 会 带 我 去 去 看 喏 看 他们 怎样 construct 那个 walls ah construct everything ah 这样 咯
+UI06MAZ_0103 254363 263701 CS maybe  从小 就 给 他 influence 到 了 所以 到 现在 当然 就是 secondary school 我 experience 多 了 啦
+UI06MAZ_0103 264958 272278 CS 到了 有时候 好像 (呃) school holiday 的 时候 他 就 会 (嗯) 带 我 去 site oh
+UI06MAZ_0103 273772 283363 CS 而且 (呃) 放假 的 时候 我 都会 帮忙 他 啦 有时候 真的 会 很 很 就是 不够 时间 用 啊 好像  在 secondary school 的 时候 after school
+UI06MAZ_0103 283922 286934 CS 通常 都 一 两 (呃) two o' clock 这样 过后 他 就 回来 载 我
+UI06MAZ_0103 287609 293371 CS 带 我 去 site 去 看 去 帮忙 啦 去 帮忙 这样 咯 去 看 那些 workers ah 是-
+UI06MAZ_0103 294098 299084 CS 有时 有时 他 是 叫 我 去 看 就是 有时候 我 自己 驾车 我 driving 去 一个 s~- 因为 我们 很多 个 site mah
+UI06MAZ_0103 299577 306289 CS 我 爸爸 是 contractor 我们 是 more to the- 不是 developer 就是 好像 我们 through the owner 的
+UI06MAZ_0103 307108 309394 CS 好像 let say is a client 对不对 你 要 一 间
+UI06MAZ_0103 309394 316803 CS 好像 如果 你 有 一 排 shop five unit of shop 啊 我 就 跟 你 discuss 那些 价钱 喏 过后 我 就 跟 你 拿 来 这样 咯
+UI06MAZ_0103 317206 323139 CS 我们 没有 做 developer 就是 因为 资金 也是 model 也是 一个 问~ (啊) model 也是 一个 问题 还有 就是
+UI06MAZ_0103 323880 332095 CS 因为 很多 东西 要 consider 所以 我们 就 没有 了 咯 就是 我们 就 consider 就是 through owner 好像 我 给 你 这个 比较 traditional 的 method lah
+UI06MAZ_0103 332927 334096 CS mm-hmm 当然 就
+UI06MAZ_0103 335041 342858 CS 比较 大 了 when i grow up 就是 很多 experience 了 他 就 会 丢 一 班 工人 给 我 管 咯  就 我 就会 manage 他们 喏
+UI06MAZ_0103 343674 351237 CS 所以 就是 有时候 好像 secondary school 的 时候 放 (啊) 下课 after school ah after class ah 就是 有时候 来不及 做 我 的 homework ah
+UI06MAZ_0103 351439 358127 CS 就是 要 去 site 要 看 他们 因为 有些 工人 真的 是 很  会 偷懒 啊 真的 很 会 偷懒 所以
+UI06MAZ_0103 358870 365362 CS even 你 stand there ah 你 就 你 就 这样 look at them ah 他们 就会 比较 好像 比较 怕 啊 他们 就会 自己 做 他们 的 工
+UI06MAZ_0103 365570 373271 CS 如果 是 你 走 掉 的话 ok you walk a~ aside 他们 就会 在 那边 哪 坐 着 smoking ah  讲 谈天 哪 这样 手 不会 动
+UI06MAZ_0103 374117 375494 CS mm-hmm 就是 过后
+UI06MAZ_0103 376896 379514 CS 结果 到了 我 form six 的 时候 更 惨
+UI06MAZ_0103 380531 390237 CS 所以 人 不要 when you know something ah when you know- 就是 好像 就是 你 你 知~ 你 会 的 东西 越 多 啊  你 要 顾 的 东西 你 要 做 的 东西 越 多
+UI06MAZ_0103 390237 390975 ZH 真的 真的
+UI06MAZ_0103 391813 401384 CS 变成 他 整个 好像 我 在 等 这个 u. s. m. 就是 我们 有 long holiday mah 就是 差不多 是 半年 啊 half year
+UI06MAZ_0103 402123 406745 CS s. p. m. 的 时候 今年 s. p. 也是 有 half year 的 这个 holiday mah 啊 半年 这样 咯
+UI06MAZ_0103 407264 407939 CS 他 就会 丢 -
+UI06MAZ_0103 409186 413455 CS 就是 我 自己 去 manage lor 好像 你 要 派 几多 个 workers 去 这个 site
+UI06MAZ_0103 413646 415468 CS 啊 就 叫 我 就是 叫 我 大 -
+UI06MAZ_0103 415468 418444 CS 那时候 total 应该 是 有 三十 多个 workers ah
+UI06MAZ_0103 419102 426168 CS 啊 有时候 就会 派 一些 人 去 这边 当然 要 depends 他们 的 skills lah 好像 有 有没有 skilled workers 有些 是
+UI06MAZ_0103 426707 430213 CS semi skill 有些 是 bangladesh bangladesh 是 我们 就是 小工 啊
+UI06MAZ_0103 432109 440324 CS (啊) 那些 mix 那些 cement nah 就是 搬 那些  搬 这些 东西 这样 咯 搬 这些 材 搬 那些 东西 哦
+UI06MAZ_0103 440713 449389 CS 那些 skilled workers 就是 他们 会 好像 lay 那些 bricks oh 做 砖 做 窗口 比较 比较 有 比较 重 的 东西 给 他们 做 啦
+UI06MAZ_0103 449909 459273 CS 就 安排 咯 安排 安排 安排 这样 很多 个 site 有时候 真的 是 很 很 很 头痛 因为 some workers ah 跟 别的 workers ah cannot mix together
+UI06MAZ_0103 459777 460296 ZH 真的 真的
+UI06MAZ_0103 460919 467393 CS 所以 这个 在 这些 这 方面 真的 是 很 很 有 学 到 东西 啦 就是 handle 这些 problem 的 时候
+UI06MAZ_0103 468038 471011 CS 有些 workers 就是 他 跟 他 就 不可以 mix 一起 啦
+UI06MAZ_0103 471674 478591 CS 他 跟 他 mix 一起 的话 他 就会 吵架 有些 是 这样 有些 人 不可以 cannot 就是 乖乖 就 这样 一起 做工 啊
+UI06MAZ_0103 479038 486324 CS 有些 还 会 还 会 打架 我 都 看过 打架 很 头痛 啊 真的 有些 他们 会  something small thing ah 就是 就是 有些 workers-
+UI06MAZ_0103 486506 491982 CS okay 他们 skilled workers 通常 都是 比较 老 上 了 年纪 四十 多 岁 五十 多 岁 这样的
+UI06MAZ_0103 492686 500043 CS 有些 他们 的 idea 是 okay i want start from here left hand side sometimes 有些 就是 i want to start from right hand side
+UI06MAZ_0103 500415 506570 CS 是 变成 好像- then 那些 就是 bangladesh ah 那些 就是 不懂 要 跟 谁 咯 就是 很 头痛 咯
+UI06MAZ_0103 506907 509020 ZH 有时 变成 会 吵架 就是 因为 这个 原因 哦
+UI06MAZ_0103 509972 515214 ZH 所以 这个 人事 方面 的话 这个 真的 是 很 头痛 啊  当然 就是 也是 有 好处 啦 就是
+UI06MAZ_0103 516876 521453 CS 好像 我们 现在 有 个 elective 的 就是 那些 (啊) quantity measurement 就是 q. s. 的
+UI06MAZ_0103 522095 530268 CS 就是 就是 我们 calculate 这些 cost 好像 这个 building 对不对 我们 要 算 它 的 这个 slab lor
+UI06MAZ_0103 531019 535211 CS actual dimension nah 以前 我们 在 last semester 的 时候 是 算 roughly 的
+UI06MAZ_0103 536160 540580 CS roughly 就是 比较 没有 这样 accurate lah 我们 现在 是 算 accurate 的
+UI06MAZ_0103 541172 549767 CS 好像 你 每 一个 每 一个 site ah 还是 每 一个 corner 我们 都 consider 进去 就 找 它 total area 出来 然后 times 你 的 价钱 变成 这 一 科-
+UI06MAZ_0103 550369 555615 CS 我们 就- 就是 如果 你 没有 experience 好像 怎样 做 一个 slab
+UI06MAZ_0103 556112 563639 CS 或者 怎样 做 一个 beam 就是 那些 beam ah column beam 变成 你 就 不懂 要 怎样 算
+UI06MAZ_0103 564760 572816 CS 就 lecturer 好像 跟 我们 讲 的话 什么 是 好像 什么 是 beam ah 什么 是 reinforcement 那些 bar 它们 有 它们 特定 的 terms ah
+UI06MAZ_0103 573138 577670 CS 好像 屋顶 咯 我们 有 ridge ah ridge star roof star 那些 它们 的 terms ah
+UI06MAZ_0103 578020 578462 ZH 变成
+UI06MAZ_0103 579968 582876 CS 因为 以前 我 在 site 的 时候 就是 我 看过 这样 东西
+UI06MAZ_0103 583525 588392 CS i know about 就是 this things 怎样 construct 就是 可是 我 不知道 它 的 professional terms mah
+UI06MAZ_0103 588703 594133 CS 变成 for 好多 好像 我 的 colleague 我 的 我 的 (呃) course mate 的话 他们 就是 zero
+UI06MAZ_0103 594676 602285 CS they don't know (er) anything 变成 他们 就是 好像 就是 (啊) ridge star ridge star 就 好像 我们 的 我们的 roof 对不对
+UI06MAZ_0103 602834 607612 CS roof ah 上面 有 一个 盖住 那个 那个 ridge star 就是 瓦头 啊
+UI06MAZ_0103 608235 614013 CS 就是 他们 就会 很 不~ confuse ah 不懂 是 什么 东西 啊 变成 我 看过 的 看过 这样 东西 我 就会
+UI06MAZ_0103 614520 620612 CS 有 experience 了 就 知道 咯 这个 叫 ridge star okay 它 的 function 是 什么 当 我们 要 measure 的 时候 会 比较 方便 喏
+UI06MAZ_0103 621963 625924 ZH 就 这 是 唯一 就是 比较 有 好处 的 地方 啦
+UI06MAZ_0103 625924 626972 CS 就是 比 起 -
+UI06MAZ_0103 627832 635327 CS 当然 坏处 也是 很多 啦 就是  有时候 真的 是 回去 了 好像 我们 还要- 就是 因为 我们 也是 有 tender 就是
+UI06MAZ_0103 636236 642028 CS sometimes 一个 owner 他 会 找 两 三 个 这个 contractor 来 算 这个 价钱 嘛
+UI06MAZ_0103 642312 646033 CS 然后 就 看 谁 的 比较 公 就 okay loh
+UI06MAZ_0103 646519 653303 CS 晚上 有时候 会 比较- 晚上 的 时候 才- 晚上 还要 帮 我 父亲 calculate 它 的 cost oh
+UI06MAZ_0103 654437 659981 CS 我 会 晚上 会 帮 他 好像 我们 说 算图 啦 算 那个 图 plan 要 算 多少钱
+UI06MAZ_0103 660436 664289 CS material use ah 这些 bricks ah 你 要 用 用 几多 片 啊
+UI06MAZ_0103 665084 671733 CS 在 (啊) construction site 就是 有些 有些 project 是 gro~ ah going on 就是 在 走 的 时候 你 要-
+UI06MAZ_0103 672346 674943 CS maybe 你 要 okay 你 要 想 明天 做 什么 工
+UI06MAZ_0103 676085 680814 CS 就是 before that before three or two days before 你 就要 order 那个 material 来了
+UI06MAZ_0103 681541 684261 CS 好像 如果 你 是 bricks 的话 两 三 天 前 你 就要 来了
+UI06MAZ_0103 685307 691695 CS 啊 变成 我 到 s. t. p. m. 我 等 进 u. 的 时候 就 uni~ university 的 时候 那时 我 的 responsibility 更加 大 咯
+UI06MAZ_0103 692578 701157 CS 因为 你 会 会 我 会 驾车 了 嘛 我 变成 okay 你 变成 每 一天 都 好像 要 去 每 一个 site 去 patrol 这样 就是 巡逻 啊
+UI06MAZ_0103 702092 709065 CS 回去 这个 site 好像 什么 material 不够 好像 sand 没有 了 还是 cement 没有 了 啊 就 要 打电话 去 order oh 这边 这边
+UI06MAZ_0103 710169 715340 CS 我们 at the one time 有 差不多 四 五 个 四 五 个 site 一起 走
+UI06MAZ_0103 716521 722416 CS 就 四 五 间 哪 在 different place ah 好像 我们 在 sungai dua 一 间 好像 然后 过后 jelutung georgetown 这样
+UI06MAZ_0103 722701 727520 CS 蛮 远 就是 蛮 远 的 就是 一 间 一 间 一 间 这样 咯 mm-hmm 变成
+UI06MAZ_0103 728436 733350 CS 有时候 就 很 累 啊 就 其它 东西 就 功课 上 就 比较 难 cover 到
+UI06MAZ_0103 735008 744669 CS 就 这样 原因 咯 当然 也是 会 有 好处 啦 就是 我 学 到 东西 也是 不错 啊 变成  可能 我 对 这个 housing ah 比较 有 兴趣 哦 变成 这样
+UI06MAZ_0103 744980 747603 CS 有些 好像 我 的 朋友 他们 他们 是 读 arts 的
+UI06MAZ_0103 748867 754190 CS 他在 这个 (呃) institute of bukit mertajam i. b. m. 就是 private 的 这个
+UI06MAZ_0103 755177 761773 CS 过后 他们 拿 s. t. p. m. paper lah 他 是 读 arts 的 他 读 应该 是 economic eco~ economic ah
+UI06MAZ_0103 762059 764396 CS 可是 他 过后 进来 他 拿 到 project management
+UI06MAZ_0103 764812 768972 CS 他 result quite good lah 就是 three point eight something ah 他 拿 到 这个 construction management
+UI06MAZ_0103 769471 770873 CS 他 真的 是 no idea about it ah
+UI06MAZ_0103 772016 780245 CS 他 他 就 以为- 因为 他 是 economic ah 他 就 他 就 那种 好像 management 的 东西 嘛 他 就 好像- 因为 我们 我们 进来 的 时候 我们 是 construction management wor
+UI06MAZ_0103 781261 787926 CS 之前 他 是- 之前 他 是 写- 我们 在 填 那个 form ah (啊) 我们 computer online 的 时候 是 这个
+UI06MAZ_0103 788558 792477 CS project management mah 变成 他们 不知道 是 about 这个 construction 的
+UI06MAZ_0103 793177 797098 CS 变成 他们 就 take lor 他 first choice first choice 就 进 了 u. s. m.  结果 他 就
+UI06MAZ_0103 797488 803121 CS 进来 他 就 会 吓 到 啊 那时候 真的 他 是 真的 是 不明白 啊 全部 东西 啊 就是 这些 everything 他 是 不明白
+UI06MAZ_0103 803902 811015 CS 因为 他是 读 arts 的 进来 变成 就 会 有 对 他们 来讲 会 有 一点 difficulties ah 在 这些 course 上面
+UI06MAZ_0103 811690 819799 CS 有时 有时 他们 就 会 来 问 我 咯 我们 一起 discuss 这些 这样 咯 当然 我 的 course mate 有些 很多 他们 的 family 也是 做 contractor 的
+UI06MAZ_0103 821065 824554 CS 嗯 所以 他们 most of them 就会 出来 就 进 了 就 h. b. p. 就是 这样 咯
+UI06MAZ_0103 825126 831080 CS h. b. p. h. b. p. 这个 course 的话 我们 在 u. t. m. 也是 有 u. t. m. 跟 u. m.
+UI06MAZ_0103 832449 837466 CS 嗯 u. s. m. 比较 出名 的 就 architecture 跟 q. s. q. s. 的话 因为 我们 -
+UI06MAZ_0103 838603 842442 CS q. s. quantity survey 的 老师 比较 aggressive 一点
+UI06MAZ_0103 843368 847105 CS 就是 professor associate professor aslan doctor aslan
+UI06MAZ_0103 848222 851814 CS 就是 他- i. s. m. 的 人 都 知道 他 很 难 搞
+UI06MAZ_0103 853156 853909 CS 他 很 那种 -
+UI06MAZ_0103 854298 855103 ZH 你 认识 吗 不 认识 啊
+UI06MAZ_0103 855882 864367 CS unk 啊 他 就是 很 真的 是 很 难 搞 的 人 咯 变成 他- it's- 他们 在 k. l. 他们 head~ headquarters 那边 的 i. s. m. 都 都 认识 他
+UI06MAZ_0103 865229 871066 CS 他们 是 这个- 他 是 这个 whole malaysia 的 这个
+UI06MAZ_0103 872214 876590 CS 大学 的 这些 宣传 哪 好像 这些 course 的 好像 coordinator 这样 咯
+UI06MAZ_0103 877470 883728 CS 好像 我们 另外 一个 lecturer 好像 是 啊 s. r. doctor lim-yoke-mui yah
+UI06MAZ_0103 883988 890610 CS 啊 她 是 我们 这个  northern northern area 的- north northen area 的 branch 的 这个 head lor
+UI06MAZ_0103 891207 896964 CS ex head ah 现在 没有 做 了 以前 做 变成 我们 的 lecturer- q. s. 会 比较 active 一点 哪 q. s.
+UI06MAZ_0103 897405 902706 CS 之前 他们 有 i. s. m. 的 人 就是 他们 会 来 参观 他们 u. s. m. oh
+UI06MAZ_0103 903430 909149 CS 就是 比较 比较 出名 的 地方 在 这边 咯 其他 的 就 就 比较 normal lah
+UI06MAZ_0103 909376 911397 CS 就这样 就 很- 这样 咯
+UI06MAZ_0103 915578 916195 ZH 啊 对
+UI06MAZ_0103 923034 924804 ZH 就是 (啊)
+UI06MAZ_0103 925085 932984 CS 在 在 我 填 这个 这个 form 的 时候 我 有 八个 choice mah 都 有 八个 choice 第一个 choice 我 是 填 也 是 填 u. s. m.
+UI06MAZ_0103 933359 937069 CS 我 填 这个 project management 可是 过后 第一个 没有 拿 到 啦
+UI06MAZ_0103 938553 944783 CS 就是 one thing 就是 我 first choice until 第八 个 choice 我 全部 填 的 都是 all about construction 的 东西
+UI06MAZ_0103 945295 951295 CS 就是 在 这个 construction field 里面 的 啦  因为 我 真的 是 在 对 这个 有 兴趣 哦 所以 全部 就 都是 construction 的 东西
+UI06MAZ_0103 951476 961889 CS 好像 我 的 朋友 啊 有些 是 第一个- okay ah h. b. p. maybe second one management then third one 好像 别的 school ah accounting 那些 这样 咯 他们 很多 啊 很多 个
+UI06MAZ_0103 962159 971091 CS 变成 我 全部 是 同一个 field 有些- 我 也 是 有 问 过 我 的 朋友 啦 好像 他们 family 是 contractor family background 是 contractor 的
+UI06MAZ_0103 971377 978415 CS 他们 的 choice 全部- most of them 就是 whole choice 都是 这个 construction field 的 东西 就 different school lah
+UI06MAZ_0103 978623 981471 CS 我 first choice 我 放 u. s. m. second choice 就 是 好像 u. t. m.
+UI06MAZ_0103 982665 989917 CS u. t. m. 有 q. s. 有 那些 (呃) survey 就 很多 啦 u. t. m. u. m. 也是 有 放 u. m.
+UI06MAZ_0103 990378 994192 CS 到 最 下面 的 时候 第六 个 choice ah 我 放 u. s. m.
+UI06MAZ_0103 995676 996558 CS 也 还是 u. s. m. ah
+UI06MAZ_0103 996558 999952 CS 第一个 没有 拿到 咯 就 拿 到 第六 个 哦 所以 我 是 第六 个 choice 进来 的
+UI06MAZ_0103 1000769 1008614 CS 我 这个 major 的话 因为 比较 不 需要 太 高 分 就 进 得到 了 我 这个 major building building technology
+UI06MAZ_0103 1008923 1017727 CS 因为 比较 好像 没有 这样 famous ah 没有 这样 没有 这样 多 人 去 去 要 进 那个 course mah 可是 architecture 真的 是 很多 人 要 进 很多 人 进 不到
+UI06MAZ_0103 1020107 1022496 ZH 就 很多 很多 朋友 也是 啊 我 很多 朋友 也是
+UI06MAZ_0103 1023249 1026242 CS 第六 跟 第七 个 choice 进 得 到 进 到 这个 u. s. m.
+UI06MAZ_0103 1027404 1031326 CS 就是 他们 上面 都 很- 他们 上面 都 放 这个 很 靠近 他们 的 area
+UI06MAZ_0103 1031741 1040962 CS 靠近 他们 的 hometown ah 有些 是 很多 全部 在 kepong 啊 p. j. 那边 全部 都 放 u.~ u. m. 有些 放 u. t. m. 比较 近 的
+UI06MAZ_0103 1041315 1045338 CS 可是 我 就 拿 到 u.~- 他们 是 全部 拿 到 u. s. m. 有 guwak* 可能 是 注定 的 呱
+UI06MAZ_0103 1045989 1047051 CS maybe 是 destiny ah
+UI06MAZ_0103 1047547 1048248 EN mm-hmm-hmm
+UI06MAZ_0103 1057312 1057831 ZH 啊
+UI06MAZ_0103 1062413 1067520 ZH 就是 我 住 这样 久 了 在 槟城 的话 就是
+UI06MAZ_0103 1068411 1073220 CS accommodation 还- 就是 给 我 的 印象 就是 讲 槟城 的 屋子 真的 是 很 贵 哦
+UI06MAZ_0103 1073631 1082482 CS 它 的 这个 屋子 maybe 可能 我 注定 来 u. s. m. 了 过后 可能 我 就会 在 这边 develop 也不 一定 了 company
+UI06MAZ_0103 1082802 1089329 CS 以后 我 真的 是 要 要 做 一个 好像 我 就 我 的 ambition 就是 讲 不 不 不 打工 啊
+UI06MAZ_0103 1090514 1094455 CS 哦 就 不 打工 哦 就会 好像 自己 做 business 这样 咯
+UI06MAZ_0103 1095601 1099931 CS 可能 我 跟 我 父亲 做 久 做 老板 做 久 可能 以后 就会 也是 一起 做 business 这样 咯
+UI06MAZ_0103 1100580 1105553 ZH 就是 跟 人家 打工 的话 要 看 人家 脸色 也是 比较 这样 咯 也是 比较 麻烦 一点 哪
+UI06MAZ_0103 1106190 1114628 CS 可能 以后 在- 因为 在 penang area 的话 它 的 这个 land 应该 是 land 比较 expensive ah 变成 好像  normal 的
+UI06MAZ_0103 1115087 1120909 CS three storey shop ah 这边 要 到 six hundred or seven hundred thousand ringgit
+UI06MAZ_0103 1121138 1126357 CS 好像 这里 比较 偏~ even 在 sungai petani 或者 是 在  在 我 那边 的话
+UI06MAZ_0103 1127522 1132476 CS 大概 three storey 的 应该 是 four hundred thousand 就 有 了 three storey 的 four hundred thousand
+UI06MAZ_0103 1132774 1139188 CS four hundred thousand developer sell 的 价钱 是 four hundred thousand 而且 我们 我们 做 自己 contractor 我们 自己 知道 它 的 cost
+UI06MAZ_0103 1139778 1144738 CS three storey 的 shop ah cost about one hundred one hundred eighty thousand 这样 罢了
+UI06MAZ_0103 1145496 1154053 CS 变成 他们 他们 卖 他们 卖 四 五百 千 已经 那个 是 building 的 cost lah  变成 你 可以 imagine that 就是 在 penang 的话  他们 会 赚 很多 钱 就是 这样 啦
+UI06MAZ_0103 1154810 1162021 CS 然后 在 penang 的话 就是 因为 也是 most area 比较 多 华人 嘛 就 可能 比较 亲切 一点 哪
+UI06MAZ_0103 1162787 1171895 CS 因为 有时候 看到 很多 就是 好像 在 我- (呃) 有 几个 朋友 在 u.~ u. m. 的 比较 他们 在 比较 比较 偏僻 的 地方 啦
+UI06MAZ_0103 1172339 1179539 CS 而且 又 没有 这样 convenient ah 我们 这边  在 这边 的话 就 比较 convenient 好像 要 去 shopping 要 去 哪里 要 去 玩 的话 就 okay loh
+UI06MAZ_0103 1180001 1189217 CS 还有 就是 朋友 也是 他们 之前 我 没有 上来 的 时候 朋友 也是 讲 penang 的 food 也是 一个 interesting 的 东西 可是 来了 过后 就 觉得
+UI06MAZ_0103 1190602 1196096 CS maybe 它 是 because of the quantity ah 因为 真的 是 很多 好像 each corner ah
+UI06MAZ_0103 1196550 1201944 CS 每 一 间 corner lot 的 shop ah 都会 有 这些 档 hawker 在 卖 他们 的 food
+UI06MAZ_0103 1202489 1206891 CS 就是 吃 来 吃 去 就 觉得 每 一 档 都是 almost the same lah
+UI06MAZ_0103 1207345 1213146 CS 就 大概 都是 一样 啊 maybe 就是 可能 比较  特别 就是 好像 -
+UI06MAZ_0103 1214263 1215381 ZH 就 一个 比较 麻~

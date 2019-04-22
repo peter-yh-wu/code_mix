@@ -1,0 +1,178 @@
+UI07FAZ_0101 3266 6655 EN 
+UI07FAZ_0101 7732 13082 CS 我的 english name 是 (啊) tan-ee-fun 要 elaborate huh
+UI07FAZ_0101 17244 19235 CS 平时 朋友 是 叫 我 ee-fun loh
+UI07FAZ_0101 19972 23258 CS 嗯 然后 我的 name 是 有 一点 特别 啦
+UI07FAZ_0101 23258 28498 CS because (啊) 我的 parents my father 是 一个 (啊) 老师
+UI07FAZ_0101 28498 33925 CS so 我 的 english name 呢 是 based on 我 的 chinese name 的 那个 汉语 拼音
+UI07FAZ_0101 34191 36746 CS so is direct from the 汉语 拼音 哦
+UI07FAZ_0101 37629 44693 CS huh and then is join together at the back ah because from china 他们 是 这样 写 的
+UI07FAZ_0101 45627 52252 CS ah if you notice the badminton player or what right 他们 from china 都是 一个 姓 then behind 是 join together 的
+UI07FAZ_0101 53596 56011 CS and then mostly 他们 只是 两个 name 罢了
+UI07FAZ_0101 56541 59976 CS like 一个 姓 跟 一个 name mah but 我们 有 三个 so
+UI07FAZ_0101 59976 65571 CS and then very short only mah if you use a 汉语 拼音 so five character so join together
+UI07FAZ_0101 70836 72005 ZH 啊 对
+UI07FAZ_0101 75650 82641 CS (呃) 其实 我 在 u. s. m. 大概 有 six or five to six years 这样 啦
+UI07FAZ_0101 82641 89615 CS so since 我 graduate from u. m. 从 我的 undergraduate 是 degree 是 u. m. 的 then 我 就 过来 u. s. m. loh
+UI07FAZ_0101 89615 95414 CS so (er) at the beginning 也是 想 要 closer to home 因为 我的 家乡 在 kedah
+UI07FAZ_0101 96056 101531 CS 哈 so 我 去 k. l. 读书 的 时候 就 远离 家乡 三年 这样 啦
+UI07FAZ_0101 101531 105494 CS so 就 想 要 then 我 的 parents 也 老 了 嘛
+UI07FAZ_0101 105494 111469 CS then 我的 两个 sister 也 没有 在 这边 so 我 就要 回来 sort sort of 比较 陪 他们 多 一点 pun 哪
+UI07FAZ_0101 112218 118030 CS (啧) and then 就 回来 这边 的 时候 开始 是 想 要 further master
+UI07FAZ_0101 118030 122440 CS 所以 我 就 找 molecular 的 因为 我 是 more on molecular biology
+UI07FAZ_0101 122846 127035 CS 我 的 degree 是 on genetics 跟 molecular 的 东西
+UI07FAZ_0101 127035 134693 CS so 我 就 回来 u. s. m. 这边 at first 我 有 一个 朋友 then 他 讲 他 的 朋友 是 在 biology department 做 master
+UI07FAZ_0101 134892 143450 CS 所以 他 就 带 我 上来 咯 然后 我 就 跟 他 讲 我 specifically 我 要 molecular 的 他 就 带 我 上去 (啊) 那个 lab 那边
+UI07FAZ_0101 143450 150607 CS 所以 我 就 跟 几个 lecturer 交谈 咯 看 他们 要不要 收 学生 之类 的 东西 咯
+UI07FAZ_0101 150607 153322 CS 所以 (呃) 就 找到 几个 lecturer lah
+UI07FAZ_0101 153322 159643 CS 然后 他们 就 跟 我 讲 他们 的 project 他们 做 什么 然后 他们 需 不 需要 人 哪
+UI07FAZ_0101 160745 167185 CS so 我 就 after 找 了 几个 我 就 看 他们 的 project 怎样 then finally 我 decide
+UI07FAZ_0101 167860 171362 CS 一个 了 我 就 跟 跟 一个 lecturer 做 他 的 project loh
+UI07FAZ_0101 171790 178530 CS 但是 (啊) 一 开始 的 时候 因为 我 的 成绩 在 undergrad ah degree 那边 算 quite okay
+UI07FAZ_0101 178530 185315 CS (啊) 是 first class 这样 啦 所以 他 就 offer 我 说 你 可以 directly 拿 p. h. d. 不用 过 master
+UI07FAZ_0101 185923 194583 CS so 我 就 discuss 跟 我 mother lor 我 讲 说 啊 反正 是 一样 的 啦 你 都是 要 做 lab lah 所以 就 不如 直接 拿 去 哦
+UI07FAZ_0101 194913 199459 CS 本来 是 想 要 说 (啊) master 这边 拿 then p. h. d. 出国 啦
+UI07FAZ_0101 199459 204482 CS but then 反正 可以 direct 拿 一 开始 我 以为 很 容易 嘛
+UI07FAZ_0101 204482 213143 CS  所以 就 这样 拿 咯 then 开始 的 time frame 一定 算 哇 三年 或者 四年 咯 哪里 知道 一 拖 就 拖 了 五年
+UI07FAZ_0101 213143 216873 CS 差不多 but 现在 是 towards the end 这样 了 啦
+UI07FAZ_0101 216873 224028 CS so by the end of this year 应该 可以 so complete then writing up 开始 writing up 嗯哪
+UI07FAZ_0101 230737 237290 CS oh the whole project the whole idea is on a 一个 东西 叫 p. h. a. polyhydroxy alkaloid acid
+UI07FAZ_0101 237874 240845 CS 它是 一个 biodegradable plastic
+UI07FAZ_0101 241338 246693 CS 啊 然后 它是 naturally produced ah by ah microorganism
+UI07FAZ_0101 246693 249337 CS 我们 是 focus mainly on bacteria
+UI07FAZ_0101 249669 259031 CS 所以 bacteria  其实 bacteria accumulate 这个 p. h. a. 呢 是 因为 under stress condition starvation 或者 是
+UI07FAZ_0101 259031 264905 CS ah access 的 carbon sources 好像 它 的 environment is 不利 于 它的 成长 的 时候
+UI07FAZ_0101 264905 273533 CS 它 就 start to accumulate 这个 p. h. a. lah so called p. h. a. 它 是 好像 (嗯) 一个 carbon storage 给 它
+UI07FAZ_0101 273533 276796 CS 在 在 cell 里面 它 appear as 一个 granule
+UI07FAZ_0101 277284 283453 CS granule form ah and then scientist discover 这个 东西 so 他们 就 study 它的 properties lor
+UI07FAZ_0101 283453 289163 CS so 发现 到 它 跟 我们 的 其实 我们 用 的 plastic 是 the properties 是 差不多 一样
+UI07FAZ_0101 289163 299238 CS 哈 所以 (呃) 然后 就 在 further after further study 就 发现 到 它 其实 make up of 它 的 (呃) carbon bonds 那些 chain 全部
+UI07FAZ_0101 299238 307263 CS 就 发现 到 如果 你 可以 modify 它 你 就 可以 (啊) 让 它 生产 more to 任~ (啊) 其中 一种 plastic lah
+UI07FAZ_0101 307263 315662 CS so because (er) a lot of plastics were using this stage 有 supermarket 的 那种 plastic 然后 他们 medical usage 的 那种 plastic
+UI07FAZ_0101 315662 323618 CS (哈) 全部 是 不同 的 properties so actually 我们 可以 modify and ask the bacteria to produce 这个 我们 要 的 plastic
+UI07FAZ_0101 323618 329149 CS 我们 要 的 properties lah ask to- so is is kind of recombinant technology
+UI07FAZ_0101 329149 335854 CS so 看 你 喂 它 吃 什么 你 feed 它 wtih what substrate 所以 它 就 produce 什么 什么 plastic
+UI07FAZ_0101 340364 345662 CS produce 出来 的 它 其实 是 一种 polymer so 你 有 方法 去 extract 它 出来
+UI07FAZ_0101 347116 352169 CS (hah) so extract from the cell lah this scope but 这个 是 more to segmentation 的 technology 了
+UI07FAZ_0101 352169 361317 CS 所以 它 是 (呃) extract 它 出来 polymer 有 有 它 的 protocol polymer after polymer 你 就 要 dry 它 什么 然后 from 那个 polymer 你们 再 拿 去 加工 咯
+UI07FAZ_0101 361600 366405 CS but from the polymer 你 就 可以 看出 它 的 property 了 有的 是 比较 bristle 的
+UI07FAZ_0101 366405 373453 CS 比较 易 脆 的 然后 有的 你 你 换 一下 你 喂 它 吃 不同 或者 不同 bacteria 它 就 比较 越来越 elastic
+UI07FAZ_0101 374713 382712 CS 啊 它 可以 in a form the polymer 可以 in a form of white color yellow color different on- ah depends on different properties
+UI07FAZ_0101 383387 391856 CS so 我的 project neh 就 没有 这样 to the segmentation 因为 是 molecular so i studies 是 based on 它 的 去 找 它 的 gene
+UI07FAZ_0101 392765 398323 CS 所以 what gene is (er) 造成 这个 bacteria 会 produce 这个 东西
+UI07FAZ_0101 398756 403717 CS okay so 其实 那个 gene 呢 是 我的 senior 已经 找到 了
+UI07FAZ_0101 403717 410994 CS okay 他 他 有 gene 可是 他 的 前面 后面 等等 他 有 一 整个 strap 的 我们 叫 (啊) open reading frame lah
+UI07FAZ_0101 410994 416130 CS 所以 就是 有 几个 gene 在 一起 其中 一个 是 最 重要 的 是 produce 的
+UI07FAZ_0101 416130 421711 CS 是 做 producing 这以个 polymer 的 我们 叫 它 (啊) phasy p. h. a. synthase
+UI07FAZ_0101 421711 425657 CS synthase (啊) 顾名思义 就是 (呃) synthesize
+UI07FAZ_0101 425657 431040 CS okay 所以 这个 gene 呢 他们 找到 了 可是 (呃) 在 molecular 里面 呢
+UI07FAZ_0101 431040 435208 CS 我们 要 能够 modify 一个 gene gene 呢 我们 要 知道 它 的 promoter
+UI07FAZ_0101 435208 441447 CS 它 promoter region 就是 (啊) 给 它 可以 binding 可以 从 哪里 start 哪里 走 起
+UI07FAZ_0101 441447 446341 CS 所以 这个 东西 呢 我们 要 知道 一个 叫 transcription start site 的 东西
+UI07FAZ_0101 446341 451186 CS  啊 对 所以 我 真的 是 focus on 找 那个 gene 的 开头
+UI07FAZ_0101 452225 457820 CS 啊 因为 gene 在 d. n. a. 里面 是不是 它 是 有 okay 有 那个 frame 是 固定 了 可是
+UI07FAZ_0101 457820 462471 CS (啊) 如果 是 molecular 的 人 都会 知道 从 d. n. a. 它 会 被 transcript 去 r. n. a.
+UI07FAZ_0101 462471 466719 CS 然后 接 下来 才 进入 protein protein 才是 我们的 end product 那个 synthase
+UI07FAZ_0101 466719 470972 CS 所以 在 r. n. a. 的 那个 过程 呢 我 就是 找 它 r. n. a. 开头 在 哪里
+UI07FAZ_0101 472556 480052 CS 啊 不是 从 d. n. a. 那边 去 找 了 因为 d. n. a. 那边 所有 的 nucleotide 都有 在 所以 我是 more to 去 找 它 的 r. n. a. 那边
+UI07FAZ_0101 480380 486337 CS 所以 to study r. n. a. is a whole new world lah it's a different world from d. n. a. and protein nah
+UI07FAZ_0101 486890 493944 CS 所以 在 我 的 laboratory 呢 就 有 人 是 focus on d. n. a. 有的 是 r. n. a. 有的 是 protein
+UI07FAZ_0101 493944 496140 EN 
+UI07FAZ_0101 496140 505307 CS 啊 我 一个人 在 做 这个 r. n. a. 的 东西 我 的 啊 lab around the world of course 有 其他 人 在 做
+UI07FAZ_0101 509074 513537 CS 因为 当初 我 觉得 这个 东西 interesting 我 没有 做 过
+UI07FAZ_0101 513962 519590 CS 因为 我 的 degree 是 study on about chromosome human chromosome
+UI07FAZ_0101 519590 523863 CS ah human chromosome 它 写 是 ah h. i. v. patient 的 chromosome
+UI07FAZ_0101 523863 529320 CS 看 它 有 什么 不同 啊 所以 是 more to just a capture 拿 blood capture
+UI07FAZ_0101 529320 534448 CS 那个 chromosome 排 then study about cell 里面 有 什么 东西 它 比较 (呃)
+UI07FAZ_0101 534448 539375 CS 怎样 讲 比较 片面 啦 没有 这样 深入 啦 because chromosome 是 我们 看 得 见 的
+UI07FAZ_0101 539797 545010 CS so 这边 的 时候 (啊) 老板 讲 了 这个 东西 我 就 觉得 okay lah
+UI07FAZ_0101 545266 551257 CS (呃) 因为 其实 对 segmentation 我 是 没有 这样 有 兴趣 所以 只要 不是 segmentation 的
+UI07FAZ_0101 551257 557151 CS 就是 molecular 我 就 比较 okay 因为 segmentation 真的 很 累 要 做 很多 工
+UI07FAZ_0101 557151 566884 CS 可是 molecular 老板 也 讲 有 那个 risk 在 那边 是 因为 你 做 r. n. a. 的 东西 然后 lab 里面 如果 不是 很多 人 做 的话 就 没有 人 可以 帮 到 你
+UI07FAZ_0101 566884 575938 CS 然后 它 比较 好像 segmentation at least 你 你 pay 你 做 很多 东西 then 你 有 那个 成果
+UI07FAZ_0101 575938 583830 CS but for molecular ah sometimes no matter how much 你 try 了 可是  还是 没有 成果 哦
+UI07FAZ_0101 585700 592702 CS so most of the people 在 我的 lab 的 那个 master 也要 more than three years four years 是 very common lah
+UI07FAZ_0101 593767 600578 CS 嗯 so 这个 是 你 进 了 那个 lab 你 才 知道 的 before that 你 是 不知道 不知道 为什么 这样 啦 不过 
+UI07FAZ_0101 601108 605901 CS 也是 会 很多 人 毕业 啦 but 时间 上 拉 比较 久 一点
+UI07FAZ_0101 607120 612376 CS 嗯 time consuming 因为 还有 一点 就是 我们 的
+UI07FAZ_0101 612973 619467 CS ah facility okay lah facility wise 是 一个 问题 可是 另外 一点 就是
+UI07FAZ_0101 620289 627673 CS 我 觉得 我们 的 lecturer 他 没有 这样 powerful 可以 guide 到 你 整 条 路
+UI07FAZ_0101 628506 637824 CS 所以 所以 有些 东西 是 他 不会 的 所以 他 知道 他 他 讲 这个 是 他 的 idea okay 要 怎样 做 是 要 你 去 想
+UI07FAZ_0101 639434 645014 CS 啊 不是 他 想 给 你 的 所以 你 去 想 了 你 怎样 想 then of course 你 去 refer 人家 咯
+UI07FAZ_0101 645014 651120 CS journal publish 什么 什么 什么 然后 你 知道 的 你 去 问 这样 then after that 你 就 自己 go on your own 了
+UI07FAZ_0101 651341 660714 CS 因为 那个 东西 老板 没有 做 过 嘛 supervisor 不会 so 你 就 search lor 如果 你 撞 到 墙 了 你 就 想 办法 哦
+UI07FAZ_0101 664661 665077 ZH 啊
+UI07FAZ_0101 667106 675793 CS 啊 常常 有的 咯 (啊)  通常 是 跟 colleague 讨论 咯 一 是 跟 colleague 讨论 二 就是 在 找 资料 咯 这样 咯
+UI07FAZ_0101 675793 684636 CS so always 你 encounter 的 东西 是 okay 你 follow exactly the protocol 你 follow exactly like 人家 做 的 journal 也好 你 问 人家 也好
+UI07FAZ_0101 684974 694282 CS 可是 outcome 没有 所以 怎么办 呐 你 自己 自己 换 咯 那时候 就 自己 自己 想 办法 咯
+UI07FAZ_0101 694282 702837 CS 看 你的 knowledge 有 多 深 咯 好像 你 对 这个 东西 就 一直 不停 的 去 读 它 然后 你 觉得 你 认识 够 深 了 你 可以 try to modify 东西 了
+UI07FAZ_0101 703666 708899 CS 你 就 有时候 是 (啊) (啊) by luck also by luck by chance 这样 咯
+UI07FAZ_0101 714293 722183 CS 哎哟 非常 多 的 mission impossible 有 一个 东西 为了 达到 一个 东西 我 用 了 four to five methods
+UI07FAZ_0101 722183 725700 ZH 去 做 它 还是 做 不到 到 现在 为止 还是 做 不到
+UI07FAZ_0101 726134 731483 CS so 还是 做 不到 我 就 跟 boss 讲 没有 办法 了 因为 不能 再 拖 下去 了 而且
+UI07FAZ_0101 731483 739491 CS 我 觉得 我 能 做 的 i mean 那些 (啊) 所有 的 条件 啊 该 符合 的 都 已经 符合 了
+UI07FAZ_0101 739491 745551 CS 不该 符合 的 也 符合 了 应该 consider 的 那些 point 全部 都有 进去 了 so i have tried my best lah so
+UI07FAZ_0101 745988 752047 CS ah i will write it in my thesis although 没有 result or anything i have to defend nah
+UI07FAZ_0101 753134 761367 CS in the viva room i have to defend nah maybe you can publish paper but 不是 很 high end 的 paper 了 啦
+UI07FAZ_0101 761367 767667 CS 嗯 so 到 现在 你 还是 想 不 清楚 想 不通 为什么 你 会 做 不到 它
+UI07FAZ_0101 768406 775374 CS 你 只 可以 放 possibilities 进去 罢了 啦 possibilities of 不能 achieve 到 这个 东西 然后 is out of further control
+UI07FAZ_0101 775374 783367 CS because you dealing with life 的 system 好像 bacteria 这样 unless 你 dealing with chemical 的 东西 是 死 的
+UI07FAZ_0101 783367 792741 CS 这个 加 这个 一定 会 成 a plus b 一定 会 成 c so 就 就 讲 到 是 我 的 fault lah 可是 i have done my i have tried my best 然后
+UI07FAZ_0101 792741 801243 CS 可以 modify 的 可以 加 的 我 全部 做 了 so then 不是 一个 method 是 最少 四个 methods so i have to read up that part lah
+UI07FAZ_0101 807697 813507 CS forum 就 比较 少 咯 因为 有时候 我 有 看过 人家 的 forum 我 觉得 他们 在 bullshit
+UI07FAZ_0101 814312 820649 CS  不是 讲 很 厉害 什么 可是 其实 有时候 有些 东西 你 已经 -
+UI07FAZ_0101 821350 825551 ZH 知道 不知道 了 我 觉得 他们 有时候 有 好 有 坏 pun 啦
+UI07FAZ_0101 825551 832480 CS 然后 有些 他 讲 的 东西 是 其实 是 已经 有 record 在 很多 journal 了 他们 讲 maybe you can try this maybe you can try that
+UI07FAZ_0101 832480 839122 CS and then 还有 一个 东西 是 a lot of these days a lot of research 呢 是 mainly focus on human on disease
+UI07FAZ_0101 839510 843438 CS 因为 这是 这是 the nation care most 的 东西 来 嘛
+UI07FAZ_0101 843438 850435 CS 所以 (呃) more attention be given to that part 所以 actually 你 做 bacteria 的 东西 比较 少 人 会
+UI07FAZ_0101 851629 858667 CS 而且 r. n. a. bacteria 跟 跟 eukaryote human 这些 有一个 不同 是 因为 它 比较 难
+UI07FAZ_0101 858940 868219 CS 它 没有 一个 好像 (啊) 好像 你 fishing 这样 它 它 有 一个 (啊) human 的 有 一个 poly a. tail 在 后面 的 所以 你 可以 fish 它 出来
+UI07FAZ_0101 868818 873792 CS bacteria 的 没有 东西 的 啊 so and then 它 的 half life 很 short
+UI07FAZ_0101 873792 878608 CS 它 是 around one to two minutes 罢了 它 就会 被 degrade 掉 被 cut 掉 了 r. n. a.
+UI07FAZ_0101 879261 885804 CS 所以 你 要 在 准准 的 时候 去 capture 它 这样 咯 可是 有人 做 的 到 啦
+UI07FAZ_0101 886119 893461 CS but 你 follow exactly 不能 so and then 你 不知道 facilities 是 因为 这 r. n. a. 它们 有 separate lab for r. n. a. work
+UI07FAZ_0101 893461 901338 CS 因为 它 是 很 sensitive 很 容易 degrade 的 东西 then d. n. a. part 是 d. n. a. 的 lab protein 是 protein 是 我们 全部 是 under one lab
+UI07FAZ_0101 901338 907758 CS so contamination 的 problem 很难 eliminate 很难 讲 说 完全 没有
+UI07FAZ_0101 907758 915540 CS so 只 能够 try 你的 best 我 做 我 的 东西 在 别 一个 bench 别 一个 room 这样 啦 but 那个 room 也是 有 人 进进出出
+UI07FAZ_0101 915540 922435 CS and then 你 autoclave 东西 是 together with the d. n. a. things and then you don't have your separate (er)
+UI07FAZ_0101 922435 930186 CS whole set of lab equipment just specifically for r. n. a. so 那个 东西 我 不 能够 control
+UI07FAZ_0101 930186 937697 CS the rest of the things like eliminate wearing glove using (er) what kind of solution everything 那个 我 可以 做 的 我 可以 做 了
+UI07FAZ_0101 938147 947237 CS so 我 不能 做 的 不能 做 so actually 很少 人 要 做 bacteria 的 r. n. a. 因为 它 没有 东西 给 你 fishing 它 出来 而且 它 没有 protected
+UI07FAZ_0101 947237 956571 CS eucaryote 的 呢 once 它 synthesize 了 它 会 有 一个 methylated 的 cap 会 有 poly a tail 那 两个 东西 是 (啊) prevent 它 from degradation
+UI07FAZ_0101 956571 960499 CS 可是 bacteria 没有 因为 它 turn over rate 很快
+UI07FAZ_0101 961993 966756 CS 好像 一个 e.coli is around twenty minutes 它 可以 produce 另外 一只 了
+UI07FAZ_0101 968077 974712 CS 啊 so 它 它 很 快  human eucaryote 这些 没有 这样 快
+UI07FAZ_0101 980779 981169 ZH 对
+UI07FAZ_0101 983469 992147 CS 没有 daily routine 其实 as a researcher 是 very boring 的 啊  啊 对 是 very boring 的 因为
+UI07FAZ_0101 992147 999260 CS 以前 刚 开始 的 时候 还 会 (啊) 想 出去 玩 哪 什么 and then 你 的 life circle 会 越来越 小 咯
+UI07FAZ_0101 999552 1007258 CS for- (er) 可是 新 的 generation 我 看 我 junior 进来 就有 一点 不同 啦 like 我们的 generation 就 比较 多 好像
+UI07FAZ_0101 1007891 1016916 CS okay morning 你 起来 你 就 去 lab then you work work until okay five or six right most of people go home then 我也 go home lah
+UI07FAZ_0101 1017430 1023740 CS 可是 我 find that sometimes at home there until twelve o clock let say twelve o clock is sleep 我 不知道 我 要 做 什么
+UI07FAZ_0101 1024542 1026140 ZH 我 不知道 我 要 做 什么
+UI07FAZ_0101 1026140 1034835 CS so 我 就 看 戏 咯 我 看 t. v. b. drama ah 我 看 english movie lah 我 看 whatever 最好 是 有 那种 长长 看 不 完 这样 的 每天 追 每天 追 这样
+UI07FAZ_0101 1035334 1041612 CS 可是 at one point 我 觉得 很 boring then 我 觉得 i am wasting my life lah then
+UI07FAZ_0101 1041612 1047721 CS (啊) 其实 我 做 过 很多 东西 啦 在 五年- 因为 我 刚 开始 来 的 时候 不 认识 人 过后 我 认识 人 then
+UI07FAZ_0101 1048108 1055150 CS 你 你 比较- 一 开始 比较 relax 比较 relax 过后 你 在 degree 的 时候 因为 degree 你 要 读书 要 考试
+UI07FAZ_0101 1055150 1062121 CS suddenly 全部 没有 了 不用 了 so 我 就 找 我 的 兴趣 咯 then 我 喜欢 (啊) 跳舞
+UI07FAZ_0101 1062121 1067168 CS then 我 很 久 以前 就 想 要 学 contemporary movement so 我 就 去 学
+UI07FAZ_0101 1067573 1072357 CS 学 了 跳 了 两年 过后 我 又 觉得 (啊) 有 演出 什么 了 okay lah fine
+UI07FAZ_0101 1072946 1078745 CS 玩 了 我 觉得 okay mission accomplish 我 要 去 学 hip hop okay 我 又 去 学 hip hop
+UI07FAZ_0101 1078745 1083027 CS hip hop 那边 也 差不多 跳 了 一年 我 又 觉得 唔 还是 不是 很 喜欢 okay fine
+UI07FAZ_0101 1083027 1088167 CS then 我 next target 呢 就是 我 赚 了 我 有 学 (啊) 那种 ah ballroom dancing
+UI07FAZ_0101 1088167 1095553 CS 因为 那个 比较 上 了 年纪 的 人 就 可以 也是 可以 跳 啊 趁 年轻 的 时候 还 可以 move 的 时候 就 可以 学 不同 的 对不对
+UI07FAZ_0101 1096355 1103679 CS 所以 就 可是 之前 的 时候 因为 其实 contemporary movement quite okay lah quite quite 爽 and then
+UI07FAZ_0101 1104091 1111641 CS (啊) 它 算是 一种 physical training 全部 的 东西 有 做到 then lack of exercise of course 可以 拿 这个 来 补 回
+UI07FAZ_0101 1112133 1116627 CS but then (啧) 他们 一直 要 演出 因为 其实 它 是 一个 本地 组织 来的
+UI07FAZ_0101 1118225 1124286 CS under 槟州 华堂 可是 现在 它 叫 (啊) 东厂 啊
+UI07FAZ_0101 1125532 1134055 CS 哈 然后 它 现在 在 sungai dua 开 了 一 间 then 我 每次 看到 他们 然后 老师 就 问 几时 要 回去 我 就 躲 起来 这样 啦 
+UI07FAZ_0101 1134565 1141558 CS 这样 啦 the instructor lah 你 认识 啊  田珍婷  我 就 躲 起来
+UI07FAZ_0101 1141558 1145392 ZH  我 就 跟 她 讲 等等 我 下去 因为
+UI07FAZ_0101 1145392 1149215 CS ah after 它 演出 的 时候 它 吃 我 很 长 的 时间
+UI07FAZ_0101 1149215 1158968 CS because every night 我们 要 practice mah 等等 okay 刚 开始 的 时候 我在 play play 的 时候 前面 的 头 两年 的 时候 就 fine okay 我 不要紧 可是 现在 我 觉得
+UI07FAZ_0101 1158968 1165235 CS 我 如果 不 全副 心机 摆 去 做 我 真的 不能 做 完 而且 failure rate 很 高
+UI07FAZ_0101 1165235 1173099 CS 所以 我 必须 想 办法 去 counter 这个 东西 所以 我 就 stop 住 它 先 咯 就 停 了 咯 就 没有 跳 了 咯
+UI07FAZ_0101 1173099 1176126 CS then (啊) 过后 我 去 eureka 做工
+UI07FAZ_0101 1176126 1184388 CS 没有 钱 的 之前 的 三年 hor 有 scholarship 所以 我 就有 n. s. l. scholarship 所以 就 不要紧 啦 then 三年 过后
+UI07FAZ_0101 1184677 1192377 CS 就 没有- 三年 第二 年 的 时候 我 就 开始 去 做工 了 去 eureka 做工 不过 那个 是 (啊) 也是 part-time 的
+UI07FAZ_0101 1192377 1197022 CS 就是 它 里面 有 一 间 lab 是 替 人家 (啊) 验 那个 马尿
+UI07FAZ_0101 1197953 1207802 CS (啧) 就是 讲 racing racing 的 horses ah 所以 它 是 有关 有 sign contract 跟 那些 马场 的 (哈) 所以 它 racing 的 horses 你

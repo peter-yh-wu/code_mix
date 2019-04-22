@@ -1,0 +1,650 @@
+NI28MBP_0101 5650 7130 EN yes okay
+NI28MBP_0101 8350 9460 EN you can start now
+NI28MBP_0101 19945 21395 EN oh and this
+NI28MBP_0101 22275 25505 CS 没什么 东西 哦 record boring
+NI28MBP_0101 26247 29745 CS 我 just elective lecture 而已 哦
+NI28MBP_0101 30175 32485 ZH 就 三个 小时 这样
+NI28MBP_0101 34969 36679 EN elective lor en
+NI28MBP_0101 36985 39815 EN communication studies fundamentals
+NI28MBP_0101 40995 42355 ZH 满 有趣 的
+NI28MBP_0101 42612 43905 ZH 嗯 就是
+NI28MBP_0101 43905 45535 CS 教 你 like how to
+NI28MBP_0101 45975 48065 EN communicate with others like
+NI28MBP_0101 48665 55335 CS what are the different signs that actually help contribute to 你 跟 家人 沟通
+NI28MBP_0101 56455 57696 EN en en like
+NI28MBP_0101 58885 60215 EN ya that's about it
+NI28MBP_0101 67927 70435 CS 对 啊 嗯 no actually
+NI28MBP_0101 70435 75145 CS 会 有 一点 相似 啊 to one or two of the modules that i have
+NI28MBP_0101 75163 76593 EN the got one module is called
+NI28MBP_0101 76703 79913 CS organizational behavior 就有 like
+NI28MBP_0101 80363 84463 CS 有些 东西 学的 也是 差不多 一样的 like the perceptions
+NI28MBP_0101 85263 87663 EN on all the different
+NI28MBP_0101 88549 91939 CS people like stereotyping 之类的
+NI28MBP_0101 91969 94619 EN then we also have one is called
+NI28MBP_0101 95693 101563 CS communications fundamentals 也是 教 你 怎么样 来 (呃)
+NI28MBP_0101 101563 102143 EN 
+NI28MBP_0101 102143 106053 CS 沟通 哦 what are the proper ways of doing so
+NI28MBP_0101 112128 112684 EN en
+NI28MBP_0101 114903 116893 CS minor 可能 就 不会 啦
+NI28MBP_0101 116893 118139 EN like
+NI28MBP_0101 118139 119284 CS but 就
+NI28MBP_0101 119284 121913 EN  from other looks
+NI28MBP_0101 121913 125183 EN look at other electives oh like some of the interesting ones
+NI28MBP_0101 125483 129252 CS so 可能 也有 like 那些 like hollywood to bollywood maybe
+NI28MBP_0101 129483 131543 CS 看 电影 there's one
+NI28MBP_0101 132213 133343 EN court games ah
+NI28MBP_0101 133343 134370 ZH  只是
+NI28MBP_0101 135053 139403 CS 玩 sports 而已 玩 那个 from n. i. e. seems quite interesting
+NI28MBP_0101 140235 140883 EN ah
+NI28MBP_0101 140883 143153 EN some more lor it's at s. r. c.
+NI28MBP_0101 152023 153293 EN ah
+NI28MBP_0101 153293 157103 CS usually 小时候 就 很 喜欢 踢 足球
+NI28MBP_0101 157103 157873 EN 
+NI28MBP_0101 157873 162553 CS 以前 就有 打 篮球 啦 but nowadays i don't really like basketball anymore
+NI28MBP_0101 163277 163919 EN then
+NI28MBP_0101 164819 169379 CS basically like p. e. lessons 我 有什么 sport 玩 就 玩 哦 yeah
+NI28MBP_0101 170362 171109 EN then
+NI28MBP_0101 172453 175203 CS right now n. t. u. 我 有 参加
+NI28MBP_0101 175743 177183 EN ultimate frisbee ah
+NI28MBP_0101 177783 179410 EN and for hall
+NI28MBP_0101 179410 180133 EN <unk>
+NI28MBP_0101 180133 183173 EN i will play i play volleyball and softball
+NI28MBP_0101 184172 185318 EN yeah then
+NI28MBP_0101 186143 187093 EN that's about it
+NI28MBP_0101 187713 189433 EN for all sports actually
+NI28MBP_0101 189888 194968 CS if you give me any sports i don't mind playing  ah  sports  ah  generally 都是 满 好玩 的  啊 
+NI28MBP_0101 197663 199052 EN en
+NI28MBP_0101 207208 212228 CS the my training 就 星期二 跟 星期四 哦
+NI28MBP_0101 212228 213168 EN like
+NI28MBP_0101 213168 218718 CS nowadays also cause the season coming so 有时候 monday 也是 会 有 training
+NI28MBP_0101 219498 221840 CS then it's really very tiring 因为
+NI28MBP_0101 221840 224576 CS frisbee it's like 要 跑 很多  啦 
+NI28MBP_0101 225149 225999 ZH 这样子
+NI28MBP_0101 226408 229660 CS 丢 了 就要 一直 跑 一直 跑  啊  then the
+NI28MBP_0101 229660 232918 EN real serve it drill of trainning you do a lot
+NI28MBP_0101 232918 235958 CS drills that 需要 很多 like stamina 跟
+NI28MBP_0101 236718 237448 EN speed
+NI28MBP_0101 238808 243608 CS 所以 usually 通常 by the end of the training 都会 like 觉得 很 累
+NI28MBP_0101 244728 253589 CS then by the time finish training already it's like 都 已经 九点 多 了 so 去 到 canteen 也没有 什么 东西 可以 吃 so
+NI28MBP_0101 254058 256878 EN so that's abit sian  ah  but then again
+NI28MBP_0101 257447 259577 EN it's up to how much
+NI28MBP_0101 260868 263508 EN passion you have for frisbee and like
+NI28MBP_0101 264488 268408 EN how much you really want to like play for your school and like (er)
+NI28MBP_0101 270178 273018 CS 就 你 不可以 只是 看 like
+NI28MBP_0101 274488 279648 CS you cannot just look at the materialistic side of the the sport la 要
+NI28MBP_0101 280818 285064 CS 你 如果 你 觉得 你 会 很喜欢 frisbee 的话 then 就
+NI28MBP_0101 285272 290588 CS all these actually 满 值得  啦  it's worth it to put in all these sacrifices
+NI28MBP_0101 291558 293528 CS all the 贡献 and everything
+NI28MBP_0101 307833 309783 EN okay ah i i think
+NI28MBP_0101 310373 316973 CS and one thing good about n. t. u. is we we have alot of canteen so it's like like like 有 很多 选择  啦 
+NI28MBP_0101 317573 319553 CS 都有 些 地方 like the
+NI28MBP_0101 320093 321253 EN fried rice is good
+NI28MBP_0101 321393 325053 CS then 有些 地方 you know that the western food is good
+NI28MBP_0101 325253 331133 CS so after a while 你 你 就会 懂 like 哪里 有什么 好吃 的 so
+NI28MBP_0101 331213 333103 EN it it's quite okay because
+NI28MBP_0101 334273 337843 EN the good food is quite well spread out and it's
+NI28MBP_0101 338263 340173 ZH 还 蛮多 好吃 的
+NI28MBP_0101 341133 344083 EN so i think it's okay ah our canteen food
+NI28MBP_0101 344343 351203 CS but maybe 就 一 两个 canteen 你 就 懂 like 差不多 没有 什么 东西 好吃 的 so you just want to avoid
+NI28MBP_0101 351613 358003 CS places like can~ one or can~ can~ b. actually 有 有些 stalls 还
+NI28MBP_0101 358783 361343 EN quite okay but always very crowded  ah 
+NI28MBP_0101 362033 363233 ZH 就是 每次
+NI28MBP_0101 363624 365833 CS 课 if 一 完了 就
+NI28MBP_0101 366453 368073 CS 不想 去 can~ b. 吃 了
+NI28MBP_0101 368183 376413 EN but instead even though we're at south spine we'll we'll walk all the way to north spine just so that like we can eat the food over there
+NI28MBP_0101 377238 378089 EN yeah
+NI28MBP_0101 378933 386670 CS and then 没有 我是 觉得 can~ b. 大多 是 都 大多数 的 食物 like not very appetizing ah
+NI28MBP_0101 387043 388683 EN it's only one or two stops anyway
+NI28MBP_0101 394905 396207 EN en
+NI28MBP_0101 398261 401251 CS actually 有 一点点  啊  like
+NI28MBP_0101 401821 404141 EN when it comes to what food
+NI28MBP_0101 405141 407881 EN to eat usually i don't eat spicy
+NI28MBP_0101 408171 413261 CS cause 小时候 like 没有 去 train how to take spicy food
+NI28MBP_0101 413261 414081 EN 
+NI28MBP_0101 414081 416351 EN so then after that (er)
+NI28MBP_0101 417881 418581 EN other than that
+NI28MBP_0101 418941 421501 CS most of the other food 我 会 吃  啦 
+NI28MBP_0101 421581 426271 EN but i'm not very particular actually on like whether or not the food tastes good
+NI28MBP_0101 426731 432281 CS i mean of course cannot be too lousy ah 不然 like 你 吃 了 also 反 胃
+NI28MBP_0101 432781 438521 CS but as in i won't specially go for those that must taste very nice then 我 才 会 吃
+NI28MBP_0101 439211 441061 EN so my tolerance for
+NI28MBP_0101 441410 447938 CS lousy food actually is still considered quite high compared to 很 a lot of my other 朋友 
+NI28MBP_0101 448950 455170 CS yeah some of them 他们 只是 觉得 哇 一点 不好 吃 only then they will not bother eating at all
+NI28MBP_0101 456010 456600 EN yes
+NI28MBP_0101 459360 462060 CS (呃) 挑食 meaning like
+NI28MBP_0101 462654 463383 EN the
+NI28MBP_0101 465360 467080 EN okay  ah  i think
+NI28MBP_0101 467080 468760 EN if you are picking a food
+NI28MBP_0101 468760 472710 CS there are two ways of looking at it oh 就是 like the first way is
+NI28MBP_0101 472987 473889 ZH 他们
+NI28MBP_0101 474381 478631 CS 真的 懂得 欣赏 食物  啦  like i think
+NI28MBP_0101 478631 479281 EN 
+NI28MBP_0101 479281 482691 EN if they can really know how to appreciate food well then
+NI28MBP_0101 482841 484561 EN naturally they will be a bit picky
+NI28MBP_0101 484661 485921 CS 是 like 那些
+NI28MBP_0101 486051 487741 CS 美食 专家 like that ah
+NI28MBP_0101 488381 490191 EN another way of looking at it is that
+NI28MBP_0101 490501 494301 EN it's just food lah i mean come on why why do you want to
+NI28MBP_0101 494785 495427 EN like
+NI28MBP_0101 496081 498751 CS find so much trouble then in the end 你
+NI28MBP_0101 498961 501111 CS 你 也是 会 影响 到 其 他的 人 what like
+NI28MBP_0101 502471 506050 EN you will only want to eat at certain places then
+NI28MBP_0101 506661 509351 ZH 每个人 要 啊
+NI28MBP_0101 510201 512481 CS 顺从 你  啊   啊  then
+NI28MBP_0101 512601 513801 EN so i think it's a bit
+NI28MBP_0101 514711 517610 CS ii mean you have to give and take ah 不要 like
+NI28MBP_0101 517669 518967 ZH 不可以 每次 都
+NI28MBP_0101 519461 523381 CS 就是 因为 你 觉得 不好吃 then okay then 每个人 都
+NI28MBP_0101 523474 525594 CS 不可 以 跟 你 一起 去 那边 吃 so
+NI28MBP_0101 526326 527694 EN i i just feel that
+NI28MBP_0101 529384 530684 EN i mean food
+NI28MBP_0101 531124 535700 EN okay good food is one thing but then you don't have to always be eating good food so
+NI28MBP_0101 536255 538244 EN just make do with it and
+NI28MBP_0101 538844 542904 CS like 每个人 的 生活 都会 比较 过得 比较 快乐 一点
+NI28MBP_0101 547896 548487 EN en
+NI28MBP_0101 549794 551344 EN combat ration
+NI28MBP_0101 551344 552656 EN wah 
+NI28MBP_0101 552656 554346 CS okay ah actually 我 觉得
+NI28MBP_0101 555016 560056 CS 跟 以前 比 现在 的 combat ration 是 已经 算 quite good already
+NI28MBP_0101 560676 562816 EN some more i'm quite shocked like
+NI28MBP_0101 563636 566136 CS i didn't know combat ration 也 会 有 那种
+NI28MBP_0101 566752 570646 CS black pepper pasta 之类的 so
+NI28MBP_0101 571092 577646 CS 以前 我 还 以为 combat ration 真的 是 那种 like you open already you totally don't feel like eating but in the end actually
+NI28MBP_0101 578286 580886 CS it seems not bad especially 如果 你 有 去
+NI28MBP_0101 580956 585116 CS like 煮 的话 弄 烧 then it actually tastes quite nice
+NI28MBP_0101 585215 588246 CS but also depends 因为 有 有些 combat ration also like shit like that
+NI28MBP_0101 588946 591106 EN i don't know whether i am supposed to say that but okay
+NI28MBP_0101 596576 598316 CS army 的 experience
+NI28MBP_0101 599197 600316 EN well
+NI28MBP_0101 600316 602686 EN i would say the experience is
+NI28MBP_0101 604436 606986 CS it's interesting ah like 不会
+NI28MBP_0101 607656 609336 ZH 有 有时候 会 很 闷  啊 
+NI28MBP_0101 609846 611188 CS 有时候 你 like
+NI28MBP_0101 611776 614186 CS 你 会 觉得 it's a waste of time
+NI28MBP_0101 614603 620533 CS but then again you can't deny that 我们 在 那边 也是 有 学 了 满 多 东西 like
+NI28MBP_0101 620923 622413 EN leadership skills
+NI28MBP_0101 622543 627310 CS how to actually 跟 不同 的 人 接触 and
+NI28MBP_0101 628823 631503 EN and (er) live with one work with one another
+NI28MBP_0101 631618 632260 EN plus
+NI28MBP_0101 633221 636011 CS 也是 it's a lot of hardship so
+NI28MBP_0101 636471 640681 EN it makes us (er) treasure our life and value it more
+NI28MBP_0101 641484 642265 EN en
+NI28MBP_0101 642911 649641 CS 会 令 我们 like 觉得 其实 我们 外面 的 朋友 或者 我们的 家人 他们
+NI28MBP_0101 650650 656221 CS 在 我们 生活 也是 很 重要 cause if we didn't go through army we wouldn't like realise how much
+NI28MBP_0101 656981 659341 EN what how important they are in our life ah because
+NI28MBP_0101 659671 663856 CS when you are in army it's like 你 很 容易 会 想家 之类 的 then
+NI28MBP_0101 665121 669421 EN yeah plus the num the the friends with me there are quite interesting also because
+NI28MBP_0101 670001 673751 CS 以前 在 学校 the people you meet 都是
+NI28MBP_0101 674501 676431 ZH 差不多 一样 的  啦 
+NI28MBP_0101 676661 681811 CS like the same type of people you know you won't get a wide variety but then 在 army
+NI28MBP_0101 681991 684791 CS 去 到 different unit wah you really meet all the
+NI28MBP_0101 684961 691711 EN all the different people from different ed~ educational and all society social levels so
+NI28MBP_0101 692718 697611 CS en after all the two years 也不是 totally wasted
+NI28MBP_0101 698241 700241 EN still quite well spent
+NI28MBP_0101 711539 712616 ZH 嗯哼
+NI28MBP_0101 720798 722777 EN it just in nature ahhah
+NI28MBP_0101 726856 728916 EN leadership actually i feel
+NI28MBP_0101 729776 732556 CS it's 有 一点 of both ah
+NI28MBP_0101 733066 736836 CS i mean you cannot totally expect a person who 从小
+NI28MBP_0101 737366 740746 CS totally 没有 like 尝试 过 try to
+NI28MBP_0101 740966 743376 EN take initiative all these to
+NI28MBP_0101 743376 746206 CS 突然 之间 有 很多 leadership
+NI28MBP_0101 746903 750496 CS so you need abit of nature but then 也
+NI28MBP_0101 751777 760546 CS i i i believe ah that everyone 都是 at least 会 有 一点 of the qualities just that
+NI28MBP_0101 761029 766916 CS 有时候 you need to really take certain life experience 或者
+NI28MBP_0101 767596 771916 EN events or what to actually bring it out of you  ah  so
+NI28MBP_0101 773306 778286 EN you cannot just say it's purely nature or purely nurture
+NI28MBP_0101 778746 780276 EN it has to be both oh
+NI28MBP_0101 780813 783653 CS well 我 觉得 是 more of nurture ah
+NI28MBP_0101 783976 784671 ZH 因为
+NI28MBP_0101 785763 789993 CS if 你 从来 没有 那 这个 机会 来 like
+NI28MBP_0101 790863 797753 CS to show your leadership qualities then 你 就 永远 就 不会 有 这种 leadership qualities
+NI28MBP_0101 797763 800563 EN maybe it will just stay hidden inside you
+NI28MBP_0101 801224 802048 EN so
+NI28MBP_0101 802703 807153 CS and 也不是 说 一 有 这个 机会 你 就会 立刻
+NI28MBP_0101 807473 808613 ZH 啊 发挥 出来
+NI28MBP_0101 809153 810253 ZH 你 也是 要
+NI28MBP_0101 811293 813503 EN you need some form of guidance also
+NI28MBP_0101 813863 816733 EN you need people who are able to actually
+NI28MBP_0101 817217 818823 EN teach you how to
+NI28MBP_0101 819515 825095 CS 发挥 一下 你的 leadership qualities or 你 you need role models ah 就是
+NI28MBP_0101 826335 831425 CS 有 这些 人 to show you examples and stuff like that before you can actually
+NI28MBP_0101 831885 833095 EN do a good job
+NI28MBP_0101 833463 834126 EN en
+NI28MBP_0101 841902 842904 ZH 明年
+NI28MBP_0101 843175 845165 EN you mean like next sem~ right
+NI28MBP_0101 846025 848705 CS of course ah 我 住 toa payoh
+NI28MBP_0101 848765 852035 EN that is freaking far away from n. t. u.
+NI28MBP_0101 852545 856975 CS as what everybody says 这里 是 pulau n. t. u. so
+NI28MBP_0101 857885 859785 CS 如果 不 住 hall
+NI28MBP_0101 859965 865485 CS and 如果 有 eight thirty lesson 的话 哇 it will be terrible to have to travel all the way
+NI28MBP_0101 866315 870405 CS 住 太 远 了 住 hall 真的 是 方便 多 了 its
+NI28MBP_0101 871305 875045 EN you don't even need to wake up so early and like
+NI28MBP_0101 876485 882925 CS plus anyway other than convenience 我 我 还 觉得 hall is also a very good experience in your uni~ life
+NI28MBP_0101 883881 884462 EN so
+NI28MBP_0101 884875 890465 CS i mean if it's all study and no play 也是 会 很 sian
+NI28MBP_0101 890845 892615 EN so i feel it's like
+NI28MBP_0101 892845 895485 EN hall gives you an avenue for
+NI28MBP_0101 895695 897655 EN to actually enjoy
+NI28MBP_0101 898424 899102 EN en
+NI28MBP_0101 900025 902525 ZH 有 有 有一个 人 曾经 跟 我 讲 过
+NI28MBP_0101 902805 907955 CS halls like staying in hall 会 给 你 很多 机会 to
+NI28MBP_0101 908505 912095 CS to take up leadership positions and 发挥 你 自己
+NI28MBP_0101 913825 917825 CS 因为 有 那个 i. h. g. so it actually helps to
+NI28MBP_0101 918395 920695 EN helps you develop like certain
+NI28MBP_0101 920945 926905 CS skills or in games or what that you never thought that 你 会 玩 so it's like
+NI28MBP_0101 927495 932295 CS 因为 有 很多 不同 的 东西 that you can take part in so if you go and
+NI28MBP_0101 932555 935615 CS take the initiative to 去 to join and like try out
+NI28MBP_0101 936065 940585 EN and you may never know actually these are the stuff that you actually like to do and
+NI28MBP_0101 941035 943715 EN it's good lah it helps widen your
+NI28MBP_0101 945005 946869 EN horizon aiyo
+NI28MBP_0101 947755 949805 CS how to say 就是
+NI28MBP_0101 950755 955475 EN like makes you a a more well rounded person ah more complete
+NI28MBP_0101 956211 956921 EN en
+NI28MBP_0101 960963 965430 CS 有 啊 like the business subcom
+NI28MBP_0101 965430 968237 CS (er) sports subcom 也是 有 (呃)
+NI28MBP_0101 968955 972805 CS and there's one thing that i learnt in hall 就是 how to play darts
+NI28MBP_0101 972815 980935 CS 我 觉得 那个 是 满 有趣 的 plus if i didn't stay in hall maybe 我 可能 就 没有 这个 机会 去 学 怎么 like 玩 darts
+NI28MBP_0101 980975 984225 EN and i think it's quite interesting so
+NI28MBP_0101 984575 989505 EN plus i even had the chance to play one game for the hall so
+NI28MBP_0101 989575 992625 CS 那个 experience was quite
+NI28MBP_0101 994365 1000045 CS valuable ah so if given the opportunity 我也 definitely 会 要
+NI28MBP_0101 1000345 1001855 CS 继续 住 在 hall
+NI28MBP_0101 1007015 1008755 ZH 可以 这样 讲
+NI28MBP_0101 1017419 1022409 CS moments ah in hall 就是 okay la 我 觉得 maybe
+NI28MBP_0101 1022939 1025829 EN for me or maybe for a few others
+NI28MBP_0101 1026648 1030939 EN i'm i don't see myself as being very close to the rest of them
+NI28MBP_0101 1031229 1032783 CS 可能 是 因为 like
+NI28MBP_0101 1033829 1035449 ZH 我在
+NI28MBP_0101 1036269 1040439 CS n. b. s. 里面 like ah the friends that i know there i'm
+NI28MBP_0101 1040669 1043969 EN i knew them first  ah  so i'm much closer towards my n. b.
+NI28MBP_0101 1043979 1046839 CS n. b. s. friends as compared to hall 的 朋友
+NI28MBP_0101 1047381 1048107 EN so
+NI28MBP_0101 1048629 1053279 CS sometimes i feel a bit like left out like when 他们 一直 去 吃 supper
+NI28MBP_0101 1053842 1054698 EN then
+NI28MBP_0101 1055543 1058673 CS 有时候 他们 就会 经过 你的 房间 but
+NI28MBP_0101 1059323 1063653 EN maybe just because the door is closed so they don't bother knocking and asking whether you want to eat
+NI28MBP_0101 1064793 1066953 EN then i yeah i feel that
+NI28MBP_0101 1067523 1072200 CS maybe if i had been like really close to all the hall people 可能
+NI28MBP_0101 1072333 1077016 EN like my hall life would have been much better 
+NI28MBP_0101 1077533 1078493 EN but then again
+NI28MBP_0101 1079793 1087773 CS not being very close to the hall people also 也有 一点 好处 maybe it's in one thing is that 你 就 不会 参加 这么 多 hall 的 东西
+NI28MBP_0101 1087783 1090983 EN then you would have a bit more time for studies lor
+NI28MBP_0101 1091583 1094263 CS ultimately 你 来 uni~ 的 时候
+NI28MBP_0101 1094473 1095183 EN the
+NI28MBP_0101 1095493 1099023 CS 目的 就是 要 为了 拿 那个 好的 degree
+NI28MBP_0101 1099143 1101813 EN you wouldn't want to just come here and waste your life away
+NI28MBP_0101 1102273 1105243 EN and end up if you don't get a good job
+NI28MBP_0101 1105843 1108083 ZH 吃亏 的 也是 你 自己 而已
+NI28MBP_0101 1121873 1122933 EN december  ah 
+NI28MBP_0101 1123713 1127243 CS december holidays you mean the previous one 就
+NI28MBP_0101 1127393 1131623 CS okay la the only place i went to 就是 johor bahru
+NI28MBP_0101 1131623 1136263 EN other than tha i i was mostly stuck in hall cause of i. h. g.
+NI28MBP_0101 1137803 1143363 CS then 就 没有 什么 机会 出去 actually plus 一个月 太短了
+NI28MBP_0101 1143867 1152563 CS so it's like after a short while only 突然间 school just started again so i feel december holidays is nothing much
+NI28MBP_0101 1152897 1157273 EN ah instead i'm more looking forward towards the june break
+NI28MBP_0101 1157593 1159813 EN the may june july that period
+NI28MBP_0101 1160053 1162073 EN it's a much longer break so
+NI28MBP_0101 1162613 1165153 CS 会 有 更多 机会 to actually
+NI28MBP_0101 1165343 1166873 EN do more stuff ah
+NI28MBP_0101 1179003 1184493 CS yeah i feel i. h. g. is a very good experience 因为
+NI28MBP_0101 1185380 1188303 CS i mean it's quite special 你 可以 like 为
+NI28MBP_0101 1188473 1191593 ZH 一群 人  啊  你 可以 跟 一群 人 一起
+NI28MBP_0101 1191993 1194893 EN cheer for your own hall and everything
+NI28MBP_0101 1195243 1196703 EN it it actually
+NI28MBP_0101 1197043 1201293 EN forms this certain bond and spirit within all of us that
+NI28MBP_0101 1201663 1205993 CS 我 觉得 如果 你 没有 住 hall 的话 是 永远 感觉 不到
+NI28MBP_0101 1206173 1208223 EN so it's a very special feeling
+NI28MBP_0101 1208635 1209556 EN plus it is
+NI28MBP_0101 1210243 1213283 EN you see all the different sports men like fighting so hard
+NI28MBP_0101 1214176 1216013 ZH 嗯 我 觉得
+NI28MBP_0101 1216643 1217993 ZH 值得 表扬  啊 
+NI28MBP_0101 1218273 1221603 CS plus 有时候 sometimes you are
+NI28MBP_0101 1221893 1224863 CS you start off the game not expecting to win 因为 你
+NI28MBP_0101 1224984 1226813 CS  yeah 对手 is
+NI28MBP_0101 1227133 1229393 EN just too strong and you know it but
+NI28MBP_0101 1229783 1231423 EN that doesn't mean
+NI28MBP_0101 1231503 1233913 EN you can you you just give up and
+NI28MBP_0101 1233983 1237443 CS 不 玩 了 like just let him win since you know there's no point
+NI28MBP_0101 1237813 1240633 EN i i saw alot of cases whereby
+NI28MBP_0101 1241343 1243973 CS even though 他们的 对手 is totally
+NI28MBP_0101 1244520 1245990 EN over power
+NI28MBP_0101 1246603 1248703 EN is just too strong but yet
+NI28MBP_0101 1249233 1253400 EN they still fight hard and they give their best ah because
+NI28MBP_0101 1254963 1259833 CS 他们 也 知道 that 他们 不只 是 为 自己 而 打 is
+NI28MBP_0101 1259843 1266353 EN they're actually fighting for the hall and a lot of people actually rooting for them and supporting them
+NI28MBP_0101 1266353 1267683 EN so
+NI28MBP_0101 1267683 1269933 EN yeah i i i figured that
+NI28MBP_0101 1270423 1273143 CS 这个 i. h. g. 的 season 是
+NI28MBP_0101 1273913 1276754 EN it's a very good experience en
+NI28MBP_0101 1278127 1279387 ZH 在 这里 (呃)
+NI28MBP_0101 1280293 1284063 CS 真的 会 bond 我们 altogether
+NI28MBP_0101 1284643 1289023 EN its a good thing ah but also the only problem with it is
+NI28MBP_0101 1289733 1293923 CS maybe too time consuming 因为 我在 那个 sports subcom 里面 so
+NI28MBP_0101 1294023 1298023 EN i have to be down always every mo everytime every game so
+NI28MBP_0101 1298583 1299733 ZH 会 有 一点 累
+NI28MBP_0101 1299863 1303733 CS but okay la 有 quite 值得 的
+NI28MBP_0101 1314372 1315373 ZH 有 啊
+NI28MBP_0101 1315373 1319153 EN i realized those that actually
+NI28MBP_0101 1319483 1324263 CS put in the most effort 就是 那些 cheerleading 跟 dance 的 他们 每 晚 都在 练
+NI28MBP_0101 1324373 1329613 CS almost ah and it's 值得 表扬 but only thing is
+NI28MBP_0101 1330803 1332833 EN actually i don't know whether
+NI28MBP_0101 1333663 1338053 EN i i feel happy to not be part of the cheerleading and dance or
+NI28MBP_0101 1338563 1340973 CS to feel a bit left out 因为
+NI28MBP_0101 1341523 1346793 CS like i can tell 他们 真的 是一个 很 close bunch of people
+NI28MBP_0101 1346853 1351242 CS but yet again 我也 不想 浪费 掉 我 每天 晚上
+NI28MBP_0101 1351443 1355663 EN just training in the m. p. h. for many hours straight
+NI28MBP_0101 1356507 1365773 CS well i think the amount of effort they put in is really quite a lot even though 我们的 cheer 没有 赢 到 什么 other than the mascot title
+NI28MBP_0101 1366013 1369093 EN the second for mascot title but i feel
+NI28MBP_0101 1370203 1372973 EN it shouldn't be because of this that's why they lose
+NI28MBP_0101 1373759 1375709 EN (er) hope and everything
+NI28MBP_0101 1375749 1377489 EN there's always next year
+NI28MBP_0101 1377662 1379278 EN enen
+NI28MBP_0101 1380542 1385232 CS okay quite fun i see the way 他们 练习 的 时候
+NI28MBP_0101 1390271 1391192 EN oh
+NI28MBP_0101 1400986 1404700 EN yeah i know i know this
+NI28MBP_0101 1404700 1407070 EN i guess they all know about that also that
+NI28MBP_0101 1407700 1410780 CS 虽然 他们 练 like 很久 but then
+NI28MBP_0101 1411270 1418810 CS the the time given for them to just show off what they have been training for is like just that few minutes mah 我 觉得
+NI28MBP_0101 1419850 1423490 EN it doesn't matter how long your performance is
+NI28MBP_0101 1423720 1424840 EN as long as
+NI28MBP_0101 1425450 1429320 CS on the actual day 他们 give it their best and
+NI28MBP_0101 1430401 1433441 EN they have all these while they have really trained for it and
+NI28MBP_0101 1433631 1439781 CS if 他们 觉得 on that day 他们的 表现 is the best that they have
+NI28MBP_0101 1440071 1442631 EN that is possible out of them then
+NI28MBP_0101 1443461 1447361 EN it's still a very good (er) sense of
+NI28MBP_0101 1449081 1450361 EN satisfaction
+NI28MBP_0101 1450361 1457661 CS and 我 觉得 that's all that matters ah as long as they enjoy what they are doing it doesn't matter if 他们 每次 练 到 很 累
+NI28MBP_0101 1457801 1463126 CS but as long as they like it and at the end of the day 他们 没有 like
+NI28MBP_0101 1464960 1468890 EN they don't disappoint themselves ah as long as they really give it all they have got
+NI28MBP_0101 1469098 1469778 EN i guess
+NI28MBP_0101 1470558 1475268 CS it will still be a very good feeling and 他们 会 觉得 他们
+NI28MBP_0101 1475578 1476748 CS look back 的 时候
+NI28MBP_0101 1476838 1480078 EN it's like something worth remembering ah especially
+NI28MBP_0101 1480388 1481908 EN they're not doing it alone
+NI28MBP_0101 1482168 1484718 CS 他们是 like do in a team
+NI28MBP_0101 1485446 1490278 EN en this actually help motivate everyone oh
+NI28MBP_0101 1490378 1491458 EN i feel
+NI28MBP_0101 1496885 1497660 EN enheng
+NI28MBP_0101 1505988 1507568 EN yeah definitely
+NI28MBP_0101 1521038 1522638 ZH 考试
+NI28MBP_0101 1523893 1525072 ZH 那也 
+NI28MBP_0101 1527138 1528763 ZH 考试
+NI28MBP_0101 1528763 1530413 EN okay ah exams wise
+NI28MBP_0101 1531293 1536993 CS 很 不同 哦 i feel it's that you need a lot of consistent work and understanding
+NI28MBP_0101 1537653 1538633 EN i mean
+NI28MBP_0101 1539393 1540463 EN you cannot just
+NI28MBP_0101 1541433 1544893 EN not every paper is like math
+NI28MBP_0101 1545093 1549203 EN you can just practise and practise and practise and eventually you will get it
+NI28MBP_0101 1549883 1553683 CS some papers 就 好像 biz law
+NI28MBP_0101 1554783 1556493 EN business law lah or
+NI28MBP_0101 1556843 1558203 EN some other stuff you
+NI28MBP_0101 1559173 1562213 CS 那种 understanding 会 比较 重要 so
+NI28MBP_0101 1563363 1566780 CS and also 有时候 you really need to have that
+NI28MBP_0101 1567723 1570403 CS 智慧  啊  the intelligence if not
+NI28MBP_0101 1570593 1572063 EN it it it will be very difficult
+NI28MBP_0101 1572063 1572623 EN you
+NI28MBP_0101 1572933 1574545 EN if you are just average
+NI28MBP_0101 1575315 1581145 CS it is not enough if 你 practise and practise and practise 有时候 also not enough
+NI28MBP_0101 1581624 1582351 EN so
+NI28MBP_0101 1583005 1585655 EN especially uni when all the
+NI28MBP_0101 1585655 1589735 CS subjects 它们 全部 test 的 东西 都 不一样 so
+NI28MBP_0101 1590295 1592275 CS it's a very different thing 就是
+NI28MBP_0101 1592565 1594025 EN you must really
+NI28MBP_0101 1594645 1599825 EN be able to cope with it like with you must have the capacity and the capability
+NI28MBP_0101 1600025 1604685 CS 如果 没有 的话 就会 真的 是 会 很难 so yeah lor
+NI28MBP_0101 1609768 1612728 CS this sem 一定 会 因为
+NI28MBP_0101 1613502 1614116 EN like
+NI28MBP_0101 1616418 1621398 CS 我 this sem 的 modules 都是 有 很多 是 project based
+NI28MBP_0101 1622048 1624688 EN yeah especially marketing
+NI28MBP_0101 1625109 1626466 EN marketing we got
+NI28MBP_0101 1627858 1629468 EN four projects
+NI28MBP_0101 1630279 1631135 EN so
+NI28MBP_0101 1631908 1637478 CS the thing about project 就是 你 要 花费 的 时间 是 很多
+NI28MBP_0101 1638808 1643178 CS and 不只 是 靠 自己 因为 project right
+NI28MBP_0101 1644168 1646808 EN it's a team effort so
+NI28MBP_0101 1646995 1649175 ZH 虽然 你 自己 本身
+NI28MBP_0101 1649175 1652855 CS 是一个 很 很好 的 人 i mean you are very capable
+NI28MBP_0101 1653015 1660025 EN but if your team mates are like not doing their work properly and everything it's also very difficult for you to score
+NI28MBP_0101 1660395 1661154 EN so
+NI28MBP_0101 1661845 1663100 EN i find that
+NI28MBP_0101 1663100 1663995 EN i~ it
+NI28MBP_0101 1663995 1665459 ZH 你 真的 要 (呃）
+NI28MBP_0101 1666285 1668985 EN be able to work well with your team
+NI28MBP_0101 1670215 1672625 EN the understanding must be there ah (er)
+NI28MBP_0101 1673221 1674960 ZH 每个人 都要
+NI28MBP_0101 1675521 1677171 ZH 付出 一样 的
+NI28MBP_0101 1677645 1679395 CS 努力 and effort
+NI28MBP_0101 1679915 1682225 CS 不然 的话 it doesn't matter how good
+NI28MBP_0101 1682526 1684390 EN you will solve it
+NI28MBP_0101 1684390 1686005 EN as long as the rest
+NI28MBP_0101 1686555 1688915 EN they don't do their part
+NI28MBP_0101 1688915 1689715 EN like
+NI28MBP_0101 1689715 1692245 CS in the end 你 自己的 score 也 会 suffer
+NI28MBP_0101 1692455 1695015 EN so that's the thing about projects ah
+NI28MBP_0101 1705870 1709310 CS 没有 i have not donated blood before
+NI28MBP_0101 1710150 1713900 CS but i it's not that i don't want to 有时候 就
+NI28MBP_0101 1714380 1716550 CS 懒惰 去 做 plus
+NI28MBP_0101 1717865 1720675 CS i don't know i mean blood donation 也
+NI28MBP_0101 1720675 1724715 CS 有 一点 怪 怪 if 你 自己 一个人 去 so usually
+NI28MBP_0101 1724715 1731585 CS unless if i have friends who go and donate if not i won't like just one person 去 捐血
+NI28MBP_0101 1733225 1735338 EN so it's like okay ah i mean
+NI28MBP_0101 1735338 1739778 EN n. t. u. has been having all the blood donation drives recently
+NI28MBP_0101 1740925 1743358 CS  i just 真的
+NI28MBP_0101 1743918 1751258 CS 可能 maybe just nice when they're they're here 就 太多 project so don't really have the time to but i do
+NI28MBP_0101 1751438 1752978 EN i i don't mind like
+NI28MBP_0101 1753148 1756848 EN doing my part for society also ah and giving some blood
+NI28MBP_0101 1757599 1758342 EN yeah
+NI28MBP_0101 1769468 1770566 EN en
+NI28MBP_0101 1775566 1779126 CS yeah it's amazing just 捐 一次
+NI28MBP_0101 1779236 1781786 EN and you can save three people like that yeah
+NI28MBP_0101 1782476 1785006 EN i guess if everybody knows that
+NI28MBP_0101 1785625 1786287 EN en
+NI28MBP_0101 1786826 1790296 EN the number of blood don~ donors should be quite high
+NI28MBP_0101 1790610 1794109 CS but 有时候 i i just feel that maybe
+NI28MBP_0101 1794109 1797799 EN this blood donation thing is not well publicized enough
+NI28MBP_0101 1798539 1802639 CS or people 真的 会 想到 那个 needle 就 怕
+NI28MBP_0101 1802639 1805660 EN but what they don't know is that actually it doesn't hurt because
+NI28MBP_0101 1805660 1806166 ZH 就
+NI28MBP_0101 1806809 1808769 EN inject you with local anaesthetic
+NI28MBP_0101 1809009 1809736 EN so
+NI28MBP_0101 1810869 1812879 EN yeah i mean if
+NI28MBP_0101 1812879 1815589 EN there should be some way whereby they can
+NI28MBP_0101 1815862 1823032 CS promote better such that 每个人 都会 懂 actually blood donation is very simple and you don't need to be afraid of
+NI28MBP_0101 1823182 1825212 EN nothing to be afraid of ah
+NI28MBP_0101 1825582 1829972 CS and yet at the same time 可以 救 到 很多 人 so
+NI28MBP_0101 1830052 1837347 EN i'm sure if they people know these simple basic facts they will not hold back and go and donate their blood en
+NI28MBP_0101 1838222 1843782 CS so it's actually kind of like up to 那些 blood donation drive 的 people
+NI28MBP_0101 1853092 1855870 EN what why do you want to talk about the world economics
+NI28MBP_0101 1868410 1872934 CS actually frankly speaking 我也 不懂 president obama 有 做 什么 
+NI28MBP_0101 1873548 1879611 EN so don't ask me about obama or the world politics
+NI28MBP_0101 1879611 1881915 EN it's not my cup of tea 
+NI28MBP_0101 1889368 1890593 ZH 嗯哼 对
+NI28MBP_0101 1891320 1892645 ZH 有 有
+NI28MBP_0101 1899461 1905531 CS well regarding the haiti the haiti earthquake 我 觉得 like
+NI28MBP_0101 1907441 1909931 EN okay ah i i really
+NI28MBP_0101 1910711 1916950 CS sympathize with all all of those victims but 我 觉得 我
+NI28MBP_0101 1917361 1918541 EN given my okay
+NI28MBP_0101 1918541 1925121 CS my capacity 我 i'm not able to actually 帮 到 他们 much i mean
+NI28MBP_0101 1925301 1929711 EN okay if want to donate money also the amount that i can donate also wouldn't be a lot
+NI28MBP_0101 1930230 1930973 EN en
+NI28MBP_0101 1931959 1932751 ZH 就
+NI28MBP_0101 1932751 1935157 EN right now i'm just still a student
+NI28MBP_0101 1935690 1939181 CS 如果 你 要 我 过去 那边 like do all those
+NI28MBP_0101 1940211 1945766 EN (er) help to build rebuild the city and everything i don't think i have that capacity ah
+NI28MBP_0101 1946471 1948721 CS 我 觉得 like right now
+NI28MBP_0101 1949251 1953969 EN maybe i could be abit selfish at this time but i really need to
+NI28MBP_0101 1954825 1957511 EN concentrate on my studies as well or
+NI28MBP_0101 1958612 1961151 EN i need to focus on some of the things that
+NI28MBP_0101 1961641 1964961 CS 在 这个 时候 are more important in my life
+NI28MBP_0101 1965241 1969081 EN maybe next time if i have the time if i am free
+NI28MBP_0101 1970121 1975301 EN maybe i i will i will try and grab a few friends down maybe we can
+NI28MBP_0101 1975301 1978611 CS 我们 可以 like 去 外国 做 一些 c. i. p. or what
+NI28MBP_0101 1979493 1981111 EN ya so
+NI28MBP_0101 1981111 1983281 EN it's not that i don't want to help them but
+NI28MBP_0101 1983641 1985091 EN i feel that
+NI28MBP_0101 1985501 1991031 EN certain things if you don't have the capacity it's just no choice ah
+NI28MBP_0101 1991501 1994001 EN but i also do hope that like
+NI28MBP_0101 1994551 2000559 CS 会 有 很多 人 who have the money who have the time and effort
+NI28MBP_0101 2000559 2007609 CS to actually 去 帮 帮 一下 他们 cause i think that they really quite (er) poor thing quite sad
+NI28MBP_0101 2015384 2016450 EN en
+NI28MBP_0101 2029559 2033029 EN well i have been to japan
+NI28MBP_0101 2033399 2034929 EN korea
+NI28MBP_0101 2035953 2038029 EN en australia
+NI28MBP_0101 2040046 2044176 CS yeah then 还有 indonesia malaysia 这些 哦
+NI28MBP_0101 2047686 2050216 CS hong-kong 也有 去 过 (呃)
+NI28MBP_0101 2051505 2055500 CS 有  啊  通常 都是 跟 family 一起 去  啊 
+NI28MBP_0101 2055500 2056386 EN ai wait
+NI28MBP_0101 2056386 2059315 ZH 如果 要 叫 我 跟 朋友 一起 去 我 没有 那些 钱
+NI28MBP_0101 2059806 2066725 CS so 如果 要 去 holiday 的话 尤其是 那些 比较 远 的 地方 就 需要 父母 来 sponsor 一下
+NI28MBP_0101 2067036 2071576 CS so most probably 都是 跟 family 一起 去 but 现在
+NI28MBP_0101 2072136 2074735 CS 长大 了 so most probably we
+NI28MBP_0101 2075156 2076596 EN given people our age
+NI28MBP_0101 2077683 2083422 EN it's natural that maybe we will want to travel with our own friends so
+NI28MBP_0101 2086063 2088453 CS at this point of time 我 觉得 maybe
+NI28MBP_0101 2089023 2092463 CS the number of times i will travel with my family 就会 减少 了
+NI28MBP_0101 2092721 2096853 EN (er) i do hope to go to places like u. s.
+NI28MBP_0101 2097863 2104013 CS europe wha 那些 地方 的 scenery 真的 是 很 美 plus
+NI28MBP_0101 2104673 2109703 EN it's they are like the major countries or continents in the world and
+NI28MBP_0101 2110423 2112273 CS it'd be wasted  啊  如果
+NI28MBP_0101 2112523 2115980 ZH 你 这 一生中 没有 去 过 那些 地方 就
+NI28MBP_0101 2116983 2124323 CS 很 可惜  啊  so i feel ii hope that within the next five years or so 会 有 机会 去
+NI28MBP_0101 2125021 2131613 CS maybe 要 等 我 做工 以后 赚到 钱 才 可以 去 i don't know but i will definitely want to go there
+NI28MBP_0101 2136983 2140100 EN overseas exchange ah en
+NI28MBP_0101 2141363 2146342 CS currently my grades are not that good 我 就要 看 next sem 或者
+NI28MBP_0101 2146891 2151103 EN the sem after probably year two sem two but
+NI28MBP_0101 2151790 2154990 CS i must really do well ah buck up 不然 的话
+NI28MBP_0101 2155720 2157690 CS 成绩 不好 also 去不了
+NI28MBP_0101 2158460 2162810 CS but 去 exchange 的 时候 i feel the money is one issue ah
+NI28MBP_0101 2164440 2167062 CS 我 家里 也不 是 说 很多 钱 so
+NI28MBP_0101 2167531 2170950 EN i have to aim for the scholarship if not en
+NI28MBP_0101 2170950 2172050 EN no choice
+NI28MBP_0101 2172050 2173120 EN then
+NI28MBP_0101 2173120 2175594 CS 如果 我 我 觉得 如果 要 去 exchange 的话
+NI28MBP_0101 2175982 2179290 CS 如果 去 places like maybe china or
+NI28MBP_0101 2180030 2182160 EN hong-kong or maybe those
+NI28MBP_0101 2182300 2184960 CS 比较 靠近 的 country 就有 一点 wasted like
+NI28MBP_0101 2186561 2190559 CS to me i feel it's like no point ah if i want to go exchange 我 就要 去 like
+NI28MBP_0101 2190559 2193099 EN places like u. s. or europe
+NI28MBP_0101 2193789 2195099 EN those places whereby
+NI28MBP_0101 2196369 2200329 CS 真的 会 it's more different as in
+NI28MBP_0101 2200629 2204735 CS 会 给 你 一个 more different experience than what you get in asia
+NI28MBP_0101 2205209 2208213 CS plus 在 那边 可能 会 学到 更多 东西
+NI28MBP_0101 2208456 2210265 CS 嗯 你 sight see 的 时候
+NI28MBP_0101 2210549 2213779 EN like road side seeing ah it'd be much
+NI28MBP_0101 2214399 2215372 EN nicer ah
+NI28MBP_0101 2216579 2218159 EN ah a few
+NI28MBP_0101 2218509 2222670 EN if you want go exchange must go somewhere nice and good
+NI28MBP_0101 2222837 2228467 EN and not like just stuck yourself within our neighboring countries yeah
+NI28MBP_0101 2236647 2240497 CS standard oh chinese new year 每年 都是 一样 的
+NI28MBP_0101 2241097 2243797 EN all the new year goodies
+NI28MBP_0101 2244641 2245970 EN yeah that's about it
+NI28MBP_0101 2246100 2248701 EN one or two new year decorations
+NI28MBP_0101 2250141 2255161 CS standard oh i think chinese new year 就是 每年 差不多 都是 一样的  啊 
+NI28MBP_0101 2255161 2258111 EN but it's still something that i look forward to because
+NI28MBP_0101 2258928 2264031 CS 哦 总之 you are as long as you are not married you still get ang bao then
+NI28MBP_0101 2264891 2268871 CS yeah so that's one thing that 我 我 觉得
+NI28MBP_0101 2269421 2272851 EN everyone ah at my age will all look forward to
+NI28MBP_0101 2274321 2277269 ZH 只是 付
+NI28MBP_0101 2277269 2281809 CS 结婚 的话 就 不同了  啊  i think in like a few years' time
+NI28MBP_0101 2282489 2288129 CS then 我们 就会 要 包 红 红包 了 就会 比较 sian so
+NI28MBP_0101 2288279 2294289 EN i i guess adults don't really look forward towards chinese new year as much as us
+NI28MBP_0101 2299449 2305269 CS oh i don't really have rich relatives so 每年
+NI28MBP_0101 2305649 2306299 EN then
+NI28MBP_0101 2306299 2307919 ZH 两百多 而已
+NI28MBP_0101 2308459 2309649 EN probably about there
+NI28MBP_0101 2310299 2316979 CS but i have like some friends 他们的 父母 或者 亲戚 朋友 哇
+NI28MBP_0101 2317579 2321279 EN freaking rich they can get like thousand
+NI28MBP_0101 2322009 2326279 EN in just that few days ah i don't understand i don't know what what what they are
+NI28MBP_0101 2327229 2329795 EN when life is unfair but aiya
+NI28MBP_0101 2330429 2332039 ZH 这种 东西
+NI28MBP_0101 2333035 2335215 EN i guess nothing is fair in the world
+NI28MBP_0101 2335775 2338225 EN so just it be ah enjoy ourselves
+NI28MBP_0101 2339055 2344224 ZH 总之 生活 要 开心 一点 就 好 了 钱 不是 很 重要 
+NI28MBP_0101 2349621 2350510 ZH 嗯
+NI28MBP_0101 2352355 2359905 CS 反正 都 没有 女朋友  哎呀  no so it doesn't really bother me whether it clashes with 初一 or not
+NI28MBP_0101 2360495 2362095 EN yeah anyway
+NI28MBP_0101 2363465 2367528 EN for a few years ah i've been celebrating it alone if had
+NI28MBP_0101 2368045 2371975 CS valentines day 对 我 来说 it's like not even anything
+NI28MBP_0101 2372349 2377639 CS i mean of course it will be different ah 如果 我 有 女朋友 的话 but oh well i have been single so
+NI28MBP_0101 2378020 2379887 EN it doesn't make a difference to me
+NI28MBP_0101 2386715 2387781 EN yeah
+NI28MBP_0101 2388385 2393215 EN our hall the angel and mortal game so far my angel has written to me already
+NI28MBP_0101 2393874 2395134 CS but 我 觉得
+NI28MBP_0101 2395525 2398405 CS 我 这种 人 真的 有 一点 太懒惰 了 so
+NI28MBP_0101 2398715 2400145 EN it is only a like
+NI28MBP_0101 2401115 2403813 CS 几天 后 that i actually wrote back to
+NI28MBP_0101 2404445 2408795 EN well i hope she is not sad or angry about it 
+NI28MBP_0101 2411195 2418165 CS 只 可惜 的 是 this this time round the angel and mortal that we play is a bit different 就是 因为 我们 只有
+NI28MBP_0101 2418620 2425265 CS like 男生 只 可以 做 mortal and the girls can only be angels so i mean
+NI28MBP_0101 2425885 2432445 CS the versions that i heard of 都是 you can be both an angel and a mortal so it's a bit weird like
+NI28MBP_0101 2432711 2435715 EN yeah it's a bit lesser things to do for this
+NI28MBP_0101 2436168 2437718 EN but okay i mean
+NI28MBP_0101 2439173 2440505 EN hopefully
+NI28MBP_0101 2441209 2443616 EN even though it's like that but
+NI28MBP_0101 2444175 2449655 CS ii hope that at least 每个人 都会 put in effort to actually play the game well and
+NI28MBP_0101 2450145 2455165 CS do something special for each other 这样 才 会 比较 好玩  吗  if if not
+NI28MBP_0101 2456315 2458482 EN it defeats the purpose of the game ah
+NI28MBP_0101 2459015 2461083 EN if everyone just en
+NI28MBP_0101 2461664 2463990 EN can't be bothered so much about it yeah
+NI28MBP_0101 2473044 2475495 CS 今年  啊  my resolution
+NI28MBP_0101 2475755 2479585 CS 就是 考 好 成绩 哦 cause previous sem didn't do well
+NI28MBP_0101 2480860 2483510 EN while there is actually also to get a girlfriend 
+NI28MBP_0101 2485121 2487591 CS then (er) 也是 要 (呃)
+NI28MBP_0101 2490740 2494210 EN (en) okay ah actually not much ah
+NI28MBP_0101 2494423 2497410 CS 我的 我的 resolutions 也不 是 很多
+NI28MBP_0101 2497410 2498857 ZH 就 这样 而已 啦
+NI28MBP_0101 2509993 2511076 EN en
+NI28MBP_0101 2513238 2518016 CS on a daily basis now school days ah 我 我的 routine 就
+NI28MBP_0101 2518291 2520038 ZH 没有 什么 特别  啦 
+NI28MBP_0101 2520277 2524278 CS 有 空 就 跟 朋友 出去 哦 不然 的话 就 just stay at home
+NI28MBP_0101 2525328 2528998 CS (er) use the computer facebook 一下
+NI28MBP_0101 2529668 2531638 EN well i guess that's
+NI28MBP_0101 2532018 2535538 EN more of less the lifestyle you get out of a singaporean
+NI28MBP_0101 2536857 2538718 CS youngster 因为
+NI28MBP_0101 2539014 2539902 EN sin~ sin~
+NI28MBP_0101 2540398 2543120 EN in singapore there's not much you can do actually
+NI28MBP_0101 2543120 2544756 EN 
+NI28MBP_0101 2545581 2547871 EN yeah so plus it's like
+NI28MBP_0101 2548231 2550951 EN there's not many days you have that
+NI28MBP_0101 2551221 2553011 EN don't need to go to school so
+NI28MBP_0101 2553371 2556781 CS most of the time 就是 要 去 学校 读书 做 project
+NI28MBP_0101 2558346 2565221 EN (er) okay la it's actually kind of like more of like up to us how we want our lives to be
+NI28MBP_0101 2565221 2566421 EN so
+NI28MBP_0101 2566421 2568891 CS 如果 我 自己 不要 去 like
+NI28MBP_0101 2569201 2576111 CS 交 一些 交 一些 朋友 or what then i think life if life is boring is yourself to be blamed
+NI28MBP_0101 2576892 2577522 EN yeah
+NI28MBP_0101 2584771 2588155 CS toa payoh is a 老人区 confirm 
+NI28MBP_0101 2588571 2590601 EN it's boring i mean
+NI28MBP_0101 2590899 2595949 EN there there are not many people nowadays that i know of who also stay in toa payoh
+NI28MBP_0101 2596699 2599309 CS most of the time 就是 要
+NI28MBP_0101 2599809 2604969 CS 你 你 问 朋友 你 住 哪里 they'll they'll usually say places like hougang
+NI28MBP_0101 2605152 2606251 EN jurong
+NI28MBP_0101 2606790 2615550 CS i don't know tampines but 很少 会听 人家 讲 toa payoh so i've been quite used to travelling to school like alone that kind of thing
+NI28MBP_0101 2616287 2621050 CS plus i don't know 我 觉得 大巴瑶 真的 是 太多 老人家
+NI28MBP_0101 2621690 2625470 EN but okay i guess there's nothing wrong with that just that
+NI28MBP_0101 2627190 2630320 EN you may not have that many friends staying near you ah
+NI28MBP_0101 2630551 2631410 EN that's about it
+NI28MBP_0101 2638260 2639148 EN en
+NI28MBP_0101 2639550 2647100 CS even so i still feel that toa payoh 是 还是 一个 好的 地方 cause it's quite centralised
+NI28MBP_0101 2647680 2649990 CS wanna go to the east 或者 west
+NI28MBP_0101 2650340 2652669 EN also not that far oh
+NI28MBP_0101 2653950 2657530 CS 最 方便 就是 要 去 town then
+NI28MBP_0101 2657676 2658900 EN it's really very near
+NI28MBP_0101 2658900 2659330 ZH 只
+NI28MBP_0101 2659330 2661450 ZH 二十分 钟 一下 就可以 到
+NI28MBP_0101 2662080 2667693 EN so if you ask me i will choose not to move out of toa payoh la
+NI28MBP_0101 2668084 2669715 EN probably except if to
+NI28MBP_0101 2670119 2671169 EN if it's to
+NI28MBP_0101 2672639 2676060 EN somewhere near ah maybe bishan oh
+NI28MBP_0101 2676350 2679570 EN because bishan now there's the circle line and everything
+NI28MBP_0101 2680201 2685761 CS plus it's not far from where toa payoh was so 我 觉得 bishan is
+NI28MBP_0101 2685961 2689371 CS 也是 一个 满 好的 地方 may consider moving there
+NI28MBP_0101 2690089 2691704 EN but i mean
+NI28MBP_0101 2693271 2695881 CS i rather not move house actually 因为
+NI28MBP_0101 2696601 2698980 ZH 很麻烦 要 换 地址 之类 的
+NI28MBP_0101 2699610 2700143 EN so
+NI28MBP_0101 2701064 2703148 EN i'm happy at where i am now
+NI28MBP_0101 2715385 2716451 ZH 嗯哼
+NI28MBP_0101 2719213 2720598 EN it's a good thing
+NI28MBP_0101 2720598 2721468 EN of course

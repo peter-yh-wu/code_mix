@@ -1,0 +1,168 @@
+UI22MAZ_0101 8913 13392 CS master 的 research ah 嗯 现在 我 是 用
+UI22MAZ_0101 14308 18822 CS 啊 目前 为止 是 用 那个 在 一个 stage 是 啊
+UI22MAZ_0101 19696 25564 CS medical image lor then 我 有 已经 有 了 一个 basic 的 algorithm
+UI22MAZ_0101 25733 33805 CS but then 现在 还是 在 啊 define rede 一直 在 redefine 着 我 的 啊 contribution
+UI22MAZ_0101 34254 38506 CS 就是 讲 还 因为 太多 最近 很多 paper 刚刚 publish ah
+UI22MAZ_0101 38820 44381 CS 在 一零 年 咯 今年 很多 pa~ 同样 的 title fu~ 很 靠近 的 都 在 publish 了
+UI22MAZ_0101 44692 54876 CS 所以 就 要 看 他们 的 contribution 在 哪里 then 我 要 redefine 过 我 的 contribution 不然 等 下 他们 不 给 我 grad  啊
+UI22MAZ_0101 60350 70929 CS 嗯 so far 我的 medical image 我 主要 是 拿 来 test on brain ah brain segmentation in medical image brain segmentation or
+UI22MAZ_0101 71296 74686 CS 现在 我 还 有 一个 project 是 on osteosarcoma image lor
+UI22MAZ_0101 74794 76796 CS 所以 我 会 test on 这 两种 image lor
+UI22MAZ_0101 77248 87800 CS 就 end result 是 要 怎样 把 它 get 到 proper 的 segmentation lor ha  ah medical image segmentation
+UI22MAZ_0101 89408 94786 EN medical brain ah segmentation lor ha
+UI22MAZ_0101 96658 99620 CS  哦 什么 approach ah
+UI22MAZ_0101 100204 102413 ZH 啊 等 下 啊 刚才 讲 到 什么
+UI22MAZ_0101 102921 112891 CS 嗯 哦 还 有 一个 是 osteosarcoma 是 吗 你 讲  osteosarcoma 是 一个 我们 好像 小孩子 才 会 有 的 那种 骨癌 啊
+UI22MAZ_0101 113076 117363 CS 它 会 生 在 脚 的 地方 的 then 它 就 会 长 肿瘤 咯
+UI22MAZ_0101 117487 128390 CS then 我们 要 用 医生 平常 的 话 都 是 用 那种 啊 以 normal 的 m. r. i. image 来 analysis ah radiology 来 analysis
+UI22MAZ_0101 128677 134389 CS then 他们 就 会 比较 麻烦 是 很 难 identify 哪里 是 tumour
+UI22MAZ_0101 134542 135782 CS 他们都是 manually
+UI22MAZ_0101 136058 139688 CS then 我们 我现 在 的 project 是 要 把 他们
+UI22MAZ_0101 142785 150083 CS 现在 project 是 把 他们 啊 帮 他们 快 一点 地 identify 跟 segment 它 起 来 咯 就
+UI22MAZ_0101 150415 158506 CS 不会 讲 好像 因为 人 手 的 话 会 有 错误 的 而且 你 要 看 两百 多 张 image 的 话 是 会 比较 你 会 做 到 很 慢
+UI22MAZ_0101 158774 164954 CS 所以 用 algorithm 的 话 你 大概 是 五 到 十 分钟 里面 你 就 能 解决 全部 东西 了
+UI22MAZ_0101 165364 166992 CS 所以 就是 这种 image 咯
+UI22MAZ_0101 167479 179719 CS then so far 在 这个 area 好像 osteosarcoma 的 image 的 这个 area 里面 呢 就 很 少 人 做 这个 这个 东西 因为  没有 人 要 进 去 这个 area lah 是 不算 很大 的 case lah
+UI22MAZ_0101 184945 188669 CS 对 会 varies 所以 就  我 的
+UI22MAZ_0101 189046 192691 CS 我 的 algorithm 是 会 比较 generalise loh 就 是 比较 能 apply
+UI22MAZ_0101 193021 203105 CS not only for osteo lah 不是 讲 一定 很 perfect lah 就是 improve 在 这个 area 跟 另外 一个 image 也 会 有 improve lah 就是 不只 是 单单 osteo 罢了 啦
+UI22MAZ_0101 203797 206882 CS 啊我 是 比较 general 的 啦 不是 讲 太 specific 的
+UI22MAZ_0101 210789 214176 CS 因为 for for example medical image
+UI22MAZ_0101 214287 217389 CS 啊 你 brain 的 话 它 有 不同 的 要求
+UI22MAZ_0101 217491 220907 CS then 你 可以 你 的 algorithm 你 要 tu~ tune 它
+UI22MAZ_0101 221074 222691 CS capture 到 不同 的 东西
+UI22MAZ_0101 222810 226101 CS 因为 它 好像 有 shading ah 人家 讲 的 inhomogeneity
+UI22MAZ_0101 226322 233241 CS then 你 假如 你 用 gen~ 很 generalise 的 话 呢 你 不能 capture 到 那些 很 specific 的 东西 咯
+UI22MAZ_0101 233504 243632 CS 但是 你 会 比 假如 你 啊 只是 会 比 普通 那种 algorithm 会 比较 cap~ 比较 capture 到 比较 stable 的 东西 好像  你 不 会 capture 到 那些 奇怪 奇怪 的 noise lor
+UI22MAZ_0101 243963 248674 CS then for i~ 好像 compare with brain image 跟 osteosarcoma 的 话
+UI22MAZ_0101 248942 252765 CS 你 brain state ah 比较 stress on 那些
+UI22MAZ_0101 254052 256377 ZH  啊 比较 你
+UI22MAZ_0101 257245 259268 ZH 那种 怎样 讲 呢 嗯
+UI22MAZ_0101 262084 263515 ZH 啊 我 也 不会 解释 啊
+UI22MAZ_0101 263584 269424 CS 我 知道 了啊 osteosarcoma 它 是 你 的 number of eh ah clustering 不同 number of cluster 又 不同
+UI22MAZ_0101 269535 272794 CS then 它 的 你 可以 我们 又 analyse 它 的 texture 又 不同
+UI22MAZ_0101 273181 275955 CS 啊 是 这样 啦 then 其实 我 也 不是 很
+UI22MAZ_0101 276287 279610 CS 进出 进入 那个 osteo 的 里面 太多 啦 因为 主要 的
+UI22MAZ_0101 279897 282832 ZH 我 还是 跟 另外 一个 啊 是
+UI22MAZ_0101 283449 288874 CS 算 学生 也是 on the way 进来 做 他 要 做 p. h. d. 我们 跟 他 一起
+UI22MAZ_0101 289233 294954 CS 做 这种 东西 咯 then 我 也 不是 很 进去 那个 area ko la 只是 在
+UI22MAZ_0101 295074 297068 CS 看 着 那些 image 罢了 咯 只是
+UI22MAZ_0101 297883 304649 CS 啊 因为 好像 普通 的 image
+UI22MAZ_0101 304967 308038 CS 我们 讲 除了 medical image 跟 natural image
+UI22MAZ_0101 309450 318764 CS 我 是 觉 啊 它 的 觉 不同 的 是 inhomogeneity 会 比较 靠近 啊 for 那个 medical image
+UI22MAZ_0101 319071 320740 ZH 只能 这样 讲啊
+UI22MAZ_0101 324275 325317 ZH 啊 哈 哈
+UI22MAZ_0101 330021 331170 ZH 做 到 哪里 啊
+UI22MAZ_0101 332774 336217 CS 他 没有 specific 我 contribute 到 哪里 啦 但是 他
+UI22MAZ_0101 336436 341446 CS 他 intention 是 我 能 continue after 我 finish 这个 东西
+UI22MAZ_0101 341446 347750 CS 所以 就 我 define 一个 title 好 他 觉得 okay then 他 就 给 我 走
+UI22MAZ_0101 347861 350766 CS 但是 之前 我 有 suggest 了 几个 啦
+UI22MAZ_0101 350860 359245 CS 我 要 做 的 method 但是 他 觉得 因为 不够 contribution 而且 是 觉得 很 多 人 很 容易 overlap 你 的 东西 的 所以 他 不给 我 做
+UI22MAZ_0101 359503 364176 CS 只是 现在 看 到 一些 一个 algorithm 是蛮 okay 的 啦
+UI22MAZ_0101 364315 369470 CS 所以 就 用 它 的 then 再 加 我 的 那个 calculation 方法
+UI22MAZ_0101 373875 380739 CS 啊 contribution 因为 整个 整个 algorithm 里面 的 那个
+UI22MAZ_0101 381608 387157 CS 因为 还有 一个 formula objective function 嘛 then 我的 ob~ 我的 contribution 是 在 objective function 里面 一个
+UI22MAZ_0101 387408 396936 CS 啊 distance calculation 我 不要 用 它 的 原本 的 那种 traditional 的 distance calculation then 我 要 用 kernelise 它
+UI22MAZ_0101 397141 400282 CS then 而且 kernelise 已经 蛮 多 人 做 了 的
+UI22MAZ_0101 400425 404381 CS 所以 我 不 需要 找 另外 一种 kernelise function
+UI22MAZ_0101 404861 411896 CS 哈 我 的 contribution 是 在 kernelise 它 then 其它 的 都是 别人 已经 做过 了 的 只是 没有 人 把 它 hybrid 起 来
+UI22MAZ_0101 412130 416150 CS 我 把 它 hybrid 起 来 再 加 我 的 那个 kernel~ kernelise 它
+UI22MAZ_0101 416654 421675 CS 所以 theoretically 它 会 比较 improve lah
+UI22MAZ_0101 422226 424130 CS 啊 但是 还 没有 test 到 东西
+UI22MAZ_0101 428736 438255 CS 啊 so far 是 啊 就是 我 要 因为 我 是 我 要 做 在 ima~ medical image then 我 就 知道 medical image 这些 这些 一些 些
+UI22MAZ_0101 438429 443685 CS 它 的 麻烦 在 那里 所以 我 就 apply 我 的 algori~ 找 我 的 algorithm on 这些 image
+UI22MAZ_0101 444074 450187 CS 所以 这个 algorithm 不 一定 works on 其 no 那种 normal natural image
+UI22MAZ_0101 452087 452719 ZH 嗯
+UI22MAZ_0101 462482 464853 ZH 嗯 哼 是 咯 差不多 咯
+UI22MAZ_0101 465197 469838 CS  有 的 人 是 用 那种 好像 hidden markov 的 也 有
+UI22MAZ_0101 470106 477773 CS then 很 多 人 是 用 有 些 人 是 用 那种 region-based texture-based 啊 有 不同 不同 的 方式 啦
+UI22MAZ_0101 480267 490115 CS eh dep~ depends lah 最近 有 看 到 一些 papers 是 on h. m. m. 加 埋 fuzzy 的
+UI22MAZ_0101 490362 497545 CS 啊 那个 就 有 很大 的 有 很 improvement lah 因为 它 有 它 有 记 一些 hidden 的 relationship
+UI22MAZ_0101 497729 508048 CS 因为 只是 for fuzzy 的 话 它 只是 你 的 image 那边 的 information then hidden markov 的 话 你 又 有 加 了 其它 的 unknown 的 information
+UI22MAZ_0101 508363 521534 CS then 只是 我 我 不是 很 那种 明白 hidden markov 的 东西 所以 不 大要 不 大 想 要 cross over 过去 因为 自己 的 area 已经 搞 不 掂 了 不要 不要 过去 啦
+UI22MAZ_0101 524279 524800 ZH 啊
+UI22MAZ_0101 542537 544963 CS 怎样 derive 就是 讲
+UI22MAZ_0101 548460 549973 CS 哦 怎样 segment 它 起来 啊
+UI22MAZ_0101 550591 551703 ZH 你 的 意思 是 这样
+UI22MAZ_0101 552801 559732 CS basic 的 approach 它 只 是 啊 假如 是 最 basic 的 fuzzy c. mean 我 是 讲 clustering 的 话
+UI22MAZ_0101 559790 565865 CS 它 只是 con~ concentrate on 那个 intensity value
+UI22MAZ_0101 566479 570008 CS 然 它 就有 一些 我们 能 define 一些 cluster centre loh
+UI22MAZ_0101 570828 579407 CS number of cluster then 它 的 centre 在 哪里 then 它 就 check 每 一个 pixel 跟 它 的 dis centre 的 distance then 这样 calculate 它
+UI22MAZ_0101 579635 583072 CS then 就 每 一个的 iteration 它 update 那 centre 走 来 走 去 咯
+UI22MAZ_0101 583440 585483 CS then 到 最后 saturated 了
+UI22MAZ_0101 586275 591381 CS then 它 就 每 一个 pixel 都有 一个 relationship between 那个 cluster centre 跟 它
+UI22MAZ_0101 591563 596355 CS 所以 它 就会 啊 after that 假如 它 是 finish 它 的 iteration 了
+UI22MAZ_0101 596480 602282 CS 它 就 去 segmentation 的 part 就是 from 那个 pixel 它 的 relationship 是 maximum 的 话
+UI22MAZ_0101 602494 606606 CS between each other lah between 三个 好像 三个 cluster centre 的 话
+UI22MAZ_0101 606850 610173 CS 是 maximum 它 拿 那 maximum 那个 来 当作 它 的 segment
+UI22MAZ_0101 610271 611946 CS 就是 属于 那个 segment 的 咯
+UI22MAZ_0101 612513 615740 CS 所以 就 没有 shape 的 啦 没有 讲 一定 是 这个 shape 的
+UI22MAZ_0101 616360 618516 CS 你是 segment 过后 才 会 看 到 那个 shape
+UI22MAZ_0101 630100 639720 CS endeavour 会 会 他们 会 他们 会 放 下 去 啦 只是 还 不知道 会 放 在 哪 一些 area 啊
+UI22MAZ_0101 646488 652896 CS erm so far 我们 more on testing 比较 多 test 这个 d. c. m. lah dicom 的 dicom format lah
+UI22MAZ_0101 653417 661005 CS then eh 其实 any any type of image 都 可以 跑 只是 假如 要 跑 medical image 的 话 是 dicom format lor 主要 啦
+UI22MAZ_0101 661257 668389 CS then 我 还 因为 他们 那边 有 input 我 是 不知道 什么 东西 我 只是 他们 给 我 一 set image 我 就 这样 run lor
+UI22MAZ_0101 668591 675442 CS 因为 我 的 algorithm 是 support any images with 那个 intensity value 就 好 了 跟
+UI22MAZ_0101 678843 685847 CS 喔 那个 啊 那个 就 不 大 清楚 哦 我 知道 so far 能 跑 的 ready 了 的 有 两三 个
+UI22MAZ_0101 686215 693436 CS then on impe~ impe~ ah implementation 的话 就 还 在 走 着 因为 主要 有 是 那些 research work lor
+UI22MAZ_0101 693818 704946 CS 就 我们 现在 是 怎样 把 transform 所有 的 research into workable final product end product so that 你 的 research 不是 只是 放 在 那边 看 罢了
+UI22MAZ_0101 707891 710053 EN uh-huh huh
+UI22MAZ_0101 717865 724552 CS 唉 其实 也 不会 因为 我们 是 我们 主要 那个 是 我们 那个 software 它 其实 一个 是 一个 soft platform 来 的
+UI22MAZ_0101 725009 735879 CS then 你 只要 你 develop based on 你 做 一个 plu~ 你 是 一个 plugin 这样 咯 你 develop as a plugin then 你 anytime 你 要 plug 进来 就是 这样 放 进来 就 直跑 了
+UI22MAZ_0101 736240 747301 CS 主要 你 是 individual lor 你 自己 de~ 你 自己 develop 你 的 so~ 你 的 啊 algorithm 在 你 的 你 的 machine as a plugin lah 最 主要 是 一定 要 plugin lor
+UI22MAZ_0101 747736 751635 CS then 你 develop 好 你 有 自己 的 view 什么 你 的 interface 你 自己 design 好 好 lor
+UI22MAZ_0101 751966 757333 CS then 你 放 过 来 我们 的 啊 这个 inter ah platform 那边 就是 plugin then 就 是 可以 run 了
+UI22MAZ_0101 757806 760816 CS 只要 做 一些 minor setting 就 好 了 不会 很 麻烦 的
+UI22MAZ_0101 761512 768391 CS erm 它 的 主要 这个 software 它 的 好 的 地方 是 因为 它 能 anything 可以 plugin
+UI22MAZ_0101 769082 773236 CS 啊 不会 讲 要 做 一个 big modification ah 从 头 来 过 这样 不会
+UI22MAZ_0101 779876 783412 CS 嗯 现在 我们 是 用 java based on java
+UI22MAZ_0101 783894 793333 CS then 一些 algorithm 好像 有 些 p. h. d. 的 学生 他 会 因为 java 麻烦 嘛 你 写 algorithm 所以 他们 more on 会 用 在 matlab lor
+UI22MAZ_0101 793801 798086 CS then 需要 人手 去 把 它们 convert 进去 java
+UI22MAZ_0101 798474 803852 CS 不然 的 话 他们 就 要 用 compiler compile 进去 java based huh
+UI22MAZ_0101 809203 817481 CS program 跟 matlab ah matlab 是 要 lice~ matlab 的 license 就 很 贵啦 第一个 主要 的 then matlab 就 没有 那些 ready 的 algorithm
+UI22MAZ_0101 818033 824592 CS then 我们 的 software 是 可以 有 一些 preset 的 algorithm 就是 basic algorithm
+UI22MAZ_0101 824804 835332 CS then 跟 那些 specific 的 algorithm 就 好像 你 request 要 for certain 这种 illness 的 for 这种 images 的 then 我们 可以 rapidly develop 给你 啦
+UI22MAZ_0101 835527 843349 CS 就 可能 就 跟 你 discuss 了 可能 一两 个 月 这样 就 可以 ready 这个 software for specific 的 那些 illness lor
+UI22MAZ_0101 843986 848860 CS then 还有 就是 还有 enable 那些 online 的东西 咯 free ah 就是 不是 free
+UI22MAZ_0101 849160 854511 CS online 的 real time annotation ah 就是 communication 直接 讲
+UI22MAZ_0101 855170 860205 CS 呃 我们 有 这个 image then 我 不 明白 这个 image then 我 send 上去 我 开 一个 forum 这样
+UI22MAZ_0101 860363 862557 CS 全部 人 join 进来 discuss
+UI22MAZ_0101 863405 865425 CS 啊 就是 online 现场 咯
+UI22MAZ_0101 865883 871296 CS 等 下 你 你 在 那边 画 画 画 人家 跟 你 discuss 了 hor 等 下 你 就 知道 明白 这个 东西 是 什么 了
+UI22MAZ_0101 871497 876878 CS 能 够 现在 刚刚 啊 set up 了 那个 chat room 什么 咯
+UI22MAZ_0101 885030 905883 CS so far 我们 还 没有 开始 卖 ko lah 只是 我们 在 package up 我们 的 东西 因为 现在 上次 我们 只是 拿 去 比赛 拿去 apita for malaysia 的 啊 level 现在 要 准备 package up for 那个 international 的 for asia 的 for 就是 整个 asia 的
+UI22MAZ_0101 906443 913538 CS 所以 就 很 积极啦 全部 人 都在 那边 packing up then 还 要 给 医生 test out
+UI22MAZ_0101 913834 919299 CS 所以 可能 要 做 一个 pre launch lah 可能 是 free launching 那种 就 basic 的 东西
+UI22MAZ_0101 925516 935382 CS 嗯 so far 我们 有 给去 啊 那个 u. s. m. k. k. then 那边 有 几个 professor 有 用 开始 用 着 了
+UI22MAZ_0101 936065 940233 CS 啊 then 他们 有 一些 comment then 我们 回来 了 就 改 哦
+UI22MAZ_0101 945686 958662 CS 问题 问题 就是 bug lah bug 都 没有 办法 的 你 click 了这 些 run 不 到 那些 那是 就是 你 first stage 的 bet~ 没有 没 你 不是 beta version 的 话 很 多 问题 的 就 我们 回来 再 改
+UI22MAZ_0101 958832 962381 CS then algorithm base 就 algorithm wise 的 就 没有 问题
+UI22MAZ_0101 963035 969046 CS algorithm 就 能 跑 只是 可能 需要 一些 improvement so that accuracy 能 高 一点 咯 就 可能
+UI22MAZ_0101 969439 983650 CS 可能 他 给 我们一些 knowledge 因为 我们 也是 要 做 一些 knowledge tran~ trans~ 怎样 讲 啊 tacit knowledge to explicit knowledge ah 就是 他们 有些 医生 能 知道 他 是 知道 要 什么 但是 他 不能 讲 出来
+UI22MAZ_0101 983969 989002 CS then 我们 必须 要 跟 他 communicate 这样 能 拿 他 的 knowledge 变 成 写 成 program
+UI22MAZ_0101 989385 997628 CS then algorithm 就 能 比较 比较 强 一点 咯 比较 rule 加 一些 rules 下 去 给它 然后 它 就 比较 能 accurate 一点 咯
+UI22MAZ_0101 998187 1002723 CS 主要 是 这样 咯 都是 一直 在 modify 着 那些 algorithm
+UI22MAZ_0101 1012209 1014691 CS 啊 怎样 讲 呢 extra data
+UI22MAZ_0101 1017089 1018133 EN uh huh huh
+UI22MAZ_0101 1027161 1033396 CS 可以 啊 可以 啊 我们 可以 好像 啊 那个 医生 已经 identify 这个 area 有 一些 东西
+UI22MAZ_0101 1033706 1041499 CS 可能 有 这个 tumour then 他 叫 我们 algori~ 我们 可以 他 就 给 他 highlight 那些 area then 直接 run 那个 algorithm for 那个 area 罢了
+UI22MAZ_0101 1041886 1044205 CS 所以 它 就 会 那 就 会 更 accurate lah
+UI22MAZ_0101 1044595 1052911 CS 但是 那些 就是 需要 比较 expert 的 那种 医生 咯 因为 有 些~ 因为 有 些 医生 都 不 喜欢 learn 新 的 knowledge
+UI22MAZ_0101 1053510 1058560 CS 所以 他们 就 不 喜欢 去 click 来 click 去 他 就是 放 那 image 他 就 要 知道 那 result 了
+UI22MAZ_0101 1058841 1061210 CS 所以 我们 就 比较 automatic-based 的
+UI22MAZ_0101 1064513 1072300 CS 我们 是 在 e-health category lah apita in apita hah e-health category 的
+UI22MAZ_0101 1072835 1081834 CS 因为 previous year 我们 有 拿 一个 有 有 拿 过 去 比赛 但是 我们 进 错 category 进 到 software category 所以
+UI22MAZ_0101 1082031 1095065 CS software wise 呢 就 我们 的 software 就 比较 因为 developer 少 then 不能 这样 很 en~ enha~ 不是 那种 很 enhancement 很好 啊 人家 的 那种 software house 都 会 比较 好
+UI22MAZ_0101 1095517 1097128 CS 怎样 都 跟 我们 compete ah
+UI22MAZ_0101 1097435 1104050 CS then 今年 我们 就 focus on medical e-health lor 因为 我们 的 东西 都 是 在 medical mah
+UI22MAZ_0101 1105815 1116816 CS evaluate 什么 我 就 不大 清楚 咯 那个 area 因为 我 不是 在 那个 他们 的 discussion 里面 他们 没有 包括 我 我 只是 developer 啊
+UI22MAZ_0101 1122488 1123447 EN uh huh
+UI22MAZ_0101 1130838 1143035 CS 有 一个 algorithm 是 那个 senior 的 啦 在 在 miccai 那边 拿 到 一个 蛮高 的 怎样 讲哈
+UI22MAZ_0101 1143392 1150106 CS 他们 有 一个 比赛 是 怎样 去 segment 那个 头脑 的 一个 一些 病 啦 white matter lesion lah
+UI22MAZ_0101 1150416 1155365 CS then 他 拿 到 他的 result 是 全 世界 排名 的 话 是 排 第三 咯
+UI22MAZ_0101 1155579 1157704 CS result 从 好 到 坏啦
+UI22MAZ_0101 1158034 1165310 CS 啊 所以 就 比较 受 肯 承认 的 咯 而且 他 的 东西 已经 ready 了 的 就 可以 package up as a one of the product 这样 咯
+UI22MAZ_0101 1172140 1172901 ZH 嗯
+UI22MAZ_0101 1175327 1183399 CS 就是 standardised data lor standard data dataset then 你 讲 你 的 algorithm 强 但是 你 跑 你 自己 的 image 我 不能 承认
+UI22MAZ_0101 1183678 1187103 CS 我 有 一 set image 全部 人 跑 这样 的 then 全部 人 就 知道
+UI22MAZ_0101 1187740 1192620 CS 他 跑 了 你 的 result 拿 给 他 他 evaluate 全部 都 是 用 同样 evaluation 所以

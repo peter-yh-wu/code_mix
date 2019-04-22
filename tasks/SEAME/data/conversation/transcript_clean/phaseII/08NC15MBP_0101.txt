@@ -1,0 +1,431 @@
+08NC15MBP_0101 1898 4807 CS hello hello 可以
+08NC15MBP_0101 10442 11299 ZH 往下一点
+08NC15MBP_0101 21850 24439 CS 那个 wave 比较 慢 一点 啊
+08NC15MBP_0101 25034 25709 CS okay 可以
+08NC15MBP_0101 28384 29630 ZH 讲 多 一点 咯 可以
+08NC15MBP_0101 32227 33370 CS <unk> okay 可以
+08NC15MBP_0101 41128 43349 EN okay 
+08NC15MBP_0101 46028 56701 CS okay   他 跟 你 讲了 啊 就是 这样的 咯  都 跟你 讲 这是 这样了 啦 对不对
+08NC15MBP_0101 59142 62388 ZH 哦 对 咯 好 再 继续 再讲 咯
+08NC15MBP_0101 65249 67687 CS 你 要 那个 chocolate 你 刚才 吃的 那个 chocolate
+08NC15MBP_0101 69151 73384 CS 我 是 从 camp 那边 拿来的 自从 mark* 那时 拿来 了 之后
+08NC15MBP_0101 74319 88264 CS 一直 在 等 一直 在 找 他的 那个 现在 <unk> 找到 了 那个 牌子 找得 到 牌子 找不到 那个 flavor 找得 到 那个 flavor <unk> 三个 在一起 然后 就是 卖得 很贵 sibeh sien 去 哪里 买 啊 fair-price n. t. u. c. (呃) 在 jurong-point 那边
+08NC15MBP_0101 90582 91375 ZH 三块二
+08NC15MBP_0101 93610 98175 ZH 剩 很多 几粒 啊 你看 那个 罐 多大 你 就 知道了 啦
+08NC15MBP_0101 99032 99941 ZH 吃了 多少
+08NC15MBP_0101 102547 109610 ZH <unk> 有 几条 啊 里面 有 至少 也有 二 三十 条 吧 够我 二 三十 条
+08NC15MBP_0101 112441 121244 CS  一条 多少 啊 大概 about <unk> hm 三块二 吧
+08NC15MBP_0101 122236 125664 ZH 三块二 四十 一支八毛 诶 一支八分 吧
+08NC15MBP_0101 128442 130910 CS 差不多 一支一毛 啦 let's make it this way
+08NC15MBP_0101 133039 135714 CS but then 你要 想一下 它的 taste* 它的 taste* 蛮好的 嘞
+08NC15MBP_0101 136986 150220 CS  我 吃了 三天 了 嘞 今天 还剩 还 哈 不会 啊 就是很好吃 啊  一直在 想念 那个 味道 (呃) then 今天你要做什么
+08NC15MBP_0101 151181 151623 EN (em)
+08NC15MBP_0101 162919 163479 EN ah
+08NC15MBP_0101 167053 167598 EN where
+08NC15MBP_0101 169364 173961 CS 诶 <unk> 哦 yeah yeah 对 对 对 对 jurong-point 有 jurong-point 有 唉 忘记了
+08NC15MBP_0101 177414 183110 CS hm so 今天 就是 今天 只是 after that 就 直接 回家 了 啦
+08NC15MBP_0101 187526 192647 CS yeah 一样 一样 <unk> 等下 下午 去 sim-lim-square then after that 就回家了 啊
+08NC15MBP_0101 193914 201850 ZH 看看 东西 逛逛 东西 不会 买 啦 钱包 已经 开始 廋了 很多了 啊 
+08NC15MBP_0101 201850 206350 CS yes holiday holiday 想 要 去 apply for job but apply 不到
+08NC15MBP_0101 207495 210923 CS hah tuition 不懂 嘞 tuition 也是 好像 也是 没有 什么 好 lobang 这样的 嘞
+08NC15MBP_0101 212403 216930 CS 哈 我是 don't mind 给 啦 but 我 现在 很 有 空 that's the thing
+08NC15MBP_0101 218070 221570 CS 有 空 到 现在 在 想 要 做 什么 during the holidays
+08NC15MBP_0101 221570 226741 CS rather than to come here for 那个 <unk> 那个 <unk>
+08NC15MBP_0101 229286 233415 CS 我 只是 想 问他 嘞 他 已经 选到 人 了 吗 他 已经 选到 人 的话 then 我 可以 不要 去 嘛
+08NC15MBP_0101 233415 237311 CS 如果 不够 人的话 then 我 就去 啦 够人 的话 then 哈
+08NC15MBP_0101 238540 239740 CS maybe 很 像 围棋 啊
+08NC15MBP_0101 239770 242560 CS but 我 觉得 othello 很 像 比较 多 人 这样的 感觉
+08NC15MBP_0101 245510 248770 CS but then 我 不 不 太 会 玩 不 太 会 strategize
+08NC15MBP_0101 252455 255260 ZH 对 咯 他们 他们 都 不懂 几时 回来 他们
+08NC15MBP_0101 257635 260709 ZH 没有 讲 好东西 嘞 到 现在
+08NC15MBP_0101 260709 264630 CS but 你 要 想 一下 欸 是 明年 才 training eh 因为 明年 才 比赛 欸
+08NC15MBP_0101 265492 266219 EN er
+08NC15MBP_0101 267309 272737 ZH 没有了 啦 十一月 的 第一个 星期 还是 第二个 星期 吧
+08NC15MBP_0101 272737 277150 CS i think 是 right before school start hah 还不是一样 对啊
+08NC15MBP_0101 277150 279580 CS like at least 不是 十二月 三十 号 三十一 号 嘛
+08NC15MBP_0101 281831 295603 CS 对不对 你 跟他 讲你 这样 十二月 三十号 三十一号 你去 你 弄到来 你 三十一号 你 比赛到完 回来 更好 enjoy for new year 不是 有点 怪 then 你输 的话 then 你不是
+08NC15MBP_0101 299209 311284 CS 不用 看的 啦 你看 你看 <unk> 他们 在 做 什么 recruit other people haiz yes 振宏* 他 啊 我 没有 话 讲 啦 
+08NC15MBP_0101 312167 316530 CS haiyo hah 等下玩 dota ah
+08NC15MBP_0101 321313 322274 CS 玩 dota ah
+08NC15MBP_0101 323962 330390 CS (em) 所以 倒是 真的 but 我 那边 很多 东西 要 pack 一下
+08NC15MBP_0101 331649 335622 CS yes 没有 <unk> 那边 那些 lego 舍不得 拆
+08NC15MBP_0101 338297 339933 ZH 舍不得 拆 啊 
+08NC15MBP_0101 342001 350156 CS 不懂 嘞 拆了 之后 吼 我就 after that 就没有 拆* 了 我 现在 是 在 等 一个 好的 天气然后 就去 take photograph 了
+08NC15MBP_0101 351512 356278 ZH 还 没有 这几天 一直 在 下雨 嘞 这几天 起来 的 时候 天黑黑
+08NC15MBP_0101 357511 363180 CS 外面 咯 just <unk> 我们 外面 不是 有一个 <unk> 我 起来 的 时候 就 天黑黑
+08NC15MBP_0101 363180 367400 CS after that hor <unk> 下 下 下 下 到 完 已经 六点 了 我也 不用 去了
+08NC15MBP_0101 369228 369721 EN en
+08NC15MBP_0101 370760 375636 CS 差不多 有得- 有 这样 的 时间 吗 你的 east side 都 没有 这样 <unk> 诶 east side 也是 这样 对不对
+08NC15MBP_0101 380844 381416 EN why
+08NC15MBP_0101 384475 385228 EN why
+08NC15MBP_0101 385228 386838 ZH 怎么 这样 小声的
+08NC15MBP_0101 392603 398992 ZH 哈 哈哈 哈哈 哈 哈 哈 哈 哈
+08NC15MBP_0101 398992 405193 EN i think we do feel like we are wasting their precious resources ah
+08NC15MBP_0101 409112 412072 EN yeah hello 
+08NC15MBP_0101 413475 414747 ZH 一个 钟头
+08NC15MBP_0101 417941 447090 CS attempt to compose music as like by you although not every one can write song <unk> they can think that they like but through your input and perception of what you think will make a great music (er) 我有这种感觉 hor 出来的时候 哦 <unk> it is like 你把 the best of everything let say the best of the apples the best of the oranges the best of cucumbers 然后 after that 你 全部 lap 在一起 吼 然后 变成 一个 fruit juice
+08NC15MBP_0101 447090 465706 CS or the best of chillies okay let say example best of <unk>  and best of apples best of chillies best of oranges 然后 全部 加在 一起 然后 掺了 之后 make 一个 juice 然后 <unk> then 你来喝 i think this is what i mean then i think this is what they mean by number five cross over mutational replacement
+08NC15MBP_0101 467083 467602 EN hah
+08NC15MBP_0101 469342 470069 EN yes
+08NC15MBP_0101 476177 477345 EN no 
+08NC15MBP_0101 479241 479968 EN okay
+08NC15MBP_0101 483970 486430 CS 不是 你 frequency 是 你的 那个 amplitude
+08NC15MBP_0101 487837 490360 EN ah how loud yeah
+08NC15MBP_0101 490360 495549 CS 多 高 是 你的 loudness 然后 你的 wave 是 你的 frequency hah
+08NC15MBP_0101 508357 508746 EN yup
+08NC15MBP_0101 510642 511525 EN yeah <unk>
+08NC15MBP_0101 512148 512642 EN ah
+08NC15MBP_0101 513317 513784 EN yep
+08NC15MBP_0101 515005 515403 EN yep
+08NC15MBP_0101 520874 522510 EN hah the score is nothing
+08NC15MBP_0101 528903 529786 EN ah
+08NC15MBP_0101 530591 531266 EN okay
+08NC15MBP_0101 536044 537577 EN and nothing is weird*
+08NC15MBP_0101 551823 553174 EN four minutes and thirty three seconds
+08NC15MBP_0101 574405 580118 EN so the whole four minutes and thirty three seconds is to allow you to sit there and enjoy the natural sounds
+08NC15MBP_0101 581650 585935 EN made by yourself i think we do have of that enough of it 
+08NC15MBP_0101 587052 588376 EN 
+08NC15MBP_0101 590090 595466 EN pay money to listen to  it is like
+08NC15MBP_0101 597128 599080 EN it is like it is a bit
+08NC15MBP_0101 599080 603520 CS pointless 啦 你 会不会 有 一点 觉得 <unk> like how much is the entry fee
+08NC15MBP_0101 606799 610097 CS 没 twenty sing 应该 没有 这样 便- 没有 这样 便宜 吧
+08NC15MBP_0101 611800 613620 CS 你 懂 那个 game music live hor
+08NC15MBP_0101 613620 620518 CS 它的 second seat (呃) 我有去 yes 五月的时候 (呃) 在 indoor-stadium
+08NC15MBP_0101 624021 630410 EN who is playing ah one of the american (em) that (er) american composer ah if i am not wrong he is from
+08NC15MBP_0101 631371 635344 EN which orchestra n. u. s. wind* symphony yes
+08NC15MBP_0101 635344 636980 EN who
+08NC15MBP_0101 640304 640597 EN yep
+08NC15MBP_0101 645311 647232 EN okay yeah that is what i heard also
+08NC15MBP_0101 649985 651517 EN what else do they play ah
+08NC15MBP_0101 651517 683455 EN i know i know the square <unk> song they didn't play cause <unk> is all occupied by that one guy who supposely can play blind he plays final fantasy mario the whole of the stages from level one to level eight then after that yes then after that still got what (er) not exactly a lot lah i think i already forgotten of what they played but i remember they played from the <unk> call <unk> generation until now so it is like virtually anything you can think of maybe <unk>
+08NC15MBP_0101 686001 690052 EN yep they didn't played <unk> i think it is some other guy <unk> playing <unk> lah
+08NC15MBP_0101 693922 705088 EN no no it is there were a lot there were <unk> that there's two male one there is like piano guy the wind symphony the wind symphony yeah they take up the main of the stage lah yup <unk>
+08NC15MBP_0101 706464 707274 EN yes
+08NC15MBP_0101 708651 715505 EN then they played the full of the level one then the lev~ the part the one part of the level lah which is level one to level four
+08NC15MBP_0101 715505 732779 EN then until level two then <unk> play <unk> whole of the level hah then <unk> mario there is only two three distinctive levels ah yeah that that ah two three distinctive not <unk> (er) music that they make ah yeah <unk> he played all the way ah until the end
+08NC15MBP_0101 735819 740935 EN my second row of seat cost about eighty dollars eighty bucks
+08NC15MBP_0101 741714 764674 EN it is like it is like first row second row third row and forth row right the forth row is the the one <unk> at the side lah i look at it hah luckily i didn't get one eh no i think i didn't get the second row i got the third row the third row was seventy eighty dollars <unk> like first row second row right but just nice i was at i was at the third row the first of the third row of the seats so it is like mine is the first and then at the front there is the second lah
+08NC15MBP_0101 764674 785064 EN so at the last of the second lah so it is like um i am getting i am enjoy i am having that kind of experience lah it is like facing to them not too near that i can (er) i can en~ i can feel their saliva bursting onto me but far enough such that i can just enjoy the music as a whole without having to turn my head around like i don't know what lah
+08NC15MBP_0101 786641 789684 EN eight seventy plus dollars seventy plus
+08NC15MBP_0101 791502 792281 EN yes
+08NC15MBP_0101 793216 796047 EN <unk> was at the concert one i think about two of us <unk>
+08NC15MBP_0101 798254 806519 EN it started from eight thirty until it ends at about ten or eleven yeah then after that i went back to camp
+08NC15MBP_0101 807706 811004 EN <unk> but then that was a very very <unk>
+08NC15MBP_0101 811628 831390 CS <unk> 的 东西 cause 就 回去 camp 的 时候 去 外面 等 taxi is horrific experience man walao eh hah 很多人 不用紧 全部 都是 book book book book book book so it is like hor 我出去的时候 hor 诶 有 taxi hor 红色
+08NC15MBP_0101 831390 833030 CS 又有 taxi hor 又 红色
+08NC15MBP_0101 833400 837260 CS after that 我 走 到 哪里 啊 我 走 i think basically out of kallang
+08NC15MBP_0101 838359 845968 EN i think even worse than that i think <unk> the kallang stadium out of the kallang stadium there's still got another the the k.f. c. and all other stuff right i went there to take a cab
+08NC15MBP_0101 846747 853187 CS then 我是 like <unk> and i waited about one about waited about thirty minutes to forty minutes just to wait for the cab
+08NC15MBP_0101 853187 853584 EN hah
+08NC15MBP_0101 854460 860978 CS cause it is at night time <unk> 我 it is like the night time we end at about elev~ about ten thirty to eleven o'clock
+08NC15MBP_0101 861788 874832 EN then what they said (er) then usually you know the cab's practice ah they will wait until twelve o'clock then they will start their operation because it is the time whereby the night <unk> mid night charge starts
+08NC15MBP_0101 876434 900364 CS 很 sien 然后 那时候 等的 时候 等 all the way it seems like 十一点 晚 它是 在 十 十点半 十一点 晚 then after that hor 然后 我 要 回去 camp mah 十一点 要 回去 camp mah 然后 那时 是 要 哦 那时候 隔天 就是 要 回去 那边 了 <unk> 是去 n. d. p. after that 十一点 跟 他们 讲回去 camp <unk> 弄到来 hor 我 reach 到那边 真的 十二点半 我 还 差一点 不可以 进去
+08NC15MBP_0101 901382 905069 CS 差一点 不可以 进去 嘞 那边的 guard <unk>
+08NC15MBP_0101 910476 910891 EN yeah
+08NC15MBP_0101 914059 914475 EN (em)
+08NC15MBP_0101 918889 919513 EN yeah
+08NC15MBP_0101 923226 923564 EN en
+08NC15MBP_0101 924525 925096 EN ah
+08NC15MBP_0101 927433 929402 CS yeah alpha 的
+08NC15MBP_0101 929957 930451 EN ah
+08NC15MBP_0101 933307 934034 EN okay
+08NC15MBP_0101 939462 941305 EN  as expected
+08NC15MBP_0101 947849 949376 EN oh
+08NC15MBP_0101 955666 957956 EN still okay lah en
+08NC15MBP_0101 967201 969201 EN 
+08NC15MBP_0101 975641 976752 EN 
+08NC15MBP_0101 980367 980887 EN yeah
+08NC15MBP_0101 985176 989305 EN  of course
+08NC15MBP_0101 989305 992344 CS haiya 当然 啦
+08NC15MBP_0101 996057 999714 EN okay okay
+08NC15MBP_0101 1001770 1002342 EN yeah
+08NC15MBP_0101 1007618 1010890 EN  so he
+08NC15MBP_0101 1011721 1012319 EN hah
+08NC15MBP_0101 1014630 1015539 EN ha
+08NC15MBP_0101 1020057 1022732 EN ah hah hah he really did
+08NC15MBP_0101 1025459 1026648 EN <unk>
+08NC15MBP_0101 1034968 1037124 CS 那时候 we
+08NC15MBP_0101 1043849 1047142 CS yeah 我就 <unk> okay then
+08NC15MBP_0101 1053307 1054372 EN okay
+08NC15MBP_0101 1057332 1058501 EN  okay
+08NC15MBP_0101 1063227 1065045 EN  the knight rider brought down
+08NC15MBP_0101 1066343 1068499 EN but then you didn't get the rebate
+08NC15MBP_0101 1070030 1070900 CS 他 没有 给 rebate
+08NC15MBP_0101 1074970 1081348 EN and then <unk> jialat
+08NC15MBP_0101 1088006 1090390 EN yeah quite lah sort of lah quite lah
+08NC15MBP_0101 1090390 1092350 CS clarke-quay er 怎么 会 bus 会 broke down
+08NC15MBP_0101 1093875 1094732 EN it just broke down
+08NC15MBP_0101 1102086 1103151 EN who is the someone
+08NC15MBP_0101 1104475 1105114 EN 
+08NC15MBP_0101 1105800 1106267 EN yeah
+08NC15MBP_0101 1109643 1111591 EN because i am thinking of it this way
+08NC15MBP_0101 1112629 1116756 CS then after that after that 就是 就是 那个 志凯* 的 incident 了 啦 对不对
+08NC15MBP_0101 1118732 1120311 EN the yeah what happened to him hah
+08NC15MBP_0101 1124679 1125276 EN yeah
+08NC15MBP_0101 1129852 1130838 EN russell
+08NC15MBP_0101 1134318 1143570 CS <unk> 够搞笑一下 then i was i was thinking how come why how come why is that this thing why is that 志凯* this incident right i was like eh
+08NC15MBP_0101 1143570 1145760 CS 是在 new-zealand 啊 还是 是在 哪里
+08NC15MBP_0101 1147957 1154137 EN cause most cause most of the time say is that new-zealand where he got this nick name ah
+08NC15MBP_0101 1156448 1159045 CS 不会 the one who cannot <unk> the guy
+08NC15MBP_0101 1160344 1160837 ZH 哈
+08NC15MBP_0101 1165589 1168934 EN eh how how many cups 
+08NC15MBP_0101 1168934 1171770 EN two jars yeah two jars is quite a bit lah
+08NC15MBP_0101 1176112 1190213 CS 很死 嘞 actually if you drink alco~ if you drink beer right it is like for exten~ extended period of time right if let say you get drunk more easily then (er) then if you yeah if you drink alcohol
+08NC15MBP_0101 1192160 1193095 EN not exactly
+08NC15MBP_0101 1196004 1196803 EN yeah
+08NC15MBP_0101 1198268 1198761 EN um
+08NC15MBP_0101 1205331 1205721 EN eh
+08NC15MBP_0101 1207071 1207772 EN eh
+08NC15MBP_0101 1210317 1214000 EN  then he
+08NC15MBP_0101 1216732 1221536 EN  that so lah him 
+08NC15MBP_0101 1222865 1232430 CS 我 还 记得那 时 我 还 记得 那时 哦 对 那时候 animate festival all the way until eight thirty or nine thirty eight thirty nine thirty at suntec
+08NC15MBP_0101 1232430 1236650 CS 然后 我 等 taxi all the way until e~ eleven o'clock
+08NC15MBP_0101 1237110 1240280 CS 然后 after that 你 懂 那时 候 是 星期天 晚上 要 book in
+08NC15MBP_0101 1240330 1242940 CS it's like oh shit 十一点 了
+08NC15MBP_0101 1242940 1268985 CS this hah the worst i am still i am still at suntec 我在 那边 curse and swear leh 然后 after that <unk> 不是 suntec there is this area where there is a queue there is a a taxi stand right then the supposely more all the taxi should go should go pass should go into the taxi stand to yeah to to to get the taxi it is like heck care ah 我 直接 走 出去 外面 看到 一个 taxi 我就 直接 flag 了 咯 真的 他 是 差不多 要 走进去 里面 我 再 跟他 flag 大力一点 啊 after that 他就
+08NC15MBP_0101 1268985 1280448 CS 转出来 然后 就 问我 他 就问我 (er) 你 去哪里 诶 没有 不是 去 哪里 第一题 i think 他 第一个 问题 不是 问 我 去 哪里 回去 camp ah  不懂 啦 真的 <unk> hah
+08NC15MBP_0101 1281227 1285330 ZH 他 是 自己 的 那时 我 我 搭到 来 的 时候 都 已经 是 十点
+08NC15MBP_0101 1286836 1292752 ZH 诶不 不是 十点半 十一点 半 了 然后 到 那边 都 已经 十二点 多了
+08NC15MBP_0101 1294346 1294657 EN hah
+08NC15MBP_0101 1295385 1298890 CS 没有 啦 i think 那个 是 刚刚好 是 他 经过 他 要 进去 里面了
+08NC15MBP_0101 1299669 1301643 CS 在 suntec 外面 just
+08NC15MBP_0101 1303149 1303695 EN camp
+08NC15MBP_0101 1304266 1311920 ZH 哈 那时候 哈 多少钱 啊 大概 弄到来 有 二十多 吧 二十多 哦
+08NC15MBP_0101 1311920 1313240 CS hmm 二十 多 岁 还 okay
+08NC15MBP_0101 1313240 1327435 CS ah-ha 没有 everything all add up together  yeah but then 你懂最 sien 就是 哈 那时 刚刚好 我 打电话 过去 office 的时候是 <unk> 在听电话 wah piang eh <unk> of all people <unk> wah lan eh
+08NC15MBP_0101 1329071 1329616 ZH 哈
+08NC15MBP_0101 1331590 1333382 ZH 都没有 咯 就 <unk>
+08NC15MBP_0101 1337329 1339453 CS okay what <unk> okay what <unk> 是
+08NC15MBP_0101 1340372 1352266 CS (er) 怎么 这样 迟来 以后 不要 这样迟 哈 <unk> 那时候 都 已经 是  那时 anime festival 在 哪里 (er) 是九月 oh a. f. a. o. eh 九 是 九月  九月
+08NC15MBP_0101 1352759 1364674 CS <unk> sort of like <unk> 九月 十月 这样 啦 欸 <unk> 不 <unk> 十一月 十一月 十一月 都已经 是 差不多 已经 要 relax relax 了 那时候 every one like brother 了 啦 你们 都 已经 差不多 要 o. (er) 差不多 要 o. r. d. 了 那时候 对不对
+08NC15MBP_0101 1364674 1375746 CS 他 那时候 <unk> 还 okay leh after that wah <unk> kanlinma 还要 跟他 要 被 他 讲到 什么 啊  <unk> 还不会 嘞 surprisingly <unk> 只是 like 说 只是
+08NC15MBP_0101 1377798 1387895 CS 他 boliao 而已啦 but <unk> leh walan leh of all people leh 他 嘞 but okay lah he also he also know he also know he also didn't exactly care lah
+08NC15MBP_0101 1393176 1396734 CS <unk> will care lah <unk> 也是不会动我们的 seriously
+08NC15MBP_0101 1399746 1406259 CS sort of hamji lah after that 我们 又是 laojiao 他们 是 sort sort of like 你 也 知道的 啦 laojiao 他们
+08NC15MBP_0101 1407734 1421539 EN yes you got the feeling always get the feeling right whenever the whenever <unk> the group comes in then after that they ask you some questions the is like um  then is like <unk> you have that <unk> superior~ superiority ah no lah
+08NC15MBP_0101 1423279 1426213 EN  yeah lah 
+08NC15MBP_0101 1427304 1439972 CS  even the <unk> 也 even the <unk> also even the <unk> also 诶 哦 对 我 哦 对 我 记得 有一次 做 那时 哦 那时 我做 c. o. s. 的时候 哇 sipeh 搞笑
+08NC15MBP_0101 1441358 1457064 CS 做 c. o. s. 然后 他们 刚好 第一次 进来 嘛 然后 刚好 又是 他们 那些 其他人 都去 exercise during december 然后 我去 然后 after that ho 我 在 那边 做 做 做 到 一半 的时候 他们 就拿 那个 monopoly 过去玩 在 office 玩 i was like um eh
+08NC15MBP_0101 1457064 1477273 CS 他 就 问我 诶 你 要不要 去 你 要不要 来玩 <unk> i don't mind lah <unk> nothing to do also 我就 play 咯 play play play play 到一半 then 就给 <unk> 讲了  ha 诶他经过 嘛 诶 <unk> (er) 我 on the <unk> on the big board* day light and you are playing monopoly what if r. s. m. comes in 
+08NC15MBP_0101 1482944 1500597 EN not exactly he just told us to go to the back go to the back and then after that call me to do my job full stop nothing else  but i think he got a bit () pissed off lah ah lah it is like we are not listening to him lah and then me being a c. o. s. playing with the <unk> is like a bit yeah lah
+08NC15MBP_0101 1503251 1513904 EN <unk>  i was like i think during december ma when they were not when they were not going to the exercise lah not exercise personnel eh 
+08NC15MBP_0101 1515254 1515799 EN morning
+08NC15MBP_0101 1516734 1525013 CS that is the worst thing 他们 在 那边玩 嘛 然后我 我 <unk> 第一次 做 又 不懂 要 做什么 <unk> okay lor 我就 join 你们去玩 咯
+08NC15MBP_0101 1527459 1543850 CS i don't know lah  those were the days oh 对 我 记得 我 有一次 哦 我最 dulan 那些 搭 taxi 的 时候 就是 那个 (er) 那个 games life music 那时 要回去 book in 的时候 对 就是 那个 的时候 我最 dulan 那时候 我第- 我 那时候 就开始 dulan taxi driver ah
+08NC15MBP_0101 1546239 1547226 EN games music live
+08NC15MBP_0101 1548836 1549460 ZH 哦
+08NC15MBP_0101 1552446 1556388 EN no i don't think it is m. g. l. games music live yes
+08NC15MBP_0101 1558605 1559644 EN <unk> still have the ticket
+08NC15MBP_0101 1560579 1567430 CS with me but then 你 know 那时候 是我最 dulan 那时候 是 开始 我才 dulan 那个 taxi driver 你 懂 为什么 吗
+08NC15MBP_0101 1567430 1568780 CS 等 啊 终于 等到 taxi 了
+08NC15MBP_0101 1568780 1590981 CS after that zoo~ 走过 after that 他不要走 p. i. e. 他 all the way 走 小路 all the way 到 i think 到 a. y. e 那边 那个 region a. y. e. region leh it is like 他在 <unk> after that 他 就跟 我拉一个 u. turn 回去到 k. j. e. 然后 再下去  it is like wah fuck 你是会 <unk> yes
+08NC15MBP_0101 1592721 1606855 CS yes but for goodness sake they are going from a. y. e. a. y. e. here then after that a. y. e. 了 u. turn back to p. i. e. then after that go up to k. j. e. where krani where that is kallang right where if you turn left right
+08NC15MBP_0101 1607554 1622467 CS you need to no <unk> head to <unk> you head straight to p. i. e. then you go back you go to my camp yeah i was like wah piang weh eh 我的 ride 才 只是 二十 我的 ride 才只是多少 而已我的 ride 才 只是 最多 二十块 而已 你 跟我 拉到三十出
+08NC15MBP_0101 1626615 1643084 CS 哈 那时候 我 叫 他 停在 yew-tee yew-tee mal- yew-tee-mall 那边 因为 我 想要 拿 我 想要 提钱 咦 还有二十多块 啦 应该够 啦 yes 然后 他 不用紧 嘞 他还 他等 他 真的 在 那边 等 嘞 他 还把 那个 me~ 他 还是 放住 在 meter 在那边跑 在那边
+08NC15MBP_0101 1643734 1647895 CS 因为 我在 我 要去 提钱 嘛 还他钱 嘛 it is like
+08NC15MBP_0101 1649218 1677271 CS 他妈的 你 给 我 二十 你 给 我 三十多块 算了 啦 i think 不用紧 不用紧 我 自己去 我 自己去 我 真的 那时候 是 sipeh dulan ah 他 那时候 还 跟我 他 那时候 问 我 说 诶 你 你 又不是 讲说 你要 回去 camp <unk> 啊 不用紧 啦 随便 啦 给你钱 啦 after that 就走了 我看到那个 price 三十五 呵 what the fuck it is like 我 那时候 搭 的 时候 我 还不用紧 我还有 <unk> i i have the i have the assurance that i will reach beyond twelve o'clock
+08NC15MBP_0101 1679269 1683502 EN usually twelve thirty by then he he shows how long he took the road ah
+08NC15MBP_0101 1685761 1687631 CS 我是 like um i think
+08NC15MBP_0101 1692279 1702180 CS no he can go through those small roads then after that go down then after that 我在想 不用紧 啦 i think i leave it to him first 啦 because i think he i think he has missed that p. i. e. turn
+08NC15MBP_0101 1706118 1719482 EN even even there is no p. i. e. he should have other roads to go <unk> through the p. i. e. road rather than through a. y. e. all the way to the west to make a u. turn back to north-west right <unk>
+08NC15MBP_0101 1725195 1735328 CS provided you are at kallang so you have to go through k. p. e. first before you can go through s. l. before you can go (er) kallang-payar-lebar-expressway 的 underneath yeah yes but pa-
+08NC15MBP_0101 1736990 1751998 EN ah no seventy k. but then the thing is that that time the stretch* where the stretch* from p. i. e. to s. l. e. has not been eh no no no which stretch* oh the stretch from p. i. e. to s. l. e. has not been has not been done so is
+08NC15MBP_0101 1754752 1757016 EN to west side the east side the east side p.
+08NC15MBP_0101 1758029 1760964 EN eh oh <unk> not s. l. e. t. p. e. t. p. e. t. p. e.
+08NC15MBP_0101 1764859 1765768 EN <unk>
+08NC15MBP_0101 1769170 1769635 EN ah-ha
+08NC15MBP_0101 1771767 1775818 EN hu oh yeah never thought of that
+08NC15MBP_0101 1779230 1779749 EN yes
+08NC15MBP_0101 1781671 1787455 EN ah you have you ever seen taxi driver reach hundred and forty hundred and sixty
+08NC15MBP_0101 1791201 1818811 CS um taxi 我 那时 坐一个 merz 的 哇 欸 <unk> 真的 是 好玩 嘞 <unk> 那个 我从 woodlands 搭回来到 tampines so it is like usually the price is at about twenty three twenty four dollars <unk> night charge lah he drove so fast i think at at the same time lah twelve o'clock 搭 然后 到那边 <unk> he drove so fast that ho usually it is like twenty two twenty three dollars he reach by the time i reach my home extended distance i only paid nineteen dollars
+08NC15MBP_0101 1819382 1823724 EN  i paid less when he travelled when he travelled faster yeah
+08NC15MBP_0101 1825334 1838490 CS most probably lah because it is like woodlands then after that <unk> 怎么 要 去到 tampines (er)  then okay lah i was lucky that time hah i got a merz cab ah because it is like
+08NC15MBP_0101 1838490 1843370 CS 百 四百 五百 四百 五 然后 after that 有 一 两个 stretch 百 八百 九
+08NC15MBP_0101 1844062 1848450 ZH 呵 你说他的
+08NC15MBP_0101 1848450 1853660 CS starting price 比较 贵 starting price (er) normal cab 是 两 块 八 它的 是 三 块 二
+08NC15MBP_0101 1853660 1855333 CS 他的 rate 是一样的
+08NC15MBP_0101 1858553 1862530 EN (em) fourty cents difference ma as well take the forty cents lah right
+08NC15MBP_0101 1862530 1865980 CS yeah lah 而且 又 可以 起* 又 可以 驾 的 快 if he wants to
+08NC15MBP_0101 1865980 1873450 EN he can he already see him already see him pushing all the way to hundred and eighty on that on that on that t. p. e. straight road lah
+08NC15MBP_0101 1874281 1888103 EN yeah t. p. e. can push s. l. e. i think he didn't because (er) he might he was thinking hah i might complaint after that he saw me it is like hm okay lah nothing right okay nothing right he reach hundred and twenty he is a old man
+08NC15MBP_0101 1890101 1894204 CS 诶 就是 就是 old 就是 那种 middle age 那种 middle age 的 啊
+08NC15MBP_0101 1895113 1901230 CS 四十多 五十多 的就是 <unk> this age group that they will rush ah er
+08NC15MBP_0101 1901230 1905270 CS then after that 那些 老 那个 老 的 就 老 的 是 standard hundred and thirty all the way
+08NC15MBP_0101 1905270 1918010 CS 他们 不会 快 也不会 慢 啊 i think they already got used to that speed then after that (er) 年 比较 middle age 的 就会 reach (er) hundred and fifty eh hundred and thirty 然后 有些 时候
+08NC15MBP_0101 1918010 1919690 CS 没有 车 的 时候 就是 all the way
+08NC15MBP_0101 1919990 1924680 CS then after that 那些 比较 年轻 的 就 不会 他们 就会 九十九 十九 十
+08NC15MBP_0101 1924680 1927320 ZH 然后 有些 时候
+08NC15MBP_0101 1927320 1931990 CS 迟到 for camp 然后 搭 taxi eh 也是 迟到 for school 这 搭 一个 taxi
+08NC15MBP_0101 1931990 1949208 CS strict ninety kilometer an hour wo strict ninety cliq in a merz i was like wah 很久 嘞 哇 piang eh 可以 踩 快一点 吗 我 有一点 迟到 的 感觉 嘞 i was like <unk> merz
+08NC15MBP_0101 1950143 1950948 ZH 嗯 我
+08NC15MBP_0101 1953077 1961620 EN hm i know it is very flexible but i see him quite young it doesn't and i see he is the type he won't rush it don't think so it is like
+08NC15MBP_0101 1961620 1965790 CS i think 如果 我 跟他讲 啊 我 诶 有 一点 赶 时间 你 可以 快 点 吗
+08NC15MBP_0101 1965790 1969079 CS 不可以 啦 ninety cliq lah 你要我 license ohkong ah
+08NC15MBP_0101 1969079 1971910 CS 算了 咯 okay lor sien lah 算了 啦 啊 <unk>
+08NC15MBP_0101 1973857 1993945 EN after that aiya i remember there was once <unk> i think i wore jeans then after that i wore slippers then i wore something like this first thing first i went into the (er) first thing <unk> there is a there is a merz cab so i wait i waited for it then after that i sat into it oh first thing he asks (er) first thing first <unk> he ask where i go first then after that
+08NC15MBP_0101 1993945 1996273 CS he asks me 诶 你 是 中国来的 啊
+08NC15MBP_0101 1996273 2001340 EN  eh the hah
+08NC15MBP_0101 2001340 2005920 CS i think fort~ yeah forty years 新加坡 人
+08NC15MBP_0101 2005920 2013807 EN ah that is like the thing the first thing he saw <unk> the first thing i think he know i think he asks like i think it was because i told him i wanted to go n. t. u.
+08NC15MBP_0101 2014820 2020143 CS ah that is like 看 我的 穿着 这样 <unk> jeans 那个 时候 我 穿一个 jeans
+08NC15MBP_0101 2020845 2035791 CS <unk> full jeans then after that 穿一个 slipper it is like 那时候 我 全部 的 鞋 都 已经 在 我的 hostel 然后 <unk> shit ah no shoes man how am i supposed to go out there ah 然后我 就 穿一个 slipper lor wah sipeh 怪 咯 穿一个 slipper 穿一个  long wah after that
+08NC15MBP_0101 2036617 2038565 EN it seriously lah it is like okay i
+08NC15MBP_0101 2039214 2046018 CS wah shit ah 这样 走路 好像 有点 怪怪 这样的 嘞 搭一个 taxi 就 被 他酸 了 <unk> eh you look like eh what
+08NC15MBP_0101 2052126 2055520 EN 
+08NC15MBP_0101 2055520 2056830 CS 听 他的 accent 不 象 啊
+08NC15MBP_0101 2058170 2061310 CS 没有 听 他的 accent 不 象 外国人 ah local lah
+08NC15MBP_0101 2068434 2069077 EN eh
+08NC15MBP_0101 2069077 2073403 EN kana kua kana buei hiao tia ah hah angmo leh
+08NC15MBP_0101 2074801 2096578 CS 没有 啦 i think that is even cause is even though <unk> those guys from those guys from china even if they speak the same dialect as us they also have the different variance yes i tried before cause that time my poly friend cause she said she she was teochew same as me then i tried to converse with her in teochew yes
+08NC15MBP_0101 2096578 2098334 EN i give up 
+08NC15MBP_0101 2099918 2100909 EN i am teochew
+08NC15MBP_0101 2101814 2106826 EN yes (er)  not that as fluent not that as fluent lah
+08NC15MBP_0101 2108046 2111682 CS it is like you want (er) 真的要讲 啊
+08NC15MBP_0101 2115239 2116538 EN oh yeah ehsai ah
+08NC15MBP_0101 2117706 2118615 EN buehsai ah
+08NC15MBP_0101 2120672 2124074 EN that is also teochew ehsai buehsai
+08NC15MBP_0101 2125814 2128415 EN buehsai lah mai ta lah aiya
+08NC15MBP_0101 2130306 2133500 EN aiker toilet <unk>
+08NC15MBP_0101 2134539 2139369 CS  <unk> toilet 是 什么 啊
+08NC15MBP_0101 2140686 2144724 ZH bo lah 我就只 我 就 直接 直接 这样 我 就 直接 这样 直接 这样讲 我 要 做 什么 了
+08NC15MBP_0101 2145711 2146801 ZH  我很 
+08NC15MBP_0101 2148639 2149840 EN eh wa ai ker
+08NC15MBP_0101 2150567 2153791 CS wa ai ker i want to go 我要去
+08NC15MBP_0101 2157007 2171533 CS 那时候 我 直接 这样 我 好像 是 啊 just speak straight to the point lah like what i want to do lah wa ai ker   do my number my my number one and my number two lah yeah 
+08NC15MBP_0101 2172442 2172806 EN yeah
+08NC15MBP_0101 2174909 2175688 EN  yeah
+08NC15MBP_0101 2177584 2179453 EN <unk> er 
+08NC15MBP_0101 2186521 2189645 EN  in french ah
+08NC15MBP_0101 2190735 2191436 EN yeah
+08NC15MBP_0101 2193670 2194215 EN ah-ha
+08NC15MBP_0101 2197617 2199766 EN it is like then after that what they what they say
+08NC15MBP_0101 2206730 2207509 EN french
+08NC15MBP_0101 2220051 2220649 EN yes
+08NC15MBP_0101 2229515 2230658 EN er no
+08NC15MBP_0101 2236059 2236683 EN yeah
+08NC15MBP_0101 2237981 2238422 EN yeah
+08NC15MBP_0101 2242759 2243331 EN er
+08NC15MBP_0101 2245798 2246265 EN hah
+08NC15MBP_0101 2249464 2250830 EN 
+08NC15MBP_0101 2254450 2254944 EN ah
+08NC15MBP_0101 2256346 2256839 EN um
+08NC15MBP_0101 2263331 2264292 EN yeah yeah
+08NC15MBP_0101 2267357 2271194 CS laugh ah  laugh* good day yeah 对 okay
+08NC15MBP_0101 2275256 2275801 EN er
+08NC15MBP_0101 2278398 2279593 EN 
+08NC15MBP_0101 2281021 2284786 EN 
+08NC15MBP_0101 2287617 2289123 EN  er
+08NC15MBP_0101 2295719 2297246 EN <unk> 
+08NC15MBP_0101 2298607 2299074 EN er
+08NC15MBP_0101 2299775 2300243 EN er
+08NC15MBP_0101 2305566 2315149 EN 
+08NC15MBP_0101 2317114 2318153 EN 
+08NC15MBP_0101 2320022 2324933 EN it is french <unk> but (er) (er)(er) sounds like
+08NC15MBP_0101 2327371 2332981 EN <unk> yeah to  to some person it is like sounds a bit weird 
+08NC15MBP_0101 2344853 2348492 EN  okay okay okay
+08NC15MBP_0101 2349657 2352436 EN yes she is more of a traditionist
+08NC15MBP_0101 2355578 2360279 EN that is like out of all sudden 
+08NC15MBP_0101 2364763 2366554 EN you said you want to talk about computer right
+08NC15MBP_0101 2369385 2370268 EN the speaker
+08NC15MBP_0101 2370891 2373609 EN yes 
+08NC15MBP_0101 2375617 2377617 EN really good is it good
+08NC15MBP_0101 2380811 2382499 EN you got it as a present or you brought it
+08NC15MBP_0101 2385953 2388555 EN hah 
+08NC15MBP_0101 2390373 2391766 EN forty dollars
+08NC15MBP_0101 2397670 2403617 EN you you heard it just now yes so quite okay but then don't expect a lot lah from this lah
+08NC15MBP_0101 2405244 2417324 EN one piece one small little piece of something like this yeah eh your your are you planning for your next semester course or are you still
+08NC15MBP_0101 2418410 2429655 EN because no no no i mean because you i already received a letter stating that i need to plan for my next for my courses next year it is like how to plan for plan for my timetable next year already so you
+08NC15MBP_0101 2430953 2432148 EN still no still no news
+08NC15MBP_0101 2434758 2445816 EN <unk> i mean you have a those alo~ allocated courses then after that it is up to you to decide on your timetable on the timetable on what time on when you want to yes ah
+08NC15MBP_0101 2450746 2452304 EN the location of timetable ah
+08NC15MBP_0101 2457061 2463246 EN but you can you can allocate such in such a way that monday to wednesday all full day then after that thursday and friday no
+08NC15MBP_0101 2473500 2483151 EN but you can push it in such a way that if let say this professor is going to have a lecture at this five days right (er) definitely <unk> five days right
+08NC15MBP_0101 2488475 2492933 EN one lecture per week oh so it is like there is only one lecture class only ah <unk>
+08NC15MBP_0101 2518370 2519764 EN 
+08NC15MBP_0101 2519764 2548011 EN my i cause i already received a letter stating that i can plan for my timetable but the way i see it is like wah it is a bit hard to plan for the timetable ah it is like every time i try to pick something it is always clashes with some other things it is like let say this course a and course b i try to push everything to monday it is like cannot cause it is like always it is like always either either the timetable clashes or when i see the examination timetable the examination timetable clashes
+08NC15MBP_0101 2548011 2551340 EN it is like oh shit what am i suppose to do i
+08NC15MBP_0101 2554586 2555339 EN yes
+08NC15MBP_0101 2555963 2556560 EN yes
+08NC15MBP_0101 2558793 2567908 EN (er) prerequis~ so this is like yeah when you have a prerequis~ lah so if i let say you have cleared everything right then you can take your next year course lah no one stopping you from doing anything
+08NC15MBP_0101 2570998 2571855 EN yes
+08NC15MBP_0101 2579396 2580201 EN yep
+08NC15MBP_0101 2581655 2603396 EN (er) sort of ah you have to see what kind of advantage you are holding onto it lah cause it is it could be the year three <unk> usually you will be not be the case whereby you will be taking year two subject at year three unless you fail that subject lah cause most of the most of the subject that we have in year three and year four are prerequis~ lah so it is like so
+08NC15MBP_0101 2604445 2615920 EN yes you need your foundation first before you build up your bricks so most of our courses you need some foundation first lah otherwise you cannot continue on that is the thing lah
+08NC15MBP_0101 2645449 2648410 EN the thing is depending on on the subject itself lah
+08NC15MBP_0101 2651863 2660310 EN but if let say you have at least you have you have some friends you know that are taking this subject that you can ask them question on
+08NC15MBP_0101 2661165 2668047 EN so even it is correct or wrong you have advices rather than having no advices at all that eh is it correct or is it wrong
+08NC15MBP_0101 2669164 2669865 EN yes
+08NC15MBP_0101 2670890 2678564 EN it is like you are taking year three subject at year two then everyone is from year three then you do not know anyone from year three or something like that lah
+08NC15MBP_0101 2681924 2687037 EN super lost i will just say you just be there doing nothing lah
+08NC15MBP_0101 2691970 2694462 EN oh they most probably are analogue lah yeah
+08NC15MBP_0101 2697942 2699013 EN sadly no
+08NC15MBP_0101 2700720 2706009 EN yes cause all have been configured to accept input from signal five and signal six
+08NC15MBP_0101 2708061 2708944 ZH 就是这样
+08NC15MBP_0101 2712940 2720010 CS 你 i think 你 不要 换 啦 要不然 的话 如果 你 停 的话 hor 就是 forty five minutes worth of yes
+08NC15MBP_0101 2724756 2727016 EN (er) basically we just stop the whole thing lor then after
+08NC15MBP_0101 2729898 2730492 EN zai lor
+08NC15MBP_0101 2732313 2738078 EN i don't mind   you think that fifteen dollars and then after that destroying their data
+08NC15MBP_0101 2742207 2743921 EN yeah everything is recorded now
+08NC15MBP_0101 2745947 2750756 EN yeah but <unk> they won't record it somewhere in some other places
+08NC15MBP_0101 2753820 2754288 EN then
+08NC15MBP_0101 2759793 2762130 EN cannot already  siao already
+08NC15MBP_0101 2763870 2767920 EN  what are you ah how is your holiday plan gonna be like
+08NC15MBP_0101 2777638 2778804 ZH hmm 怎么 会 这样
+08NC15MBP_0101 2780651 2792544 CS yes yesterday <unk> didn't go same lah i as i (er) oh yeah <unk> sien 掉 and in the end one two three four five people go
+08NC15MBP_0101 2795432 2802596 EN yeah lah quite good lah it is quite okay already but then the thing is (er) supposely there was about then people eleven people going 
+08NC15MBP_0101 2803976 2806521 EN yes then after that 
+08NC15MBP_0101 2807845 2850648 EN (er) by the time we reach there it is already raining  <unk> is like we waited until eleven before the rain stops then we started to go play volley ball and all those stuff then after that we were because another batch of our friends will be covering during the afternoon they say they will be covering in the afternoon but then it is raining so they can't come so then after that once we <unk> we waited until four o'clock then the rain ends then after that we go out eh we told them we will be waiting for we will be waiting for them there at (er) vivocity cause instead of them coming in cause if they come in they will also have nothing to do cause we will be going out also
+08NC15MBP_0101 2851145 2863390 EN after that we told them to wait there from four o'clock to six o'clock cause we  cause it is like we we told them we will be there we will be there about thirty minutes time then after that six o'clock then they came and call us eh
+08NC15MBP_0101 2863390 2868200 CS 你们 还在 哪里 啊 啊 我们 还在 sentosa hah 你们 还在 sentosa 啊 欸
+08NC15MBP_0101 2868200 2883190 CS <unk> 啊 你们 现在来 啊 哦 shit <unk> 我们 在 那边  seizuo 我们 给 他们等 给 他们等 在 那边 等 两个 钟头 了 死掉 了 <unk> that 我 <unk> william this is like william <unk>
+08NC15MBP_0101 2883190 2884440 CS 怎样 要 take picture 吗
+08NC15MBP_0101 2884440 2887074 EN after that everyone goes down and then <ppo> they <unk> all the way
+08NC15MBP_0101 2888640 2897947 EN funny sia that time it is like four o'clock we were supposed to reach vivocity at four then after that we only reached there about six thirty
+08NC15MBP_0101 2900040 2903857 EN no reach vivocity to go back go back already yeah
+08NC15MBP_0101 2904818 2907259 EN cause it is already raining it was already raining like
+08NC15MBP_0101 2908584 2910427 EN yes that is the that is the
+08NC15MBP_0101 2915886 2916613 EN yes
+08NC15MBP_0101 2917626 2926543 EN i also have i also have one one concert i will be going that is anime concert lah  japanese singer
+08NC15MBP_0101 2929182 2930636 EN it is at national-library
+08NC15MBP_0101 2933622 2934375 EN one of the floor
+08NC15MBP_0101 2935030 2937730 EN it is sort of a drama drama theatre drama theatre
+08NC15MBP_0101 2939912 2948985 EN yeah quite big lah i don't know i never see cause like the time oh it was a cos~ it is a cosplay event it is at twenty six this month
+08NC15MBP_0101 2955403 2956467 EN yeah should be lah
+08NC15MBP_0101 2957532 2960752 EN supposely lah yeah i paid sixty dollars for that
+08NC15MBP_0101 2962674 2963406 EN i don't mind
+08NC15MBP_0101 2965328 2967899 EN i mean getting a person <unk>
+08NC15MBP_0101 2969327 2977166 EN (er) it is a no it is not anime it is like a  sing  <unk> or voice actress lah but then she also be singing down there 
+08NC15MBP_0101 2977166 2987531 CS i don't mind cause she is also quite  <unk> i would say that she has some  branding down there lah yeah 有名的 啦
+08NC15MBP_0101 2989354 2998517 EN then i think if i am not wrong the concert lasts for two hours so i hope this two hours will be good lah if let say this two hours isn't good then (er) sad ah
+08NC15MBP_0101 3002390 3003117 EN yes
+08NC15MBP_0101 3004909 3005844 EN <unk>
+08NC15MBP_0101 3009272 3013146 EN  that is a lot there
+08NC15MBP_0101 3015223 3017220 EN 
+08NC15MBP_0101 3026909 3029272 EN yeah lah 
+08NC15MBP_0101 3031610 3032389 EN oh is he
+08NC15MBP_0101 3033999 3034830 EN <unk>
+08NC15MBP_0101 3037276 3039327 EN he can spend lah but then he spend <unk> lah
+08NC15MBP_0101 3043508 3044570 EN oh service seat
+08NC15MBP_0101 3048702 3050338 EN (er) that somewhere
+08NC15MBP_0101 3057739 3059401 EN that's true that is true
+08NC15MBP_0101 3065249 3065898 EN who
+08NC15MBP_0101 3068391 3069634 EN oh
+08NC15MBP_0101 3077714 3079090 EN ah standard one lah ah
+08NC15MBP_0101 3085741 3087925 CS then 你- 第一次 你 就 知道 你 就 知道
+08NC15MBP_0101 3093066 3093972 EN er
+08NC15MBP_0101 3101195 3102831 EN some form of business
+08NC15MBP_0101 3110730 3111847 EN (er) did you ask
+08NC15MBP_0101 3120364 3122624 EN stay in aljunid okay
+08NC15MBP_0101 3123481 3124286 EN yeah
+08NC15MBP_0101 3131920 3132647 EN he says
+08NC15MBP_0101 3136963 3146156 EN so you just so you just make up with him until in the end you just give him the light <unk> then it is like he um yeah <unk>
+08NC15MBP_0101 3156492 3166465 CS that <unk> then <unk> 就 mind telling him (er) you know something about that my b. s. m. was part was part of this whole thing why he
+08NC15MBP_0101 3168468 3170130 EN just don't want to get him involved ah
+08NC15MBP_0101 3173272 3174779 EN i know b. s. m. is pulling you in
+08NC15MBP_0101 3176908 3177661 EN and then after that
+08NC15MBP_0101 3183431 3184366 EN oh just
+08NC15MBP_0101 3189118 3191326 EN 
+08NC15MBP_0101 3192598 3193169 EN yeah
+08NC15MBP_0101 3194883 3196909 EN yes
+08NC15MBP_0101 3205162 3206590 CS oh royce 是 ro~
+08NC15MBP_0101 3208486 3212220 CS royce what royce 他 做 什么 也是 也是 <unk>

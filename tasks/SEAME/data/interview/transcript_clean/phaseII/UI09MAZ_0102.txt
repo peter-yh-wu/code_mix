@@ -1,0 +1,198 @@
+UI09MAZ_0102 0 4876 CS 你 可以 看 for example 你的 mobile phone 啊
+UI09MAZ_0102 4876 14503 CS 现在 mobile phone 你 可以 你 可以 speak up the person name and it can automatic dial for you 咯
+UI09MAZ_0102 14503 17366 CS 这 其中 一个 很 基本 的 function
+UI09MAZ_0102 17366 20981 ZH 过后 可能 呃
+UI09MAZ_0102 20981 25886 CS 在 车 上 的话 你 可以 有一个 g. p. s. system
+UI09MAZ_0102 25886 32272 CS 你 不 需要 啊 for example 你 要 你 要 去 from point a to point b 啦
+UI09MAZ_0102 32272 41435 CS 如果 你 要 用 type 的话 是 有点 危险 咯 你 知道 很多 车 是 很多 是 司机 是 不会 停下 来 enter 的 咯
+UI09MAZ_0102 41435 42562 ZH 反而
+UI09MAZ_0102 42562 47537 CS 而且 他们 会 一边 可能 会 一边 驾车 一边 enter 是 会 很 危险 的 咯
+UI09MAZ_0102 47537 55973 CS 所以 新 一代 的 g. p. s. system 可能 会 recognize 你 讲 那个 地方 的 名字 啊
+UI09MAZ_0102 57350 62251 CS 过后 它 会 automatic 啊 enter 给 你 咯
+UI09MAZ_0102 62251 65736 CS of course 这个 是 another area 啊
+UI09MAZ_0102 65736 74313 CS the third area 啊 你 你 想 看到 的 是 在 那个 telephony 咯 telephony system 啊
+UI09MAZ_0102 74313 83647 CS for example malaysia 的 telecom 啊 如果 你 打 电话 去 啊 现在 你 你 可以 它 可以 recognize number 了
+UI09MAZ_0102 83647 97184 CS 它 会 跟 你 讲 你 要 啊 either press one or 啊 speak up 啊 the number one in malay 啦 for example
+UI09MAZ_0102 99377 101325 CS 这个 是在 telephony 咯 但是
+UI09MAZ_0102 101325 105431 CS 啊 这 这个 啊 for example
+UI09MAZ_0102 105431 114056 CS 讲 number 是 很 很 容易 的 啦 现在 它的 accuracy 可以 achieve 到 很 高 了
+UI09MAZ_0102 114056 118597 ZH 但是 比较 难 的 是 好像
+UI09MAZ_0102 118597 132438 CS for example 你 可以 叫 那个 打 电话 来 的 的 人 问 他 他 要 什么 过后 detect 他 啊 spot 那个 keywords 啊
+UI09MAZ_0102 132438 137828 CS 过后 啊 direct 他 去 对 的 部门 啊
+UI09MAZ_0102 137828 150717 CS 就是 这样 咯 这个 是 比较 (呃) 是 future 的 direction 啊
+UI09MAZ_0102 150717 155845 CS 啊 besides this 就是 search engine 咯
+UI09MAZ_0102 155845 162422 CS 目前 的 search engine 你 只是 可以 search text 罢了 嘛 如果 你是 要 search 那些 multimedia files 啊
+UI09MAZ_0102 162422 165578 CS 啊 你 就 要 i
+UI09MAZ_0102 165578 170781 CS 那个 author 啊 又 要 key in 那个 keywords 在 那个 h. t. m. l. text 咯
+UI09MAZ_0102 172883 175194 ZH 所以 啊
+UI09MAZ_0102 175194 177142 ZH 这个 是 不 太 好 啦
+UI09MAZ_0102 177142 178852 ZH 第一 问题 是
+UI09MAZ_0102 178852 181092 CS 那个 user 可能
+UI09MAZ_0102 181092 189920 CS 那个 author 可能 懒 得 key in 那些 keywords 或者 是 漏掉 certain keywords
+UI09MAZ_0102 191369 204257 CS 而且 那个 keywords 它 可以 direct 你 去 那 一 个 file 但是 不可 以 direct 你 去 certain part of the multimedia file which contains the keywords
+UI09MAZ_0102 204257 209688 EN or which has (er) keyword related to what you are searching
+UI09MAZ_0102 211880 213912 EN so (er)
+UI09MAZ_0102 213912 220953 CS 目前 的 search engine 只是 可以 direct 你 去 certain file for example youtube 啊
+UI09MAZ_0102 220953 223157 CS 有 那个 keywords 的
+UI09MAZ_0102 223157 227559 CS 如果 那个 author 有 放 key in 那个 keywords 啦
+UI09MAZ_0102 230226 234933 CS 啊 未来 的 search engine 他们 要 做到 的 嘞 就是
+UI09MAZ_0102 234933 238667 CS 啊 for example 你 放 certain keywords
+UI09MAZ_0102 238667 244003 CS 过后 它 会 search 你的 multimedia files 咯
+UI09MAZ_0102 244003 246272 CS 啊 的 content
+UI09MAZ_0102 246272 256288 CS 过后 告诉 你 for example 哪 一个 它的 啊 那个 multimedia file 里面 的 哪一
+UI09MAZ_0102 256288 257911 CS 它 的 duration 里面
+UI09MAZ_0102 257911 261104 CS 啊 啊 might like
+UI09MAZ_0102 261104 265436 CS 在 哪 一个 point 那 这个 keywords 啊 有 出现 啊
+UI09MAZ_0102 265436 276774 CS 好像 这样的 function 嘞 很 很 有用 咯 for example 如果 你 要 search 啊 certain things in lecture 啊 现在 很多 lectures 都是 record
+UI09MAZ_0102 276774 277775 EN in
+UI09MAZ_0102 277775 280557 EN or certain presentation or seminar
+UI09MAZ_0102 280557 282818 CS 都有 rec 啊
+UI09MAZ_0102 282818 285332 CS 都 有 做 recording 的 嘛
+UI09MAZ_0102 285332 293223 CS 所以 如果 你 要 search 那个 seminar contain certain keywords 的话 你 就可以
+UI09MAZ_0102 293223 295997 CS search 咯 不 需要
+UI09MAZ_0102 295997 306467 CS 不 需要 你 慢慢 听 from the beginning to the end to know 哪 一个 parts 啊 有 你 要 找 的 content 咯
+UI09MAZ_0102 306467 309416 ZH 这个 是 一个 好处 啦 所以 你 看
+UI09MAZ_0102 309416 314833 CS google 啊 microsoft 啊 yahoo 啊 他们 都有
+UI09MAZ_0102 314833 316862 CS 啊 put put put in
+UI09MAZ_0102 316862 322704 CS put in 啊 money 啊 to develop their speech recognition 啊
+UI09MAZ_0102 322704 325441 CS 的 system 啊
+UI09MAZ_0102 325441 334558 CS 所以 speech recognition system 在 这 方面 怎样 achieve 到 那种 result 嘞 就是
+UI09MAZ_0102 334558 343312 CS 它 会 先 decode 他们 server 里面 有的
+UI09MAZ_0102 343312 345855 CS mul~ 啊
+UI09MAZ_0102 345855 348685 CS 啊 multimedia files 咯 for example
+UI09MAZ_0102 348685 354972 CS 过后 它 只 需要 decode 一次 罢了 嘛 你 就有 它 它 就会 convert 那些 sound 去 text 咯
+UI09MAZ_0102 355865 364971 CS 过后 接 下来 process 可以 可能 可以 就是 好像 普通 的 normal search 罢了 咯 因为 你 已经 decode 了 嘛
+UI09MAZ_0102 364971 377743 CS 当然 啊 一个 真正 practical 的 一个 这样 的 system 要 able to detect speech from non speech 咯
+UI09MAZ_0102 377743 381128 CS 过后 除了 speech non speech 之外
+UI09MAZ_0102 381128 390233 CS 你 知道 那个 speech 那个 那个 file cer~ 那个 what's the duration of contains speech 之后
+UI09MAZ_0102 390233 393555 CS 你 还要 知道 那个 speech 是什么 language
+UI09MAZ_0102 393555 401812 CS 过后 用 the right recognizer to convert it to the right language 咯
+UI09MAZ_0102 401812 405106 ZH 所以 不是
+UI09MAZ_0102 405106 410653 ZH 这个 也 不是 一个 很 很 简单 的 事情 啦
+UI09MAZ_0102 410653 419619 CS 里面 involve 的 technology 很多 咯 有 language identification 啊 speech non speech segmentation 啊
+UI09MAZ_0102 419619 422676 CS 过后 有 speech recognition 本身 啊
+UI09MAZ_0102 422676 423759 ZH 过后
+UI09MAZ_0102 423759 427195 CS 要 怎样 index 它的 那些 keywords 啊
+UI09MAZ_0102 427195 440951 CS for speech 可能 你 要 用 certain 比较 不同 的 方法 compared to text 啊 因为 里面 有 time 啊 之类 的 information 啊
+UI09MAZ_0102 442117 448645 CS 过后 可能 你 for some (er)
+UI09MAZ_0102 448645 458412 CS well known speaker for example 啊 你 啊 you can even 啊 recognize who is speaking what 啊
+UI09MAZ_0102 458412 462253 CS 之类 for example 如果 是 marhatir 的话
+UI09MAZ_0102 462253 470965 CS 你 可以 认出 那个 是 mahathir 的 声音 过后 你 可以 tag 这个 additional information
+UI09MAZ_0102 470965 485111 CS 在 你 的 啊 你 的 decoding 里面 咯 或者 那个 transcription 啊 automatic transcript transcribe 的 东西 的 里面 啊 过后 如果 for example 我 要 search 啊 哪 一个
+UI09MAZ_0102 485111 490922 CS 这个 file 里面 mahathir 从 哪里 讲 到 哪里 讲 什么 啊
+UI09MAZ_0102 490922 492328 ZH 那么 啊
+UI09MAZ_0102 492328 497063 CS 讲 什么 又是 一个 一个 area 啊 可以 research 的 就是
+UI09MAZ_0102 497063 498037 ZH 啊 什么 啊
+UI09MAZ_0102 498037 500555 CS text summarization 啊
+UI09MAZ_0102 500555 504963 CS 所以 里面 involve 的 technology 就是 很多 咯
+UI09MAZ_0102 504963 522969 ZH 哦
+UI09MAZ_0102 522969 531101 CS speech recognition 还有 一样 用处 嘞 就是 as 啊 那个 call application 咯 c. a. l. l. 啊 call
+UI09MAZ_0102 531101 540485 CS 啊 c. a. l. l. 的 就是 代表 computer aided 啊 language learning
+UI09MAZ_0102 540485 547094 CS (呃) 他们 是 叫 call 啦 就 是 教导 怎么 样
+UI09MAZ_0102 547094 553512 CS 可以 教导 学生 to learn second language 啊 for example
+UI09MAZ_0102 553512 554585 EN 
+UI09MAZ_0102 554585 559061 CS for example 如果 你是 想 要 学 french 的话
+UI09MAZ_0102 559061 561290 ZH 这样 你 用 这个
+UI09MAZ_0102 561290 562539 ZH 你 不 需要 有
+UI09MAZ_0102 562539 563483 ZH 你 不 需要
+UI09MAZ_0102 563483 569360 ZH 可能 你 不 需要 有一个 老师 在 你 旁边 教 你 怎样 发音 啊
+UI09MAZ_0102 569360 572248 CS 怎样 read 那个 整 整 个 sentence
+UI09MAZ_0102 572248 573953 CS 整个 sentence 啊
+UI09MAZ_0102 573953 580348 CS 你 就可以 直接 用 那个 call 的 application 啊
+UI09MAZ_0102 580348 587899 CS 你 只需 要 啊 听 过后 try to pronounce
+UI09MAZ_0102 587899 591157 CS 过后 它 会 analyze 你的 speech 咯
+UI09MAZ_0102 591157 594994 CS (er) make sure 啊 makes sures that 啊
+UI09MAZ_0102 594994 601876 CS to help you to achieve (er) what a native speaker can speak 咯 就是 这样
+UI09MAZ_0102 601876 605191 CS 但是 目前 这个 technology 虽然 它们
+UI09MAZ_0102 605191 606196 ZH 应该 目
+UI09MAZ_0102 606196 610215 CS 目前 的 market 应该 是 有 一些 这样 的 application 啦 但是
+UI09MAZ_0102 610916 611829 ZH 很多
+UI09MAZ_0102 611829 616205 CS 很多 的 东西 还是 在 research 当中 咯
+UI09MAZ_0102 616205 620402 ZH 因为 除非 你 除非 你
+UI09MAZ_0102 620402 623539 ZH 因为 我们 要 的 不是 一个
+UI09MAZ_0102 623539 633446 CS 啊 我们 要 的 是 怎么 样 make sure 那个speaker learn learner 啊
+UI09MAZ_0102 633446 650067 CS 啊 pronounced 啊 因为 一个 learner 是 啊 很难 pro~ pronounce hundred percent like 一个 native speaker 的 嘛
+UI09MAZ_0102 650067 662111 CS 但 我们 要 的 是 怎么 样 make sure make sure at least 他 可以 achieve 到 啊 啊 怎么 样 可以 compare make sure that 啊 okay 这样 的
+UI09MAZ_0102 662111 664639 CS pattern 是 acceptable
+UI09MAZ_0102 664639 667308 CS 怎么 样 的 pattern 是 unacceptable
+UI09MAZ_0102 667869 669666 ZH 过后 啊 怎么 样
+UI09MAZ_0102 669666 677176 CS achieve 到 什么 level 是 算 beginner achieve 到 什么 level 是 算 intermediate or expert 啊
+UI09MAZ_0102 677176 682184 CS 啊  因为 for
+UI09MAZ_0102 682184 686493 CS learning second language 嘞 不是 一件 很 简单 的 事情 啦
+UI09MAZ_0102 686493 692833 EN ah because we are influenced by our mother tongue mah
+UI09MAZ_0102 692833 696796 ZH 啊 如果 你
+UI09MAZ_0102 696796 699780 CS 叫 你 pronounce 一个 sound
+UI09MAZ_0102 699780 712095 CS a 啊 sound (er) an 啊 啊 sound ah vowel ah can (er)
+UI09MAZ_0102 712095 722032 CS by a chinese and by an american 啊 for example 可以 是 很 不同 的 咯 因为
+UI09MAZ_0102 722032 723986 ZH 啊
+UI09MAZ_0102 723986 728556 CS 当 你 pronounce 一个 vowel like 啊 的 时候
+UI09MAZ_0102 728556 729596 EN (er)
+UI09MAZ_0102 729596 736021 CS 可能 chinese 他 的 啊 mouth opening 是 不是 那么 大
+UI09MAZ_0102 736021 739628 CS 但是 for
+UI09MAZ_0102 739628 750564 CS uh american 的话 他们 pronounce ah 的话 可能 是 他的 mouth 的 shape 可能 或者 是 opening 是 会 difference 啊 所以
+UI09MAZ_0102 750564 752505 ZH 他的
+UI09MAZ_0102 752505 761151 CS 它 会 influence 到 那个 啊 真正 produce 出来 的 那个 signal 咯 其实 是 会 不同 的 咯
+UI09MAZ_0102 762303 762904 ZH 所以
+UI09MAZ_0102 762904 764382 CS 如果 你 analyze
+UI09MAZ_0102 764382 780446 CS (呃) 因为 vowels 的 difference 啊 啊 是 啊 他 的 那个 model 是 很 是 可以 讲 是 模糊 的 咯
+UI09MAZ_0102 780446 791560 ZH 可能 啊 啊 所以 啊
+UI09MAZ_0102 791560 806183 CS 我们 我们 不 知道 啊 for a chinese speaker 他的 border 是到 哪里 for a an american speaker 他的 border 是 是 到 哪里 所以
+UI09MAZ_0102 806183 810760 CS 它 produce 出来 的 accoustic properties 就会 不同 咯
+UI09MAZ_0102 810760 825561 CS 所以 for 所以 啊 learning second language 就是 啊 有 这个 问题 咯 就 是 他
+UI09MAZ_0102 825561 828262 ZH 很多 时候 它是
+UI09MAZ_0102 828262 829469 ZH 啊
+UI09MAZ_0102 829469 832139 CS influence by your mother tongue 啦
+UI09MAZ_0102 832139 844547 CS 虽然 是 如果 你 看 一些 research paper 啊 他们 是 说 啊 it is possible 啦 to (er)
+UI09MAZ_0102 844547 859794 CS (er) teach a non-native speaker 啊 speak like 啊 native 啦 但是 还是 不 容易 咯 因为
+UI09MAZ_0102 859794 864324 ZH 也是 有 很多 的 研究 啊 发现 有一个 啊
+UI09MAZ_0102 864324 877898 CS for example 一个 老太太 已经 活 在 一个 foreign country 已经 很 久 了 的 发现 她 她 的 pronunciation 还是 很 local 啊 就是 她
+UI09MAZ_0102 877898 879498 ZH 可以 看得
+UI09MAZ_0102 879498 883988 ZH 可以 听 得 出 她是 外国人 咯 不是 当地 的 人 咯
+UI09MAZ_0102 883988 891168 CS 而且 你 从 你 几 岁 学 那个 语言 也是 个 啊 factor 咯
+UI09MAZ_0102 891168 894299 ZH 更 好 笑 的 就是 其实 你
+UI09MAZ_0102 894299 897204 CS 当 你 学 second language 的 时候 啊
+UI09MAZ_0102 897204 902852 CS 你 更 你 的 second language 可以 influence 你 的 其他 你 会 的 language 的
+UI09MAZ_0102 902852 910758 ZH 啊 这个 是 有 科学 根据 的 啦 啊
+UI09MAZ_0102 910758 920284 CS 学 foreign language um 是一个 很大 的 挑战 咯 我 觉得
+UI09MAZ_0102 920284 923998 ZH 所以
+UI09MAZ_0102 923998 929167 CS 当然 也 是 有 很多 那些 research researcher 啊 说要 啊
+UI09MAZ_0102 929167 939940 CS 这 这 这 这些 啊 这些 这 做 了 这个 research 其实 也 是 在 教 在 告 啊 在 发 要
+UI09MAZ_0102 939940 953097 CS 找出 怎么 样 可以 improve 一个 non-native speaker to speak as close as like a native speaker 咯 就是 这样
+UI09MAZ_0102 957782 959435 ZH 我 自己 啊
+UI09MAZ_0102 959435 966905 CS 我 自己 也有 这个 experience 啦 就是 当 我 学 french 的 时候 啊
+UI09MAZ_0102 966905 982131 CS 我 before 我 去 法国 的 时候 啊 我在 (呃) 那个 地方 叫 什么 名字 了 啊 
+UI09MAZ_0102 982131 985963 CS 不是 british council 啦 那个 是 french 啦 小姐
+UI09MAZ_0102 985963 1000003 ZH 啊 记 不 起 他 的 名字 了 惨 啊 没关系 啊
+UI09MAZ_0102 1000003 1008611 CS 啊 在 槟城 有 一个 地方 可以 啊 学 french 的 它 是
+UI09MAZ_0102 1008611 1023390 CS 它 可以 算是 n. g. o 吧 应该 是 n. g. o. 但是 那个 那个 association 是 和 french government 有 关系 的
+UI09MAZ_0102 1023390 1026573 ZH 啊 记得 叫 什么 名字 了
+UI09MAZ_0102 1026573 1028902 CS 它 叫 alliance francais
+UI09MAZ_0102 1031932 1039988 CS 啊 如果 你 用 英文 的 话 translate 的 话 应该 是 啊 french alliance 啊 sort of
+UI09MAZ_0102 1041296 1050260 CS 过后 这个 alliance francais is 嘞 不只 是 在 槟城 有 它 是 在 应该 是 全世界 都有 的
+UI09MAZ_0102 1050260 1053269 CS 像 好像 在 k. l. 也 是 有
+UI09MAZ_0102 1053269 1054932 CS 一个 centre
+UI09MAZ_0102 1056375 1059925 CS vietnam 啊 那些 其它 地方 也是 有 centre 的
+UI09MAZ_0102 1059925 1070873 CS 我 就 在 那里 学 了 before 我 去 法国 应该 是 学 了 一个 月 或者 是 两个 月 吧 但是 但是
+UI09MAZ_0102 1070873 1074129 ZH 一个 星期 只是 去 一天 还是 两 天 嘛
+UI09MAZ_0102 1074129 1079127 ZH 而且 每 每 一天 只是 学 一 两个 小时
+UI09MAZ_0102 1079933 1085958 CS 所以 那个 one two three 那些 啊 还 还是 学 的 不错 啦
+UI09MAZ_0102 1085958 1091161 ZH 过后 其它 的 东西 就 还是 不是 很 不是 很 会 咯
+UI09MAZ_0102 1091161 1095263 CS 但是 before 我 去 的 时候 我 也 是 有 除了
+UI09MAZ_0102 1095263 1099195 CS 上 这 课 我也 是 有 上 一些 website 啊
+UI09MAZ_0102 1099195 1100873 ZH 去 看 他
+UI09MAZ_0102 1100873 1104837 CS 好像 b. b. c. 它 也 是 有 一个 website 你 可以 学 french 的
+UI09MAZ_0102 1104837 1116695 ZH 你 可以 上 那个 网站 听 听 一些 啊 一些 他 的 课 咯 其实 他 的 课 你 现在 如果 你
+UI09MAZ_0102 1116695 1121825 CS without any knowledge in french 你 去 学 的话 呃 是 挺 难 的
+UI09MAZ_0102 1121825 1130720 ZH 当 当 当 我 去 到 法国 的 时候 才 发现 我 其 原来 其实 这些 东西 是 很 简单 的
+UI09MAZ_0102 1130720 1135745 ZH 啊 那 时候 我 在 法国 的 时候
+UI09MAZ_0102 1135745 1138243 CS 就 上了 intensive course 咯
+UI09MAZ_0102 1138243 1144573 CS 它 的 intensive course 是 在 一 间 university 上 的
+UI09MAZ_0102 1144573 1146096 ZH 而且 不 便宜 咯
+UI09MAZ_0102 1146096 1148177 CS 五百 八十 euro
+UI09MAZ_0102 1148177 1150263 ZH 一个 月
+UI09MAZ_0102 1150263 1153965 ZH 每天 是 从 九点 上 到 五点
+UI09MAZ_0102 1155610 1161372 CS 啊 是 挺 贵 啦 那 那 间 university 叫 university stendhal
+UI09MAZ_0102 1162055 1171689 CS 或者 是 standal (er) standal 啊 啊 不 知道 可 不 可以 这样 translate 嘞 啊 过后
+UI09MAZ_0102 1171689 1179598 CS 就在 那里 学 了 上 了 (呃) 应该 有 三 四个 月 的 intensive course 啊
+UI09MAZ_0102 1179598 1187772 CS 过后 过后 上 了 三 四个 月 intensive course 过后 最后 我 又 拿 了
+UI09MAZ_0102 1187772 1198016 CS 上了 一个 月 的 啊 啊 所谓 的 semi intensive course 因为 比较 便宜

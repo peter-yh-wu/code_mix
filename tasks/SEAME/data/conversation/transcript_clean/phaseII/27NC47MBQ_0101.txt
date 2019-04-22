@@ -1,0 +1,678 @@
+27NC47MBQ_0101 7800 11570 CS yes 我 有 试过 recording before
+27NC47MBQ_0101 16872 17973 EN yes
+27NC47MBQ_0101 31640 34970 CS 你 以前 是 study in what school
+27NC47MBQ_0101 46774 48032 ZH 你
+27NC47MBQ_0101 49944 53940 CS 我 以前 参加 guitar ensemble
+27NC47MBQ_0101 53940 57370 CS 还有 i. t. club robotics
+27NC47MBQ_0101 58170 63970 CS 你 以前 study 在 pasir-ris secondary school 对 吗
+27NC47MBQ_0101 65070 69850 CS 你 以前 是 study in which junior college
+27NC47MBQ_0101 72910 75110 ZH 你 住 在 哪里
+27NC47MBQ_0101 78690 84730 CS 哦 我有 很多 朋友 住在 tampines 或 是 pasir-ris
+27NC47MBQ_0101 87920 91510 CS 我 住在 的 是 在 harbour-front
+27NC47MBQ_0101 91660 96830 CS it is close to mount faber 还 有 china town area
+27NC47MBQ_0101 97472 103890 CS (呃) 可是 我 closest 的 m. r. t. station 就 是 outram-park
+27NC47MBQ_0101 104126 106970 EN outram m. r. t. station
+27NC47MBQ_0101 112270 119030 CS 没有 哩 我 认为 my place is very convenient for going to anywhere in singapore
+27NC47MBQ_0101 119300 123211 CS because 它 是 在 singapore 的 中 间 嘛
+27NC47MBQ_0101 123211 126321 ZH 我 要 去 圣陶沙 很 靠近
+27NC47MBQ_0101 126451 132521 EN but i don't always go sentosa because i'm very lazy and it's very expensive
+27NC47MBQ_0101 135829 136484 EN but
+27NC47MBQ_0101 141531 145341 CS 你 没有 听说 那个 vivocity meh
+27NC47MBQ_0101 145411 148671 CS vivocity 是 最大 的 shopping centre
+27NC47MBQ_0101 149060 157560 CS 还 有 一 个 giant 的 supermarket 还有 tiong-bahru market wah 可 以 去 tiong-bahru 的 n. t. u. c. 买 很多 东西
+27NC47MBQ_0101 157781 161021 CS 还 有 bukit-merah 还 有 redhill market
+27NC47MBQ_0101 162301 163461 CS 还有 telok-blangah
+27NC47MBQ_0101 166731 168511 CS 没有 我 不 喜欢 去 market
+27NC47MBQ_0101 169001 170911 ZH 所以 我 认为 我 的 地方 很 方便
+27NC47MBQ_0101 177541 179321 CS 有 什么 shopping mall
+27NC47MBQ_0101 187821 191931 CS 你 看 戏 的 时候 需要 去 两 间 cinema 吗
+27NC47MBQ_0101 200681 202711 CS 你 有 去过 library 吗
+27NC47MBQ_0101 204261 205911 CS 去 library 干嘛
+27NC47MBQ_0101 210531 213221 CS 噢 我 去 library 是 看
+27NC47MBQ_0101 213310 215431 EN beau~beautiful girls
+27NC47MBQ_0101 218321 224281 CS 可以 有 很多 mugger 可是 有 一些 mugger 都是 pretty girls
+27NC47MBQ_0101 224431 226981 ZH 有 有 很多 小 美眉
+27NC47MBQ_0101 227037 229401 EN (er) got some pretty
+27NC47MBQ_0101 229971 232001 EN secondary school girls
+27NC47MBQ_0101 234871 238861 CS wah that one is very pretty 我 知道 她 的 名字
+27NC47MBQ_0101 241001 243051 ZH 你 为~ 你 怎么 知道 她
+27NC47MBQ_0101 245721 247741 CS 为什么 melissa 跟 会 跟 你
+27NC47MBQ_0101 248261 249181 EN tell me
+27NC47MBQ_0101 255171 259361 CS 噢 你 也 认为 她 的 朋友 very beautiful
+27NC47MBQ_0101 264561 265991 EN that's all right
+27NC47MBQ_0101 266391 272011 EN because she will still (er) pick me over the other boys it's all right
+27NC47MBQ_0101 272033 276631 CS i (er) 我 对 我 自己 有 很 有 信心 啊
+27NC47MBQ_0101 282941 288011 EN of course i meet her once in a while and
+27NC47MBQ_0101 288011 289571 EN (er)
+27NC47MBQ_0101 289571 293401 ZH 她 我 认为 她 应该 会 喜欢 我 吧
+27NC47MBQ_0101 293471 296071 EN because i am a very handsome guy
+27NC47MBQ_0101 296121 298731 EN i'm more handsome than the other
+27NC47MBQ_0101 298911 302151 CS (呃) 男人 which she is hanging out with
+27NC47MBQ_0101 311531 316921 CS 没有 我 已经 问她 了 她 是 没有 boyfriend
+27NC47MBQ_0101 317001 319641 EN she's still waiting for the right one
+27NC47MBQ_0101 320061 324611 CS 所以 我 应 我 我 我 会 尽力 be the right one
+27NC47MBQ_0101 332367 339871 CS no i should paw her what  i paw melissa 干嘛 应该 是 direct pao
+27NC47MBQ_0101 339871 343681 EN less less energy wasted more efficient
+27NC47MBQ_0101 343681 346879 CS 你 没有 学过 meh direct
+27NC47MBQ_0101 351841 353311 ZH 婆 是 什么
+27NC47MBQ_0101 355911 357221 ZH 怎么 婆
+27NC47MBQ_0101 361101 363390 CS 对 i will camp for her
+27NC47MBQ_0101 363399 371361 CS (er) for on m. s. n. until she comes online 然后 我 可以 跟她 讲话 and chit chat
+27NC47MBQ_0101 371791 378011 CS and she finds me (er) 她 觉得 我 很 好笑 very funny
+27NC47MBQ_0101 378611 383011 CS but she doesn't think i'm handsome which makes 我 很 很
+27NC47MBQ_0101 383681 389721 CS 很 sad 啊 因为 我 觉得 我 很 帅 可是 她 说 我 看 看起来 是 印度 人
+27NC47MBQ_0101 389851 395591 CS indian she thinks that i looks like an indian why are you laughing 你 为什么 笑
+27NC47MBQ_0101 403871 415591 CS 我 像 indian 我 我 不介意 可是 她说 我 我 没有 那么 帅 then 我 一直 讲 我 很 handsome 可是 她 都 说 哈 哈 没有 你 只是 像 indian 而已
+27NC47MBQ_0101 420867 424711 ZH 没有 啊 因为 是她 他 认为 嘛
+27NC47MBQ_0101 425301 427051 ZH 可是 我 认为 我 很 帅 啊
+27NC47MBQ_0101 427525 431411 ZH 啊 她 只是 她 她 没有 跟我 一起 认~ 认为
+27NC47MBQ_0101 432811 435421 EN she doesn't feel the same way as i do
+27NC47MBQ_0101 437601 440721 EN no she feels happy about it and i feel sad about it
+27NC47MBQ_0101 448180 448913 EN yes
+27NC47MBQ_0101 452521 455781 CS this semester 我 我 拿 到了
+27NC47MBQ_0101 456041 459911 CS french 法国 二 (er) french two
+27NC47MBQ_0101 459991 465541 EN it is the next stage of french language in n. t. u.
+27NC47MBQ_0101 465771 471251 CS 因为 我 semester one 已经 学 了 french one
+27NC47MBQ_0101 471491 482721 CS so i decided to 继续 continue studying french two 因为 我 觉得 当 你 要学 language 的 时候
+27NC47MBQ_0101 483231 494061 CS 你 要 continuously learn actively so that you will not 忘记 french language that easily
+27NC47MBQ_0101 494461 495911 EN therefore
+27NC47MBQ_0101 496771 498861 ZH 你 为什么 要 笑
+27NC47MBQ_0101 499060 504910 CS 是不是 我 讲话 太久 了 还是 太 有 weird accent 啊
+27NC47MBQ_0101 509020 513980 CS 我 又 没有 讲 什么 笑话 or jokes why are you laughing
+27NC47MBQ_0101 514049 520400 EN is it very funny that i speak french two i'm taking french two this semester
+27NC47MBQ_0101 523220 526090 EN this is not a french english
+27NC47MBQ_0101 526090 533141 CS c. s. session i cannot code switch between bonjour and hello and 你好 at the same time
+27NC47MBQ_0101 533141 534551 ZH 你 懂 了 吗
+27NC47MBQ_0101 534791 545161 CS 虽然 我是 我 我是 (呃) 我的 华语 不好 可是 i understand this is code switching between english and 华语
+27NC47MBQ_0101 555141 563251 CS aiyo you never learn your maths ah no matter how slow you are you one hour is still 一个 小时
+27NC47MBQ_0101 563571 565311 ZH 一个 小时 就是
+27NC47MBQ_0101 565431 577021 CS 什么 啊 刚才 我 读 到 六十 分钟 我 不懂 为什么 那个 人 要 讲 六十 分钟 六十 分钟 不 就是 一个 hour 吗 就是 一个 小时
+27NC47MBQ_0101 581618 582849 ZH 没有 他 他
+27NC47MBQ_0101 585311 586671 ZH 那你
+27NC47MBQ_0101 586671 591121 CS 这个 semester 你 拿 到了 什么 electives
+27NC47MBQ_0101 601360 606881 CS 哦 那 现在 你的 timetable 就是 很 slack 对 吗
+27NC47MBQ_0101 607251 612551 ZH 你 应该 有~ 有时候 你 每天 什么 时候 放学
+27NC47MBQ_0101 622654 623251 ZH 啊
+27NC47MBQ_0101 623251 629471 CS 你 有 两天 三点 半 and two days five thirty so your your week is a four day week
+27NC47MBQ_0101 629961 633101 EN then how come so late five thirty
+27NC47MBQ_0101 635601 643431 CS what do you mean by start late eleven thirty then end late five thirty i thought 只有 elective 才 会 那么 晚 才 end
+27NC47MBQ_0101 646471 651781 CS 你 在 什 ~ 你的 core 是什么 你 现在 是在 什么 学校
+27NC47MBQ_0101 655841 658841 CS 那 为什么 你的 chinese 比 我 烂
+27NC47MBQ_0101 667221 669159 CS 什 么 ah-nay 腔
+27NC47MBQ_0101 669159 680981 CS ah-nay 在 华 语 用 用 是 什么 这 样
+27NC47MBQ_0101 680981 686081 CS you are really chinese major but you don't know indian in chinese is 印度 人
+27NC47MBQ_0101 686321 689821 CS then 一个 印度 人 可以 跟你讲 印度 人是 印度 人
+27NC47MBQ_0101 689821 692307 CS 什 么 是 ah-nay
+27NC47MBQ_0101 696541 700341 CS yeah 我 我 不是 印度 人 或是 华人 我是 帅哥
+27NC47MBQ_0101 700881 704191 EN i'm a handsome guy that's all you need to know
+27NC47MBQ_0101 711501 715021 EN that is the point then they will take longer to
+27NC47MBQ_0101 715111 718781 CS 完成 这个 code switch session
+27NC47MBQ_0101 718781 720683 EN hahhahhah
+27NC47MBQ_0101 729261 734541 CS 没有 啊 我是 帮 他们 because it might be boring for them
+27NC47MBQ_0101 734661 740270 CS so if they code switch something that is 很好 笑 就可以 可以 (er)
+27NC47MBQ_0101 740661 746631 EN be more excited and enthusiastic about the code switching session
+27NC47MBQ_0101 754531 757691 CS no 我 只是 帮 自己
+27NC47MBQ_0101 757851 763801 CS get through this talking session because i am very 闷 现在 我 很 bored
+27NC47MBQ_0101 764061 767791 EN but it's okay you seem to be enjoying yourself
+27NC47MBQ_0101 767891 771241 CS 虽然 我 知道 你 prefer mahjong
+27NC47MBQ_0101 772756 775466 CS 对 吗 am i not correct
+27NC47MBQ_0101 780996 783716 CS 所以 你 只有 four day week
+27NC47MBQ_0101 783736 787036 CS 是 哪 一个 day 就是 你的 free day
+27NC47MBQ_0101 789096 794156 ZH 哦 所以 现在 你 你 留下 来 都是 为了 这个
+27NC47MBQ_0101 794166 796396 EN code switching session
+27NC47MBQ_0101 799036 803056 EN oh that's why you were playing mahjong
+27NC47MBQ_0101 803606 804886 ZH 对 吗
+27NC47MBQ_0101 805736 808916 CS 只是 mahjong session 而已
+27NC47MBQ_0101 811616 814026 ZH 我 会 玩 可是 我 不 喜欢 玩
+27NC47MBQ_0101 816466 819756 EN because i'm not a gambling addict
+27NC47MBQ_0101 820066 826646 CS 因为 如果 没有 钱 的话 就 (er) mahjong 就是 一个 很 闷 的
+27NC47MBQ_0101 827506 831246 CS 的 activity it's very boring no one is talking
+27NC47MBQ_0101 831246 835396 CS 因为 每个人 都在 等 他们的 牌 的 tiles
+27NC47MBQ_0101 835400 840750 EN and you are just waiting for tiles and we just look and look and no one will chit chat
+27NC47MBQ_0101 845147 855190 CS yes but you you~ you will be looking and looking and then suddenly 碰 or 杠 then you lose twenty cents or 一 毛 or 两 毛
+27NC47MBQ_0101 855310 857950 EN then it's not fun already
+27NC47MBQ_0101 861520 865250 CS no 我 以前 有 赢 过 很多 钱
+27NC47MBQ_0101 865420 872420 CS that's why i don't want to play because i'm a very nice guy i don't like to win money from my 朋友
+27NC47MBQ_0101 876700 881120 ZH 啊 我 我 有 跟 他们 玩 咯 只是 跟 他们 玩 而已
+27NC47MBQ_0101 881231 886201 EN but when i play mahjong i make sure i get my priorities right
+27NC47MBQ_0101 899836 904941 EN because you also have nothing to do is that right
+27NC47MBQ_0101 909371 912981 EN on time i see
+27NC47MBQ_0101 913391 921522 CS 我 相信 你 应该 会 有 be on time 八点 很 准 喔 okay
+27NC47MBQ_0101 924871 928671 ZH 可以 我 要 (呃) 我 要 讲 讲 (呃)
+27NC47MBQ_0101 928811 931951 EN talk about (er) melissa's friend
+27NC47MBQ_0101 933903 938331 ZH 那 你 你 觉得 她 的 样子 像 什么
+27NC47MBQ_0101 945901 948481 CS elegant 的 beautiful
+27NC47MBQ_0101 948900 952430 CS 有 还有 什么 and 有什么 beautiful
+27NC47MBQ_0101 961560 967530 CS 噢 就 像 cute lah or sexy lah 很 性感 啦
+27NC47MBQ_0101 967530 971880 CS 很 hot lah hot in chinese 是什么
+27NC47MBQ_0101 973030 974060 ZH 很 热
+27NC47MBQ_0101 977830 980060 ZH 没有 我 要 那个 (呃) 像
+27NC47MBQ_0101 980240 983810 CS coca cola bottle 的 那 那种 hot 啊
+27NC47MBQ_0101 988410 989710 ZH 真的 吗
+27NC47MBQ_0101 989710 996950 CS really so i i i tell her 你 看起来 今天 很 热 i think you are very 热
+27NC47MBQ_0101 999350 1000710 ZH 是 火辣
+27NC47MBQ_0101 1002600 1004400 ZH 很 火辣
+27NC47MBQ_0101 1015031 1017211 ZH 哦 你 也 懂 她的 名字
+27NC47MBQ_0101 1017281 1022041 ZH 我 懂 她 的 华语 名字 是 (呃) (呃) 燕茹
+27NC47MBQ_0101 1022041 1023991 ZH 啊 可是 啊
+27NC47MBQ_0101 1023991 1025621 ZH 我 比较 喜欢
+27NC47MBQ_0101 1025621 1027201 EN (er)
+27NC47MBQ_0101 1027201 1029391 EN call her jacqueline
+27NC47MBQ_0101 1029871 1034281 CS although she say 她的 朋友 叫 她 jack
+27NC47MBQ_0101 1038310 1049815 CS 噢 我 我 比较 喜欢 说 jacqueline 因为 我 认为 jacqueline 有一个 nice ring to the name cause i like saying ling
+27NC47MBQ_0101 1051791 1054341 CS 没有 我 只是 喜欢 jacqueline 而已
+27NC47MBQ_0101 1058687 1061221 ZH (呃)我 我 认为 (呃)
+27NC47MBQ_0101 1061221 1064131 CS i feel that 她的 looks
+27NC47MBQ_0101 1064131 1065161 EN (er)
+27NC47MBQ_0101 1065161 1068721 CS 应该 是 没有 啊 不是 应该 是 啊 is
+27NC47MBQ_0101 1068931 1071251 EN (er) she is very beautiful
+27NC47MBQ_0101 1072411 1075641 EN (er) it's not the ordinary type of beauty
+27NC47MBQ_0101 1075641 1076991 EN (er) like the
+27NC47MBQ_0101 1076991 1080241 EN like the f. h. m. magazine beauty
+27NC47MBQ_0101 1080271 1084921 EN or the (er) you know those model kind of beauty
+27NC47MBQ_0101 1085181 1087161 EN but is the more
+27NC47MBQ_0101 1087161 1089441 EN (er)
+27NC47MBQ_0101 1089441 1093101 EN captivating kind of beauty yeah
+27NC47MBQ_0101 1093101 1097431 EN it's it's not en
+27NC47MBQ_0101 1097431 1104361 EN it's more of my type lah but objectively speaking (er) not a lot of people will
+27NC47MBQ_0101 1104621 1108611 CS will feel that 她 看起来 很 beautiful
+27NC47MBQ_0101 1108611 1109221 EN (er)
+27NC47MBQ_0101 1109221 1111321 ZH 我 懂 她是
+27NC47MBQ_0101 1111501 1114881 CS hall fourteen 的 hall queen 你 懂 吗
+27NC47MBQ_0101 1115545 1117380 ZH 啊 你 怎么 懂 的
+27NC47MBQ_0101 1119080 1124590 CS oh ok melissa 没有 跟 我 讲 我是 我是 我 别的 朋友 跟 我 讲 的
+27NC47MBQ_0101 1126470 1127650 EN but
+27NC47MBQ_0101 1127650 1132410 CS a lot of people feel that (er) 有 另一个 pageant
+27NC47MBQ_0101 1132650 1138400 CS (呃) 她的 名 叫 sharon 啊 是 n. b. s. 是 我的 roomie 的 朋友
+27NC47MBQ_0101 1138471 1140841 CS 在 n. b. s. 的 friend
+27NC47MBQ_0101 1141281 1149861 EN and she is also very beautiful but (er) her looks will appeal to the general public
+27NC47MBQ_0101 1150151 1154211 EN (er) she has more of a x-factor
+27NC47MBQ_0101 1154651 1159481 EN (er) so i guess that's what makes her more popular
+27NC47MBQ_0101 1159481 1161318 EN but (er)
+27NC47MBQ_0101 1167351 1169721 EN no i can guys can
+27NC47MBQ_0101 1170119 1177141 EN (er) judge separately they have one which they prefer and they have another scale that is more
+27NC47MBQ_0101 1177221 1183321 EN objective like generally like like yeah like maybe you can say that
+27NC47MBQ_0101 1183370 1186211 CS (呃) 你 懂 谁 是 megan fox 吗
+27NC47MBQ_0101 1187063 1188991 ZH 啊 我们 可以 说 噢
+27NC47MBQ_0101 1189201 1191961 CS (er) megan fox 是 (呃) 好像
+27NC47MBQ_0101 1192197 1195351 EN (er) nine upon ten for her looks
+27NC47MBQ_0101 1195381 1197031 ZH 可是 (呃) 有 有
+27NC47MBQ_0101 1197101 1200811 CS 可是 虽然 她是 nine upon ten 我们 也可以 说 (呃)
+27NC47MBQ_0101 1200981 1204311 EN we prefer maybe we prefer
+27NC47MBQ_0101 1205581 1209701 EN zoe tay although she is very old (er) sorry i thought of zoe tay but
+27NC47MBQ_0101 1210011 1212441 EN you see there's a preference like
+27NC47MBQ_0101 1212441 1213811 EN (er)
+27NC47MBQ_0101 1213811 1221191 EN like maybe chinese and and westerners from hollywood how do you say hollywood in chinese
+27NC47MBQ_0101 1223431 1224291 EN are you sure
+27NC47MBQ_0101 1225221 1226301 EN you didn't make that up
+27NC47MBQ_0101 1228281 1230531 EN so what is bollywood in chinese
+27NC47MBQ_0101 1232599 1233647 ZH 宝莱坞
+27NC47MBQ_0101 1238261 1241581 CS 你 说 hollywood 是 好莱坞 so bollywood 是
+27NC47MBQ_0101 1241581 1246307 ZH 宝莱坞 啊 为 什 么
+27NC47MBQ_0101 1246307 1247878 EN okay
+27NC47MBQ_0101 1249817 1251301 ZH 没有
+27NC47MBQ_0101 1251301 1254411 EN although i'm very handsome but i'm not indian
+27NC47MBQ_0101 1254891 1256751 EN so i didn't come from bollywood
+27NC47MBQ_0101 1272721 1277881 EN no i just i just like her to notice me she's very pretty after all
+27NC47MBQ_0101 1277881 1281561 EN (er) but yes
+27NC47MBQ_0101 1281561 1285961 CS she has very nice beautiful 眼睛
+27NC47MBQ_0101 1285961 1289751 EN (er) which
+27NC47MBQ_0101 1289751 1296121 CS actually if you feel someone is beautiful is because 他们的 眼睛 是 很好 看 的
+27NC47MBQ_0101 1296121 1297341 EN because
+27NC47MBQ_0101 1297341 1302571 CS a research shows that seventy percent seventy 八仙 of
+27NC47MBQ_0101 1302671 1307071 CS yes that was chinese percent in chinese is 八仙
+27NC47MBQ_0101 1307071 1310331 EN see i also know so i'm not indian
+27NC47MBQ_0101 1311181 1317641 CS 七十 八仙 of your face 你 的 脸 is (er) due to
+27NC47MBQ_0101 1318691 1320770 CS 眼睛 your eyes
+27NC47MBQ_0101 1321261 1323321 EN when you recognise someone
+27NC47MBQ_0101 1323511 1329981 EN so basically if you have nice eyes then you will look quite pretty
+27NC47MBQ_0101 1334481 1339021 CS 啊 我 觉得 她 她 entire face is very beautiful
+27NC47MBQ_0101 1339911 1342941 EN is ya just just my type it makes me
+27NC47MBQ_0101 1343081 1345691 EN i feel very happy when i see her
+27NC47MBQ_0101 1345841 1349711 ZH 我 我 看 她的 时候 我 就会 很 开心
+27NC47MBQ_0101 1357261 1366921 CS 没有 因为 s. b. s. is on top of a hill and i don't like to climb hills so much even though 我 喜欢 运动
+27NC47MBQ_0101 1367151 1372201 CS (呃) 有时候 晚上 我 就会 jog around n. t. u.
+27NC47MBQ_0101 1372351 1377551 CS but i still don't like running up the hill 因为 我 认为 每次 当 我
+27NC47MBQ_0101 1377621 1379931 EN run up the hill
+27NC47MBQ_0101 1379961 1382541 EN there is a chance that i will die
+27NC47MBQ_0101 1382661 1387811 CS and become very tired and just roll down and die is 死
+27NC47MBQ_0101 1393178 1399628 EN i always run around n. t. u. and s. b. s. is at the very top
+27NC47MBQ_0101 1407858 1412130 EN are you sure that it's right next to nanyang audi
+27NC47MBQ_0101 1413108 1415688 EN i ask her also okay never mind
+27NC47MBQ_0101 1415698 1419660 CS 以后 我 会 自己 去 看一看 and really check
+27NC47MBQ_0101 1420098 1422958 EN where is it oh there's a food court
+27NC47MBQ_0101 1425028 1432278 CS 哦 我 去 过 那个 cafe by the quarts it seems very cramped there always alot of people
+27NC47MBQ_0101 1432278 1432988 EN but
+27NC47MBQ_0101 1432988 1441338 CS maybe since you said so 以后 我 可能 会 去 那个 quarts and then i'll ask her out for 午餐
+27NC47MBQ_0101 1448868 1451498 ZH 应该 可以 吧
+27NC47MBQ_0101 1451788 1457478 CS 虽~(呃) 虽然 i ever ask her out for a movie before
+27NC47MBQ_0101 1457578 1462168 EN and i got rejected what is rejected in chinese
+27NC47MBQ_0101 1463228 1467708 CS 我 被 拒绝 了 i always thought rejected in chinese was rejected
+27NC47MBQ_0101 1467708 1469538 EN anyway so
+27NC47MBQ_0101 1469788 1474638 ZH 我 被 她 拒绝 了 一次 可是 (呃) 以后 (呃) 因为
+27NC47MBQ_0101 1475338 1477268 CS at that time 当时 我
+27NC47MBQ_0101 1477268 1477998 ZH 跟 她 很
+27NC47MBQ_0101 1477998 1480758 CS 不 熟 it's uncomfortable with
+27NC47MBQ_0101 1480758 1482488 EN going out with me
+27NC47MBQ_0101 1482648 1485468 CS uncomfortable 应该 是 不 舒服 吗 可是
+27NC47MBQ_0101 1485478 1489818 CS 如果 你 要 这样 in this context you want to say that how do you say that
+27NC47MBQ_0101 1499648 1503708 ZH 对 你 要 你 要在 华语 讲 了 什么
+27NC47MBQ_0101 1504028 1506848 ZH 什么 是 不 舒服 吗 应该 不是 不 舒服
+27NC47MBQ_0101 1514878 1517058 CS you can speak more 英文
+27NC47MBQ_0101 1521558 1523828 CS 没有 你 应该 code switch more
+27NC47MBQ_0101 1533088 1537838 CS 我也 没有 那么 professional mah 可是 我 有 make the effort
+27NC47MBQ_0101 1559306 1561326 ZH 没有 啊 因 为 我 懂
+27NC47MBQ_0101 1561486 1568686 CS i have a high chance of being 拒绝 by her because obviously 我 跟 她 很 不 熟
+27NC47MBQ_0101 1568886 1573906 EN and i don't really place a lot of importance on the
+27NC47MBQ_0101 1573906 1574656 EN (er)
+27NC47MBQ_0101 1574656 1578706 CS the invitation to 跟 我 一起 看 电影
+27NC47MBQ_0101 1578906 1582376 ZH 呃 因为 看看 戏 啊 对不起 看 戏 啊
+27NC47MBQ_0101 1582486 1588456 CS yah we don't go watch cinemas we watch 戏 movies at the cinemas
+27NC47MBQ_0101 1588456 1592616 EN so actually it's just a (er) it's just a try
+27NC47MBQ_0101 1592686 1595286 EN to (er) get to know her better
+27NC47MBQ_0101 1595656 1597966 ZH 所以 我 认为 (呃)
+27NC47MBQ_0101 1598156 1604446 EN and someone just (er) told me (er) you should not expect a lot of things and then
+27NC47MBQ_0101 1604616 1612066 CS when something 小 happens something small happens then it will seem like 很多 东西 to you
+27NC47MBQ_0101 1612416 1621096 CS (er) but if you expect 很多 东西 then and only some things happen then you will feel like nothing has happened for you
+27NC47MBQ_0101 1634465 1636860 ZH 噢 我 我
+27NC47MBQ_0101 1636860 1638536 EN i'm always trying
+27NC47MBQ_0101 1638786 1641876 EN because if you don't play you will never win
+27NC47MBQ_0101 1650476 1656486 CS 我 还没有 想到 i've not thought of where to 带她去 哪里 but
+27NC47MBQ_0101 1656516 1659426 EN i will just continue to maybe
+27NC47MBQ_0101 1659526 1664166 EN try going to meet her at night or you know
+27NC47MBQ_0101 1664236 1668176 CS to just have a chat with her maybe 上网
+27NC47MBQ_0101 1668176 1669466 EN chat and then
+27NC47MBQ_0101 1669466 1678496 CS try practising chatting with her in person ah face to face how do you say that in mandarin ah in 华语 怎么 讲
+27NC47MBQ_0101 1681816 1683556 ZH 啊 面对面
+27NC47MBQ_0101 1684046 1686366 ZH 不是 脸 对 脸 meh
+27NC47MBQ_0101 1688136 1688906 EN face what
+27NC47MBQ_0101 1689296 1691226 CS 脸 就是 face mah 你
+27NC47MBQ_0101 1692476 1694976 CS 哦 面 哦 面 也是 face oh
+27NC47MBQ_0101 1694976 1698806 ZH 对 喔 我 忘记 了 因为 我 只是 想 面包 的 面
+27NC47MBQ_0101 1698866 1701210 ZH 应该 是 同样 的 面 对 吗
+27NC47MBQ_0101 1703426 1706776 EN so we have to talk more bread to bre~ bread talk
+27NC47MBQ_0101 1713316 1728086 CS oh that is a good idea but it's at hall fourteen i don't have i don't like to wake up so early 我 不想 那么 早起 来 去 hall fourteen 我 应该 会 死 吧 因为 (er) before hall fourteen
+27NC47MBQ_0101 1728086 1728966 EN (er)
+27NC47MBQ_0101 1728966 1736936 CS hall fourteen 很 远 (er) from hall five because it's really (er) diagonally across n. t. u.
+27NC47MBQ_0101 1736996 1739576 CS so (er) 从 两 方面 啊
+27NC47MBQ_0101 1739676 1745116 CS 都会 有 (呃) 两个 slope there will be two slopes no matter how i try
+27NC47MBQ_0101 1745376 1753416 CS and (er) 我 最近 买 了 一个 脚车 (呃) 我 试 过 cycling to hall fourteen
+27NC47MBQ_0101 1753966 1758626 CS to yes just to meet her to 去 见 她 (呃)
+27NC47MBQ_0101 1759316 1760356 EN so we can
+27NC47MBQ_0101 1760356 1761136 EN (er)
+27NC47MBQ_0101 1761136 1765636 ZH 面 一面 啊 面对面 啊 面对面 啊 讲话 啊
+27NC47MBQ_0101 1765636 1766516 EN so
+27NC47MBQ_0101 1766516 1767896 EN i tried it and
+27NC47MBQ_0101 1768186 1771696 ZH 真的 (呃) 哇 我的 脚 要 死 了 啊
+27NC47MBQ_0101 1771696 1776746 CS 现在 我的 脚 不 喜欢 我 了 因~because i tried cycling up slope
+27NC47MBQ_0101 1779866 1782056 CS no 我 喜欢 运动
+27NC47MBQ_0101 1789779 1790626 ZH 没有 啊
+27NC47MBQ_0101 1790626 1796146 CS 没有 这样 就 没有 诚意 嘛 pass 给 melissa melissa 就是 一个 middle
+27NC47MBQ_0101 1796336 1797636 EN middle man
+27NC47MBQ_0101 1797636 1799643 EN (er) then (er)
+27NC47MBQ_0101 1799643 1804797 EN in a new relationship (er)
+27NC47MBQ_0101 1804797 1807697 CS contact 是 很 重要 的
+27NC47MBQ_0101 1812040 1816857 ZH 最 对 不然 我 只是 会 (呃) 一个
+27NC47MBQ_0101 1816857 1821607 EN (er) oridinary a quintons on the if (er)
+27NC47MBQ_0101 1821607 1824267 EN that she has met and that's all because
+27NC47MBQ_0101 1824267 1827517 ZH (呃) 在 上 万~
+27NC47MBQ_0101 1827517 1832397 CS (呃) 上网 讲话 there's only so much you can talk about
+27NC47MBQ_0101 1832397 1834077 EN but (er)
+27NC47MBQ_0101 1834077 1835757 EN if you meet her more
+27NC47MBQ_0101 1835757 1837587 EN (er)
+27NC47MBQ_0101 1837587 1839597 EN got people tell me before that
+27NC47MBQ_0101 1840757 1844327 CS the minimum hours which 你 可以 花
+27NC47MBQ_0101 1844627 1849640 CS (er) spend together with a 女孩子 is 七个 钟头
+27NC47MBQ_0101 1849817 1854507 EN ah seven hours is the minimum time which you need to spend in person
+27NC47MBQ_0101 1854537 1858257 CS it doesn't matter 你们 在 做 什么 可以
+27NC47MBQ_0101 1858387 1862047 CS 真的 不 (呃) because psychologically
+27NC47MBQ_0101 1862067 1863987 EN if you have spent
+27NC47MBQ_0101 1864127 1866547 CS (呃) 七个 钟头 with her
+27NC47MBQ_0101 1866547 1869467 EN then she will be more or less
+27NC47MBQ_0101 1869467 1870027 EN (erm)
+27NC47MBQ_0101 1870027 1872517 EN comfortable enough with you or
+27NC47MBQ_0101 1872787 1877767 EN trust (er) trust you enough to maybe even be your girlfriend
+27NC47MBQ_0101 1877767 1879317 EN (er)
+27NC47MBQ_0101 1879317 1882110 ZH 真的 真的 是 七个 小时
+27NC47MBQ_0101 1883517 1884367 ZH 真的 是
+27NC47MBQ_0101 1884497 1891387 CS is only seven hours (er) it it doesn't have to be a same day or 同样 一天 is can be separate
+27NC47MBQ_0101 1892147 1895157 EN yes accumulate yes so basically
+27NC47MBQ_0101 1895307 1900117 CS (呃) 如果 你 还没有 发现 的话 if you are to choose
+27NC47MBQ_0101 1900167 1907077 CS if you have to choose a boyfriend now you will only choose those which you have known for more than 七个 小时
+27NC47MBQ_0101 1907127 1908837 EN if you must choose lah ah
+27NC47MBQ_0101 1908977 1917547 EN you won't choose someone which you have met for maybe three hours ah maybe this semester some new boy in your class you only met him for three hours
+27NC47MBQ_0101 1917547 1918857 EN (er)
+27NC47MBQ_0101 1918857 1922887 EN yes you can you can you can try it out next time
+27NC47MBQ_0101 1933397 1938717 CS no 真的 七 是 (呃) 七个 小时 is really the tried and tested
+27NC47MBQ_0101 1938717 1939587 ZH (呃)
+27NC47MBQ_0101 1939587 1941547 EN amount of time even though
+27NC47MBQ_0101 1941877 1944147 EN (er) you might think it's very short and that
+27NC47MBQ_0101 1944147 1947270 EN whoa actually you need to spend a few months with a guy
+27NC47MBQ_0101 1947270 1947697 EN beca~
+27NC47MBQ_0101 1947697 1951667 CS before 你 会 选 他 当 你的 男朋友 可是
+27NC47MBQ_0101 1951827 1956037 EN actually it's only seven hours before you decide
+27NC47MBQ_0101 1956037 1958557 EN (er) yah that
+27NC47MBQ_0101 1958557 1960737 CS a 男人 is go
+27NC47MBQ_0101 1961047 1963137 EN (er) good enough for you
+27NC47MBQ_0101 1969287 1970717 ZH 没有 还没有
+27NC47MBQ_0101 1970787 1973247 EN so i'm working towards that goal
+27NC47MBQ_0101 1978977 1982277 CS 什么 问题 what question are you thinking of
+27NC47MBQ_0101 1985097 1988487 CS 喔 交往 is to go steady is it or to
+27NC47MBQ_0101 1988710 1992920 EN (er) maybe but i don't think i will i will do it in a very
+27NC47MBQ_0101 1992920 1993687 EN (er)
+27NC47MBQ_0101 1993687 1996037 CS 普通 的 conventional way
+27NC47MBQ_0101 1996407 1998810 EN because that will be very boring
+27NC47MBQ_0101 1998810 2001987 EN (er) so
+27NC47MBQ_0101 2001987 2008387 CS i think i will just wait for her to like me first and then maybe she can ask me 她 可以 问 我
+27NC47MBQ_0101 2016747 2026577 CS no no (er) we must reach 那个 stage where we are close enough so that she actually 要 问 我
+27NC47MBQ_0101 2026697 2032107 EN but of course i will be the one who will who will who will ask her but
+27NC47MBQ_0101 2032197 2038717 EN (erm) this is another fact for you ah its another research fact rather
+27NC47MBQ_0101 2038717 2039917 EN that en
+27NC47MBQ_0101 2039917 2044850 CS 女孩子 不 喜欢 (呃) 男人 问 他们 东西 like
+27NC47MBQ_0101 2044850 2045537 EN (er)
+27NC47MBQ_0101 2045537 2048976 EN because girls don't like to choose
+27NC47MBQ_0101 2049639 2051688 EN basically ah
+27NC47MBQ_0101 2051779 2054438 EN if if i were to ask her
+27NC47MBQ_0101 2054509 2063759 CS hey jacqueline can i come over tonight then she will have to choose between yes or no 她 要 选 ok 还是 不 ok
+27NC47MBQ_0101 2064339 2070969 CS (呃) 所以 所以 如果 你 我 真的 要 去 meet 她的 话 我 不会 去 问 她 (呃)
+27NC47MBQ_0101 2071379 2075809 ZH (呃) 燕 茹 我 可以 (呃) 我 今晚 可以 过去 诶 过来 吗
+27NC47MBQ_0101 2075978 2078498 CS 所以 (er) because 如果
+27NC47MBQ_0101 2078719 2080869 ZH 这 这是 女孩子 的 想法
+27NC47MBQ_0101 2080869 2083579 EN if something (er) goes wrong
+27NC47MBQ_0101 2083599 2092489 CS and 如果 是 她们 (er) made the choice for that thing to happen then 她们 会 觉得 是 她们的 fault
+27NC47MBQ_0101 2092498 2096379 CS it's their fault so that's why 女孩子 不 喜欢
+27NC47MBQ_0101 2096379 2097739 EN (er) making choice
+27NC47MBQ_0101 2097889 2104979 CS but 如果 i use another approach like saying hey jacqueline i will be going down
+27NC47MBQ_0101 2105009 2113089 CS then she won't be able to choose because it's not like she's (er) 她 要 选 只是 我 已经 跟 她 讲 了
+27NC47MBQ_0101 2113109 2116859 EN unless (er) she's busy or something then she will tell me no
+27NC47MBQ_0101 2117069 2122419 EN but if not she doesn't have to choose so by default the answer is yes so
+27NC47MBQ_0101 2122529 2125209 ZH 所以 这个 是一个 方法 (呃)
+27NC47MBQ_0101 2125399 2132639 EN to assist her in (er) saying yes i mean even if she wants to say yes but
+27NC47MBQ_0101 2132639 2138759 CS (呃) 如果 她 not comfortable enough she won't say yes she'll say (er) maybe not
+27NC47MBQ_0101 2139709 2141269 CS and 所以
+27NC47MBQ_0101 2141589 2147789 EN that that is is a very good way actually you you don't ask people like do you want to have lunch
+27NC47MBQ_0101 2147869 2150949 EN you always say let's go have lunch so that
+27NC47MBQ_0101 2150999 2154909 CS it's already implied that 我们 已经 要 去 吃饭
+27NC47MBQ_0101 2154979 2158989 CS 所以 instead of thinking of a reason to say yes
+27NC47MBQ_0101 2159089 2163709 CS because if you ask her then she will have to think 为什么 我 要 说 说 可以
+27NC47MBQ_0101 2163919 2168679 CS but instead she must think of a reason to say no 为什么 我 我 (er)
+27NC47MBQ_0101 2168859 2170129 ZH 应该 说 不可 以
+27NC47MBQ_0101 2170269 2172139 EN so this way
+27NC47MBQ_0101 2172299 2177549 EN you see she doesn't have to look for something good she just has to look for something bad but
+27NC47MBQ_0101 2177649 2183999 CS (呃) 通常 的 时候 应该 没有 something bad for her to reject so
+27NC47MBQ_0101 2184429 2189539 CS most of the time once i say that and then 她 应该 会 说 okay
+27NC47MBQ_0101 2189809 2191749 EN but (er) ya i'm just
+27NC47MBQ_0101 2191749 2197329 CS doing this for  this conversation 你 你
+27NC47MBQ_0101 2197329 2202759 CS 懂 了 吗 so 现在 你 可以 学 我 this method ah so when you
+27NC47MBQ_0101 2202759 2204869 EN join friends for mahjong
+27NC47MBQ_0101 2204869 2208210 EN i know you love mahjong so you don't you don't say (er)
+27NC47MBQ_0101 2212069 2213899 EN en
+27NC47MBQ_0101 2216137 2218007 ZH 我 只是 想 (呃)
+27NC47MBQ_0101 2218007 2219807 EN if if you want to join
+27NC47MBQ_0101 2219807 2223037 EN people for activity maybe barbecue
+27NC47MBQ_0101 2223447 2229547 CS you don't ask them (er) can we barbecue this sunday night then they will 他们 会 想
+27NC47MBQ_0101 2229650 2235190 CS (er) can mah (呃) 为什么 我 要 barbecue 吗 有 别的 better options 吗
+27NC47MBQ_0101 2235490 2240620 ZH (呃) 他们 应该 会 想 哇 应该 是 很 很 麻烦 的 东西 应该
+27NC47MBQ_0101 2240770 2243510 EN (er) they won't want to do it
+27NC47MBQ_0101 2243560 2249490 EN but if you say oh we are having a barbecue this sunday night let's have a barbecue then
+27NC47MBQ_0101 2249500 2252270 CS 他们 应该 会 想 okay (er)
+27NC47MBQ_0101 2252670 2257860 CS 我 应该 没有 什么 东西 on sunday night so oh i should be free i will go
+27NC47MBQ_0101 2263600 2265040 ZH 他们 听 得到 啊
+27NC47MBQ_0101 2265750 2267170 ZH 应该 是 吧
+27NC47MBQ_0101 2269040 2275470 CS but of course i have talked for about 三十分 钟 so the remaining time is 就是 你的
+27NC47MBQ_0101 2277720 2280470 CS 为什么 你 给 我 那个 那个 look
+27NC47MBQ_0101 2297140 2298520 EN tell her what
+27NC47MBQ_0101 2304871 2308380 EN i know melissa well enough to pass the message to melissa myself
+27NC47MBQ_0101 2311901 2313951 CS 可是 你 要 pass 什么 message
+27NC47MBQ_0101 2316031 2318761 EN my why what to to who
+27NC47MBQ_0101 2325232 2329022 CS 我 不懂 你 要 讲 什么 pass 什么 message
+27NC47MBQ_0101 2329092 2332152 CS from from 我 to to who
+27NC47MBQ_0101 2333152 2338162 CS 从 我 to who  from me to who what message
+27NC47MBQ_0101 2338162 2342072 EN 
+27NC47MBQ_0101 2342072 2345592 CS oh my god is oh my 天 in chinese
+27NC47MBQ_0101 2345632 2346922 EN is that correct
+27NC47MBQ_0101 2347522 2349352 CS but why is it 天
+27NC47MBQ_0101 2350462 2352012 CS why isn't it 神
+27NC47MBQ_0101 2352085 2354925 CS why is it not 神 oh my 神
+27NC47MBQ_0101 2355205 2360435 CS oh i know it's oh my 神 right it should be oh my god
+27NC47MBQ_0101 2360435 2361185 EN is
+27NC47MBQ_0101 2361185 2362655 ZH 哦 我的 神
+27NC47MBQ_0101 2370022 2371695 EN no no
+27NC47MBQ_0101 2371695 2374285 EN oh my god in chinese is oh my god
+27NC47MBQ_0101 2381835 2385015 EN yes it's very easy to speak in chinese
+27NC47MBQ_0101 2385145 2387865 EN you just need a chinese accent
+27NC47MBQ_0101 2395275 2404605 CS no but yah at least yah 如果 我 不会 讲 那个 华语 字 我 就会 用 我的 英文 with a chinese accent like (er)
+27NC47MBQ_0101 2404795 2408605 CS like last time (er) 我 以前 在 takashimaya
+27NC47MBQ_0101 2408605 2410095 EN (er) (er)
+27NC47MBQ_0101 2410095 2413795 CS 当 一个 cashier and 有时候 有 一些 (er)
+27NC47MBQ_0101 2413825 2417525 ZH 因为 我 很 我是 一个 (呃) 新教 嘛
+27NC47MBQ_0101 2417525 2418725 EN (er) so
+27NC47MBQ_0101 2418725 2429865 CS a lot of (er) chinese tourist will ask me (er) 对不起 (er) 退 税 在 哪里 and (er) 在 哪里 (er) like i'm trying to point them point them upstairs and i will like
+27NC47MBQ_0101 2429955 2431435 EN like (er) upstairs
+27NC47MBQ_0101 2431435 2439565 EN then sorry (er) upstairs  sorry then i will upstairs then okay so anyway
+27NC47MBQ_0101 2439565 2444475 EN (er) if i if i say long enough in an accent most of them will just go away
+27NC47MBQ_0101 2445426 2446197 EN so
+27NC47MBQ_0101 2455605 2461075 EN no no i i'm a very helpful cashier i just don't understand chinese
+27NC47MBQ_0101 2461075 2465385 EN so 
+27NC47MBQ_0101 2465385 2471475 CS can but somehow when i speak to them in mandarin 他们 会 认为 我 不会 讲 华语
+27NC47MBQ_0101 2471475 2475855 ZH 有时候 啊 他们 会 问 我 诶 我 可以 (呃) 跟 一个
+27NC47MBQ_0101 2475855 2476895 EN (er)
+27NC47MBQ_0101 2476895 2479745 CS 可以 讲 华语 的 人 讲话 吗 then i'll be like
+27NC47MBQ_0101 2479745 2481855 CS 我 可以 讲 华语 then then they
+27NC47MBQ_0101 2481915 2487255 CS they'll look at me and 他们 会 摇 他们的 头 and say 对不起 我 要 跟 一个
+27NC47MBQ_0101 2487282 2491372 CS (呃) 华人 讲话 and i'm like but i'm 华人 and (er)
+27NC47MBQ_0101 2491432 2498752 CS yah so my colleagues will 我的 同事 会 他们 come over ask (er) whats the matter (er) 什么 事
+27NC47MBQ_0101 2509362 2516022 CS oh yah no they just think 我 我 很 帅 that's all and i'm too handsome to be an ordinary chinese
+27NC47MBQ_0101 2516092 2518662 EN you know handsome people are usually mixed blood
+27NC47MBQ_0101 2518662 2531392 CS so they thinking 啊 我 我 这么 帅 所以 (er) i should be mixed blood and maybe i'm some exotic guy from like the like from handsome land you know i'm not from singapore i'm from handsome land
+27NC47MBQ_0101 2532592 2535512 CS 我是 从 handsome land 过来 的 喔
+27NC47MBQ_0101 2535512 2538342 EN and my race is not chinese it's handsome
+27NC47MBQ_0101 2543335 2544052 EN good
+27NC47MBQ_0101 2546592 2549612 CS 对 对 你 讲 correct already
+27NC47MBQ_0101 2559440 2565000 EN no no i i try not to for administrative (er) the the purpose ah
+27NC47MBQ_0101 2565131 2567661 ZH (呃) 我 会 点 华人
+27NC47MBQ_0101 2572951 2580631 CS 对 啊 because no one else is as handsome as me ah so therefore i'm the first handsome you have ever met in your whole life
+27NC47MBQ_0101 2580741 2584361 CS 你 我 应该 是 你 第一个 看过 的 handsome 啊 对 吗
+27NC47MBQ_0101 2584971 2587531 CS because you never see any other 帅哥
+27NC47MBQ_0101 2591231 2592881 EN yeah so so now you know
+27NC47MBQ_0101 2604101 2608241 CS 应~ 应该 是 没有 听 (er) listening to us
+27NC47MBQ_0101 2608911 2613261 EN you see i'm making the effort to code switch in in chinese
+27NC47MBQ_0101 2614081 2618141 EN so anyway maybe next time i i will i will try to
+27NC47MBQ_0101 2618211 2622761 CS (er) maybe i should (er) 问 jacqueline 啊 燕 茹 啊 for maybe
+27NC47MBQ_0101 2622821 2626501 EN chinese lessons (er) then maybe i can talk more to her
+27NC47MBQ_0101 2626501 2634238 EN yah but 
+27NC47MBQ_0101 2634238 2638358 EN oh you are right eh si song are you listening
+27NC47MBQ_0101 2640048 2642278 EN her name is jacqueline ah
+27NC47MBQ_0101 2642308 2646418 CS (er) please put her in my timetable 我 我 喜欢 跟 美女 讲话
+27NC47MBQ_0101 2646428 2649980 EN ah but i'm not saying you are not pretty but you know jacqueline is my type
+27NC47MBQ_0101 2652148 2656298 EN yes and then (er) she always says my mandarin sucks
+27NC47MBQ_0101 2661208 2666468 EN yes that's right i will i will love i will love to i will love to have alot of stuff with her
+27NC47MBQ_0101 2666568 2668708 EN i mean including chinese yes
+27NC47MBQ_0101 2668708 2678822 EN oh melissa will have time~
+27NC47MBQ_0101 2678822 2683192 EN oh ya i should ask her for her time table what is time table in chinese
+27NC47MBQ_0101 2683192 2686832 ZH 时间 时间叼
+27NC47MBQ_0101 2686832 2688602 ZH 表 时间表
+27NC47MBQ_0101 2688862 2690922 ZH 为什么 不是 时间 桌子
+27NC47MBQ_0101 2693132 2694562 EN it's time table
+27NC47MBQ_0101 2694812 2697592 CS 时间 is time table is 桌子
+27NC47MBQ_0101 2698192 2701712 CS so so time table is 时间 桌子
+27NC47MBQ_0101 2711001 2712197 EN okay
+27NC47MBQ_0101 2716543 2719113 EN and you say you are chinese major
+27NC47MBQ_0101 2724117 2726307 EN but you don't know what is time table
+27NC47MBQ_0101 2728097 2731397 EN but you are teaching me the wrong things you are a bad person
+27NC47MBQ_0101 2740977 2747617 CS see 你 也是 很 懒惰 you are very lazy i know how to say 懒惰 in chin~ 懒惰 is lazy
+27NC47MBQ_0101 2751057 2758907 CS but anyway (er) since 你 也是 一个 (er) girl you are a 女孩子 so maybe i should ask you (er)
+27NC47MBQ_0101 2758907 2761537 CS what do 女孩子 like (er)
+27NC47MBQ_0101 2761597 2764927 EN because i don't know much about girls although
+27NC47MBQ_0101 2764927 2766377 EN although
+27NC47MBQ_0101 2766377 2768517 EN i've had a girlfriend before but
+27NC47MBQ_0101 2768517 2771387 CS (er) that (er) 不算 啦 because actually
+27NC47MBQ_0101 2771397 2777717 EN cause she found me very handsome so i didn't to have i didn't have to do anything i just stood there and
+27NC47MBQ_0101 2777787 2785327 CS i was just 很 帅哥 的 i was just being handsome and then she she just decided that she wanted to be 我的 女朋友
+27NC47MBQ_0101 2785327 2790352 EN because
+27NC47MBQ_0101 2790352 2792802 EN no but she's very pretty
+27NC47MBQ_0101 2793512 2800512 CS ya she she was very pretty she was i mean she is very pretty but she is my ex girlfriend 她的 ex 女朋友 啊
+27NC47MBQ_0101 2801042 2803522 EN how do you say ex girlfriend in chinese
+27NC47MBQ_0101 2804472 2807882 CS 前 女朋友 okay she's my 前 女朋友
+27NC47MBQ_0101 2807882 2810462 EN and then yah but
+27NC47MBQ_0101 2810462 2814052 ZH (呃) 因为 我 我 觉得 我 不 喜欢 她 啦 所以
+27NC47MBQ_0101 2814612 2817422 EN that's why now she's my ex even though i'm very handsome
+27NC47MBQ_0101 2818472 2820342 EN and she is very pretty
+27NC47MBQ_0101 2826170 2827912 EN no no no
+27NC47MBQ_0101 2827912 2833722 CS it's it she i told you already she's very pretty and she's (er) 她是 华人
+27NC47MBQ_0101 2834052 2837852 EN but anyway let's not talk about ex it's very rude
+27NC47MBQ_0101 2837852 2838682 ZH 很
+27NC47MBQ_0101 2838682 2842990 CS 很 没有 礼貌 (er) to talk about (er) 前 女朋友 right
+27NC47MBQ_0101 2843610 2848190 EN although i brought it up first but that's okay she cause she's mine
+27NC47MBQ_0101 2849110 2854010 ZH (呃) 所以 (呃) 如 (呃) 你 喜欢 什么 东西 如果
+27NC47MBQ_0101 2854010 2854550 ZH 你
+27NC47MBQ_0101 2854550 2856410 ZH 你 以前 有
+27NC47MBQ_0101 2856410 2856980 ZH (呃)
+27NC47MBQ_0101 2856980 2862580 CS 你 有没有 什么 前 男朋友 is that is that what you call it ex boyfriend 前 男朋友
+27NC47MBQ_0101 2865840 2867650 EN oh you never had one
+27NC47MBQ_0101 2868030 2872820 EN so you're you're (er) what they call in (er) f. o. c. evergreen
+27NC47MBQ_0101 2875750 2877450 EN is it because you are lazy
+27NC47MBQ_0101 2880020 2881740 EN okay so anyway
+27NC47MBQ_0101 2881740 2882650 ZH (呃)
+27NC47MBQ_0101 2882650 2891200 CS so if you are looking for a (er) what do you call a present 男朋友 a 男朋友 okay there's no there's no now 男朋友 okay
+27NC47MBQ_0101 2891571 2893971 CS if you are looking for a 男朋友 now
+27NC47MBQ_0101 2894031 2901771 CS then (er) 你 会 找 什么 东西 你 要 what are you looking for i mean other other than he is handsome and
+27NC47MBQ_0101 2902021 2905611 EN (er) that he is (er) rich and handsome
+27NC47MBQ_0101 2905811 2908621 EN what else are you looking for
+27NC47MBQ_0101 2912926 2914636 EN are you looking at me
+27NC47MBQ_0101 2915146 2917906 EN no okay good anyway so what are you looking for
+27NC47MBQ_0101 2921776 2923116 ZH 所以 你 你
+27NC47MBQ_0101 2923346 2933086 CS 你 会 (呃) 你 要 找 什么 (呃) 条件 is it do you call that (er) got what what requirements (er) for 男朋友 to be your 男朋友
+27NC47MBQ_0101 2939136 2942756 CS because you are 很 懒惰 to to think of any 条件
+27NC47MBQ_0101 2947766 2952886 EN oh that's what every girl says they when they meet the right one they will know it
+27NC47MBQ_0101 2952906 2958496 CS but actually it just means that 她们 现在 不懂 她们 有什么 条件 that's why they will say that
+27NC47MBQ_0101 2958496 2962026 CS but i mean it cannot be that you don't have any 条件 because
+27NC47MBQ_0101 2962026 2967886 CS you are waiting for the right one therefore you already have 条件 just that you don't know what is your 条件
+27NC47MBQ_0101 2985306 2989246 EN so okay let (erm) but generally (er)
+27NC47MBQ_0101 2989666 2998566 CS let's not think about 条件 so you should have some things that will make you (er) 开心 一点 if a if a 男人
+27NC47MBQ_0101 2998656 3001616 EN (er) doesn't have to be a handsome indian looking guy
+27NC47MBQ_0101 3001616 3004090 EN but it could be anyone else yah
+27NC47MBQ_0101 3004090 3006530 EN 
+27NC47MBQ_0101 3006530 3009540 EN no no i i mean i mean (er) what
+27NC47MBQ_0101 3009570 3012340 EN (er) let's say someone else
+27NC47MBQ_0101 3012900 3015090 EN someone else other than me
+27NC47MBQ_0101 3015090 3015960 EN someone
+27NC47MBQ_0101 3015960 3019890 CS someone not so handsome (er) 他 (呃) 多 一些
+27NC47MBQ_0101 3020880 3023240 CS do some 东西 for you
+27NC47MBQ_0101 3023300 3031970 CS (er) and (er) what kind of things would you like him to (er) 为 你 做 other than tutorials
+27NC47MBQ_0101 3038750 3041420 EN but that's very easy for you
+27NC47MBQ_0101 3044089 3046270 EN yes
+27NC47MBQ_0101 3046270 3047720 EN because you are not handsome
+27NC47MBQ_0101 3050431 3051831 ZH 要 比 我 帅 啊
+27NC47MBQ_0101 3052431 3055500 EN oh you have to be single for a very very long time
+27NC47MBQ_0101 3057481 3058681 EN okay anyway
+27NC47MBQ_0101 3058681 3061391 EN so 
+27NC47MBQ_0101 3061391 3063951 EN i think you must lower your expectations ah
+27NC47MBQ_0101 3064191 3065711 EN that is impossible
+27NC47MBQ_0101 3066081 3067261 EN quite quite impossible
+27NC47MBQ_0101 3067261 3068921 EN so (er)
+27NC47MBQ_0101 3068921 3070981 EN so you haven't told me what
+27NC47MBQ_0101 3070981 3071481 EN (er)
+27NC47MBQ_0101 3071481 3076121 EN guys (er) what do you find maybe romantic (er)
+27NC47MBQ_0101 3076121 3082531 CS 你 会 认为 (er) 有 什么 what is 浪漫 浪漫 right yah okay 浪漫 what what will
+27NC47MBQ_0101 3082531 3086331 CS make you feel that the guy has done something 很 浪漫 (呃)
+27NC47MBQ_0101 3086411 3093041 EN then you will feel whoa heart (er) melts ah for him then you will like ah okay he's the right one
+27NC47MBQ_0101 3095751 3097081 EN it's a very hard
+27NC47MBQ_0101 3097781 3100011 CS 真的 很 hard question meh
+27NC47MBQ_0101 3104851 3109451 CS oh so you have to 试 一 试 first then you will know
+27NC47MBQ_0101 3109591 3112711 CS what you like and what 你 不 喜欢 啦
+27NC47MBQ_0101 3122651 3124151 EN you are not helpful
+27NC47MBQ_0101 3124151 3128911 EN (er)
+27NC47MBQ_0101 3128911 3131561 EN okay i think i found ah one thing which
+27NC47MBQ_0101 3131651 3136011 CS 你 会 (呃) 喜欢 你的 男朋友 to do is to talk a lot
+27NC47MBQ_0101 3136011 3138871 EN 
+27NC47MBQ_0101 3138871 3140501 EN oh you really don't mind
+27NC47MBQ_0101 3144182 3145341 EN okay
+27NC47MBQ_0101 3145341 3148460 EN oh i know i know already your boyfriend must love mahjong
+27NC47MBQ_0101 3153267 3154197 EN and ah
+27NC47MBQ_0101 3155651 3159831 CS okay anyway (呃) 如果 如果
+27NC47MBQ_0101 3160291 3167461 ZH (呃) 如果 有一个 男人 (呃) 跟 你 说 (呃) 他 他 喜欢 你
+27NC47MBQ_0101 3168091 3175311 CS 如果 你 问 他 (呃) if you ask him do you like me do you 喜欢 我 then he says (呃) 我 喜欢 你
+27NC47MBQ_0101 3175361 3178731 EN and i like you then how would you feel
+27NC47MBQ_0101 3180731 3188201 CS if if let's say (呃) 如果 你 你 喜欢 他的 话 then 你 会 (呃) 讲 什么 东西
+27NC47MBQ_0101 3192841 3193921 EN is that it
+27NC47MBQ_0101 3197431 3204541 CS but 如果 你 你 you are you are the one who 问 in the first place mah 所以 如果 是 你 你 问 的话
+27NC47MBQ_0101 3204751 3207951 EN then you ask and then he obviously
+27NC47MBQ_0101 3208061 3213041 CS he says or maybe you were hoping that he will say (呃) 没有 我 不 喜欢 你
+27NC47MBQ_0101 3213351 3218741 CS (er) then but he says yes or so in the first place 你 不会 问 啦
+27NC47MBQ_0101 3223861 3225771 ZH 为什么 会 很 奇怪
+27NC47MBQ_0101 3226211 3230781 CS okay 如果 是 男人 问 你 (呃) 你 喜欢 他 吗
+27NC47MBQ_0101 3230781 3231611 EN (er) then
+27NC47MBQ_0101 3231611 3234661 CS let's say you 你 真的 like him
+27NC47MBQ_0101 3234701 3242521 CS so what will you answer 你 会 怎么 回答 他的 question 你 会 跟他讲 maybe
+27NC47MBQ_0101 3242591 3247981 CS or 你 会 跟他讲 yes 或是 no then ha ha ha
+27NC47MBQ_0101 3252864 3254511 ZH 如果 啦 如果
+27NC47MBQ_0101 3258310 3259940 ZH 如果 你
+27NC47MBQ_0101 3259940 3262581 ZH 没有 没有 如 如果 你 真的 喜欢 他
+27NC47MBQ_0101 3263517 3264621 ZH 没有 我
+27NC47MBQ_0101 3264621 3268821 CS 现在 你是 you are the girl and is the 男人 问 你
+27NC47MBQ_0101 3271281 3272971 ZH 啊 你 会 讲 喜欢 啊
+27NC47MBQ_0101 3274687 3275644 EN okay
+27NC47MBQ_0101 3278061 3279871 CS 如果 no
+27NC47MBQ_0101 3279871 3283331 ZH 怎么 如果 (呃) 如果 燕 茹 问 我
+27NC47MBQ_0101 3283331 3288161 CS 如果 (呃) 如果 燕茹 问 我  if i
+27NC47MBQ_0101 3288161 3291780 CS if i 喜欢 她 对 吗 你 在 问 我 这个 问题
+27NC47MBQ_0101 3296880 3300580 CS (呃) 我 应该 会 (呃) reply 对 啊 我 我 喜欢 她
+27NC47MBQ_0101 3304063 3305230 ZH 我
+27NC47MBQ_0101 3305230 3306150 ZH 只有 问 我
+27NC47MBQ_0101 3306330 3310050 EN if i mean if she only ask me that then of course i only give one answer
+27NC47MBQ_0101 3311150 3313950 CS what else am i supposed to (呃) 回答
+27NC47MBQ_0101 3314370 3316190 EN to her question
+27NC47MBQ_0101 3316600 3325050 CS (呃) 男人 是一个 很 simple minded 的 if you ask them a very straight forward question they will give you a very straight forward 的 回答
+27NC47MBQ_0101 3337320 3344860 CS 哎呀 为什么 只有 我 一一 个 (呃) handsome young man doing the code switching all by myself
+27NC47MBQ_0101 3349000 3349940 EN so you agree
+27NC47MBQ_0101 3351842 3353383 EN oh what
+27NC47MBQ_0101 3361298 3362680 EN okay so
+27NC47MBQ_0101 3365880 3368410 EN you never know we're we can try
+27NC47MBQ_0101 3368680 3373110 CS 明秀 认为 joel is a handsome boy
+27NC47MBQ_0101 3376460 3388680 CS yes but you didn't code switch enough so they are running out of sentences to (er) use therefore 他们 应该 会 用 我的 sentences for code switching
+27NC47MBQ_0101 3393390 3398570 CS joel 是一个 很 帅 的 young man
+27NC47MBQ_0101 3402310 3404920 CS (呃) 我 自己 happy 就 好 了 okay
+27NC47MBQ_0101 3406490 3409520 CS no i think this will make a lot of people 很 开心
+27NC47MBQ_0101 3425193 3427211 EN so anyway
+27NC47MBQ_0101 3427211 3428661 EN (er) talking about
+27NC47MBQ_0101 3428661 3429671 EN (erm)
+27NC47MBQ_0101 3429671 3432491 CS 男人 and handsome man (er)
+27NC47MBQ_0101 3432671 3441241 CS oh (er) i heard from my 朋友 that (er) girls ah eye candy is not necessarily (er) 她们 喜欢 的 人
+27NC47MBQ_0101 3441321 3443881 EN (er) but it's just eye candy (er) like
+27NC47MBQ_0101 3443881 3445501 EN (erm)
+27NC47MBQ_0101 3445501 3449031 CS like 男人 一样 啦 eye candy is just eye candy ah
+27NC47MBQ_0101 3449211 3451701 CS you know 你 懂 eye candy 是什么 吗
+27NC47MBQ_0101 3451991 3454421 CS okay eye candy in 华语 是什么
+27NC47MBQ_0101 3455361 3456701 ZH 眼睛 糖
+27NC47MBQ_0101 3457771 3459211 EN why you laugh until like that
+27NC47MBQ_0101 3459421 3460871 CS 眼睛 糖 no meh
+27NC47MBQ_0101 3461281 3462361 EN eye candy ah
+27NC47MBQ_0101 3464891 3466031 ZH 哦 欣赏 的 人
+27NC47MBQ_0101 3466121 3467301 ZH 仰慕 者
+27NC47MBQ_0101 3469011 3470051 EN how do you say that
+27NC47MBQ_0101 3470051 3473331 CS how okay if i want to go to 燕 茹 and 跟 她 讲
+27NC47MBQ_0101 3473421 3476751 CS (呃) 你是 我的 眼睛 糖 how do i say that correctly
+27NC47MBQ_0101 3486706 3488034 ZH 你 你 你
+27NC47MBQ_0101 3491101 3492101 ZH 眼睛 糖
+27NC47MBQ_0101 3494391 3504301 CS oh you are really a bad person you are majo~ major in chinese 华语 and you don't want to teach me the correct way to say 眼睛 糖 okay anyway
+27NC47MBQ_0101 3504451 3508451 CS so (er) but then i my (er) 我的
+27NC47MBQ_0101 3509131 3513841 EN female friend how do you say female friend in chinese
+27NC47MBQ_0101 3514551 3518281 CS 女性 朋友 跟 我 讲 (呃) 她 的 eye candy (er)
+27NC47MBQ_0101 3518471 3520811 ZH (呃) 不是 很 帅 (呃) 可是 (呃)
+27NC47MBQ_0101 3521011 3523101 ZH 只是 她 认为 (呃)
+27NC47MBQ_0101 3523251 3527641 CS 不懂 为什么 啊 可是 只是 她 选 他 当 她的 eye candy
+27NC47MBQ_0101 3527764 3531724 EN so i'm thinking (er) girls actually choose eye candy and
+27NC47MBQ_0101 3532134 3535004 CS guys guys (er) 男人
+27NC47MBQ_0101 3535114 3540744 CS 一 看到 一个 美女 就 okay (呃) 认为 okay 那个 够 美 啦 她 就是 eye candy 了
+27NC47MBQ_0101 3540794 3548144 CS but for 女人 是 不一样 的 她们 一定要 (呃) 选 一个 eye candy 啊 她们 要 看看 看 and then
+27NC47MBQ_0101 3548144 3548640 ZH (呃)
+27NC47MBQ_0101 3548640 3552334 CS 虽然 那个 不是 很 帅 but that's my eye candy
+27NC47MBQ_0101 3552334 3564914 EN (er) is that true for girls that they actually have eye candy that is (er) they're not handsome like me but they they just choose (er) eye candy
+27NC47MBQ_0101 3564914 3568324 EN 
+27NC47MBQ_0101 3568324 3574474 EN they choose so is not like maybe (er) f. four and got four people right so
+27NC47MBQ_0101 3574694 3579074 EN you don't choose the most handsome one but you just choose someone else as your eye candy so you
+27NC47MBQ_0101 3579134 3580654 EN that that's possible
+27NC47MBQ_0101 3580654 3585000 ZH 你 会
+27NC47MBQ_0101 3585000 3588704 CS but (呃) 这个 不是 taste 的 问题 诶 她说 (呃)
+27NC47MBQ_0101 3588794 3597544 EN is not based on looks actually so i'm quite puzzled because eye candy is eye candy if it's not based on looks then it's not eye candy it's like eye medicine

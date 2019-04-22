@@ -1,0 +1,60 @@
+UI24MAZ_0105 0 2409 CS maybe 我 给你 一个 example for taiwan
+UI24MAZ_0105 3076 16757 CS 一路 来 是 国民党 拿的 嘛 国民党 啊 then 你 一换 一 你 换 整个 你 不要 讲 换人 哪 你 换人 你 换 整 另外 一个 party to rule 的话 是 不是 会 比较 不 一样 的 东西
+UI24MAZ_0105 19337 22076 CS 就是 你 是 一间 的 公司 的 c. e. o.
+UI24MAZ_0105 22849 25784 CS 你 你 你 control 了 这间 公司 for thirty years
+UI24MAZ_0105 26677 31993 CS 可能 你 觉得 你 每次 在 improve 着 but 对 外面 的 人 人家 觉得
+UI24MAZ_0105 32555 43374 CS 你的 style 你 每次 做的 style 是 这样 罢了 but not fit to our requirement already 是 不是 需要 别的 别的 人 进来 带动 这个 公司 起来
+UI24MAZ_0105 43374 51809 EN em hmm
+UI24MAZ_0105 51809 54724 CS 啊 对 啦 这个 that 这个 也是 有
+UI24MAZ_0105 54724 75458 EN (em) hmm ah okay ah huh huh ah huh
+UI24MAZ_0105 75458 77214 CS hmm so far 我
+UI24MAZ_0105 77214 80269 EN ah huh
+UI24MAZ_0105 80269 81850 ZH 我 我 我 我 明白 你
+UI24MAZ_0105 81850 94349 ZH 对 emm hmm hmm
+UI24MAZ_0105 94349 98610 CS 对 that's why 你看 啊 在 for 那个 日本 那是 什么 东西
+UI24MAZ_0105 99559 106622 CS 啊 他们 他们 dare to change 他们 的 思想 会 比较 不 一样 哦 他们 人民 dare to take the risk
+UI24MAZ_0105 109533 116065 CS okay for simple for simple rules 啦 有 哪 一个 business lah 没有 risk 的话 可以 赚钱 的 嘞
+UI24MAZ_0105 116065 126825 ZH ah huh ah huh huh 对
+UI24MAZ_0105 126825 131595 CS 我 我 我 知道 but that 我 我 知道 then 我要 stress on 的 就是 讲说 是
+UI24MAZ_0105 132865 136627 CS okay so far 你 你 这样 讲的 话 啦 我们 so far 我们 malaysia lah
+UI24MAZ_0105 137154 146118 CS after ninety years lah 你 觉得 我们 真的 within ninety years 到 two o. one o. 有 二十年 里面 你 有 看到 有 多大 的 improvement 吗
+UI24MAZ_0105 148568 152925 CS within 这 二十年 里面 啦 我 不要 讲 什么 啦 二十年 里面 i do believe that
+UI24MAZ_0105 153293 161550 CS 一九 啊 到 二 一九九七 的 时候 还是 有 有 一点 improvement 那 一种啦 but 你 看 我们 越 来 越 输 给
+UI24MAZ_0105 162494 166205 CS korea 你看 korea 以前 是 我们 看 不起 他的 喔 under 我们 的 嘛
+UI24MAZ_0105 166205 171577 CS but south korea bomb up wor indonesia vietnam 他们的 g. d. p. 比 我们 更高 哦
+UI24MAZ_0105 171577 187512 EN ah (em) hmm
+UI24MAZ_0105 187512 191130 CS 对 对 对 that 我 不是 我 不 清楚 啦 but 就是 可能 讲说
+UI24MAZ_0105 192043 199838 CS 啊 现在 就是 (呃) 我们的 current 的 government 就是 不能 把 我们 带出 from 这个 不能 帮
+UI24MAZ_0105 199838 202076 CS 不能 帮 我们 bonce back from 这个 point lah
+UI24MAZ_0105 202788 208410 CS 就是 我们 已经 跌 在 这边 that okay 在 这 在 这个 graph 里面 已经 static 很久 了
+UI24MAZ_0105 208934 215290 CS then 就是 好像 日本 这样 啦 每年一 percent 在 这边 很久 了 他们 当然 是 想说
+UI24MAZ_0105 216063 217257 CS 要 bounce back mah
+UI24MAZ_0105 218324 221766 CS 不是 讲说 so usually why not 他们 会 讲说 可能 给 日本
+UI24MAZ_0105 222117 229362 CS okay 这 一次 我 选你 你 讲你 你 你 讲你 的 idea mah 你 讲说 啊 我 做 过后 我 要 做 这个 做 这个 他们 do believe 你
+UI24MAZ_0105 230440 235785 CS but 你 做不到 他们 讲 okay 明年 下 一届 的 时候 因为 maximum 是 five years mah
+UI24MAZ_0105 235785 240446 CS 他讲 why not 他们 讲 next 下 一届 election 的 时候 他们 可以 选 别人 嘞
+UI24MAZ_0105 241727 246070 CS 你 也 不能 guarantee 讲说 我 做 了 我 觉得 下 一届 也是 我 做 嘛
+UI24MAZ_0105 247381 249243 ZH 没有 人 会 知道 这 个 东西 的
+UI24MAZ_0105 258023 260448 ZH 啊 我 觉 对
+UI24MAZ_0105 267834 272716 CS 对 五十多年 了 i do believe that 这个 这个 东西 还是 在
+UI24MAZ_0105 274085 277316 CS 还是 我们 的 main 的 那个 problem mah
+UI24MAZ_0105 277316 310311 EN (em) hmm ah huh ah huh ah huh ah huh huh huh
+UI24MAZ_0105 310311 311751 ZH 对 对
+UI24MAZ_0105 314069 314701 ZH 对
+UI24MAZ_0105 314701 324570 EN (em)
+UI24MAZ_0105 324570 329359 CS 我 有 读 到 一个 article 是 这样 嗯 他们 讲 one of the reason 他们 不要 combine 起来
+UI24MAZ_0105 329956 332555 CS 就是 你 刚才 这样 讲 so that's why 他们 每年
+UI24MAZ_0105 332555 337305 CS 你看 north korea still 会 sustain 就是 每年 south korea 有 给 他们 钱 pun 你 知道 吗
+UI24MAZ_0105 338069 343207 CS 他们 有 给 他们 一笔钱 那些 东西 but which really help north korea a lot
+UI24MAZ_0105 348886 351026 CS ah communist ah 他 他们 是
+UI24MAZ_0105 351026 358487 EN (em) hmm (em)
+UI24MAZ_0105 358487 359681 ZH 啊 对 我 明白
+UI24MAZ_0105 362561 364647 ZH 有 过 过半 我 明白 现在
+UI24MAZ_0105 367969 372488 CS 啊 then 你 刚刚 起好 一个 医院 then 被 炸弹 炸 下来 then 你 还要 再起
+UI24MAZ_0105 375217 375849 ZH 对 对 对
+UI24MAZ_0105 376551 377813 ZH 对 对 对 对 对
+UI24MAZ_0105 377813 379161 ZH 这个 我 赞同
+UI24MAZ_0105 383329 383821 ZH 对
+UI24MAZ_0105 387544 388815 ZH 对 对 对 对 对
+UI24MAZ_0105 391196 395099 ZH 对 对 对 对 对 你 我 我 赞同 你的 这个 讲法
+UI24MAZ_0105 398517 399605 EN okay

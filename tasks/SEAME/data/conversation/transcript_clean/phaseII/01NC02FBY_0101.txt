@@ -1,0 +1,1778 @@
+01NC02FBY_0101 0 1470 CS 十月 you mean finals
+01NC02FBY_0101 2201 2605 ZH 我们
+01NC02FBY_0101 3037 3804 ZH 进 啊 没有
+01NC02FBY_0101 6675 7583 ZH  等一下 
+01NC02FBY_0101 7583 10158 CS 不可以 讲出去  我们 是不是  yah
+01NC02FBY_0101 10758 11274 EN 
+01NC02FBY_0101 11700 13150 ZH 我们 拿 多少 分 啊 到 最后
+01NC02FBY_0101 13479 13810 ZH 算
+01NC02FBY_0101 14043 14619 ZH 一百
+01NC02FBY_0101 15940 17650 ZH 八十六 加 八十 加
+01NC02FBY_0101 17906 18458 ZH 一 六
+01NC02FBY_0101 19829 21215 CS 哦 cause 那个 cui
+01NC02FBY_0101 25971 28270 ZH 我 拿 一 五 八
+01NC02FBY_0101 29690 31470 CS then 那个 我们 top three 谁 是 top two
+01NC02FBY_0101 31674 32680 CS 对 呀 那个 area five 多少
+01NC02FBY_0101 33574 36562 CS 诶 那个 then 谁 拿 那个 top one 那个 foucia*
+01NC02FBY_0101 37071 37579 ZH 哦 哦
+01NC02FBY_0101 41723 41981 CS 你-
+01NC02FBY_0101 42202 44287 CS 恶心 哦 你 知道 然后 他-
+01NC02FBY_0101 55358 56217 EN 
+01NC02FBY_0101 62160 66420 CS 哎哟 哪里 可能 那个 你 不 就 跟 我 讲 tricia 拿 一 八
+01NC02FBY_0101 67544 67900 EN ya lor
+01NC02FBY_0101 68255 68954 CS foucia 拿 什么
+01NC02FBY_0101 70380 71120 EN oh my god
+01NC02FBY_0101 72830 74840 ZH 没有 啦 我 拿 比较 高 一点点 一 五 八
+01NC02FBY_0101 74963 75588 EN 
+01NC02FBY_0101 77634 78480 ZH 诶 还是 我 是
+01NC02FBY_0101 79841 80945 CS then 那个 area five
+01NC02FBY_0101 83453 86948 ZH huh 十几 号 讲 多 一次 十一月 十号
+01NC02FBY_0101 87237 88304 ZH 十月 十一号
+01NC02FBY_0101 98548 99296 ZH 我们
+01NC02FBY_0101 99415 101163 EN not very so wish
+01NC02FBY_0101 101641 102647 CS <unk> me* 有没有
+01NC02FBY_0101 103980 106030 ZH 十 号 十月 对不对 啊
+01NC02FBY_0101 106290 108460 CS hopefully 那天 我 没有 那天 我 有 空
+01NC02FBY_0101 109579 109965 CS 因为-
+01NC02FBY_0101 111198 111676 EN cause
+01NC02FBY_0101 111960 114260 CS prelim 是 own time own target
+01NC02FBY_0101 114612 115569 CS 高兴 几点 去 what
+01NC02FBY_0101 117404 120372 CS (hm) hopefully 可以 哦 它 是 拜六
+01NC02FBY_0101 123082 127565 ZH 哎哟 十月 十号 听起来 像是 很 没有空 的 时候 哩
+01NC02FBY_0101 129860 132200 ZH 很 早 很 早 哎呀 我 忘记 了 去年 几时 啊
+01NC02FBY_0101 138465 140955 EN cause ah individuals final (rr)
+01NC02FBY_0101 141617 142329 EN pre- team
+01NC02FBY_0101 145306 147421 ZH  就 给 我们 射 先 哪
+01NC02FBY_0101 148593 150261 CS  蔡-
+01NC02FBY_0101 150408 154762 CS wah lau 你 square target 都 赢 那个 八十八 <unk> 你 是 说 我们 这次的 
+01NC02FBY_0101 154870 158100 CS 叫 那个 area 诶 可是 c. i. 哦 你 应该 不懂 c. i.
+01NC02FBY_0101 158410 158705 CS 因为-
+01NC02FBY_0101 161403 162237 EN 
+01NC02FBY_0101 165104 169570 CS k. 这次 要 射 好 来 不要 整天 这样 乱 乱 射 乱 乱 射
+01NC02FBY_0101 171988 175839 CS  area five but 他们 拿 第一
+01NC02FBY_0101 176403 177335 CS i think 等一下 我们
+01NC02FBY_0101 177678 178390 EN quite difficult
+01NC02FBY_0101 182970 185020 ZH 哎哟 会 有 失手 的 时候
+01NC02FBY_0101 186597 188020 CS 可能 这次 male 会 失手 诶
+01NC02FBY_0101 188020 189234 EN 
+01NC02FBY_0101 189234 190706 EN <unk> wah lau
+01NC02FBY_0101 193425 194087 ZH 唉
+01NC02FBY_0101 200816 201625 ZH 赢 我们 二十多
+01NC02FBY_0101 201981 202423 CS 就 拿 top
+01NC02FBY_0101 203158 203649 ZH 什么 意思
+01NC02FBY_0101 206200 207390 ZH huh 他们 才 五六多
+01NC02FBY_0101 207781 208566 EN ah wait what you mean
+01NC02FBY_0101 209361 210895 ZH 对 呀 他们 的 五六多 是
+01NC02FBY_0101 211263 212783 CS 他们那个 他们 的 topo* 是 五六多
+01NC02FBY_0101 213176 215817 ZH huh 这样而已 啊 我 还以为 是那种 过 六头 的 诶
+01NC02FBY_0101 217246 218424 EN 
+01NC02FBY_0101 218718 219577 EN yeah
+01NC02FBY_0101 219658 223111 CS 去年 超 excited 我 都 不懂 我 是 怎样 射 出来 的 因为 没 睡觉
+01NC02FBY_0101 224776 225892 EN five days oh
+01NC02FBY_0101 226113 226591 EN my god
+01NC02FBY_0101 229582 234046 CS  你 有 神经病 啊 我 做 f.y.p. 就 够了 了 就 不需要
+01NC02FBY_0101 234891 235553 EN yah man
+01NC02FBY_0101 236792 237221 ZH 唉
+01NC02FBY_0101 238178 238963 CS 我 的 camera 嘞
+01NC02FBY_0101 239500 240702 CS then 哦 瑞宝 讲
+01NC02FBY_0101 240990 243800 CS 搞 笑 刚才 breakfast i asked 瑞 宝 (呃)
+01NC02FBY_0101 244835 246790 ZH 我们 (呃) 我 我 讲 若惠
+01NC02FBY_0101 246790 249670 CS 讲 等等 下 可以 meet 我们 去 吃 晚餐 after gym then
+01NC02FBY_0101 249837 250340 ZH 他 就 讲
+01NC02FBY_0101 251368 252766 CS 唉呀 我 六点多 meet 他 去 gym
+01NC02FBY_0101 252913 253109 EN then
+01NC02FBY_0101 253526 254422 ZH 他 就 讲 (emm)
+01NC02FBY_0101 255360 257740 CS ar 我们 gym 到来 八点 多 leh then 我 就 讲
+01NC02FBY_0101 258296 261079 ZH 唉呀 差不多 啊 若惠 她 讲 她六点多
+01NC02FBY_0101 261545 262146 ZH 哈 
+01NC02FBY_0101 264608 269661 CS  我 就 我 就 it didn't occur to me that 你 then 你 就 不要 meet 我们 吃饭了 还是-
+01NC02FBY_0101 273154 273804 ZH 我们
+01NC02FBY_0101 274970 277370 CS i didn't know that 因为 i (er) i didn't tell you cause i thought
+01NC02FBY_0101 277400 282200 CS 你 有 meeting ya 我 就 没有 reconcile 那个 part with 你 讲 的 那个 part
+01NC02FBY_0101 282507 283145 EN ya lah loh
+01NC02FBY_0101 283942 285252 CS then 其实 我 就 讲 (呃)
+01NC02FBY_0101 285536 286763 CS 若惠 讲 去 farm mart 吃
+01NC02FBY_0101 287165 289827 CS the~ 啊 没有 我 讲 若惠 问 要不要 去 farm mart 吃
+01NC02FBY_0101 290168 292131 CS (啊) then 我 就 讲 or rather- (er)
+01NC02FBY_0101 292410 296150 CS 若惠 讲 因为 你 驾车 所以 要不要 去 farm mart 吃 然后 他 就 讲
+01NC02FBY_0101 296203 296889 ZH 我 没有 驾车
+01NC02FBY_0101 297380 297871 EN then-
+01NC02FBY_0101 299146 303013 CS 诶 对 对 对 对 对 他 有 驾车 他 就 故意的 因为 我们 讲- 什么 他 就 讲
+01NC02FBY_0101 303209 307036 CS 我 没有 驾车 then 我 就 所以 我们 还是 可以 去 farm mart 的 啊 他 想 讲 我 就 讲
+01NC02FBY_0101 307281 308900 CS 好 我 拜六 才 去 farm mart then 他就讲
+01NC02FBY_0101 309587 311746 CS wave* 然后 我 就 讲 哈
+01NC02FBY_0101 312080 317650 CS 问题 不是 在于 去 farm mart 去 到 那边 我们 要 去 哪里 找 cab 搭 回来 他 就 讲 then 搭 shuttle bus 咯
+01NC02FBY_0101 317650 319430 CS  then 我 就 想 了 一下 我 就 讲
+01NC02FBY_0101 319430 321910 CS 其实 我 okay ah then 他 就 讲 哎呀 他 有 驾车 啦
+01NC02FBY_0101 322534 323712 CS but 就 ya loh 我们
+01NC02FBY_0101 324090 327210 CS 去 gym 一个 小时 来讲 after that 冲凉
+01NC02FBY_0101 327538 331309 CS i think by the time 都 已经 八点多 了 你 看 你 要 去 哪里 我 就 算了 拜天
+01NC02FBY_0101 333272 334329 CS oh yah 昨天 很 搞笑 啊
+01NC02FBY_0101 334489 336720 CS 我 昨天 我在 开 我 calendar 的 时候
+01NC02FBY_0101 336991 337641 ZH 我 就 看到
+01NC02FBY_0101 337886 339307 CS 这个 拜六 若惠's birthday
+01NC02FBY_0101 339675 340631 CS then 我 就 click
+01NC02FBY_0101 341071 344591 CS 瑞宝 跟 庆辉 into a m.s.n. window then 我 就 讲 诶
+01NC02FBY_0101 344848 346014 CS saturday is 若惠's birthday leh
+01NC02FBY_0101 346580 349170 CS then 瑞宝 没有 reply 我 他 就 totally 静悄悄 静悄悄
+01NC02FBY_0101 349458 349777 EN then after that
+01NC02FBY_0101 349900 350194 EN 
+01NC02FBY_0101 350881 351637 ZH 庆辉 就 问
+01NC02FBY_0101 352058 352475 EN is it
+01NC02FBY_0101 352892 353530 ZH 他 就 会
+01NC02FBY_0101 353824 355100 ZH 他 就 碎碎念 碎碎念
+01NC02FBY_0101 355390 356730 CS 不懂 什么 东西 then 我 就 讲
+01NC02FBY_0101 357136 357504 EN yah
+01NC02FBY_0101 357800 360200 EN (er) i checked the calendar already then
+01NC02FBY_0101 360565 361031 ZH 她 就 讲
+01NC02FBY_0101 361154 361424 ZH (呃)
+01NC02FBY_0101 361847 366420 CS oh ok still got- then 那时候 我 跟 他 讲 说 是 十一点多 他 就 讲 still got twenty more minutes let me go and message her
+01NC02FBY_0101 367046 367573 CS then 我 就
+01NC02FBY_0101 367855 368432 EN dot dot dot
+01NC02FBY_0101 368763 369448 EN (er)
+01NC02FBY_0101 369546 370049 EN i said
+01NC02FBY_0101 370476 375210 CS this saturday eh why you today- not today eh then 他 就 eh no ah you said today what 我 就
+01NC02FBY_0101 375676 376093 EN no
+01NC02FBY_0101 376093 376522 ZH 他 就 讲
+01NC02FBY_0101 376927 378124 EN your message say today
+01NC02FBY_0101 378308 380552 CS then i think 他 关掉 那个 window 了 then 就
+01NC02FBY_0101 381214 383066 CS 他 就 没有 i think 他 没有 save 我 不懂 啊
+01NC02FBY_0101 383310 387853 CS 呵 我 就 scroll up 我 明明 那里 写 若惠's birthday this saturday (唉) 我 就 copy paste
+01NC02FBY_0101 388301 388829 CS then 他 就
+01NC02FBY_0101 389282 389491 ZH (诶)
+01NC02FBY_0101 390386 392349 CS 唉 我 跟 你 讲 right 那天 (呃)
+01NC02FBY_0101 392741 394691 CS 很久 以前 有一个 monday (诶)
+01NC02FBY_0101 395108 398343 CS 我 不懂 我 不懂 有没有 跟 你 讲 有一次 我 不就 搭 train with mobile broadband
+01NC02FBY_0101 398503 399227 CS 在 train 上面
+01NC02FBY_0101 399472 399631 EN umm
+01NC02FBY_0101 399913 401851 CS m.s.n. noh usually when 我 来 学校
+01NC02FBY_0101 402310 404540 CS then 就 上 个 拜 二 早上
+01NC02FBY_0101 404793 406031 CS then 我 就 看到 他 online
+01NC02FBY_0101 406191 407148 EN we were chatting chatting
+01NC02FBY_0101 407282 407749 ZH 对 对 对
+01NC02FBY_0101 407967 408948 CS cause that day 他 在 做工 then
+01NC02FBY_0101 409411 411901 CS 我们 就 chatting chatting 然后 我 就 不懂 讲
+01NC02FBY_0101 412720 413730 ZH 讲 了 什么 东西
+01NC02FBY_0101 414637 416820 CS then 他 就 totally wrong oh 他 就-
+01NC02FBY_0101 417470 418375 ZH 唉呀 我 忘记 了 了 唉
+01NC02FBY_0101 419638 421502 CS but 他 还 在 做工 啦 而且
+01NC02FBY_0101 422398 424863 CS then he don't know tell me what then 就 totally like
+01NC02FBY_0101 425174 429344 CS wrong 的 oh oh ok ok 我 记得 他 在 跟 我 讲 那个 for one more day
+01NC02FBY_0101 429450 432130 CS 的 那 本 书 cause i was saying something about (err)
+01NC02FBY_0101 432410 435610 CS 我 还 挺 guilty 的 我 每次 都 骂 我 爸 cause 我 爸 整天 烦 我
+01NC02FBY_0101 435987 440427 CS then 我 就 讲 我 看到 那个 youtube 的 那个 video then 我 还 觉得 挺感动的
+01NC02FBY_0101 440427 442095 CS then 他 就 讲 唉呀 我 应该-
+01NC02FBY_0101 442561 442905 ZH 啊 啊
+01NC02FBY_0101 443150 444754 CS then 他 就 讲 我 应该 去 读
+01NC02FBY_0101 444957 447429 CS 那本 书 for one more day 他 是- then 他 的 exact words 是
+01NC02FBY_0101 447796 449175 CS 唉呀 i should borrow you
+01NC02FBY_0101 449316 451173 EN (err) the for one more day
+01NC02FBY_0101 451424 451884 CS then 我 就 讲
+01NC02FBY_0101 452099 453932 EN you mean lend me for one more day
+01NC02FBY_0101 454171 455391 CS 他 就 oh l.o.l.
+01NC02FBY_0101 455598 458468 CS sorry monday morning i haven't wake up 我 就 dot dot ah boy
+01NC02FBY_0101 458774 459714 EN today is tuesday
+01NC02FBY_0101 460278 461284 CS then 他 就 
+01NC02FBY_0101 461468 463725 CS oh  then 他 就
+01NC02FBY_0101 463921 468236 CS then 我们 就 唉 这 真的 是 老 到 不可以 再 老 了 他 只好 是 <unk>
+01NC02FBY_0101 469009 469708 ZH 对
+01NC02FBY_0101 469708 472134 CS then 昨天 他 又 那个 跟 我 讲 说
+01NC02FBY_0101 472710 473802 CS you said- 就 you said
+01NC02FBY_0101 473937 474562 CS today what 我 就
+01NC02FBY_0101 474894 477420 CS no i said saturday is 若惠's birthday  then 他 就
+01NC02FBY_0101 477687 478043 EN is it
+01NC02FBY_0101 478141 479220 CS then 我 就 paste 他 就
+01NC02FBY_0101 479551 479981 EN oh
+01NC02FBY_0101 480336 480839 EN 
+01NC02FBY_0101 481379 482581 EN an-ah
+01NC02FBY_0101 483560 484848 CS super cock up lor 他
+01NC02FBY_0101 485201 486219 ZH 我 就 beh-tahan 他
+01NC02FBY_0101 486844 488157 CS then 我 就 在 这边 想- 讲 讲 讲
+01NC02FBY_0101 488954 491491 CS 哪 then 我 就 我 只好 就 一直 kio 他 我 就 
+01NC02FBY_0101 491491 495730 CS 你 everyday 都 在 blur 他 讲- then 我 就 讲 你 的 no life like- 因为 拜六 有 看到 他 online then 我 就
+01NC02FBY_0101 495730 498320 EN oh my god saturday night and you are at home
+01NC02FBY_0101 498320 500111 CS  then after that 他 就-
+01NC02FBY_0101 500564 506580 CS okay 我们 就 继续 聊 聊 聊 他 就 讲 you also at home what then 我 就 讲 oh cause i everyday also go out 这 是 我 唯一 一天 在 家 诶
+01NC02FBY_0101 506580 507784 CS then after that 我 就 讲 (呃)
+01NC02FBY_0101 508324 510610 CS then 后来 就 不懂 讲 什么 鬼 啦 then sunday
+01NC02FBY_0101 510900 518998 CS  我 又 看到 他 online 我 就 oh my god sunday eh 你 还 on~ you really no life like- 他 就  ya lor now that i think about it (err) i weekdays
+01NC02FBY_0101 519443 519627 EN (em)
+01NC02FBY_0101 520440 522289 EN always at home after work go home
+01NC02FBY_0101 522632 526005 CS then weekends also never go out 他 就 oh man i wanna nobody date me out
+01NC02FBY_0101 526347 526629 EN 
+01NC02FBY_0101 531600 536339 CS 他 应该 不可 以 吧 他的 那种 chemical bio science 的 东西 应该 得 要 去 下去 lab 做 对 吗
+01NC02FBY_0101 536729 538287 CS 其实 我 不懂 他在 做么 诶 i think 他在
+01NC02FBY_0101 538385 539146 CS 就 那种 很 slack mah
+01NC02FBY_0101 539342 540703 ZH  刚才 瑞宝 跟 我 讲
+01NC02FBY_0101 540875 545484 CS andy-phua 的 g.p.a. (err) andy-phua 是 not even thrid class (oh) third class eh
+01NC02FBY_0101 545791 546404 EN is it
+01NC02FBY_0101 549909 550547 ZH 对 哦 对 哦
+01NC02FBY_0101 554187 554690 EN 
+01NC02FBY_0101 554886 555070 EN 
+01NC02FBY_0101 555953 556149 ZH 啊
+01NC02FBY_0101 562634 565700 CS oh you mean 每个人 都 pangseh 我 以为 那个 谁 有 去 诶
+01NC02FBY_0101 565884 566534 ZH 那个 叫 什么 名
+01NC02FBY_0101 567010 569537 ZH 那个 叫 什么 名 我们 那个 啊 对 
+01NC02FBY_0101 573691 574820 EN <unk>
+01NC02FBY_0101 577443 580669 CS oh my god 老板 几岁
+01NC02FBY_0101 581257 582177 EN 
+01NC02FBY_0101 598259 598590 ZH 嗯
+01NC02FBY_0101 606166 607037 CS peggy 谁 是 peggy
+01NC02FBY_0101 612406 613731 ZH 唉呀 不 认识 啦
+01NC02FBY_0101 620559 620940 EN 
+01NC02FBY_0101 629007 629915 EN oh my god
+01NC02FBY_0101 630921 631203 EN stress
+01NC02FBY_0101 636780 637957 CS 对 因为 他-
+01NC02FBY_0101 639110 640778 ZH 因为 他 每次 (呃)
+01NC02FBY_0101 641060 641870 CS 那种 他 exam
+01NC02FBY_0101 642150 644660 CS oh shit 这个 真的 confidential 不可 以 乱 讲
+01NC02FBY_0101 644690 648340 CS (er) 他 就 每次 exams then 他 没有 读 他 就 干脆 去 拿 m. c.
+01NC02FBY_0101 648845 651384 CS 所以 我 就 assume- then 他 跟 alvin 一样 他 就 那种
+01NC02FBY_0101 651762 652510 ZH (呃) 读不完
+01NC02FBY_0101 652670 652964 EN as in
+01NC02FBY_0101 653310 655650 CS 不会 做 then 就 去 拿 m. c. 先 next sem 才 take
+01NC02FBY_0101 655890 658560 CS 我 就 assume 有 这种 mentality 的 人 一定 是 考 很好
+01NC02FBY_0101 658984 663201 CS kien-wah 我 以为 kien-wah 打包 很多 我 觉得 他 一定 考 不好 but 我 听说 他 拿 second-lower or something
+01NC02FBY_0101 667772 672114 CS huh b minus 叫 screw up ah shit  如果 prof 给我 d 我 就 完了
+01NC02FBY_0101 673779 678170 CS 真的 hor 我 就 叫 他 给 一个 d really like give me a d i wanna see my friend 砍头
+01NC02FBY_0101 680338 681160 ZH 屁 哦
+01NC02FBY_0101 681810 683490 ZH 我 没有 什么 打算 要 做 诶
+01NC02FBY_0101 683686 684275 ZH 忘记 了
+01NC02FBY_0101 685845 687488 CS yah 我 也 忘记 什么 红
+01NC02FBY_0101 687842 689178 CS yah 大红人 
+01NC02FBY_0101 691766 695223 CS 有 切 我 最厉害 就是 拿 d plus 还没有 看 我 result
+01NC02FBY_0101 696326 696792 ZH 唉
+01NC02FBY_0101 697231 697710 EN my god
+01NC02FBY_0101 697943 701046 CS 可是 我 看 他 整天 打包 啊 不然 就去 教 什么 tuition
+01NC02FBY_0101 701804 705569 CS 他 也 打包 很多 module 他 跟 庆威 一起 做 roomie 的 时候 他们 打包 了-
+01NC02FBY_0101 706468 707474 ZH 他们 呸 呸 呸
+01NC02FBY_0101 707640 711360 CS 他 打包 了 挺 多 module 而且 他 天天 都 没有 去 上课 他 就 天天 去 教 tuition
+01NC02FBY_0101 712291 714965 CS then 我 就 跟 庆威 讲 你 的 rommie 根本 就 不是-
+01NC02FBY_0101 715246 716889 CS 他 是 full time tuition teacher
+01NC02FBY_0101 717073 718484 CS 根本 都 没有 读书 哦 part time
+01NC02FBY_0101 720872 721473 EN alvin
+01NC02FBY_0101 722074 722614 ZH 我 不懂 诶
+01NC02FBY_0101 725555 727775 CS 我 我 很 排斥 拿 m.c. 的 人 唉
+01NC02FBY_0101 729465 734678 CS i mean 不要 讲 说 考 考 不好 啊 我 就 觉得 even if 我 明明 懂 will fail 我 也是 就 算了 去 take
+01NC02FBY_0101 735156 738149 CS 就 干吗 要 这样 偷偷摸摸 拿 m.c.
+01NC02FBY_0101 740630 743400 CS 可是 就 i think engineering side 的 modules 都是 你
+01NC02FBY_0101 743400 749134 CS 懂 就是 懂 不懂 就是 不懂 你 明明 看 past year paper 你 就 唉呀 就是 不懂 不可能 去了 也是 不懂 啊
+01NC02FBY_0101 750026 750382 EN ya lor
+01NC02FBY_0101 751844 754579 CS 啊 我 真的 以为 andy-phua 是 second-upps eh
+01NC02FBY_0101 754980 760240 CS no wonder 我 每次 问 他 result 他 都 不要 讲 因为 以前 我们 在 读书 的 时候 then 我 就会 问 eh how's your result then 他 就
+01NC02FBY_0101 760524 761051 ZH 唉呀
+01NC02FBY_0101 761198 762977 CS 他 就 bla bla bla bla bla 他 就 不要 讲
+01NC02FBY_0101 763173 764117 CS 带过 了 then
+01NC02FBY_0101 764976 765258 ZH (呃)
+01NC02FBY_0101 765930 766507 CS 他 就-
+01NC02FBY_0101 766813 767194 EN ya loh
+01NC02FBY_0101 767470 770590 CS then 我 就 一直 以为 可能 他 result 比 我们 好 that's why 他 不要 讲
+01NC02FBY_0101 771654 774181 CS huh third-class ah oh my 天
+01NC02FBY_0101 782517 784210 CS andy i don't think andy 有
+01NC02FBY_0101 784553 785841 ZH 打包
+01NC02FBY_0101 786440 787789 CS 很多 科目 andy
+01NC02FBY_0101 789273 790635 CS huh but 他 每次 都-
+01NC02FBY_0101 790960 794740 CS i think 他 results 好像 还 okay leh 因为 那些 他 不会 的 他 就
+01NC02FBY_0101 795367 798431 CS 他 就 m.c. m.c. m.c. so 我 就 assume that-
+01NC02FBY_0101 799609 800663 EN that's why i.o. mah
+01NC02FBY_0101 801640 803830 CS 不然 就是 i thought 他 i. o. 因为
+01NC02FBY_0101 804952 805553 ZH 忘记 了
+01NC02FBY_0101 805786 807282 ZH 哈 我 现在 就 一直 认为
+01NC02FBY_0101 808141 811182 CS 他 会 跑去 做 i.o. 所以 他 不要 浪费 时间 他 说 要 take elective and stuff
+01NC02FBY_0101 812994 816539 CS 可是 就 as much as 我 的 result 很 cui 我 打包 french 还有
+01NC02FBY_0101 817275 818047 CS 我 的 core
+01NC02FBY_0101 818658 821356 CS 可是 我 take minor then 我 就 一次过 clear 完 全部 的
+01NC02FBY_0101 822264 826336 CS 对 我 就 minor then 我 u.e. 全部 就 clear 到完 所以 我 根本 都 不用 take u.e.
+01NC02FBY_0101 826490 828650 CS yeah then after that 我 year three sem two 的 时候
+01NC02FBY_0101 829154 830748 CS 我 的 status 已经 是 year four standing 了
+01NC02FBY_0101 832220 836130 CS 所以 technically speaking 如果 在 那个 sem hor 我 不要 去 i. o.
+01NC02FBY_0101 836572 838645 CS 我 (呃) 不 呸 我 不要 去 i.a. then 我 去 i.o.
+01NC02FBY_0101 839050 843480 CS 然后- or rather 我 i. o. 不要 做 先 我 先 做 f. y. p. during last sem 的话
+01NC02FBY_0101 844219 845348 CS i think 我 明年 半-
+01NC02FBY_0101 845556 846243 CS as in 我
+01NC02FBY_0101 846500 848757 CS 今年 我 也就 graduate 了 cause 我 可以-
+01NC02FBY_0101 849160 850227 CS ya lor but 我 就 唉呀
+01NC02FBY_0101 850301 851160 ZH 不要 啦 算了 啊
+01NC02FBY_0101 851500 853660 CS 因为 我 就 don't mind take i. a.
+01NC02FBY_0101 858146 860661 CS 可是 因为 我 minor- 啊 对 咯 exactly
+01NC02FBY_0101 861176 863146 CS then 那时候 我 就 算 算 算 算 算
+01NC02FBY_0101 863580 868250 CS 明明 通常 the usual route 都是 直接 take i.a. 哪里 有 人 会 去 想 说 ta~ 哎哟
+01NC02FBY_0101 870663 872785 CS acutally 那时候 我 就 kind of 懂了 因为
+01NC02FBY_0101 873104 876305 CS (呃) 我 的 course 那 两个 女 的 丽华 还有 charmaine right
+01NC02FBY_0101 876538 877494 CS 她们 都 去 take i.o.
+01NC02FBY_0101 877639 879049 CS as in 她们 那时候 就 讲
+01NC02FBY_0101 879380 881060 CS 唉呀 她们 应该 读 不完 then
+01NC02FBY_0101 881370 885536 CS 她们 就 不想 rush then 如果 她们 take i. o. 的话 他们 可以 take more elective 也 don't mind
+01NC02FBY_0101 887214 888060 EN 
+01NC02FBY_0101 889189 892304 CS i.o. 的 话 好像 十-
+01NC02FBY_0101 892905 894868 ZH 忘记 了 八个 吗 十个 八个
+01NC02FBY_0101 895441 896987 CS ok 我 懂 差别-
+01NC02FBY_0101 899587 901277 CS 我 一直 以为 i.a. 是 十
+01NC02FBY_0101 901750 904120 CS then i think i. o. 可能 就 六 哦
+01NC02FBY_0101 906584 907283 EN half what
+01NC02FBY_0101 907664 908424 EN ya ya lor
+01NC02FBY_0101 909884 910840 CS ya lor 所以
+01NC02FBY_0101 914824 917150 CS eight weeks five a. u. 就 跟 我的-
+01NC02FBY_0101 917583 919600 CS oh ya 我 twenty two weeks ten a. u.
+01NC02FBY_0101 920132 921027 CS then i.o. 是 多久
+01NC02FBY_0101 922070 922720 EN ten weeks
+01NC02FBY_0101 924091 925550 EN oh ya oh ya ten weeks
+01NC02FBY_0101 925894 926961 EN then six a.u.
+01NC02FBY_0101 927500 929880 CS o. k. lah but i think 做工 挺 好玩 的 嘞
+01NC02FBY_0101 930235 930737 EN 
+01NC02FBY_0101 935650 940170 CS 可是 如果 我 take i. o. 的话 我 就 得 要 自己 找 自己的 company what
+01NC02FBY_0101 941980 945340 CS 不是 i. o. 是要 自己 找 而且 i. o. 找 的 company 不可 以 是
+01NC02FBY_0101 946014 946382 EN (emm)
+01NC02FBY_0101 947032 948553 CS i.a. 的 那个 list
+01NC02FBY_0101 949174 951394 CS or something like that 就 你 要 自己 去 找
+01NC02FBY_0101 951930 955320 CS 对 then 我 就 哎呀 而且 如果 你 自己 去 找 right
+01NC02FBY_0101 955800 957500 EN not that you cannot find a job lah but
+01NC02FBY_0101 957891 966010 CS 你 找的 就 一定 不会 是 很 realted field 的 咯 好像 charmaine 她们 她们 是 故意 的 因为 她们 懂 她们 去 i.a. 她们 一定会 死 在 那边 cause 她们 根本 programming 不强
+01NC02FBY_0101 966287 966481 EN then
+01NC02FBY_0101 966940 971260 CS 她们 就要 take i. o. 所以 可以 自己 去 找 工作 她们 就 so long as you got- you work lah but
+01NC02FBY_0101 971500 972880 CS 你 就 做 non-related 的 咯
+01NC02FBY_0101 974478 978294 CS charmaine 好像 讲 她 是 做 project managing 是 啊 也是 在 一个 comp~ i.t. company but
+01NC02FBY_0101 978567 982319 CS 她 就 根本 都 没有 做 到 那个 i.t. programming side 她 就 做 的 managing side
+01NC02FBY_0101 983560 987130 CS 她 都 被 丢进 去了 i think 她 讲 她 a. levels 考 得 太 差 or something then
+01NC02FBY_0101 987450 991770 CS 她 apply 的 时候 哇 她的 choices 全部 cannot get in 哎呀 学校 就 把 她 丢进 com engine
+01NC02FBY_0101 994594 995723 ZH 没有 啊
+01NC02FBY_0101 997035 1001658 CS 而且 她 以前 好像 是 econs 的 (er) as in 她 a-levels take 的 时候 所以
+01NC02FBY_0101 1002086 1004657 CS 后来 她 去 com engine 她 早 就 死 在 那边 then 她 的 programming
+01NC02FBY_0101 1005060 1007020 CS 的 那些 assignment 是 我 帮 她 写 的
+01NC02FBY_0101 1007490 1008723 ZH 唉呀 就 不是 很难
+01NC02FBY_0101 1009463 1009749 ZH (哦)
+01NC02FBY_0101 1010126 1012203 CS 刚刚好 我 第一年 java-
+01NC02FBY_0101 1012385 1012502 ZH 诶
+01NC02FBY_0101 1013138 1015202 CS 不懂 but 我 懂 她 的 programming 好像 那种
+01NC02FBY_0101 1015724 1017788 CS 真的 programming module 都 拿 了 d e plus
+01NC02FBY_0101 1018385 1019983 CS like 因为 很多 j.c. 的 人 都
+01NC02FBY_0101 1020476 1022216 CS 没有 学过 programming mah so 还好
+01NC02FBY_0101 1023379 1025547 CS 唉呀 ok 的 啦
+01NC02FBY_0101 1054483 1057551 CS 可是 好像 如果 你 在 year one 你 还 可以 tranfer (erm) 你 一 hit-
+01NC02FBY_0101 1057797 1059148 CS 你 一 过 了 year one 你 一
+01NC02FBY_0101 1059537 1062900 CS touch 到 year two ah 你 就 不可以 对
+01NC02FBY_0101 1065214 1066928 CS 不懂 我 不懂 她 transfer 没有 啊 but
+01NC02FBY_0101 1067110 1068265 ZH 就 连 我
+01NC02FBY_0101 1068460 1070740 ZH 一边 在 做 考试 的 时候 一边 在 想 
+01NC02FBY_0101 1070740 1072524 ZH 唉 是不是 应该去 (呃) (呃)
+01NC02FBY_0101 1072901 1075394 CS to attempt (er) to appeal to com science 对
+01NC02FBY_0101 1076030 1077600 EN but okay lah now that i think about it
+01NC02FBY_0101 1077963 1078651 ZH 我 就 还 挺
+01NC02FBY_0101 1079411 1079983 EN ok with
+01NC02FBY_0101 1080178 1081476 CS 挺 happy with com engine 的
+01NC02FBY_0101 1082385 1084008 CS 就 比较多 hands on 的 东西
+01NC02FBY_0101 1084285 1085505 CS rather than 整天 看 电脑
+01NC02FBY_0101 1089743 1090380 EN nua nua
+01NC02FBY_0101 1091610 1093070 CS huh then 你 会 很 喜欢 econs 吗
+01NC02FBY_0101 1099015 1100755 CS 啊 你 跑去 appeal accounting for what
+01NC02FBY_0101 1116542 1118152 CS 可是 为什么 你 会 gian accounts ah
+01NC02FBY_0101 1122091 1124324 ZH 哦
+01NC02FBY_0101 1131422 1133837 CS 我 在 poly 的 时候 我 take business numatics* then
+01NC02FBY_0101 1134227 1135889 CS 需要 读 accounting 我 很 讨厌 它
+01NC02FBY_0101 1135950 1138710 CS 这 一辈子 我 accounting 全部 从来 都 没有 balance 过
+01NC02FBY_0101 1139304 1141454 CS 我 total- you know exam oh 我 就
+01NC02FBY_0101 1141830 1142090 ZH (啊)
+01NC02FBY_0101 1142363 1145180 CS then 我 就 shit 我 不管 这个 page 写了
+01NC02FBY_0101 1145375 1152947 CS 翻 那个 page then 那个 p.n.l. and balance sheet can never balance ah 我 就 wahlau 我 stress then 我 就 想 不要 想 太多 我 就 写 那个 (呃) like liabilities
+01NC02FBY_0101 1153356 1155350 EN ya inventory da da da da da
+01NC02FBY_0101 1155763 1158438 CS 对 对 对 对 then 到最后 我 好像 拿 一个 d
+01NC02FBY_0101 1158775 1160112 CS oh i think 我 拿 c lah but
+01NC02FBY_0101 1160528 1162216 CS 就 超 cui 哦 then 我 就 beh-tahan
+01NC02FBY_0101 1162437 1162722 EN then
+01NC02FBY_0101 1163294 1163735 ZH (呃) (呃)
+01NC02FBY_0101 1164486 1165252 ZH 后来
+01NC02FBY_0101 1165616 1167122 CS 在 minor e. 的 时候
+01NC02FBY_0101 1168653 1170925 CS minor e. 的 very first module e.n. one o one 是.
+01NC02FBY_0101 1171184 1172197 CS accounting 还有
+01NC02FBY_0101 1172330 1173730 EN introduction to entrepreneurship
+01NC02FBY_0101 1174140 1179180 CS 可是 那个 accounting 只有 二十 它的 那个 exam oh 是 multiple choice question 二十分
+01NC02FBY_0101 1179844 1181649 CS (er) like 二十题 二十分 一题 一分 那种
+01NC02FBY_0101 1182104 1183909 CS 我 就 觉得 唉呀 heck lah
+01NC02FBY_0101 1184051 1188336 CS 最多 考不好 我 就 算了 个 他 那 二十分 then 到 最后 我 也是 拿 b plus i think
+01NC02FBY_0101 1188678 1192275 CS but i think 因为 有 很多 其他 accounting 的 他们 一定 是 拿 like 阿华 (呃)
+01NC02FBY_0101 1192760 1195060 CS victor 他们 一定 是 拿 a. plus 的 啦 对
+01NC02FBY_0101 1196001 1196547 EN 
+01NC02FBY_0101 1201123 1201902 CS m.b. one o one 是 什么
+01NC02FBY_0101 1203585 1206195 CS 哈 可是 我 就 很 cui in accounting eh
+01NC02FBY_0101 1207558 1213401 CS 哎哟 then s.u. 我 拿 d 我 不是 死 在 那边 我 很 讨厌 拿 s.u. 那时候 我 take french 我 s.u. then 我 拿 u
+01NC02FBY_0101 1216646 1217335 CS 不懂 but-
+01NC02FBY_0101 1217568 1219088 CS ya lor 我 不知- 如果
+01NC02FBY_0101 1219330 1222320 CS 我 考 elective 我 可以 拿 anything better than (er)
+01NC02FBY_0101 1222810 1226830 CS as in 就 b. and above 的话 我 就 觉得 它 应该 会 improve my core 的 grade
+01NC02FBY_0101 1228201 1232551 CS 对 so i rather don't s.u. it 唉呀 but 其实 差 没 多少 啦 那 两三 分
+01NC02FBY_0101 1233953 1239859 CS 对 我 就 还 marketing 没有 take 以前 其实 我 在 poly 的 时候 我 marketing 超 cui 的 唉 as in 我 不可以 背 things like four piece 那种 东西
+01NC02FBY_0101 1241249 1244391 CS 而且 the funny thing is also entreu~ 我 在 minor e. 的 时候 right
+01NC02FBY_0101 1244710 1249175 CS i think 可能 因为 我的 groupmate 很 zai then 有时候 我们 写 business plan 因为 就 写了 很多个 business plan ah
+01NC02FBY_0101 1249479 1256042 CS then 每次 disscussion 什么 哦 then 就 kind of drilled my head 我 就 可以 到现在 我 还 记得 <unk> <unk> and ya da ya da
+01NC02FBY_0101 1256190 1259460 CS 对 then 我 就会 觉得 说 其实 是一个 很 简单 的 东西 then 后来
+01NC02FBY_0101 1259690 1262650 CS year three 我 take h. r. m. so 我也 是 觉得 很 简单 我也 可以
+01NC02FBY_0101 1262680 1270380 CS 不用 翻 textbook 我 就可以 写出 来讲 出来 那些 东西 like 什么 external forces (erm) 那个 叫 什么 啊 那个 inner strength outer strength
+01NC02FBY_0101 1270976 1272157 CS 啊 对 swots 对
+01NC02FBY_0101 1272448 1276421 CS 就 like 我 就 还 觉得 说 诶 amazingly i actually know my work
+01NC02FBY_0101 1276616 1278265 ZH 对 对 而且
+01NC02FBY_0101 1278500 1282380 CS 我 就 真的 会 懂 what is happening 这样 then 就有 那种 business plan concept
+01NC02FBY_0101 1282564 1283175 CS then 我 就 还-
+01NC02FBY_0101 1283590 1286122 CS then 我 就 想 take marketing that's why 我 这个 sem 要 take ah then
+01NC02FBY_0101 1286551 1291199 CS 后来 它 就 clash with 我 core 我 就 想 想 想 我 就 唉呀 next sem 再 看 怎样 如果 next sem 就 真的
+01NC02FBY_0101 1291506 1295441 CS ou~ out of no choice 真的 不可以 它 真的 clash with my core then 我 再 take something else
+01NC02FBY_0101 1295752 1296783 CS then this sem 我 就 take other
+01NC02FBY_0101 1315140 1320740 CS 哎哟 i think s. 应该 不会 很难 吧 不懂 唉 but 因为 我 就 觉得 可能 它 可以 救 我 的 什么
+01NC02FBY_0101 1320827 1324514 CS 可是 如果 project 我 就 不懂 我 要 怎样 因为 明年 的 f.y.p. 还 挺 麻烦 的
+01NC02FBY_0101 1329747 1330903 EN hopefully lor
+01NC02FBY_0101 1335221 1336039 EN (emm)
+01NC02FBY_0101 1336507 1338259 CS 我 觉得 groupwork 这种 东西 也是 很 看
+01NC02FBY_0101 1338675 1339843 CS 你 的 group-mate 的 哩
+01NC02FBY_0101 1340279 1343707 CS 我 <unk> group-mate 也是 那种 cui 到 lausai 我 就是 beh-tahan 他
+01NC02FBY_0101 1344097 1351443 CS 唉呀 天哪 我们 搞得 现在 已经 week 几 了 week five oh 我们 到 现在 那些 objective ah scope 那种 东西 还在 那边 慢慢 拖 慢慢 拖
+01NC02FBY_0101 1352198 1358600 CS 我 不懂 诶 我 根本 连 去 看的- ok lah the truth is 我 其它 assignments 也 实在 没有 空 啊 跟 蔡瑞宝 那个 group assignment 也是
+01NC02FBY_0101 1359188 1360876 ZH 那种 根本 都 没有 什么 做 出来 的
+01NC02FBY_0101 1361045 1365226 CS then 刚才 我们 早上 八点 meet 的 时候 我们 就 讲  唉呀 随便 随便 做 啦
+01NC02FBY_0101 1365771 1370356 CS ok yah 八点- 反正 我 知道 我 今天 早上 我 起床 的 时候 六点 我 alarm then 我 就 做梦 不想 起来 then after that
+01NC02FBY_0101 1370990 1374100 CS 我 就 过了 five minutes 它 snooze 的 时候 我 就 起来 then
+01NC02FBY_0101 1374680 1378170 CS 我 就 起来 我 关 hand-phone 的 时候 我 就 想 哎呀 message 那 两个
+01NC02FBY_0101 1378539 1382921 CS (啊) 看 他们 起床 了 吗 but 我 没有 问 like are you awake 我 就 reply 讲
+01NC02FBY_0101 1383165 1389806 CS which bugger said wanna meet eight o' clock one hah then 我 就 放 很多 like exclamation mark question mark 在 那 后面 then after that
+01NC02FBY_0101 1390208 1393202 CS (呃) 瑞宝 就 reply 讲 i thought it's eight thirty
+01NC02FBY_0101 1394073 1395024 CS then 我 就 讲
+01NC02FBY_0101 1395461 1402428 CS no you better don't like come at eight thirty because i already told the other two persons eight o' clock if not do~ don't 出 stunt (哪) then 就 reply 我 l.o.l.
+01NC02FBY_0101 1402780 1405750 CS then kenneth 我的 另外 一个 friend la 他 就 reply 我 讲 um
+01NC02FBY_0101 1406750 1407429 EN so how
+01NC02FBY_0101 1407865 1408545 CS then 我 就 讲
+01NC02FBY_0101 1408817 1412825 EN what so how go and bath and get my ass out of the house lah what so how
+01NC02FBY_0101 1413144 1415636 CS then 他 就 讲 but anyway i thought it's eight thirty 我 就
+01NC02FBY_0101 1415717 1417173 CS 诶  then 我 就-
+01NC02FBY_0101 1418480 1424317 CS 对 后来 我 就 去 开 我的 hand-phone 的 sent message 一看 我 send 给 那个 the fourth group member 的 是 什么
+01NC02FBY_0101 1424549 1424872 ZH 我 就 诶
+01NC02FBY_0101 1425185 1426097 CS 是 eight thirty 我 就
+01NC02FBY_0101 1426097 1426437 EN 
+01NC02FBY_0101 1426546 1428968 ZH 奇怪 为什么 我 昨天 会 觉得
+01NC02FBY_0101 1429604 1434707 CS 对 我 就 不懂 为什么 我 就 like 在 blur mode after 我 一 讲完 day time eh then nic~ night time 我 就 觉得 说
+01NC02FBY_0101 1435061 1441342 CS 诶 是 eight thirty (啊) eight o' clock 我 就 很 sad lah 我 就 还在 那边 碎碎念 讲 wahlau eight o' clock 那种 时间 
+01NC02FBY_0101 1441754 1442992 CS  我 就 写了 eight o' clock
+01NC02FBY_0101 1444036 1446322 ZH 我 就 无缘无故 早 半个 小时 起来 了 了
+01NC02FBY_0101 1446553 1446975 CS then 我 就-
+01NC02FBY_0101 1447587 1448050 ZH 唉
+01NC02FBY_0101 1448744 1449111 EN yah
+01NC02FBY_0101 1449737 1451588 CS then 刚才 我 来 的 时候 就 八点 十五分
+01NC02FBY_0101 1451880 1454190 ZH 我 就 已经 慢慢 拖 慢慢 拖
+01NC02FBY_0101 1459554 1460126 CS 按 了 off
+01NC02FBY_0101 1476623 1478379 CS then 你 没有 attempt to 往 上 搭
+01NC02FBY_0101 1478692 1479073 CS 它 会-
+01NC02FBY_0101 1482543 1483005 EN ya lor
+01NC02FBY_0101 1485251 1486679 ZH 哦
+01NC02FBY_0101 1487070 1489180 CS but actually 如果 那个 train 只
+01NC02FBY_0101 1489507 1491657 CS 只是 delay ten minutes 的 话 i think there's no point
+01NC02FBY_0101 1492025 1494515 CS 因为 如果 你 上 的 话 应该 也是 make up 回 那 ten minutes
+01NC02FBY_0101 1494837 1495231 ZH 对 咯
+01NC02FBY_0101 1495599 1496347 ZH 除非 你 是 讲
+01NC02FBY_0101 1496756 1498225 CS 正 半个 小时 then 这样 就 lanlan
+01NC02FBY_0101 1498933 1500511 CS 嗯 喏 ang-mo-kio 不 就 每次 会 有 train
+01NC02FBY_0101 1501042 1501260 EN (um)
+01NC02FBY_0101 1501850 1504510 CS going towards jurong east but 它 会 end 在 pasir-ris
+01NC02FBY_0101 1505560 1508220 CS i think 你 可能 从 都 没有 看过 因为 那个 train starts from ang-mo-kio
+01NC02FBY_0101 1508562 1513093 CS 它 就 ang-mo~ 从 ang-mo-kio 它 会 出 一个 新 的 train i think 因为 bish~ bishan 是 那个 depot
+01NC02FBY_0101 1513366 1513896 EN depot
+01NC02FBY_0101 1514167 1514507 EN station
+01NC02FBY_0101 1514888 1517582 CS then 它 就 会 出 那个 train 过来 那个 train 是 整个 empty 的
+01NC02FBY_0101 1517750 1520900 CS then 它是 会 via jurong east go to pasir-ris
+01NC02FBY_0101 1521335 1521961 EN so-
+01NC02FBY_0101 1524016 1526138 CS 没有 哇 它 就 去 了 jurong-east then
+01NC02FBY_0101 1526393 1529115 CS 大家 下车 了 之后 那些 人 又 上车 它 又 走 回 jurong-east what
+01NC02FBY_0101 1529863 1531673 CS 你 懂 我 在 讲 什么 right as in jurong-east
+01NC02FBY_0101 1531931 1533959 CS 不 就 三个 track then 那个 中间 的 track
+01NC02FBY_0101 1534187 1534568 ZH 它 就
+01NC02FBY_0101 1534881 1536799 CS 来 了 之后 after that 大家 下车 了
+01NC02FBY_0101 1537003 1539983 CS then 那些 人 上 then 又 走 回 它 又 re~ reverse
+01NC02FBY_0101 1540283 1541004 EN usual what
+01NC02FBY_0101 1542430 1543968 CS ya ya ya 它 就 每天 早上
+01NC02FBY_0101 1544340 1549870 CS like 会 有 两 三 趟 train 是 这样子 好像 一个 是 八点 一个 是 七点 一个 是 十点 那种 时间
+01NC02FBY_0101 1550047 1551013 ZH 我 有 看 过 几次
+01NC02FBY_0101 1554420 1556300 CS as in 它 starts from ang-mo-kio but
+01NC02FBY_0101 1556644 1558577 CS 可能 那些 住 在-
+01NC02FBY_0101 1560016 1560397 ZH 啊
+01NC02FBY_0101 1560806 1564139 CS 或者 ang-mo-kio 的 人 要 去 buona-vista 就会 搭 下来 what
+01NC02FBY_0101 1564412 1564711 EN then
+01NC02FBY_0101 1565255 1568559 CS (er) like woodlands yah 要 搭 去 yew-tee 诶 不是 yew-tee
+01NC02FBY_0101 1568810 1571156 CS 哎呀 就 那个 line 的 green line 的 人 对
+01NC02FBY_0101 1571660 1572020 EN then
+01NC02FBY_0101 1572531 1578121 CS ya lah loh so 我 每次- then 因为 那个 空- 啊 不是 那个 空 那个 train 它 是 来到 我们 家 是 空 的 嘛
+01NC02FBY_0101 1578407 1580720 CS so 我 每次 就 会 很 gian 搭 那 辆 train cause
+01NC02FBY_0101 1580720 1583478 CS 就 一定 有 位子 坐 我也 不 需要 去 抢 说 like
+01NC02FBY_0101 1583696 1584970 CS 抢 人家 priority seat 坐
+01NC02FBY_0101 1585410 1591270 CS then 我 就在 那边 想 想 想 因为 如果 我 要 去 boon-lay then 我 搭 那 辆 的话 then 因为 它
+01NC02FBY_0101 1591557 1594578 CS 在 那 三个 track 它 就会 直接 去 到 那个 pasir-ris 的 track mah
+01NC02FBY_0101 1595190 1598143 CS 对 then 我 就 得 要 either 下去 all the way 或者-
+01NC02FBY_0101 1598943 1601393 CS 对 then 我 就 like yah 我 那时候
+01NC02FBY_0101 1601700 1604180 CS 我 就 站在 那边 看 那个 train 越来越 靠近 的 时候
+01NC02FBY_0101 1604180 1604944 CS 唉呀 那个 train 压根
+01NC02FBY_0101 1605230 1606346 CS then 我 就 在 那边 想 (啧)
+01NC02FBY_0101 1607000 1610770 CS 我 就 hesitate hesitate 要不要 呢 要不要 搭 呢 要不 到 搭 呢 要不要 搭 呢
+01NC02FBY_0101 1611078 1613446 CS then 我 就 看 那个 train 真的 空的 诶 then 我 就 想-
+01NC02FBY_0101 1613870 1620440 CS then some more platform 还有 很多 人 我 就 懂 如果 我 不 搭 这个 train 的话 the next train 来 我 一定 没有 位子 坐 而且 是 那种 peak hour period
+01NC02FBY_0101 1620924 1623570 CS 我 就 想 想 想 想 想 then 我 就 唉呀 搭 啦
+01NC02FBY_0101 1623767 1626490 CS then 后来 ya lor 我 就 去 到 jurong east 我 就 等 等 等
+01NC02FBY_0101 1626730 1627152 CS 我 没有- 我
+01NC02FBY_0101 1627451 1627723 EN <unk>
+01NC02FBY_0101 1627723 1629723 CS pekcek 的 就是 我 jurong-east 时候 要 下去 哦
+01NC02FBY_0101 1630023 1631778 CS 那个 boon-lay 的 train 来 诶
+01NC02FBY_0101 1632418 1636239 CS then 我 就 看 那个 boon-lay 的 train 走 因为 我 就 觉- 因为 我 下去 上来 也 too late lah
+01NC02FBY_0101 1636566 1637559 ZH 那 就 算了 咯 我 等
+01NC02FBY_0101 1638264 1639747 CS then ya loh 还好 我 等 了 like
+01NC02FBY_0101 1640210 1642387 CS another three minutes 那个 中间 的 train 就 来 了
+01NC02FBY_0101 1645625 1647363 CS ya 它 就 在 那个 东西
+01NC02FBY_0101 1647853 1649568 CS 那个 牌 它 就会 放 pasir-ris
+01NC02FBY_0101 1650030 1653545 CS 对 对 对 就 i don't think 你 会 知道 因为 它 就 always starts from ang-mo-kio
+01NC02FBY_0101 1654029 1655404 ZH 因为 它 空的 我 就 不 介意
+01NC02FBY_0101 1658950 1661020 CS i think 他们 给 我 三 条 line 是 因为
+01NC02FBY_0101 1661620 1664355 CS 啊 其实 我 不懂 啦 if you think about it 为什么 tanah-merah 要 有 三条 line
+01NC02FBY_0101 1667299 1668174 CS 它 以前-
+01NC02FBY_0101 1668596 1669181 EN ya but-
+01NC02FBY_0101 1669535 1671181 CS changi-airport 跟 expo 是 最近的 事 what
+01NC02FBY_0101 1671819 1672799 EN as in you get what i mean
+01NC02FBY_0101 1674105 1678838 CS 哦 哦 哦 他们- i think 是 secondary- 我们 secondary school 的 时候 它 才 开始 有 expo and changi-airport
+01NC02FBY_0101 1679260 1681437 CS which 我就很 amaze 那时候 when 我 就 在 想
+01NC02FBY_0101 1682580 1682853 ZH 对
+01NC02FBY_0101 1683217 1692483 CS 我 就 觉得 会不会 是 那种 你 整 二十年 前 你 开始 build transport system 的 时候 你 就 根本 就 觉得 这个 有 潜力 一定 有一天 会 变成 inter-change 所以 他 就 放 它 三个 line
+01NC02FBY_0101 1694320 1700200 CS 可是 哇 我 就 很 amazed leh like 不愧 government 的 government 就 整天 拿 scholars 就 like
+01NC02FBY_0101 1700518 1704056 CS 他们 就 真的 plan 那种 twenty years ahead 的 东西 对
+01NC02FBY_0101 1704560 1706274 CS then 我 就 在 想 ang-mo-kio 会不会 有一天
+01NC02FBY_0101 1706693 1707782 ZH (呃) 就 变成
+01NC02FBY_0101 1708177 1710014 CS (erm) 那种 inter-change and stuff like that
+01NC02FBY_0101 1710122 1711252 CS then 我 在 想 想 想 到了
+01NC02FBY_0101 1711483 1712000 CS next 我们
+01NC02FBY_0101 1712216 1713237 CS circles line 在 bishan
+01NC02FBY_0101 1713319 1719549 CS 我 就 觉得 很 奇怪 bishan 明明 就 只有 两个 line 他 干吗 要 故意 建 (呃) 那个 extension
+01NC02FBY_0101 1727409 1731069 CS 那个 是 因为 bobian 哪 cause dhoby-ghaut in the first place 就 有 那 两条 啊 it's just like
+01NC02FBY_0101 1731069 1734063 CS tanah-merah 以前 (呃) (呃) 如果 tanah-merah
+01NC02FBY_0101 1734236 1736632 ZH 没有 那个 中间的 的话
+01NC02FBY_0101 1737180 1741332 CS 它 就 需要 build 一个 extension 出来 what 可是 它 有 所以 so happen that-
+01NC02FBY_0101 1741506 1743064 CS then 我 就 还 觉得 诶
+01NC02FBY_0101 1746206 1747937 EN oh yah
+01NC02FBY_0101 1752035 1753449 CS 这样 讲 有 道理 no wonder
+01NC02FBY_0101 1753810 1757080 CS then 我 就 想 如果 circles-line stop at ang-mo-kio 的话 哇塞
+01NC02FBY_0101 1757460 1759580 ZH 这样 我 就 不会 这样 麻烦 去 我 二 姐 家
+01NC02FBY_0101 1760513 1761379 EN punggol ah
+01NC02FBY_0101 1761725 1763168 CS 你 懂 我 以前 去 她家- 而且
+01NC02FBY_0101 1763716 1767324 CS 她 刚刚- 她 新家 那个 area right 是 那种 没有 bus service 走 的 诶
+01NC02FBY_0101 1767970 1772360 CS so 以前 只有 train station 的 时候 哦 我 得 要 从 ang-mo-kio 搭 all the way 搭 到 (um)
+01NC02FBY_0101 1772360 1778420 CS dhoby-ghaut 然后 换 then 又 搭 all the way 上 到 punggol it's like the stupidest of stupidest like that
+01NC02FBY_0101 1778420 1780330 ZH 可是 其实 它 就 很 靠近
+01NC02FBY_0101 1780737 1784892 CS ang-mo-kio eh 如果 我 从 ang-mo-kio 搭 八十八 去 pasir-ris 的话
+01NC02FBY_0101 1785094 1785412 ZH (呃)
+01NC02FBY_0101 1786480 1787780 CS 对 它-
+01NC02FBY_0101 1787780 1792530 CS ya 它 就 其实 有 经过 我 二 姐 家 可是 是 on the express way so 它是 不停 的
+01NC02FBY_0101 1793947 1795852 ZH  我 就 每次 觉得 很 笨
+01NC02FBY_0101 1798190 1799373 ZH 对
+01NC02FBY_0101 1805108 1808918 CS 有 我 这种 ang-mo-kio en-bloc loh 可是 很贵 很贵 很贵 哦
+01NC02FBY_0101 1810938 1814921 CS the peak 那个 应该 不是 新- (呃) 那个 是 (呃) public housing meh
+01NC02FBY_0101 1819913 1827230 CS 诶 可是 我 的 家 也是- okay ah 我 家 不是 totally come with flooring 它 是 厕所 everthing 是 come with flooring
+01NC02FBY_0101 1827230 1829730 CS then 它的 那些 socket 是 这样子 的 咯 那种
+01NC02FBY_0101 1829978 1834371 CS 你 看不到 那个 wires and stuff 它 就 in-built 的
+01NC02FBY_0101 1835779 1839444 CS 所以 我 还 觉得 挺好 的 like 它 的 厕所 whatever 它 都是 已经 弄 好好 的
+01NC02FBY_0101 1847195 1847830 EN ya
+01NC02FBY_0101 1853482 1853973 EN why
+01NC02FBY_0101 1855300 1857725 CS 那个 the peak 是 在 哪里 我- 其实 我 没 听过
+01NC02FBY_0101 1862631 1864276 CS 哦 就是 那个 place
+01NC02FBY_0101 1871859 1872840 CS 我家 four room
+01NC02FBY_0101 1878035 1879391 CS 可是 我 的 才-
+01NC02FBY_0101 1880284 1888220 CS 可是 我 的- 诶 可是 我 家 才 ninety three meter square then 那个 five room 也是 什么 one o. one or something like that 忘了 忘了
+01NC02FBY_0101 1888768 1892174 ZH 新的 屋子 都 这样子 所以 他们 很多 人 都 要 买 旧的 屋子
+01NC02FBY_0101 1899697 1900707 EN oh my god
+01NC02FBY_0101 1903848 1906344 CS i think 我 的 家 才 two hundred over k. eh
+01NC02FBY_0101 1907225 1911350 CS then (呃) (呃) 不 可能 是 因为 几年前 的 事情 因为 我 懂 现在 如果
+01NC02FBY_0101 1911350 1913430 CS like 因为 就 一直 会 有 那种
+01NC02FBY_0101 1913430 1915392 CS (em) property agent 对
+01NC02FBY_0101 1916777 1920497 CS 六千 就 没有 吧 就 那种 最高 就 start with four four hundred
+01NC02FBY_0101 1920929 1923613 CS four to five dependings on depending on your- 对
+01NC02FBY_0101 1924075 1926650 CS 她 住- 哇 她 她 要 买 几楼
+01NC02FBY_0101 1927676 1930648 CS 可是 她 的 boyfriend 是 like 做-
+01NC02FBY_0101 1932553 1934313 CS okay lah 可能 她 result 不错
+01NC02FBY_0101 1935179 1937113 CS ya loh 怎样 你 有 带 电脑 来 没有 right
+01NC02FBY_0101 1938844 1942336 ZH 哪 他 的 电脑 可以 用  
+01NC02FBY_0101 1943692 1944818 EN hah
+01NC02FBY_0101 1946360 1949581 CS oh my 天 她 几时 要 结婚 i thought 你 一
+01NC02FBY_0101 1949919 1952026 CS 你 一 apply 算* 你 一定 要 结婚 with 你-
+01NC02FBY_0101 1952661 1954652 CS but 那个 flat 是 建好了 还是 还-
+01NC02FBY_0101 1956355 1959385 CS oh i think 就 三年后 要 provide 那个 r.o.m. 的 cert
+01NC02FBY_0101 1961059 1963709 ZH hor 啧 啧 啧 啧 啧
+01NC02FBY_0101 1963997 1966970 ZH 真快 我们 老了 怎么 我们 认识的 人 都 要 结婚 了
+01NC02FBY_0101 1968784 1970256 ZH 大 几岁
+01NC02FBY_0101 1970718 1974845 CS are you sure 晶姐姐 不是 跟 安琪 一个-
+01NC02FBY_0101 1976721 1977413 EN ya lor
+01NC02FBY_0101 1978030 1980790 CS 大 我 一 岁 然后 大 你 两 岁 right
+01NC02FBY_0101 1984044 1986767 ZH 啧 啧 啧 你 几时 你 应该 二十七 也是 可以 了
+01NC02FBY_0101 1987594 1988748 CS 可是 以 你-
+01NC02FBY_0101 1989499 1990797 CS 你 懂不懂 mervin 赚 多少 钱 啊
+01NC02FBY_0101 1995470 1997500 ZH 可是 如果 你 出来 的话
+01NC02FBY_0101 2003428 2004820 CS 对 exactly
+01NC02FBY_0101 2004820 2009425 CS 如果 你 要 买 h. d. b. (uh) 你的 income bracket 不可以 过 那个 嘞 不然
+01NC02FBY_0101 2009892 2015376 CS 不然 你 根本 都 没有 subsidy or whatever then 你 干脆 就去 住 priv- 唉呀 去 住 mervin 家 啦
+01NC02FBY_0101 2015982 2018344 CS 可是 你 会 吗 as in 问 你们 的 plan 是
+01NC02FBY_0101 2036425 2038762 ZH 啊 诶 你们 在一起 多久 啊
+01NC02FBY_0101 2040696 2041533 EN oh
+01NC02FBY_0101 2044275 2047230 CS 妹妹 的 birthday dinner 他 妹妹 几岁 二十一
+01NC02FBY_0101 2049671 2051170 ZH 诶 你 今年 二十一 哦
+01NC02FBY_0101 2053882 2059002 CS oh ya 为什么 我 一直 觉得 你 今年 二十一 你 每年 都 在 二十一 去年 都 已经 二十一 一次 了
+01NC02FBY_0101 2059503 2066573 CS huh then 你 什么 plan 要 celebrate 吗 as in 我 本来 我本来 是 没有 打算 要 跟 你 讲 那个 我 懂 你 birthday 这个 拜六 的 就 我 本来 就 想 拜六 要不要 就 出来 还是 拜五
+01NC02FBY_0101 2066977 2070123 CS then 后来 就 找不到 东西 讲 啊 随便 讲
+01NC02FBY_0101 2070873 2071508 ZH 拜五 呢
+01NC02FBY_0101 2075053 2077073 CS 我 可以 attempt to message 每个人 问
+01NC02FBY_0101 2102253 2103032 ZH 你 要 生
+01NC02FBY_0101 2104733 2107648 CS yes auntie 我 还在 做工 我 还在 读书
+01NC02FBY_0101 2115292 2118953 CS 可是 为什么 她 要 你们 她 会 讲 things like 早点 生 孩子
+01NC02FBY_0101 2141571 2144340 CS 可是 他们 是 结了婚 十年 才-
+01NC02FBY_0101 2148407 2149446 ZH 哦
+01NC02FBY_0101 2153573 2156662 CS 其实 我的 (呃) 你 懂 right 我 的 cousin 我 gor-gor 他
+01NC02FBY_0101 2156922 2159600 CS 他们- i think 他 year one 的 时候 他 就 申请 屋子
+01NC02FBY_0101 2160294 2161131 CS 你 懂 right
+01NC02FBY_0101 2162949 2166554 ZH 不 就 跟 你 讲 那个 他 女朋友 跟 一 另外 一个 男的 跑路 那个
+01NC02FBY_0101 2167793 2170246 ZH 我 不 懂 我 可能 没 跟 你 讲过 对
+01NC02FBY_0101 2170907 2172754 ZH 而且 你 听过 那个
+01NC02FBY_0101 2173129 2175120 EN (erm) pinnacle at duxton
+01NC02FBY_0101 2175611 2177342 ZH 对 那个 超贵 超贵
+01NC02FBY_0101 2177429 2178378 ZH 对 然后
+01NC02FBY_0101 2179734 2184958 CS exactly 而且 就- 对 疯掉 哦
+01NC02FBY_0101 2185564 2189670 CS 而且 我 跟 你 讲 他 其实 没有 什么 打算 要 apply flat 的 then 因为 他 女朋友
+01NC02FBY_0101 2189670 2193460 CS cause 他 女朋友 是 j. c. 就 认识 他们 j. two 就在 一起 all the way then
+01NC02FBY_0101 2194135 2195289 EN then the thing is (um)
+01NC02FBY_0101 2195953 2196877 CS 他 的-
+01NC02FBY_0101 2197223 2197714 ZH 因为
+01NC02FBY_0101 2198147 2200860 CS 那个 女 的 就会 早 他 graduate 两年 what in fact
+01NC02FBY_0101 2201084 2203060 CS ah ya 她 早 他 毕业* 两年 她 是 n.t.u. 的
+01NC02FBY_0101 2203060 2206000 CS then 就 graduate 了 之后 那个 女 的 就 开始 做工 what then
+01NC02FBY_0101 2206308 2208357 ZH 到 我 gor-gor 他 在
+01NC02FBY_0101 2208789 2214417 CS year three 的 时候 (um) okay i think 他 不是 year one mah then 她 是 year two year three 那个 时候
+01NC02FBY_0101 2214726 2217785 CS then 她 妈 like 她 就会 一直 问 哪 哦 你们-
+01NC02FBY_0101 2218660 2222990 ZH 那个 女 的 的 妈妈 就 一直 问 诶 你们 几时 要 (呃) 结婚 几时 要 申请 屋子
+01NC02FBY_0101 2223553 2234837 CS then 我 gor-gor 就 like (er) ya 就 you know as much as ya 我 觉得 我 他 跟- 他们 在一起 六年 他们 好像 可能 就 觉得 说 唉呀 会 在一起 很久 这样 可是 就 很 奇怪 啦 hello 你 才 year 几
+01NC02FBY_0101 2235170 2238350 CS cause 她 妈 讲 like 要 申请 屋子 or whatever then
+01NC02FBY_0101 2238810 2241408 CS 我 gor-gor 就 一直 存钱 存钱 存钱 存钱 then
+01NC02FBY_0101 2244900 2255717 CS 不知道 啊 but i think cause 我 家 我 姑姑 家 唉呀 他 我 姑姑 家 给 他 零用钱 他 已经 挺多 是 那种 like (呃) 可能 一个月 给 一千块 那种 我 不懂 多少 钱 啦 but 就-
+01NC02FBY_0101 2256008 2256441 EN ya
+01NC02FBY_0101 2256869 2261313 CS then (um) 那个- ya lor 就 有一天 那个 女朋友 就 突然间 问 他 讲 诶 (um)
+01NC02FBY_0101 2261717 2264343 CS 我 妈 讲 叫 我们 去 申请 pinnacle at duxton eh
+01NC02FBY_0101 2265094 2269159 CS then 我 gor-gor 就 like ya 就 okay lor 因为 就
+01NC02FBY_0101 2269448 2270804 EN as in not a bad investment nah
+01NC02FBY_0101 2271208 2272594 CS 然后 就 okay lor 申请 咯
+01NC02FBY_0101 2272767 2279740 CS as in 他 不是 这样 讲 申请 咯  then 他 就- ya then 他们 就 then i think 我 gor-gor 他 就 跟
+01NC02FBY_0101 2279740 2284530 CS 他的 我 uncle 他 爸爸 借 了 挺 一 大笔 钱 的 to
+01NC02FBY_0101 2284710 2288290 CS 我 不懂 i think 申请 是要 给 some deposit or some stuff 的 right
+01NC02FBY_0101 2289957 2293594 CS ya ya 那个 是 抽 but 抽到 了 啊 啊 啊
+01NC02FBY_0101 2293878 2296591 CS so 抽到 了 你 需要 还 some deposit or something right
+01NC02FBY_0101 2296880 2302536 CS 对 对 对 对 他 就 真的 跟 我 的 uncle 借钱 to 还 那个 东西
+01NC02FBY_0101 2303055 2304960 CS 那时候 我 很- 他
+01NC02FBY_0101 2306230 2307759 EN of course lah ya then
+01NC02FBY_0101 2308423 2308770 EN (erm)
+01NC02FBY_0101 2309520 2310414 CS 那个- 诶
+01NC02FBY_0101 2310750 2314610 CS okay 那个 part 我 不是 很 清楚 可是 因为 你 已经 apply 到了
+01NC02FBY_0101 2314610 2318408 CS oh okay ya i- 我 肯定 他们 在一起 that's why 他们 会 去 pay for deposit and stu-
+01NC02FBY_0101 2318408 2322328 CS then after that- 对 哦 那个 女的 就 我 不懂 是 how but
+01NC02FBY_0101 2322328 2326720 CS (呃) 那个- 我 gor-gor 就 found out that 那个 女的 在 seeing another guy
+01NC02FBY_0101 2327032 2328520 ZH 那个 ang-mo
+01NC02FBY_0101 2328910 2331132 CS 对 那个 ang-mo 好像 是 她 的 colleague 来的
+01NC02FBY_0101 2335398 2337866 CS like 我 不懂 可能 是 after 了 才
+01NC02FBY_0101 2338443 2339352 CS 才 happen 的
+01NC02FBY_0101 2339814 2340708 EN instead of-
+01NC02FBY_0101 2341098 2342974 ZH 对 而且 我 跟 那个 女的
+01NC02FBY_0101 2342974 2344619 CS 也 不算 很熟 but 因为
+01NC02FBY_0101 2344619 2349074 CS 她 从- 对 她 因为 从 j. two 他们 就 在一起 so 以前 还 有 流行 那种 i.c.q. m.s.n. 那些 东西
+01NC02FBY_0101 2349244 2352264 EN so i got i.c.q. m.s.n. then sometimes when i talk to her or tell her rubbish like
+01NC02FBY_0101 2352264 2358030 CS 哦 gor-gor that time bully me so when you are with him you must help me scold him right de de de 那种 东西
+01NC02FBY_0101 2358030 2362190 CS 她 就会 跟 我 聊 诶 then 后来 yah 我 就 很 stunned 也是 that huh
+01NC02FBY_0101 2364202 2365587 CS 我 gor-gor 真的 很 upset
+01NC02FBY_0101 2365876 2368531 CS then 那-  他们 要 break up 那个 period 的 时候
+01NC02FBY_0101 2368848 2370378 CS 是 我 gor-gor year four 的 时候
+01NC02FBY_0101 2370695 2373004 CS then 那时候 他 就 在 忙 f.y.p. 然后 他 在 忙
+01NC02FBY_0101 2374097 2375006 ZH 哎呀
+01NC02FBY_0101 2375525 2376910 CS 那是 expert mode 的 哦 我 跟 你 讲
+01NC02FBY_0101 2377440 2380810 CS then 对 咯 i think 他 就是 很 upset 很 upset 他 就会 like
+01NC02FBY_0101 2381266 2382695 CS 有时候 (呃) 他 就 会-
+01NC02FBY_0101 2383070 2385364 CS 因为 我 还 挺 常 去 我 姑姑 家 那个 period i think
+01NC02FBY_0101 2385619 2388692 CS then 我 gor-gor 他 知道 我 回家 的 时候 他 就 会 讲 讲 讲 讲到 那种 他 挺 想 哭 的
+01NC02FBY_0101 2390842 2392156 CS 对 ya lor
+01NC02FBY_0101 2393887 2395734 CS 到 最后 就 他 问-
+01NC02FBY_0101 2397080 2401270 CS ya the thing is 如果 你 forfeit 的话 你 就 you cannot even get back
+01NC02FBY_0101 2402124 2403492 EN (erm) any amount or something like that
+01NC02FBY_0101 2405368 2405885 ZH 对
+01NC02FBY_0101 2406347 2407342 CS 对 then 后来
+01NC02FBY_0101 2408020 2410012 ZH 他们 就 讲 不懂 要
+01NC02FBY_0101 2410776 2411700 ZH 怎样 嘞
+01NC02FBY_0101 2414278 2418520 CS 可是 你 不可以 诶 你 不可以 玩 这个 换名 的 这个 game ya that's the problem
+01NC02FBY_0101 2419689 2424408 CS ya noh 无缘无故 just 去- ya so ya 你 不可以 你 不可以 换名 也不可以 卖
+01NC02FBY_0101 2426062 2426884 EN 
+01NC02FBY_0101 2429207 2436610 CS 你 gor-gor 跟 你 姑姑 不可以 呃 我 gor-gor 得 要 是 over a certain age like 是 不懂 是 三十几 才 可以
+01NC02FBY_0101 2437225 2437702 ZH 对 咯
+01NC02FBY_0101 2438062 2438380 EN then
+01NC02FBY_0101 2438986 2440550 CS ya 后来 i think
+01NC02FBY_0101 2440550 2444530 CS apparently i think 他 去 问 那个 女 的 so how do you want to settle this
+01NC02FBY_0101 2444784 2445058 EN then
+01NC02FBY_0101 2446356 2450290 CS 对 i think 那个 女的 她 就 guilty then- in fact 你 懂 那个 女的-
+01NC02FBY_0101 2450290 2452250 CS in fact 那个 女 的 when 她 跟
+01NC02FBY_0101 2452350 2455680 CS 我 gor-gor break up 的 时候 i think 那个 女 的 的 妈妈 很 喜欢 我 gor-gor then
+01NC02FBY_0101 2456095 2463281 CS 哇 她 妈 jitao 不要 跟 那个 女的 讲话 for- as in 那个 女儿 的 妈妈 不要 跟 她 自己 女儿 讲话 for like 整 一 大 半年 这样
+01NC02FBY_0101 2464061 2466196 ZH 现在 我 不懂 她们 有没有 在 讲话 了 啦
+01NC02FBY_0101 2468159 2474210 CS in fact 她们- i think 那个 女的 她 就 被 她 妈 讲到 like- 唉呀 后来 她 就 attempt to 跟 我 gor-gor 讲
+01NC02FBY_0101 2474210 2478260 CS she is sorry ah then 她 就 讲 why don't we you know get back then
+01NC02FBY_0101 2478744 2479726 CS i think 我 gor-gor
+01NC02FBY_0101 2480995 2484980 CS 也 不算 i think 我 gor-gor- i think they attempted to do a test
+01NC02FBY_0101 2484980 2487960 CS like you know like 就 在 一起 三个 月 看 怎样 then
+01NC02FBY_0101 2488464 2488897 ZH 就
+01NC02FBY_0101 2489791 2495361 CS 他 就 觉得 like 就 跟 那个 the feeling is not right anymore cause 我 明明 知道 你 背叛过 我 这样
+01NC02FBY_0101 2495790 2507478 CS 而且 我 gor-gor 真的 好人 诶 他 起初 懂 那个 女的 在 劈腿 的 时候 right 他 跟 那个 女的 讲 ya iit's ok you go and break up with him i will pretend that this never happen before
+01NC02FBY_0101 2508109 2519530 CS 而且 i think 那个 女的 就 probably 想- ya ya then (呃) 那个 女的 她 就 他 讲 ok then after that 她 就 没有 去 get it done nah i don't know ah either th~ she attempted to get in done and
+01NC02FBY_0101 2519530 2523510 CS 到 最后 她 又 跟 那个 男 的 在一起 whatever lah 因为 他们是 colleagues what then
+01NC02FBY_0101 2524295 2529779 CS or things like that lah then after that 就 this i think happened for third for three times and then 又一次 我 gor-gor 就 出 stunt neh
+01NC02FBY_0101 2530233 2534879 CS 我 gor-gor 就 跟 她 讲 you have to decide it's either between me or him choose you cannot like 一直-
+01NC02FBY_0101 2535713 2547863 CS 对 then 后来 那个 女的 就 是 是 是 then 她 就 讲 那 就 break up oh  哇 我 gor gor 至少 是 啊  疯掉 对 question mark question mark exclamation mark oh then 他 就 ya then
+01NC02FBY_0101 2548470 2550490 CS 后来 i think 他 就 真的 很 upset 很 upset
+01NC02FBY_0101 2550889 2552210 CS then 那时候 刚刚好
+01NC02FBY_0101 2552210 2555410 CS 我的- cause my uncle is a avid collector of bank note
+01NC02FBY_0101 2556107 2559945 CS then 他 就 收 那个 就 他 从 不懂 几十亿* 可能 二十 几十 亿*
+01NC02FBY_0101 2561302 2567131 CS 没有 没有 没有 没有 没有 他 一 (呃) <unk> side track ah 就 他 我 gor gor (呃) 我 的
+01NC02FBY_0101 2567679 2569510 CS uncle tiong* 他 好像 整
+01NC02FBY_0101 2570069 2580630 CS 就 收了 整 四十 年 那种 bank notes then 他 就 很多 很多 collection 有时候 我 去 他 家 他 会 show 我 唉呀 but 我 就 尽量 不要 跟 他 换 哪 混 了 因为 他 每次 过后 他 就 问 我 results 所以 我 就 不怎么 想 跟 他 讲话
+01NC02FBY_0101 2580630 2586310 CS then 他 那时候 就 讲 他 想 卖掉 some of the things that 他 don't mind 卖 啦 因为 收 太 多 了 then
+01NC02FBY_0101 2586688 2591201 CS 他 就 讲 哦 他 要 做 e.-business 他 讲 他 要 set up 一个 website bla bla bla then
+01NC02FBY_0101 2591681 2595820 CS 他 就 叫 我 gor-gor 做 then 我 gor-gor 好像 就 跟 他 讲 了 五百年 他 都 没有 帮 他 做
+01NC02FBY_0101 2595820 2601650 CS then 我 gor-gor 就 讲 惠萍 is very good in (um) web programming web website designing so ask 惠萍 to do
+01NC02FBY_0101 2602780 2613400 CS 有 因为 那时候 我 gor-gor 他 其实 跟 我 讲 他 就 讲 we do together ah then 他 就 (er) he will help also ah 'cause 他 就 讲 我 programming quite zai then i can do it ah then 我 就 oh okay lor 一起 做 我 就 ok ah
+01NC02FBY_0101 2613919 2616228 CS 后来 我 gor-gor 就 出 stunt 他 after 那个 女的
+01NC02FBY_0101 2616603 2617238 EN ya
+01NC02FBY_0101 2617902 2619114 CS 跟 他 break 了 之后
+01NC02FBY_0101 2619628 2629383 CS 对 我 gor-gor 就 跟 我 讲 (er) you have to take care of the things from from now on cause i i you know i need to do my f.y.p. and i'm not get get done i mean i still need time to get over it lah
+01NC02FBY_0101 2629959 2641497 CS 哇 其实 他 从头到尾 都 没有 做 东西 咯 根本 就 我 在 做 后来 我 就 唉呀 ok lah 随便 but 因为 我 gor-gor 我 的 uncle tiong 是 讲 oh he will pay us one ah 就 take is as the other he's a client then after that 就 他 就 给 了 我
+01NC02FBY_0101 2642472 2644810 CS 挺多 钱 好像 五百块 or something like that
+01NC02FBY_0101 2645358 2645791 EN ya lor
+01NC02FBY_0101 2646888 2647725 CS then 我 就 like wow
+01NC02FBY_0101 2648215 2649225 EN that's quite a lot of money
+01NC02FBY_0101 2649745 2657479 CS then 我 就 like when 我 去 我 <unk> 给 我 那个 cheque 的 时候 我 我 就 跟 我 gor-gor 讲 how how are we gonna split this 他 就 讲 no ah it's yours
+01NC02FBY_0101 2658143 2662385 CS then 我 <unk> 就 讲 ya don't need to split he got his monthly allowance
+01NC02FBY_0101 2663020 2663588 CS as in 就
+01NC02FBY_0101 2664079 2665147 EN month- monthly allowance lah
+01NC02FBY_0101 2665564 2671438 CS then 我 就 huh 他 就 讲 ya you just keep lah then 我 就 oh ok loh 最后 就 我 还 挺 paisei 的 因为
+01NC02FBY_0101 2672044 2673227 CS 就 我 那个 family* 对 我 很好
+01NC02FBY_0101 2674093 2675247 CS but ok lah 就 ya loh
+01NC02FBY_0101 2677441 2680580 EN ya lor pinnacle at duxton neh ok anyway then
+01NC02FBY_0101 2682023 2684159 ZH 不懂 啊 因为 还 没有 到 那个
+01NC02FBY_0101 2685602 2687843 CS 就 还 only deposit but 那个 屋子 还 没有 建好 what
+01NC02FBY_0101 2687843 2694619 CS so 还 不需要 settle 那个 part either that or i miss out on the news already lah 可能 something already already got it settled somewhere
+01NC02FBY_0101 2694919 2697607 CS then 我 gor-gor 那时候 我 问 他 他 说 他 的 他 就 讲 when
+01NC02FBY_0101 2698260 2703690 CS 那个 flat 好的 时候 如果 他 因为 他 现在 有一个 女朋友 嘛 他 就 讲 如果 他 跟 佩玲 ready to get married 的话
+01NC02FBY_0101 2703940 2710600 CS 他 就会 attempt to 去 appeal to h. d. b. to 讲 可不可以 帮忙 (啊) 换 那个 名字 you know as in
+01NC02FBY_0101 2710997 2715651 CS 我 跟 是 我 跟 这个 女的 but ya 现在 我 跟 这个 女的 吹 了 but 我 跟 另外 一个 女的 要 结婚 了
+01NC02FBY_0101 2721573 2727887 CS 没有 因为 你 还 没有 到 你 不 就 得 要 等 三年后 才 给 那个 r.o.m. cert 他 还 没有 到 那个 r.o.m. cert 的 date
+01NC02FBY_0101 2729597 2734604 CS 对 then the government won't happen to know that 他们 不 在一起 了 what
+01NC02FBY_0101 2736646 2743300 CS 所以 他 就 想 因为 以前 我 的 <unk> 他 这 一 大 辈子 他 那 四十 年 的 working life 他在 h. d. b. 做工
+01NC02FBY_0101 2743504 2745358 CS 他 是 那种 <unk> officer but 他 现在 retire lah
+01NC02FBY_0101 2745675 2752614 CS so 我 是 hoping that 说 可不可以 you know talk to 他 的 boss or something to 讲 诶 帮忙 一下 因为 it's not like
+01NC02FBY_0101 2753104 2759119 CS (erm) i'm not getting- it's not like they purposely did it but 就 out of circumstances then anyway 现在 我 又 跟 另外 一个 女的 要 结婚 了 so
+01NC02FBY_0101 2759609 2763119 CS make do with it lah ya it's not 那个
+01NC02FBY_0101 2764270 2768700 CS 管 她 i think 那个 女 的 没有 什么 好 讲 i mean 如果 她 介意 的话 then 那个 钱 就
+01NC02FBY_0101 2769186 2771927 CS i think 后来 那个 女的 有 say something like 那个 ten k.
+01NC02FBY_0101 2772447 2776227 CS 她 会 instalment 还 咯 如果 真的 forfeit 的话
+01NC02FBY_0101 2780205 2781215 CS 虽然- 不懂
+01NC02FBY_0101 2783581 2786409 ZH 我 根本 都 没有 看到 那个 我 都 不懂 那个 在 <unk>
+01NC02FBY_0101 2786690 2789670 CS 我 每次 都是 看 就 那些 online website
+01NC02FBY_0101 2790017 2792902 CS 我 就 每次 看 我 就 很 excited then 那时候 我 还 跟 每个 人 讲
+01NC02FBY_0101 2793273 2794658 ZH 对 我 就 跟 每个人 讲
+01NC02FBY_0101 2794831 2799535 CS 对 对 then 它 它 是 什么 五十 楼 对 吗 then 它 的 二十五 楼 有 那个 garden thing
+01NC02FBY_0101 2799651 2804990 CS 哇 我 跟 你 讲 我 就 超 羡慕 then 那个 时候 我 就 会 跟 每个 人 讲 哇 you know my gor-gor apply da da da da da da
+01NC02FBY_0101 2805251 2807848 CS then 他们 不在 一起 了 真是 sian 掉
+01NC02FBY_0101 2808714 2810734 CS but ok ah i think 我 gor-gor 现在 那个 女朋友
+01NC02FBY_0101 2811455 2813889 CS 还 挺 看 得 顺眼 的 就 after-
+01NC02FBY_0101 2815318 2816068 CS ya ya 因为
+01NC02FBY_0101 2816472 2822013 CS 那个 跟 他 在一起 六年 那个 女的 她 就 已经 会 like 那种 wedding ok lah wedding 就 没有 带 来 啊 but
+01NC02FBY_0101 2822280 2826430 CS 就 那种 过年 过节 什么 会 有 看到 她 这样 then after that
+01NC02FBY_0101 2827229 2832713 CS 他们 break 了 之后 我 gor-gor i don't know how he got to know this girl but he got involve with this
+01NC02FBY_0101 2833030 2836551 CS (er) like machiam 那种 我 的 年龄 的 那种 女的 then 她 就那种
+01NC02FBY_0101 2837272 2838340 ZH 大 我 四岁 吧
+01NC02FBY_0101 2839171 2842778 CS then (er) 那个 女的 是 那种 超 问题 儿童 type 的
+01NC02FBY_0101 2843067 2844366 CS ok lah 这个 就
+01NC02FBY_0101 2844712 2848694 CS ya 你 不可以 因为 唉呀 其实 也 不用紧 啊 i don't think we got common friends i don't even know the girl's name
+01NC02FBY_0101 2848694 2862513 CS 他 就 讲 那个 女的 后来 跟 他 讲 哦 她 小时候 被 他 爸 molest 过 是 step-father da da da 就 那种 很 complicated 的 背景 then 是 那种 mahjong* school drop out style 的 (啊) 她 周围 的 朋友 都是 那种 先 上车 后 补票 那种 哇
+01NC02FBY_0101 2862513 2869867 CS i don't know man like- 我 根本 都 不懂 我 gor-gor 去 哪里 认识 这个 女的 哇 可能 就 很久 很久 以前 的 事情 啊 so
+01NC02FBY_0101 2870646 2876909 CS  我 现在 不是 很 清楚 说 到底 他们 发生 了 什么 事情 啦 but 就 ya i guess 我 gor-gor 就 realize that-
+01NC02FBY_0101 2877410 2879720 EN i mean hello if you are first class honors
+01NC02FBY_0101 2879960 2884710 CS are you telling me you actually got common topic with this girl 你们 可以 讲 什么 除了
+01NC02FBY_0101 2885006 2891037 CS 先 上车 后 补票 一起 生孩子 以外 ya then 后来 i think 他们 就 over some circumstances i think 他 就 觉得 说
+01NC02FBY_0101 2891443 2893780 CS ya 就 有 一个 距离 啊 there's a
+01NC02FBY_0101 2894156 2895281 CS gap that 他 很 难
+01NC02FBY_0101 2895858 2899379 CS talk to the girl 而且 那个 女的 也 没有 给 我 感觉 看 得 很 顺眼 她 就是 那种
+01NC02FBY_0101 2899870 2901572 CS 很 奇怪 style 对
+01NC02FBY_0101 2901890 2903015 CS then 后来 他 就
+01NC02FBY_0101 2903737 2905984 CS ya 就 不 在一起 了 咯 but i think they are still like
+01NC02FBY_0101 2906503 2908841 CS on friends ya 就 还 挺 friendly 这样
+01NC02FBY_0101 2916162 2917519 ZH (嗯)
+01NC02FBY_0101 2921613 2922565 ZH 或者
+01NC02FBY_0101 2923229 2925740 CS (啧) 唉呀 我 不知道 嘞 'cause 我 跟 roy
+01NC02FBY_0101 2926317 2930328 CS 算 还是 会 like 讲话 but ok the the thing is he is in perth lah so
+01NC02FBY_0101 2930848 2936071 CS 我们 根本 都 没有 很 大 的 connection 了 so ya but we can still talk so it's fine
+01NC02FBY_0101 2937225 2938322 EN ya lor then
+01NC02FBY_0101 2938923 2941174 CS 后来 after 那个 女 女的
+01NC02FBY_0101 2941549 2956233 CS 不在一起 了 之后 then oh ok ok 那个 女的 她 是 那种 什么 她 的朋友 like 什么 什么 被 人家 gang rape 过  就 那种 哇 我 gor-gor 跟 我 讲 这个 故事 的时候 我 jitao 是 question mark question mark huh 你 去 哪里 认识 唉呀 我 没有 讲 她 but 我 就 觉得 哇 我 gor-gor 也是 越来越 complicated
+01NC02FBY_0101 2956493 2956839 EN then
+01NC02FBY_0101 2957380 2961400 ZH 后来 过了 那个 女 的 之后 他 过了 一下子 他 又 跟 另外 一个 女 的 在一起
+01NC02FBY_0101 2963266 2970885 CS but 那个 女的 也是 一个 问题 很大 她 是 ok 她 是 那种 在 bank 做工 很 high flyer 很 high flyer 很 厉害 讲话 还是 什么 的 but apparently 那个 女的 got some
+01NC02FBY_0101 2971203 2971549 EN (um)
+01NC02FBY_0101 2971910 2974280 CS disease some some illness thing that 是 那种
+01NC02FBY_0101 2974723 2976513 EN (erm) there's no cure for it and-
+01NC02FBY_0101 2977234 2981932 CS 可是 她 不是 那种 like 我 好像 cancer 那种 terminal stage 那种 很 cui 不是 but
+01NC02FBY_0101 2982596 2996562 CS 她 她 好像 是 那种 什么 白 some some type of like cancer but like 可能 你 活 不久 可是- ah leukemia ah-ah then 就 后来 他们 在一起 了 之后 那个 女的 才 敢 跟 我 gor-gor 讲 的
+01NC02FBY_0101 2997168 3008260 CS then 我 gor-gor 就- ya 我 就 那时候 唉呀 between 我 跟 我 gor-gor 啦 那个 girl 不在 的 时候 我 就 talk about it 我 就 讲 huh how come you know that she you know might not live her days are numbered then you are still interested 对 他 就 讲
+01NC02FBY_0101 3008260 3012630 CS he didn't know 那个 女 的 不敢 跟他讲 until 他们 在一起 了 之后 那个 女 的 才 有一天
+01NC02FBY_0101 3013257 3018509 CS 很老实 地 跟 他 讲 then 就 讲 said something about like 哦 如果 你 要 离开 我
+01NC02FBY_0101 3018885 3019808 EN i- it's ok lah
+01NC02FBY_0101 3025516 3036600 CS 他 没有 我 也是 我 真的 觉得 他- 对 因为 i think 那个 女的 她 是 她 是 那种 banking side in fact 现在 我 会 觉得 我 gor-gor 也是 这样 这样 的 style 因为 那时候 我 gor-gor 在 microsoft 做工 then
+01NC02FBY_0101 3036600 3040560 CS i think 他 感觉到 那个 女 的 很 aggressive 因为 那个 女 的 她 很 厉害 讲话 what
+01NC02FBY_0101 3040560 3044440 CS 你 好像 like banking side you are very aggressive you have the power to
+01NC02FBY_0101 3044729 3060590 CS do what you want and everything or rather you need to have the power to say get what you want done 对 then 她 就 say 她 要 something right then 她 就 会 跟 我 gor-gor 讲 then 我 gor-gor like 很 hesitant like 不要 她 就 会 一直 讲 一直 讲 讲 讲 讲 她 就会 有 办法 弄 到 我 gor gor 他 就 觉得 她 太过 aggressive 了 了 like
+01NC02FBY_0101 3060590 3063810 CS 很 像 哇 you are controlling my everything 这样 then
+01NC02FBY_0101 3064142 3064632 EN ya lor
+01NC02FBY_0101 3075534 3076400 ZH 对
+01NC02FBY_0101 3079517 3080354 ZH 对
+01NC02FBY_0101 3096014 3103806 CS 我 就 觉得 banking 的 人 可能 都是 这样子 in fact 现在 我 gor-gor 在 m.r.k. 的 时候 我 也是 觉得 他 很 aggressive 我 就 跟 你 讲 right 他 跟 我 二姐 吵架
+01NC02FBY_0101 3105740 3106317 ZH 对
+01NC02FBY_0101 3107038 3109261 CS ya so i think 那个 时候 我 gor-gor 就 cannot take 她 啦 then
+01NC02FBY_0101 3109636 3120804 CS 她 就 真的 attempt to 论 他 论 了 很久 很久 for like ok ah 可能 我 的 很久 不是 六年 这样 久 but 就 真的 对 until 他 后来 真的 cannot take it when oh okay there were some times (um)
+01NC02FBY_0101 3121160 3125030 CS 因为 那时候 他们 才 在一起 like less than 三个 月 or what then 我 姑姑 生日
+01NC02FBY_0101 3125180 3129500 CS 然后 那个 女 的 就 讲 (uh) oh i want to come for the celebration as well
+01NC02FBY_0101 3129500 3137621 CS cause 我 姑姑 生日 什么 他们 会 family go for celebration like 会 叫 我 一起 去 不会 叫 我 parents ah but 会 叫 我 then (em) ya 那个 女的 就 讲 oh i want to go
+01NC02FBY_0101 3139112 3144567 CS 很 奇怪 哟 对 then 我 gor-gor say something like (err) we are you know
+01NC02FBY_0101 3145144 3149213 CS like 才 刚刚 在一起 就 不要 这样 快 去 吓 我妈 or whatever
+01NC02FBY_0101 3149530 3153800 CS then 她 就 why why cannot i want to go i will get a present 那种 东西
+01NC02FBY_0101 3153917 3154292 ZH 就
+01NC02FBY_0101 3154956 3158246 CS 我 不 那个 part 好像 有 可是
+01NC02FBY_0101 3158710 3162550 CS 好像 听说 我 姑姑 不是 很 高兴 就 觉得 那个 女 的 太 aggressive 这样
+01NC02FBY_0101 3163320 3165917 CS then 就 要 like 八 字 还 没有 一 撇 你 干吗 要
+01NC02FBY_0101 3167822 3172901 CS 应该 是 因为 就 ok ah 这个 人 至少 看 了 比较 顺眼 就 我 看过 那个 (um)
+01NC02FBY_0101 3173704 3187444 CS 那个 leukemia that girl 她 就 真的 是 那种 长 得 高高 很 youxiu 又- 很 ya 就 很 (啊) 很 demure and everything 的 then 可是 她 就是 那种 like 很 高高 一等 这样 根本 都 不要 跟 我 讲 hello 的 那种 因为 有一次 我 跟-
+01NC02FBY_0101 3187444 3191314 CS 我 不懂 是 跟 你们 还是 跟 我 union 的 人 去 minds cafe then 我 碰到
+01NC02FBY_0101 3191843 3193257 CS gor-gor then 我 就 like 诶
+01NC02FBY_0101 3194210 3195133 CS then 我 就 oh hello
+01NC02FBY_0101 3195797 3198452 CS 那个 女的 不要 睬 我 诶 我 就 觉得 like what the
+01NC02FBY_0101 3199231 3204339 CS then 就 ok lor but 我 没有 讲 什么 啊 but 那时候 我 gor-gor 就 已经 跟 我 讲 like about 她 then
+01NC02FBY_0101 3205003 3210457 CS 我 就 静静 因为 就 like 我 i know what you are is happening between yours just like keeping quiet then after that (um)
+01NC02FBY_0101 3211197 3225194 CS 我 gor gor ya la 就 i think 他 是 真的 behlun 那个 谁 这样 aggressive then 他 就 跟 那个 女的 break off then 那个 女的 就 哇 那种 哭得 要死要活 要 闹自杀 那种 有的 没有的 就 搞 了 大半天 then 我 哥哥 也是 很 guilty and frustrated
+01NC02FBY_0101 3225655 3236300 CS then after that 就 ya 这个 女的  but 我 觉得 right 我 的 gor-gor 的 名声 在 他 的 group of friends 里面 就 跟 (啊) 我们 觉得 elma* 是 一样 type 来的
+01NC02FBY_0101 3236300 3244730 CS 因为 有 一次 我 gor-gor 很 好客 这样 他 就会 有时候 like 那种 他 birthday or whatever 会 请 人 like 新年 or whatever 会 请 他 friends and everything 去 他 家
+01NC02FBY_0101 3245503 3247119 EN  then (um)
+01NC02FBY_0101 3248187 3262437 CS 那时候 哦 then 他 就 会 叫 我 去 也是 啦 因为 就 ya same era 的 人 嘛 then 就 在 坐 在 那边 打 麻将 打 打 打 打 打 then 那时候 我 gor gor 好像 他 不懂 是 去 厕所 or whatever 因为 我 姑姑 家 是 maisonette so 就 那种 二 二楼 对 他 走掉 的 时候 then
+01NC02FBY_0101 3262927 3264060 CS then sit in 不懂
+01NC02FBY_0101 3264060 3270430 CS 哦 他 好像 是 去 找 她 带 他 女朋友 上来 他 女朋友 (呃) 好像 like 坐 bus or whatever then 他 去 接 她 来 then 就
+01NC02FBY_0101 3270430 3276945 CS that group of friends 就 talking among themselves 很 奇怪 like hello i'm the cousin 你 知道 吗 在 我 面前 他 讲 唉呀 don't know what 佩玲 see
+01NC02FBY_0101 3277349 3291910 CS in him if i'm not wrong 他们 好像 是 那种 mu- quite a number of mutual friends 这样子 but 他们 好像 本来 就 认识 this group of mutual friends gor-gor 就 <unk>  then 他们 就 讲 don't know 那个 女的 叫 佩玲 他 讲 don't what did 佩玲 see in him
+01NC02FBY_0101 3291910 3294500 CS like 明明 就 知道 他是 一个 playboy 这样
+01NC02FBY_0101 3296986 3318601 CS 因为 i think 他 前 两个 女朋友 他 也是 有 带 去 那 group of friends so 那 两个 那个 group of friends 都 看过 那 前两个 也是  ya lor 她们 就 在 那边 讲 讲 讲 then 我 就 开玩笑 我 讲 哇 yours you you don't behave like i'm inexistence sia 这样 你们 jitao 在 我 面前 讲 他 就 讲 唉呀 不用紧 啦 你 你 如果 你 真的 要 去 跟 你 cousin 讲 there is nothing we can do also but 他 就 这样 讲 啊 我 就 觉得
+01NC02FBY_0101 3319462 3322001 EN ya lor that hoo
+01NC02FBY_0101 3322633 3330811 CS but ok lah i mean they are together for quite a while already i think they are at least one two year 我 都 year four 了 了 哇塞 啧 啧 so fast
+01NC02FBY_0101 3332416 3345051 CS ya lor so hopefully ya but i think 那个 女的 她 好像 也是 那种 在 banking side 做 but 她 给 我 感觉 她 是 比较 文静 些 她 不会 对 可是 她 i think 她 也是 那种 姑娘 style 的
+01NC02FBY_0101 3347013 3354943 CS then ya lor (um) 我 没有 很 喜欢 她 but 就 还好 quite 看得 顺眼 就
+01NC02FBY_0101 3356213 3360368 CS 有时候 她 会 like say 那种 我 如果 我 二姐 organize chalet or whatever then
+01NC02FBY_0101 3360830 3369800 CS 她 有 来 then 就会 讲话 啦 then then oh th- ok 我 印象 最 深 的 为什么 我 会 比- 我 会 quite 不喜欢 她 因为 那时候
+01NC02FBY_0101 3369800 3374340 CS i think 她 穿 新 鞋子 然后 她 脚 有 blisters 然后 她 就 走 走 走 在 一 拐 一 拐 then 我 跟 她 一起
+01NC02FBY_0101 3374591 3379064 CS 我 gor-gor 讲 他 去 (呃) drive (呃) he 他 不懂 是 要 搬 什么 东西 then 他 就 pass 了 near
+01NC02FBY_0101 3379720 3391495 CS car key then 他 就 讲 我们 两个 先 拿 那些 东西 过去 那个 车 先 哪 then 我们 走 走 走 then 她 就 like limping then 我 就 讲 what happened to you what happened to your leg then 她 就 讲 哦 (呃) 没有 啦 那个 书 shoe got blister then 我 就
+01NC02FBY_0101 3391956 3398616 CS 哦 呃 then 那时候 我 在 穿 拖鞋 嘛 hello 哪有人 去 chalet 穿 到 那样 好看 then 我 就 讲 (呃) you want to- 啊 我 就 讲 (呃)
+01NC02FBY_0101 3399511 3414426 CS 穿 那个 slippers 她 就 讲 哦 不要 啦 这个 鞋子 很难 穿 唉 会有 blister then 我 就 讲 我 穿 那 一小 应该 因为 你 现在 是 本来 就 痛 了 so 她 就 讲 ok lah 她 就 跟 我 换 then after that 换 换 换 换 那个 女的 走 到 那个 carpark 的 时候 then carpark 的 地板 就 很 muddy and stuff like that then
+01NC02FBY_0101 3415523 3425876 CS  我 还 没有 弄脏 but 那时候 我 就 讲 哦 还 挺 muddy 的 then 她 都 已经 穿 了 我 slipper 踩 踩 踩 踩 over the mud 了 then 我 就 讲 哦 这个 地方 很 muddy eh then 我 就 said something like (er)
+01NC02FBY_0101 3425876 3431734 CS ya lor 不要 pass my slippers 然后 就 before 我 踩 过去 就 不要 弄 脏 那个 女的 鞋子 then 她 就 哦 ok lor
+01NC02FBY_0101 3432398 3450481 CS then after that 我 就 跟 她 换 她 就 这样子 她 也 没有 讲 谢谢 or whatever 我 就 觉得 她 不是 一个 很 appreciative 的 人 i think 可能 i'm wrong lah 可能 她 那天 真的 脚痛 还是 唉呀 就 我 自己 在 sensitive but 她 就 给 我 感觉 她 不是 my average friend that 会 pai sei 会 like 觉得 说 哦 ok 谢谢 或者 唉呀 不用紧 啦 你 踩 啦 it's ok 我 可以 回家 自己 洗
+01NC02FBY_0101 3450972 3454839 CS 对 then 我 就 as much as 对 是 我 offer 我 就 don't feel the
+01NC02FBY_0101 3455589 3456571 EN that feeling
+01NC02FBY_0101 3457056 3467012 CS 对 对 appreciation 对 我 就 ya 就 没有 很 看得 爽 她 but 我 就 觉得 ok lah 过得去 啦 huh 你 你 都 不会 是 那种
+01NC02FBY_0101 3467400 3474320 CS 她是 那种 我 hi bye friend 新年 看到 还是 什么 for the rest of my life 如果 你 真的 做 我的 cousin in law 我 就 okay lah fine
+01NC02FBY_0101 3474870 3480410 CS but 如果 你 住 在 跟 我 一起 住 你 应该 就是 迟早 我们 一定 会 吵架 是 迟 或 早 的 事情
+01NC02FBY_0101 3481746 3485151 CS 所以 就 还好 but at least 就 那种 我 不会 看 到 就 想 骂人 的 type
+01NC02FBY_0101 3486796 3490461 CS  对 咯 我 刚才 看到 我 就 五十六 munites something something
+01NC02FBY_0101 3491298 3496781 CS oh my god 我 今天 没有 带 chocolate though paisei 明天 吧 明天 我 应该 会 带给 我
+01NC02FBY_0101 3497503 3499552 ZH 哦 <unk>
+01NC02FBY_0101 3500250 3503140 ZH 吃 了 饭 两 点 多 的 时候 我 下去
+01NC02FBY_0101 3503703 3507917 CS 我 的 lab or rather 我 上去 我 的 lab to 开电脑 做 昨天的 东西 因为 昨天
+01NC02FBY_0101 3508470 3511120 CS kio 叫 我 做 东西 我 就 这样 left it there 我 就 讲
+01NC02FBY_0101 3511315 3516452 CS oh (um) ya later or someday i will do oh then 我 讲 i go class already bye bye
+01NC02FBY_0101 3517087 3521020 CS then  昨 后来 我 回 了 我 就 去 class 我 都 没有 带 那个 东西 so 我 就 没有 做
+01NC02FBY_0101 3521020 3526960 CS then 回到 家 我 就 很 nua 我 就在 那边 spin the chair slack then 我 就 哎呀 不想 做 了
+01NC02FBY_0101 3527353 3533702 CS then 我 就 想 今天 再 讲 吧 then 今天 whole day 我 又 没有 带 那个 东西 我 又 开始 slack slack slack slack then 今天 就 来 做 这个 then
+01NC02FBY_0101 3534305 3537710 CS 根本 都 没有 做 到 anything at all 么哈哈哈
+01NC02FBY_0101 3539095 3539326 EN then
+01NC02FBY_0101 3540596 3541531 CS ya lor 后来
+01NC02FBY_0101 3542126 3561571 CS 那 十分 刚才 那 半个 小时 的 <unk> 我 就 做 做 做 shit 不可以 run or rather 我 以为 我 run 对 了 then 我 就 想 ok 我 去 看 一下 load file 我 就 觉得 诶 为什么 load file 没有 东西 我 就 开始 wahlau 它 就 只有 两个 跑 另外 两个 没有 跑 我 就 crap 我 就 在 那边 想 为什么 没有 我 就 看 着 那个 error 看 了 很久 我 在 那边 message 你 讲 where are you 的 时候 我 就 在 那边
+01NC02FBY_0101 3562011 3571490 CS 看 看 看 我 就 开始 oh shit 我 没有 copy 那个 files over of course 它 不可以 run nah 它 根本 都 there's 它 都 不懂 要 run 什么 这样 我 就 啊 then 我
+01NC02FBY_0101 3571490 3575680 CS then 我 已经 开始 跑 一半 了 so unless 我 故意 stop 掉 那 两个 machine 的 job
+01NC02FBY_0101 3575870 3580030 CS to 重 改 然后 就 哎呀 不要 啦 如果 我 这样 子 的话 那个 东西 一定 会 有 error 的
+01NC02FBY_0101 3580594 3585139 CS 我 就 left it there 我 就 log out 我 就 下来 了 我 就 快点 跑 before 我 p.o. 看到 我 么哈哈哈
+01NC02FBY_0101 3589212 3590796 CS 对 一-
+01NC02FBY_0101 3591549 3597366 CS 瑞宝 其实 瑞宝 跟 我 一起 上 那个 四点半 到 六点半 的 课 but 他 不要 去 i think 他 就 觉得 说
+01NC02FBY_0101 3597964 3604040 CS 那个 module 不需要 去 唉呀 虽然 等下 我 也是 没有 什么 打算 要 去 它 是 on networks 它 是 那种 (嗯)
+01NC02FBY_0101 3604482 3607728 CS theory theory 的 东西 啊 可以 自己 学 的
+01NC02FBY_0101 3609156 3610636 CS 可是 i think 他
+01NC02FBY_0101 3612630 3616000 CS 他 现在 去 meet 他的 f. y. p. prof to do that presentation thing
+01NC02FBY_0101 3616598 3618156 CS 他 三点 meet 那个 prof
+01NC02FBY_0101 3618753 3619584 EN ya so-
+01NC02FBY_0101 3621204 3621828 EN ya lor
+01NC02FBY_0101 3622970 3625022 ZH 对 我 也 不懂 去年 哪里 都
+01NC02FBY_0101 3625723 3625957 EN then
+01NC02FBY_0101 3627177 3629099 ZH 诶 等一下 你 不要 这样 转 转 转
+01NC02FBY_0101 3629520 3631180 CS 因为 那个 wire 在 下面
+01NC02FBY_0101 3631180 3632132 ZH diao 你 
+01NC02FBY_0101 3632522 3649370 CS ya then i don't think 他 会 去 那个 lecture 他 刚才 就 跟 我 讲 but 他 讲 他 应该 会 在 f.y.p. lab 所以 其实 我 是 觉得 说 可能 after this 我 就 会 下去 f.y.p. lab at least 给 我 搞 完 那些 东西 跑 一次 不然 我 明天 如果 我 明天 才 去 学校 才 跑 的话 after that 我 整 十个小时 都 不用 做工 了 我 就 哇 哦
+01NC02FBY_0101 3649370 3654060 CS then 我 就 真的 拜四 去 学校 ah 拜四 刚刚 好 就 prof nah this is my one set of result
+01NC02FBY_0101 3654620 3655009 EN 
+01NC02FBY_0101 3656490 3668670 CS 对 我 run 的 时候 我 有 十架 电脑 then (呃) i think 就 太 慢 哪 十个 小时 唉 神经 那个 f.y.p. (呃) 那个 p.h.d. student 啊 它 有 它 只 跑 两个 小时 唉 我 这样 刚好 十个 小时 我 prof 一定 会 给 我 死掉 哦
+01NC02FBY_0101 3668670 3674268 CS then (er) 我 就 跟 我 p. o. 讲 我 p.o. 就 讲 ok 她 就 给 我 两架 电脑
+01NC02FBY_0101 3674606 3677651 CS that's why 我 就 在 做 那 两架 extra 两架 电脑 的 set up
+01NC02FBY_0101 3677651 3683773 CS then 我 就 忘记 copy 那个 configuration file 我 就 happily happily declare like ok then 我 就 跑路 了
+01NC02FBY_0101 3684055 3687119 EN 
+01NC02FBY_0101 3688257 3690230 CS 欢迎 回来  then
+01NC02FBY_0101 3690958 3693892 CS ya lor 我 就 想 说 我 等一下 才 去
+01NC02FBY_0101 3694827 3700410 CS 把 它 搞 好 hopefully 它 会 真的 跑 like in half of the time 因为 i got two more computers
+01NC02FBY_0101 3701630 3709550 CS 对 哎呀 cause 我 昨天 没有 带 laptop 我 根本 都 不懂 我 要 做 什么 这样 like feeling 不对 我 就 不想 做 了
+01NC02FBY_0101 3710575 3713847 CS slack loh  think 我 p.o. 要 把 我 给 杀掉
+01NC02FBY_0101 3715873 3717768 ZH hor 诶 昨天
+01NC02FBY_0101 3719171 3721794 CS 哦 i 昨天 有没有 在 跟 你 讲话 在 m.s.n.
+01NC02FBY_0101 3722235 3724563 CS 我 but 我 跟 你 讲 那个 我 的 nephew 的 东西 right
+01NC02FBY_0101 3725351 3733376 CS 那- 啊 啊 啊 啊 啊  actually 你 给 我 这个 的 故事 我 还 觉得 挺 好笑 的 我 那天 (um)
+01NC02FBY_0101 3734080 3735940 CS 我 要 去 y. c. meeting then
+01NC02FBY_0101 3735940 3741051 CS 我 二姐 载 我 去 啊 then 我 二姐 载 我 去 的 时候 (呃) 我 roomie
+01NC02FBY_0101 3741669 3742734 CS 对 but 因为 那天
+01NC02FBY_0101 3744007 3749850 CS cause 从 唉呀 我 不懂 but anyway 因为 她 刚刚好 要 去 (啊) tampines safra 她 就 接 我们 去 tampines safra minds cafe
+01NC02FBY_0101 3750347 3750710 EN then
+01NC02FBY_0101 3752242 3756300 CS ya 新 ok ah 没有 很 新 开 but 就 最近
+01NC02FBY_0101 3756300 3765196 CS 就 那里 有 一 间 minds cafe then 她 就要 去 她 就 揪 我 大姐 gor-gor 啊 but 我 gor-gor 没有 空 then 我们 本来 超 有 兴致 的 哦 她 就 讲 哦
+01NC02FBY_0101 3766180 3768950 CS 晚上 after 下午 去 minds cafe then 晚上
+01NC02FBY_0101 3769030 3773430 CS (eh) singapore symphony orchestra 在 botanical gardens 有 some performance
+01NC02FBY_0101 3773430 3780885 CS 是 那种 open air 对 then 就 坐 在 you know 那边 picnic 她 就 有 带 mc* and whatever 六点 then 我们 我- then 那时候 她 很 搞笑 我 就 跟 她 讲 ok lor
+01NC02FBY_0101 3782838 3794592 CS  对 as in 我 懂 y.c. meeting 我 就 跟 她 讲 ok lor but i'm going y.c. meeting so after that ah but 我 忘记 掉 我 要 celebrate wong-wai's birthday then 我 就 诶 suddenly everything consult 的 时候 我 就 嗯 sah lah leh 就 诶
+01NC02FBY_0101 3794592 3800155 CS 对 then 我 就 like oh ok 不用紧 then 我 就 oh shit 怎么办 then
+01NC02FBY_0101 3800674 3808300 CS ah 我 就 讲 after that (er) 我 问 wong-wai 还有 wu-mee 要不要 去 symphony orchestra 那个 东西
+01NC02FBY_0101 3808300 3811000 CS then after that ya then 那时候 最 搞 笑 的 是 我 roomie
+01NC02FBY_0101 3811233 3814976 CS 她 本来 约 我 bugis m.r.t. 的 bus stop 搭 八十八
+01NC02FBY_0101 3817391 3821416 CS 啊 可是 她 去 (呃)pasir-ris 没有 她 去 那个 c.c. 没有 direct bus
+01NC02FBY_0101 3821728 3826152 CS then 她 得 要 i think 她 就是 somewhere 得 要 换 哪 so 她 就 don't mind 在 ang-mo-kio 换 跟 我 一起 搭 嘛
+01NC02FBY_0101 3826152 3832141 CS  那时候 我 就 跟 她 讲 ok leh then after that 我 二姐 讲 她 可以 载 我 去 我 也是 ok 她 就 继续 zuzuzu 讲话 讲话 讲话
+01NC02FBY_0101 3832141 3832894 EN then after that
+01NC02FBY_0101 3833670 3836710 CS 我 roomie 就 message 我 讲 (er) we are meeting at the bus stop
+01NC02FBY_0101 3836950 3840910 CS in front of the m. r. t. station 我 就 oh shit 我 就 快 点 打 给 我 roomie 讲
+01NC02FBY_0101 3841097 3847597 CS 唉 我 二姐 讲 可以 载 我 去 唉 我 就 你 等一下 我 问 我 二姐 就 二姐 can i- do you still have space can we-
+01NC02FBY_0101 3847883 3851882 CS (erm) can my roomie join 她 就 讲 how many more people then 我 就 讲 just my roomie ah 她 就 讲 oh can
+01NC02FBY_0101 3852505 3854453 CS then 我 roomie 就 过来 跟 我 讲 then
+01NC02FBY_0101 3855128 3856910 CS 在 车上 我 二姐-
+01NC02FBY_0101 3856910 3860720 CS then 我 二 姐夫 在 驾车 我 二 姐 就 跟 victoria 坐 ah as in victoria 坐 她 脚
+01NC02FBY_0101 3860720 3862526 CS then 我 roomie then 我
+01NC02FBY_0101 3863623 3864660 ZH 我 大姐
+01NC02FBY_0101 3864660 3866850 CS then mathew 就 坐 我 大姐 脚 上
+01NC02FBY_0101 3867216 3876020 CS then after that 我 就 disturb mathew 我们 其实 在 等 那辆 车 从 carpark 下来 的 时候  我 就 问 mathew mathew we got too many people you know you want to (um)
+01NC02FBY_0101 3876409 3877578 EN 
+01NC02FBY_0101 3877889 3878787 EN 
+01NC02FBY_0101 3879110 3884953 CS (er) somebody have to sit on somebody (er) how about the adult sit on the children's leg can i sit on your leg 他 就
+01NC02FBY_0101 3885630 3888851 CS no the children sit on the adult's leg 我 就
+01NC02FBY_0101 3889578 3896771 CS is it ok i'm the children here are you adult you said you grew up already right 他 就 no i'm the children you are the adult 我 就
+01NC02FBY_0101 3897031 3903611 EN no i'm a children everybody thinks i'm a children my mummy say i'm a children your mummy said i'm a children i'm a child also
+01NC02FBY_0101 3904104 3908986 CS then 他 就 no you are a you are an adult you are an adult then 我 就
+01NC02FBY_0101 3909340 3912580 CS no can i sit on you please 他 就 no
+01NC02FBY_0101 3914437 3920955 CS 对 我 就 disturb 他 了  until like 车 来 then 我们 就 进去 我 就 讲 ok the kids have to sit on
+01NC02FBY_0101 3921630 3934173 CS (em) the adults then 就 这样 坐 进去 then mathew 就 坐在- actually 也 没有 我 我 大姐 就 让 一个 位子 出来 给 我 给 mathew 坐  then 好像 那个 part 我 大姐 就 讲 like actually 我们 四个 人 挤 后面 还好 我 就 讲 她 就 讲 四个人 挤 后面
+01NC02FBY_0101 3934485 3935654 CS ok 的 啦
+01NC02FBY_0101 3935840 3942790 CS (erm) not really not when the three person behind are 大姐 because 我 大姐 挺 大 只 大姐 me and my roomie then 她 就
+01NC02FBY_0101 3943110 3947135 CS 她 就 ya kind of think about it quite true 她 讲 but we got mathew to compensate mah
+01NC02FBY_0101 3947135 3957376 CS 我 讲 可是 in the first place 这 三个 人 坐 在 后面 根本 就 很 挤 了 还 加 多 一个 小孩 就 ok 不用紧 then after that 她 就 start to- 她 就 她 有 一本 那种 calendar looking 的
+01NC02FBY_0101 3958181 3969565 CS book 他 就 那只 拗 拗 就 差不多 a. five size 这样 then 他 就 拗拗拗 then 刚好 那个 planner (呃) 有 那个 calendar 的 page 他 其实 是 用 背 的 i don't think he can really
+01NC02FBY_0101 3970006 3976706 CS 我 我 不 相信 对 我 不 相信 我 指 september 他 会 读 september but 他 就 在 那边 看着 那个 东西 他 就 january
+01NC02FBY_0101 3977226 3979370 EN february march
+01NC02FBY_0101 3979840 3981640 CS may then 我 就
+01NC02FBY_0101 3982028 3986780 CS then 他 就 carry on nah like may june da da da then 我 就 讲 ah no march april
+01NC02FBY_0101 3987455 3992856 CS may then 他 就 march april may
+01NC02FBY_0101 3993360 3997380 CS then 他 就 carry on carry on carry on then after that 他 又 skip 掉 august
+01NC02FBY_0101 3997609 3998284 CS then 我 就
+01NC02FBY_0101 3998751 4001770 CS 跟 他 讲 啦 august then after that 他 读 到 完 的 时候 他 讲
+01NC02FBY_0101 4001770 4004420 CS december 我 就 very good then 我 就
+01NC02FBY_0101 4004790 4007740 CS (eh) how many months are there in a year 他 就 i don't know
+01NC02FBY_0101 4008318 4010863 CS then 我 就 can we try again we count
+01NC02FBY_0101 4011564 4012473 EN january
+01NC02FBY_0101 4013434 4018370 CS then 我 就 cue 他 啦 then 他 就 讲 february 他 就 went on and on and on and on then
+01NC02FBY_0101 4018800 4023137 CS after that 到 december (啊) 到 october then 我 就 不够 手 啦 then 我 就
+01NC02FBY_0101 4023735 4025682 EN november december
+01NC02FBY_0101 4026098 4028435 CS then ye 他 就 不懂 我 在 做 什么 鬼 so 他 就
+01NC02FBY_0101 4028876 4033840 CS 放回 他 的 手 then 我 就 要 问 他 有 几个 finger 的 时候 我 就 这样子 指 他
+01NC02FBY_0101 4033840 4035870 CS so how many months are there 他 就 ten
+01NC02FBY_0101 4036007 4036656 CS then 我 就
+01NC02FBY_0101 4037565 4038110 EN no
+01NC02FBY_0101 4038474 4042706 CS then what about your ones on your fingers 他 就 ignore 我 唉 他 就 jitao 不要 睬 我 哦 then
+01NC02FBY_0101 4042966 4048600 CS (啊) 我 的 他 就 看 他 的 书 then 因为 那个 书 是 那种 一 二 三 四 五 六 七 八 九 十 就是
+01NC02FBY_0101 4048600 4051800 CS like three times four 的 formation 吗 通常 calendar 他 就 这样子 嘞
+01NC02FBY_0101 4052131 4055247 EN three six nine twelve twelve months
+01NC02FBY_0101 4055626 4061390 CS 对  我 roomie 我 我 大姐 都 看着 他 stun 反正 就 stun 完 之后 我 就 讲
+01NC02FBY_0101 4061390 4066320 EN apparently mathew knows how to do multiplication before he can do addition
+01NC02FBY_0101 4066976 4076533 CS then  哇 我们 就- then 我 二 大姐 因为 我 大姐 她 在 读 p.h.d. what then 她 是 那种 like major maths so 她 就 then 她 就 那种 maj~ major in maths and education or something like that
+01NC02FBY_0101 4076533 4079437 CS then 她 就 很 particular about the things i say you know then 她 就 讲 like
+01NC02FBY_0101 4079697 4089591 CS not really (em) 她 就 讲 not really (um) this is not really multiplication (er) he don't know multiplication or the concept behind it but he knows how to count in count in threes
+01NC02FBY_0101 4090422 4094188 CS 对 你 就 wahlau 唉 fine then 我 就 ok lor
+01NC02FBY_0101 4094509 4096249 CS ya then 他
+01NC02FBY_0101 4096665 4101651 CS i i i didn't attempt to continue the topic ah then 我 大姐 就 讲 mathew can you count in fours then 他 就
+01NC02FBY_0101 4102352 4103053 EN four
+01NC02FBY_0101 4103988 4104481 EN eight
+01NC02FBY_0101 4105390 4110895 CS then 他 就 pause 了 停 一下子 as in 他 其实 讲 four eight 他 讲 挺 快 four eight then 他 就 想 很久
+01NC02FBY_0101 4111353 4111691 ZH 他 就
+01NC02FBY_0101 4112340 4113690 CS six 他 就 讲
+01NC02FBY_0101 4114677 4116183 CS 诶 他 就 讲 twelve 还是 讲 sixteen
+01NC02FBY_0101 4116599 4117715 EN i think he said sixteen
+01NC02FBY_0101 4118001 4122333 CS then (um) at that moment 他 讲 sixteen 的 时候  大家 也是 going to correct him to say it's
+01NC02FBY_0101 4122722 4125319 CS (er) twelve 的 时候 他 就 讲 thirty two
+01NC02FBY_0101 4125683 4134720 CS  我 roomie 我 跟 我 大姐 又 stun then 我 就 讲  apparently before he learns he learn multiplication he learn how to do to the power of already
+01NC02FBY_0101 4135629 4145881 CS 对 like two to the power of two three two to the power of two (er) four to the power of five 我 就 觉得 很 好笑 唉 then 我 就 blog this down in my 那个 tumbler 的 blog then (呃) 昨天
+01NC02FBY_0101 4146847 4149444 CS 庆辉 就 show 我 看 一个 video on
+01NC02FBY_0101 4150580 4152529 CS some very touching video on youtube 的 啦
+01NC02FBY_0101 4154508 4155910 CS ya 就 我 post 了 两个
+01NC02FBY_0101 4156586 4163259 CS video 那个 最新 最新 的  then 我 就 我 就 正在 看 因为 我 dessy 讲 她 看 了 她 哭 then
+01NC02FBY_0101 4163259 4175487 CS 她 就 讲 有 泪汪汪 有 眼睛 水汪汪 的 but 她 没有 真的 呜哇 哭 出来  then (er) 她 就 叫 我 去 看 then 我 就 这样 看 的 时候 我 就 要 讲 唉呀 我 应该 不会 哭 因为 我不会 这样子 对 我 grandma or whatever to start with so
+01NC02FBY_0101 4176006 4177513 CS 我 就 觉得 可能 i won't get that
+01NC02FBY_0101 4178084 4180290 EN or rather i don't have a grandma to start with
+01NC02FBY_0101 4180290 4183609 CS cause 我的 paternal side 的 我 根本 都 没有 看过 我的 grandparents then
+01NC02FBY_0101 4183750 4186720 CS 我 maternal side 的 就 没有 很 熟 这样 then 就 pass away 了
+01NC02FBY_0101 4186720 4192430 CS then so 就 觉得 说 我 应该 不会 看 了 then 想 哭 then 后来 就 看到 那个 last part 那个 女的
+01NC02FBY_0101 4192430 4196530 CS ya 我 就 真的 没有 哭 到 要 死 要 活 but 我也 是 开始 就 水汪汪 眼睛 这样
+01NC02FBY_0101 4196530 4198250 CS  then 我 就 like wow
+01NC02FBY_0101 4198250 4202430 CS ya 不错 then 我 就 started to paste to a lot of people then my p. o. came online then
+01NC02FBY_0101 4202430 4206683 CS 我 就 click on 他 我 就 讲 watch this watch this 我 就 很 excited 我 就 跟 每个人 很多 人 讲
+01NC02FBY_0101 4207098 4209903 CS 我 也 就 跟 我 y.c. 的 人 讲 也是 then 还有我 roomie 啊
+01NC02FBY_0101 4210656 4212032 CS 后来 我 p.o. 就 没有 but i think
+01NC02FBY_0101 4213450 4216900 CS i think 他 刚刚 came online then 他 可能 去 做 其它 的 东西 了 吧 他 就 away
+01NC02FBY_0101 4217235 4218274 CS then 他 就 过 了
+01NC02FBY_0101 4219442 4221670 CS 差不多 十五 分钟 他 才 reply 讲
+01NC02FBY_0101 4221670 4223730 EN oh this one i saw before already but thanks anyway
+01NC02FBY_0101 4224015 4237493 CS 因为 刚刚好 那时候 我 在 paste 给 bessy 看 那个 mathew 的 那个 multiplication 因为 i blog the thing on my blog then 我 就 <unk> then you must then 我 讲 you get to read this ha-ha then 他 就 去 读 读 了 他 就 来 找 我 吵架 他 就 跟 我 讲(啊)
+01NC02FBY_0101 4238012 4246994 CS 他 就 讲 for your information or something like that ah 我 忘记 他 的 exact words but 他 就 讲 for your information multiplication (er) square is mulriplication
+01NC02FBY_0101 4247383 4253616 CS as in 就 two times bla bla bla then 他 就 讲 don't tell other people you are a n.t.u. student nor ok 他 就 in smalls* ah
+01NC02FBY_0101 4253983 4268733 CS 后来 我 就 觉得 你 讲 了 等于 白讲 你 这样 讲 的话 multiplication is a form of addition what 因为 是 三 加 三 加 啊哪 then 我 就 dot dot dot dot dot dot 我 就 讲 了 for you information 我 就 用 会 他 same line addition is also a (um) multiplication is also form of addition
+01NC02FBY_0101 4269483 4275871 CS then 我 就 没有 没有 我 就 没有 讲 这个 part 先 我 觉得 看 他 reply 什么 他 就 诶 ya hoh l.o.l. then
+01NC02FBY_0101 4276338 4281688 CS 我 就 放 in capital letter don't tell other people you are from n.t.u. hor
+01NC02FBY_0101 4282129 4285999 CS then  他 就 dot dot dot 他 就 讲 i never say
+01NC02FBY_0101 4286650 4287741 EN (err) that
+01NC02FBY_0101 4288624 4297090 EN addition is not- i never say addition is not- (er) multiplication is not a form of addition nah i just- i'm just telling you that you say (um) square is not a
+01NC02FBY_0101 4297324 4308760 CS and now come to think about it i also never say multiplication is- squares is not a form of multiplication oh just that 我 只不过 是 讲 wow he knows how to do multiplica~ (er) squares before multiplication 妈的  then 他 就
+01NC02FBY_0101 4308993 4310655 CS 他 就 一直 niao 诶
+01NC02FBY_0101 4310993 4318260 CS 我- 他 就 refuse to admit that 他 真的 是 不懂 哦 我 就 讲 you 明- 你 明明 讲 ya lor 你 根本 就
+01NC02FBY_0101 4318260 4321570 CS 没有 去 想到 那个 part 你 现在 是在 rebutt 我 因为 (呃)
+01NC02FBY_0101 4321826 4329657 CS 我 讲 你 then 你 不要 讲输 then 他 就 no 他 就 argue argue argue like 那种 alvin style then 后来 我 就 like
+01NC02FBY_0101 4329969 4342252 CS 唉呀 fine lah anything lah whatever you say 我 就 讲 i don't want to argue with you over necessary things i aleady (呃) 没有 我 就 讲 i don't wanna argue with you for such unnecessary things already over necessary things i already argue until no (um)
+01NC02FBY_0101 4342691 4348300 EN no up no down already i don't want no left no right already i don't want to purposely unnecessary things also argue with you
+01NC02FBY_0101 4348612 4351133 CS then 他 就 l.o.l. then 我 就 不要 跟 他 讲话
+01NC02FBY_0101 4352118 4355678 CS 咳 烦 喏 就 他 整天 找 我 吵架 beh tahan
+01NC02FBY_0101 4358093 4360719 ZH  还有 多久
+01NC02FBY_0101 4361053 4361884 ZH 四十
+01NC02FBY_0101 4363139 4364672 ZH 没有 啦 四十八 分钟
+01NC02FBY_0101 4365399 4366074 ZH 哈 哈 哈
+01NC02FBY_0101 4366412 4373597 CS 你 的 算数 也 不好 哦  哦 我 show 你 一个 东西 刚才 我 的 (呃) 这张 是 什么 纸 来的 诶 这张 是 我们 的 纸
+01NC02FBY_0101 4374657 4380168 CS 是 你名 跟 我名 啊 是 我们 fill in 的 那个 form  今天 我 take
+01NC02FBY_0101 4380994 4388669 CS a.i. (um) artificial intelligence 的- 诶 (啊) as in 我 在 take one of the modules 叫 artificial intelligence
+01NC02FBY_0101 4388669 4394190 CS 然后 它 就 挺 interesting ah but 就 有 很多人 都 讲 啦 很难 算了 不要 take then 今天 它 的 (erm)
+01NC02FBY_0101 4394190 4396460 CS we were doing something 那个 lecturer 就 讲 oh
+01NC02FBY_0101 4396700 4398730 CS (um) for example right 他 给 你 一个
+01NC02FBY_0101 4399690 4401120 EN mathematical problem lah
+01NC02FBY_0101 4401120 4404070 CS 他 就 like 放 t. w. o. two
+01NC02FBY_0101 4404070 4406338 EN plus t.w.o. two
+01NC02FBY_0101 4406630 4411970 CS equals to f. o. u. r. four 他 就 讲 by substituting
+01NC02FBY_0101 4412259 4414080 CS 那些 alphabets with (er)
+01NC02FBY_0101 4414080 4417420 EN numbers either from zero to nine you will be able to
+01NC02FBY_0101 4417420 4419618 CS 这样 substitute and get an actual-
+01NC02FBY_0101 4421182 4425467 CS 对 ok 我 attempt to 拿 一支  笔 and stuff
+01NC02FBY_0101 4425467 4427405 CS i think 因为 我 要 拿 纸
+01NC02FBY_0101 4427405 4431300 CS 我 pause 了 
+01NC02FBY_0101 4438302 4440379 CS 自己 讲 自己 东西 right 
+01NC02FBY_0101 4453699 4455075 EN (emmm)
+01NC02FBY_0101 4460087 4463151 CS 哦 我 show 你 那个 刚才 我 跟 你 讲 的 东西
+01NC02FBY_0101 4465514 4466527 EN t. w. o.
+01NC02FBY_0101 4467410 4469740 EN plus t.w.o. equals to four
+01NC02FBY_0101 4469740 4472840 CS 对 then 就 by substituting 这些 alphabets
+01NC02FBY_0101 4473060 4475830 EN into like anything from zero to nine right
+01NC02FBY_0101 4476190 4478280 CS 它 就可以 变成 a valid thing
+01NC02FBY_0101 4479857 4480983 ZH 就 猜 呀
+01NC02FBY_0101 4481791 4482628 CS then 因为- ok
+01NC02FBY_0101 4482916 4489391 CS then 刚才 我 诶 你 懂 我 每次 take a.i. 那时候 你 不是 gatecrash 我 的 lecture then 你 看到 我 旁边 那个 男的 我 不是 跟 你 讲 很 zai 很 zai 吗
+01NC02FBY_0101 4490156 4495900 CS you know 有一天* 我们 坐 在 那边 we were just talking about it 因为 它 是 one of those exam questions then the 老师 was just showing us then
+01NC02FBY_0101 4495900 4499007 CS 他 就 讲 拜 五 we will talk about it lah then we are suppose to write like
+01NC02FBY_0101 4499110 4501575 EN the rules what are the constraints that we might have
+01NC02FBY_0101 4502130 4503047 CS then after that 他 就 讲
+01NC02FBY_0101 4503220 4506222 CS oh then 他 就 没有 讲 啊 oh he was just saying like 我们 要 代
+01NC02FBY_0101 4506481 4509252 CS then 我 跟 耀辉 我们 在 这边 clear 它 then 我们 就 讲 ok
+01NC02FBY_0101 4509541 4512051 CS (呃) 他 就 immediately 他 讲 他 就 讲 o. cannot be zero
+01NC02FBY_0101 4513956 4515197 CS 因为 zero plus zero
+01NC02FBY_0101 4515543 4517361 CS 一定 是 zero then 这个 不是 zero
+01NC02FBY_0101 4517708 4520449 CS then 他 就 o. cannot be zero 我们 就 诶 有道理 then 我们 就 讲
+01NC02FBY_0101 4520651 4523191 CS t. oh 一定 要 是 greater greater or equals to five
+01NC02FBY_0101 4523670 4524774 CS if not 它 就 不会 有
+01NC02FBY_0101 4525010 4525842 CS 四个 digit
+01NC02FBY_0101 4526498 4533771 CS then 就 哇 我们 这样 试 后来 就 真的 找到 两个 answer 我 就 真的 amaze 我 就 真的 like 我 很 喜欢 这种 intellectual 的
+01NC02FBY_0101 4534377 4535185 EN discussion
+01NC02FBY_0101 4535473 4538200 CS 对 我们 两个 就 搞 了 一 大半 天 嘞 then 就 like
+01NC02FBY_0101 4539947 4543751 CS ya 我们 有 找到 两个 answer 就 我们 这样 看 看 看 then 我们 就 会 讲 (呃)
+01NC02FBY_0101 4544068 4546463 CS ok (呃) o. 一定 会 是
+01NC02FBY_0101 4547502 4548195 ZH 一个
+01NC02FBY_0101 4549551 4550619 CS even number 来的
+01NC02FBY_0101 4552091 4552668 ZH 因为
+01NC02FBY_0101 4552890 4554980 CS 这个 plus 这个 这个 number 一定 会 是 even
+01NC02FBY_0101 4555778 4556673 EN three plus three
+01NC02FBY_0101 4556961 4559357 CS odd plud odd equals to even ah even plus even 也 是 equals to even
+01NC02FBY_0101 4559780 4562430 CS so 这 o. 一定 会 是 even number 来 的
+01NC02FBY_0101 4564003 4565130 CS 他 很 zai right
+01NC02FBY_0101 4565130 4567700 CS 我 都 其实 没有 想- i mean i think 可能 到 最后 我 会
+01NC02FBY_0101 4568297 4574415 CS come to think about it 可是 我 不会 like immediately 我们 两个 就 一人 写 一- 我们 就 在 那边 一起 talk about it then 我们 就 写 写 写
+01NC02FBY_0101 4574906 4577272 CS then 就 like t. plus t.(um)
+01NC02FBY_0101 4578023 4580735 CS w. plus w. then 我们 就 想 ok (er)
+01NC02FBY_0101 4581230 4583550 CS 后来 我们 不懂 come out with 什么 then 我们 就 讲
+01NC02FBY_0101 4583902 4585230 CS o. 一定 要是 more than
+01NC02FBY_0101 4585749 4591233 CS five 我 忘记 为什么 我们 这样 觉得 啊 but 后来 apparently it's not 我们 attempt some other numbers also manage to get it
+01NC02FBY_0101 4591723 4596485 CS 他们 就 搞 了 大半天 我们 后来 就 真的 come out with 两个 ho 不懂 是 八 六
+01NC02FBY_0101 4597206 4598390 CS 三 or something like that
+01NC02FBY_0101 4599659 4602112 CS 就 很- 哦 八 六 四 or something 因为 这个
+01NC02FBY_0101 4602420 4603990 EN have to be things like four
+01NC02FBY_0101 4604357 4605425 EN six or eight
+01NC02FBY_0101 4606233 4606810 EN then
+01NC02FBY_0101 4607935 4608686 ZH 这个
+01NC02FBY_0101 4609840 4611312 ZH 这个 得 要 是
+01NC02FBY_0101 4612380 4613979 ZH 就 比较 小 的 号码 来的
+01NC02FBY_0101 4615740 4620460 CS 可是 you don't have to come out- i don't think exam 会 叫 我们 come out with a number example but
+01NC02FBY_0101 4620811 4622587 CS 他 就 要 我们 写 那些 constraints oh like
+01NC02FBY_0101 4622991 4624088 CS w. 是
+01NC02FBY_0101 4624463 4626108 ZH (um) 一定 要 是 什么
+01NC02FBY_0101 4626541 4633756 CS 什么 什么 对 then 那时候 我们 就 换 换 换 换 换 换到 很 excited 我 就 at that moment 我 就 觉得 我 真的 没有 take 错 module 就 我 真的 很 喜欢
+01NC02FBY_0101 4634188 4635343 ZH 做 这种 有的 没有的 东西
+01NC02FBY_0101 4635574 4636757 EN 
+01NC02FBY_0101 4637305 4638892 ZH 后来 我们 来 猜 如果 是
+01NC02FBY_0101 4639609 4640272 ZH 八
+01NC02FBY_0101 4641658 4642206 ZH 三
+01NC02FBY_0101 4642668 4643043 ZH 六
+01NC02FBY_0101 4647285 4649882 CS ya 就 so that this will exist lah
+01NC02FBY_0101 4650884 4651837 ZH 二 七
+01NC02FBY_0101 4652356 4652991 ZH 十六
+01NC02FBY_0101 4654290 4657089 CS so like (er) 六 六 六
+01NC02FBY_0101 4657493 4661072 CS 一 七 二 八 八 so ya this can work
+01NC02FBY_0101 4661470 4663375 CS 或者 another one 我 看到 好像 是
+01NC02FBY_0101 4663895 4665395 ZH 九 三
+01NC02FBY_0101 4665713 4666088 ZH 八
+01NC02FBY_0101 4667675 4669868 CS 刚才 我们 好像 with this also 八 八 六
+01NC02FBY_0101 4670359 4672466 ZH 七 十八 这个 也 可以
+01NC02FBY_0101 4674197 4677633 CS 对 而且 then there are some that cannot allow 好像 你 不可以
+01NC02FBY_0101 4678160 4680420 CS 一 二 三 一 二 三 然后 就 come out with it
+01NC02FBY_0101 4680798 4681321 ZH 因为
+01NC02FBY_0101 4682068 4683482 CS 你 根本 都- 对
+01NC02FBY_0101 4683828 4686454 CS 或者 even if 你 做 得 比较 correct 一点
+01NC02FBY_0101 4686916 4688705 ZH 你 讲 七 四 六
+01NC02FBY_0101 4689917 4691937 ZH 七 四 六 乘 七 四 六 这个 二
+01NC02FBY_0101 4692601 4693294 ZH 九
+01NC02FBY_0101 4693813 4694535 ZH 十四
+01NC02FBY_0101 4694939 4695256 EN then
+01NC02FBY_0101 4696035 4699585 CS 对 你 的 w. w. o. 对 这个 就是 w. w. 不是 o. 了
+01NC02FBY_0101 4699921 4701970 CS ya lor 我们 就 搞 了 大半天 then we came out with
+01NC02FBY_0101 4702288 4704019 ZH 我们 只 找到 两个 而已 啦
+01NC02FBY_0101 4704279 4705780 CS 就 这 两个 then 后来
+01NC02FBY_0101 4706126 4707482 ZH 我们 这样 找 的 时候 我 就 讲
+01NC02FBY_0101 4707713 4709012 EN does it mean (um)
+01NC02FBY_0101 4709560 4711552 ZH 七 三 四 也 可以
+01NC02FBY_0101 4712215 4713601 ZH 我 就 这样 问 他 因为
+01NC02FBY_0101 4713947 4716712 CS there is a certain sequence what like 这个 减 一 这个 减 二
+01NC02FBY_0101 4717058 4718876 CS then 我 就 这样子 跟 他 讲 do you think 七 三 四 可以
+01NC02FBY_0101 4719425 4720521 EN 
+01NC02FBY_0101 4720983 4722830 CS  then 他 就 讲
+01NC02FBY_0101 4723523 4726120 ZH 他 就 这样 讲 是 应该 不可以 因为 (呃)
+01NC02FBY_0101 4726466 4726957 ZH 我们
+01NC02FBY_0101 4727448 4730247 CS 我们 before that we discuss that 这个 要是 more than five
+01NC02FBY_0101 4730449 4731372 ZH 后来 我 就 这样 算
+01NC02FBY_0101 4731850 4732880 CS then 我 就 realize that
+01NC02FBY_0101 4734595 4735201 ZH 可以 呀
+01NC02FBY_0101 4735922 4737307 CS 就 t. w. o. o.
+01NC02FBY_0101 4737596 4739241 CS then 因为 其他 都 没有 人 问 我 就 诶
+01NC02FBY_0101 4739501 4741694 CS 我们 就 这样 看 我们 就 超 excited eh 就
+01NC02FBY_0101 4741838 4744522 CS 我 就 可以 从 这 两个 号码 然后 猜 到 第 三个 then 我们 就 讲
+01NC02FBY_0101 4744840 4745590 ZH 难道
+01NC02FBY_0101 4745907 4747210 ZH 六 三 二 也 可以
+01NC02FBY_0101 4747210 4748966 ZH 我们 懂 六 三 二 不可以 因为
+01NC02FBY_0101 4749370 4751130 CS (uh) somewhere 就会
+01NC02FBY_0101 4751852 4753988 CS wrong i think 让 我 写 出来
+01NC02FBY_0101 4757009 4759405 ZH  因为 六 六
+01NC02FBY_0101 4760328 4760675 ZH 啊
+01NC02FBY_0101 4761021 4764397 CS ya lah lor 我们 就 超 excited about it 我们 就 真的
+01NC02FBY_0101 4764773 4772710 CS 他 lecturer 讲完 (呃) 就 那种 five minutes break before the next lecture then 我们 两个 就 换 换 换 换 我们 就 找 数字
+01NC02FBY_0101 4772710 4774670 CS 我们 就 超 excited 我们 就 觉得
+01NC02FBY_0101 4774754 4777409 ZH 对 我 就 真的 觉得 那个 耀辉 很 zai
+01NC02FBY_0101 4779950 4782810 CS 他是 j. c. 的 可是 apparently 他 j. c. 是 读 computing 的
+01NC02FBY_0101 4783717 4788306 CS then apparently j.c. 读 computing 的 人 来到 uni 可以 exempted what half a sem eh
+01NC02FBY_0101 4788767 4790326 CS 唉呀 half a year 就 one sem
+01NC02FBY_0101 4791336 4793558 CS but i don't know how come 雁博 没有
+01NC02FBY_0101 4796559 4798522 CS 可是 雁博 也是 com engine nah
+01NC02FBY_0101 4799756 4801776 CS 他 是 school of computing 里面 的 com engine
+01NC02FBY_0101 4802931 4803450 EN ya
+01NC02FBY_0101 4803739 4806336 CS 因为 我 跟 雁博 有 talk about it before 对
+01NC02FBY_0101 4806942 4808674 CS ya lor then 我 就 还 觉得
+01NC02FBY_0101 4809539 4813868 CS 对 either that 不然 就是 那个 耀辉 的 computing result 真的 是 zai 到 不可以 再 zai
+01NC02FBY_0101 4815219 4815680 EN then
+01NC02FBY_0101 4817094 4819479 CS 哦 可是 有没有 那种 s. paper 类 的 那种 东西
+01NC02FBY_0101 4820557 4822751 CS 我 不懂 i don't think- i don't know how it works
+01NC02FBY_0101 4823184 4825264 ZH 然后 他们 就 哇 对
+01NC02FBY_0101 4825637 4826676 EN amazing oh
+01NC02FBY_0101 4827801 4829129 ZH 对 他 就 跟 瑞宝 一样
+01NC02FBY_0101 4829525 4832106 CS 而且 他 是 那种 超 zai 超 zai 的 人 哪 beh tahan
+01NC02FBY_0101 4832843 4835210 CS 哎哟 他们 是 那种-
+01NC02FBY_0101 4835560 4838320 CS i think 他是 那种 first class honors 然后 (um)
+01NC02FBY_0101 4838500 4840347 CS scholar type 的 如果
+01NC02FBY_0101 4841530 4843925 CS 诶 你 没有 realize 我 用 pencil so that 等下 可以 擦掉 唉
+01NC02FBY_0101 4844156 4850268 CS ok lah 骗你的 我 是 不会 擦掉 我 一定 是 tear and throw  可是 你 就 找 colorize the thing ah
+01NC02FBY_0101 4852029 4853587 ZH 我 找不到 我 另外 一支 笔 诶
+01NC02FBY_0101 4854015 4860739 CS 可能 是 刚才 我 没有 没有 没有 哎哟 我 刚刚 拿 的 时候 我 就 找不到 哦 那支 笔 在 这里 paisei 我 刚才 本来 想 拿 那个 pink 的 笔 出来
+01NC02FBY_0101 4861980 4864721 ZH (诶) 应该 可以 吧 他 应该 抓不到 
+01NC02FBY_0101 4865241 4866828 CS 你 要 facebook 谁
+01NC02FBY_0101 4867636 4870147 CS gossip 谁 对 吗  then
+01NC02FBY_0101 4870378 4873321 CS ya man 唉 那个 雪晶 你 show
+01NC02FBY_0101 4873805 4874902 ZH 瑞宝 跟 雪晶
+01NC02FBY_0101 4876085 4876864 ZH 真的 啊
+01NC02FBY_0101 4877817 4879674 CS 我 觉得 就 以 这种-
+01NC02FBY_0101 4880039 4885897 CS 也不是 也不是 but (er) 我 就 觉得 就是 in 这种 c~ circumstances 可能 瑞宝 会 偷吃
+01NC02FBY_0101 4886611 4887390 EN as in not that
+01NC02FBY_0101 4887823 4888198 ZH 就
+01NC02FBY_0101 4889901 4891805 ZH 真的 咩 你 看 蔡瑞宝
+01NC02FBY_0101 4902966 4904582 ZH 当然 哪
+01NC02FBY_0101 4905361 4907699 ZH 雪晶 也是 应该 把 他 当成 要
+01NC02FBY_0101 4907843 4908766 ZH 嫁 的 人
+01NC02FBY_0101 4923765 4924515 ZH 帮 她 还钱
+01NC02FBY_0101 4928844 4929768 ZH 喔
+01NC02FBY_0101 4931153 4934443 ZH 可是 我觉得 我 不懂 诶 我 就 会 觉得 说 可能
+01NC02FBY_0101 4936117 4939638 CS 蔡瑞宝 就是 那种 guy that 会 accidentally- 对
+01NC02FBY_0101 4942033 4945740 CS ya exactly that's why 我 就 觉得 唉呀 有一点 困难
+01NC02FBY_0101 4947105 4949731 CS 可是 我 真的 很 不 believe in-
+01NC02FBY_0101 4950078 4950568 EN as in-
+01NC02FBY_0101 4951752 4954291 CS 对 long long long 的 long distance
+01NC02FBY_0101 4956138 4956485 EN 
+01NC02FBY_0101 4957978 4959046 ZH 哦
+01NC02FBY_0101 4964611 4970499 CS 瑞宝 唉呀 不懂 哦 有时候 他 就 很 搞笑 他 那时候 like 这种 就 每个月 得要 他 要做 present 给
+01NC02FBY_0101 4971018 4978435 CS 给 那个 雪晶 然后 他 就 会 讲 哇 不错 整半年 不要 做  跟 我 这样 讲 我 就 觉得 like  你 根本 就是 one kind
+01NC02FBY_0101 4979560 4980166 EN 
+01NC02FBY_0101 4981234 4981898 EN 
+01NC02FBY_0101 4981898 4983832 ZH 我 也是 没有 什么 东西 看 的
+01NC02FBY_0101 4988730 4989249 ZH 结婚 了
+01NC02FBY_0101 4993832 4995915 CS what do you mean by re-proposal 她 reject 过 一次 哈
+01NC02FBY_0101 5000437 5000956 ZH 为什么
+01NC02FBY_0101 5002486 5003324 ZH 因为 <unk>
+01NC02FBY_0101 5004535 5005141 EN ya lor
+01NC02FBY_0101 5006395 5008742 CS 可是 那样 她 你 要 她 怎样 reject 有没有
+01NC02FBY_0101 5009874 5011115 ZH 幸福
+01NC02FBY_0101 5011548 5014924 ZH 如履薄冰  哇 你 懂 那天
+01NC02FBY_0101 5015470 5018250 CS 我的 friend 就 message 我 讲 do you know joanna
+01NC02FBY_0101 5018526 5021989 CS  她 就 讲 了 几个 名字 啊 (啊) (啊) 就 那个 的 full name
+01NC02FBY_0101 5022422 5023750 CS 她 就 讲 do you happen to know 我 就
+01NC02FBY_0101 5023750 5025520 CS no who is that then 她 就 讲
+01NC02FBY_0101 5025720 5027620 CS 我 就 讲 why then 她 就 讲 (um)
+01NC02FBY_0101 5028161 5037367 CS cause other than the first part of your name which my first part is michelle the chinese word is exactly same as hers then 我 就 讲 cause it's from the channel u. drama show 
+01NC02FBY_0101 5038911 5041901 CS ya man 幸福 如履薄冰
+01NC02FBY_0101 5042850 5043543 EN cool man
+01NC02FBY_0101 5044270 5046570 EN shall wait for the re-proposal
+01NC02FBY_0101 5047405 5048420 CS 她 boyfriend 是 哪 一个
+01NC02FBY_0101 5051474 5052917 ZH 这 名字 很 熟 诶 谁 来的
+01NC02FBY_0101 5054554 5054929 ZH (诶)
+01NC02FBY_0101 5057930 5060326 CS 可是 shawn ang 这个 名字 真的 很 熟 唉
+01NC02FBY_0101 5060961 5063644 CS no lah i know of a shawn ang but 是 我 minor e. 的
+01NC02FBY_0101 5064164 5065982 CS anyway 是 s. h. a. w. n. so
+01NC02FBY_0101 5066155 5068637 CS (er) as in 我 那个 我 认识 的 shawn
+01NC02FBY_0101 5069272 5070686 CS oh my god 为什么 他们 会 认识
+01NC02FBY_0101 5076219 5077633 EN ooh
+01NC02FBY_0101 5077950 5081010 CS 他们 在一起 多久 了 是 lina 的 ex-boyfriend for 多久 了
+01NC02FBY_0101 5085362 5086285 ZH 哦
+01NC02FBY_0101 5087728 5091233 CS 我 还 以为 jocelyn 跟 她 boyfriend 在一起 是 那种 七 八 年 的 那种 东西
+01NC02FBY_0101 5093846 5095409 ZH 他们 是 在一起 几个月
+01NC02FBY_0101 5095838 5099099 CS 诶 可是 我 all the while 都 以为 jocelyn is attach
+01NC02FBY_0101 5099532 5100282 EN was attached
+01NC02FBY_0101 5100773 5103716 CS like even when her* say* she* was* stuff* also i thought 她 attach
+01NC02FBY_0101 5107115 5107923 EN ooh
+01NC02FBY_0101 5108875 5111126 CS proposal eh wow 他们 几岁 man
+01NC02FBY_0101 5113672 5114759 CS jocelyn ok ah 他 嘞
+01NC02FBY_0101 5117335 5118164 EN huh
+01NC02FBY_0101 5119347 5121491 CS lina 是 几岁
+01NC02FBY_0101 5123705 5125065 ZH 哇 都是 <unk> 进来 唉
+01NC02FBY_0101 5126384 5127683 CS then 他 跟 我 gor-gor 一样
+01NC02FBY_0101 5128231 5130626 CS 他 应该 比 我 大 四岁 at least
+01NC02FBY_0101 5131723 5133945 CS 因为 我 gor-gor 也是 二 零 零 六 grad
+01NC02FBY_0101 5134955 5136081 ZH 我 看 他 大 我 三岁 哦
+01NC02FBY_0101 5136973 5138307 ZH 因为 我 不懂 我 gor-gor 是
+01NC02FBY_0101 5138633 5140538 CS 哦 对 我 gor gor 是 二零零六 grad ya lah lor
+01NC02FBY_0101 5141110 5143641 CS 四岁 哇 then 大 你 五岁
+01NC02FBY_0101 5143886 5145056 EN 
+01NC02FBY_0101 5145410 5146444 EN re-proposal
+01NC02FBY_0101 5147342 5151961 CS hoh 可是 jocelyn 一直 给 我 感觉 她 as been attach ever since-
+01NC02FBY_0101 5159120 5159882 EN history
+01NC02FBY_0101 5160753 5161461 EN 
+01NC02FBY_0101 5162631 5165516 CS hoh 你 所以 请 我们 吗 应该 不会- 她 会 请 你
+01NC02FBY_0101 5167065 5170711 CS 她 会 叫 area 的 人 吗 你 知道 她 会 请 h.q. group 的 人 吗
+01NC02FBY_0101 5173242 5177052 CS 现在 是 new batch 了 吧 那个 什么 那个 叫 什么 名 什么 tan
+01NC02FBY_0101 5178485 5179492 EN yaaa
+01NC02FBY_0101 5179655 5182186 CS tan nelgene 我 一直 以为 nelgene is a
+01NC02FBY_0101 5182812 5183193 EN (um)
+01NC02FBY_0101 5184390 5185343 CS like 英文名
+01NC02FBY_0101 5186540 5188173 CS so 我 很 奇怪 tan nelgene
+01NC02FBY_0101 5190051 5195925 CS 哦 我 一直 以为 是 tan nelgene 我 就 觉得 sounds like nelgene 对
+01NC02FBY_0101 5196930 5199053 CS 对 咯 就 一直 以为 是 nelgene tan
+01NC02FBY_0101 5200033 5201203 CS 我 就 还 挺 stun 的
+01NC02FBY_0101 5202479 5206057 CS 唔 wonder what's that in chinese 诶 我 跟 你 讲过 我 p.o. 的 华文 名 吗
+01NC02FBY_0101 5207155 5208952 ZH 他 的 华文 名 是
+01NC02FBY_0101 5209959 5210149 ZH 诶
+01NC02FBY_0101 5211374 5213088 ZH 自由 的 由 飞翔 的 翔
+01NC02FBY_0101 5213361 5216218 ZH 由翔 很 酷 啊 他 名字
+01NC02FBY_0101 5216626 5220219 CS 那种 wow 我 就 哇 不错 他 家 也 挺 厉害 取名字 的
+01NC02FBY_0101 5222478 5228351 CS cause 那时候 我们 like 见 那个 p.h.d. stdent 的 时候 那 时候 he cal~ (呃) he introduces himself as alan then
+01NC02FBY_0101 5228587 5232923 CS 那时候 我们 去 见 p.h.d. stdent then 他 就 讲 怎么 称呼 我们 then 我 就 哦 惠萍 then 他 就 讲 alan then
+01NC02FBY_0101 5233222 5237005 ZH 他 就 讲 (哦) (呃) 你 也 可以 叫 我 由翔
+01NC02FBY_0101 5237522 5237985 EN then
+01NC02FBY_0101 5238430 5242040 CS 因为 他的 i think alan 是 他 自己 取 的 so it's not in the
+01NC02FBY_0101 5242700 5244640 CS 对 then 他的 email 名字 是 tan
+01NC02FBY_0101 5245164 5252458 CS yu y. u. then s. h. y. a. n. g. so 我 每次 i never ever knew how to pronouce that 那时候 他们 去 meet 他 的 时候 他 就 讲 (呃)
+01NC02FBY_0101 5252858 5254491 ZH 就 叫 我 由翔 自由 的 由 飞翔 的 翔
+01NC02FBY_0101 5254791 5258955 CS from that moment 我 真的 就 like wow 他 名字 ya 很 屌 诶
+01NC02FBY_0101 5259907 5262792 CS then 对 咯 对 咯 then 我 就 (um) nice name
+01NC02FBY_0101 5265568 5266221 ZH 你 做 么
+01NC02FBY_0101 5269784 5273180 ZH 哇  疯掉 啊
+01NC02FBY_0101 5274514 5276147 CS then 你 明天 没有 课 你 明天 做 什么
+01NC02FBY_0101 5276392 5276773 EN like
+01NC02FBY_0101 5281067 5283326 ZH 是 什么 我 的 话 比较 多 吗 还是 比较 大声
+01NC02FBY_0101 5289852 5290805 ZH 重来 讲 多 一次
+01NC02FBY_0101 5297198 5298967 ZH 因为 我 在 讲话 
+01NC02FBY_0101 5299756 5303321 CS 我 懂 而且 i think 我 讲话 比较 大声 因为 那个
+01NC02FBY_0101 5304138 5308982 CS 诶 我 不懂 你 的 marker 会不会 work but 我 的 就 那个 marker 会 停 在 那边 挺久 啊 就 like 我 讲话
+01NC02FBY_0101 5309418 5310860 ZH 的 那个 声量 都 比较 大声
+01NC02FBY_0101 5320600 5323181 CS 超 想 睡觉 咯 我 都 不懂 等 一下 我 要不要 回去 lab
+01NC02FBY_0101 5323300 5324870 CS 改 一点 东西 才 去 gym
+01NC02FBY_0101 5331719 5332454 EN title
+01NC02FBY_0101 5342843 5344313 EN sounds quite familiar
+01NC02FBY_0101 5348491 5349424 ZH 什么 什么
+01NC02FBY_0101 5350355 5351171 CS what what 美女
+01NC02FBY_0101 5352858 5354382 EN oh two hundreds pounds beauty
+01NC02FBY_0101 5356260 5358628 CS 你 有没有 看 (呃) 那个 turning point
+01NC02FBY_0101 5359009 5360125 EN (er) over heard
+01NC02FBY_0101 5362737 5364479 CS 那个 hong-kong 警察 戏
+01NC02FBY_0101 5366022 5367329 EN huh
+01NC02FBY_0101 5368254 5371629 CS 我 跟 besty 瑞宝 跟 an~ndy 一起 去 看
+01NC02FBY_0101 5372255 5375575 CS 就 挺 搞笑 啊 like 几个月后 我们 三个 就 在 那里
+01NC02FBY_0101 5379113 5380147 ZH 哦 啊 我们
+01NC02FBY_0101 5381208 5382889 EN ya i think the first one we went
+01NC02FBY_0101 5383297 5383918 EN causway-point
+01NC02FBY_0101 5384222 5386100 EN no in the end we didn't go causway-point we went yi-shun
+01NC02FBY_0101 5386427 5388005 CS 因为 causway-point 没有 那个 seat
+01NC02FBY_0101 5391347 5394722 CS 那时候 刚刚 school start what 就 超 excited 就 整天 去 看戏
+01NC02FBY_0101 5395021 5398995 CS then wah lau after that 我 就 讲 我 要看 我 proposal 我 就 一直 没有 机会 去看
+01NC02FBY_0101 5399975 5405511 CS 对 我 就 真的 找不到 时间 去 我 就 觉得 唉呀 weekends 我 就 想 在 家里 rest 一下
+01NC02FBY_0101 5406833 5408656 CS then weekdays 就 wah lau
+01NC02FBY_0101 5408980 5411220 CS 做 f. y. p. 做到 晚上 九点 多
+01NC02FBY_0101 5411695 5412866 CS ok lah 最近 很少 的
+01NC02FBY_0101 5413138 5414499 EN last week last week
+01NC02FBY_0101 5415206 5415832 ZH 惨 喏
+01NC02FBY_0101 5416295 5419207 CS 等下 我 拜四 没有 东西 给 我 prof 看
+01NC02FBY_0101 5421112 5423262 CS 啧 唉呀 ok lah 是 有 东西 啦 just that
+01NC02FBY_0101 5424051 5425521 ZH 要 去 慢慢 搞 出来
+01NC02FBY_0101 5425869 5430196 CS at least 就 ya 不要 有 error 它 不要 给 我 network problem 我 就 谢天谢地
+01NC02FBY_0101 5431203 5434496 CS 感动  if not 那个 东西 不要 stun nor
+01NC02FBY_0101 5434795 5438279 CS then 我 prof 都 只好 讲  try not to kill the server again ok
+01NC02FBY_0101 5440559 5442709 CS 诶 我 不- 你 没有- 不是 跟 你 讲 咩 那时候
+01NC02FBY_0101 5443879 5445865 ZH (呃) 我的
+01NC02FBY_0101 5447250 5451030 CS 我 不懂 是 做 什么 东西 like 拜 四 then 我们 上去 楼上 meet 他
+01NC02FBY_0101 5451530 5457731 CS then after that 我的 p. o. 就 讲 he got something he 还要 跟 prof 讲 then 我 就 讲
+01NC02FBY_0101 5457922 5459522 ZH 没有 没有 没有 那时候 还 没有 他 讲
+01NC02FBY_0101 5460039 5461944 CS 我 就 讲 oh ok then 我 就 先 下来
+01NC02FBY_0101 5462210 5464820 CS then 我 下来 了 之后 我 就 attempt to do something
+01NC02FBY_0101 5464910 5466081 CS install 东西 还有- 我 就 觉得
+01NC02FBY_0101 5466217 5467768 CS 诶 为什么 那个 电脑 这样 lag
+01NC02FBY_0101 5468122 5471932 CS then 我 就 想 唉呀 不用紧 啊 reboot 先 不然 等下 我 一 start 做 它 lag 不 就 很 讨人厌
+01NC02FBY_0101 5472439 5473855 ZH 我 也 不懂 之后 我 jitao 诶
+01NC02FBY_0101 5474208 5479570 CS 它 不 让 我 log in 了 我 就 惨了 then 我 就 一直 按 一直 按 then 它 就 一直 不要 给 我 log in ah 我 就
+01NC02FBY_0101 5480114 5480631 ZH 糟糕
+01NC02FBY_0101 5481067 5485884 CS (呃) 发生 了 什么 事情 是不是 因为 刚才 我 install 东西 install 到 一般 then 我 reboot 掉 that's the reason then
+01NC02FBY_0101 5486782 5489986 CS 没有 就 真的 很 panic mode 我 就 一直 跳来跳去 跳来跳去 我 就 想 怎么办 怎么办
+01NC02FBY_0101 5490285 5495320 CS 我 try <unk> 东西 不可以 我 就 一直 看着 那个 shit 我 pro~ 我 p.o. 还 没有 回来 我 惨了 惨了 惨了 怎么办
+01NC02FBY_0101 5495580 5497020 CS then after that 我 p. o. 一 走进 来
+01NC02FBY_0101 5497416 5502151 CS 我 就 给 他 那种 like 我 真的 很惨 的 look 对 then 我 就 看住 他
+01NC02FBY_0101 5502826 5503561 CS then 他 就 like
+01NC02FBY_0101 5503887 5504323 ZH 做 什么
+01NC02FBY_0101 5504649 5504949 CS then 我 就
+01NC02FBY_0101 5505275 5509657 CS (erm) i think i crash the f.y.p. server then 他 就
+01NC02FBY_0101 5510092 5511018 EN again
+01NC02FBY_0101 5511671 5512542 CS then 我 就-
+01NC02FBY_0101 5512814 5514392 CS 就 what did you do then 我 就
+01NC02FBY_0101 5514719 5519536 CS (err) i attempted to install something 他 就 then installing something won't crash the server ah 我 就
+01NC02FBY_0101 5519940 5524820 CS then 刚才 install 一半 i thought it's taking too long so i cancelled it
+01NC02FBY_0101 5524990 5528970 CS then 他 就 为什么 你 不可 以 给 它 install 完 then 我 就
+01NC02FBY_0101 5529462 5534300 CS (erm) 因为 那个 东西 taking too long then 我 要 拿 laptop 下来 给 萧雄
+01NC02FBY_0101 5534690 5538020 CS explain 那个 东西 then 我 怕 等 一下 它 会 hang 那个 电 脑 then 太 过 慢
+01NC02FBY_0101 5538269 5544310 CS 其实 我 每次 在 心里 想 我 怕 等下 他 会 看到 我 在 re-in~ 我 在 install 东西 然后 他 会 骂 我 所以 我 就 把 它 按 uninstall 掉 (呃) 我 就 没有 install
+01NC02FBY_0101 5544882 5545671 CS then 他 就
+01NC02FBY_0101 5546542 5551686 CS 为什么 你 不可以 给 它 install 完 为什么 你 每次 东西 办 一半 的 then 我 就 讲 没有 哇 我 就 cancel 掉 我 哪里 懂 不可以 cancel 掉 啊
+01NC02FBY_0101 5551958 5557319 CS then 他 就 讲 wah lau 你 在 吃 东西 吃 一半 然后 你 把 人~ 你 人家 吃 东西 吃 一半 你 把 他 的 饭 拿走
+01NC02FBY_0101 5557782 5558517 CS then 我 就 like-
+01NC02FBY_0101 5559578 5565260 CS 对 你 根本 就是 在 找 我 吵架 哦 then 他 就 一直 骂 我 一直 骂 我 就 一直 骂 一直 骂 一直 骂 我 就 like 唉
+01NC02FBY_0101 5565700 5567540 CS 他 就 讲 then 现在 怎么办 then 我 就
+01NC02FBY_0101 5567540 5573262 CS (ummm) 屁股 切 两半 你 要 我 怎样  then 过后 他 就 讲 他 去 看 先 then
+01NC02FBY_0101 5573750 5578044 CS 我 就 attempt to 继续 不懂 做 什么 东西 then 刚刚 好 我 prof 就 下来
+01NC02FBY_0101 5578670 5582970 CS then during meeting 的 时候 我 就 会 跟 我 prof 讲 (er) i just met 萧雄 then i will go and
+01NC02FBY_0101 5583432 5585688 CS (er) (啧) try something ah
+01NC02FBY_0101 5586236 5589202 CS then 后来 就 下来 他 就 故意 下来 找 我 他 就 讲 so how
+01NC02FBY_0101 5589746 5590263 CS then 我 就
+01NC02FBY_0101 5591030 5595589 EN (errr) i think i crashed the server alan is trying to help me fix now
+01NC02FBY_0101 5596406 5603999 CS then 我 prof 就 看 住 我 对 他 就 真的 then 他 就 开始 笑 他 就 真的 beh tahan 他 就 笑 笑 笑 笑 笑 then 他 就 讲 wow
+01NC02FBY_0101 5604489 5605251 EN very good
+01NC02FBY_0101 5605849 5609823 CS  他 等一下 就 边 讲 他 就 走 走 走 去 我 了 的 p.o. 的 桌子
+01NC02FBY_0101 5609920 5615530 CS then 他 就 不懂 跟 我 p. o. 讲 什么 then 他 在 那边 笑 then (eh) 我 p. o. 就
+01NC02FBY_0101 5615940 5623382 CS 不懂 讲 什么 东西 啊 我 po 就 跟 他 讲 wah lau this girl da da da da da as in 他 不是 complain about 我 but 他 就 在 那边  他 也是 like huh
+01NC02FBY_0101 5623583 5625325 EN the- she crashed server
+01NC02FBY_0101 5625624 5628680 CS then 他 没有 跟 他 讲 第一次 他 不懂 啊 then 第二次
+01NC02FBY_0101 5628680 5632290 CS then after that 我的 p. o. 就 m. s. n. 我 跟 我 讲 诶 (嗯)
+01NC02FBY_0101 5632500 5636840 CS you went to tell prof that (eh) you email prof to say that you killed the server 我 就 讲
+01NC02FBY_0101 5637426 5644393 CS i wish i got the guts ah but i'm sorry p.o. i don't have  then 他 就 l.o.l. 他 就 don't don't know why he came down
+01NC02FBY_0101 5644583 5646842 CS then 我 don't why he came down and ask me
+01NC02FBY_0101 5647740 5649781 CS ya ya lah loh 就 一下 跟 你 讲
+01NC02FBY_0101 5650571 5654190 CS 那种 超 搞笑 crash the server 所以 他 就 懂 我 crash 那个 server
+01NC02FBY_0101 5654430 5657230 EN that was like last last last week then
+01NC02FBY_0101 5658128 5660795 CS  after that (um) 那个
+01NC02FBY_0101 5661856 5663679 ZH  上个 礼拜 我 就 讲
+01NC02FBY_0101 5664230 5666920 CS 那个 network got some problem i cannot read the thing
+01NC02FBY_0101 5667299 5669489 CS then 我 prof 就 huh how come
+01NC02FBY_0101 5669993 5671517 EN network until now still got problem
+01NC02FBY_0101 5671980 5677934 CS then 我们 就 不懂 怎样 的话 我 就 讲 i don't really know ah but ya sometimes i keep getting disconnected for nothing
+01NC02FBY_0101 5678097 5682560 CS then 我 po 就 explain something about 他 觉得 好像 是 c.s.- c.i.t.s. block
+01NC02FBY_0101 5682870 5685430 CS firewall or something 所以 不可 以 进 then
+01NC02FBY_0101 5685989 5690262 CS 后来 一直 不懂 讲 什么 东西 then 因为 那天 早上 right i think 我 没有 跟 你 讲 这个 part 过 那个
+01NC02FBY_0101 5690560 5693130 CS 我 restart (er) 我 本来 有 四 架 电 脑 嘛
+01NC02FBY_0101 5693469 5697497 CS then 它 就 一直 一架 一直 有 问题 then 我 就 很 pekcek 那时候 是 拜三 晚上
+01NC02FBY_0101 5697769 5699729 CS then 我 就 想 啊 算了 我 不要 做 我 回家
+01NC02FBY_0101 5700082 5701035 CS then 隔天 我 回来 了
+01NC02FBY_0101 5701490 5704110 CS 我 开 这 架 就 没有 问题 唉 as in 我 可以 进 我 就 诶
+01NC02FBY_0101 5704457 5709056 CS then 我 只 找得到 我 我 就 找得到 其他 也是 诶 为什么 就 找不到 最后 一架
+01NC02FBY_0101 5709573 5710308 CS then 我 就 一直
+01NC02FBY_0101 5710860 5713270 CS 我 一直 attempt to 找 我 就 找到 最后 一 架 我 就 觉得
+01NC02FBY_0101 5713900 5717080 CS 昨天 那 架 不可以 then 今天 变成 这 架 不可以 then 我 就 想
+01NC02FBY_0101 5717484 5718110 ZH 唉
+01NC02FBY_0101 5718360 5722910 CS 我 就 跟 我 p. o. 讲 我 就 问 他 怎么办 因为 obviously 这是 network 问题 了 嘛 这 不是 那 架 电 脑 的 问题
+01NC02FBY_0101 5723199 5724206 CS then 他 就 讲 (um)
+01NC02FBY_0101 5724900 5726890 CS can you make do with 三 架 电脑 先
+01NC02FBY_0101 5727146 5731064 CS cause 我 就 多 几个 小时 我 就 要 去 见 prof 了 嘛 then 我 就 讲 can
+01NC02FBY_0101 5731418 5733133 EN ok lor that was what i was gonna do next
+01NC02FBY_0101 5733432 5736072 CS then 我 就 去 改 改 改 改 改 (um)
+01NC02FBY_0101 5736499 5738513 CS 改 那 三架 东西 的 setting to reflect that
+01NC02FBY_0101 5738921 5741044 ZH 那架 (um) 不要 用 那架 啊
+01NC02FBY_0101 5741350 5743750 CS then reflect 了 之后 我 就 觉得 说 哎呀
+01NC02FBY_0101 5743760 5746180 CS just reboot 先 before i start just in case
+01NC02FBY_0101 5746296 5750161 CS 它 怎样 啊 then 我 reboot reboot reboot 然后 后来
+01NC02FBY_0101 5750643 5753228 CS 我 就 去 吃饭 我 就 跟 瑞- 我 就 跟 瑞宝 我们 去 吃饭
+01NC02FBY_0101 5753473 5758998 CS 吃饭 回来 的 时候 我 就 没有- 因为 如果 我 reboot 它 就 会 关掉 那个 window so 我 就 没有 写下 那个 i.p. address
+01NC02FBY_0101 5759420 5763180 CS then 我 就 开 那个 remote 的 screen
+01NC02FBY_0101 5763325 5767353 CS to 看 要 connect 的 ip address 是 什么  then 它 就 有 一个 list of history 的
+01NC02FBY_0101 5767516 5769421 EN the v~ the the screens that i
+01NC02FBY_0101 5769748 5772306 CS op~ open before ah then 我 就 开
+01NC02FBY_0101 5772787 5779264 CS 不可以 like 这个 不可以 di~ 这个 不可以 connect 这个 不可以的 我 try 了 整个 list eh 它 就 我 终于 找到 一个 可以 connect 我 一 开 进去
+01NC02FBY_0101 5779536 5782394 CS 我 就 ok ah at least 我 找到 一个 的话 我 可以 ping the rest
+01NC02FBY_0101 5782920 5784090 CS then 我 就 开 我 就
+01NC02FBY_0101 5784299 5787211 CS 诶 我 就 realize 这架 是 那架 早上 死 的 电脑
+01NC02FBY_0101 5787592 5788220 ZH 我 就 诶
+01NC02FBY_0101 5788220 5792060 CS 奇怪 因为 before that 我 prof 我 p. o. 就 讲 他 try to restore back
+01NC02FBY_0101 5792060 5797690 CS (um) (啧) 弄 一个 新的 machine read* that* 看 可以吗 so 我 就 以为 那架 一定 找不到
+01NC02FBY_0101 5797690 5799660 CS 我 就 stunned 了 一下 诶 为什么 (uh)
+01NC02FBY_0101 5799969 5805221 CS 找得到 那架 cause 我 p.o. 不是 才 做 到 一半 then 我 就 想 省 他 麻烦 哪 (呃) 既然 我 都 找得到
+01NC02FBY_0101 5805493 5811228 CS then 我 就 走 过去 我 就 跟 他 讲 诶 我 找到 那个 电脑 唉 你 不需要 帮 我 re-install 了 他 就 是咩 我 就 哦
+01NC02FBY_0101 5811527 5814358 CS then but 你 可以 给 我 另外 三架 的 i.p. adress 我 弄 不见 了 他 就 哦
+01NC02FBY_0101 5814848 5815882 ZH 他 就 开 他 电脑 他 就
+01NC02FBY_0101 5817188 5820644 CS set 我 那 另外 三架 没有 ip adress 我 就 啊 
+01NC02FBY_0101 5821290 5825220 CS 就 起初 in the first place 我 会 一直 找不到 那 架 是 因为 那 架 没有 i. p. address
+01NC02FBY_0101 5825642 5828960 CS 后来 我 reboot 了 这 三架 之后 那架 的 i.p. address- 对
+01NC02FBY_0101 5828960 5831250 CS 就 超 搞 笑 then 他 就
+01NC02FBY_0101 5831548 5834787 CS then 你 找到 一架 (呃)
+01NC02FBY_0101 5835010 5838050 CS then 你 lost three 另外 三 架 的 i. p. address
+01NC02FBY_0101 5838050 5839821 CS then 他 就 smart move ah
+01NC02FBY_0101 5840202 5844911 CS then 我 就 like  l.o.l. 又 不是 我 的 错 我 只不过 是 reboot 了 而已 what
+01NC02FBY_0101 5845231 5845857 EN then after that
+01NC02FBY_0101 5846292 5851273 CS 就 已经 一点多 了 嘛 我 再 一 等 吃 了 饭 回来 会 出 这种 stuff 我 就 哦 惨了 then
+01NC02FBY_0101 5851763 5853007 CS 就 唉 去 见 prof
+01NC02FBY_0101 5853197 5855293 CS then after that prof 就 问 他 how come still cannot
+01NC02FBY_0101 5855565 5864900 CS then 后来 就 跟 他 讲 啊 那个 唉呀 他 就 讲 this is a very smart girl she rebooted three then she saved one then 我  then 我 prof 就 一直 在 那边 笑 啊
+01NC02FBY_0101 5865961 5869581 CS 对 then 我 prof 就 一直 在 那边 笑 一直 在 那边 笑 then
+01NC02FBY_0101 5870010 5872960 CS 我 就 like no lah let me explain 我 就
+01NC02FBY_0101 5873465 5875234 CS 讲 it's not exactly what
+01NC02FBY_0101 5875588 5876214 EN alan said
+01NC02FBY_0101 5876360 5882270 CS then 我 就 讲 我 不是 为了 要 救 那 架 电 脑 而 reboot 那 三 架 我是 改 了 then 要 reboot then
+01NC02FBY_0101 5882516 5883197 ZH 就 (嗯)
+01NC02FBY_0101 5883578 5883904 ZH 对
+01NC02FBY_0101 5884340 5885570 CS then 我 p.o. 就 早 在 我 p.o.-
+01NC02FBY_0101 5885570 5887060 CS 我 p. o. 早就 在 我 prof 面前 问
+01NC02FBY_0101 5887400 5889884 EN why you must reboot why you cannot just restart that thing
+01NC02FBY_0101 5890456 5891136 CS then 我 就
+01NC02FBY_0101 5891136 5894538 EN just in case mah how i know ah e-ah
+01NC02FBY_0101 5895327 5895735 EN then
+01NC02FBY_0101 5896579 5897532 EN ya lah
+01NC02FBY_0101 5897749 5898811 CS 那天 我 prof 就
+01NC02FBY_0101 5899301 5899818 ZH 咳
+01NC02FBY_0101 5899954 5902485 CS then 我 prof 就 唉呀 他 就 讲 try not to crash the server
+01NC02FBY_0101 5903159 5903595 EN again
+01NC02FBY_0101 5903894 5915733 CS  我 就 觉得 很 好笑 喂 他 jitao 真的 是 那种 就是 beh tahan 我 讲 对 like 可是 我 就 不 想 跟 他 讲 说 其实 我 已经 crash 了 server 很多次  每次 都是 p.o. 救 我 just that 你 不懂 而已
+01NC02FBY_0101 5916168 5919325 CS you know 第一次 我 crash 的 时候 那个 我 p.o. jitao 跟 我 讲
+01NC02FBY_0101 5920005 5925441 CS  我 p.o. 只好 跟 我 讲 shall we tell prof- (um) prof asks me how is
+01NC02FBY_0101 5925904 5929659 EN (er) the server shall we tell him that his
+01NC02FBY_0101 5929890 5932296 EN favorite f. y. p. student crashed the server
+01NC02FBY_0101 5933330 5935235 CS 喂 don't be mean man
+01NC02FBY_0101 5938365 5942638 CS (err) ya 你 应该 不要 等 我们 等到 七 八点 去 farm mart 对 吗
+01NC02FBY_0101 5948399 5950549 ZH 或者 我 看 蔡瑞宝 怎样 咯
+01NC02FBY_0101 5951093 5955039 CS 我 是 不介意 六七点 去 吃饭 就 最多 不去 gym 还是 改天 再 去
+01NC02FBY_0101 5955557 5958840 CS but 我 懂 蔡瑞宝 每次 都 要 揪 我 拜三 去 就 他 是 拜三 啊 拜三 啊 我 就 
+01NC02FBY_0101 5958840 5963130 CS 不可以 不可以 i pledge wednesday and thursday to be f. y. p. day 我 真的 要
+01NC02FBY_0101 5963386 5965372 CS 坐 在 lab 做 f.y.p.
+01NC02FBY_0101 5965617 5974081 CS 对 我 不要 like  唉呀 高兴 高兴 就 唉呀 我 去 gym 先 改天 再 回来 做 喔 疯掉 我 这样 mentality 我 一定 settle 不完 我 得要 settle 的 东西
+01NC02FBY_0101 5978436 5981892 CS but after that 他 讲 他 要 去 f.y.p. lab and settle 那个 东西
+01NC02FBY_0101 5984848 5985718 ZH 他 没有 跟 我 讲
+01NC02FBY_0101 5990345 5992332 CS 为什么 变 从 funds 变成 weight
+01NC02FBY_0101 5997688 6000154 CS  他 都 没有 穿 formal wear ah
+01NC02FBY_0101 6001335 6002151 ZH 昨天
+01NC02FBY_0101 6005130 6007510 CS oh then 我 没有 注意 看 i think 我 就
+01NC02FBY_0101 6009656 6010418 ZH 没有 注意 看
+01NC02FBY_0101 6012944 6017113 CS 诶 可是 如果 我 没有 come 为什么 我 会 懂 他 去 interview i think 他 跟 我 讲 他 去 interview
+01NC02FBY_0101 6019182 6020270 ZH 对 咯 超 搞笑
+01NC02FBY_0101 6024924 6026720 CS 对 咯 对 咯 then 我 都 不懂
+01NC02FBY_0101 6027074 6027346 EN 
+01NC02FBY_0101 6029442 6031836 ZH 哇 十月 十号
+01NC02FBY_0101 6032599 6039065 CS shooting com  你 说 这次 我们 会 怎样 你 不就 讲 mr. cheng- i wonder 第四 跟 第五 名 是 谁
+01NC02FBY_0101 6039680 6042090 CS 哎呀 其实 都 没有 几个 girls team lor
+01NC02FBY_0101 6046221 6049922 CS 哎哟 n.t.u. 的 那个 results 是 什么 哪里 可能 进
+01NC02FBY_0101 6051147 6052725 CS eugene less than 一百
+01NC02FBY_0101 6056748 6058300 CS in the first place 他们 根本 都 很 cui 的 what
+01NC02FBY_0101 6061140 6064650 CS 我 最近 做 了 很 evil 的 东西 也不 是 最近 就 昨天 还是 前天
+01NC02FBY_0101 6064988 6067519 CS hum 我 block and delete andy alvin from m.s.n.
+01NC02FBY_0101 6068607 6070403 CS 没有 我 以前 delete then 我 没有 block
+01NC02FBY_0101 6070757 6071601 EN then (um)
+01NC02FBY_0101 6072744 6077506 CS  you know 那时候 alvin 他 因为 他 有一次 他 m.s.n. 我 问 我 可不可以 借 他
+01NC02FBY_0101 6077806 6079139 ZH 弟弟 一本 书
+01NC02FBY_0101 6080010 6080772 ZH 哇
+01NC02FBY_0101 6081915 6083902 CS 对 对 then ya lor 后来
+01NC02FBY_0101 6084365 6089284 CS  我 就 不爽 他 m.s.n. 那 整天 弄 那种 有的 没有的 我 就 啊
+01NC02FBY_0101 6090237 6090856 ZH 对
+01NC02FBY_0101 6093527 6100684 CS 对 我 就 觉得 like 其实 i'm not refering to you 我 就 ya 就 不想 跟 你 讲 这样 多 废话  就 把 他 给 杀掉
+01NC02FBY_0101 6103290 6105579 CS 不会 i think 他 以前 会
+01NC02FBY_0101 6105900 6109444 CS like kind of uh but 我 就 很少 online 以前 后来 上网 online
+01NC02FBY_0101 6110015 6113068 CS ya but i think 我 就 已经 obviously show that 我 没有 什么 想 跟 他 讲话 啊
+01NC02FBY_0101 6116512 6117056 ZH 对 呀
+01NC02FBY_0101 6117290 6118470 CS ya on purpose 的 what
+01NC02FBY_0101 6120380 6122510 EN that's why i said i did something evil what
+01NC02FBY_0101 6122853 6126343 CS there is a reason 我 以前 我 只 delete 我 没有 block then 他 就 不懂 啊
+01NC02FBY_0101 6129450 6132420 CS 可是 i don't want him to always see my nick 然后
+01NC02FBY_0101 6133186 6134302 ZH 对
+01NC02FBY_0101 6136207 6137894 EN too bad i think he needs to learn
+01NC02FBY_0101 6138983 6141160 ZH 他 也是 一个 很喜欢 找 吵架 的 家伙
+01NC02FBY_0101 6141840 6145024 CS i think until now 他 也是 会 认为 like he's always right 的 那种人
+01NC02FBY_0101 6148060 6149580 CS but 你 有 读 他的 blog right
+01NC02FBY_0101 6149915 6150595 ZH 啊 那个
+01NC02FBY_0101 6151248 6156449 CS sports (er) 那个 sports team and stuff 我 就 真的 还 挺 不爽 的
+01NC02FBY_0101 6157535 6158052 ZH 你
+01NC02FBY_0101 6159470 6163820 CS 就 ya lor like 可能 我 不是 生气 or 恨 or whatever but
+01NC02FBY_0101 6164290 6166650 CS 我 就 还 觉得 还 挺 upset 的 你 对 人
+01NC02FBY_0101 6168445 6168935 ZH 对
+01NC02FBY_0101 6169371 6170405 CS 你 讲 things like
+01NC02FBY_0101 6170813 6175031 ZH 你 讲 得 好像 我们 的 生命 比较 值钱 那些 小孩子 生命 没有 这样 值钱
+01NC02FBY_0101 6175712 6177018 ZH 听 了 就 还 挺 不爽 的
+01NC02FBY_0101 6177862 6180338 CS then 我 就 根本 都 不想 跟 你 讲话 走开
+01NC02FBY_0101 6180760 6183210 CS 我 觉得 opposite of 爱 不 应该 是 恨
+01NC02FBY_0101 6183210 6186156 CS so 我 就 ya try not to 恨
+01NC02FBY_0101 6186346 6187979 ZH 就是 不想 对 他 有
+01NC02FBY_0101 6188306 6189534 EN anything at all
+01NC02FBY_0101 6192924 6197224 CS ya lor  oh then 我 拜三 我 不就 带 小白 来
+01NC02FBY_0101 6197713 6198938 CS then 刚才 我 就
+01NC02FBY_0101 6199265 6203429 CS then 我 刚才 就 跟 瑞宝 讲 哦 明天 是 拜三 i shall bring 小白 to
+01NC02FBY_0101 6204000 6204898 EN f.y.p. lab and
+01NC02FBY_0101 6205579 6208164 ZH 嗷嗷嗷 给 我 开心 一下
+01NC02FBY_0101 6208491 6215885 CS (呃) 不要 我 不就 跟 你 讲 啊 你应该 放 alvin 的 照片 你 放 小白 的照片 你 一定 会 一直 越 stay 越 久 因为 你 就 不 做事 看 小白 玩
+01NC02FBY_0101 6216158 6220566 CS 如果 你 放 alvin 的 照片 在 那边 你 就 会 一直 想 i must get out of the lab must get out of the lab da da da 就 做 完 了
+01NC02FBY_0101 6221655 6225093 ZH 我 根本 都 不愿意 放 那个 照片 哦 神经病
+01NC02FBY_0101 6225811 6228913 CS 搞笑 哦 对 then 他 就 一直 叫 我
+01NC02FBY_0101 6229430 6235853 CS 讲 (um) ok 你 你 放 alvin 的 照片 对 你 放 小白 的 照片 你 要 做 到 深更半夜 你 都 还 没有 做完
+01NC02FBY_0101 6236969 6238928 CS 什么 lousy ah 你 要 show 我 什么
+01NC02FBY_0101 6239582 6240180 EN jackfruit
+01NC02FBY_0101 6241459 6242684 EN looks like jackfruit lah
+01NC02FBY_0101 6244970 6245868 ZH 哦
+01NC02FBY_0101 6246331 6247909 EN cem pa dak
+01NC02FBY_0101 6251165 6251709 EN hoh
+01NC02FBY_0101 6252118 6255166 CS 对 而且 不然 就是 那种 在 icecream 里面
+01NC02FBY_0101 6256000 6257833 ZH 对 我 从来 也是 没有 看过
+01NC02FBY_0101 6258186 6263929 CS but i think 就 从 外面 我 还 以为 就 jackfruit i didn't know 是 那个 cem~pa~dak but i thought cempadak 和 jackfruit 是 一样
+01NC02FBY_0101 6267977 6269447 CS 它 就 真的 taste like what
+01NC02FBY_0101 6272164 6273062 CS goreng 啊
+01NC02FBY_0101 6275049 6276818 CS 啊 goreng pisang 是 banana
+01NC02FBY_0101 6279615 6281225 EN  what the hell 
+01NC02FBY_0101 6284443 6288105 CS 有 炸 tapioca 有 炸 potato
+01NC02FBY_0101 6303231 6306007 ZH 真的 有 这样 大粒 咩 你 你 是 在 夸张 吗
+01NC02FBY_0101 6307014 6310824 CS  问 他  哪里 有 这 是 什么 like
+01NC02FBY_0101 6312294 6316240 ZH 你 你 刚才 你 好大粒 你 越 讲 还没有 讲到 半个 小时 的 时候 变 这样
+01NC02FBY_0101 6325213 6325975 EN hor
+01NC02FBY_0101 6331881 6334140 ZH 唔 可以 看 其他 的 照片 吗
+01NC02FBY_0101 6335140 6340311 CS 唔 这个 是 那个 哦 我 以为 这 是 manhattan 哦 有道理 是 fish&co 很久 没有 去 fish&co 了
+01NC02FBY_0101 6344121 6345318 ZH 铜锣烧
+01NC02FBY_0101 6349510 6352911 CS i think 可能 那个 cute part 是 因为 你 看到 它 咬 一口 所以 你 才 high 是 吗
+01NC02FBY_0101 6354556 6356092 CS 我 懂 jenny 她 在 哪里 做工
+01NC02FBY_0101 6358214 6360337 CS 为什么 会 跑去 做 h.r. her* h.r. 读 什么 course
+01NC02FBY_0101 6360664 6361235 ZH 啊
+01NC02FBY_0101 6362153 6363949 CS as in 她 是 哪一间 uni 还是 什么
+01NC02FBY_0101 6364766 6365854 CS n.t.u. 读 什么 h.r.
+01NC02FBY_0101 6370726 6372467 CS huh 我 以为 h.r. 那种 job 是
+01NC02FBY_0101 6372930 6374155 EN you know like jocelyn
+01NC02FBY_0101 6383264 6385730 CS but you always forgot- i always thought like h.r. 的 人
+01NC02FBY_0101 6386366 6387319 CS 对 而且-
+01NC02FBY_0101 6390503 6392245 EN my god masters in h.r.
+01NC02FBY_0101 6392544 6393605 EN how much is she paid man
+01NC02FBY_0101 6395320 6397824 CS ya lor 她 就是 给 我 感觉 不像 是 那种-
+01NC02FBY_0101 6400374 6402279 ZH 哦
+01NC02FBY_0101 6404701 6405191 ZH 啊
+01NC02FBY_0101 6406089 6407504 ZH huh 等一下
+01NC02FBY_0101 6410906 6411668 EN ya
+01NC02FBY_0101 6415090 6417920 CS 老实 讲 如果 是 one point eight 我 应该 不会 想 做 啊
+01NC02FBY_0101 6433316 6445671 CS  诶 我 你 讲到 这个 part 我 就 想 跟 你 讲 你 懂 right 我 二姐夫 他 他 就 resign 他 的 job 他 去 泡咖- 就 去 starbuscks 他 就 觉得 说 他 喜欢 喝 starbucks 的 咖啡 so 他 好像 去 学 怎样 泡 他 就 跑去 那边 做 那种 bartender for a while
+01NC02FBY_0101 6446075 6452953 CS well 他 就 resign from 他 的 那种 like high paying 也 可能 也 是 那种 super duper high paying but it's a engineering job it's a real i.t. job
+01NC02FBY_0101 6454402 6458240 CS ya but 后来 他 resign 他 做 这种 stuff 的 时候 我 姐 跟 我 讲 我 就 stunned huh
+01NC02FBY_0101 6458857 6464026 CS 他干吗 他 干吗 跑去 starbucks 她 就 讲 ya don't know no idea what he what is he trying to do
+01NC02FBY_0101 6464354 6465628 CS then 那时候 那个 moment
+01NC02FBY_0101 6466096 6470751 CS 我 的 二姐 还 挺 sian like 你 不懂 在 搞 什么 鬼 这样 but 他 现在 有 一个-
+01NC02FBY_0101 6471212 6475186 CS ya ya ya but 他 现在 已经 放 了 ok job 了 啦 as in 就 a real
+01NC02FBY_0101 6476247 6477554 CS 就 get a job 对
+01NC02FBY_0101 6477935 6482282 CS 就 是 that 我 就 还 我们 就 还 挺 stun 他 跑去 做 这种 东西 他 讲 哦 cause 他 喜欢 喝
+01NC02FBY_0101 6482636 6484133 CS starbucks 的 咖啡 所以 他 想 学 怎样 泡
+01NC02FBY_0101 6484922 6487605 CS 我 就 觉得 like huh 你 真的 stun 到 了
+01NC02FBY_0101 6490038 6492474 CS 嗯哪 可能 很多人 都会 出 这种 stunt
+01NC02FBY_0101 6513374 6515580 EN wow
+01NC02FBY_0101 6518082 6519143 CS 你 懂 google
+01NC02FBY_0101 6519760 6526270 CS 不是 google singapore but google (um) 些 的 啊 他们 请 那种 like hotel top chef
+01NC02FBY_0101 6526270 6527970 CS 他们 从 一个 那种 five star hotel
+01NC02FBY_0101 6528450 6531160 CS 就 请 了 那个 chef 来 to cook in their canteen
+01NC02FBY_0101 6531763 6535398 CS 而且 google 的 canteen 是 不用 还钱 的 as in 就 那里 的 store 的 人 吃
+01NC02FBY_0101 6536281 6539431 CS  天天 吃 five star hotel food eh 哇
+01NC02FBY_0101 6539953 6540879 ZH 那种是 gaogao
+01NC02FBY_0101 6541536 6542973 CS 这 是 你 做 给 mervin mervin 做 给 你
+01NC02FBY_0101 6544879 6545750 EN ah sketch book
+01NC02FBY_0101 6548630 6551515 EN  nice of you ah
+01NC02FBY_0101 6560652 6562612 CS 一定 会 哦 grand hyatt eh
+01NC02FBY_0101 6572377 6573221 EN oh my god
+01NC02FBY_0101 6574000 6576106 CS 可是 那里 会 like (um)
+01NC02FBY_0101 6578860 6582283 CS 不懂 诶 cause hotel line 的 人 都 挺 黑暗 的 
+01NC02FBY_0101 6585277 6586692 CS 因为 hospitality-
+01NC02FBY_0101 6588455 6590654 CS 黑暗 as in 大家 都会 backstab 这样
+01NC02FBY_0101 6591041 6593381 CS like s.i.a. glam but 黑暗
+01NC02FBY_0101 6594438 6599920 CS 唉呀 ok ah 很多 banking 也是 黑暗 什么 演艺圈 也 黑暗 全 新加坡 都 在 黑暗 啊
+01NC02FBY_0101 6618296 6621779 ZH 有 咩 他们 长得 像 不像 是 有 前途 做 这种 事情 诶
+01NC02FBY_0101 6624201 6626708 CS 可是 如果 你 申请 了 你 不可以 pay for the-
+01NC02FBY_0101 6631468 6634917 CS 哪里 可能 hello 他们 哪里 可能 签 五千块 他们 根本
+01NC02FBY_0101 6635734 6637993 ZH  哦
+01NC02FBY_0101 6641041 6642456 ZH 我 还 以为 伟杰 现在 读书 唉
+01NC02FBY_0101 6645140 6648890 CS oh part time ah 有 in fact 我 很多 friend 都 在 读 part time
+01NC02FBY_0101 6649470 6651440 CS 就 不是 很 了解 为什么 我在 读 full time
+01NC02FBY_0101 6655317 6657032 CS (啧) cause 那个 (em)
+01NC02FBY_0101 6658011 6659440 ZH 那个 什么 啊
+01NC02FBY_0101 6659440 6662810 CS cause 我 很多 friends 因为 i. t. 这种 line 他们 其实 也
+01NC02FBY_0101 6662965 6670503 CS 除非 你 是 要 去 government sector if not 其实 这些 也 不是 很 管 说 whether 你 是 local u. 的 u. degree 还是- 对 then 我 就 全部 我 friends 都 like
+01NC02FBY_0101 6671070 6673150 CS 读 两年 part time or 一边 做工
+01NC02FBY_0101 6673415 6674640 CS 他们 的 pay 现在 都 已经 那种
+01NC02FBY_0101 6675362 6678574 CS graduate better than graduate pay 了 better than fresh grad pay
+01NC02FBY_0101 6679554 6689868 CS 对 then as in while we are still working ah 就 even though they still taking a degree then when 有些 拿 了 degree 了 之后 他们 jitao boss 就 increase 他们 pay to degree 的 pay
+01NC02FBY_0101 6691202 6697379 CS 就 神经 哦 wahlau 我 friend 都 已经 买车 了 了 他 就 那种 three point eight k. pay
+01NC02FBY_0101 6698431 6704037 CS 妈的  then 我 每次 我 我们 讲 讲 讲 then 我 就 会 觉得 我 干吗 学 四年 读 local uni
+01NC02FBY_0101 6709218 6712174 CS 所以 呀 that's hopefully 我 读得完 can
+01NC02FBY_0101 6713638 6717557 CS 哎哟 屁 哦 我 result 是 超 cui 这 是 谁 陈爸
+01NC02FBY_0101 6718861 6720333 CS 陈爸 怎么 长 这样 cute 的
+01NC02FBY_0101 6721504 6723625 ZH 我 想不起 陈爸 长的 这个 样子 啊
+01NC02FBY_0101 6725694 6727762 CS 而且 你 怎样 弄 陈爸 show 你 这种 look 的
+01NC02FBY_0101 6732708 6733606 ZH 借 你 拍 一下
+01NC02FBY_0101 6736841 6737413 ZH 他 就
+01NC02FBY_0101 6738747 6741023 ZH 搞笑 陈爸 啊
+01NC02FBY_0101 6741468 6741767 ZH (诶)
+01NC02FBY_0101 6742393 6746282 CS i re~ recall 陈爸 look like this ah then 我 真的 我 就 which part of this is-
+01NC02FBY_0101 6750197 6750960 EN 
+01NC02FBY_0101 6751722 6753681 CS 陈爸 looks much more correct like this
+01NC02FBY_0101 6754089 6755396 CS like 陈爸 你好
+01NC02FBY_0101 6756914 6759042 ZH 陈爸 很 不适合 我 知道
+01NC02FBY_0101 6760914 6762493 ZH 哇塞 啧 啧 啧
+01NC02FBY_0101 6765459 6767582 CS 哦 我 以为 这 是 mervin 家 or something
+01NC02FBY_0101 6775608 6777105 CS <unk-brand> 的 衣服
+01NC02FBY_0101 6785940 6788300 CS 跟 jenny 的 best friend 的 经历
+01NC02FBY_0101 6789781 6791600 CS 就 你 讲 kinergarten 的 时候 你们
+01NC02FBY_0101 6793043 6794431 CS 随便 哪 close
+01NC02FBY_0101 6796064 6797207 CS 就 还 挺 amazed
+01NC02FBY_0101 6801561 6802514 ZH 这个 在 哪里
+01NC02FBY_0101 6808194 6809637 EN looks nice
+01NC02FBY_0101 6810263 6810862 EN ya man
+01NC02FBY_0101 6811733 6812549 EN would be excited
+01NC02FBY_0101 6812876 6815407 CS food 诶 then later 要 去 哪里 吃
+01NC02FBY_0101 6816033 6820904 CS 哎哟 诶 我们 只 需要 hor 讲 多 seven minutes ya
+01NC02FBY_0101 6822129 6825095 ZH 就 哎哟 我 都 不懂 我 想 这 是 谁
+01NC02FBY_0101 6826810 6831164 CS 诶 哦 对 哦  ya ya stun suddenly 我 就 这 是 谁
+01NC02FBY_0101 6831453 6833400 ZH <unk> 我 五年 没有 见 到 了 了 唉
+01NC02FBY_0101 6838420 6840589 CS huh what you mean then 你 这个 为什么 你 这个
+01NC02FBY_0101 6853687 6856942 EN oh my god but ya it looks very very very chio
+01NC02FBY_0101 6858738 6859364 EN ya
+01NC02FBY_0101 6860072 6863038 CS 诶 come to think about it 你 不 觉得
+01NC02FBY_0101 6865215 6870576 CS 对 i think 这 是 exactly the same design eh 因为 就-
+01NC02FBY_0101 6873543 6877244 CS 真的 唉 它 就 exactly the same design just that (um)
+01NC02FBY_0101 6878200 6883470 CS ya lor cool okay lah 如果 between 这个 这个 我 应该 是 去 买 青色 i think but 因为 我 喜欢 黑色
+01NC02FBY_0101 6883470 6883901 ZH 呃啊
+01NC02FBY_0101 6885806 6892182 CS ya man but 就是 因为 它 pink 所以 可能 我 就 不会 买 tombalik 对 然后 我 就 觉得 奇怪 为什么 哈 
+01NC02FBY_0101 6899659 6901239 CS 很多 friend 有 kelong
+01NC02FBY_0101 6902402 6904688 CS you mean 你爸 的 friend 有 kelong 啊
+01NC02FBY_0101 6905695 6909233 CS oh my god 叫 你爸 再 带 我们 去 那边
+01NC02FBY_0101 6911655 6913015 EN ah cadet mates
+01NC02FBY_0101 6914812 6915718 EN excited
+01NC02FBY_0101 6917771 6919730 CS 这 是 哪里 那个 pasir-ris
+01NC02FBY_0101 6922506 6924003 EN changi beach ah
+01NC02FBY_0101 6925881 6927371 EN eh sounds very familiar eh
+01NC02FBY_0101 6928569 6929712 EN sailing
+01NC02FBY_0101 6933032 6934066 EN cool
+01NC02FBY_0101 6939455 6942982 CS mm 就 无聊 再 找 东西 讲 hey pink color
+01NC02FBY_0101 6947174 6948208 ZH 黑 跟 金 那个
+01NC02FBY_0101 6950386 6951964 ZH 啊 啊 啊 讲 讲 讲
+01NC02FBY_0101 6962761 6965547 CS you mean 陈 ah-mah 拿 你 jacket 去 存
+01NC02FBY_0101 6968966 6971714 CS 陈 ah-mah 是 你 妈 的 妈 还是 你 爸 的 妈
+01NC02FBY_0101 6971932 6973375 CS then 你爸 跟 她 熟 的 吗
+01NC02FBY_0101 6974896 6975114 ZH 啊
+01NC02FBY_0101 6976094 6977209 ZH 是 他 妈 诶
+01NC02FBY_0101 6981314 6981886 ZH 分钱
+01NC02FBY_0101 6982485 6983437 CS what you mean by 分钱
+01NC02FBY_0101 7012299 7013224 EN oh my god
+01NC02FBY_0101 7027913 7028675 EN 
+01NC02FBY_0101 7030716 7032621 CS as in 分 人 钱
+01NC02FBY_0101 7047584 7050278 CS 可能 陈妈 陈ah-mah 挺 有 爱心 的 啦
+01NC02FBY_0101 7050931 7054309 CS just that i mean 可能 她 分 给 的 人 真的 是 超穷 超穷
+01NC02FBY_0101 7058233 7060692 CS when 你 讲 分钱 是 分 几块 几块 还是
+01NC02FBY_0101 7062516 7065872 CS wow 我 要 叫 陈 ah-mah 分 我
+01NC02FBY_0101 7069231 7069992 EN ya
+01NC02FBY_0101 7074649 7075384 EN ya
+01NC02FBY_0101 7084446 7085278 EN <unk>
+01NC02FBY_0101 7089609 7093069 ZH 她 干吗 藏 在 那里 是 她 不小心 掉 在 那里
+01NC02FBY_0101 7094780 7095869 EN 
+01NC02FBY_0101 7101117 7102559 ZH 而且 还 嘻嘻嘻
+01NC02FBY_0101 7105116 7107789 CS 陈 ah-mah 很 mathew eh victoria 哦
+01NC02FBY_0101 7110337 7111589 EN 
+01NC02FBY_0101 7112596 7114798 CS 你 ah-mah 出 stunt
+01NC02FBY_0101 7119235 7119915 EN one kind
+01NC02FBY_0101 7124210 7126780 CS then 那个 你的 jacket 到底 发生 什么 事
+01NC02FBY_0101 7128101 7128672 EN 
+01NC02FBY_0101 7129271 7131367 CS then 你们 就 翻 陈 ah-mah 的 房间 啊
+01NC02FBY_0101 7134880 7137033 CS 可是 是 在家 last seen
+01NC02FBY_0101 7142480 7146650 CS cause 有时候 我 不见 东西 我 就 想 不 起 到底 是在 外面 弄 不见 的 还是
+01NC02FBY_0101 7147620 7150780 CS 那天 我 找 我 camera battery 找到 要 死 要 活 then 我 昨天
+01NC02FBY_0101 7151091 7153976 CS 忽然间 灵机一动 我 觉得 可能 在 我 的 一个 one of the
+01NC02FBY_0101 7154629 7160667 CS 五百年 之 like 这 五百年来 我 买了 之后 我 从 camera 店 买 回来 的 那个 bag plastic bag then
+01NC02FBY_0101 7161075 7164368 CS 就 我 就 在 想 诶 上次 好像 带 过 一次 then 我 就 想
+01NC02FBY_0101 7165017 7166616 CS 对 我 就 去 摸 then 我 就 喂
+01NC02FBY_0101 7167058 7171853 CS 你 懂 吗 很 好笑 不懂 前 晚 还是 什么 啊 我 是 like
+01NC02FBY_0101 7172827 7176386 CS 我 在 跟 p.o. 吵架 也不是 吵架 唉呀 就 我 跟 你 讲的 就 那个
+01NC02FBY_0101 7176794 7177584 CS 我 讲 like
+01NC02FBY_0101 7178101 7183516 CS (呃) 唉呀 那个 他 叫 我 report to 他 ya ya then 我 就 like 超不爽 那个
+01NC02FBY_0101 7184333 7187571 CS (呃) 后来 我 就 想 想 想 后来 就 不懂 什么 then 我 就 诶
+01NC02FBY_0101 7188252 7188878 EN shit
+01NC02FBY_0101 7189204 7189750 ZH 我 就
+01NC02FBY_0101 7189750 7191620 CS 因为 我 type type type 一半 之后 哦
+01NC02FBY_0101 7191712 7207034 CS then 我 就 想 我 type 完 那一句 之后 我 press enter 我 要 站 起来 去 做 一点 东西 我 就 忘记 我 做什么 我 就 type  enter 我 站起来 我 就 不懂 去 哪里then 我 就  就 是 要 去 哪 弄 东西- 房间 的 东西 啊 可是 我 一直 有印象 我 是 要
+01NC02FBY_0101 7207545 7208610 CS 出去 then
+01NC02FBY_0101 7209232 7212879 CS 唉呀 不用紧 讲完 它 先 then 我 就 那边 想 想 想 想 想 我 就
+01NC02FBY_0101 7213451 7213750 ZH 诶
+01NC02FBY_0101 7214403 7217315 CS 我 又 坐下来 then 我 就 这样 写 casually* 讲
+01NC02FBY_0101 7217850 7222810 CS oh shit i forgot what i wanted to do i stood up to do something then i forgot what i wanted to do then 他 就
+01NC02FBY_0101 7223078 7227215 CS l.o.l. dot dot dot you really goldfish memory then 我 就 i really cannot remember like i
+01NC02FBY_0101 7227568 7230399 CS what exactly was i saying that 为什么 我 我 会 忽然间
+01NC02FBY_0101 7230725 7234018 CS 要 我 每次 写 东西 然后 我 就 想起 东西 then 我 要 站起来 做东西
+01NC02FBY_0101 7234563 7236876 CS 然后 就 blur 对 然后 我 就
+01NC02FBY_0101 7237828 7239788 CS  then 我 本来 是 想 站起来 走 一圈
+01NC02FBY_0101 7240130 7242490 CS 然后 我也 不懂 我 要 走 去 哪里 to start with

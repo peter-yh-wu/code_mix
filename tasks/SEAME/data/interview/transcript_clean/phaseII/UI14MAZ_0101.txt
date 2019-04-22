@@ -1,0 +1,116 @@
+UI14MAZ_0101 3280 11044 CS 我 有 一个 english name 这个 english name 是 ashley
+UI14MAZ_0101 11044 18273 ZH 然后 当然 啊 又有 马 来 名字 就 叫 也 是 算 英文 啦 就是
+UI14MAZ_0101 18273 32043 CS romanized 了 的 那些 那个 名字 就 叫 ng 咯 ng boon chun 华语 就 是 黄 文武双全 的 文 春夏秋冬 的 春
+UI14MAZ_0101 32043 42589 CS 哦 我 现在 已经 工作 八年 了 在 dell bayan lepas 那边 的 dell 做工 这样
+UI14MAZ_0101 42589 58888 CS 呃 对 所以 哈 哈 也 很 普通 被 朋友 问 到 我 的 给 的 一个 response 都 是 啊 对 我 已经 在 那边 做 八年 了 对 呃
+UI14MAZ_0101 58888 66218 CS 啊 我 是 一个 目前 的 position 是 一个 project manager
+UI14MAZ_0101 66218 76503 CS 所以 以前 我 是 一个 technical support 就 是 只管 support 一些 客户 一些 普 比较 普通 的 一些 技术 上 technical 的
+UI14MAZ_0101 76503 85479 CS 的 问题 比如 说 他们 不会 用 电脑 或者 电脑 出 些 什么样 的 问题 problem 话 我 都 会 通过 电话 然后 去 support
+UI14MAZ_0101 85479 91232 CS 那 时侯 是 support 一些 australia new-zealand 的 customer
+UI14MAZ_0101 91232 100942 CS 那么 那个 是 大概 不懂 啊 五 六年 前 的 事情 咯 那么 现在 我 转 去 做 一个 project manager 就 是 管理 一些 啊
+UI14MAZ_0101 100942 106539 CS emm pro project 或者 program management 的 东西
+UI14MAZ_0101 106539 113827 CS 啊 一般 以前 电脑 很好 赚 的 就是 呃 呃 单 单 卖 电 脑 硬 体 hardware 而已 你 都 可以
+UI14MAZ_0101 113827 122829 CS 赚 很好 的 margin 五 六十 percent 一千 块 你 可以 赚 千 五 这样 现在 竞争 competition 很 激烈 所以 呃
+UI14MAZ_0101 122829 131037 CS 他 必须 要 靠 一些 周边 产品 去 比如 说 卖 一个 computer 加 一些 services
+UI14MAZ_0101 131037 137319 CS 然后 啊 他 的 warranty program 在 卖 多 一些 一年 变成 三年 啊 这样
+UI14MAZ_0101 137319 146746 CS 所以 我 就 是 去 设计 design 这些 周边 的 产品 的 一些 东西 怎样 去 推出 去 market 所以 这个 就 是 我 的 工作 这样 咯
+UI14MAZ_0101 146746 151146 ZH 什么 呃 呃
+UI14MAZ_0101 151146 163094 CS okay 蛮 蛮 boring 一下 的 啦 就 是 早上 啊 其实 其实 啊 啊 应该 你 有 听说 过 globalization loh
+UI14MAZ_0101 163094 171277 CS globalization ah 就 是 前 两年 我们 有 一个 很大 的 o. e. exercise 就 是 啊 organisation efficiency
+UI14MAZ_0101 171277 186809 CS 就 是 要 怎样 去 啊 你 应该 知道 dell 的 公司 他 呃 这个 不是 confidential lah 我 觉得 okay dell 的 公司 是 michael dell michael dell 那么 他 本身 有 很多 啊 report 给 他 的 工作人员
+UI14MAZ_0101 186809 199689 CS 那么 从 他 report 的 工作人员 再 下来 又 再 有 一些 另外 一层 的 report mah 所以 这样 report 其实 他 有 十一 层 他 要 将 他 整个 organisation 变成 七 层
+UI14MAZ_0101 199689 216090 CS 所以 有 很多 人 比如 说 我 是 report 给 你 这个 manager 变成 啊 我 这个 manager 会 跟 我 同等 级 这样 所以 那个 那个 有 一个 o. e. 就是 o~ organisation efficiency 的 这个 exercise 之后 呃
+UI14MAZ_0101 216090 229776 CS 啊 就 是 就 是 这个 globalization o. e. exercise 所以 很多 人 就 工作 性质 换 掉 那么 我 每 一天 的 工作 就 变成 就 是 首先 第一 个 步 啊 的 change 就 是 我 有 我 的 manager 就是 从
+UI14MAZ_0101 229776 237758 CS 这里 report 每 一天 看见 的 manager 变成 啊 现在 base 在 上 一年 是 base 在 europe
+UI14MAZ_0101 237758 246462 CS ireland dublin 的 manager 那么 今年 又 换 成 变 在 u. s. 我们 headquarter 的 manager 所以 呃
+UI14MAZ_0101 246462 255969 CS 在 europe 的 话 我们 这里 大概 三 四点 的 时候 他们 就 开始 start 做工 哦 所以 我 还 可以 catch 到 他们 早上
+UI14MAZ_0101 255969 267971 CS 那么 现在 我 换 去 u. s. 的 manager 就 更加 challenge 哦 所以 很多 时候 我 会 就 是 时间 上 我 一 比较 flexible 因为 我 早上 来 做工 其实 我 的
+UI14MAZ_0101 267971 278755 CS 我的 八十 percent 的 的 的 的 colleague 都 是 在 (呃) 在 u. s. 嘛 所以 我们 有 十二 小时 的 时差
+UI14MAZ_0101 278755 293472 CS 所以 那个 time different 就 是 说 我 如果 要 跟 他们 谈天 要 跟 他们 通话 的话 就 是 我 这里 八 a. m. 就 是 他 那边 八 p. m. 所以 啊 是 一个 很 challenging yet quite flexible
+UI14MAZ_0101 293472 303238 CS 所以 就 重要 是 在 这样 的 工作 性质 上 你 要 有 一定 的 discipline loh 啊 你 要 自己 懂得 自己 manage 自己 的 时间
+UI14MAZ_0101 303238 313114 CS 啊 所以 这个 就 是 我们 就 是 看到 一个 不是 很 典型 的 工作 routine 就 是 早上 八点 到 五点 啊 或者 九点 到 六点 啊
+UI14MAZ_0101 313114 324994 CS 所以 呃 所以 最 我 我 没有 定时 的 说 几 时 要 去 punch in ah 或者 或 punch out 这样 啊 最 重要 他们 他们 的 style 就 是
+UI14MAZ_0101 324994 332246 CS 只 要 你 能够 deliver 你 的 deliverables 这样 就 okay hor
+UI14MAZ_0101 332246 340752 CS 那么 对 对 所以 很多 时候 我们 要 通过 通过 电话 谈天 可以 的话 我们 用 一些 video conferencing 就 是 就 是 因为
+UI14MAZ_0101 340752 351350 CS 以前 还有 很多 travel loh 啊 我 去 u. s. 啊 然后 这样 现在 就 这些 budget 就 减掉 了 所以 要 要 通过 video conferencing 这样 就 能够 见到 面 咯
+UI14MAZ_0101 351350 357159 ZH (呃) 蛮 蛮 抽象 的 现在 其实 做工 作 性质 蛮 也 蛮 有趣 的 呃 呃
+UI14MAZ_0101 362419 371222 CS 对 其实 以前 我 也 是 manager 那么 我 有 我 自己 一个 team 那么 (呃)
+UI14MAZ_0101 371222 380097 CS 当然 其实 每 一个 工作 我 相信 都 是 都 是 啊 会 liaise with 一些 人 这样 不过 之前 不同 的 地方 就 是
+UI14MAZ_0101 380097 386297 CS 我们 有 很 direct 的 一个 report structure 就 是 我 有 一 team 七 八个 人 这样 report 我 是 他们 的 manager
+UI14MAZ_0101 386297 402016 CS 啊 所以 我 也 是 跟 他们 liaise 不过 现在 的 工作 就 是 我 没有 team 所以 这种 工作 我们 叫 他 之前 我们 叫做 people manager 现在 变成 i. c. 就 是 individual contributor 就 是 说 你 你 没有 一个 team
+UI14MAZ_0101 402016 412304 CS yet 没有 一个 工作 在 那边 是 不 需要 到 deal with people deal with team 就 是 更加 挑战 的 地方 就 是 challenging 的 地方 就 是
+UI14MAZ_0101 412304 424553 CS 之前 是 那些 人 是 report to 你 所以 你 有 管理 他们 你 是 他们 management 你 可以 啊 review 他们 的 performance 不过 现在 你 要 deal 的 人 现在 我 的 这个 工作 就 是 要 deal with 不同 team 的 人
+UI14MAZ_0101 424553 435647 CS 他们 也 没有 一个 一个 的 很 direct 的 一个 reporting structure 我 又 不是 他们 manager 不过 (呃) 我们 要 啊 就是 啊 form 一个 team
+UI14MAZ_0101 435647 446409 CS 所以 我 要 去 跟 他们 说 啊 说 一下 我 的 我 的 objective 是 在 那里 啊 所以 啊 很 不同 很 挑战 的 地方 就 是 发现 说
+UI14MAZ_0101 446409 456002 CS 我 yes 我 还是 deal with 一个 team deal with people 不过 on top of that 我 是 要 deal with 不同 不是 我 自己 team 的 人 这样
+UI14MAZ_0101 456002 463912 CS 所以 你 要 去 说服 人家 你 要 convince 人家 因为 在 这个 dell 的 organisation 很大 那么
+UI14MAZ_0101 463912 472514 CS 千 多个 人 你 不知道 你 好像 很多 时候 你 啊 就 是 我 进 的 工作 我 就 发现 原来 啊 整个 business 是 很
+UI14MAZ_0101 472514 480722 CS 多姿多彩 的 很多 时候 你 会 呆 在 一个 department 你 会 一直 坐在 你 你 一直 目前 每天 的 work 都 是 很
+UI14MAZ_0101 480722 493416 CS 很 repetitive 的 很 routine 的 那么 做 了 这个 management 的 工作 过后 哦 原来 这个 整个 business 是 很大 的 你 会 有 deal with finance finance 的 accounting 的 就 有 一个 很 不同 的 世界
+UI14MAZ_0101 493416 504225 CS 那么 另外 又 有 一个 legal team 就是 啊 法律 上 一些 顾问 也 是 要 需要 他们 那么 另外 team 有 是 一个 marketing 部门 又 要 管 到 要 sales 的 部门
+UI14MAZ_0101 504225 513627 CS 之前 我们 只 是 躲 在 一个 小 小 自己 的 世界 一个 world 这样 就 是 说 只 是 support customer 这样 那么 发现 说 哦 原来 呃 呃
+UI14MAZ_0101 513627 522667 CS 在 一个 mul~ m. n. c. 一个 multinational company 的 一个 优势 就 是 除了 你 可以 可以 deal with 很多
+UI14MAZ_0101 522667 531648 CS cross country 就 是 international 一些 colleague 之外 啊 你 要 cross-functional 就 是 不只 是 你 的 team
+UI14MAZ_0101 531648 545904 CS 而已 而是 不同 不同 啊 在 organisation 里面 的 的 要 跟 他们 去 啊 deal with 他们 咯 所以 这个 是 每 一天 都 是 我 我 的
+UI14MAZ_0101 545904 552894 CS routine yet not very routine 的 一个 工作 性质 这样 咯 每 一天 都 有 新 的 事情 新 的 发现 这样 啦
+UI14MAZ_0101 559316 567485 CS 大 非常 的 大 yet emm the 就 好像 我 之前 我 说 的 就 是 要 manage through 他 咯
+UI14MAZ_0101 567485 575208 CS 呃 比如 说 我 我 一天 一个 one week 里面 我 会 有 大概 minimum
+UI14MAZ_0101 575208 584171 CS 四个 晚上 four night calls 就 是 说 好像 每 一个 night calls you know 有 都 大概 一 两个 小时 这样 那么
+UI14MAZ_0101 584171 597041 CS 一 两个 小时 是 只 是 meeting alright meeting 的 时候 通常 你 都 是 很难 去 除非 你 很 厉害 multi task lah after meeting 你 还 要 在 organize 一下 你 的 资料 啊 meeting notes ah
+UI14MAZ_0101 597041 611644 CS 那么 然后 在 将 他 (呃) (emm) organize 之后 然后 然后 这样 的 话 又 会 再 加 多 那 其 他 的 事 所以 你 算 如果 我 九点 开始 听 就 是 啊 啊 attend 那些 conference call 之外
+UI14MAZ_0101 611644 619427 CS 两个 小时 后 就 已经 十一 点 啊 十一 点 然后 这些 整理 这样 啊 email 这样 来 去 每 晚 这样 就 已经 十二 点 晚上 了 咯
+UI14MAZ_0101 619427 629545 CS 所以 如果 你 是 有 家庭 你 是 有 你 是 有 一个 家庭 你 有 老婆 你 有 孩子 这样 的 话 是 一个 很 很 challenging 的 东西 不过 on top of that ah
+UI14MAZ_0101 629545 639796 CS 就 是 就 是 他们 就 是 compensation ah 看 怎样 manage 咯 可能 晚上 你 做 晚 一点 不过 on top of that 就 是 flexible 的 就 是 早上 时候 你 不 需要
+UI14MAZ_0101 639796 653884 CS 一定 要 准时 八 点 九 点 去 上 做工 你 可以 avoid 那个 traffic rush 你 可以 说 maybe 我 十一 点 我 才 回去 或者 是 half day 而已 我 去 做工 或者 should be 比较 新鲜 的 概念 就 是 work remotely loh work from home
+UI14MAZ_0101 653884 666252 CS right 所以 你 就 是 在 家 base 在 现在 这样 modern 的 一个 一个 时代 就 是 你 只 要 有 一个 电话 有 一个 internet connection 你 就 能 够 看 email 你 就 能 够 听 电话 就 就 其实
+UI14MAZ_0101 666252 675597 ZH 都 可以 的 哦 只是 你 没有 回 公司 的 话 难免 啊 也 是 有 时候 会 蛮 寂寞 一下 的 啦 在 家
+UI14MAZ_0101 675597 686483 CS 你 没有 那个 team calamary 你 没有 lunch mate 你 会 在家 不过 如果 你 已经 有 family 你 可以 multi task 一下 咯 就 是 你 可以 你 可以 啊 做 做工 啊 然后
+UI14MAZ_0101 686483 695134 CS 做 你 do some laundry 啊 煮 自己 的 lunch 啊 这样 啊 it is up to you loh 有 时候 不是 很 focus
+UI14MAZ_0101 695134 703069 CS 不过 so 有 advantage 有 disadvantage it's all up to each individual 去 manage 他 咯 这样
+UI14MAZ_0101 703069 714275 CS so pressure 的 啊 回到 那个 问题 question 就 是 啊 yes 一 刚刚 开始 的 时候 有 一个 很大 的 learning curve loh because 在 这样 你 你 你 大概 做
+UI14MAZ_0101 714275 725111 CS 做工 就 是 很 routine 的 九 点 六 点 九 点 这样 大概 大概 不懂 n 年 之后 那种 那种 五 六年 之后 突然 这样 的 一个 flexible 一个 不同 的 时候
+UI14MAZ_0101 725111 735932 CS 难免 开始 的 时候 会 很 很 很 pressure 就 是 晚上 就 是 let's say 啊 你 要 陪 老婆 老公 啊 husband ah to to to 吃饭 吗 dinner mah
+UI14MAZ_0101 735932 745058 CS 所以 他 他 会 给 他 一定 的 影响 就 是 说 呃 你 今晚 几 点 meeting 啊 啊 okay 大概 八 点 九 点 这样
+UI14MAZ_0101 745058 758545 CS 所以 lunch 那边 也 不能 够 很 relax 的 这样 吃 啦 你 会 啊 okay meeting 要 来了 所以 快 快 点 回家 快 点 回家 这样 所以 这个 是 除了 pressure 之外 他 也 会 就是 有 一些 呃
+UI14MAZ_0101 758545 773640 CS (呃) 就 是 affect 肯定 会 impact 到 (呃) 你 的 你 的 life itself 哦 所以 (呃) 有 好 有 不好 要 看 你 怎样 manage 他 咯 呃 呃
+UI14MAZ_0101 776632 784519 CS (呃) 有 咯 就 是 他 不同 的 话 就 是 他 时常 他 喜欢 煮 吗 so 我们 没有 出去 吃 吗
+UI14MAZ_0101 784519 795710 CS 所以 他 会 you know 在 那个 kitchen 里面 就 自己 的 一片 天地 那边 煮 煮 煮 然后 啊 我 要 make sure 我
+UI14MAZ_0101 795710 806346 CS (呃) 可以 的 话 就 尽量 早 一点 回 so that 我们 可以 早 一点 吃 finish 了 那个 dinner 之后 我 就可以 get ready to to attend call 咯 所以 你 想 一 一 天
+UI14MAZ_0101 806346 813208 CS monday to friday 我 有 四个 night minimum ah 所以 theoretically friday night 就 是 今晚
+UI14MAZ_0101 813208 820415 CS 我 有 我 一定 要 manage 一个 balance 就 是 说 我 set 一个 principle to 我 的 那些 u. s. 或者 email 那些 colleague 就 是 说
+UI14MAZ_0101 820415 828995 CS ah friday night sorry no call no night calls alright 所以 他们 也 是 也 是 会 很 注重 这些 work life 的 balance 的
+UI14MAZ_0101 828995 836421 CS you work for 他们 是 时常 讲 you you work for your life 为 工作 而
+UI14MAZ_0101 836421 844688 ZH 生 为生 什么 工作 而 生活 生活 而 工作 哎呀 总之 就 是 这样 的 东西 啦 啊 所以 对 对 对 (呃)
+UI14MAZ_0101 844688 857036 CS 所以 星期五 天 是 很 开心 的 一天 以前 我 都 没有 什么 开心 就 是 很 relax 就 是 我 知道 今晚 我 我 放工 之后 就 是 回家 就 是 等 dinner 吃 哦 或者 我们 出去 一些 romantic dinner 什么 这样 啊
+UI14MAZ_0101 857036 871059 CS 然后 friday saturday sunday 也 是 因为 很 累 了 现在 很多 时候 就 是 less is more 就 是 你 不 需要 去 想 很多 就 是 有 时候 呆 在家 relax 这样 一下 看 television 然后 就
+UI14MAZ_0101 871059 881234 CS 反而 对 quality time 所以 嗯 yup yet 他 是 比较 规律 regular time
+UI14MAZ_0101 881234 894373 CS 就 就 八 点 到 五 点 这样 的 然后 on top of that 他 很 早 睡觉 差不多 十点 就 睡觉 所以 on top of that ah 我们 也 是 很难 找到 一个 balance 一个 平衡 点 去 怎样 说 (呃)
+UI14MAZ_0101 894373 905032 CS 比如 说 我 累 了 我 要 睡觉 啊 他 已经 在 那边 睡 到 不懂 睡 到 singapore 了 所以 所以 you know 然后 早上 我 醒 起来 我 不 需要 这样 早 他 已经 不 在 了
+UI14MAZ_0101 905032 916292 CS 所以 这个 要 manage loh 看 他 怎样 manage 所以 啊 我们 找 到 一个 一个 一个 平衡 就 是 说 at least make sure within the week 里面 monday to thursday 是 应该 是 没有 什么
+UI14MAZ_0101 916292 930461 CS 没有 什么 kang tao 啦 就 所以 就 是 friday saturday sunday emm 我们 做 一些 make sure 我们 有 一些 quality time 这样 咯 不过 很 很 challenging 一 开始 的 时候 现在 都 已经 惯 了 啦 都 已经 惯 了
+UI14MAZ_0101 930461 945672 CS 我 时常 有 一些 新 的 colleague join 我 的 team 的 时候 我 也 是 要 跟 他们 set 一个 right expectation this is 不同 的 咯 这个 工作 globalized 的 工作 你 有 一个 很多 colleague overseas 这样 所以 (呃) 在 这样 的 情况 之下 你 要
+UI14MAZ_0101 945672 957544 CS ah be readied get prepared it is ah it will be quite ah difficult to manage when 你 刚刚 开始 这个 工作 after that 久而久之 他们 都 都
+UI14MAZ_0101 957544 966372 CS 都 已经 知道 说 哦 他 工作 性质 是 这样 的 要 be flexible yet has as long as you 我 刚才 讲 的 就 deliver 你 的
+UI14MAZ_0101 966372 977516 CS 啊 你 的 project within the timeline 那么 样 的 话 就 就 没有 什么 大 不 了 他 u. s. 他 他 他们 不 不 manage ah 怎么 说 呢 (呃)
+UI14MAZ_0101 977516 985647 CS 啊 (呃) 我 忘记 那个 什么 字 了 就 是 emm magnify
+UI14MAZ_0101 985647 993979 CS 他 有 一个 字 啊 我 忘记 了 就 是 他 他 不 不 去 管 这样 多 detail 的 right 你 全程 他 相信 你 哦
+UI14MAZ_0101 993979 1001913 CS 然后 很多 时候 no news is good news one 如果 没有 什么 escalation ah 没有 什么 issues ah 对 他们 讲 是 good you are doing good
+UI14MAZ_0101 1001913 1010502 CS 不过 讲 是 这样 啦 其实 也 要 有 很多 技巧 technique 的 啦 because if totally no news 啊 他 他 跟 你 会 disconnect 的
+UI14MAZ_0101 1010502 1018958 CS 所以 你 必须 要 每 一个 礼拜 都 make sure 有 一些 spare 一些 time 去 去 做 一些 呃
+UI14MAZ_0101 1018958 1027511 CS 我们 call one on one 就 是 说 direct meeting to talk about not necessary just work but 也 有 一些 工作 上
+UI14MAZ_0101 1027511 1036661 CS 啊 一些 personal 的 东西 有 时候 我们 会 讲 谈 一下 就 是 所以 你 可以 联络 一些 感情 这样 and after that 工作 也 会 比较 顺利 一点 咯 所以 这个 就 是
+UI14MAZ_0101 1036661 1040251 ZH 呃 我 忘记 了 你 问 什么 我 忘记 讲 太 多 了
+UI14MAZ_0101 1040251 1056202 EN  mm mm okay (er)
+UI14MAZ_0101 1056202 1064750 CS first of all 最 重要 的 一些 啊 东西 就是 呃
+UI14MAZ_0101 1064750 1079988 CS interpersonal skills 因为 呃 我们 已经 没有 之前 我 所 说 的 direct report 的 关系 所以 人 与 人 之间 我 我 跟 你 都 没有 什么 盈利 关系 没有 什么 direct report 不过 我 需要 到 你 的 help
+UI14MAZ_0101 1079988 1088022 CS to deliver 我 的 project is a part of 我 的 member 这样 without any direct ah reporting structure
+UI14MAZ_0101 1088022 1099698 CS 所以 inter-personal 就 是 说 我 要 坐下 我 要 能够 啊 找到 一个 共同点 找到 一个 一个 一些 win-win situation 我 会 说 如果 我们 做 这样 a 的 话
+UI14MAZ_0101 1099698 1107494 CS 呃 你 b 的 你 呢 也 会 收到 一样 的 利益 这样 所以 两个 坐下 来 找到 一些 共同 objective
+UI14MAZ_0101 1107494 1117537 CS 啊 当然 我 开始 initiate 那个 那个 东西 咯 那么 可以 说 到 我 做 这个 你 这个 也 是 会 有 很好 的 一个 东西 这样 那么 呃 有时候
+UI14MAZ_0101 1117537 1128581 CS 这个 是 ideal 的 一个 situation 不 ideal 的话 就 要 就 要 negotiate ah 要 要 怎样 去 compromise 去 找到 一个 一个 平衡 点 哦 那么 能够
+UI14MAZ_0101 1128581 1137878 CS 能够 得到 一些 人 的 支持 咯 这个 是 最大 最大 的 skill 这样 咯 然后 language 然后 我们 谈到 language 的 话
+UI14MAZ_0101 1137878 1147474 CS 呃 也 是 一个 很 很大 很大 的 问题 我 可以 看到 有 一些 朋 有 一些 colleague 他们 就 是 呃 有 时候 会 比较 呃
+UI14MAZ_0101 1147474 1158904 CS 呃 比较 难 难 啊 communicate not necessary because 他们 啊 不懂 英文 或者 是 英文 比较 差
+UI14MAZ_0101 1158904 1170060 CS but sometimes also because 呃 他们 的 就 是 比较 有 一些 人 会 难免 比较 内向 比较 难 开 自己 的 心 去 外 but i anyway 我们 professional
+UI14MAZ_0101 1170060 1179012 CS 是 talk about work lah 哦 所以 not necessary have to be 说 你 是 一个 比较 内向 的 人 你 就 不能 做 这个 工 啊 我们 会 可 只是
+UI14MAZ_0101 1179012 1186539 CS 在 那些 discussion 的 时候 很多 时候 这些 就 这些 人 就 会 比较 很 focus 说 那个 objective 而已

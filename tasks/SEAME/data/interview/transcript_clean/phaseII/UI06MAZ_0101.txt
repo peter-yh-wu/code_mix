@@ -1,0 +1,171 @@
+UI06MAZ_0101 9215 11720 ZH (呃) 我 的 名字 叫 黄康麟 哪
+UI06MAZ_0101 11720 15740 ZH 姓 黄 啦 黄色 的 黄 健康 的 康 麒麟 的 麟
+UI06MAZ_0101 16458 21167 CS 英文 名 就 ng-kang-lin n. g. k. a. n. g. 跟 l. i. n.
+UI06MAZ_0101 21790 25025 CS (呃) 平时 大家 都 会 叫 我 n.k. lin ah
+UI06MAZ_0101 26012 30011 CS 就是 名字 的 缩写 咯 n.k. 跟 lin n.k. lin nor
+UI06MAZ_0101 30375 32504 CS 或者 有些 人 也 会 叫 我 n.k.
+UI06MAZ_0101 33413 39041 CS 也 不懂 为什么 啦 可能 maybe 他们 会 喜欢 alphabet 呱 就 这样 咯
+UI06MAZ_0101 39403 40204 ZH (啊)
+UI06MAZ_0101 41134 46059 CS 我 在 school of housing building and planning 就是 h. b. p.
+UI06MAZ_0101 46734 51695 CS 啊 major in building technology 就是 读 一些 有关 于
+UI06MAZ_0101 52031 57602 CS 建筑物 的 科技 的 包括 structure  他们 building 里面 的
+UI06MAZ_0101 58760 63819 CS system 包括 这些 plumbing system 这些 水 这些 电 electric
+UI06MAZ_0101 65096 70766 CS 还有 包括 这些 通风 系统 啊 everything about the building ah 还有 就是 建筑物 的 structure 这样 咯
+UI06MAZ_0101 72116 72792 ZH (嗯)
+UI06MAZ_0101 73986 81273 ZH (啊) 我们 怎样 讲 就是 我 的 家庭 背景 啦 我 就 来自 johore 住 在 segamat
+UI06MAZ_0101 82296 87591 ZH segamat 就是 在 二零零六年 的 时候 有 一场 很 严重 的 这个 水灾 咯
+UI06MAZ_0101 88201 93277 CS 就是 average 差不多 whole weeks ah 都会 下雨
+UI06MAZ_0101 93758 95576 CS 变成 造成 很大 的 这个 flood
+UI06MAZ_0101 97472 97757 EN then
+UI06MAZ_0101 99212 103699 CS 那边 的话 (嗯) 最 出名 的 famous 的 一个 food 就是 榴莲 哪
+UI06MAZ_0101 104195 111285 CS 大家 都 去 那边 都会 喜欢 榴莲 很多 singaporean 来到 我们 这边 都会 买 榴莲 回去 咯
+UI06MAZ_0101 112193 115738 CS 可是 那些 我们 讲 的 supplier 他们 都会
+UI06MAZ_0101 117188 126496 CS 给 他们 expensive 的 price 因为 他们 知道 他们 是 singaporean mah  所以 就会 趁 机会 就  抬高 价钱 喏 这样 当作 杀 他们 一 刀 啦
+UI06MAZ_0101 126954 135754 CS uh-huh  然后 we talk about (er) 我们 的 我 的 family ah 我 有 五个 兄弟 姐妹 lah brothers (er)
+UI06MAZ_0101 136746 145576 CS one elder brother (er) also graduate from com science com science 的 啊 major in (er) software engineer
+UI06MAZ_0101 146952 153909 CS 他 现在 在 altera bayan lepas 那边 做 做工 哦  还有 我 一个
+UI06MAZ_0101 154896 158041 CS younger brother 就是 他 现在 在 laman 读书 哦
+UI06MAZ_0101 158843 167592 CS (er) major in- mm 在 laman segamat lah tar college segamat 就读 business administrative
+UI06MAZ_0101 168088 171233 EN in business administration ah diploma
+UI06MAZ_0101 172039 178583 CS 然后 接 下来 我 有 两个 这个 妹妹 就 两个 都 还 在 secondary school lah
+UI06MAZ_0101 179206 182819 CS 一个 form four 一个 form two i think ah form two
+UI06MAZ_0101 184820 194044 CS 然后 我 父亲 本身 是 一个 contractor that's why 我 对 在  school of housing building and planning maybe
+UI06MAZ_0101 194310 199491 CS 从 小 到 大 就是 因为 他 influence 我 啊 所以 就
+UI06MAZ_0101 199881 206606 CS 变成 我 对 这个 (呃) building 的 东西 会 比较 interesting oh 比较 interested 在 building 的
+UI06MAZ_0101 207084 216706 CS mm-hmm 当然 (呃) 我 的 愿望 就是 说 应该- 可能 别人 觉得 会 it is funny thing but 
+UI06MAZ_0101 216706 221606 CS 当然 我 就是 希望 我 就是 能 自己 all my hand 就是 起 一 间
+UI06MAZ_0101 222494 230416 CS ten storey bang~ (er) condominium or commercial 这个 building nor 就是说 i construct myself
+UI06MAZ_0101 231479 237537 CS 就是 讲 我 自己 起了 没有 depends on other contractor or 别的 subcontractor 这样 哦
+UI06MAZ_0101 238960 247330 CS 就是 maybe after i achieve that ambition 可能 我 还有 bigger 的 呱 就是 可能 会 建 更加 高 的 这个 building 这样 咯
+UI06MAZ_0101 248993 249957 ZH 接 下来
+UI06MAZ_0101 251798 257233 CS 就- 而且 我 的 家庭 family is a quite big family
+UI06MAZ_0101 257597 266998 CS 我 的 grandmother 有 总共 有 十二 个 children total 十二 个 children  就是 所以 就 很多 (啊)-
+UI06MAZ_0101 268219 276278 CS 就是 new year 的 时候 就 很多 人 回来 咯 当然 the most important is we will get a lot of angpau lah hor
+UI06MAZ_0101 286748 296531 CS 啊 我 是 second year 对 我 今年 就是 我们 school of housing building and planning 在 u. s. m. 里面 有 六个 major 的 course
+UI06MAZ_0101 297057 303999 CS the first one 就是 (呃) architecture sec~ second one 是 i. d. interior design
+UI06MAZ_0101 304389 313051 CS the third one 是 (呃) planning 就是 regional planning 这些 town planning oh 这 三个 是 under design group
+UI06MAZ_0101 314205 319913 CS then second group 就是 non design group none d. 我们 叫 none d. ah non design group
+UI06MAZ_0101 319913 325759 CS 就是 不是 不是 设计 的  就是 more on 那些 calculate ah structure 的 东西 咯
+UI06MAZ_0101 325942 331352 CS 他们 design group 的 东西 就是 全部 drawing oh 像 architecture 他们 会 画
+UI06MAZ_0101 332313 337391 CS planning 他们 也是 画 咯 either 用 computer 或者 是 technical 用 手 画
+UI06MAZ_0101 338285 344403 CS 我们 non design 的 就是 有 include ah quality surveying 就是 q. s.
+UI06MAZ_0101 345013 352350 CS 第二 个 就是 construction management 好像 就是 一些 以后 他们 会 做 project manager 在 site project manager
+UI06MAZ_0101 353271 354569 ZH 过后 就是 有
+UI06MAZ_0101 354857 361247 CS 说 我 我 的 major lor building technology 就 我们 讲 一些 关于 我 的 building technology 的 东西 咯
+UI06MAZ_0101 361791 370039 CS 我们 在 里面 first first semester 的 时候 就会 学 (嗯) first semester 我们 是 six major together
+UI06MAZ_0101 370636 375510 CS 我们 learn about something (er) 就是 basic 的 东西 technical basic
+UI06MAZ_0101 375934 382213 CS coloring we use ah technical band 就是 画 那些 就是 有 我们 好像 有些 画 人
+UI06MAZ_0101 382888 386761 CS 有些 会 画 那些 portrait 有些 画 building
+UI06MAZ_0101 387272 395334 CS natural natural view environment 这些 东西 我们 就是 first first semester 我们 就 画 这样 technical 的 东西 啊 self improvement
+UI06MAZ_0101 395849 399350 CS 这样 就是 增加 自己 的  这个 drawing 的 能力 这样 咯
+UI06MAZ_0101 400071 406204 CS 到了 second semester 的话 我们 就 会 有 分成 design group 跟 non design group
+UI06MAZ_0101 406673 411229 CS design group 他们 会 handle by (er) 就是 certify 的 architecturer
+UI06MAZ_0101 411633 418095 CS 他们 在 p. a. m. ah pertubuhan arkitek malaysia 里面 他们 有 一个 就是 certifed 的 architecturer ah
+UI06MAZ_0101 418095 424492 CS a. r. 他们 叫 a. r. lor 他们 的 名字 前- (啊) lecturer 全名 名字 前面 都有 a. r. 就是 certify 的 architecturer
+UI06MAZ_0101 424696 430755 CS 他们 会 lead 他们 去 一些 (呃) more to design 的 process 会 start from 好像
+UI06MAZ_0101 431272 438080 CS 好像 ok let say let say 你 是 client 你 要 起 一 间 屋子 他们 就会 start with ah brief design process 
+UI06MAZ_0101 438777 445048 CS 你 要 那些 东西 到 到 最后 就是 会 有 一个 plan 出来 啊 大概 是 这样 咯 我们 non design 的话
+UI06MAZ_0101 446162 454453 CS 就是 more on site construction site 就是 lec~ lecturer 通常 都是 lead by 那些 lecturer 有 s. r.
+UI06MAZ_0101 455285 459312 CS 就是 certify by ah institute surveyor malaysia 就是 i. s. m.
+UI06MAZ_0101 459935 467310 CS 就是 他们 有 certifed 的 s. r. surveyor 啊 都 很多 experience 的 lecturer 他们 lead 我们 就 very experience 很好
+UI06MAZ_0101 467310 473595 CS 真的 学 到 很多 东西 当然 我们 的 course 就是 学 到 就 好像 在 site 的 时候
+UI06MAZ_0101 474062 483856 CS 我们 start ok 好像 excavation 那个 泥土 好像 你 去 一个 site excavation 到 做 foundation 你 要 直接 到 structure 到 完
+UI06MAZ_0101 484479 492052 CS 到 过后 的 landscaping 就 好像 种花 还是 种树 这些 到 最后 完 喏 他 都会 教 我们 喏 就是 every stage 里面
+UI06MAZ_0101 492987 496155 ZH 他 好像 有 什么 东西 要 我们 注意 的话 好像 是
+UI06MAZ_0101 496778 504548 CS (呃) 好像 万一 我们 的 client 会 怎样 欺骗 我们 哪 something 他们 会 sometimes 他们 会 cheat 我们 就 好像 好像 let say q. s. 里面
+UI06MAZ_0101 505046 511480 CS 因为 q. s. quantity survey 我们 也是 有 学 到 q. s. 的 part lah q. s. 的 工 就是 quantity surveyor mah 他 就是 算 quantity 的
+UI06MAZ_0101 512188 520286 CS 有时候 就 好像 okay 我们 set 好 这个 quantity 有 几多 但 client 的话 会 讲 还 不够 client 讲 还要 more than that
+UI06MAZ_0101 521299 526175 CS 所以 就会 有 conflict oh lecturer 会 教 我们 怎样 solve this problem ah  还有 就是 
+UI06MAZ_0101 526908 531335 CS 还有 就是 讲 他 会 教 我们 怎样 prevent this situation 发生 哪
+UI06MAZ_0101 532994 540414 CS 就 就是 我们 的 school of housing building and planning oh 当然 过后 在 我 这个 bui~ second year 的 时候
+UI06MAZ_0101 540680 543347 CS 这个 sem lah first semester in sec~ second year
+UI06MAZ_0101 543875 552758 CS 我们 就 因为 我们 已经 分 了 六个 major ah lead by (呃) 我们 自己 的 lecturer loh architecturer 就会 他们 architecturer - 我 building 的话
+UI06MAZ_0101 553537 559688 CS 我 building 是 比较 lucky 的 因为 我 lead by (呃) 我们 的 dean 因为 我们 的 dean 是 (呃) engineering ah
+UI06MAZ_0101 560467 565221 CS 他 的 他 是 一个 i. r. certify engineer 来的 那么 他 就 带领 喏 我们 studio master lor
+UI06MAZ_0101 565948 574102 CS 他 就会 教 我们 一些 structure 的 东~ 当然 不是 他 教 啦 就是 有 他 的 这个 lecturer lah 就 好像 来 跟 我们 讲 咯
+UI06MAZ_0101 574855 579801 CS 我们 lead by doctor zaid 也是 engineer 来的 malaysia engineer i. r. certifed
+UI06MAZ_0101 580681 587796 CS then 他 就 教 我们 一些 这个 sem 我们 就 学 (呃) slab slab 就是 building slab
+UI06MAZ_0101 588783 595588 CS mm-hmm 我们 怎样 就是 sometimes 就是 one way slab or two way slab 就是 很多 这些 professional 的 terms ah
+UI06MAZ_0101 596874 603474 CS 啊 one way slab 就是 讲 (嗯) actually 它 是 the length divided by the wide
+UI06MAZ_0101 604467 609245 CS  就是 (啊) one way slab more to rectangular
+UI06MAZ_0101 610232 614727 EN if the slab is the rectangular long shape long spence slab ah then considered one way slab ah
+UI06MAZ_0101 615065 622336 CS the two way slab 就是 好像 比较 square 的 比较 四方 的 因为 它 的 就是 好像 一个 四方 形 对不对
+UI06MAZ_0101 623556 630565 CS 我们 就 讲 它 的 那个 force 来讲 那个 力道 来 讲 因为 它 可以 two way mah 就是 horizontal and vertical
+UI06MAZ_0101 631174 639991 CS 如果 是 讲 one way slabs 的话 它 是 rectangular 你 的 好像 如果 我们 building 有 (啊) shaking 或者 是 vibrate 的 时候 啊
+UI06MAZ_0101 640447 646699 CS 就 它 的 力 是 一个 direction nor 因为 rectangular 它 会 一边 罢了 就是 more to 一边 哪
+UI06MAZ_0101 647433 651765 CS square 的话 它 是 equivalent mah equivalent 啊 就 叫 two way slab
+UI06MAZ_0101 652596 657119 CS 当然 我们 也是 还 有 做 一些 literature review literature review on slab
+UI06MAZ_0101 657963 666668 CS 就 好像 我们 找 一些 (呃) design oh 好像 这个 slab 你 要 design 来 做 什么 东西 包括 life load
+UI06MAZ_0101 666914 675564 CS life load 就 好像 我们 人 喏 人 这些 furniture 椅子 桌子 我们 在 上面 走动 叫 life load lor 要 calculate 这些 东西 哦
+UI06MAZ_0101 676278 684320 CS 然后 过后 也 有 dead dead load 就是 比较 好像 我们 building 的 structure building 的 这些 door windows
+UI06MAZ_0101 684820 692878 CS 当作 是 dead load lah 就 calculate 进去 里面 喏 然后 我们 才 design 出来 就是 看 那个  slab 就是 整个 building 的 slab
+UI06MAZ_0101 693438 700253 CS 就 很多 咯 当然 里面 还有 就是 reinforcement 那些 bar 就是 那些 我们 讲 的 铁 啦 那些 里面 的 铁支
+UI06MAZ_0101 701019 709351 CS 我们 也 会 就是 在 算 计算 看 这个  slab slab 我们 华语 叫 板平 啦 一个 板 平平 哦 叫 板平 哦 啊
+UI06MAZ_0101 709996 715090 ZH 就是 看 里面 会 有 几多 的 铁 咯 当然 这个 很 重要 啦 就是 如果 是
+UI06MAZ_0101 715327 720794 CS 好像 如果 是 你 calculate 错误 的话 会 导致 这个 bui~ building collapse ah 还是 它 会 cracking
+UI06MAZ_0101 721583 729763 CS 啊 most of the problem 就是 像 他们 calculate 错误 或者 是 有些 contractor 要 偷工减料 就 会 导致 building cracking 这样 咯
+UI06MAZ_0101 730921 737681 CS 当然 continue next semester 的话 也 会 有 也 会 有 我们 就 学 这个
+UI06MAZ_0101 738019 741675 CS 因为 first semester 我们 就 学 大概 是 在 structure 的 东西 slab ah
+UI06MAZ_0101 742272 746880 CS columns 就是 柱子 building 的 柱子 还有 这些 它 的 roof ah 这些 everything about structure
+UI06MAZ_0101 747646 756797 CS then next semester 我们 就 会 学 building services 就是 里面 的 这些 lighting plumbing 就是 lighting 的 wiring 要 怎样 走 哇
+UI06MAZ_0101 757256 766177 CS 就 这些 plumbing 就是 好像 你 的 水 啊 电 啊 scenery toilet everything 就 看 你 要 orientation layout 要 怎样 排
+UI06MAZ_0101 766808 774175 CS 当然 就 好像 toilet 的话 就是 要 看 排 在 哪个 地方 比较 适合
+UI06MAZ_0101 774905 781048 CS 大家 用 到 这样 咯 就是 for friendly use 这样 大家 (呃) public 用 得 到 咯
+UI06MAZ_0101 782512 792246 CS 过后 也是 会 有 好像 我们 的 室内 的 通风 ventilation 我们 叫 (啊) building air ventilation 就是 我们 需要 这些  好像 抽风 机 啊
+UI06MAZ_0101 792466 796519 CS 还是 fans ah 就 导 就 让 它 整个 building ventilation
+UI06MAZ_0101 796519 802860 ZH 不会 好像 如果 是 有  火灾 还是 什么 不会 好像 人 就 在 里面 会 死掉 kok 死掉 嘛
+UI06MAZ_0101 803808 805912 CS mm-hmm 我们 就会 学 everything about this ah
+UI06MAZ_0101 805912 811912 CS 还有 也是 会 有 (呃) security 也 会 学 security 好像 我们 的 alarm system
+UI06MAZ_0101 812457 817488 CS 全部 就是 building technology all about technology in the building ah 大概 是 这样 咯
+UI06MAZ_0101 817928 819045 ZH 过后 他们 也 会 有
+UI06MAZ_0101 820824 824844 CS 可能 我 读 完 这个 (啊) degree programme 的 时候
+UI06MAZ_0101 825317 829642 CS 可能 我 会 读 这个 post graduate 的 就是 在 maybe u. s. m. or u. t. m.
+UI06MAZ_0101 830162 833455 CS u. t. m. 也是 不错 的 这个 housing building and planning 这个 school 
+UI06MAZ_0101 834571 842568 CS 就是 in master 的 时候 他们 会 focus on 外面 的 东西 就 好像 是 roads and highway
+UI06MAZ_0101 843058 849477 CS highway design 还是 或者 是 有些 是 bridge ah 那些 他们 design infrastructure 的 东西 哦
+UI06MAZ_0101 849853 856043 CS 在 master 就是 specific 去 一个 sector 里面 好像 如果 你 design bridge
+UI06MAZ_0101 856499 865918 CS 好像 我们 的 roads ah 会 有 overhead 啊 他们 就 calculate 那些  那些 beam ah 那些 column 那些 structure 来 support 他们 那个 bridge lor
+UI06MAZ_0101 866450 871825 CS everything 就是 之前 我们 有 我们 的 school 我们 有 办 一个 gathering 就是 讲  他们
+UI06MAZ_0101 873123 879921 CS master student 或者 是 ex student of 我们的 major 就 来 跟 我们 share 他们 的 这个 experience nor
+UI06MAZ_0101 880259 885971 CS 他们 在 外面 的 experience 就 好像 我们 就 跟 我们 讲 要 我们 focus 在 哪 一个 subject
+UI06MAZ_0101 886703 892638 CS 我们 u.~ (呃) h. b. p. housing of building of planning and planning oh  我们 是 没有 minor 的
+UI06MAZ_0101 893856 899607 CS 我们是 elective 罢了 就是 elective 啊 所以 就是 我们 我们 学
+UI06MAZ_0101 900178 905358 CS 当然 是 有 core courses lah 就是 一定 就 像 我们 building 就是 structure a 什么 东西 是 core courses lor
+UI06MAZ_0101 905606 908964 CS elective 就是 好像  六个 major 哦 我们 可以 share 的
+UI06MAZ_0101 910496 916670 CS 好像 architecture 有 它 的 elective 就是 maybe 用 computer 他们 用 auto cad 就是 computer aid
+UI06MAZ_0101 917334 922113 CS computer aid design 他们 画 那些  building 的 plan nah
+UI06MAZ_0101 922736 930960 CS i. d. 他们 有 那种 three d. map lor 就是 three d. design interior design interior  q. s. 他们 有 (呃) quantity measurement
+UI06MAZ_0101 931372 936377 CS 就是 这些 s~ elective 里面 你 可以 我们 讲 可以 across major
+UI06MAZ_0101 937065 942403 CS 好像 如果 你 是- 我 是 building maybe 可能- 因为 有些 我 的 朋友 就是 他 要 去 architecture
+UI06MAZ_0101 943198 948963 CS 他 进 不到 所以 this semester 他们 就会 take 他们 的 register 他们 的 elective
+UI06MAZ_0101 950534 958694 CS means 你 会 学 architecture 学 的 东西 咯 core courses 就是 basic 的 罢了 elective 好像- (啊) 因为 他们 有些 进 不到 就是 这样
+UI06MAZ_0101 959083 964000 CS 而且 现在 我们 apex university 他们 找 dean 了 dean 也 不要 给 他们 switch course
+UI06MAZ_0101 964558 969038 CS 所以 就 没有 办法 咯  啊 then 他们 (呃) senior 回来 就有 讲 到
+UI06MAZ_0101 970279 978898 CS 就是 which elective 我们 要 就是 register 就是 要 读 哪 一个 就是 以后 你 出去 的话 他们 外面 的 firm 会 有用 到 这样 咯
+UI06MAZ_0101 979807 984748 CS (嗯) 有些 就 叫 我们 拿 quantity survey measurement 就是 出去 的话 我们 会
+UI06MAZ_0101 985766 989619 CS measure 这些 building 的 东西 咯 对 以后 我们 以后 的 future 会 比较 有 帮忙 啦
+UI06MAZ_0101 990769 991275 ZH 就 这样 咯
+UI06MAZ_0101 999111 1006577 CS mm-hmm actually 我们 的 h. b. p. ah 也 没有 mid term 的 就是 mid term 的 quiz 什么
+UI06MAZ_0101 1006764 1010535 CS quiz 也是 很少 我们 more based on course work
+UI06MAZ_0101 1011895 1017731 CS course work 就 好像 我们 有 一个 有时候 一个 (啊) 一个 subject 的话
+UI06MAZ_0101 1018304 1022376 CS 通常 会 有 四个 lecturer 进来 的 分成 四 part 四 part
+UI06MAZ_0101 1023675 1032960 CS 好像 如果 我们 有 读 infrastructure infrastructure ah 我们 这个 sem 有 一个 course 是 infrastructure technology 就是 会 分 第一个 lecture 就是 electric
+UI06MAZ_0101 1033613 1042487 CS 我们 的 surrounding 的 electric system 第二 个 就是 road and highway 第三 个 就是 这个 building 的 building system
+UI06MAZ_0101 1043298 1047096 CS 就是 好像 first lecturer 的话 他 会 给 我们 assignment nor
+UI06MAZ_0101 1047646 1055805 CS about the electric 就是 (啊) surrounding planning 的 好像 planning 就 好像  between the pole and the pole 你 要 几多 distance nah
+UI06MAZ_0101 1056143 1064009 CS 好像 一个 housing area 你们 要 design 那个 电灯 柱 我们 叫 电灯 柱 design oh 还有 那些 transformer  还有 这些
+UI06MAZ_0101 1064504 1069490 CS everything ah 从 那个 electric generator 到 我们 的 house home user
+UI06MAZ_0101 1070217 1077072 CS 当然 包括 就是 那个 一个 assignment nor 然后 过后 第二 个 的话 就是 有 roads and highway 就是 好像 parking
+UI06MAZ_0101 1078249 1087566 CS 那个 lecturer 就会 要 我们 design 我们 的 park~ 就是 parking area parking 就是 可能 most of people 看 parking 是 很 容易 可是 
+UI06MAZ_0101 1088054 1095967 CS 因为 因为 也是 有 calculation 的 也要 calculation 的 啊 有些 就是 developer 他们 会 因为 他们 要 赚钱 嘛
+UI06MAZ_0101 1096408 1103411 CS 好像 你 (呃) okay let say 我们 说 condominium 他们 的 parking area parking 是 要 租 的 或者 是 要 要 卖 来 卖 的
+UI06MAZ_0101 1103853 1111726 CS 变成 他们 会 划 到 很 近 啊 就是 那些 parking area 会 很 近 所以 那个 我们 叫 turnover 好像 你 的 vehicle 要 进去 的 时候 turnover 的 时候 会 不够 咯
+UI06MAZ_0101 1113155 1117536 CS 当然 他们 design 窄 也是 也是 不可以 有时候 也是 不可以 design 到 太过 宽
+UI06MAZ_0101 1118380 1124353 CS 因为 如果 你 turnover 太过 宽 的话 就是 这个 是 我们 另外 一个 perspective 就是 lecturer 会 跟 我们 讲 conflict 就是
+UI06MAZ_0101 1125106 1135509 CS 好像 something 你 的 这个 corner 太过 宽 的话 对不对 有时候 你们 就会 跑 太 快 啊 high speed 对不对 也是 有 这个 这个 可能性 啦 所以 他们 会 design 到 刚刚 好
+UI06MAZ_0101 1136577 1148069 CS 所以 有时候 我们 就 学 这些 东西 咯 就是 好像 一个 一个 course 里面 一个 subject 里面 会 有 三 就是 whole semester 会 有 四 差不多 四个 四个 assignment
+UI06MAZ_0101 1150013 1156952 CS 变成 我们 这个 sem register 差不多 是 我们 有些 是 register 四个 subjects so 就有 十 多个 assignment nor
+UI06MAZ_0101 1158295 1167722 CS 有些 有些 这个 我们 的 subject 的 course course work 是 sixty percent 的 sixty percent then final 是 forty percent
+UI06MAZ_0101 1168671 1180375 CS then 所以 我们 就会 我们 很 忙 啊 就是  一直 要 赶 project ah 赶 这些 东西 哦  好像 我 的 house mate 现在 我 住 在 desa air mas 就 住 外面 condominium ah
+UI06MAZ_0101 1181369 1190437 CS 啊 我 的 house mate 两个 两个 house mate 他 是 management 的 management 他们 因为 他们 有 mid term 现在 在 mid term mid term exam
+UI06MAZ_0101 1190671 1198263 CS 所以 就 很 忙 啊 他们 读 读 读 读 读 可是 他们 的 course work 就 很少 course work 很 course work 很少 final 的 时候 then 我们

@@ -1,0 +1,840 @@
+NI26FBP_0101 4539 7336 ZH  哦 我 的 笑 声 够 大 声
+NI26FBP_0101 9805 13149 CS okay 可以 我 会 尽量 讲话 大 声 eh 够 大 声 了
+NI26FBP_0101 26920 29680 CS 没有 eh didn't get to apply in time
+NI26FBP_0101 30100 32479 CS 因为 之前 就 一直 去 玩 sports then 就 没有
+NI26FBP_0101 32880 33590 CS 就 没有 apply
+NI26FBP_0101 35940 37800 CS 我 想 嘞 but i don't think that
+NI26FBP_0101 38408 39908 EN my final sem already what next sem
+NI26FBP_0101 40642 41922 EN so i don't think i have time for it
+NI26FBP_0101 43664 44414 CS so 可怜 right
+NI26FBP_0101 49160 51043 CS 没有 今年 没有 i had enough of it
+NI26FBP_0101 51043 52308 EN enough is enough
+NI26FBP_0101 52308 53605 ZH 不要
+NI26FBP_0101 53605 54463 EN no
+NI26FBP_0101 58774 60500 CS mainly 是 chinese song lah
+NI26FBP_0101 60500 64828 CS 没有 什么 英文 比较 少 咯 more towards the chinese side
+NI26FBP_0101 66299 67410 EN example ah
+NI26FBP_0101 67410 70870 CS 最近 很少 听 歌 eh like maybe s. h. e. those type lor
+NI26FBP_0101 81299 87215 CS i want to learn dance leh but 我 觉得 我 psychomotor 我 学 得 可能 ah-boon 会 疯 掉 
+NI26FBP_0101 89475 91959 CS yanjing got talent leh 我 觉 得 她 是 厉害 的 嘞
+NI26FBP_0101 92864 93958 ZH 没有 我 觉 得 我 没有
+NI26FBP_0101 101184 103042 ZH 讲话 一直 讲话 一直 讲话
+NI26FBP_0101 113362 115467 CS 我 怎么 知道 okay (erm)
+NI26FBP_0101 116857 122810 CS 要 不 然 我 问 你 问题 then 我 自己 回答 啦  (er) just ask question lah go
+NI26FBP_0101 128130 132769 CS no i am the daughter 我是 女儿 是 很 可爱 的 女儿
+NI26FBP_0101 138991 142880 CS 你 是 <unk> oh yah 你 是 哦 actually 我 觉 得 还 好 嘞 不 会 很
+NI26FBP_0101 143568 145680 CS 不 会 很 困难 啦 for me
+NI26FBP_0101 145680 147630 CS but i feel that everytime 我 下去 我 都 在 玩 啦
+NI26FBP_0101 147710 149530 CS 每 次 到 我 的 scene 就 很 吵
+NI26FBP_0101 149860 151710 CS i heard that 他们 有 feedback 讲
+NI26FBP_0101 151710 155570 CS 我们 很 like naughty right like 很 不 serious right
+NI26FBP_0101 155570 159360 CS then i think that mingshen 很像 stress leh 他 整 天 跟 我 讲
+NI26FBP_0101 159360 162253 CS so yah next training 我会 认真 一点 
+NI26FBP_0101 162565 164878 CS but okay lah 我 觉 得 应该 没有 什么 问题 啦
+NI26FBP_0101 164878 166224 ZH 可能
+NI26FBP_0101 166224 174495 CS 需要 多 一点 practice lor 到 black box 我们 要 多 一点 咯 要不然 我 觉 得 当天 可能 会 怯场 for all of us 因为
+NI26FBP_0101 175041 177822 EN not very used to theater lah if you get all of us lah
+NI26FBP_0101 178750 181130 CS and then 那个 black box 的 area 蛮 大 的
+NI26FBP_0101 181820 183310 CS then 到 那边 会 suddenly like
+NI26FBP_0101 183310 186720 CS eh 没有 jam band room 这样 小 耶 怎么办 每 个 人 应该 会 怕
+NI26FBP_0101 187094 188500 CS 然后 要 看 audience 这些
+NI26FBP_0101 188908 192911 CS 应该 会 蛮 scary lah for most of us 所以 要 practise 多 一点 咯 that day
+NI26FBP_0101 193269 194835 CS but 你们 嘞 你们 的 backstage
+NI26FBP_0101 195660 197740 CS actually 我 看 今年 的 props 做 得 蛮 不错 的 嘞
+NI26FBP_0101 198177 199086 CS like 很 用功
+NI26FBP_0101 199680 201306 CS yah so i think 今年 你们 做 的
+NI26FBP_0101 202102 205195 CS 比 去年 好 很多 很多 compare to last year lah 真的
+NI26FBP_0101 212689 215162 CS  okay 好的
+NI26FBP_0101 232563 235703 CS actually 我 join softball 只是 first year 是
+NI26FBP_0101 236840 239670 CS first year i never go camp mah so 我 不是 认识 很多 hall 的 人
+NI26FBP_0101 239670 244320 CS then 我 那 时候 比较 close 的 是 edwin 他们 是 因为 我 join publicity subcom then 每天 玩
+NI26FBP_0101 244320 245950 CS then other than that 就是 shazana 了
+NI26FBP_0101 246418 250180 CS then 那天 是 因为 shaz the first year 因为 她 是 a. sports sec what
+NI26FBP_0101 250180 251784 CS then 她 每天 都 下去 training 的
+NI26FBP_0101 251784 259330 CS then 她 下去 training 她 不 可以 自己 下 去 她 会 拉 我 winghan 然后 kirana lah shareen 拉 我 整个 block 的 人 下去 that's why 我们 才 下 去 玩
+NI26FBP_0101 259330 260408 EN then from then
+NI26FBP_0101 260908 264838 CS 也 没有 讲 什么 passion lah 因为 那 时候 是 玩 outfield 多么 sian leh 每次 那边 等 球 来
+NI26FBP_0101 265244 267756 ZH 一 个 钟头 多 在 那边 一直 等 球 来 超
+NI26FBP_0101 269290 273000 CS partly 是 because of the seniors lah like vanessa they all they all very zai then
+NI26FBP_0101 273000 274380 CS 跟 他们 train 的 时候 是 很 好 玩 的
+NI26FBP_0101 274380 276006 EN like we can train in the rain then
+NI26FBP_0101 276523 284161 CS train inside the rain 然后 就 玩 mud everything that's why from then lah then 就 start to like softball and then first year cause
+NI26FBP_0101 284720 286910 CS all a lot of them 是 last year student
+NI26FBP_0101 286910 291837 CS vane~ ah shuyi 她们 they greduate that year so it's like 她们 就 很 pia then you will feel
+NI26FBP_0101 291837 298853 CS piah is not english word 她们 就 很  很 hardworking then you just feel that oh you also want to work make it work for them lor so
+NI26FBP_0101 299415 301836 CS 你 认真 sia i think all the sports will be fun one lor
+NI26FBP_0101 302383 303133 EN that's how i
+NI26FBP_0101 303508 307150 EN like softball lah and then when we lost the game actually we very near i think we went to
+NI26FBP_0101 307776 308979 EN semi-finals that year
+NI26FBP_0101 309431 314275 CS that's why when we lost hor they very very sad 差 一 点 点 就 可以 赢 finals 了
+NI26FBP_0101 315228 318773 CS yah then 她们 有 哭 咯 that lah so we got say that 明年 我们 要
+NI26FBP_0101 319242 323009 CS for them we will win the game lah that's why after that 我有 continue play lah
+NI26FBP_0101 323009 326211 CS second year 就 开始 变 得 比较 zai first year 很 noob 的
+NI26FBP_0101 326602 327914 ZH 球 来 打 不 到 的 
+NI26FBP_0101 328460 332570 CS so you just stand there and wait for the ball or 就 是 等 vanessa 她们 跟 你 讲 要 做 什么
+NI26FBP_0101 333382 335695 EN so that's when i start to like first softball
+NI26FBP_0101 353597 357480 CS actually i think it's up to the seniors eh like 去年
+NI26FBP_0101 357480 360240 CS 因为 很多 seniors graduate 嘛 所以 我的 team 可能
+NI26FBP_0101 361312 365530 CS 只 剩 一半 actually more than 一 eh less than 一半 的 人 still stay behind
+NI26FBP_0101 366076 375170 CS so i have to build a new team lor at first 我 是 觉 得 惨 了 啦 死 了 啦 softball so sien then 又 不 懂 who was who's gonna come down and join the team but in the end
+NI26FBP_0101 375170 376960 CS actually ok leh 你 就 一直 去
+NI26FBP_0101 377470 388120 CS 一直 spam 人家 的 phone lor 一直 打 一直 打 一直 打 咯 这样 咯 呃 快 点 下 来 快 点 下 来 then those who whoever sign up put their name or during the amazing raceoh 惨 咯 真 的 是 惨 i just keep calling them until they come down and
+NI26FBP_0101 389902 395964 CS you have to make it fun for them lah cause i think for year one when they 先 进 刚 进 来 right 她们 就
+NI26FBP_0101 395964 397231 CS 谁 都 不 认 then
+NI26FBP_0101 397512 400249 CS 如果 我们 seniors 自己 玩 自己 的 噢 他们 就 会
+NI26FBP_0101 400249 408247 CS of course very bored lah then they of course they won't come back lah but if you make it fun for them 他们 of course they will like it lah like 我们 what like shu yi they all they make it very fun for us
+NI26FBP_0101 408247 410223 EN so last year was still okay meifang they all
+NI26FBP_0101 411020 413060 CS can see that 我们 很 bonded 啦
+NI26FBP_0101 413606 419160 CS but very sad eh this year they never continue playing hmm cause 每 个 人 都 很 忙 eh don't know why this year this year i think
+NI26FBP_0101 419160 422335 CS okay lah i never put in as much effort so 我 今年 的 team (erm)
+NI26FBP_0101 422754 427260 CS 很 散 啦 so yah (er) next year i will tell the captain to 加油 
+NI26FBP_0101 432505 435446 CS 三年 咯  damn long
+NI26FBP_0101 440938 447814 CS yah lor then 你们 没有 住 嘞 then now thirty five really no one left leh imagine 你 看 shaz 要 出 国 他 要 去 vietnam then
+NI26FBP_0101 448188 451244 CS 真正 的 local 就 只 剩 我 regina
+NI26FBP_0101 451542 452933 EN (er) sarah
+NI26FBP_0101 452933 458192 CS 还有 两个 啦 那个 crystal and phase the twins ah but 她们 也 不 是 说 很 active in hall
+NI26FBP_0101 458192 459519 ZH 超 闷 的 咯
+NI26FBP_0101 459519 463115 CS can totally imagine 现在 哦 我 找 lunch 吃 哦 只 可以 找 shazana
+NI26FBP_0101 463530 467150 CS then 她 不 在 的 话 我 不 用 吃 饭 了 我 在 房间 饿 死
+NI26FBP_0101 467150 471830 CS you all have to regularly come and check on my room see whether 我 有 没有 饿死 在 房间 里面
+NI26FBP_0101 472334 474256 CS 要不然 i will die in there
+NI26FBP_0101 474755 479580 CS damn sad you know so i think 你们 应该 搬 回来 thirty five  and come and 陪 我
+NI26FBP_0101 480735 485880 CS (er) i think about it first lah eh but thirty three 你们 那边 很 多 local ah it it seems quite happening
+NI26FBP_0101 486359 488442 EN oh that day i go door to door walkabout ah
+NI26FBP_0101 488847 494519 CS 很 breezethrough eh not like thirty five eh thirty five people will slam the door on me people will hide in the room do not come out
+NI26FBP_0101 494972 498269 CS thirty three is so much friendlier lah like 就算 foreigner 他们 也 会 讲话
+NI26FBP_0101 499800 501909 EN you all should treasure your time in thirty three
+NI26FBP_0101 503620 508340 CS  you all can 把 衣服 搬 过来 晒 了 then then after that you bring back 
+NI26FBP_0101 509106 510028 EN okay lah but
+NI26FBP_0101 510965 513060 CS okay lah i think the only bad thing about thirty five 是 很 多 虫
+NI26FBP_0101 514137 521798 CS every night 呃 真的 是 哦 randomly 我 已经 看 过 很多 species 了 我 觉得 我 可以 开 insec~ insect encyclopedia 了 真的 我 可以 拍照
+NI26FBP_0101 522125 526490 CS all the weird weird 虫 never in my life have i seen all these kind of insects before they
+NI26FBP_0101 526490 529690 CS 晚上 就 会 suddenly appear in my room one i think that's damn scared
+NI26FBP_0101 529690 530412 EN scary
+NI26FBP_0101 530802 536496 EN i also need eh but how your how come your thirty three most of the room got netting one you all go and buy is it
+NI26FBP_0101 538230 543417 CS 哦 太 好 了 why you all i think i need to go and buy also then i put in my room yah
+NI26FBP_0101 544210 546460 CS okay lah but at least 没有 虫 虫 嘛
+NI26FBP_0101 546840 547380 EN like
+NI26FBP_0101 547760 552290 CS 而且 有 时候 也 是 会 有 mosquito mah especially when they 喷 那个
+NI26FBP_0101 552681 554088 ZH 东西 晚上 哇
+NI26FBP_0101 554479 557056 CS all the 蚊子 全部 跑 来 躲 hide in your room like that
+NI26FBP_0101 557766 558611 EN damn bad damn bad
+NI26FBP_0101 559232 560372 EN i think i need to buy the
+NI26FBP_0101 560950 562312 CS the 虫网 hmm
+NI26FBP_0101 567377 570720 CS eh 我 觉得 可能 会 actually i think 今年 会 比较 sad
+NI26FBP_0101 571283 572210 EN cause is
+NI26FBP_0101 572210 574210 CS 很多 n. b. s. 的 学生 graduate like
+NI26FBP_0101 574210 578780 CS the close one like ah boon actually a hboon 不见 咯 我 会 很 sad leh
+NI26FBP_0101 578780 581650 CS cause he is the one like 我 每次 有 东西 我会 去 问 他
+NI26FBP_0101 581650 583476 EN i ask him like eh ah boon how
+NI26FBP_0101 583750 586440 CS okay lah actually 没有 什么 好 问 啦 i know what answer he will give me
+NI26FBP_0101 586440 587867 EN i just need to talk to someone <unk>
+NI26FBP_0101 587867 593178 EN eh ah boon i tell you bla bla bla bla bla bla then he will bla bla bla then i will just oh okay can thank you
+NI26FBP_0101 593930 595692 CS so yah 他 不在 i think i will be very sad
+NI26FBP_0101 595692 597441 EN like no one to talk to like
+NI26FBP_0101 597894 601802 CS 不 认识 的 人 嘛 like 你 看 max 也 是 被 踢 出去 了 then
+NI26FBP_0101 602287 603662 EN huiying they all graduate
+NI26FBP_0101 603662 607117 CS benny graduate 我 就 没有 人 了 真 的 是 没有 人 了 只 剩
+NI26FBP_0101 607944 610073 EN gou yi ling shanzana wing han
+NI26FBP_0101 610717 616007 CS provided that wing han and yi ling can 回 来 啦 i think 他们 两 个 好 危险 they may not be able to be rag back
+NI26FBP_0101 616901 620767 CS yi ling actually also leh 因为 她 只是 做 biz mag 而已嘛 你 想 来 想 去
+NI26FBP_0101 621079 622702 CS although 她 看 起来 做 很多 啦 but
+NI26FBP_0101 623058 625873 EN after all it's still h. s. o. c. h. s. o. c. is
+NI26FBP_0101 625873 631684 CS 很 难 拉 很 多 人 回来 的 他们 只 可以 保 他们 的 main head it's not even all the heads just the main heads 所以
+NI26FBP_0101 632300 634220 CS yah yiling 也是 很 怕 she got tell me like
+NI26FBP_0101 634783 636220 ZH 她 觉得 她 很 难 回来
+NI26FBP_0101 636534 638205 EN yah i also think so lor so
+NI26FBP_0101 639017 639986 CS 很 sad eh if
+NI26FBP_0101 640532 641798 CS 而且 some more winghan oh
+NI26FBP_0101 642156 644921 CS 他如果回不来 it's not like she say she will squat one leh
+NI26FBP_0101 645266 647680 CS cause other halls 会 要 她的 she is a
+NI26FBP_0101 647680 650150 EN basketball player who is quite well known
+NI26FBP_0101 650150 653210 CS 所以 其他 hall 会 拉 她 过去 if hall six 不要
+NI26FBP_0101 653573 655910 CS 所以 她 不会 i don't think that
+NI26FBP_0101 655910 657850 CS okay 可能 她 会 hesitate 一点 啦
+NI26FBP_0101 657850 658450 EN but
+NI26FBP_0101 658450 661660 CS 如果 别人 offer 她 应该 会 去 其他 hall 她不会 squat 在 hall six
+NI26FBP_0101 662206 663658 CS so 她走 我 应该 会 陪 她 走
+NI26FBP_0101 664491 665991 CS  应该 会 cause
+NI26FBP_0101 666474 668842 CS 我 真的 只 只 可以 跟 她 room
+NI26FBP_0101 671603 672071 EN no leh
+NI26FBP_0101 676477 677227 EN 
+NI26FBP_0101 677227 682030 CS (er) actually if i got stay lah 我 觉得 可能 会 啦 因为 shanzana 她们
+NI26FBP_0101 682030 684290 CS provided 看 是 shanzana 他们 要 不要
+NI26FBP_0101 684490 688530 CS they say that they want to perform lah but hall six 每次 讲讲 而已 的 
+NI26FBP_0101 689228 693894 CS okay lah 他们 他们 如果 join like yi ling shanzana 我 of course 是 跟 他们 join lah then 你们 要 拉
+NI26FBP_0101 694100 702860 CS 你们 要 拉 winghan 去 跳 也 是 i never see winghan wear a skirt before so you have to make wing han wear a skirt yah very important then
+NI26FBP_0101 702860 705780 CS okay lah 你们 rag wing han 回来 lor winghan 回来 我 就 回来 lor
+NI26FBP_0101 706114 707319 CS wing han 走 我 就 走
+NI26FBP_0101 707692 712627 EN  but okay lah you all can try to psycho wing han squat for you all i heard that
+NI26FBP_0101 713130 714790 CS 今年 的 rec list 会 更 辛苦
+NI26FBP_0101 714790 715507 ZH 因为
+NI26FBP_0101 715979 719330 CS only actually 会 easier for 我们 non i. v. p. s cause
+NI26FBP_0101 719330 722360 CS every hall only can rag back 三十 个 i. v. p. i heard
+NI26FBP_0101 722744 726758 CS 所以 我们 的 hall 跟 hall three ah 那 种 很多 i. v. p players 的 会 很 惨
+NI26FBP_0101 727460 730180 CS don't know who to rag back i think 很多 i. v. p. s 很难 stay
+NI26FBP_0101 730860 732800 CS yah hall six 太 多 i. v. p. 了
+NI26FBP_0101 734310 736480 CS so 明年 今年 rec list
+NI26FBP_0101 736480 738523 CS producer right 你 会 是 in right
+NI26FBP_0101 739195 739850 ZH 我 觉 得
+NI26FBP_0101 740331 741874 EN <unk>
+NI26FBP_0101 742362 745520 CS huh i think 你们 要 找 一 个 比较 会 fight 的 人 嘞
+NI26FBP_0101 746143 748494 ZH 啊 我 觉 得 永祥 可能 会 被 人家 吃 呃
+NI26FBP_0101 748876 750350 CS 因为 rec rec list 真的 是
+NI26FBP_0101 751200 753490 CS who is fiercer than who and 谁 吃 谁 的 真的
+NI26FBP_0101 753941 759657 CS like yi ling last year d. and d. 因为 yiling 很 凶 even though 她 只是 d. and d. she managed to pull back quite a bit of people like
+NI26FBP_0101 760206 761970 EN jeron like cheong yi ling all that
+NI26FBP_0101 761970 764995 CS yah which i think if other subcom hor confirm 留 出去 的
+NI26FBP_0101 765489 767904 CS although 他们 也 是 never really did much this year
+NI26FBP_0101 768421 769742 EN yah but their talents are
+NI26FBP_0101 770452 770833 EN it's just that
+NI26FBP_0101 771360 774160 CS (erm) maybe during their year 我们 没有 让 他们
+NI26FBP_0101 774539 778720 CS very close to us ah never the seniors never do enough lah maybe lah 我们 觉 得 like
+NI26FBP_0101 779475 781732 EN never make you all feel that you all very bonded to hall six
+NI26FBP_0101 782300 786060 CS then 你们 就有 一点 (er) off on off on off 这样
+NI26FBP_0101 786719 792750 CS but their talents lor 所以 要 跟 either 你们 train yong xiang within the next few months to 会 吃 人
+NI26FBP_0101 793115 796660 EN or you all have to send someone in lor that will really fight at
+NI26FBP_0101 796660 800070 CS can fight and yet can 让 让 人家 listen to you one
+NI26FBP_0101 800070 802061 CS ah like 如果 你 只是 会 fight oh like
+NI26FBP_0101 802630 805290 CS i think 可能 nat 很 难 rag back 人 也 是 啦
+NI26FBP_0101 806338 809480 CS 他 会 很 厉害 讲 啦 可是 可能 会 吵架 啦 i feel
+NI26FBP_0101 809480 812970 CS 所以 我 觉得 今年 的 rec list 的 meeting 会 会 很 久
+NI26FBP_0101 812970 813935 ZH 因为 有 <unk>
+NI26FBP_0101 814350 817825 CS 哇 如果 我 sit in 我 应该 不 会 讲话 因为 很 scared intimidated by another <unk>
+NI26FBP_0101 819231 822581 CS 你 不会 很 怕 咩 每 次 nat 讲话 他 讲话 like gossip 而已 呃
+NI26FBP_0101 822581 824584 ZH 我 会 在 旁边 我 有 点 怕 我 就
+NI26FBP_0101 824584 828470 CS i don't dare to join the gossip 因为 他 intimi~ intimidating
+NI26FBP_0101 828470 833287 CS yah 所以 你们 在 and you go lah i think you can fight four people leh 你们 厉害 讲话 的
+NI26FBP_0101 836656 840380 CS 哎呀 我 觉得 是 可以 fight 的 嘞 你 要 找 东西 i think 每 个 人
+NI26FBP_0101 840777 841046 ZH 会
+NI26FBP_0101 841460 845130 CS in hall six hor you are forced to contribute 的 没有 办法 的 你 要 join subcom
+NI26FBP_0101 845304 848940 CS 所以 如果 你 真的 要 fight for someone 你是 可以 挖 东西 出来 讲
+NI26FBP_0101 848940 850874 EN you don't have to worry about nothing to fight for
+NI26FBP_0101 851449 853358 CS 所以 还 好 so i think
+NI26FBP_0101 854049 858870 CS 你 要 自己 去 做 research lah macam like go lawyer kick off case like that but yah lor
+NI26FBP_0101 858870 861010 CS 可以 的 you have to just go and try lor
+NI26FBP_0101 863905 864516 EN (er)
+NI26FBP_0101 866524 867886 EN for what hall six
+NI26FBP_0101 870403 874345 ZH 是 很 累 啊 我 去年 很 累 啊 你 不 觉得 我 去年 做 到 很 累 吗
+NI26FBP_0101 874345 876475 CS 整天 下 去 insing* 然后 听 他们 唱歌
+NI26FBP_0101 876475 880105 CS 唱 完 歌 like 有些 人 不 可以 下来 continue in my room like
+NI26FBP_0101 880105 881849 ZH 哈 不 好 玩
+NI26FBP_0101 882530 883630 CS okay lah 因为
+NI26FBP_0101 884144 889380 CS i think 是 friends 很 重要 the same clique 你看 actually caster 他们 他们 也 是 做 得 很 累 but
+NI26FBP_0101 889716 890577 EN they still stay on
+NI26FBP_0101 890577 892618 EN but okay lah for some of them
+NI26FBP_0101 893384 900531 CS it's i don't think it is a bad thing lah like li de they all they will be like more selfish 一点 they will go for exchange like they will think of themselves which i think is good
+NI26FBP_0101 900531 903524 EN i a bit regret i never think more of myself than <unk>
+NI26FBP_0101 903524 904343 EN go for exchange
+NI26FBP_0101 904343 907232 CS 在 看 完 我 照片 我 会 觉得 有 点 jealous yah but
+NI26FBP_0101 907232 909150 CS it's maybe 是 friends lor like
+NI26FBP_0101 909589 911171 CS 我 join sports 是 因为 shaz
+NI26FBP_0101 911611 912490 CS 是 因为 wing han
+NI26FBP_0101 912862 915107 CS 是 因为 wee lin year one 的 时候 还 有 weelin mah
+NI26FBP_0101 915522 917946 EN then ah go down and play together lor cause
+NI26FBP_0101 918663 927491 CS okay lah we are not very exactly very hardworking we won't stuck in the room 我 跟 wing han 是 哦 我 在 玩 game wing han 转 过 去 我 还 以为 她 是 很 乖 在 做 功课 转 过 去 她 在 玩 game
+NI26FBP_0101 927491 928981 CS okay can 不 用 紧
+NI26FBP_0101 928981 929892 ZH 所以
+NI26FBP_0101 930331 932154 CS then shaz 也 是 不 是 很 用功 的 啦
+NI26FBP_0101 932624 935653 CS although 她 比 我 用功 in econs uh then
+NI26FBP_0101 936078 940148 CS 就 这样 咯 cause sports 是 mainly 是 因为 shaz 他们 then cultural 是
+NI26FBP_0101 941310 945470 CS first year 我 join not willingly is actually 是 因为
+NI26FBP_0101 945790 949661 CS 我的 neighbour 是 serene i don't know whether you all know or not 她 现在 应该 是 没有 住 了
+NI26FBP_0101 949661 951903 CS 她 她 first year 是 in insing
+NI26FBP_0101 952351 956058 CS but 她 是 一个 比较 angmoh 派 的 人 then insing is very chinese what
+NI26FBP_0101 956058 957396 EN so they made her sing
+NI26FBP_0101 957396 959370 CS 唱 s. h. e. 的 歌 then
+NI26FBP_0101 959749 963350 CS 她 就 跟 我 讲 说 她 真的 不想 唱 她 真的 not capable of singing
+NI26FBP_0101 963846 964165 EN then
+NI26FBP_0101 964923 966241 CS like 她 讲 到 她 哭
+NI26FBP_0101 966705 971500 CS so i feel very bad like (er) 她 i i can also understand that year that insing manager 他
+NI26FBP_0101 971500 973850 CS 不 让 她 quit 的 main reason 是 因为 他 找 不 到 人 了
+NI26FBP_0101 974389 976903 CS so 他们 讲 on the phone 讲 frank 哭 then the insing manager
+NI26FBP_0101 976903 978532 CS 还是 一直 is that
+NI26FBP_0101 978883 980274 ZH 她 要 继续 唱 下 去
+NI26FBP_0101 980815 981515 EN yah
+NI26FBP_0101 982222 983130 EN so then i
+NI26FBP_0101 983130 985910 CS of course i got a bit angry lah then 我 就有 一点 生气 啦 like
+NI26FBP_0101 985910 987982 ZH 怎么 可以 这样 欺负 女生 女生 哭 了 你
+NI26FBP_0101 987982 989569 EN you still don't want let people quit then
+NI26FBP_0101 989569 993510 CS i said okay lor 如果 真的 找 不 到 人 我 去 帮 你 唱 咯 then you you
+NI26FBP_0101 993510 996120 CS at least i got sing chinese songs before what then 你 没有 这样 辛苦
+NI26FBP_0101 996645 999044 ZH 她 也 不用 在 我 面前 哭 啦
+NI26FBP_0101 999545 1001509 EN then yah that's how i join insing lah
+NI26FBP_0101 1001509 1005507 CS at first i will join 得 很 心 不 甘 情 不 愿 我 是 很 脸 臭 臭 地 join 的
+NI26FBP_0101 1005507 1008975 EN then i dont really like the insing manager initially but after that
+NI26FBP_0101 1008975 1011957 EN like i go for practice i start to get to know him better
+NI26FBP_0101 1012434 1015779 EN that time was mike ah then (er) after that okay lah then
+NI26FBP_0101 1015779 1017517 EN i got very close to the culture gang
+NI26FBP_0101 1017517 1021497 CS like alvin oh that's when i 认识 ah boon sui lee 他们
+NI26FBP_0101 1021888 1029363 CS yah so that's why we get close we 认识 ah boon swee lee fan benny alvin yen leng 他们 then we got very close then
+NI26FBP_0101 1030000 1032450 CS 差不多 almost alternate night 我们 就会 去 跑步 哇
+NI26FBP_0101 1032700 1034069 CS year one 是 最 fit 的 
+NI26FBP_0101 1034932 1038047 CS 可以 跑 around the school non-stop 现在 已经 不 可以 了
+NI26FBP_0101 1038047 1045293 CS yah but then 就 一 群 人 一起 跑 跑 完 了 然后 就 冲凉 冲 完 凉 去 吃 supper so don't know what we run for cause 跑 完 了 就 去 吃
+NI26FBP_0101 1045293 1047367 EN it's like so fattening
+NI26FBP_0101 1047367 1054484 CS and then 他们 吃 是 吃 蛮 多 的 the guys especially 他们 会 两 盘 一 盘 一 包 河粉 不 够 eh 那 时候 一 包 河粉 阿芳 还有
+NI26FBP_0101 1054484 1055488 EN yah
+NI26FBP_0101 1055488 1059984 CS it's very nice then 我们 没有 去 吃 然后 哦 一 包 河粉 呃 吃 不 饱 多 一盘
+NI26FBP_0101 1059984 1062400 CS then 没有 跑步 的 时候 我们 也 会 meet up 去 吃
+NI26FBP_0101 1062786 1073610 CS then we will just then after cultural end 因为 会 有 点 post mortem ah like like 就 会 cannot detach mah then 我们 还 是 会 continue running lah so from then was very bonded lor
+NI26FBP_0101 1073610 1076900 CS then it was then that swee lee decided that 他 会 take up cultural role
+NI26FBP_0101 1076900 1079820 CS then 我们 就 讲 okay swee lee take 我们 会
+NI26FBP_0101 1079820 1081905 CS support 他 我们 会 join 他的 com for him
+NI26FBP_0101 1081905 1085019 CS yah then 就 everyone join together lor that's how we cause
+NI26FBP_0101 1085019 1087025 EN it's still a cultural clique leh actually that's why
+NI26FBP_0101 1087425 1089433 EN it's not exactly passion it's more of the clique thing
+NI26FBP_0101 1090086 1096352 EN and the reason i joined was very stupid cause alvin i was in the room cause i was constantly in ah boon's room lah together with ah fan they all
+NI26FBP_0101 1096352 1098677 CS then 他们 就 discuss discuss 要 找 人 then 他们
+NI26FBP_0101 1098677 1100519 CS subcom 他们 在 interview 的 时候
+NI26FBP_0101 1100519 1101849 CS 我 在 嘛 then alvin 就 讲
+NI26FBP_0101 1101849 1104644 EN eh you want to be a. sports right (er) a.
+NI26FBP_0101 1104644 1112722 CS insing manager or not then i'm like ha 做 什么 的 他 讲 没有 啦 admin 这些 咯 包 头 包 尾 咯 then teaching 我 会 教 then oh okay but (er)
+NI26FBP_0101 1112722 1114385 ZH 我 是 真的 不 会 教 唱歌 他 讲
+NI26FBP_0101 1114385 1116280 CS okay don't worry i will be there 我 会 教
+NI26FBP_0101 1116714 1124150 CS then 她 不 见 掉 so yah whatever  气 死 我 了 in the end become become take on quite a big role lah for that but
+NI26FBP_0101 1124150 1127240 CS it's supposed to 做 admin only 然后 到 现在 我 还是 很 gek
+NI26FBP_0101 1127960 1131729 CS okay but it was quite fun lah it was a good experience especially 我们 那年 是 去 esplanade
+NI26FBP_0101 1144511 1148608 CS hall six ah oh 因为 我们 有 车 what like fan 有 车 what
+NI26FBP_0101 1149111 1156339 CS so 我们 not limited to hall two only 所以 很 lucky lah we will go hall fourteen then hall fifteen like jap and korean
+NI26FBP_0101 1157042 1157620 EN okay then
+NI26FBP_0101 1158561 1162921 CS mostly 我们 是 去 其他 hall 如果 if we never go 其他 hall 我们 会 去
+NI26FBP_0101 1163514 1166076 CS 以前 是 去 taman-jurong cause 那边 的 bak chor mee 出名 很 好 吃
+NI26FBP_0101 1166950 1168040 EN or we will go
+NI26FBP_0101 1168634 1171289 CS 我们 没有 什么 去 boon-lay market 我们 去 j. p.
+NI26FBP_0101 1171846 1173786 CS 去 extension 然后 去
+NI26FBP_0101 1174113 1174895 ZH 阿芳
+NI26FBP_0101 1175394 1181152 CS 阿芳 下午 啦 下午 有 去 几 次 啦 with ah boon 因为 阿 阿芳 actually 下午 它 有 鸡饭 very nice
+NI26FBP_0101 1181745 1184761 EN yah it's very very good very very nice you all should go and eat then
+NI26FBP_0101 1185135 1186119 EN ah-lian lor
+NI26FBP_0101 1187010 1188119 CS 还 好 啦 actually
+NI26FBP_0101 1188900 1193132 CS after 今年 比较 少 出去 了 cause 因为 max 不 在 了 嘛
+NI26FBP_0101 1194725 1197902 CS usually 出 去 是 我 凡 max ahb oon 四 个 人
+NI26FBP_0101 1198590 1202103 CS 要不然 就 是 他们 三 个 人 加 swee lee 加 永祥 他们 的
+NI26FBP_0101 1202556 1206850 CS band of brothers 他们的 bob whatever 没有 include 我 我 很 bitter
+NI26FBP_0101 1207317 1210050 CS yah 他们 就 会 自己 出 去 吃 咯 嗯 这样 okay lah
+NI26FBP_0101 1211272 1213740 CS yah lor yah lor year one 我觉得 我 出去 比较 多 year one
+NI26FBP_0101 1215005 1221830 CS ah 因为 有 benny benny 会 很 random 我 记得 那 时候 year one 我们 exam period 我们 真的 是 不 回 家 的 year one
+NI26FBP_0101 1221830 1223590 CS recess week 我们 也是 whole week 呆 在 学校
+NI26FBP_0101 1224061 1225732 CS don't know leh that's why 那 时候 我 很 感动 cause
+NI26FBP_0101 1225732 1228309 EN year one i am like the only freshie that will stay throughout
+NI26FBP_0101 1228778 1232234 CS 因为 malaysia 很 远 what then 我 要 做工 in the anderson
+NI26FBP_0101 1232687 1242283 CS 可是 他 因为 他们 有 在 what then 我 只要 下 去 二 楼 哦 我 还 没有 到 二 楼 我 在 楼梯 口 就 可以 听 到 benny 的 房间 那 个 音乐 啊 震阳 在 play bleeding love 超 大声 then i feel
+NI26FBP_0101 1242283 1244157 CS 哦 有 local 在
+NI26FBP_0101 1244157 1246673 CS then 我 就 会 进 他们 的 房间 然后 hang out 然后 they
+NI26FBP_0101 1246940 1249900 CS 然后 我们 就 randomly in the afternoon 读书 读 到 一半 study lor
+NI26FBP_0101 1249900 1255757 CS then benny 跟 震阳 just give up already 他们 已经 不 要 读 了 他们 就 okay let's go grocery shopping then 我们 就
+NI26FBP_0101 1255757 1258970 CS 坐 凡 的 车 all the way 去 sheng-shiong lah
+NI26FBP_0101 1258970 1261360 CS then 我 又 shop there for two hours 回来 不用 读书 了
+NI26FBP_0101 1261360 1262820 CS 回来 继续 玩 viwawa*
+NI26FBP_0101 1263725 1270630 CS  跟 珍尼 他们 我们 真 在 在 那 个 j. c. r. c. room 里 面 本来 是 study 的 真的 是 有 在 用功 study then max 进来
+NI26FBP_0101 1270630 1272820 CS 他 就 看 discovery channel 他 就 看 youtube
+NI26FBP_0101 1272890 1275780 CS 他 就会 distract a few of us 就是 过去 跟 他 一起 看
+NI26FBP_0101 1275780 1279371 CS after that the rest of us 就 sian 了 看 到 他们 在 玩 then 我们 也 是 去 玩 viwawa*
+NI26FBP_0101 1279780 1282364 CS four of us in the room four of us 一起 玩 viwawa* dai-di
+NI26FBP_0101 1283035 1288117 CS 没有 来 我们 真的 那 时候 that's why 我们 有 去 p. a. 每 次 只有 珍妮 managed to make it out of there
+NI26FBP_0101 1288416 1289963 EN with a very good score 
+NI26FBP_0101 1290916 1291541 ZH 嗯 所以
+NI26FBP_0101 1292213 1293871 ZH 啊 咯 还好 咯 还好 咯
+NI26FBP_0101 1298737 1299987 CS oh actually 已经 plan 好了
+NI26FBP_0101 1301581 1302269 ZH （呃）
+NI26FBP_0101 1302659 1306030 CS 我 有 跟 我 的 best friend 有 讲 他 要 去 europe
+NI26FBP_0101 1306419 1309577 CS then 我跟 wing han 应该 也 会 出 出 国 因为 今年 我们
+NI26FBP_0101 1310248 1315700 CS 今年 我们 (呃) for benny and huiying right 我们 已经 打算 去 langkawi which is not very far well
+NI26FBP_0101 1316110 1320550 CS okay for (er) 所以 after exam end immediately my last paper next day 我们 就 会去 langkawi
+NI26FBP_0101 1321237 1323064 CS 去 几 天 然后 回来 then for wing han
+NI26FBP_0101 1323563 1326188 CS it's also this holiday lah 我们 应该 会 去 hong-kong 也 是
+NI26FBP_0101 1327510 1331050 CS 然后 去 hong-kong 可能 meet shazana somewhere there lah 反 反正 他在 vietnam
+NI26FBP_0101 1331050 1335916 CS don't really care about her lah 因为 跟 她 在 一起 不 可以 吃 猪肉 要 找 她 halal food 很 辛苦 
+NI26FBP_0101 1336354 1338151 EN so we don't want to bring her to hong-kong 
+NI26FBP_0101 1338700 1340481 ZH 因为 没有 东西 给 她 吃 也 是
+NI26FBP_0101 1342074 1345233 CS grad trip 会 去 啦 因为 shaz wee lin 他们 有 讲 要 去 嘛
+NI26FBP_0101 1345889 1346421 ZH 所以
+NI26FBP_0101 1346751 1349547 CS 是 要 看 要 去 哪里 咯 我 是 蛮 想 去 europe 的 那 个
+NI26FBP_0101 1349906 1352165 CS sinking city 那 些 咯 去 看 那 些
+NI26FBP_0101 1352165 1357367 CS 要 不见 掉 我 不 知道 很 怕 by the time 我 存 够 钱 去 哦 已经 不在 了 then i will be very sad
+NI26FBP_0101 1357742 1360699 CS i need to at least go there once and take the photos then 以后 show 我的 女儿
+NI26FBP_0101 1361059 1363043 EN this is they city before it sank 
+NI26FBP_0101 1364527 1365715 CS 所以 i i will go lah
+NI26FBP_0101 1365964 1368780 EN i think it's very important some somemore now i never go for any exchange
+NI26FBP_0101 1368780 1371498 CS i think i am missing out a lot of stuff lah 一直 做 hall six 的 东西
+NI26FBP_0101 1371984 1374109 CS 我 是 应该 去 玩 一下 啦 like
+NI26FBP_0101 1374480 1381720 CS resume 也 是 比较 美 嘛 如果说 oh 我 去 europe intern 过 wah like very zai like that oh 我 去 europe 读 过 书 then
+NI26FBP_0101 1383047 1385329 CS it will widen your view lah and 你 会
+NI26FBP_0101 1385828 1387437 EN interact with more people i think it's definitely
+NI26FBP_0101 1387850 1390602 CS 对 你 自己 本身 的 development 会比较 好 也是 啦
+NI26FBP_0101 1392126 1394922 CS definitely i think you all should go too eh 去 exchange
+NI26FBP_0101 1395751 1397485 CS yah 要不然 太 迟 了 就
+NI26FBP_0101 1397844 1399360 CS 你 就 真的 是 会 regret
+NI26FBP_0101 1399360 1400850 CS year three 你 不是 n. b. s. 哦
+NI26FBP_0101 1401450 1403836 CS orh then okay lah the 你 还有 year three sem two 可以 去
+NI26FBP_0101 1404273 1408396 CS 我 已经 没有 了 我 已经 在 year three sem two 了 
+NI26FBP_0101 1416491 1417491 EN you mean in hall six ah
+NI26FBP_0101 1418274 1420773 CS hall six ah four years 我 想 做 actually
+NI26FBP_0101 1422623 1423858 CS 我 想 join jam band
+NI26FBP_0101 1424810 1428607 CS 我 真的 蛮 想 join jam band 的 可是 although 我 真的 没有 talent
+NI26FBP_0101 1428935 1432960 CS but 我 是 真的 很 想 join jam band i think it's very cool leh imagine like
+NI26FBP_0101 1432960 1439784 CS 因为 我们 的 jam band all the year 都 是 boys only 做 么 一个 女 的 都 没有 呃 then 去年 本来 vanessa 他们 不是 要 start 一个 female girl band
+NI26FBP_0101 1440310 1442630 CS too bad 没有 go through lah 我 是 蛮 想 join jam band
+NI26FBP_0101 1443036 1444304 EN and then also dance ah
+NI26FBP_0101 1444600 1447340 CS 去年 got try i went for 一个 session 一个 session
+NI26FBP_0101 1447714 1447875 EN but
+NI26FBP_0101 1448531 1456419 CS 对 in intimidated 我 怕 到 我 不 敢 动 我 真的 是 不 敢 跳 哦 那 个 是 kok nan 男生 是 different 我 是 在 想 it's like real hip-hop 跟 ah boon 学 的
+NI26FBP_0101 1456419 1459012 CS ah boon 跳 真的 很 酷 很 厉害
+NI26FBP_0101 1459250 1461272 CS 我 year one 真的是 mesmerized by it 我 就
+NI26FBP_0101 1461650 1465124 CS 哇 那个 是谁 hall six 也 是 有 这样 很 厉害 跳舞 的 人 then
+NI26FBP_0101 1465734 1466765 EN yah that was when i
+NI26FBP_0101 1466765 1468016 CS 蛮 想 join lah but
+NI26FBP_0101 1469040 1471890 CS 过 不了 自己 那 一 关 i cannot cross my mental barrier lah like
+NI26FBP_0101 1471890 1474248 CS 真的 是 不 敢 在 hall six 面前 在 那边
+NI26FBP_0101 1474560 1478170 CS show that 我有 多么 noob 很 <unk> 所以 我 就 不敢 跳
+NI26FBP_0101 1478545 1481560 CS but 明年 last year 我 最 想 做 还 有 什么
+NI26FBP_0101 1482260 1485580 CS okay 啦 我 今年 已 经 做 了 很多 stupid things lah like join track thats that is the
+NI26FBP_0101 1485580 1487175 CS one of the 最 stupid 的 东西
+NI26FBP_0101 1487175 1489421 CS 完全 不 会 跑 去 join track 然后 被 sabo
+NI26FBP_0101 1489859 1491328 CS 真的 是 很 suay
+NI26FBP_0101 1491781 1493703 ZH 所以 还 有 什么 没有 做 过
+NI26FBP_0101 1494780 1496389 CS hexis 我 已经 演 了 actually
+NI26FBP_0101 1497327 1499654 CS 我 本来 想 year four 做 producer 的
+NI26FBP_0101 1500590 1503160 CS but 很 stupid right 我是 觉得 yah
+NI26FBP_0101 1505069 1513832 CS but 很难 啦 因为 今 年 本来 是 打算 会 join 的 我们 是 讲 说 like mm 已经 想 好 了 like benny 可以 做 我 的 scriptwrite
+NI26FBP_0101 1513832 1524048 CS then 凡 可以 做 我的 co-pro benson actually like benny 那 个 clique 如果 他们 是 subcom member 的 话 他们 是 head 的 话 他们 也 是 一个 很 strong 的 team
+NI26FBP_0101 1524390 1528210 CS yah but the thing is 因为 他们 year three ah 他们 讲 why like
+NI26FBP_0101 1528210 1533102 CS don't make sense for them to do also lah like 他们 都 要 graduate 了 like 不要 浪费 那 个 位
+NI26FBP_0101 1533523 1535414 CS then hui ying 也 可以 做 一 个 very good biz mag then
+NI26FBP_0101 1535820 1541173 CS after that 我们 又 change if 凡 run for president benson run for vice president i will run for producer
+NI26FBP_0101 1541173 1561337 CS but well 我们 也 是 没有 做 到 啊 所以 就 没有 做 啊 and i think it's a good choice lah cause after all 我 上 一个 sem 有 minor mah it took up a lot of my time that's why partly that's the reason why 我 没有 这样 do a lot for softball i feel 我 已经 没有 做 好 softball 了 imagine if i producer 我 觉得 it will be an even bigger letdown lah
+NI26FBP_0101 1561337 1572259 CS that's how i feel lah that's why 我 没有 做 and then 就 只 剩 明年 啦 but 明年 没有 人 可以 帮 我 做 啦 我 的 sub 我 的 friends 全部 不 在 了 你 不 可能 叫 shanzana 做 那个 head 的 我 会 被 她 气 死 的 不 可以
+NI26FBP_0101 1572259 1582409 CS 她 呃 she not exactly very into the theater head thing lah 所以 很 难 咯 明年 yah lor 所以 已经 没有 chance 了 我 觉得 可能 做 不 了
+NI26FBP_0101 1582955 1590368 CS but i will 我 还是 会 help out in hexis 的 我 已经 做 三年 的 hexis 了 嘞 culture 都 没有 做 这样 久 嘞 别人 以为 我 是 cultural but actually 我 是
+NI26FBP_0101 1590368 1598425 CS hexis girl 有 没有 lights and sound for 两年 今年 又 act actually 我 不懂 为什么 今年 有 act lor it's very stupid 因为 act 没有 subcom point
+NI26FBP_0101 1599972 1603769 CS actors actors 是 没有 subcom point 的 it's just as special commitment
+NI26FBP_0101 1604269 1610239 CS then 还 要 做 canvassing 有 没有 没有 points 还 要 做 canvassing okay 不 用 紧 因为 那 是 for our costume so okay never mind
+NI26FBP_0101 1610707 1616634 EN so yah but i don't know why i go and act cause i am not exactly a very good actor in my school lah imagine if i invite my friends down
+NI26FBP_0101 1617644 1626333 CS 我 year one invite 他们 下 来 then 他们 鸟 到 死 因为 我 只是 在 关 curtain 而已 他们 讲 你 又 没有 演 然后 standard 又 这样 低 you ask her to come down 就 是 被 他们 骂 到 很 惨
+NI26FBP_0101 1626333 1637650 ZH 所以 今年 我 有 演 我 都 不懂 要 不 要 叫 他们 下 来 我 这边 还 有 三 张 票 还 没有 卖 出 去 我 买 三 张 我 不 敢 买 太 多 因为 我 怕 等 下 他们 没有 空 或者 是 他们 不要 下来 会 死 所以 买 三 张
+NI26FBP_0101 1637650 1639920 CS 三 张 可能 我 就会 选 啦 两个 close 的 来
+NI26FBP_0101 1642240 1643082 CS benny 他
+NI26FBP_0101 1643082 1645582 ZH 哪里 会 去 他们 又 不 怎么 认识 谁
+NI26FBP_0101 1646191 1647787 CS and some more your 你们 的
+NI26FBP_0101 1648353 1652210 CS 你们 的 night 都 sold out ah your <unk> 也是 more or less sold out already 我 觉得
+NI26FBP_0101 1652615 1653662 EN so don't really need them what
+NI26FBP_0101 1655429 1656366 ZH 下午 还 没有 满 咩
+NI26FBP_0101 1657071 1658024 ZH 下午 差 很 多 啊
+NI26FBP_0101 1659100 1660730 CS 五十 half the theater okay what
+NI26FBP_0101 1660730 1662042 EN <unk> is
+NI26FBP_0101 1662461 1665017 CS standard 的 你们 find alternative show you have to expect that one
+NI26FBP_0101 1665664 1671789 CS mathony* is 不是 会 很 多 人 去 的 confirm but 你们 放 在 door 的 话 可能 会 有 (erm)
+NI26FBP_0101 1672687 1675877 CS public 的 人 会 随便 走 进来 like 一 两 个啦 有 时候 会 的
+NI26FBP_0101 1676592 1678753 EN (er) national library i am not very sure lah
+NI26FBP_0101 1679469 1682890 CS but 我 知道 以前 arts house 那 种 <unk> 有 下 去 perform ah
+NI26FBP_0101 1682890 1685780 CS then 你 放在 door 会 有人 randomly 进来
+NI26FBP_0101 1685780 1693050 CS then 你们 在 可能 rehearsal 到 一半 不懂 会 会 有 人 randomly 有 人 进来 don't know why then 它 就 会 at the end 我们 会
+NI26FBP_0101 1693050 1696090 CS 我 的 instructor 是 such that every after every rehearsal 我们 会
+NI26FBP_0101 1696310 1700790 CS sit down then everyone give feedback one and 是 给 serious feedback then 我的 instructor 会 讲
+NI26FBP_0101 1701387 1709721 CS 然后 就 randomly 有 一 个 男 的 开始 讲话 then 我们 就 at first 我们 以为 是 alumni mah for 我们 学生 因为 有 很 多 不 认识 的 连 我 也 哦 alumni 下来 讲话 okay 听 听 听
+NI26FBP_0101 1709721 1716510 CS then after that like after the whole rehearsal at the end of the whole performance then 我的 instructor 就问 who was that guy that time ah 
+NI26FBP_0101 1716510 1720100 CS suddenly walk in and then give comment 我也 不懂 他是 谁 来 的 then we will
+NI26FBP_0101 1720310 1723200 CS huh 不是 alumni ah orh okay yah 所以
+NI26FBP_0101 1723200 1726833 CS 是 会 有 这种 random 人 他们 进来 的 but national library 可能 会
+NI26FBP_0101 1727340 1730060 CS 比较 少 因为 national library
+NI26FBP_0101 1730060 1730663 EN (erm)
+NI26FBP_0101 1731510 1733100 EN it's not exactly a very
+NI26FBP_0101 1733100 1736030 CS is the theatre is 真的 是 theatre 来 的 but
+NI26FBP_0101 1736550 1741210 CS 他是 main function as a library lah 我 不懂 会 不会 很多 人 去 那边 看 performance 因为 他 只有 一个 room 而已 嘛
+NI26FBP_0101 1742113 1746420 CS 所以 就 是 说 那天 的 performance 就 是 人家 下 去 看 performance 只是 看 一个 的
+NI26FBP_0101 1746420 1748820 CS but for 其他 的 place like arts house (erm)
+NI26FBP_0101 1748980 1751010 CS (er) vic (er) raffles 那边
+NI26FBP_0101 1751120 1753080 CS 他们 都 是 有 很 多 个 room
+NI26FBP_0101 1753470 1762678 CS 所以 别人 can 下去 看 其他 performance 或者 是 下 去 参观 参观 它 gallery 然后 顺便 经过 然后 就 go in mainly 是 angmoh 会 这样 做 嗯 所以
+NI26FBP_0101 1763405 1767741 CS okay lah 我 觉得 arts house (er) 没有 black box 的 capacity 是 百 二 是吗 还
+NI26FBP_0101 1768125 1771074 CS 百 二 你们 fill 到 差不多 八十 我 就 觉得 够 了
+NI26FBP_0101 1772090 1774950 CS 因为 first few rows mah 最多 上面 没有 咯 but
+NI26FBP_0101 1774950 1776437 ZH 看 不 到 所以 还好
+NI26FBP_0101 1778112 1779852 EN three quarter full is quite a lot i feel lah
+NI26FBP_0101 1780566 1785180 CS 所以 不 用 想 太 多 啦 i think 今年 真的 是 做 得 很好 i feel lah 我 真的 觉得
+NI26FBP_0101 1785180 1790980 CS at least can see that more committed 可惜 的 就是 hall six 没有 这样 recognised
+NI26FBP_0101 1791060 1796620 CS hexis 的 effort 的 啦 很难 rec back 因为 hall six after all 还是 一个 sports hall
+NI26FBP_0101 1796620 1801204 CS 我 有 跟 ming xiu 讲 what like even 他 put in so much effort
+NI26FBP_0101 1801760 1807830 CS like 他 有 跟我 complain like 说 没有 complain lah 跟我 讲 啦 like she very 可能 有点 sad lah that
+NI26FBP_0101 1807890 1810230 CS cheerleading take up a lot of time then 他 很多
+NI26FBP_0101 1810438 1816728 CS 很多 of our actors is in cheerleading then 她 觉得 明年 应该 share 不 应该 全部 给 cheerleading but 我 跟 她 讲 很 难 因为
+NI26FBP_0101 1817450 1821440 CS 你 看 今年 是 因为 呃 y. o. g. everything push forward then
+NI26FBP_0101 1821440 1825957 CS 你 不 用 跟 sports 抢 but 明年 是 imagine 你 不 只要 跟 cheerleading 抢 还 要 跟 sports 抢
+NI26FBP_0101 1826429 1829342 CS 因为 去年 前 几 年 都 是 sports 跟 cheerleading 抢
+NI26FBP_0101 1829920 1833890 CS so hexis 是 抢 不到 的 啦 我是 本身 我是 觉得 啦 especially when
+NI26FBP_0101 1834215 1838349 EN mainly of the all the residents are all halls came here to play sports
+NI26FBP_0101 1838886 1839581 ZH 他们
+NI26FBP_0101 1840134 1841470 EN acting is just a side thing
+NI26FBP_0101 1841470 1843240 CS 可能 有些 会 真的 很 passionate
+NI26FBP_0101 1843880 1846520 CS but 他们 的 focus 应该 还是 在 sports 的
+NI26FBP_0101 1847005 1848830 ZH 所以 很 难 咯 很 难 拉 人 过去
+NI26FBP_0101 1848830 1852680 CS unless 你 要 找 那 种 not very active 的 啦 ah-tiong 还是 那 种 very quiet 的 locals
+NI26FBP_0101 1852860 1857340 CS which is for sure 明年 rec 不回 来 then 你 没有 人 to continue 你的 hexis 也是
+NI26FBP_0101 1858184 1860824 ZH 所以 很 难 咯 我 真的 觉得 可惜 是 可惜 在 这里 啦
+NI26FBP_0101 1861700 1866137 CS then some more 我 觉得 你们 要 尽量 try to pull ming xiu eh 回来 他 真的 做 很 多 for 这个
+NI26FBP_0101 1866580 1869810 CS but 真的 这 种 background work 是 外面 的 人 看 不 到 的
+NI26FBP_0101 1870080 1873100 CS 只有 producer 你们 的 head 可以 去 fight for it
+NI26FBP_0101 1873100 1875350 CS 你们 不 fight 没有 人 可以 fight for 他 了
+NI26FBP_0101 1875350 1879730 CS 他 真的是 devote all her time to hexis and nothing else 她 没有 做 其他 的 东西
+NI26FBP_0101 1881230 1882780 CS track 她 没有 花 很 多 时间
+NI26FBP_0101 1882780 1885260 CS 而且 你看 track 我们 是 go by the number of sports
+NI26FBP_0101 1885947 1891210 CS 所以 她 只是 join track softball 我 也 是 不 可以 给 她 分 因为 她 真的 没有 下 来 她 没有 了 她 只有 一 个 track
+NI26FBP_0101 1891726 1895725 CS let's say 她 真的 而且 我 觉得 她 拿 不 到 五 分 吧 可能
+NI26FBP_0101 1896115 1897880 CS if let's say ah 很
+NI26FBP_0101 1898130 1899760 CS okay let say if 他 真的 拿 到 五分
+NI26FBP_0101 1899760 1901119 CS 他 只是 只有 一 个 track
+NI26FBP_0101 1901119 1904462 CS 她 拿 不 到 colours 她 可能 merit 都 拿 不到
+NI26FBP_0101 1905090 1906558 CS then nat 是 不 会 rag 她 回来 的
+NI26FBP_0101 1907370 1908027 ZH 对不对
+NI26FBP_0101 1909014 1916548 CS and then some more shazana 不 在 她 去 vietnam 她 不 会 一直 去 鸟 nat 讲说 i need i need this runner i need this runner 所以 nat 应该 不会 管
+NI26FBP_0101 1916548 1920529 CS and then ned 手 上 太 多 player to rec what ming xiu wouldn't be the one that she rec
+NI26FBP_0101 1921014 1927050 CS 所以 就 是 正式 看 hexis 这样 啦 你们 要 真的 要 跟 hall six 讲 她 真的 put in a lot of effort how you all show 你 就 讲 说
+NI26FBP_0101 1927050 1931450 CS oh so many people come down look at the standard all that its all because of ming xiu ming xiu 一个人 做 这个 做 那 个
+NI26FBP_0101 1931450 1937355 CS you all have to 真的 every thing 小 小 的 东西 都 要 挖 出来 tell the rec com oh ming xiu did this
+NI26FBP_0101 1937859 1939046 EN so we have to keep her
+NI26FBP_0101 1939563 1947920 CS then not only that now you tell oh ming xiu she is the one that oh is not like 她 去年 做 的 this year she won't continue she is someone who will still be there next year for hall six
+NI26FBP_0101 1947920 1949640 CS 要 convince 他们 咯 一直 fight lor
+NI26FBP_0101 1950658 1956704 CS okay lah but i think 可能 小风 会 帮 你们 啦 所以 就 是 看 你们 自己 也 要 是 努力 的 咯
+NI26FBP_0101 1964010 1969590 CS chop ah eh 我 蛮 担心 的 嘞 我 真的 我 觉得 hor like my g. p. a. so cui cause of hall six lah aiyo
+NI26FBP_0101 1969997 1974277 CS 哦 我 真的 怕 我 等 下 没有 工作 做 eh i thinking but okay lah 现在 我 是 想
+NI26FBP_0101 1975339 1978481 CS 我 可能 会 go into teaching lor if really i cannot find a job cause
+NI26FBP_0101 1978930 1981830 CS its not because 没有 job 才 去 做 teaching lah but because
+NI26FBP_0101 1982237 1989090 EN i would like to teach lah i feel that i okay with teaching and then partly is because i feel the j. c. the econs
+NI26FBP_0101 1989090 1991760 CS j. c. 的 econs teachers are okay but uni 的 econs teachers
+NI26FBP_0101 1991760 1993296 EN for n. t. u. are really
+NI26FBP_0101 1993296 1994640 EN 
+NI26FBP_0101 1994640 1995843 CS 我 的 econs teacher hear this
+NI26FBP_0101 1995843 1997968 CS okay but 他们 就 是 not very good lah
+NI26FBP_0101 1998787 2002480 CS but then 如果 我 要 做 professor 的话 我 可能 还 要 读 多 十 年 所以
+NI26FBP_0101 2002480 2005770 CS yah that's another case but 我 应该 会
+NI26FBP_0101 2005770 2009584 CS 我 蛮 想 teach maths 这 些 的 啦 所以 有 可 能 我 会 去 教 j. c.
+NI26FBP_0101 2010020 2013300 CS but i heard that 要 从 secondary school start off 先
+NI26FBP_0101 2013861 2014504 CS so 要
+NI26FBP_0101 2015067 2016114 ZH 可能 看 先 咯
+NI26FBP_0101 2017082 2018035 CS actually 我 也 是
+NI26FBP_0101 2019023 2022318 CS 很 dilemma leh like 真的 不懂 要不要 进去 因为
+NI26FBP_0101 2023334 2025786 EN teaching is not exactly a very good working experience what
+NI26FBP_0101 2025786 2031379 CS 如果 说 我 做 到 一半 then 我 不 想 做 下去 hor 我 是 要 从 头 开始 like 重新 找 工作
+NI26FBP_0101 2032006 2039445 CS okay lah 我 也 没有 这样 惨 我 觉得 不会 这样 辛苦 的 啦 找 得 到 工作 的 啦 it's just that 看 我 是不是 真的 想 要 做 我 不 想 做 完 了 then
+NI26FBP_0101 2040336 2047290 CS 又 在 那边 后悔 哦 呃 我 没有 做 这 个 没 有 做 那 个 k. lah but the good thing about teaching is that you have a lot of school holidays
+NI26FBP_0101 2048040 2052530 CS yah then 我 就 会 and then 我 的 working hours 也 是 school time 的 so i can sleep a lot also
+NI26FBP_0101 2052530 2055921 EN like what i am doing i can still lead the lifestyle that i am leading which is quite cool lah
+NI26FBP_0101 2056719 2061564 EN bad thing is i have to come back to hall six for another year  i cannot graduate
+NI26FBP_0101 2061564 2066629 CS yah i still have to go m. o. e.  然后 再 玩 多 一 年
+NI26FBP_0101 2066990 2068678 EN (er) so yah
+NI26FBP_0101 2076099 2077739 EN actually i don't celebrate christmas one leh
+NI26FBP_0101 2078836 2080351 CS new year 有 new year
+NI26FBP_0101 2081020 2082801 CS 还 好 啦 i will be at home lah (erm)
+NI26FBP_0101 2083394 2085956 CS depends whether i got go and meet my relatives or not 因为
+NI26FBP_0101 2088373 2090440 CS 没有 啦 我 跟 actually 我 跟 benny 他们
+NI26FBP_0101 2090440 2095280 CS 算 close but not in inside their clique 因为 他们 的 clique 是 他们 year one 的 f. o. c. clique
+NI26FBP_0101 2095280 2096087 EN jaina's clique
+NI26FBP_0101 2096512 2100692 CS then 我没有在嘛 then 我 year one 是 跟 some more 我 year one 是 跟 edwin 他们 混 的
+NI26FBP_0101 2100692 2104420 CS edwen edwin timothy yi ling 他们 then
+NI26FBP_0101 2105082 2113051 CS (er) after that 就 散 掉 了 then 我 才 join benny 他们 所以 也 不 是 有 close 可是 也 不 是 close 到 很 close 的 那种 所以 我 没有 meet 他们
+NI26FBP_0101 2113502 2114964 CS and then partly 也 是 因为
+NI26FBP_0101 2115842 2118842 CS actually 我 很多 of the festive season 我 都 是 在 家 里 过 的
+NI26FBP_0101 2119581 2122290 CS 啊 真的 like my birthday christmas
+NI26FBP_0101 2122290 2124660 CS oh partly 是 我 妈妈 christmas eve 生日
+NI26FBP_0101 2124660 2126590 CS that's why 我 会 在 家
+NI26FBP_0101 2126590 2129360 CS 所以 我会 在家 for for that night to celebrate her birthday
+NI26FBP_0101 2129640 2130627 EN then the next day
+NI26FBP_0101 2131410 2134163 CS 可能 会 celebrate lah but my friend 也 是 不 是 很 celebrate
+NI26FBP_0101 2134720 2137210 CS then new year 就是 看 我 有没有 回 印尼
+NI26FBP_0101 2137210 2138600 CS cause my relatives are all in 印尼
+NI26FBP_0101 2138857 2140345 CS oh my father's side 的 在 新加坡
+NI26FBP_0101 2141180 2143650 CS father side i not very keen lah cause 我 不 跟 他们 不是 很 熟
+NI26FBP_0101 2143966 2144175 EN then
+NI26FBP_0101 2144718 2147132 ZH 有 一 年 我 记得 去 那 边 是 给 我 的 大伯 骂 因为
+NI26FBP_0101 2147132 2149983 CS politics ah 我 的 那 时候 我 跟 我 的
+NI26FBP_0101 2150442 2155136 CS 我 爸爸 的 公司 我 在 我 爸爸 的 公司 做 工 then 我 的 四 三 伯 在 那边 做工 也 是
+NI26FBP_0101 2155769 2156165 EN but
+NI26FBP_0101 2156714 2157835 EN he's not very capable
+NI26FBP_0101 2158488 2161347 CS 可是 他 又 很 厉害 讲 他 就 一直 在 讲 我 爸爸 的 坏话 when
+NI26FBP_0101 2161347 2162940 CS my 爸爸 is the one who gave him the job
+NI26FBP_0101 2163454 2164100 EN then he like
+NI26FBP_0101 2164100 2167230 CS keep like trying to 抢 我 爸爸 的 位子 like that like trying to
+NI26FBP_0101 2167690 2173093 EN talk to the workers and then try to pull them to their side and then talk to my mom some more leh to pull my mom to his side
+NI26FBP_0101 2173474 2179229 CS then my mom is like so stupid 你 以为 我 不 知道 咩 他 把 我 拉 过 去 把 我 爸爸 踢 掉 so 就 把 我 踢 掉 我 哪里 有 这样 笨 
+NI26FBP_0101 2179598 2182404 CS so 很 political then 他 can sense that 我 对 他 也 不 是 很
+NI26FBP_0101 2182760 2184905 CS 不 喜 不 怎么 喜欢 他 then 他 有 跟 我 大伯 complain
+NI26FBP_0101 2185372 2187232 ZH 我 大伯 新年 抓 我 去 骂
+NI26FBP_0101 2187604 2192866 CS 你 哦 要 尊敬 你 的 长辈 什么 一 大 堆 什么 我 听 你 做 工 的 时候 什么 一 大 堆 then 我 就
+NI26FBP_0101 2193320 2196560 CS 哈 新年 的 时候 挖 这 种 东西 来 害 我 被 骂 so
+NI26FBP_0101 2197290 2203790 CS 那 就 不 怎么 喜欢 去 meet 我 father's side 的 人 啦 so mostly i'm looking forward to go to 印尼 to 拜年 拿 红包 yah
+NI26FBP_0101 2204757 2207221 CS yah so that's how i 过 my new year lah then
+NI26FBP_0101 2207752 2209986 CS christmas 是 真的 没有 过 咯 cause
+NI26FBP_0101 2211020 2213669 CS eh i think 我的 friendship all my friends all malfunctional 的
+NI26FBP_0101 2214140 2217550 CS 真的 like 我 跟我 的 best friend oh 我们 可以 一 整年 都 不要 meet 的 嘞
+NI26FBP_0101 2218103 2221160 CS 我 跟 你 讲 我 认识 我的 best friend since primary school right
+NI26FBP_0101 2221160 2223588 ZH 我们 一起 哦 只 看 过 一 场 电影 过 eh
+NI26FBP_0101 2224919 2229901 CS 啊 我们 只 一起 看 过 一 场 电影 you know one single movie only eh and that one is
+NI26FBP_0101 2231219 2236350 CS ah two movies one is on my birthday one is (er) 我们 那 时候 有 go for
+NI26FBP_0101 2236350 2239380 CS 我们 secondary school 有 go for 那 种 china exchange
+NI26FBP_0101 2239380 2240889 EN then both of us signed up
+NI26FBP_0101 2241678 2249337 CS then then 那 时候 interview 我们 直接 跟 老师 讲 oh if 雪 儿 never got through i don't want to join then she also said if chinni i also don't want to join 你 不 用 这样 不 用 考虑 了 then
+NI26FBP_0101 2249787 2252050 CS 老师 like 哈 你们 两 个 在 做 么
+NI26FBP_0101 2252050 2253760 CS so die die 要 两个 一起 选 啊
+NI26FBP_0101 2253760 2260262 CS then but in the end we both got through lah 然后 我们 就 带 chinese 的 china 的 student 过来 我 带 他们 去 看 电影
+NI26FBP_0101 2260262 2262103 EN so that is our second movie together
+NI26FBP_0101 2263420 2265680 CS so 我们 真的是 malfunctional friendship 我们 真的 是
+NI26FBP_0101 2266102 2267350 ZH 没有 什么 出去
+NI26FBP_0101 2267350 2268830 CS 我们 可以 一 整年 不要 meet up
+NI26FBP_0101 2269408 2270294 CS yah lor 就 是 讲 咯
+NI26FBP_0101 2270920 2273510 CS actually 我们的 secondary school clique 是 四 个 人
+NI26FBP_0101 2273510 2274874 CS 现在 一 个 在 princeton
+NI26FBP_0101 2276050 2279220 CS then 剩下 三个 人 我们 在 local 的 也是 没有 真的 是 没有 什么 meet up
+NI26FBP_0101 2279220 2280846 CS 偶尔会在 facebook 找 each other
+NI26FBP_0101 2281120 2282560 CS s. m. s. 也是 没有 reply 的
+NI26FBP_0101 2282560 2288596 CS standard 的 我们 是 真的 是 不懂 在 做 什么 啦 我们 的 friendship mm 而且 也 是 没有 什么 常 打 电话
+NI26FBP_0101 2289220 2291800 CS so yah but we are still very close lah 在一起 我们 真的 是 可以
+NI26FBP_0101 2292373 2294180 CS 一 开始 like maybe 半年 没有 见面
+NI26FBP_0101 2294635 2296576 CS or 一年 没有 见面 我们 meet up 的 话
+NI26FBP_0101 2296576 2298130 ZH 真的 是 不 用 回家 了
+NI26FBP_0101 2298470 2300222 ZH 那 那 天 晚上 是 不 用 回家 了 我们 可以 坐 在 那 边
+NI26FBP_0101 2300222 2303161 CS 在 一 个 cafe 讲 讲 讲 讲 讲 讲 到 他们 关 门 了
+NI26FBP_0101 2303453 2305504 CS 关 门 了 lights out that kind of thing yah
+NI26FBP_0101 2306170 2309470 CS then i will at the side fall asleep cause usually 是 他们 讲话 我在 旁边 听
+NI26FBP_0101 2309470 2312950 CS  他们 就 chin ting can you stay in the conversation
+NI26FBP_0101 2313315 2315259 CS cause 以前 我们 是 五 个 人 嘛
+NI26FBP_0101 2315833 2318140 CS 五 个 人 的 girls then 他们 两 个 人 like
+NI26FBP_0101 2318140 2320490 CS one of my friends 他 会 一直 粘 我 另外 一个 friend
+NI26FBP_0101 2320490 2321625 CS then 她们 两 个 会 走 在 前面
+NI26FBP_0101 2321625 2324999 CS then 我 另外 一 个 两 个 friend 她们 两 个 讲 的 conversation 是 我 插 不 进 去 的
+NI26FBP_0101 2324999 2331732 CS 她 会 讲 我 以后 要 做 什么 career 她 会 想 很 多 的 然后 就 你们 想 很 远 我 的 life 还在 secondary school
+NI26FBP_0101 2331732 2336297 CS then 我 就 一 个 人 在 后面 走 then 有 时候 会 自己 wander off 她们 会 chin ting 不 见 了
+NI26FBP_0101 2337084 2340120 CS yah so 她们 就 她们 就 很 conscious 的 他们 出去 他们 会
+NI26FBP_0101 2340310 2343290 CS check that i'm always there 要不然 我会 自己 wander off
+NI26FBP_0101 2343776 2344897 EN yah so okay lah
+NI26FBP_0101 2348482 2352178 CS eh (erm) 讲 到 这 个 会 让 我 觉得 我 很 笨 okay
+NI26FBP_0101 2353284 2357194 CS actually 我 actually 我 我 sign right 我 我 我 只 apply for
+NI26FBP_0101 2358023 2359941 CS (er) n. b. s. 的 business
+NI26FBP_0101 2360572 2362046 CS n. t. u. 的 business 两 个 而已
+NI26FBP_0101 2364847 2367254 CS 呃 n. u. s. 的 business 跟 n. t. u. 的 business
+NI26FBP_0101 2367753 2371340 CS 所以 like 不 是 要 fill in six 我 只 fill in two then 我 就 这样 submit
+NI26FBP_0101 2371340 2374410 CS then first round of course 没有 get lah cause 我 那 年 真的 很 competitive
+NI26FBP_0101 2374410 2375558 EN then
+NI26FBP_0101 2376038 2382173 CS after that 我 friend 就 chin ting 你 不 要 再 玩 don't play with your life anymore please put in your that one (er) 你 appeal can you appeal for something like
+NI26FBP_0101 2382173 2385600 CS easier to get in in case lah just in case all my friends very worried for me then 我 就
+NI26FBP_0101 2386052 2387526 CS okay lor then 我 apply for
+NI26FBP_0101 2388310 2390760 CS n. b. s. (er) n. u. s. 的 business
+NI26FBP_0101 2391275 2394453 CS then 我 apply for n. t. u. 的 econs cause i thought that econs is still under n. b. s.
+NI26FBP_0101 2395122 2397146 EN then i thought that it's still gonna be a three years course
+NI26FBP_0101 2397594 2401248 CS that's the main reason why i want to take econs cause it's three years i want to 快 快 clear 快 快 zao
+NI26FBP_0101 2401859 2402789 EN then in the end (er)
+NI26FBP_0101 2403397 2409320 CS n. t. u. 的 信 先 来 嘛 then 我 就 of course take n. t. u. 了嘛 已经 不 再 去 想 不 要 再 去 等 n. n. n. u. s. 了
+NI26FBP_0101 2409320 2412330 CS then in the end 我 进来 了 之后 我 matriculated 了 之后
+NI26FBP_0101 2412330 2414461 CS 我 才 发现 n. t. u. 的 econs 是 四 年 的
+NI26FBP_0101 2416358 2417490 EN okay yah so
+NI26FBP_0101 2417490 2419570 CS 我 真的 真的 很 stunned leh 我 自己 很 stunned 我 就
+NI26FBP_0101 2419700 2422280 CS huh n. t. u. 的 econs 不是 under n. b. s. meh
+NI26FBP_0101 2422280 2424646 EN some more it's under h. s. s.
+NI26FBP_0101 2426077 2432890 CS n. t. u.'s econs is 因为 我 就 想 k. lah n. b. s. 这样 zai econs 不会 差 到 哪里 去 的 嘛 business 跟 econs actually quite similar
+NI26FBP_0101 2432890 2437615 CS 可是 econs under h. s. s. 是 真的 是 很 cui 因为 是 很 new 的
+NI26FBP_0101 2438562 2441189 CS then 我 就 oh my god i should have went f. a. s. s.
+NI26FBP_0101 2441844 2443068 CS 我 不 知道 啊 then
+NI26FBP_0101 2443500 2447210 CS 就 regret lor year one 的 时候 我 就 一直 想 我 要 换 course 我 要 换 course 我 要 换 course
+NI26FBP_0101 2447585 2449188 CS but year one 我的 result 是 buang ah
+NI26FBP_0101 2449543 2450045 EN okay actually
+NI26FBP_0101 2450424 2452120 CS 我 year one sem one 的 result was the best
+NI26FBP_0101 2452120 2455675 CS okay not exactly it was quite good lah cause 那 时候 我 还 没有 这样 involved in hall
+NI26FBP_0101 2456149 2458917 CS 所以 还有 although 是 有 一点 buang but 没有 buang 到 这样 惨
+NI26FBP_0101 2459484 2465696 CS 然后 我 就 讲 okay okay 不用紧 我 sem two pull up 所以 我 可以 apply for 我 以为 换 course 要 你 的 grades 要 很 好 才 可以 换 course
+NI26FBP_0101 2466030 2467624 CS i didn't know 是 anyhow 可以 换 course 的
+NI26FBP_0101 2468158 2468626 CS then 我就
+NI26FBP_0101 2468906 2475981 CS sem two 的 时候 join cultural 每天 去 跑步 跑 了 步 吃 supper supper 回来 讲话 讲话 到 来 四 点 多 了 隔天 没有 去 上课 了
+NI26FBP_0101 2476620 2478980 CS yah so i never go for class so 我 的 results 是
+NI26FBP_0101 2478980 2480319 EN <unk> down
+NI26FBP_0101 2481383 2485550 EN then i also cannot go for so in the end i never changed course lah cause i figured out that
+NI26FBP_0101 2485550 2488220 CS 我 result 这样 cui n. b. s. 哪里 会 让 我 change 过去
+NI26FBP_0101 2488653 2494549 CS then just stay on stay on year two buang 得 even 惨 even more 惨 then just stay on until now lor
+NI26FBP_0101 2495163 2497427 CS 所以 现在 也 是 没有 换 course lor 就 这样
+NI26FBP_0101 2498450 2502449 CS 也 就 这样 过 了 三 年 so i just thinking hoping that 现 在 是 想 说 like
+NI26FBP_0101 2503578 2505790 CS 想 通 了啦 like think that actually
+NI26FBP_0101 2505790 2508430 CS whatever degree you hold 没有 这样 重要 的 cause
+NI26FBP_0101 2508857 2510951 CS 别人 看 了 就 只是 看 你 有 没有 degree
+NI26FBP_0101 2511354 2514511 CS 你 是 b. business degree 你 是 econs degree in science degree 他们 不 管 的
+NI26FBP_0101 2515166 2516510 EN they just want to see that you have a degree
+NI26FBP_0101 2517190 2523682 CS so 我 就 想 哎呀 反正 剩 一 年 了 他们 也 没有 管 这样 多 degree is not the the type of degree is not exactly that important
+NI26FBP_0101 2524142 2525138 EN so might as well just
+NI26FBP_0101 2525758 2529742 EN just go through it lor just finish it and then hope that i can get a good grade and can already
+NI26FBP_0101 2530400 2531391 ZH 就 不要 想 这样 多 了
+NI26FBP_0101 2532269 2533489 CS 对 啊 actually it's
+NI26FBP_0101 2534480 2536610 CS 我 一直 在 跟 别人 讲 我 不 懂 我 在 econs 做 什么
+NI26FBP_0101 2536610 2539547 CS 真的 不懂 我 为什么 在 econs 真的 真的 不 懂 
+NI26FBP_0101 2542250 2545040 CS actually 我 觉得 我 去 engine 有 可能 我的 grades 没有 这样 差
+NI26FBP_0101 2545788 2546292 ZH 真的 因为
+NI26FBP_0101 2546789 2549961 EN econs is really the worst course worst thing for me cause
+NI26FBP_0101 2551190 2554530 CS 我 又 不 去 上课 then the thing is 又 没有 online lecture
+NI26FBP_0101 2555270 2559190 CS then it's not something that 你 可以 只 读 notes 就 可以 smoke through 的
+NI26FBP_0101 2560092 2562710 CS so it's like it's really the worst combi for me 因为 like
+NI26FBP_0101 2562710 2567520 CS 就算 如果 我 去 engine right 就算 我 没有 去 上课 我 last minute 我 还 可以 去 读 online lecture
+NI26FBP_0101 2568013 2572230 CS i still can follow i still got past year solution it's just the standard answer 的
+NI26FBP_0101 2572230 2573680 CS 不 像 econs oh 没有 standard answer 的
+NI26FBP_0101 2573680 2575354 CS 它们 讲 everything is correct everything is wrong
+NI26FBP_0101 2576042 2576689 EN yah so
+NI26FBP_0101 2577333 2581350 CS like if i got past year paper i can practise 因为 我 是 觉得 我 practise hor at least i can still work on it
+NI26FBP_0101 2582299 2582714 EN so
+NI26FBP_0101 2583257 2586922 EN yah lor so even if i go engine i will think that my grades wouldnt be so bad
+NI26FBP_0101 2587462 2592233 EN try to seriously i shouldnt have come to econs econs is really screwing my life up like
+NI26FBP_0101 2592233 2592943 EN try to seriously shouldnt have come to econs econs is really screwing my life up like
+NI26FBP_0101 2592943 2597480 CS 我 的 uni uh then <unk> 找 到 好 的 工作 就 是 econs 的 错 然后 再
+NI26FBP_0101 2597480 2599610 CS second reason 就 是 hall six 的 错 
+NI26FBP_0101 2604833 2607282 CS but 我 觉得 n. t. u. 会 比较 适合 我 eh
+NI26FBP_0101 2608380 2611870 CS still very cheena cause 嗯 我 小学 is quite a cheena school
+NI26FBP_0101 2612100 2614570 CS 我 中学 bukit panjang is very cheena
+NI26FBP_0101 2616079 2617918 CS 我 是 跟 <unk> 一起 的 what 
+NI26FBP_0101 2618450 2620336 CS then a. j. 也 是 很 cheena
+NI26FBP_0101 2621819 2624456 EN okay lah i don't think that i will suffer in n. u. s. lah but
+NI26FBP_0101 2624960 2628220 CS 我 还是 会 想 要 来 n. t. u. lah partly 是 因为 有 hall six what
+NI26FBP_0101 2629146 2633452 EN eh i really experienced a lot in hall six lah like i made a lot of friends very close friends so
+NI26FBP_0101 2634000 2636310 CS 如果 我 去 n. u. s. 可能 就 遇 不 到 and some more
+NI26FBP_0101 2636800 2638300 CS n. u. s. 更 难 住 hall eh
+NI26FBP_0101 2638811 2640360 CS then 我 是 一定 要 住 hall 的 嘛
+NI26FBP_0101 2640360 2641730 CS 我 不 可能 每天 回 malaysia what
+NI26FBP_0101 2642148 2643420 EN then so competitive then
+NI26FBP_0101 2643952 2647740 CS n. u. s. more happening lah 我是 听说 my friend 他在 n. u. s. 的 hall 他是
+NI26FBP_0101 2648432 2650185 CS but 会 更加 不 用 读书 不 用 睡觉
+NI26FBP_0101 2650682 2651502 ZH 所以 会 更 惨
+NI26FBP_0101 2651502 2652549 EN yah i feel ah
+NI26FBP_0101 2652939 2653745 EN so i think that
+NI26FBP_0101 2654843 2655889 EN yah lor n. t. u. is still
+NI26FBP_0101 2656688 2659475 CS the best option for me lah 我 不 可能 我 觉得 s. m. u.
+NI26FBP_0101 2659800 2661410 CS first year 我 是 蛮 想 去 s. m. u. 的
+NI26FBP_0101 2661970 2663470 CS 我 是 蛮 想 去 s. m. u. 的 but
+NI26FBP_0101 2663970 2667170 CS after 我 下 到 去 那 个 学校 我 觉得 他们 是 真的 是
+NI26FBP_0101 2667170 2668110 CS 蛮 看 packaging 而已 的
+NI26FBP_0101 2669524 2670604 EN but actually i think if i
+NI26FBP_0101 2671321 2676274 EN if i try if i got apply appeal to s. m. u. lah and then i got get through the interview right
+NI26FBP_0101 2676762 2677819 EN actually i think i stand
+NI26FBP_0101 2678376 2679470 EN quite a good chance cause
+NI26FBP_0101 2679470 2682110 CS 他们 focus a lot on on interview and i feel that
+NI26FBP_0101 2682450 2687200 CS 我 的 interviewing skills is a lot better than my paper 上面 写 的 东西
+NI26FBP_0101 2687320 2693030 CS and 我 记得 那 时候 我 去 submit 我的 application 的 时候 in a lift 我 还 遇到 一个 professor
+NI26FBP_0101 2693596 2696110 CS 不 懂 他 跟 我 讲话 then 我 就 跟 他 讲话 then 他 就
+NI26FBP_0101 2696110 2698702 EN oh okay if you go for the interview i think you will get through
+NI26FBP_0101 2699290 2701470 CS 我 就 ah but in the end 没有 去 interview lah
+NI26FBP_0101 2701470 2702797 EN so sad
+NI26FBP_0101 2703260 2705880 CS but actually it's a good thing i never get s. m. u. 因为 我 真的 觉得
+NI26FBP_0101 2707080 2711530 CS 可能 s. m. u. is really not a place for me lah i don't think i will be happy there 因为 我 觉得 那边 的 人 比较
+NI26FBP_0101 2712380 2713407 ZH 比较 会 应酬 啦
+NI26FBP_0101 2714560 2717190 CS 比较 没有 这样 close friend ah 在 hall six 是 真的 是 close friend lor
+NI26FBP_0101 2718089 2719946 EN so n. t. u. is a good choice
+NI26FBP_0101 2724405 2725282 ZH 然后
+NI26FBP_0101 2730370 2733780 CS 哦 我 我 是 please 我 以前 是 part time 皇后 can
+NI26FBP_0101 2734328 2735862 ZH 我 做 过 的 工 我
+NI26FBP_0101 2736329 2740382 CS 教 补习 我 做 过 coffee bean 我 做 过 expo show
+NI26FBP_0101 2740382 2741151 ZH 我
+NI26FBP_0101 2741910 2746434 CS 我 卖 过 road navigator system 我 卖 过 m. p. three 我 卖 过 食物
+NI26FBP_0101 2746930 2748900 CS 然后 我在 the sun 做 过 工
+NI26FBP_0101 2748900 2752524 CS 我 在 n. t. u. 我 有 做 什么 computer engine 的 part time
+NI26FBP_0101 2752790 2754380 CS 我 做 过 library
+NI26FBP_0101 2755220 2757400 CS 我 真的 是 almost a lot of job 都 做 过 了
+NI26FBP_0101 2759949 2761215 EN suckiest ah
+NI26FBP_0101 2762295 2764258 EN okay lah actually all my experience all quite good
+NI26FBP_0101 2765814 2767258 CS 因为 我 做 工 我 很 pia 我 觉得
+NI26FBP_0101 2769241 2774098 CS 我 actually 我 做 很 多 东西 都 很 pia lah except for studies  所以 我 不 懂 我 在 做 什么
+NI26FBP_0101 2775500 2780520 CS worst 的 话 in terms of pay 的 话 最 惨 的 话 应该 就 是 the sun 因 为 他 的 pay 很 low
+NI26FBP_0101 2781718 2785328 CS 五 块 哦 in the afternoon 四 块 半 哦 something like that 五 块 半 then
+NI26FBP_0101 2786044 2792300 CS but 好 是 好 在 你 什么 都 不 用 做 啦 你 在 外面 可以 玩 玩 玩 game 可以 看 watch drama all that
+NI26FBP_0101 2792300 2794650 CS then 最好 赚 应 就 是 expo 了
+NI26FBP_0101 2795278 2797920 CS expo 是 最 好 赚 okay other than tuition lah expo
+NI26FBP_0101 2798404 2799529 ZH 五 天 可 以 赚 五 百 啊
+NI26FBP_0101 2800382 2801294 CS 是 这样 的 and then
+NI26FBP_0101 2802044 2802575 ZH 因为 那 时
+NI26FBP_0101 2802965 2806660 CS 最 好 赚 的 night 我 觉 得 做 得 最 最 好 的 是 road navigation system
+NI26FBP_0101 2806955 2808737 CS although 一 天 只 能 卖 一 两 架
+NI26FBP_0101 2808737 2811594 CS but 我 真的 是 那 四 天 我 赚 了 四 百 多
+NI26FBP_0101 2811980 2814580 CS 因为 它的 commision 很 高 for road navigation system
+NI26FBP_0101 2814580 2817469 CS 一 架 二 十 我 四 天 总共 let's say 卖
+NI26FBP_0101 2817937 2820574 ZH (呃) 如果 卖 都 超过 五 架 一 架 五 十
+NI26FBP_0101 2821109 2826282 CS 所以 我 那 一 整 天 呃 for that four days right 我 一 天 卖 超 过 两 架 呃 一 天 卖 两 架
+NI26FBP_0101 2826644 2828723 CS 所以 average 有 八 架 一 架 五 十 块
+NI26FBP_0101 2829348 2830926 EN so it was very good money lah for them
+NI26FBP_0101 2831425 2831831 EN (hmm)
+NI26FBP_0101 2832315 2832847 EN and then
+NI26FBP_0101 2833018 2834802 ZH 那 时候 我 的 老板 对 我 蛮 好 的 因为
+NI26FBP_0101 2834802 2840511 CS 我 的 sales 是 蛮 好 的 for them i didn't know lah 因为 road navigation 很 难 卖 真的 真的 那 时候
+NI26FBP_0101 2840511 2842839 CS it was like 五 年 四 年 前 啊
+NI26FBP_0101 2843307 2846360 CS 都 没有 人 用 road navigation system 的 then 我 在 那 边 卖 的 时候 每 个 人 就 讲
+NI26FBP_0101 2846360 2849310 CS 新加坡 这样 小 哪里 需要 road navigation system 我 都 有 map 了
+NI26FBP_0101 2849760 2852710 CS but i didn't know but 现 在 蛮 popular 的 road navigation system
+NI26FBP_0101 2852980 2856450 CS then some more 有一个 我 记得 超 irritating 的 有一个 taxi driver
+NI26FBP_0101 2857047 2864032 CS 他 就 很 热 全 身 在 流 汗 很 臭 他 就 只 是 想 找 个 地方 坐 下 来 他 就 坐 下 来 then 我 就 哦 我 就 在 那边 卖 卖 卖 他 就
+NI26FBP_0101 2864485 2872834 CS oh why will i 他 就 try out say eh your road navigation 这 条 路 是 比较 远 的 i know a shorter route i am better than your road navigation system then 他 就 一直 跟 我 argue 然后 我 就
+NI26FBP_0101 2873100 2875649 CS 他 就 跟 我 讲 说 he is better than the road navigation system then 我 就
+NI26FBP_0101 2875961 2878070 CS super sian 掉 因为 看 得 出 他 是 不 想 买 的
+NI26FBP_0101 2878070 2880410 CS but 我 一直 在 entertain 他 我 不 可能 半路 走 掉
+NI26FBP_0101 2880800 2884277 CS then after that 我的 col~ 我 的 老板 就 过 来 他 就 帮 我 解围 他 就 okay go away
+NI26FBP_0101 2884277 2887764 CS 不 用 管 这 个 人 了 他 是 不 打算 买 don't waste your time on him yah
+NI26FBP_0101 2888218 2889770 EN that was quite a good experience lah
+NI26FBP_0101 2890290 2892446 CS but expo 真的 是 很 累 因为 从 早 站 到 晚
+NI26FBP_0101 2893205 2894302 EN eh(er) expos
+NI26FBP_0101 2895117 2897041 CS 真的 很 累 then 你 会 讲 到 你 没有 声音
+NI26FBP_0101 2897718 2900814 CS 真的 真的 很 累 but it was good money good money lah for them lah
+NI26FBP_0101 2900814 2902469 EN for then lah when i was still young
+NI26FBP_0101 2902850 2905400 CS 现在 老 了 你 叫 我 去 做 i think i will die
+NI26FBP_0101 2906143 2907658 ZH 已经 很 久 没有 做 了 啦 嗯
+NI26FBP_0101 2912040 2914580 CS marketing 有 想 过 啦 telemarketing ah but
+NI26FBP_0101 2914580 2917224 CS 很 sian lor 我 又 不是 不 懂 做 expo 有 多 sian
+NI26FBP_0101 2917767 2922791 CS marketing is just another form of expo 也 是 在 卖 what it's just that on the phone 你 有 有 地方 坐 啦
+NI26FBP_0101 2924060 2926590 CS the thing that i don't like about 这 种 job 是
+NI26FBP_0101 2926770 2929470 CS although 钱 赚 的 很 快 but 没有 sense of satisfaction
+NI26FBP_0101 2930412 2934129 CS then 有 时候 你 要 骗 人 what then 我 不 喜欢 骗 人 的 what like
+NI26FBP_0101 2935040 2937630 CS in job 是 require 你 to 骗 人 啦 but
+NI26FBP_0101 2938508 2943233 CS 那 时候 我 我 i will feel very bad lah 骗人 因为 我 怕 等 下 用 得 不 好 then 别人
+NI26FBP_0101 2943750 2947380 CS 亏 钱 i also know what 钱 很难 赚 我也 不想 人家 浪费 钱
+NI26FBP_0101 2947430 2950300 CS then 我 i 卖 那个 road navigation 的 时候 我是 真的 相信 很好
+NI26FBP_0101 2950300 2951547 ZH 因为 我 老板 跟我 讲 很好 啦
+NI26FBP_0101 2951547 2955784 CS but 我 卖 到 第 三 天 的 时候 别人 跟 我 讲 很 烂 的 then 我 就 第 三 天 起 我 就 不 怎么 想 卖 了
+NI26FBP_0101 2956340 2959310 CS yah so that's why 我 不 想 做 telemarketing 因为 我 觉得
+NI26FBP_0101 2959310 2962667 CS 蛮 多 是 真的 像 骗 人 钱 的 that's why 我 不 可以 做 insurance agent lah
+NI26FBP_0101 2963594 2966111 ZH 因为 我 觉得 这 其实 是 在 骗 人家 的 钱 我 做 不 到 
+NI26FBP_0101 2966833 2967476 EN it's not
+NI26FBP_0101 2968430 2969620 CS 真的 是 good money lor
+NI26FBP_0101 2970880 2973270 CS but 现在 我 可能 会 去 做 telemarketing lah 因为 我 真的 很 缺 钱
+NI26FBP_0101 2973774 2977273 CS school fees is like 六 百 多 oh my god 我 已经 没有 钱 了
+NI26FBP_0101 2978610 2980070 CS oh 没有 没有 hostel bill hostel bill
+NI26FBP_0101 2980496 2983879 CS 六 百 多 哪里 来 的 钱 我 不 要 住 hall six 了 啦
+NI26FBP_0101 2984238 2985850 CS 玩 这样 多 sports eh 如果 我
+NI26FBP_0101 2985850 2988340 CS 因为 december holiday 没有 做 到 工 eh
+NI26FBP_0101 2988340 2988966 CS 我 是 因为 december holiday 没有 做 到 工 eh
+NI26FBP_0101 2988966 2993084 CS then 我 就 eat into my savings side 这 两 三 个 month november 到 现在
+NI26FBP_0101 2993622 2996107 CS 没有 做 到 工 eat into my savings 已经 eat 到 没有 了
+NI26FBP_0101 2996340 2998360 CS then 现在 刚 刚 还 了 一个 school fees
+NI26FBP_0101 2998360 3001717 CS hostel bill 又 来 school fees 三 百 多 then hostel bill 又 六 百 多 死
+NI26FBP_0101 3004510 3005070 EN o. c.
+NI26FBP_0101 3005943 3008350 CS 没 没 没有 我 没有 做 y. o. g. 也 是 很 少 钱 what
+NI26FBP_0101 3009330 3010780 ZH 也 不 是 没有 到 几 百 了
+NI26FBP_0101 3012004 3014240 CS 两 三 百 the whole whole month leh
+NI26FBP_0101 3014800 3015733 CS then 我 去年
+NI26FBP_0101 3016188 3018224 CS 去年 我 在 做 什么 啊 去年 是 year 几 啊
+NI26FBP_0101 3018930 3021830 CS 不 记得 啦 but 我 year year one 的 june holiday
+NI26FBP_0101 3022810 3025740 CS year one 的 june holiday 我 一个 月 我 赚 around 两千 嘞
+NI26FBP_0101 3026038 3026757 ZH 我 打 工
+NI26FBP_0101 3027226 3029637 CS 我 晚上 我 是 早上 做 the sun
+NI26FBP_0101 3030089 3032261 CS okay at night 我是 晚上 做 到 早上 三
+NI26FBP_0101 3032615 3033303 ZH 然后 回去
+NI26FBP_0101 3033791 3036210 ZH 七点 嘛 回 早 上 七点 回 去 睡觉
+NI26FBP_0101 3036685 3037699 ZH 睡 到 下午 四 点
+NI26FBP_0101 3038435 3039948 ZH 四 点 我 去 教 补习
+NI26FBP_0101 3040177 3041380 ZH 教 到 六 点 之后
+NI26FBP_0101 3041380 3044547 CS 八点 这样 呃 晚上 我 去 report for
+NI26FBP_0101 3045097 3046900 CS (er) s. b. s. 的 一 个 晚上 的 job
+NI26FBP_0101 3047836 3048582 CS tab bus 的
+NI26FBP_0101 3049715 3053385 CS then 我 就 这样 做 每 天 这样 做 这样 做 做 三 份 一 天 做 三 个 job 这样
+NI26FBP_0101 3053807 3056679 ZH 每 个 呃 那 天 那 个 月 赚 两 百 两 千 出
+NI26FBP_0101 3057697 3059219 CS 没有 啊 cleared all my bills
+NI26FBP_0101 3060106 3061646 CS yah 那 个 月 赚 最 多 的
+NI26FBP_0101 3062001 3063021 ZH 我 做 到 我
+NI26FBP_0101 3063317 3066934 CS 我 的 following month right i can rest 什么 工 都 不 要 做 一直 花钱
+NI26FBP_0101 3066934 3072595 CS 我 还 有 enough money to wrap the last minute through the the school start lah
+NI26FBP_0101 3072595 3073797 EN so that was still good
+NI26FBP_0101 3073797 3076734 CS that's why 现在 december holiday 没有 做工 亏 很 多 真的
+NI26FBP_0101 3077917 3078986 ZH 没有 钱 真的 很 惨
+NI26FBP_0101 3079615 3085658 CS 所以 现在 真的 要 去 做工 i need to find more tuition kid 如果 你 有 lobang 请 拨打 九 九 一 三 
+NI26FBP_0101 3086215 3086869 EN really
+NI26FBP_0101 3087429 3088629 CS 他 开 补习 中心 啊 他 这样 zai
+NI26FBP_0101 3089145 3091203 CS 他 是 什么 campus tutor 他 不是 tutor
+NI26FBP_0101 3092995 3096697 CS eh then eh 没有 早 讲 哦 我 要 去 找 他 我 我 要 教 多 几 个 kid

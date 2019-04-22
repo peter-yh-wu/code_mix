@@ -1,0 +1,150 @@
+UI13FAZ_0101 23408 26276 CS 就是 说 没有 script 的 啦
+UI13FAZ_0101 26276 44526 EN oh mm  oh
+UI13FAZ_0101 44526 46203 EN ah okay
+UI13FAZ_0101 48389 56668 CS 没有 好像 好像 我 我 (呃) 怎样 讲 他 record 到 一半 的 时候 我 不懂 要 讲 什么 的 时候 是 怎样 讲
+UI13FAZ_0101 59721 68758 ZH 哦 他 要 参 华语 和 英文 啦 但 如果 我 一直 说 一直 说 都是 说 华语 的 话 会 怎样
+UI13FAZ_0101 68758 86757 EN oh  mm
+UI13FAZ_0101 86757 88353 EN okay
+UI13FAZ_0101 88353 91275 EN mm
+UI13FAZ_0101 91275 95306 CS (呃) 要 try 一次 先 啦  对不起 啊
+UI13FAZ_0101 95306 102127 EN  ah
+UI13FAZ_0101 102127 106348 ZH (er) 我 是 怡 保 (er) (er)
+UI13FAZ_0101 106348 114139 EN oh 
+UI13FAZ_0101 114139 119685 ZH (呃) 怡 保 靠近 哪里 啊 (呃) 那个 万里 望 知道 吗
+UI13FAZ_0101 119685 124759 EN mm
+UI13FAZ_0101 124759 135118 CS okay ah 就 那个 升旗 山 那边 啦 啊 有 啊 怡保 有 一个 升旗 山 的
+UI13FAZ_0101 135118 143072 CS but 没有 缆车 啦 没有 cable car 那种 啦 它 是 普通 的 山 这样 咯
+UI13FAZ_0101 143072 153595 EN mm
+UI13FAZ_0101 153595 165472 CS 其实 我 在 我 在 槟城 也 也 好 几年 了 after graduated 我 有 去 我 有 去 butterworth lah ar
+UI13FAZ_0101 165472 170339 CS butterworth 做工 了 一年 大概 这样 才 回来 槟城
+UI13FAZ_0101 170339 181266 EN mm mm
+UI13FAZ_0101 181266 188071 CS ar software engineer 咯 帮 他们 develop 那种 好像 p. o. s. system ah 那种
+UI13FAZ_0101 188071 193266 CS 比较 小 的 啦 好像 software house 这样 啦
+UI13FAZ_0101 195376 199680 CS 没有 因为 那 时候 我 是 住 在 parit-buntar 我 跟 我 姐姐 住
+UI13FAZ_0101 199680 206790 CS 就 每 一天 差不多 一 两个 一个 小时 这样 来回 咯 then after that 我 我 在
+UI13FAZ_0101 206790 214717 CS 槟城 我 找到 工 了 吗 so 我 就 直接 在 槟城 (呃) 搬 来 搬 来 槟城 这样 咯
+UI13FAZ_0101 220203 230026 CS outside 他 是 (呃) 我 第一 年 是 住 hostel loh then after that 才 跟 朋友 搬 出来
+UI13FAZ_0101 234847 245210 CS 其实 不会 啦 因为 那 时候 我们 住 tekun hor tekun 也 是 刚 新 起 没 多久 mah then (呃) 它 的
+UI13FAZ_0101 245210 252686 CS 每个 sem 都 都 不是 很 便宜 大概 整 四百 多 块 那个 时候 一个 sem
+UI13FAZ_0101 252686 264701 CS then 我们 搬 出去 而且 东西 不用 搬 来 搬 去 咯 hor 它 换 sem 又 要 我们 搬 东西 这样 
+UI13FAZ_0101 264701 272687 EN 
+UI13FAZ_0101 272687 282643 CS 哦 因为 那 时候 (呃) 那个 我 的 那个 department hor 他 是 (er) 比较
+UI13FAZ_0101 283377 297986 CS 比较 old 的 department lah then 他们 要 转 去 (呃) 用 另外 一个 software 了 是 那个 department 它 要 整个 close 了 它 close 了 它 然后 (呃) 它 就 (呃)
+UI13FAZ_0101 298717 306469 CS 不 不要 continue 了 咯 so (呃) 我 那 时候 是 要 想
+UI13FAZ_0101 306469 317002 CS 继续 读书 啦 因为 我 要 further 我的 p. h. d. mah so (呃) 就 回来 u. s. m. 找 lecturer 这样 咯
+UI13FAZ_0101 317002 322188 EN mm
+UI13FAZ_0101 322188 329466 CS 没有 我 现在 是 master mah 哦 after master 我 要 further p. h. d. 这样 咯
+UI13FAZ_0101 329466 336565 EN mm
+UI13FAZ_0101 336565 347658 CS 啊 没有  因为 之前 我 我 是 minor 我 拿 minor 那个 course mah 是 management 的
+UI13FAZ_0101 347658 358534 CS (er) after that 我 final year project 我 是 做 image processing 的  我 有 找 回 我 有 找 回 我 image processing 的 lecturer lah but
+UI13FAZ_0101 358534 365204 CS (呃) 他 讲 那个 field 我 好像 不是 很 喜欢 他 是 based on matrix
+UI13FAZ_0101 365204 370491 CS 那种 (er) print 的 然后 x-ray 的 那种
+UI13FAZ_0101 370491 376227 CS (er) image processing then 我 不要 mah then 我 是 本来 因为
+UI13FAZ_0101 376227 381803 CS (er) dr. tan 还是 蛮 新 一下 我 找 lecturer 的 时候 他 是
+UI13FAZ_0101 381803 392072 CS 应该 是 还 没 (呃) 刚 回来 没 多久 啊 then 我 没有 找到 他 我 就 找 了 另外 一个 lecturer 你 知道 那个 dr. cheah 吗
+UI13FAZ_0101 392974 398169 CS 不懂 唉呀 是 这一 楼 但是 另外 一 室 dr. cheah
+UI13FAZ_0101 399482 407057 CS 我 找 他 then 我 是 要 做 那种 knowledge knowledge management 那种 的
+UI13FAZ_0101 407057 412035 CS (er) but then 他说 (er) 他 那边 太 多 人 了
+UI13FAZ_0101 412035 423221 CS 他 有 太 多 student 了 then 他 就 recommended 我 呃 去 找 dr. tan then after that 他 说 okay 咯 我 就 under 他 but then
+UI13FAZ_0101 423221 431791 CS 其实 我 零 八年 的 时候 已经 开始 跟 dr. tan 了  但是 hor (er) 那 时候 我 是
+UI13FAZ_0101 431791 442976 CS 哦 因为 我 那边 我 做 公司 contract based mah contract based 是 到 (er) 那 时候 是 到 十 月 还是 十一 月 零 八年 的
+UI13FAZ_0101 442976 450590 CS but after that hor 他 停 了 我 一个 月 哦 他 就 他 又 找回 我 其实 是 我 想
+UI13FAZ_0101 450590 456191 CS (er) continue master 了 咯 不要 找 工 了 的 but then 他 他 找回 我
+UI13FAZ_0101 456191 465449 CS 说 (呃) 他 那边 要 close 了 需要 一个 人 因为 我 那时 我 是 比较 (呃) 是 有 一年 的 experience 了 啦 他 说
+UI13FAZ_0101 465449 473881 CS 因为 那边 的 人 已经 走 完 只 剩下 一个 新人 他们 不要 不要 continue 那个 人 他 问 我 要 不 要 回去 做
+UI13FAZ_0101 473881 480079 CS 这样 then (er) 我 就 问 dr. tan loh 他说 okay 的 没 问题 的 如果 你
+UI13FAZ_0101 480079 486713 CS 顾 顾 到 两边 的话 (er) then 我 就 回去 做 咯 回去 做 了 eh
+UI13FAZ_0101 486713 494776 CS 他 那 时候 是 欠 我 一个 一年 的 大概 是 半年 还是 一年 的 but after that 他
+UI13FAZ_0101 494776 500722 CS 他 要 赶 赶 完整 个 project 要 close 了 整个 department 他 说 要 close 了
+UI13FAZ_0101 500722 508633 CS 是 咯 就 赶 咯 就 一直 赶 赶 赶到 零 九年 三月 这样 他 就 close 了 咯
+UI13FAZ_0101 508633 514991 CS 整个 department close 了 然后 我 就 full time master 在 这里 咯 我 就 我 就 register 就 这样 咯
+UI13FAZ_0101 514991 520944 CS 因为 那 时候 零 八年 我 是 还 没有 register 的 master 这样 咯
+UI13FAZ_0101 524529 530264 CS officially 一个 sem 而已 啊 
+UI13FAZ_0101 530264 541277 CS but 其实 已经 啊 算 来 已经 是 有 差不多 一年 多 了 零 八年 中 这样 一年 多 了
+UI13FAZ_0101 541277 548005 EN 
+UI13FAZ_0101 548005 550061 CS 你 说 language 吗
+UI13FAZ_0101 554201 564157 CS 啊 其实 我 觉得 他 还有 很多 improve 的 空间 啦 (er)
+UI13FAZ_0101 564779 571272 CS competitive 就 没有 因为 language 的 的 language hor 是
+UI13FAZ_0101 571272 579884 CS 很多 变化 的 吗 是 (呃) 你 不同 的 field 你 就 可以 get 到 不同 的 东西 这样 hor
+UI13FAZ_0101 579884 581180 EN mm
+UI13FAZ_0101 581180 591614 CS 其实 competitive 每个 field 都 有 吧 应该 说 但是 for language 比较 okay loh 因为 很多 很多 人 做 不同 样 的 东西
+UI13FAZ_0101 592083 596763 CS 他 没有 说 main~ mainly 一定 要 for 一个 东西 这样
+UI13FAZ_0101 596763 606287 CS hor 好像 image processing 说 (呃) 你 mainly for print 的话 就 要 就 要 focus on print 这样 咯 噢
+UI13FAZ_0101 606287 616202 EN mm
+UI13FAZ_0101 616202 626673 CS 我 research 现在 我 是 mainly on malay 的 malay 的 pronunciation dictionary 这样 咯
+UI13FAZ_0101 626673 632273 CS 因为 for temporary 它 是 没有 一个 很 complete 的
+UI13FAZ_0101 632273 639160 CS (er) for malay 的 dictionary mah so (er) 我 是 我 是 (呃) 做
+UI13FAZ_0101 639160 648698 CS 怎样 讲 (呃) 可以 的话 啦 就 (er) create 一个 比较 systematic 的 的
+UI13FAZ_0101 648698 654569 CS pronunciation dictionary for malay 这样 的 咯 但是 我 其实 我 现在 还是
+UI13FAZ_0101 654569 664239 CS starting 那个 stage ah 是 还有 很多 东西 我 都 不是 很 懂 因为 而且 我 undergrad 的 时候 我 是 完全
+UI13FAZ_0101 664239 671165 CS 完全 没有 touch 到 这一 个 field 的 连 我们 basic 也 是 没有 读 这些 的
+UI13FAZ_0101 680787 690373 CS (呃) 其实 (er) dr. tan 他 有 他 有 给 我 几个 choice 这样 啦 他 有 解释 给 我 听 咯 (er)
+UI13FAZ_0101 690373 698835 CS 哪 一些 哪 一些 (er) topic 是 可以 做 的 咯 then 我 觉得 这 一 个 (er) malay 的
+UI13FAZ_0101 698835 708295 CS 我 觉得 还 好 啦 因为 我们 从小 到 大都 是 from malay education 的 mah so 我 觉得 还 okay 咯 因 该 是
+UI13FAZ_0101 708295 715005 CS 可以 比较 比较 了解 一点 咯 这一 个 field 这样
+UI13FAZ_0101 715005 719673 EN mm 
+UI13FAZ_0101 719673 732379 CS (呃) 我 觉得 啊 (呃) 那个 process 那个 progress 是 很 slow (呃) 不知
+UI13FAZ_0101 732379 739443 CS 觉得 它 这 一 个 research 好像 我 读 master 的 啦 和 我 做工 的
+UI13FAZ_0101 739443 746451 CS 的 生活 习惯 啦 是 完全 不同 的 咯 totally different 的
+UI13FAZ_0101 746451 752020 ZH 因为 因为 hor 我 做工 的 时候 hor 是 比较
+UI13FAZ_0101 752751 758432 ZH 每天 都 是 上班 上班 然后 我 放工 回去 我 就 是 做 我 自己 的 东西 了
+UI13FAZ_0101 758432 767499 CS then 是 (呃) 早上 八点 到 六点 这样 啦 哦 其实 那 段 工作 时间 就 是 for for 那个 company 的
+UI13FAZ_0101 767499 772034 CS 但是 for master study hor 不是 的 喔 
+UI13FAZ_0101 772034 777960 ZH (呃) 我 每天 都 是 (呃) 就 是 要 想 着 要 怎样 做 得 到 做 那些 东西 eh
+UI13FAZ_0101 777960 784245 ZH 啊 没有 说 啊 早上 我 做 然后 晚上 又 不用 做 这样 
+UI13FAZ_0101 784245 787979 EN  ah
+UI13FAZ_0101 787979 792848 ZH 哦 不会 啦 我 觉得 因为 (er)
+UI13FAZ_0101 792848 799280 CS master 不是 说 辛苦 (er) 因为 它 (er)
+UI13FAZ_0101 799280 812573 CS 怎样 讲 读书 只 是 for 自己 读 这样 啦 then 如果 你 去 做工 啦 我 觉得 做工 还 辛苦 你 除了 做 自己 东西 你 还要 什么 人际关系 啊 communication 那些 东西
+UI13FAZ_0101 812573 817714 CS for master 你 只是 读 完 自己 的 东西 就 可以 啦 噢 mm
+UI13FAZ_0101 826963 833104 CS 其实 我 我 我 毕业 的 时候 我 有 想 过 continue 的 但是 我 的 朋友 就 一直
+UI13FAZ_0101 833104 838860 CS 叫 我说 (呃) 不要 啦 master 很 浪费 时间 的 
+UI13FAZ_0101 838860 842946 CS 他 说 我们 degree 出来 已经 degree 出来 了
+UI13FAZ_0101 842946 847338 CS (呃) 而且 哦 你 去 找 工 哦 那些 (er) company
+UI13FAZ_0101 847338 851558 CS 不会 consider 你 是 degree 或者 是 master 的
+UI13FAZ_0101 851558 855204 CS 工钱 是 一样 的 它 是 based on 你 的 experience
+UI13FAZ_0101 855204 858881 CS 对 啦 so 然后 等 下 我说 想 想
+UI13FAZ_0101 858881 865329 CS 也是 蛮 对 一下 啦 then 我 就 继续 找 工 咯 找 找 找 了
+UI13FAZ_0101 865329 870496 ZH 找 工 (呃) 做 了 做 了 工 觉得
+UI13FAZ_0101 870496 876394 CS (呃) 还是 读书 比较 适合 我 这样 啦 then 我 就 就 噢 找 了
+UI13FAZ_0101 876394 884411 CS 就 继续 读书 这样 咯 而且 我 也 有 受 我 姐姐 的 影响 啦 因为 我 姐姐 也是 读 p. h. d. mah
+UI13FAZ_0101 884411 888565 CS 我 觉得 p. h. d. 的 前途 比较
+UI13FAZ_0101 888565 894950 ZH 比较 比较 好 一点 咯 就 是 说 生活 比较
+UI13FAZ_0101 896332 904022 ZH 平 就 是 不会 说 你 一下子 没有 工作 或者 是 (呃)
+UI13FAZ_0101 904022 909343 CS deal with 很多 不同 的 人 这样 p. h. d. 比较
+UI13FAZ_0101 909343 916684 CS 怎样 讲 你 可以 做 lecturer 还是 还是 你 要 比较 多 choices 我 觉得
+UI13FAZ_0101 920561 927541 CS ar almost loh ar 她 不同 她 是 chemical engineering
+UI13FAZ_0101 928867 933899 CS 啊 对 对 对 不过 她 是 在 engineering campus 的
+UI13FAZ_0101 943915 950429 CS 啊 对 对 对 我 住 在 supertanker supertanker ar 对面 那边
+UI13FAZ_0101 951484 953080 ZH 啊 有
+UI13FAZ_0101 953080 963516 EN mm
+UI13FAZ_0101 963516 973392 CS 它 minimum 是 one year lah but 你 (er) for research 的 啦 大概 是
+UI13FAZ_0101 973392 981989 CS 一年 半 或者 是 两年 这样 咯 因为 maximum 的 话 maximum 是 一年 啦 fix 了 啦 因为 他们 有
+UI13FAZ_0101 981989 986720 CS (er) 有 course 的 mah 他们 是 exam based 的 mah
+UI13FAZ_0101 986720 993532 CS 我们 是 好像 research based 你 做 完 你 的 project 你 wawa 了 你 就 可以 毕业 的 mah
+UI13FAZ_0101 993532 1001934 CS 其实 如果 他们 accept 你 的 你 的 whole project lah so 就 可以 可以 毕业 的 mah for mixed mode 就 不同 mixed mode 是 你
+UI13FAZ_0101 1001934 1011081 CS 你 complete 完整 个 course 好像 我们 degree undergrad 这样 你 complete 完全 部 exam 你 拿 完 那个 unit 你 就 可以 毕业 的 mah
+UI13FAZ_0101 1011081 1021010 CS so 他们 一年 一年 里面 就 可以 毕业 了 then 我们 不同 mah 我们 我 觉得 你 不懂 你 的 project 会 几时 做 完 啊 这样 啦
+UI13FAZ_0101 1029129 1034768 CS because hor mixed mode hor 它 的 fees hor  你 知道 吗 fees
+UI13FAZ_0101 1034768 1043354 CS for mixed mode 是 比较 贵 的 它 是 贵 整 一 两 千 这样 的 for 一个 sem
+UI13FAZ_0101 1044180 1051554 CS hmm 而且 它们 还有 exam fees 的 啊 还有 那些 什么 tuition fees 啊
+UI13FAZ_0101 1051554 1060154 CS for research mode 是 没有 的 而且 for research mode hor 你 可以 选择 做 r. o. ah r. a. ah g. r. a. 那种
+UI13FAZ_0101 1060154 1064158 CS i mean 每个 月 是 可以 有钱 拿 的 咯
+UI13FAZ_0101 1064789 1071601 CS 不是 当然 啦 它 的 salary 不是 很 高 啦 它 是 好像 一个 allowance 这样 给 你
+UI13FAZ_0101 1071601 1075124 CS 给 你 生活费 这样 for mixed mode 是 不能 的
+UI13FAZ_0101 1075124 1079948 CS 它 好像 读书 这样 的 full time full time 你 要 读 完
+UI13FAZ_0101 1079948 1086577 CS 这个 你 可以 你 可以 做 part-time 啦 你 看 你 的 lecturer 会不会 给 一些 part-time 你 做 这样 咯
+UI13FAZ_0101 1086577 1092670 CS but 你 definitely 是 不能 做 那种 r. o. ah research officer ah 那种 r. a. 那种 咯
+UI13FAZ_0101 1092670 1104036 EN mm
+UI13FAZ_0101 1104036 1110807 ZH 啊 不会 不会 不会 不会 不会 的  不会 的
+UI13FAZ_0101 1110807 1116705 CS free 的 咯 就 是 我 可以 做 (er) 我 可以 早上 做 做 做 做到 晚上 半夜 这样
+UI13FAZ_0101 1116705 1122560 ZH 或者 是 我 早上 睡觉 然后 做 做 做 晚上 做 做 做 到 半夜 这样 噢
+UI13FAZ_0101 1122560 1126218 CS 没有 fixed time 的 咯 啊 啊
+UI13FAZ_0101 1138675 1140488 ZH 啊 对 呀 对 呀 对 呀
+UI13FAZ_0101 1144005 1149737 ZH 啊 没有 其实 只是 回家 而已 其实 以前 我 做工 我也 是 这样 啦
+UI13FAZ_0101 1149737 1158639 CS (呃) 其实 (er) monday to friday 我 做工 then after that weekend 我 回 怡保 这样 哦
+UI13FAZ_0101 1164677 1177372 CS 怡保 啊 (呃) 比较 compare with penang 啦 怡保 是 比较 悠闲 
+UI13FAZ_0101 1177372 1186111 ZH 那边 的 人 生活 的 习惯 是 比较 慢 一点 咯 不会 说好 像 这里 这样
+UI13FAZ_0101 1186111 1189576 EN mm
+UI13FAZ_0101 1189576 1192309 ZH 还 好 啦 
+UI13FAZ_0101 1192309 1199330 EN mm 

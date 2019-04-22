@@ -1,0 +1,149 @@
+UI25FAZ_0102 1586 7535 EN put the pumpkin in fry it then add the chicken stock the broth
+UI25FAZ_0102 7535 12173 EN ah let it become soft then you blend it
+UI25FAZ_0102 12173 22033 CS then if the texture the consistency its not creamy and thick enough can add in a bit of milk or cream 这样子咯
+UI25FAZ_0102 22600 25389 CS 放 pepper 跟 herbs
+UI25FAZ_0102 27846 30479 ZH 我的 白老鼠 啊
+UI25FAZ_0102 30479 34838 ZH 啊 他跟 还有 一个 朋友 kok
+UI25FAZ_0102 44793 49165 CS 除了 cooking ah 看电视机 睡觉
+UI25FAZ_0102 55798 62049 CS 可是 不是很久 因为 internet 也不是 很多东西 要做
+UI25FAZ_0102 62049 65753 ZH 很闷一下 这样子 咯
+UI25FAZ_0102 65753 69660 CS 上 internet 去 facebook loh 
+UI25FAZ_0102 69660 78868 CS er check 我的 mail 然后看 (啊) subscription daily 他们 send 给我的 咯 这样子 咯
+UI25FAZ_0102 81090 84563 CS 我 不会 download movie so~
+UI25FAZ_0102 88231 92854 CS 会去 youtube lah 可是 一下罢了咯 是听歌
+UI25FAZ_0102 93733 97631 CS 然后 有什么 featured 的 video loh
+UI25FAZ_0102 105376 120414 CS 噢 不大清楚 啊 这个是看 嗯 像听到在 radio 的时候 觉得 哪一个 好听 然后去 search 给他咯 嗯 这样子 咯
+UI25FAZ_0102 121346 124660 CS 哪一台啊 fly f. m. loh
+UI25FAZ_0102 126183 128605 CS 没有 favorite d. j.
+UI25FAZ_0102 135909 142461 CS ah latest movie ah 看什么 movie ah grown ups loh
+UI25FAZ_0102 142461 145432 CS 啊 不错啦 okay 不错
+UI25FAZ_0102 146889 157007 CS (啊) 是 about 这个 五个朋友 (嗯) from 他们的 middle school
+UI25FAZ_0102 157007 160866 CS so after that 他们 没有 keep in contact
+UI25FAZ_0102 160866 171861 CS 可是 so happen 他们的 basketball coach en pass away 了so 他们 ah reunite loh 在他的 funeral 然后 他们 去一个 cabin loh
+UI25FAZ_0102 171861 181013 CS 是在 那边他们 bond 回 因为 以前的 时候 (啊) back in those days the kids their activities are playing outside
+UI25FAZ_0102 181013 190007 CS 不像 现在 现在 我们 全部是 在家 play station internet computer 全部 这样子
+UI25FAZ_0102 190007 201683 CS so try to 他们 那个大人 try to get 他们的 (啊) kids to 做东西 像他们 以前 噢 to 有 quality time spent loh
+UI25FAZ_0102 201683 203844 CS so 这样子 啦
+UI25FAZ_0102 218846 231044 CS (啊) 我是 给我自己 是 我觉得 比较好 是做 outdoor activities 因为 if 你做 outdoor activities 会对 你的身体 比较健康
+UI25FAZ_0102 231044 244146 CS 然后 会做 more quality time if 我们 没有做 这样子的 outdoor activities 以后会 the out~ would die off the trend would die off
+UI25FAZ_0102 244146 248549 CS 因为 全部 是在 all about technology 然后在家
+UI25FAZ_0102 248549 255062 CS 然后 没有时间 没有 quality time 跟 (啊) 父母 跟 family bonding loh 这样子
+UI25FAZ_0102 255062 263664 CS 然后 我觉得 outdoor activities 会比较 more interesting 跟 more fun
+UI25FAZ_0102 268623 271587 ZH 应该是 很少 咯
+UI25FAZ_0102 272643 279527 CS 玩 monopoly 应该 因为 全部有 比较 modern 的 games ah computer games
+UI25FAZ_0102 279527 289512 CS 然后 (啊) 这个 modern generation mostly the boys would always play their online computer games
+UI25FAZ_0102 294789 300358 CS the last time 玩 很多年了 没有玩 monopoly 了
+UI25FAZ_0102 300358 305210 CS 什么 board games 也没有 喔 
+UI25FAZ_0102 307071 308553 CS cards 有
+UI25FAZ_0102 314691 319462 ZH 不是讲 新年的 时候啦 有跟 朋友一起 的时候 有 咯
+UI25FAZ_0102 319462 326502 CS 然后 (啊) 有回去 有 (啊) friends who 玩 mahjong loh
+UI25FAZ_0102 326502 331598 CS 嗯 可是 不会算 啦 so 是 play for fun
+UI25FAZ_0102 343467 355482 CS ah interesting t. v. series ah 很可以 介绍 哎哟 啊 我很少看 t. v. series 的
+UI25FAZ_0102 355482 363947 CS 因为 most of the time 我的爸 会看 用那个 电视机 看他的 korean dramas
+UI25FAZ_0102 365481 368894 CS so 是 应该是他介绍 呱
+UI25FAZ_0102 369594 378386 CS 因为 他的 他看 的时候 korean drama 因为 我没有事做 我也是 做着 在那边 陪他 看他的戏 咯
+UI25FAZ_0102 385866 388010 CS 有什么 movies ah
+UI25FAZ_0102 389409 397647 CS books ah books 我现在 嗯 读着一个 english novel
+UI25FAZ_0102 397647 412070 CS (er) should be true story by ah david pelzer the lost boy 那个 是一个 sequel from 第一个 book was the child call it
+UI25FAZ_0102 412070 420879 CS ah 我的 有一天 的时候 以前 很多年了 我的 father 去做 tour 的时候
+UI25FAZ_0102 421512 424522 CS 啊 做 tour 的时候 找到这个书
+UI25FAZ_0102 424522 436290 CS so 拿回来 然后 我读咯 然后 我很喜欢 要找 那个 第一个去 m. p. h. ah book 可是 他们没有 follow up 也没有 call
+UI25FAZ_0102 436290 443243 CS 然后 有一天 我出去 跟我的 朋友的时候 然后去 borders
+UI25FAZ_0102 443243 445266 CS 看到 那个 第三的 book
+UI25FAZ_0102 445266 454465 CS so 因为 if 我要买 这个 第三的 我要有 那个 第二个 so 我的朋友 去找 那个 第二的书 给我
+UI25FAZ_0102 454465 465008 CS 然后 找到了 so 我买 那个第三个 咯 so 我开始 读过 那个 第一个书 to refresh 我的 memory loh
+UI25FAZ_0102 465008 473925 CS 啊 这个书是 about 这个 孩子 给他的 (啊) mother 给他的妈 abuse
+UI25FAZ_0102 473925 485533 EN so it's about how he gone through the abuse from a kid and how he evolve to become a man from how he goes through loh
+UI25FAZ_0102 492241 503030 CS 第一本是 about (啊) 他讲 以前他的妈 对他们 几好 他们的 family ah is a very happy kind of family
+UI25FAZ_0102 503030 508053 CS 可是 in the end because 有一个 problem 发生leh 他的妈 改变去
+UI25FAZ_0102 508053 514497 CS abuse 他罢了 没有 abuse 他的 (啊) others sibling 是 abuse 他
+UI25FAZ_0102 514497 524133 CS 然后 读到 那个 abuse 像 很假 这样子 因为有讲 (啊) use a knife to stab him
+UI25FAZ_0102 524133 526838 EN set him on fire using the gas stove
+UI25FAZ_0102 526838 536300 CS so 然后 给他做 house work 可是 没有给他 吃东西 啊 starve him loh
+UI25FAZ_0102 536300 543036 CS if 他去 beg for food 她会叫他 呕出来 那 个food so that his stomach is really empty
+UI25FAZ_0102 543036 553600 CS and then er if 他做 他的 house work 那个 chores not in time in the given time 会被 punish loh
+UI25FAZ_0102 553600 557673 CS 像在 (啊) trap inside the bathroom
+UI25FAZ_0102 557673 562918 EN mix with chlorides and ammonia to gives up the fumes ah so that can't breathe
+UI25FAZ_0102 568854 573326 ZH 啊哈 他 他没有讲 他 是讲 像
+UI25FAZ_0102 573326 576718 CS problems 跟他的 (啊) father loh
+UI25FAZ_0102 576718 586203 CS 然后有 problems 的时候 就 blame it on 他 是他害 他们父母 argue 这样子 咯
+UI25FAZ_0102 586203 591178 CS 然后 when 去学校的时候 看到他 这样子 因为
+UI25FAZ_0102 591178 601756 CS 啊 他的母亲 没有给他 东西吃 so 他要去 学校 偷拿 东西吃 然后 被 (啊) 老师抓
+UI25FAZ_0102 601756 609160 CS 然后 可是 if 他讲 the truth 他知道 他回去 会 一定被骂
+UI25FAZ_0102 609160 615082 CS so 要讲 tell a lie create a story 这样子 咯
+UI25FAZ_0102 617517 619630 CS 第二本是 about 他
+UI25FAZ_0102 619630 624329 CS so far 第二本 我读到 to the~ towards the beginning 还没有完 kok
+UI25FAZ_0102 624329 639085 CS 啊 第二本是讲 他比较大了 然后有 social service 的 people knows about his case so comes and try to get him out rescue him from the house loh
+UI25FAZ_0102 639085 642086 CS mm so far 读到 那边罢了
+UI25FAZ_0102 644741 648711 CS 我觉得很 interesting 因为是
+UI25FAZ_0102 648711 654884 CS 我觉得 那个 男孩子 很可怜啊 so ah
+UI25FAZ_0102 655487 659495 CS so it's like 很 a very moving story
+UI25FAZ_0102 659495 663125 EN compare to all the love novels ah
+UI25FAZ_0102 664231 669148 CS actually 我不是 读书 读 novels 很多
+UI25FAZ_0102 669148 678800 CS 是 这个是 第二个 novel ha which really atract 我的 attention to 读 因为 我觉得 romance novel 很 boring 很闷
+UI25FAZ_0102 685145 686629 ZH 没有 没有听过
+UI25FAZ_0102 691537 700798 CS ah something which is like very moving something 会 很感动 的故事 咯 这样子
+UI25FAZ_0102 700798 706256 CS 比较 more to real life than fiction
+UI25FAZ_0102 715615 719569 CS news ah 没有 because ah
+UI25FAZ_0102 719569 730830 CS 现在 (啊) 我不是 很有空 因为 我回去 我的 kulim 去照顾 我的 (啊) 我的 grandma
+UI25FAZ_0102 730830 733095 CS 嗯 我的 grand parents loh
+UI25FAZ_0102 733095 741415 CS so 很少 有 得到时间 看电视机 因为 她 会有很多 demands
+UI25FAZ_0102 742040 744703 CS 然后 every minute 她会 叫我
+UI25FAZ_0102 746713 752432 ZH 啊 跟我按摩 (咯) 跟我 推我的头 放药推头
+UI25FAZ_0102 752432 760372 ZH 跟我 (啊) 带她去 小便 啊 抹身体 这样子 咯
+UI25FAZ_0102 761635 769537 ZH  很像 一点 咯 在那边 咯 然后她 是要我 在那边 啦
+UI25FAZ_0102 769701 779764 CS 因为 她有 跟我的 啊 我的 uncle 讲 啊 你们 有出去 的时候啊 记得 不要带 素贤 出去 留她 在这里 照顾我
+UI25FAZ_0102 788035 796174 CS 啊 现在 全部还 discussing 着咯 so so far 是我的 uncle auntie 照顾 咯
+UI25FAZ_0102 796174 800607 CS so 我觉得 现在 我没有 东西做 so 我回去 帮忙他们
+UI25FAZ_0102 800607 803899 CS 照顾 一点 咯 so 没有这样 burden
+UI25FAZ_0102 807685 812422 CS 因为 domestic helper after 他们算 很贵 然后
+UI25FAZ_0102 816932 827096 CS 因为 他们 她因为 有找到 是讲 啊 她要来 是一个 like around ah three hours
+UI25FAZ_0102 827096 832002 CS 可是 charge 很贵 然后 她的时间 不可以 change it's
+UI25FAZ_0102 832002 842555 CS 可以在 morning 罢了 可是 morning 我的 grand parents 还没有 醒嘛 so 不会 有什么东西 做 嘛 if 要做 是要 afternoon 有比较多 东西 so
+UI25FAZ_0102 842555 852170 CS 也是 做了 like 很不方便 so 没有去 (啊) hire one loh
+UI25FAZ_0102 854658 867233 CS 因为 maid 现在很贵 然后 很多 procedure 很多 很麻烦 啦 因为 (啊) instead of 叫 maid 照顾 然后你 还要去 照顾那个 maid 因为
+UI25FAZ_0102 867233 871721 CS en number one 她的 pay would be around six hundred
+UI25FAZ_0102 871721 876751 EN then i heard recently like to put down payment around nine thousand
+UI25FAZ_0102 877756 885381 CS my family 没有 这样多钱 要去 付给那个 maid loh 这样子
+UI25FAZ_0102 887638 892554 CS 这个 不大清楚 因为是 听 from ah 我的 mother 的 friend
+UI25FAZ_0102 892554 898856 CS ah when 他们 请的时候 放这样 高的 deposit 要还 这样多钱
+UI25FAZ_0102 899912 902066 ZH 我不大 清楚 哦 这个
+UI25FAZ_0102 907035 914533 CS 我的 grandma 是 (啊) 在 april 的时候 她跌倒 so 有 surgery 可是 after that
+UI25FAZ_0102 914533 915387 ZH 可以 她
+UI25FAZ_0102 915387 925035 CS 她可以 行了 可是 啊 老了 你没有力了 啊 然后 她很 选择 very picky of food
+UI25FAZ_0102 925035 937015 CS so ah not to her taste she won't eat it 然后 你没有 吃东西 你也 没有力 要去行 要去起来 嘛 然后 头晕 这样子 咯
+UI25FAZ_0102 939507 942070 CS so 是老人病 哦 这样子 啦
+UI25FAZ_0102 946467 955221 ZH 啊 现在 啊 （啊） 应该 今天 我也 我应该去的 可是 （啊） 我来这里 咯
+UI25FAZ_0102 955221 957980 ZH 然后 （啊） 昨天 刚刚去 啊
+UI25FAZ_0102 957980 963175 CS 星期一 的时候 我回来 然后 昨天 我回去 看 during day time loh
+UI25FAZ_0102 963175 972422 CS 因为 我不敢要 住那边 因为我的 cousin 不在 因为 recently was the seventh chinese lunar month
+UI25FAZ_0102 972422 974973 CS so 她看到 很多东西
+UI25FAZ_0102 974973 981414 ZH 然后问 咯 我们 看到的东西 我 她看 啊 我们 不能看到的东西 她看到
+UI25FAZ_0102 981414 983324 ZH 然后 她问
+UI25FAZ_0102 983324 987377 EN ah usually it always happen at night only
+UI25FAZ_0102 987377 995759 CS so when i was alone in her room with her 她问我 这个房间 有几个人住的 我讲 你 咯 一个人 啦
+UI25FAZ_0102 995759 998131 ZH 做么 有那个 三个孩子的
+UI25FAZ_0102 999665 1005819 CS 然后 可是 有很多次 还有 after that after i leave the room my auntie went in
+UI25FAZ_0102 1005819 1011420 CS 啊 她问我的 auntie 谁是 那个女孩 看着 一个孩子
+UI25FAZ_0102 1011774 1018608 ZH 然后 昨天 早上的时候 她问我 谁来的 啊 谁是 那个孩子
+UI25FAZ_0102 1018608 1020994 ZH 掉了在那边 这样瘦
+UI25FAZ_0102 1024085 1027224 CS 还有很多 stories lo 
+UI25FAZ_0102 1030955 1034372 ZH 她是 今年 八十三岁
+UI25FAZ_0102 1039749 1052260 CS 可是 always like at this time 她是 晚上的时候 她会问 这样的东西 during day time don't have this problem at all then before this no problem at all
+UI25FAZ_0102 1055804 1058713 EN before the seventh month
+UI25FAZ_0102 1063241 1066759 CS ah hopefully lah 应该是 没有 咯
+UI25FAZ_0102 1071708 1083116 CS 应该 是会一点 夸 因为有 one night ah 我们 我 跟我的 两个表 (啊) 表姐 跟 表弟
+UI25FAZ_0102 1083116 1091617 CS 睡在一起 在一个房间 然后 三 我们 三个 听到 很大的声音 so 我们三个 全部 跳起来 咯
+UI25FAZ_0102 1091617 1095935 CS 然后去 check 看 啦 是不是 我的 maybe grandparents fell down
+UI25FAZ_0102 1095935 1104548 CS 然后 没有的时候 我们去 回去 睡觉 咯 可是 我的表姐 她 have difficulty in sleeping
+UI25FAZ_0102 1104548 1107651 CS so 她看到 一个孩子
+UI25FAZ_0102 1107651 1118192 CS 跳在 我们的 我们的床 跳来跳去 然后 那个孩子 呢 看到我的 notice 我的 表姐 看着她
+UI25FAZ_0102 1118576 1120611 CS so 她来 很靠近她
+UI25FAZ_0102 1120611 1122772 CS so 我的 cousin panic 了
+UI25FAZ_0102 1122772 1125762 ZH 像 抓她的头发
+UI25FAZ_0102 1125762 1134246 CS 推她 咯 然后 那个孩子 不见去 啦 so 我的 cousin 不 sure 是一个 dream 还是 real 可是 她觉得 很 real 一下
+UI25FAZ_0102 1134246 1145354 CS so after 听到我的 grandma 讲 问 看到 孩子 so 怕是真的 她看到的东西 是真的 啊
+UI25FAZ_0102 1148156 1160329 CS 因为 她 因为是在 晚上 我们 睡觉了 so 她 不大清楚 是你真的看到 还是 不是这样子 咯
+UI25FAZ_0102 1160329 1169374 ZH 不大清楚 呱 因为 你很累了 然后怕 不要去相信 真的 你看到 这样的 东西 咯
+UI25FAZ_0102 1179124 1186300 CS if 晚上的时候 会 啦 会一点怕 咯 可是 啊 during the day time it's okay lah
+UI25FAZ_0102 1188685 1195508 CS 是 hope that 没有了啦 since now is the eight month already the eighth lunar month

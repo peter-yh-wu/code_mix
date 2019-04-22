@@ -1,0 +1,530 @@
+37NC45MBP_0101 1268 3821 EN test mic test mic test one two
+37NC45MBP_0101 11198 12040 EN okay okay
+37NC45MBP_0101 13415 14088 EN 
+37NC45MBP_0101 19362 20652 EN hey hello serious
+37NC45MBP_0101 21690 23120 ZH 来 问 我 一些 问题
+37NC45MBP_0101 40051 42464 CS 哦 (啊) 我 是 study in (呃)
+37NC45MBP_0101 43165 44736 EN (uh) ngee-ann secondary
+37NC45MBP_0101 45598 49698 CS then i went on to t. j. c. yeah 淡马锡 初级 学院
+37NC45MBP_0101 54181 56393 CS 诶 等一下 等一下 your turn your turn
+37NC45MBP_0101 57655 59650 CS (啊) 你 以前 是 study in which school
+37NC45MBP_0101 60460 61862 EN ah same question
+37NC45MBP_0101 80000 83350 EN okay i think we just have a conversation ah then eh yeah okay
+37NC45MBP_0101 85967 87167 CS 哎呀 so screw this
+37NC45MBP_0101 87463 88429 EN 
+37NC45MBP_0101 94981 96882 EN okay okay let let let let's do this
+37NC45MBP_0101 97490 100606 EN okay (erm) so ah
+37NC45MBP_0101 101404 103678 EN general question ah so
+37NC45MBP_0101 106390 107628 CS 你 喜欢 吃 什么 food
+37NC45MBP_0101 112864 114438 ZH 日 日本餐 啊
+37NC45MBP_0101 118847 119486 EN okay
+37NC45MBP_0101 128485 130557 EN no la just have a normal conversation la
+37NC45MBP_0101 132582 134437 EN (erm) i will try to insert chinese
+37NC45MBP_0101 136883 137958 EN okay yes
+37NC45MBP_0101 140858 144268 CS okay 日本餐 (啊) what what what do you like to eat sashimi
+37NC45MBP_0101 147580 148935 EN okay anything else
+37NC45MBP_0101 160988 161689 EN okay
+37NC45MBP_0101 173227 176094 EN your turn to ask me oh okay you you set a topic
+37NC45MBP_0101 177294 178229 EN yeah okay
+37NC45MBP_0101 183426 184906 EN props okay cool
+37NC45MBP_0101 191225 191817 EN okay
+37NC45MBP_0101 198470 200043 EN okay can
+37NC45MBP_0101 215165 217082 CS okay 他们
+37NC45MBP_0101 218337 219178 EN 
+37NC45MBP_0101 230568 231113 EN okay
+37NC45MBP_0101 239566 241109 EN yeah two thousand six right
+37NC45MBP_0101 242574 243212 EN okay
+37NC45MBP_0101 252289 253860 ZH 是 一样 的 公司 吗
+37NC45MBP_0101 254938 256044 EN oh it's the same company ah
+37NC45MBP_0101 257949 259273 EN but what's different this time
+37NC45MBP_0101 263355 264119 EN okay
+37NC45MBP_0101 268833 273149 EN okay have you have you seen ah clips sets and props
+37NC45MBP_0101 274348 279300 CS clip clip two years ago 两年 前 的 (啊) productions
+37NC45MBP_0101 280293 283082 EN ah because it was at jubilee hall also and they used frames
+37NC45MBP_0101 285232 290389 EN actually i don't know whether is frames or not because they they had those ah frames
+37NC45MBP_0101 290982 294099 CS then 他们 把 他们 那些 frames 带 进 那个 剧场
+37NC45MBP_0101 296045 296855 EN jubilee hall ah
+37NC45MBP_0101 297541 304491 EN the the theatre and they ah and they fixed it on stage
+37NC45MBP_0101 306733 310298 EN so they brought the frames in and then different parts and then they fixed it on stage
+37NC45MBP_0101 311887 315230 CS 两 千 六 啊 yeah but can't be that expensive right
+37NC45MBP_0101 315666 317427 EN okay so what what's the alternative
+37NC45MBP_0101 343152 344118 EN okay
+37NC45MBP_0101 369439 371231 EN okay so how much are we looking at
+37NC45MBP_0101 375422 376170 EN okay can
+37NC45MBP_0101 380781 382542 EN which is will be how much
+37NC45MBP_0101 398810 401521 CS okay 拿来 装 那些 道具 啦
+37NC45MBP_0101 408884 409414 EN okay
+37NC45MBP_0101 410613 412732 EN the entire sets and props
+37NC45MBP_0101 416814 418419 EN but canvas we need to buy ourselves la
+37NC45MBP_0101 420008 423268 EN inclusive also so is one point seven to two k. for everything
+37NC45MBP_0101 424421 425028 EN that sounds good
+37NC45MBP_0101 425574 428710 CS but during tech runs (啊) 练习 的 时候
+37NC45MBP_0101 435116 436588 EN 
+37NC45MBP_0101 445410 446968 EN okay yeah i think we should
+37NC45MBP_0101 459348 463274 EN oh okay so so these people have done productions before la
+37NC45MBP_0101 464318 465159 EN i presume
+37NC45MBP_0101 470363 471220 EN okay
+37NC45MBP_0101 496338 497008 EN okay
+37NC45MBP_0101 505212 505679 ZH 可以
+37NC45MBP_0101 511416 519770 CS can the props the props (啊) 应该 不会 用 很多 钱 right 因为 你们 会 use the all the old props from the store
+37NC45MBP_0101 528881 529566 EN okay
+37NC45MBP_0101 534256 535767 EN 
+37NC45MBP_0101 546040 548710 CS 明白 明白 what's marvin working on
+37NC45MBP_0101 550109 551008 EN design for what
+37NC45MBP_0101 553626 554249 EN okay
+37NC45MBP_0101 561229 563806 EN eunice ah p. and p. ah
+37NC45MBP_0101 570353 571315 EN oh next week is it
+37NC45MBP_0101 572250 579390 CS (啊) for 下 个 会议 诶 the next meeting on eleventh
+37NC45MBP_0101 580362 584304 EN ah design ah can you all show us some stuff
+37NC45MBP_0101 585379 589290 EN already not really la like maybe what you're currently working on
+37NC45MBP_0101 592422 595058 EN like what marvin is has produced so far la
+37NC45MBP_0101 596896 597301 EN can ah
+37NC45MBP_0101 602187 603960 CS okay which is 几时
+37NC45MBP_0101 615845 616858 EN contractors
+37NC45MBP_0101 625834 628520 CS timber guys 我们 用 过去 年 用 过 right
+37NC45MBP_0101 630119 631780 EN but last year was very cheap eh
+37NC45MBP_0101 637560 638791 EN <unk>
+37NC45MBP_0101 650165 650875 EN okay
+37NC45MBP_0101 663332 664423 EN en yeah understand
+37NC45MBP_0101 667258 672160 CS 因为 那个 电梯 够 大 可以 装 啊 they can bring all the props up at stairs at one time
+37NC45MBP_0101 683175 689407 CS actually for manpower you don't need to be (呃) very (呃) concern (呃) 不用 太 担心 因为
+37NC45MBP_0101 690046 694791 CS yeah 因为 as long as the sets can go through the door then that~
+37NC45MBP_0101 694791 697035 EN that is the main thing that is~ yeah
+37NC45MBP_0101 705613 706096 EN okay
+37NC45MBP_0101 707015 709726 EN if some things you all do yourself will it be cheaper
+37NC45MBP_0101 711004 711923 EN i i not sure la
+37NC45MBP_0101 713290 716691 CS like 有些 东西 可以 自己 做 他们 不用 那些 professional 来 做 like
+37NC45MBP_0101 717454 720548 CS like 装 东西 or fixing up some stuff
+37NC45MBP_0101 720548 721000 EN 
+37NC45MBP_0101 721000 723181 EN then you tell them maybe don't need ah
+37NC45MBP_0101 734953 736660 CS that one okay 啦 fly bar 一定
+37NC45MBP_0101 776424 778574 EN oh okay so it looks good la
+37NC45MBP_0101 794740 797742 CS okay but 啊 end feb 会 有点 太 迟
+37NC45MBP_0101 799783 800811 EN yeah
+37NC45MBP_0101 801356 809680 CS 如果 你 before chinese new year 啊 可以 做 完 是 最好 because after chinese new year would be all the full runs
+37NC45MBP_0101 809680 810994 EN full runs means that ah
+37NC45MBP_0101 811773 816369 EN are including all the props and sets but then in our case we cannot right because they will
+37NC45MBP_0101 818691 819127 EN okay
+37NC45MBP_0101 821869 822487 EN no ah but
+37NC45MBP_0101 824120 827090 CS but 如果 banner 我们 用 banner 的话 会不会 弄坏
+37NC45MBP_0101 830115 831876 CS yeah so 最好 不要 risk 咯
+37NC45MBP_0101 832298 835909 EN so you all might want to think when you all have tech runs and full runs right
+37NC45MBP_0101 835909 837161 ZH 你们 怎么
+37NC45MBP_0101 838283 840671 CS yeah 你们 怎么 like show that there is a
+37NC45MBP_0101 841093 843548 EN that there's a scene change or there is a
+37NC45MBP_0101 844506 847817 EN certain scene or certain backdrop over here
+37NC45MBP_0101 849203 856507 CS the cast will have a better picture when they when they act 啦 不然 他们 什么 都 看 不到 就 很 very hard for them also
+37NC45MBP_0101 857396 858985 EN yeah when they all in costumes
+37NC45MBP_0101 859907 862306 EN is like they're they're acting shrek or something like that
+37NC45MBP_0101 862850 864239 EN yeah so very hard
+37NC45MBP_0101 866690 870877 CS that is one main concern 啦 and (啊) for 那些 (啊)
+37NC45MBP_0101 871670 873623 EN the the scene changes right
+37NC45MBP_0101 874445 877611 CS (啊) 你们 怎么 怎么 换 那个 scene
+37NC45MBP_0101 878811 880455 EN as in is it is it going to be manual
+37NC45MBP_0101 930992 931569 EN wah
+37NC45MBP_0101 954628 955372 CS okay 因为
+37NC45MBP_0101 955372 955928 EN 
+37NC45MBP_0101 955928 957216 EN have do you all have the script
+37NC45MBP_0101 960501 962856 EN okay because the the scene changes all that
+37NC45MBP_0101 962856 963934 EN  (uh)
+37NC45MBP_0101 964900 966440 CS 我们 要 time 的
+37NC45MBP_0101 967144 968844 EN yeah so correct
+37NC45MBP_0101 969001 970055 EN so we need to
+37NC45MBP_0101 970733 971111 EN (erm)
+37NC45MBP_0101 971800 973755 EN usually la what the s and p
+37NC45MBP_0101 974254 974865 EN ah
+37NC45MBP_0101 975321 978900 EN will be preoccupied with during tech runs and full runs right is
+37NC45MBP_0101 978900 983436 CS 他们 会 time 自己 take how long to change the the scenes
+37NC45MBP_0101 983436 983925 EN 
+37NC45MBP_0101 983925 991340 EN but then this time it might be a problem cause you only you all only can do it during (uh) the bump-ins which is two days only
+37NC45MBP_0101 997054 1000100 EN plus bump-in maybe first day you all will be so shack
+37NC45MBP_0101 1000634 1004377 EN ah setting up everything so that leaves one day of bump-in
+37NC45MBP_0101 1005110 1015490 CS and one day of bump-in (呃) not only for you all only because we still got the casts who need to test their sound test their mics and then 他们 要 (啊) 去
+37NC45MBP_0101 1015872 1022804 CS 啊 学会 怎么 有 stage presence 那些 东西 so the stage cannot be always moving to let you all practise
+37NC45MBP_0101 1024854 1026442 EN that is one problem i see
+37NC45MBP_0101 1037824 1041509 ZH 如果 如果 (啊) 我们 可以 用 那些
+37NC45MBP_0101 1042464 1044642 CS 他们 可以 把 那些 frame stock 好
+37NC45MBP_0101 1046041 1049176 CS and we keep in our store first 有没有 可能
+37NC45MBP_0101 1050642 1051142 ZH 没有
+37NC45MBP_0101 1052553 1053119 EN why
+37NC45MBP_0101 1060002 1061379 EN that will be our own dai-ji ah
+37NC45MBP_0101 1063996 1067884 EN why what is the rationale for constructing inside is it because it is too big
+37NC45MBP_0101 1073827 1074615 EN okay if it's not
+37NC45MBP_0101 1078698 1084315 CS okay 因为 如果 如果 是 canvas is the main thing that we don't want spoil right
+37NC45MBP_0101 1084714 1087158 EN what we can use the frames without the canvas to practise
+37NC45MBP_0101 1090915 1094425 EN and then we can put wheels and then we can test whether it is stable or not la
+37NC45MBP_0101 1094425 1095025 EN 
+37NC45MBP_0101 1095025 1100364 CS because (呃) backstage 你们 有 三个 人 right plus subcommmm 五个 人
+37NC45MBP_0101 1101041 1110064 EN so ah eight people is more then enough ah not more then enough ah but should be comfortable manpower la to move the things around
+37NC45MBP_0101 1140309 1141466 EN the two thousand six ah
+37NC45MBP_0101 1146303 1149002 EN then how are we going to put inside the theatre
+37NC45MBP_0101 1153418 1155374 EN if it's too big cannot push in leh
+37NC45MBP_0101 1159708 1166684 EN why why don't if for timber one right you try and do a smaller sets
+37NC45MBP_0101 1168735 1171001 EN or sets that are segmented but
+37NC45MBP_0101 1172323 1174514 ZH 到了 剧场 可以 自己 捣
+37NC45MBP_0101 1175609 1177342 ZH 很 贵 两千 六 啊
+37NC45MBP_0101 1179810 1182032 CS is it po~ possible 我们 自己 hammer 进去
+37NC45MBP_0101 1182709 1185396 CS or 自己黏 or 自己 捣
+37NC45MBP_0101 1186295 1192408 EN like we only request blocks of sets then when we reach there that time we do our own
+37NC45MBP_0101 1194352 1194952 ZH 不稳 哦
+37NC45MBP_0101 1217743 1219931 EN practify ah yeah okay okay
+37NC45MBP_0101 1221542 1222753 EN okay yeah that that's true
+37NC45MBP_0101 1249121 1253242 EN the whole okay ah next week we all go down to the theatre and and check it out
+37NC45MBP_0101 1255126 1258254 CS yeah 不用 怕 啦 i think 一定 会 有 解决 的
+37NC45MBP_0101 1259236 1264338 EN because yeah because actually they did in jubilee for quite a few years already yeah
+37NC45MBP_0101 1268432 1273586 EN last time they use frames ah and then they brought it up themselves and fix it on stage themselves
+37NC45MBP_0101 1276585 1277813 EN yeah is those frames
+37NC45MBP_0101 1278269 1278724 EN yeah
+37NC45MBP_0101 1280602 1281824 EN i have no idea
+37NC45MBP_0101 1288028 1288973 EN maybe you look rich
+37NC45MBP_0101 1290172 1290772 EN 
+37NC45MBP_0101 1292872 1293894 EN then who talked to them
+37NC45MBP_0101 1299343 1299999 ZH 商量
+37NC45MBP_0101 1318562 1319073 EN okay
+37NC45MBP_0101 1333243 1333709 EN okay
+37NC45MBP_0101 1335120 1341152 CS but there are no other alternatives 啦 besides these two because (呃) 其他 的 都有 year end project right
+37NC45MBP_0101 1349068 1350834 EN 
+37NC45MBP_0101 1365032 1365576 EN okay
+37NC45MBP_0101 1395932 1396599 EN (erm)
+37NC45MBP_0101 1421034 1421712 EN <unk>
+37NC45MBP_0101 1421712 1423778 EN i think they are over over pricing
+37NC45MBP_0101 1446130 1446741 EN 
+37NC45MBP_0101 1452312 1457689 CS okay 啦 if they give that assurance 啊 then 就 比较 放心 啦 因为 你 知道 他们 会
+37NC45MBP_0101 1458700 1459177 EN yeah
+37NC45MBP_0101 1463594 1467704 EN they are willing to work something out and and and think of alternatives
+37NC45MBP_0101 1468537 1472131 EN so i think we can work with them la see what they give us lo
+37NC45MBP_0101 1475541 1477941 CS okay 啦 不要 谈 公事 了 谈 私事
+37NC45MBP_0101 1481546 1482324 EN 
+37NC45MBP_0101 1484801 1487012 EN okay so ah
+37NC45MBP_0101 1488089 1492206 EN what what what are some of your hobbies or past times
+37NC45MBP_0101 1499255 1500788 CS okay 除了 玩鼓
+37NC45MBP_0101 1505032 1506253 ZH 哦 几时 的 事情
+37NC45MBP_0101 1510554 1513544 CS competition as in 在 学校 的 competition or
+37NC45MBP_0101 1514513 1515558 EN external competi~
+37NC45MBP_0101 1517919 1519096 EN oh you are representing who
+37NC45MBP_0101 1523580 1525402 EN okay oh okay
+37NC45MBP_0101 1525402 1526001 EN 
+37NC45MBP_0101 1527323 1528690 EN 
+37NC45MBP_0101 1529223 1530770 EN okay cool cool so
+37NC45MBP_0101 1532092 1534747 EN what what's the what's the practise time like
+37NC45MBP_0101 1538741 1540029 EN wah sponteneous la
+37NC45MBP_0101 1543007 1543640 EN okay
+37NC45MBP_0101 1562092 1564761 EN oh so only few instruments there la
+37NC45MBP_0101 1573774 1574618 EN vivo city
+37NC45MBP_0101 1576879 1578345 EN oh how much are you all paid
+37NC45MBP_0101 1581011 1581878 EN three fifty ah
+37NC45MBP_0101 1583400 1585688 EN oh okay not bad ah but you all got fewer people
+37NC45MBP_0101 1590104 1596623 CS okay 啦 not bad 啦 if (啊) okay so so 你 还有 like 什么 hobbies
+37NC45MBP_0101 1597567 1598601 EN or past times
+37NC45MBP_0101 1600629 1601973 EN your life is drums
+37NC45MBP_0101 1603617 1604139 EN piano
+37NC45MBP_0101 1605605 1606760 EN your life is drums
+37NC45MBP_0101 1608038 1609162 EN okay what what what
+37NC45MBP_0101 1611117 1613072 EN what what c. c. a. were you in in secondary school
+37NC45MBP_0101 1617278 1618188 EN poly eh
+37NC45MBP_0101 1632102 1635892 EN ah reatively okay i guess my cap dropped a bit
+37NC45MBP_0101 1636958 1640058 EN yeah from four to three point nine eight
+37NC45MBP_0101 1642691 1643291 EN yeah
+37NC45MBP_0101 1644202 1645724 EN what what about your how was your first sem
+37NC45MBP_0101 1646890 1647313 EN quite good
+37NC45MBP_0101 1648490 1649290 EN why five
+37NC45MBP_0101 1650501 1651545 EN wow nice
+37NC45MBP_0101 1651829 1653884 EN 
+37NC45MBP_0101 1654404 1658004 CS 哇 很好 很好 you did very well for your first sem
+37NC45MBP_0101 1672770 1673714 EN you are mugger ah
+37NC45MBP_0101 1677210 1678032 EN 
+37NC45MBP_0101 1682587 1684505 EN why but you are quite fun loving what
+37NC45MBP_0101 1685094 1691844 CS how 为什么 你 这么 拼命 的 读 as in its not a bad thing 啦 i'm just asking why you are so inclined to studying
+37NC45MBP_0101 1714517 1715872 EN not your cup of tea ah
+37NC45MBP_0101 1720122 1720877 EN need to be home
+37NC45MBP_0101 1720877 1721422 EN 
+37NC45MBP_0101 1753077 1755443 EN okay ah
+37NC45MBP_0101 1756143 1759089 CS 我 一直 都 相信 啊 that (啊) if you are
+37NC45MBP_0101 1760566 1765595 EN as in if your support groups or your friends outside are already
+37NC45MBP_0101 1765873 1766462 EN how to say
+37NC45MBP_0101 1767506 1768272 EN not sufficient
+37NC45MBP_0101 1769194 1770027 EN ah as in
+37NC45MBP_0101 1770444 1774133 CS 强 yeah as in if you are very attached to them already 你 不会
+37NC45MBP_0101 1774555 1777499 EN like really ah
+37NC45MBP_0101 1778843 1780426 EN be so involved in hall ah
+37NC45MBP_0101 1780993 1781582 EN i think
+37NC45MBP_0101 1783315 1783659 EN right
+37NC45MBP_0101 1788280 1789091 EN ra-ra
+37NC45MBP_0101 1793996 1795140 EN hang out with
+37NC45MBP_0101 1802189 1805944 EN yeah i think a lot of us are not that kind of people also
+37NC45MBP_0101 1820620 1823224 CS okay 你 room-mate 是 studying the same course
+37NC45MBP_0101 1833223 1833801 EN okay
+37NC45MBP_0101 1843627 1844560 EN seriously
+37NC45MBP_0101 1861113 1863365 ZH 啊 浪费 你 的 时间 啊
+37NC45MBP_0101 1864110 1869431 CS but 如果 (啊) 你 的 roomie 不是 你 的 course 的话 咧 would it help
+37NC45MBP_0101 1879369 1881358 EN 
+37NC45MBP_0101 1881358 1886057 CS 你 你 你 住在 房间 里面 what 哪里 会 在 外面 睡觉
+37NC45MBP_0101 1886057 1886786 EN 
+37NC45MBP_0101 1890185 1890729 ZH 哦
+37NC45MBP_0101 1891996 1892340 EN okay
+37NC45MBP_0101 1896967 1897556 EN okay
+37NC45MBP_0101 1899045 1899700 EN interesting
+37NC45MBP_0101 1914742 1916364 EN so what's your cup of tea
+37NC45MBP_0101 1918597 1920663 EN where where's your where's your comfort zone
+37NC45MBP_0101 1933279 1934257 EN <unk>
+37NC45MBP_0101 1945394 1950814 EN who are your closer friends as in from where and and what they like church ah
+37NC45MBP_0101 1955834 1957964 CS 学校 中学 poly
+37NC45MBP_0101 1968312 1969175 CS why is it 蛮 强
+37NC45MBP_0101 1971074 1972140 ZH 同甘共苦
+37NC45MBP_0101 1979334 1979867 EN okay
+37NC45MBP_0101 1981878 1982955 EN oh nice
+37NC45MBP_0101 1984566 1985499 EN office
+37NC45MBP_0101 1996609 1998098 EN you are saying this cause i'm here right
+37NC45MBP_0101 1998942 2000330 EN 
+37NC45MBP_0101 2009868 2013345 EN it's like that la it's it's also too big and diversed also
+37NC45MBP_0101 2021484 2026917 CS 你 在 教会 咧 what what commitments or what what what what ministries do you
+37NC45MBP_0101 2031233 2031878 EN 
+37NC45MBP_0101 2034199 2034877 EN okay
+37NC45MBP_0101 2036277 2036777 EN yeah
+37NC45MBP_0101 2037732 2038943 EN why why did you pulled out
+37NC45MBP_0101 2044248 2045014 ZH 不够 时间
+37NC45MBP_0101 2059713 2063401 CS 哇 为 为什么 会 这么 拼命 everyday
+37NC45MBP_0101 2076604 2077681 EN let it slip away
+37NC45MBP_0101 2092635 2097525 CS yeah 哇 but 其实 很 is quite
+37NC45MBP_0101 2099680 2102299 EN quite rare to see someone with so much drive
+37NC45MBP_0101 2104598 2105176 ZH 还好 咩
+37NC45MBP_0101 2108915 2110226 EN why are you a weird guy
+37NC45MBP_0101 2118074 2118697 EN your background
+37NC45MBP_0101 2121340 2124229 EN what's with your family background so how's your family
+37NC45MBP_0101 2137705 2138994 ZH 是 妈妈 还是 爸爸
+37NC45MBP_0101 2142851 2143418 ZH 哦
+37NC45MBP_0101 2143962 2145006 EN oh oh my
+37NC45MBP_0101 2172463 2175229 EN you're growing up way faster than people of your age
+37NC45MBP_0101 2177184 2178550 EN 
+37NC45MBP_0101 2188383 2189116 ZH 什么 很 乱
+37NC45MBP_0101 2189116 2189749 EN 
+37NC45MBP_0101 2190316 2193026 ZH 生活 生活 方式 很 乱 啊
+37NC45MBP_0101 2194448 2196048 ZH 是 吗 有 几个 女的
+37NC45MBP_0101 2196798 2197531 EN 
+37NC45MBP_0101 2198842 2200375 EN oh no it's a boys school
+37NC45MBP_0101 2201419 2201908 EN okay
+37NC45MBP_0101 2206991 2209346 CS 你是 独生子 吗 are you the only child
+37NC45MBP_0101 2223704 2225252 EN 
+37NC45MBP_0101 2229609 2230364 EN are you a gay
+37NC45MBP_0101 2232064 2235588 EN professor his his contact lens like just like went out position
+37NC45MBP_0101 2237510 2239087 EN he is in pain right now okay
+37NC45MBP_0101 2244915 2247034 ZH 你 有 几个 弟兄 姐妹
+37NC45MBP_0101 2250953 2252197 ZH 哇 三个 姐姐
+37NC45MBP_0101 2259868 2260401 ZH 我懂
+37NC45MBP_0101 2264622 2265678 EN oh opposition
+37NC45MBP_0101 2268899 2270783 EN yeah i can it's coming out
+37NC45MBP_0101 2274215 2274904 EN it's out already
+37NC45MBP_0101 2278960 2279882 EN okay i think
+37NC45MBP_0101 2281437 2283392 EN is there a way to pause this or oh okay
+37NC45MBP_0101 2287830 2289319 EN yeah it's ah it's crazy
+37NC45MBP_0101 2291874 2292507 EN 
+37NC45MBP_0101 2293785 2294329 EN 
+37NC45MBP_0101 2299497 2301740 ZH 你 是 一个 很 勇敢 的 男生
+37NC45MBP_0101 2304561 2306171 CS 看 得到 了 吗 can you see
+37NC45MBP_0101 2307923 2311367 EN okay it's almost in it's still a bit out look down
+37NC45MBP_0101 2315827 2316661 EN okay it's back
+37NC45MBP_0101 2316661 2317894 EN okay yay
+37NC45MBP_0101 2322028 2326949 CS okay 你 这样 在 家里 会不会 觉得 很 很 有 压力
+37NC45MBP_0101 2328793 2330303 ZH 因为 都 有 弟兄 姐妹们 啊
+37NC45MBP_0101 2360921 2361599 ZH 其实
+37NC45MBP_0101 2377752 2378718 EN to keep you in check ah
+37NC45MBP_0101 2382395 2383528 EN okay wah
+37NC45MBP_0101 2385272 2385661 EN wow
+37NC45MBP_0101 2392588 2393488 EN nothing to say ah
+37NC45MBP_0101 2395311 2398044 EN you didn't take the opportunity to talk to her ah
+37NC45MBP_0101 2398766 2402343 ZH 你 不是 很 擅长 跟 女孩子 讲话 的 一个人 是 吗
+37NC45MBP_0101 2403476 2404034 EN really meh
+37NC45MBP_0101 2407222 2412651 CS as in you do not really (啊) 习惯 和 (啊) 女孩子 沟通
+37NC45MBP_0101 2417091 2422141 CS you're used to talking to 在 教会 里面 的 的 girls 啊
+37NC45MBP_0101 2430129 2431918 EN christopher no ah
+37NC45MBP_0101 2431918 2435128 EN christopher is different christopher can talk to anybody
+37NC45MBP_0101 2435983 2441708 EN from different nationalities from different culture and from different background different gender everything
+37NC45MBP_0101 2442585 2444251 EN he he is quite he is quite good
+37NC45MBP_0101 2447691 2450911 CS 有 看过 照片 never seen the real person
+37NC45MBP_0101 2455006 2455661 ZH 没有 啊
+37NC45MBP_0101 2459083 2466878 EN ah not now when productions are still on and school is still on and church is still on i have too many things on my plate la
+37NC45MBP_0101 2468806 2469206 EN yeah
+37NC45MBP_0101 2470684 2471550 EN what what about you
+37NC45MBP_0101 2472917 2475353 EN same what what do you have on your plate
+37NC45MBP_0101 2476541 2479563 EN your family and your studies la
+37NC45MBP_0101 2518769 2520341 CS it's a risk 啦 要 冒险
+37NC45MBP_0101 2527811 2529262 ZH 很期待看
+37NC45MBP_0101 2530672 2532050 EN yeah yeah i i saw
+37NC45MBP_0101 2542765 2543598 EN yeah yeah
+37NC45MBP_0101 2554302 2554857 EN okay
+37NC45MBP_0101 2557185 2559731 CS why you did something wrong 啊 做 错 了 东西
+37NC45MBP_0101 2572601 2573746 EN what is a. o. p
+37NC45MBP_0101 2575212 2576523 EN oh okay okay
+37NC45MBP_0101 2599492 2600203 ZH 还有 什么
+37NC45MBP_0101 2601191 2601991 EN b. b.
+37NC45MBP_0101 2603902 2604579 CS okay 的 啦
+37NC45MBP_0101 2606791 2609031 CS but youth ministry 你 已经 退出 了 right
+37NC45MBP_0101 2612128 2613628 EN okay how long were you in
+37NC45MBP_0101 2616472 2619215 EN in the ministry not in the fellowship right
+37NC45MBP_0101 2621288 2622576 EN being a youth leader
+37NC45MBP_0101 2631481 2634747 CS yeah 很吃力 do you feel burnt or are you fat
+37NC45MBP_0101 2637447 2637936 EN okay
+37NC45MBP_0101 2641580 2642591 EN i no
+37NC45MBP_0101 2645896 2646452 EN okay
+37NC45MBP_0101 2648185 2648762 EN until
+37NC45MBP_0101 2652039 2652650 EN okay
+37NC45MBP_0101 2658566 2665215 CS really but violet 有 跟 我 分享 过 她 she said that (呃) you went to the wrong church right
+37NC45MBP_0101 2665860 2668719 EN then you ended up worshipping there
+37NC45MBP_0101 2671596 2676342 EN how is it even remotely possible that you do not know who you are attending church with
+37NC45MBP_0101 2677209 2678142 EN oh okay
+37NC45MBP_0101 2684358 2684891 EN okay
+37NC45MBP_0101 2690640 2691940 EN how old were you then
+37NC45MBP_0101 2695050 2695695 EN okay
+37NC45MBP_0101 2699878 2700811 EN so you were
+37NC45MBP_0101 2702366 2703021 ZH 十五
+37NC45MBP_0101 2704810 2711601 CS 哦 so after two years in the in that particular church 你 就 (呃) 参加 那个 youth ministry 啦
+37NC45MBP_0101 2714633 2716679 EN yeah yes lutherans also have it
+37NC45MBP_0101 2717645 2718245 EN oh
+37NC45MBP_0101 2722061 2722850 EN oh
+37NC45MBP_0101 2725872 2726705 EN okay ah
+37NC45MBP_0101 2730588 2732843 EN then what's what what else is on your
+37NC45MBP_0101 2733143 2737731 CS so yeah 你 你 会 把 把 youth fellowship 不 youth ministry 放下 啦
+37NC45MBP_0101 2738208 2740522 CS but 有 谁 在 替 你 violet
+37NC45MBP_0101 2750437 2751159 EN like what
+37NC45MBP_0101 2753258 2754145 EN little lambs
+37NC45MBP_0101 2756053 2757053 EN youth ministry
+37NC45MBP_0101 2761207 2762853 EN is about the same as everyone else la
+37NC45MBP_0101 2764575 2765631 EN as in you and i la
+37NC45MBP_0101 2766930 2769541 EN but that one not really okay that one might be
+37NC45MBP_0101 2770271 2772931 CS taxing but but 是 暂时 的
+37NC45MBP_0101 2775136 2778993 EN and it's something she like ah and she is during the holidays so it's it's okay no problem that one
+37NC45MBP_0101 2781303 2784921 CS but other than that 我 不知道 她 有什么 她 还有 什么 commitments
+37NC45MBP_0101 2788271 2790239 EN what about you you have any girs in mind
+37NC45MBP_0101 2791272 2793060 EN but you are not intending to chase yet la
+37NC45MBP_0101 2796904 2797970 CS when 几时
+37NC45MBP_0101 2799637 2801022 EN recently like how recent
+37NC45MBP_0101 2802698 2806041 EN oh my gosh who's that girl
+37NC45MBP_0101 2808410 2809143 EN it's not violet right
+37NC45MBP_0101 2812420 2813464 EN but it's her friend ah
+37NC45MBP_0101 2814755 2816221 CS okay 你 怎么 追 法
+37NC45MBP_0101 2824881 2827731 CS okay but 你 有没有 表白
+37NC45MBP_0101 2828658 2829024 ZH 有 啊
+37NC45MBP_0101 2831008 2831486 EN yeah
+37NC45MBP_0101 2834707 2836151 ZH 你 喜欢 她 一年 半 啊
+37NC45MBP_0101 2840923 2842367 CS okay 她 讲 什么
+37NC45MBP_0101 2852338 2852926 EN like what
+37NC45MBP_0101 2867064 2870785 EN serious ah you are describing generally a woman
+37NC45MBP_0101 2877553 2880478 EN but that's a that's that's regular woman for you
+37NC45MBP_0101 2882478 2882989 EN no
+37NC45MBP_0101 2884455 2886474 EN that's what you think because you don't know them yet
+37NC45MBP_0101 2899610 2900512 EN what is this
+37NC45MBP_0101 2902601 2904700 EN oh okay okay okay
+37NC45MBP_0101 2919776 2920387 EN wah
+37NC45MBP_0101 2935935 2936613 EN cause she is hot
+37NC45MBP_0101 2940568 2941456 EN i'm sorry okay
+37NC45MBP_0101 2942723 2945680 EN i just had to take that opportunity to say that
+37NC45MBP_0101 2952330 2953678 ZH 你 认识 她 多久 了
+37NC45MBP_0101 2957173 2959723 ZH 不可能 一看见 就 喜欢 吧
+37NC45MBP_0101 2964911 2965399 EN okay
+37NC45MBP_0101 2971771 2975159 EN so what was her response to your proposal
+37NC45MBP_0101 3004061 3006427 CS will she cut herself or like 喝酒
+37NC45MBP_0101 3008360 3009949 EN she is from christian family right
+37NC45MBP_0101 3011082 3011671 EN oh she is not
+37NC45MBP_0101 3012093 3013304 EN but she is in your church
+37NC45MBP_0101 3013914 3016065 EN cause of which ministry or who
+37NC45MBP_0101 3017221 3018831 EN oh some friends brought her to church ah
+37NC45MBP_0101 3023381 3024636 EN oh okay
+37NC45MBP_0101 3025858 3026558 ZH 她 几岁
+37NC45MBP_0101 3027835 3028802 ZH 哇 很 年轻
+37NC45MBP_0101 3030983 3032070 EN treedles nature
+37NC45MBP_0101 3032070 3033481 EN 
+37NC45MBP_0101 3045098 3046542 EN yeah i i i know what you mean
+37NC45MBP_0101 3046542 3047497 EN you are you're just attract
+37NC45MBP_0101 3047664 3049186 EN you are you are attracted to her la
+37NC45MBP_0101 3050730 3052351 EN for her personality
+37NC45MBP_0101 3056823 3057190 EN cool
+37NC45MBP_0101 3059131 3061963 EN okay la she is only eighteen she is probably confused and
+37NC45MBP_0101 3062985 3067751 CS and 在 yeah 在 在 心理 上 (啊) 还没有 稳定
+37NC45MBP_0101 3068495 3069974 EN so she is not very stable yet
+37NC45MBP_0101 3071418 3073229 EN so maybe give it some time lo
+37NC45MBP_0101 3074040 3080200 EN pray about it see whether if that's the one that god really wants you to be with ah and if suitable for you
+37NC45MBP_0101 3081522 3090745 EN other than her character you try and think about what other character traits that you really admire or what you cannot accept
+37NC45MBP_0101 3092191 3101491 CS 如果 她 不 跟 你 like 很 很 honest 地 来 谈 她 的 feelings or emotions or why she's feeling like that
+37NC45MBP_0101 3103467 3105655 EN one she might be she don't really know you
+37NC45MBP_0101 3106636 3107136 ZH 还是
+37NC45MBP_0101 3107480 3108213 ZH (呃)
+37NC45MBP_0101 3108213 3110651 EN she might not be comfortable enough to tell you
+37NC45MBP_0101 3115851 3116429 EN takes time
+37NC45MBP_0101 3121741 3126285 EN misleading like scandalous
+37NC45MBP_0101 3126773 3127362 EN 
+37NC45MBP_0101 3138228 3140771 EN okay okay personal stuff ah
+37NC45MBP_0101 3177001 3183720 CS six months 六个 月 有没有 搞错 你 认识 她 只 一年 半 而已 啊 okay so 六个 月 没有 讲话
+37NC45MBP_0101 3183720 3184653 EN 
+37NC45MBP_0101 3191357 3191924 EN okay
+37NC45MBP_0101 3194211 3197261 CS but you don't really know how she works 啊 为什么 她 这样 啦
+37NC45MBP_0101 3198936 3200091 EN take time to find out lo
+37NC45MBP_0101 3204374 3205919 EN i have very close female friends
+37NC45MBP_0101 3207518 3209584 EN and we share about almost everything
+37NC45MBP_0101 3211246 3211612 EN but
+37NC45MBP_0101 3213112 3215189 EN the one thing that's different from yours is that
+37NC45MBP_0101 3216067 3223067 EN both of us know or the the few peo~ few female friends very close female friends knows that (erm)
+37NC45MBP_0101 3223645 3226122 EN there is no po~ possibility of a relationship la
+37NC45MBP_0101 3227217 3232094 EN so we can safely you know open up because
+37NC45MBP_0101 3233196 3235551 CS 当 你 认识 一个人 太久 的 时候 you know that
+37NC45MBP_0101 3236995 3238721 EN that person so well that
+37NC45MBP_0101 3240520 3248038 EN and the person knows you so well and i don't know it's just different it's like if you go out a dates it's like dating your best friend which is weird
+37NC45MBP_0101 3248482 3251884 EN and we know that there's no that kind of attraction you know
+37NC45MBP_0101 3252711 3253022 EN yeah
+37NC45MBP_0101 3255257 3257968 EN as in like she may~ might be too tall for me that type of thing
+37NC45MBP_0101 3258979 3260378 EN yeah or or
+37NC45MBP_0101 3262045 3265491 EN just wouldn't we know that it wouldn't work la so that's why we are so close you understand
+37NC45MBP_0101 3266635 3269568 EN like there's no mutual attraction like that type of attraction
+37NC45MBP_0101 3271685 3274895 EN yeah but emotionally we are able to share la
+37NC45MBP_0101 3275561 3276365 ZH 我们 可以
+37NC45MBP_0101 3277165 3280397 CS 把 心里 的 很多 的 感触 都 share with each other
+37NC45MBP_0101 3281153 3282275 EN so that's the difference la
+37NC45MBP_0101 3284110 3286720 EN but once you're attracted to someone then oh that's it already
+37NC45MBP_0101 3287142 3287809 EN 
+37NC45MBP_0101 3294258 3295969 EN but take it a step at a time la
+37NC45MBP_0101 3299003 3303091 CS 你 可以 把 她 当作 朋友 try and 把 她 当作 朋友 and
+37NC45MBP_0101 3303757 3307481 EN even if it doesn't work out she's not the one for you you all are still friends la
+37NC45MBP_0101 3309350 3311061 EN althought i'm not sure that's what you really want la
+37NC45MBP_0101 3313160 3314738 EN because guys are like that mah
+37NC45MBP_0101 3315748 3316315 EN right
+37NC45MBP_0101 3317504 3320515 EN you say that okay la after relationship we'll still be friends
+37NC45MBP_0101 3320515 3322559 EN then you're like yeah you are like real man
+37NC45MBP_0101 3323003 3330793 CS i put so much effort and and time into this is cause i really want a relationship with you but but 哎呀 learn to be gracious la
+37NC45MBP_0101 3333976 3335698 EN how about previously were you attached before
+37NC45MBP_0101 3337253 3337709 EN when
+37NC45MBP_0101 3339697 3341160 EN but you have no social life
+37NC45MBP_0101 3345370 3346125 EN except her la
+37NC45MBP_0101 3349253 3349931 EN quite bad ah
+37NC45MBP_0101 3352097 3354630 EN but okay so how how you knew your first
+37NC45MBP_0101 3356818 3358042 EN and in the same poly
+37NC45MBP_0101 3361197 3364730 EN oh oh when you were in poly oh i see
+37NC45MBP_0101 3366280 3368502 EN worlds apart ah what what happened
+37NC45MBP_0101 3373867 3374633 EN i'm sorry
+37NC45MBP_0101 3390731 3392042 EN but she is still in church la
+37NC45MBP_0101 3394492 3395103 ZH 为什么
+37NC45MBP_0101 3404008 3405719 EN how long she is been in the church
+37NC45MBP_0101 3410764 3414971 CS and then she left her childhood church cause 她 不 喜欢 那个
+37NC45MBP_0101 3425389 3426044 EN in your church
+37NC45MBP_0101 3434637 3437543 EN but they aren't put in the same fellowship as other families are they
+37NC45MBP_0101 3444986 3446481 CS 哦 okay 明白
+37NC45MBP_0101 3452312 3454320 EN so she left because of the politics
+37NC45MBP_0101 3456308 3457397 EN the whole family la in fact
+37NC45MBP_0101 3461274 3461974 EN in your church
+37NC45MBP_0101 3463602 3464079 EN okay
+37NC45MBP_0101 3485629 3488117 EN so how long were you together with her
+37NC45MBP_0101 3491305 3491827 EN oh
+37NC45MBP_0101 3492671 3494561 CS cause she went on to 大学 啦
+37NC45MBP_0101 3504104 3505126 EN but no more feelings ah
+37NC45MBP_0101 3507348 3507948 EN gone ah
+37NC45MBP_0101 3508459 3510780 EN okay la but you still remember the good times la i guess
+37NC45MBP_0101 3515608 3517496 EN then why you still catching together with her
+37NC45MBP_0101 3529089 3532173 EN was she with the cheerful exterior also
+37NC45MBP_0101 3535072 3535906 EN 
+37NC45MBP_0101 3543921 3546476 EN i think we need to tell her that it's one hour up yeah where should we grab lunch or are you in a hurry
+37NC45MBP_0101 3547309 3547953 EN yeah
+37NC45MBP_0101 3550059 3551348 EN where should we grab lunch
+37NC45MBP_0101 3553925 3555147 EN or are you in a hurry
+37NC45MBP_0101 3560230 3562263 EN okay so
+37NC45MBP_0101 3565211 3568511 CS okay 今天 下午 想 吃 什么 what do you feel like eating
+37NC45MBP_0101 3571049 3571471 ZH 哦
+37NC45MBP_0101 3573059 3575314 EN let's let's okay let's do a last one
+37NC45MBP_0101 3575314 3576014 EN ah

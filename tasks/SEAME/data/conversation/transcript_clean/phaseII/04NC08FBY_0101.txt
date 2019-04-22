@@ -1,0 +1,527 @@
+04NC08FBY_0101 5420 8730 ZH 你 就 会 进来 啦
+04NC08FBY_0101 8730 9768 ZH 跑出去
+04NC08FBY_0101 11086 12321 CS 哦 okay 拜拜
+04NC08FBY_0101 13976 16079 CS okay 要 聊 什么
+04NC08FBY_0101 20030 22218 EN 
+04NC08FBY_0101 22218 22891 EN it's very weird
+04NC08FBY_0101 23452 25494 ZH 东西 一直 动来动去 动来动去 的
+04NC08FBY_0101 29982 38336 CS 有 有 有 有 量 那个 pitch 量 量 那个 pitch the pitch of the our own voice
+04NC08FBY_0101 40090 41240 EN huh talk about this
+04NC08FBY_0101 44494 46289 CS 我已经不记得 all these stuff already
+04NC08FBY_0101 47515 48316 CS 诶 very cool 咧 诶 we can spend fifteen minutes 讲 讲这个 or you want to talk about food
+04NC08FBY_0101 48316 49690 CS actually 几年 没有 动 这个 诶
+04NC08FBY_0101 53842 55974 EN you sure you want to talk about this
+04NC08FBY_0101 58274 58948 ZH 好 啊 好 啊
+04NC08FBY_0101 60070 63696 CS 你 喜欢 或者 不喜欢 what kind of food
+04NC08FBY_0101 66836 70005 EN 
+04NC08FBY_0101 70005 72530 CS 你 不是 讲 不要 讲 ris low 了 吗
+04NC08FBY_0101 75809 77717 ZH 讲 啦 你先讲 啦
+04NC08FBY_0101 88717 89559 EN me too
+04NC08FBY_0101 91550 93402 ZH 我 真的 不喜欢 吃 番薯叶
+04NC08FBY_0101 100695 102462 CS i'm okay with 梅菜 and 咸菜
+04NC08FBY_0101 108117 112273 EN okay only i cannot take pickles
+04NC08FBY_0101 114318 118360 CS 我 不喜欢 吃 那个 pickles and capcium is it
+04NC08FBY_0101 118964 120285 EN cap~ capsicum
+04NC08FBY_0101 122185 124835 CS 不好吃 spicy spicy
+04NC08FBY_0101 127137 128586 ZH 有 一点 辣辣的
+04NC08FBY_0101 134496 136413 CS 这个星期还没有吃到 subway
+04NC08FBY_0101 138305 141494 ZH 这个什么东西来的 又不可以太大声
+04NC08FBY_0101 142654 146422 CS 讲话 的 时候 不可以 太 大声 have to maintain 那个
+04NC08FBY_0101 150545 151221 EN loudness
+04NC08FBY_0101 158018 159564 CS 为什么你这里有 red red 的
+04NC08FBY_0101 163080 163788 EN okay
+04NC08FBY_0101 165721 166429 EN stop it
+04NC08FBY_0101 167621 168781 CS okay 你 喜欢
+04NC08FBY_0101 172292 173065 ZH 我不知道
+04NC08FBY_0101 173709 177832 CS 我 我 不喜欢 吃 papaya 因为 papaya 很 臭
+04NC08FBY_0101 180758 183136 CS papaya 很 臭 avocado drink
+04NC08FBY_0101 186615 189900 CS avoca~ avo~ 我不知道 avocado taste like biscuits 很像那个 biscuit juice
+04NC08FBY_0101 192187 193637 ZH 我 我 不喜欢 吃 那个 的
+04NC08FBY_0101 194506 196181 ZH 很 怪 那 味道 很 怪
+04NC08FBY_0101 200981 202190 ZH 你 喜欢 喝 什么 水
+04NC08FBY_0101 218856 221336 CS k. 我们 换 topic 好不好
+04NC08FBY_0101 222036 223839 CS i think 我 已经 不懂 要 讲 什么
+04NC08FBY_0101 230184 237145 CS (呃) (呃) 芋头有什么 哦 那个 mooncakes 那个 mooncake 很好吃
+04NC08FBY_0101 237145 238595 ZH 我 也 喜欢 吃
+04NC08FBY_0101 241300 243072 EN yam mooncake yeah
+04NC08FBY_0101 249922 250566 ZH 不知道
+04NC08FBY_0101 255688 260487 CS 我 我 要 吃 (呃) 那个 脆皮 的 crispy yam mooncake
+04NC08FBY_0101 262774 264127 EN i want to eat that one
+04NC08FBY_0101 269184 271277 ZH 因 因 有 有些 (呃)
+04NC08FBY_0101 273791 281425 CS 因为 有些 芋头 的 月饼 too oily then it's quite disgusting
+04NC08FBY_0101 283229 283937 EN yeah
+04NC08FBY_0101 286804 287416 EN okay
+04NC08FBY_0101 291120 294309 CS 对 it's actually bad for our 功课
+04NC08FBY_0101 301943 303499 ZH 你跟 阿妹 一样 诶
+04NC08FBY_0101 305238 307305 CS i'm okay with the 蛋黄
+04NC08FBY_0101 309490 313194 CS i think 有些 蛋黄 很 奇怪 很 像
+04NC08FBY_0101 314232 317532 ZH 我 不懂 诶 有 有些 蛋黄 还蛮 好吃 的 诶
+04NC08FBY_0101 321745 323008 CS 可是 我 不 喜欢 吃 ham
+04NC08FBY_0101 323716 329465 CS (呃) 那个 luncheon meat and and some kind of ham
+04NC08FBY_0101 329869 330972 ZH 我 不喜欢 吃 那个
+04NC08FBY_0101 332486 337414 CS 你 讲 preserved 你 讲 preserved preserved food 咧
+04NC08FBY_0101 341311 345345 CS 月饼 诶 今天 你 懂不懂 那个 yunnan garden 那边
+04NC08FBY_0101 346617 349516 ZH 有 那个 中秋
+04NC08FBY_0101 350901 352222 CS yeah 今天 晚上
+04NC08FBY_0101 354348 355379 ZH 我 没有 空
+04NC08FBY_0101 356860 358084 EN i have maths tuition
+04NC08FBY_0101 358943 361543 CS 我 今天 晚上 有 maths tuition
+04NC08FBY_0101 365825 367583 CS so 你 几时 玩 麻将
+04NC08FBY_0101 389102 391679 EN oh okay
+04NC08FBY_0101 391679 402216 CS 我 不懂 我 要不要 去 那个 chalet 诶 那个 (呃) sunday 的 chalet 因为 我 monday 我 还要 回来 学校 诶 有 有 discussion for our assignment
+04NC08FBY_0101 404164 411379 CS (呃) 我 班 上 有 两个 classmate right 他们 有 birthday party they celebrate together
+04NC08FBY_0101 412893 421480 CS 他们 的 生日 falls on the same day 诶 so cool right so (呃) they book two chalets just beside each other
+04NC08FBY_0101 422549 427096 CS 然后 他们 他们 省钱 啊 省 那个 food 的 钱 啊
+04NC08FBY_0101 428895 429603 ZH 他们 请 的 人
+04NC08FBY_0101 430151 430795 ZH 啊
+04NC08FBY_0101 432200 433855 CS 因为 有 两个 不同 的 chalet what
+04NC08FBY_0101 434854 438296 CS 然后 family 就 肯定 分 的 啊 朋友 就 要 两边 跑 咯
+04NC08FBY_0101 439517 440065 ZH 啊
+04NC08FBY_0101 442126 444864 EN they book two units together side by side
+04NC08FBY_0101 446314 447464 CS say 一起 庆祝 咯
+04NC08FBY_0101 448366 450073 ZH 蛮大 的 大型 哦
+04NC08FBY_0101 452876 453874 ZH 一样 什么
+04NC08FBY_0101 455066 456129 ZH 我 也是 没有 啊
+04NC08FBY_0101 460735 462088 CS 哪个 是 一样 生日 what
+04NC08FBY_0101 470374 471566 ZH 我 很 累
+04NC08FBY_0101 473853 474618 EN very tired
+04NC08FBY_0101 474916 477578 EN okay let's talk about the coffee shop auntie
+04NC08FBY_0101 478620 479779 ZH 今天 我 不是 去 跟 人
+04NC08FBY_0101 482646 484024 CS okay 今 今天
+04NC08FBY_0101 485667 491058 CS 今天 我 我 今天 陪 仁强 去 (啊) collect 他 的 specs 啦 yeah
+04NC08FBY_0101 491058 498736 CS (啊) 他 是 perfect eyesight one but recently he found out that 他 得 了 近视
+04NC08FBY_0101 499348 503631 ZH 啊 然后 哦 其实 他 已经 近视 了 很 久
+04NC08FBY_0101 503978 508238 CS 那个 optician 跟 他 讲 actually 你 已经 近视 了 很 久 了
+04NC08FBY_0101 508538 513511 CS then 他 不懂 诶 他 那时候 去 戴 配 眼镜 的 时候 哦 then 那个 optician 帮 他 放 那个
+04NC08FBY_0101 514220 514639 ZH 东西
+04NC08FBY_0101 515133 520893 CS 因为 他 觉得 蒙蒙 的 then 他 觉得 很 奇怪 then 他 就 他 就 决定 (啊) 要 去 配 一 副 眼镜
+04NC08FBY_0101 521173 525693 CS 然后 那个 optician 帮 他 戴 那个 你 懂 那个 厚厚的 glasses right
+04NC08FBY_0101 526453 529899 EN yeah then he said wah crystal clear
+04NC08FBY_0101 529899 531961 EN 
+04NC08FBY_0101 531961 533732 ZH 原 原来 他 得 了 近视
+04NC08FBY_0101 534924 536374 CS so 他 配 一副 眼镜
+04NC08FBY_0101 536953 545167 CS then 嗯 对 然后 哦 我们 我们 十点 半 我们 before 十点 半 就 到 了 可是 他 十点半 才 开门
+04NC08FBY_0101 546166 548813 ZH 啊 他 今天 早上 去 拿 眼镜 叫 我 陪 他 去 拿 眼镜
+04NC08FBY_0101 550773 556893 CS it looks weird 因为 他 没有 戴 眼镜 的 嘛 他是 perfect eyesight 的
+04NC08FBY_0101 557556 559714 ZH 戴 有点 怪怪 看 了 不习惯
+04NC08FBY_0101 601563 603463 ZH 小号 一点 的 什么
+04NC08FBY_0101 607006 612533 CS 我 的 不够 大 诶 他 讲 我 的 我 的 头 my head is 太 大
+04NC08FBY_0101 612533 619141 EN his very big leh then then mine right on him is like just nice lo
+04NC08FBY_0101 619141 628663 CS 俊文 的 俊文 的 更 奇怪 他 是 那种 geek geek type spectacles 大大 黑黑 那种 台湾 的
+04NC08FBY_0101 628900 632894 ZH 台湾 人 很 喜欢 戴 那种 大大 的 你 懂 那 黑黑的 那个 最近 很 流行
+04NC08FBY_0101 643886 647365 CS 很 奇怪 我 你 i think that you said this before
+04NC08FBY_0101 653249 654247 EN 
+04NC08FBY_0101 656733 659691 CS 我 还没有 讲 那个 coffee shop 的 auntie
+04NC08FBY_0101 660078 667486 CS (啊) 然后 我们 就 我们 就 下去 (呃) 咖啡店 那边 the coffee shop there (呃) downstairs 啦 then
+04NC08FBY_0101 668066 672250 CS 我们 就 坐下 来 他 就 找 了 一个 位子 with the fan then he say 哇 fan
+04NC08FBY_0101 672926 679117 CS 然后 就有 一个 auntie 她 走过 来 then 那个 auntie 就 讲 (呃) 小弟 要不要 喝 咖啡
+04NC08FBY_0101 679536 692154 CS then 仁强 就讲 哦 好 我要 teh then i 讲 小妹 你 要不要 喝 我 讲 哦 i 我 i 我 不要 喝 then 她 来 那个 auntie 拿 那个 茶 来 的 时候 他就讲 八毛
+04NC08FBY_0101 693163 694465 CS then 仁强 就讲 哦
+04NC08FBY_0101 695352 702006 CS then she repeat again 八毛 then 仁强 look at look at her 仁强 look at her then
+04NC08FBY_0101 702006 712490 CS then 他 就 给 她 那种 yeah 的 look then 过后 auntie 一直 就 讲 八毛 不过 我们 就 我不懂 她 auntie 要 讲 什么
+04NC08FBY_0101 712490 715716 CS 然后 哦 她 就 讲 八毛 她 就 repeat 了 不懂 几次 咧
+04NC08FBY_0101 716160 721080 CS then 过后 她 就 讲 哦 我 十七 岁 的 时候 我 卖 咖啡
+04NC08FBY_0101 724090 727681 CS 那个 八毛 那个 auntie 一直 在 讲 八毛 then 她 一直 repeat 八毛
+04NC08FBY_0101 728125 730854 CS then 仁强 在 那边找 他的 coins to pay 那个 auntie
+04NC08FBY_0101 731653 734051 CS 然后 她 就 那个 auntie 就 跟 我们 讲 一个 故事
+04NC08FBY_0101 734371 736279 ZH 她 讲 我 跟 你 讲 一个 冷笑话
+04NC08FBY_0101 737262 744747 CS 她 就 讲 (啊) 以前 她 跟 买 咖啡 十七 岁 的 时候 then 他 跟 那个 uncle 讲 要 八毛
+04NC08FBY_0101 745068 749131 CS then 那个 uncle 讲 七 毛 可不可以 可以 啦
+04NC08FBY_0101 749413 752472 CS then auntie 就 讲 七 毛 很 麻烦 她 还要 上去 煮 水
+04NC08FBY_0101 753246 758085 ZH 因为 要 烫了 那个 才 可以 把 去掉 那个 毛 拔毛 比较 快
+04NC08FBY_0101 759431 763514 CS then 我 不懂 要 笑 还是 什么 because it's very lame then can imagine
+04NC08FBY_0101 765827 770420 CS forget it 那个 去毛 跟 拔毛
+04NC08FBY_0101 771402 777657 CS 七毛 跟 拔毛 拔毛 比 去毛 快 去毛 要 烫 你 懂 那个 duck right
+04NC08FBY_0101 779488 784313 CS auntie 讲 的 她 讲 她 以前 卖 咖啡 的 时候 我 不懂 啦
+04NC08FBY_0101 784537 792046 CS actually 我 我 也是 听 不懂 她 在 讲 什么 auntie 讲 以前 (呃) 我 也 听 不懂 就是 那个 auntie 突然间
+04NC08FBY_0101 792663 797565 CS just walk walk to our place then 就 开始 跟 我们 讲 about 她 的 lame joke
+04NC08FBY_0101 798210 802357 CS then 我们 不懂 要 笑 还是 什么 诶 我们 就 这样 看着 他 诶 就 觉得 很 奇怪
+04NC08FBY_0101 802806 809903 CS 吓 有 我 就在 那边 一直 like trying to laugh a little and try to refrain myself from laughing
+04NC08FBY_0101 810885 811558 ZH 蛮 好笑 的
+04NC08FBY_0101 812932 813942 ZH 我 知道
+04NC08FBY_0101 815092 815709 ZH 废话
+04NC08FBY_0101 817314 818941 EN 
+04NC08FBY_0101 822335 823317 ZH 我 不知道 诶
+04NC08FBY_0101 829264 830667 CS 我 不懂 okay
+04NC08FBY_0101 831144 836627 CS 就 这样 咯 所以 我 就 过后 我们 就 下去 collect 我们 的 specs 啦 then 就 try 他 的 specs
+04NC08FBY_0101 836627 842639 CS 然后 我 就 我 就 买 我 的 我就 pay the deposit for my contact lens 咯
+04NC08FBY_0101 843087 845389 CS then 那个 那个 optician 蛮 搞 笑 的
+04NC08FBY_0101 845978 847688 CS 他 没有 给 我 那个 receipt 诶
+04NC08FBY_0101 848109 855374 CS 我 就 讲 说 吓 你 没有 receipt 啊 then 他讲 啊 不用紧 的 啊 我 都 认识 你 then 我 讲 讲 万一 我 妈妈 下来 collect 咧 怎么办
+04NC08FBY_0101 855822 861014 CS then 他 就 讲 说 我 认识 你 妈妈 then 我 就讲 吓 你 认识 我 妈妈 then 你 不认识 我 咩
+04NC08FBY_0101 861014 862220 ZH 因为 他 跟 仁强 讲 哦
+04NC08FBY_0101 862879 873240 CS (呃) 他 不认识 我 因为 仁强 讲 说 有 一个 friend refer 我 to you 啦 yeah 啦 friend introduce you to me so i came this shop
+04NC08FBY_0101 875233 875514 ZH 吓
+04NC08FBY_0101 876412 877113 ZH 我 不懂 诶
+04NC08FBY_0101 878782 880521 EN 
+04NC08FBY_0101 880521 882471 CS 不知道 tio 啊 tio 啊
+04NC08FBY_0101 884590 884955 ZH 嗯
+04NC08FBY_0101 888209 888742 ZH 啊
+04NC08FBY_0101 890088 890789 EN stop it
+04NC08FBY_0101 892066 897048 CS 对 啊 就是 这样 哦 早上 就是 这样 哦 可是 我 蛮 早 就 reach the place 咧 then i
+04NC08FBY_0101 897666 902493 CS 我 到 那边 乎 我 还 下 错 下 错 bus stop then 还要 走 一个 bus stop 诶
+04NC08FBY_0101 903727 905845 CS 走 到 那个 seven eleven 那个 bus stop 那边
+04NC08FBY_0101 906209 907009 ZH 要 等 他 诶
+04NC08FBY_0101 907303 909267 ZH 诶 他 还 蛮快 的 五 分钟 就 到 了
+04NC08FBY_0101 911086 911549 EN okay
+04NC08FBY_0101 920497 922825 CS 我 不是 homework 我 是 assignment
+04NC08FBY_0101 934314 936755 EN i have deadline for assignment
+04NC08FBY_0101 938157 944918 CS like during the recess week 星期 六 我 就要 就要 hand in 我的 assignment 了
+04NC08FBY_0101 951869 958597 CS 吓 很多 东西 做 a lot of things to do is like recess week 根本 不用 休息 了 咯
+04NC08FBY_0101 959481 960747 CS 我 只剩 monday 诶
+04NC08FBY_0101 964632 968699 CS 可是 which 我 monday 我 monday 就 (呃)
+04NC08FBY_0101 969653 975610 CS 要 回来 学校 也是 诶 我 monday 要回来学校 for 一个 assignment discussion
+04NC08FBY_0101 976269 984091 CS 然后 我 monday 又 要 教 补习 然后 我 tuesday 教 补习 but tuesday free 啦 一定 要 自己 做 的 那个 individual assignment
+04NC08FBY_0101 990537 991014 EN wednesday
+04NC08FBY_0101 992290 993861 EN i going out going out
+04NC08FBY_0101 995109 996610 EN going out with eileen
+04NC08FBY_0101 997003 1001449 CS 她 讲 她 讲 说 我 no time for her always no time for her
+04NC08FBY_0101 1002509 1003701 CS 她 一直 在 complain 了
+04NC08FBY_0101 1005945 1008063 EN no i don't know la
+04NC08FBY_0101 1008431 1013397 CS but 我 不是 因为 boyfriend 然后 没有 时间 陪 她 咯 这是 正经 事
+04NC08FBY_0101 1014420 1018134 CS  好像 在 讲 交 男朋友 is not 正经
+04NC08FBY_0101 1027434 1028009 ZH 啊
+04NC08FBY_0101 1041496 1045255 ZH 我 我 我 不喜欢 吃 那个 叫 什么 龙珠果
+04NC08FBY_0101 1045816 1046461 ZH 龙珠果
+04NC08FBY_0101 1047204 1049911 CS a lot of seeds 有点 恶心
+04NC08FBY_0101 1052458 1057816 CS 可是 它 的 肉 里面 很多 一点 一点 like like don't know what like dots
+04NC08FBY_0101 1059260 1062365 CS 好像 你吃 下去了 出来 的 那个 output 咯
+04NC08FBY_0101 1063624 1064831 EN i really cannot imagine
+04NC08FBY_0101 1067832 1070132 ZH 我 妈 喜欢 吃 那个
+04NC08FBY_0101 1071608 1073992 CS 她 讲 她 讲 very sweet
+04NC08FBY_0101 1074876 1080963 CS she like the 龙珠果 very much then 她 可以 买 like 一 两个 然后 她 一直 在 吃
+04NC08FBY_0101 1082879 1083566 ZH 点 恶心
+04NC08FBY_0101 1085880 1089840 CS 可是 我 喜欢 吃 strawberry 还有 kiwi
+04NC08FBY_0101 1090345 1091902 CS kiwi 叫 奇异果 
+04NC08FBY_0101 1094286 1095523 CS strawberry 是 草 ~
+04NC08FBY_0101 1106506 1113266 CS 虽然 他们 酸酸的 可是 they are still quite sweet at times i i don't know why i don't like to eat 橙 诶
+04NC08FBY_0101 1117960 1118690 ZH 我 可以
+04NC08FBY_0101 1120892 1126300 ZH 我 可以 喝 那个 果 橙 橙 橙汁 橙果汁
+04NC08FBY_0101 1126300 1128516 CS 我 可以 喝 那个 orange juice but
+04NC08FBY_0101 1129652 1132065 CS 我 不 喜欢 吃 the fruit itself
+04NC08FBY_0101 1134814 1136988 CS 我 不知道 诶 i'm not very sure also
+04NC08FBY_0101 1138110 1141512 CS 我 就 不 喜欢 可是 sometimes it's very 麻烦
+04NC08FBY_0101 1143083 1144584 ZH 啊 麻烦
+04NC08FBY_0101 1146000 1149038 CS i always ask 妈妈 to 帮 我 削 那个 皮
+04NC08FBY_0101 1151535 1154368 EN i need the love from my mother
+04NC08FBY_0101 1158477 1160076 ZH 怎么办 吓
+04NC08FBY_0101 1160890 1161844 ZH 我 不知道
+04NC08FBY_0101 1167728 1171137 CS drinks 我 要 喝 ice milo (呃)
+04NC08FBY_0101 1172617 1174100 EN sour plum juice
+04NC08FBY_0101 1176586 1177526 ZH 柠檬汁
+04NC08FBY_0101 1178466 1179616 ZH 还有
+04NC08FBY_0101 1180219 1182884 CS 柠檬茶 还有 lipton
+04NC08FBY_0101 1183445 1184623 EN yellow label tea
+04NC08FBY_0101 1190550 1194744 CS these are some of the drinks 我 喜欢
+04NC08FBY_0101 1200208 1201652 EN do you want to move on to
+04NC08FBY_0101 1204542 1205650 ZH 哦 我 看 到 了
+04NC08FBY_0101 1217109 1220363 CS i want to talk about 节日
+04NC08FBY_0101 1221981 1225695 CS 快点 快点 讲 mooncake festival
+04NC08FBY_0101 1230646 1231235 ZH 为什么
+04NC08FBY_0101 1239798 1241103 CS dumpling 是 水饺 吗
+04NC08FBY_0101 1248278 1250508 ZH 是 啦 是 啦
+04NC08FBY_0101 1254351 1258292 CS 我 也是 喜欢 吃 那个 peanut 的 我 比较 喜欢 吃 那个 peanut 的
+04NC08FBY_0101 1259703 1265790 ZH 哦 我 也是 我 也是 不大 喜欢 吃 我 也是 不大 喜欢 吃 那个 红豆 的
+04NC08FBY_0101 1269960 1270844 ZH 我 没有
+04NC08FBY_0101 1279057 1282703 CS 我 最喜欢 的 节日 i'm going to skip 你 的 节日
+04NC08FBY_0101 1290524 1293301 CS 我 我 最喜欢 的 就是 christmas
+04NC08FBY_0101 1295531 1298529 CS 因为 因为 (呃) christmas right
+04NC08FBY_0101 1298866 1300395 EN you can receive a lot of
+04NC08FBY_0101 1302092 1305700 CS 有 i can receive a lot of 小 礼物
+04NC08FBY_0101 1306181 1310852 CS then 每年 都 会 每年 our family will have this
+04NC08FBY_0101 1312675 1315915 ZH 小小的 小小的 派对
+04NC08FBY_0101 1324086 1330005 CS the person sitting beside me 有 一点点 怪
+04NC08FBY_0101 1341262 1342054 ZH 两个
+04NC08FBY_0101 1343092 1343850 EN i think so
+04NC08FBY_0101 1345757 1347735 CS yeah okay 而且 乎
+04NC08FBY_0101 1348647 1351676 ZH 对 而且 还有 很多 那些 (呃)
+04NC08FBY_0101 1352854 1356701 CS 我 不懂 啊 barbeque 很多 barbeque food
+04NC08FBY_0101 1357136 1357861 EN ah no
+04NC08FBY_0101 1359699 1361031 EN not really
+04NC08FBY_0101 1363920 1364986 ZH 因为 很 好吃 啊
+04NC08FBY_0101 1366319 1371687 CS 可是 我 不是 很喜欢 吃只是因为很久吃一次 那个 barbeque food
+04NC08FBY_0101 1379928 1382761 CS 我 不用 讲话 了 啦 你 一直 在 interrupt 我 的 sentence
+04NC08FBY_0101 1389818 1391375 CS okay 好
+04NC08FBY_0101 1392034 1400860 CS 然后 还有 那个 乌节路 都 会 有 那个 all the lightings very nice then got this (呃)
+04NC08FBY_0101 1402487 1405232 CS 圣诞 的 气息 all around us
+04NC08FBY_0101 1405652 1409734 CS 然后 你 会 一直 听 到 有 人 在 唱 christmas carols 然后 很好 玩
+04NC08FBY_0101 1410505 1410982 ZH 对 咯
+04NC08FBY_0101 1413016 1413549 EN do you agree
+04NC08FBY_0101 1416250 1416685 EN okay
+04NC08FBY_0101 1418298 1418760 EN very good
+04NC08FBY_0101 1420051 1422846 EN then then christmas very fun la i just like christmas
+04NC08FBY_0101 1423547 1424276 EN christmas is like
+04NC08FBY_0101 1425174 1434044 CS because is like the end of the the year 然后 everybody is quite relaxed already
+04NC08FBY_0101 1434521 1436311 CS 而且 是 在 我们 的 holiday 里面
+04NC08FBY_0101 1437994 1439228 ZH 对 咯 所以
+04NC08FBY_0101 1440126 1440869 ZH 蛮 好玩 的
+04NC08FBY_0101 1442118 1443099 ZH 哇
+04NC08FBY_0101 1444221 1445647 ZH 明天 早餐 要 吃 什么
+04NC08FBY_0101 1451874 1454651 CS okay 中秋节 我 要 吃 月饼
+04NC08FBY_0101 1457409 1461519 CS later i'm going to collect my 月饼 from my 朋友
+04NC08FBY_0101 1463805 1465446 EN yeah milo
+04NC08FBY_0101 1469788 1470166 EN huh
+04NC08FBY_0101 1471260 1474304 CS 那个 是 milo ice cream 月饼 诶
+04NC08FBY_0101 1475608 1477800 CS 你 怎样 做 你 不会 做 那个 skin 咧
+04NC08FBY_0101 1479223 1479644 ZH 吓
+04NC08FBY_0101 1489677 1492434 CS my ear a little painful 诶 有 一点 痛 咧
+04NC08FBY_0101 1493332 1494145 ZH 不懂 为什么
+04NC08FBY_0101 1496221 1499236 CS i think i think 压 压太 太久 了
+04NC08FBY_0101 1503341 1509568 CS yeah 我 每次 跟 你 讲 我 的 头 很大 了 那个 optician 讲 我 的 头 比较 大 咧
+04NC08FBY_0101 1528293 1535705 CS yes so we must say properly 现在
+04NC08FBY_0101 1544317 1548500 CS we haven't finish about the 月饼 one
+04NC08FBY_0101 1552763 1553716 EN i also like to eat
+04NC08FBY_0101 1559102 1559748 ZH 我 喜欢 吃
+04NC08FBY_0101 1562104 1565919 CS 我 喜欢 吃 那个 很多 很多 seeds 在 里面 的 啊 nuts 的
+04NC08FBY_0101 1566368 1568279 ZH 那个 好吃
+04NC08FBY_0101 1572887 1574423 CS 我 喜欢 吃 nuts 嘛
+04NC08FBY_0101 1579127 1580663 ZH 有点 怪 现在
+04NC08FBY_0101 1592615 1596551 CS durian 月饼 from goodwood park hotel yeah
+04NC08FBY_0101 1608270 1611438 ZH 改 改天 诶 下个 星期 就是
+04NC08FBY_0101 1614654 1617198 CS 下个 星期 就 是 mid autumn festival 了
+04NC08FBY_0101 1617890 1621707 CS 然后 我们 可以 泡茶 叫 我 爸爸 泡 那个 chinese tea
+04NC08FBY_0101 1624967 1626098 ZH 赏月
+04NC08FBY_0101 1650280 1651159 ZH 我 不懂
+04NC08FBY_0101 1655531 1658120 CS 今天 早上 你 吃 什么 breakfast
+04NC08FBY_0101 1660424 1661925 EN i ate mee-pok
+04NC08FBY_0101 1664568 1666290 CS mee 薄 i ate mee 薄
+04NC08FBY_0101 1667504 1669994 CS mee pok 咯 mee pok 就是 mee 薄
+04NC08FBY_0101 1671775 1672450 ZH 哦 面薄
+04NC08FBY_0101 1672450 1674364 EN 
+04NC08FBY_0101 1682788 1686726 ZH 我 不懂 我 的 耳朵 痛
+04NC08FBY_0101 1688932 1693840 CS 面薄 它 扁 的 嘛 那个 the noodles is 扁 what
+04NC08FBY_0101 1700970 1703167 CS 我 还 以为 我 今天 会 吃 nasi-lemak 诶
+04NC08FBY_0101 1704434 1709186 CS 因为 因为 那个 coffee shop 那边 boon-lay shopping center 的 coffee shop
+04NC08FBY_0101 1710317 1713259 ZH 没有 我们 没有 吃 午餐 他 回家 吃
+04NC08FBY_0101 1714662 1717203 ZH 因为 我 还 以为 我 会 跟 他 吃 嘛
+04NC08FBY_0101 1717203 1718746 ZH 前 几天 我 约 跟 他 吃
+04NC08FBY_0101 1719501 1722287 CS 在 那个 boon-lay shopping centre 吃 nasi-lemak
+04NC08FBY_0101 1723043 1724880 ZH 唉
+04NC08FBY_0101 1727865 1730346 CS 我 没有 吃 过 holland-v 的 我
+04NC08FBY_0101 1733783 1734520 ZH 我 很少
+04NC08FBY_0101 1737793 1740382 CS 我 很少 去 吃 holland-v 的 food
+04NC08FBY_0101 1754775 1758007 CS 诶 等下 那个 can two 的 food 哦 好像 也 可以 加饭 的 咧
+04NC08FBY_0101 1760111 1762108 ZH 我 知道 吃 到 我 很 饱 呃
+04NC08FBY_0101 1767380 1768297 CS then 他 吃 什么
+04NC08FBY_0101 1769717 1770310 ZH 吃 肉
+04NC08FBY_0101 1770742 1771946 EN 
+04NC08FBY_0101 1775303 1778395 CS 我 要 吃 canteen two 的 waffle
+04NC08FBY_0101 1780409 1782494 CS 我 要 吃 canteen two 的 waffle
+04NC08FBY_0101 1784328 1785511 CS 我 没有 meeting
+04NC08FBY_0101 1787866 1791336 CS 啊 我 晚上 有 tuition maths tuition 因为
+04NC08FBY_0101 1791768 1796122 CS last week right 我 的 tuition 是 放 在 下午 的
+04NC08FBY_0101 1796643 1805148 CS 可是 现在 是 是 晚上 又 换 回去 晚上 因为 我 我们 要 来 做 这个 code switch 所以 我 不能 把 他 放 到 下午
+04NC08FBY_0101 1806730 1807341 EN yeah
+04NC08FBY_0101 1811810 1813931 CS 我 不知道 when is the next session
+04NC08FBY_0101 1814758 1816556 ZH 我们 等一下 可以 问 他
+04NC08FBY_0101 1822256 1824515 CS 我 的 pimple 很 痛
+04NC08FBY_0101 1832174 1833109 ZH 你 没有 吃 饭 咩
+04NC08FBY_0101 1840691 1846024 ZH 我 蛮 饱 的 诶 刚才 吃 (呃)
+04NC08FBY_0101 1861054 1864775 CS 阿妹 有没有 陪 你 陪 你 吃 dinner
+04NC08FBY_0101 1866142 1867850 CS 你可以不要一直 break 我的 sentence 吗
+04NC08FBY_0101 1870223 1873698 CS 你 要 等 我 讲 完 我 的 complete sentence 你 再 开始 讲话
+04NC08FBY_0101 1879254 1879901 ZH 好
+04NC08FBY_0101 1891788 1905868 CS 就 这样 而已 咯 我 只 想 知道 whether 阿妹 有没有 陪 你 去 吃 dinner 所以 你 可能 可以 叫 她 decide 要 去 吃 can a. 还是 canteen two 的 食物
+04NC08FBY_0101 1909555 1910202 EN 
+04NC08FBY_0101 1913942 1914373 ZH 吓
+04NC08FBY_0101 1926959 1927750 ZH 对
+04NC08FBY_0101 1928978 1932286 CS 他 就 会 听 你 讲 一大堆 nonsense
+04NC08FBY_0101 1933616 1936025 CS it's all recorded inside this 这个 东西
+04NC08FBY_0101 1939513 1940556 ZH 我 知道
+04NC08FBY_0101 1961072 1965891 CS 是 你 自己 invent 的 然后 你 现在 又 忘记 然后 你 还要 跟 我 high five
+04NC08FBY_0101 1973046 1976498 CS 我们 讲 了 这样 多 我们 还 没有 讲 到 明天 breakfast 要 吃 什么
+04NC08FBY_0101 1980634 1983591 CS 我 不 知道 我 要不要 吃 roti prata
+04NC08FBY_0101 1996284 1997040 ZH 到 我 了
+04NC08FBY_0101 2004163 2007686 CS 我 今天 我 今天 breakfast 已经 吃
+04NC08FBY_0101 2008477 2009556 EN mee-pok
+04NC08FBY_0101 2016352 2017863 ZH 我 忍 很 久
+04NC08FBY_0101 2025126 2030412 CS 所以 我 明天 不会 再 吃 mee-pok for breakfast 嘛 你 很 奇怪 诶
+04NC08FBY_0101 2034340 2038548 CS 咿 whose hair is this very 长
+04NC08FBY_0101 2054359 2056697 ZH 嗯 你 猜 对 了
+04NC08FBY_0101 2067268 2073207 CS 我 看 we have already run out of 话题
+04NC08FBY_0101 2079427 2080254 CS 我 想 cough
+04NC08FBY_0101 2087554 2089639 CS 我 会 try to minimise 他 的
+04NC08FBY_0101 2101749 2104590 CS let's talk about 现在 的 小孩子
+04NC08FBY_0101 2117398 2119088 ZH 不要 吃 啦
+04NC08FBY_0101 2120563 2124122 CS just 忍 for awhile
+04NC08FBY_0101 2154934 2156984 EN what's the difference between
+04NC08FBY_0101 2158386 2164427 CS 你 刚才 讲 的 那 两个 sentence 你 只是 用 英文 讲 一句 用 华文 讲 第二 句
+04NC08FBY_0101 2169328 2173463 CS 我 我 觉得 我们 right 好像
+04NC08FBY_0101 2187595 2197323 CS can you fully utilise what 你 刚才 invent just now 你 讲 了 you don't want to do it 有点 irritating
+04NC08FBY_0101 2205471 2214654 CS 跟 你 有 link 因为 你 一直 讲 了 然后 stop 然后 又 突然间 又 要 讲 所以 我 要 讲
+04NC08FBY_0101 2216856 2219033 ZH 我 还 没有 举手 你 又 开始 讲 咯
+04NC08FBY_0101 2223853 2225443 CS 所以 you have to do that
+04NC08FBY_0101 2231042 2232414 CS 到了我的 turn 了 right
+04NC08FBY_0101 2244044 2246486 CS 所以 现在 要 讲 什么 topic 啊
+04NC08FBY_0101 2251060 2251588 ZH 好
+04NC08FBY_0101 2252662 2253701 CS 学校的 curry puff
+04NC08FBY_0101 2257318 2257906 ZH 不应该
+04NC08FBY_0101 2264456 2270560 CS hungry 也 要 忍 因为 等一下 你 的 dinner 吃 不下 怎么办
+04NC08FBY_0101 2281509 2283634 CS something light 是 什么
+04NC08FBY_0101 2291321 2295109 CS 我 觉得 我 吃 一个 curry puff 就 饱 了
+04NC08FBY_0101 2314023 2316101 ZH 我 知道 你 可以 喝 什么 了
+04NC08FBY_0101 2321586 2323993 EN 
+04NC08FBY_0101 2325246 2326483 EN 
+04NC08FBY_0101 2326928 2327291 EN 
+04NC08FBY_0101 2327291 2329731 CS 你 可以 你 可以 喝 plain water
+04NC08FBY_0101 2346097 2348981 CS 因为 canteen b. 已经 够 烂 了
+04NC08FBY_0101 2349557 2353822 CS 所以 一定 要 放 一点 比较 好吃 的 stall 在 can b. 那边
+04NC08FBY_0101 2382153 2385649 CS 那边 放 的 coca-cola 是不是 给 我们 喝 的 呢
+04NC08FBY_0101 2393807 2396196 CS 我 知道 我在 讲 rubbish
+04NC08FBY_0101 2410303 2417156 CS i already feel very 饱 can we 不要 talk about food anymore
+04NC08FBY_0101 2429451 2433657 CS 等一下 我们 出去 我们 讲 话 会不会 有点 weird weird 的
+04NC08FBY_0101 2433657 2434327 EN 
+04NC08FBY_0101 2454243 2456301 CS 因为 你 会 run out of control
+04NC08FBY_0101 2471097 2478370 CS 啊 我 知道 你 可以 吃 什么 了 你 可以 吃 subway cookies
+04NC08FBY_0101 2480575 2484933 CS 多少 钱 how~ how much is 一个 饼干
+04NC08FBY_0101 2486924 2489489 CS 那 你 就 去 quad 买 那个
+04NC08FBY_0101 2491518 2493957 CS quad 的 cookies 好吃 便宜 诶
+04NC08FBY_0101 2499484 2501861 CS 可以 这里 很 靠近 quad
+04NC08FBY_0101 2503613 2504184 ZH 对 啊
+04NC08FBY_0101 2505328 2507651 ZH 这个 已经 啊
+04NC08FBY_0101 2513173 2513776 ZH 不是
+04NC08FBY_0101 2519731 2524646 CS quad 的 那个 饼干 是 two for one dollar 诶
+04NC08FBY_0101 2530364 2533885 CS 因为 如果 你 不 raise up 你 的 hand 我 真的 不懂 要 几时 讲话
+04NC08FBY_0101 2545386 2547083 ZH 我 听 不懂 你 在 讲 什么
+04NC08FBY_0101 2553759 2558477 CS 你 只是 在 translating your sentences 诶 girl
+04NC08FBY_0101 2579888 2598724 CS 我 觉得 这个 任务 is a little challenging for both of us 因为 我们 讲话 的 时候 已经 从 以前 开始 我们 就 place emphasise on trying to make our sentences into proper english or 华语
+04NC08FBY_0101 2611173 2612688 CS you sure 吗
+04NC08FBY_0101 2614722 2617144 CS 你 的 手 又 没有 raise 起来 了
+04NC08FBY_0101 2622591 2624023 CS 我 知道 what
+04NC08FBY_0101 2627031 2633149 CS 可是 你 有 时候 你 pause 很久 然后 我 要 开始 动 而已 你 就 开始 讲话 了
+04NC08FBY_0101 2636686 2637729 CS 我 又 不是 mute
+04NC08FBY_0101 2641630 2642532 CS 我 的 pimple 很 痛
+04NC08FBY_0101 2655115 2657944 CS 这个 是 我们 的 researcher 吗
+04NC08FBY_0101 2659111 2661374 CS 那 个穿 white colour shirt 的
+04NC08FBY_0101 2662559 2664376 ZH 他 一直 在 看 我们
+04NC08FBY_0101 2671113 2676223 ZH 哦 不用紧 啦 我 又 没有 讲 他 的 坏话
+04NC08FBY_0101 2683395 2685871 CS i'm feeling a little 累
+04NC08FBY_0101 2688382 2691211 CS 好 so what is our next 题目
+04NC08FBY_0101 2692396 2693538 CS next 话题
+04NC08FBY_0101 2701283 2703105 CS your 病 is contagious
+04NC08FBY_0101 2710559 2718216 CS i think 我们 等一下 回家 可以 跟 妈妈 讲 我们 今天 来 这边 crap 了 一大堆 rubbish
+04NC08FBY_0101 2719418 2721912 CS and said a lot of 废话
+04NC08FBY_0101 2724460 2725450 EN for one hour
+04NC08FBY_0101 2730242 2733743 CS 剩 fifteen minutes what do you want to talk about
+04NC08FBY_0101 2745901 2752232 ZH 研究 用 用 不懂 什么 东西 来 研究
+04NC08FBY_0101 2753055 2754205 EN a piece of music
+04NC08FBY_0101 2757971 2760252 CS 没有 没有 algorithm 在 里面
+04NC08FBY_0101 2761013 2761968 ZH 妳 在 讲 什么
+04NC08FBY_0101 2767502 2782639 CS 我 要 讲 我 的 student 我 要 讲 (呃) 我 等一下 要 教 的 那个 student 很调皮
+04NC08FBY_0101 2784851 2787645 CS 然后 everytime give me headache
+04NC08FBY_0101 2788776 2797901 CS 然后 有 时候 教 了 就要 有 high blood pressure 因为 他 很 气 人
+04NC08FBY_0101 2801677 2807106 CS 然后 呢 他 又 非常 的 lazy 不 做 我 给 他 的 homework
+04NC08FBY_0101 2811964 2814846 CS 然后 又 很 喜欢 骂 vulgarities
+04NC08FBY_0101 2818772 2820723 EN 
+04NC08FBY_0101 2820723 2822791 EN censored censored
+04NC08FBY_0101 2823658 2824128 EN okay
+04NC08FBY_0101 2827056 2832361 CS 我 觉得 呢 是 因为 我们 现在 的 社会 right 那个 t. v. show
+04NC08FBY_0101 2832891 2838502 CS t. v. show 的 错 真的 他 好像 学 那些 坏话 right 还有
+04NC08FBY_0101 2839545 2844724 CS 那些 不正当 的 行为 it's all from the
+04NC08FBY_0101 2846315 2847800 ZH 对 电视节目
+04NC08FBY_0101 2850680 2854747 ZH (啊) 好像 没有 不止 诶 他 他
+04NC08FBY_0101 2855291 2861080 CS 其实 晚上 乎 he sleep very late then he watch the 命中 注定 我 爱 你
+04NC08FBY_0101 2861381 2866084 CS then 那个 命中主定 我 爱 你 有 那个 线上 先 上车 后 补票
+04NC08FBY_0101 2867853 2872640 CS 然后 还有 什么 他 就 他 就 学 了 很多 weird weird 的 东西 啊 他
+04NC08FBY_0101 2874161 2880544 CS 他 又 很 喜欢 模仿 那个 commercial 很 像 那个 cadbury 广告 right
+04NC08FBY_0101 2882701 2883755 ZH 模仿 它 的 音乐
+04NC08FBY_0101 2885205 2893000 CS 不只 诶 还有 那个 osim 的 广告 那个 猫 跟 狗 叫 的 他 也是 模仿 那个 cat and the dog
+04NC08FBY_0101 2895412 2895766 ZH 吓
+04NC08FBY_0101 2897800 2898383 ZH 很 吵
+04NC08FBY_0101 2902534 2910173 CS 还有 那个 m one 的 广告 也是 那个 那个 妳 懂 那个 几个 人 坐在 车 里面 然后 一直 这样 摇 摇 摇 的 那个
+04NC08FBY_0101 2911287 2911954 ZH 他 还有
+04NC08FBY_0101 2911954 2912697 EN 
+04NC08FBY_0101 2912697 2915161 ZH 模仿 很多 广告 他 就 模仿 电视机 也是
+04NC08FBY_0101 2915798 2920042 ZH 换 电视机 的 节目 模仿 电视机 我 在 讲 什么
+04NC08FBY_0101 2920961 2921651 ZH 有
+04NC08FBY_0101 2923454 2926058 CS 那边 有 一个 video cam
+04NC08FBY_0101 2927349 2928127 ZH 请 看
+04NC08FBY_0101 2928870 2929577 EN there
+04NC08FBY_0101 2935824 2936478 EN haih
+04NC08FBY_0101 2938826 2941779 CS 妳 讲 到 我 肚子 有 点 hungry 了
+04NC08FBY_0101 2945121 2947332 CS 可是 我 不想 吃 curry puff
+04NC08FBY_0101 2950019 2951876 CS like 什么
+04NC08FBY_0101 2953186 2955131 CS 我 的 throat 有点 痛 痛
+04NC08FBY_0101 2958650 2965561 CS 有 卖 包 canteen canteen a 有 卖 包 可是 它 的 包
+04NC08FBY_0101 2966904 2971060 CS 妳 又 开始 打断 我 的 sentences 了
+04NC08FBY_0101 2978886 2983572 CS 我 有 注意 到 your weird actions
+04NC08FBY_0101 2986154 2992584 CS i think i spoke very 慢 to accommodate 这个 东西
+04NC08FBY_0101 3005562 3007684 CS 妳 sure
+04NC08FBY_0101 3013555 3016278 CS 为什么 how do you 知道
+04NC08FBY_0101 3019473 3021790 CS 妳 在 countdown 啊
+04NC08FBY_0101 3024212 3028103 EN okay next let's be more proactive now
+04NC08FBY_0101 3029517 3030360 EN let's talk about
+04NC08FBY_0101 3033614 3034463 ZH 我 可以 讲
+04NC08FBY_0101 3035913 3038760 ZH 你 喜欢 去 什么 地方
+04NC08FBY_0101 3052969 3055303 CS 我 也是 很 喜欢 sleep
+04NC08FBY_0101 3057407 3059753 CS 因为 i feel very tired
+04NC08FBY_0101 3061185 3063926 CS and 我 觉得 i lack of sleep
+04NC08FBY_0101 3069139 3071827 CS 我 看 我们 讲 one hour right
+04NC08FBY_0101 3072870 3074179 ZH 你 可能 会 睡着 啊
+04NC08FBY_0101 3077468 3079077 ZH 全身 放松
+04NC08FBY_0101 3090707 3091591 ZH 他 会 讲
+04NC08FBY_0101 3094940 3098644 CS 对 哦 啊 阿妹 我 也 不懂 他 到底 会 讲 什么 topic
+04NC08FBY_0101 3100306 3102496 EN ah we can talk about claudia
+04NC08FBY_0101 3104364 3108860 CS 她 去 了 a few weeks 乎 好像 这 几天 很少 看 她 on
+04NC08FBY_0101 3109620 3111920 ZH 哦 
+04NC08FBY_0101 3111920 3126207 CS 我们的 cousin claudia 去 了 苏州 几个 星期 了 可是 这 几天 we didn't really talk to her on m. s. n.
+04NC08FBY_0101 3127665 3131357 CS 不知道 他 的 condition 如何 了
+04NC08FBY_0101 3137548 3139198 ZH 妳 知不知道 会
+04NC08FBY_0101 3142362 3148096 CS 妳 知不知道 慧聪 这 几天 (呃) 最近 啊 有 s. m. s. 我
+04NC08FBY_0101 3151983 3154585 ZH 他 他 问 我 忘记 了
+04NC08FBY_0101 3154585 3156257 EN 
+04NC08FBY_0101 3156257 3161644 CS 他 问 我 whether 我 是不是 在 做 哦 找到 工作
+04NC08FBY_0101 3165075 3174483 CS 对 我 我 已经 tell him a lot of times that i'm still studying 还 没有 真的 去 找 一个 job
+04NC08FBY_0101 3182519 3184316 CS 我 觉得 december holidays 咯
+04NC08FBY_0101 3185424 3188200 ZH 啊 我 觉得 我 蛮 不可能 去 找 工作 的
+04NC08FBY_0101 3192457 3200829 CS 可是 可是 一个月 一个月 真的 可以 earn much 咩 有 which company 要 请 一个 月 的
+04NC08FBY_0101 3203376 3205287 CS waitressing 也是 company 嘛
+04NC08FBY_0101 3207090 3211825 CS then 是 什么 是不是 一个 company restaurant 是不是 一个 company
+04NC08FBY_0101 3226496 3227452 ZH 废话
+04NC08FBY_0101 3233267 3234092 ZH 好
+04NC08FBY_0101 3255211 3256666 ZH 好 到 我
+04NC08FBY_0101 3257969 3269089 CS 如果 如果 你的 朋友 right 他 他 来 问 你 要不要 去 join 你 的 那个 band 的 concert
+04NC08FBY_0101 3270023 3272654 CS 妳 会不会 去 看 band practice
+04NC08FBY_0101 3273653 3279092 CS 妳 的 friend 叫 你 要不要 去 perform some band concert 你 会不会 去 practice
+04NC08FBY_0101 3280690 3281798 ZH 如果
+04NC08FBY_0101 3311626 3317931 CS 所以 妳 真的 不要 去 她 的 band practice 啦 band performance 啦
+04NC08FBY_0101 3331469 3338987 CS 我 觉得 乎 all of us 乎 都 很 忙 咧 我 不懂 为什么 乎 有些 人 right 蛮 有 空 的
+04NC08FBY_0101 3339611 3345363 CS 然后 他们 a lot of time to go and do a lot of other things such as
+04NC08FBY_0101 3347229 3352133 ZH 举办 什么 聚会 很多 聚会
+04NC08FBY_0101 3364713 3367586 CS 可是 那些 outings 我 都 不能 去 怎么办
+04NC08FBY_0101 3370626 3376098 CS 然后 然后 她们 一直 在 讲 我 讲 我 很 不 on
+04NC08FBY_0101 3384499 3401213 CS 我 也 是 这样 讲 i said that 因为 我 很多 很多 other commitments 所以 现在 i need to prioritise my things very well i cannot afford to 什么 东西 都 去 去 去 然后 我 就 没有 时间 to rest 了
+04NC08FBY_0101 3401989 3404116 CS especially 乎 这个 recess week
+04NC08FBY_0101 3404891 3411271 CS 只有 一个 星期 的 时间 咧 我 要 做 这么 多 assignments 跟 projects 还要 catch up on our studies 诶
+04NC08FBY_0101 3412247 3413441 ZH 以为 我们 是 超人 啊
+04NC08FBY_0101 3430605 3432996 CS 妳 朋友 是不是 要 陪 girlfriend
+04NC08FBY_0101 3437200 3442179 CS 对 咯 在 怀疑 诶 可能 他 的 weekend 乎 是 reserve for 他 的 女朋友 诶
+04NC08FBY_0101 3447008 3450432 CS 然后 他 又 想 你们 要 剥夺 他 唯一 的 weekend
+04NC08FBY_0101 3450432 3451256 EN 
+04NC08FBY_0101 3456910 3459032 CS 妳 message 了 还是 没有 message
+04NC08FBY_0101 3461857 3467637 CS 哦 因为 weekend 对 他们 来 说 蛮 important 的 啦
+04NC08FBY_0101 3484290 3486642 ZH 什么 朋友 啊
+04NC08FBY_0101 3490295 3493272 CS 哦 妳 a. c. j. c. 的 朋友 啦
+04NC08FBY_0101 3497579 3500406 CS 我 觉得 我的 finger nails 很 长 了
+04NC08FBY_0101 3502533 3507237 CS 我 不懂 啊 我 不懂 要 擦 什么 colour 诶
+04NC08FBY_0101 3518160 3519611 ZH 没有 办法 的 嘛 妳 一定 要
+04NC08FBY_0101 3520212 3521438 CS 妳 一定 要 remove 的 嘛
+04NC08FBY_0101 3522839 3524415 CS 我 觉得 应该 remove 了
+04NC08FBY_0101 3527292 3528243 ZH 妳 放 多久 了
+04NC08FBY_0101 3532722 3533798 ZH 我 觉得 哦
+04NC08FBY_0101 3534823 3536532 CS my ears 要 烂掉 了
+04NC08FBY_0101 3539032 3543761 CS 我 不知道 我 觉得 this thing right 好像 very heavy
+04NC08FBY_0101 3554784 3558312 ZH 请 妳 不要 这么 无聊
+04NC08FBY_0101 3559663 3560210 ZH 啊
+04NC08FBY_0101 3562487 3564192 CS 请 妳 不要 anyhow
+04NC08FBY_0101 3568212 3569323 ZH 跟 着 我
+04NC08FBY_0101 3570898 3571647 EN say
+04NC08FBY_0101 3573223 3575031 CS 没有 啊 跟 着 我 say 没
+04NC08FBY_0101 3576503 3577898 CS 跟 着 我 say
+04NC08FBY_0101 3589732 3590496 ZH 我 已经
+04NC08FBY_0101 3591852 3596913 CS try to try to 忍 了 可是 很 辛苦
+04NC08FBY_0101 3601407 3606523 CS 可以 不要 唱歌 啦 妳 要 唱 什么 songs
+04NC08FBY_0101 3609795 3612024 CS 妳 可以 不要 这么 agitated 吗
+04NC08FBY_0101 3618966 3620965 ZH 我 我们 再 讲 多 一点 废话 啦
+04NC08FBY_0101 3622092 3625449 ZH 我们 讲 多 一点 废话 再 走 我们 还有 一点点 时间
+04NC08FBY_0101 3627853 3629652 CS 我 觉得 我 要 买 新 的 slipper 了

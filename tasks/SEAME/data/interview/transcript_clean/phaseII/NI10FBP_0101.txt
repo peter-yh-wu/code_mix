@@ -1,0 +1,739 @@
+NI10FBP_0101 3946 4687 EN (erm)
+NI10FBP_0101 9412 10296 EN (erm)
+NI10FBP_0101 10560 18990 CS 我 现在 i am a student in the accountancy course 现在 第一 年 second sem
+NI10FBP_0101 19888 22885 CS 现在 我 在 take 五 个 core modules
+NI10FBP_0101 24662 28465 CS 蛮 重 的 啊 我 觉得 但是 i think 要 put in a lot of hard work 咯
+NI10FBP_0101 29255 33540 CS 现在 这个 时期 是 when most projects are coming in
+NI10FBP_0101 33902 37149 EN then assignments are due then in five weeks
+NI10FBP_0101 37627 38935 CS 考试 就要 来 咯 so
+NI10FBP_0101 39550 40802 CS 要 prepare 一下 咯
+NI10FBP_0101 41056 44240 CS 最 i mean 那个 recess week 我 我 一直 在 玩 所以
+NI10FBP_0101 44590 49652 CS never never really catch up with my work so 我 现在 是 关键 时期 咯
+NI10FBP_0101 49652 50910 EN 
+NI10FBP_0101 50910 52873 CS okay 啊 所以
+NI10FBP_0101 53674 61040 CS 我 是 我 是 从 hall six 来 的 其实 啊 我 有 找 蛮 多 人 i got a few people to come down 啦 for this project
+NI10FBP_0101 61713 66430 EN ah like just now (erm) a few ah i think
+NI10FBP_0101 67103 76593 CS can't remember their names but anyway (啊) 明天 还有 后天 也是 有 几个 我 的 hall six 的 人 下来 我们 是 orientation camp committee 咯
+NI10FBP_0101 77452 85228 CS 我们 是 要 筹钱 for the camp that is going to occur in july or august 啦
+NI10FBP_0101 85785 94010 CS so what's going to happen is (啊) when the when 一些 第一 年 的 学生 来 的 时候 他们 来 hall of residence six
+NI10FBP_0101 94710 100528 CS 就是 可以 让 他们 融入 这个 hall 里面 我们 就 一个 七 天 的 camp
+NI10FBP_0101 101422 104029 ZH 给 他们 来 (啊) 认 彼此 认识 一下
+NI10FBP_0101 104810 109991 CS 有 一些 活动 (呃) 比如 fright night 来 吓 一 吓 他们
+NI10FBP_0101 110469 113969 ZH (呃) 有 在 沙滩 玩 有 可能 有
+NI10FBP_0101 114711 119563 CS 让 他们 认 来 认识 一下 hall six 的 culture 是 怎样 啊 因为 hall six
+NI10FBP_0101 120080 123756 CS hall six 有 蛮 strong 的 culture 它 is quite a quite a old hall
+NI10FBP_0101 124440 127837 CS one of the first few to to start 所以 它
+NI10FBP_0101 128676 133319 CS 他们 pride themselves of being like very sporty it's considered a sports hall 啦
+NI10FBP_0101 134032 140119 CS 所以 it's quite 他们 他们 的 camp revolve around 这种 东西 咯
+NI10FBP_0101 140773 144150 CS 他们 的 他们 的 games 都 蛮 蛮 (err) physically tiring 啊 啊 so
+NI10FBP_0101 144150 144805 EN 
+NI10FBP_0101 144805 147456 EN physically tiring ah ah so
+NI10FBP_0101 148354 152600 EN (erm) i guess it's part of the culture it's quite fun la although after the seven days
+NI10FBP_0101 153264 156180 EN i think most people  like don't want to go though it again
+NI10FBP_0101 156180 161261 CS some sometimes the guys they all think like (呃) 好像 回去 当兵 这样
+NI10FBP_0101 162638 164366 EN but okay la i think
+NI10FBP_0101 165137 168183 CS 像 army 这样 咯 一生 经过 经过 一次 就
+NI10FBP_0101 168419 168536 EN 
+NI10FBP_0101 169188 170274 ZH 会 会 成长 这样
+NI10FBP_0101 171250 180053 CS (呃) 还有 现在 我 除了 join hall 之外 我 还有 join handball
+NI10FBP_0101 181542 187497 CS (呃) 这种 这 其实 不是 一个 很 recognised 的 c. c. a. 啊 i think 是 蛮 新 的
+NI10FBP_0101 187497 189744 ZH 我 都 不懂 很多 人 也 没有 听 过
+NI10FBP_0101 190486 194425 CS 只是 有 一点 像 篮球 还有 soccer mix 在 一起
+NI10FBP_0101 195148 199726 CS 就是 有一个 soccer 这样 的 goal post 但是 你 可以 dribble the ball
+NI10FBP_0101 200526 211174 CS like 篮球 这样 so 你 just 一直 pass 来 pass 去 pass 给 你 team mate then in the end 你的 objective 是要 把 那个 球 来 丢进 那个 goal 里面
+NI10FBP_0101 211477 211789 EN 
+NI10FBP_0101 212228 213256 CS 就是 这样 咯 so
+NI10FBP_0101 214106 216038 ZH 现在 我 正在 玩 这个 咯 但是
+NI10FBP_0101 216956 221310 CS 我 not not very good 啦 so (啊) okay 啦 so
+NI10FBP_0101 221700 227856 CS actually c. c. a. 蛮 小 的 咯 我们 十六 这样 很少 人 啊 quite a few people
+NI10FBP_0101 228754 231093 EN so see how it goes then
+NI10FBP_0101 232362 237350 EN (erm) in the mean time in the mean time actually i not not been going very regularly cause
+NI10FBP_0101 237720 240880 CS 现在 workload 比较 比较 重 咯
+NI10FBP_0101 241875 244355 CS so recently 我 这 几个 礼拜 我 来
+NI10FBP_0101 244843 247140 CS bia 我 功课 do 我 功课 so
+NI10FBP_0101 248521 250815 EN feel quite bad la cause i never go down so regularly
+NI10FBP_0101 251498 258064 EN but also would not not a choice la because my hall stuff also like take up quite a lot of time also so its always a balance lo
+NI10FBP_0101 258764 261595 CS like i'm quite i'm closer to my hall 的 朋友
+NI10FBP_0101 261890 268490 EN that's why i feel more obligation to to put in more effort for this la like sometimes
+NI10FBP_0101 268704 269822 CS 因为 我 是 business manager
+NI10FBP_0101 271052 274215 CS so 有 target 咯 like 要 要 筹
+NI10FBP_0101 274440 277667 CS maybe like twenty k. twenty thousand (啊) 二十 千 啊
+NI10FBP_0101 278400 283817 CS 是 although 二十 千 里面 有 可能 十 千 是 从 grants 来 咯
+NI10FBP_0101 284618 290276 CS like 可以 申请 学校 的 grants 他们 会 可能 这边 给 四千 那边 给 三千
+NI10FBP_0101 291174 293829 CS 但是 还是 要 筹 十 千 咧 so 蛮 多 钱 的 啊
+NI10FBP_0101 294283 297564 CS so 要 (啊) put in more effort 咯 for example
+NI10FBP_0101 298257 301000 ZH 这种 是 几百 几百 慢慢 进来
+NI10FBP_0101 301751 307926 CS 然后 我们 也是 有 几个 大 项目 就是 (啊) great eastern 有 这种 这个 叫 我们 complete survey forms 的
+NI10FBP_0101 308649 312360 CS 每 一个 survey 可以 赚 四 到 六 块 要 填 一个 survey 就是
+NI10FBP_0101 312751 317975 CS actually 蛮 多 钱 的 但是 (呃) 因为 他们 i think 他们是 要 这些 surveys
+NI10FBP_0101 318835 324465 CS 他们 是 要 那些 人 的 资料 所以 他们 可能 (呃) graduate 之后 when they go to work
+NI10FBP_0101 324465 325353 EN 
+NI10FBP_0101 325353 333881 EN then they can use all these ah information to contact them and hopefully i think they want to sign them up as clients ah so
+NI10FBP_0101 335741 342377 CS 有时 i think 我们 的 朋友 他们 也 懂 咯 so 他们 不要 被 骚扰 所以 even though 是 free 的 他们 也不 要 做 啦
+NI10FBP_0101 342377 343148 EN 
+NI10FBP_0101 343148 346940 CS then in the end 要 一直 persuade 他们 有 时候 我们 我 的 朋友 也是 有点
+NI10FBP_0101 347996 351610 CS 有时 有时 有时 我 的 朋友 看到 我 的 message 他们 会 有点 怕 这样 因为
+NI10FBP_0101 352105 361297 CS was all the while i have been doing these kind of canvassing events ask people (呃) sorry can you help me do this can you buy help me 帮 我 买 这个 东西 五 块 五 块 而已
+NI10FBP_0101 362371 362761 ZH 因为
+NI10FBP_0101 363210 367413 CS 其实 我 我 也 是 懂 啦 因为 如果 是 我 的话 我 也是 i don't think i want to do it 咯
+NI10FBP_0101 367638 369200 EN if it's for a charitable purpose
+NI10FBP_0101 370303 377913 CS 友善 的 理由 i think 每个 人 会 比较 愿意 来 捐 一下 咯 但是 我的 只是 筹钱 给
+NI10FBP_0101 377913 378391 EN (erm)
+NI10FBP_0101 379407 381541 EN year one students ah which is i think not as
+NI10FBP_0101 381980 387047 CS has a purpose but is not as meaningful as like 慈善 的 活动
+NI10FBP_0101 388277 392060 CS so 有时 moral 的 道理 也是 morally
+NI10FBP_0101 392968 394237 ZH 比较 有 一点 难 啊
+NI10FBP_0101 394793 398651 CS so  有时 我 朋友 会 来 会 来 躲避 我 一下 
+NI10FBP_0101 399442 400340 CS 没有 办法 so
+NI10FBP_0101 401512 404250 EN well i think after this year then i can
+NI10FBP_0101 404963 406120 EN ah finish my
+NI10FBP_0101 406984 408253 EN (uh) my job then
+NI10FBP_0101 408253 408965 EN 
+NI10FBP_0101 408965 413288 CS i pass it to another freshie 多 一个 year one 来 担任 这个 任务 咯
+NI10FBP_0101 416886 419238 CS okay 我 的 hall 里面 有
+NI10FBP_0101 420381 423612 CS 三个 major 的 activity 啊 in a year
+NI10FBP_0101 424061 428235 CS 一个 是 orientation camp which is 我 现在 做 的 东西 啊
+NI10FBP_0101 429191 430968 CS 第二 个 是 dinner and dancer
+NI10FBP_0101 430968 431671 EN (erm)
+NI10FBP_0101 431671 441170 CS dinner and dance 是 一个 event just 一天 而已 啦 每个 人 hall six 的 人 会 他们 会 book 一个 hotel 咯 then must dress up to a theme
+NI10FBP_0101 442196 446091 CS and 好像 我们 那天 是 victorian victorian secret 啦
+NI10FBP_0101 446628 448385 ZH 我 我 华语 不懂 怎样 讲 啊 但是
+NI10FBP_0101 448922 453837 CS 有时 他们 有 什么 海盗 啊 有时 扮鬼 啊 i mean 每 一年 都 不 都 不一样 咯
+NI10FBP_0101 454638 457777 CS so 要 去 要 去 (呃) rent 一些 costume
+NI10FBP_0101 458236 460969 CS 不会 便宜 哦 rent 一天 costume 好像 有 一天 就有 五 四十 块
+NI10FBP_0101 461535 462226 CS then 你 去
+NI10FBP_0101 462226 462685 EN 
+NI10FBP_0101 462685 466893 CS 你 去 那个 hotel 也要 五十 块 左右
+NI10FBP_0101 467390 469323 ZH 这样 就 一天 就 把 九十 块 丢掉
+NI10FBP_0101 470159 472820 CS but 一年 一次 啊 没有 办法 还是 要 去
+NI10FBP_0101 473009 478101 CS 所以 这 是 d. n. d. 是 第二 个 第三 个 就是 英文 叫 hexis 啊 hexis 只是 一个
+NI10FBP_0101 479223 482269 CS (呃) 也是 一晚 啊 是 一个 production play production
+NI10FBP_0101 482982 484768 ZH 然后 他们 就 一直 练 咯
+NI10FBP_0101 484768 485432 EN 
+NI10FBP_0101 485432 488434 ZH (哦) 他们 演戏 咯 演戏 给 我们 看 而已 咯
+NI10FBP_0101 490162 500716 CS so 所以 这 几个 活动 都是 需要 钱 的 嘛 因为 like d. n. d. 要 book hotel then hexis 要 book 那个 production 的 那个 location
+NI10FBP_0101 501497 504500 CS so 他们 要 筹钱 来 来 做 这种 东西 咯 but
+NI10FBP_0101 504958 510120 CS 我 的 是 要 最多 钱 的 啊 因为 我 的 是 七 天 so 我 的 任务 也是 最 重 啊
+NI10FBP_0101 511251 511768 EN actually
+NI10FBP_0101 511768 512588 EN 
+NI10FBP_0101 512588 518250 CS 虽然 是要 最多 钱 但是 committee 也是 最大 biggest committee so 哎呀 okay 啦 even out 啦 i think
+NI10FBP_0101 519193 525385 CS 啊 okay 咯 so other than these three also got one (啊) j. c. r. c. 的 business manager
+NI10FBP_0101 526069 534713 CS 他 他 就是 raise some funds for hall 咯 then if like the hall 要 出国 for holiday
+NI10FBP_0101 535699 537830 EN then they try to sponsor a bit la
+NI10FBP_0101 537830 538508 EN 
+NI10FBP_0101 538508 544700 EN then okay la he he don't have to do a lot of things so okay lo these are the four biz-mag in the hall lo
+NI10FBP_0101 549203 549760 EN hello
+NI10FBP_0101 551487 552733 EN okay
+NI10FBP_0101 554080 556120 EN ah okay (erm)
+NI10FBP_0101 557321 564433 CS 最近 (呃) okay 啦 我 just 讲 一下 我 小时候 的 东西 咯 我 就 我 是
+NI10FBP_0101 565399 572528 CS 小学 小学 的 时候 我 我 是 qifa primary school 来 的 neighbourhood school 啦 i don't think 你 会 懂
+NI10FBP_0101 574163 577941 CS 你 懂 okay (呃) 因为 okay 啦 so 我在 我 学校 里面
+NI10FBP_0101 579572 584155 CS 其实 我 小时候 i think 我 爸爸 对 我 要求 蛮 高 的 啊
+NI10FBP_0101 584952 590070 CS so 他 一直 一直 推 我 来 读书 啊 做 这种 东西 do this kind of thing but
+NI10FBP_0101 590705 594176 EN at that time i didn't understand la then i i was very scared of my dad because
+NI10FBP_0101 595005 598627 CS 我 爸爸 是一个 很 严 的 的 一个 一个 person 啊
+NI10FBP_0101 599330 605681 CS so what he does is 他 会 一直 我 不 不用 功 的 时候 他 会 cane 我 啊 打 我 啊
+NI10FBP_0101 606559 610677 CS 哎呀 typical dad 啊 then 我 妈妈 就是 那个 that one i'll hide behind every time
+NI10FBP_0101 611468 612695 EN yeah so i didn't really like my dad
+NI10FBP_0101 614193 615114 ZH 我 小 的 时候 啦
+NI10FBP_0101 615874 618256 EN then even until secondary school
+NI10FBP_0101 618766 625404 CS 我 爸爸 也是 因为 因为 我 爸爸 一直 推 我 actually 现在 我 懂 啊 因为 我 我 成绩 i think 考 得 还好 不错 啦
+NI10FBP_0101 625894 628428 CS so 我 去 (呃) 我 secondary school 是 raffles instituition
+NI10FBP_0101 629947 636236 CS 然后 那时 候 他 还是 没有 松懈 咯 所以 every time i feel a lot of pressure 啊
+NI10FBP_0101 636236 640036 EN cause  i don't really enjoy studying
+NI10FBP_0101 647056 647803 EN hello hello
+NI10FBP_0101 654506 655749 EN hello can
+NI10FBP_0101 657370 660429 CS okay so anyway 我 刚才 讲
+NI10FBP_0101 660429 661224 EN 
+NI10FBP_0101 661224 662530 ZH 我 到 我 中学 的 时候
+NI10FBP_0101 662530 663556 ZH 呃 
+NI10FBP_0101 663556 670190 CS 那时 候 我 最 喜欢 打 最 喜欢 the thing i like to do most is 来 打 badminton 啦
+NI10FBP_0101 671148 676220 CS 我们 那 也是 我 的 c. c. a. 咯 我 不懂 为什么 咧 我 在 那边 遇到 很多 好朋友
+NI10FBP_0101 676781 679513 CS 我 很 喜欢 做 like 很 喜欢 打 哦 所以 每天 我 上课 乎
+NI10FBP_0101 680237 686900 CS 有 我 一直 都会 做 白日梦 just keep dreaming and hopefully i can 去 打 badminton as soon as i 我 可以 啦
+NI10FBP_0101 686900 687678 EN 
+NI10FBP_0101 687678 692312 CS so during the day 我 有时 会 没有 专心 读 功 没有 做 功课 then
+NI10FBP_0101 692628 693831 ZH 我 可能 会 打 到 很迟 啊 我
+NI10FBP_0101 693831 694168 EN <unk>
+NI10FBP_0101 694168 698062 ZH 我 可能 我 下课 可能 五点 我 一直 会 打 到 九点 十点
+NI10FBP_0101 698721 703166 CS maybe after that then i can go back home 咯 which is i think quite 迟 啊 then
+NI10FBP_0101 703675 708618 CS 我 爸爸 每次 会 等 我 等到 我 回来 的 时候 then 脸臭臭 有时
+NI10FBP_0101 709471 712490 CS 他 会 会 念 一下 i not happy a bit then
+NI10FBP_0101 713508 716042 CS in the end 我 要 去 找 我 妈妈 来 帮 来 救 我 一下
+NI10FBP_0101 716572 720864 EN so after that i just carry on for like a few a few years la
+NI10FBP_0101 721221 725869 CS cause yeah 咯 i join the same (呃) 羽 球 for 四年
+NI10FBP_0101 726970 734008 CS then during this period 哇 你 看 我 一直 一直 打 嘛 then i think 我 有点 忽略 我 的 学业 啊 so
+NI10FBP_0101 734982 744058 CS (呃) in the end 我 成绩 出来 not very ideal 啊 then my dad will again 啊 come and cane me 啊 hit me
+NI10FBP_0101 745363 750560 CS at that time i was thinking 哦 c. c. a. quite important 蛮 重要 的 what then
+NI10FBP_0101 751568 755682 CS 他 一直 讲 in the end 成绩 is still the most important 咯 我在 想
+NI10FBP_0101 756651 762946 CS true 啦 true important 是 important but 要 有 balance 诶 因为 他 一直 要 我 读书 而已 咧
+NI10FBP_0101 763384 765097 CS i think 我 哥哥 也是 这样 啊
+NI10FBP_0101 765699 771668 CS 我 哥哥 也是 一直 读 一直 读 then in the end 我 我 爸爸 叫 我 哥哥 来 quit his c. c. a.
+NI10FBP_0101 772616 774604 EN because i think my brother put in too much time
+NI10FBP_0101 775827 783210 EN yeah lo so but my brother he didn't mind la cause he didn't like his c. c. a. as much as mine as i did la
+NI10FBP_0101 783812 790097 CS so he 他 okay 咯 but 我 觉得 我 just 不要 哦 我 just 我 just 没有 听 他的 话
+NI10FBP_0101 790556 797586 CS so in the end 我 i think 我 sec three 考 我 看 全班 不懂 后 后面 五个 啊
+NI10FBP_0101 798514 799836 ZH 后面 五个 索然 所以
+NI10FBP_0101 800275 802711 CS after that 我 sec four 就 很 怕 咯
+NI10FBP_0101 802711 803149 EN 
+NI10FBP_0101 803149 807880 CS 所以 i will put in more effort then try to do my best then 还 好 老师 好 啊
+NI10FBP_0101 808690 811361 CS so 朋友 也是 不错 所以 朋友 会 教 我 诶 not bad
+NI10FBP_0101 811963 817708 CS 因为 有 actually 不懂 诶 有些 人 他们 觉得 r. i. 很 scheming 这样
+NI10FBP_0101 817708 825690 CS 我 不懂 啊 这是 有 一些 comments i get from other place like 他们 会 steal 我们 的 notes 啊 朋友 会 steal 我们 的 notes 啊 哎呀
+NI10FBP_0101 826505 831194 CS 在 朋友 面前 在 我们 面前 他们 会 (啊) 笑笑 but 是 笑里藏刀 那种
+NI10FBP_0101 831898 834921 CS but okay 咧 我在 那边 make 很多 good friends 诶 而且 在 那边
+NI10FBP_0101 835767 840803 CS 我 觉得 most people 都是 很 sincere 的 啊 是 真的 啊
+NI10FBP_0101 842389 850065 ZH 他 给 他 不喜欢 你 他 会 跟 你 讲 啦 他 喜欢 你 他 不会 他 不会 他 他 就会 一直 会 帮 你 这样 咯 那边 的 人 差不多 都是 这样
+NI10FBP_0101 850886 853251 ZH 虽然 有 一些 一定 是 有 一些 败家子 啦
+NI10FBP_0101 853730 855433 EN some some people just
+NI10FBP_0101 856800 859536 EN not not the nice people that you know la
+NI10FBP_0101 860087 862707 EN but you know as a whole okay eh i feel like
+NI10FBP_0101 862707 863390 EN 
+NI10FBP_0101 863390 866214 CS 就 觉得 是 like 有 一个 家庭 在 那边 这样 咯
+NI10FBP_0101 866846 873190 CS so 现在 的 朋友 从 那边 遇到 的 朋友 到 现在 我 都 还有 蛮 多 都是 经常 会 见面 的 啊 like
+NI10FBP_0101 873763 876406 CS even 这样 n. t. u. 也是 有 蛮 蛮 几个 啊 我们
+NI10FBP_0101 877293 879332 CS 我们 有 一个 identity 这样 咯 so
+NI10FBP_0101 880199 886025 EN r. i. was a place that i think i learn a lot of a lot of lessons
+NI10FBP_0101 887208 893381 CS then after r. i. i went (呃) 莱佛士 初级 学院 r. j. c. okay 啦
+NI10FBP_0101 894156 896837 CS 旁边 而已 因为 他们 后来 搬 到 bishan 去
+NI10FBP_0101 897795 900441 CS then 现在 不一样 咯 因为 现在 有 女孩子 
+NI10FBP_0101 901175 901674 EN 
+NI10FBP_0101 901674 904529 CS after 四年 没有 女孩子 哇 有 有 一点 不会 react 啊
+NI10FBP_0101 905040 910540 CS so 不敢 跟 他们 讲话 啦 for a while 啊 可能 三个 月 这样 哇 一直
+NI10FBP_0101 911388 915588 CS 不懂 诶 没有 话 讲 的 then 有点 不自在 这样 then
+NI10FBP_0101 916383 920222 CS 在 班 上 cannot do anything you want last time you just like
+NI10FBP_0101 920222 921160 EN 
+NI10FBP_0101 921160 924493 CS scold vulgarity 骂 粗话 还有 丢 东西 
+NI10FBP_0101 925665 928363 CS 吓 老师 骂 老师 这样 then 现在 女孩子 在 就
+NI10FBP_0101 928363 928679 EN 
+NI10FBP_0101 928679 929821 ZH 不可 以 做 诶 有点
+NI10FBP_0101 929821 930484 EN 
+NI10FBP_0101 930484 933297 CS restricted 这样 but okay 啦 after a while
+NI10FBP_0101 934317 939868 CS 现在 现在 学 学 一下 咯 so okay 咯 j. c. 也是 好玩 啊 in a different way 咯
+NI10FBP_0101 940694 941356 ZH (呃)
+NI10FBP_0101 942661 955173 CS 那边 的 那边 的 c. c. a. after that 我 没有 join badminton 了 我 换 成 outdoor activities club that means 我们是 去 爬山 啊 kayaking 啊 canoe 啊 go camping
+NI10FBP_0101 956009 960300 EN yeah like these kind of outdoor stuff climb mountain
+NI10FBP_0101 961234 963183 EN okay la it's quite fun la not bad then
+NI10FBP_0101 963999 974134 CS very relax one 咯 so (呃) whenever we have a holiday then we will just go 去 马来西亚 搭 一个 bus 过去
+NI10FBP_0101 974560 981460 CS then just (呃) go camping 咯 actually 我 都 sometimes i just don't even know where i am 啊 i just follow on the bus
+NI10FBP_0101 981995 988760 CS 跟 跟 每 每个人 去 i think 最 重要 的 是 just 跟 朋友 来 来 玩 这样 咯 很好 玩 啊
+NI10FBP_0101 989626 997532 CS (呃) 我们 after 我们 有 一次 去 到 (呃)
+NI10FBP_0101 998240 1006515 CS 我 忘记 那 地方 了 是 在 brunei 诶 没有 是 malaysia 最 高 是 southeast asia 的 最 高峰 啊 哦 kinabalu
+NI10FBP_0101 1007897 1009702 CS then 我们 爬 上去 咯 then
+NI10FBP_0101 1010507 1013800 CS (呃) 是 actually 很 高 啊 four thousand metres
+NI10FBP_0101 1014539 1020003 CS (呃) in vertical height you take around four days 四 天
+NI10FBP_0101 1020911 1022620 CS 这样 啦 just 上去 两 天
+NI10FBP_0101 1023619 1024118 EN then
+NI10FBP_0101 1025036 1031291 CS (呃) i think 因为 很 高 嘛 then (呃) i think 你 到 你 你 到 那个 高度 的 时候 you feel a bit of altitude sickness 咯
+NI10FBP_0101 1032065 1034553 EN so you feel like a throb like your your head very heavy
+NI10FBP_0101 1035735 1037906 EN  then some people start to fall sick
+NI10FBP_0101 1038518 1040614 EN then the worst thing about going on a mountain is that
+NI10FBP_0101 1041817 1045650 EN even though how no matter how sick you are when you are on top la you still must come down
+NI10FBP_0101 1046139 1049509 CS so 有 一些 那时 有 一些 女孩子 i think 她们 生病 咯
+NI10FBP_0101 1049998 1053128 CS 他们 已经 到 three quarter high 了 then
+NI10FBP_0101 1053994 1061115 CS at that time you is the kind of situation where 你 不要 放弃 咯 then 他们 一直 try 他们 一直 try then in the end
+NI10FBP_0101 1061472 1066867 CS try all the way 爬 到 three quarter 他们 就 不可 以 继续 了 then 没有 办法 他们 还要 下来 诶
+NI10FBP_0101 1067673 1069564 CS so in the end 我们
+NI10FBP_0101 1069564 1070125 EN 
+NI10FBP_0101 1070125 1074712 CS 我们 the rest of us 他们 是 因为 three quarter 那边 有 一个 算是 一个 hotel 这样 啦
+NI10FBP_0101 1075558 1077985 CS 我 不懂 哦 哦 那是 another story 等 我 讲
+NI10FBP_0101 1078902 1082292 CS 因为 so three quarter then after that 我们 爬 上去 then we reach the peak
+NI10FBP_0101 1082863 1092512 CS then 我们 下来 哇 上去 是 很 爽 啊 因为 有一个 motive 啊 有 一个 purpose so 每个 会 (呃) high morale chiong 啊 chiong go all the way
+NI10FBP_0101 1093104 1095689 CS then in the end reach the top then 我们 下来 的 时候 就
+NI10FBP_0101 1096779 1100408 CS 还好 下来 时候 还好 then in the end reach three quarter 的 时候 我们 要 背 那个 女孩子 的
+NI10FBP_0101 1100806 1108151 CS 他们 的 backpack 他们 backpack 很 重 啊 因为 要 要 carry tent 啊 什么 很多 food 啊 他们 的 衣服 啊 女孩子 带 很多 衣服
+NI10FBP_0101 1108529 1115076 CS so 他们 bag 好像 比 我们 的 重 这样 then in the end 我们 要 啊喏 要 分 我们 一直 re-distribute then
+NI10FBP_0101 1115861 1122860 CS 那些 生病 的 just 不用 拿 东西 啊 走 下来 so 蛮 蛮 累 的 but okay 啦 in the end 是 很好 玩 咯
+NI10FBP_0101 1123339 1133990 CS 哇 我 另外 一个 story 是 你 懂 我 爬 上去 的 时候 乎 我们 的 backpack 是 我 觉得 很 重 啊 而且 爬 上上 去 我 觉得 很 累 (呃) 我 我是 一个 男 的 我 已经 觉得 很 累 了 then
+NI10FBP_0101 1134358 1139090 CS 我在 in 那 hotel 乎 那 hotel three me~ three thousand metres high 哦
+NI10FBP_0101 1140215 1147239 CS 它 的 它 它 的 food food and supplies 那些 水 那种 乎 都是 从 山 下 拿 的 嘛
+NI10FBP_0101 1148102 1149182 CS then 你 懂 是 谁 拿 的 嘛 .
+NI10FBP_0101 1150018 1153076 CS 那些 东西 these are all carried by old women 咧
+NI10FBP_0101 1153698 1161850 EN these old women are like sixty seventy years old ah the face a lot of wrinkles that kind and then their backs are so hunched that they cannot stand straight ah and then
+NI10FBP_0101 1162355 1177680 CS they're carrying like i don't know how to describe their basket is huge 啦 很大 的 一个 篮子 里面 装满 食物 啊 我 不懂 他们 需要 的 东西 啊 然后 他们 我 看 可能 有 二十 公斤 重 啊 二十 二十 多 啦
+NI10FBP_0101 1178350 1185997 CS 所以 我 看 我 拿 了 我 都 我 都 有点 看 我 拿 不 上去 咯 然后 这些 老太婆 他们 还 可以 carry all the way up
+NI10FBP_0101 1187506 1194714 CS carry all the way up 是 很 了不起 了 咧 他们 还 走 比 我们 快 哦 我们 上去 时候 我们 看到 几个 auntie overtake 我们
+NI10FBP_0101 1195121 1200214 CS 我们 就 哇 很 惭愧 很 惭愧 but 哇 他们 真的 是 很 厉害 very very fit
+NI10FBP_0101 1200836 1212485 CS 啊喏 i think very healthy although 他们 全部 驼背 哦 因为 他们 拿 的 时候 好像 just 他们 全部 看 地上 这样 走 咯 走 走 走 因为 back 他们的 basket 是 放 他们的 背 上面 他们 的 back
+NI10FBP_0101 1213352 1222468 EN yeah lo so admire them la yeah so this one quite interesting then this is what i did in j. c.
+NI10FBP_0101 1222998 1224260 EN o. d. a. c. oh then
+NI10FBP_0101 1225075 1231921 CS come to think of it actually 蛮 相似 的 咧 to 我 what i experience in when i 当兵 that time
+NI10FBP_0101 1232675 1236350 EN cause after j. c. is go army mah so at that time
+NI10FBP_0101 1237191 1244516 CS (呃) okay 啦 army is again 一种 东西 that 一生 经历 一次 就 够 了
+NI10FBP_0101 1245485 1247509 CS although okay 啦 两年 咯 so
+NI10FBP_0101 1247855 1252963 ZH 在 那边 起初 我 真的 觉得 超 辛苦 咯 只是 很 想 家 要 回家
+NI10FBP_0101 1254033 1256608 CS 那边 的 人 哇 like
+NI10FBP_0101 1256608 1256924 EN 
+NI10FBP_0101 1256924 1262102 ZH 你 会 看到 有时 你 会 看到 人 丑陋 的 一面 他们 累 的 时候 你 会 看 他们
+NI10FBP_0101 1262102 1262683 EN 
+NI10FBP_0101 1262683 1265125 CS 自私 啊 这种 东西 like
+NI10FBP_0101 1265125 1265757 EN 
+NI10FBP_0101 1265757 1267060 ZH 这种 东西 在 学校 乎
+NI10FBP_0101 1267060 1267705 EN 
+NI10FBP_0101 1267705 1274275 CS i think 因为 学校 没有 这样 累 嘛 so 每个 人 都会 想 做 好人 这样 so people are generally nice
+NI10FBP_0101 1274663 1275560 EN but then in the army
+NI10FBP_0101 1275560 1276040 EN 
+NI10FBP_0101 1276865 1285944 CS 人 看 不到 的 时候 哦 then 有些 人 会 (呃) 蛮 他们 累 的 时候 他们 会 做 蛮 不好 的 东西 咯
+NI10FBP_0101 1286709 1290280 CS then (呃) 在 那边 学 很多 东西 咯
+NI10FBP_0101 1291084 1304530 CS (呃) 现在 我 讲 我 学 的 东西 其实 有 有 一些 是 没有 派 cannot be use in real life 啊 like jungle orientation 啊 like i went 我 去 brunei 两次 then 去 thailand
+NI10FBP_0101 1305021 1309255 CS (呃) 差 一点 去 台湾 咯 then 有 这 这 几个 的 地方 then 我们 just
+NI10FBP_0101 1309917 1318451 CS 哦 must get from 这个 地方 to the other point (呃) within 这个 period and to be on these (呃) resources 咯 then
+NI10FBP_0101 1319420 1321550 EN ah interesting la then
+NI10FBP_0101 1322035 1326327 CS 那时 因为 觉得 很 累 啦 then 因为 你 有 timeline 嘛 有 time to to meet so
+NI10FBP_0101 1326643 1336703 CS 很 累 了 你 还是 继续 走 继续 走 有 一次 我 的 我 最后 的 一个 mission (呃) 我们 是 要 在 brunei walk continuously for four days three night
+NI10FBP_0101 1337753 1339679 EN (erm) with missions along the way la
+NI10FBP_0101 1340607 1341139 EN so
+NI10FBP_0101 1341720 1341985 EN 
+NI10FBP_0101 1341985 1350289 CS 我们是 真的 是 走 到 累 到 我们 已经 一半 一边 走 一边 可以 睡觉 咯 i fall asleep halfway
+NI10FBP_0101 1351013 1357027 CS it was very very it was quite bad 咯 then we walk until our 我们 的 脚 全部 整个 都 是 泡泡 咯
+NI10FBP_0101 1358207 1365617 CS 整个 有点 不像 脚 啦 很多 很多 水泡 then 有 一些 爆 啊 流血 那种 but 没有 办法 还是 一定 要 走 下去 咯
+NI10FBP_0101 1366459 1367760 ZH 因为 (呃)
+NI10FBP_0101 1368451 1371933 CS 这是 我们 最后 一个 mission 啊 我们 走 完了 我们 就 可以 commission
+NI10FBP_0101 1372708 1372938 ZH 这样
+NI10FBP_0101 1373792 1377925 CS then okay 啦 虽然 我 讲 刚才 just now i said there were some
+NI10FBP_0101 1378639 1383291 EN people who weren't so nice but then i met also a lot of good friends there lo then
+NI10FBP_0101 1384349 1389244 CS army is something right i 我 觉得 is something that you cannot go through alone 啊
+NI10FBP_0101 1389983 1392585 EN they say that there is strength in numbers then
+NI10FBP_0101 1393481 1403586 CS (呃) i think just by being having people with the same 处境 as yourself you will 你 会 觉得 他 可以 then 为什么 我 不可 以 这样
+NI10FBP_0101 1404351 1408312 EN i think that's the real reason that is really the reason why we all pull it through lo like
+NI10FBP_0101 1409205 1414269 CS 很多 人 都 讲 如果 他们 自己 一个 人 尽力 的 的话 他们 他们 会 give up 咯
+NI10FBP_0101 1415123 1417911 CS then 啊 我 本身 也是 这样 觉得 啊 因为
+NI10FBP_0101 1419607 1423731 CS like for example 我们 在 brunei 我 要在 jungle 里面 like 九 天 这样
+NI10FBP_0101 1424598 1428998 CS so within 这 九 天 里面 你 可能 到 第四 天 你 已经 筋疲力尽 了 then
+NI10FBP_0101 1429177 1438542 CS 食物 剩下 一 一点点 啊 then 你 还 知道 哇 还有 多 五 天 的 东西 要 做 多 一天 就 不行 了 还要 多 五 天 啊 so
+NI10FBP_0101 1438937 1439090 EN 
+NI10FBP_0101 1439863 1444799 CS but 这种 东西 我们 我们 一直 想 一直 想 then 脑 里面 很 沮丧
+NI10FBP_0101 1445666 1449159 CS but then 啊 哎呀 看到 旁边 的 人 在 就 诶
+NI10FBP_0101 1449159 1449478 EN 
+NI10FBP_0101 1449478 1450079 ZH 不可以
+NI10FBP_0101 1450868 1455735 CS 不可以 丢下 他们 嘛 then 每个人 要 一起 奋斗 这样 咯 like everybody must put in your best then
+NI10FBP_0101 1456921 1462023 CS 真的 是 会 熬 过去 咯 then after the ninth day 每个人 会 回去 的 时候 每个人 
+NI10FBP_0101 1462023 1462788 EN 
+NI10FBP_0101 1462788 1465249 CS you will sense a sense of camaraderie 啊 每个人 会
+NI10FBP_0101 1466507 1469019 CS 很 close 这样 咯 so
+NI10FBP_0101 1469198 1469312 EN 
+NI10FBP_0101 1469861 1476353 EN army can do do this to to us lo like you will know who are the the really nice people la
+NI10FBP_0101 1477074 1481500 CS like 有 一些 人 是 i got i know a lot of friends 啦 他们 是
+NI10FBP_0101 1482980 1487890 CS 这些 job 没有 人 要 做 的 like 洗 厕所 啊 抹地 啊 来 这种
+NI10FBP_0101 1489109 1492540 CS 上面 看不到 的 like 我们 的 commander 会 看不到
+NI10FBP_0101 1493293 1495933 CS like 因为 我们 都是 officer 嘛 then 这种 东西
+NI10FBP_0101 1497820 1499223 ZH 肮脏 的 东西 没有 人 要 做 啊
+NI10FBP_0101 1499919 1500480 ZH 但是
+NI10FBP_0101 1501399 1508363 ZH 当 没有 人 做 的 时候 我 就有 这个 朋友 他 一定 会 做 的 啊 他 一直 一个人 在 那边 没有 人 帮 他 他 一直 也是 一 一直 做 下去 一直 做 下去
+NI10FBP_0101 1509049 1509342 EN then
+NI10FBP_0101 1509342 1510018 EN 
+NI10FBP_0101 1510018 1519562 CS 平 平时 啊 我 自己 是 不会 做 的 啦 但是 因为 我 看 他 这样 这样 这样 辛苦 then 没有 办法 咯 i went 我 一直 去 陪 他 咯 陪 他 一起 做
+NI10FBP_0101 1520123 1522949 CS then 有 几个 in the end 我们 有 form 一个 group 哦
+NI10FBP_0101 1523613 1525539 CS 哦 可能 四 五个 of us
+NI10FBP_0101 1525985 1534048 CS then all the  all the rubbish stuff then we all go and settle 我们 去 搬 咯 因为 这个 朋友 啊 他
+NI10FBP_0101 1534905 1537903 CS 因为 他 一直 自己 去 啊 我们 不 帮 他 就 没有 人 帮 他 咯 so
+NI10FBP_0101 1538209 1538336 EN 
+NI10FBP_0101 1538834 1544650 CS respect 他 咯 i think 这些 人 都 是 in the end when they go out to society i think 他们
+NI10FBP_0101 1544650 1545262 EN 
+NI10FBP_0101 1545262 1549645 CS i think they will do well 咯 他们 真的 是 motivated 啊 they will do their best no matter what 咯
+NI10FBP_0101 1550640 1552837 EN ah-noh that's what i mean by some people
+NI10FBP_0101 1552837 1553016 EN 
+NI10FBP_0101 1553016 1564450 CS the ugly side is shown 啊 因为 like 在 学校 啊 他们 哇 很 interested 很 motivated 咯 很 outspoken do their always like 哇 very zai in whatever they do
+NI10FBP_0101 1564718 1572090 CS actually i think they just want to get some leadership position for their resume then show that 他们 很 厉害 这样 啦
+NI10FBP_0101 1572824 1578475 CS then 到 army 的 时候 commander 在 的 时候 他们 就 很 厉害 喊 很 大声 跑 很快
+NI10FBP_0101 1578475 1579355 EN 
+NI10FBP_0101 1579355 1582156 CS commander 跑 掉 的 时候 他们 就 坐在 那边 不要 动
+NI10FBP_0101 1582679 1586059 CS then 啊 来 东西 都是 我们 我们 来 包 咯
+NI10FBP_0101 1586849 1590038 CS then 哎呀 妳 看 得 妳 看 得 出 这些 人 咯 then
+NI10FBP_0101 1591262 1599101 CS 因为 可怜 可惜 的 是 some of these people they actually go very high up like people won't be able to see one no one else will see 啊 except us
+NI10FBP_0101 1599700 1605672 EN but the fact is they still manage to get past lo the system then i don't know what will happen la in the future
+NI10FBP_0101 1606246 1614635 CS but anyway okay 啦 most most people are still 很 厉害 啦 ao most scholars so still okay 啦
+NI10FBP_0101 1616140 1624800 EN so army was like that then what else (erm) after army what i did was
+NI10FBP_0101 1625560 1632746 CS i i had a temporary job 我在 (呃) 税务局 做 i. r. a. s. collect income tax 的
+NI10FBP_0101 1633958 1638766 CS interesting experience 啊 因为 (嗯) 在 那边
+NI10FBP_0101 1639787 1644752 CS 有 会 遇到 很多 人 啊 actually 我 不是 我 不是 (呃) personally meet people 我是
+NI10FBP_0101 1645262 1647514 CS 打 打 电话 then answer phone calls
+NI10FBP_0101 1648114 1656887 CS so if they have queries then they ask me 啦 so most people 大多数 的 人 都是 蛮 尊敬 the law 他们 很 怕
+NI10FBP_0101 1657588 1664256 CS for example 有 一个 有 一个 malaysian 他 那时 过来 then 他 忘记 他 忘记 交 他的 income tax
+NI10FBP_0101 1664868 1672339 CS then 他 就 超 怕 他 一直 他 一直 打 来 一直 跟 我 求 求 我 求 我 不要 不要 把 我 送 回国 不要 带 我 回去 malaysia 我 要 我要 做工
+NI10FBP_0101 1672811 1677576 CS 这样 咯 then actually 我们 的 如果 你 迟到 只是 可能 罚款 五十 块 而已 啦
+NI10FBP_0101 1677921 1683443 CS but 他 超 怕 他 一直 他 一直 以为 他 会 我们 新加坡 会 把 他 丢 回去 malaysia
+NI10FBP_0101 1683893 1692697 CS so okay 啦 要 一直 re-assure 他 真的 吗 confirm 不会 吗 真的 啊 please 啊 please okay 我 就 啊 真的 真的 so quite funny 啦
+NI10FBP_0101 1693322 1694903 CS then on the other hand 又有 那种
+NI10FBP_0101 1696123 1702041 CS (呃) 很 unreasonable 的 人 咧 like 我们 明明 是 有 like like 通知 他 了
+NI10FBP_0101 1702041 1703036 EN 
+NI10FBP_0101 1703036 1706258 CS like send 他 letter 啊 可能 s. m. s. 这种
+NI10FBP_0101 1707087 1712049 CS then 他们 可能 迟到 他们 就 一直 (呃) 我 没有 收到 我 没有 收到
+NI10FBP_0101 1712916 1715373 CS then  你 做么 为什么 why don't you believe me
+NI10FBP_0101 1715870 1719033 CS this kind of things then  有时候 他们 会 骂 我们 咯
+NI10FBP_0101 1719735 1726236 EN so really i don't know how to noth~ nothing much we can say we just we cannot insist that we did it eh
+NI10FBP_0101 1727065 1734369 EN but the fact is i. r. a. s. also won't accept that won't accept that excuse lo so you'll still have to tell them oh the penalty will still be imposed then they
+NI10FBP_0101 1734905 1738196 CS i want to see your boss 我 要 看 你 我 要 见 你 老板 我 要 complain
+NI10FBP_0101 1739223 1739593 EN then
+NI10FBP_0101 1739593 1740052 EN 
+NI10FBP_0101 1740550 1743981 CS 我们 的 我们 有时 也是 夹 在 中间 咯 有时 那个 boss 就 跟 我们 讲
+NI10FBP_0101 1743981 1744529 EN 
+NI10FBP_0101 1744529 1745613 EN try to settle yourself
+NI10FBP_0101 1746595 1753758 CS then 他们 他们 有时 又 不要 听 我们 的 话 like 那些 那些 tax payers 啊
+NI10FBP_0101 1754191 1759752 CS 他们 要 跟 boss 讲话 他们 不要 听 我们 的 话 but boss 叫 我们 settle then 我们 一直 try to 跟 他 explain explain
+NI10FBP_0101 1760518 1764684 CS but 我们 讲 因为 他们 懂 我是 i think 有 一些 人 懂 我们 是 temporary 啊 so
+NI10FBP_0101 1765131 1766610 CS 他们 just make use of the fact 来
+NI10FBP_0101 1767426 1771757 CS 来 压 我们 咯 like 你是 temporary 啦 不要 骗 我 啦 我 懂
+NI10FBP_0101 1772357 1776234 CS 你 只是 你 什么 都 不可 以 做主 啦 just give me your boss then 那个 boss 就
+NI10FBP_0101 1776234 1777012 ZH (呃) 
+NI10FBP_0101 1777012 1777943 EN you try and settle first
+NI10FBP_0101 1778645 1781657 EN so ah-noh then (erm)
+NI10FBP_0101 1782741 1787582 CS 哦 then 有 一些 人 会 打 来 来 challenge (呃) singapore 的 那些 law
+NI10FBP_0101 1788551 1794125 CS then 我在 想 actually 跟 我 讲 没有 用 诶 我 只是 一个 你 要 的话 你 写给 m. p. 啊
+NI10FBP_0101 1794482 1798564 CS 可能 他 可以 做 一点 东西 but 有 一些 有 一些 有 一些 人 的 他们 他 suggestion 真的 是 很 笨 的
+NI10FBP_0101 1798988 1800467 CS 他们 讲 why must we pay tax 这样
+NI10FBP_0101 1801475 1802967 CS 啊 那种 no answer 咧
+NI10FBP_0101 1803601 1807581 CS then 过后 我 就 跟 他 讲 (呃) it's for the country to function
+NI10FBP_0101 1808320 1817255 CS 他 就 the tax is too high why you all don't do other things then 他们 why you all spend money on this spend money on that then you all can pay less then ask us to pay less tax
+NI10FBP_0101 1818051 1818906 ZH 我 在想 (呃)
+NI10FBP_0101 1818906 1819174 EN 
+NI10FBP_0101 1819620 1823013 EN true la but then you don't need to tell me la no no nothing i can do right
+NI10FBP_0101 1823676 1826890 EN then okay lo then i will try my best explain explain explain
+NI10FBP_0101 1828058 1837560 CS (呃) then 有 一些 更 也是 很 sad 咯 like 你 懂 有 一些 人 可能 他们 like 你 懂 for example 一个人 可能 去世 咯
+NI10FBP_0101 1838485 1839710 CS 他 还是 要 还 tax 诶
+NI10FBP_0101 1839710 1841024 EN 
+NI10FBP_0101 1841024 1846508 CS 很 很 funny 啦 but 没有 办法 因为 for example 那个 tax period 可能 是 april april 要 还 tax
+NI10FBP_0101 1847222 1848806 CS then 如果 你 你 在
+NI10FBP_0101 1849304 1851245 CS 有 一个 人 在 march 去世 咯
+NI10FBP_0101 1852046 1855701 CS 他 要 还 from last april to march 的 tax 嘛 then 他 的
+NI10FBP_0101 1857487 1858775 CS 他 的 family 要 帮 他 还 咯
+NI10FBP_0101 1859897 1862244 CS then 有 时候 那 family 打 来 乎 then
+NI10FBP_0101 1862244 1863111 EN 
+NI10FBP_0101 1863111 1864958 CS 他讲 (呃) 他们 已经 很 sad 了
+NI10FBP_0101 1865443 1868999 CS 哦 my wife 哦 有一个 啦 他 的 妻子 刚刚 过世 right 他
+NI10FBP_0101 1869930 1873603 CS 他 like kidney failure or something then 他 已经 很 sad 了 then
+NI10FBP_0101 1873603 1874292 EN 
+NI10FBP_0101 1874292 1876435 CS 很难 then 要 要 敲门
+NI10FBP_0101 1876435 1883138 CS 哦 还要 还 tax 有时 可能 他们 的 处境 已经 很 很 不好 啦 可能 like 他 要 处理 后事 这种
+NI10FBP_0101 1884005 1889535 CS 他 已经 花 很多 钱 了 then 还要 叫 他们 还 tax 有时 因为 有 一些 人 不懂 啦 有些 人 可能 他们
+NI10FBP_0101 1889535 1890198 EN 
+NI10FBP_0101 1890198 1896690 CS 他们 不清楚 其实 我 看 很多 人 也不 懂 啦 then 他们 just 没有 还 咯 then 可能 after 一年 这样
+NI10FBP_0101 1897252 1899065 CS then i. r. a. s. 会 impose
+NI10FBP_0101 1899950 1906761 CS 很多 tax 啦 on 那个 on 那个 family because 他们 没有 还 那个 tax but 有时 真的 是 真的 是 因为 他们 真的 不懂 what then
+NI10FBP_0101 1907973 1915849 CS 他们 一直 like 他们 一直 讲 walau give some chance 啦 因为 this kind of thing we don't know what then 好像 没有 人情味 这样
+NI10FBP_0101 1916729 1922000 CS then 哎呀 有 时候 我们 也是 夹 在 中间 咯 要 帮 他们 但是 又 帮 不了 这样
+NI10FBP_0101 1923671 1925941 CS so 这是 i. r. a. s.
+NI10FBP_0101 1927007 1930285 CS interesting 啦 学 很多 学 很多 东西 咯 怎样 跟 人 沟通 咯
+NI10FBP_0101 1930987 1931395 EN then
+NI10FBP_0101 1932455 1935731 ZH (呃) 那边 也是 交 到 几个 朋友 啦
+NI10FBP_0101 1936688 1942562 CS (呃) 然后 i. r. a. s. 之后 我 就 来了 大学 咯
+NI10FBP_0101 1943493 1944245 ZH (呃)
+NI10FBP_0101 1945126 1946401 ZH 大学 里面
+NI10FBP_0101 1947307 1962065 CS (呃) okay 啦 我 起初 其实 我 all my life 我 就在 想 i will be going to n. u. s. because i stay in west coast i stay in clementi 啦 then my brother went n. u. s. also then all my life i just thought i will be going there 啦
+NI10FBP_0101 1962907 1971638 CS then (啊) i just only realise actually i applied for medicine 我 是 apply for 医 医科 啊
+NI10FBP_0101 1972467 1980171 CS 但是 我 没有 拿 到 so after that 我 要 想 我 要 读 什么 咯 then 不懂 要 读 科学 还是 要 读 会计 还是 这种
+NI10FBP_0101 1980592 1984043 CS so in the end 因为 我 读 我 all my life 我 一直 读 science 嘛
+NI10FBP_0101 1984757 1995937 EN which which is i think interesting la but then i really don't know how to apply in real life like i study j. c. i learn all the all the theories and everything
+NI10FBP_0101 1996868 2005115 EN and but i can't use it leh  somehow la i don't know then i think finance is more interesting la so
+NI10FBP_0101 2005803 2010732 CS 我 just 决定 来 会计 咯 then 选 会计 时候
+NI10FBP_0101 2011097 2019917 CS 那时 有 n. u. s. s. m. u. 还有 n. t. u. 嘛 then n. u. s. 那时 好像 还没有 还没有 很 developed 啊 他 的 program
+NI10FBP_0101 2020874 2023425 EN so between s. m. u. and n. n. t. u. lo
+NI10FBP_0101 2024077 2034572 CS then i didn't really like the s. m. u. culture 咧 because 我 觉得 那边 的 人 因为 他们 很 注重 讲 来 expression 啊 要 一直 讲 讲话 这样 then
+NI10FBP_0101 2035058 2038604 CS like 我 那 actually 现在 是 真的 咯 我 那边 的 朋友 有 几个 跟 我 讲
+NI10FBP_0101 2039191 2042124 ZH 因为 你 不 举手 你 不 讲话 哦 你 就 扣 分 嘛
+NI10FBP_0101 2042456 2046257 EN so the what they will do is they will just raise their hand and say some rubbish then
+NI10FBP_0101 2046856 2055039 EN no matter what they say is better than saying nothing la so in the end i think that's not very constructive what and i don't like to do this kind of thing so come n. t. u. la so
+NI10FBP_0101 2056021 2060326 EN i don't i haven't regretted it yet la not bad la then the course is quite interesting
+NI10FBP_0101 2061283 2065824 EN yeah then (erm) what else
+NI10FBP_0101 2067163 2070842 EN okay la (erm) i like to play sports
+NI10FBP_0101 2071196 2079632 CS i like to play badminton like 羽球 咯 that's like in secondary school (呃) but okay 啦 in general i like sports
+NI10FBP_0101 2080491 2082656 CS overall like 篮球 啊
+NI10FBP_0101 2083778 2087592 CS squash tennis 我 都会 玩 一点 咯 但是 不会 厉害 啦
+NI10FBP_0101 2088306 2092267 CS 跟 朋友 玩 这样 咯 actually badminton 乎 虽然 我 喜欢 乎 但是
+NI10FBP_0101 2093224 2098262 CS 有 有一个 有一个 东西 是 因为 我 我 quit in sec four 是 因为
+NI10FBP_0101 2098925 2106444 CS 我 不喜欢 一直 (呃) 打球 来 我 不 喜欢 他 比赛 很 strenous 的 感觉 啊
+NI10FBP_0101 2107184 2109544 CS 因为  我们 到 sec 我们 一直
+NI10FBP_0101 2109891 2112340 CS 我们 一 整年 打球 是要 train for 比赛 what
+NI10FBP_0101 2113462 2115262 EN so (erm)
+NI10FBP_0101 2116306 2116829 ZH 我们
+NI10FBP_0101 2117971 2123634 CS 我 don't mind put in a lot of effort 咯 i don't i don't like i don't mind 我 觉得 是 应该 的 啦
+NI10FBP_0101 2124292 2127831 CS but 我们 一直 train 一直 train then 有 时候 他们 会 忘记 我们 是
+NI10FBP_0101 2129113 2134432 CS 他们 in the end put (呃) too much focus on having the result 咯 so when people make mistakes or what like
+NI10FBP_0101 2136039 2139325 EN i think they really  they will like curse and swear at you
+NI10FBP_0101 2140689 2149056 EN that time my coach oh he like we all want to play we all want to do our best la but sometimes when people just make mistakes la like when they are nervous in the competition what
+NI10FBP_0101 2149574 2151143 CS then 我 这个 教练 他 会
+NI10FBP_0101 2152239 2155747 CS 我们 打 一半 的 时候 我们 打 错 他 会 拿 那个 racket 摔 那个 墙壁 上
+NI10FBP_0101 2157392 2166826 CS then 我们 很难 专心 打 咯 因为 他 他 一直 这样 then 他 一直 在 别人 面前 别的 学校 面前 大声 大声 喊 我们 骂 我们
+NI10FBP_0101 2167731 2169527 CS 像 没有 尊严 这样 咧 like a bit
+NI10FBP_0101 2170726 2175082 EN i don't know i don't feel like that's the way our coach should treat his players lo
+NI10FBP_0101 2175465 2179674 EN but i think that is what is happening in a lot a lot of countries la a lot of sports also
+NI10FBP_0101 2180541 2182663 EN yeah lo the coach the coach is the biggest lo
+NI10FBP_0101 2183271 2188988 CS so because he was the he was also the 他 也是 (啊) r. j. c. 的 教练
+NI10FBP_0101 2189575 2193939 CS that's why 我 没有 继续 打 羽 球 咯 that's why 我 去 join 我 的 o. d. a. c.
+NI10FBP_0101 2195036 2197775 CS yeah 咯 so actually 这个 coach 很 奇怪 诶
+NI10FBP_0101 2197775 2204241 CS 他 在 球场 外面 他 是 一个 很 friendly 的 一个 人 很 很 joker 很 开玩笑 的
+NI10FBP_0101 2204815 2207769 ZH 但是 我们 打 起 球 来 打 羽球 来 他 就 哇 他 的 脸
+NI10FBP_0101 2209503 2211837 ZH 变到 认 不出 是 谁 咯
+NI10FBP_0101 2212396 2215725 CS so 不懂 诶 我 我 跟 他 跟 他
+NI10FBP_0101 2216720 2220562 CS (呃) 相处 我 觉得 (呃) 不懂 要 跟 他 讲话 诶 like
+NI10FBP_0101 2221057 2229456 CS 可能 他在 场上 他 在 球场 上面 已经 痛骂 我 一顿 like then after that 我们 打 完 球 之后 他 就 会 跟 我 笑
+NI10FBP_0101 2230234 2233630 ZH 我 就 我 就 没有 脸 我 没有 脾 我 没有 那个 心情 跟 他 笑 诶
+NI10FBP_0101 2234025 2234829 ZH 他 刚才 骂 我 这样
+NI10FBP_0101 2235951 2237945 CS 这样 so seriously 我 就
+NI10FBP_0101 2238621 2240802 CS 我 就 没 没有 法 跟 他 笑 咯 so
+NI10FBP_0101 2241886 2245541 CS then in the end 我 是 觉得 太 很 奇怪 啊 我 不要 我 不要 继续 这样 打
+NI10FBP_0101 2246740 2249092 CS (啊) 就是 这样 咯 then
+NI10FBP_0101 2253793 2254527 ZH (呃)
+NI10FBP_0101 2256287 2259068 CS okay 现在 我 可以 讲 about
+NI10FBP_0101 2261669 2264668 CS okay 我 okay 我 可以 讲 我 去 了 我 去 了 的 地方 啦
+NI10FBP_0101 2265497 2273889 CS okay 那时 okay 我 去 了 最近 我 是 我 在 上 大学 之前 我们 有 去 一个 backpacking trip
+NI10FBP_0101 2275504 2286256 CS so 我们是 飞 去 ho-chinh-min vietnam 啦 我们 plan 我们 的 plan 是 去 vietnam then go cambodia after that 去 泰国 然后 下 马来西亚 然后 到 新加坡
+NI10FBP_0101 2287066 2291671 CS 然后 总共 是 about 二十 多 二十 二十 几天 啊 three weeks plus
+NI10FBP_0101 2293482 2304882 CS so when we went there (呃) okay 啦 we just it was four of us 四个 男 的 啦 then in actually 整个 地方 是 很好 玩 啦 (呃)
+NI10FBP_0101 2305219 2311705 CS 有 几个 important in 比较 memorable 的 东西 是 okay 有 一次 在 泰国
+NI10FBP_0101 2312700 2318791 CS 我们 我们 (呃) 从 酒店 出来 我们是 要 去 探访 around bangkok 啦
+NI10FBP_0101 2319403 2322451 CS then 有 一个 有 一个 人 过来 他 就 跟 我们 讲
+NI10FBP_0101 2323038 2335481 CS 啊 哦 今天 是 什么 什么 日子 最后 一天 了 我们 的 庙 全部 free of charge then the king is visiting around it's a very important day then
+NI10FBP_0101 2335953 2339557 EN ah i bring you around to visit all the temples ah okay
+NI10FBP_0101 2340016 2350443 CS so 我们 就 很 happy 咯 很 开心 他 讲 哦 今天 是 tourist day 不懂 什么 什么 festival 啦 然后 我们 就 很 happy 咯 then 他 就 带 我们 参观 then
+NI10FBP_0101 2351183 2353532 ZH (啊) 真 真的 是 蛮 好看 的 啊 他 的 庙
+NI10FBP_0101 2354423 2354780 EN then
+NI10FBP_0101 2355596 2360170 ZH 他 他 带 我们 到 这个 庙 哦 这个 庙 里面 有 一个 人 他 他 会 在 外面 等 啊
+NI10FBP_0101 2360641 2363243 CS so 我们 我们 进去 那个 庙 那个 庙 里面 有一个 人 在 那边 等
+NI10FBP_0101 2363856 2364978 CS then 我们 走进 去 乎
+NI10FBP_0101 2365718 2371184 CS then 就有 一个人 跟 我们 讲话 跟 我们 讲 哦 今天 tourist day 你 知 知道 吗 我们 就 诶 啊 对 对 对
+NI10FBP_0101 2371732 2378454 CS then 他 讲 诶 你 怎样 懂 哦 就 哦 他们 跟 我们 讲 哦 the 哦 今天 是 free 的 free 的 带 要 去 个 地方 就 去 个 地方
+NI10FBP_0101 2379079 2388231 CS then 要 诶 今天 也是 luxury tax exempt day so 你 买 首饰 的话 jewellery 啊 it'll be very cheap
+NI10FBP_0101 2389162 2395534 EN like (erm) normally you like you buy normally it's like four thousand you can buy today for like one thousand
+NI10FBP_0101 2396322 2406599 CS so 我们 就 嗯 真的 吗 then 就 不用紧 我们 有点 不 相信 这样 then 我们 就 进去 那个 庙 哦 那个 庙 (啊) 里面 after that 我们 看 一半
+NI10FBP_0101 2407224 2408589 CS then 我们 就 (呃)
+NI10FBP_0101 2409494 2414647 CS 我们 就在 那边 等 嘛 我们 等 after that 又有 多 一个人 来 跟 我们 讲话 他们 好像 都是 not related 的 啊
+NI10FBP_0101 2415394 2422460 CS 他 因为 in the end 他们 带 我们 到 三 四个 庙 咯 then 每次 他们 会 让 我们 去 一个 地方 去 那个 地方 会 有 一个 人 在 那边 等
+NI10FBP_0101 2423123 2428342 CS 那个 人 actually 不会 过来 跟 我们 讲话 有时 我们 在 那边 等 乎 他们 好像 是 路过 的 人 这样
+NI10FBP_0101 2428929 2437337 CS so actually 整个 story 是 他 是 一个 很 一直 要 我们 买 钻石 啦 他 会 带 我们 到 这个 地方 跟 我们 讲 是 (呃)
+NI10FBP_0101 2438702 2442599 CS (呃) like 很 便宜 这样 then 带 回去 新加坡 可以 卖 双 倍 啊 三 倍 啊
+NI10FBP_0101 2443441 2449027 CS then actually 我 我 i cannot really describe it now 啊 因为 现在 听 起来 很 obvious 是 一个 scam 这样
+NI10FBP_0101 2449805 2453881 CS but 人 的 人 的 心事 很 unpredictable 啦 因为 在 那时
+NI10FBP_0101 2454825 2464449 EN i really felt quite tempted lo and not just me eh then all of my friends most of my friends la two two of them then got one guy only got one guy is like not interested lo
+NI10FBP_0101 2465074 2468951 CS but the the three of us were already like 诶 要 怎样 筹钱 来 买 这个
+NI10FBP_0101 2469436 2471320 CS 因为 没有 钱 then 他们 真的 是
+NI10FBP_0101 2472187 2477965 ZH 很 熟练 啊 他们 懂 大概 大概 我们 从 哪里 来 我们 有 多少 钱 这样 他 就 给 你 一个
+NI10FBP_0101 2478424 2480452 CS 一个 package 是 for 你 的 country 的
+NI10FBP_0101 2480996 2488495 CS 然后 他们 他们 还 会 懂 我们 我们 的 有 一些 地方 诶 他们 会 discuss 哦 i came to singapore before then you can sell at poh-heng 啊
+NI10FBP_0101 2489018 2492928 CS 他们 懂 什么 soo-kee 啊 他们 懂 什么 singapore 的 jewellery the shop 诶
+NI10FBP_0101 2493528 2494893 ZH 我们 我们 听 起来 就
+NI10FBP_0101 2494893 2495390 EN 
+NI10FBP_0101 2495390 2498681 CS 因为 他们 很 很 well read 咯 i think 他们 很 knowledgeable 咯
+NI10FBP_0101 2499854 2507354 CS 所以 我们 有点 上当 这样 咯 他们 讲 我们 哦 我 以前 来 过 这边 当 当 什么 (呃) business 做 business 啊
+NI10FBP_0101 2508056 2512885 CS then 啊喏 他 就 跟 我们 讲 一些 singapore 的 的 famous 的 landmarks 咯 so
+NI10FBP_0101 2514033 2517234 CS 来 来 博取 我们 的 trust 哦 我们 的 trust then
+NI10FBP_0101 2518076 2520043 CS like 哇 他们 真的 是 很 很
+NI10FBP_0101 2520043 2520719 EN 
+NI10FBP_0101 2520719 2524175 CS 很 厉害 咯 so in the end 我们 差 有 一个 朋友 差一点 就 买 下去 了
+NI10FBP_0101 2525093 2533189 CS 然后 我 那个 not interested 的 那个 朋友 他 就 那边 来 (啊) 拉 我们 一边 哦 用 华语 跟 我们 因为 他们 不 不懂 华语 嘛
+NI10FBP_0101 2533635 2539072 EN so we were discussing he was telling us what flaws he thought there was in the store in the whole thing la
+NI10FBP_0101 2539875 2547378 EN like why why they all tell us the same thing like even even if we are tourists don't have everybody tell the same thing what then
+NI10FBP_0101 2547901 2552493 CS 他 一直 跟 我们 讲 很多 flaws 咯 then in the end 那个 shop 也是 有点 shabby 有点
+NI10FBP_0101 2553462 2557059 CS 有点 旧 then 他的 首饰 一千 块 乎 i think 看 起来 pasar-malam 买 这种
+NI10FBP_0101 2558360 2561760 CS so 我 那 actually 我 那 朋友 已经 已经
+NI10FBP_0101 2562908 2571503 CS 我 有一个 朋友 那 那个 要 买 那个 朋友 他 一直 要 买 了 then in the end 我们 三个 拉 他 出去 咯 then 他们 看到 我们 没有 买 哦 他们
+NI10FBP_0101 2572536 2576512 CS 他们 就 有点 like 一直 问 我们 为什么 你 没有 买 why why you never buy
+NI10FBP_0101 2577481 2582717 CS then then we start to get suspicious 啊 then we 讲 啊 later later then they say later no more already today last day
+NI10FBP_0101 2583393 2586021 CS 他 一直 要 要 害 我们 like
+NI10FBP_0101 2586021 2586608 EN 
+NI10FBP_0101 2586608 2587424 ZH 很急 这样 啊
+NI10FBP_0101 2587539 2591595 CS then in the end 我们 讲 (呃) wait first wait first then 他们 带 我们 去 多 一个 temple
+NI10FBP_0101 2592577 2601767 CS then 我们 就 那 temple 他 懂 我们 以为 是 scam 啊 他 以为 我们 懂 是 scam 啦 so in the end 那 temple 的 人 出来 他 讲 (呃) that one is scam
+NI10FBP_0101 2602367 2604020 EN i bring you this one that one this one not scam
+NI10FBP_0101 2604020 2605282 EN 
+NI10FBP_0101 2605282 2610359 CS so 我们 那时 就 懂 哇 全部 是 一个 很 elaborate 的 骗局 咯 then after that 我们 just 溜 出去
+NI10FBP_0101 2611149 2614786 CS 我们 just 跑 掉 咯 so 是 这是 thailand 啦
+NI10FBP_0101 2616559 2624884 CS 我们 这个 incident 我们 想 很多 天 因为 如果 我们 真的 买 下去 乎 我们 just 可以 cut the journey short just 回去 了 没有 钱 了
+NI10FBP_0101 2625701 2629572 CS then  other than this 我们 去 malaysia malaysia 超 scary
+NI10FBP_0101 2630223 2633514 ZH 因为 有 一个 那 那天 是 我们 的 一个 朋友 的 生日
+NI10FBP_0101 2634623 2641110 CS then 我们 去 这个 shopping centre in kuala-lumpur 最大 的 啦 then 我们 在 那边 要 吃 东西 咯
+NI10FBP_0101 2641594 2652494 CS then 他们 我们 在 可能 四 五楼 这样 啦 那边 人 不 太多 so 我们 在 那边 看看 那个 menu then after that 有 一个 男 的 走过 来
+NI10FBP_0101 2653463 2659292 ZH 他 就 问 我们 (啊) 你 认识 他 他 就 问 我们
+NI10FBP_0101 2660376 2664312 CS 他 就 问 我们 其中 一个 你 why what are you doing here
+NI10FBP_0101 2665332 2672707 CS then why then 他 就 带 一群 gur~ 一群 一群 人 过来 啦 好像 十个 这样 他们 是 一个 gang 来的
+NI10FBP_0101 2673728 2682535 CS 黑 不是 黑社会 咯 then 他们 把 我们 拉 去 一个 店 里面 咯 then 他们 一直 interrogate 我们 咯 我们 从 哪里 来 的
+NI10FBP_0101 2683199 2685546 CS 我们 昨晚 在 做 什么 因为 apparently
+NI10FBP_0101 2686324 2691241 CS i think the day before 有 他们 是 i think 是 弄 fake credit card 的 啊
+NI10FBP_0101 2692185 2696981 CS so i think 他们 的 有 一个 enemy 的 gang 来 偷 掉
+NI10FBP_0101 2697669 2699965 CS then 他们 打 他们 的 老大 的 儿子
+NI10FBP_0101 2700980 2714941 CS then 他们 长 他们 讲 我们 长 得 像 很像 他们 then 我 这样 想 哇 我 超 又 没有 这样 unlucky 我们 just 进来 就 就 中 到 这 东西 我们 那时 很 累 啊 从 因为 已经 二十 二十 天 左右 啊 我们 要 回去 新加坡 了
+NI10FBP_0101 2715578 2719632 CS then 我 在 想 哇 可以 回到 新加坡 了 不要 一直 中 这种 东西 很
+NI10FBP_0101 2720132 2722945 CS 他们 超 怕 哦 then in the end 我 我们 的 朋友
+NI10FBP_0101 2723991 2731541 CS 我们 正在 想 怎样 躲 怎样 跑 掉 but 没有 办法 咧 他们 十 多 个人 咧 就算 跑 两个 跑 掉 两个 跑 不 掉 咯
+NI10FBP_0101 2732217 2735868 CS so 很 scary 啊 then 他们 一直 叫 人 来 认 我们
+NI10FBP_0101 2736276 2741168 CS 昨 那 被 打 的 嘛 因为 昨天 有 几 几个 人 被 打 then 他们 叫 人 来 认 是不是
+NI10FBP_0101 2741691 2745951 CS 不是 我们 不是 我们 then 有 一些 真的 是 好像 好像 讲 是 这样 诶
+NI10FBP_0101 2746461 2748030 CS 我 要 hwut 他 他们 白痴 这样
+NI10FBP_0101 2748655 2750452 CS 他们 被 打 都 不 懂 谁 打 他们 then 一直
+NI10FBP_0101 2751549 2754242 ZH 还好 到 后来 他们 有 几个 讲 不是 啦
+NI10FBP_0101 2754982 2758809 CS then 他们 in the end 他们 就 放 把 我们 放 掉 咯 then 他们
+NI10FBP_0101 2759433 2767808 ZH 他们 讲 你 你 最好 不要 跟 警察 讲 啊 不然 的话 我 不 保证 你 可以 回去 新加坡 吗 这种 东西 咯 就
+NI10FBP_0101 2768407 2771149 CS 哇 很  很 scary 啦
+NI10FBP_0101 2771430 2774447 CS 我 跟 我 妈妈 after that 我 就 回家 我 跟 我 妈妈 讲 我 妈妈 就
+NI10FBP_0101 2776679 2778082 ZH 以后 不要 让 我 出国 这样
+NI10FBP_0101 2778643 2780697 CS 她 一直 很怕 一直 很怕 like 啊喏
+NI10FBP_0101 2781488 2786814 CS so 这个 是 actually 每 一个 country 都 有 interesting 的 东西 啦
+NI10FBP_0101 2787592 2790449 CS (呃) thailand 是 那个 scam then
+NI10FBP_0101 2791482 2796999 CS (呃) malaysia 是 那个 gangster then 在 vietnam vietnam 很 interesting 诶
+NI10FBP_0101 2797433 2800405 CS 你 去 那边 乎 那个 路 is 塞 满 with motorcycle 的
+NI10FBP_0101 2801757 2810712 CS then 我们 我们 我们 有 一个 logic 他们 人 是 过 马路 是 just 过 咯 没有 no need traffic light 的 so 我们 有 一个 logic
+NI10FBP_0101 2811006 2812427 CS 我们 那边 有一个 food chain
+NI10FBP_0101 2813423 2825152 CS 我们 最大 的 是 bus bus 是 最大 after bus 是 人 after 人 人 是 after 人 才 是 car after car 是 motorbike motorbike then 是 bicycle bicycle 是 lowest of the food chain 啊
+NI10FBP_0101 2825751 2833570 CS 最 最 jialat 的 一直 被 挤 到 旁边 去 啊喏 then 人 actually 是 很大 的 人 你 过 马路 乎 车 都会 停 的 but bus 不会 停 
+NI10FBP_0101 2834144 2836255 CS 所以  你 过 马路 你 要 看 有没有 bus
+NI10FBP_0101 2836868 2842492 CS then  有 bus 的话 你 要 你 要 让 那个 bus 过 咯 有 车 的话 不要紧 那个 车 会 stop 他们 很 skillful 的
+NI10FBP_0101 2843423 2848917 CS like 他们 会 很 厉害 很 厉害 闪 的 咧 他们 motorbike 哦 哇 多 到 我 不懂
+NI10FBP_0101 2849823 2854983 CS but 他们 motorbike 很 便宜 啦 他们 i think 六百 块 可以 买 到 一 只 一 架 motorbike so
+NI10FBP_0101 2855850 2860212 CS 他们 的 government 一直 encourage 咯 so actually 路 真的 是 塞 到 满满 咯
+NI10FBP_0101 2861156 2864856 CS 走 他们 走 like 他们 有时 马路 太 挤 他们 驾 上 pavement
+NI10FBP_0101 2865864 2868900 CS pavement 给 人 走 的 咧 他们 they just walk they just drive up there
+NI10FBP_0101 2869372 2872076 EN ah-noh so quite dangerous but they are very skillful la so they will avoid
+NI10FBP_0101 2872950 2877452 CS so 我 学 了 他们 驾 过 的 时候 乎 你 不要 闪 他们 会 他们 会 avoid you
+NI10FBP_0101 2878039 2885852 CS so 你 avoid 的话 他们 也 avoid 就 比较 jialat 啊 so 这是 这是 interesting 的 东西 then okay 啦 我们 去 那边
+NI10FBP_0101 2886668 2888773 ZH (呃) 我们 去 一个
+NI10FBP_0101 2889500 2895911 CS interesting 的 东西 有一个 beach 乎 有一个 de~ 有 一个 地方 是 叫 mini ridge
+NI10FBP_0101 2896241 2898805 CS 这个 地方 很 actually 很 cute 咧 因为
+NI10FBP_0101 2899749 2902797 EN the surroundings are all very very veggie vegetated one
+NI10FBP_0101 2903700 2908687 EN the it's very it's like a forest la then in the middle there will be one desert
+NI10FBP_0101 2909506 2912300 EN nothing is there then just sand lorh
+NI10FBP_0101 2913728 2918036 EN then the sand is very very smooth then it's like a tourist attraction so we just went there
+NI10FBP_0101 2919094 2919719 EN yeah then
+NI10FBP_0101 2920880 2922788 EN (uh) we went there we stayed one night lo
+NI10FBP_0101 2923668 2933071 CS actually we didn't really stay 啦 cause we didn't book a we didn't book a hotel cause 我 的 我 这 群 朋友 他们 都是 army 一起 一起 去 army 的 嘛 so
+NI10FBP_0101 2933760 2942258 CS 他们 很 很 敢 啊 they are very brave 啊 so don't need to book hotel one just on the spot just go and find 咯 so that night we couldn't find a hotel
+NI10FBP_0101 2943087 2958492 CS so we just sleep at the like at the tour because we book a bus there what so we just go to the bus office and just sleep sleep there then (呃) the the bus office was beside it was 在 一个 家 一家 人的 旁边 咯
+NI10FBP_0101 2959500 2968013 CS so 我们 在 那边 我们 在 那边 睡 咯 after 可能 十二 点 十二 点 左右 then 那 一家人 很多 小孩 咯 他们 全部 跑 过来 找 我们
+NI10FBP_0101 2968485 2969773 ZH 好像 看 好像 没有 看 过
+NI10FBP_0101 2970474 2974109 CS 我们 是 我 是 一个 tourist attraction 这样 他们 全部 看 我们
+NI10FBP_0101 2975359 2978971 CS 不懂 我们 是 什么 来 的 then 他们 一直 讲 一大堆 话 but 我们 听 不懂
+NI10FBP_0101 2980179 2984108 CS 我们 try explain to them what we are doing here 他们 一直 讲 一直 讲 一直 讲
+NI10FBP_0101 2984822 2987590 CS then like 马 跟 牛 讲话 这样 啦 so
+NI10FBP_0101 2988215 2989611 CS in the end 他们 跟 我们 讲 很 久 then
+NI10FBP_0101 2990230 2996308 CS 他们 很 小 诶 他们 可能 三 岁 四 岁 这样 then after that 我 一个 朋友 just 跟 他们 玩 咯
+NI10FBP_0101 2997188 3000147 CS 可能 抱 起来 then 在 那边 转圈圈
+NI10FBP_0101 3000884 3001203 EN then
+NI10FBP_0101 3002274 3010712 CS after that 我们 他 抱 了 一个 之后 乎 after that 就 可能 十个 跑 过来 从 全部 的 different houses just 全部 跑 过来
+NI10FBP_0101 3011426 3015724 CS 因为 他们 他们 i think 很少 看到 tourist 啊 因为 我们 去 到 很 ulu 的 地方 啊
+NI10FBP_0101 3017242 3022187 CS so then 一群 一群 十个 这样 咯 then 他们 一直 在 那边 玩 那边 笑 很 happy
+NI10FBP_0101 3022914 3028278 CS 啊喏 then 我们 买 东西 给 他们 吃 then 他们 更 happy then 就 可能 二十 个 跑 过来
+NI10FBP_0101 3029260 3035689 CS so in the end 那个 bus office 好像 满满 这样 咯 全部 都是 小孩子 then 很 cute 咧 他们的 那边 的 人
+NI10FBP_0101 3036620 3038821 CS 啊 actually 他们 有 一些 会 讲 英语 啊 so
+NI10FBP_0101 3039573 3042124 CS like 他们 去 学校 有 学 那 比较 大 的 十四 岁 这样
+NI10FBP_0101 3042953 3046231 CS 我们 就 跟 他们 问 他们 what is their life like 咯 then
+NI10FBP_0101 3047399 3051557 CS 很 actually 很 interesting 他们 他们是 they have never been out of their village before
+NI10FBP_0101 3052373 3054350 CS 他们 就 问 我们 what other places are like
+NI10FBP_0101 3054682 3057421 CS 你 有没有 去 过 这 地方 这 地方 then 他们 不懂
+NI10FBP_0101 3058164 3063010 CS 他 不懂 other countries 的 咯 like you 跟 他们 讲 we are from singapore 他们 don't know where is singapore 这样
+NI10FBP_0101 3063855 3065699 CS like 他们的 world 只是 vietnam 而已
+NI10FBP_0101 3066285 3068173 CS 出去 他们的 village 就是 the world 了
+NI10FBP_0101 3068938 3071272 CS so okay 啦 所以 就 觉得
+NI10FBP_0101 3071272 3071833 EN 
+NI10FBP_0101 3071833 3075421 CS we are very lucky 这样 to be singaporeans then
+NI10FBP_0101 3075421 3076301 EN 
+NI10FBP_0101 3076301 3081735 EN don't really have to worry about food and shelter this kind of thing
+NI10FBP_0101 3083145 3088795 EN yeah so that was vietnam (erm) cambodia also ah
+NI10FBP_0101 3089431 3090606 EN we went cambodia
+NI10FBP_0101 3091410 3099781 EN then i think cambodia used to be be very (erm) dangerous and poor one la then got a lot of land mine stories
+NI10FBP_0101 3100515 3104188 CS 他们 just 有 很多 人 去 探 探险 嘛 then
+NI10FBP_0101 3104749 3109055 CS 以前 他们 打仗 然后 他们 的 land mine 没有 clear 掉 嘛 then 很多 人 死 在 那边
+NI10FBP_0101 3109055 3110254 EN 
+NI10FBP_0101 3110254 3117243 CS so 我们 那时 也有 怕 but i think 这 几年 他们 已经 好 很多 了 他们 popular 的 地方 他们 已经 clear 掉 了 so
+NI10FBP_0101 3118069 3123145 CS 我们 去 cambodia 讲 真的 i think cambodia 的 人
+NI10FBP_0101 3124663 3125186 CS actually 很
+NI10FBP_0101 3126622 3131290 CS 蛮 蛮 funny 啊 因为 okay 因为 他们 他们 的 历史 是 很 痛苦 的
+NI10FBP_0101 3132514 3136835 CS 很 scary 的 因为 i think 一 九 七十 多年
+NI10FBP_0101 3137422 3143522 CS 他们 他们 的 那时 的 有 一个 政治 啊 political
+NI10FBP_0101 3144275 3147281 EN (erm) i think the polpot ah
+NI10FBP_0101 3147281 3155276 CS 他们 的 人 they basically they wanted to there's this bunch of people who wanted to pay 啊 他们 弄 一个 很 发达 的 country 他们 觉得
+NI10FBP_0101 3155927 3159182 EN ah a country should be based on planting ah agriculture
+NI10FBP_0101 3159998 3167998 CS so 他们 in the end 他们 要 他们 actually they were fighting for the country they wanted to make 他们 要 弄 cambodia into a better place
+NI10FBP_0101 3168968 3172503 CS but 他们 in the end 他们 有 一点
+NI10FBP_0101 3172503 3173689 EN 
+NI10FBP_0101 3173689 3177286 EN with power comes like power corrupts people ah
+NI10FBP_0101 3178115 3182338 CS 他们 at the start 是 要 for do good for the county but in the end 他们
+NI10FBP_0101 3183754 3186113 CS like started suspecting each other then 他们
+NI10FBP_0101 3186869 3191104 CS 他们 很 一直 很 怕 自己 的 power 会 lose lose 掉 自己 的 power 嘛
+NI10FBP_0101 3191729 3194254 CS then in the end 他们 全部 start killing each other
+NI10FBP_0101 3194981 3200052 CS 他们 的 人 他们 in the end 整个 population 乎 他们 杀 掉 one quarter 诶
+NI10FBP_0101 3202092 3205944 CS 而且 是 for 很 stupid 的 reasoning 我 不懂 你 有没有 读 过 啊 like
+NI10FBP_0101 3206544 3208081 CS 他们 有一个 detention barracks
+NI10FBP_0101 3208604 3216091 CS 他们 的 有 很多 他们 有 一个 killing fields 他们 的 一个 tourist attraction 叫 killing fields 他们 的 这个 地方 是
+NI10FBP_0101 3216920 3218547 ZH 一个 专门 来 杀人 的 一个 地方
+NI10FBP_0101 3219070 3228700 CS 他们 觉得 这些 人 是 political enemies 嘛 then 他们 just 带 带 他们 过去 just 他 just 去 杀 啊 他们 杀 他们 不是 杀 那些 enemy 诶
+NI10FBP_0101 3229574 3236105 CS 整 家人 都 把 他们 全部 崭除 掉 so it's very 我们 去 那 地方 then 很 scary 咯 then
+NI10FBP_0101 3237048 3241979 CS 他们 杀 他们 杀 的 方法 又 不是 很 很 professional 这样 for example 他们 在 那边
+NI10FBP_0101 3242872 3244096 CS 那些 犯人 的 baby 诶
+NI10FBP_0101 3245014 3247782 EN they will just slam the head against the tree lo
+NI10FBP_0101 3249272 3254233 CS after that 他们 just 丢 在 一个 pit 里面 so for example 这个 pit 整个 都是 给 baby 的
+NI10FBP_0101 3254947 3256401 ZH 整个 里面 他们
+NI10FBP_0101 3256880 3263130 CS 他们的 尸 还 还 全部 在 咯 他们 的 骨头 啊 okay 啦 不要 讲 这个 啦 很 morbid 的 subject
+NI10FBP_0101 3263883 3265222 EN but ah-noh so
+NI10FBP_0101 3266281 3270440 CS 我 在 想 哇 在 新加坡 很 lucky 咯 没有 经过 这种 东西
+NI10FBP_0101 3271435 3276528 ZH 他们 真的 是 那些 领袖 真的 是 发疯 咯
+NI10FBP_0101 3276962 3280291 EN all go crazy one their elects like killing people
+NI10FBP_0101 3281147 3284425 EN they are so paranoid that they start killing everybody so that they can stay in power
+NI10FBP_0101 3285394 3287830 EN yeah so lucky that its over now
+NI10FBP_0101 3288774 3290824 EN yeah (erm)
+NI10FBP_0101 3293286 3299976 CS okay so that was that was 我 过去 我 去 (呃) 这些 国家 学 来 的 东西 咯
+NI10FBP_0101 3300984 3302349 ZH (啊) 我 也是 有 去 过
+NI10FBP_0101 3303264 3308404 CS 我是 也有 去 (啊) 英 诶 有 去 法国 德国 还有 西班牙 spain 啦
+NI10FBP_0101 3309068 3311541 EN then during this period i was thinking
+NI10FBP_0101 3312661 3316959 EN ah quite should be very okay la it was was it was a very fun experience la
+NI10FBP_0101 3317610 3326356 CS 去 那边 我 是 冬天 去 咯 so it was (呃) very cold the temperature was always hovering around zero degrees around there 啦
+NI10FBP_0101 3327064 3334743 CS so 我 第一个 after 我 去了 几天 乎 我 就 就 发觉 了 一个 东西 是 我 是 meant to be stay in singapore 的 
+NI10FBP_0101 3335253 3341063 CS 因为  at the 因为 我 每次 在 想 哇 新加坡 很 热 很 热 but 我 去 那边 之后 我 就在 想
+NI10FBP_0101 3341573 3346548 CS actually 热 比 冷 好 因为 我 那边 我 just 过 过去 几天 我 就 生病 了
+NI10FBP_0101 3347122 3352664 CS 鼻子 一流 啊 一直 一直 流 then corrupt runny nose then the
+NI10FBP_0101 3352996 3355674 CS after at the start 我 觉得 那边 吃 的 东西 我 觉得 很好 吃
+NI10FBP_0101 3356031 3359849 CS 他们 只是 吃 大鱼大肉 啊 吃 salad 啊 他们 没有 吃饭 的 嘛
+NI10FBP_0101 3360678 3368632 CS then 我在 那边 at the start 很好 吃 啦 因为 like 吃 western 这样 but after 我 吃 一个 礼拜 乎 我 就 吃 不 下去 了 is
+NI10FBP_0101 3369151 3372947 CS 没有 no no taste already 他 们 吃 每 一口 都是 痛苦 的 
+NI10FBP_0101 3373954 3379982 CS so in the end 我们 要 去 专门 找 那种 asian asian 的 restaurant 出去 吃 哇 吃 一个 炒 饭 要 十 多 块 那种
+NI10FBP_0101 3380428 3387775 CS then 啊喏 so 很 actually 那边 的 东西 都 是 这样 贵 的 啦 so 没有 办法 咯 just 是 这样 咯 then
+NI10FBP_0101 3388859 3392266 ZH (啊) 我 在 那边 (啊)
+NI10FBP_0101 3393325 3398156 CS actually 我 因为 我 有 like 我们 有 一些 人 讲法 国人 比较 骄傲 这样
+NI10FBP_0101 3399406 3403239 CS (呃) actually is true 诶 to a extent like 我们 去 supermarket 乎
+NI10FBP_0101 3403864 3413430 CS then 他们 一直 觉得 他们 比 我们 比 我们 好 这样 like for example 那些 cashier 这样 乎 他们 可能 对 他们 自己的 人 很 friendly 啊
+NI10FBP_0101 3414552 3421180 CS then 他 看到 一个 asian 过来 啊 他 的 脸 他 他 的 脸 just 变成 一个 石头 这样 他 的 笑 just 不见 掉
+NI10FBP_0101 3421805 3428311 CS so then just serve 我们 咯 then 我们 走 next customer 来 又是 french 哦 他 又 一直 在那边 笑 这样
+NI10FBP_0101 3428929 3430026 EN so okay la
+NI10FBP_0101 3431710 3434426 ZH (呃) 在 那边 (呃)
+NI10FBP_0101 3435122 3450200 CS 我们 有 去 (呃) 搭 那个 我们 从 德 france to germany we took the bullet train and then we travel at three hundred 三百 公里 啊 per hour i think around there
+NI10FBP_0101 3450621 3452763 CS actually 这个 bullet train 乎 我 去 读
+NI10FBP_0101 3453618 3461456 CS 他 讲 真的 是 like 大才小用 用 用 牛 刀 来 来 不懂 做 什么 啊 like there's this phrase that 大才小用 啊
+NI10FBP_0101 3461456 3463025 EN 
+NI10FBP_0101 3463025 3471317 CS basically 他 讲 那个 bullet train i think can travel up to what hundred thousand k. m. per hour one 啊 something like that
+NI10FBP_0101 3472134 3480566 CS then the reason the only reason why 他们 没有 这样 like move at this speed 是 人 人 的 身体 承受 不了 咯
+NI10FBP_0101 3481216 3482517 ZH 再 走 快 一点 我们 就 吐 了
+NI10FBP_0101 3483065 3489324 CS actually 三百 公里 四百 公里 啊 i think 我 有点 有点 头晕 这样
+NI10FBP_0101 3489745 3495297 CS after 一下子 啊 因为 你 本来 画面 很 很 cool 这样 it's very fun 啊 like everything just zoom past you
+NI10FBP_0101 3495896 3502587 EN after a while you start having like a bit of headache then you just like just lie down lie back there lo
+NI10FBP_0101 3503288 3507147 EN then okay la i think this is a sidetrack la interesting technology la
+NI10FBP_0101 3507147 3508716 EN 
+NI10FBP_0101 3508716 3510094 EN (erm) what else
+NI10FBP_0101 3511178 3518142 ZH (呃) 我 去 哦 去 西班牙 那边 (呃)
+NI10FBP_0101 3519188 3522957 CS 我 有 去 哦 那边 那边 的 人 比较 friendly 咯
+NI10FBP_0101 3523646 3529826 CS so (呃) 那边 也是 有 一些 饭 咯 他们 有些 spanish 的 饭 so 我们 每次 去 那边 吃 啊 因为
+NI10FBP_0101 3530439 3536280 CS even though 他的 饭 跟 asian 的 不大 一样 味道 but 饭 还是 饭 啊 我 觉得 很好 吃 啊
+NI10FBP_0101 3537122 3540642 CS so (呃) 我们 每次 这样 咯 just 去 吃
+NI10FBP_0101 3541619 3547871 CS actually 去 那边 很 贵 咯 like 我们 有 一天 吃 一 顿 乎 因为 like christmas eve 咯 then
+NI10FBP_0101 3548238 3552148 ZH 全部 地方 都 关 了 嘛 只有 一 一 个 店 开 了 我们 去 那边
+NI10FBP_0101 3552646 3555962 CS 进去 坐 lorh just 坐下 他们 就 serve water 他们 拿 menu 过来
+NI10FBP_0101 3556702 3560490 CS 那个 一个人 要 about sixty euros 这样
+NI10FBP_0101 3560962 3567856 CS for normal meal 啊 sixty euros actually 是 一百 五十 一百 三十 四十 块 左右
+NI10FBP_0101 3569234 3570649 ZH 那边 又 没有 别的 店 咧
+NI10FBP_0101 3571249 3574304 CS 没有 办法 啊 just 啊 那边 吃 咯
+NI10FBP_0101 3575248 3579916 CS then in the end 他们 因为 他们 吃 的 东西 乎 他们 喜欢 吃 乳酪
+NI10FBP_0101 3580694 3583832 EN they like cheese a lot then the thing is
+NI10FBP_0101 3584980 3590497 CS 乳酪 is not like the kind that 我们 懂 诶 in the supermarket
+NI10FBP_0101 3591925 3595956 CS the cheese is 好像 rotten 这样 诶
+NI10FBP_0101 3596920 3601741 CS 我 不懂 放 多久 那 味道 哦 从 five ten metre away 就 闻 到 了 他 拿 过来 的 时候
+NI10FBP_0101 3602787 3606952 CS then 他们 很 喜欢 吃 咧 他们 to them it is a delicacy 诶
+NI10FBP_0101 3607564 3613597 CS like 很 i think 是 很 贵 咯 因为 一百 五十 块 很贵 what like i think 那个 cheese 是 很贵 咯 是 high quality 的 咯
+NI10FBP_0101 3614515 3623170 CS 哇 那 越 high quality 就 越 臭 这样 也 没有 办法 就 像 吃 臭豆腐 这样 有些 人 喜欢 but 我 不 喜欢 咧 then in the end 我们 全部 都 没有 吃 那个 cheese 那个 cheese 很 贵 诶
+NI10FBP_0101 3624178 3629262 CS 哦 then 那 cheese 那 因为 我们 没有 吃 what then 他们 来 他们 来 收 的 时候 他们 来看 我们
+NI10FBP_0101 3629862 3633970 CS like 为什么 不要 吃 like the most important 东西 你 没有 吃 这样
+NI10FBP_0101 3634564 3639398 CS then 给 我们 那种 眼色 这样 then 他们 收 掉 之后 then 他们 就 serve the next thing 是 salad
+NI10FBP_0101 3640992 3644379 CS at the start 我 会 吃 salad 啦 如果 我是 第一 天 去 啦 but
+NI10FBP_0101 3644826 3648652 CS after 十 天 我 就 没有 办法 吃 salad 嘛 所以 我 就 不要 吃 那个 salad
+NI10FBP_0101 3648652 3650132 EN then
+NI10FBP_0101 3650132 3653116 CS i think 我 我 那 那时 跟 我 去 的 人 也是 不要 吃 啦
+NI10FBP_0101 3654100 3655797 CS then 他们 就 在 想 你 来 这里 做 什么
+NI10FBP_0101 3656524 3661995 CS 什么 serve 你 什么 都 不要 吃 okay 啦 then in the end 他们 有 serve chicken 那种 then 我们 就 吃 chicken 咯
+NI10FBP_0101 3663130 3673253 CS i think 那 chicken 只是 可能 三十 块 而已 啦 the rest 我们 贵 的 东西 我们 没有 吃 咯 i think 那 salad 也是 很 诶 one of their specialty 这样 咯
+NI10FBP_0101 3674260 3679425 EN so in the end we we pay like eighty dollar then return return to them  yeah

@@ -1,0 +1,83 @@
+UI01FAZ_0108 4573 12899 CS depends ah 看 有没有 需要 啦 有 需要 用 到 啊 就会 会 去 看看 翻翻 看 咯
+UI01FAZ_0108 12899 18972 CS 然后 有 interest 有 好像 说 吸引 你 吸引 的 就会 好像 说 去 看看 咯
+UI01FAZ_0108 24055 28796 ZH 平常 就 比较 少 然后 因为 现在 报纸
+UI01FAZ_0108 28796 34844 ZH 你 知道 报纸 它 也有 很多 有时候 有 放 很多 这些 关于 这些 资料 啊 有 翻翻 看 这样 咯
+UI01FAZ_0108 34844 42360 ZH 所以 不必 说 好像 说 特地 要 去 啊 特地 去 那些 书局 那些 去 翻 找 咯
+UI01FAZ_0108 42360 47416 CS 有时候 好像 说 看到 吸引 就 o. k. loh 看 看 看看 下去 咯
+UI01FAZ_0108 50450 55951 ZH 走 书店 啊 很少 啦 比较 少
+UI01FAZ_0108 62650 67586 EN 
+UI01FAZ_0108 73960 75212 ZH 嗯
+UI01FAZ_0108 79244 82560 EN 
+UI01FAZ_0108 85077 94443 CS 没有 什么 做 financial investment loh 就是 有 买 保险 那些 有 cover 到 的 咯 insurance 那些 有 cover 到 的 咯
+UI01FAZ_0108 94443 104593 CS 自己 去 做 investment 那些 就 没有 啦 也 不 会 嘛 没有 没有 没有
+UI01FAZ_0108 114156 124762 ZH 嗯 嗯 没有 啦 很少 去 有 好像 说 有 那 一 天 又 跟 朋友 出去 走走 看看 而已 咯
+UI01FAZ_0108 127548 134314 CS (嗯) 我 没有 上网 online 这样的 东西 啦 好像 不知道 啊 好像 信心 不足 吧
+UI01FAZ_0108 134314 140492 CS 要 online 买 的 东西 好像 说 不知道 不知道 他们的 secure ah
+UI01FAZ_0108 143885 147271 ZH 需要 很 比较 久 的 时间 看看 先
+UI01FAZ_0108 147271 155704 CS 就是说 就是说 好像 会 会 很 secure 去 啦 现在 就 很 普遍 化 了 那些 的 时候 才 会 比较 去
+UI01FAZ_0108 155704 157706 CS maybe 会 去 尝试 咯
+UI01FAZ_0108 157706 163466 ZH 现在 因为 好像 说 我们 现在 这里 买 东西 什么 都是 算是 很 方便 嘛
+UI01FAZ_0108 163466 171001 CS 出去 这样 转 一 转 就 o. k. 能 买 到了 所以 就 没有 说 really 去 上网 去 购买 这样 咯
+UI01FAZ_0108 173004 182860 CS 嗯 没有 没有 因为 我的 好像 说 credit card 那些 都 (嗯) 没有 我 没有 申请 说 去 access online banking 的 东西
+UI01FAZ_0108 182860 185164 CS 所以 没有 做 过 online banking oh
+UI01FAZ_0108 187320 193099 CS 因为 如果 要 transfer 那些 a. t. m. 有些 a. t. m. machine 都 能 直接 transfer 的 嘛
+UI01FAZ_0108 199134 204734 EN 
+UI01FAZ_0108 205636 212350 CS animation ah 你 是 讲 cartoon 那些 啊 有 啦 cartoon 那些 有 看 啦 啊
+UI01FAZ_0108 215497 222782 CS ice age two 没有 看 啦 ice age one 就 看 咯 然后 那个 kungfu panda 这样 啊
+UI01FAZ_0108 222782 227212 CS normal on disney 的 那些 cartoon animation cartoon loh
+UI01FAZ_0108 228695 234159 CS toy story ah ice age 也是 disney 的 嘛 不是 咩
+UI01FAZ_0108 234159 237188 EN (err) ice age (err) pixar
+UI01FAZ_0108 237188 239582 CS not really 去 分散 出来
+UI01FAZ_0108 241731 244824 CS 啊 哦 shrek shrek 是 disney 的 咯
+UI01FAZ_0108 258709 263744 CS 哈 比较 有 印象 的 啊 shrek 吧
+UI01FAZ_0108 266751 270650 CS shrek two 是 诶 等 一下
+UI01FAZ_0108 270650 277006 CS (哦) shrek one (oh) shrek two 是 他 那个 prince charming 的
+UI01FAZ_0108 278262 288116 CS 那个 prince charming 就是说 shrek one 是 他 跟 那个 他 老婆 的 嘛 那 shrek two 呢 就是 那个 另外 一个 prince charming 那个
+UI01FAZ_0108 288116 289637 CS fairy tale 的 啊
+UI01FAZ_0108 291775 296272 CS godmother 那个 的 孩子 啊 (啊) 那个
+UI01FAZ_0108 302121 308047 ZH 不大 记得 了 应该 是 那个
+UI01FAZ_0108 309868 317408 CS 哦 就是 那 一个 shrek 那个 那个 那个 prince charming hah 就
+UI01FAZ_0108 317408 324698 ZH 他 要 去 救 那个 公主 的 时候 (咯) 可是 哪里 知道 他 已经 被 人 救 去了
+UI01FAZ_0108 325943 331100 ZH 然后 他 就 怎样 想 办法 就是 好像 去 抢 回 她 这样 咯
+UI01FAZ_0108 331100 337444 CS 可是 那个 公主 还是 比较 喜欢 那个 shrek loh  这样 咯
+UI01FAZ_0108 339563 342129 ZH 也是 忘记 了 
+UI01FAZ_0108 343613 345934 EN 
+UI01FAZ_0108 351223 358272 CS animation ah (erm) 没有 没有 日本 的 就 没有 看过
+UI01FAZ_0108 360621 365173 ZH 嗯 不大 会 啊 不大 会 
+UI01FAZ_0108 367824 370541 ZH 多数 啦 可以 这样 讲 啦 
+UI01FAZ_0108 378806 384710 ZH 特别 喜欢 的 综艺 节目 啊 (嗯) 没有 什么 特别 的
+UI01FAZ_0108 386183 393717 ZH 哦 那个 哈林 那个 学校 啊 有 看过 啦 因为 我也 是 很少 去 看 这些 综 艺 节目
+UI01FAZ_0108 393717 399176 ZH 就是说 没有 东西 做 的 那时 候 啊 看 电视 的 时候 才有 去 看 咯
+UI01FAZ_0108 412687 416206 ZH 没有 去 想 过 这样 长远 的 问题 
+UI01FAZ_0108 422895 431953 CS 什么 plan ah 没有 哦 没有 特别 去 plan 什么 要 什么 target 要 achieve 这样 咯 没有 特别 去 想 这样的 问题
+UI01FAZ_0108 439686 440571 EN 
+UI01FAZ_0108 456187 458210 ZH 哦 没有 啦 没有 什么 特别
+UI01FAZ_0108 461553 468150 ZH 嗯 没有 啦 没有 去 想 过 这样 多 问题 看到 有 是 有喜 欢 的 才 回去 买 这样 咯
+UI01FAZ_0108 470668 475922 ZH 特别 向往 的 没有 啦 嗯 没有 什么 特别 向往 的
+UI01FAZ_0108 484709 488110 ZH 嗯 因为 我是 算是 住 在 北海 嘛
+UI01FAZ_0108 488110 494600 CS 每天 travel 这样 咯 来 去 travel 然后 回到 家 也 算 累 了 啦
+UI01FAZ_0108 494600 504102 ZH 然后 就 吃饭 那些 收拾 收拾 房间 这样 一下子 然后 就 看看 书 然后 就 睡觉 没有 什么 特别 的 东西
+UI01FAZ_0108 506619 511176 ZH 会 啊  没有 这样 严重 啦
+UI01FAZ_0108 512941 517107 CS 还没有 开 回 三 条 lane 那 一天 只是 开幕典礼 而已
+UI01FAZ_0108 517107 522998 CS 过后 又 再 剩 回 两 条 lane 对
+UI01FAZ_0108 526750 529746 ZH 嗯 可以 算是 咯 不过 好像 说
+UI01FAZ_0108 529746 538698 CS 我们 去 penang 去 北海 的 时候 是 上班 时间 下班 时间 是 北海 回来 就是说 没有 这样 厉害 咯
+UI01FAZ_0108 538698 544304 CS 你 会 看到 现在 比较 严重 的 就是说 上班 时间 是 北海 过来 penang 的 时候 比较 jam
+UI01FAZ_0108 544304 547565 CS 然后 回 的 时候 就 penang 回 北海 的 时候 比较 jam
+UI01FAZ_0108 547565 550927 CS 有时候 因为 我 走 jelutong highway ah 回 的 嘛
+UI01FAZ_0108 550927 554682 CS 你 会 看到 整 条 差不多 整 条 jelutong highway jam 到 完 啊
+UI01FAZ_0108 554682 562682 CS 所以 星期五 要 过 北海 的 人 也是 真的 是要 想 过 这样 咯 jam 到 哦 很 厉害 咯
+UI01FAZ_0108 564098 569261 ZH 不过 应该 是 比较 好 一点 啦 会 比较 好 一点 啦
+UI01FAZ_0108 569261 575139 ZH 多数 因为 现在 哦 北海 那 方面 他们 自己 有 另外 开路 啊
+UI01FAZ_0108 575139 580227 CS 好像 说 industry area 可以 直接 round 去 好像 说 seberang jaya 那边
+UI01FAZ_0108 580227 586921 CS 就是说 industry 工厂 那边 的 人 不用 好像 说 特地 要 弯 回 seberang jaya 就是说
+UI01FAZ_0108 586921 590879 CS 北海 那边 就是 要 u-turn 在 penang bridge 那边 u-turn mah
+UI01FAZ_0108 590879 596268 CS 现在 skip 掉 那一 段 就 很快 去 咯 比较 没有 这样 jam 这样 咯
+UI01FAZ_0108 596268 601013 CS 也是 刚 开 啦 这些 direct 的 flyover 也是 刚刚 开 罢了
+UI01FAZ_0108 602188 604188 CS 所以 没有 这样 jam 这样 咯
+UI01FAZ_0108 609724 617087 CS 比较 少 啦 我 会 驾车 去 k. l. 我 姐姐 家 咯 这样
+UI01FAZ_0108 617087 624789 CS 自己 驾 去 咯 这样 多数 都是 下 k. l. loh 去 自己 驾车 自己 驾车
+UI01FAZ_0108 624789 631360 CS 因为 我 姐姐 的 孩子 是 我 妈妈 啊 我 parents 帮 她 顾 嘛 所以 (啊)
+UI01FAZ_0108 631360 641377 CS 遇到 有 好像 说 有 长假 的 时候 我 就会 开车 载 着 他们 一起 去 咯  去 k. l. 去 一个 星期 这样 咯
+UI01FAZ_0108 645836 649795 EN  thank you
+UI01FAZ_0108 650365 656527 EN 

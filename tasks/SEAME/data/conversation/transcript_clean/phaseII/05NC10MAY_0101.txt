@@ -1,0 +1,285 @@
+05NC10MAY_0101 0 3055 ZH 讲话 太 大声 了 
+05NC10MAY_0101 3055 8700 CS  en ok 所以 还要 再 继续 啊 要 做一次 introduction
+05NC10MAY_0101 8700 12388 EN ok ok thank you thank you thank you
+05NC10MAY_0101 12388 19581 CS 嗯 谢谢 ok 我的 名字 叫 raymond chye then 我是 啊 c. b. e year four
+05NC10MAY_0101 19581 25287 CS 很 清楚 他 录到 我 现在 是 c. b. e year four 然后 我是 malaysian
+05NC10MAY_0101 25287 29097 CS 我 来自 怡保 ipoh perak ok so 到你
+05NC10MAY_0101 39801 46200 CS  对 我 早上 回去 学校 做 f. y. p.
+05NC10MAY_0101 46200 50140 CS then 我的 p. h. d. student 又 叫我 prepare 多 一个 sample
+05NC10MAY_0101 50140 59144 CS 我的 f. y. p. 其实 是 在做 那个 electro deposition of polyethylene then 是一个 polymer
+05NC10MAY_0101 59144 65115 CS 就是 你 你 用的 plastic ah 那些 东西 全部 都是 都是 叫 polymer
+05NC10MAY_0101 65115 73803 CS then 我们 是做 把 这个 polymer 黏在 一个 steel plate 上面 then 在 (呃) 换那个 property of the steel plate
+05NC10MAY_0101 77640 80590 CS 不是 (啦) 要 做 一个 conductor 出来 capacitor
+05NC10MAY_0101 82136 82634 ZH 啊
+05NC10MAY_0101 84924 95066 CS 不是 说  做一个 新的 其实  因为 现在的 capacitor 的 efficiency 没有 很好 嘛 then 我们是要 improve 他的  efficiency
+05NC10MAY_0101 95066 105751 CS 所以 我们 把那个 metal 放在 polymer 上面 then 那个 polymer 是 support then 我们 现在 在做的 就是 把 polymer 弄在 那个 steel plate 上面
+05NC10MAY_0101 107228 113745 CS 我的妈 我们 讲话 很大声  ok 你的 还好 没有 没有 没有 ok
+05NC10MAY_0101 113745 124240 CS then 不顺利 咯 then 今天 今天 那个 今~ 因为 我们 sample 坏了 有 很多 bubbles 在 里面 then
+05NC10MAY_0101 124240 126120 CS 我们 全部 人 都是 用 同一 个 sample ah
+05NC10MAY_0101 126120 137933 CS 就是 四个人 在用 同一个 sample then 我们 就  then 你懂 我们 就叫 就跟 那个 physician 讲 我们 要 做多 一个 sample 因为 我们 sample 坏了 里面 有 很多 bubble
+05NC10MAY_0101 137933 153072 CS then 我们 heat overnight 也是 有 很多 bubbles 在 里面 所以 我们 就 觉得  (呃) 应该 做 多 一个 then 我~ 那个 p. h. d. student 就讲 (嗯) 你们 不需要 做多 一个 just 用回 这个 then remove 掉 那个 bubbles 就好 不要 浪费 不要 浪费
+05NC10MAY_0101 153072 159231 CS 啊 应该会 啦 可是 我 insist 做过 then 他 走后 我们 就 自己 做多 一个 咯
+05NC10MAY_0101 159231 169671 ZH （嗯） 就 还没有 还在做 然后 你就 我就 出来 录这个 为了 十五 块钱 
+05NC10MAY_0101 169671 193432 CS 一天 两天 咯  然后 我 跟你 讲 我 那个 p. h. d. student 很搞笑 他是 他的 他的 中国 华语 有一个 有一句 是 名句 啊  啊 就是 他的 英文 不好 他就 每天 讲华语 然后 他的 中国 华语 有一个 有一个 (呃) so call (er) 名句 啊 名句精华
+05NC10MAY_0101 193432 220274 CS 然后 他 就是 会 做到 如果 我们 做到 有问题 有 problem 他 就会 讲 我的天 啊  你 有没有 过 英文 是 对不对 他就 我的天 啊 因为 我们 是用 那种 oh my god  哎呀 惨了 then then 他的  then 没有 then 他的是 我的天 啊 就有 那种  你 看我  然后 我们 就 每次 就会 去 学他
+05NC10MAY_0101 220274 230358 CS 学他 讲 我的天 啊 oh my god 没有 因为 我们 做 sample 很丑 then 就 很多 我的天~
+05NC10MAY_0101 230358 235510 ZH  就 没有 因为 全部人 都 做一个 罢了
+05NC10MAY_0101 238440 244302 CS 不是 每个人 的 first set 是一样 then 我们 全部人 都用 同一个 polymer mah
+05NC10MAY_0101 244302 250217 CS 所以 我们 就 全部人 分工 合作 啦 then 不用 做 这么多 啦 因为 四个人 then 
+05NC10MAY_0101 250217 257110 CS  然后 我们  我们 就 四个人 分工 合作 一人 一人 一人 做一个 ratio ah
+05NC10MAY_0101 259410 272730 CS 没有 啦 就讲 我的天 啊 怎么办 then 我 就在 想  (呃) 怎么办 我们 要 再 做过 啊  可是 他 通常 不让 我们 做 因为 他讲 很浪费
+05NC10MAY_0101 272730 289390 CS 我懂 okay i know  i know no problem  每个 拜五 见一次 但是 很  他是 很 那种 很很很很很很 follow 很 follow
+05NC10MAY_0101 289390 290970 CS follow 那种 rules ah
+05NC10MAY_0101 290970 295373 CS   就 不会 讲 因为 by plan by plan 是
+05NC10MAY_0101 297161 307069 CS  by plan 是 every week once meeting what then 他是  很 很跟的 then 我们 就 每个 礼拜 见一次  then 每个 礼拜 见一次
+05NC10MAY_0101 308559 310086 EN individually
+05NC10MAY_0101 310086 317729 CS then 现在 我们 啊 因为 我们 全部人 做 一样的 东西 initially 是 individually 然后 我们 就 propose 想
+05NC10MAY_0101 318697 332202 CS 啊 因为 我们 一样 因为 我们 一样 东西 then 我们 就 propose 像 我们要 啊 啊 一起 meet 他 in a group la group discussion la  then then 他 就讲 ok loh group discussion loh 每个 拜五
+05NC10MAY_0101 332202 344961 CS 同一个 时间 可是 续微 就有 上课  他 就 不能  他就 不能 啊 没有 他 不能 他 要 迟到 他 late 因为  ah 他 有 上课 他上 gym one
+05NC10MAY_0101 344961 349738 CS then 我们 就 延迟 咯 延迟 到 我的 session 那个 时间 咯
+05NC10MAY_0101 349738 359146 CS so 现在 就 同一个 同一个 时间 meet loh then 比较 好 啦 因为 一个人 meet 很 stress leh 自己 要讲 很多 东西  四个人 meet 就还好
+05NC10MAY_0101 362663 365787 ZH 上次 啊 上次 就 
+05NC10MAY_0101 367550 375060 CS 哦 我 跟你 讲 他 也是 很搞笑 跟 p. h. Ｄ. student 一样  因为 他会  他 会讲 因为 我们的 那个 microscope 坏了
+05NC10MAY_0101 375060 389830 CS 坏了 then 那个 vendor 就要 来弄 然后 那个 vendor 就讲 不能 不能 给了 一个 新的 因为 没有 guarantee  那个 东西 会好 啦 then 他就 拿回去 弄 then 我的 professor 就 讲
+05NC10MAY_0101 389830 407289 CS ah this is bad 他 这样子 他讲 that is bad 因为 是 ah this is really bad 因为 是 新的 嘛 then 没有 啦 就 skip 那个 step loh 因为 是 新的 然后 又 不能 换 一个 新的 回来
+05NC10MAY_0101 407289 410805 CS 不能 因为 那个 microscope 很贵 then 他 不可以 因为
+05NC10MAY_0101 412334 417688 ZH 只有 一个 罢了 什么 这样 穷 贵的 东西 那个是
+05NC10MAY_0101 417688 429900 CS 不是 那种 cheap 不是 那种 是 polarised optical microscope 是贵的 然后 他 就讲 this is bad 然后 徐慧 就在笑
+05NC10MAY_0101 432846 438167 CS 要 要看 structure 要 看那个 morphology 懂 要看 那个 surface structure
+05NC10MAY_0101 442293 445511 ZH 做到 明年 咯 十二月 会 会做 到来 不会 回家
+05NC10MAY_0101 448104 466197 CS 然后 没有 我 还 没有 讲完 然后 他 就讲 this is bad  然后 他就  他 就讲 说 啊 啊 啊 那个 microscope 是新 因为 他是 korean 他 不是 他 不是 local 他 也不是 中国 他 就 英文 也不是 很好 
+05NC10MAY_0101 466197 471517 CS 啊 韩国人 然后 他就 lee jung min ah
+05NC10MAY_0101 472510 475070 CS korean korean 的 名字 都 很 像 chinese 的 嘛
+05NC10MAY_0101 478050 487003 CS  还好 没有 很帅 rain 比较 帅  eh 不要 讲 粗话 嘞 因为 这个是 recording leh
+05NC10MAY_0101 491931 502901 CS 什么 我们 学校 很多 korean then 很多 这种 那种  那种 外国的 professor 可是 中国的 比较多 啦 中国是 dominate lah
+05NC10MAY_0101 502901 508784 CS then 很少 很少 local 新加坡人 没有 什么 
+05NC10MAY_0101 513717 516623 EN ah aiyo sorry
+05NC10MAY_0101 536321 543750 CS  然后 可是 不是 因 你 没有 换 那个 form 就 好了 啊 你 就换 那个 form 就好 换成 signature 的 form
+05NC10MAY_0101 547123 549773 CS scan 不用 钱 library scan 不用 钱 lee wee nam 可以 scan
+05NC10MAY_0101 554764 559041 CS 可是 print out 你 要 给他 你 要 拿过去 你 scan 你 就 直接 email 他 啊
+05NC10MAY_0101 560338 563515 ZH 如果 你 靠近 你 就可以 啦
+05NC10MAY_0101 563515 568974 ZH 还好 啦 你 靠近 就 可以 啦 然后你 你 要 重 拿 过去
+05NC10MAY_0101 591687 595997 CS psychology ah 是吗 可是 你们 chinese leh
+05NC10MAY_0101 610061 614185 ZH 九月到 九月 九号 十号
+05NC10MAY_0101 627612 630034 CS ah but 你 有 跟他 讲 那 两天 不可以 吗
+05NC10MAY_0101 633819 644531 CS 可是 因为 你 骗他 就是 没有 他  没有 就是 他 approve 了 then 他 给你 去 他 给你 这个 job then 你 又有 两天 不可以 
+05NC10MAY_0101 649850 653506 ZH 可是 哪一个 比较 重要 你 老师 那个 比较 重要 还是
+05NC10MAY_0101 654240 660541 CS  对啦 所以 你 现在 是 为了 老师 而 而 留下 而 不是 为了 job 而 留下 如果 他不给 嘞
+05NC10MAY_0101 662270 666109 ZH 你 就 叫我 去顶 咯 我 去做 【咯】  
+05NC10MAY_0101 667522 670996 ZH 哈 你 就 叫我 去做 啦 我 帮你 做 咯
+05NC10MAY_0101 673407 675302 CS 我 know 什么 我 don't know
+05NC10MAY_0101 682750 683214 ZH 不懂
+05NC10MAY_0101 689563 690778 ZH 是 meh
+05NC10MAY_0101 693494 694652 ZH 不懂 嘞 做么是
+05NC10MAY_0101 697458 705220 CS 不懂 我 只知道 innovat~ 我 只是 知道 那个 innovation Ｃentre 那个 Ｈall Ｓeven 附近 那边 那个
+05NC10MAY_0101 705220 710824 CS 那个 是 c. b. e. school 以前 的 office
+05NC10MAY_0101 724184 725332 ZH 中
+05NC10MAY_0101 725332 732421 ZH 中华语言 语文 然后 做什么 是不是 <unk>
+05NC10MAY_0101 739363 745703 CS 可是 如果 你是 student 也 其实 一个人 的话 也 也 没有 什么 东西 做 现在 都 没有 新的 新的 student 进来
+05NC10MAY_0101 755480 758654 ZH 多少钱 那个工
+05NC10MAY_0101 763849 765787 ZH 【啊】 六块 到 十块 啊
+05NC10MAY_0101 771000 777950 CS 应该是 seven bah 现在 normal rate 是 seven  可是 seven 你做 
+05NC10MAY_0101 779283 790044 ZH 你做 一个月 都 够了 【咯】 去台湾 （ppl) 我 我 也是 要 做到工 我要 找钱 【叻】 没有 嘞 我们 学校 没有请
+05NC10MAY_0101 790044 791907 CS 有 啊 我 try to 找 啊 可是
+05NC10MAY_0101 801648 805186 CS okay lah 可是 我 学校 没有 post 他要
+05NC10MAY_0101 806466 807608 CS 你 email 那个老师
+05NC10MAY_0101 809719 810613 ZH 没有 那 你
+05NC10MAY_0101 812202 814958 CS 你是 你是 email professor 还是 email 那个
+05NC10MAY_0101 820070 823966 CS 啊 你 怎样 email 他 你 跟他 讲 什么
+05NC10MAY_0101 825784 829808 CS 然后 可是 我有 我有 我有 f. y. p leh
+05NC10MAY_0101 836686 837671 ZH 找到
+05NC10MAY_0101 840464 847298 ZH 对 啦 所以 啦  所以 我 想去 去做 晚上的 那种 啊
+05NC10MAY_0101 856937 859528 ZH 没有 我不是 我是
+05NC10MAY_0101 867349 879568 CS 不是 我是 想要 你懂 因为 我 一直 都 很想要 开 开 开店 嘛 就是 做 waiter 这样子 晚上 反正 也 没有 很多 com~  也 没有 很多 commitment mah
+05NC10MAY_0101 883346 887435 ZH 有 怎么 没有 你 至少 可以 学 【嘛】
+05NC10MAY_0101 887435 890845 ZH 对不对 去 看 一下
+05NC10MAY_0101 890845 892775 ZH 所以
+05NC10MAY_0101 892775 894509 ZH 会再来 【啊】
+05NC10MAY_0101 894509 897588 ZH  什么意思
+05NC10MAY_0101 905977 907118 CS 不用 meet 他
+05NC10MAY_0101 909634 915236 CS 所以 电话 跟你 讲 啦 他 他 跟 只是 inform 你 跟你讲 他 到了 啦  
+05NC10MAY_0101 915236 921901 CS 可是 你们 没有 meet lah 今天 他 也不是 会来 见 你们 啦 怎么 他要 回 过 新加坡 勒
+05NC10MAY_0101 924041 929331 CS 哈 他 不可以 直接 下 那个 johor 的 那个 airport
+05NC10MAY_0101 930606 934480 CS jetstar 比较 贵 是 吗 比较 便宜 啊 air asia 比较 便宜 耶 不是么
+05NC10MAY_0101 938824 943199 ZH 呀啦 工作 咯 你 叫我 不要 去打工
+05NC10MAY_0101 960745 964266 ZH  谁 不喜欢 下午 睡觉
+05NC10MAY_0101 966315 973426 CS next sem  可是 你 就 跟他 你可以 stop 的 嘛 就讲 到 你 不想 做 的时候 ouch 你 就 不要做
+05NC10MAY_0101 989074 990748 ZH 啊 就 不可以 啦
+05NC10MAY_0101 997241 1002164 ZH 可是 那个 比较 多钱 是 吗 可是
+05NC10MAY_0101 1013223 1015502 ZH 不划 
+05NC10MAY_0101 1021274 1025957 CS 可是 那个 也是 同样 一个 老师 offer 不是 不一样 的老师 offer
+05NC10MAY_0101 1028266 1030849 EN  (oh)
+05NC10MAY_0101 1035883 1038293 CS 不会 啊 我 也是 有在 school mah
+05NC10MAY_0101 1040044 1041732 CS 你 可以 去 我的 lab mah
+05NC10MAY_0101 1044071 1051988 CS 你 可以 读书 嘛 你 看 那个 kite runner la  看 tuesday with morries
+05NC10MAY_0101 1053406 1059291 ZH 我 要看 英文的 你 借我 英文的 好 【咯】 你 跟他 借 英文的 借我 【咯】 我看
+05NC10MAY_0101 1061491 1063047 ZH 故事 是 什么
+05NC10MAY_0101 1064744 1068961 CS 故事 是 什么 给一个 给一个 abtract 我 那个 故事
+05NC10MAY_0101 1074156 1075298 EN world war two ah
+05NC10MAY_0101 1078691 1079635 EN afghanistan
+05NC10MAY_0101 1081522 1082317 ZH 啊 然后
+05NC10MAY_0101 1084991 1087482 ZH 那个 主角 是 讲 什么 那个 故事 是
+05NC10MAY_0101 1089243 1093141 ZH 那个 那个 啊 那个 故事
+05NC10MAY_0101 1095850 1096598 ZH 啊
+05NC10MAY_0101 1108276 1109996 EN arh
+05NC10MAY_0101 1116781 1118623 EN arh arh
+05NC10MAY_0101 1126627 1128829 ZH 啊 谁玩那个
+05NC10MAY_0101 1133902 1135827 ZH 接到 啊
+05NC10MAY_0101 1141164 1143052 CS hassen 是 那个 佣人 
+05NC10MAY_0101 1164006 1166705 ZH  那个 是 主人 【啊】 那个 坏人 是 主人
+05NC10MAY_0101 1168989 1178674 CS amil 没有 等一下 那个 主人 也是 讨厌 hassan 因为 他 爸爸 疼 hassan oh 然后 另外 一个 坏人 就 出来 asuf 就弄 hassan
+05NC10MAY_0101 1184515 1192307 ZH 啊 做 ＃ah-gua＃ 的事情 啊 我猜到 【啊】 可是 谁在 牺牲
+05NC10MAY_0101 1196087 1209898 CS 不是 他们 应该 他们 变态 他们 要 找 一个人 去 弄那个 hassan 他们 喜欢 这样子 做 所以 他们 是 ah-gua lah 
+05NC10MAY_0101 1212320 1216467 ZH 【噢】 所以 是 闲书 来的 他 那个 啊
+05NC10MAY_0101 1222303 1224066 CS 可是 hassan 是
+05NC10MAY_0101 1229002 1230330 ZH 大便【啊】
+05NC10MAY_0101 1235710 1236330 ZH 然后
+05NC10MAY_0101 1238615 1240403 ZH 可是 不是 等一下
+05NC10MAY_0101 1243854 1246355 CS 就 trauma la 
+05NC10MAY_0101 1273823 1275762 ZH 是 【啊】
+05NC10MAY_0101 1275762 1277809 EN second world war
+05NC10MAY_0101 1289581 1290534 EN arh
+05NC10MAY_0101 1291478 1298612 CS 不是 然后 那个 a~ ali 跟 他的 儿子 要 搬家 他要 带走 Ｈassan mah
+05NC10MAY_0101 1308528 1309572 CS Ｈassan 不要 走
+05NC10MAY_0101 1311250 1312345 CS Ａli 是谁
+05NC10MAY_0101 1314578 1317360 ZH 哦 然后
+05NC10MAY_0101 1320156 1324423 CS 没有 等一下 先 那个 那个 故事 就是 讲 那个 hassan 很是
+05NC10MAY_0101 1327701 1342383 CS  没有 就是 讲 那个 hassan 去追 那个 kite 然后 追 追下来 就 给人 陷害 被 抓去 做 做 ah-gua 然后 Ａmil 就看到
+05NC10MAY_0101 1342383 1347519 CS oh hassan 会去 帮他 然后 amil
+05NC10MAY_0101 1350598 1357889 CS 所以 amil 懂 amil 懂 他们 要去 插他 可是 那里的 人 做么 要去 插他
+05NC10MAY_0101 1387885 1391162 CS 哦 是因为 hassan 要 搬走 啊
+05NC10MAY_0101 1395748 1412067 CS 所以 ami~ 可是 是 before 他 给人 插 还是 after 他 给人 插 这样子 可是 可是 他 不是 讲 他 现在 很 伤心 因为 hassan hassan 没有 可是 你 不是 讲 amil 很内疚 meh
+05NC10MAY_0101 1420939 1427690 CS hassan 是女的 啊 男的 怎样生 baby  oh
+05NC10MAY_0101 1433544 1434295 CS 没有 baby
+05NC10MAY_0101 1439119 1440056 EN <unk> hassan ah
+05NC10MAY_0101 1445778 1448000 ZH 【噢】 给 战争 炸死
+05NC10MAY_0101 1455473 1456343 EN arh
+05NC10MAY_0101 1475286 1477652 ZH 【啊】 什么意思 给人插
+05NC10MAY_0101 1487810 1491955 CS ah Ｔaliban ah Ｔaliban 懂 啊
+05NC10MAY_0101 1501535 1514295 CS ha Ｔaliban 是 asuf  ah wah 然后 asuf 就 很喜欢 插 因为 所以 tali~ 所以 taliban 很 喜欢 那个 anoh la 
+05NC10MAY_0101 1523893 1530018 CS 然后 所以 刚好 就 抓到 hassan 的儿子  他 有没有 讲 我 爸爸 是 hassan
+05NC10MAY_0101 1537765 1539131 CS hassan 的儿子
+05NC10MAY_0101 1542673 1547522 CS 他 怎样 去 save 他 他是 他 是去 taliban 的 战~
+05NC10MAY_0101 1561649 1564106 CS 噢 然后 那个 Ａmil 就
+05NC10MAY_0101 1566092 1568923 CS amil 就打死 那个 hassan ah ah
+05NC10MAY_0101 1576497 1584442 CS 那个 last elast 用 那个 rubber band 然后 射 那个 石子 出来
+05NC10MAY_0101 1588423 1596292 CS oh amil 不够 那个 噢 可是 他 也 是要 救 他的 儿子 啦 所以 amil 是 好人 啦
+05NC10MAY_0101 1600884 1602809 EN 
+05NC10MAY_0101 1609088 1612033 CS god-son 是什么 kai-ｚai ah
+05NC10MAY_0101 1612033 1614487 EN 
+05NC10MAY_0101 1618999 1623906 CS 就轮回 啦 一样 同一次 然后 他就 amil amil 就有 儿子
+05NC10MAY_0101 1650757 1651779 ZH 都 没有
+05NC10MAY_0101 1658845 1660397 ZH 偷渡
+05NC10MAY_0101 1666566 1672411 CS u. s. s. 的 orphanage 还是 afganistan 的 咯 then 就 给人 再 再 ah-gua 过 咯
+05NC10MAY_0101 1691600 1693222 EN arh 
+05NC10MAY_0101 1693222 1695226 EN arh
+05NC10MAY_0101 1701117 1703035 ZH 是 什么
+05NC10MAY_0101 1709488 1712259 ZH 【哦】 救得回 吗
+05NC10MAY_0101 1718316 1720888 ZH 可是 什么 方法 是 另外 一个 方法
+05NC10MAY_0101 1723932 1725954 EN arh
+05NC10MAY_0101 1744248 1747249 ZH 太迟了 啦 那个人 已经 自杀
+05NC10MAY_0101 1754149 1756540 ZH 【啊】 就是 他 生气了 啦
+05NC10MAY_0101 1764265 1766977 CS 所以 你 不讲话 是 你要 protest la
+05NC10MAY_0101 1766977 1769155 EN 
+05NC10MAY_0101 1771122 1771960 ZH 然后
+05NC10MAY_0101 1773927 1776360 ZH 是是是
+05NC10MAY_0101 1778665 1782392 EN  arh
+05NC10MAY_0101 1787880 1790369 ZH 他 儿子 就跟
+05NC10MAY_0101 1793405 1794754 ZH 微笑
+05NC10MAY_0101 1799469 1801371 ZH 这个
+05NC10MAY_0101 1808255 1828220 CS 那个 是 有一个 movie ye 这个 叫 kiterunner  不然 就讲 那个  tuesday with morrie 要不要  还 没有 看到 一半 but 那个 故事 蛮感人 啦 因为 它是 讲 嗯 他在 大学 里面 有 那一个 他 很喜欢的 那个 作者 mitch mitch albom
+05NC10MAY_0101 1828220 1834892 CS 他在 大学 里面 她是 读 psychology 的 then 他有一个 professor 是他很喜欢的 就叫 morrie
+05NC10MAY_0101 1839981 1843194 CS 那个 author 是 男孩子
+05NC10MAY_0101 1843194 1859629 CS 他 他 profess~  他 professor 他 professor 是 (嗯) 男孩子 是个 ahpek then 那个 morrie 是 一个 男孩~ 男孩子 来的 没有 他 没有 喜欢 那个 是 他 一个 很尊敬的 professor
+05NC10MAY_0101 1861424 1883143 CS 然后 然后 不是 然后 然后 他就  啊 有 有一天 他 毕业了 他就  他 就 回想 先 他 回想 他 毕业  他 graduate 了 then 他 就要 去 做工了  然后 (嗯) 他 就 很 很珍惜 他 professor 他 就 送他 professor 一个 礼物
+05NC10MAY_0101 1888128 1891976 ZH  然后 那个 礼物 是 哎呀 我也 不懂 是 什么 是 皮包 还是 什么 啦
+05NC10MAY_0101 1891976 1913310 CS 皮包  然后 (嗯) 然后 他就 end 了 他 就讲 他 就跳 跳过 after that 他就 讲他 在做工 现在 在 做工 他就 赚 很多钱 很多钱 很多钱  然后 有一天 啊 那个 mmorrie 就 发现 自己 有 病了 是 那个 啊 muscle
+05NC10MAY_0101 1915164 1918651 CS musle~ arh something like that la then 他就讲
+05NC10MAY_0101 1918651 1920495 CS 啊 那个 morrie 快死了
+05NC10MAY_0101 1921518 1930221 CS 因为 他 一直 萎缩 一直 萎缩 then 他 不能 走 可是 那个 morrie 很 很 brave 他就 勇敢 面对 面对 那个 世界
+05NC10MAY_0101 1930221 1939595 CS 他就 他就 开始 给 lecture 就讲 这个 是 他的 last lecture then 就 跟 啊 跟他 students 讲 他 快要 死了
+05NC10MAY_0101 1939595 1957426 CS then 他 上 因为 他 他 懂 他 有病了 then 他 去上 lecture 还是 professor 他 去给 lecture mah 他 去到 lecture 他 就跟 他 students 讲  啊 this if if you are you are you are you feel that (erm) 因为 他讲 他 快要 死了 所以 他怕 他 教不完 那个 lecture
+05NC10MAY_0101 1957426 1973316 CS 整个 whole module 他就讲 (呃) maybe this this this this this module will not may not have a exam because i might not be able to last till the end of the module
+05NC10MAY_0101 1973316 1986604 CS 然后 他就 他就 这样子 讲 啦 然后 就 可是 没有student 走 啦 就 全部人 在听 啊 然后 到 后面 后面 他就 病到 很严重了 他就 (呃) 走 也 不能 走了
+05NC10MAY_0101 1987653 2002794 CS 站 也 不能 站了 他 只能 坐在 那边 然后 等 人家 帮他  然后 就 因为 他 一下子 很 popular 了 因为 他 很勇敢 面对 死 可是 那个 他的 学生 那个 mitch 那时 还在 (呃) detriot 做工
+05NC10MAY_0101 2004507 2014031 CS 然后那个 morrie 是在 另外 一个 城市 另外 一个 city then 他们 那个 mor~ mi~ mitch 还 不是 还 不懂 那个 morrie 快死了
+05NC10MAY_0101 2014031 2021946 CS 然后 有一天 那个 mitch 就 因为 mitch 是一个 (呃) reporter 他就 采访 嘛
+05NC10MAY_0101 2021946 2032757 CS  然后 他就 是做 sports reporter  then 有一天 他就 啊 去 去 detriot 去 那个 不是 去 那个 morrie 的 hometown 去 morrie 住的 地方 
+05NC10MAY_0101 2032757 2051442 CS  去采访 then 他 走过 就 发觉 诶 morrie 的 这个 是 morrie 的 住的 地方 他 就想 去 看一下  然后 他 才懂 原来 morrie 快要 死了 然后 有 很多 那种 news report 也报 也就  ah 也就  ah talk about him la
+05NC10MAY_0101 2051442 2055016 ZH 然后 然后 他就 下去 看 他的 老师
+05NC10MAY_0101 2055016 2061389 CS 然后 就是 他的 老师 就 很亲切 这样子 对他  然后 他们 就讲 就 每一个 lesson lah
+05NC10MAY_0101 2061389 2079551 CS 然后 他 那个 那个 那个 书 你懂 那个书 就 每一个 chapter 就是 一个 lesson  first lesson 是 talk about  ah 他们 之前 就是 他们 之前的 ah 东西 啊 然后 next lesson 就 talk about the regrets 然后 就 一个 chapter 一个 chapter 就是 他 在讲 他的 life
+05NC10MAY_0101 2079551 2094819 CS 然后 他们 因为 那个 那个 那个 mitch 还是 要 做工 嘛  他就 约 那个 morrie 每个 礼拜二 因为 他们 以前 每个 礼拜二 每个 礼拜二 都会 有 meet up ah 都会 有 discussions la 这样子 的东西
+05NC10MAY_0101 2094819 2103227 CS 所以 他 就 约 那个 那个 mitch 每个 礼拜二 见 那个 morrie 所以 那本书 的名字 就叫做 tuesdays with morrie
+05NC10MAY_0101 2104017 2105223 ZH 啊 因为
+05NC10MAY_0101 2108829 2121884 CS 不会 啊 我 觉得 很 不是 dramatic 就是 在讲 一个 快要死 的人 很勇敢 的 面对  因为 他讲 没有 因为 有一些 人 你 看到 他 快死了 他 连 小便 都 不能 小便 还要 人家 帮他
+05NC10MAY_0101 2121884 2133634 CS 可是 有 很多人 都很 惭愧 他会 不敢 叫 人家 做 可是 那个 morrie 很勇敢 他 就讲 啊 那种 来 他的 客人 他会 跟他 讲 (嗯) do you mind help me 这样子
+05NC10MAY_0101 2133634 2137359 CS 啊 他就很 optimistic 很勇敢 的 面对 死亡 啊 which
+05NC10MAY_0101 2140040 2140661 ZH 为什么
+05NC10MAY_0101 2144336 2149485 ZH 周初 不懂 啊 我知道 我知道 我知道 周初明 他 也是 快死了
+05NC10MAY_0101 2152032 2152754 ZH 红了
+05NC10MAY_0101 2156134 2156804 EN arh
+05NC10MAY_0101 2164719 2167035 ZH  可是 那个 我 觉得 是
+05NC10MAY_0101 2175733 2178996 ZH 啊 他很老了 他 也是 应该 要 死了 
+05NC10MAY_0101 2185237 2199646 CS 我 有 看到 这个 报纸 我 有 看到 这个 报章 就 很像 这个 这种  没有 因为 他写 很好看 嘛 我 不是 买了 我 是跟 慧萍 借的 then 我 跟他 交换 那个 那个 for for one
+05NC10MAY_0101 2199646 2200900 CS 是 real life story
+05NC10MAY_0101 2203508 2209585 CS 那个 author 叫 mitch albom arh 他的 story then 那个 for one more day 也是 他的 story
+05NC10MAY_0101 2211665 2213664 CS 去拉 kite ah
+05NC10MAY_0101 2213664 2217408 ZH 呀咯 是 专人热泪
+05NC10MAY_0101 2219626 2220914 EN 
+05NC10MAY_0101 2227692 2228641 EN arh
+05NC10MAY_0101 2234765 2236176 ZH 抓
+05NC10MAY_0101 2239190 2245307 ZH 活埋  没有人 没有人 没有人
+05NC10MAY_0101 2256790 2259002 CS 拿 baseball 棒 丢 他们头
+05NC10MAY_0101 2265240 2273147 ZH 什么 你 你  你 看书 你 是 看书 还是 看戏 哦 做么 有 尖叫声
+05NC10MAY_0101 2284765 2285516 ZH 死了
+05NC10MAY_0101 2292409 2298029 CS 啊 我去 download 那个 the kiterunner 给你 啊
+05NC10MAY_0101 2308022 2313581 CS 所以 他 跟你 讲么 author 讲  shi liang 讲
+05NC10MAY_0101 2342544 2347592 CS 没有啊 malaysia 也是很 peace ah 很久之前就
+05NC10MAY_0101 2347592 2349430 ZH 没有战争嘛
+05NC10MAY_0101 2353254 2361715 CS 她 现在 是 越来越 越来越 乱 啦 对 啦 可是 还是 peace mah 还是 peace
+05NC10MAY_0101 2365125 2365954 ZH 有什么
+05NC10MAY_0101 2369769 2373354 ZH 现在 应该 会有 【啊】 很 正常 嘛
+05NC10MAY_0101 2380213 2394584 CS 没有 peace 的 意思 是 没有 战争 啊 还 没有 战争 还是 还 但是 还是 我 没有 觉得 很  现在 还是 我 讲 现在 还是 不是 战争 还是
+05NC10MAY_0101 2394584 2395726 ZH 就
+05NC10MAY_0101 2398532 2411623 CS ok la 那些 是 因为 (嗯) 那种 rules enforment rules enforcement 没有 很好 所以 才 这样  没有 那种 police 一直 ran-sua 没有 啊 没有 回去 啊 在 这边 做工 啊
+05NC10MAY_0101 2416936 2420277 EN  fuck  
+05NC10MAY_0101 2423327 2439145 CS p and g 是那个 brand brand 一个 brand builder 就是 它有 很多  products 有 body shampoo 有 (arh) 那个 (arh) 剃胡须的  然后有那种 (arh) detergent
+05NC10MAY_0101 2441281 2447428 CS 就做 supply chain loh brand manager loh arh more business
+05NC10MAY_0101 2449647 2451624 ZH 不是 不是 等一下 等一下
+05NC10MAY_0101 2451624 2472183 CS 那种 supply chain 都是 engineering 的 因为 它是 讲 怎么 把 那些 products from the (arh) 那个 factory 直接 送去 那个 shelves 就是 那个 supermarket 里面 就是 all the way la then 你要 怎样 怎样 怎样 弄 啦 帮 省 cost 还是 怎样 then 我 就是 apply 那个
+05NC10MAY_0101 2473604 2475549 CS 那个是 engineering 的
+05NC10MAY_0101 2479051 2483424 CS 有一个 engineering module 是 在讲 这个  有一个 engineering 在讲 这个
+05NC10MAY_0101 2486326 2494411 CS 没有 啦 就 apply la 因为 ah zhao 也是 有 apply apply Ａh zhao apply for brand manager 没有 啦 我没有 sad lah 我 就 跟你 讲 罢了 嘛
+05NC10MAY_0101 2494411 2497340 CS 然后 因为 雪婷 她们 全部 也是 有 apply then 就 apply lor
+05NC10MAY_0101 2497340 2501277 CS 然后 雪婷是 apply for customer service
+05NC10MAY_0101 2506889 2515556 CS 没有 chemical engineering 只有 两个 company 罢了 现在 shell 跟 exxon then 这两个 company 它是 已经 apply了 then 还有 其它 company like 我们 没有 全部 apply
+05NC10MAY_0101 2518039 2520468 CS 就 dua 了 咯 就去 别的 company
+05NC10MAY_0101 2520468 2522515 CS 比较 小的 oil and gas company la
+05NC10MAY_0101 2527016 2540154 CS 啊 没有 这样 好赚 啦 我们 没有 这样 喜欢 啦 也是 也是 要看 自己 喜好 啦 不是讲 you work in 就是 要 一个 自己 喜欢做 的东西 比较好
+05NC10MAY_0101 2546239 2554215 CS 不懂 哎 shell 还 没有 还 没有 还 没有 deadline 就 就 ongoing ah 那个 application process  就在等 咯
+05NC10MAY_0101 2554215 2558292 CS eh shit 然后 exxon
+05NC10MAY_0101 2560432 2576482 CS 没有 exxon 是 now january from oct~ arh from october to january 可是  没有听 so far 没有 听到 有人 有 有 notification la 可是  is just wait loh
+05NC10MAY_0101 2579372 2590170 CS 不要 啦 因为 他是 讲 因为 他讲 (啊) nothing can be done from your side 他 就 已经 inform 我们 讲 我们 不用 apply 什么 都 不用  如果 他们 要 请 我们 他们 会 直接 inform 我们的 
+05NC10MAY_0101 2590170 2595190 CS 所以 我 想 问 一下 那个 可能 senior 那些 拿 到 offer 的 是什么时候 拿 到 offer
+05NC10MAY_0101 2598440 2601721 CS 没有 他是 roughly the same same time la
+05NC10MAY_0101 2603729 2605448 CS 啊 是 啦 but 他 可能 讲
+05NC10MAY_0101 2611974 2616247 ZH 没有 因为 他们 不会 讲得 【嘛】 谁 会讲 【咯】
+05NC10MAY_0101 2618854 2621937 ZH 没有 【啦】 有 五十多 个人 好不好
+05NC10MAY_0101 2621937 2626477 CS 有 很多 哎 哎 我们的 school 有一半 的人 在 exxon leh
+05NC10MAY_0101 2630227 2638328 CS 没有 一 每个 sem 有一半 啦 就是 因为 一个 sem 有 一百 个人 嘛 两个 sem 我们 分开 五十个 人 去 exxon 
+05NC10MAY_0101 2643141 2645401 CS yu qing 是 kena rejected 的 啦 对
+05NC10MAY_0101 2648182 2656856 CS 不是 fifty percent 因为 他有 那种 一些 一些 job then 有一些 是 不要 不要 做 这些 then 有 很多人 就 focus on 一些 popular 的 好像 我 那个
+05NC10MAY_0101 2659130 2660396 CS 对 啦 我就去 shell 咯
+05NC10MAY_0101 2664295 2665499 ZH 不是很喜欢
+05NC10MAY_0101 2668503 2680199 CS  拿到 比较 好 啦 比较 安心 啊 没有 job 如果 没有 job 的话 就 就去 就拿 那个  如果 两千块 你 你 觉得 怎样  两千 块 一个月
+05NC10MAY_0101 2682012 2686923 CS 我 有一个 是 两千块 做 半年 两千块 ixus
+05NC10MAY_0101 2686923 2693066 CS 那个 一定 会 拿到 如果 apply 的话 做 researcher
+05NC10MAY_0101 2695645 2710496 CS 不是 没有 send 的 这个 是我 senior 介绍 给我的 他 讲 做 半年 先 然后 after that 他会 升你的 做 半年 两千块 啦 aft~ ah after 六个月 如果 你 还要 stay 的话 他 就会 升 咯 如果 两千多 咯
+05NC10MAY_0101 2721206 2724583 CS 啊 所以我在想 either 去
+05NC10MAY_0101 2732008 2733745 ZH 是 啊 我的 也是
+05NC10MAY_0101 2736693 2744920 CS 啊 没有 啦 看你 要做 什么 啦 如果 你 不理  没有 因为 你 你 不理 什么 company 的话 你 都可以 找
+05NC10MAY_0101 2744920 2761891 CS 就是 好像 有些人 他 死 都 不要 做 oil and gas 他 只要 做 pharmaceutical 然后 pharmaceutical 现在 又 没有 请人 因为 那个 (嗯) economic downturn then 他们 又 没有 做 production but Ｇ. Ｓ. k. 有 啦  然后 他们 是 通过 ixus 所以 那个 我
+05NC10MAY_0101 2761891 2767793 CS 讲 那个 两千块 那个 programme 是 你 半年 之后 那个人 会 recommend 你 去 那种 pharmaceutical company
+05NC10MAY_0101 2767793 2771980 CS 啊 还好 啦 如果 没有 没有 offer  我 就放 那个 咯
+05NC10MAY_0101 2771980 2773690 CS 那个 可以 拿来 做 back up ah

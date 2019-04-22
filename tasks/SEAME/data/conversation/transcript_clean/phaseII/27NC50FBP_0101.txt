@@ -1,0 +1,368 @@
+27NC50FBP_0101 12463 13764 EN hello hello
+27NC50FBP_0101 17324 18546 EN yeah
+27NC50FBP_0101 19263 20937 EN 
+27NC50FBP_0101 27483 28466 EN en
+27NC50FBP_0101 29476 30937 EN en okay
+27NC50FBP_0101 36675 39863 CS 嗯 我 以前 是 study in pasir-ris sec
+27NC50FBP_0101 43122 43839 EN okay
+27NC50FBP_0101 45566 46621 EN en
+27NC50FBP_0101 46621 49451 CS 以前 你 参加 what c. c. a.
+27NC50FBP_0101 56465 57262 EN en
+27NC50FBP_0101 59414 60397 EN 
+27NC50FBP_0101 63771 64700 ZH 对
+27NC50FBP_0101 69668 70241 EN (er)
+27NC50FBP_0101 70241 72021 EN tampines junior college
+27NC50FBP_0101 75401 77631 CS 我 当然 住 在 tampines 啦
+27NC50FBP_0101 85141 87321 ZH 真的 吗 那 你 住 在 哪里
+27NC50FBP_0101 110541 112161 ZH 不 方便 的 地方
+27NC50FBP_0101 135831 141551 CS 只是 我 觉得 你 那边 没有 东西 可以 走 要 买 东西 也 很 不 方便 还是 tampines 比较 好
+27NC50FBP_0101 163748 166962 CS 哇 很多 market 你很~ 你 喜欢 逛 market 是吗
+27NC50FBP_0101 171891 174681 CS 只是 有 这样 多 market 你 都 不 去 走 没有 用 吗
+27NC50FBP_0101 174731 177161 CS 你 看 tampines 有 三个 shopping mall
+27NC50FBP_0101 179311 182471 CS 有 tampines mall 有 tampines one 还有 century square
+27NC50FBP_0101 182581 188421 CS 还有 个 library 有 popular 有什么 cinema 还有 两 间 什么 都有 咯 it's like you got everything there
+27NC50FBP_0101 191911 196761 CS but 有 多 一点 choices you know like some movie in this movie theatre they don't have what
+27NC50FBP_0101 196761 200721 CS 然后 那个 时间 也不 配合 so you can try the other one
+27NC50FBP_0101 202821 204351 ZH 当然 有 啦
+27NC50FBP_0101 206771 210601 CS then 去 library of course it's like study and 借书 对 吗
+27NC50FBP_0101 215781 218241 CS 你 在 library 看 得到 beautiful girls meh
+27NC50FBP_0101 231931 234651 EN oh so you like the one othello one right
+27NC50FBP_0101 238441 241391 ZH 我也 知道 她的 名字 我 上次 还 看到 她 诶
+27NC50FBP_0101 241391 243781 ZH 哈
+27NC50FBP_0101 243781 245251 CS melissa 跟 我 讲 的 咯
+27NC50FBP_0101 249143 251701 CS enen because that time 我们 在
+27NC50FBP_0101 251701 255531 CS fourteen 吃饭 刚好 看到 她 朋友 吗 the very pretty one
+27NC50FBP_0101 259226 264486 CS en yes 而且 她 还 跟 很多 男的 在 一起 上次 so don't be sad man
+27NC50FBP_0101 278615 279861 ZH 真的 吗
+27NC50FBP_0101 280051 282001 ZH 你 真的 对 自己 那么 有 信心 吗
+27NC50FBP_0101 302179 304511 CS 哇 你 现在 在 cang-xiang
+27NC50FBP_0101 304511 307601 EN my god you really think that she
+27NC50FBP_0101 307601 311336 EN (er) she has a boyfriend already then oh my gosh
+27NC50FBP_0101 319770 320779 EN so
+27NC50FBP_0101 321603 322161 EN 
+27NC50FBP_0101 324552 325791 EN en
+27NC50FBP_0101 325791 328540 EN okay so you are trying to be a like right one for her ah
+27NC50FBP_0101 328540 331111 CS then you 应该 try paw melissa right she is
+27NC50FBP_0101 331111 332221 EN melissa friend
+27NC50FBP_0101 344798 347151 CS okay 有 有 有
+27NC50FBP_0101 347151 351341 CS then 你 paw 了 几次 你是 不是 paw 了 三次 还是 四次 还是 五次 了
+27NC50FBP_0101 355344 357571 EN okay then how
+27NC50FBP_0101 357571 361371 CS so 你是 故意 去 m. s. n. conversation 跟她 讲话 的 啦
+27NC50FBP_0101 395694 397644 CS 因为 你 真的 长 得 很 像 indian
+27NC50FBP_0101 397644 404408 CS  真的 真的 不是 我 要 讲 是 真的 长 得 很像  oh yeah
+27NC50FBP_0101 415436 419664 ZH 你 你 不对 自己 很 有 信心 的 哦 干嘛 在意 她 讲 你 不 帅
+27NC50FBP_0101 424833 426401 EN oh so her
+27NC50FBP_0101 426401 427888 EN okay
+27NC50FBP_0101 431554 433334 ZH 嗯 只是
+27NC50FBP_0101 435284 437154 EN oh so you are feeling sad about it
+27NC50FBP_0101 440560 443137 EN  okay
+27NC50FBP_0101 444499 446014 EN then (er)
+27NC50FBP_0101 447847 448904 EN okay
+27NC50FBP_0101 448904 451624 CS this semester 你 take 了 什么 elective
+27NC50FBP_0101 505752 509622 ZH 没有 啊 只是 觉得 很 有 幽默 而已 对 你 可以 继续 讲 的 我 不 介意 的
+27NC50FBP_0101 520332 523032 EN then why not you show off some of french language here
+27NC50FBP_0101 534332 535762 ZH (呃) 懂 了 懂 了
+27NC50FBP_0101 545936 546772 EN yes
+27NC50FBP_0101 546772 548778 EN you can continue talk in this
+27NC50FBP_0101 548912 553241 EN very very slow motion ah and we can finish it very very fast
+27NC50FBP_0101 554118 555579 EN (er)
+27NC50FBP_0101 577676 583460 ZH 因为 刚才 那个人 不会 算 你 知道 吗 他 不会 看 不懂 数目
+27NC50FBP_0101 591699 594809 CS 我 这个 semester 没有 拿 到 any elective
+27NC50FBP_0101 594989 600749 CS 因为 actually i got overload one but one of the module got cancelled so 一个 elective 都 没有 现在
+27NC50FBP_0101 607148 608476 ZH 还 好
+27NC50FBP_0101 613069 615209 ZH 我 每天 差不多 诶
+27NC50FBP_0101 615339 618219 EN got two days is five thirty
+27NC50FBP_0101 618299 623550 CS then got 有 一天 十三点 半 诶 两 天 三点 半 两 天 五点 半
+27NC50FBP_0101 625289 625847 ZH 嗯
+27NC50FBP_0101 628823 629646 EN yeah
+27NC50FBP_0101 632670 635510 EN (er) because the lesson start late like eleven thirty
+27NC50FBP_0101 642796 647050 CS 不知道 诶 全部 都是 我的 core module 吗
+27NC50FBP_0101 651790 655670 CS 我 现在 在 h. s. s. chinese year one
+27NC50FBP_0101 660510 663420 CS 在 chinese course 的 人 一定要 chinese 比 你好 吗
+27NC50FBP_0101 663420 668681 CS 至 少 我 的 腔 调 没 你  那样 奇怪 我 没有 那个 ah-ney 腔调
+27NC50FBP_0101 668681 670571 CS (or) 没有 那个 indian accent
+27NC50FBP_0101 677421 678631 ZH 印度 人 对
+27NC50FBP_0101 680901 681831 ZH 印度 人
+27NC50FBP_0101 692011 695721 ZH 印度 人 当然 了解 自己叫 自己是 印度 人 不然 他是 什么 人 啊
+27NC50FBP_0101 704321 711257 EN yeah i think if that sentence got coding (ow) for the next conversation i think i will laugh like crazy
+27NC50FBP_0101 721458 729056 CS yeah yeah you are <unk> them 你 在 你 在 害 他们 是 吗 所以 他们 可以 用 很多 时间 在这里
+27NC50FBP_0101 747705 753958 CS so actually you are trying to entertain them and 帮助 他们 to enjoy this session
+27NC50FBP_0101 775263 777642 EN (er) yes of course
+27NC50FBP_0101 786748 789205 CS 那 就是 friday 就 今天 咯
+27NC50FBP_0101 795940 799099 ZH 对了 不然 我 很 早就 回去 了
+27NC50FBP_0101 804557 805805 ZH 那个 只是
+27NC50FBP_0101 809068 811044 CS actually 你 也有 玩 的 不是 么
+27NC50FBP_0101 811044 814530 ZH 嗯
+27NC50FBP_0101 814530 816402 ZH 哦 为什么 你 不 喜欢 玩
+27NC50FBP_0101 840769 847048 EN who say one actually mahjong can also chit chat at the same time when you play and you wait and everything right
+27NC50FBP_0101 858091 863460 EN i think i know why you don't want to play because you always lose that's why you don't want to play
+27NC50FBP_0101 872823 876489 CS 哦 but 好像 inaga 的 人 每 个 人 都 有玩 呐
+27NC50FBP_0101 886871 893427 EN oh  okay yeah i got nothing now to say
+27NC50FBP_0101 894428 897702 EN what i can get my priorities right very clearly so
+27NC50FBP_0101 897873 899901 EN on the thirty first i sure be there at eight
+27NC50FBP_0101 905190 913791 EN no i got things before but i will always be there on time  yes
+27NC50FBP_0101 921329 924595 CS okay  我们 讲 一点 别的 东西 啦
+27NC50FBP_0101 932158 935005 CS 哦 可以 可以 你 可以 继续 讲 我 真的 don't mind 的
+27NC50FBP_0101 939332 942673 ZH 嗯 我 觉得 她的 样子 看起来 很 清秀 很
+27NC50FBP_0101 942816 948372 CS 很 那种 elegant 的 beautiful oh en
+27NC50FBP_0101 952109 961064 CS i thought usually 男孩子 把 女孩子 分成 beautiful pretty then 有 like elegant like cute then all those kinds of
+27NC50FBP_0101 965294 974787 CS oh yeah en ah 对 很 很 火辣 很 热
+27NC50FBP_0101 975580 978518 CS 看 你 要 讲 哪 一种 hot 法 啦
+27NC50FBP_0101 983992 986085 ZH 哦 就 很 热 咯
+27NC50FBP_0101 989947 991949 ZH (呃) 嗯 不然 就 火辣 哦
+27NC50FBP_0101 997497 999447 ZH (呃) 没有 是 火辣 对
+27NC50FBP_0101 1001046 1003607 ZH 你 今天 看起来 很
+27NC50FBP_0101 1004123 1008781 CS 嗯 你 不然 你 就 不要 用 hot 那个 字 因为 看 (呃) 很 sounds wrong and
+27NC50FBP_0101 1008918 1014742 EN in one sense lah then how do you find (er) melissa friend jacqueline
+27NC50FBP_0101 1016995 1018111 ZH 当然
+27NC50FBP_0101 1021857 1023212 ZH 哦
+27NC50FBP_0101 1035185 1038500 CS 啊 对 我 每次 听 melissa 讲 都是 叫 她 jack 的
+27NC50FBP_0101 1048817 1051952 CS 哦 所以 你 是 喜欢 后面 名字 有 ling 的 人 呐
+27NC50FBP_0101 1054998 1057546 CS okay then 你 觉得 jacqueline 是 怎么样 的 美 法
+27NC50FBP_0101 1075218 1076705 EN enen
+27NC50FBP_0101 1089538 1092062 ZH 淑女 哦
+27NC50FBP_0101 1093637 1096432 EN those you'll will love at first sight one ah
+27NC50FBP_0101 1114494 1119507 CS 懂 当然 是 melissa 跟 我 讲 的 啦
+27NC50FBP_0101 1124213 1125916 ZH 哎呀 你 真的 是 哦
+27NC50FBP_0101 1140507 1141357 EN en
+27NC50FBP_0101 1161882 1163793 EN then you are saying you don't have the
+27NC50FBP_0101 1163793 1168434 EN you are not the general population of the guys is it since you say
+27NC50FBP_0101 1186287 1187217 EN en
+27NC50FBP_0101 1209765 1210456 EN en
+27NC50FBP_0101 1217655 1218877 EN en okay
+27NC50FBP_0101 1220652 1222121 ZH 好莱坞
+27NC50FBP_0101 1224482 1228830 CS yeah 没有 真的 是 这样 讲 的
+27NC50FBP_0101 1230911 1232718 ZH (呃) 对不起 那个 哦
+27NC50FBP_0101 1234135 1238633 ZH 我 看 那个 是 你 诶 其实 你的 国家 东西 你 应该 比较 清楚 对 吗
+27NC50FBP_0101 1240167 1241922 ZH 好莱坞 啊
+27NC50FBP_0101 1243937 1246615 ZH 我 看 那个 是 给 你 自己的 名称 吧
+27NC50FBP_0101 1247785 1249878 CS then 你是 不是 从 那里 来 的 呢
+27NC50FBP_0101 1256476 1260051 CS but 连 jacqueline 都 讲 你 像 indian 了 so actually it is
+27NC50FBP_0101 1260831 1265446 EN a general eh no it's not a general it's a very specific you know comment
+27NC50FBP_0101 1269539 1271320 EN so do you like to be indian
+27NC50FBP_0101 1315144 1316207 EN en
+27NC50FBP_0101 1330134 1333748 ZH 哦 所以 是 她的 眼睛 会 说话 所以 你 觉得 她 很 美
+27NC50FBP_0101 1338660 1340155 EN oh just your type ah
+27NC50FBP_0101 1350377 1357293 CS then 你 也没有 去 school of biological science 那边 故意 碰 碰运气 see that you can see her that day a not
+27NC50FBP_0101 1388324 1394070 EN but are you sure s. b. s. is on top of hill i have you ever gone to s. b. s. before
+27NC50FBP_0101 1399122 1401839 EN no that's students affairs centre
+27NC50FBP_0101 1402047 1407156 EN or somewhere there s. b. s. is like between nanyang it's just beside nanyang audi there only
+27NC50FBP_0101 1407338 1408950 EN are you sure you know
+27NC50FBP_0101 1408950 1411683 EN yeah
+27NC50FBP_0101 1411683 1415063 CS yah it's just 它 只是 在 它 隔壁 附近 而已
+27NC50FBP_0101 1417975 1421667 CS 而且 s. b. s. 那边 还有 一个 food court
+27NC50FBP_0101 1422681 1427188 EN yeah the quarts you know cafe by the quarts so
+27NC50FBP_0101 1431970 1433006 EN en
+27NC50FBP_0101 1442552 1448781 ZH 哦 那 你 就 去 碰～ 碰运气 看 你 约 得 她 约 得到 她 出来 吗 吧
+27NC50FBP_0101 1461721 1463463 ZH (呃) 被 拒绝 了
+27NC50FBP_0101 1482256 1485842 ZH 嗯 对
+27NC50FBP_0101 1490490 1494611 ZH 我 觉得 应该 是 不 她 觉得 跟 你 不是 很 认识 所以
+27NC50FBP_0101 1494962 1499681 EN she don't really want to she don't really feel right going out with you is it correct
+27NC50FBP_0101 1505397 1513678 ZH 对 就 觉得 不 舒服 就 不~ 不 觉得 跟 你 在 一起 很 没有 那种 亲切感 吧 就 觉得
+27NC50FBP_0101 1517421 1521230 EN oh okay yeah i would i shall speak more in english then
+27NC50FBP_0101 1525286 1533944 CS okay i'm not 我 没有 像 你 那 that more professional to can really code switch every sentences 我 觉得
+27NC50FBP_0101 1538105 1548401 CS okay i will 我 会 尽量 make the effort to code switch every sentences 我 讲 的 所以 i can finish this in
+27NC50FBP_0101 1549070 1552021 CS in the time 那个 时间
+27NC50FBP_0101 1552853 1556636 CS given 所以 how do you feel when 你 被 她 拒绝 了
+27NC50FBP_0101 1556747 1559503 EN do you feel very sad or very
+27NC50FBP_0101 1581217 1583050 ZH 嗯 对 看戏
+27NC50FBP_0101 1586107 1589879 EN en en
+27NC50FBP_0101 1594980 1595910 EN en
+27NC50FBP_0101 1616899 1618281 EN en
+27NC50FBP_0101 1622710 1624949 CS 你 看起来 有 very great (erm)
+27NC50FBP_0101 1625154 1629769 CS expectations and very great thinking on 这 件 事情
+27NC50FBP_0101 1629929 1632256 EN but then you will try again right
+27NC50FBP_0101 1632464 1636221 CS 你 会 try again to 跟 她 一再 约 她 出去 对 吗
+27NC50FBP_0101 1642282 1650583 CS en then what where's eh 下 一次 you will bring her to where will you invite her to 去 哪 一个 地方 呢
+27NC50FBP_0101 1678040 1683227 CS face to face in 华语 应该 是 叫 面对面 吧
+27NC50FBP_0101 1685358 1689505 CS  脸 对 脸 脸 就是 fa~
+27NC50FBP_0101 1691003 1694318 CS 只是 脸 是 比较 用 在 like (er) 器官
+27NC50FBP_0101 1701159 1703577 CS 对 it's the 个 correct one
+27NC50FBP_0101 1707125 1709764 EN oh yeah bread to bread talk
+27NC50FBP_0101 1709946 1713157 CS 你 可以 下次 可以 you know buy bread for her breakfast
+27NC50FBP_0101 1736187 1736798 EN en
+27NC50FBP_0101 1743147 1744369 ZH 哦
+27NC50FBP_0101 1750027 1750824 ZH 嗯
+27NC50FBP_0101 1753428 1754517 ZH 哇
+27NC50FBP_0101 1762565 1763670 ZH 面对面
+27NC50FBP_0101 1771843 1772428 ZH 我
+27NC50FBP_0101 1776958 1779935 ZH 我 发现 你 很 不 喜欢 运动 对 吧
+27NC50FBP_0101 1782496 1789525 CS 哎 真 是 的 actually 你 不一定 要 去 hall fourteen 给 她的 你 可以 去 you know s. b. s. 或者 是 pass 给 melissa
+27NC50FBP_0101 1808442 1814370 CS 哦 所以 你 认为 你 应该 跟 她 多 讲话 like talk more to her to understand her better
+27NC50FBP_0101 1879109 1884387 CS 有 这种 事 吗 我 不 什么 怎么 不觉 得 嘞 是 你 听 那一 个 专 as in
+27NC50FBP_0101 1890857 1893535 CS it's means add altogether to 七个 小时
+27NC50FBP_0101 1897808 1898897 ZH 嗯
+27NC50FBP_0101 1908726 1909629 EN en en
+27NC50FBP_0101 1918832 1919789 EN yeah
+27NC50FBP_0101 1922959 1926794 CS yah actually it's true lah you won't choose someone like 你 只见 过 他
+27NC50FBP_0101 1927041 1935062 CS only for 三个 小时 i think it's a very 短 的 时间 and 你 不 认识 他 所以 会 觉得 很 尴尬
+27NC50FBP_0101 1963992 1969725 CS 所以 你 you are saying that 你 已经 跟 jacqueline 有没有 相处 七个 小时 呢
+27NC50FBP_0101 1973714 1979538 CS so when you reach seven hours with her will you ask her 你 会 问 她 那个 问题 吗
+27NC50FBP_0101 1981604 1984906 ZH 啊 啊 就 就 你 会 问 她 要不要 跟 你 交往 吗
+27NC50FBP_0101 1987280 1988661 ZH 啊 对 对 对
+27NC50FBP_0101 2002563 2003811 EN enen
+27NC50FBP_0101 2009310 2016980 CS 哦 所 以 你 你 你 要 trying to say that you are making her to 问 你 instead of 你 要 去 问 她 这样 不是 很 奇怪 吗 it's like
+27NC50FBP_0101 2037763 2039543 EN okay
+27NC50FBP_0101 2049073 2051198 EN ah yeah actually is
+27NC50FBP_0101 2064360 2066485 ZH 所 以 你 要 她
+27NC50FBP_0101 2068637 2069593 ZH 嗯
+27NC50FBP_0101 2086722 2087626 EN en
+27NC50FBP_0101 2110739 2112200 EN en
+27NC50FBP_0101 2119082 2120171 EN en
+27NC50FBP_0101 2121712 2123279 EN oh
+27NC50FBP_0101 2147591 2148627 EN en
+27NC50FBP_0101 2181226 2182687 EN en
+27NC50FBP_0101 2195319 2199277 CS  okay 所以 我 学 了 一 个 很 大 的 道理 对
+27NC50FBP_0101 2207657 2211206 EN wait i never say i love mahjong i only say i just play it
+27NC50FBP_0101 2211206 2212415 ZH 我 只是 在 打 来
+27NC50FBP_0101 2212415 2213637 EN yeah
+27NC50FBP_0101 2213637 2216406 CS okay 对 just a relaxing way yah
+27NC50FBP_0101 2217210 2221780 ZH 嗯 对 对 对 嗯
+27NC50FBP_0101 2232895 2234171 EN en
+27NC50FBP_0101 2250432 2251547 EN en
+27NC50FBP_0101 2258322 2262572 CS okay 只 是  actually 为什么 外面 他们 一直 在 笑 啊
+27NC50FBP_0101 2264574 2268214 CS  我 不 知道 诶 my god
+27NC50FBP_0101 2279180 2288881 CS (er) 我 什么 都 没有 给 我 只是 觉得 since you are very proficient in talking why just don't continue talking eh you can talk about jacqueline i don't mind you know you can just continue talking and talking about
+27NC50FBP_0101 2288972 2290363 ZH 你 可以 一直 在 讲 她的
+27NC50FBP_0101 2290420 2297024 CS 我 让 你 讲 让 你 you know 发泄 让 你 有 一 有 got got a way to to tell her something
+27NC50FBP_0101 2298640 2304763 EN just you can just continue talking about her see and then ow i can help pass the message to melissa then she can you know
+27NC50FBP_0101 2307312 2312096 EN or or then then you can just pass her directly or you treat me as melissa then you can continue talking ow
+27NC50FBP_0101 2314254 2315554 ZH 我 不知道 诶
+27NC50FBP_0101 2319128 2327045 CS 怎么 你 you you scared i pass something wrong to melissa then she pass 错误 的 东西 给 jacqueline then 你的 形象 就 被 破坏 啊
+27NC50FBP_0101 2341482 2342970 ZH 我 不 知道
+27NC50FBP_0101 2346662 2348256 ZH 对 对
+27NC50FBP_0101 2363128 2366122 CS 哦 你 你 可以 创~ you can you know create new words on your own
+27NC50FBP_0101 2367201 2370139 CS yah you next time so you will call it oh my 神 啊
+27NC50FBP_0101 2370334 2371829 CS instead of oh my 天
+27NC50FBP_0101 2377077 2380822 EN  yeah it's oh my god you really exclamation it
+27NC50FBP_0101 2389245 2391273 CS so are you commenting that 那些
+27NC50FBP_0101 2392079 2394861 EN in chinese people have chinese accent
+27NC50FBP_0101 2444965 2451504 CS 哦 所以 你是 要 you are trying to chase them away instead of 要 帮助 他们 因为 你 也不 知道 他们 在 问 什么
+27NC50FBP_0101 2451621 2455638 EN yeah yeah you don't know anything right how to direct them actually
+27NC50FBP_0101 2461720 2465958 EN but i thought simple chinese you can understand right
+27NC50FBP_0101 2497392 2501695 CS 所以 他们 认为 你是 一个 印度 人 or 是一个 外族
+27NC50FBP_0101 2501773 2505686 EN like not not a non a non chinese instead right
+27NC50FBP_0101 2505958 2508894 EN see you don't look like a chinese oh
+27NC50FBP_0101 2539123 2546962 CS okay now i 我 明白 了 next time i know your race is handsome not indian not chinese but 帅哥 对 吗
+27NC50FBP_0101 2550341 2554867 CS 嗯 好 so 下次 你 when when 你 got you are you need to 填 application form
+27NC50FBP_0101 2554867 2559547 CS 你的 race you must remember to 填 handsome instead of chinese or indian or anything
+27NC50FBP_0101 2567418 2572878 CS 为什么 嘞 i thought 你 讲 有 handsome 这个 race 的 吗 actually 我 都 没有 听 过 除 until you tell me eh
+27NC50FBP_0101 2584802 2588754 CS yeah whereby 那个 race handsome 是 第一个 看过 的
+27NC50FBP_0101 2589781 2591120 CS by the race 了 哈
+27NC50FBP_0101 2601384 2603934 ZH 我 觉得 他 们 在 听 我 们 讲 话 
+27NC50FBP_0101 2625915 2631682 CS en yeah or maybe you can bring her here and ask her to 帮 你 canvassing you know
+27NC50FBP_0101 2631721 2634282 EN you should just pair up with her and do this session again
+27NC50FBP_0101 2649144 2653660 EN never mind my god 
+27NC50FBP_0101 2656822 2660737 CS 嗯 你 就 可以 you know get mandarin lesson from her
+27NC50FBP_0101 2666246 2668378 EN yeah you should get her timetable you know
+27NC50FBP_0101 2668521 2671108 EN yeah you should get her timetable from melissa and you know
+27NC50FBP_0101 2671134 2677634 CS just and 安排 一个 时间 for her to do this with you and you can canvass more money for us
+27NC50FBP_0101 2683170 2685562 ZH 嗯 时间表
+27NC50FBP_0101 2686173 2687103 ZH 表
+27NC50FBP_0101 2687103 2689653 ZH 嗯
+27NC50FBP_0101 2701277 2710208 CS 哦 对 下次 你 去 跟 人家 讲 你 要 时间 桌子 你 看 what they will give you ah if they really give you a 时间 and a 桌子 i would 真的 跟你讲 你 很 厉害
+27NC50FBP_0101 2711583 2712672 ZH 嗯
+27NC50FBP_0101 2719871 2721989 EN (er) yes
+27NC50FBP_0101 2721989 2724225 EN what's wrong with being a chinese major
+27NC50FBP_0101 2726081 2728578 CS i i know 时间表 right
+27NC50FBP_0101 2731713 2735007 EN never mind do you only jacqueline is a good person 
+27NC50FBP_0101 2736843 2740002 EN yeah can continue talking you know can just finish the rest of the session
+27NC50FBP_0101 2747222 2751268 CS en yes 懒惰 is lazy
+27NC50FBP_0101 2785272 2789094 EN can can can i ask you a question is your girlfriend indian
+27NC50FBP_0101 2803061 2804894 ZH (呃) 前 女朋友
+27NC50FBP_0101 2821817 2826510 CS okay but you you because she's not a indian then you don't like her is it 应该 是 这样的 吧
+27NC50FBP_0101 2838973 2840699 EN ahahokay
+27NC50FBP_0101 2842506 2843701 ZH 哦 好 啊
+27NC50FBP_0101 2844897 2846836 EN 
+27NC50FBP_0101 2862811 2865991 CS yeah yeah 是 yeah it's called it but don't have
+27NC50FBP_0101 2867248 2868178 EN yeah
+27NC50FBP_0101 2868178 2877885 EN yeah yeah yeah can we like you know
+27NC50FBP_0101 2877885 2881253 EN ah yeah actually i very lazy to talk now 
+27NC50FBP_0101 2888160 2889222 EN en
+27NC50FBP_0101 2891055 2892277 EN en okay
+27NC50FBP_0101 2909467 2910449 EN (er)ah
+27NC50FBP_0101 2911778 2912707 EN eheh
+27NC50FBP_0101 2912707 2913903 EN okay
+27NC50FBP_0101 2913903 2922882 EN no of ~  of course not  they are listening
+27NC50FBP_0101 2927690 2929125 EN en
+27NC50FBP_0101 2933507 2936426 CS (er) yeah it's it's call 条件 but
+27NC50FBP_0101 2936452 2939481 CS i'm not sure what 条件 i want also because it's like
+27NC50FBP_0101 2943850 2945371 EN okay i just think that
+27NC50FBP_0101 2945683 2948127 EN you know when you meet the right one you will know it lah
+27NC50FBP_0101 2967493 2972849 CS en i i i find that you really know how to you know 跟 人 pick into people's sentences you know
+27NC50FBP_0101 2972849 2979638 EN  my god this one
+27NC50FBP_0101 2982959 2983756 EN yeah
+27NC50FBP_0101 3002398 3006689 EN (er) (er) oh yeah i i'm not looking for indian guys
+27NC50FBP_0101 3014958 3016765 EN of course not you
+27NC50FBP_0101 3020006 3021493 EN i i (er)
+27NC50FBP_0101 3023273 3024177 EN en
+27NC50FBP_0101 3031846 3037145 ZH 嗯 对 我 我 发现 到 我 要 一个 条件 就是 那个 人 要 比 你 帅
+27NC50FBP_0101 3037483 3038536 EN that's a good one
+27NC50FBP_0101 3042228 3043788 CS oh 真的 吗 oh that's good
+27NC50FBP_0101 3048387 3051351 CS i i never say 比 我 帅 i say 比 你 帅 yes
+27NC50FBP_0101 3051598 3053327 EN yes that's very easy also
+27NC50FBP_0101 3055329 3057383 EN no i think that's very easy
+27NC50FBP_0101 3058336 3061869 EN 
+27NC50FBP_0101 3067102 3068484 EN oh really
+27NC50FBP_0101 3092389 3093940 EN en
+27NC50FBP_0101 3093940 3097892 CS what this is a very ha~ 很 困难 的 问题
+27NC50FBP_0101 3099634 3105648 CS 因为 you never experience before so you don't know what what you really wanted 你 不知道 你 会 想 要 什么
+27NC50FBP_0101 3107339 3113582 EN ah yeah ah yeah ah yes
+27NC50FBP_0101 3115821 3118265 EN so okay yeah we finishing soon just
+27NC50FBP_0101 3118564 3120813 EN you can continue talking for the rest of eight minutes
+27NC50FBP_0101 3124015 3126365 EN  yeah i'm not helpful
+27NC50FBP_0101 3126495 3130681 CS that's why i i giving you a chance to express yourself 让 你 practice
+27NC50FBP_0101 3136947 3138897 EN oh yeah actually i don't mind you know
+27NC50FBP_0101 3140536 3143656 EN yeah you can continue talking just to finish this lah
+27NC50FBP_0101 3143656 3150190 EN 
+27NC50FBP_0101 3150190 3152517 EN ah never say anything yeah continue
+27NC50FBP_0101 3163998 3165114 EN en
+27NC50FBP_0101 3177015 3177972 EN en
+27NC50FBP_0101 3178928 3181505 ZH 嗯 我 真的 不 知道 诶
+27NC50FBP_0101 3189042 3192422 CS 哦 我 觉得 我 什么 都 不会 讲 just 当作 没有 听到
+27NC50FBP_0101 3194177 3199533 CS it's like 很 尴尬 and so embarrassing right in in such a situation should just keep quiet
+27NC50FBP_0101 3213395 3216190 EN but i think in the first place i won't ask the question also
+27NC50FBP_0101 3218504 3224003 CS yeah i think in the first place 我 知道 自己 也不 会 问 那个 问题 因为 我 觉得 那个 问题 很 奇怪
+27NC50FBP_0101 3249155 3253864 CS (er) but 我 觉得 不会 有人 问 我 这个 问题 so okay
+27NC50FBP_0101 3253981 3257322 ZH (呃) 那 那个 如果 很难 讲 诶 我也 真的 不懂 啊
+27NC50FBP_0101 3257439 3260988 CS okay then 如果 jacqueline 问 你 嘞 你 会 怎么样 回答
+27NC50FBP_0101 3266399 3267621 EN oh
+27NC50FBP_0101 3269540 3271789 ZH 嗯 就 讲 喜欢 咯 就 讲 喜欢 咯
+27NC50FBP_0101 3274846 3275522 ZH 可能 吗
+27NC50FBP_0101 3275730 3277979 CS 好 咯 then 如果 jacqueline 问 你 嘞
+27NC50FBP_0101 3278083 3280189 CS 你 会 你 会 怎么 express 你 自己
+27NC50FBP_0101 3282898 3284040 ZH 啊 对
+27NC50FBP_0101 3291003 3295267 CS ah yeah 如果 if yet jacqueline 问 你 do you like her a not
+27NC50FBP_0101 3295412 3296985 EN so what will you reply her
+27NC50FBP_0101 3300664 3303147 CS oh then 你 then 你 过后 你 会 讲 什么
+27NC50FBP_0101 3326357 3328554 EN okay i think yeah
+27NC50FBP_0101 3328554 3334131 EN okay so since i 
+27NC50FBP_0101 3334131 3336003 EN can can we don't code switch
+27NC50FBP_0101 3336003 3345082 EN (er)
+27NC50FBP_0101 3345082 3348371 EN oh since you say you are handsome young man already so i think you can
+27NC50FBP_0101 3348371 3356223 CS oh ne~ never mind yeah let~ 我们 jus 继续
+27NC50FBP_0101 3356223 3357458 EN finish this thing
+27NC50FBP_0101 3357786 3359138 EN and it's finishing soon
+27NC50FBP_0101 3359138 3366092 EN  they won't code switch out this the entire conversation is so
+27NC50FBP_0101 3366092 3367676 EN comical and so
+27NC50FBP_0101 3367676 3372917 EN 
+27NC50FBP_0101 3372917 3376700 CS eh wait wait wait no i never 认为 this okay
+27NC50FBP_0101 3388463 3390570 ZH (呃) 我 从 来 都 没 有 觉 ~
+27NC50FBP_0101 3390570 3392611 CS 这个 sentence i 我 觉得
+27NC50FBP_0101 3392611 3399474 EN yeah
+27NC50FBP_0101 3399474 3401567 ZH 不用 紧 啊 你 自己 开心 就 好了 哈
+27NC50FBP_0101 3404102 3405727 ZH (呃) 对 自己 开心 就 好
+27NC50FBP_0101 3410850 3416267 CS 我 觉得 对 啊 it's a great entertainment to them because they were like laughing laughing laughing out all the way
+27NC50FBP_0101 3416904 3418464 EN if they saw these sentences
+27NC50FBP_0101 3448869 3451501 ZH (呃) 就 可以 看 的 人
+27NC50FBP_0101 3451501 3452996 ZH 懂 吗 就
+27NC50FBP_0101 3463690 3466303 ZH 欣赏 的 人 或者 是 仰慕 者
+27NC50FBP_0101 3474887 3478739 EN 
+27NC50FBP_0101 3479244 3493908 CS 没 你 可能 直接 跟 她 讲 华~ 你 是 我 我 我 我 你 你 你 是 你 是~是 (呃) 啊 eh ya 眼 睛 糖 你 就 跟 她 讲 是 眼 睛 糖 咯 嗯 你 就 跟 她 讲 是 眼 睛 糖
+27NC50FBP_0101 3495942 3497456 EN 
+27NC50FBP_0101 3513131 3515003 ZH 女性 朋友
+27NC50FBP_0101 3560882 3568490 EN  (er) yeah actually girls do choose eye candy
+27NC50FBP_0101 3572944 3573821 EN en
+27NC50FBP_0101 3580648 3584892 CS yah it's vers~ because 每个人 有 different taste so
+27NC50FBP_0101 3587309 3588266 EN ah
+27NC50FBP_0101 3597696 3598732 EN en yeah
