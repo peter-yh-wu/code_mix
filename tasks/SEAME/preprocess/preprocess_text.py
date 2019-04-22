@@ -16,12 +16,16 @@ import os
 # from pypinyin import pinyin, lazy_pinyin, Style
 
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-INTERVIEW_TEXT_DIR = os.path.join(parent_dir, 'data/interview/transcript/phaseI')
-CONVO_TEXT_DIR = os.path.join(parent_dir, 'data/conversation/transcript/phaseI')
+INTERVIEW_TEXT1_DIR = os.path.join(parent_dir, 'data/interview/transcript/phaseI')
+CONVO_TEXT1_DIR = os.path.join(parent_dir, 'data/conversation/transcript/phaseI')
+INTERVIEW_TEXT2_DIR = os.path.join(parent_dir, 'data/interview/transcript/phaseII')
+CONVO_TEXT2_DIR = os.path.join(parent_dir, 'data/conversation/transcript/phaseII')
 # INTERVIEW_PINYIN_DIR = os.path.join(parent_dir, 'data/interview/transcript_pinyin/phaseI')
 # CONVO_PINYIN_DIR = os.path.join(parent_dir, 'data/conversation/transcript_pinyin/phaseI')
-NEW_INTERVIEW_TEXT_DIR = os.path.join(parent_dir, 'data/interview/transcript_clean/phaseI')
-NEW_CONVO_TEXT_DIR = os.path.join(parent_dir, 'data/conversation/transcript_clean/phaseI')
+NEW_INTERVIEW_TEXT1_DIR = os.path.join(parent_dir, 'data/interview/transcript_clean/phaseI')
+NEW_CONVO_TEXT1_DIR = os.path.join(parent_dir, 'data/conversation/transcript_clean/phaseI')
+NEW_INTERVIEW_TEXT2_DIR = os.path.join(parent_dir, 'data/interview/transcript_clean/phaseII')
+NEW_CONVO_TEXT2_DIR = os.path.join(parent_dir, 'data/conversation/transcript_clean/phaseII')
 
 def hanzi_to_pinyin(s):
     '''Returns string with all chinese characters turned to pinyin
@@ -127,9 +131,15 @@ def mk_clean_files(in_dir, out_dir):
     for inp, oup in zip(in_paths, out_paths):
         mk_clean_file(inp, oup)
 
-if not os.path.exists(NEW_INTERVIEW_TEXT_DIR):
-    os.makedirs(NEW_INTERVIEW_TEXT_DIR)
-if not os.path.exists(NEW_CONVO_TEXT_DIR):
-    os.makedirs(NEW_CONVO_TEXT_DIR)
-mk_clean_files(INTERVIEW_TEXT_DIR, NEW_INTERVIEW_TEXT_DIR)
-mk_clean_files(CONVO_TEXT_DIR, NEW_CONVO_TEXT_DIR)
+if not os.path.exists(NEW_INTERVIEW_TEXT1_DIR):
+    os.makedirs(NEW_INTERVIEW_TEXT1_DIR)
+if not os.path.exists(NEW_CONVO_TEXT1_DIR):
+    os.makedirs(NEW_CONVO_TEXT1_DIR)
+if not os.path.exists(NEW_INTERVIEW_TEXT2_DIR):
+    os.makedirs(NEW_INTERVIEW_TEXT2_DIR)
+if not os.path.exists(NEW_CONVO_TEXT2_DIR):
+    os.makedirs(NEW_CONVO_TEXT2_DIR)
+mk_clean_files(INTERVIEW_TEXT1_DIR, NEW_INTERVIEW_TEXT1_DIR)
+mk_clean_files(CONVO_TEXT1_DIR, NEW_CONVO_TEXT1_DIR)
+mk_clean_files(INTERVIEW_TEXT2_DIR, NEW_INTERVIEW_TEXT2_DIR)
+mk_clean_files(CONVO_TEXT2_DIR, NEW_CONVO_TEXT2_DIR)
