@@ -25,8 +25,10 @@ DEV_YS_FILE = 'dev_ys.txt'
 TEST_YS_FILE = 'test_ys.txt'
 
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-INTERVIEW_MFCC_DIR = os.path.join(parent_dir, 'data/interview/mfcc')
-CONVERSATION_MFCC_DIR = os.path.join(parent_dir, 'data/conversation/mfcc')
+INTERVIEW_MFCC1_DIR = os.path.join(parent_dir, 'data/interview/mfcc1')
+CONVERSATION_MFCC1_DIR = os.path.join(parent_dir, 'data/conversation/mfcc1')
+INTERVIEW_MFCC2_DIR = os.path.join(parent_dir, 'data/interview/mfcc2')
+CONVERSATION_MFCC2_DIR = os.path.join(parent_dir, 'data/conversation/mfcc2')
 
 SPLIT_DIR = os.path.join(parent_dir, 'split')
 if not os.path.exists(SPLIT_DIR):
@@ -38,14 +40,20 @@ train_ys_path = os.path.join(SPLIT_DIR, TRAIN_YS_FILE)
 dev_ys_path = os.path.join(SPLIT_DIR, DEV_YS_FILE)
 test_ys_path = os.path.join(SPLIT_DIR, TEST_YS_FILE)
 
-interview_mfcc_files = os.listdir(INTERVIEW_MFCC_DIR)
-interview_mfcc_files = [f for f in interview_mfcc_files if f.endswith('.mfcc')]
-conversation_mfcc_files = os.listdir(CONVERSATION_MFCC_DIR)
-conversation_mfcc_files = [f for f in conversation_mfcc_files if f.endswith('.mfcc')]
+interview_mfcc1_files = os.listdir(INTERVIEW_MFCC1_DIR)
+interview_mfcc1_files = [f for f in interview_mfcc1_files if f.endswith('.mfcc')]
+conversation_mfcc1_files = os.listdir(CONVERSATION_MFCC1_DIR)
+conversation_mfcc1_files = [f for f in conversation_mfcc1_files if f.endswith('.mfcc')]
+interview_mfcc2_files = os.listdir(INTERVIEW_MFCC2_DIR)
+interview_mfcc2_files = [f for f in interview_mfcc2_files if f.endswith('.mfcc')]
+conversation_mfcc2_files = os.listdir(CONVERSATION_MFCC2_DIR)
+conversation_mfcc2_files = [f for f in conversation_mfcc2_files if f.endswith('.mfcc')]
 
-interview_paths = [os.path.join(INTERVIEW_MFCC_DIR, f) for f in interview_mfcc_files]
-conversation_paths = [os.path.join(CONVERSATION_MFCC_DIR, f) for f in conversation_mfcc_files]
-paths = interview_paths+conversation_paths
+interview1_paths = [os.path.join(INTERVIEW_MFCC1_DIR, f) for f in interview_mfcc1_files]
+conversation1_paths = [os.path.join(CONVERSATION_MFCC1_DIR, f) for f in conversation_mfcc1_files]
+interview2_paths = [os.path.join(INTERVIEW_MFCC2_DIR, f) for f in interview_mfcc2_files]
+conversation2_paths = [os.path.join(CONVERSATION_MFCC2_DIR, f) for f in conversation_mfcc2_files]
+paths = interview1_paths+conversation1_paths+interview2_paths+conversation2_paths
 
 random.seed(SEED)
 random.shuffle(paths)
@@ -58,25 +66,42 @@ train_paths = paths[:num_train]
 dev_paths = paths[num_train:num_train+num_dev]
 test_paths = paths[num_train+num_dev:]
 
-INTERVIEW_TEXT_DIR = os.path.join(parent_dir, 'data/interview/transcript_clean/phaseI')
-CONVERSATION_TEXT_DIR = os.path.join(parent_dir, 'data/conversation/transcript_clean/phaseI')
-interview_txt_files = os.listdir(INTERVIEW_TEXT_DIR)
-interview_txt_files = [f for f in interview_txt_files if f.endswith('.txt')]
-conversation_txt_files = os.listdir(CONVERSATION_TEXT_DIR)
-conversation_txt_files = [f for f in conversation_txt_files if f.endswith('.txt')]
-interview_txt_paths = [os.path.join(INTERVIEW_TEXT_DIR, f) for f in interview_txt_files]
-conversation_txt_paths = [os.path.join(CONVERSATION_TEXT_DIR, f) for f in conversation_txt_files]
-txt_paths = interview_txt_paths+conversation_txt_paths
+INTERVIEW_TEXT1_DIR = os.path.join(parent_dir, 'data/interview/transcript_clean/phaseI')
+CONVERSATION_TEXT1_DIR = os.path.join(parent_dir, 'data/conversation/transcript_clean/phaseI')
+INTERVIEW_TEXT2_DIR = os.path.join(parent_dir, 'data/interview/transcript_clean/phaseII')
+CONVERSATION_TEXT2_DIR = os.path.join(parent_dir, 'data/conversation/transcript_clean/phaseII')
+interview_txt1_files = os.listdir(INTERVIEW_TEXT1_DIR)
+interview_txt1_files = [f for f in interview_txt1_files if f.endswith('.txt')]
+conversation_txt1_files = os.listdir(CONVERSATION_TEXT1_DIR)
+conversation_txt1_files = [f for f in conversation_txt1_files if f.endswith('.txt')]
+interview_txt2_files = os.listdir(INTERVIEW_TEXT2_DIR)
+interview_txt2_files = [f for f in interview_txt2_files if f.endswith('.txt')]
+conversation_txt2_files = os.listdir(CONVERSATION_TEXT2_DIR)
+conversation_txt2_files = [f for f in conversation_txt2_files if f.endswith('.txt')]
+interview_txt1_paths = [os.path.join(INTERVIEW_TEXT1_DIR, f) for f in interview_txt1_files]
+conversation_txt1_paths = [os.path.join(CONVERSATION_TEXT1_DIR, f) for f in conversation_txt1_files]
+interview_txt2_paths = [os.path.join(INTERVIEW_TEXT2_DIR, f) for f in interview_txt2_files]
+conversation_txt2_paths = [os.path.join(CONVERSATION_TEXT2_DIR, f) for f in conversation_txt2_files]
+txt_paths = interview_txt1_paths+conversation_txt1_paths+interview_txt2_paths+conversation_txt2_paths
 all_ys = {}
-for f in txt_paths:
-    with open(f, 'r') as inf:
+for p in txt_paths:
+    with open(p, 'r') as inf:
         lines = inf.readlines()
     lines = [l.strip() for l in lines]
     for l in lines:
         tokens = l.split()
         fid = tokens[0]+'_'+tokens[1]+'_'+tokens[2]
         file_name = fid+'.mfcc'
-        mfcc_dir = INTERVIEW_MFCC_DIR if 'interview' in f else CONVERSATION_MFCC_DIR
+        if 'interview' in p:
+            if 'phaseII' in p:
+                mfcc_dir = INTERVIEW_MFCC2_DIR
+            else:
+                mfcc_dir = INTERVIEW_MFCC1_DIR
+        else:
+            if 'phaseII' in p:
+                mfcc_dir = CONVERSATION_MFCC2_DIR
+            else:
+                mfcc_dir = CONVERSATION_MFCC1_DIR
         file_path = os.path.join(mfcc_dir, file_name)
         start_i = len(fid)+1
         y_label = l[start_i:].strip()
