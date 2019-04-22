@@ -1,0 +1,512 @@
+16NC32FBQ_0101 13510 18770 CS 我 是 study in meridian j. c. 你 呢
+16NC32FBQ_0101 23969 25761 ZH 哇 好 厉害 喔
+16NC32FBQ_0101 32770 35730 CS 我 是 year one what about 你 呢
+16NC32FBQ_0101 46770 50670 CS 哦 我 是 year one at 数学
+16NC32FBQ_0101 52094 53730 EN mathematics
+16NC32FBQ_0101 58395 62019 CS 以前 我 参加 o. d. a. c. 你 呢
+16NC32FBQ_0101 69613 71899 ZH 什么 是 田径
+16NC32FBQ_0101 72937 74418 EN oh wah
+16NC32FBQ_0101 78751 80932 EN oh pole vaulting that's cool
+16NC32FBQ_0101 82771 85221 CS 现在 你 参加 what committees
+16NC32FBQ_0101 96569 97341 EN oh
+16NC32FBQ_0101 98516 105571 CS 我 参加 recreational sub committee 还有 sport sub committee 还有 h. s. o. c.
+16NC32FBQ_0101 107008 109390 EN ah i'm in sport sub comm too
+16NC32FBQ_0101 111085 114820 CS 我 是 做 rugby manager
+16NC32FBQ_0101 118850 119819 EN oh
+16NC32FBQ_0101 121381 123960 CS next semester 你 take 什么 electives
+16NC32FBQ_0101 131173 133731 CS oh 就是 你 的 学校 give you one 啦
+16NC32FBQ_0101 143690 147450 CS oh 所以 你 以后 就 会 当 p. e. teacher
+16NC32FBQ_0101 148506 149570 EN oh
+16NC32FBQ_0101 154686 160855 CS yeah think most people who are good in track and field 就是 有 这种 兴趣
+16NC32FBQ_0101 161827 162639 EN en
+16NC32FBQ_0101 164621 167971 CS 我 以后 可能 want to be maths teacher
+16NC32FBQ_0101 168731 170127 ZH  不要 笑
+16NC32FBQ_0101 172741 173941 CS 为什么 so funny
+16NC32FBQ_0101 181499 189290 CS (em) 有 很多 东西 比如 finance side or research side or many other sides ah
+16NC32FBQ_0101 191679 194171 CS more or less 因为 i don't like desk job
+16NC32FBQ_0101 199392 200846 CS n. i. e. 可能 啦
+16NC32FBQ_0101 201469 209181 CS then part-time maybe get masters or something 因为 if i want to teach in j. c. 我 需要 一个 master
+16NC32FBQ_0101 215303 220943 CS 你打算 take what specialization in year three 你的是 given one right
+16NC32FBQ_0101 226361 227656 EN oh
+16NC32FBQ_0101 231183 232203 CS 你 也是 right
+16NC32FBQ_0101 240080 242230 CS 我 不喜欢 scientific 的 东西
+16NC32FBQ_0101 246284 247321 EN curriculum
+16NC32FBQ_0101 250780 253940 CS (em) 为什么 你 choose your course
+16NC32FBQ_0101 258151 258982 ZH 真的 啊
+16NC32FBQ_0101 265076 266375 EN oh
+16NC32FBQ_0101 288727 289454 ZH 哦 对
+16NC32FBQ_0101 291297 291635 EN but
+16NC32FBQ_0101 299751 302481 CS 可是 那个 sports science and management 很 难 进
+16NC32FBQ_0101 307267 310542 ZH 对 因为 我 有 朋友 很多 朋友 在 要 进
+16NC32FBQ_0101 311863 313370 ZH (呃) 有 进 啦
+16NC32FBQ_0101 321602 322459 EN random
+16NC32FBQ_0101 325575 328471 CS 蛮 不错的 那个 environment 很好
+16NC32FBQ_0101 331982 336710 CS 因为 very close to 那些 要 去 的 地方
+16NC32FBQ_0101 337253 339620 ZH 啊 还有 啊 对
+16NC32FBQ_0101 342032 343200 EN not very far
+16NC32FBQ_0101 343200 344730 CS s. p. m. s. 蛮近 的
+16NC32FBQ_0101 345953 348350 ZH 走路 很近
+16NC32FBQ_0101 353380 355310 CS 你 知道 有 一个 playground 那边 吗
+16NC32FBQ_0101 359260 361720 CS 有 一个 playground beside a lake
+16NC32FBQ_0101 366041 368120 CS 你去 canteen one 的 旁边
+16NC32FBQ_0101 369821 372990 CS canteen one 的 后面 有 一个 很长 的 路
+16NC32FBQ_0101 373832 377651 CS 啊 就是 那个 路 然后 lead to heritage centre
+16NC32FBQ_0101 378081 381011 CS then 从 那边 去 那个 slope up 就是 s. p. m. s.
+16NC32FBQ_0101 381011 382198 ZH 很 靠近
+16NC32FBQ_0101 384973 386401 ZH 啊 很近
+16NC32FBQ_0101 388712 391161 CS emm 差不多 ten minutes
+16NC32FBQ_0101 393966 394823 ZH 蛮近 的 啊
+16NC32FBQ_0101 396018 396953 EN okay lah
+16NC32FBQ_0101 399601 402201 CS 那你 呢 你觉得 hall six 怎么样
+16NC32FBQ_0101 402484 404998 CS 你 是 选的 or they give it to you
+16NC32FBQ_0101 412196 413391 EN oh
+16NC32FBQ_0101 430711 431542 EN oh
+16NC32FBQ_0101 449282 451022 EN oh yeah
+16NC32FBQ_0101 452762 454034 EN oh
+16NC32FBQ_0101 455359 456865 EN i see
+16NC32FBQ_0101 459077 459748 EN 
+16NC32FBQ_0101 464894 469491 CS so 刚好 fit what you intended to go to
+16NC32FBQ_0101 485083 486084 EN fated lor
+16NC32FBQ_0101 487135 487758 EN 
+16NC32FBQ_0101 491368 492796 ZH 蛮有 缘分 的
+16NC32FBQ_0101 494651 497081 CS k. we are talking 越 来 越 小声
+16NC32FBQ_0101 499574 501340 CS no 我 的 也是
+16NC32FBQ_0101 509286 516324 CS 刚才 我 讲 的 时候 我 一直 想要 笑 especially when you start 的 时候 我 不能 stop laughing
+16NC32FBQ_0101 517995 525778 ZH 因为 你 起初 开始 讲 的 时候 会 觉得 很怪 好像 那些 句子 要笑 的 感觉
+16NC32FBQ_0101 531628 533863 ZH 尤其 是 我 在 旁边 听 的 时候
+16NC32FBQ_0101 544051 546341 CS emm but 蛮 interesting 的
+16NC32FBQ_0101 551111 553602 CS graduate 了 你 要 当 老师 对 吗
+16NC32FBQ_0101 555160 557780 CS 下个 holiday 你 打算 做 什么
+16NC32FBQ_0101 564223 568664 CS 应该 是 june 那个 时段
+16NC32FBQ_0101 574040 574819 ZH 好玩 hor
+16NC32FBQ_0101 579596 581595 ZH oh 对
+16NC32FBQ_0101 590243 593437 ZH 嗯 很好 我 也有 这种 打算
+16NC32FBQ_0101 594943 595800 ZH 嗯
+16NC32FBQ_0101 597981 602838 ZH 比较 近的 因为 我 没有 钱 没有 薪水
+16NC32FBQ_0101 612382 618978 CS i prefer to 玩 and like experience 那种
+16NC32FBQ_0101 620406 622459 CS yeah like 比较
+16NC32FBQ_0101 625101 627601 CS not very frequent but 还 okay
+16NC32FBQ_0101 632222 635074 ZH 我 记不了 不如 你 先 讲
+16NC32FBQ_0101 646045 649063 EN oh i see when when did you go
+16NC32FBQ_0101 650745 652368 EN oh last year
+16NC32FBQ_0101 659003 660338 EN two zero zero eight
+16NC32FBQ_0101 662171 663074 EN emm
+16NC32FBQ_0101 663961 665631 CS then 你 几时 enter 的
+16NC32FBQ_0101 666151 669151 CS 不是 late of this year meh 进大学
+16NC32FBQ_0101 673451 674861 CS two zero zero nine 对吗
+16NC32FBQ_0101 678251 681884 CS 我 也是 一直 有 这种 feeling
+16NC32FBQ_0101 691287 692949 ZH 哇 很 好看
+16NC32FBQ_0101 699343 703265 ZH 哇 好 幸运 很贵 啊
+16NC32FBQ_0101 704537 705242 ZH 很 好玩
+16NC32FBQ_0101 744351 745805 EN hang gliding
+16NC32FBQ_0101 746584 748272 EN bungee jumping
+16NC32FBQ_0101 752307 754177 ZH 所以 去了 很多 天啦
+16NC32FBQ_0101 757423 766730 CS oh 那 跟 我 哥哥 差不多 一样 因为 he last month just went 跟 我 妈妈 一起 去 和 他们 的 朋友
+16NC32FBQ_0101 767763 769678 ZH  我 有 考试
+16NC32FBQ_0101 771399 772048 ZH 对
+16NC32FBQ_0101 775000 777670 CS 没有 啦 是 因为 我 哥哥 o. r. d. 嘛
+16NC32FBQ_0101 778110 779970 CS 所以 want to go overseas
+16NC32FBQ_0101 780384 781397 ZH 还有
+16NC32FBQ_0101 782695 783734 ZH 刚 刚
+16NC32FBQ_0101 784513 786553 EN yeah next year entering u. ma
+16NC32FBQ_0101 787292 790650 CS plus he next year going to be 二十一 岁
+16NC32FBQ_0101 791192 791815 ZH 所以
+16NC32FBQ_0101 792776 795000 CS half of his present 这样咯
+16NC32FBQ_0101 799813 803020 CS 二十一 岁 是 一个 很 重要 的 day
+16NC32FBQ_0101 811280 814037 CS 其实 birthday 也 没有 什么 celebrate 的
+16NC32FBQ_0101 816106 817170 CS 不 不 怎么 celebrate
+16NC32FBQ_0101 818884 820520 ZH 没有 什么 特别 嘞
+16NC32FBQ_0101 828908 831070 ZH 嗯 五个 人
+16NC32FBQ_0101 831070 833140 CS 就是 immediate family 对 吗
+16NC32FBQ_0101 834242 837847 ZH 五个人 啊 有
+16NC32FBQ_0101 838345 842720 CS 一 啊两个 siblings 一个 brother 一个 sister
+16NC32FBQ_0101 843590 844266 ZH 你 呢
+16NC32FBQ_0101 851056 855460 CS 哇 是不是 那个 economics l. s. e.
+16NC32FBQ_0101 858924 859600 ZH 哇
+16NC32FBQ_0101 865391 868377 ZH 没有 咯 能 进 华中
+16NC32FBQ_0101 874491 875531 CS 有 balance 啦
+16NC32FBQ_0101 878451 880575 CS then 你 只有 一个 elder brother
+16NC32FBQ_0101 887201 893014 CS 所以 are you planning to go 毕业 旅行 应该 会 吧
+16NC32FBQ_0101 900623 913931 CS 其实 做 老师 也 不错 因为 如果 你 去 join some c. c. a. 不错的 你 也 可以 一起 去 join 他们的 他们的 erm overseas trip 有 subsidy leh
+16NC32FBQ_0101 922492 924414 ZH 为什么 你 不 喜欢
+16NC32FBQ_0101 936820 939190 CS 其实 习惯 了 not that bad
+16NC32FBQ_0101 941112 948740 CS hmm no 因为我 last semester 我的 lessons mostly 是 (er) one p. m. 那种
+16NC32FBQ_0101 949350 952460 CS 然后 我的 roomie 通常 是 eight a. m. 那种
+16NC32FBQ_0101 952972 961359 CS 啊 然后 我 就 很 开心 因为 她 起床 的 时候 is the time i start to sleep 
+16NC32FBQ_0101 963723 967641 ZH 因为 有 很多 东西 要 做 嘞 不知道 为什么
+16NC32FBQ_0101 968809 972133 ZH 没有 我 很少 读书 唉
+16NC32FBQ_0101 972721 975181 CS 我 next semester 要 work harder
+16NC32FBQ_0101 978751 983830 CS 其实 我 以为 i will fail quite many electives but i passed everything so i'm happy enough
+16NC32FBQ_0101 985155 986121 EN what about you
+16NC32FBQ_0101 988271 991291 CS no lah because i know i did very badly 这个 semester
+16NC32FBQ_0101 991291 992566 ZH 所以
+16NC32FBQ_0101 992893 1002658 CS i was very afraid to fail and i know that 我 知道 我 做 很多 嗯 错误 还有 我 没有 完成 那个 那个 考卷
+16NC32FBQ_0101 1003021 1004770 EN a lot of them that's why
+16NC32FBQ_0101 1004770 1007440 CS i counted the marks 我 有 答 的
+16NC32FBQ_0101 1008280 1010260 CS 乱乱 答 的 都 pass 不 了
+16NC32FBQ_0101 1010620 1012510 CS 所以 i am very surprised that i passed everything
+16NC32FBQ_0101 1012977 1014197 EN (em) what about you
+16NC32FBQ_0101 1018638 1021507 CS eh 差不多 跟 我 一样 i got
+16NC32FBQ_0101 1030575 1032366 CS 那 你的 g. p. a leh
+16NC32FBQ_0101 1034411 1037310 CS 我 也有 b. eh 我有 six b.
+16NC32FBQ_0101 1038859 1048133 CS 还有 yeah 我 最 本来 以为 会 不及格 的 竟然 get an a. so i am very shocked
+16NC32FBQ_0101 1050366 1053580 ZH 不知道 应该 可能有 吧
+16NC32FBQ_0101 1053580 1055740 CS but 那个 是 open book exam
+16NC32FBQ_0101 1055740 1058510 CS 我 pen (er) 我 都 每 没有 翻 那个 book
+16NC32FBQ_0101 1059108 1063100 CS and is anyhow 回答 所以 i thought i will do very badly
+16NC32FBQ_0101 1063471 1064691 EN yeah so very lucky
+16NC32FBQ_0101 1067132 1071210 CS 不是 那个 乱乱 答 的 they ask very funny questions
+16NC32FBQ_0101 1071885 1072456 EN yeah
+16NC32FBQ_0101 1073832 1077080 CS 哦 那个 是 那个 是 我 的 elective
+16NC32FBQ_0101 1077704 1080821 EN (er) (er) marketing but
+16NC32FBQ_0101 1080821 1085210 CS (er) 我的 mathematics 的 我 没有 读 then 然后 有 很多
+16NC32FBQ_0101 1085581 1088770 CS foreign talent 他们 读 很多 真的 读 很多
+16NC32FBQ_0101 1089036 1091971 ZH 所以 我 本来 以会 不及格啊
+16NC32FBQ_0101 1093399 1096945 CS 可是 我 的 g. p. a. 比 我 的 朋友 少
+16NC32FBQ_0101 1097268 1100904 ZH 一分 那种 (呃) 他们 很厉害 很厉害
+16NC32FBQ_0101 1107719 1110240 CS 因为 我 last semester 对 吗
+16NC32FBQ_0101 1110887 1115540 CS 我的 erm hall activity 蛮多 的 嘞
+16NC32FBQ_0101 1115770 1123742 CS 因为 othello training 四 个 小时 围棋 training 四 个 小时 加 另外 两个 小时 我 去 学 嘛
+16NC32FBQ_0101 1124027 1128504 CS 还有 我 还有 另外 一个 c. c. a. 还有
+16NC32FBQ_0101 1128870 1131890 CS erm rugby training 还有 swimming training
+16NC32FBQ_0101 1132489 1135049 ZH 所以 是 蛮多 东西 的
+16NC32FBQ_0101 1137423 1141400 CS 哈 没有 我 我 做 一个 sport 那个 rugby 是 manager 而已
+16NC32FBQ_0101 1144666 1148717 ZH 啊 只有 一个 还有 我 是 最烂 的
+16NC32FBQ_0101 1151158 1152664 CS 嗯 yeah
+16NC32FBQ_0101 1153840 1155450 CS most of the time 就是 去 玩咯
+16NC32FBQ_0101 1157157 1161020 CS 还有 我 last semester overload
+16NC32FBQ_0101 1162510 1164080 CS overload 就是 我有
+16NC32FBQ_0101 1164395 1168030 CS seven electives 还有 我是 six-day week
+16NC32FBQ_0101 1168576 1171484 CS and i was tutoring 那候
+16NC32FBQ_0101 1171952 1178385 CS 啊 所以 蛮 蛮 no time 的
+16NC32FBQ_0101 1183030 1186240 CS yeah 因为 i don't want to tutor anymore
+16NC32FBQ_0101 1186240 1191601 CS and 还有 i don't want to over load 啊 我
+16NC32FBQ_0101 1191601 1193531 CS 会 乖乖 拿 很少 electives
+16NC32FBQ_0101 1193531 1196191 ZH 本来 我 想拿 很少 可是
+16NC32FBQ_0101 1196191 1197981 CS erm 我 的 senior 讲
+16NC32FBQ_0101 1198541 1203740 CS eighteen a. u. 他们 觉得 very relaxed 所以 我 觉得 twenty one 应该 okay
+16NC32FBQ_0101 1205527 1207631 ZH 可是 没 想到 哎哟
+16NC32FBQ_0101 1207631 1209441 CS 我的 course 很 容易
+16NC32FBQ_0101 1210192 1213591 CS erm 拿到 exemption 因为 是 一种 sciences
+16NC32FBQ_0101 1213958 1218807 CS 所以 如果 sciences 的 话啊 你的 science 有 a. 你 就 可以 exempt 很多 东西
+16NC32FBQ_0101 1219330 1221520 CS 啊 所以 我 本来 exempt 十九 a. u.
+16NC32FBQ_0101 1221852 1226750 CS 然后 我 又 拿 二十一 a. u. 所以 我 本 以后 可以 慢慢 clear elective 了
+16NC32FBQ_0101 1227488 1229098 CS 啊 又 可以 graduate early
+16NC32FBQ_0101 1230734 1232320 CS 对 可以 graduate early
+16NC32FBQ_0101 1232960 1234336 ZH 嗯 那你 呢
+16NC32FBQ_0101 1254306 1255345 ZH 蛮 不错 啊
+16NC32FBQ_0101 1269601 1271311 CS 哇 蛮 relaxed 的
+16NC32FBQ_0101 1272087 1275791 CS 我 觉得 要 plan 好 咯 我没有 plan 好
+16NC32FBQ_0101 1276261 1280071 CS 就是我的 tutorial 全部 is the early part of the week
+16NC32FBQ_0101 1280510 1283710 CS and my lecture 都是 那个 at the end of the week
+16NC32FBQ_0101 1284010 1289250 CS 所以 lecture 不 到 几天 就 要 去 tutorial no time to do tutorial 所以
+16NC32FBQ_0101 1289626 1290509 EN never ready
+16NC32FBQ_0101 1291911 1295053 EN erm no time to do tutorial then very bad lor
+16NC32FBQ_0101 1295884 1299513 EN yeah so ai 
+16NC32FBQ_0101 1304135 1313457 CS okay 不要 讲 那些(呃) academic 的 东西 因为 讲了 就 觉得 不 怎么 开心
+16NC32FBQ_0101 1313457 1318471 CS 好 我们 讲 你 会 去 overseas exchange 吗
+16NC32FBQ_0101 1322209 1323585 ZH 去 哪一个 国家
+16NC32FBQ_0101 1328779 1331807 CS 哇 可以 去的 啊 n. i. e.
+16NC32FBQ_0101 1338809 1339640 ZH 用功
+16NC32FBQ_0101 1341111 1345091 CS 我 也是 所以 我们 next semester 要 尽力 去 用功
+16NC32FBQ_0101 1349800 1353010 CS 我 不知道 我的 course 会 有 overseas 的 吗
+16NC32FBQ_0101 1361108 1363938 ZH 其实 我 没有 想过 这个 嘞
+16NC32FBQ_0101 1365522 1370300 CS 我 只有 听 因为 我 去 这个 啊 我 是 蛮 blur blur 的
+16NC32FBQ_0101 1370570 1374715 CS 人家 讲 什么 then 我 就 okay 可是 人家 没有 讲 我 就 不知道
+16NC32FBQ_0101 1375079 1375702 ZH 啊
+16NC32FBQ_0101 1378273 1383750 CS 对 就是 没有 find out 所以 才 会 这样
+16NC32FBQ_0101 1387631 1390840 CS 可能 哦 因为 我的 course
+16NC32FBQ_0101 1391260 1396960 CS 第四年 我们 可以 choose whether we want f. y. p. 或者 是 去 i. a.
+16NC32FBQ_0101 1397601 1405060 CS 所以 只有 f. y. p. 或 i. a. 好像 没有 really chance to go overseas exchange leh
+16NC32FBQ_0101 1406360 1408840 CS then overseas exchange 也 不知道 做什么
+16NC32FBQ_0101 1415882 1418193 ZH 哇 那
+16NC32FBQ_0101 1420712 1422166 ZH 那 不用 工作 吗
+16NC32FBQ_0101 1424893 1426938 ZH 哦 是 去 那边 读书啊
+16NC32FBQ_0101 1427620 1431746 ZH 哦 那 是 要 有 足够的 成绩啦
+16NC32FBQ_0101 1440589 1441706 ZH 哦
+16NC32FBQ_0101 1447393 1448665 ZH 哦
+16NC32FBQ_0101 1458219 1461239 CS 那 我 应该 就 没有 机会 去 overseas exchange 了
+16NC32FBQ_0101 1462840 1471723 CS 因为 成绩 还有 那个 gap 不容易 填 因为 我 exempt 很多 那个 坏处 是 要 拉我 的 g. p. a. 很难
+16NC32FBQ_0101 1471723 1477260 CS 还有 我 的 朋友 都是 four point six seven 啊 four point five 那种 人
+16NC32FBQ_0101 1477340 1480340 CS 还有 他们 说 four point six seven four point five 的 人
+16NC32FBQ_0101 1480340 1482530 ZH 他们 不算 高 有 更高 的
+16NC32FBQ_0101 1484023 1486724 ZH 所以 我 这样 就是 没有 机会 了
+16NC32FBQ_0101 1489503 1493736 ZH 不知道 可能 有 嘞 应该 有 吧 因为
+16NC32FBQ_0101 1497750 1502880 CS everywhere 可能 有 这种 clever people but not everywhere 有 那么 多 这种 clever people
+16NC32FBQ_0101 1511518 1512349 ZH 对
+16NC32FBQ_0101 1515102 1516193 ZH 有 可能
+16NC32FBQ_0101 1532163 1536551 CS 哇 这样 就是 interpersonal relationship 很好
+16NC32FBQ_0101 1545302 1554521 CS 对 咯 尤其 s. m. u. 是 那种 比较 看 你 怎么 bring yourself 不只 看
+16NC32FBQ_0101 1558027 1560960 ZH 对 对
+16NC32FBQ_0101 1564947 1571024 ZH 哦 原来如此 那 我 看 如果 我 去 那边 我 就 应该 不可能 生存 了
+16NC32FBQ_0101 1581194 1582924 CS 能 可以 说 我 很 shy 吧
+16NC32FBQ_0101 1589934 1591254 CS 你 喜欢 吃 什么 food
+16NC32FBQ_0101 1602664 1604430 ZH 因为 没有 什么 好怕 的
+16NC32FBQ_0101 1612575 1615414 CS 嗯 不错 那 你 有 什么 hobbies 就是 跑步
+16NC32FBQ_0101 1642794 1644340 CS 网球 就是 volleyball 吗
+16NC32FBQ_0101 1648776 1649529 ZH 是不是
+16NC32FBQ_0101 1654324 1655364 CS 网球 是 netball
+16NC32FBQ_0101 1666751 1669840 CS 因为 网 是 net 嘛
+16NC32FBQ_0101 1676100 1677554 ZH 哦 对不起
+16NC32FBQ_0101 1681969 1684786 ZH 嗯 那 你 比较 喜欢 讲 英语 还是 华语
+16NC32FBQ_0101 1698710 1701430 CS 所以 你 两个 语言 also can 啦
+16NC32FBQ_0101 1717806 1719078 ZH 因为 华中
+16NC32FBQ_0101 1722454 1723876 ZH 嗯 原来如此
+16NC32FBQ_0101 1725057 1735271 CS 我 觉得 我 心里 is feel that my both languages 是 好的 可是 实际 上 两个 都是 很烂 的 真的
+16NC32FBQ_0101 1739971 1747071 CS 其实 我 很难 判断 in my heart i think my chinese is better but people tell me that my english 是 比较 好
+16NC32FBQ_0101 1752400 1757090 CS at home i speak in 英语 因为 我 爸爸 是 english-educated
+16NC32FBQ_0101 1757560 1761880 CS but 在 我 婆婆 家 我 是 讲 chinese 因为 她 只会 讲 chinese
+16NC32FBQ_0101 1762111 1765421 CS 还有 跟 工人 讲 也是 chinese 因为 她 听不懂 英语
+16NC32FBQ_0101 1768138 1777071 CS 可是 我 小学 的 时候 my 强项 is chinese but 去 了 中学 就 被 我的 朋友 搞乱
+16NC32FBQ_0101 1777071 1780056 ZH 他们 的 他们 的
+16NC32FBQ_0101 1782130 1788198 CS 他们 的 english 超强 还有 他们 不会 讲 华语 很多 人 是 ang-moh 派的
+16NC32FBQ_0101 1790457 1792296 EN (er) cedar girl's
+16NC32FBQ_0101 1792649 1797278 ZH (呃) 他们 都 是 不会 讲 华语
+16NC32FBQ_0101 1800647 1803487 CS 比较 ang-moh 派 嗯
+16NC32FBQ_0101 1806040 1809970 CS 我 四年 完全 没有 speak in chinese
+16NC32FBQ_0101 1809970 1813080 CS 所以我的 chinese 一落千丈
+16NC32FBQ_0101 1814031 1815069 ZH 是不是 讲 对啊
+16NC32FBQ_0101 1815069 1819583 CS 因为 我 忘记 很多 东西 的 meaning
+16NC32FBQ_0101 1821432 1822444 ZH 很烂
+16NC32FBQ_0101 1823951 1830790 CS 你 有 玩什么 sports 已经 讲了 所以 你 喜欢 什么 songs or singer
+16NC32FBQ_0101 1876380 1882916 CS 我 觉得 去 n. t. u. 你 就 比较 与世隔离
+16NC32FBQ_0101 1885911 1887261 ZH 可是 这样 我 喜欢
+16NC32FBQ_0101 1889458 1891666 ZH 因为 与世隔离 嘛
+16NC32FBQ_0101 1906331 1911350 CS but oh 因为 我 没有 去 army 所以 我 没有 那种 feeling
+16NC32FBQ_0101 1932290 1933920 CS 那你 how often go back home
+16NC32FBQ_0101 1937697 1940281 CS oh 就是 好像 army 那种 啦
+16NC32FBQ_0101 1940865 1942968 EN book out book in
+16NC32FBQ_0101 1950693 1956691 CS 其实 我 也是 可是 我 父母 不 喜欢 我 这样 so i try to go home when 我 有 时间
+16NC32FBQ_0101 1957100 1961300 CS 因为 现在 那些 i. h. g. 很多 is on weekend
+16NC32FBQ_0101 1961392 1972273 CS so weekend 没有 什么 有空 所以 weekday 有时间 的 话 回家 for half a day 也好 因为 不 让 他们 生气
+16NC32FBQ_0101 1975170 1977620 CS 我 住 高文 that side
+16NC32FBQ_0101 1977907 1978427 ZH 你 呢
+16NC32FBQ_0101 1980348 1980997 ZH 对
+16NC32FBQ_0101 1992280 1994520 CS 那你 closer to 哪 一个
+16NC32FBQ_0101 2016576 2025068 CS (呃) 我 回家 有时候 is m. r. t. 有时候 是 my family send me home
+16NC32FBQ_0101 2026716 2028066 ZH 对
+16NC32FBQ_0101 2029806 2033646 ZH 哇 坐到 想要 睡 可是 不可以 睡 因为 站住
+16NC32FBQ_0101 2034325 2040505 CS 啊 可是 有时候 so sleepy until 站住 也睡 然后 就 一直 丢脸 在 那边 睡觉
+16NC32FBQ_0101 2044790 2052202 CS 嗯 如果 可以 的 话 啦 可是 好像 蛮难 的 如果 想要 stay 回 hall six
+16NC32FBQ_0101 2054869 2055726 EN not enough
+16NC32FBQ_0101 2059762 2069389 CS 我 join 很多 until no more to join already 其实 i join 啊 不是 有 那个 intention to go back hall 是 with 那个 intention to enjoy my only one year in hall
+16NC32FBQ_0101 2069812 2071526 EN that was the initial intention
+16NC32FBQ_0101 2071526 2076449 EN yeah but join ah join until join so much then feel very wa no time
+16NC32FBQ_0101 2076449 2079020 CS like 要 join more also not enough time to join more
+16NC32FBQ_0101 2083898 2087975 CS 其实 那些 j. c. r. c. 的 人 我 差不多 每个 都 认识
+16NC32FBQ_0101 2098991 2101016 ZH 其实
+16NC32FBQ_0101 2114572 2115507 ZH 嗯
+16NC32FBQ_0101 2125607 2126624 ZH 哇
+16NC32FBQ_0101 2127659 2131840 ZH 哇 原来 里面 的 东西 是 那么 复杂 的
+16NC32FBQ_0101 2149005 2159810 CS 哦 其实 我 不 觉得 很 浪费 啦 因为 都是 学习 的 经验 你 看我 我 去 那么多 的 training 就是 去 享受 免费 的 coaching
+16NC32FBQ_0101 2160470 2165895 ZH 是不是 我 出去 我 要 花钱 去 学科 是 跟 他们 学 是 免费 的
+16NC32FBQ_0101 2166442 2168960 ZH 啊 所以 是 一个 很好 的 学习 经验
+16NC32FBQ_0101 2174736 2176165 EN yeah i think ulti-
+16NC32FBQ_0101 2180820 2189990 CS i agree and some more 我 每次 get 那种 car sickness like motion sickness 所以 我 不喜欢 站 在 那个 m. r. t. 所以 很惨
+16NC32FBQ_0101 2189990 2192600 CS but then 如果 没有 choice 就 这样咯
+16NC32FBQ_0101 2193347 2197640 CS yeah but 其实 xiao-feng 有 叫 我 去 take up don't know what
+16NC32FBQ_0101 2198411 2202228 CS accounting ah 什么 他 要 我 去 做 什么
+16NC32FBQ_0101 2203423 2213187 CS 那个 fin con ah 可是 我 不想 再 take 那种 business module 因为 我 take 了 有 很 不好 的 经验
+16NC32FBQ_0101 2221260 2224390 ZH 哦 有 足够 的 分数
+16NC32FBQ_0101 2234009 2234658 ZH 对
+16NC32FBQ_0101 2243825 2245254 ZH 哦
+16NC32FBQ_0101 2247409 2248292 ZH 对
+16NC32FBQ_0101 2254647 2256242 ZH 嗯 蛮 伟大
+16NC32FBQ_0101 2260230 2262230 ZH 花 很多 时间 对
+16NC32FBQ_0101 2266177 2266800 EN training
+16NC32FBQ_0101 2282873 2284275 ZH 所以 你 会 很 难过吗
+16NC32FBQ_0101 2291443 2292507 ZH 你们
+16NC32FBQ_0101 2303380 2307690 CS 你们 i. v. p. 那些 track 还有 那些 field 的 人 会 mix 吗
+16NC32FBQ_0101 2319448 2320565 ZH 哦
+16NC32FBQ_0101 2323162 2324226 ZH 原来
+16NC32FBQ_0101 2344934 2345945 CS 那种 bond
+16NC32FBQ_0101 2347970 2351783 CS 那 你 认识 ferros 吗
+16NC32FBQ_0101 2354490 2357709 CS 他 是 我 s. p. m. s. camp 的 s. a.
+16NC32FBQ_0101 2358799 2362695 CS ah student attached 他 很 很 好玩 的 啊
+16NC32FBQ_0101 2365473 2365915 ZH 真的
+16NC32FBQ_0101 2371374 2372205 ZH 真的 啊
+16NC32FBQ_0101 2375581 2376620 ZH 对 我 知道
+16NC32FBQ_0101 2387290 2389390 CS 他 去 那边 是 因为 有 air-con 啊
+16NC32FBQ_0101 2393830 2398236 CS 我 知道 很多 人 以前 是 hall six 然后 then go to other hall like
+16NC32FBQ_0101 2398236 2400625 CS 我 的 朋友 哦 yao tang
+16NC32FBQ_0101 2402547 2405830 CS 因为 他 本来 要 回来 hall six 可是
+16NC32FBQ_0101 2406364 2417340 CS 他 回来 要 跟 他的 roomie together come back but then 他们 不要 让 他的 roomie 回来 啊 之 可以 让 他 回来
+16NC32FBQ_0101 2417340 2425270 CS then 他 不要 因为 他的 roomie got do favor for him before 啦 so he not nice to leave him behind and 然后 回去 hall six
+16NC32FBQ_0101 2425270 2432118 CS 还有 他 有 足够 的 分数 他是 i. v. p. 嘛 围棋 i. v. p. 他 围棋 超 zai 的
+16NC32FBQ_0101 2434144 2439200 CS 嗯 他的 roomie i. 他 roomie 的 围棋 也是 很 zai
+16NC32FBQ_0101 2439200 2442170 CS 是 那个 围棋 club 的 (er) captain 可是
+16NC32FBQ_0101 2442480 2446530 CS i think 那些 hall six 的 人 不 怎么 知道 所以 没有 让 他 进
+16NC32FBQ_0101 2446836 2454879 CS and 不让 他 进 因为 他们 有 那些 有 那个 erm priority ah they prioritize residents before squatters
+16NC32FBQ_0101 2455270 2461846 CS 我想 yao-tang 可能 是 squatter 或 什么 所以 don't really like let him bring his friend back
+16NC32FBQ_0101 2462443 2463067 EN ya
+16NC32FBQ_0101 2464599 2469100 EN but they didn't leh that's why yao-tang was not very happy lor and they also not very happy with yao-tang lor
+16NC32FBQ_0101 2469578 2471761 EN a lot of misunderstandings in hall six
+16NC32FBQ_0101 2472227 2475836 CS 所以 听了 也 觉得 蛮 sian 的
+16NC32FBQ_0101 2477640 2479770 CS 可是 我 喜欢 那个 environment
+16NC32FBQ_0101 2480020 2482420 CS 还有 不住 hall six 也 不能 住 别 的 地方
+16NC32FBQ_0101 2483783 2484458 ZH 因为
+16NC32FBQ_0101 2485350 2486390 CS 不够 points 啊
+16NC32FBQ_0101 2492450 2495730 CS 应该 不会 因为 我 的 points 是 low until 不 可以 low
+16NC32FBQ_0101 2514060 2518007 ZH 嗯 我 觉得 不用紧 吧 就 看 着 办
+16NC32FBQ_0101 2518007 2531610 CS 啊 船 到 桥头 自然直 最多 可能 如果 真的 拿 不到 就 either 每天 搭 m. r. t. 或者 是 rent a house 靠近咯
+16NC32FBQ_0101 2535196 2547531 ZH 很远 嘞 很 sian 还有 我 喜欢 在 外面 住 因为 身为 女生 那些 家长 会 觉得 不放心 孩子 每天 那么 晚 回家
+16NC32FBQ_0101 2548051 2550675 ZH 还有 他们 会 很 紧张 我 不 大 喜欢
+16NC32FBQ_0101 2552281 2561111 ZH 所以 久久 看 一次 他们 会 比较 比较 不一样 所以 还 蛮 开心 的
+16NC32FBQ_0101 2602862 2606212 ZH 对 啊 觉得
+16NC32FBQ_0101 2608313 2612598 CS 不知道 忘了 嘞 忘了 在 讲 什么 okay
+16NC32FBQ_0101 2614320 2617480 CS 我 觉得 hall 的 东西 讲了 也 没 什么 好讲
+16NC32FBQ_0101 2617480 2618849 ZH 因为 就是 这样
+16NC32FBQ_0101 2621342 2626760 CS 我 也是 我 觉得 那个 hall 的 地方 很好 then 我 很 喜欢 我 的 房间 i like the room a lot
+16NC32FBQ_0101 2627263 2627886 EN and
+16NC32FBQ_0101 2627886 2630830 EN block thirty three
+16NC32FBQ_0101 2630830 2636570 CS 我 的 窗口 啊 打开 啊 我 就 可以 看到 那个 field 那些 courts 看到 the track
+16NC32FBQ_0101 2637110 2638564 EN oh can't wait for the track to be opened
+16NC32FBQ_0101 2638564 2640020 CS can see 那些 东西
+16NC32FBQ_0101 2642590 2647295 CS 啊 很 靠近 s. r. c. 我 去 考试 啊 just walk to hall can already
+16NC32FBQ_0101 2647550 2649790 CS some more 我 有 七个 考试 对 吗
+16NC32FBQ_0101 2649790 2653440 CS 五个 在 s. r. c. 所以 很 方便
+16NC32FBQ_0101 2655381 2661847 ZH 对 很 幸运 觉得 这些 靠 缘分 啦 真的 真的 很
+16NC32FBQ_0101 2662950 2666080 CS 不容易 才 能 进到 hall six 还有 是 random 的
+16NC32FBQ_0101 2668540 2670070 CS 其实 我 进 hall six 啊
+16NC32FBQ_0101 2670840 2673750 CS 本来 我 喜欢 hall six 因为 我 喜欢 那个 number six
+16NC32FBQ_0101 2673820 2675980 CS 我 不知道 hall six 是 一个 sports hall
+16NC32FBQ_0101 2676210 2679790 CS then 我 朋友 还有 我的 senior 都 问 我 eh 你 去 什么 hall 啊
+16NC32FBQ_0101 2680000 2681310 CS then 我 就 讲 oh hall six
+16NC32FBQ_0101 2681450 2684550 CS then 他们 都 立刻 第一个 反应 就是 oh hall six sports hall leh
+16NC32FBQ_0101 2684953 2687759 CS 可是 我 进来 之后 我 觉得 他们 的 rec 也是 很强 嘞
+16NC32FBQ_0101 2696948 2697520 ZH 因为
+16NC32FBQ_0101 2707128 2708426 ZH 哦 可是
+16NC32FBQ_0101 2710520 2715910 CS 可是 因为 你 看 起来 是 那种 sports 的 人 嘛 不 可能 是 rec 的 人 所以 他们 就 立刻 问 你 什么 sport
+16NC32FBQ_0101 2722220 2725640 CS i agree 因为 我 说 我 是 hall six 他们 就
+16NC32FBQ_0101 2725870 2727860 CS oh 你 是 sports hall 的 啊 唉 你 怎么 进的
+16NC32FBQ_0101 2727860 2729629 EN i said oh i got in randomly
+16NC32FBQ_0101 2729629 2731350 CS huh random 也 可以 进 啊
+16NC32FBQ_0101 2731629 2738167 CS 他们 就 会 讲咯 then 你 说 oh 你 participate 什么 then 他们 就是 只 想 要 听 那些 sport 的 什么 then 啊喏所以
+16NC32FBQ_0101 2748739 2749674 ZH 对
+16NC32FBQ_0101 2775951 2777091 CS 你 是 什么 block 的
+16NC32FBQ_0101 2778301 2780691 CS oh thirty four 是 那个 bus stop 那边
+16NC32FBQ_0101 2787234 2787987 ZH 知道 啊
+16NC32FBQ_0101 2791061 2792851 CS hall four 蛮 quiet 的
+16NC32FBQ_0101 2795596 2798355 CS block thirty four 蛮 quiet 的
+16NC32FBQ_0101 2801705 2802873 EN not really eh
+16NC32FBQ_0101 2803750 2805940 CS 因为 my level 那些 人 right
+16NC32FBQ_0101 2806970 2810890 CS 好像 不 怎么 喜欢 讲话 like i will say hello then like
+16NC32FBQ_0101 2811330 2816712 CS like try to talk to them then 他们 not really like interested to reply that kind but some are uite interested la
+16NC32FBQ_0101 2816712 2823150 CS yeah then some more 我 do like 那些 need to knock door 那些 东西
+16NC32FBQ_0101 2823150 2832386 CS then 很少 人 要 开门 给 我 进 then 开门 开 小小 然后 讲 不 几句 就 要 关门 那种 所以 看了 也 哎呀
+16NC32FBQ_0101 2834230 2837201 CS (呃) 不是 locals 很多 foreigners 我的 level
+16NC32FBQ_0101 2837602 2848379 CS 嗯 but 也有很多 erm singaporeans lah 可是他们 either hardly not in hall or 他们 closer with their roomie they don't talk to us
+16NC32FBQ_0101 2849028 2853554 EN yeah so i stay in hall mostly go back see my roomie lor
+16NC32FBQ_0101 2853987 2857196 EN yeah lor or most of the time i hardly in my room
+16NC32FBQ_0101 2857196 2860390 EN really do so many activities you are hardly in your room and then
+16NC32FBQ_0101 2860390 2869730 CS you will mostly like be with the games you are playing with or 你 玩 什么 (er) rec 啊 sport 啊 那些 人 你 就 比较 有 多 接触
+16NC32FBQ_0101 2875337 2877271 CS 对 你的 roomie 不 认识 的哦
+16NC32FBQ_0101 2878687 2879707 CS 哦 then 又 是 谁
+16NC32FBQ_0101 2881544 2882712 ZH 哦
+16NC32FBQ_0101 2890685 2891516 ZH 哦
+16NC32FBQ_0101 2895818 2896701 ZH 哇
+16NC32FBQ_0101 2900181 2902024 ZH 蛮 好玩哦 这样
+16NC32FBQ_0101 2903349 2904336 EN language
+16NC32FBQ_0101 2924031 2925401 CS 那 你 的 roomie 是谁
+16NC32FBQ_0101 2932979 2934043 ZH 哦
+16NC32FBQ_0101 2936043 2946871 CS 嗯 我的 roomie 也 是 很少 在 家 所以 i most of the i most of the time like 很大 的 single room 很 高兴
+16NC32FBQ_0101 2946871 2951329 ZH 因为 她 的 父母 比较 喜欢 她 回家 还有 她 住 pasir-ris
+16NC32FBQ_0101 2952047 2952800 EN pasir-ris
+16NC32FBQ_0101 2952800 2960450 CS 然后 她 她 每天 哦 她 上 去 个 sem 对 吗 我 每个 sunday 有 tuition 所以 我 回家
+16NC32FBQ_0101 2960450 2980027 CS 我 会 回家 睡 拜一 早上 才 回来 因为 我 拜一 是 一点 的 课 可是 她 拜一 是 八点 的 课 所以 她 每个 sunday 会 回来 拿 她 全部 的 东西 then put all her things into the cupboard then she will go home to sleep then monday 她 会 搭 m. r. t. all the way to n. t. u. for her eight a. m. lesson
+16NC32FBQ_0101 2980027 2981455 ZH 所以我觉得很好笑
+16NC32FBQ_0101 2984140 2991335 CS 第一 是 她 的 父母 比较 喜欢 她 回家 第二 i'm not in hall 所以 is 多 一个 理由 她 的 父母 叫 她 回家
+16NC32FBQ_0101 2993464 2994347 ZH 所以 我 觉得
+16NC32FBQ_0101 2995464 3004315 CS 对 其实 她 要 住 hall 是 因为 erm 可能 她 也 要 独立啦 可是 她 的 父母 不 怎么 让 她 独立
+16NC32FBQ_0101 3008185 3009898 CS 对 pasir-ris
+16NC32FBQ_0101 3014694 3018796 CS 嗯 most of the time i stand lah because i think those people need it more than me
+16NC32FBQ_0101 3018796 3027133 EN then when stand that time right then like nothing to do then most of the time see the handphone then like see also see so often until sian already nothing to do on the phone
+16NC32FBQ_0101 3031574 3032459 EN really
+16NC32FBQ_0101 3035965 3036978 ZH 哦
+16NC32FBQ_0101 3044768 3046145 CS 这个 i agree
+16NC32FBQ_0101 3056610 3057490 CS 他 drive 你啊
+16NC32FBQ_0101 3063938 3067600 CS 哦 then 那个 车 是 你 妈妈 的
+16NC32FBQ_0101 3067600 3069470 CS then 你 妈妈 不用 用 那个 car
+16NC32FBQ_0101 3072525 3080340 CS 哦 哇 所以 她 是 teacher then 你 比较 know what is it like being a teacher
+16NC32FBQ_0101 3080340 3082030 CS 不错 啊 她 教 什么 subject
+16NC32FBQ_0101 3083172 3085000 ZH 哦什么 学校
+16NC32FBQ_0101 3088077 3089219 EN oh s. g. s.
+16NC32FBQ_0101 3090492 3094661 CS 我 妹妹 有 一段 时期 (er) 去 那边 quite often 的
+16NC32FBQ_0101 3095815 3104890 CS 因为 她 是 n. p. c. c. 然后 他们 的 division 啊 most of the time 会去 s. g. s. 有 那些 meeting 什么 东西
+16NC32FBQ_0101 3105300 3108060 CS 啊 还有 他们 有 什么 parade 啊 很多
+16NC32FBQ_0101 3108060 3111451 ZH 很多 这些 东西啊都 在 那个 地方
+16NC32FBQ_0101 3111451 3115009 ZH 所以 每次 去 那边咯 嗯
+16NC32FBQ_0101 3115946 3119218 ZH 嗯我 觉得 那边 也是 蛮 靠近 我家 嗯
+16NC32FBQ_0101 3120160 3121630 CS meridian j. c. 在 pasir-ris
+16NC32FBQ_0101 3121960 3123206 ZH 所有 朋友
+16NC32FBQ_0101 3124037 3127647 CS (er) kovan 有 direct bus 去 那边 很 蛮快的
+16NC32FBQ_0101 3128520 3132321 CS 因为 那个 bus 会 搭 那个 快速公路 so it's very fast
+16NC32FBQ_0101 3133074 3139660 CS 我 每次 讲话 啊 要 (er) 时时刻刻 add abit of english or when speaking in english must suddenly add 一点 华文
+16NC32FBQ_0101 3139660 3141033 ZH  很好笑
+16NC32FBQ_0101 3152370 3163017 CS (呃) 可是 你 讲 的 时候 蛮 不错 嘞 因为 我 听到 你 有时候 put abit of english 有时候 放 一点 chinese then 我 就 会 记得 哦 我 也是 要 参 一点 这样
+16NC32FBQ_0101 3166350 3168964 CS 对 要 put in 那个 effort 很 好笑
+16NC32FBQ_0101 3181298 3182103 ZH 对咯
+16NC32FBQ_0101 3182610 3186620 CS 其实 可以 一个 chinese sentence 一个 english sentence then alternate 这样
+16NC32FBQ_0101 3186880 3188080 CS also 还 可以 what
+16NC32FBQ_0101 3196905 3197736 EN yes
+16NC32FBQ_0101 3215892 3217373 EN reply in english
+16NC32FBQ_0101 3266951 3268587 ZH 唉我 也是 每次 这样嘞
+16NC32FBQ_0101 3268587 3276460 CS 我 朋友 讲 like 每次 跟 我 讲 英语 eh no 每次 跟 我 讲 华语 我 每次 reply in english
+16NC32FBQ_0101 3277052 3281100 CS yeah 所以 他们 觉 他们 有 那个 like image that i am very chinese
+16NC32FBQ_0101 3281290 3283830 CS but when i speak they think that 我 是 讲 英语 的
+16NC32FBQ_0101 3284198 3290940 CS then 他们 一 看到 我 就 会 讲 英语 then 我 有时候 想 讲 华语 的 时候 他们 就 会 有 那种 reaction
+16NC32FBQ_0101 3290940 3301770 CS then 我 觉得 很怪 因为 是 我的华语 应该 是 照 道理上 是 比较 强的
+16NC32FBQ_0101 3301770 3306150 CS 我 我 理解 s. a. 都是 这样 的 人因为 my brother also in s. a.
+16NC32FBQ_0101 3308735 3312629 CS brother was also from s. a. so his friends all is quite ang-moh 派 one
+16NC32FBQ_0101 3313072 3317840 CS yeah then he very funny cause 他在 secondary school 是很 chinese 的
+16NC32FBQ_0101 3317980 3322110 CS then 去 j. c. is very english 所以 他 两个 地方啊
+16NC32FBQ_0101 3322310 3324130 CS 要 adjust 我 觉得 他 蛮 厉害 的
+16NC32FBQ_0101 3324290 3326540 CS 所以 他 是 language 很 强
+16NC32FBQ_0101 3329949 3334345 ZH 我 不知道 因为 一讲 起 那个 我 就 觉得 很 sian
+16NC32FBQ_0101 3334930 3336300 CS 什么 camp as in
+16NC32FBQ_0101 3339893 3342626 EN is erm air base tenga air base
+16NC32FBQ_0101 3345560 3348950 CS 不是 他 是 r. p. 他 超 slack
+16NC32FBQ_0101 3348950 3357010 EN is like very chao geng lor like like he during b. m. t. he will say oh my heart pain lah this thing that thing then he
+16NC32FBQ_0101 3357010 3363118 CS he okay one lor 他什么都可以 but then 他 就是 很 sian 这 种 东西 i 我 也是 don't understand why
+16NC32FBQ_0101 3363310 3367221 CS then 我 觉得 他 去 army then 他 change a lot 觉得 他 好像
+16NC32FBQ_0101 3368611 3372181 CS i think like not for the better 啦 because 他 变得 like not very guy like that
+16NC32FBQ_0101 3372181 3385890 CS like like i feel that 他 好像 一点点 都 不要 做 then 好像 like 叫 他 做 一点点 东西 他 就 会 他 就 会 给 那种 like 不想 做 的 的 expression 然后
+16NC32FBQ_0101 3389700 3390273 ZH 真的
+16NC32FBQ_0101 3393130 3395360 CS 可能 是 mix with 那个 人 咯
+16NC32FBQ_0101 3395640 3398910 CS 因为 我 哥哥 好像 mix with 那种 比较 有钱 的 人啊
+16NC32FBQ_0101 3398910 3405890 CS then 他 觉得 他 买东西 拿 东西 都是 理所当然的
+16NC32FBQ_0101 3405890 3408130 CS 好像 demand 那种 money lor like
+16NC32FBQ_0101 3408923 3416402 ZH 出国 理所当然 有车 理所当然 这些 东西 都 不是 理所当然 都是 很 贵 的 可是 他 觉得 应该 要
+16NC32FBQ_0101 3416402 3423348 CS then 我 爸爸 说 他 不能 赚钱 买 那个 车 也 就 不 应该 有 一个车 所以 不想 买车 then 他 就 很 生气
+16NC32FBQ_0101 3423348 3430660 CS 这样 所以 我 觉得 好像 很怪 嘞 (er) like shouldn't be the case lah yeah lor
+16NC32FBQ_0101 3430660 3434050 CS oh we have spoken for 五十七 分钟 twelve seconds
+16NC32FBQ_0101 3437457 3442729 CS 啊 我们 talk cock 蛮久 的 okay 我们 都 没有 讲完 那些
+16NC32FBQ_0101 3442729 3444832 CS 你 还有 想 学 anything
+16NC32FBQ_0101 3446546 3447247 EN yeah
+16NC32FBQ_0101 3448078 3455810 CS eh actually ah we say finish everything except sixteen seventeen eighteen but sixteen 也 没有 什么 东西 要 学
+16NC32FBQ_0101 3458086 3467747 CS christmas 我 觉得 christmas is just a day too enjoy 那些 see lightings
+16NC32FBQ_0101 3468600 3469327 ZH 不是
+16NC32FBQ_0101 3471171 3471742 EN but
+16NC32FBQ_0101 3472677 3476716 CS 不错 因为 我的 aunties 都是 christian aunties
+16NC32FBQ_0101 3476860 3479900 CS yeah 他们 是 christian then 他们 会 有 那些 party
+16NC32FBQ_0101 3480150 3483480 CS then 会 invite 我们 是 蛮 好玩 啊 还有 那些 gift exchange
+16NC32FBQ_0101 3483740 3485600 CS 因为 我们 还是 children 对吗
+16NC32FBQ_0101 3485600 3487770 ZH 拿 礼物 不用 送
+16NC32FBQ_0101 3487770 3490010 CS 啊 送 是 给 那些 adult 烦恼
+16NC32FBQ_0101 3490010 3500304 CS 所以 小时候 每次 都 收到 那个 礼物 所以 christmas 拿到 礼物 有 holiday 又 可以 去 看 那些 lightings 蛮 不错的
+16NC32FBQ_0101 3510638 3511262 ZH 对
+16NC32FBQ_0101 3523354 3528299 ZH 我 觉得 买 礼物 是 很 烦恼 其实啊如果
+16NC32FBQ_0101 3528299 3536316 CS 给 物 啊 我 觉得 写 一个 card ah 比 买 礼物 更 更 好 因为 买 礼物 你 自己 可以 买 嘛
+16NC32FBQ_0101 3536316 3541078 CS 可是 card 是 别人 的 心意 你 是 不能 弄 到 的
+16NC32FBQ_0101 3541805 3542623 ZH 对咯
+16NC32FBQ_0101 3543844 3545737 ZH 哦写哇
+16NC32FBQ_0101 3547480 3550020 CS 很少 男的 会 去 买 card 给 朋友 的
+16NC32FBQ_0101 3551353 3552210 ZH 对 对 对
+16NC32FBQ_0101 3554781 3560078 CS resolutions for two zero one zero 我 觉得 要 用功 读书
+16NC32FBQ_0101 3560078 3562208 ZH 对 就是 这样
+16NC32FBQ_0101 3583267 3588420 CS 那 你 去 army 的 时候 你 不会 like suddenly like
+16NC32FBQ_0101 3588876 3589760 EN how to say ah
+16NC32FBQ_0101 3590140 3592960 CS 你 的 resolution 啊 是在 university 要
+16NC32FBQ_0101 3593320 3596830 CS 读 好书 对 吗 then 你 在 army 你 不会 like 被
+16NC32FBQ_0101 3598095 3598744 ZH 被
+16NC32FBQ_0101 3600484 3604010 CS 不会 被 like erm 哇 你 很准 嘞

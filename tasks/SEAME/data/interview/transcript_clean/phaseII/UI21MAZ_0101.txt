@@ -1,0 +1,150 @@
+UI21MAZ_0101 6318 14523 ZH 哦 没 有 现 在 已 经 开 始 出 来 做 工 然 后 今 年 刚 刚 八 月 才 毕 业 然 后 啊
+UI21MAZ_0101 14523 19836 CS 就 在 dell 做 工 咯 现 在 做 tech support technical support 接 电话 的
+UI21MAZ_0101 23078 32183 CS orh support 就 我 现在 的 department leh 是 做 er 就 是 s. and a. 就 是 说 singapore 跟 malaysia south asia 的 所以 就 customer 打 进来
+UI21MAZ_0101 32183 36460 CS 他们 电 脑 要 修 理 的 话 有 问 题 的 话 他 们 先 要 call 进 来 给 我们
+UI21MAZ_0101 36680 38113 CS 然 后 我 们 就 check lor
+UI21MAZ_0101 38113 38188 ZH 他
+UI21MAZ_0101 38188 42334 CS check 清 楚 他 是 什么 hardware 还 是 software problem 过 后
+UI21MAZ_0101 42485 46668 CS 我 们 就 会 er send engineer 去 帮 他 们 on site service
+UI21MAZ_0101 46668 53535 CS 我 是 帮 他 们 pick up service 去 我 们 workshop 去 修 理 就 这 样 的 咯 我们 主 要 是 在 电话 troubleshoot 罢了
+UI21MAZ_0101 56474 59640 CS ah p. c. 跟 desktop 跟 laptop 两个 都 有
+UI21MAZ_0101 60286 68623 CS 两 个 都 有 就 from 我 们 的 leh 我 的 level 是 consumer level 罢 了 就 是 说 home and small medium business user 罢 了 这 两 个 罢了
+UI21MAZ_0101 75387 80653 CS  我 之 前 读 的 course 跟 电 脑 完 全 没 有 关 系 我 是 读 environmental science 的
+UI21MAZ_0101 80774 84193 CS 我 在 u. k. m. 读 三 年 咯 environmental science
+UI21MAZ_0101 84193 91394 CS 然 后 毕 业 出 来 因 为 这 environment science 这 一 行 的 工 作 是 蛮 limited lah k. l. 会 比 较 多 啦
+UI21MAZ_0101 91394 98202 CS 然 后 我 暂 时 想 先 在 槟 城 做 工 先 所 以 就 在 槟 城 找 然 后 刚 好 有 朋 友 介 绍 去 dell technical support
+UI21MAZ_0101 98202 104322 CS 以 前 我 part-time 做 过 卖 电 脑 的 然 后 也 是 卖 laptop 的 所 以 有 这 方 面 经 验 所 以 他 给 我 进 咯
+UI21MAZ_0101 110206 120030 ZH  现 在 我 给 我 自 己 是 两 年 的 就 看 啦 两 年 如 果 有 起 落 两 年 有 机 会 升 还 是 什 么 的 话 可 能 继 续 做 下 去 咯
+UI21MAZ_0101 120030 132643 CS 如 果 两 年 都 在 那 边 就 越 做 越 好 像 没 有 心 没 有 down 了 又 有 没 有 机 会 升 的 话 还 是 什 么 的 话 我 应 该 是 会 转 回 去 k. l. 因 为 我 其 实 比 较 喜 欢 k. l. 的 工作 环 境
+UI21MAZ_0101 138764 147263 CS er 不 是 lah 因 为 也 是 lah 那 边 dell 是 他 们 现 在 是 很 performance 的 很 performance-based 你 做 什 么 东 西 他 们 都 有 data 的
+UI21MAZ_0101 147263 150111 CS 就 你 login 时 间 你 接 多 少 个 call
+UI21MAZ_0101 150111 154309 CS 然 后 你 customer feedback 你 的 quality 全 部 都 有 data 的
+UI21MAZ_0101 154309 161115 CS 你 做 得 好 你 data 好 的 话 其 实 你 很 快 就 可能 先 升 support lead 就 是 说 一 个 team leader 这 样 小 小 的 team leader
+UI21MAZ_0101 161115 168074 CS 过 后 你 可 能 再 升 因 为 我 看 过 很 多 okay 的 都 是 可 以 两 年 里 面 就 升 上 另 外 一 个 level
+UI21MAZ_0101 168074 171438 CS 我 们 现 在 是 从 b. one 开 始 然 后 升 b. two
+UI21MAZ_0101 171438 186561 CS 最 快 是 两 年 或 到 一 年 到 两 年 这 样 啦 可 以 升 到 的 所 以 我 看 自 己 能 不 能 有 实 力 就 升 看 咯 不 能 升 的 话 可 能 会 去 回 去 k. l. 找 其 他 工 作 我 比 较 喜 欢 k. l. 的 环 境
+UI21MAZ_0101 190188 196426 CS dell career path 现 在 是 因 为 tech support 的 话 他 们 是 有 分 level 的 b. one 然 后 b. two 就 是 senior 的
+UI21MAZ_0101 196426 202417 CS senior 了 过 后 b. three 的 话 就 er 就 好 像 是 就 可 以 顾 dispatch 就 不 用 听 电 话 了
+UI21MAZ_0101 202417 204307 CS b. one b. two 好 像 是 还 要 听 电 话
+UI21MAZ_0101 204307 206345 CS 然 后 过 后 就 升 manager 了
+UI21MAZ_0101 206345 208786 CS 再 上 的 话 manager 应 该 也 是 要 五 六 年 以 上 啦
+UI21MAZ_0101 209396 215937 CS 所 以 我 是 要 看 有 没 有 机 会 上 咯 然 后 如 果 你 做 了 一 年 或 到 两 年 你 的 performance 好 你 可以 转 department
+UI21MAZ_0101 215937 218693 CS 转 department 的 同 时 你 可 能 也 会 跟 着 升 的
+UI21MAZ_0101 218995 221509 CS 就 是 handle 其 他 department 咯
+UI21MAZ_0101 222789 228266 CS 槟 城 人 其 实 是 槟 城 人 但 是 我 比 较 喜 欢 k. l. 的 环 境 这 边 塞 车 太 恐 怖 了
+UI21MAZ_0101 230163 238555 CS 要 要 看 area lah 因 为 之 前 我 住 bangi 那 一 区 没 有 咯 然 后 如 果 puchong 那 边 是 很 恐 怖 的 啦 l. d. p. highway 那 是 很 恐 怖 的 事
+UI21MAZ_0101 238555 246620 CS 然 后 有 些 区 其 实 还 不 会 太 塞 的 槟 城 因 为 我 住 relau 然 后 我 那 边 那 个 红 绿 灯 那 边 t. junction 很 塞
+UI21MAZ_0101 246620 249509 CS ah b. j. 那 边 也 是 很 塞 那 一 条 路 都 很 塞
+UI21MAZ_0101 251901 262530 CS  但 是 槟 城 的 op  槟 城 的 job opportunity 都 是 在 那 个 bayan lepas 区 啊 那 边 工 厂 全 部 所 以 怎 样 都 是 要 住 那 边 没 有 办 法
+UI21MAZ_0101 265074 274649 CS 去 k. l. 可 能 我 会 找 可 能 也 是 klang shah alam 那 边 的 厂 吧 如 果 是 工 厂 的 话 因 为 我 的 大 姐 现 在 也 是 住 在 那 边
+UI21MAZ_0101 274649 285410 CS 所 以 可 能 可 以 去 tumpang 她 那 边 住 就 可 以 省 掉 租 的 钱 了 咯 然 后 朋 友 比 较 多 也 在 k. l. 槟 城 的 朋 友 是 来 来 去 去 同一 gang 罢 了 都 是 也 是
+UI21MAZ_0101 285410 290754 CS 槟 城 k. l. 那 边 因 为 在 u. k. m. 认 识 不 同 州 的 朋 友 比 较 多 朋 友 比 较 喜 欢 那 边 的 环 境
+UI21MAZ_0101 294876 304221 CS 现 在 槟 城 是 我 爸 爸 妈 妈 还 有 我 的 二 姐 我 二 姐 还 在 那 边 留 在 那 边 做 工 我 大 姐 去 了 k. l. loh 就 这 样 罢 了 咯 还 有 我
+UI21MAZ_0101 308490 316403 CS environmental science 那 一 行 的 出 路 来 讲 嘞 是 呃 可 以 做 qua~ quality engineer 那 些 的
+UI21MAZ_0101 316403 328182 CS 然 后 也 政 府 工 会 比 较 多 啦 那 种 environment 然 后 就 可 能 是 没 有 这 样 喜 欢 啦 因 为 基 本 上 我 从 form form six 的 时 候 我 s. t. p. m. 那 时 候
+UI21MAZ_0101 328182 330907 CS 是 因 为 成 绩 不 够 好 所 以 我 不 到 i. t. 的 course
+UI21MAZ_0101 330907 337012 CS 我 八 个 choice 里 面 我 一 到 七 一 到 六 都 是 i. t. 的 第 八 个 才 是 environment
+UI21MAZ_0101 337012 339756 CS 但 是 我 就 是 这 样 suay 就 是 中 到 那 个 environment
+UI21MAZ_0101 339756 345501 CS 然 后 就 反 正 哎 呀 可 以 能 拿 一 个 degree 了 再 打 算 咯 因 为 读 国 立 大 学 比 较 便 宜 嘛
+UI21MAZ_0101 345501 350264 CS 就 去 读 读 完 过 后 还 是 比 较 喜 欢 i. t. 那 方 面 的 其 实
+UI21MAZ_0101 352570 353792 ZH 是
+UI21MAZ_0101 360190 370923 CS 嗯 对 有 这 些 那 种 政 府 的 部 门 咯 那 种 er quality air quality 啊 还 是 就 连 那 种 indah water 啊 还 是 那 种 syabas 那 种
+UI21MAZ_0101 370923 375213 CS 那 些 水 呀 waste water treatment 全 部 都 可 以 做 那 些
+UI21MAZ_0101 375213 385963 CS 然 后 这 个 出 路 也 是 engineer 的 啦 只 是 暂 时 我 是 因 为 以 前 form six 我 拿 不 到 i. t. 的 course 嘛 我 本 来 的 兴 趣 还 是 i. t. 嘛 我 想 给 自 己 try 一 下 所 以 我 刚 刚 讲 两 年 的 意 思
+UI21MAZ_0101 385963 394316 CS 也 是 try 一 下 看 在 i. t. 这 一 方 面 会 不 会 sian 啊 还 是 其 实 是 没 有 兴 趣 或 没 有 得 发 展 还 是 很 有 兴 趣 还 可 以 继 续 下 去
+UI21MAZ_0101 394316 397003 CS 就 继 续 在 i. t. 了 咯 这 样 咯
+UI21MAZ_0101 402954 420535 CS 有 对 对 啊 是 啊 是 有 啦 但 是 因 为 之 前 我 要 回 来 槟 城 找 先 嘛 我 想 然 后 槟 城 的 这 一 方 面 的 工 比 较 少 k. l. 的 很 多 大 工 厂 他 们 都 有 那 种 quality department 那 些
+UI21MAZ_0101 420535 427256 CS i. s. o. 然 后 i. s. o. 一 四 零 零 那 是 for environment management system 的 他 们 都 有 请 ppc 但 是
+UI21MAZ_0101 427256 431075 CS 我 之 前 在 k. l. 有 interview 过 也 是 有 那 一 类 型 的 工 只是
+UI21MAZ_0101 431075 442733 CS 因 为 要 回 来 槟 城 所 以 槟 城 这 边 我 找 不 到 这 类 型 的 工 啊 比 较 少 我 朋 友 有 一 个 罢 了 一 个 槟 城 朋 友 在 这 边 有 一 个 是 做 quality officer 之 类 的
+UI21MAZ_0101 445349 456561 CS 嗯 嗯 要 找 咯 我 之 前 那 种 jobstreet 也 try 过 了 也 看 过 也 是 有 quality system 那 种 officer 啊 什 么 这 样 的 都 有 apply 但 是 没 有 reply
+UI21MAZ_0101 457093 459995 CS 就 算 了 最 后 就 拿 dell technical support 咯
+UI21MAZ_0101 460409 466985 CS i. t. 因 为 environment 是 还 蛮 有 出 路 那 种 新 加 坡 那 些 全 部 也 是 有 的 这 种
+UI21MAZ_0101 469530 471046 ZH 是 我 知 道 只 是
+UI21MAZ_0101 474708 475318 ZH 啊 会
+UI21MAZ_0101 476850 487364 CS 对 我 也 是 有 想 过 只 是 因 为 第 一 那 company 会 比 较 dell 是 okay lah 他 们 performance 对 的 话 你 有 做 东 西 他 是 真 的 会 有 data reflect 到 你 做
+UI21MAZ_0101 487364 494776 CS 如 果 我 真 的 是 做 一 个 quality 那 种 officer 的 话 你 每 天 只 是 在 做 quality control 整 天 看 那 种 data 啊 去 量 东西 啊
+UI21MAZ_0101 494776 500431 CS 你 其 实 也 是 没 有 什 么 机 会 升 的 因 为 我 consult 过 我 的 姐 姐 问 看 看 她 嘛
+UI21MAZ_0101 501605 509771 CS 没 有 我 的 大 姐 我 问 我 大 姐 我 大 姐 现 在 是 在 k. l. 做 那 种 design 的 under chan fong 那 个 company 做 design 的
+UI21MAZ_0101 509771 513832 CS 然 后 consult 过 她 她 也 是 做 过 很 多 工 她 一 直 跳 工 的 她 也 是
+UI21MAZ_0101 513832 522560 CS 然 后 她 跟 我- 她 search 给 我 看 那 quality- quality officer 这 种 safety and health 或 quality officer 这 种 job 啦 能 上 到 多 少
+UI21MAZ_0101 522560 531738 CS 你 最 多 也 是 上 到 h. r. 那 种 department 的 manager 罢 了 也 是 过 后 就 好 像 很 快 罢 了 你 的 那 个 career path 是 很 短 啦 其实
+UI21MAZ_0101 531738 536731 CS 你 是 officer 过 后 升 senior 这 样 到 manager 就 没 有 了 就 没 有
+UI21MAZ_0101 536731 537823 EN 
+UI21MAZ_0101 537823 543997 CS 有 啊 我 看 过 我 以 前 我 u. k. m. 那 边 有 一 个 senior 我 看 到 他 他 是 做 water treatment 的
+UI21MAZ_0101 543997 556668 CS 然 后 他 现 在 也 是 自 己 开 公 司 卖 那 些 水 是 还 没 有 想 到 这 样 远 要 当 老 板 这 些 啦 这 种 因 为 能 做 的 话 因 为 也 是 做 consultant 公 司 罢 了 最 后 的 话 environment 的 话
+UI21MAZ_0101 556668 566270 CS 还 有 一 点 这 consultant 没 有 讲 要 可 以 去 做 consultant 他 们 大 公 司 要 做 audit 的 时 候 就 请 consultant 公 司 进 去 audit audit 完 过 后 就
+UI21MAZ_0101 566270 567956 CS project-based 咯 那种 是
+UI21MAZ_0101 570352 571208 ZH 嗯
+UI21MAZ_0101 575446 577042 ZH ha 要 跑 这 种
+UI21MAZ_0101 579423 588694 CS 还 好 啦 其 实 我 蛮 喜 欢 往 外 跑  只 是 我 真 的 是 想 try 一 次 两 年 看 在 i. t. 这 边 会 有 怎 样 的 变 化 反 正
+UI21MAZ_0101 588694 592936 CS 现 在 二 十 三 岁 还- 还- 还 有 时 间 给 我- 给 我 乱 乱 try 先 啊
+UI21MAZ_0101 595282 596463 EN mmm
+UI21MAZ_0101 605304 613169 CS 嗯 没 有 想 要 继 续 读 下 去 啦 读 下 去 第 一 要 钱 p. t. p. t. n. 还 没 有 还 完 咯 然 后
+UI21MAZ_0101 615154 617314 EN mmm mmm
+UI21MAZ_0101 619500 621940 CS 要 degree 或 者 是 要 钱
+UI21MAZ_0101 628462 636932 CS 就 没 我 还 没 有 想 要 specialize 啦 也 就 是 说 只 是 想 去 try 一 下 那 个 i. t. 那 边 看 能 有 什 么 变 化 啦 因为
+UI21MAZ_0101 636932 650028 CS 就 那 是 我 本 来 的 兴 趣 嘛 我 本 来 也 是 比 较 喜 欢 电 脑 方 面 的 所 以 想 看 一 下 那 一 方 面 是 怎 样 的 因 为 毕 竟 我 之 前 读 environment 我 没 有 碰 过 i. t. 我 不 懂 i. t. 那 边 是 怎 样
+UI21MAZ_0101 650028 655691 CS 然 后 现 在 去 到 那 边 有 学 到 一 点 那 种 networking 啊 还 是 其 他 的 东 西 只 是 有 动 到 一 点 咯
+UI21MAZ_0101 655691 661018 CS 所 以 大 概 是 到 现 在 为 止 是 还 蛮 okay 的 啦 蛮 有 兴 趣 的 啦
+UI21MAZ_0101 661018 666801 CS 如 果 是 真 的 以 后 要 升 要- 升 要 需 要 文 凭 什 么 那 时 候 再 去 半 工 读 还 是 怎 样 咯
+UI21MAZ_0101 668756 669338 EN mmm
+UI21MAZ_0101 672233 673039 EN 
+UI21MAZ_0101 682133 689491 CS 没 有 就 是 要 try 看 先 因 为 如 果 是 直 接 去 读 master 第 一 直 接 两 年 再 读 书 又 要 给 学 费
+UI21MAZ_0101 689491 700786 CS 可 能 出 来 我 发 现 我 是 不 喜 欢 i. t. 的 那 时 候 如 果 现 在 是 我 工 作 我 又 有 钱 赚 然 后 有 可 以 得 到 经 验 如 果 又 知 道 是 okay 的 话 到 时 半 工 读 会 比 较 好 啦 mmm
+UI21MAZ_0101 704349 707493 CS 这 你 是 说 读 master 啦
+UI21MAZ_0101 708997 714635 CS 但 是 我 连 degree 都 没 有 喔 我 degree 是 environment 的 喔 可 以 跳 过 去 哦
+UI21MAZ_0101 719517 720230 EN huh
+UI21MAZ_0101 721712 727798 CS 可 以 的啦 ha okay
+UI21MAZ_0101 731539 743600 CS 但 是 就 觉 得 读 这 样 多 也 是 一 样 啊 出 来 其 实 最 后 也 是 看 工 作 经 验 比 较 多 嗯 因 为 就 算 你 master 出 来 他 给 你 可 能 basic 会 高 过 人 家 一 点 但 是
+UI21MAZ_0101 743600 749120 CS 人 家 工 作 经 验 高 比 你 多 两 年 的 他 比 你 早 升 他 已 经 做 你 的 manager 了 可 能 是
+UI21MAZ_0101 749479 756947 CS 所 以 会 这 样 leh 同 样 的 东 西 就 是 因 为 based 我 是 based on 我 大 姐 的 经 验 的 大 姐 是 comp. science 的
+UI21MAZ_0101 757313 765454 CS 她 出 来 她 第 一 份 工 做 i. t. 但 是 她 做 才 不 懂 三 个 月 罢 了 她 没 有 做 她 跑 去 做 d. j. 去 做 i. f. m. d. j.
+UI21MAZ_0101 765454 777784 CS 做- 做 了 两 年 就 跳 她 就 跳 过 去 我 就 觉 得 蛮 不 错 啦 可 以 尝 试 不 同 的 东 西 我 是 想 要 去 尝 试 不 同 的 东 西 反 正 还 年 轻 try 一 下 啦 就
+UI21MAZ_0101 784133 789510 CS 啊 对 我 懂 还 是 没 有 一 个 direction
+UI21MAZ_0101 794184 799080 CS hmm 我 知 道 是 要 有 一 个 direction 啦 主 要 是
+UI21MAZ_0101 799080 805421 CS 因 为 我 在 company 也 认 认 识 到 一 个 刚 刚 转 过 来 跟 我 们 同 一 batch 进 去 公 司 的
+UI21MAZ_0101 805421 813691 CS 他 三 十 多 岁 了 他 也 是 有 跟 我 们 讲 他 现 在 再 不 拼 的 话 就 没 有 得 再 拼 了 啦 他 讲 他 以前 他 在 intel 待 了 七 年
+UI21MAZ_0101 813691 816032 CS contract 罢 了 他 待 了 七 年 但 是 他 没 有 走
+UI21MAZ_0101 816384 822675 ZH 然 后 他 讲 现 在 觉 得 有 一 点 好 像 没 有 方 向 了 所 以 他 现 在 要 过 来 拼 了 他 讲 三 十 多 岁 了 他 讲
+UI21MAZ_0101 826643 827545 EN mmm
+UI21MAZ_0101 834445 835131 EN mmm
+UI21MAZ_0101 838195 843391 CS mmm 我 知 道 因 为 也 是 因 为 我 一 毕 业 出 来 真 的 是 很 没 有 direction 那 时 候
+UI21MAZ_0101 843391 847117 ZH 我 真 的 是 一 个 月 在 想 咯 一 个 月 想 要 做 什 么 工 咯
+UI21MAZ_0101 847117 850627 CS 我 想 到 最 后 我 还 是 没 有 一 个 明 确 的 direction
+UI21MAZ_0101 851157 861038 CS 然 后 就 先 try 进 这 种 m. n. c. 看 怎 样 咯 因 为 m. n. c. 你 在 有 经 验 过 后 你 可 以 跳 department 嘛 就 好 像 我 现 在 是 tech support 我 可 能 跳 去 做 sales 也 可 能 的
+UI21MAZ_0101 861403 866613 CS 他 们 是 可 以 给 你 去 try 他 们 是 很 鼓 励 encourage 你 们 去 try 不 同 department 的
+UI21MAZ_0101 867280 868018 ZH 所 以 就
+UI21MAZ_0101 871493 879771 CS 其 实 还 那 时 候 第 八 个 choice 嘛 所 以 都 讲 第 八 个 choice 我 会 放 他 第 八 个 choice 是 因 为 我 觉 得 environment 以 后 会 很 需 要
+UI21MAZ_0101 880123 897738 CS 我 是 这 样 的 想 法 以 后 会 很 需 要 所 以 我 放 便 便 他 结 果 拿 到 他 过 后 我 读 完 他 啊 兴 趣 leh 只 有 大 概 六 十 巴 仙 罢 了 啦 就 真 的 没 有 说 非 常 喜 欢 啦 如果 真的 要 我 做 的 话 可 能 会 想 那 种 energy resource 那 一 方 面 会 比 较 喜 欢 那 一 方 面 的 东 西 咯
+UI21MAZ_0101 897738 905153 CS 然 后 因 为 很 多 那 种 waste treatment 然 后 我 是 我 们 environment 有 得 分 四 个 major 的
+UI21MAZ_0101 905522 910876 CS biology chemistry geology 还 有 一 个 是 health 然 后 我 拿 是 biology 的
+UI21MAZ_0101 911333 914140 CS 因 为 我 比 较 喜 欢 fieldwork 其 实 我 也 是 随 便 拿 罢 了
+UI21MAZ_0101 914140 922409 CS 但 是 在 biology 里 面 你 读 的 都 是 是 你 读 那 种 动 物 啊 生 物 啊 生 态 那 些 然 后 读 那 种 树 的 species
+UI21MAZ_0101 922409 932116 CS 然 后 动 物 的 名 字 那 种 我 就 其 实 还 蛮 没 有 兴 趣 的 当 初 拿 那 个 是 为 了 去 fieldwork 罢 了 因 为 那 个 course 可 以 整 天 跑- 跑 这 边 跑 那 边 去 fieldwork
+UI21MAZ_0101 933426 940658 CS chemical 是 我 最 讨 厌 的 因 为 我 从 form- form four 开 始 我 chemistry 可 以 没 有 超 过 六 十 分 的
+UI21MAZ_0101 941328 942854 CS 我 chemistry 是 最 烂 的
+UI21MAZ_0101 943583 948894 CS 我 不 能 我 不 能 的 我 看 那 种 c. h. c. h. c. o. o. 我 已 经 晕 了 我 不 能 看 的
+UI21MAZ_0101 949800 955154 CS chemistry 是 我 最 差 的 然 后 physics 是 okay 的 啦 bio 我 form six 是 拿 physics 的 其 实
+UI21MAZ_0101 955154 957649 CS 讲 是 bio 还 还 算 okay 啦
+UI21MAZ_0101 957649 967021 CS 所 以 就 选 了 biology 咯 因 为 geology 是 很 sian 的 读 石 头 读 那 种 地 震 啊 那 种 的 然 后 还 有 chemistry 不 要咯
+UI21MAZ_0101 967021 974465 CS 那 个 health 的 是 整 天 在 lab 里 面 做 那 种 细 菌 啊 那 些 也 是 很 sian 的 我 不 想 做 那 样 的 东 西 所 以 就
+UI21MAZ_0101 979595 999454 CS mmm 啊 这 个 啊 biology 这 种 是 比 较 health 那 种 做 lab 的 东 西 的 咯 我 是 很 讨 厌 lab pun 的 整 天 一 整 天 躲 在 那 个 lab 里 面 做 完 一 定 要 做 一 个 东 西 又 不 完 哦 还 有 第 二 天 还 要 回 去 一 直 直 直 做 整 个 星 期 才 能 完 很 sian
+UI21MAZ_0101 1008185 1009342 EN mmm
+UI21MAZ_0101 1015585 1036435 CS mmm 要 看 是 哪 一 方 面 咯 有 会 有 一 点 就 好 像 之 前 我 的 internship 就 我 的 latihan industri 的 时 候 我 是 做 回 我 的- 我 这 方 面 的 工 啦 我 是 在 一 间 plastic 厂 做 那 种 m- 就 是 顾 他 的 quality 啊 顾 environment 的
+UI21MAZ_0101 1036435 1041642 CS 然 后 就 真 的 是 那 种 plastic 的 有 时 候 那 种 气 味 啊 那 种 味 道 啊 真 的 是 很 很 难 顶
+UI21MAZ_0101 1041642 1059261 CS 真 的 要 要 tahan 咯 因 为 之 前 我 去 在 k. l. 那 边 interview 过 那 个 yokohama 的 那 个 battery 厂 他 们 也 是 要 请 我 做 quality engineer 的 他 也 是 有 跟 我 讲 你 进 去 有 一 个 department 做 那 种 battery 的 啊 因 为 plumbum 那 些 的 你 还 要 去 戴 mask 全 部 戴 全 身 equipment 才 可 以 进
+UI21MAZ_0101 1059261 1065529 CS 他 问 我 那 味 道 很 难 顶 你 能 顶 吗 他 有 问 我 interview 的 时 候 他 有 问 我 是 这 样 咯
+UI21MAZ_0101 1067560 1088974 CS 久 了 ha 对 久 了 过 后 可 能 会 是 咯 我 也 是 会 有 担 心 这 一 点 啦 可 能 会咯 副 作 用 咯 副 作 用 咯 这 些 你 不 懂 的 每 天 那 种 空 气 里 面 的 particle 你 吸 了 你 现 在 很 健 康 可 能 十 年 后 那 个 累 计 那 个 effect 才 跑 出 来 是 这 样
+UI21MAZ_0101 1092607 1107054 CS 现 在 我 才 做 了 快 要 两 个 月 罢 了 因 为 八 月 毕 业 唉 七 八 月 多 我 已 经 开 始 做 了 的 mmm weekdays 咯 weekdays 从 九 点 做 到 六 点
+UI21MAZ_0101 1107054 1111342 CS 就 是 说 九 个 小 时 罢 了 没 有 错 的 话 是 加 lunch 啦
+UI21MAZ_0101 1111342 1114513 CS 对 没 有 加 lunch 九 个 小 时 九 小 时 对 九
+UI21MAZ_0101 1114513 1121154 CS support malaysia 跟 新 加 坡 的 电 话 罢 了 咯 就 这 两 个 国 家 的 customer call 进 来 咯 我 们-
+UI21MAZ_0101 1124681 1133910 CS 啊 对 depends 的 因 为 dell 现 在 的 整 个 dell call centre 在 槟 城 的 只 是 剩 下 australia new zealand 还 有 新 加 坡 malaysia 罢 了
+UI21MAZ_0101 1133910 1140436 CS 然 后 australia new zealand 当 然 是 我 没 有 进 啦 因 为 那 个 department 那 种 外 国 人 的 call 真 的 是 很 难 听
+UI21MAZ_0101 1140436 1147026 CS 他 们 的 英 文 太 深 了 然 后 有 那 种 native 的 腔 那 种 accents 哇 真 的 是 听 不 懂
+UI21MAZ_0101 1148460 1150048 ZH 有mmm
+UI21MAZ_0101 1157923 1169399 CS 我 们 是 有 一 个 target 的 咯 每 一 个 agent 至 少 要 星 期 一 会 最 多 call 因 为 星 期 六 星 期 日 没 有 得 打 进 来 所 以 星 期 一 会 最 多 call 至 少 要 有 二 十 五 个
+UI21MAZ_0101 1169399 1180295 CS 一 天 要 听 二 十 五 个 然 后 星 期 二 他 们 也 是 depends 的 星 期 二 看 他 们 有 data 一 天 里 面 总 共 有 四 百 个 call 的 话 有 四 十 个 agent 他 就 除
+UI21MAZ_0101 1180295 1190413 CS 除 咯 然 后 每 个 人 要 多 少 个 call 他 其 实 是 每 每 天 在 变 的 啦 那 个 target 但 是 一 个 basic 的 guideline 是 二 十 五 二 十 五 然 后 接 下 来 是 二 十 二 到 完 三天
+UI21MAZ_0101 1190413 1195779 ZH 两 天 星 期 一 星 期 二 二 十 五 然 后 接 下 来 是 二 十 二 三 四 五 是 这 样 子

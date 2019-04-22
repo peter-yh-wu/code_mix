@@ -1,0 +1,162 @@
+21NC42MBQ_0101 32460 33759 EN okay
+21NC42MBQ_0101 54826 56096 EN okay 
+21NC42MBQ_0101 64879 69010 CS i disagree i think the 鸡 饭 is quite okay leh
+21NC42MBQ_0101 76919 82080 CS i know it's terrible i really want to 吃 鸡 饭
+21NC42MBQ_0101 90970 93450 CS 我 喜欢 吃 the white chicken meat
+21NC42MBQ_0101 105191 106432 ZH 我 喜欢
+21NC42MBQ_0101 111530 113370 CS 我 喜欢 吃 roast chicken
+21NC42MBQ_0101 122790 125600 CS 我 喜欢 喝 那个 ice lemon tea
+21NC42MBQ_0101 134140 139166 CS the 柠檬 茶 is okay it is not very sweet
+21NC42MBQ_0101 146890 150140 CS 你 应该 试试看 the watermelon juice
+21NC42MBQ_0101 159490 163360 CS i prefer 喝 red bull
+21NC42MBQ_0101 172390 177580 CS instead of drinking red bull 我 会 喝 咖啡 instead
+21NC42MBQ_0101 195360 198840 CS i cannot help it 我 不可 以 睡觉
+21NC42MBQ_0101 209698 211025 ZH 我 真 的 很 忙
+21NC42MBQ_0101 212130 215820 CS 我 学校 里 有 很多 project to do
+21NC42MBQ_0101 224360 227880 CS 需要 time management 好 一点
+21NC42MBQ_0101 233490 237060 CS 可惜 no improvement at all
+21NC42MBQ_0101 246440 249150 CS 这个 科目 is very difficult
+21NC42MBQ_0101 261430 266050 CS accounting 这个 科目 is really not 简单
+21NC42MBQ_0101 286681 293201 CS if i had the choice 我 可能 会 选 human resource management
+21NC42MBQ_0101 312213 312790 EN oh
+21NC42MBQ_0101 315421 320730 CS 我的 朋友 的 科目 很 容易 score well
+21NC42MBQ_0101 329701 334751 CS 对 他的 major 没有 exam 的
+21NC42MBQ_0101 344601 348261 CS that's why i say accounting 真的 不容易
+21NC42MBQ_0101 357790 362250 CS 每天 i sleep very late 因为 我在 做 project
+21NC42MBQ_0101 374611 377041 CS 我们 应该 change topic 了
+21NC42MBQ_0101 385171 390151 CS 我 很 喜欢 唱歌 i think it is very fulfilling
+21NC42MBQ_0101 402911 408691 CS 能 用 唱歌 来 relieve stress is a very good thing
+21NC42MBQ_0101 420521 425381 CS 到 现在 i still don't know the proper way of singing
+21NC42MBQ_0101 436223 437175 ZH 在 外面
+21NC42MBQ_0101 438661 442991 CS 听说 有 很多 technique 来 唱歌
+21NC42MBQ_0101 463121 469120 CS how do we educate the public to 选 good instructors
+21NC42MBQ_0101 487651 493381 CS 我 希望 one day i can be as successful as them
+21NC42MBQ_0101 503401 505950 CS 到 时间 去 market 了
+21NC42MBQ_0101 520631 524491 CS 我 喜欢 go running very late at night
+21NC42MBQ_0101 543021 548641 CS i think 我们的 时间 should be managed better
+21NC42MBQ_0101 568170 571820 CS what are the reasons for 跑步 at night
+21NC42MBQ_0101 589411 594901 CS 我 喜欢 在 晚上 跑步 because the air is very cooling
+21NC42MBQ_0101 612251 617971 CS 我 喜欢 running at night 因为 没有 人 在
+21NC42MBQ_0101 628599 631600 EN a repetition of points
+21NC42MBQ_0101 632956 635583 CS 是 not avoidable
+21NC42MBQ_0101 666351 674931 CS 我 觉得 我们 应该 fully support our friends in their endeavours
+21NC42MBQ_0101 700161 705701 CS 我们 在 生活 里 all have different limits
+21NC42MBQ_0101 719116 723272 CS 人类 are not perfect
+21NC42MBQ_0101 745859 747129 ZH 我们
+21NC42MBQ_0101 748485 753160 EN shouldn't be very bitter in life
+21NC42MBQ_0101 760851 765131 CS 很 苦 just like the bitter gourd at canteen five
+21NC42MBQ_0101 788348 792129 CS i think 人
+21NC42MBQ_0101 793261 799131 CS have their different ways of supporting themselves 我们 不 应该 judge them
+21NC42MBQ_0101 815861 822791 CS 如果 我们 要 successful in life 需要 付出 一个 代价
+21NC42MBQ_0101 842711 845381 CS 我 喜欢 弹 the piano
+21NC42MBQ_0101 854951 858101 CS people 喜欢 listening to my music cs
+21NC42MBQ_0101 870562 875081 CS oh my god 我的 朋友 are all liars
+21NC42MBQ_0101 894618 896379 EN piano playing
+21NC42MBQ_0101 898261 901041 CS helps me to release my 压力
+21NC42MBQ_0101 924661 930171 CS discipline is very important 如果 我们 要在 生活 里 成功
+21NC42MBQ_0101 948661 953261 CS when we approach our friends we should not 得寸进尺
+21NC42MBQ_0101 969951 974891 CS in the future 我 可能 会 考虑 becoming a teacher
+21NC42MBQ_0101 986561 990511 CS 我 觉得 becoming a teacher is very fulfilling
+21NC42MBQ_0101 991421 995781 CS 你 有机 会 跟 小孩子 share your experiences
+21NC42MBQ_0101 1022061 1026881 CS there are good teachers and 有些 老师 不是 好的
+21NC42MBQ_0101 1044501 1049651 CS in the future 我 打算 in five year's time 结婚
+21NC42MBQ_0101 1069841 1073981 CS it is very sad 我 到 现在 还没有 女朋友
+21NC42MBQ_0101 1094791 1098201 CS the first step would be to 找 一个 女朋友
+21NC42MBQ_0101 1108921 1112381 CS i think 我 只是 还 没有 找到 the right one
+21NC42MBQ_0101 1143221 1146541 CS 这个 录音 is a very different experience
+21NC42MBQ_0101 1158841 1162651 CS i have had experience 在 录音 的 方面
+21NC42MBQ_0101 1185649 1189431 CS in the future 我 可能 要 做 一个 celebrity
+21NC42MBQ_0101 1220631 1226001 CS 我 觉得 the life of a pop star is very 苦
+21NC42MBQ_0101 1257841 1263331 CS i admire the confidence that 他们 在 电视 上 display
+21NC42MBQ_0101 1284561 1288761 CS i am really dreading 学校 opening
+21NC42MBQ_0101 1307981 1315581 CS next semester 我 take 的 科目 are very challenging and difficult
+21NC42MBQ_0101 1327041 1330261 CS 可是 我们 都有 自己的 opinion
+21NC42MBQ_0101 1350031 1354791 CS very often in life 我们 需要 make a stand for ourselves
+21NC42MBQ_0101 1395930 1399030 CS why don't we 开始 一个 新的 topic
+21NC42MBQ_0101 1408471 1410840 CS when was the last time 你 去 医院
+21NC42MBQ_0101 1419131 1421581 CS how was your experience at the 医院
+21NC42MBQ_0101 1438720 1443970 CS it must be very painful to 知道 that no one loves you
+21NC42MBQ_0101 1454534 1456641 ZH 当 你 在 医院 的 时候
+21NC42MBQ_0101 1457630 1460820 CS 很多 朋友 all suffered because of it
+21NC42MBQ_0101 1471920 1474671 CS 医院 的 费用 was very expensive
+21NC42MBQ_0101 1487031 1491621 CS at the end of the day 你 有没有 拿 到 那个 reimbursement 吗
+21NC42MBQ_0101 1532061 1537711 CS we shouldn't let our emotions interfere with our 工作
+21NC42MBQ_0101 1581531 1584661 CS maybe 我们 应该 选 新的 topic 来讲
+21NC42MBQ_0101 1593450 1599530 CS could you do your part in 选 一个 新的 topic
+21NC42MBQ_0101 1627063 1629516 EN oh dear we are running late
+21NC42MBQ_0101 1629980 1633770 CS 我们 在 五分 钟 就要 去 meeting 了
+21NC42MBQ_0101 1654651 1657860 CS 这个 开会 is a very important one
+21NC42MBQ_0101 1666992 1670628 EN i i i okay i'll try
+21NC42MBQ_0101 1696555 1700769 CS 真 的 吗 the experience must have been very scary
+21NC42MBQ_0101 1738064 1742890 CS oh my god the horror that 你 经历 how did you cope with it
+21NC42MBQ_0101 1758221 1764020 CS 你 懂 吗 有 很多 音乐 我 喜欢 i especially like the english pop music
+21NC42MBQ_0101 1779470 1781450 CS 我 记得 在 exam 的 时候
+21NC42MBQ_0101 1783181 1784855 EN i couldn't do a single question
+21NC42MBQ_0101 1797921 1803301 CS we shouldn't take things too personally 有些 东西 都是 我们 太 小气 了
+21NC42MBQ_0101 1818458 1822354 CS 说 得 对 while there are limit that we shouldn't cross
+21NC42MBQ_0101 1822641 1824941 CS 我们 还 应该 full of grace
+21NC42MBQ_0101 1844181 1845321 CS what are your 梦想
+21NC42MBQ_0101 1867041 1872681 CS maybe 我们 需要 再 问 他 to reexamine his priorities
+21NC42MBQ_0101 1902421 1907970 CS but as friends we should draw that line between 工作 and play
+21NC42MBQ_0101 1916261 1920291 CS 我们 在 讲 的 这些 句子 are all hypothetical ones
+21NC42MBQ_0101 1927935 1929435 EN yes
+21NC42MBQ_0101 1967531 1971131 CS 我 觉得 our hall is actually one of the most convenient halls
+21NC42MBQ_0101 1972009 1977146 CS 走 去 学校 只 需要 十 分钟 而已 i am not complaining
+21NC42MBQ_0101 1988681 1994751 CS but still compared to halls that are further away 我们的 hall 算 已经 很 近 了
+21NC42MBQ_0101 2007121 2014091 CS for the halls further away they have to wake up early and 需要 跟 人家 crowd into the bus
+21NC42MBQ_0101 2028091 2030931 CS 我 喜欢 walking to school in the morning
+21NC42MBQ_0101 2040465 2043668 CS how often do you 搭 得士 去 学校
+21NC42MBQ_0101 2057420 2065221 CS what are the chances of us 在 我们的 考试 scoring well
+21NC42MBQ_0101 2098131 2103311 CS as long as we believe in that 我们 就 应该 心满意足 了
+21NC42MBQ_0101 2141021 2149001 CS 你 会不会 觉得 我们 在 学校 学 的 东西 compared to our working life will be very irrelevant
+21NC42MBQ_0101 2160951 2166011 CS 我 觉得 engineering and accountancy 都 算是 很 specialised 的 degree
+21NC42MBQ_0101 2184131 2190730 CS regarding our career choices 我们 都 需要 plan ahead
+21NC42MBQ_0101 2207441 2217690 CS 放假 之前 i have sent out resumes to different 公司 to request for an internship
+21NC42MBQ_0101 2232300 2242060 CS 如果 我 能 有一个 scholarship 那 就 对 我的 future career 会 有 很大 的 帮助
+21NC42MBQ_0101 2275610 2281060 CS it has been a while since 我 去 海滩 跑步
+21NC42MBQ_0101 2291100 2294910 CS 在 海滩 跑步 the air is much fresher there
+21NC42MBQ_0101 2304110 2308370 CS 我 觉得 在 海滩 跑步 there is a very nice scenery
+21NC42MBQ_0101 2327363 2332644 CS 没有 这个 必要 running along the shoreline
+21NC42MBQ_0101 2350986 2352285 EN 
+21NC42MBQ_0101 2372720 2377530 CS 你 喜欢 吃 什么 lunchtime is coming up
+21NC42MBQ_0101 2399882 2402421 CS 我们 应该 avoid fast food
+21NC42MBQ_0101 2403001 2409501 CS 我们 都 应该 pursue a healthy lifestyle
+21NC42MBQ_0101 2436091 2439551 CS 考试 的 时候 i put on a lot of weight
+21NC42MBQ_0101 2478691 2482871 CS 现在 考试 完了 i am thinking of running more often
+21NC42MBQ_0101 2503681 2508101 CS 上 个 星期 我在 跑步 的 时候 i sprained my ankle
+21NC42MBQ_0101 2529751 2537561 CS 当 我在 跑步 的 时候 and i sprained my ankle i fell down and it was very embarrassing
+21NC42MBQ_0101 2544775 2551124 CS 丢脸 的 是 我 在 一群 女孩子 在 跑步 的 时候 fall down
+21NC42MBQ_0101 2579071 2585821 CS 我 觉得 我 比 most common people 比较 fit
+21NC42MBQ_0101 2605941 2611541 CS 因为 recession i am buying less meat
+21NC42MBQ_0101 2612768 2614962 ZH 我 在 吃 多 一点 蔬菜
+21NC42MBQ_0101 2667976 2674123 CS i intend to not do my gift shopping at the last minute 那些 department store
+21NC42MBQ_0101 2674781 2678701 CS 有 很多 人 买 东西 很 inconvenient
+21NC42MBQ_0101 2691151 2696731 CS i enjoy going to the malls 因为 他们 有 各种各样 的 decorations 很好 看
+21NC42MBQ_0101 2733581 2738311 CS during christmas 我 已经 有 打算 跟 家人 吃饭 了
+21NC42MBQ_0101 2749271 2755411 CS i will be going later for my dinner appointment 因为 我 之前 需要 做工
+21NC42MBQ_0101 2768551 2772161 CS 新年 快要 到了 have you bought any new clothes
+21NC42MBQ_0101 2837201 2842821 CS 我的 邻居 有 很多 狗 it is very noisy at home
+21NC42MBQ_0101 2862151 2866291 CS 你 在 晚上 的 时候 have difficulty sleeping 吗
+21NC42MBQ_0101 2908381 2911591 CS 你 真的 是 high maintenance 很难 养 你
+21NC42MBQ_0101 2934691 2936501 CS how often do you 吃 宵夜
+21NC42MBQ_0101 2958181 2962841 CS while you claim to be eating lesser 你 为什么 看起来 还是 很 肥
+21NC42MBQ_0101 2991431 2993652 CS last week 你 有 去 看 一个 演出
+21NC42MBQ_0101 2993912 2996019 CS 感觉 how was it
+21NC42MBQ_0101 3035790 3038681 CS how much did you pay to 看 这个 演出
+21NC42MBQ_0101 3061631 3071040 CS 我 觉得 有些 演出 的 ticket prices are too expensive already i cannot afford
+21NC42MBQ_0101 3108511 3112111 CS 你 有没有 梦想 成为 一个 famous celebrity
+21NC42MBQ_0101 3145881 3153851 CS it has been raining quite a lot 所以 我 喜欢 呃 在 早上 比较 迟 起来
+21NC42MBQ_0101 3187730 3191880 CS 有时候 我们 需要 manage 我们的 expectations
+21NC42MBQ_0101 3216271 3224211 CS there are many activities going on now during the holidays 我们 应该 watch our health
+21NC42MBQ_0101 3269351 3275451 CS 最近 有 很多 好的 电影 出来 but i haven't had the time to watch any
+21NC42MBQ_0101 3304440 3305421 ZH 我 在
+21NC42MBQ_0101 3307471 3314311 CS 放假 的 时候 其实 有 很多 时间 去 看 电影 i have been watching quite a few myself
+21NC42MBQ_0101 3324611 3329131 CS 我 最 讨厌 考试 的 时候 i am the last one to end my exams
+21NC42MBQ_0101 3337311 3340991 CS next semester 我的 考试 就是 最后 end
+21NC42MBQ_0101 3360001 3366010 CS 有些 人 find holding a conversation 一个 很 艰难 的 事情
+21NC42MBQ_0101 3405041 3408391 CS 可是 我 觉得 这个 research 真的 是 满 有趣 的
+21NC42MBQ_0101 3415991 3419540 CS 这是 我 第一次 来到 emerging research lab
+21NC42MBQ_0101 3445321 3449300 CS 你 想 不想 lunchtime 的 时候 吃 fast food 吗
+21NC42MBQ_0101 3483271 3487861 CS 我 有一个 朋友 who finds holding conversation very difficult
+21NC42MBQ_0101 3489634 3495954 CS 当 她 需要 一个 钟头 讲 这个 的 时候 she found it extremely difficult
+21NC42MBQ_0101 3508391 3511381 CS 我 最 喜欢 的 颜色 就是 violet

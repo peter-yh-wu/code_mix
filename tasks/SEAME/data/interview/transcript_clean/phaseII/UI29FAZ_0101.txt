@@ -1,0 +1,241 @@
+UI29FAZ_0101 0 2039 CS but they 叫做 d. o. s. data collection leh 这样
+UI29FAZ_0101 8334 9212 ZH 哦
+UI29FAZ_0101 9212 10438 ZH 啊 嗯
+UI29FAZ_0101 10438 13725 CS 今天 我 incharged 的 session 是 啊 w. i. p. lor
+UI29FAZ_0101 13725 14681 EN then
+UI29FAZ_0101 14681 16728 CS w. i. p. 是 work in progress
+UI29FAZ_0101 16728 20341 CS 就是 我们的 m. e. s. system (er) 要 track
+UI29FAZ_0101 20341 25588 EN production how they ah running the boards through out the whole process lor
+UI29FAZ_0101 25588 31410 CS because 如果 没有 这个 tracking 的 话 他们 不知道 他们的 physical board 会 走到 去 哪里
+UI29FAZ_0101 31410 34420 CS 所以 我们 一定 要 有 一个 system to track
+UI29FAZ_0101 34420 36506 EN this so called w. i. p.
+UI29FAZ_0101 36506 38891 EN work in progress okay
+UI29FAZ_0101 39442 43656 CS 啊 嗯 其实 这个 training 有 三个人 会 involved
+UI29FAZ_0101 44034 46174 CS 然后 三个 instructor
+UI29FAZ_0101 46174 47405 CS 会 involved
+UI29FAZ_0101 47405 54933 CS then 我 会 负责 这个 portion 还有 再下个 星期 明天 也是 有一个 session 两个 session 是 关于 我的
+UI29FAZ_0101 54933 56974 ZH 啊 就是 会 教
+UI29FAZ_0101 56974 60890 EN manual test entry and analyses and re-work process
+UI29FAZ_0101 60890 61767 EN ok
+UI29FAZ_0101 61767 65957 CS basically 是 会 让 教 他们 怎样 用 那个 spin lor
+UI29FAZ_0101 65957 67117 ZH 嗯 嗯
+UI29FAZ_0101 67461 69955 CS 还有 一个 last session 是
+UI29FAZ_0101 69955 73670 CS ah e. p. s. lor e.b.s.是 electronic pack-up system
+UI29FAZ_0101 73670 75287 ZH 这个 是 啊
+UI29FAZ_0101 75545 77381 EN how's a board is back up
+UI29FAZ_0101 77932 79893 EN through the system
+UI29FAZ_0101 79893 83235 CS 因为 我们的 公司 是 consist of
+UI29FAZ_0101 83235 84718 CS 很多 customer
+UI29FAZ_0101 84718 89464 CS 所以 每一个 customer 他有 都有 要求 不同的 啊 pack up process lor
+UI29FAZ_0101 89464 93244 CS 可能 这一个 customer 他要 specific ah 我 要 in
+UI29FAZ_0101 93244 95949 EN one box or in one pallet
+UI29FAZ_0101 95949 97101 EN okay so
+UI29FAZ_0101 97669 100163 CS 这个 customization can be done lor
+UI29FAZ_0101 100163 102574 EN for every customer
+UI29FAZ_0101 102791 103279 EN (em) (em)
+UI29FAZ_0101 107525 109694 ZH 我们的 新人 有 全部
+UI29FAZ_0101 109694 113306 CS functional plus technical 有 十个
+UI29FAZ_0101 114373 116179 CS 十个人 in 一个 class
+UI29FAZ_0101 117606 119343 CS 全部 都是 new hired
+UI29FAZ_0101 119343 124211 CS 然后 有的 有 experience on previous job lor as a
+UI29FAZ_0101 125226 128477 EN a support on manufacturing system
+UI29FAZ_0101 128477 135426 CS 有的 嘞 是 purely as a developer lor 他们 没有 involved 过 real environment in production line lor
+UI29FAZ_0101 136313 136723 ZH 这样
+UI29FAZ_0101 140990 144564 CS 有 我们 有 syllabus 我们 有 break up to many section lor
+UI29FAZ_0101 144564 146800 EN from configuration
+UI29FAZ_0101 146800 150658 CS 到 assembly configuration 到 w. i. p. tracking
+UI29FAZ_0101 150658 155405 CS 啊 到 inspection test
+UI29FAZ_0101 155405 157619 ZH 嗯 还有 什么 啊
+UI29FAZ_0101 158170 161145 CS 还有 啊 out of box audit
+UI29FAZ_0101 161145 163893 CS 还有 pack up plus shipping
+UI29FAZ_0101 167933 171955 CS 啊 是 我们 previous 的 senior 当 我们
+UI29FAZ_0101 171955 174673 CS as 我 new hired 进来 这间 公司 的时候
+UI29FAZ_0101 174673 180065 CS 啊 他 已经 是 有一些 syllabus 已经 prepared 了 so far
+UI29FAZ_0101 180065 188502 CS according to document 的话 我们 大概 有 整 三十多个 documentation for each ah section lor
+UI29FAZ_0101 190893 196795 CS the training 啊 会 last for one week (er) seven days
+UI29FAZ_0101 200303 204259 CS 哦 是 我们 自己的 公司 啊 developed 的
+UI29FAZ_0101 204259 207647 ZH 但是 未来 嘞我们 会 将
+UI29FAZ_0101 207647 214896 CS ah buy in some third party 了 然后 customized 它 因为 我们的 demand from different customer 不同 嘛
+UI29FAZ_0101 224176 228410 CS 哦 有的 customer 暂时 现在 他们的 route map 就是 看 一下
+UI29FAZ_0101 228410 236958 CS 有 没有 可能 新 买的 那 一个 玉材 很 is a very early stage oh 看 他们 这个 system 可 不 可以 adapt to all the customer into 我们的 company
+UI29FAZ_0101 236958 243028 CS 啊 到 但是 他们 只是 现在的 阶段 是 target field customer
+UI29FAZ_0101 243028 248119 CS 然后 implement 然后 再 explore 看 能不能 适应 全部的 customer
+UI29FAZ_0101 248119 254449 CS so currently 如果 在未来的 短短 一两年 之内 嘞 我们 应该 会 有 more than
+UI29FAZ_0101 254449 259859 CS two so called 的 啊 manufacturing system tracking to support lor
+UI29FAZ_0101 259859 266449 CS before 可能 他们 finalized 了 要 go in all in one or continuos as this model 这样 咯
+UI29FAZ_0101 272263 276806 CS 啊 我们 用的 是 microsoft ah technology 的
+UI29FAZ_0101 276806 280686 CS in currently 的 application 还 still run on b. b. six.
+UI29FAZ_0101 280686 284020 CS 啊 暂时 即将 同样的 platform
+UI29FAZ_0101 284020 288223 CS for ah this self developed 的 嘞 我们 会 用 啊
+UI29FAZ_0101 288223 293247 EN dot net platform to develop and then m. s. s. q. l. l. two thousand eight
+UI29FAZ_0101 293247 299575 CS okay 然后 for 新的 buy in leh (er) 我们 会 用到 s. a. p. i. m. e. oh
+UI29FAZ_0101 305217 306241 ZH 哦
+UI29FAZ_0101 306241 307841 ZH 很
+UI29FAZ_0101 307841 309062 ZH 基
+UI29FAZ_0101 309062 314996 CS 啊 基本上 for those 全部 manufacturing product 的 那些 configuration vice leh
+UI29FAZ_0101 314996 316441 ZH 应该 是 一样的
+UI29FAZ_0101 317043 323237 CS 只是 我们 有很多 customized for 自己的 customer lor
+UI29FAZ_0101 327501 334623 CS 不是 e. r. p. purely on manufacturing system 我们的 e. r. p.是 running on s. a. p.
+UI29FAZ_0101 340500 346775 CS 啊 未来 就是 因为 我们 有 很多的 e. r. p. system 还有 shipping 都是 用 s. a. p. mah 所以 我们
+UI29FAZ_0101 346775 348855 CS ah hopefully 我们 可以
+UI29FAZ_0101 348855 351573 CS 因为 我们 现在 currently 要 做 很多 integration
+UI29FAZ_0101 351573 353434 EN in a~ among the system
+UI29FAZ_0101 353434 354996 EN err
+UI29FAZ_0101 354996 361824 CS 所以 的 management 希望说 okay one platform for all lor just a from planning 到
+UI29FAZ_0101 362512 371305 CS production 到 shipping 到 finance 全部 都是 用 同样 一个 system 会 比较 容易 integrate lor 这个 是 他们的 future problem
+UI29FAZ_0101 375890 380177 CS 可以 只是 它 因为 s. a. p. 它的 configuration 很 复杂
+UI29FAZ_0101 380177 385388 CS 然后 没有 这样 flexible 你 如果 要做 很多 customization 的话
+UI29FAZ_0101 385388 392681 CS 你 要 需要 很多 experty* 然后 你要 啊 要 involved 很多 coding 这样 会 比较 麻烦
+UI29FAZ_0101 393369 395690 CS 没有 这样 flex lah so far 但是
+UI29FAZ_0101 395690 398391 CS 这个 新的 application
+UI29FAZ_0101 398391 403958 CS 我 就 不是 很 清楚 因为 我 没有 involved 我 这个 大概 知道 so far as a s. a. p. called
+UI29FAZ_0101 403958 407345 CS function ah 他们的 module sell it to to
+UI29FAZ_0101 407345 412158 CS i mean manufacturing line 的话 嘞 是 quite standard lor 然后 很多 customization 要做
+UI29FAZ_0101 423587 430977 CS oh so far 我们 用的 东西 呢 都是 integration so called lah 都是 through services lor
+UI29FAZ_0101 430977 432049 EN ah
+UI29FAZ_0101 432496 435593 CS s. a. p. 要 啊
+UI29FAZ_0101 435593 437609 EN generate out certain file
+UI29FAZ_0101 437609 443780 EN that is needed by manufacturing system then the file is loaded into the system
+UI29FAZ_0101 443780 455892 CS so 都是 他的 integration 是 file 的 没有 direct communication like okay 这个 system talk to 这个 system 它 就是 is a 还有 一个 intervertif* 一个 中间人 就是 filed 来 做integration
+UI29FAZ_0101 458691 463028 CS 有 问题的 是会 发生 在 就是 说 okay as a job
+UI29FAZ_0101 463028 466997 CS 去看 那些 services 在 那边 stand by 那些 file 有没有来 啊
+UI29FAZ_0101 466997 477713 CS 有时候 那些 file 没有来 还是 那些 file uncompleted 还是 那些 file 有问题 from the system 的 时候 那边 就 有一个 好像 grey area lor 当 发生 事 的 时候 只是 user 只是 觉得 哎 没有 data
+UI29FAZ_0101 477713 479822 CS 他 可能 s. a. p. 那边 有问题
+UI29FAZ_0101 479822 483004 CS 但是 他们 report okay 你的 m. e. s. system
+UI29FAZ_0101 483004 484999 CS 有 问题 这样子 that is why
+UI29FAZ_0101 484999 486770 CS 这些 integrate 就是
+UI29FAZ_0101 486770 491449 ZH 会 有 很多 不同的 啊 怎样 讲
+UI29FAZ_0101 491449 495508 CS 用 figure 用 further feed (er) linkup lor
+UI29FAZ_0101 495508 498154 CS 所以 没有 这样 direct lor
+UI29FAZ_0101 501433 502162 ZH 对
+UI29FAZ_0101 516028 522476 CS 哦 这个 是 他们的 final goal 就是 说 要用 s. a. p. 的 话 他们 可以 啊 cross among all side ah
+UI29FAZ_0101 522476 528514 CS but currently 是 每一个 side 都 有 自己的 database for their w. i. p. packing lor
+UI29FAZ_0101 530962 531587 EN okay
+UI29FAZ_0101 537101 538426 CS for deal 什么
+UI29FAZ_0101 540404 542055 EN oh
+UI29FAZ_0101 542055 544824 CS 有 很多 啊 from
+UI29FAZ_0101 544824 546848 EN consumer product
+UI29FAZ_0101 546848 552662 CS 到 那些 net working 的 还有 一些
+UI29FAZ_0101 552662 555004 CS aerospace 的 也是 有
+UI29FAZ_0101 556033 559559 CS 这样子 咯 看different customer lor
+UI29FAZ_0101 564667 567649 CS 有 我们的 base 是在 u. s.
+UI29FAZ_0101 568560 569403 ZH 对
+UI29FAZ_0101 581116 585140 CS 哦 因为 每一个 side hor 其实 他们 都是 很 independent 的
+UI29FAZ_0101 585140 588652 CS okay 除了 s. a. p. 因为 s. a. p. 是 global lor
+UI29FAZ_0101 588652 592079 CS 但是 也是 有 分 region lah 但 啊
+UI29FAZ_0101 592767 596087 CS 然后 因为 like finance 的 东西 是很 standard 的 嘛
+UI29FAZ_0101 596087 602847 CS 如果 他们 要看 那些 finance 的 result ah 什么 东西 都是 很 standard 的 嘛 但是 for manufacturing 因为 很 side specific mah
+UI29FAZ_0101 602847 607648 CS 所以 是 比较 难 会 看到 说 你要 cross among the side 的 咯
+UI29FAZ_0101 607648 610380 CS okay 这样子 咯
+UI29FAZ_0101 612444 620846 CS 没有 我 最近 才 有一个 做一个 language assignment 因为 他们 要 migrate 去 一个 新的 s. a. p.
+UI29FAZ_0101 620846 625352 CS language assignment 做 啊 就是 他们 有 一些 ambiguous 的 language
+UI29FAZ_0101 625352 635862 CS language can not determined by the system whether this is are german although none english word lah 然后 他们 我们 要 manually 去 assign 它们 去 the specific specific language 这样子
+UI29FAZ_0101 635862 648594 CS 我 也 不懂 为什么 哦 只是 他们 没有 这样的 automated process lor the system not intelligure enough to recognize ah this word is belong to chinese or this one is belong to germany or what what what 然后
+UI29FAZ_0101 648594 652435 CS 它 要 我们 manually 去 from the pulled of list
+UI29FAZ_0101 652435 657962 CS those ambiguous language we need to verify from there 然后 我们 就 assign accordingly lor
+UI29FAZ_0101 657962 662579 CS 所以 我 是 被 assign 到 是 simplified chinese language
+UI29FAZ_0101 663504 665155 ZH 简体
+UI29FAZ_0101 665492 666221 EN <unk>
+UI29FAZ_0101 667443 671381 CS hah identify lor 看到 这个 是 简体字 然后 我 就 要去 assign 它 咯
+UI29FAZ_0101 671381 674734 CS 然后 那个 system 就 recognized of ah 这个 是 简体字 来的
+UI29FAZ_0101 677468 682973 ZH 啊 还好 咯 但是 有 很多 针 差不多
+UI29FAZ_0101 682973 685130 ZH 几十千个 字 嗯
+UI29FAZ_0101 690300 695814 CS 没有 啦 但是 ambiguous 都 包括 其他 like german ah
+UI29FAZ_0101 698327 701369 CS 对 啦 很 明显 啦 但是 你 还是 要 go through 那个 list mah
+UI29FAZ_0101 701369 704551 ZH 有的 有的 时候 当你 在
+UI29FAZ_0101 704551 710381 CS simplified chinese 的 version 看 那些字 的 时候 如果 是 simplified version 它 就是
+UI29FAZ_0101 710381 711551 EN chinese lor
+UI29FAZ_0101 711551 716402 CS 但是 如果 是 其他的 字 的 话 它 会 appeared as very weird 的 咯 好像 japanese word
+UI29FAZ_0101 716402 719182 CS 但是 你 开 它 as a 我要 view as
+UI29FAZ_0101 719182 726777 CS simplified chinese 但是 有 japanese word 在 里面的 时候 它 就会 出到 些 很 奇怪 很 奇怪的 东西 但是 它 好像 一些 中文字 这样 但是 它是 很 奇怪的 中文字
+UI29FAZ_0101 726777 729528 CS 然后 你 就要 在 那边 要 先 go through 整个 list lor
+UI29FAZ_0101 742343 745430 CS 没有 哦 system show 的 时候 就是 字 来的 哦
+UI29FAZ_0101 745430 748698 CS 然后 或者 是 一个 column 一个 column 一个 column 这样子 每一个 row
+UI29FAZ_0101 748698 753703 CS 有 全部 list of words 然后 你 只是 在那边 看 screen scan scan scan go through
+UI29FAZ_0101 760480 763757 CS 哦 我们 没有 这样子的 experty 的 其实 讲 真
+UI29FAZ_0101 763757 769182 CS 还有 就是 有的 字 哦 因为 在system 外 我们 可能 会 mix 的 咯
+UI29FAZ_0101 769182 774899 CS 比如 说 我们 可以 mix english 还有 英文 比如 说 啊 我们 讲 啊 a b c 的 账单
+UI29FAZ_0101 774899 781924 CS 这个 是 属于 啊 chinese simplified mah 但是 有 a b c 在里面 吗 对 吗 但是 我们 又 不可以 说 哦 这个 是 英文字 吗 对 吗
+UI29FAZ_0101 781924 784497 CS 这个 其实 是 belong to simplified chinese 的 咯
+UI29FAZ_0101 784497 787978 CS 因为 我们 有一些 combination chinese 跟 english
+UI29FAZ_0101 793419 794521 EN oh
+UI29FAZ_0101 794521 795486 EN okay
+UI29FAZ_0101 795486 804165 CS maybe 这个 可以 卖去 给 s. a. p. 咯 然后 他们 要 再做 conversion 的 时候 upgrade 的 时候 maybe 这个 是 very useful to them lor
+UI29FAZ_0101 805663 807712 ZH 没有想 
+UI29FAZ_0101 807712 811501 ZH 还 没有 考虑 过 因为 我的 语~ 华文 不是 很好
+UI29FAZ_0101 819066 820788 ZH 嗯
+UI29FAZ_0101 820788 822510 ZH 嗯 不错
+UI29FAZ_0101 823681 825787 ZH 很 好的 提议
+UI29FAZ_0101 832187 834428 CS 哦 因为 okay
+UI29FAZ_0101 836357 840593 CS okay 但 okay 现在 目前 情况 啦 啊
+UI29FAZ_0101 840593 845508 CS 那些 有 experience 的 s. a. p. 是 很 好赚 咯 但是 for 未来 啊
+UI29FAZ_0101 845508 850171 ZH 的 五年 啊 我 就 不觉得 咯 因为 因为 以前的 时候
+UI29FAZ_0101 850171 852863 CS 很少 market 很少 这样子的 人才
+UI29FAZ_0101 852863 857314 CS 然后 刚好 所以 他们的 demand 很高 但是
+UI29FAZ_0101 857728 861396 CS 日子 越久的 话 他们 这些 expert 就是 越来越 贵 了 嘛
+UI29FAZ_0101 861964 869851 CS 其实 很多 consulting firm lor 他们 要 降低 成本 的 话 哦 他们 而且 现在 s. a. p. 越来越 受欢迎 啊 在 malaysia 然后 他们 就
+UI29FAZ_0101 869851 873088 CS 要 降低 成本 哦 不要 engaged 这样贵 的 consultant lor
+UI29FAZ_0101 873088 878914 ZH 算 现实 哦 很多 那些 大学 出来的 大学生 啊 比如 说 他们 暂时 不要 找工 的 话 哦
+UI29FAZ_0101 878914 886425 CS 哦 他们 就会 啊 有 一个 program 哦 就像 我们 以前的 时候 在 我们 年代的 时候 可能 dot net 会 比较 吃香
+UI29FAZ_0101 886425 892874 CS 所以 我们 有 一些 课程 哦 okay 如果 你 没有 工 的 话 我 啊 政府 会 subsidize 你 你去 读 咯
+UI29FAZ_0101 892874 897999 CS dell the course no then 啊 然后 like cisco certified ah 还是 啊
+UI29FAZ_0101 897999 902468 CS ah certified software engineer ah something like that's ah 就是 microsoft 的 东西
+UI29FAZ_0101 902468 906765 CS 但 现实 哦 连 s. a. p. 也 加 进去 的 你 知道 吗 有 很多 consultant lor
+UI29FAZ_0101 906765 916110 CS 啊 他们的 firm ah 就是 okay 他们 跟 cooperate with government lor 就是 说 okay 我们 公司 可以 provide 这样子 的 training 给这些 啊 trainees
+UI29FAZ_0101 916110 926418 CS okay 让 他们 进来 做了 过后 哦 i mean train 他们的 时候 嘞 他们 可能 based on ah trainee 的 list 然后 他们 就会 filter okay 觉得 这个 trainee 可以
+UI29FAZ_0101 926418 929782 EN ah further continue like working in our company
+UI29FAZ_0101 929782 932795 CS then 他们 就 哎 会 啊 录取 他 哦
+UI29FAZ_0101 932795 943733 CS 所以 这样的 情况 之下 变成 他的 这个 s. a. p. 不是 一个 好像 很难 得到 的 人才 啊 所以 其实 他们 已经 是 在 work of i mean make it like popular lor
+UI29FAZ_0101 943733 948315 CS 所以 变成 那一些 很贵的 consultant ah may be 未来的 时候 啊 他们 就 觉得 啊
+UI29FAZ_0101 948315 952042 CS 其实 我 真的 是 很 不需要 这样 experience 的 吗 cs
+UI29FAZ_0101 952042 954720 CS 我 可能 啊 intermediate 的 我 就 觉得 可以了
+UI29FAZ_0101 954720 959927 CS 因为 我 只是 engaged 一两个 就够了 所以 他的 market 未来 我觉得
+UI29FAZ_0101 959927 963688 CS 应该 是 没有 这样 salary 会 high lor
+UI29FAZ_0101 963688 968524 CS 因为 你 make it popular 像 dot net 这样 okay 整街 都是 dot net 会 dot net 的人
+UI29FAZ_0101 968524 972907 CS 就 变成 okay 你 competi~ competition among themselves 就会 高 吗
+UI29FAZ_0101 972907 974287 ZH 嗯
+UI29FAZ_0101 975062 981806 CS 所以 现在的 大学生 很 好命 哦 他们 一出来 他们 有 可以 选择 是 可以 我 可以 走 s. a. p. 的 这样子
+UI29FAZ_0101 984423 986358 CS 啊 这样还 okay lah 这样子
+UI29FAZ_0101 986358 995212 CS 除非 你来 sit exist extra 的 啦 就是 讲 因为 我 不是 很 explore 很多 只是 我 知道 现在的 s. a. p. programmer lor 他们 是 叫 a. b. a. p. lor a. b. a. p. programmers lah 他们
+UI29FAZ_0101 995212 999844 CS 啊 一定 要去 到 certain level as a golden
+UI29FAZ_0101 999844 1003438 CS a. b. a. per ah something like that certified 的 golden 的 只有 一个
+UI29FAZ_0101 1003438 1006329 ZH 哇 他 那个 薪水 真的 是 可以 去到 很高
+UI29FAZ_0101 1006329 1008155 CS 嗯 要 certified lor
+UI29FAZ_0101 1011478 1012944 ZH 哦 但 我 不 清楚
+UI29FAZ_0101 1012944 1020297 CS 只是 我 知道 一个 course 上次的 时候 我 有 check 过 要 attend 整个 course for training 单单 一个 module 在 s. a. p. 的话 要 整二十千 咯
+UI29FAZ_0101 1020297 1022209 CS for 四个 礼拜
+UI29FAZ_0101 1026892 1027805 ZH 嗯
+UI29FAZ_0101 1029837 1035646 ZH 哦 他们 是 大学生 然后 毕业 然后 去 跟 拿 政府 啊 就是 有 这样子的 东西 你 看 他们 多 好命 啊 现在
+UI29FAZ_0101 1038814 1039951 ZH 啊
+UI29FAZ_0101 1042586 1043791 ZH 啊
+UI29FAZ_0101 1047424 1048354 ZH 哦
+UI29FAZ_0101 1049146 1056768 CS okay 没有 啦 因为 more likely 可能 他们 那些 因为 它 有 跟 我们 这些 consulting s. a. p. consulting firm lor 他们 conduct 的 嘛
+UI29FAZ_0101 1056768 1058774 CS 可能 他们 有 很多 project
+UI29FAZ_0101 1058774 1060824 ZH 但是 也 需要 很多 人
+UI29FAZ_0101 1060824 1067387 CS 但是 如果 那些 s. a. p. 很 experience 的 很贵 嘛 而且 他门 不需要 这样 多 experience 呢 可能 他 觉得 啊 一半 一半 还是
+UI29FAZ_0101 1067387 1074298 CS 七十 三十 这样子 就够了 that is why 他们 就有 这样子的 policy 就是 走 这样子的 policy lor 他们 可以 降低 他们的 成本 咯
+UI29FAZ_0101 1074763 1076096 ZH 然后 这样子 咯
+UI29FAZ_0101 1084114 1091914 CS 哦 有 分 两个的 他们 是 分 okay functional 和 technical 的 a. b. a. p. e. r. 就是 technical lor
+UI29FAZ_0101 1091914 1096386 CS 就是 说 他们 有 一些 customized business rule ah 他们要 要 要 quote lor
+UI29FAZ_0101 1096386 1098318 CS 然后 functional 只是 负责
+UI29FAZ_0101 1098318 1100300 EN ah configuration ah
+UI29FAZ_0101 1100300 1103036 CS 然后 还有 internmentation lor 还有 support lor
+UI29FAZ_0101 1103036 1105605 EN (em) base ah
+UI29FAZ_0101 1105605 1108013 ZH 大多数 哦 好像
+UI29FAZ_0101 1108013 1111926 CS ah s. a. p. okay 不要 讲 啊
+UI29FAZ_0101 1111926 1114489 CS 因为 它的 interface 很 standard 而且
+UI29FAZ_0101 1114489 1121624 CS 不会 好像 excel 这样 不会 很 难用 啦 就是 说 其实 它 要的 experty* ah 不一定 也是 back ground from i. t. 的 因为
+UI29FAZ_0101 1121624 1125896 CS domain knowledge lor 是 很 重要 on respective module
+UI29FAZ_0101 1125896 1130603 CS 所以 that is why 很多 做 s. a. p. consultant lor 他 不是 from i. t. lab background 的 因为
+UI29FAZ_0101 1130603 1134385 CS functional vice lor 其实 我 不 需要 一个 很 technical 的人在 i. t. mah
+UI29FAZ_0101 1134385 1138014 CS 因为 configuration okay 我 只是 configure 而已 嘛
+UI29FAZ_0101 1138014 1141059 CS 他 沒有 动 那个 gate gate gate only mah 可能 他 就是 go through 每个 人 都会
+UI29FAZ_0101 1141059 1146674 CS 了 但是 因为 s. a. p. 它 那个 module 来 save finance lor hah fico lor
+UI29FAZ_0101 1146674 1151512 CS 因为 它 很 要 注重 就是 说 okay 你的 domain knowledge on financial
+UI29FAZ_0101 1151512 1157630 CS 好像 那些 invoice ah legend ah check in check out ah 什么 鬼 这样 好像 like 这样子 的 啊 configuration
+UI29FAZ_0101 1157630 1165388 CS 他们 要 understand the process lor more on the business process 你 要 很强 然后 你 才 可以 做 这个 s. a. p. functional 的 consultant lor
+UI29FAZ_0101 1165388 1166456 EN nor
+UI29FAZ_0101 1166456 1171048 CS 所以 like planning 也是 一样 哦 planner 他们 知道 整个 process world 是怎样子
+UI29FAZ_0101 1171048 1177717 CS 所以 其实 在 我们的 s. a. p. ah m. e. for manufacturing execution 的话 哦 其实 他们 要 more experience on
+UI29FAZ_0101 1177717 1185678 CS 知道 production line 怎样子 走 more than 你的 i. t. back ground knowledge okay 我 可以 做 quoting 问题 是 我 不需要 啊 我要 知道 你 可以
+UI29FAZ_0101 1185678 1188172 CS 啊 你 要 告诉 我 什么 board 啊 什么 叫 board

@@ -1,0 +1,736 @@
+NI03FBX_0101 782 1483 ZH 嗨 你好
+NI03FBX_0101 1794 2444 ZH 嗨 你好
+NI03FBX_0101 2522 2989 CS 嗨 你-
+NI03FBX_0101 2989 6910 EN 
+NI03FBX_0101 6910 8494 ZH 这是因为我声音太尖吗
+NI03FBX_0101 8728 9144 EN 
+NI03FBX_0101 10166 13254 ZH  不好意思 不好意思 我 的 声音 就是 这样的
+NI03FBX_0101 14961 15350 ZH 对
+NI03FBX_0101 15562 27503 CS 我 朋~ 你 懂 我 去 我 去 哦 我 开始 讲 了 我 去 唱歌 的 时候 我 去 k-box 的 时候 哦 我 朋友 不会 让 我 用 mic 的 嘞 你 知道 吗  because oh 我 的 声音 会 太过 大声 then 太过 high pitch
+NI03FBX_0101 27654 35487 CS then 他们 就 they will feel very irritated 他们 就会-  有 有 有 有 有 对 对 对 应该 应该 
+NI03FBX_0101 35611 37428 EN 
+NI03FBX_0101 40082 42561 EN oh clear and complete sentences
+NI03FBX_0101 47874 51323 CS 哦 我 我 我 会 我 刚才 会不会 讲话 太- 讲 太快 了 
+NI03FBX_0101 52078 53634 ZH 啊 哦 
+NI03FBX_0101 54762 61428 CS 哦 我 刚才 是 讲 我 去 唱 k. 我 跟 我 朋友 去 唱 k-box 的 时候 哦 我 不可以 他们 不 让 我 用 那个 mic 的
+NI03FBX_0101 61745 65454 CS 因为 哦 like 如果 我 用 mic 的话 哦 他们 会 他们 讲 他们 会 耳聋
+NI03FBX_0101 65699 68253 ZH 因为 我的 声音 太过 高 然后 又 太过 大声
+NI03FBX_0101 68606 82179 CS then 我 每次 唱 那种 张惠妹 啊  那种 啊 听海 然后 哦 就会 喊 我 就 it's not really 喊 就 我的 声音 就 naturally 这样 高 然后 他们 就会 哇 shit 我 要 耳聋 了 我 听不到 了  听不到 了  啊
+NI03FBX_0101 82978 92955 CS 对 而且 如果 我 是 跟 另外 朋友 一起 唱  我 的 朋友 我 的 朋友 他 会 我 会 盖过 他 的 声音 啦  然后 就- 啊
+NI03FBX_0101 93388 96143 CS literally 有时候 我 不用 mic 我 都 盖过 他 的 声音
+NI03FBX_0101 96855 104537 CS 所以 他 就 哦 不要 不要 不要 给 我 用 mic lor  then ok ok then 我 就 这样 照唱 咯 因为 我 用 mic 没有 用 mic 也 没有 分别 
+NI03FBX_0101 105273 106052 ZH 嗯
+NI03FBX_0101 106750 109289 ZH 不错 不错 嗯 好 
+NI03FBX_0101 112249 113086 ZH 啊哈
+NI03FBX_0101 114067 114615 EN 
+NI03FBX_0101 115972 122465 CS 哦 哦 我 喜欢 唱 我 喜欢 唱 张惠妹 或 杨丞琳 那种-
+NI03FBX_0101 124629 127790 CS 啊 比 比较 高音 比较 有 power 的 歌
+NI03FBX_0101 128121 132854 ZH 就 可能 反正 我 不大 喜欢 唱 张韶涵 因为 张韶涵 需要 用 假音 
+NI03FBX_0101 135307 136700 ZH 对 对 她
+NI03FBX_0101 136700 139360 CS but 她 是 她 是 她的 假音 powerful
+NI03FBX_0101 139774 148634 CS then 我 不可以 我 我 假音 假音 不够 我 是 我 是 用 真音 唱 的 then 我 很 讨厌 那种 需要 换 假音 的 歌
+NI03FBX_0101 150625 151441 ZH 啊
+NI03FBX_0101 152431 153093 EN 
+NI03FBX_0101 153817 158897 CS 对 对 对 对 对 所以 所以 我 就 我 我 我 比较 喜欢 like 张惠妹 那种 歌
+NI03FBX_0101 160137 164639 CS 我 我 有 唱 男歌手 不过 男歌手 会 比较 难 唱  我 唱 男生-
+NI03FBX_0101 165851 172396 CS 啊 then-  对 我 不可以 我 唱 周杰伦 还 可以 周杰伦 还 可以
+NI03FBX_0101 173296 179124 ZH 啊 啊 周杰伦 李圣杰 还好  不可以 唱 范逸臣
+NI03FBX_0101 180067 194641 ZH  一 碰到 那种 不可以 那种  那种 我 唱 到 很辛苦  跟 跟 我 朋友 不一样 的 是 他们 会 诶 他们 会 唱 比较 常 唱 男孩子 的 歌手 我 就 不可以 啊
+NI03FBX_0101 195160 195900 ZH 就
+NI03FBX_0101 195900 199470 CS because i find it very- 啊 我的 pitch 会 比较 高 so
+NI03FBX_0101 199470 201523 ZH 我 唱 男 男生 我 会 很辛苦 
+NI03FBX_0101 202086 203962 CS 很 难 project 我 的 voice
+NI03FBX_0101 205174 208930 CS then 我 喜欢 唱 currently 我 喜欢 唱
+NI03FBX_0101 210073 217791 CS (呃) 最近 在 疯 一首 英文歌 avalanche* ah avalanche 有 你 有 听过 吗
+NI03FBX_0101 218182 227953 CS 是 是 mar~ mari b~ dig~b~ digby ah  ma~ marie digby ah  我 不大 会 pronunce 她 的 名字
+NI03FBX_0101 228679 230429 CS 很 很 好听 很 好听 是 我的 ring tone
+NI03FBX_0101 230619 232999 CS 记得 那时 你 还 记得 有 一次 f. o. c. meeting
+NI03FBX_0101 233181 240090 CS 我 的 电话 啊 对 就 就是 那个 ring tone  嗯 好 没问题 没问题  so-
+NI03FBX_0101 240309 243149 CS 啊 currently 就是 fi~ 疯 那 首 然后
+NI03FBX_0101 243852 248802 CS 最 recent 的 就是 杨丞 杨丞琳 的 在你怀里微笑
+NI03FBX_0101 249106 257368 ZH 带我走  对 然后 还有 (啧) 还有 谁 啊 (呃)  江语晨 的 我太乖
+NI03FBX_0101 259660 276562 CS 是不是 我 太乖  看不见 啊 还有 傻瓜  then  啊 温 温岚 的 就 都 都是 那些 女歌手 的 歌 啊 然后 ah 其实 我 疯 a-mei 也是 最近 才 开始 疯 之前 我 不 喜欢 她
+NI03FBX_0101 277286 282029 CS 因为 之前 我 觉得 她 的 歌 很 没有- 啊 啊 啊
+NI03FBX_0101 282733 289640 CS 我 我 我 喜 我 就是 很 喜欢 那种 她的 emo songs 我 觉得 她的 emo songs 很 真的 是 割 割进 你 的 心 哦
+NI03FBX_0101 290665 315680 CS 对 对 对 对 对 对 对 对 对 对 对 我 就是  我 就是 前 (啊) 因为 我 我 跟 我 男朋友 分手 那 那段 时间 所以 就 所以 就  就 很贴 很贴切 you know 然后 就 哦 我 刚才 讲的 那些 歌 也是 就 很贴切 所以 就-
+NI03FBX_0101 317441 318733 ZH 对 对
+NI03FBX_0101 320176 320927 ZH 啊
+NI03FBX_0101 321533 327090 CS 对 咯 不止 不止 还有 什么 一个人生活 啊 then 什么 什么
+NI03FBX_0101 328366 331636 CS 啊 那种 那种 就 那种 emo 很 emo 很 emo 的 song
+NI03FBX_0101 331636 332304 EN 
+NI03FBX_0101 334933 336751 EN ya  ya
+NI03FBX_0101 337158 339725 EN ya ya ya ya ya that's why that's why
+NI03FBX_0101 340082 342646 CS then 有时候 是 because actually 听 了
+NI03FBX_0101 342996 347585 CS like somebody udnerstand you you feel confortable then 你 就会 哭 哭出来 会 比较 开心
+NI03FBX_0101 348516 350536 CS cause like if not 很 辛苦 啦
+NI03FBX_0101 352058 361391 CS ok ok 哇 哇 其实 我 才 讲 讲了 三分钟 on this topic 诶  糟糕 we need a lot of questions ok 继续
+NI03FBX_0101 364863 380154 CS 很常~-  (呃) 其实 我 近几年 比较 常 because like 我 刚刚 (eh) after a. levels- 啊 就 一直 跟 我 朋友 一直 去 哦 then  就 而且 心情 不好 的 时候 唱 k. 很 很舒服 很减压
+NI03FBX_0101 382459 385356 ZH  哦吼 我 跟 你 讲
+NI03FBX_0101 385356 388306 CS 我 跟 你 讲 牛车水 ten dollars k. t. v. 知道 吗
+NI03FBX_0101 388519 389322 CS 还有 top one
+NI03FBX_0101 390128 395884 CS top one 这两个  哇 我 我 最~ 我 最喜欢 top one 的 to~ 我 觉得 top one-
+NI03FBX_0101 397631 400517 EN 
+NI03FBX_0101 402711 404096 ZH 啊 对 对 对
+NI03FBX_0101 405972 417824 CS  对  不过 这 对 你 来说 应该 没有 问题 吧 你 是 读 中文系 的  ya ya ya same same
+NI03FBX_0101 418186 419536 CS 就会 就会 expect
+NI03FBX_0101 420941 422470 EN ya ya ya
+NI03FBX_0101 424404 436187 CS 啊  因为 它的 屏幕 很- 它的 那个 荧幕 就-  你 可以 动 啊 对 对 对 然后 就-  that's why that's why 
+NI03FBX_0101 437872 448344 CS ya ya ya 我 不过 我 知道 (呃) 如果 是 as foc* 去 哦 我 有 听 sheena sheena chuen* 还有 明君 他们 讲 then 我 发现 他们 三个 不是 很 喜欢 去
+NI03FBX_0101 448659 452035 ZH 因为 他们 觉得 很像 哦 我们 <unk> 因为 他们 有
+NI03FBX_0101 452246 454806 CS 不是 很 听 华文 歌 you know k. box 很多 -
+NI03FBX_0101 455989 461545 CS 不是 我 懂 其中 一个 是 因为 他 不听 华文歌 另外 一个 是 - sheena 也是 对吗
+NI03FBX_0101 464178 464611 ZH 宣
+NI03FBX_0101 465678 482666 CS 哦 我 懂 我 懂 我 懂 我 懂 sheena 好像 是 听 那种 怪怪的 language 的 歌  then 就 哦 ok then 啊 他们 就 那时候 回去 的 时候 有 听 他们 讲 很像 他们 不大 喜欢 一起 去 k. because 他们 觉得 很像 like 我们 去~ 有 一些 人 去 那边 只是 唱
+NI03FBX_0101 483483 485526 CS 啊 then 因为 很多-
+NI03FBX_0101 485526 488086 CS 而且 很多 人 then 他们 一直 focus on 他 唱歌
+NI03FBX_0101 488755 490170 CS then 他们 like
+NI03FBX_0101 490596 493596 CS they feel that 我们 会 focus on our singing more
+NI03FBX_0101 494008 500284 CS 所以 他们 就 觉得 mm they don't really like k.box but they will s~ they will still go i think i think lah
+NI03FBX_0101 502829 503426 EN mm
+NI03FBX_0101 505803 507564 ZH 对 对 对 对 对
+NI03FBX_0101 510161 514663 ZH 对 啊  <unk> 啊 前面 好 响*
+NI03FBX_0101 517597 518809 ZH 哇 啊
+NI03FBX_0101 523831 526024 ZH 我 
+NI03FBX_0101 529945 530361 ZH 啊
+NI03FBX_0101 532171 534220 ZH 哦 对 对 对
+NI03FBX_0101 537048 546347 CS 我 我 我 也是 不过 我 这边 还好 我 跟 我 friends 去 的 时候 哦  我 真的 发现 我 什么 歌 都 唱  就 like 因为 他们 有时-
+NI03FBX_0101 546610 550300 CS 他们 somehow 我的 那 群 中学 which i always go with lah
+NI03FBX_0101 550300 556235 CS 那群 朋友  啊 close closer the k.box friends oh  他们 是 什~ 他们 是 不同 人 唱 不同 歌
+NI03FBX_0101 556751 562195 CS 然后 就 then end up 我 什么 歌- 啊 对
+NI03FBX_0101 562541 570304 CS 因为 我 的 friend 会 很 shy 我 的 friend 他 这 哦 not really 很 shy 他们 就是 要 人家 陪 他们 唱 因为 他们 觉得 一个人 唱 很 sian
+NI03FBX_0101 570680 571430 CS 然后 就-
+NI03FBX_0101 573421 581558 ZH 对 对 对 对 啊 就 很像 你 一个人 在 唱 然后 其他人 可能 在 讲话 什么 然后 就会 觉得 很 sian 有 一个 人 陪你 比较 舒服 感觉 有没有
+NI03FBX_0101 582043 591453 CS then so like normally 我 都是 什么 歌 都 唱 like ok 陪 完 这个 了 then 我 不会 唱 那个 我 会 唱 啦 陪 他 唱  所以 throughout the k.box oh
+NI03FBX_0101 592664 608199 CS 诶 不是 我 要  actually 是 他们 push the mic to me oh  然后 就 诶 有 有几次 我 就 ok 假假 关掉 mic 我 会 like 假假 关掉 mic 然后 跟 他们 一起  就 跟 他们 一起 唱 不过 我 声音 还是 比 他们 大声 所以 他们 不会 察觉到 我 其实 没有 开 mic
+NI03FBX_0101 608845 614751 CS 因为  因为 我 发现 我 开 开 mic 的话 哦 我 唱 得 很辛苦 因为 我 要 一直 压抑 我 自己 的 声音
+NI03FBX_0101 615388 624334 CS then 我的 声音 就是 你 看 你 看 你 看 那个 表 它 就是 跳 到 这样 的 你 看  所以 就 我 要 压抑 的 时候 我 就 会 觉得 很辛苦 所以 我 就 嗯
+NI03FBX_0101 624969 627672 ZH 唱 唱 唱到 一半 突然间 关掉 然后 用 我 的 音 来唱
+NI03FBX_0101 629066 629430 EN so
+NI03FBX_0101 630728 631248 EN mm
+NI03FBX_0101 632522 635177 CS 对 对 对 a~ alex alex 
+NI03FBX_0101 636104 636494 EN 
+NI03FBX_0101 637313 644527 CS 你 懂 读书 那天 哦 alex 神经病 哦  他 一直 叫 我 跟 novell 唱歌 我 就 huh out of sudden 你 要 我 怎么 唱 like
+NI03FBX_0101 645884 647933 ZH  哦 我 还好
+NI03FBX_0101 651068 651933 ZH 哦
+NI03FBX_0101 653549 664314 CS 我 是   then 那个 没有 记错 那个 是 记错 那个 title 
+NI03FBX_0101 666025 666752 EN <unk>
+NI03FBX_0101 667286 675323 CS 歌 一首歌 一首歌  一首歌 的 时间 给我一首歌的时间  因为 越讲越错 没有 correct 到
+NI03FBX_0101 678535 680007 ZH 你 可以 看 那个 字
+NI03FBX_0101 680007 682657 CS 我是 我 ok with not not looking at words
+NI03FBX_0101 682657 686117 CS 因为 我 是 (啧) 哎呀 我 很 奇怪 啦 我 你 懂-
+NI03FBX_0101 686117 688467 CS 你 懂 我 不是 跟 你 讲 我 不可以 study humans oh
+NI03FBX_0101 688664 697116 CS 因为 我 很  我 不可以 背 东西 的 then somehow oh 我 记 歌词 很 厉害 他们 全部人 都 说 我 背 歌词 很 厉害 
+NI03FBX_0101 699274 706344 CS  我 就- 没有 啦 可能 是 因为 我 是 那种 比较 (啧) 我 understand 我 就会 记得 then 我 就 歌词 有时候 很-
+NI03FBX_0101 707325 708106 ZH 哦
+NI03FBX_0101 709461 724728 ZH 没有 我 是 有时候 听音乐 我 就会 记得 因为 可能 听到 歌词 很 贴切 有没有 就会 讲 哦 这 这句话 是 在 讲 我 这段 是 在 讲 我 哦 你 就 会 记得 了  你 就会 记得 那段 了 就 (嗯)  我 记得 那首歌 那首歌 里面 讲 什么 什么 什么 真的 真的 很 像 我 那时候 的 感受 
+NI03FBX_0101 725470 726187 ZH 对 
+NI03FBX_0101 727288 732265 ZH 对 对 对 对 对 对 对  对 对 对
+NI03FBX_0101 737814 753333 CS alex alex lor alex 他 就 一直 叫 我 跟 novell 唱歌 我 就  啊 没有 啊  我 没有 管 后~ 后来 novell 有 唱 后来 novell 就 因为 他 听歌 啊 因为 有时候 ipod oh 我 就 听 听 听 到 突然间 唱歌 then novell 就 唱 then alex 就 听到了
+NI03FBX_0101 753621 758612 CS then i think 我 后来 很像 也是 有 啊 but 就 我 不懂 他 有没有 听到 啦
+NI03FBX_0101 760749 773042 CS 很~ 很~ 小声~ 不过 他 是 他 坐 蛮 靠近 alex 的 你 记得 他 是- 啊 啊 啊 对 对面 所以 我 可能 他 就 听不到 因为 我 坐 蛮远的 而且 因为 我 知道 他 他 他 他 会 尽量 在 偷听 我们 两个 then like 就-
+NI03FBX_0101 774160 778477 ZH  他 读书 不读书 哦 在 那边  在 那边 不懂 做 什么
+NI03FBX_0101 778477 779347 EN it's
+NI03FBX_0101 779347 792346 CS  啊喏 他 没 一下 就 啊 我 要 死 了 就 躺 在 那边 就 躺 在 那边  then 我 就 啊 你 是 要 来 读书 还是 你 在 你 在 那边 我 要 死 了 当然 你 静不了 啊
+NI03FBX_0101 792768 796000 EN 
+NI03FBX_0101 803836 805135 EN 
+NI03FBX_0101 806607 815453 CS  novell 也是 讲 novell 就 在 那边 诶  alex alex 很 奇怪 alex 喜欢 s.h.e. oh 又 喜欢 用 pink water bottle  哦吼 ok
+NI03FBX_0101 816649 822377 CS  不然 就  ok lah 我 no comments no comments
+NI03FBX_0101 822377 825247 CS afterall 他是 我的 chairman  what can i say
+NI03FBX_0101 825247 826432 EN  but-
+NI03FBX_0101 830866 832107 CS ya ya ya 说的是
+NI03FBX_0101 833376 838051 CS 哇 ok 我们 有 哦 十三 分钟 了 
+NI03FBX_0101 841543 847690 CS 哦 去  为 为什么 去 参加  c.a.c. 的 freshmen orientation camp 是 因为 哦
+NI03FBX_0101 849191 854241 ZH  没有 啦 我 肯定 进 的  没有 啦 其实 是
+NI03FBX_0101 854617 856398 CS 我 我 是 在 选 between -
+NI03FBX_0101 856398 864395 CS 我 要 一个 很长的 我 不要 like 三 三天 啊喏 三天 就你- 很浪费 时间 你去 三天 then for what sia
+NI03FBX_0101 864601 869891 CS then 我 就 想 说 哦 去 either s.u. 或者 c.a.c. 其实 开始 的 时候 我是 要 去 s.u. 的
+NI03FBX_0101 870222 885161 CS 因为  因为 (呃) 我 是 会 想 join 那种 leadership 的 东西 you know 那种 leadership leadership stuff then after that  后来 ok 第一 第一个 原因 是  我  我 担心 我 衣服 不够 啊
+NI03FBX_0101 885334 890182 CS  you know s.u. s.u. 的 七天 then 我 就 (嗯) 七天 啊
+NI03FBX_0101 890933 915347 CS 啊 我 我 就- 我 是 担心-  不 不好意思 啊 我 的 声音就这样  我 觉得 那个 那个  那个 要 自~ 要 an~ analyze 我 的 声音 的  他 一定 会 耳聋 对 不好意思 不好意思 我 那个
+NI03FBX_0101 915969 918479 ZH  对 对 对
+NI03FBX_0101 919049 926245 CS 对 所以 就  就 担心 担心 有没有- 其 其实 哦 我 还 特地 去 买 哦 for 这个 都 不够 哦 
+NI03FBX_0101 927014 931723 CS for 这个 camp 都 不够 哦 
+NI03FBX_0101 933478 934864 ZH 对 啊 对 啊
+NI03FBX_0101 936451 937547 ZH 因为 其 其
+NI03FBX_0101 938896 939329 ZH 啊
+NI03FBX_0101 940311 941609 EN 
+NI03FBX_0101 943601 953470 ZH 其实 我 我 去过 这样 长 啦 不够 那时候 是 不用 每天 冲凉 因为 什么 中~ 我 是 去 中国 然后 那时候 是 很冷 很冷 不需要 冲凉 你 根本 都 不会 想要 冲凉 因为 太 冷 了
+NI03FBX_0101 953840 956380 CS 然后 你 只 会 change 你的 long john 而已
+NI03FBX_0101 956703 963225 CS 你懂 那个 long johns 你 只会 你 只会 换 那个 而已 then  哎呀 你 都 不想要 冲凉 所以 你 都 不 不会 换衣服 啊
+NI03FBX_0101 963591 966909 CS  啊 啊 anyway that's the first reason ah then
+NI03FBX_0101 967430 972680 CS 其实 那个 不是 主要 的 reason ah 因为 其实 一向来 对 我 对 我 来讲 这些 东西 都 不是 problems
+NI03FBX_0101 972680 975568 ZH 只是 我 是 有 把 它 当 当作 一个 原因 啦
+NI03FBX_0101 976174 983519 CS 啊 就 就 你 要 讲到 价钱 有没有  你 要 特地 去 买 衣服 然后 哦 ok 然后 就 (呃)
+NI03FBX_0101 984317 986017 CS partly 也是 因为 我的 朋友
+NI03FBX_0101 986440 990965 CS 我 j.j. 我 是 j.j. 的 嘛 然后 我 很多 朋友 都 是 进 这个 camp
+NI03FBX_0101 991923 992472 EN 
+NI03FBX_0101 993424 1006078 CS 也 not 也 not really psycho ah 就 问 他 eh which one you going oh i think i going to c.a.c. one the s.u. camp very long oh ok then i go c.a.c. oh because 我 知道  c.a.c. 跟 s.u. 是 都是 蛮大 蛮大规模的 then
+NI03FBX_0101 1006867 1008697 CS actually 它是 clash with 我的 course camp but
+NI03FBX_0101 1008697 1023935 CS 我 不想 去 我的 course camp 是 因为 哦 我 在 想 我 我 读 maths 我 去  我 去 maths 的 course camp 我 遇到 的 人 应该 都是 很  不是 不是 我 要 讲 不过 typical- 不过 就 没 没有 啦
+NI03FBX_0101 1025036 1034258 CS ya 多 多少 都会 想到 诶 你 进 maths then 你 你 想到 maths 的 人 应该 都是 那种 啧 (erm) 不会 很 不会 很 fun 的
+NI03FBX_0101 1037092 1039824 CS ya 我 知道 我 我 的 g.l. 是 maths 的
+NI03FBX_0101 1040261 1041213 ZH 菲娟 啊 菲娟
+NI03FBX_0101 1041507 1042223 ZH 你 认识 吗
+NI03FBX_0101 1042772 1043266 ZH 不认识
+NI03FBX_0101 1044041 1050448 CS 她 是 hall ten* 的 m.g.l.* 她 是 hall ten* then 她 是 她 是 maths 的 也是 就 but 就-
+NI03FBX_0101 1050776 1052726 CS 你 不会 想 要 去 自己的 course camp
+NI03FBX_0101 1055701 1056566 EN ya
+NI03FBX_0101 1057116 1062545 CS then plus then plus the thing is oh 你的 course mates 你 一定 会 认识 eventually 你 会 认识
+NI03FBX_0101 1063947 1067193 CS 对 哦 对 哦 然后 but 你 outside friend oh
+NI03FBX_0101 1067776 1072136 CS 你 除了 你的 course camp oh 你 要 认识 outside 的话 你 就 只好 去 其它 的 camp 了
+NI03FBX_0101 1072403 1077077 EN which is why i want to i didn't want to go for my~ choose my this camp over my course camp
+NI03FBX_0101 1077700 1078713 CS then end up 是 like-
+NI03FBX_0101 1079412 1081262 CS then plus 我 朋友 去 then
+NI03FBX_0101 1081700 1088818 EN ya it looks quite fun also then i don't think it would be as it would be worse than worse than s.u. camp because i know
+NI03FBX_0101 1088962 1093462 CS 因为 我 看 你们 两个 的 activity actually 都 ya 差 差不多
+NI03FBX_0101 1095682 1098152 CS 而且 我 看到 那个 website 有 很多 我的 j. j. senior 在 里面
+NI03FBX_0101 1098274 1100234 ZH  包括 你 在内
+NI03FBX_0101 1100403 1101832 EN 
+NI03FBX_0101 1101832 1111974 CS ya so  对对对  对对对 就 很像 哦 我 就 有点 很像 回家 感觉 有没有 then ok lor then 我 就 去 这个 camp
+NI03FBX_0101 1113128 1115280 CS 对 that's that's why i wanted to join this camp
+NI03FBX_0101 1116234 1116883 EN mm
+NI03FBX_0101 1117435 1120862 CS ya then ok lah not bad lah 我 去 也没有 后悔 啦
+NI03FBX_0101 1121330 1137265 CS 我 是 觉得  因为 我 在 里面 认识 的 人 都  蛮不错的 而且 like 如果 我 没有 进 这个 camp 的 我 现在 就 不会  我 就 不会 坐 在 这边 跟 你 讲话 了 我 就是 因为 我 去 了 这个 camp  一连串 的 事情 发生 我 就 在 坐 在 这边 跟 你 讲话 
+NI03FBX_0101 1138154 1160264 CS 缘分 缘分  然后 而且 我 跟 我 o.g. mates 也是 很 close 因为 现在 在 学校 哦 其实 我的 course mates 就 就 hi bye lor 就 很像 你 进去 上课 然后  就 他 他们 也 真的 是 蛮 sian 的  就 有时候 就 不会 meet up and then go out and have lunch and stuff like that 所以 我 才~-
+NI03FBX_0101 1162655 1171554 CS 学校 或 外面 都 一样  我们 就 在 学校 里面 我们 也 不会 一起 吃午饭 因为  他们 会 有 他们 自己 的 朋友 then 我 会 有 我 自己 的 朋友 然后
+NI03FBX_0101 1172292 1178992 CS 然后 之前 就 lecture lecture 了 tutorial then 我们是 tutorial 才是 small class what lecture 你 不会 你 会 跟 你 自己 的 朋友
+NI03FBX_0101 1179409 1182882 CS 啊 对对对 对 然后  tu~
+NI03FBX_0101 1182882 1186316 CS 你是 到 tutorial 的 时候 你 才 会 在 一起 所以 就 
+NI03FBX_0101 1186532 1190982 CS then 现在 在 学校 要 找 人 吃饭 哦 就 找回 我的 o.g. mates 不然 就是 我的 j. j. mates
+NI03FBX_0101 1192578 1204131 CS  啊 啊 soon soon soon  快 快 快了 so 所以 like  我 没~ 没有 后悔 去 这个 camp 不然 的话 就 少~ 就 比较 少 人 陪我 吃饭  而且-
+NI03FBX_0101 1206625 1208079 CS 对对对 就-
+NI03FBX_0101 1209767 1210209 ZH 嗯
+NI03FBX_0101 1212390 1213221 ZH 对 哦 对 哦
+NI03FBX_0101 1218467 1220908 CS 对 对 对 跟 外面 的 人 cause-
+NI03FBX_0101 1222868 1223816 ZH 对 对
+NI03FBX_0101 1225141 1226933 ZH 对 对 对  哇
+NI03FBX_0101 1227833 1229806 CS 而且 因为 -
+NI03FBX_0101 1230611 1231988 ZH 对 对 对 因为
+NI03FBX_0101 1232172 1234902 CS plus oh 你 在 course 你 是 你 course mates
+NI03FBX_0101 1235494 1236299 ZH 啊
+NI03FBX_0101 1238973 1240142 ZH 对 对 对
+NI03FBX_0101 1241596 1243518 EN  cao hee lang
+NI03FBX_0101 1245232 1246089 ZH 对
+NI03FBX_0101 1247387 1248140 ZH 对 哦 对 哦
+NI03FBX_0101 1252632 1253047 ZH 嗯
+NI03FBX_0101 1259704 1264204 CS 而且 我 发现 你 跟 你 course mates oh 你 能 讲 什么 你 就是 讲 你 会 tend to 讲 about course
+NI03FBX_0101 1264423 1266604 CS but 你 跟 外面 的 朋友 你 就 哦 什么 都 讲
+NI03FBX_0101 1266604 1269154 CS 因为 你 讲 about 你 自己的 course oh 你 会 觉得 很 boring
+NI03FBX_0101 1269355 1275582 CS like 我 讲 我的 数学 你 讲 你的 华文  我 我 听了 就- 啊 ya
+NI03FBX_0101 1276591 1285951 CS 对 对  而且 可能  会 ok ah 多多少少 会 会 有点 兴趣 啦 then 就 诶 为什么 你 会 读 这种 怪怪的 东西
+NI03FBX_0101 1285951 1300222 CS  就 好像 你 不了解 为什么 我 要 读 maths 这样  对 然后 我 就 然后 那时候 就会 哦 ok 不过 你 如果 一直 在 跟你讲 一直 在 跟你讲 你 会 觉得 呃 我 听不懂 你 在 讲 什么 对不对 会不会
+NI03FBX_0101 1302258 1305112 EN   
+NI03FBX_0101 1305112 1308838 ZH 我 认为 你 是 很 健谈 的 人  跟 跟 跟 你 很容易 讲话 
+NI03FBX_0101 1309552 1310891 ZH  不客气 不客气
+NI03FBX_0101 1311266 1321821 CS  saranghae  saranghae 我  第-  ok ok 什么 saranghae aishiteru
+NI03FBX_0101 1322900 1326352 CS 啊  tia~ 哦 sorry 不好意思 不好意思
+NI03FBX_0101 1326871 1337051 ZH 啊 炎亚纶 跟 啊 刘以~ 哦 刘~ 刘力扬 跟 那个 (啧) 那个 蔡~ 不是 蔡明佑 那个 (啧) 那个 那个 什么
+NI03FBX_0101 1338635 1343725 ZH 没 没有 没有 交往 啦 传说 传说 她 跟 另外 那个人 唱 那个 传说 不错
+NI03FBX_0101 1346240 1352865 CS 她 跟- 啊啊啊 对对对 林宥嘉 林宥嘉 林宥嘉 啊 他们 两个 唱  很 喜欢 那首歌
+NI03FBX_0101 1353278 1355427 ZH 我 很 喜欢 那种 男女 对唱 的 歌曲
+NI03FBX_0101 1356268 1359098 ZH  我 我 我们 现在 又 离题 了 是吗 
+NI03FBX_0101 1359929 1372520 CS  ok 我们 link link 回去 啦 f.o.c. 对  就 (啧) ya ya ah ya 就 我 就 讲 没有 后悔 啦 因为 我 在 f.o.c. 里面 跟 我 的 o.g. mates 很 bond  then and-
+NI03FBX_0101 1372520 1375440 CS ya actually 我 觉得 一个 camp 就是 要 这样 咯
+NI03FBX_0101 1375690 1378170 CS whether a camp 成功 or not oh
+NI03FBX_0101 1378292 1378837 CS 就是-
+NI03FBX_0101 1379902 1380499 EN ya
+NI03FBX_0101 1381849 1382472 EN ya
+NI03FBX_0101 1383511 1384057 ZH 啊
+NI03FBX_0101 1385693 1386498 ZH 对 对 对
+NI03FBX_0101 1388652 1389405 ZH 哦
+NI03FBX_0101 1389898 1391508 EN 
+NI03FBX_0101 1392729 1394495 ZH 对 对 哦 
+NI03FBX_0101 1396988 1405875 CS 不止 啦 我 觉得 全部 camp 都 应该 这样 like 如果 你 去 一个 camp  你 camp  你 去 露营 为什么 你 要 去 露营 就是 你 要 认识 里面 的 人
+NI03FBX_0101 1406077 1410471 ZH 如果 你 去 露营 哦 你 认识 了 里面 的 人 不够 跟 他们 不熟 就 没有 意义 了 啊
+NI03FBX_0101 1410777 1413519 CS 就 我 觉得 很像 你 camp  ya
+NI03FBX_0101 1413519 1415279 CS 要 要 enjoy 然后 要 跟
+NI03FBX_0101 1416005 1416495 ZH 要
+NI03FBX_0101 1418032 1425093 CS 如果 是 出来 哦 那些人 从 camp 出来 他们 的  o.g. 里面 感情 很好 我 就 觉得 那个 camp 是 很 successful 了
+NI03FBX_0101 1426841 1430871 CS 对 我 that's why 我 觉得 to me ah the f. o. c. camp was very successful
+NI03FBX_0101 1431196 1435844 ZH 觉得 很 成功 很 成功 因为 我 真的 是  交到了 很多 很好的 朋友
+NI03FBX_0101 1436351 1439781 CS like 几天 内 哦 long lasting friendship 
+NI03FBX_0101 1440830 1441246 EN ya
+NI03FBX_0101 1442051 1445427 EN ok f.o.c. ok  fun 
+NI03FBX_0101 1445738 1446673 ZH 嗯
+NI03FBX_0101 1447374 1447764 ZH 嗯
+NI03FBX_0101 1453002 1459962 CS 哦 我 要 得到的 什么  (嗯) 我 是 ok 我 是 想 说
+NI03FBX_0101 1460831 1465929 CS actually 我 是 蛮 喜欢 f. o. c. 的 因为 我 很 喜欢 去 camp 我 很 喜欢 去 露营 so
+NI03FBX_0101 1467791 1470291 CS not really lah 我 没有 这样 bad lah 我 就
+NI03FBX_0101 1470291 1484342 CS 就 (啧) organizing camp 其实 很 好玩的 我 从 中学 就 有 开始 organize oh then 就 (啧) 很 喜欢 那个 experience 因为 你 organize 的 时候 哦 你 会 做些 saikang saikang 就是 什么 saikang 就是 shit job  shit job  shit job 就会 很-
+NI03FBX_0101 1484970 1490690 CS 你 就会 很 bonded together with 你的 那些 f. o. c. 一起 plan 的 mates ah then
+NI03FBX_0101 1491994 1498907 CS then 每次 我 plan 完 出来 哦 的 感觉 都 很好 like  你 成功 了 做完 对
+NI03FBX_0101 1499550 1507473 CS 对 对 就 很像 感觉 你 已经 得到 拿 拿到 你 要的 东西 like (啧) 成就感 啦 成就感
+NI03FBX_0101 1507733 1516758 CS 然后 就 觉得 很 wow 很爽 那种 感觉 真的 很好 所以 所以 就 (啧) 我 会 喜欢 参加 f.o.c. 不过  也 没有 打算 一直 做 programmer lah
+NI03FBX_0101 1517082 1523790 CS like year 可能 like 如果 今 今年 今年 可能 会 考虑 再 继续 stay on 不过 可能 到
+NI03FBX_0101 1525519 1529309 CS 过 过 过 过了 今年 过了 今年 可能 会 考虑 stay 在 main comm
+NI03FBX_0101 1529890 1534582 CS 会 考虑 stay 在 main comm then 可能 like 不过 第三年 第四年
+NI03FBX_0101 1535647 1547540 CS 嗯 呃 第~ 第一年 第二年 对 会 f.o.c. main comm 不过 第四年 第四年 哦 可能 会 考虑 去 做  比较 没有 这样 压 压力 比较 大 的 工作
+NI03FBX_0101 1548735 1567433 CS 啊 很像 g.l. sub comm ah 那种 因为 我 觉得  啊 就 就 因为 我 是 我 毕竟 是 一个 学生 you know 我 以前  我 以前 哦 我 看 其实 我 看 我 在 j.j. councillor 的 时候 councillors ah 成绩 很 不好 我 也 为什么 因为 他们 
+NI03FBX_0101 1567433 1573474 CS 他们 一直 忘记 they are student before they are councillors then  i see them oh  就是-
+NI03FBX_0101 1575007 1576045 ZH 对 对 对
+NI03FBX_0101 1577084 1578494 ZH 对 对 对 对 对
+NI03FBX_0101 1580174 1581829 ZH 你 懂 为什么 吗 是 老师 要求 的
+NI03FBX_0101 1582200 1585399 CS 老师 会 要求 这样 是 希望 他们 会 很 bonded
+NI03FBX_0101 1586485 1587034 ZH 啊
+NI03FBX_0101 1588079 1592716 CS 对 不过 老师 忘记 考虑 到 其实 我们 j.j. 的 人 成绩 本来 就 没有 很好
+NI03FBX_0101 1594000 1594603 ZH 对
+NI03FBX_0101 1595168 1595817 ZH 对 哦
+NI03FBX_0101 1597038 1597739 CS 对 哦 我们-
+NI03FBX_0101 1598023 1600633 CS 你 懂 我 那年 哦 councillors 很多 retain eh
+NI03FBX_0101 1601141 1601764 ZH 我 
+NI03FBX_0101 1602600 1603259 ZH 四五个
+NI03FBX_0101 1603639 1604393 EN retain eh
+NI03FBX_0101 1604730 1611371 CS then  有些- 没有 第-  year year one 有 三个 retain
+NI03FBX_0101 1612105 1617757 CS then a. level 成绩 出来 之后 有 四五个 我 知道的 retain imagine 那些 我 不知道的 嘞
+NI03FBX_0101 1618519 1619003 EN 
+NI03FBX_0101 1619003 1620613 CS  imagine 那些 我 不知道 的
+NI03FBX_0101 1621064 1621691 ZH 重考
+NI03FBX_0101 1622105 1623233 ZH 在 在学校 重考
+NI03FBX_0101 1623637 1625145 ZH 有 我 知道 有一个 进不了
+NI03FBX_0101 1625429 1632001 CS  有一个 进不了 anywhere 他 打算 他 也 不打算 重读 啊 然后 他 打算 去 poly
+NI03FBX_0101 1632343 1633953 CS 而且 他是 男 的 n. s.
+NI03FBX_0101 1634934 1636544 ZH 很 浪费 时间 啊
+NI03FBX_0101 1638647 1639167 ZH 对
+NI03FBX_0101 1641281 1642138 ZH 对 哦 对 哦
+NI03FBX_0101 1644164 1650110 ZH 对 对  而且 你 而且 不只 少说 两年 多读 两年 也是 诶 付 多 两年 学费 诶
+NI03FBX_0101 1651617 1652433 ZH 哦 对
+NI03FBX_0101 1652433 1653283 CS poly 多 三年
+NI03FBX_0101 1653746 1654179 ZH 对
+NI03FBX_0101 1654785 1669301 CS 对对对 然后 我 在 想 (啧) 哎呀 不可以 啦 我 成绩 还是 要 考好 毕 毕竟 很多钱 neh like 如果 我 读 出来 哦 然后 很 cui 的话 哦 then 不是 很 like 浪费 钱 哦 然后 也 找不到 很好的 工作 嘛
+NI03FBX_0101 1669301 1676753 CS 啊 然后 就  既然 可以 的话 哦 想 aim for 比较 high higher honours ah 不过 我 是 一个 很 好 好玩 的 人
+NI03FBX_0101 1676753 1681233 CS  你 叫 我 totally 不要 去 join activities oh 一直 读书  我 不可以 的
+NI03FBX_0101 1681233 1685503 CS 对 我 不可以 high five then  我 真的 不可以 因为 我-
+NI03FBX_0101 1686803 1688743 CS 啊 我 也 不是 mugger 来 的 我 是-
+NI03FBX_0101 1689103 1691163 CS actually oh 你 那时候 你 看 我 读书 哦
+NI03FBX_0101 1691435 1692734 ZH 会不会 觉得 我 很 认真 啊
+NI03FBX_0101 1696655 1700036 CS ya 因为 我 其实 我 是 第一次 这样 读书 诶
+NI03FBX_0101 1700368 1706768 CS 我 你 懂 我 以前 在 j.j. 的 时候 哦 没有 读 的  我 就 哦 到 我 是 到了
+NI03FBX_0101 1707113 1710033 CS 我 真的 没有 读 的 我的 promos oh 我 是 fail
+NI03FBX_0101 1710519 1712310 EN fail everything except for chem because-
+NI03FBX_0101 1712555 1716305 CS 因为 我 知道 我 chem 如果 我 不 pass 的话 i i cannot pass overall
+NI03FBX_0101 1716881 1721844 CS then 我 另 我 的 maths 还有 physics 我 没有 读书 因为 你 还记得 我们 是 有 ten (erm)
+NI03FBX_0101 1722095 1723975 CS like 六十 巴仙 是 participation 的 嘛
+NI03FBX_0101 1724260 1726406 CS then 那 六十 巴仙 哦 我 够 分 了
+NI03FBX_0101 1726857 1728311 EN 
+NI03FBX_0101 1728311 1732818 CS then  啊 我 已经 plan 好 了 我 的 maths 和 physics 六十 巴仙 我 已经 够 分 了 所以 不用紧
+NI03FBX_0101 1733401 1741685 CS then 我 就是 我 的 chem oh 我 六十 巴仙 我 才 拿 不懂 二十多 巴仙 而已 我 需要 三十 巴仙 for 我 for 我的 promos 才~ 诶
+NI03FBX_0101 1742335 1745715 CS ya 我 需要 拿 到 一个 c. for my promos to pass overall
+NI03FBX_0101 1746045 1756331 CS then 我 不要 重考 嘛 你 要 pass overall  哦 可以 我 我 很厉害的 then  哦 我 就 讲 我 没有 读 我 没有 读 我的 maths 还有 physics then  我 拿 u. 哦
+NI03FBX_0101 1756766 1760501 CS  我 那两个 拿 u. but overall pass  so i don't have to 重考
+NI03FBX_0101 1760978 1763728 CS plus 有 moderation 因为 我们 那 年 很 差
+NI03FBX_0101 1763908 1766698 CS then ok lor moderation 到来 我 四十 多 分
+NI03FBX_0101 1767180 1782260 CS ok  ya 就  因为 反正 我 知道 i i won't be the only one first year 没有 人 读 的 then 我 看 那些- and plus 我 first year 不是 leader 我 first year 我 没有 读 是 因为 哦 (啧) 那时 因为 我 朋友 很多 poly 的 我 中学 我 刚才 讲的 那些 很多 poly 的
+NI03FBX_0101 1782786 1788028 CS 只有 我 跟 另外 几个 有 去 j.c. then 我 跟 他们 很 close 的 嘛  就
+NI03FBX_0101 1788028 1791718 CS then 我 又是 很 很 sentimental 我 是 一个 很 sentimental 的 人
+NI03FBX_0101 1791718 1792289 CS then 我 就会
+NI03FBX_0101 1793028 1795688 CS 我 会 很 想 跟 他们 hang out 那些
+NI03FBX_0101 1795688 1796068 EN then
+NI03FBX_0101 1796068 1797488 CS poly 又 很 slack oh
+NI03FBX_0101 1797948 1800608 CS 每次 after poly 去 哪里 打 pool
+NI03FBX_0101 1800915 1804616 CS 打 pool 不然 就是 看电影 不然 就是 随便 找一个 地方 坐坐 laliang
+NI03FBX_0101 1805008 1809478 CS 有时候 我 可以 从 jurong oh 跑 到 woodlands 去 meet 他们 因为 有一个 在 n. y. p. 读书
+NI03FBX_0101 1811862 1812856 ZH 对 对对
+NI03FBX_0101 1813911 1814508 EN 
+NI03FBX_0101 1815287 1816534 ZH 对 对 咯
+NI03FBX_0101 1818040 1818274 ZH 啊
+NI03FBX_0101 1820273 1821208 ZH 对 对 对 会
+NI03FBX_0101 1823701 1827700 CS  然后 我们 就会 一直 一直 meet 一直 meet 对
+NI03FBX_0101 1828869 1836619 CS 不过 我们 很 夸张 我们 真的是 每天 都 这样  每一天 我 要 emphasise 每一天 真的是 每一天 都 这样 that explains why i never do my tutorial
+NI03FBX_0101 1836619 1838976 CS i sleep in class 因为 有时候 我 会 玩 到 很迟 才 到家
+NI03FBX_0101 1839266 1849343 CS 然后 就 哦 回到家 就 啊 睡 then (erm) 不够 时间 睡  then after that then 第二天 又 上学 然后 就  呃 ok 在 在 班 睡觉 咯
+NI03FBX_0101 1849680 1852912 CS 我 很 literal 的 我 就 在 在 班 睡觉 的 不过 哦
+NI03FBX_0101 1853098 1862654 CS 我 老师 不会 mark me down because- ok lah 老师 都 蛮 疼我 因为 不懂 为什么 嘞  就 老师 都 蛮 疼我  huh
+NI03FBX_0101 1865147 1867242 CS 哦 我 的 我 的 chem 老师 会 叫 我 起来
+NI03FBX_0101 1867538 1871048 CS then 啊 我 我 也 会 尽量 stay awake 他 他 知道 我 有 尽量 stay awake
+NI03FBX_0101 1871048 1873131 CS 他 是 chua-lek-hong 你 知道 吗
+NI03FBX_0101 1874487 1877089 CS chua-lek-hong 肥肥的 mole 
+NI03FBX_0101 1880876 1881629 CS 因为-
+NI03FBX_0101 1884018 1884459 ZH 啊
+NI03FBX_0101 1885186 1891838 ZH 哦 对 对 对 诶  啊  哦 对 对 对
+NI03FBX_0101 1894331 1894928 ZH 啊
+NI03FBX_0101 1896616 1897849 EN 
+NI03FBX_0101 1899588 1900818 CS but 那个 principal 都 不 好看
+NI03FBX_0101 1902303 1904814 ZH  诶
+NI03FBX_0101 1905541 1912277 CS 我 知道 我 知道  我 的 friend  
+NI03FBX_0101 1912668 1917288 CS 我 我 我 那 那时候 我 的 friend 很 好笑 他 就 做 你 懂 那种 m. s. n. emot~ emoticon right
+NI03FBX_0101 1918188 1922966 CS 啊 他 拿 他 照片 跟 毛泽东 两个 flip  两个 反 反 反 反 反 来 做
+NI03FBX_0101 1923355 1925744 ZH  啊 很 好笑
+NI03FBX_0101 1927294 1935986 ZH 就 可 可能 就是 那个 头  就是 那个 头 很像 就  就 很明显 就是 那个 那个 头发 就 很像
+NI03FBX_0101 1936772 1937330 ZH 对
+NI03FBX_0101 1938668 1944158 ZH 然后 你 懂 那个 荷包蛋  荷包蛋  就 就 很像
+NI03FBX_0101 1946235 1948870 CS 其实 你 的 j.c. j.c. life 也是 蛮好玩 的 啦
+NI03FBX_0101 1952247 1953208 ZH 对 啊 对 啊
+NI03FBX_0101 1955052 1955623 ZH 啊
+NI03FBX_0101 1958454 1959545 ZH 对 哦 对 哦 对 哦
+NI03FBX_0101 1962167 1964453 CS  因为 jurong-point 最 靠近 
+NI03FBX_0101 1966608 1968991 CS  又是 混 jurong 的
+NI03FBX_0101 1968991 1970041 CS 又是 混 jurong 的
+NI03FBX_0101 1971345 1972087 ZH 对 哦 对 哦
+NI03FBX_0101 1972540 1990367 CS 所以 就 (啧) 唉 so 然后 唉呀 也是 没有 读 啦 就 结果 后来 就 也 没有 成~ 就 j. one 的 时候 成绩 又 没有 考好 啊 然后 到 要 a. levels 的 时候 六月假期 第二年 六月假期  哇 我 突然间 哦 明天 camp 在 library 读书 诶
+NI03FBX_0101 1990890 1998691 CS 突然间 no (errr) jurong-pont library  jurong-point library  it was like my second home oh
+NI03FBX_0101 1998691 2004835 CS 真的 是 literally 是 我的 第二 个 家 我 就  每天 去 那边 读 到 晚上 十点 它 关门 回家
+NI03FBX_0101 2005326 2007251 ZH  啊
+NI03FBX_0101 2010468 2012649 CS 哦 我 我 我 我 没有 这样 夸张 啦 that's-
+NI03FBX_0101 2014934 2015714 ZH 哦
+NI03FBX_0101 2017142 2018155 ZH 我 会 坐 地板
+NI03FBX_0101 2019012 2020570 ZH 啊 我 会 坐 地板 
+NI03FBX_0101 2027190 2027528 ZH 啊
+NI03FBX_0101 2028827 2029450 EN 
+NI03FBX_0101 2032436 2033033 ZH 厉害
+NI03FBX_0101 2034150 2035994 CS 我 是 我 我 会-
+NI03FBX_0101 2037085 2045456 CS (呃) 我 看 我 通常 都 不会 早到  我 会 是 要 很迟 我 会 是 要 很迟 然后  然后 (啧) weekday 是
+NI03FBX_0101 2045671 2048360 CS 不过 weekdays 的 时候 还好 weekdays 的 时候 我 就会 拿 到 桌子
+NI03FBX_0101 2048360 2052500 CS 因为 没有 人 坐 你 懂 那个 cafe 那边 吗 在 那个 cafe 那边 然后 我 就 会-
+NI03FBX_0101 2053284 2054804 CS 啊 那边 function room 也是 but
+NI03FBX_0101 2054934 2057083 CS 我 喜欢 坐 cafe 那边 因为 function room 里面 很 冷
+NI03FBX_0101 2057460 2062347 ZH 然后 很 静 就 很像 你 翻 一个 纸 哦 就 就 有 那个 回声 对 哦
+NI03FBX_0101 2062654 2064949 CS 然后 我 就 觉得 太静了 就 变成 -
+NI03FBX_0101 2071516 2073467 CS weekday 还 好 因为 weekday 没有 很多 人
+NI03FBX_0101 2073882 2078842 CS weekday 所以 weekday 我 就 si~ 哦 我 我 是 会 坐 在 那个 cafe 外面
+NI03FBX_0101 2079246 2081536 CS 那个 between 那个 cafe 跟 function room
+NI03FBX_0101 2082073 2083320 ZH 啊 那中间
+NI03FBX_0101 2083761 2085683 ZH 对 那 那 四个桌子 对对对
+NI03FBX_0101 2085837 2087246 CS 那边 我 觉得 很 conducive
+NI03FBX_0101 2087246 2092576 ZH 然后 就  有时候 我 就 很累 啊 因为 下课 去 很迟 不过 不用紧 它 是 有位
+NI03FBX_0101 2092824 2095224 ZH 我 就 在 那边 睡 睡一下 才 起来 读
+NI03FBX_0101 2095941 2102664 ZH 因为 我 知道 我 回家 睡 的话 哦 我 就是 睡 到 明天 早上 了  我 就 会 睡 到 明天 早上 了 我 就 不会 再 起来 读 了
+NI03FBX_0101 2102877 2107204 ZH 如果 我 在 那边 睡 哦 因为 很 不舒服 然后 你 过一下子 哦 我 手 会 麻痹 然后 我 就 醒来 了
+NI03FBX_0101 2107577 2108798 ZH  我 就 会 醒来 了
+NI03FBX_0101 2109161 2110836 ZH 所以 就 嗯 就 不错
+NI03FBX_0101 2111343 2112902 ZH 蛮不错 感觉 不错
+NI03FBX_0101 2114718 2115186 ZH 啊
+NI03FBX_0101 2119505 2121064 ZH 才没有 咯
+NI03FBX_0101 2122959 2123868 ZH 对 啦
+NI03FBX_0101 2124777 2128726 CS 我 现在 我 在 学习 哦 我 我 mug 到 比 比 我 在 j.c. 还 要 凶 诶
+NI03FBX_0101 2128996 2130926 CS literally 诶 我 不懂 为什么 
+NI03FBX_0101 2132869 2133519 ZH 对 哦 对 哦
+NI03FBX_0101 2136064 2136713 ZH 对
+NI03FBX_0101 2137907 2139890 ZH 全 全部 两 两年 读
+NI03FBX_0101 2140222 2146091 CS 没有 啦 其实 对 我 来说 三个月  我 从 六月 开~ 哦 开始 ok lah
+NI03FBX_0101 2146662 2147459 CS pre~ 啊 九月
+NI03FBX_0101 2147459 2152519 CS prelim prelim 之前 就读 完了 就要 读 完了 然后 之后 就是 revise revise revise oh
+NI03FBX_0101 2153518 2154739 CS 嗯 ok lah 不错
+NI03FBX_0101 2158322 2159257 ZH 对对对
+NI03FBX_0101 2159709 2162259 ZH 我 我 哦 我们 我们 是
+NI03FBX_0101 2162259 2166929 CS 我们 a level 会考 比较 好 因为 我们 prelim 都 很 烂 
+NI03FBX_0101 2166929 2179955 CS 所以说 所以 我 拿 prelim 的 时候 我 全部 pass 很高兴  我 真的 很 高兴 因为 哦 我 全部 pass oh 而且 我 是 从 (啧) 你 懂 我们 现在 我 在 班 哦 我 跟 你 讲 我 j. one 没有 读书 我 在 班 我 是 最后 几名 啊 then 突然间-
+NI03FBX_0101 2182266 2191719 CS 不过 你 大~ 你- 没有 啊 你 大概 大概 知道 啊 因为 你 知道 你 朋友 全部 都 哦 pass everything then 你 知道 你 fail everything 当然 是 你 最后 几名 对不对  不可能 你 最后 fail everything 还是 上面的 嘛
+NI03FBX_0101 2192136 2196275 CS then 后来 是 prelim 的 时候 我 chiong  then 我 朋友 也是 吓到 了 就 哇
+NI03FBX_0101 2196603 2200511 ZH 颖敏 是 扮猪吃老虎  后来 我 就 呃
+NI03FBX_0101 2202887 2209617 ZH 啊 突 突 突然间  而且 我 真的是 很 乖 哦 从 真的是 我 从来 没有 看过 我 这样 乖
+NI03FBX_0101 2210006 2211934 ZH 早上 到 晚上 读书 诶
+NI03FBX_0101 2212136 2216395 ZH 我 自己 都 没有 办法 联想 到 诶 我 竟然 竟然 可以 这样 做
+NI03FBX_0101 2216940 2218716 ZH 从来 没有 想过 哇
+NI03FBX_0101 2220212 2222391 CS 中学 o. level ah o. o. level ah
+NI03FBX_0101 2223196 2226679 CS 也 没 没有 哦 就 没有 chiong 就 o. o. level
+NI03FBX_0101 2227714 2234040 CS 啊 我 朋友 读 deesiao 我 朋友 一下 然后 我 自己 读 一点点 哦 deesiao 我 朋友 一下 自己 读 一点点  对 哦
+NI03FBX_0101 2234986 2238573 CS but ya 感觉 就 很像 我 o. level 也 没有 很好 啊 拿 十四分
+NI03FBX_0101 2243738 2244049 EN but
+NI03FBX_0101 2247247 2251900 ZH 对 咯 所以 不过 还是 不算 很好 啦  哎呀 不用紧
+NI03FBX_0101 2253064 2258452 ZH 对 我 都 我 都 已经 走 到 这边 了 都 已经 走 到 这边 了 过去的 已经 不重要 了
+NI03FBX_0101 2259462 2260682 CS 对 哇 ok
+NI03FBX_0101 2263149 2264106 ZH 对对对
+NI03FBX_0101 2265123 2268473 CS   ok 慢慢 慢慢来
+NI03FBX_0101 2269356 2270395 ZH 对 对 对
+NI03FBX_0101 2271769 2274929 CS c.a.c. 因为 c. a. c. f. o. c. 这个 topic oh 就 很
+NI03FBX_0101 2276221 2283830 CS 啊 就很- 就-  对 对 对 哦 嗯 哇
+NI03FBX_0101 2285648 2286323 CS 啊 maths 我
+NI03FBX_0101 2286984 2293924 CS in fact oh 我 选 的 时候 哦 我 只 放 了 两个 choice 一个 是 n. u. s. maths 一个 是 n. t. u. maths
+NI03FBX_0101 2294189 2295176 CS that means 我 apply 两边
+NI03FBX_0101 2296293 2300110 ZH  就是 我 
+NI03FBX_0101 2300110 2306836 CS ya 我 真- 我 就- 因为 就 在想 其实 我的 成绩 除了 我 英文 哦 我 英文 拿的 拿了 一个 e 我 g.p. ah i got a e
+NI03FBX_0101 2307251 2311924 CS then 我 的 literature i got d but 我 的 h 二 蛮好 的 considered not bad
+NI03FBX_0101 2311924 2315644 CS then 我 看 cut off 是 b. b. b. d.
+NI03FBX_0101 2316285 2324124 CS 诶 b. b. b. b. b. b. b. for 这些 for ya for n.u.s. 的 school of science 还有 n.~ n.t.u. 的 去年 去年
+NI03FBX_0101 2324569 2328410 CS like 我 的 the batch before me ah 就是 他们的 cut off 是-
+NI03FBX_0101 2333006 2333889 ZH 啊
+NI03FBX_0101 2336434 2339213 CS 哇 ok 所以
+NI03FBX_0101 2339599 2346657 CS 我 我 是 我 是 看 就- 嗯 因 因为 我 因为 我 知道 我 如果 是 去 interview 我 没- 我 没有 问题 one
+NI03FBX_0101 2346995 2354427 CS 因为 我的 j.j. 的 那个 leadership experience 那些 哦 还不错 啦 就 没有 很好 啦 不过 也 还不错 啦
+NI03FBX_0101 2355538 2358447 CS 对 对  因为 我-
+NI03FBX_0101 2360680 2361226 ZH 对
+NI03FBX_0101 2362472 2363926 ZH 对 啊 对 啊 对 啊
+NI03FBX_0101 2365066 2367118 CS 我 还 一个 人 take 蛮多- 因为 我-
+NI03FBX_0101 2367404 2372434 CS 而且 我的 是 我 有 去 那个 yunnan overseas c. i. p. trip then 那个 是一个 蛮 大 的 project 的
+NI03FBX_0101 2372935 2377142 CS then 只 我们 只 也是 只有 六 二十六 个 人 所以 就 那个 那个 就
+NI03FBX_0101 2377354 2380284 CS 那 我们 那个 就 足够 了 然后 plus 我 还是 class rep
+NI03FBX_0101 2380881 2381394 EN then
+NI03FBX_0101 2381665 2387535 CS 我 class rep 了 then 还 plus 我 是 (erm) 我 entrepreneur club
+NI03FBX_0101 2388218 2392158 CS entrepreneur club 是 quite prestigious j. j. 蛮 prestigious one
+NI03FBX_0101 2392539 2394461 CS then 还有 then 我 就
+NI03FBX_0101 2394461 2396261 CS 哎呀 interview 应该 是 可以 过 啦
+NI03FBX_0101 2396261 2403980 CS then 其实 我 就 想 我 不读 maths hor 我 真的 不知道 我 可以 读 什么  因为 (啧)  因为
+NI03FBX_0101 2403980 2405310 CS okay 我 是 可以 读 science
+NI03FBX_0101 2405495 2410299 CS 不过 science 背 啊 我 不喜欢 记 东西 我 喜欢 maths 是 因为 哦
+NI03FBX_0101 2410616 2413876 CS 我 根本 什么 东西 都 不用 去 记 我 就是 进去 apply
+NI03FBX_0101 2414125 2418297 CS 靠 靠 常~ 靠 常识 去 apply oh
+NI03FBX_0101 2418297 2421755 CS 对 对 对 你们 来说 like humans 是 常识 对 我 来说 maths 是 常识
+NI03FBX_0101 2422686 2423145 EN 
+NI03FBX_0101 2425066 2425560 ZH 啊
+NI03FBX_0101 2426651 2428313 ZH 对 对对对
+NI03FBX_0101 2428780 2430546 ZH 对 对 对 对 对 
+NI03FBX_0101 2432390 2432831 ZH 啊
+NI03FBX_0101 2434779 2435168 ZH 啊
+NI03FBX_0101 2439064 2447750 CS 对 对 我 是 我 smoke 我 我 我 懂 hum~ 我 humans oh 我 向来 都 只可以 做 那种 source base
+NI03FBX_0101 2448435 2449266 CS 你 懂 humans
+NI03FBX_0101 2449645 2452125 CS like for example social studies hor 他们 有 两个 部分
+NI03FBX_0101 2453031 2457578 CS source base 还有 essay essay 就是 要 靠 那种 背 的 哦 那 那种 normally 我 都 不会做 
+NI03FBX_0101 2457871 2461714 ZH  那种 那种 应该 是 (呃) 最多 拿 几分 几分
+NI03FBX_0101 2462623 2465469 ZH 通 通常 我 没有  通常 我 都 没有
+NI03FBX_0101 2466045 2470295 CS 哦 then 然后 我 就会 做 那种 哦 source based question 哦 那种 我 就 写 得 很好
+NI03FBX_0101 2470492 2475056 CS 那种 二十五分 里面 喏 我 可以 我 应该 是 可以 拿到 like 二十三分 那种
+NI03FBX_0101 2475396 2479721 CS  essay question oh  二十五分 哪 都 不懂 拿得到 拿不到 十二分 吗
+NI03FBX_0101 2480154 2483505 ZH  真的 真的 真的 真的
+NI03FBX_0101 2485368 2488638 ZH 对 对 啊 
+NI03FBX_0101 2490196 2490559 ZH 哦
+NI03FBX_0101 2491494 2492663 ZH 对 对 对 对
+NI03FBX_0101 2495182 2495701 EN 
+NI03FBX_0101 2500220 2500755 ZH 对
+NI03FBX_0101 2502038 2502635 ZH 你 懂 哦
+NI03FBX_0101 2504323 2507728 ZH 我 以前 我 以前 哦 我 因为 我 写 很慢
+NI03FBX_0101 2508025 2513175 CS 我 每次 写 不 完 的 我 normally 我的 g. p. oh 我 会 okay three points 搞定
+NI03FBX_0101 2513175 2513970 EN then i will
+NI03FBX_0101 2513970 2517060 CS 我 我 我 不会 拉 时间 我 就是 那种 写 straight to the point 然后 就
+NI03FBX_0101 2517890 2520950 CS 我 是 我的 style of writing 是 我 是 直接 一针见血
+NI03FBX_0101 2521370 2526000 CS 就 不要 拖拖拉拉 因为 我 也 没有 information 给 我 拖拖拉拉 then
+NI03FBX_0101 2526527 2533591 CS 就 而且 我 也 写不完  我 拖拖拉拉 写不完 我 最多 最多 哦 我 try 过 哦 我 可以 写完 喏 是 三个 point
+NI03FBX_0101 2534030 2538030 CS 就是 一个 头 一个 尾 然后 三个 重点 然后 就 okay end of my essay
+NI03FBX_0101 2538030 2540870 CS  所以 我 也 不可- huh
+NI03FBX_0101 2541849 2546836 CS 我 因为 要- 哦 因为 我 反应 很 慢 我 头脑 我 思考 很慢
+NI03FBX_0101 2547314 2549784 CS 我 又 要 put things into words ah into
+NI03FBX_0101 2550155 2554596 CS relevant words ah 然后 你 又 紧 紧 因为 你 知道 你 那个 subject 已经 不好 了
+NI03FBX_0101 2554959 2558052 ZH 然后 你 进去 的 时候 你 会 很怕 然后 就  我 知道 我 写不完
+NI03FBX_0101 2558519 2559482 CS then 我 以前
+NI03FBX_0101 2559854 2564764 CS 我 做 social studies 的 时候 哦 我 strategy 是 哦 进去 哦 每 一个 写 一个 line 先
+NI03FBX_0101 2565661 2566829 CS 因为 你 一个-
+NI03FBX_0101 2567595 2572585 CS 啊 就 一分 喏 因为 你 要 拿 到 那 第二 分 哦 which is level two oh 你 要 写 多 一个 paragraph
+NI03FBX_0101 2573079 2575354 ZH 所以 我 就 好过 我
+NI03FBX_0101 2575354 2580234 CS 我的 一个 paragraph 我 写 四 行 然后 写 三 四 行 四 五行 我 拿 两 分
+NI03FBX_0101 2580448 2582912 CS might as well 我 每一个 我 写 一行 然后 我 拿 五分 对吗
+NI03FBX_0101 2585233 2590634 CS  对 我 怕 我 他们- 其实 我 通常 都 写不完  我 的-
+NI03FBX_0101 2591054 2593334 CS 我的 (啧) g. p. 也是 没有 做 完 啊
+NI03FBX_0101 2593354 2594784 CS but i think 我 有 跟你讲 过 对 吗
+NI03FBX_0101 2594784 2596922 CS 我 g.p.  我 literature -
+NI03FBX_0101 2597805 2598376 ZH 对 哦
+NI03FBX_0101 2598924 2601944 CS 我 我 literature 也是 写 不 完 我 也 是 三个 point 三个 point 诶
+NI03FBX_0101 2601984 2604134 CS 三个 essay 诶 我 朋友 写 九 面 哦
+NI03FBX_0101 2604245 2613616 CS 我 朋友 写 九面 eh  一 就是 一个 essay 三面 neh 我 总共 哦 我 算 哦 我 才 写 五面 而已 唉  我 知道 我 就 糟糕了 我 这个 paper
+NI03FBX_0101 2621796 2622342 EN uhhuh
+NI03FBX_0101 2626734 2627565 ZH 哦
+NI03FBX_0101 2634681 2635356 ZH 哦
+NI03FBX_0101 2636966 2638108 ZH 对对对对对
+NI03FBX_0101 2642236 2642600 ZH 啊
+NI03FBX_0101 2644937 2645638 ZH 对对对
+NI03FBX_0101 2650053 2656026 CS 哦 我 是 我 那时候 我 就是 希望 是 这样 啊 我 考 完 刚 a. level 的 时候 我 是 希望 嗯
+NI03FBX_0101 2656372 2660778 CS hopefully 那个 examiner 看 我 script 的 时候 哦 他 会 发现 其实 我 不是 很 啰嗦
+NI03FBX_0101 2661115 2662216 ZH 啊 我 就 我 就是
+NI03FBX_0101 2663151 2667688 CS 嗯 straight to the point 的 这 这 就是 我 风格 my style of writing 希~ 希望 他 可以 看得见
+NI03FBX_0101 2667851 2670708 ZH 不要 扣 我 太多 分 啊 
+NI03FBX_0101 2671097 2673032 CS 也 还好 啦 end up 我 也是 pass lah so
+NI03FBX_0101 2673616 2674463 ZH 也 没有 什么 啊
+NI03FBX_0101 2674811 2677252 CS so oh actually 我们 是 在 讲 为什么 我 要 进 maths right
+NI03FBX_0101 2677512 2683021 ZH 啊 最后 因为 我 就 觉得  我 我 不是 一个 很 精明 的 人 我 就
+NI03FBX_0101 2683748 2686345 CS  我 不 不可以 做 business
+NI03FBX_0101 2686852 2688202 CS 啊 that's why 我 不可以 读 business
+NI03FBX_0101 2688838 2690742 CS 我 读 business like
+NI03FBX_0101 2690742 2693252 CS 我 以前 有一个 sales job 我 老板 也是 一直 讲 我
+NI03FBX_0101 2693772 2694616 ZH 颖敏 啊 你
+NI03FBX_0101 2694616 2699036 CS 你 这个 customer oh 他 是 他 这样 哦 是 在 怎么样 怎么样 怎么样
+NI03FBX_0101 2699735 2707993 CS 哇 我 老板 也是 一直 很 pekcek 因为 我 就 我 就 很 slow ah 我 就 诶 cannot get 为 为 为 为 为 为什么 一定 要 这样 做 为什么 要 这样 做 then
+NI03FBX_0101 2708346 2709386 CS okay 我 不可以 读 business
+NI03FBX_0101 2709686 2712296 CS 我 不可以 读 那种 humans 的 东西
+NI03FBX_0101 2712875 2715826 CS then 因为 humans 我 写不完 
+NI03FBX_0101 2715826 2717346 CS 你 叫 我 写 essay 我 会 死
+NI03FBX_0101 2717346 2717727 EN then-
+NI03FBX_0101 2720591 2723516 ZH 对 所以是 没有 办法 咯 进 数学 咯
+NI03FBX_0101 2723516 2725226 CS then engineering 又 very boring oh
+NI03FBX_0101 2725789 2726075 EN eh
+NI03FBX_0101 2727737 2728178 ZH 啊
+NI03FBX_0101 2728875 2729446 ZH 对
+NI03FBX_0101 2731628 2733844 ZH 对 哦 我 就 觉得 我 不懂 诶 我 就 觉得
+NI03FBX_0101 2733844 2735894 CS 而且 engineering 很 闷 eh
+NI03FBX_0101 2736130 2738442 ZH 不是 很闷 就 就 就
+NI03FBX_0101 2738630 2746710 CS maths 至少 你 还要 思考 engineering 就是 more of like 你 已经 在 apply 了 就 你 就是 进去 然后 跟 住 而且 它的 formula 很 臭 很 长 
+NI03FBX_0101 2746907 2757725 CS  我 看 我 看 我 朋友  我 看 我 朋友 读的 那些 东西 哇 很 长 唉  然后 我 就 哇 有 有 必要 这样 长 吗 什么 东 什么 东东 来的 then (er)
+NI03FBX_0101 2758130 2761550 CS then 他 就 讲 是 physics then 我 就 哦 then 我 就 也不 可以 读 physics 了
+NI03FBX_0101 2761600 2763530 CS 我 就 没有 办法 咯 就 end up 读 maths
+NI03FBX_0101 2763759 2765166 ZH  啊
+NI03FBX_0101 2765872 2772260 EN ya end up with the choice ah and really ah i'm very interested in mathematics ah i think that's a area i can do well in and
+NI03FBX_0101 2772690 2775430 CS currently 我 现在 觉得 我 唯一 适合 做 得 就是 老师
+NI03FBX_0101 2776389 2779843 ZH 我 现在 觉得 啦 我 唯一 适合 做的 就是 老师 因为 我 就 很
+NI03FBX_0101 2781038 2783224 ZH 因为 我 就 比较 会 教人 
+NI03FBX_0101 2783608 2788611 ZH 我 可以 就 那个 人 比 我 聪明 不过 他 教得 就 没有 比 比 我 教得 还要 好 因为
+NI03FBX_0101 2789070 2790770 CS 我 会 比较 会 explain
+NI03FBX_0101 2791389 2794479 CS 因为 可能 就是 我 也是 没有 太 聪明 啊 所以 我 就-
+NI03FBX_0101 2795674 2800972 CS 啊 也 知道 为~ 为什么 那个人 不懂 因为 我 那时候 看到 的 时候 我 也 不懂  所以 就-
+NI03FBX_0101 2801673 2803714 EN  ya then
+NI03FBX_0101 2805040 2807070 CS so i think 我 还是 做 老师 比较 好
+NI03FBX_0101 2807402 2809505 CS that's why 啊 go into maths 先
+NI03FBX_0101 2810129 2810623 EN ya
+NI03FBX_0101 2812570 2813142 ZH 对
+NI03FBX_0101 2816762 2818086 CS 我 也 不想 一辈子 在-
+NI03FBX_0101 2821748 2824890 CS 啊 在- 
+NI03FBX_0101 2828292 2833875 CS 对对对 我 同~ 我 同意 你的 想法 其实 我 有 想过 like (啧) 以后 以后 哦 就-
+NI03FBX_0101 2834914 2843349 ZH 对对对  我 觉得 补习中心 很 很 很不错 很好看  很好赚 真的 很好赚  对  对对对
+NI03FBX_0101 2846753 2847273 CS 都不用-
+NI03FBX_0101 2847922 2855596 ZH 你 懂 哦 我 爸爸 讲 他 认识 一个 朋友 哦 他 教 五个 补习 他 以前 是 老师 来的 他 现在 出来 哦 他 教 补习 哦
+NI03FBX_0101 2855810 2858760 CS 他 一个 月 哦 赚 得 比 normal 老师 还要 多 唉
+NI03FBX_0101 2859425 2861009 ZH 赚很多 而且
+NI03FBX_0101 2861530 2867960 CS 他 extra 钱 哦 他 去 投资 那些 啊 bonds 买 property 去 rent
+NI03FBX_0101 2868098 2870298 CS rent to 那种 外国 学生 indo chinese
+NI03FBX_0101 2870298 2873240 CS 哇 真的 很好赚 很好赚 你 做 他们 guardian
+NI03FBX_0101 2874175 2874642 EN ya
+NI03FBX_0101 2876642 2877291 ZH 啊
+NI03FBX_0101 2878278 2880108 CS 我 跟 我 跟 我 以前 tutor oh
+NI03FBX_0101 2880108 2881578 CS i think 我 tutor 很 疼 我 就是 这样
+NI03FBX_0101 2881608 2885848 CS 因为 我 跟 我 tutor 对 这种 东西 意见 很 相同 我 很 喜欢 讲 about 这种 东西 的
+NI03FBX_0101 2886327 2908063 CS 我 以前 的 j.c. 的 我的 maths tutor lah 然后 我 我 很 喜欢 哦 坐 坐 在 一边 然后 我 就 讲 哦 对哦 然后 as in 然后 他 讲 because 我 去 跟 他 讲 哦 我 要 去 教 以后 要 去 教 补习 赚 比较多  他 就 讲 eh actually that's a very good idea i should follow you  then 我   啊 对
+NI03FBX_0101 2909748 2913072 ZH 对 啊 对 就是 因为 这样
+NI03FBX_0101 2913955 2916984 CS then 我的 我 老师 就 很 喜欢 跟 我 讲 这种 东西 因为
+NI03FBX_0101 2916984 2920044 CS  我们 两个 很 有 很 有 idea then 我们 就 互相 交换
+NI03FBX_0101 2920044 2921218 CS  then 就
+NI03FBX_0101 2922291 2928222 ZH 就 而且 一 一辈子 你 想 你 到 老了 还 面对 那种 学生 就
+NI03FBX_0101 2931494 2939181 CS  对 其实 我 是 我 还 蛮 还 蛮 喜欢 小孩子 诶 不过 就- 啊 很 taxing
+NI03FBX_0101 2941752 2942894 EN 
+NI03FBX_0101 2944582 2945127 ZH 对
+NI03FBX_0101 2949736 2950489 ZH 对对对
+NI03FBX_0101 2953865 2965006 CS  然后 其实 我们 我们 也是 我们 就 like (er) 很像 我 教 我 教 的 时候 就 会 比较 像 (啧) 我 会 很 压力 很大 因为 可能 自己
+NI03FBX_0101 2965304 2971214 CS 因为 我 actually 我 教 我 教 的 这些 都是 对 我 都是 蛮 亲自 认识 的
+NI03FBX_0101 2971214 2973994 ZH 就 很像 我 现在 教 的 那个 小学 我 认识 了
+NI03FBX_0101 2973994 2975564 CS 我 从 j. one 开始 教 她
+NI03FBX_0101 2975845 2978184 ZH 然后 我 一个 是 我 朋友 的 妹妹 然后
+NI03FBX_0101 2978184 2980534 CS 还有 多 一个 是 他的 朋友 you see
+NI03FBX_0101 2980831 2984852 ZH 然后 就会 很想 教 很好 因为 你 觉得 你 有 一个 责任
+NI03FBX_0101 2985064 2989206 ZH 就 (啧)  就 他们 不学 的 时候 你 就会 觉得 很 pekcek
+NI03FBX_0101 2989644 2995844 ZH 然后 小学的 有时候 打 他 还会 听 中学的 你要 怎么办  就 更加 难
+NI03FBX_0101 2997694 2998603 CS 你 就-
+NI03FBX_0101 3000135 3002812 ZH 我 我 昨天 我 昨天 四个小时 的 补习
+NI03FBX_0101 3003216 3005683 ZH 哇 siao 教 教 了 他 朋友 然后 去 教 他
+NI03FBX_0101 3006072 3018477 ZH 然后 结果 我 到 那边 哦 我 叫醒 她 来 叫 她 补习 耶 然后 就 因为 她 刚 醒 的 时候 脾气 不是 很好 而 而且 她 她 在 有点 绝食 的 感觉
+NI03FBX_0101 3018901 3019840 ZH 爱 爱美 而已
+NI03FBX_0101 3020281 3023262 ZH 她 就 变成 很不高兴 你 懂 没有 吃
+NI03FBX_0101 3024903 3027080 ZH (呃) 中三 中三
+NI03FBX_0101 3028799 3039060 ZH 诶 真的 嘞 她 她 是 她 不懂 是 不懂 是 发生 什么事 她 突然间 这样 她 从 不懂 五十多公斤 哦 瘦 到 四十二 唉
+NI03FBX_0101 3039425 3042749 ZH 我 的 高度 诶 我 一五八 唉 四十二 公斤 唉
+NI03FBX_0101 3043346 3046855 ZH 哇 然后 就 然后 现在 叫 她 吃东西 她 会 生你的气
+NI03FBX_0101 3047527 3054694 ZH 你 不吃~ 然后 我 然后 刚好 我 她的 心情 一向 就 不是 很好 她 很 她 连 她 家里 的 人 她 都 很 dao
+NI03FBX_0101 3055759 3056616 CS 就 like
+NI03FBX_0101 3057004 3062734 CS she sometimes she won't care what her family members says then then 她 又是 我 朋友 的 妹妹
+NI03FBX_0101 3063203 3066320 CS 我 上去 教 她 我 昨天 很 stress 因为 我 也是 很累 了
+NI03FBX_0101 3066917 3069764 CS 我 从 我 教 她 的 timing 是 七点 半 到 九点 半
+NI03FBX_0101 3070241 3072059 ZH 我 也是 很累 然后 又
+NI03FBX_0101 3073123 3076915 CS like 忙了 一整天 然后 又 下去 教 她 然后 她又 给 我 attitude
+NI03FBX_0101 3077382 3079270 ZH 昨天 真的是 压力 很大
+NI03FBX_0101 3079564 3084492 CS then plus 她 的 考试 要 到 了 她 考试 的 那期间 我 在 考试 也是
+NI03FBX_0101 3085125 3086761 CS so 哎呀
+NI03FBX_0101 3087654 3094434 CS that's why (啧) 我 也 不想 like 一直 stay 在 教 教育 工作 因为 我 觉得 我 会 心脏病 啊
+NI03FBX_0101 3094434 3096308 ZH  会 有 心脏病 啊
+NI03FBX_0101 3100810 3101407 ZH 对
+NI03FBX_0101 3107612 3108106 ZH 嗯
+NI03FBX_0101 3110625 3111585 ZH 对对对
+NI03FBX_0101 3113118 3114156 ZH  而且
+NI03FBX_0101 3115305 3118115 CS 而且 你 可以 imagine oh 你 教 一个 学生 你 都 已经 这样 了
+NI03FBX_0101 3118285 3122821 ZH 如果 教 一班 的 学生 嘞 一班 一班 很闹 的 学生 呢
+NI03FBX_0101 3126491 3127270 ZH 没有 办法 哦
+NI03FBX_0101 3129527 3129865 ZH 哦
+NI03FBX_0101 3130722 3132741 ZH 诶 哇 我们 还有 八分钟
+NI03FBX_0101 3133501 3137863 CS  哇 啊 ok 还 还有 什么 问题 吗
+NI03FBX_0101 3139967 3145328 CS  哦 (呃)  weired encouters ah with guys ah
+NI03FBX_0101 3146072 3148966 CS 我 就 哎呀  就 ok 我
+NI03FBX_0101 3151058 3161683 ZH 最怪 其实 我 我 最怪 的 那个 我 很难讲 啦 因为 我 讲 了 你 幻想 不到 因为 你 要 真的 看到 那个 人 真的 真的 在 那个 学校 里面 哦 知道 那个 
+NI03FBX_0101 3162202 3168062 CS 唉呀 ok 就是 曾经 有 这个人 xi~ - 不是 他 不是 喜欢 我 他 是 他 想 追 我
+NI03FBX_0101 3168968 3173092 ZH 因为 我 怀疑 是 因为 哦 在 学校 我 是 唯一 一个 会 跟 他 讲话 的 女孩子
+NI03FBX_0101 3173408 3174740 ZH 因为 那时候 我 根本 都 不好看
+NI03FBX_0101 3175018 3185840 ZH  然后 然后 就 就 很奇怪 因为 他 是 那种 哦  就 很像 他 他 是 那时候 他 中二 时候 他 会 走过 一个 中 中五 的 班
+NI03FBX_0101 3186266 3190742 ZH 然后 他 会 拉 他 的 袖子 起来 哦 然后 做 那种 怪怪的 动作
+NI03FBX_0101 3191123 3194784 ZH 我的 我 讲 我 我 这样 讲 你 很难 然后 就
+NI03FBX_0101 3195719 3201378 CS  啊 就 很- 不懂 要 怎么讲 他 是 不过
+NI03FBX_0101 3202110 3206100 CS 关于 这个 人 哦 我 有个 有个 很好笑 我 永远 都 不会 忘记 的 encounters
+NI03FBX_0101 3206616 3208849 ZH 不 不 不是 在 我 身上 是 在 他 身上
+NI03FBX_0101 3209027 3221960 ZH 我 永远 不会 忘记 的 是 哦 他 那时候 走过 走过 一 (呃) 走过 我们班 因 那 那时候 我们 没有 老师 在  他 就 指 他 就 指中指 两只手 指中指 他 就 这样 走过 唉
+NI03FBX_0101 3223258 3229766 ZH 没有 老师 在 班 哦 不过 刚好  另外 一边 有 我 的 级任老师 哦 他 要 进来 时候 他 看到
+NI03FBX_0101 3230241 3231893 ZH 你 懂 第二天 他 发生 什么 吗
+NI03FBX_0101 3232508 3238167 ZH 他 罚 他 站在 太阳 底下 指中 手 举起来 指中指 指 一整天
+NI03FBX_0101 3238167 3243372 ZH  哇 我们 那天 喏 我们 一整天 我们 一直 走过 他 走过 他 去 笑 他
+NI03FBX_0101 3243659 3244709 CS recess 的 时候
+NI03FBX_0101 3244962 3254733 CS 走过 他 拍照 video 老师 没有 管 诶 老师  我们 有些人 因为 中学 时候 不可以 拿 手机 出来  我们 全部 拿 手机 出来 拍 哦 老师 不管 的 给 我们 拍 
+NI03FBX_0101 3254733 3260358 ZH  很高兴 啊  老 老 老师 自己 看了  对
+NI03FBX_0101 3261022 3262398 ZH 因为 他 是 那种 很
+NI03FBX_0101 3263279 3265119 CS 很 attract attention 那种
+NI03FBX_0101 3265363 3266870 ZH 他 就是  然后
+NI03FBX_0101 3268033 3275399 ZH 对 对 他 自己 活该 咯  自己 活该 咯 自己 做 这种 东西  然后 
+NI03FBX_0101 3276135 3280729 CS 我 我 讲 另外 一个 你 可以 visualize 的 是 (erm) ok 我 妹妹 哦
+NI03FBX_0101 3280729 3282639 CS 她是 在 n. t. class 的
+NI03FBX_0101 3282889 3284459 CS 你 懂 n. t. oh normal technical
+NI03FBX_0101 3285182 3291994 CS then 认识 的 人 都 很奇怪 不过 我 妹妹 我 妹妹 是 我 妹妹 是 那种 很 单纯的 所以 她 不会 做 那种 怪怪 东西 的
+NI03FBX_0101 3292505 3301967 ZH 是 她 的 朋友 结果 她 朋友 就 因为 一件事 把 她 拉下水 而且 我 妹 又 不可以 出门 我 妈妈 很 很 管 把 我妹 管 得 很严
+NI03FBX_0101 3302330 3309846 ZH 结果 就 有 是 有 有 一晚 就 骂 到 很凶 然后 因为 她 她 跑出门 然后 我 父母 不知道 她 跑 到 很迟 才 回来
+NI03FBX_0101 3310456 3324998 ZH 然后 她 也 不 懒得 跟 我 父母 讲 真相 我 也 知道 不是 真的 然后 我 就 我 就 问 她 唉 你 到底 是 什么 你 有 事情 的话 我 帮 你 讲 好过 好过 妈咪 一直 在 那边  一直 在 那边 念 我 听到 我 听到 我 真的 很 sian 你 到~ 到底 有 什么 事 然后 她 就 跟 我 讲
+NI03FBX_0101 3325674 3331938 ZH 原来 她 朋友 拉 她 下水 变成 一个 外 外面的 外面的 一群人 要 找 她 要 找 她 麻烦
+NI03FBX_0101 3332579 3344164 ZH 因为 她 要 通 因为 他们 要 从 她 那边 知道 那 那事 那个 事情 的 来龙去脉 因为 变成 她 朋 她 朋友 就 有一点 连累 到 她 的 感觉 不过 其实 她 什么 都 没有 做
+NI03FBX_0101 3345070 3348167 CS 就 其实 actually 其实 是 样 误会 来的 他们
+NI03FBX_0101 3348167 3350897 CS 就 他们 就 以为 因为 那 件 事 有 两个 人 被 suspend
+NI03FBX_0101 3351187 3352757 CS 其实 没 没有 人 被 suspend eh
+NI03FBX_0101 3353527 3357157 CS 我 不懂 我 不懂 为什么 会 闹 到 他们 会 以为 有人 被 suspend
+NI03FBX_0101 3357671 3360891 CS then 就 不用紧  我 就 打 给 那个人 那个人
+NI03FBX_0101 3361577 3363007 CS 那个 人 就 okay
+NI03FBX_0101 3363007 3364017 EN (er)
+NI03FBX_0101 3364017 3366157 CS 就 okay 有什么 事 我 就 找 找 你
+NI03FBX_0101 3366157 3368552 ZH 因为 我 就 我 就 叫 他 来 找 我 不要 找 我 妹
+NI03FBX_0101 3368811 3374092 ZH 因为 我 就 从 我 妹妹 那边 知道 我 我 就 问 他 审 他 审问 他
+NI03FBX_0101 3374395 3384667 ZH 审问 到 他 全 我 全部 知道 啊 然后 就 有一次 有一次 我 就 读完书  然后 放 放学 之后 哦 我 就 去 找 他们
+NI03FBX_0101 3385065 3391401 ZH 因为 他们 就 突然 打来 诶 我 现在 见 你 妹妹 那时候 已经 五点多 了 我 妹妹 不可能 出门 的 不可能 在 那时候 出门 因为 我 妈妈 已经 要 到家 了
+NI03FBX_0101 3391713 3395156 ZH 我妈 到家 她 发现 她 我 妹妹 不在家 她 会 大发雷霆
+NI03FBX_0101 3395907 3399497 CS then 我 就 okay 不用紧 我 过来 我 过来 meet i will tell you what i know
+NI03FBX_0101 3399497 3402531 ZH 我 妹妹 已经 把 全部 东~ 全部 的 事情 来龙去脉 跟 我 讲 了
+NI03FBX_0101 3403197 3404397 CS then 我 就 下去 跟 他 settle
+NI03FBX_0101 3404863 3412784 CS then settle oh 就是 一群人 然后 这边 就 有 一个 男的  就是 那个 一直 在 跟 我 通电话 的 人 跟 我 同龄
+NI03FBX_0101 3413615 3414807 CS 就 settle settle se~
+NI03FBX_0101 3414807 3416117 CS 啊 同 同龄 same age
+NI03FBX_0101 3416481 3429281 CS then 他 就 讲 讲 讲完了 之后 哦 他 就 过后 ok 就 就 让 我 走 了 过后 就 发现 什么 是 一 误会 啊 什么 之后 then 就 又 风平浪静 了 嘞
+NI03FBX_0101 3429543 3435069 ZH 突然间 有一 整~ 有一个 早上 那个 男的 打 给 我 诶 呃 我 生日 要 到了 唉
+NI03FBX_0101 3435390 3439259 ZH 呃 你 要不要 你 要不要 来 我的 生 生 生日派对 因为
+NI03FBX_0101 3439753 3442037 ZH 那 那  因为
+NI03FBX_0101 3442037 3445657 CS 其实 那时候 settle 的 时候 因为 你 懂 你 跟 他们 settle 的 时候 哦 你 不可以
+NI03FBX_0101 3445657 3454847 CS 跟 你 要 跟 这种 人 讲话 你 要 诶 诶 sean 诶 brother 我 跟 你 讲 啊 我 妹妹 就是 这样 的 啦 嘀嘀嗒嘀嘟 的 then 
+NI03FBX_0101 3454847 3457177 CS then 你 就要 like make friend with them 有没有
+NI03FBX_0101 3457177 3460461 CS then  plus 我 妹 
+NI03FBX_0101 3461897 3465267 CS 其实 也没有 啊 actually 就 就 跟 普通人
+NI03FBX_0101 3465515 3472847 CS 你 很像 我 遇~ 我 遇到 不熟 的 人 就 那个人 跟 我 讲话 我 讲话 也是 这样 讲话 like 很像 我 刚
+NI03FBX_0101 3472847 3475217 CS steamboat 那天 我也 是 算是 第一次 遇到 你
+NI03FBX_0101 3476090 3479388 CS 啊 then 我 我 也是 这样 讲话 啊 我 就 我 就是 这样 的 人 啊 like
+NI03FBX_0101 3479667 3483017 CS 你 你 跟 我 讲话 you're friendly to me then i'll be friendly to you plus that time 是
+NI03FBX_0101 3483404 3490779 CS 你 要 想 唉 我 妹妹 是 还 还有 跟 他们 eh then 我 也 不可以 那样 弄到 我 妹妹 很 什么 then 就-
+NI03FBX_0101 3490779 3494347 CS 他 就 诶 要 要不要 来 我 生日 party ah 我 invite 你
+NI03FBX_0101 3494487 3495867 CS then 顺便 celebrate 我 弟弟 的
+NI03FBX_0101 3496206 3498829 CS 呃 then 嗯
+NI03FBX_0101 3499137 3500557 CS 我 我 没有 reject 我 就 去 哦
+NI03FBX_0101 3500557 3507552 ZH 不过 哦 我 去 拿 (呃) 给 他 礼物 然后 就 坐 坐 一下子 然后 就 走了 因为 他 的 生日 跟 我 的 生日 很 接近 然后 我 就
+NI03FBX_0101 3508187 3512197 CS 刚好 就 那时候 也是 要 celebrate 我 自己的 birthday then 就 okay lor
+NI03FBX_0101 3512532 3517206 CS then (er) 我 朋友 要 庆祝 我 的 生日 啦 所以 啊 我 pass 给 礼物 啊 然后 我 就 走 了
+NI03FBX_0101 3518245 3519517 ZH 结果 后来 那个 男的 就
+NI03FBX_0101 3520219 3523346 ZH 就 很明显 那个 男的 就 在 想 想 追 我
+NI03FBX_0101 3523346 3528286 CS then 我 就 觉得  wow  wow 好奇怪 哦  很像 like
+NI03FBX_0101 3528697 3535647 CS 无缘 无缘无故 like it's a very for me it's a very weird encounter because 我 跟 本 都 没有 去 想
+NI03FBX_0101 3536443 3546676 ZH 想 要 去 跟 他 做朋友 什么 之类 就 可能 是 表 表面上 做朋友  解决完 事情 其他人 也 没有 来 找 我 其他 那时候 当事人 就 没有 来 找 我
+NI03FBX_0101 3546884 3555610 CS 就 我 就 觉得 哦 应该 像 其 其他 别人 这样 这样 才 settle 就  就 解决完了 就 解决完了 不 不需要 继续 做朋友  就
+NI03FBX_0101 3556985 3557998 ZH 然后 结果
+NI03FBX_0101 3559894 3563377 ZH 蛮 就 而且 他 是 请 他 的 朋友 而已
+NI03FBX_0101 3564130 3566831 CS 还 还有 我 就 很 尴尬 then 结果
+NI03FBX_0101 3569740 3577078 ZH 而且 我 只 见过 他 一次  我 就 只 见过 他 一次 而且 我们 也 没有 好像 这样 朋 我 跟 你 像是 朋友 交谈
+NI03FBX_0101 3577452 3580580 ZH 我 跟 他 就是  我 根本 就是 在 想~ 帮 我 妹妹 讲
+NI03FBX_0101 3581255 3591241 CS 我 根本 就 在 settle 我 跟 你 讲 我 妹妹 就是 这样的 人 她 就 我 就 跟 他 在 解释 我 就 没有 我 就 没有 打算 继续 会 有 下文 的 你 知道 吗 就 很像 哦
+NI03FBX_0101 3591667 3594077 CS 解决 完了 事情 settle 了 走 走人
+NI03FBX_0101 3594077 3598946 CS ok  之 之后 你 你 回去 混 你的 世界 我 回去 混 我的 世界
+NI03FBX_0101 3599433 3605052 ZH 就 结 结 结 结果 诶 突然间 他  他 他 他 在 干吗
+NI03FBX_0101 3608818 3613014 ZH 烂  烂 烂 烂桃花 怪 怪桃花
+NI03FBX_0101 3613232 3616778 ZH 其实 他 的 人 不错 啊 就 我们 世界 很 不一样 啊
+NI03FBX_0101 3616778 3627514 ZH 真的 不 不是 我 要 讲 不过 真的 世界 很 不一样 他 就是 那种 他 是 我 是 觉得 我 我 有 责任 哪 所以 我 会  我 会 需要 读书
+NI03FBX_0101 3628097 3628657 EN 
+NI03FBX_0101 3630982 3633683 ZH 他 他 我 我 我 会 遇到
+NI03FBX_0101 3634514 3636913 ZH 我 会 我 很 讨厌 他们 抽烟
+NI03FBX_0101 3637475 3653414 CS 因为 其实 虽然是 也没有 跟 他 很熟 啦 不过 他 对 我 蛮好 的 所以 就  对 他 是 觉得  (erm) 就 有点 like 把 他 当 朋友 的 感觉 然后 就  我 很 讨厌 他 抽烟 因为 其实 我 很 讨厌 我 朋友 抽烟 的
+NI03FBX_0101 3654899 3659165 CS  我 啊 我 不是 其实 我 不-
+NI03FBX_0101 3659165 3660495 CS as in 我 不会 讨厌 我 朋友
+NI03FBX_0101 3660495 3668515 ZH 不过  我 很 讨厌 他们 那个 举动 我 就 就会  我 朋 我 朋 我 抽烟 的 朋友 也会 知道 啊 然后 他们 就 尽量 不要 在 我 面前 抽 因为
+NI03FBX_0101 3668515 3672925 CS 他们 知道 我 会 很 affected because 我 会 觉得 诶 你 不 应该 这样子

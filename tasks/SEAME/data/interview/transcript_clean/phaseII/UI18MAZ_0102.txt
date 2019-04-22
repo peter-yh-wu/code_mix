@@ -1,0 +1,191 @@
+UI18MAZ_0102 9784 15052 CS 假如 是 讲给 training lah 因为 我们 不是 under 真正 的 intel 我们 是 outsource 出来的
+UI18MAZ_0102 15052 17897 CS 假如 是 真正 under intel 他们 会给 training 你们
+UI18MAZ_0102 17897 21865 CS 有时 可能 派去 外国 或者 local loh 新加坡 这样 咯
+UI18MAZ_0102 21865 25377 CS 我们 的 应该 是 outsource 出来 是 outsource 公司 provide 的
+UI18MAZ_0102 25377 28863 CS 大多数 他们 provide 这些 training hor 他们 会 bond 你咯
+UI18MAZ_0102 28863 32625 CS 大多数 我们 就 不会 拿 啦 因为 他 bond 你 几年 这样
+UI18MAZ_0102 34838 37382 EN en just sign contract
+UI18MAZ_0102 38806 49829 ZH 嗯 我 已经 做了 两年多了 两年 我是 记得 是 一九九 没有 二零零八年 那时 四月 进的 到 现在 应该 是 两年 四个月 这样咯
+UI18MAZ_0102 59259 64360 CS for unix 也 有的 他们 叫 l. p. i. linux professional institute
+UI18MAZ_0102 64360 70727 CS 他 so far 他们 没有 给我 啦 我 只是 可能 他们 他们 去 training mah 我 跟他 借 他书 来看 咯
+UI18MAZ_0102 70727 74084 CS 这样 咯 learn from the book 这样
+UI18MAZ_0102 76448 82321 CS so far ah 我 觉得 我 做了 两年 也是 要学 啦 不学 的话 等下 troubleshoot 也是 很 麻烦
+UI18MAZ_0102 82321 92761 CS so far okay lah 我 学到 也能 接受啦 unix 也是 跟 windows 对我 来讲 unix 比较 容易 用点啦 可能 用 久了 关系 kua
+UI18MAZ_0102 99218 103270 CS 嗯 它 很多 东西 都是 要用 command based 来做 比较 方便
+UI18MAZ_0102 103270 107125 CS 假如 你 要用 得 方便 的话 你要 懂得 很多 那些 command
+UI18MAZ_0102 107125 114561 CS 不然 的话 你 很 头痛 的 因为 是 黑白 有时候 你要 找 一些 东西 全部 都是 用 command 来 拿回 出来 grap 回去的 data
+UI18MAZ_0102 114561 118864 CS windows 不一样 嘛 他们 有 g. u. i. mode 然后 display 出来 容易 找 一点
+UI18MAZ_0102 118864 123078 CS 分别 在 这边 咯 你要 懂得 去 怎样 grap 那些 data 你 要的
+UI18MAZ_0102 125677 129939 CS 我 改的 东西 大多数 是写 simple scripting 来 automate 那些 东西
+UI18MAZ_0102 129939 135840 CS 然后 重复 做 东西啊 我 好像 我 两千多 架 server mah 没有 理由 每一架 去 check 的嘛
+UI18MAZ_0102 135840 141549 CS 可能 写 一些 scripting 同样 的 东西 做 在 全部 两千架 一 直接 拿到 report 这样
+UI18MAZ_0102 141549 146902 CS 我 只是 要 report 罢了 我 不是 要 那个 这样 manually 一架架 去做 嘛
+UI18MAZ_0102 146902 149326 CS 就是 用 scripting 来做咯
+UI18MAZ_0102 160102 171002 CS ah 给 一个 example 看啦 就是 好像 (呃) 他们 每一天 要 check 每一架 server 他们 有没有 down mah 因为 我们 server 是要 twenty four hour up-time 的嘛 不能 down 的
+UI18MAZ_0102 171002 175178 CS 他们 可能 写 一些 software 进去 那个 system 里面 check 他的 services
+UI18MAZ_0102 175178 178290 CS 然后 用 一个 server 来 test 那个 services
+UI18MAZ_0102 178290 187407 CS 假如 那 services 一断掉 啊 他们 有 一个 team 应该 是在 印度 的 twenty four hours support standby 来 check 看他 做么 什么会 down ah
+UI18MAZ_0102 187407 192838 CS 假如 down 了 他用 command 去 reboot 他咯 remote 的去 reboot 那个 server 不用 on-site 的
+UI18MAZ_0102 192838 198900 CS 假如 是 做不到 可能 是 hardware 坏 你 知道 吗 他 reboot 到 stuck 在 一半 我们 就要 去 onsite 去 帮 他们 做咯
+UI18MAZ_0102 198900 208746 CS 他们 可能 是 要 写 那些 script ah来 automate 那些 reboot ah来 automate 去 test 看 那个 services 有没有 down 然后 在个 website 上 display 出来
+UI18MAZ_0102 208746 213825 CS 就是 讲 这些 东西 来 帮助 他们 improve 他们 的 时间啊 services support 这种 东西咯
+UI18MAZ_0102 218029 223097 CS en intel 的 server 他们 有 现在 有 买 两种 brand 的 一个 是 h. p. 和 i. b. m. 的
+UI18MAZ_0102 223097 226570 CS 现在 他们 大多数 用 server 他 有分 三种 type
+UI18MAZ_0102 226570 233788 CS 第一种 是 infra server 他们 做 那些 services 的 s. q. l. ah database ah 那些 file 的 东西 的
+UI18MAZ_0102 233788 240128 CS 第二种 嘞 是 他们 叫 compute server compute server 他们 是有 分 两有 三大类 咯 一个 是 做 batch job
+UI18MAZ_0102 240128 244197 CS 一个 是 参参的 interactive 加 batch 一个 是 interactive server
+UI18MAZ_0102 244197 249522 CS interactive server 是 讲给 那些 user 可以 开一个 section 在 里面 做 东西 让 他们 要做 job
+UI18MAZ_0102 249522 252251 CS 然后 一个 是 interactive batch 是 参参 咯
+UI18MAZ_0102 252251 256316 CS 就讲 早上 的 时候 user 比较 多 嘛 所以 他们 是走 interactive 的 job
+UI18MAZ_0102 256316 259749 CS 到了 晚上 六点 到 早上 可能 是走 batch job
+UI18MAZ_0102 259749 262801 CS 然后 batch 的 server 就是 讲 全部 是走 batch job 的
+UI18MAZ_0102 262801 266721 CS 他们 是 可能 是 拿来 test 那些 processor 的 circuit 的 东西啊
+UI18MAZ_0102 266721 272537 CS 一直 keep 那 testing testing 他们 submit 那 batch job batch 那个 master 那边 然后
+UI18MAZ_0102 272537 278402 CS 再 分出去 给 那些 server 看 有没有 free 的 server 很多 resource 的 就 给 他们 做 那 job
+UI18MAZ_0102 287124 288554 EN enen
+UI18MAZ_0102 292998 295240 CS 你讲 那些 outsource 出去啊
+UI18MAZ_0102 295240 299190 CS 其实 我们 的 公司 也是 好像 一种 outsource 在 intel 里面 outsource 出来的
+UI18MAZ_0102 299190 305035 CS 怎样 讲 我 解释 给你 就是 讲 intel 里面 他 很多 那些 designer mah design 那些 chip set 的
+UI18MAZ_0102 305035 310361 CS 他们叫 p. d. c. group loh 很多 很多 小小个 group 研究 不一样 的 component 的
+UI18MAZ_0102 310361 317754 CS 然后 这些人 嘞 他们 要 买 server 嘛 假~ 假如 他 他们 自己 做 server 自己 mantain 是 很 辛苦 的 事情 嘛
+UI18MAZ_0102 317754 323639 CS 所以 他们 就 engage intel 一个 group 就是 讲 我~ 我们 现在 是 叫做 engineer computing group
+UI18MAZ_0102 323639 327505 CS 应该 是在 intel 里面 是 最大的 group 的 帮 人家 顾 server 的
+UI18MAZ_0102 327505 332469 CS 我们 就是 帮 那些 customer 讲 那些 要 买 什么 server spec. 我们 帮他 买了
+UI18MAZ_0102 332469 337762 CS 放在 人家 的 data centre 是讲 他们 data centre 还~ 还有 一个 group own 这个 data centre 的
+UI18MAZ_0102 337762 341719 CS 我们 就是 group 去租 那个 地方 放 那个 server 下去
+UI18MAZ_0102 341719 347641 CS 然后 up 他的 service up 他的 o. s. 帮 他们 troubleshoot maintain 然后 再 release 给 user 用
+UI18MAZ_0102 347641 352334 CS 就是 讲 他们 user 只是 要用 那 services 罢了 不是 拿 (er) maintain 那个 东西 的
+UI18MAZ_0102 352334 355246 CS 有 问题 就 submit ticket 给 我们 我们 就 帮他 修理
+UI18MAZ_0102 356749 362735 CS 我们 server 是 放在 intel 的 他们 很多 building 的 我们 是在 building p. g. twelfth
+UI18MAZ_0102 362735 367324 CS 他们 一个 data center 他们 可以 容纳 我看 五六千 架 server 在 里面的
+UI18MAZ_0102 367324 372422 CS 我们 已经 有 两千多 架 了 应该 是 so far 是 最大了 的 在 我们 的 group 里面
+UI18MAZ_0102 376417 382098 CS (er) 我们 有 support 外~ 外面 的 也是 有 别的 site lah 比如 好像
+UI18MAZ_0102 382098 386049 CS (er) kulim site hor 他们 server 也 可以 有 一点 放在 这边 的
+UI18MAZ_0102 386049 394023 CS (er) penang site 也有 好像 有 一些 国家 israel 啊 那 (呃) 台湾啦 中国啊 他们 也是 有 一些 server 放在 这边 的
+UI18MAZ_0102 394023 396182 CS 只是 他们 remote 进来 用 罢了
+UI18MAZ_0102 396182 401548 CS 因为 他们 有些 像 中国 啊 他们 没有 open 的 就是 讲 他们 的 一些 data 也 不敢 放在 中国
+UI18MAZ_0102 401548 404102 CS 可能 放在 马来西亚 move 过来 这里咯
+UI18MAZ_0102 404102 406537 CS 他们 怕 data 泄漏 出去嘛
+UI18MAZ_0102 409461 414507 CS 很多 地方 的 好像 一个 一个 host 这样 全世界 来 进来 可以 用的
+UI18MAZ_0102 419483 426699 CS (呃) 应该 是 在 美国 啦美国 应该 是 还有 很大 的 应该 是 他们 总部 咯 headquarters 那边咯
+UI18MAZ_0102 428101 431337 CS penang 应该 是 亚洲 亚洲 那边 的 quarter 这样啦
+UI18MAZ_0102 443202 449017 CS some 我们 我来 一天 我看 那些 p. o. ah 他们 的 那个 帐书啊
+UI18MAZ_0102 449017 455065 CS wah 现在 server 太强了 有些 是 很贵 的 就是 讲 一粒 server 三十多千 美金 噢
+UI18MAZ_0102 455065 457602 CS 可以 买 几 一个 bungalow 在 这边了
+UI18MAZ_0102 457602 462981 CS 那个 spec. 是很 high end 了 就是 讲 他 可能 一个 server 里面 有 两百五十多 gig 的 memory loh
+UI18MAZ_0102 462981 465318 CS hardisk 可是 上到 几 tera 上去
+UI18MAZ_0102 465318 474448 CS (呃) 有些 嘞 是 (er) 比较 low-end 是讲 以前 的 是 十年前 啊 他们 应该 是 买 那种 四 gig 的 server 两 gig 的 server 罢了
+UI18MAZ_0102 474448 476764 CS 到 现在 他们 upgrade 到 几百 gig
+UI18MAZ_0102 476764 481648 CS 他们 也是 有时 觉得 不够 用 他们 可能 是 拿来 stress test 那个 server
+UI18MAZ_0102 481648 487763 CS test 到 他的 limitation 去 有时 会 hang 掉 几百 gig 的 server 有 可以 也给 他们 弄 hang 去
+UI18MAZ_0102 492494 494281 CS 啊 他们 有 做 research 的
+UI18MAZ_0102 494281 503359 CS 他们 不久 不久 他们 会 买 好像 他们 还 没有 买 大批 的 进来 hor 他们 就会 拿~ 拿 一两架 hor from 那个 vendor 进来 给 我们 做 testing
+UI18MAZ_0102 503359 506648 CS testing 了 给 user 我们 install 好了 给 user testing loh
+UI18MAZ_0102 506648 516529 CS testing 了 okay 了 觉~ user 觉得 okay 他们 的 project 可以 走在 这些 machine 我们 就 买 出来 做 大量 的 买咯差不多 我们 每个 礼拜 都进 几架 几架 进来的
+UI18MAZ_0102 516529 524167 CS 因为 他们 是 用 美金 来买 嘛 所以 要 便宜 很多 的 有 discount 一点的 他们 买 大批 大批 这样 买
+UI18MAZ_0102 528545 539933 CS 应该 是 我 没有 错 的话 应该 是 在 新加坡 那边 寄 过来的 啦 应该 local 应该 是 没有 没有 做 这种 应该 是 外面 做好了 然后 send 进来 import 回来
+UI18MAZ_0102 546731 554578 CS 这里 装 的话 (呃) 因为 假如 你的 hardware 是 okay 的话 应该 是 没有 问题 的 重要 是 hardware
+UI18MAZ_0102 554578 559633 CS 他 hardware 太贵了 假如 一个 part 坏掉 hor 你要 几千块 去 修理 那个 part 罢了
+UI18MAZ_0102 559633 570170 CS 所以 我们 拿 intel 很 奇怪 咯 不懂 怎么 会 这样 他们 四年 hor out warranty hor 他们 普通 买 server 应该 有 三年 的 warranty extend 多 一年 应该 是 多多 几千 几十千
+UI18MAZ_0102 570170 573954 CS 然后 他们 四年后 没有 warranty 就 scrap 掉了 就 不要了
+UI18MAZ_0102 575319 584388 CS 他 可能 有个 team hor 他们 叫 scrap 的 他们 这个 东西 他 再 卖 出去 给我 听说 过 啦 他们 卖去 新加坡 再 转卖 出去
+UI18MAZ_0102 586146 591656 CS 有个 group 专门 收 这些 坏的 server 他们 再 re-pack 过去 变成 新的 再 卖 出去
+UI18MAZ_0102 594731 602157 CS 因为 我们 用的 是 比较 先进 一点 的 然后 久了 可能 (呃) 他们 warranty 没有了 所以 他们 不要 support 了
+UI18MAZ_0102 616018 622773 CS 嗯 有 我 会 可能 在 unix 发展 但是 有 可能 他 没有 在 那个 server 那行 发展 哈
+UI18MAZ_0102 622773 628174 CS 可能 转 一下 因为 server hor 很 奇怪 的 他们 要 twenty four hours standby 的
+UI18MAZ_0102 628174 641749 CS 比如 好像 我们 假期 啊 就是 讲 我们 没有 做工 哦 我们 就要 去 做工 咯 为什么 嘞 他们 大概 就是 讲 user 没有 用的 时候 我们 就要 做工了 过年 啊 大节日 啊 全部 都要 做工 咯 这是 他 不好 的 地方
+UI18MAZ_0102 643276 650683 CS so far 我 应该 有时候 会有 on call 罢了 大多数 都 没有 的 因为 on call 大多数 给 他们 intel p. b. 那边咯
+UI18MAZ_0102 650683 654487 CS 他们 可能 会 remote 回来 做 我们 帮他 set up 好 那些 remote management
+UI18MAZ_0102 654487 658131 CS 他 可以 work from home 来 remote 那个 server 来 reboot 他 可以了
+UI18MAZ_0102 658131 662456 CS 不一定 要 on-site 的 因为 现在 有 很多 科技 可以 代替 那种 东西了
+UI18MAZ_0102 673792 681781 CS 之前 我们 遇到 的 问题 是 很头痛 的 每一天 啊 我们 有 两千多架 嘛 每一天 有 百多 两百架 server down
+UI18MAZ_0102 681781 685786 CS hor 因为 那时候 还 没有 implement 那种 叫做 remote reboot
+UI18MAZ_0102 685786 692513 CS remote 去 reboot 那个 server 要 on site 每一架 去找 那个 server name 然后 在 图书馆 找 一本书 这样 去 reboot 他
+UI18MAZ_0102 692513 698399 CS 用手 去 reboot 他 他 现在 我们 刚刚 有 一个 system 去 implement 那 remote 来 reboot
+UI18MAZ_0102 698399 702779 CS so 方便 我们 不用 on-site 了嘛 可以 在 坐在 电脑 前面 按 reboot 可以了
+UI18MAZ_0102 706281 709139 CS server hang 了 你 真的 不能 access 进去了 的
+UI18MAZ_0102 709139 712137 CS session 已经 死了 他 services 已经 down 了
+UI18MAZ_0102 712137 718159 CS 他 可能 out of memory 了 连 那个 swap memory (er) 他们 virtual memory 也 用完 掉
+UI18MAZ_0102 718159 723555 CS server memory 用完 就是 hang 了 或者 c. p. u. 很 high load 长时间 的话 还是 会 hang 去的
+UI18MAZ_0102 726359 731753 CS 呐 他们 用 这 东西 是讲 他们 可以 在 bios level 那边 跟 那个 network communicate
+UI18MAZ_0102 731753 739035 CS 只要 他 用个 server 他 装个 service 在 那 电脑 里面 他用 那个 service hor send 个 command 进去 那 电脑 就 可以 reboot 了
+UI18MAZ_0102 739035 741073 CS 用 bios 那 level 来 reboot 了
+UI18MAZ_0102 741073 743041 CS so 方便了 嘛 不用 on-site
+UI18MAZ_0102 743041 748927 CS 我 以前 我做 的 时候 一* 我 做了 两年 多 一年 的 时候 就是 每个 每一天 要 去 两百架 这样 去 reboot
+UI18MAZ_0102 748927 756074 CS 然后 我们 每天 做 analyze data 为什么 会做 那个 做 会 cause 这个 server fail 多少 粒 fail 每一天 做 report
+UI18MAZ_0102 756074 761119 CS 然后 他们 就 implement 一个 services lah 很 奇怪 的 那个 service 是个 demon install 在 电脑
+UI18MAZ_0102 761119 772051 CS 当 那个 memory hor 到 一个 certain level 好像 整个 total memory 剩下 二十 percent 的 时候 hor 他们 就会 看到 那个 job 那个 是用 很 consume memory 的 他 就会 kill 它
+UI18MAZ_0102 772051 774432 CS 预防 那个 server down mah
+UI18MAZ_0102 774432 779531 CS 自从 他们 做了 这个 之后 我就 一天 才 一个 礼拜 才 可能 几架 down 罢了
+UI18MAZ_0102 782456 794300 CS 这个 demon 也是 我们 (呃) 我们 去找 analyze data loh 每次 去找 那些 为什么 log 会 那些 log file ah 几时 down 什么 job cause down 谁 submit 的
+UI18MAZ_0102 794300 802217 CS 然后 他们 generate 全部了 看了 report 了 然后 知道 那个 job 比较 容易 cause 那个 东西 down 的 然后 就 写个 demon 出来
+UI18MAZ_0102 802217 805770 CS 应该 是 有个 team 专门 帮 他们 写 那些 service 的 东西
+UI18MAZ_0102 808138 811537 CS 对 防止 因为 肯定 一~ 一定 会 down 了嘛
+UI18MAZ_0102 811537 814235 CS 好像 他们 可能 一 second 他们 用 两 gig. memory
+UI18MAZ_0102 814235 817353 CS 一 second 两 gig. memory 很快 就 几十 gig. 就 完了的
+UI18MAZ_0102 817353 822591 CS 就是 hang 了 他 知道了 嘛 看了 train 了 就 capture 了 他 就会 直接 kill 它
+UI18MAZ_0102 822591 825744 CS 然后 就 e-mail 出来 跟 那个 user 讲你 job kill 了
+UI18MAZ_0102 825744 832483 CS 给他 知道 一下 咯 不然 他 无端端 我的 job 做么 submit 进去 server 做么 这样久 还 没有 回来 的 是 这样 的 原因咯
+UI18MAZ_0102 832483 837481 CS 他们 有 一个 东西 是来 analyse report 然后 那些 notification 很 重要
+UI18MAZ_0102 837481 841551 CS 有些 user 会 投诉 讲 怎么 他们 services 会 down 掉 也是 很 重要
+UI18MAZ_0102 853984 856531 ZH 你讲 多 工作 怎样子 多 工作 先
+UI18MAZ_0102 860184 865791 CS 比较 忙 一下 啦 我看 应该 是 好像 我 这种 的 on site 的 比较忙 一下
+UI18MAZ_0102 865791 871920 CS 假如 是 写 software 他们 是给 一个 duration time 给你 嘛 你要 这个 时间 要 做好 给我 你去 做咯
+UI18MAZ_0102 871920 877283 CS 做了 然后 那时间 你 给我 就 可以了 我要 每一天 都要 support on site support on site
+UI18MAZ_0102 877283 879926 CS 二十四小时 要 stand by 这样的 比较 麻烦 一点
+UI18MAZ_0102 883589 888109 CS 啊 他们 现在 也是 用着 cloud computing 做 他们 clustering 他们 叫
+UI18MAZ_0102 888109 894171 CS 嗯 好像 那个 server down 掉 hor 他 cluster 过去 可能 这个 还 up 着 他的 service 没有 down 很 重要
+UI18MAZ_0102 894171 901389 CS 然后 那些 service ah from 外国 进来 的 他们 service down 掉 可能 他们 会 impact 他们 production 的 东西 啊 什么 东西
+UI18MAZ_0102 901389 903484 CS 所以 他们 service 不能 down so 做 clustering
+UI18MAZ_0102 903484 906603 CS 大多数 他们 做 clustering 是在 s. q. l. server 那边 做
+UI18MAZ_0102 906603 908984 CS s. q. l. server 他们 大多数 有 clustering 的
+UI18MAZ_0102 908984 910736 CS 还有 web services 也 很 重要
+UI18MAZ_0102 910736 914169 CS 好像 上网 website 你要 会去 forum 还是 一个 一个 web hor
+UI18MAZ_0102 914169 919706 CS 他的 service down 了 你 web site 一定 倒的 嘛 他们 也是 做 clustering 这 两种 大多数 会做 clustering 的
+UI18MAZ_0102 932213 934701 CS 怎样 讲 intel 的 web application
+UI18MAZ_0102 940188 941339 EN en
+UI18MAZ_0102 943596 944718 EN omerbell
+UI18MAZ_0102 946333 951695 CS 他们 有 一个 东西 啊 他们 可能 叫做 share point ah 可能 他们 share point 那个 是 microsoft 出的
+UI18MAZ_0102 951695 954423 CS 他们 的 东西 upload 去 一个 center 就是 他的 server
+UI18MAZ_0102 954423 957556 CS 那 东西 是 可以 propagate 给 全部人 知道 最 up to date 了
+UI18MAZ_0102 957556 961340 CS 你 改着 人家 就 知道 你 改着 那个 file 你要 upload 上去 人家 就 知道
+UI18MAZ_0102 961340 964494 CS 他们 可能 用 那些 咯 microsoft 的 东西
+UI18MAZ_0102 964494 967891 CS 因为 microsoft 在 office 里面 哇 啊 做的 很好
+UI18MAZ_0102 967891 973020 CS (呃) 比 其他 的 比较 好 他们 应该 是 以 那个 share point 来做
+UI18MAZ_0102 985247 986341 EN en
+UI18MAZ_0102 990946 996516 CS (呃) 我~ 我 顾~ 顾 server mah 所以 他 没有 windows 什么 他是 windows two thousand eight
+UI18MAZ_0102 996516 1001246 CS 然后 release candidate 二 就是 可能 跟 windows seven 一模一样 interface 的
+UI18MAZ_0102 1001246 1005626 CS 假如 release candidate 一 的话 可能 是跟 windows vista 一样 咯 two thousand eight 的
+UI18MAZ_0102 1005626 1012838 CS 最新 的 也是 用 windows server two thousand eight release two 第二 的 就是 好像 windows seven 这样 的 他的 interface
+UI18MAZ_0102 1012838 1018624 CS 其实 那 c server 的 for windows 的 是 比较 漂亮 他 g. u. i. ah 他 比较 好用
+UI18MAZ_0102 1018624 1020901 CS 有 mode loh 有 可以 看到
+UI18MAZ_0102 1022793 1024721 CS (er) intel 也是 有
+UI18MAZ_0102 1024721 1028925 CS 就 好像 比较 这样 啊 我们 unix linux 的 server 有 两千架
+UI18MAZ_0102 1028925 1035050 CS 可能 windows 可能 只有 (呃) 两三百架 这样 咯 比较 少 因为 license 的 关系
+UI18MAZ_0102 1037440 1042238 CS windows server 也是 好像 unix 这样的 也是 有 batch job batch server 这样 做 东西的
+UI18MAZ_0102 1042238 1048368 CS 他 要 remote 进去 run 他们的 job 也是 可以 submit batch job 进去 来去 等 他们 拿 result
+UI18MAZ_0102 1048368 1051243 CS 也是 一样的 只是 windows based 罢了
+UI18MAZ_0102 1051243 1055448 CS 可能 那些 application 需要 windows 来走 所以 他 没有 办法 只选 windows
+UI18MAZ_0102 1055448 1059084 CS 假如 不用 windows 他们 会用 unix 比较 便宜 比较 方便
+UI18MAZ_0102 1067290 1072510 CS (er) basic minimum 我 觉得 在 engineer 做工 一定 要会 unix 的 咯
+UI18MAZ_0102 1072510 1075757 CS command loh linux 的 command perl 的 command loh 要会
+UI18MAZ_0102 1075757 1082004 CS 因为 他们 去 写 写 那 software 大多数 user 应该 是 会用 罢了 啦 他们 是 给 training 他们 去用
+UI18MAZ_0102 1082004 1090799 CS 他们 那些 user hor 里面 还有 一个 head 的 专门 是 user 投诉 hor 他们 head 跟 他们的 head 讲 咯 他们 head 就写 一些 program 来帮 他们 automate 他
+UI18MAZ_0102 1090799 1094826 CS 然后 那个 那些 head hor 他们 叫 d. a. 我 不懂 长名 叫 什么 啦
+UI18MAZ_0102 1094826 1099278 CS 然后 他们 会 跟 我们 这个 一个 我们的 team hor 叫做 t. c. e.
+UI18MAZ_0102 1099278 1105270 CS 他们 是 跟 那些 d. a. keng 咯讲 要 买 什么 server 然后 再跟 我们 讲 然后 就 landing 他
+UI18MAZ_0102 1108669 1115184 CS 嗯 不用 不是 讲 全部人 都 会的 只是 他们 那个 head ah 他们 他们 解~ 解决 他们 的 问题
+UI18MAZ_0102 1115184 1122198 CS 他们 写 automation 给 他们 帮 他们 所以 他们 只要 他们 会 那 command 就 可以了 他们 会 真的 去用 就 够了
+UI18MAZ_0102 1127378 1132599 CS windows 的 server ah 大多数 听他 讲 比较 多 是 hardware 问题 啊
+UI18MAZ_0102 1132599 1134384 CS 那些 driver 问题 比较 多
+UI18MAZ_0102 1134384 1136241 CS hardware driver 那些 问题
+UI18MAZ_0102 1136241 1138528 CS server hang 就 比较 少
+UI18MAZ_0102 1138528 1142408 CS 因为 他们 hang 了 也是 可以 reboot 着 也有 方法 去 reboot 的
+UI18MAZ_0102 1146613 1156906 CS 因为 他们 server ah 每次 来 都是 很 新的 可能 他们 来的 c. d. 的 driver 不 不够 新 hor 我们 可能 要去 他们的 vendor 的 website 去找 他们 最新的 driver 来 install
+UI18MAZ_0102 1156906 1162431 CS 好像 最近 有 一个 问题 就是 讲 h. p. 的 那个 server hor 他们的 i-lo management 就是 讲 要 remote 的
+UI18MAZ_0102 1162431 1168896 CS 不能 detect 到 com~ 我叫 他们 换了 motherboard ah 换了 什么 update driver 也是 不能 detect
+UI18MAZ_0102 1168896 1170297 CS 现在 他们 要 troubleshoot
+UI18MAZ_0102 1171173 1173946 ZH 会有 一些 奇奇怪怪 的 问题 会 出现 啦 久不久
+UI18MAZ_0102 1175413 1184161 CS linux 也是 会有 但是 (er) depend 那个 issue 发生 在 那里 罢了 可能 发生 在 windows server 可能 发生在 linux
+UI18MAZ_0102 1184161 1191985 CS 也是 会 有的 比较 也是 差不多 一样的 啦 他们 hardware 也是 用 同样 hardware mah 只是 他们 install 不一样的 o. s. 罢了
+UI18MAZ_0102 1191985 1198970 CS 可能 他 o. s. 那 driver 也要 不一样 啦 unix 的 他是 用 d. g. file 的 driver 可能 那 windows 可能 是 e. x. e. loh

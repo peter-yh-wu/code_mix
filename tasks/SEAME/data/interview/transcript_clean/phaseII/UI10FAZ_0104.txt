@@ -1,0 +1,126 @@
+UI10FAZ_0104 0 2751 ZH 国外 就是 上映 啊
+UI10FAZ_0104 2751 43125 ZH 呃  
+UI10FAZ_0104 43125 50339 ZH 嗯 嗯
+UI10FAZ_0104 50339 53064 CS i am not sure whether you notice or not 啦
+UI10FAZ_0104 53064 56788 CS but 那个 pirates of caribbean
+UI10FAZ_0104 56788 60761 ZH 的 最后 一 部 周 润 发 是 有 份 拍 的
+UI10FAZ_0104 60761 66562 ZH 啊 讲 真的 当时 可能
+UI10FAZ_0104 66562 72258 CS 他们 要 在 亚洲 的 话 okay 啦 人家 看到 周 润 发 okay 咯 有 周 润 发 我们 去 看 咯
+UI10FAZ_0104 72258 79051 CS but the thing is (呃) 你 可以 notice 到 周 润 发 里面 的
+UI10FAZ_0104 79051 84610 CS 对白 啊 的 scene 啊 其实 是 很 少 很 短 罢 了
+UI10FAZ_0104 84610 92749 CS 所以 我 觉得 亚洲 人 啊 去 到 hollywood 的 那个
+UI10FAZ_0104 92749 96693 ZH 会 变 感觉 上 是 有 一种 被 人家 压 着 的 感觉
+UI10FAZ_0104 96693 102979 ZH 反而 我 觉得 好像 成 龙 这样 子 啊 呃
+UI10FAZ_0104 102979 110316 CS 他 拍 他 应 那 那个 应该 是 police story 啊 如果 没有 错 的话
+UI10FAZ_0104 110316 118954 ZH 我 可以 看到 其实 在 背后 的 时候 很多 东西 洋人 是 做 不到 的
+UI10FAZ_0104 118954 127399 CS 他们 都 需要 用 special effects 而且 他们 很 难 好 像 我们 就 是 很 难 好像 亚洲 人 这样 control 他们 的 movements
+UI10FAZ_0104 127399 132657 ZH 我们 可以 看到 他 在 背后 的 时候 啊 把 那些 洋人 骂 到 狗血淋头
+UI10FAZ_0104 132657 138769 CS 骂 到 他 最后 他 自己 他 cannot stand it anymore 他 叫 他 叫 回 自己 的 人 做 那些 东西
+UI10FAZ_0104 138769 148512 CS 所以 啊 我 我 觉得 不 需要 join hollywood 了 就 是
+UI10FAZ_0104 148512 153206 CS 用 亚洲 自己 本身 的 作品 打进 去 hollywood
+UI10FAZ_0104 153206 181452 EN  
+UI10FAZ_0104 181452 183261 ZH 嗯
+UI10FAZ_0104 195550 203055 CS okay 我 my personal view is 成 龙 的 戏 就 是 成 龙 的 作风
+UI10FAZ_0104 203055 209855 ZH 啊 他 之前 有 一套 戏 啊 他 跟 他
+UI10FAZ_0104 209855 216710 ZH 他 在 那个 戏 里面 是 做 一个 士卫 的 在 中国
+UI10FAZ_0104 216710 224440 ZH 就是 要 就 是 要 怎么 说 呢 啊 护卫 那个 公主 啊 去 到
+UI10FAZ_0104 224440 226932 ZH 不知道 西方 的 一个 国家
+UI10FAZ_0104 226932 233257 CS 你 知道 吗 no no no no no there is another movie 我 忘记 叫 什么 名字 了
+UI10FAZ_0104 233257 239636 ZH 那个 那个 时候 是 他 第 一 次 跟 外国人 合作
+UI10FAZ_0104 239636 245616 ZH 然后 我 最 记得 就 是 你 知道 其实 他们 拍戏
+UI10FAZ_0104 246286 255302 CS 真的 是 他们 lo meng hoi pok ge 真的 是 如果 maybe one c. m. 的 差错 那个 东西 就是 中 他 了
+UI10FAZ_0104 255302 265773 CS 那个 时候 啊 那些 外国人 问 他 为什么 你 不用 special effects 这些 东西 special effects 可以 做到 很好 可以 做到 很 真 的 就 是
+UI10FAZ_0104 265773 272356 CS then 成 龙 说 为什么 你 可以 你 自己 可以 做 的 时候 你 要 用 special effect okay 咯
+UI10FAZ_0104 272356 280367 CS 然后 我 就 是 看到 他们 怎么样 他 他 到 最后 坚持 没有 用 special effects 
+UI10FAZ_0104 280367 289422 CS 那个 时候 是 拍 成 龙 一个 人 在 一个 那个 树林 那边 跑 来 跑 去 then 成 龙 有 自己 的 一个 group 的 叫做 成 家 班
+UI10FAZ_0104 289422 299630 CS 他 你 知道 他 所谓 他 所谓 的 兄弟 啊 他们 是 多么 的 信任 each other 的 他们 是 拿 着 那个 axe 你 知道 吗 就 是 向 着 他 丢 就 是 向 准 成 龙 丢
+UI10FAZ_0104 299630 304959 CS 可是 他们 丢 到 最后 的 target 就 是 中 在 树 的 是 不会 中 成 龙
+UI10FAZ_0104 304959 315336 CS 所以 我 就 觉得 他 拍戏 罢 了 嘛 需要 lo meng hoi pok 吗 所以 我 会 觉得 你 看 啦 我们 亚洲 人 其实 是 可以 做 得 很好 的
+UI10FAZ_0104 331281 334376 ZH 这个 嘛 嗯
+UI10FAZ_0104 345841 348196 ZH 啊
+UI10FAZ_0104 348196 353668 CS 我 觉得 market 是 一个 factor 啦 另外 一个 呢 就是 piracy
+UI10FAZ_0104 353668 363315 CS 啊 据 我 所 知 那些 好看 的 戏 是不是 在 香港 malaysia
+UI10FAZ_0104 363315 371450 ZH 都 会 卖 到 连 那个 啊 翻版 的 都 没有 货
+UI10FAZ_0104 371450 375572 ZH 可是 票房 不会 很好 就是 在 戏院 的 票房 不会 很好
+UI10FAZ_0104 375572 380343 CS 我 觉得 piracy 也是 因 另外 一个 因素 咯
+UI10FAZ_0104 411846 415063 ZH 我 会 觉得 那 时候 成 龙 的 知名度 都 不是 这样 高 啊
+UI10FAZ_0104 424746 433841 ZH 啊 这个 我 不 肯定 可是 在 他 在 国外 的 制作 都 很 都 有 肯定 的 票房
+UI10FAZ_0104 433841 441668 CS 就 好像 那个 lethal weapon one and two
+UI10FAZ_0104 441668 450599 ZH 嗯 我 觉得 他 还是 有 坚持 他 风格 啊 可是 
+UI10FAZ_0104 450599 459520 CS 再 下去 的 局势 呢 我 不知道 因为 唉 很多 东西 是 unpredictable 的 啦 有 时候 也是 要 向 一些 东西 surrender 的 啦
+UI10FAZ_0104 474384 476050 EN okay
+UI10FAZ_0104 476050 483847 ZH 哦 那 部 戏 那 部 戏 成 龙 不是 是 他 没有 份 导
+UI10FAZ_0104 483847 491914 ZH 嗯 啊 讲 到 李 连 杰 嘛
+UI10FAZ_0104 491914 498442 CS 啊 我 when the first time 我 看 他 做 外国 戏 的 时候 我 会 很 不 习惯
+UI10FAZ_0104 498442 507562 CS because all the while 啊 我 看 李 连 杰 做 的 都 是 正派 的 就 是 he is a good man 就 是 他 是 正派 的 很好 的
+UI10FAZ_0104 507562 514544 CS but then when 他 move 去 hollywood 不知道 是不是 他 所 演 的 角色 啊 十个 九个 都是 反派 的
+UI10FAZ_0104 514544 525034 CS 所以 我 会 觉得 唉 为什么 要 这 样 子 是不是 because 他 会 kung fu 所 so 他 就 要 做 那个 反派 的 角色 啊
+UI10FAZ_0104 525034 534334 CS 就是 这 也 是 我 觉得 亚洲 人 不 应该 加入 hollywood 应该 用 自己 的 作品 闯进 去 hollywood
+UI10FAZ_0104 534334 542812 ZH 让 让 他们 也 就 是 让 大家 也 知道 其实 亚洲 是 有 的 那些 作品 啊
+UI10FAZ_0104 542812 547236 CS 是 可以 compete with 他们 的 咯
+UI10FAZ_0104 547236 551012 ZH 这样 子 受 肯定 的 方式 我 觉得 比较 好 啦
+UI10FAZ_0104 590130 596646 CS 自从 那 一个 啊 western 版 的 西游记 过后 我 就 没有 看 过 他 在 演
+UI10FAZ_0104 603326 608100 EN oh not that i am aware of
+UI10FAZ_0104 637344 643967 EN (er) translation not really hundred percent translation lah but ah
+UI10FAZ_0104 643967 649639 CS 我 在 我 在 uni 的 时候 已经 开始 做 一些 好像 所谓 的 part-times 咯
+UI10FAZ_0104 649639 659080 CS 有 很多 种 part-times 啦 我 在 我 在 我 大学 的 那个 时间 很 忙 的
+UI10FAZ_0104 659080 666844 CS 因为 我 我 每个 sem 我 拿 twenty units then on top of that 我 是 minor foreign language 的
+UI10FAZ_0104 666844 676387 CS 你 minor foreign language 你 每 一个 week i mean every week you have to spend at least six hours 去 attend 那个 class
+UI10FAZ_0104 676387 682952 CS 然后 我 拜六 礼拜 也 是 很 忙 的 because 我 有 教 补习
+UI10FAZ_0104 682952 690567 CS then 啊 我 second year 的 时候 啊 is like living in a hell the whole sem
+UI10FAZ_0104 690567 698114 CS 因为 我 每个 我 每 一天 averagely 我 最 幸福 的 时候 也 是 可以 睡 五个 小时 罢 了
+UI10FAZ_0104 698114 703700 CS 因为 我们 的 那个 course work 啊 都 是 individual 的
+UI10FAZ_0104 703700 710578 CS 然后 那 时候 lecturer 好像 发疯 嘛 每 一个 人 都 是 在 比赛 给 assignment 咯 
+UI10FAZ_0104 710578 715911 ZH 啊 可是 那 时候 会 觉得 说 唉
+UI10FAZ_0104 715911 722716 CS 你 有 长 得 这样 大 了 又 不会 赚钱 then 一直 在 花钱 所以 那 时候 就 会 开始 就 是 想 不如 找 一些 part-time 来 做
+UI10FAZ_0104 722716 731557 CS 刚好 timing 又 这样 ngam 又 给 我 认识 到 那些 啊 就 是 给 我 认识 到 一些 人 有 可以 offer 我 做 part-time 的
+UI10FAZ_0104 731557 739238 CS 所以 我 就 觉得 okay 咯 哦 就 做 咯 因为 我 觉得 那 时候 还 小 嘛 还 年轻 嘛
+UI10FAZ_0104 739238 746178 CS that is not my limit yet so i go beyond the limit 我 就 做 part-times 咯 so 我 每天 只 能 睡 这样 少
+UI10FAZ_0104 746178 752398 CS 那 时候 的 part-times 呢 因为 其实 做人 家
+UI10FAZ_0104 752398 757395 CS 就 是 people doesn't trust you so 他们 pay 也 是 很少
+UI10FAZ_0104 757395 764525 CS 你 只 知 需要 做 到 半死 then 就 get 很少 pay 可是 我 还是 坚持 做
+UI10FAZ_0104 764525 770056 CS then 就 是 bit by bit 就 是 慢慢 的 他们 就 给 我 一些 increment 咯
+UI10FAZ_0104 770056 780912 CS then 慢慢 他们 都 相信 我 了 他们 就 把 整个 就 是 很 多 的 work 丢 给 我 让 我 去 distribute 给 我的 朋友 啊
+UI10FAZ_0104 780912 784562 CS 或者 是 啊 有 一些 要 做 part-time 的 人
+UI10FAZ_0104 784562 794665 CS then distribute 过后 那些 东西 让 我 check then 那个 钱 让 我 去 control 啊 这样 子 哦
+UI10FAZ_0104 794665 801907 CS then 就 做 到 现在 只是 不好 做 的 啦 很多 时候 都 做 under pay 的
+UI10FAZ_0104 823558 828820 CS 啊 其实 做 一个 translator 是 没有 所谓 的 whether certified or not
+UI10FAZ_0104 828820 833847 CS unless you are interpreter 这样 就 有 certified 的 interpreter
+UI10FAZ_0104 833847 837735 EN translator anyone can be translator
+UI10FAZ_0104 837735 845630 CS 只要 你 能 够 很好 的 master 两个 language 你 就 可以 做 translator
+UI10FAZ_0104 845630 854406 CS of course 啦 呃 在 translator 的 field 里面 是不是 there is no right or wrong 因为 每个人 有 自己 的 风格 的 嘛
+UI10FAZ_0104 854406 861060 CS so but 最 重要 的 就 是 还 是 要 看 你 的
+UI10FAZ_0104 861060 868374 CS target audience 的 的 呃 需求 咯 去 translate
+UI10FAZ_0104 868374 878632 CS 可是 现在 的 translation 它 啊 那 那些 那些 好像 要 你 做 translation 的 人 啊
+UI10FAZ_0104 878632 884999 CS 他们 都会 你 require 就是 require 你 用 一些 啊 translation tools 啊
+UI10FAZ_0104 884999 893394 CS 或者 是 translation engines tool 做 那个 text 过后 再 你 自己 本身 在 manually 去 edit 的
+UI10FAZ_0104 893394 899367 ZH 所以 你 还 没有 开始 工作 你 就 要 丢 钱 下去 了
+UI10FAZ_0104 899367 904607 CS 因为 你 需要 collect corpus from 那 一个 engine
+UI10FAZ_0104 904607 910037 CS 越 多 当然 是 越 好 啦 而且 translation 分 很多 field 的 喔
+UI10FAZ_0104 910037 919521 CS 你 要 categorize 分 就 是 不是 这样 容易 啊 最 主要 是 在 malaysia 没有 这样 的 demand
+UI10FAZ_0104 919521 925196 CS 所以 很多 时候 你 做 了 你 的 工作 都 是 under pay 的 然后
+UI10FAZ_0104 925196 934179 CS okay 这个 还 不至于 人家 还 觉得 有 这样 的 东西 罢 了 嘛 都 不 值钱 的 我 嘛 是 会 做 这样 子
+UI10FAZ_0104 943125 954220 CS 嗯 我 觉得 software 好 software 有 它 的 好处 当然 我 觉得 到 最后 还是 要 用 manpower 的 啦
+UI10FAZ_0104 954220 961732 CS  因为 software 是 笨 的 嘛 它 它 有 很多 时候 它 会 出 一些 奇怪 的 error
+UI10FAZ_0104 961732 968012 CS 可能 它 的 字 会 倒转 啊 或者 是 grammatical error
+UI10FAZ_0104 968012 977024 CS 所以 到 最后 一定 要 用 人 来 edit 啊 很多 时候 都 是 这样
+UI10FAZ_0104 993834 1001724 CS 嗯 我 不懂 为什么 啦 不过 我 觉得 whole malaysia 好像 是 japanese 在 market 是 最 有 value 的
+UI10FAZ_0104 1001724 1011227 CS 啊 目前 有 很多 那种 美国 公司 呢 他们 请 一个 员工 unless you are engineers or you
+UI10FAZ_0104 1011227 1020276 CS 你 已经 是 有 certain 的 level 的 experience 了 他们 才 会 让 你 做 as perm if not
+UI10FAZ_0104 1020276 1026150 CS 除非 你 会 另外 一个 foreign language 他们 才 会 用 比较 就 是
+UI10FAZ_0104 1026150 1034063 CS 才 有 给 你 bargain 那个 salary 的 那个 space 不然 你 是 很难 跟 他们 谈 价钱 的
+UI10FAZ_0104 1034063 1038864 CS 我 有 些 朋友 他们 是 在 sony
+UI10FAZ_0104 1038864 1047331 CS 或者 是 在 k. l. 他们 都是 做 translation 的 工作 而且 translation 的 工作 是 很 闷 的 
+UI10FAZ_0104 1047331 1052968 CS 你 没有 时间 跟 人家 communicate 你 每 一天 去 到 开 电 脑 就 是 对 着 那个 tools
+UI10FAZ_0104 1052968 1062633 CS then 你 要 把 那些 source text 放 进 去 then process 出来 了 那个 就 是 raw 的 material
+UI10FAZ_0104 1062633 1072022 CS 你 就 要 去 go through one by one and then 把 它 translate 去 那个 就 是 把 它 edit 去 他 target text
+UI10FAZ_0104 1072022 1083105 CS 你 的 工作 就 这样 而且 很多 时候 呢 translation work 最大 的 那个 就 是 deadline 啊
+UI10FAZ_0104 1083105 1089730 CS 他 可以 说 okay 我 拜 一 我 给 你 二十 张 我 by friday 我 一定要 的
+UI10FAZ_0104 1112306 1116485 ZH 嗯
+UI10FAZ_0104 1116485 1119865 ZH 之前 在 学校 有 用 过 不过 现在 忘记 了
+UI10FAZ_0104 1119865 1126840 CS 通常 如果 你 在 那些 大 公司 工作 他们 会 有 自己 的 corpus
+UI10FAZ_0104 1126840 1133477 ZH 还有 自己 的 他们 会 有 几个 啦 让 你 自己 选 咯
+UI10FAZ_0104 1138010 1145080 CS 没有 那个 file 不是 他们 自己 develop 可能 他们 买 那个 他们 买 回来 咯
+UI10FAZ_0104 1145080 1151069 CS 然后 你 你 自己 有 in-house translator 的 嘛 你 可以 input 那些 data
+UI10FAZ_0104 1151069 1154631 CS 当 你 做 每 一个 translation 的 时候
+UI10FAZ_0104 1154631 1162531 CS 不是 每 一个 字 都有 的 so 当 你 去 search 的 时候 他 已经 就 是 你 就 是 在 collect 着 新 的 那个 data 了

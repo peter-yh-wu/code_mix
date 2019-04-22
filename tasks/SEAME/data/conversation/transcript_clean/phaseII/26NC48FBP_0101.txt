@@ -1,0 +1,646 @@
+26NC48FBP_0101 13360 14640 ZH 讲 慢 一点 啦
+26NC48FBP_0101 21998 25541 CS hello hello hello hello 怎么 看 我 的 是 哪 一 条
+26NC48FBP_0101 27541 30241 CS 做 么 好像 没有 东西 啊 hello hello hello hello
+26NC48FBP_0101 34881 37781 CS eh 做 么 我 的 like 那个 sound frequency 会 这样 weird 的
+26NC48FBP_0101 50434 53974 CS so the bigger the amplitude 就是 说 the louder the voice ah
+26NC48FBP_0101 81896 84841 EN agaration agaration
+26NC48FBP_0101 92348 94598 ZH 啊 你的 是 什么 你的 跟 我 一样 吗
+26NC48FBP_0101 94828 98670 CS eh i think it cannot we cannot talk like that leh if not orh 没有 声音 eh
+26NC48FBP_0101 100722 101760 ZH 怎么 样 这样 啊
+26NC48FBP_0101 104512 108402 CS hello hello okay la that means 我 要 带 okay 这样 可以 了
+26NC48FBP_0101 108562 110612 CS but 很 小 声 eh 我的 声音
+26NC48FBP_0101 111172 113872 CS okay la 我 要 讲 大声 一点 okay
+26NC48FBP_0101 115422 118452 CS 所以 what eh 你的 跟 我 一样 吗 我 看 一下
+26NC48FBP_0101 119900 123612 EN okay we ask finish twenty questions then we can talk about what we want to talk
+26NC48FBP_0101 128577 132997 CS okay 你 以前 是 study in which school
+26NC48FBP_0101 134518 135865 EN 
+26NC48FBP_0101 137265 140185 CS 以前 你 参加 what c. c. a.
+26NC48FBP_0101 141525 143250 CS 你是 c. c. a. less right
+26NC48FBP_0101 144981 145683 ZH 什么
+26NC48FBP_0101 150714 154503 ZH 不 相信 你 看起来 很 像 做 boh 的
+26NC48FBP_0101 157333 159494 EN haha i knew it 
+26NC48FBP_0101 161794 162439 EN mm
+26NC48FBP_0101 166283 168453 CS huh我 要 take a. d. m. 的 嘞 
+26NC48FBP_0101 168453 171293 CS a. d. m. elective 那个
+26NC48FBP_0101 171293 173013 CS but 我 觉得 比较 interesting eh
+26NC48FBP_0101 174003 174732 ZH 真的 真的
+26NC48FBP_0101 176613 178993 CS 我 camp 得 到 what as in as in 这个
+26NC48FBP_0101 178993 181933 CS this as in 这个 sem actually 我 camp 到了 but it's just that
+26NC48FBP_0101 181933 186333 CS 我 有 已经 有 两个 很好 的 elective 了 我 不可能 要 take 第三 个
+26NC48FBP_0101 189048 190956 EN ah ah
+26NC48FBP_0101 192583 197520 CS 我 不 只能 选 两个 what then 你 不 可能 叫 我 拿 整个 right okay
+26NC48FBP_0101 198253 201843 CS 等 一下 啊 okay 你 打算 take 什么 specialisation in year three
+26NC48FBP_0101 201843 203060 ZH 我 都 不懂 啰 
+26NC48FBP_0101 204011 204628 EN 
+26NC48FBP_0101 207085 209245 CS orh 我 懂 我 懂 but i don't know it
+26NC48FBP_0101 209245 213155 CS i think 有 nano nanotechnology 还有 那个 bio 什么 的
+26NC48FBP_0101 213845 218093 CS 还有 一个 不懂 是 不懂 什么 啦 忘记 了 okay
+26NC48FBP_0101 227325 228695 ZH orh 我 知道 啊
+26NC48FBP_0101 228925 230065 ZH 我 知道 知道 知道
+26NC48FBP_0101 231879 233309 EN okay la
+26NC48FBP_0101 236927 239827 CS 啊 我 confirm 不要 去 那边 的 很 sian
+26NC48FBP_0101 242595 247980 CS <unk> 我 要 进 maybe bio biological
+26NC48FBP_0101 249860 253420 CS 还有 一个 是 aero aerospace ah 如果 我 没有 错 的 话 那个 field
+26NC48FBP_0101 254660 261680 CS as in aerospace 你 maybe 你 需要 懂 他的 material 怎样 做 那个 aeroplane leh 我 不懂
+26NC48FBP_0101 262547 264897 ZH <unk> 为什么 我的 越来越 小 声
+26NC48FBP_0101 267608 271533 CS  eh 真的 我 真的 有 一点 shag 了
+26NC48FBP_0101 273723 278563 CS okay 你 去 过 which country
+26NC48FBP_0101 281115 282665 CS 真的 meh like what
+26NC48FBP_0101 285625 286565 ZH 真的 假的
+26NC48FBP_0101 287704 288714 EN orh okay then
+26NC48FBP_0101 291519 292753 EN okay then
+26NC48FBP_0101 294365 295865 ZH huh你 有 去 过 台湾 啊
+26NC48FBP_0101 302151 302824 EN huh
+26NC48FBP_0101 305769 307368 EN oh
+26NC48FBP_0101 311624 316044 ZH 真的 假的 orh 你 台湾 你的 阿姨 是 台湾 人
+26NC48FBP_0101 320055 321121 EN uh huh
+26NC48FBP_0101 324075 325029 EN siao eh
+26NC48FBP_0101 334470 336480 ZH 哇 你 很 有钱 eh 你 
+26NC48FBP_0101 343060 344610 CS huh你 去 过 indo 啊
+26NC48FBP_0101 347520 348730 ZH 你 有 去 meh
+26NC48FBP_0101 353159 355910 ZH 哇 你 这样 小 就 去 过 这样 多 国家 啊 
+26NC48FBP_0101 357639 362259 ZH 哦 我 国 家 啊 我 可以 数 eh 数 得 出 的 我的 国家 才 几个 才 啰
+26NC48FBP_0101 362259 365219 CS 我 去 过 johor 我 去 过 malaysia
+26NC48FBP_0101 365219 367699 CS 我 去 过 thailand
+26NC48FBP_0101 367699 369679 EN 
+26NC48FBP_0101 369679 374589 CS 我 去 过 thailand 我 去 过 台湾 这样 才 啰
+26NC48FBP_0101 374809 376089 EN that's all
+26NC48FBP_0101 377034 378794 ZH 我 去 很少 国家
+26NC48FBP_0101 378824 384704 CS 不用 紧 as i grow older i will increase the number of countries that i go to
+26NC48FBP_0101 386844 391904 ZH 哎呀 以前 没有 钱 嘛 不一样 现在 有钱 了 比较 有钱 可以 出国 了
+26NC48FBP_0101 395264 396954 CS 我 想 去 but 没有 钱
+26NC48FBP_0101 397994 400654 CS 都 讲 了 like 鸿奕 要不是 要 去 orh
+26NC48FBP_0101 400824 403554 CS 我 本来 很 想 跟 他 去 eh but 八千 多 eh
+26NC48FBP_0101 403634 405484 ZH 八千 多 我 哪里 有 钱
+26NC48FBP_0101 405584 408804 CS 因为 他的 他 parents sponsor 他 that's why 他 okay
+26NC48FBP_0101 408804 410894 CS but 我的 parents 都 没有 sponsor 我
+26NC48FBP_0101 410894 417014 EN  ohman 
+26NC48FBP_0101 417014 418864 EN i feel very comfortable man
+26NC48FBP_0101 420454 421548 EN u. s. a.
+26NC48FBP_0101 423343 423960 ZH 不用
+26NC48FBP_0101 424824 426214 ZH 你 有钱 就 可以 了
+26NC48FBP_0101 430777 433050 ZH 啊 你 要 也 可以 跟 鸿奕 去 啊
+26NC48FBP_0101 433050 435104 CS but 你 有 八千 块 吗
+26NC48FBP_0101 437594 440090 EN work and travel i think go there and play
+26NC48FBP_0101 442564 444864 EN i think work and study work and study sorry
+26NC48FBP_0101 445154 447774 CS you can clear eight a. u. 鸿奕 say one
+26NC48FBP_0101 448104 453224 EN if outside organisation work and play right cannot clear a. u. one right it's four thousand plus
+26NC48FBP_0101 453224 457934 EN but you can clear eight a. u. it's (errr) eight thousand plus so it's like twice the amount
+26NC48FBP_0101 460644 462690 CS it's equivalent to 你 take
+26NC48FBP_0101 466141 469201 ZH 我 不懂 我 不知道 那个 你 要 问 鸿奕
+26NC48FBP_0101 474753 475650 ZH 不好 meh
+26NC48FBP_0101 479271 481491 ZH 我 不懂 啊 你 要 问 鸿奕
+26NC48FBP_0101 492427 496067 EN that one is instep is it instep need g. p. a. one
+26NC48FBP_0101 499936 504307 EN ah one sem la correct ah
+26NC48FBP_0101 504307 506707 EN a few a few months one right
+26NC48FBP_0101 507207 512687 EN that one i don't know call what ah i forgot ah maybe the g. i. s. or or g. i. p. i don't know which one ah
+26NC48FBP_0101 515150 518549 CS 我 不懂 eh 他 可能 去 instep 的 instep 是 confirm 要 <unk>
+26NC48FBP_0101 529345 531253 EN orh okay
+26NC48FBP_0101 536277 539137 CS 啊 去 那边 读 right but 不可 以 eh
+26NC48FBP_0101 539137 540510 EN okay
+26NC48FBP_0101 542457 544392 EN mm
+26NC48FBP_0101 547842 548628 EN huh
+26NC48FBP_0101 551068 556651 ZH 很多 eh 讲 不 出 eh 很多 eh
+26NC48FBP_0101 562150 564340 EN eh what time can we leave ah
+26NC48FBP_0101 564520 567770 EN six ah six ah around six six plus right
+26NC48FBP_0101 570321 571191 ZH 哇
+26NC48FBP_0101 573130 576220 ZH 现在 五点 多 eh 现在 五点 多 了 eh
+26NC48FBP_0101 579080 580550 EN okay i need to plan
+26NC48FBP_0101 580550 582640 EN tuesday tomorrow
+26NC48FBP_0101 582640 587040 EN huhtomorrow i also cannot study cause i got elective until very late
+26NC48FBP_0101 587560 590490 EN orh that means wednesday then i can start studying
+26NC48FBP_0101 590490 591150 EN 
+26NC48FBP_0101 591150 595180 EN wednesday thursday i got thing orh thursday got the concert friday
+26NC48FBP_0101 595270 597360 EN friday i got nothing to do
+26NC48FBP_0101 600915 601757 EN concert lor
+26NC48FBP_0101 603551 605911 ZH 啊 我 还有 叫 我 另外 一个 朋友 来
+26NC48FBP_0101 608005 611035 CS 会 meh 我 n. u. h. 的 friend 来 的
+26NC48FBP_0101 612703 613545 ZH 认识
+26NC48FBP_0101 615480 619515 ZH 是 meh  <unk> 我 我
+26NC48FBP_0101 619515 625125 ZH eh 我 本来 在 想 eh 要不要 叫 叫 那个 我的 朋友 来 因为 我 那时 已经 我 觉得 很 内疚
+26NC48FBP_0101 625125 628905 CS 因为 那时 他 我 不是 跟你讲 他 老爸 过去 (er) pass away lor
+26NC48FBP_0101 628975 632015 CS then it's like 那个 ben la then 他 一直 叫 我
+26NC48FBP_0101 632015 634795 CS 那天 不要 去 as in 我们 已经 到了 那个 地方 嘞
+26NC48FBP_0101 634795 637715 CS but it's just that 他 那天 就 讲 哎呀 不要 去 啦 不要 去 啦
+26NC48FBP_0101 637715 641395 CS then after that 他 就 帮 我 想 excuse 去 骗 那个 男 的 eh 去 骗 我 那个 朋友
+26NC48FBP_0101 641395 647635 CS then after that 就 想 了 then 我 觉得 很 内疚 then after 我 讲 okay next day as in 改 次 我 会 来 meet 你 啦
+26NC48FBP_0101 647635 651515 CS then anyway since like the school is like having concert then 就要 叫 他 来 啰
+26NC48FBP_0101 652095 654315 CS but 他人 很好 eh as in 他 还 讲
+26NC48FBP_0101 654315 659875 CS (er) 我 but 我 会 迟到 eh then 他 讲 哎呀 why don't i take off then i say huh不用 紧 啊 off 很 像 很 浪费
+26NC48FBP_0101 659925 664445 CS 你的 时间 这样 子 啊 then 我 讲 迟到 不用 紧 啰 at most 我 出来 找 你 啰
+26NC48FBP_0101 668968 669529 ZH 什么 意思
+26NC48FBP_0101 673825 676606 ZH 他 他 在 做工 eh 啊
+26NC48FBP_0101 677800 679430 CS then 我 讲 不用 啦
+26NC48FBP_0101 680150 684700 CS 没有 as in 是 朋友 来 的 真的 eh 他是 一个 很好 很好 的 朋友 啊
+26NC48FBP_0101 685590 688390 CS but 你 又 没有 去 啊 n. u. h. eh 你 又 没有 去
+26NC48FBP_0101 688390 690910 ZH 为什么 你 不要 去 去 啦
+26NC48FBP_0101 692140 694850 ZH 我也 eh 我也 不懂 他的 歌 嘞 讲 真的
+26NC48FBP_0101 695990 700640 CS 我 不懂 他 歌 but i anyway free tix ah so 不用 紧 then 我也 不懂 要 去 哪里 了
+26NC48FBP_0101 700640 702660 EN i already run out of idea lor
+26NC48FBP_0101 702690 704400 CS 真的 seriously
+26NC48FBP_0101 706192 710142 EN aiya sometimes sometimes he very lazy to think then he ask me to think lor
+26NC48FBP_0101 710192 712152 EN actually i don't like these kind of guys eh
+26NC48FBP_0101 717037 721727 CS okay 我 现在 要 讲 华语 actually 我 不 喜欢 这种 男生
+26NC48FBP_0101 725270 728383 EN okay (err)
+26NC48FBP_0101 730957 734297 CS 对 啦 这种 人 要 看 naturally 的 懂 吗
+26NC48FBP_0101 734917 737977 ZH 你 看 啊 我 现在 有 讲 一点 华语 跟 又 一点 英文
+26NC48FBP_0101 739785 740290 EN 
+26NC48FBP_0101 743011 743796 EN 
+26NC48FBP_0101 747511 751361 ZH eh 我 很 怕 eh 拜四 orh 你 懂 我 很 怕 婉婷 她 在 那边 kajiao 我 eh
+26NC48FBP_0101 752181 757191 CS 你 懂 吗 很 awkward eh 那个 situation 我 不想 eh 要不要 跟 他们 一起 坐 啊
+26NC48FBP_0101 757201 758711 ZH 你 觉得 嘞
+26NC48FBP_0101 759404 761901 ZH eh 婉婷 可能 有 去 她 讲 她 可能 会 去
+26NC48FBP_0101 765381 768191 ZH 哎哟 她 不 认识 她 可以 弄 到 认识 的 啰
+26NC48FBP_0101 768191 771351 EN  ah
+26NC48FBP_0101 771351 773461 ZH 我 我 很 怕 等 一下 他在 那边 在 想
+26NC48FBP_0101 773461 776291 ZH 他 eh 你 懂 他 刚才 跟 我 讲 他 他 就 讲 (er)
+26NC48FBP_0101 776291 779811 CS 所以 你们 几时 要 什么 了 that 他 讲 他 会 问 ben 这样 eh
+26NC48FBP_0101 779861 780981 ZH 他 讲huh
+26NC48FBP_0101 780981 784051 ZH 哎呀 eh 不要 不要 乱来 eh 你们 不要 乱 乱 讲话 嘞
+26NC48FBP_0101 784121 786421 ZH 我 觉得 等 一下 他 会 很 尴尬
+26NC48FBP_0101 786421 788181 CS then 以后 会 更 惨
+26NC48FBP_0101 790175 792178 ZH 我 不要 
+26NC48FBP_0101 792965 794595 ZH 我 不要
+26NC48FBP_0101 794621 798501 CS as in 我 都 不懂 as in 哎呀 我 不懂 嘞
+26NC48FBP_0101 799281 802681 ZH 这个 男 的 很 像 有 一点 不能 靠 的 感觉
+26NC48FBP_0101 807395 809371 CS 会 啦 as in
+26NC48FBP_0101 809371 811841 CS 如果 他 问 啊 but 如果 他 没有 问
+26NC48FBP_0101 812551 814291 CS 当然 会 考虑 的 啦 as in
+26NC48FBP_0101 814291 817241 CS 当 有 好的 当然 是 选 好的 不好 的 就 too bad lor
+26NC48FBP_0101 818447 820046 EN ya you know
+26NC48FBP_0101 823749 827671 CS  eh 对 eh attachment 是 最好 的 but 很多 都 很 老 eh
+26NC48FBP_0101 828442 830742 EN  why
+26NC48FBP_0101 837561 840921 CS then 为什么 我 要 跟 他们 在一起 
+26NC48FBP_0101 842728 844944 ZH 我 差 你 两岁 而已 嘞
+26NC48FBP_0101 847843 852820 CS 没有 啦 eh 那些 attachment 的 都 大多数 都是 满 老 的 差不多 三十 多 四十 多
+26NC48FBP_0101 856081 857259 ZH 没有 啦
+26NC48FBP_0101 860603 864863 ZH 不要 啦 这样 老 eh 我 以前 的 男朋友 很 老 了 我 不 想 再 找 一个 很 老 的
+26NC48FBP_0101 870425 872164 EN twen twen no twen
+26NC48FBP_0101 875420 880060 ZH 不要 啦 我 不 我 不想 我 不想 找 这样 老 的 了 已经 有 那个 阴影 了
+26NC48FBP_0101 880729 881374 ZH 真的
+26NC48FBP_0101 883940 889520 CS huh以前 eh actually 我 能 感受 好 我 不会 我 不会 我 不了 解 为什么 他 会 喜欢 我
+26NC48FBP_0101 889651 893351 CS like 你 对 一个 小 妹妹 有 fetish 的 感觉
+26NC48FBP_0101 893913 896101 EN huhya
+26NC48FBP_0101 898354 899279 ZH 啊 真的
+26NC48FBP_0101 901069 905079 CS 啊 真的 真的 真的 as in 因为 那 年 before 他 来 追 我的 时候 hor
+26NC48FBP_0101 905079 910369 ZH 很 久 很 久 之前 他 对 很多 年 他 没有 交 女朋友 了 eh 他 就 讲 找不到
+26NC48FBP_0101 910389 913799 CS then 他 就 跟 我 讲 他 office auntie because he is working in n. t. u. now
+26NC48FBP_0101 913809 920859 CS then 他的 (er) office auntie 都是 那种 很 老 的 啰 就是 cleaner then 有些 都是 那种 很 老 的 他 讲 就是 没有 适合
+26NC48FBP_0101 920959 922159 ZH 哦 就是 这样 啰
+26NC48FBP_0101 923839 926334 CS 啊 我 觉得 他 despo 也是 eh 
+26NC48FBP_0101 927609 930189 CS but okay eh 因为 那时
+26NC48FBP_0101 930189 933359 ZH 突然间 有人 对 你 很好 你 不会 心动 的 meh
+26NC48FBP_0101 933509 935049 ZH 我 会 eh
+26NC48FBP_0101 937057 941208 EN but his look don't look old what that's okay to me ya
+26NC48FBP_0101 943177 945987 CS 哇 超 mature 我 跟 你 讲 that's why 我 不可 以 take it
+26NC48FBP_0101 946846 947407 ZH 对 啰
+26NC48FBP_0101 948967 953767 CS then 你 懂 orh 我 那个 的 friend 另外 一个 我 不是 跟 你 讲 那天 我 跟 他 在 吃饭 what then 去 church then
+26NC48FBP_0101 954057 957177 CS 我 不懂 他 喜 我 不懂 是不是 eh then 他 很 奇怪 啰
+26NC48FBP_0101 957177 960757 ZH 他 每天 那时 每天 一点 多 晚上 啊
+26NC48FBP_0101 960757 966757 CS 他 讲 you sleep 了 吗 我 讲 huh人家 已经 睡觉 了 of course 人家 在 睡觉 了 right 一点 多 eh 拜托
+26NC48FBP_0101 967447 972757 CS i think like consecutive 不懂 几天 晚上 啊 他 问 我 you sleep 了 吗 then 我 讲 huh
+26NC48FBP_0101 972867 974897 CS then 有 一天 晚上 i think 拜六 晚上 啊
+26NC48FBP_0101 974897 977807 CS eh 拜五 晚上 then 他 就 问 我 (er)
+26NC48FBP_0101 977807 980997 CS then 那天 我 没有 睡觉 啊 我 还在 看 coffee prince ma
+26NC48FBP_0101 980997 984197 CS 啊 咖啡 王子 看到 一点 多 then 刚好 他 message 来
+26NC48FBP_0101 984197 986907 CS 他 讲 you sleep 吗 then i say no i just watch finish t. v.
+26NC48FBP_0101 986937 993877 CS 他 讲 then 我 就 问 他 what's up then 他 讲 (er) then you want (er) (er) tomorrow you free to go church then i say
+26NC48FBP_0101 993877 996377 CS ohno (er) 我 讲 我 没有 空 (eh)
+26NC48FBP_0101 996387 999337 CS then 我 就 讲 (er) 我 要 跟 我 妈妈 去 airport 啊
+26NC48FBP_0101 999337 1003807 CS 因为 i i thought that he wanted to ask me to go the jurong one the school outside one
+26NC48FBP_0101 1003807 1006317 EN cause i thought he want to come back for c. c. a. ma
+26NC48FBP_0101 1006317 1010587 CS then after that he told me (er) 没有 嘞 actually 我 要 去 那个 叫 你 去 那个 expo 的
+26NC48FBP_0101 1010657 1015287 CS then 我 讲 then 他 就 讲 (er) but 你 跟 你 妈妈 在一起 啊 我 讲 啊 对 啊 我 跟 我 妈妈 在一起
+26NC48FBP_0101 1015660 1017297 ZH 不可以 eh 我 妈妈 等 一下 啊
+26NC48FBP_0101 1017297 1022767 CS (er) 她 不 喜欢 我 去 参加 这种 church 的 东西 她 等 一下 不 高兴 then 他 讲 orh okay okay i understand
+26NC48FBP_0101 1023852 1027842 CS 他 一直 叫 我 去 church 的 eh 去 一次 了 i think hor 他们 一直 叫 你 去 啰 很 sian 啰
+26NC48FBP_0101 1030229 1031992 ZH 现在 哈 还有 啊
+26NC48FBP_0101 1031992 1033892 ZH 啊 对 啰 我 朋友 也是 eh
+26NC48FBP_0101 1033902 1036152 CS 我 觉得 irritating lor seriously
+26NC48FBP_0101 1036577 1037671 EN it's like
+26NC48FBP_0101 1038905 1040308 ZH 啊 对
+26NC48FBP_0101 1043853 1048323 CS okay 啦 我的 church 不会 早 的 我的 是 傍晚 这 样子 的 所以 所以 是 okay
+26NC48FBP_0101 1048393 1053933 EN but i don't see a point as in i'm not a christian it's like why do you bother to ask me to go church every week
+26NC48FBP_0101 1056363 1060773 EN once you once you go one time right they would sure ask you keep going one lor
+26NC48FBP_0101 1061363 1066763 CS then 我 讲 orh maybe aiya next time ah next time ah 我 怕 他 等 一下 hor 下 个 礼拜 又 来 叫 我 了 then 我 就 很 sian 了 啰
+26NC48FBP_0101 1071885 1074746 ZH 哇  你 很 直接 eh
+26NC48FBP_0101 1082463 1085113 CS 是 二 四 二 四 meet 朋友
+26NC48FBP_0101 1086873 1088333 CS for 家人
+26NC48FBP_0101 1089033 1090023 ZH 哦 你 跟 他 讲 了 啊
+26NC48FBP_0101 1101685 1104154 ZH walao 很 拽 啰 你
+26NC48FBP_0101 1110517 1114627 CS so 拽 我 听 了 我 会 想 walao 这个 女 的 一定 很 拽 了
+26NC48FBP_0101 1117787 1120197 ZH 我 我 不想 去了 很 sian
+26NC48FBP_0101 1120197 1123777 CS then 那天 我 跟 他 一起 去 elective 因为 我们 拿 到 一样 的 elective eh
+26NC48FBP_0101 1123777 1126957 CS then after that 我们 去 吃饭 then 他 朋友 以为 我 是 他 的 女朋友
+26NC48FBP_0101 1126967 1130007 CS then 他 讲 then 因为 他 我 听到 他 的 女 他 的 朋友 嘛
+26NC48FBP_0101 1130007 1134467 CS 他 偷偷 whis 因为 我 在 打电话 他 偷偷 whisper into 他 的 我 的 朋友 的 耳朵 eh
+26NC48FBP_0101 1134467 1138497 CS then after that i think 我 听到 他 讲 什么 女朋友 的 东西 then after that 我 就在 那边
+26NC48FBP_0101 1138497 1141787 CS 我 就 转 过 来 我 知道 我 听到 but 我 假装 听不到 啦 then 我 在
+26NC48FBP_0101 1141787 1145647 CS then after that 他 就 讲 没有 啦 (er) 我们 take 一样 elective 什么 我 朋友 讲 的 啦
+26NC48FBP_0101 1146377 1150387 CS 他 朋友 以为 我 是 他 的 女朋友 but 其实 我们 不是
+26NC48FBP_0101 1158888 1163096 CS 干嘛 啊 啊 啊 then
+26NC48FBP_0101 1164695 1168197 ZH 为什么 你 不是 讲 十五 块 因为 要 跑来 跑去 是吗
+26NC48FBP_0101 1176687 1180657 CS 会 累死 的 嘞 而且 他 的 block 是 很 远 的 嘛
+26NC48FBP_0101 1182837 1187297 CS 你 没有 车 怎样 办 then 他 现在 还在 浪费 你 的 车 的 bus 的
+26NC48FBP_0101 1199587 1201497 CS 裕华 secondary school
+26NC48FBP_0101 1203481 1206988 EN orh orh okay 
+26NC48FBP_0101 1216786 1218301 CS then 他 总共 算 我 多少
+26NC48FBP_0101 1223475 1225345 EN okay la better than nothing la
+26NC48FBP_0101 1226565 1228405 CS eh 我们 赚 n. t. u. 的 钱 很多 了 eh
+26NC48FBP_0101 1234985 1238925 EN the survey and this talking eh it's quite a lot eh actually you see ah
+26NC48FBP_0101 1238925 1243135 EN after we com i think orh i calculate probably like almost to hundred already eh
+26NC48FBP_0101 1243135 1247515 EN cause this is around like thirty dollars and the time the moby talk one eh that one
+26NC48FBP_0101 1248095 1251725 EN ya and the survey thing survey is quite a lot eh actually
+26NC48FBP_0101 1251880 1252975 EN what is that
+26NC48FBP_0101 1254277 1254894 EN i see
+26NC48FBP_0101 1259046 1260232 EN eh
+26NC48FBP_0101 1266127 1268857 CS oh我们 做 one hour meh 我们 做 more than that la
+26NC48FBP_0101 1271577 1275727 EN but i don't care la as long as the money is correct the hours i don't care
+26NC48FBP_0101 1277906 1281576 EN eh i want to check my mail a while eh can or not ah aiya don't care la
+26NC48FBP_0101 1284449 1286104 EN i need to check my n. t.
+26NC48FBP_0101 1288853 1291026 EN it's alright how man
+26NC48FBP_0101 1291026 1293726 EN how much time ah aiya still so long ah half an hour
+26NC48FBP_0101 1295376 1297226 EN how come today got no topic ah
+26NC48FBP_0101 1300559 1303039 ZH 我 不懂 eh 我们 讲 什么
+26NC48FBP_0101 1309978 1312748 EN how come it's all in chinese aiya
+26NC48FBP_0101 1316268 1319848 CS 会 啦 but 我 要 我 要 读 很 久
+26NC48FBP_0101 1321561 1322470 ZH 我 要 看 我的
+26NC48FBP_0101 1323531 1326611 CS 我 不懂 嘞 我 读 chinese 很 慢 我 要 看 我 的 n. t. u. mail
+26NC48FBP_0101 1329730 1330820 EN check mail ah
+26NC48FBP_0101 1331700 1333830 CS walao 做 莫 这样 多 mail
+26NC48FBP_0101 1335170 1338570 EN eh we can talk and what at the same time one what who say cannot
+26NC48FBP_0101 1339040 1341620 EN eh eighteen dollars ah see got what
+26NC48FBP_0101 1343430 1346840 CS eighteen eh that time i 我 book 多少 啊
+26NC48FBP_0101 1348481 1349831 CS huh我的 five meh
+26NC48FBP_0101 1350851 1353341 CS 为什么 是 five i thought 是 one dollar
+26NC48FBP_0101 1356491 1360281 EN but this one is add after adding or or haven't add yet haven't right
+26NC48FBP_0101 1361671 1364071 CS paiseh eh when my eh 台北 ah
+26NC48FBP_0101 1364381 1367311 CS 我 很想 去 台北 很 tempted ah 去 台北
+26NC48FBP_0101 1369621 1373121 CS 赚到了 right 是 没有 这样 便宜 的 usually
+26NC48FBP_0101 1373471 1375031 ZH 对 啰 我 是 赚到了
+26NC48FBP_0101 1375931 1378471 CS 哎呀 我 要 去 台北 but 台北 有 一点 贵
+26NC48FBP_0101 1381336 1382766 EN 
+26NC48FBP_0101 1385937 1388877 CS eh 我 很想 去 做 rebonding 还是 dye 头发
+26NC48FBP_0101 1388887 1390947 CS eh 我 有 一个 voucher eh 等 一下 我 去 看
+26NC48FBP_0101 1396545 1398955 CS 我 要 check 那个 brand eh 我 要 看 多少 钱 因为
+26NC48FBP_0101 1398955 1401845 CS 有 thirty dollar voucher then 白 用 不 白 不用 orh
+26NC48FBP_0101 1401915 1403715 CS just 用 掉 了 我 不管 了
+26NC48FBP_0101 1403715 1405045 ZH 我 看
+26NC48FBP_0101 1405045 1407120 CS 我 show 我 show 你 我 现在 show 你 等 一下 啊
+26NC48FBP_0101 1408745 1409979 CS 啊 hair treatment 的
+26NC48FBP_0101 1425422 1426572 ZH eh 这个 你 看
+26NC48FBP_0101 1429798 1433417 CS eh 它 highlight 才 forty eight dollars eh是 便宜 还是 贵
+26NC48FBP_0101 1435730 1437722 EN forty eight is it cheap or ex
+26NC48FBP_0101 1442210 1444411 ZH uh 是 便宜 的 huh
+26NC48FBP_0101 1444851 1448391 CS 等 一下 我 要 看 它 有什么 services that 我 可以 做 的
+26NC48FBP_0101 1450827 1454627 CS but eh ah 你 读 cannot use with other 什么的 嘞
+26NC48FBP_0101 1455417 1457867 EN as in cannot use with other things
+26NC48FBP_0101 1458907 1460310 EN you wait ah
+26NC48FBP_0101 1472492 1473783 EN ya that's why
+26NC48FBP_0101 1476055 1477766 ZH ah nah 我 知道 我 知道
+26NC48FBP_0101 1481139 1484019 CS 所以 我在 看 有 什么 that 我 可以 用 的
+26NC48FBP_0101 1484019 1487141 CS 他 online 我 在 clear 我的 mail mail 很多 东西
+26NC48FBP_0101 1487731 1488740 CS weekend 没有 clear
+26NC48FBP_0101 1491518 1492163 EN how come
+26NC48FBP_0101 1502045 1504329 CS 是 meh eh 你 妈妈 很好 eh actually
+26NC48FBP_0101 1506758 1508553 CS but 会 变 肥
+26NC48FBP_0101 1510292 1511078 EN ya
+26NC48FBP_0101 1520539 1522418 EN uhhuh uhhuh
+26NC48FBP_0101 1523709 1527271 CS  什么 breast uhhuh then
+26NC48FBP_0101 1532090 1534650 CS orh cervic 是 那个
+26NC48FBP_0101 1535210 1536440 EN (er) below one
+26NC48FBP_0101 1536481 1539241 EN it's the below thing ah ah you don't even know
+26NC48FBP_0101 1539241 1540760 EN 
+26NC48FBP_0101 1540760 1542581 CS cervic is the 下面 one
+26NC48FBP_0101 1542660 1544441 EN eh actually is quite serious eh that one
+26NC48FBP_0101 1545659 1547369 CS ah cervic 满 serious 的
+26NC48FBP_0101 1547904 1548493 ZH 为什么 会
+26NC48FBP_0101 1551915 1554646 CS  then 她 讲 什么
+26NC48FBP_0101 1557306 1559976 CS cervic is different cervic is 下面
+26NC48FBP_0101 1560056 1561946 CS cervic is 下面 one
+26NC48FBP_0101 1566978 1568298 CS 什么 是 robotic
+26NC48FBP_0101 1574130 1575878 ZH 靠 得 住 吗
+26NC48FBP_0101 1577548 1581568 CS huh我 不 相信 machine 的 leh i prefer like manual job
+26NC48FBP_0101 1582008 1585268 EN eh g. i. p. ah got g. i. p. let's see okay
+26NC48FBP_0101 1585907 1588107 EN walau stupid what is this
+26NC48FBP_0101 1593917 1596057 CS a-class ward 很 贵 啦
+26NC48FBP_0101 1596934 1597747 ZH 等一下
+26NC48FBP_0101 1604255 1604929 EN huh
+26NC48FBP_0101 1609434 1612274 EN okay what i don't mind leh
+26NC48FBP_0101 1618179 1618740 EN ha
+26NC48FBP_0101 1629187 1631667 ZH 做 莫 你 妈妈 这样 多 dai-ji
+26NC48FBP_0101 1638748 1640151 ZH 贵 嘞
+26NC48FBP_0101 1642958 1644638 CS orh 对 orh 你们 有 insurance
+26NC48FBP_0101 1646205 1650595 CS eh 我 要 check 什么 啊 eh 这些 不是 eh 那个 东西 是 叫 什么 名 啊
+26NC48FBP_0101 1652595 1653715 EN how do you spell
+26NC48FBP_0101 1655645 1658775 EN i i must use it before it expires
+26NC48FBP_0101 1658795 1661795 EN i see got what hair treatment that i can use to do
+26NC48FBP_0101 1662525 1664615 EN use to find s. g.
+26NC48FBP_0101 1664765 1666635 ZH 新加坡 网页
+26NC48FBP_0101 1668024 1669426 EN  delete
+26NC48FBP_0101 1673999 1674953 CS cock eye 了 啊
+26NC48FBP_0101 1680077 1682037 CS wah i quite shag 了 eh seriously
+26NC48FBP_0101 1686437 1691817 CS  可以 啊 but actually 可以 的 but 有 一点 难 啦
+26NC48FBP_0101 1693067 1696287 ZH 啊 你 要 自然 讲 出来 会 比较 容易
+26NC48FBP_0101 1698807 1700577 EN what the hell is this
+26NC48FBP_0101 1701877 1704367 EN malaysian holiday resort how much
+26NC48FBP_0101 1707149 1707906 EN never write eh
+26NC48FBP_0101 1714239 1716309 CS 我 觉得 not bad leh actually
+26NC48FBP_0101 1719959 1722409 CS 你们 很 喜欢 你 很 喜欢 malaysian boyfriend orh
+26NC48FBP_0101 1723874 1727240 ZH  哇 你 很 啊 找 上 门
+26NC48FBP_0101 1734627 1735188 ZH 是 meh
+26NC48FBP_0101 1742201 1745175 EN crazy one la that one that one crazy one lor
+26NC48FBP_0101 1746942 1747727 ZH 不 可能 的
+26NC48FBP_0101 1749613 1753120 CS 神经 eh 我 要 看 这个 多少 钱 click 一下 那个 价钱
+26NC48FBP_0101 1756749 1760359 CS 我 很 发 神经 的 每次 有 这种 mail 我 会 看 like 多少钱
+26NC48FBP_0101 1760939 1762399 ZH 我 要 去 台北 eh
+26NC48FBP_0101 1762399 1764312 CS 几 时 飞 啊 sale
+26NC48FBP_0101 1765589 1767889 CS when can fly first 重点
+26NC48FBP_0101 1769689 1775499 EN okay i will choose the july ya july i think okay twenty seventh to tenth
+26NC48FBP_0101 1776526 1779976 EN twenty seventh to july
+26NC48FBP_0101 1784071 1786311 CS ohi think 我 真的 要 生病 也是 跟 你 一样
+26NC48FBP_0101 1788203 1788624 EN huh
+26NC48FBP_0101 1791850 1792383 ZH 对 啰
+26NC48FBP_0101 1795514 1797334 ZH 可以 啰 eh 你 家里 有 买 啊
+26NC48FBP_0101 1798844 1799894 ZH 你 家里 买 了 meh
+26NC48FBP_0101 1802804 1803794 ZH 多少 钱
+26NC48FBP_0101 1804884 1807744 CS actually 不 便宜 我 我 打算 等 (er) 新年
+26NC48FBP_0101 1808270 1810290 ZH 我 打算 去 牛车水 因为 我
+26NC48FBP_0101 1812421 1815395 EN don't need to see nice or not nice one la sure got nice one what
+26NC48FBP_0101 1817471 1820108 CS cheapo 的 啊 为什么
+26NC48FBP_0101 1822419 1823148 ZH 真的 假的
+26NC48FBP_0101 1823653 1826515 CS 哦 我的 是 cheapo 的 我 每次 去 牛车水 eh hundred and twenty
+26NC48FBP_0101 1830189 1831424 ZH 丢掉
+26NC48FBP_0101 1834425 1835659 ZH 你 妈妈 很 有钱 啊
+26NC48FBP_0101 1837062 1838044 ZH 真的 假的
+26NC48FBP_0101 1846439 1848240 CS ya 看 得出 你 妈妈 很 挑
+26NC48FBP_0101 1853680 1858349 ZH 看 这个 多少 钱 哇 两百七 是 贵的 啰
+26NC48FBP_0101 1858349 1864449 ZH 是 贵的 我 那时 定 (er) 来回 四 四百 一 趟 两百
+26NC48FBP_0101 1865910 1867619 CS sale 的 时候
+26NC48FBP_0101 1867619 1870119 ZH 哇 加 来 三百 多 有没有 搞错
+26NC48FBP_0101 1870189 1872319 ZH 不要 啦 这样 贵 没有 钱 啦
+26NC48FBP_0101 1872779 1874749 ZH 我 还 想 去 台湾 多 一次
+26NC48FBP_0101 1882589 1884244 ZH 几时 啊
+26NC48FBP_0101 1886208 1888396 ZH 啊 她 不要 啊
+26NC48FBP_0101 1894371 1896271 ZH eh 有些 不错 嘞 手工 的
+26NC48FBP_0101 1897180 1898431 CS 没有 可以 try 的
+26NC48FBP_0101 1899144 1900996 ZH 真的 可以 开 的 <unk>
+26NC48FBP_0101 1902342 1903212 ZH 你 要 去 meh
+26NC48FBP_0101 1904347 1906387 ZH 我是 除 我是 除夕 eh
+26NC48FBP_0101 1907507 1909367 ZH 没有 要 除夕 才 便宜 的
+26NC48FBP_0101 1912577 1915767 CS orh okay lor then 你 就 跟 你 男朋友 去 那边 啰
+26NC48FBP_0101 1917337 1920670 ZH eh 我 想 吃 eh 那边 有没有 卖 什么 好吃
+26NC48FBP_0101 1921207 1922997 CS so far 哎 哎呀 不用 紧 啦 i think 我
+26NC48FBP_0101 1922997 1924807 ZH 除夕 我 才 去 除夕 会 便
+26NC48FBP_0101 1924807 1926117 CS muah-chee 很 便宜 i think
+26NC48FBP_0101 1928127 1929717 ZH 我 除夕 才 去 的
+26NC48FBP_0101 1929717 1933447 ZH 因为 我 我 每年 啊 一定 很 便宜 啰 我 跟 你 讲
+26NC48FBP_0101 1933447 1937513 EN eh this is damn cheap ah this is k. l. that one is even cheaper twenty twen
+26NC48FBP_0101 1938200 1939537 EN one cent only eh
+26NC48FBP_0101 1939680 1943060 EN that time i bought one dollar eh this is even cheaper
+26NC48FBP_0101 1945564 1948650 CS i think book 到来 it's around the same price wait i go and check it out first
+26NC48FBP_0101 1959852 1962393 CS 是 meh that time i also what
+26NC48FBP_0101 1966977 1967454 EN uhhuh
+26NC48FBP_0101 1973493 1975064 ZH 不懂 eh 看先 啦 看 就 懂 啰
+26NC48FBP_0101 1976438 1977560 CS okay 来 check 它的 price
+26NC48FBP_0101 1980842 1984293 CS huhs. g. 的 啦 you don't even know
+26NC48FBP_0101 1985816 1986938 EN aiya buy <unk>
+26NC48FBP_0101 1988228 1991987 CS okay la 就是 说 我 只 搭 cheapo 的 我 没有 搭 那种 很贵 的
+26NC48FBP_0101 1993754 1995278 CS eh 有 去 australia 的 啊
+26NC48FBP_0101 1995278 1997468 CS eh actually australia 靠近 sydney 吗
+26NC48FBP_0101 1997468 1998579 ZH 蛮 靠近 eh
+26NC48FBP_0101 2000458 2001848 EN eh that means i can
+26NC48FBP_0101 2002971 2007391 EN ok eh eh but if they go perth leh perth and sydney is very different orh
+26NC48FBP_0101 2007811 2008871 EN where got same
+26NC48FBP_0101 2010648 2013289 EN eh how to click the thing ah stupid thing wait ah
+26NC48FBP_0101 2017112 2018902 CS langkawi 是什么 国家 来 的
+26NC48FBP_0101 2021256 2022126 ZH 是 meh
+26NC48FBP_0101 2024566 2024987 ZH 是 meh
+26NC48FBP_0101 2027942 2029492 CS 你 有 看 下雪 的 blog meh
+26NC48FBP_0101 2032312 2037032 CS huh我 以为 只有 像 我 这种 无聊 的 人 才 会 看 eh anyway 四月 的 我 不能 飞 了
+26NC48FBP_0101 2037032 2038382 ZH 我的
+26NC48FBP_0101 2038382 2039792 ZH 还在 考试 orh
+26NC48FBP_0101 2039792 2040877 ZH 不可以
+26NC48FBP_0101 2041922 2044682 CS 看 有什么 我 需要 看 的 吗 我的 mail
+26NC48FBP_0101 2044692 2046242 ZH 哎呀 真的 很多
+26NC48FBP_0101 2046852 2050639 CS next time 才 来 看 我 来 看 我 这个 bonafide
+26NC48FBP_0101 2053119 2055009 EN eh this one i see got what
+26NC48FBP_0101 2056762 2057856 EN wahseh
+26NC48FBP_0101 2060016 2061054 ZH orh 不可以 不可以 不可以 不可以
+26NC48FBP_0101 2067486 2068721 EN tadum
+26NC48FBP_0101 2068721 2070161 EN eh inside still have right
+26NC48FBP_0101 2070161 2075181 EN ya ya ya okay good that's good orh there's one period of time there  quite empty
+26NC48FBP_0101 2077571 2080141 EN eh how come don't have one ah eh her hairstyle
+26NC48FBP_0101 2080420 2083781 EN eh seems this place like quite good eh quite expensive one orh
+26NC48FBP_0101 2084041 2086420 EN ya i think quite expensive one eh
+26NC48FBP_0101 2087411 2089710 CS 是 trick 你 进去 的 我 觉得
+26NC48FBP_0101 2090451 2094420 CS but 我 要 看 有什么 可以 便宜 的 maybe 我 可以 like you know
+26NC48FBP_0101 2096250 2098463 CS 看 一 看 它 有 twelve dollars eh there
+26NC48FBP_0101 2101040 2105790 EN i don't know nice or not leh later cut already cui then wah will sad one eh
+26NC48FBP_0101 2106950 2111290 CS eh 有 nail eh eh 如果 有 那个 nail i don't mind lor 这个 voucher what
+26NC48FBP_0101 2111964 2114881 CS right but 我 觉得 hair 比较 好 啰
+26NC48FBP_0101 2116798 2117612 CS but 要看
+26NC48FBP_0101 2120911 2123511 EN eh i want to colour eh i don't want treatment one
+26NC48FBP_0101 2123511 2125831 EN but never write price one lor idiot
+26NC48FBP_0101 2128791 2130691 EN they never write price eh
+26NC48FBP_0101 2133205 2134830 EN wait ah new treatment
+26NC48FBP_0101 2137710 2140170 EN serious that's good
+26NC48FBP_0101 2140550 2143610 CS eh 没有 嘞 eh actually 它的 hair service
+26NC48FBP_0101 2145026 2146008 EN hannor
+26NC48FBP_0101 2147607 2150213 CS gei 的 嘞 我 觉得 eh 看 hair promotion
+26NC48FBP_0101 2151193 2152603 ZH neh 就是 这个 orh
+26NC48FBP_0101 2154633 2160573 CS 四十八 块 他是 讲 from 四十八 块 eh then 我 问 他 我 讲 我的 hair 是 around bob hair 的
+26NC48FBP_0101 2160770 2164160 CS 我 很 tempted 拿 我的 赚 来 的 钱 去 还 highlight
+26NC48FBP_0101 2172251 2173150 EN ah la
+26NC48FBP_0101 2173150 2174640 CS 你的 okay 我的 hair
+26NC48FBP_0101 2174640 2175440 EN bohua
+26NC48FBP_0101 2175440 2176970 CS that's why 我 要 找 比较 便宜 的
+26NC48FBP_0101 2178230 2181820 CS 我 很 tempted 染 像 慧敏 那种 but 我 很 怕 等 一下 很 像 很 ah-lian
+26NC48FBP_0101 2183110 2184660 ZH orh 他 一定 骂 的 我 跟 你 讲
+26NC48FBP_0101 2185140 2187690 ZH 他 没有 写 钱 eh 很 讨厌 eh
+26NC48FBP_0101 2189480 2194760 CS then 我 要 怎样 用 我的 voucher 没有 写 钱 okay la 我 去 看 那个 nail 的 maybe 那个 nail 的 okay
+26NC48FBP_0101 2195661 2196981 CS nails 是 under 什么 啊
+26NC48FBP_0101 2199280 2201973 CS okay la aiya eh manicure ah 还是
+26NC48FBP_0101 2205452 2207275 CS refresh eh 为什么 不可以 的
+26NC48FBP_0101 2224021 2226371 CS 哇 看起来 很 class 的 感觉 eh
+26NC48FBP_0101 2226371 2230381 ZH 我 我 进去 我 有点 怕 eh  我 怕 等一下
+26NC48FBP_0101 2230381 2232971 CS 对 很 stress 我 怕 他 等 一下 乱 敲 我的 钱 eh
+26NC48FBP_0101 2235117 2238001 ZH eh 第二 个 来看 一下
+26NC48FBP_0101 2238414 2242104 CS hairstyle eh 他的 头发 其实 是 不错 的 lor
+26NC48FBP_0101 2244114 2248684 CS 对 啦 but eh 没有 写 多少钱 eh irritating 的 嘞
+26NC48FBP_0101 2249704 2252414 EN eh register as bona-club
+26NC48FBP_0101 2254274 2258274 CS hairstyle 没有 写 钱 的 irritating eh
+26NC48FBP_0101 2258624 2261094 CS 哪 一些 可以 click 的 哎呀 不可以
+26NC48FBP_0101 2263124 2265844 CS 很 靠近 eh actually 是 一个 industrial park 来 的
+26NC48FBP_0101 2268224 2272074 CS 没有 人 会 走过 的 很 ulu 的 我 等 一下 我 show 你 你 就 懂了
+26NC48FBP_0101 2273484 2275981 ZH 是 整个 ah-neh ah-neh 去 那边 的
+26NC48FBP_0101 2280604 2282664 ZH 怎样 办 啊 我 应该 去 吗
+26NC48FBP_0101 2282664 2286560 CS 我 问 他 eh then 他 讲 如果 我 要 用 这个 voucher 不可以 用 这个 这个
+26NC48FBP_0101 2287034 2290984 CS then 他 就会 跟 住 那个 price 了 他 讲 如果 这样的 话 就是 七十 块
+26NC48FBP_0101 2295933 2296607 EN hannor
+26NC48FBP_0101 2298662 2300906 ZH  什么 意思
+26NC48FBP_0101 2303235 2303908 EN uh-huh
+26NC48FBP_0101 2307868 2309944 ZH 拜托 eh 看 子云 的 照片
+26NC48FBP_0101 2312020 2314095 CS eh 这个 orh 你们 去 birthday 啊
+26NC48FBP_0101 2316788 2317686 EN cool
+26NC48FBP_0101 2320541 2323861 CS 这个 死 alfred 都 不会 换 照片 的 每次 放 到 这样 恶心 的 脸
+26NC48FBP_0101 2326950 2327959 CS 真的 是 cui
+26NC48FBP_0101 2331157 2333931 EN cui it's can only say cui
+26NC48FBP_0101 2333931 2335381 ZH neh 这个 以前 喜欢 我的
+26NC48FBP_0101 2338380 2340290 CS jeremy 他的 名 他的 名 叫 jeremy
+26NC48FBP_0101 2345779 2351613 CS ohya okay lor can see i think 是在 photos eh
+26NC48FBP_0101 2355798 2357453 ZH 我 来 看 一下 eh 这个 是 我 朋友 eh
+26NC48FBP_0101 2359984 2361690 ZH eh 是 我 朋友 eh
+26NC48FBP_0101 2361690 2364725 CS eh 我 有 show 过 你 吗 等一下 我的 朋友
+26NC48FBP_0101 2366356 2366833 EN actually
+26NC48FBP_0101 2371574 2372430 ZH 是 meh
+26NC48FBP_0101 2372430 2374440 ZH eh 这个 是不是 她的 男朋友 来看 一下
+26NC48FBP_0101 2377272 2380974 CS 很 cui 嘞 如果 是 她的 男朋友 我 会 笑 她 啰 
+26NC48FBP_0101 2383090 2387180 CS 她 是 我 好 朋友 there 她 现在 就是 the one taking h. p. o. a. six with me one
+26NC48FBP_0101 2387610 2389250 CS 她 她 满 漂亮 我 show 你
+26NC48FBP_0101 2392820 2393690 ZH 四十二
+26NC48FBP_0101 2396663 2397785 ZH 她 蛮 漂亮 的
+26NC48FBP_0101 2398648 2400768 CS 她是 sweet looking but 她 有 一点 肥 啊
+26NC48FBP_0101 2401688 2403178 CS 满 sweet looking 的 right
+26NC48FBP_0101 2403838 2405148 ZH 她 很 胖 啊
+26NC48FBP_0101 2405658 2406998 ZH eh 这个 是 她 男朋友 啊
+26NC48FBP_0101 2406998 2408536 CS eh i think 是 她 男朋友 eh
+26NC48FBP_0101 2408536 2413613 CS 是 right 哎哟 很 cui 嘞 okay 我 等一下 要 kajiao 她 了
+26NC48FBP_0101 2413613 2415095 ZH 我 还 不懂 嘞
+26NC48FBP_0101 2415095 2416475 ZH eh 她 换 男朋友 很 多
+26NC48FBP_0101 2416475 2417688 ZH neh 这个 是 她 啰
+26NC48FBP_0101 2420000 2421875 CS 她 很 她 满 sweet looking eh
+26NC48FBP_0101 2422155 2425625 CS eh 她 是 我的 中学 她 蛮 漂亮 的 嘞 but 她 有 一点 胖 啊
+26NC48FBP_0101 2425855 2427265 CS there 她 满 她 满 胖 的
+26NC48FBP_0101 2427425 2428505 ZH 不好看 meh
+26NC48FBP_0101 2430035 2432755 CS 不 sweet meh eh 她 男朋友 很 cui eh
+26NC48FBP_0101 2435935 2437814 CS 很 cui hor okay what
+26NC48FBP_0101 2439325 2441175 ZH 她 蛮 好看 的 嘞
+26NC48FBP_0101 2444535 2446120 ZH 是 你 要求 太 高 了
+26NC48FBP_0101 2449315 2453305 ZH 不要紧 我要 看 子云 的 照片 了 
+26NC48FBP_0101 2453305 2455595 ZH 因为 我 我 不是 要 我 不是 要 看
+26NC48FBP_0101 2456325 2459365 CS 我 没有 stalk 他 啰 我 很 久 没有 看 他 照片 了 orh
+26NC48FBP_0101 2460785 2463565 CS 没有 啰 eh 怎样 spell 啊 你的 我 都 不会 spell
+26NC48FBP_0101 2468006 2468791 ZH eh 没有
+26NC48FBP_0101 2472325 2475265 CS 哎呀 有 男朋友 吗 不一样 what eh 他 这 张 满 好看 hor
+26NC48FBP_0101 2478475 2480155 CS eh 他 not bad eh 这 张
+26NC48FBP_0101 2480615 2483155 ZH eh 这 张 在 哪里 拍 的 eh 很 美 嘞
+26NC48FBP_0101 2486554 2488041 ZH 神经 
+26NC48FBP_0101 2489506 2495130 CS eh 他 真的 eh 我 觉得 他的 dress sense 是 他 以 他 变 好看 很多 是 因为 他 会 打扮
+26NC48FBP_0101 2497896 2499896 ZH 没有 了 啊 huh这样 少 啊
+26NC48FBP_0101 2500996 2502566 EN huhso little photo
+26NC48FBP_0101 2505206 2508376 CS wah he got 一千 多个 photo ah 有没有 搞错
+26NC48FBP_0101 2510406 2512426 CS eh 来看 他 army 的 时候 是 怎样
+26NC48FBP_0101 2515406 2518436 ZH 我 觉得 他 很 丑 哎呀 这个 这样 小 我 要 看 一个 比较 大 的
+26NC48FBP_0101 2520559 2523086 ZH eh 这 张 蛮 哇 很 帅 eh
+26NC48FBP_0101 2523086 2525456 CS neh 这个 你的 group mate lor
+26NC48FBP_0101 2526097 2527290 ZH eh 他 和 他们 整个
+26NC48FBP_0101 2527290 2529499 CS 他 很 聪明 eh 他是 从 r. v. 来 的 eh
+26NC48FBP_0101 2530599 2532509 ZH orh 他 真的 很 帅 orh
+26NC48FBP_0101 2533364 2534137 ZH 很 帅 啰
+26NC48FBP_0101 2535510 2537560 CS eh actually certain angle 他 满 好看 的
+26NC48FBP_0101 2540947 2542597 ZH eh 这 张 就 不好 看
+26NC48FBP_0101 2542597 2544597 CS actually 他 朋友 是 not bad 啊 满 cute 的
+26NC48FBP_0101 2549267 2550997 CS 这 张 也 not bad eh
+26NC48FBP_0101 2550997 2553107 CS 虽然 他 穿 到 这样 but not bad leh
+26NC48FBP_0101 2555837 2557287 CS 来 spot 哪 一个 是 他
+26NC48FBP_0101 2557287 2559059 ZH 哈 哈 哈 哈 哈 哈 哈 哈
+26NC48FBP_0101 2562400 2563390 EN 
+26NC48FBP_0101 2565246 2570629 CS 没有 嘞 eh ee 很 nerd leh 
+26NC48FBP_0101 2573846 2576445 CS eh 他 很 nerd 啰 eh 这 张 很 美 嘞
+26NC48FBP_0101 2578046 2581883 ZH 他 跟 他 女朋友 吗 吴子元
+26NC48FBP_0101 2581883 2583173 ZH 这个 是 他 meh
+26NC48FBP_0101 2585749 2586708 ZH eh 很 美 嘞
+26NC48FBP_0101 2588750 2590063 ZH eh 这 张 蛮 美 的
+26NC48FBP_0101 2590063 2591803 CS eh 我 觉得 他 穿 vest 很 帅 eh
+26NC48FBP_0101 2595556 2597226 ZH 哇 他 很 帅 eh
+26NC48FBP_0101 2598211 2602140 ZH eh 他 跟 他 <unk> 动 到 
+26NC48FBP_0101 2602790 2606440 EN 
+26NC48FBP_0101 2609094 2609558 ZH 什么 偷
+26NC48FBP_0101 2610115 2610858 EN 
+26NC48FBP_0101 2617231 2619149 ZH <unk> 真的 很
+26NC48FBP_0101 2624160 2626821 EN 
+26NC48FBP_0101 2639095 2639930 ZH 我 没有 看 的
+26NC48FBP_0101 2645795 2647995 ZH eh 继续 看 eh 我 要 看 他 照片
+26NC48FBP_0101 2648894 2650574 ZH 哇 这 张 也是 满 帅 的
+26NC48FBP_0101 2651984 2654934 ZH 哇 他 很 喜欢 自恋 orh 很 喜欢 拍 很多 照片 eh 等一下 我 关掉 这个
+26NC48FBP_0101 2656804 2658304 CS eh but 他 真的 很 帅 eh
+26NC48FBP_0101 2658304 2660544 ZH 我 很 久 没有 看 他 照片 了 讲 真的
+26NC48FBP_0101 2661732 2662598 EN tadum
+26NC48FBP_0101 2664343 2666753 ZH 哎呀 看 一下 不会 死 的 啦
+26NC48FBP_0101 2667763 2669713 ZH wah eh 这 张 也是 很 帅 orh
+26NC48FBP_0101 2670889 2671508 ZH 是 meh
+26NC48FBP_0101 2673323 2675573 ZH ee 这个 娘 eh
+26NC48FBP_0101 2678633 2679963 ZH 这个 是 他
+26NC48FBP_0101 2680967 2682452 ZH ee 不好 看
+26NC48FBP_0101 2684188 2685618 ZH 哇 他 很多 照片 啰
+26NC48FBP_0101 2686442 2688648 CS eh 啊 他 dress sense 超 好
+26NC48FBP_0101 2688858 2690558 CS 这个 是不是 那个 bling bling
+26NC48FBP_0101 2695040 2696740 CS 我 觉得 他的 dress sense 还 比 ben 好 eh
+26NC48FBP_0101 2696740 2699581 CS ben 现在 很 sian 了 他 穿 的 衣服 每次 都 一样
+26NC48FBP_0101 2702160 2704250 CS 他 穿 shirt 比较 好看
+26NC48FBP_0101 2706710 2708520 ZH 都 讲 子元 很 爱美 了
+26NC48FBP_0101 2710370 2712050 ZH 我 不 喜欢 男孩子 太 爱美
+26NC48FBP_0101 2714431 2716140 ZH 对 eh 他 这 张 很 丑
+26NC48FBP_0101 2716900 2719190 CS eh i think 头发 make a lot of difference eh
+26NC48FBP_0101 2720060 2722270 EN really serious a lot
+26NC48FBP_0101 2730060 2734600 CS 很 丑 eh 他 穿 这样 很 像 ah-pek eh actually 他 不好 看 orh 你 看 他 身体 很 白 eh
+26NC48FBP_0101 2740080 2741990 CS i think 是 一个 人 打扮
+26NC48FBP_0101 2742320 2744350 CS package 过后 就是 不一样 了
+26NC48FBP_0101 2745830 2749040 ZH 啊 你 穿 一个 很 帅 的 衣服 你 多 丑 都是 很好看 的
+26NC48FBP_0101 2750394 2752869 CS 对 kimfai kimfai 也 是 蛮 cute 的
+26NC48FBP_0101 2753982 2754416 EN huh
+26NC48FBP_0101 2759580 2761880 CS eh 郑年 是 我的 j. c. friend eh
+26NC48FBP_0101 2761880 2765111 EN he told me la he say walau scold him
+26NC48FBP_0101 2765111 2766421 ZH 什么 意思
+26NC48FBP_0101 2768851 2771091 EN so norman and eileen are together
+26NC48FBP_0101 2773891 2776411 CS orh 郑年 is my j. c. friend
+26NC48FBP_0101 2784969 2787660 EN nevermind we just surf facebook eh this girl quite pretty
+26NC48FBP_0101 2789145 2797280 CS not bad right quite pretty this guy is my friend 他们 竟然 是 认识 的 i didn't know eh 
+26NC48FBP_0101 2797280 2798480 ZH 他是 我 中学 朋友
+26NC48FBP_0101 2799651 2802261 CS eh 我 有 跟你讲 过 啦 子元 before
+26NC48FBP_0101 2802261 2806151 ZH 他 跟 我 讲话 的 时候 他 讲 他 已经 认识 我 了 他 懂 我是 叫 什么 名 了
+26NC48FBP_0101 2807431 2809911 ZH 因为 是 我的 朋友 跟他讲 我的 名
+26NC48FBP_0101 2810121 2811621 ZH eh 这个 女 的 也是 蛮 不错 的
+26NC48FBP_0101 2811621 2816727 CS eh 他 去 you know put the hand 
+26NC48FBP_0101 2821192 2823852 ZH 我 不管 的 嘞 如果 那个 男 的 这样 orh
+26NC48FBP_0101 2823922 2826062 ZH 我 会 觉得 很 不自在 eh
+26NC48FBP_0101 2827085 2828291 ZH 你 不会 meh
+26NC48FBP_0101 2833303 2837292 ZH 我 不 知道  我 不会 我 不会
+26NC48FBP_0101 2837292 2840352 CS eh but okay la 他们 pose not bad eh actually 蛮 蛮 配 的
+26NC48FBP_0101 2840352 2843388 CS eh 这个 angle eh 其实 他 不好看 啰 他 这个
+26NC48FBP_0101 2845306 2847626 EN 
+26NC48FBP_0101 2847626 2850396 CS 没有 我是 讲 那个 女 的 这样 看 是 比较 okay
+26NC48FBP_0101 2850396 2853527 CS okay right this one the angle 这个 看 like wah 就 不好看 了
+26NC48FBP_0101 2854950 2856311 EN ah correct
+26NC48FBP_0101 2858656 2861186 ZH 看 有没有 比较 好看 的 照片 eh 很 sian 了
+26NC48FBP_0101 2861366 2863806 ZH eh 这 张 的 照片 他 弄 到 很 美 eh 不懂 他 怎样 弄 啊
+26NC48FBP_0101 2872216 2873716 ZH eh 这 张 不好看
+26NC48FBP_0101 2877486 2880006 CS eh 我的 i think 他 穿 黑色 都 很 帅 eh
+26NC48FBP_0101 2882676 2884136 ZH 他 穿 黑 很 帅 eh
+26NC48FBP_0101 2884436 2885946 ZH 这个 是 他 吗
+26NC48FBP_0101 2886441 2887641 CS eh 他 有 tummy eh
+26NC48FBP_0101 2888292 2890601 CS 他的 tummy eh 这个 女 的 也 蛮 漂亮 的
+26NC48FBP_0101 2891473 2893051 EN jayzel lim
+26NC48FBP_0101 2896887 2899664 ZH 真的 真的 eh 男女 orh 穿 美 orh
+26NC48FBP_0101 2899664 2902354 ZH 过了 包装 过后 是 完全 不一样 了
+26NC48FBP_0101 2902604 2904384 ZH wah eh 这 张 蛮 好看 的 eh
+26NC48FBP_0101 2904564 2906390 CS actually 拍 这样 蛮 photogenic 的 嘞
+26NC48FBP_0101 2908864 2910824 CS 他是 蛮 photogenic 的 right
+26NC48FBP_0101 2912674 2914764 CS 我 觉得 他 蛮 photogenic 蛮 好看 的
+26NC48FBP_0101 2916484 2919274 ZH 而且 他 头发 我 觉得 头发 的 问题 也是
+26NC48FBP_0101 2920984 2922554 ZH eh 这个 女 的 也 蛮 漂亮 的
+26NC48FBP_0101 2930165 2934923 CS 是 meh 哪里 有 bend meh okay la
+26NC48FBP_0101 2937521 2938295 ZH 是 meh
+26NC48FBP_0101 2940924 2944327 CS 是 meh okay 等一下 等 我 看完 这个 先
+26NC48FBP_0101 2949704 2952460 CS 很 sian 了 eh 有没有 比较 exciting 的
+26NC48FBP_0101 2953447 2956726 CS tadun wah eh 他们 穿 这样 很 难看 eh
+26NC48FBP_0101 2961398 2963850 EN aiya fast forward fast forward fast forward
+26NC48FBP_0101 2964590 2966960 CS wah eh 他 actually 他们 的 clique 很 united orh
+26NC48FBP_0101 2968384 2969364 EN ya
+26NC48FBP_0101 2969364 2971544 CS okay la 他 这样 angle not bad actually
+26NC48FBP_0101 2971544 2974294 ZH 我 觉得 他 还 好 eh 为什么 你们 讲 他 很 好看
+26NC48FBP_0101 2976584 2978860 CS 什么 气质 i don't see the 气质
+26NC48FBP_0101 2978860 2981754 EN the eyes so the 
+26NC48FBP_0101 2981754 2983324 EN the eyes so small
+26NC48FBP_0101 2985893 2986821 ZH 什么 seh

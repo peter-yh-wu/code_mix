@@ -1,0 +1,276 @@
+NI53FBP_0101 7839 17801 EN ah hi my name is sheena ng i am from ah bioscience from n. t. u. yah
+NI53FBP_0101 17801 20999 EN (erm) year two currently
+NI53FBP_0101 28016 30144 ZH 哦 好 可以
+NI53FBP_0101 30144 40610 ZH 但 还是 很 小声 的 感觉 (erm) 算是 会 吧
+NI53FBP_0101 40610 43970 CS 但是 我们 多数 是 (erm) focus 在 细胞 上面
+NI53FBP_0101 43970 45280 ZH 对
+NI53FBP_0101 45280 48880 CS 很像 virus bacteria fungi 等等的
+NI53FBP_0101 48880 53510 ZH 对 会 会 会 (erm)
+NI53FBP_0101 53510 58110 CS 我 觉得 lab 很 好玩 因为 我们 会 (erm) 用到 (er) bacteria
+NI53FBP_0101 115536 118305 CS 就 好像 比如 说 啊 上个 semester
+NI53FBP_0101 118305 120605 CS 我们 就有 一个 叫做 micro bio 的
+NI53FBP_0101 120605 122365 ZH 然后 我们 就 (嗯)
+NI53FBP_0101 122365 128044 CS concentrate 很多 在 啊 bacteria 上面 不只 是 extract 它的 d. n. a. lah
+NI53FBP_0101 128044 145856 CS 就 我们 也有 做 其他 的 事 就 好像 看 它 bacteria 都有 分 不同 种 嘛 那 我们 就 大概 看 它是 哪 几种 我们 就在 那边 分类 就 最 简单 最 简单 的 分类 等等 的
+NI53FBP_0101 157501 168090 CS 啊 对 (嗯) 对 其实 就 (嗯) 最 简单 的 我们 常常 都 在 用 的 就是 gram-positive 跟 gram-negative
+NI53FBP_0101 168090 174940 CS 就是 我们 用 啊 一种 就是 dye dye 它了 之后 我们 会 看 它 到底 是 蓝色 还是 红色
+NI53FBP_0101 174940 182700 CS 这个 跟它 就是 啊 细胞 外面 的 那个 cell wall 有 关系
+NI53FBP_0101 182700 184650 CS 它是 gram-positive
+NI53FBP_0101 184650 191540 CS 就是 说 它 外面 有 厚厚 的 一层 啊 cell wall 然后 如果 是 红色 就是
+NI53FBP_0101 191540 194170 CS 它的 另外 一个 component 会 比较 多
+NI53FBP_0101 194170 201280 ZH 所以 它是 红色 (erm)
+NI53FBP_0101 201280 206640 CS e. coli 就是 经常 在 (呃) (呃) food poisoning 都有的 e. coli
+NI53FBP_0101 206640 223341 CS 然后 我们 有 (嗯) pseudomonas staphylococcus 这些 都是 (嗯) 比较 无害 的 吧 应该 算是 无害 的 吧 就是 要 大量 就是 吃下 去 还是 怎样才 会有 害  对
+NI53FBP_0101 223341 234410 ZH (嗯) 我们 都有 那些 卖 卖 这些 东西 的 啊 就是 应该 算是 供应商 吗 就 啊
+NI53FBP_0101 234410 237310 CS company company 都有 medical company
+NI53FBP_0101 237310 241170 ZH 对 然后 我们 就是 (嗯)
+NI53FBP_0101 241170 244150 CS 买来 是 其实 是 (嗯) frozen 的
+NI53FBP_0101 244150 263430 CS 啊 然后 你 就要 一直 培 培植 培植 培植 对 incubator incubator 那种 就是 做 其他 东西 用的 暂时 我们 没有 用到 啊
+NI53FBP_0101 263430 265540 CS 需要 需要 需要 lab coat 都要 穿
+NI53FBP_0101 265540 282540 ZH 对 需要 需要 我们 其实 (呃) 就是 在 开始 之前 都要 洗手 然后 完了 之后 一定 要 洗手 对
+NI53FBP_0101 282540 286590 CS (嗯) 我们 应该 不算 是 discovery 因为 现在 我们 应该 是
+NI53FBP_0101 286590 290270 ZH 都算 是 (嗯) 怎么 讲 呢 在 学习 当中 就是
+NI53FBP_0101 290270 291970 CS 学 technique 比较 重要
+NI53FBP_0101 291970 294250 ZH 应该 到了 (嗯)
+NI53FBP_0101 294250 298890 CS final year project 才 真正 算是 就是 开始 做 discovery 类似 的 东西
+NI53FBP_0101 298890 314390 CS 其实 我们 现在 做 的 其实 到 (呃) 其他 大学 啊 还是 poly 都 应该 他们 也在 做 差不多 同样 的 东西 因为 最 主要 就是 technique 啊 就是 说 (erm)
+NI53FBP_0101 314390 318280 CS 怎么 用 就是 我 刚 才 讲 的 那个 (erm) positive negative 的 东西
+NI53FBP_0101 318580 323550 CS 怎样 用 它的 那个 stain 就是 你要 (嗯) sequence
+NI53FBP_0101 324100 327830 CS procedure wise (嗯) 怎样 加 那些 dye
+NI53FBP_0101 327830 330650 ZH 然后 洗掉 才 算是 正确 的 用法
+NI53FBP_0101 330650 334380 CS 然后 micro pipette ah incubator 这些 都是
+NI53FBP_0101 334380 338377 ZH (嗯) 我们 在 学习 怎么 用 吧 应该 算是
+NI53FBP_0101 342350 365334 ZH 会 吗 哦 (嗯) 其实 我 家 就 只有 我 中文 标准 啊 呃
+NI53FBP_0101 379894 400565 ZH 就 就 很 可能 是 跟我 中学 的 时候 吧 因为 我 中学 的 时候 就是 (嗯) 老师 多数 都是 从 中国 来的 就 华文 老师 是 从 中国 来 然后 (嗯) 同学 们 多数 也是 中国人 就 eh 也 不能 算是 多数 就 有 差不多 一半 吧 全班 然后 好
+NI53FBP_0101 400565 403845 CS 然后就 (嗯) interact 的 时间 比较 多
+NI53FBP_0101 407175 417509 ZH (嗯) 卷 舌头 没有 啦 我 觉得 比较 标标 准了 点 
+NI53FBP_0101 419978 443020 CS 哦 哦 不少 吧 (嗯) 我 english 就是 从小 from young from young i learnt from my parents (erm) 参 吧 算是 参 参 (嗯) 就
+NI53FBP_0101 443020 447215 CS 就 我 妈妈 是 hokkien 我 爸爸 是 teochew
+NI53FBP_0101 447215 454920 ZH 啊 不会  很烂 吧 
+NI53FBP_0101 458425 460035 ZH 啊 对
+NI53FBP_0101 463282 468835 ZH 应该 算是 
+NI53FBP_0101 468835 470815 CS 哦 我 不是 去 college 我 去 poly
+NI53FBP_0101 470815 476465 ZH 对 三年 对
+NI53FBP_0101 476465 479385 CS 没有 啊 poly 三年 我们 这里 的 poly 读三年
+NI53FBP_0101 479385 488730 CS 一样 bioscience 也 不算 是 experience bah 就是 来到 这里 可能
+NI53FBP_0101 488730 491995 ZH （嗯） 做 实验 上 我 会 觉得 比较 容易
+NI53FBP_0101 491995 497605 CS 但是 theory wise 我 觉得 这里 深了 很多 就是 in depth 很多
+NI53FBP_0101 497605 499091 ZH 嗯
+NI53FBP_0101 503947 527276 CS (嗯) 兴趣 吧 我 觉得 啊 我 有 读 bio 我 有 读 bio 那 时候 的 bio 其实 根本 就 不好玩  因为 很干 就 所谓 很 dry (erm) 全部 都是 要 背 的 就是 你 去 考试 还是 什么 都是 memorise memory work
+NI53FBP_0101 529380 538380 ZH 啊 没有 没有 没有 对 对 对 对 (嗯)
+NI53FBP_0101 538380 542065 CS ecology (er) photosynthesis 类似的
+NI53FBP_0101 542065 556593 CS 就 然后 做 实验 的 时候 多数 是跟 (erm) 鸡蛋 就做 鸡蛋 然后 就 (erm) plants 植物 等等 对
+NI53FBP_0101 562173 569600 ZH 啊 没有 我们 比较 少
+NI53FBP_0101 574218 578475 ZH 但是 我 觉得 就是 你在
+NI53FBP_0101 578475 581495 CS secondary school 学 到 根本 就 不是 整个 东西 嘛 然后
+NI53FBP_0101 581495 588815 CS 你 看 戏 啊 等等 啊 他们 都 讲 d. n. a. lah 然后 干 细胞 啊 等等 我 都 觉得 蛮 好玩 的
+NI53FBP_0101 588815 591935 CS 然后 你 看 电视 的 时候 他们 有 很多 documentary
+NI53FBP_0101 591935 594865 ZH 啊 都会 做到 好像 啊
+NI53FBP_0101 594865 600115 CS forensic science 他们 怎样用 d. n. a. 查出 等 等 等 等 等 等 的 东西 我 就 觉得
+NI53FBP_0101 600115 603836 ZH eh 蛮 不错 的 好像 兴趣 就 在 那边
+NI53FBP_0101 606146 609312 ZH 有 有 有 有
+NI53FBP_0101 614744 617276 ZH （嗯） 对
+NI53FBP_0101 618100 630971 CS 对 对 我 觉得 去了 poly 之后 我 觉得 对 我 觉得 这个 很 好玩 也是 就 不会 闷 然后 我 觉得 (嗯) 做的 很 开心 尤其 做 实验 的 时候
+NI53FBP_0101 630971 635244 ZH 啊 对
+NI53FBP_0101 640276 658075 CS (嗯) 现在 一般上 就是 (嗯) 一 一个 实验 的 (嗯) lesson 就是 三个 小时 对 对 就 做 这些 东西
+NI53FBP_0101 658075 660295 CS 其实 不同 的 module 有 做 不同 的 东西 啊
+NI53FBP_0101 661235 664860 CS (嗯) 好像 现在 我们 在 做 啊 virology
+NI53FBP_0101 664860 679850 CS 就是 (嗯) virology 应该 怎么 讲 (呃) 病毒 吗 virus ah virus lah so 我们 其实 是 (嗯) 也 没 做 很多 就是 看
+NI53FBP_0101 679850 682705 CS 我们 把 这些 virus 放进 那个 culture 里面
+NI53FBP_0101 682705 699415 CS 然后 就 看 它 到底 是 需要 怎样 的 环境 下 才 会 生存 吧 算是 吧 啊 culture en
+NI53FBP_0101 703998 710851 CS oh ah yah parasite ah pathogen parasite 等等
+NI53FBP_0101 716330 722670 ZH 有 啊 我们 上个 星期 刚刚 在 讲 就是 讲 啊
+NI53FBP_0101 722670 726230 CS h. one n. one 呢 是 属于 一种 influenza virus
+NI53FBP_0101 726670 729780 CS 然后 它的 h. 跟 n. 其实 是
+NI53FBP_0101 729780 733820 ZH 它 里面 的 其中 一个 就是 (erm) (嗯)
+NI53FBP_0101 733820 740610 CS bind to our cells 的 一个 domain ah 就是 它的 病毒 很 长 啊 就是 d. n. a. 出来 很长
+NI53FBP_0101 740910 745520 CS 它的 哪 一个 部分 到 哪 一个部分是叫 h. 哪 一个 部分 到 哪 一个 部分 是 叫 n.
+NI53FBP_0101 746200 752170 CS 所以 啊 h. one n. one 就是 h. 的 部分 它是 属于 第 一类 n. 的 部分 它 属于 第一 类
+NI53FBP_0101 752960 758070 CS 所以 我们 有 所谓 的 啊 h. 五 n. 一 h. 二 n. 二
+NI53FBP_0101 758070 770060 CS 其实 有 很多 种 所以 它 其实 是 一个 很大 的 一个 啊 family of ah viruses 它 其实 不是 新的
+NI53FBP_0101 770060 776520 CS h. one n. one 其实 在 以前 的 那个 ah spanish flu 它 也是 h. one n. one
+NI53FBP_0101 776520 802410 CS 只是 它 因为 (嗯) 就是 它 它 会 (嗯) there there is a case where viruses they actually lay dormant for a long time then after that they decided to come out again because of hygeine practices or (erm) passing of (erm) the virus from maybe pigs animals to humans ah bird 的 是
+NI53FBP_0101 802410 806310 CS h. five n. one eh h. five n. one 是猪是吗
+NI53FBP_0101 806310 818130 CS i think is h. five n. one avian flu ah (erm) it it's of different thing for example (erm) h. five h. 五 它 就是 属于
+NI53FBP_0101 818130 824520 CS (嗯) 可能 在 bird 里面 才有 但是 它的 n. one 是 很 容易 来到 human 的
+NI53FBP_0101 824520 834640 CS 所以 它 一进到 human 的 时候 它 就 会 改 mutate ah 变种 类似 这样 的 道理 但 其实 还有 很深 的 东西 吧
+NI53FBP_0101 834640 837390 CS 但是 我们 的 老师 就 touch and go touch and go
+NI53FBP_0101 837390 840607 ZH 对
+NI53FBP_0101 844544 846455 ZH 黑 死 病 吗
+NI53FBP_0101 853233 869390 CS chicken pox oh this has got to do with our immune system 因为 它 我们 长 了 之后 对 吗 他 其实 在 长 的 过程 (嗯) 我们 有 很多 那个 啊 antibody
+NI53FBP_0101 869390 874090 CS 我们的 immune system 它 就会 出 antibodies 然后 这些 antibodies 呢
+NI53FBP_0101 874090 894100 CS (嗯) 你 第一次 碰到 的 时候 他 其实 身体 里面 没有 一个 prememory 所以 它 就要 先 (嗯) 就是 (嗯) create your immune system lah for your body to have that memory so when your body create the immune system it actually fights away that that (erm)
+NI53FBP_0101 894100 910210 EN chicken pox is a virus fight away that virus and then they eliminate that virus after they eliminate that virus what happen is (erm) some of your cells the antibodies actually lower the amount lower but there are some that remain like resting state
+NI53FBP_0101 910210 922254 EN so when the next time the same virus comes into your body they actually mount a faster ah immune response against this virus before they can (erm) take over your body yah
+NI53FBP_0101 923071 947793 CS huh ah 还 没有 没有 对 我 也是 很怕  huh 是 啊  我 我 会 怕 我 会 怕 对 我 会 怕 他们 好像 讲 越 大 越 serious 不过 我 不知 我 并 不 清楚 为什么 其实 我 不是 很 清楚 为什么 对 通常 都是 在 那 时候 长
+NI53FBP_0101 951064 969515 ZH  快点 吗 那 可能 你 免疫力 一 开始 就 很强 了 吧  啊 对 但是 我们 并 不知道 为什么 对
+NI53FBP_0101 971423 987045 ZH  其实 也 不少 吧 对 我 觉得 也 不少 我 今年 二十三 (嗯) 可能 吧 
+NI53FBP_0101 991593 999480 CS (erm) organic err 其实
+NI53FBP_0101 999480 1001950 CS 就算 在 就是 in the science field lah
+NI53FBP_0101 1001950 1015050 ZH 他们 也有 分 有些 人 觉得 是 (嗯) 有用 的 有些 人 也是 觉得 不 应该 这样 所以 其实 很难 讲 就是 说 其实 有好 有坏 吧 我 觉得
+NI53FBP_0101 1015050 1020000 CS 就 你 吃 organic 一部分 是 (嗯) 它是 without fertilizers
+NI53FBP_0101 1020000 1025660 ZH 所以 进入 你 身体 的 那些 病毒 确实 是 (嗯)
+NI53FBP_0101 1025660 1029220 CS 也 不是 病毒 就是 toxic substances to your body
+NI53FBP_0101 1029220 1032670 CS 确实是 比较 少 is narrow down
+NI53FBP_0101 1032670 1040400 CS 不过 你 要 讲 organic 它 很难 生存 又 比较 贵 多数 人 会 选择 吃 就 普通 普通 有 fertilizers 培养 的 啦
+NI53FBP_0101 1040400 1042717 ZH 我 觉得 啦 啊
+NI53FBP_0101 1048248 1059245 ZH 对 对 对 (呃) 啊 我 也 不算 是 专家 啦 
+NI53FBP_0101 1059245 1061455 CS 是 s. b. s. 那些才是专家 
+NI53FBP_0101 1061455 1069791 ZH (嗯) 也 没 什么 吧 我 觉得 就 能吃 就吃 
+NI53FBP_0101 1075063 1089629 CS 啊 research research 多数 可能 我 有 想过 可能 就 跟 免疫系统 有关 还是 跟 (嗯) cancer 有关 的 啊
+NI53FBP_0101 1090792 1099425 ZH 对 (呃) 因为 它是 其实 我 比较 想 进入 就是 很像 (嗯) 中药 啊 还是 什么 成分
+NI53FBP_0101 1099425 1103850 CS 是否 对 cancer 的 那个 tumor 缩小 还是 prevent 它
+NI53FBP_0101 1103850 1107949 ZH 有 没有 作用 等等 就是 那 一方面 的
+NI53FBP_0101 1112423 1119610 CS 有 啊 其实 我们 有 读过 现在 的 是 叫 p. fifty three 它 其实 是 跟 (嗯)
+NI53FBP_0101 1119610 1122290 CS breast cancer 比较 有 关系
+NI53FBP_0101 1122370 1125180 CS 但是 真正 的 那个 mechanism
+NI53FBP_0101 1125180 1154331 CS 我们 其实 都 很 不清楚 因为 (呃) 要 很 深入 的 了解 这 一科 我们 才 读得 读 才 读 得 懂 嘛 papers 现在 是 老师 就 讲 这个 是 cancer marker 就是 所谓 的 如果 它 出现 了 问题 你 得 cancer 的 机率 会 比较 高 等等 还是 你得 cancer 的 时候 你 会 发现 这 一 这 一 段 d. n. a. 它所 (嗯) express 啊 的 那个 次数 会 比较 高 还是 类似 的 现在 我们 只是 读到 这样 对
+NI53FBP_0101 1166910 1180340 CS asia 吗 哦 很 可能 我 觉得 很 可能 一方面 是 (嗯) 豆腐 黄豆 黄豆 里面 其实 有 一种 成分 我 也 不懂 是 什么 成分 但是 他们 觉得 那 一成分 也 发现 那个 成分 对
+NI53FBP_0101 1180340 1185605 CS ah lowering the the risk of getting cancer 会 有 一点 帮助
+NI53FBP_0101 1185605 1192883 ZH 对 所以 现在 就 叫你 喝 豆奶 啦 吃 豆腐 等等 啊
+NI53FBP_0101 1201493 1212655 CS 啊 它是 其实 也 不算 是 (嗯) asian people 还是 (嗯) 就是 western people because western people they got habit of drinking milk
+NI53FBP_0101 1212655 1216445 CS asian people after 他们 断奶 就 几乎 没有 碰到 milk
+NI53FBP_0101 1216445 1219345 CS 几乎 that's why (erm)
+NI53FBP_0101 1219345 1223165 CS when you drink milk right 其实 它 里面 有 一种 叫 啊 lactase
+NI53FBP_0101 1223165 1228315 CS 的东 eh 不是 lactase 他有lactose 就是 一种 糖分
+NI53FBP_0101 1228315 1233715 CS 然后 我们 身体 里面 有 一种 叫 lactase 就是 它是 act on 这种 糖分 breakdown this type of 糖分
+NI53FBP_0101 1233715 1239245 ZH 不过 你 你 在 (嗯) 断奶 之后 太久 没有 碰到 的话
+NI53FBP_0101 1239245 1243865 CS 你 身体 里面 的 那个 lactase 成 lactase ah amount 它 其实 会 下降
+NI53FBP_0101 1243865 1252805 CS 会 降 因为 他 已经 不 需要 它了 嘛 所以 它 就会 下降 然后 你 突然 喝 牛奶 的 时候 你的 那个 lactose 成分 太高 你 你 身体 跟本 就 应付 不了
+NI53FBP_0101 1252805 1258845 CS 但是 啊 for western people because they drink (erm) lac ah they drink milk
+NI53FBP_0101 1258845 1266065 EN almost everyday so their lactase (erm) amount right concentration doesn't drop ah
+NI53FBP_0101 1266065 1269675 CS 所以 他们 就 没有 所谓 的 ah lactose intolerance
+NI53FBP_0101 1269675 1278175 CS 我们 我们 就 比较 常 会 拿 到 因为 我们 断奶 然后 在 (嗯) 就是 (嗯) 豆奶 or even goat milk
+NI53FBP_0101 1278175 1280515 CS 它 里面 其实 没有 lactase 这个 成分
+NI53FBP_0101 1280515 1305432 CS lactase 这个 成分 其实 是 (嗯) (嗯) 牛 啊 牛 牛奶 比较 多 羊奶 含量 很少 它 它 多 的 是 另外 一种 但是 我们 没有 去 研究 但 它多 的 比较 少 就是 lactase 成分 会 比较 少 然后 豆奶 呢 它是 几乎 没有 几乎 没有 应该 算是 没有 还是 几乎 没有 吧 所以 我们 喝 下去 的 时候 我们 不会 有 反应 啊
+NI53FBP_0101 1305432 1308395 ZH 对 对 对
+NI53FBP_0101 1308395 1311065 CS 那个 就叫 啊 lactase intolerance
+NI53FBP_0101 1311435 1315595 CS 因为 我们 肠胃 里面 不够 lactose ah 不够 lactase
+NI53FBP_0101 1315595 1326070 CS 跟它 breakdown the lactose in the milk  ah
+NI53FBP_0101 1326070 1330535 CS yogurt 也 算是 但是 yogurt 其实 是 啊 活 细菌
+NI53FBP_0101 1330535 1347370 CS 它是 有益 的 活 细菌 啊 yah i think is ah yogurt is lactamase or something like that 好像 类似 这样的 它 其实 是 (嗯) 哦 lactobacteria
+NI53FBP_0101 1347370 1348645 CS 它 叫 lactobacteria
+NI53FBP_0101 1348645 1350655 ZH 同样也是(erm)
+NI53FBP_0101 1350655 1356145 CS 跟 lactase lactose 那边 有关 的 就是 跟 milk 有关 的 所以 它 叫 lac lactase
+NI53FBP_0101 1356145 1371631 CS lactobacteria 他 其实 在 (嗯) 身体 里 面 对吗 他 在 肠道 其实 它 line with (erm) good bacteria that will help break down of ah of food or fats or something like that
+NI53FBP_0101 1371631 1382595 CS 所以 就 讲 吃了 对 我们 肠胃 会 比较 好 啊 对 啊 yakult yakult ah
+NI53FBP_0101 1382595 1385845 CS yakult is one 然后 我们 有 不同 的 yogurt bah
+NI53FBP_0101 1385845 1388157 ZH 对
+NI53FBP_0101 1397069 1407135 ZH (呃) 平常 吗 就 真的 是 在 看 电视 啊 就
+NI53FBP_0101 1407135 1410455 CS 看 电影 看 discovery 又 看 那些 东西
+NI53FBP_0101 1410455 1418265 ZH 然后 有时 也 看 一下 戏剧 台 等等 的 啦 对 但是 很 好看 啊 啊
+NI53FBP_0101 1418265 1422085 CS national geographic 也 好看 然后 啊 history channel 也 不错
+NI53FBP_0101 1425802 1427215 ZH 对 他
+NI53FBP_0101 1427215 1431020 CS 就 看的 不只 是 science related 的 啦 就 比如 说
+NI53FBP_0101 1431020 1444975 CS 啊 一些 关于 history 很久 以前 的 history 那种 东西 我 也 觉得 蛮 不错 的 新加坡 比较 少 有 是 有 但 比较 少 他们 是 著重 于 (嗯)
+NI53FBP_0101 1444975 1449305 CS engineering construction 好像 他们 怎么 build 那个 啊
+NI53FBP_0101 1449305 1458825 CS 啊 摩天轮 新加坡 大 的 摩天轮 对 singpore flyer 它 哦 其实 蛮 就 以前 了 所以 我 不 太记
+NI53FBP_0101 1458825 1464005 CS 记得 但是 我 觉得 很 interesting 的 一点 就是 singapore flyer 其实 (呃)
+NI53FBP_0101 1464005 1465545 ZH 普通 的 摩天轮 嘛
+NI53FBP_0101 1465545 1468035 CS 它是 用 (嗯) steel to support
+NI53FBP_0101 1468035 1485866 EN steel to support the (erm) the the wheel and the pivot they are actually using steel to support but because singapore flyer is so big the circle is so big they actually couldn't use (erm) steel because it will be too heavy so the whole thing will eventually crash down so what they do is actually they use steel wire
+NI53FBP_0101 1485866 1495887 CS not not not pipe piping 它其 实是 绑 wire very very strong steel wire to hold the ah circular thing in place
+NI53FBP_0101 1495887 1501202 EN ah something like that something like that so i think this is very interesting lah yah
+NI53FBP_0101 1503678 1508046 CS london flyer 其实 我 不 清楚 耶
+NI53FBP_0101 1509728 1522334 CS 但是 它 可能 它 可能 大 但是 没有 新加坡 的 大 吧 对 因为 singapore flyer singapore flyer is (er) it has the biggest diameter if i am not wrong ya
+NI53FBP_0101 1523013 1528571 EN no i haven't sat on the flyer yet it is very expensive eh 
+NI53FBP_0101 1530444 1535547 EN seventy i thought thirty thirty thirty yah
+NI53FBP_0101 1538306 1540288 EN fourty-five minutes
+NI53FBP_0101 1544589 1547281 ZH 你是 说 那个
+NI53FBP_0101 1550874 1551575 ZH 啊
+NI53FBP_0101 1557753 1576954 CS three hundred and thirty 没有 吧 我 因为 那个 不是 吧 那 singapore flyer 那 那个 是 在 圣淘沙 的 它是 上 去 然后 这样 转 的 吧
+NI53FBP_0101 1576954 1580799 ZH 啊
+NI53FBP_0101 1585549 1587140 ZH 啊
+NI53FBP_0101 1587140 1591220 CS f. one 没有 没有 就是 f. one 是 本地 节目 介绍 的
+NI53FBP_0101 1591220 1594380 ZH 对 (嗯)
+NI53FBP_0101 1594380 1596900 CS 那 时候 就 挺 轰动 的 因为 第一次 是 night race
+NI53FBP_0101 1596900 1599430 ZH 然后 啊 就
+NI53FBP_0101 1599430 1605150 CS 讲 about 那个 lights ah 什么 特别 的 lights lah non-glaring ah 等等的
+NI53FBP_0101 1605150 1620000 CS 但是 我 记得 是 哦 the big the big platform the biggest platform in all f. one (erm) (erm) race 就是 其他 国家 比 起来 都 没有 我们 的 那个 最长 的 platform 大
+NI53FBP_0101 1627125 1629180 ZH 好像 是 那个
+NI53FBP_0101 1629180 1630520 CS ah padang 那边 吗
+NI53FBP_0101 1630520 1641240 ZH 还是 哪里 就是 就是 很大 的 的 的 很长 可以 做 很多 人 的 那个 对
+NI53FBP_0101 1641240 1645300 CS 啊 对 应该 是 那个 ching-gay 那时 他们 他们 就 坐 那边
+NI53FBP_0101 1645300 1646610 ZH 对
+NI53FBP_0101 1646610 1648890 CS ching-gay 是 我们 啊 装艺大游行
+NI53FBP_0101 1650135 1675956 CS 对 每年 (嗯) 新年 过后 就是 啊 chinese new year 农历 新年 那 一段 期间 都有 所谓 的 妆艺 大游行 一 开始 他们 是 本来 是 叫 啊 是 让 就是 celebrate new year 以 这种 以 这种 想法 开始 的 但是 到了 现在 就是 (嗯) 那 一段 时间 就是 每 一个 (嗯) 人
+NI53FBP_0101 1675956 1690880 CS it treat it as a festival and they actually like performance from all over the world to come and join is actually a parada lah they called it chingay parade 就是 说 从 一边 走到 一边 有歌 他们 会 啊 表演 然后 有 花车 等等 的 对
+NI53FBP_0101 1696705 1716549 EN (erm) this year they have two days actually this year chingay is two days but ah television will only show one day then live broadcast i think is probably around two hours two to three hours but actually they prepare they take more time than that lah yah definitely
+NI53FBP_0101 1724123 1726045 EN (erm)
+NI53FBP_0101 1726045 1727355 CS handicraft 吧 手工
+NI53FBP_0101 1727355 1739985 CS 哦 就做 啊 十字绣 啦 等等 的 oh thank you 
+NI53FBP_0101 1739985 1743545 CS 啊 十字绣 其实 很 简单 就是 cross 而已 嘛
+NI53FBP_0101 1743545 1748435 ZH 然后 啊 现在 就有 那种 布 啊 所谓 的布
+NI53FBP_0101 1748435 1751285 CS 啊 它 上面 其实 有 一点 像 graph paper 类似 的
+NI53FBP_0101 1751285 1753995 ZH 但是 他的 每 一个 点 嘛
+NI53FBP_0101 1753995 1756525 CS 就是 graph paper 都 都是 dots
+NI53FBP_0101 1756525 1772537 EN so you actually have to sew crosses so you actually have a big picture then if you go and buy from outside they actually got this (erm) what you call that ah blue print ah of the of the of the picture that you intend to sew
+NI53FBP_0101 1772537 1791646 EN or intend to cross stitch then they have (erm) different marking for example this whole row is question mark question mark question mark then you look at the legend the question mark means what colour ah-huh so they actually give you the whole colour scheme and the amount ah how big your picture will be ah then you just get the colour
+NI53FBP_0101 1791646 1806095 CS then you just start doing lor just cross 然后 (嗯) 刚 开始 的 时候 有些 人 会 cross cross cross cross ah actually that is not the right way you waste a lot of thread and i can't say that is not the right way but is not the prefered way because you waste a lot of thread and then
+NI53FBP_0101 1806095 1812745 CS 你的 cross 出来 right 有些 会是 left over right 有些 是 right over left 就很 不 neat 很 不好 看
+NI53FBP_0101 1812745 1832094 CS 其实 你 应该 做 的 就是 啊 one stroke like you go in straight line lah so you go let's say you need ah a five ah five blue colour so you do five then you go back five so if you do it this way your crosses are all in the nice sequence and you won't miss out any stitches
+NI53FBP_0101 1832094 1832810 EN ah 
+NI53FBP_0101 1835701 1853701 EN (erm) yah depends on how big your picture is lah usually i do very small pictures those like probably around er how many c. m. probably eight by eight you know the eight c. m. by eight c. m. those small pictures just one picture ah
+NI53FBP_0101 1853701 1872062 EN ah no no no no no no cartoon characters and stuff like that ya like (erm) for example winnie the pooh you know those type ya is just small one fifteen c. m. by fifteen c. m.not those big gigantic one lah
+NI53FBP_0101 1872062 1880172 EN ah the framing is actually very expensive the framing is very expensive so usually i just do then i just keep 
+NI53FBP_0101 1882006 1897617 EN (erm) probably around five or six around there not not a lot lah because most of the time is the thread are not very cheap as well so some of them you need very little but you have to buy the whole bundle of thread then is very expensive
+NI53FBP_0101 1897617 1907855 EN so you don't do that much now lah it's expensive  oh my mum does that my mum does it ah i learnt from my mum
+NI53FBP_0101 1907855 1917739 EN yah yah i think she is  ah her cooking is very good is very good
+NI53FBP_0101 1918824 1940005 CS (呃) 都好 吧 就是 (呃) 她 会 煮 啊 (嗯) 中国菜 她 会 煮 啊 就是 (嗯) normal 家常菜 吧 应该 所谓 的 家常菜 没有 没有 福建 就 (呃)
+NI53FBP_0101 1940005 1942275 CS 五香 吗 ngor-hiang
+NI53FBP_0101 1942275 1952015 ZH 啊 她 做的 很 好吃 她 说是 就是 她 妈妈 教 她 的 就是 我 婆婆 教 她 的 对 啊 她是
+NI53FBP_0101 1952015 1955155 CS 五香 粉 不过 我们 做的 是 ngor-hiang
+NI53FBP_0101 1955155 1968705 ZH 就是 它是 (呃) 不是 不是 不是 我 是 讲 那个 肉 啦 然后 啊 有 猪肉 有 啊 虾肉
+NI53FBP_0101 1968705 1970845 CS 然后 有些 water chestnut
+NI53FBP_0101 1972170 1982285 CS (呃) 马蹄 吗 water chestnut 马蹄 然后 打碎 了 倒 在 一起 打碎 了 然后 你 把 把 它 放在 那个
+NI53FBP_0101 1982285 1985715 EN fu-zhok bean curd skin fu-zhok skin
+NI53FBP_0101 1985715 1989805 ZH 然后 你 跟他 卷 起来 然后 拿去 啊 炸
+NI53FBP_0101 1989805 1991005 CS steam 了 然后 炸
+NI53FBP_0101 1991005 2004221 ZH 啊  哦 我 不会 我 不会 煮 因为 我 妈妈 每次 讲 你 不要 乱动 我的 东西 然后 就 把 我 赶出 厨房 了
+NI53FBP_0101 2005665 2013695 EN i should i should but the problem is whenever you go into the kitchen ai you go out you go out don't touch my things how to practise
+NI53FBP_0101 2016636 2029003 EN  yah i think but i think is very troublesome ah the washing up is very very troublesome yah yes
+NI53FBP_0101 2029003 2041962 EN the but preparation is so much more fun than washing  but i think is not clean leh you have to hand wash then is cleaner what
+NI53FBP_0101 2044010 2051445 EN yah yah yah that means you soak you soaked already after that then you wash yah
+NI53FBP_0101 2054701 2065539 EN er hot water warm water yah yah warm water yah yah get rid of the oil lah yah
+NI53FBP_0101 2066632 2070249 EN yah correct we do that lah we do that yah
+NI53FBP_0101 2077224 2082547 EN oh my god that is so horrible
+NI53FBP_0101 2085488 2095855 CS wah that is horrible that is horrible that's why singapore is better ah 不会 就 这样 洗
+NI53FBP_0101 2095855 2098825 CS 我 觉得 带 gloves 很像 抓 不稳
+NI53FBP_0101 2100845 2105035 CS 对 对 然后 你 又 不 知道 它的 油 到底 就是 get rid 了 没有
+NI53FBP_0101 2105035 2117825 CS 啊 就是 去 掉了 没有 对 other interest ah
+NI53FBP_0101 2117825 2119990 CS 其实 真的 没有 很多 interest eh 
+NI53FBP_0101 2119990 2133943 CS 真的 多数 时间 就是 真的 是 在 看 电视 而已 耶 有 有 对 a lot of channels  a lot of channels
+NI53FBP_0101 2136044 2140973 EN yah i am a happy girl i am 
+NI53FBP_0101 2145360 2149307 ZH (嗯) 会 吧 我 觉得 会
+NI53FBP_0101 2151306 2154163 EN oh seven modules
+NI53FBP_0101 2154163 2166780 CS seven six or seven i think 对 four years four years
+NI53FBP_0101 2166780 2168670 CS 但是 我们的 a. u. 不是 很多
+NI53FBP_0101 2168670 2172050 ZH 就 我 好像 只 今
+NI53FBP_0101 2172050 2173850 CS 这个 sem 十九 个 吗
+NI53FBP_0101 2173850 2177350 ZH 啊
+NI53FBP_0101 2177350 2180990 CS 因为 我们 好像 lab 就 算是 two a. u. 而已
+NI53FBP_0101 2180990 2197885 ZH 啊 一百五十四 吧 四年 吧 我 觉得 我 打 差不多 在 那边 对
+NI53FBP_0101 2197885 2202635 CS 那个 range 在 那边 我们 很多 core 很少 (呃) elective
+NI53FBP_0101 2202635 2204805 ZH 对
+NI53FBP_0101 2204805 2206665 CS 我们 core 算 算多 了
+NI53FBP_0101 2213440 2215492 ZH 开车 吗
+NI53FBP_0101 2216401 2222053 ZH  （呃）
+NI53FBP_0101 2227878 2230055 EN clinic
+NI53FBP_0101 2230055 2233455 CS 我们 是 有 那些 (嗯) clinic 但是
+NI53FBP_0101 2233455 2235095 ZH 其实
+NI53FBP_0101 2235095 2239335 CS 都是 算是 private 然后 政府 给 license 给 他们
+NI53FBP_0101 2239895 2242670 CS 我们 没有 一个 就是 (呃) well known clinic for
+NI53FBP_0101 2242670 2246265 CS chinese medicine 没有 对
+NI53FBP_0101 2253848 2279437 CS (嗯) 这 在 新加坡 吗 coatful* bah coatful* 的 就是 所谓 的 就是 燥热 啦 然后 啊 咳嗽 啦 等等 才 才 到 中药 吧 就 我们 新加坡 应该 算是 思想 上 应该 算是 比较 偏 西医
+NI53FBP_0101 2279437 2301273 ZH 对 到 目前 还是 这样 虽然 说 有些 人 就会 (嗯) 开始 著重 中药 啦 中医 啦 等等 但是 我们 多数 还是 偏 西医 然后 可能 中西 合并 啦 他们 所谓 的 中西 合并 就是 看 西医 的 同时 可能 也 看 一下 中医 调 一下 身子 但是
+NI53FBP_0101 2301273 2310398 ZH 就 仅 此 这样 吧 (嗯) 没有 没有 没有 对
+NI53FBP_0101 2313160 2330992 ZH  嗯 对 吧 对  但 中医 我 觉得 挺 厉害 的 吧 就是 (呃) 他们 是 什么 啊 关文问切 吗
+NI53FBP_0101 2330992 2343608 ZH 对 对 我 觉得 就 凭 这 五点 就 可以 就是 看得 出 还是 就 诊断 得出 我 觉得 挺 厉害 的
+NI53FBP_0101 2343608 2348985 ZH 嗯
+NI53FBP_0101 2348985 2354575 CS 我们 这里 有 嘛 s. b. s. 就是 (嗯) 我是 bioscience 他们 所谓 的 biomedical science
+NI53FBP_0101 2354575 2356596 ZH 他们 其实 都有 读 中医 的
+NI53FBP_0101 2360543 2367155 ZH 啊 不 一定 就是 他们 有学 (erm) 把脉 啦 穴道 啦 等等 的 对
+NI53FBP_0101 2367155 2369685 CS 但 那个 就要 五年 是 double degree
+NI53FBP_0101 2372562 2388022 CS (erm) for mine is four years bioscience is four years 那个 是 啊 (嗯) biomedical science 那个 是 五年 double degree one for ah chinese medicine and one for (erm) bioscience related
+NI53FBP_0101 2388022 2395697 ZH 然后 他们 就 三年 在 新加坡 两年 他们 会 到 北大 那边
+NI53FBP_0101 2404760 2408005 ZH 我 觉得 是 吧 但是 (嗯)

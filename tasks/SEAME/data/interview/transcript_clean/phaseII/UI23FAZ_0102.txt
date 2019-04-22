@@ -1,0 +1,174 @@
+UI23FAZ_0102 989 1561 ZH 啊
+UI23FAZ_0102 6469 7446 EN okay
+UI23FAZ_0102 7446 10364 CS 应该 是 lecturer 会 安排
+UI23FAZ_0102 11065 15868 ZH 啊 因为 我 我 没有 去 过 那边 我 不大 清楚 那边 的 东西
+UI23FAZ_0102 15868 25634 CS 啊 要 book 了 星期三 他 就 叫 我 去 check 那个 airline ah air ticket ah ah 几 多 钱 怎样 全部
+UI23FAZ_0102 27742 31993 CS ah conference 是 november 三号 到 五号
+UI23FAZ_0102 31993 38052 CS 啊 就 是 咯 如果 last minute 的 话 会 比较 贵
+UI23FAZ_0102 41714 45966 ZH 呃 应该 是 有 
+UI23FAZ_0102 46829 51500 CS 因为 飞 去 那边 已经 more than 十个 钟~ 钟头 有没有
+UI23FAZ_0102 53439 59589 CS so 如果 这样 的 话 就 extend loh 自己 extend 一点
+UI23FAZ_0102 64359 65502 ZH 嗯 对
+UI23FAZ_0102 67112 68930 ZH 嗯 对
+UI23FAZ_0102 84511 85492 EN internet
+UI23FAZ_0102 85492 88130 CS 还有 什么 entertainment ah
+UI23FAZ_0102 88130 93479 CS (er) youtube loh youtube 我 不 不 大 喜欢 friendster
+UI23FAZ_0102 93479 105795 CS 因为 啊 friendster 如果 你 你 没有 啊 latest 的 news ah人家 就 neglect 你 了 的 then 你 整天 都要 update 你 的 自己 的 facebook ah
+UI23FAZ_0102 105795 108334 CS then youtube 比较 好 咯
+UI23FAZ_0102 110555 120990 CS hah 对 youtube 看 video 好像 啊 最近 那个 哎哟 我 不知道 他 不是 不是 王力宏
+UI23FAZ_0102 120990 128187 CS 他 有 一个 concert then 过后 他 叫 westlife 过来 啊 so 你 就 去 youtube 找 咯
+UI23FAZ_0102 128187 134339 CS ah then 有时 有 那种 新秀 大赛 还是 什么 啊 你 miss 掉
+UI23FAZ_0102 134339 139210 CS 在 astro 你 看 不 到 了 啊 so 你 去 youtube 找 应该 找 得 到 的
+UI23FAZ_0102 144416 148738 ZH  做么 嘞 虽然 虽然
+UI23FAZ_0102 150062 155088 ZH 不是 虽然 我 不 不 大 会 讲 但是 我 会 听
+UI23FAZ_0102 155088 160202 CS 所以 啊 then 王力宏 他 的 slang 也很 okay 的 嘛
+UI23FAZ_0102 160202 164299 CS ah hah then 也很 帅 一下 可以 看 啦
+UI23FAZ_0102 168180 171522 CS 我 没有 favorite artist 的
+UI23FAZ_0102 173284 179007 CS 也 没 有 讲 比较 欣赏 谁 就是 有 什么 latest news 我 要 知道
+UI23FAZ_0102 179007 185296 ZH 我 最大 的 目的 就是 如果 朋友 讲 的 时候 我 也 知道 他们 在 讲 谁
+UI23FAZ_0102 185296 194684 CS so 我 不要 啊 好像 不知道 啊 在 啊 在 那个 entertainment field ah谁 是 谁 这样 我 要 update loh
+UI23FAZ_0102 194684 197251 CS so 人家 讲 hah 人家 make joke
+UI23FAZ_0102 197251 206473 CS 好像 最近 人家 讲 啊 en 因为 我 的 名 是 kim mah then 他 他们 讲 哦 你 就 好像 (呃) 你 是 malaysia 的 kim kardashian
+UI23FAZ_0102 206473 208758 CS then 我 就 不知道 谁 是 kim kardashian
+UI23FAZ_0102 208758 216001 CS then 过后 我 就 去 google 才 知道 哦 她 是 那边 的 最近 最 hot 的 celebrity
+UI23FAZ_0102 217321 220060 CS after angelina jolie 就 是 她 了
+UI23FAZ_0102 220060 222070 ZH 因为 她 的 她 的
+UI23FAZ_0102 222070 226712 CS 没有 没有 她 是 asian mix 跟 啊 western 的
+UI23FAZ_0102 226712 230743 CS then 过后 她 那边 最 hot 的 celebrity 因为 她 的 身材
+UI23FAZ_0102 230743 236289 CS then eh angelina jolie 的 身材 也 不 不 比 她 所以 啊
+UI23FAZ_0102 236673 240498 CS 啊 啊 啊 你 去 google kim kardashian 看
+UI23FAZ_0102 240498 245053 CS 好像 那种 puppet ah 要 断 了 的
+UI23FAZ_0102 249122 256253 ZH 啊 对 咯 但是 如果 人家 讲 的 时候 你 没有 去 找 你 就 不知道 他 讲 谁 了 吗
+UI23FAZ_0102 258027 266456 CS 不是 你 type 她 的 名 你 就 可以 得 到 了 是 kim kardashian k. a. r. d. a. s. i. a. n. something like that
+UI23FAZ_0102 268430 279182 CS 诶 我 也 不大 清楚 我 是 browse through 这样 罢了 at least 我 知道 哦 做么 他们 他们 会 讲 他 因为 她 是 比较 hot 过 angelina jolie
+UI23FAZ_0102 288658 293155 EN news ah business news loh
+UI23FAZ_0102 293155 296739 CS 好像 啊 politic news 也不错
+UI23FAZ_0102 303482 307326 EN big business going to happen ah ah
+UI23FAZ_0102 307326 313792 CS 听说 好像 啊 intel 他们 不大 要 在 啊 penang 发展 了
+UI23FAZ_0102 313792 318650 CS 啊 他们 没有 请人 进去 了 啊 for 一年 了
+UI23FAZ_0102 318927 324732 CS then 过后 因为 啊 有 几个 reason why 他们 不要 在 malaysia
+UI23FAZ_0102 324732 329404 CS 第一个 就是 因为 我们 有 sembahyang ah
+UI23FAZ_0102 329404 332419 CS rehat 啊 星期五 两个 钟头
+UI23FAZ_0102 332419 338013 CS so 他们 讲 已经 waste hah waste 很多 money 跟 时间 了
+UI23FAZ_0102 338013 345085 CS then second 东西 就是 就是 我们 malaysia 的 人 啊 没有 去 真正 的 做工
+UI23FAZ_0102 345866 347826 CS 我们 啊 getting lazy
+UI23FAZ_0102 348680 353746 CS then ah so 他们 要 去 啊 vietnam 了
+UI23FAZ_0102 353746 358153 CS 因为 vietnam 现在 全部 他们 的 second language 是 english
+UI23FAZ_0102 358153 362388 CS 他们 有 third 的 language which is advantage 他们 会 french
+UI23FAZ_0102 362388 366927 CS then 他们 是 啊 没有 那种 sembahyang 什么 的 so
+UI23FAZ_0102 366927 371614 CS then 他们 的 生活 也 不好 所以 他们 做工 真的 很 fight 的
+UI23FAZ_0102 378108 383585 ZH 现在 如果 你 去 买 衣服 全部 啊 牌 他们 是 写 啊
+UI23FAZ_0102 383585 386245 CS 写 made in china 人家 会 accept
+UI23FAZ_0102 386245 390750 CS 现在 你 讲 made in china 他们 讲 是 便宜 的 货
+UI23FAZ_0102 390750 397756 CS so 他们 就 不要 made in china 了 他们 就 现在 made in vietnam ah made in cambodia ah
+UI23FAZ_0102 398648 405413 CS 如果 你 去 啊 你 去 买 levi's ah 那 那种 banana republic 的 衣服 全部 是 made in cambodia 了
+UI23FAZ_0102 407632 410878 CS 哈 对 chi~ china 不 便宜 了
+UI23FAZ_0102 413123 420144 CS 啊 对 咯 所以 这个 是 一个 啊 大 的 news 在 business world loh
+UI23FAZ_0102 429874 432981 CS telecom 的 公司
+UI23FAZ_0102 435628 439163 ZH 嗯它们 的 服务 不好
+UI23FAZ_0102 440299 445281 CS 因 (呃) 因为 我有自己 train (er) i. p. v. six 的 training
+UI23FAZ_0102 445281 455603 CS then ah 我们 有 去 跟 maxis telecom 讲 okay 其实 全部 人 啊 有 laptop 有 desktop 现在 handphone 也需要 i. p. 了
+UI23FAZ_0102 455603 459844 CS 在 日本 他们 的 refrigerator 也是 放 i. p. 了
+UI23FAZ_0102 459844 471497 CS 他们 在 工作 那边 他们 忘记 关 了 air-con 他们 可以 在 工作 那边 按 那个 air-con 自己 会 在 在 家里 自己 会 啊 关掉
+UI23FAZ_0102 471497 484744 CS okay so ah 但是 那个 啊 telecommunication 全部 的 啊 public ah sector 不要 collaborate 跟 i. p. v. six
+UI23FAZ_0102 484744 488603 CS 因为 他们 没有 得 到 money mah
+UI23FAZ_0102 489383 494969 CS 现在 我们 streamy 我们 pay ah 八 十八 十八 块 啊 per month
+UI23FAZ_0102 494969 500734 CS then ah 我们 可以 我们 要 pay 才 可以 用 嘛
+UI23FAZ_0102 500734 508657 CS 如果 有 i. p. v. six 的 话 too much i. o. 了 so 就 不用 pay 了 嘛 so 他们 earn 不到money so 他们 不要 collaborate
+UI23FAZ_0102 508657 514919 CS then 还有 一个 东西 我们 的 streamy 比 很多 很多 人 比较 啊 slow
+UI23FAZ_0102 515626 521618 CS even 我们 用 那种 broadband 什么 啊 啊 比 比 很多 人 比较 slow
+UI23FAZ_0102 521618 526929 CS en so 他们 啊 we are paying something that we don't deserve of ah
+UI23FAZ_0102 526929 530369 CS so 我们 他们 的 服务 不好 咯 这样
+UI23FAZ_0102 533184 541576 CS en我们 就 make it as a mandate loh 就是 compulsory 要 做 的 东西 government 给 pressure loh
+UI23FAZ_0102 541576 546842 CS 但是 telecom telecommunication 很多 是 他们 individual 的
+UI23FAZ_0102 546842 550938 CS so 如果 他们 不要 跟 government collaborate 也 可以 的
+UI23FAZ_0102 550938 559707 CS 他们 跟 government 讲 okay loh 你 要 我 我 我 给 i. p. v. six 我 不要 啊 我 i. p. v. four 也 不用 给 咯
+UI23FAZ_0102 559707 563451 CS so 很多 user 就 没有 streamy 了 咯 对 嘛
+UI23FAZ_0102 568694 572064 CS 因为 太多 了 他们 不能 charge
+UI23FAZ_0102 573895 579858 CS 啊 现在 我们 大概 有 four million i. i. p. v. four addresses
+UI23FAZ_0102 579858 586666 CS 但是 two million 是 啊 located ah for research ah then 不能 动 到 的
+UI23FAZ_0102 586666 588788 CS so 我们 剩下 两个 million
+UI23FAZ_0102 588788 596203 CS then 两 那个 两个 million 还 under control 他们 每 一个 i. p. distribute to house home user 他们 可以 charge
+UI23FAZ_0102 596203 602544 CS 但是 如果 i. p. v. six 的 话 是 uncountable number
+UI23FAZ_0102 602544 606139 CS 啊 是 大概 three point two times ten power thirty two
+UI23FAZ_0102 606139 610345 CS so 就 他们 不能 control 了 不能 charge loh
+UI23FAZ_0102 610345 614394 CS en 如果 是 这么 多 的 话 怎样 distribute leh
+UI23FAZ_0102 614394 620089 CS ah maxis 拿一个 block ah telecom 拿 一个 block 一定 会 乱 的 这样
+UI23FAZ_0102 625876 628473 ZH 嗯 (呃) 有时 会 咯
+UI23FAZ_0102 638770 646584 CS mobile phone i. phone ah i. phone 有 新 的 i. phone 了 但是 在 u. s. 拿 进来 要 自己 crack
+UI23FAZ_0102 649791 651764 CS 有 i. phone four 了 hah 是
+UI23FAZ_0102 653842 657914 CS 因为 你 要 在 那边 u. s. 叫 你 朋友 买 一个 sim card
+UI23FAZ_0102 657914 661150 ZH 大概 这边 的 啊 那边 的 十块
+UI23FAZ_0102 661150 663966 ZH 我们 这边 的 三十 块 这样
+UI23FAZ_0102 663966 669028 CS then 你 ship 过来了 第一次 你要 用 他们的 a. t. and t. 的 card loh
+UI23FAZ_0102 669028 676503 CS and 过后 才 可以 crack crack 了 你才 放 我们 local 的 啊 digi maxis 的 card
+UI23FAZ_0102 678101 686292 CS 啊 就是 这样 麻烦 好像 我的 啊 handphone 这样 我是 叫 我 朋友 在 u. s. 拿 回来 的 so ah 不
+UI23FAZ_0102 686292 689516 CS 如果 在 这里 讲 是不是 original 了 咯
+UI23FAZ_0102 689516 691124 CS so 没有 warranty 的
+UI23FAZ_0102 691124 701581 CS then 我有 一次 accidentally 去 update 到 就要 整个 东西 restart ah 叫 朋友 ship 那个 card 来 啊 才可以 用 会
+UI23FAZ_0102 703363 706768 CS 因为 在 这里 买 要 tied to contract
+UI23FAZ_0102 706768 710751 CS 我 通常 call ah 一个 月 没有 到 三十 块
+UI23FAZ_0102 712749 721116 CS so 如果 你 tied to contract 你 一个 月 at least 要 call 一百五十块 so 对我 来说 是 啊 没有 用 咯
+UI23FAZ_0102 727210 735360 CS digi 有 那个 contract 的 时候 已经 很慢 了 啊 人家 全部 都 用到 不知道 去 那里了
+UI23FAZ_0102 738572 743021 CS i. phone so far 我 experience 三个 东西 好用
+UI23FAZ_0102 743021 746763 CS 第一个 我 跌它 跌倒 那个 i. phone 两次了
+UI23FAZ_0102 749401 755910 CS 我 跑 跑 跑了 就 跌 两次 then 它 还好 没有 东西 破掉 啊 还 可以 用
+UI23FAZ_0102 759218 760776 CS 我 不用 restart
+UI23FAZ_0102 760776 768238 CS last time 我~ 我用 那个 dopod ah 每 一次 啊 too many message too many email ah 你 就要 restart了
+UI23FAZ_0102 768238 777883 CS so 很 麻烦 这个 i. phone 我 不要 讲 我 我 accidentally update 还是 什么 啦 它 跌倒了 还是 可以 用 不用restart 喔
+UI23FAZ_0102 777883 782394 CS ah then 第三个 东西 就是 它的 touch screen 真的 很 sensitive
+UI23FAZ_0102 782394 785974 CS 我有 去 try 过 那个 nexus one 还是 什么 啊
+UI23FAZ_0102 785974 794187 CS 它 每一次 你 touch ah 你就 好像 要 放 你的 energy 进去 这样 啊 你的 pressure 要按 大大力 才 可以
+UI23FAZ_0102 794187 798926 CS ah then 如果 i. phone 的话 就 不用 按 大大力 很 sensitive loh
+UI23FAZ_0102 798926 801288 CS 它 可以 detect 到
+UI23FAZ_0102 804630 809906 CS ah android 但是 in term of touch screen 它 interface 是很 好看
+UI23FAZ_0102 809906 815987 CS 但是 in term of touch screen ah 如果 你去 compare 跟 i. phone ah 真的 差 很远
+UI23FAZ_0102 818049 825721 CS in term of application en 应该 是 okay 的 但是 i. phone 有 很多 人家 因为 trend mah
+UI23FAZ_0102 825721 830268 CS so 很多人 去 upload 那种 free application 给你 try so
+UI23FAZ_0102 830268 835157 CS 有 很多 东西 是 可以 拿到 的 咯 then 它 可以 support concurrently
+UI23FAZ_0102 835157 839196 CS 那个 android 如果 concurrently 的话 它会 collapse
+UI23FAZ_0102 839196 843650 CS ah 它 不能 support 多过 五个 东西 at the same time
+UI23FAZ_0102 846921 854295 CS 可以 啊 我的 可以 啊 但是 很多 magazine 没有 recommend i. phone four
+UI23FAZ_0102 854295 863140 CS 就是 这个 parallel 的 东西 咯 他们 讲 其实 它 i. phone three i. phone three g. s. 跟 i. phone four 是 差不多 一样
+UI23FAZ_0102 869235 871934 CS upgrade ah 如果 人家 给我 free
+UI23FAZ_0102 879396 886728 CS 我 买的 时候 是 大概 三千 多 因为 我 我是 拿 thirty two gig 的
+UI23FAZ_0102 886728 892307 CS 啊 但是 诶 我 朋友 拿 回来 so 比较 便宜 咯
+UI23FAZ_0102 893705 896130 CS 如果 是 for apple 是 okay ah
+UI23FAZ_0102 896130 902577 CS 因为 thirty two gig ah 我 可以 放 很多 啊 video 进去 你 知道 吗
+UI23FAZ_0102 902577 908373 CS so ah 好像 有时候 你去 你 妈妈 叫你 去 dinner ah then
+UI23FAZ_0102 908373 920585 CS 你跟 那个 uncle auntie 都 啊 不能 讲话的 generation gap so 你就 拿 你的 i. phone 来看 movie ah 什么 啊 这样
+UI23FAZ_0102 932304 941126 CS 啊 有 啊 是 一个 problem 来 但是 对我 来说 我会 disipline loh 就是 有 用到 的 时候 我才 拿 咯
+UI23FAZ_0102 952210 961689 CS weekend ah normally ah 五点 一定 跑步 的咯 五点 五点半 去 跑步 咯
+UI23FAZ_0102 961689 970656 CS then weekend 我 住在 air-itam so 我会 去 air-itam dam如果 没有 的话 我会 去 linear park
+UI23FAZ_0102 971524 975392 CS linear park linear park 是 在 union school 的 后面
+UI23FAZ_0102 977203 979941 CS 学 karate 在 那边的
+UI23FAZ_0102 979941 990223 CS then en 最近 weekend ah weekend 我 不大 喜欢 出去 因为 parking 比较 贵 人 比较 多
+UI23FAZ_0102 991245 994537 CS 比较 喜欢 shopping when 没有 人 咯
+UI23FAZ_0102 994537 997407 CS ah so 我 shopping 是 会 weekday
+UI23FAZ_0102 997407 1003281 CS then weekend ah 通常 是 看戏 啊 在~ 在家 看戏
+UI23FAZ_0102 1003281 1006841 CS then 有时 啊 baking 这样 咯
+UI23FAZ_0102 1006841 1012363 CS 没有 什么 东西 做的 但是 早上 我要 去 啊 帮我 mommy lah
+UI23FAZ_0102 1015228 1026536 CS 啊 昨天 我有 去 啊 ponteng 我在 这里 到 大概 三点多 这样 我去 看 啊 piranha
+UI23FAZ_0102 1026536 1029612 CS 很 好看 should recommend 你
+UI23FAZ_0102 1031308 1036258 CS 我 最怕的 那个 scene ah 就是 有 一个人 拿 那个
+UI23FAZ_0102 1038821 1042564 CS 啊 很 好看 咯 piranha
+UI23FAZ_0102 1042564 1047226 ZH 啊 一个 钟头 四十五 分钟 是 吗 大概 这样
+UI23FAZ_0102 1047226 1051063 CS 啊 因为 它 它的 没有 ending 的
+UI23FAZ_0102 1051063 1053488 CS en 没有 solution 的
+UI23FAZ_0102 1055265 1059305 CS 啊 但是 应该 是 有 piranha two lah
+UI23FAZ_0102 1059305 1064172 CS en 那个 solution 是 either ah 要放 那个
+UI23FAZ_0102 1064549 1067363 CS 啊 那个 bomb 全部 在 下面 啊
+UI23FAZ_0102 1067363 1075648 CS 全部 bomb 死掉 去 还是 他们 会 拿 那个 water 全部 啊 so that fish without water cannot live
+UI23FAZ_0102 1078564 1085022 ZH 不能 啦 也是 会 吃人 的 喔 那个 鱼
+UI23FAZ_0102 1086781 1090855 CS 他们 还要 enjoy 他们的 summer break 的 喔
+UI23FAZ_0102 1090855 1099095 CS 噢 但是 这个 鱼 应~ 应该 给 他们 extinct 的 就 好像 dinosaur
+UI23FAZ_0102 1099095 1104406 CS 如果 真正 还有 dinosaur 的话 我们 不能 cater 它们
+UI23FAZ_0102 1118321 1121788 ZH 但是 很多 意外 可以 发生 咯
+UI23FAZ_0102 1145036 1148215 CS 因为 它们 是 endangered item
+UI23FAZ_0102 1148215 1152287 CS 其实 啊 它们 extinct 是 有 reason 的
+UI23FAZ_0102 1152287 1157636 CS 因为 god 知道 我们 跟 它们 是 不能 住在 一起 的
+UI23FAZ_0102 1163358 1167585 CS 有 啊 他有 他有 three d. 的 啊
+UI23FAZ_0102 1167585 1175997 CS 哈 其实 那个 啊 receptionist 问我 要 three d. 还是 要 普通的 then 我拿 普通 的 因为 我 以为 这个
+UI23FAZ_0102 1180356 1184706 CS hah hah low cost 的戏 啦 但是 它是 有three d. 的
+UI23FAZ_0102 1186493 1191317 CS 昨天 我是 在 啊 queensbay 看 then 他跟 我讲 有 three d.
+UI23FAZ_0102 1191317 1197322 CS 没有 没有 gurney 有 three d.但是 queensbay 跟我 讲 因为 我的 朋友 在 那边 做

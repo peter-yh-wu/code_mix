@@ -1,0 +1,188 @@
+UI26MAZ_0102 721 3072 CS bioinformatics so far 还
+UI26MAZ_0102 3072 10857 CS mmm okay lah 如果 比起 新加坡 新加坡 会 比较 因为 我 有 go through 新加坡 他们的 bioinformatics 的
+UI26MAZ_0102 10857 16042 CS like website 他们 会 他们 有 design 自己 的 software
+UI26MAZ_0102 16042 20215 CS 然后 他们 有 prep 他们 自己 的 drug
+UI26MAZ_0102 20215 25397 CS 会 比较 (嗯) active 一点 会 比较 active
+UI26MAZ_0102 26552 32859 CS 然后 so far 因为 他们 有 自己 的 database 然后 他们 website 很会 compare to 这里 会 比较 好 一点
+UI26MAZ_0102 32859 40567 CS 然后 我们 although 我们 有 我们的 database 可是 我们 还 没有 自己 的 develop 自己 的 software 出来
+UI26MAZ_0102 40567 48503 CS for 大 多数 会是 (嗯) 买了 放去 integrate 去 我们 的 lab computer 然后 就是 run through 罢了
+UI26MAZ_0102 48503 55766 CS 我们 有的 只是 database 然后 新加坡 他们 会 有 自己 的 software 然后 自己 的 database 他们 有 很多 database
+UI26MAZ_0102 55766 56952 EN mm
+UI26MAZ_0102 62239 65339 ZH mm 我会 觉得 我 会 出国 去 学习
+UI26MAZ_0102 65339 73708 CS 因为 at least 我们 看到 不同 的 国家 他们 做 做 东西 会 不同 做 东西 的 方式 是 不同 所以 学习 他们 的 东西
+UI26MAZ_0102 78516 83399 ZH (嗯) 如果 是 近的 就是 新加坡 咯 然后 新加坡
+UI26MAZ_0102 83399 88644 CS thailand 然后 如果 会 比较 远 的 是 u. s. san diego
+UI26MAZ_0102 88644 95409 CS san diego 那边 u. s. 那边 哦 日本 也 不错 日本 嗯
+UI26MAZ_0102 104402 113163 CS 啊 对 我们 在 还 improve 着 好像 database 现在 目前 的 database 应该 是 有 三千个 compound from malaysia 的 plant
+UI26MAZ_0102 113163 117134 CS 可是 还能 upgrade oh 还在 update 着
+UI26MAZ_0102 117134 122753 CS database 已经 是 可以 说是 已经 是 sta~ stabilize 了 已经 是 已经 develop 好了
+UI26MAZ_0102 130452 134204 CS bioinformatics ah 你 是 说
+UI26MAZ_0102 136513 142492 CS 难的 就是 drug design lor 因为 bioinformatics 有 很多 种 是 真的 很多 种
+UI26MAZ_0102 147617 149829 CS disease 方面 我 会 是
+UI26MAZ_0102 149829 156110 CS mm diabetes 是 第 第一个 我 要 读 的 咯 因为 我的 家 的 background 有 很多 人 中 diabetes
+UI26MAZ_0102 156110 160017 CS 然后 第二 是 cancer
+UI26MAZ_0102 160017 163501 CS 啊 这 两种 我会 maybe 会读
+UI26MAZ_0102 172337 176820 CS 啊 差不多 一样 差不多 一样 只是 你 要 它们 的 target 不同 你 要 找出
+UI26MAZ_0102 176820 184790 CS 最 重要 是 你要 找出 一 一个 很 strong 的 target 能 帮你 给 会 有 effect 在 你的 drug 里面
+UI26MAZ_0102 198125 201598 CS 对 对 对 apply 从 很多 的 不同 的 disease
+UI26MAZ_0102 201598 206591 CS 可是 现在 是 我们 在 做 improve 着 它的 approach 就是 他们的 software ah
+UI26MAZ_0102 206591 211699 CS 给它 more accuracy 比较 高 一点 然后 好像 现在 新加坡 他们 做的 是
+UI26MAZ_0102 211699 215443 CS 他们 能 做出 好像 try 看 它能 有 没有 side effect
+UI26MAZ_0102 216393 222889 CS 哦 现在 我们 做 我们 不能 看到 它有 没有 side effect 的 新加坡 他们 做 他们 会 predict 出 它 会 有 side effect
+UI26MAZ_0102 223510 233671 CS 这是 他们 他们 的 database 会 不同 就是 他们 有 他们 software 是 include 到 我们 身体 里面 的 protein 不同 的 protein
+UI26MAZ_0102 233671 240105 CS 就是 啊 给 我们 的 身体 会 有 metabolism 的 东西 这样 他们 会
+UI26MAZ_0102 240105 248045 CS ah protein like enzymes ah 他们 会 收进 一个 database 然后 这个 compound 会 screen through 这个 database 就是 我们 身体 的 protein 看 它 会
+UI26MAZ_0102 248045 255449 CS mm combine 跟 那 一个 protein 就是 我们 会 知道 它会 造成 哪 一个 side effect 就是 好像 如果 是说
+UI26MAZ_0102 255449 261161 CS (嗯) 它会 bind 跟 啊 (嗯) let's say 讲
+UI26MAZ_0102 262163 264909 CS ah cancer cancer 的 cell 好像 p. 多少
+UI26MAZ_0102 264909 272423 CS let's say 一个 一个 protein 它 会 啊 increase 它的 deviation 就是 我们 的 division ah mutation ah
+UI26MAZ_0102 272423 273944 EN mitosis ah mitosis
+UI26MAZ_0102 273944 276458 CS 是 给 它们 分 我们 的 cell 分开 啊
+UI26MAZ_0102 276458 282507 CS 好像 生 孩子 这样 啊 如果 它会 increase 它的 话就是 它 会 给 啊
+UI26MAZ_0102 283659 291293 CS 它 会 有 side effect maybe 会 造成 tumor 还是 什么 tumor 还是 什么 大概 是 这样 的 东西 咯
+UI26MAZ_0102 299753 305557 CS (嗯) 如果 是 它有 两种 第一 是 type two type type two 和 type one lor
+UI26MAZ_0102 305557 312500 CS type one 是 天生 咯 天生 就是 说 你 你的 身体 不会 produce insulin 就是 我 所谓 它会 reduce 你的 glucose level
+UI26MAZ_0102 312861 317930 CS 然后 第二 第二种 是 我们 的 日常 生活 啊 这个 是 ninety percent pe~ people
+UI26MAZ_0102 317930 324423 ZH 然后 我们 的 常常 要 吃 啊 没有 运动 啊 肥胖 啊 啊 都会 造成
+UI26MAZ_0102 325541 327134 ZH (嗯) 就 好像
+UI26MAZ_0102 329595 333732 ZH 吃 是 好像 我们 吃甜 的 东西 它 甜的 东西 它 它会
+UI26MAZ_0102 333732 338888 ZH 啊 变成 好像 如果 你 我们 没有 用 没有 用 它 它 会 收 在 我们的 身体 里面
+UI26MAZ_0102 338888 341473 CS so 造成 它会 造成 一个 (嗯)
+UI26MAZ_0102 342095 350982 CS (嗯) 好像 是 我们 的 cell become resistant 就是 resistant to insulin 它 就会 这样 啊 收着 收 收 收 到 好像 会 比较
+UI26MAZ_0102 351732 352875 EN mm
+UI26MAZ_0102 356000 357168 EN mm
+UI26MAZ_0102 362169 363309 ZH 它 会 好像
+UI26MAZ_0102 365238 372040 CS 变成 toxic 不是 说 toxic 啦 就是 说 (嗯) 它 会 让 我们 的 cell become resistant 就是 这 样子 大概 是 这 样子 啦
+UI26MAZ_0102 373742 374838 EN to insulin la
+UI26MAZ_0102 378572 385600 CS ah carbohydrate 也会 好像 油的 东西 也会 lipid lipid lipid 它会 造成 fat deposition 的 东西 都会
+UI26MAZ_0102 385600 391266 CS 它会 造成 你 方便 肥胖 的 东西 都会 都会 让 你有 diabetes
+UI26MAZ_0102 396619 403502 CS (嗯) 就是 你 吃 有油 又 没有 运动 它 就会 在 在 你的 身体 然后 你的 cell 会 become resistant 跟 那个 insulin 了
+UI26MAZ_0102 410594 414485 ZH 油的 东西 要 看 什么油 因为 好像 啊
+UI26MAZ_0102 415125 418651 ZH 它 有 两种 一个 的 是 啊
+UI26MAZ_0102 421110 423067 CS high density lipid 和 low density ah
+UI26MAZ_0102 423957 426976 CS if i not mistaken low density 的话 会
+UI26MAZ_0102 428346 429064 ZH (呃)
+UI26MAZ_0102 430431 435510 CS 排 出来 而 high density 不会 排 出来 if i am not mistaken ha 应该 是 这 样子
+UI26MAZ_0102 435510 443140 ZH 嗯 好像 我们的 猪油 猪油 它就 会 跟 在 我们 身体 猪油 其实 是 很 不好 的 那个 来
+UI26MAZ_0102 443140 449237 ZH 好像 华人 最 喜欢 吃 啊 只是 他 吃了 才 就会 在 我们的 身体 很难 排泄 出来
+UI26MAZ_0102 459501 465409 ZH 运动 多 一点 运动 多 和 少吃 运动 运动 会 比较 好 嗯
+UI26MAZ_0102 475742 484128 CS 啊 如果 你 吃 extra 我 觉得 它 会 存在 身体 里面 它会 它会 收在 身体 如果 你 没有 去 exercise 什么 它会 在 身体 里面
+UI26MAZ_0102 484128 489365 CS 好像 有人 有些 人 吃 supplement 可是 你 如果 吃 supplement 你 要 针对 你 需 不需要
+UI26MAZ_0102 489365 494289 CS 好像 calcium 如果 你 吃多 它会 变成 骨 那个 叫 什么
+UI26MAZ_0102 496219 501763 ZH 很像 讲 骨刺 什么 叫 那个 骨 骨刺
+UI26MAZ_0102 503956 507507 ZH 你 要 知道 你 身体 缺少 什么 和 需要 什么
+UI26MAZ_0102 507507 510863 ZH 好像 我们 我 觉得 马来西亚 缺少 就是 营养师
+UI26MAZ_0102 510863 514916 ZH 因为 很多人 都 不懂 他们的 身体 需要 什么 他们 就是
+UI26MAZ_0102 514916 522133 CS 买 一个 supplement 来吃 或者 人家 说好 就 好 全部 就买 来吃 就是 你的 身体 如果 不需要 你 吃多 它会 造成 side effect
+UI26MAZ_0102 535367 542173 CS 啊 好像 我 讲 个人 的 身体 构造 不同 although 他们 我们 是 全部 都是 human 的 cell 可是 我们
+UI26MAZ_0102 542874 550304 CS 啊 所 需要 的 和 别人 的 不同 有些 人 是 他们 maybe 你 吃 这个 它 会 有 effect
+UI26MAZ_0102 550304 557980 CS 可是 for 有些 人 不会 好像 药 也是 一样 如果 你 看 到 人家 讲 哦 这个 吃 好 可是 你 吃了 没有 effect
+UI26MAZ_0102 557980 563637 CS 就是 说 我们 个人 的 跟 别人 的 不同 会 比较 deviate 一点 他们 的 cell 里面
+UI26MAZ_0102 565039 567560 CS 只是 这 percentage 会 比较 少
+UI26MAZ_0102 573362 576477 ZH 吃 很多 啊 我 也 我 也是 吃 很多 还是
+UI26MAZ_0102 582055 584357 ZH 嗯 就 好像 给 瘦 的 就
+UI26MAZ_0102 584357 586071 ZH 我的 经验 啊 只是 说
+UI26MAZ_0102 586071 592699 CS 我们 吃了 就是 很多 就是 排泄 可是 吸收 的 我 不懂 吸收 会 有几 percent 是 很多 就是 排泄 出来
+UI26MAZ_0102 592699 601051 CS ah maybe 我们 要 吃多 然后 它 会 maybe 我们 吃 比较 多 一点 然后 才 会 得 到 和 平常 人 的 一样 的 成分
+UI26MAZ_0102 601051 603556 ZH 然后 其它 就是 排 出来
+UI26MAZ_0102 614181 616502 ZH 吃了 不能 吸收 啊
+UI26MAZ_0102 634675 639646 CS 啊 我 觉得 他们 slimming 是 大 多数 是 给 你的 啊
+UI26MAZ_0102 639646 643130 CS 油 啊 deposition 在 你的 身体 洗掉 它的
+UI26MAZ_0102 643130 646357 ZH 就是 说 带走 它的 油在 你的 身体 里面
+UI26MAZ_0102 646357 650997 CS 他们 我 看 他们 做 advertisement 啊 还是 在 电视机 里面 啊 就是 说
+UI26MAZ_0102 650997 655171 ZH 看到 他们 他们 吃了 它会 油 他们 会 洗掉 他的 身体 里面 的 油
+UI26MAZ_0102 655971 659694 CS instead of 去 好像 去 吸收 啊 还是 什么
+UI26MAZ_0102 661913 667336 CS compound 油 but 它 可是 有 没有 是 这样 我 不懂
+UI26MAZ_0102 669509 673935 ZH 然后 有的 是 好像 吃了 给 你 没有 胃口 吃饭 啊
+UI26MAZ_0102 673935 677823 CS 很多 东西 就是 说 很有 side effect 是 很 不好
+UI26MAZ_0102 677823 680792 CS so 最好 的 方式 是 exercise 多 会 比较 好
+UI26MAZ_0102 685240 687645 ZH 很难 很难 对 对 对
+UI26MAZ_0102 695713 703816 CS 哪 一个 啊 对 就算 现在 我们 所 所 我 所谓 的 新 新加坡 新加坡 的 bioinformation 就是 他们 develop 这种 software
+UI26MAZ_0102 703816 710466 CS 就是 他们 要 看 看 哦 如果 会 有 读 到 他们 不赞成 哪 一个 哪 一个 target
+UI26MAZ_0102 710466 713140 ZH 就是 你 头痛 的 原因 是 哪里
+UI26MAZ_0102 713140 719122 CS 现在 好像 有 有些 人 是 对 药 有 sensitive ah 吃了 他们 身体 会 肿 啊
+UI26MAZ_0102 719122 724175 ZH 之类 的 东西 是 它们 要 看 在 哪 一个 方面
+UI26MAZ_0102 724175 727514 CS (嗯) 然后 好像 drug 和 infection 就是 说
+UI26MAZ_0102 727514 732168 CS 我们 现在 吃药 然后 又 吃 中国 药 就是 说 很多 人 是 不是 encourage 我们
+UI26MAZ_0102 732168 738142 CS 就是 我们 吃药 就 吃 中国药 它会 怕 它们 会有 side effect ah 还是 什么 啊
+UI26MAZ_0102 738142 742162 CS 好像 你 吃 中国药 然后 你 又 吃 这个 变成 没有 effect 到
+UI26MAZ_0102 742162 750339 CS 就是 这 样子 其实 这样 我们的 school 那边 有 做 好像 <unk> 他们 做 是 比较 很 传统
+UI26MAZ_0102 750339 756502 CS 就是 说 (嗯) 就是 我 所说 我们 不是 用 电脑 就是 blindly 做 这 样子
+UI26MAZ_0102 756502 761807 CS 新加坡 他们 现在 他们 做 software 就是 用 computer software 来做
+UI26MAZ_0102 761807 765595 CS mm accuracy 会 蛮 也是 蛮高 一下
+UI26MAZ_0102 765595 768696 CS 我 看 他们 paper la 他们 有 给 几个 paper 看
+UI26MAZ_0102 777932 782122 ZH (嗯) 唱歌 打球 可是 很久 没有 打球 了
+UI26MAZ_0102 782122 785017 ZH (嗯) 因为 找 找不到 人 打球
+UI26MAZ_0102 786246 790754 ZH 打 羽球 多 一点 打 羽球 嗯
+UI26MAZ_0102 790754 796042 ZH 然后 (嗯) 看戏 而且 是 很少 看戏 了 现在
+UI26MAZ_0102 796042 802487 CS 就 回去 有 时候 回 到 从 lab 回到 去 也是 很累 了 就是 在 家 懒惰 出门 啊
+UI26MAZ_0102 802487 805738 ZH 大 多数 开歌 听 啊 开歌 看戏
+UI26MAZ_0102 807676 808993 EN mm
+UI26MAZ_0102 808993 814221 CS 我 之前 是 很少 看戏 啦 最近 有 看 一个 啊 series lor
+UI26MAZ_0102 814221 817942 CS ah hong kong series ah 那个 公主 驾到
+UI26MAZ_0102 817942 822640 EN 
+UI26MAZ_0102 822640 827453 ZH 嗯 蛮 蛮 好笑 一下 蛮 好笑 一下 嗯
+UI26MAZ_0102 829635 834189 CS english series ah ah 之前 有看 prison break 我 看到 season three 了
+UI26MAZ_0102 834189 837390 CS season three 过后 就 断掉 了
+UI26MAZ_0102 839091 843752 CS season four 应该 是 season four season five 没有 没有 去 追 了
+UI26MAZ_0102 843752 847992 ZH 因为 有 一阵子 我是 已经 很少 去 看戏 了
+UI26MAZ_0102 847992 851404 ZH 很少 去 看戏 了 我看 也是
+UI26MAZ_0102 851404 857664 ZH 很久 都 没有 看戏 但是 有时 会 好像 吃 东西 朋友 看 就是 跟 他们 一 起 看 然后 他们 看 都 没有 看了
+UI26MAZ_0102 857664 859743 ZH 就 爽爽 这样 看 然后 又 没有 看 又
+UI26MAZ_0102 859743 861671 ZH 看 到 我也 不知道 看 到 什么
+UI26MAZ_0102 865603 868432 CS 啊 过后 哦 starting
+UI26MAZ_0102 868432 872613 CS season one 会 好看 接下来 就是 不是 很 好看
+UI26MAZ_0102 873482 881588 CS 啊 three season 就是 我 prison break 追 追 追 到 season three 我 就 懒惰 再去 追 下去 了 two or three
+UI26MAZ_0102 881588 884315 CS after that 就 没有 什么 看戏 了
+UI26MAZ_0102 890980 894271 ZH 啊 对 对 对 对 对 嗯 反而 是
+UI26MAZ_0102 896129 903391 ZH 啊 破坏 它们 的 戏 选 破坏 他们 故事 内纲 故事 的 内纲 啊 可以 这样 讲
+UI26MAZ_0102 907527 910105 CS oh twenty four 有 听过 可是 没有 看过
+UI26MAZ_0102 910105 917119 CS twenty four 然后 我 听过 几 几个 啊 好像 hero ah twenty four ah gossip girl ah
+UI26MAZ_0102 917119 920296 CS 嗯 可是 我 我的 朋友 有 追看 gossip girl lah
+UI26MAZ_0102 920296 924795 CS  我 就 没有 看 啦 我 有 在 看 gossip girl
+UI26MAZ_0102 928299 930598 ZH 嗯 电影 啊
+UI26MAZ_0102 930598 933771 ZH 啊 已经 两 两三 个月 没有 去了
+UI26MAZ_0102 933771 938949 CS 我 刚刚 开始 会 有 看 因为 比较 闷 来 槟城 的 时候 然后 after that 就 没有
+UI26MAZ_0102 938949 941356 ZH 刚来 槟城 的 时候 就 没有 什么 事 做 啊 就是 会
+UI26MAZ_0102 941356 946069 ZH 每个月 都会 去 看戏 啊 现在 没有 没有
+UI26MAZ_0102 947947 950539 CS 我 是 吉打 jitra jitra
+UI26MAZ_0102 950539 955397 ZH 嗯 等等 下会 回去 啊 下午 看 下午 会 回去 了
+UI26MAZ_0102 959087 962087 ZH 啊 大概 两个 小时 半
+UI26MAZ_0102 962087 968982 CS 嗯 差不多 啊 highway highway
+UI26MAZ_0102 968982 971059 ZH 比较 安全 一点 啊
+UI26MAZ_0102 971059 972246 ZH 会 比较 快 
+UI26MAZ_0102 973776 980776 CS 啊 我坐 我 朋友 的 车 以前 是 有 坐 摩托 啊 可是 有 一次 因为 摩托 坏 在 sungai dua 那边的 highway 啊
+UI26MAZ_0102 980776 983355 ZH 哇 够力 
+UI26MAZ_0102 985050 989042 ZH 然后 就 不敢 再 驾 驾 摩托 了
+UI26MAZ_0102 989042 995479 ZH 啊 危险 啊 可以 可以 可以 可以 可以 可以 进 可是 很 危险
+UI26MAZ_0102 995479 999396 ZH 尤其 是 坏的 时候 哇 很 惨 很 头痛
+UI26MAZ_0102 1010171 1014466 CS 啊 有 有 有 我 就是 大 多数 会 去 photostat
+UI26MAZ_0102 1014466 1018577 CS photocopy 的 from 还是 print from internet internet 有 free book
+UI26MAZ_0102 1018577 1020981 CS 啊 我会 print from internet
+UI26MAZ_0102 1020981 1031577 CS 然后 好像 是 download download 了去 print 大概 不会 很贵 啦 大概 一本 是 啊  around 三十多 到 四十多 会 比较 便宜
+UI26MAZ_0102 1033309 1040073 CS mm if 你 从 外面 买 大概 要 最少 要 一百 最少 要 一百
+UI26MAZ_0102 1040073 1047933 CS 然后 print 会比较便宜 啊  library 可是 library 会比较麻烦因为我还没有 register 还是什么
+UI26MAZ_0102 1047933 1053571 CS so 如果 有 自己 一本 的 reference 会 比较 好 因为 你 去 到 哪里 都 能 读 嘛
+UI26MAZ_0102 1053571 1057821 ZH 好像 你 回家 啊 放假 会 比较 容易 一点
+UI26MAZ_0102 1060835 1071314 CS (嗯) 因为 我来 的 时候 我 是 等 scholarship 然后 scholarship 也是 我 和 我的 scholarship 和 我的 offer letter ah apply 是 一起 submit
+UI26MAZ_0102 1071314 1078641 CS 然后 在 一起 等等 到 现在 scholarship 我 已经 去 interview 回来 了 可是 还 不知道 result
+UI26MAZ_0102 1079615 1085927 CS 就是 也是 等到 三 大概 三个月 这样 他才 叫 我 去 interview 然后 我的 offer letter 我 还 没有 拿到
+UI26MAZ_0102 1089005 1091833 ZH 嗯 应该 是 有 啊 嗯
+UI26MAZ_0102 1092956 1098360 CS so far 有 有 有 有 有 有 有 但是 好像 大概 给 一千块 嗯
+UI26MAZ_0102 1100156 1104644 ZH 一千块 槟城 还好 啦 刚刚 好 刚刚 好 过 生活
+UI26MAZ_0102 1108555 1109570 ZH 你 说 学生 啊
+UI26MAZ_0102 1111851 1113872 EN oh okay okay
+UI26MAZ_0102 1118460 1119240 CS 人家 reserve
+UI26MAZ_0102 1120983 1121905 ZH 哦
+UI26MAZ_0102 1122702 1124601 CS normally 也是 啦 有 时候
+UI26MAZ_0102 1124601 1129262 ZH 老板 是 这样 他 啊 哦
+UI26MAZ_0102 1129262 1137432 CS 嗯 有 project 好像 要 grant 要 完了 好像 赶 着 要 啊 哈 他 就会 叫我 帮忙 可是 很少 很少
+UI26MAZ_0102 1144980 1149940 CS 有 我 老板 有 问 我 如果 你们 要 做 extra 就是 他会 给 啦 可是
+UI26MAZ_0102 1149940 1159120 CS (嗯) 我 觉得 concentrate run 我的 project 会 比较 好 就是 说 好像 如果 要 完 的 时候 我们 propose 给他 我们 next step 要 做 什么 会 自己 想
+UI26MAZ_0102 1159120 1164086 CS 想多 想多 一点 next step 要 做 什么 instead of 去 叫 他 给 我们 东西 做
+UI26MAZ_0102 1164086 1169387 CS 就是 我们 就 没有 没有 自己 的 idea 就是 说 你 没有 想到 你要 做 什么 东西
+UI26MAZ_0102 1169387 1171148 CS 就是 extra 时间 just propose 给他
+UI26MAZ_0102 1171651 1176158 CS 大概 你 未 未来 你要 做 什么 东西 你 大概 propose 给他 知道
+UI26MAZ_0102 1179081 1186251 CS 我们 没有 industry training in aims 就是 说 我们 batch 没有 就是 下来 第 第二个 batch 就有
+UI26MAZ_0102 1186251 1189374 CS 接下来 几个 batch 就有 我们的 时候 没有
+UI26MAZ_0102 1193222 1196541 ZH 本来 是 想 可是 因为 嗯

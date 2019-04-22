@@ -1,0 +1,461 @@
+10NC20MBQ_0101 23950 25680 CS testing 一 二 三
+10NC20MBQ_0101 75177 76303 ZH 好 可以
+10NC20MBQ_0101 83825 84749 EN okay
+10NC20MBQ_0101 105852 106651 ZH 你 好
+10NC20MBQ_0101 118291 120031 CS 我 觉得 还 okay 吧
+10NC20MBQ_0101 126332 129968 ZH 诶 我 觉得 应该 是 凶多吉少 吧
+10NC20MBQ_0101 135291 138641 CS 我 我 不懂 其实 我 自己 这 礼拜 is very free or not 诶
+10NC20MBQ_0101 143497 145029 ZH 没有 人 告诉 我 几点 诶
+10NC20MBQ_0101 151341 156211 CS 哦 我 参加 是 mostly 是 board game 啊 好像 reversi othello 跟 scrabble
+10NC20MBQ_0101 159691 163461 CS holidays 好多 training 啊 大多数 每天 我 都有 什么 training camps 之类 的
+10NC20MBQ_0101 166017 167964 EN i am not going to go home 
+10NC20MBQ_0101 175151 177501 CS 其实 我 不 挑食 诶 i eat all kinds of food
+10NC20MBQ_0101 182356 184641 EN i like to eat slow food
+10NC20MBQ_0101 196370 198733 EN i do a project on microsoft surface
+10NC20MBQ_0101 204791 207511 CS 看 什么 movie 你 告诉 我 几 点 我 一定 会 到 那里 的
+10NC20MBQ_0101 213395 215332 ZH 你 不会 觉得 很 怪 吗 一直 在 转移 话题
+10NC20MBQ_0101 216787 218942 CS 应该 focus on one to~ one topic
+10NC20MBQ_0101 228881 230381 CS 我 是 做 logistics 的
+10NC20MBQ_0101 234786 238737 CS 到 现在 为止 我 还没有 还没有 安排 到 当天 的 transport
+10NC20MBQ_0101 245900 248480 CS 可是 deadline 好像 是 后 个 礼拜 诶
+10NC20MBQ_0101 248480 249356 ZH 怎么办 啊
+10NC20MBQ_0101 254870 256829 CS so 那天 你 一定 会 去 那个 barbeque 吗
+10NC20MBQ_0101 261562 262683 EN depends on what
+10NC20MBQ_0101 274502 275771 EN <unk>
+10NC20MBQ_0101 275771 278988 CS 我 认为 我们 认识 的 人 当中 没有 什么 是 没有 人 是 没有 s. u. 的
+10NC20MBQ_0101 287073 289773 ZH 诶 你 这个 周末 啊 这个 周末 你 去 做 什么
+10NC20MBQ_0101 295790 297220 CS 你 看 哪一个 movie
+10NC20MBQ_0101 311240 312930 CS 你 觉得 那个 new new moon 好看 吗
+10NC20MBQ_0101 315617 317097 ZH 你 有 看 那个 小说 吗
+10NC20MBQ_0101 317980 319513 ZH 你有看 那本 小说 吗
+10NC20MBQ_0101 321434 324914 ZH 我 劝 你 还是 不要 看 比较 好 因为 我 觉得 看了 也 没什么 分别 也是 一样 差
+10NC20MBQ_0101 332660 334410 CS 我 是 做 military policeman
+10NC20MBQ_0101 339552 345897 CS 我 是 管 那个 大门 还有 检 负责 检查 人家 的 车 还有 他们 的 luggage 啦
+10NC20MBQ_0101 357340 360490 CS 我 就是 差 five c. m. to 拿 silver 真的 太 可惜 了 哦
+10NC20MBQ_0101 362954 363837 EN five c. m. la
+10NC20MBQ_0101 366356 367305 EN for standing broad jump
+10NC20MBQ_0101 374494 379840 CS 我 超 喜欢 住 hall 因为 我 不喜欢 来回 因为 那个 那 journey 很 长
+10NC20MBQ_0101 386518 392295 ZH 我 觉得 可能性 蛮高 的 吧 因为  这个 假期 我 都住 都 根本 没 回 回 到家 诶
+10NC20MBQ_0101 402691 408741 CS 我 原本 是 想 take 二十一 个 a. u. 的 可是 我 根本 不能 肯定 whether it's too much or too little 诶
+10NC20MBQ_0101 417401 420351 CS 现在 还 早 吗 it's like next next next week
+10NC20MBQ_0101 430181 431324 ZH 这个 拜三 吗
+10NC20MBQ_0101 433609 436154 ZH 没有 告诉 我 诶 你们 去 你们 约定 去 哪里 啊
+10NC20MBQ_0101 441581 443076 ZH 这个 拜三 不是 明天 吗
+10NC20MBQ_0101 444884 446391 ZH 那 你 打 那 你 一定 有去 的 啊
+10NC20MBQ_0101 450261 452511 CS 我 没有 空 诶 因为 我 还要 赶 我 的 website
+10NC20MBQ_0101 455481 456751 CS 是 w. s. c. 的 website
+10NC20MBQ_0101 457453 459115 ZH 我 已经 欠 欠 他们 三个月 了
+10NC20MBQ_0101 466231 470045 ZH 他们 应该 是 被 骂 因为 他们 已经 没有 人 会 去 做 了 就 剩 我 一个人 而已
+10NC20MBQ_0101 475511 477711 CS so 你 觉得 你 会 再 去 参加 standard-chartered 吗
+10NC20MBQ_0101 480726 481297 EN why not
+10NC20MBQ_0101 487171 490051 CS 可是 你 可以 参加 as a participant instead of a volunteer
+10NC20MBQ_0101 496156 499091 CS 你 会 去 跑 那个 整个 整个 length 吗
+10NC20MBQ_0101 519968 521146 ZH 哦 我 帮 我
+10NC20MBQ_0101 521791 522861 CS 帮 我 的 brother 去
+10NC20MBQ_0101 523041 524611 CS 办 他 的 birthday party
+10NC20MBQ_0101 528600 531900 CS 其实 他 的 birthday 是 前天 啊 可是 我们 在 拜五
+10NC20MBQ_0101 532061 533281 CS 拜五 当天 celebrate
+10NC20MBQ_0101 539809 540985 ZH (嗯)
+10NC20MBQ_0101 541709 542566 ZH 蛮多 的 吧
+10NC20MBQ_0101 547526 548361 ZH 其实~
+10NC20MBQ_0101 548361 550531 CS birthday 好像 挺 麻烦 的 真的 很 重本
+10NC20MBQ_0101 558981 560271 CS 所以 christmas
+10NC20MBQ_0101 560671 563271 CS 我 应该 是 限 我 的 时间 在 hall 里面了 吧
+10NC20MBQ_0101 568618 570923 ZH 回家 其实 也 不懂 要 做 什么 东西 诶
+10NC20MBQ_0101 578261 579791 CS but you think people 会 回来 咩
+10NC20MBQ_0101 585221 588251 CS 我 本来 也要 办 那种 gift exchange 的 诶
+10NC20MBQ_0101 591423 593812 ZH 什么 跟 谁 就是 要 举办 啦
+10NC20MBQ_0101 596046 596714 EN in hall ah
+10NC20MBQ_0101 610588 613362 ZH 哦 我 没有 看 你 可以  告诉 我 是  是 关于 什么 的 吗
+10NC20MBQ_0101 621721 623081 CS 等一下 你 回去 hall 你 要 做 什么
+10NC20MBQ_0101 626081 628361 CS so 你 回来 的 时候 你 没有 带 anything at all
+10NC20MBQ_0101 632191 634431 CS what if 他们 又 叫 你 打 mahjong then 怎么办
+10NC20MBQ_0101 640410 642099 ZH 你 可以 打完 麻将 再 回去 嘛
+10NC20MBQ_0101 654407 657601 ZH 我 我 今天 早上 刚 回来 而已 诶 其实 我 不会 在 这里 很 久
+10NC20MBQ_0101 661691 664081 CS 没有 啊 it just appears to be 这样 嘛
+10NC20MBQ_0101 667351 671211 CS 我 今~ 因为 今天 我 刚刚 install windows seven so 我 要 回家 install 很 多 东西
+10NC20MBQ_0101 674517 675135 ZH (呃)
+10NC20MBQ_0101 675853 679491 CS 大致 上 现在 是 okay 啊 可是 今天 早上 我 有 一点 internet 的 问题
+10NC20MBQ_0101 686410 688384 ZH 可是 之前 都 没有 问题 的 诶
+10NC20MBQ_0101 689431 692421 CS 现在 我 每次 restart 电脑 都 没有 internet 诶
+10NC20MBQ_0101 696301 698741 CS 我 需要 去 disable 那个
+10NC20MBQ_0101 699201 701611 CS internet then 再 enable 才 可以 有 internet
+10NC20MBQ_0101 710904 712119 CS then 那个 是 什么 来 的
+10NC20MBQ_0101 719991 721921 CS 直接 reformat 就 没有 virus 了 嘛
+10NC20MBQ_0101 738202 740671 CS 有 啊 那 就是 那天 barbeque 那个 晚上 哦
+10NC20MBQ_0101 745499 747421 ZH 没有 诶 他们 还没有 跟 我 收 诶
+10NC20MBQ_0101 751491 754971 CS 刚才 我 刚 在 bus stop 看到 力耀 他 好像 要 去 suntec-city 诶
+10NC20MBQ_0101 757527 758306 ZH 我 没有 问他
+10NC20MBQ_0101 761449 763189 CS 他 i think 他 回来 蛮 好笑 <unk>
+10NC20MBQ_0101 763451 766171 CS cause the reason he come back is because 他 没有 带 他 charger 回家
+10NC20MBQ_0101 778121 779679 ZH 我 好像 看 他 跟
+10NC20MBQ_0101 781034 783577 ZH 他 跟 春安 打 网球 回来 诶
+10NC20MBQ_0101 794590 796070 CS so 你 下个 礼拜 要 做什么
+10NC20MBQ_0101 806618 808849 CS but 立耀 told me tomorrow there is cheer
+10NC20MBQ_0101 813214 813967 ZH 你 有 去 吗
+10NC20MBQ_0101 825011 826421 CS i thought 你 已经 是
+10NC20MBQ_0101 826591 827971 CS 他们 的 one of them 了
+10NC20MBQ_0101 838601 840411 CS 这样 很 简单 啊 就 不要 join 啊
+10NC20MBQ_0101 852250 853291 CS 这样 不要 去 some of the part
+10NC20MBQ_0101 864281 866071 CS 我 想 啊 but i have no time
+10NC20MBQ_0101 868438 872672 EN i am dedicating all my time to hall activities so that next year i can stay hall
+10NC20MBQ_0101 878141 880391 CS 可是 mine is non stop 就是
+10NC20MBQ_0101 880701 883591 CS 我 一 在 hall 就是 那种 十 天 才 回家 的
+10NC20MBQ_0101 899992 901786 ZH 诶 最近 你 打算 换 电话 吗
+10NC20MBQ_0101 907601 909931 CS 你 可以 买 新 的 iphone then 把 旧 的 卖 给 我 吗
+10NC20MBQ_0101 914023 916646 CS well 是 粉红色 的
+10NC20MBQ_0101 920901 924141 CS 我 是 喜欢 它 的 functionality 可是 它 的 颜色 有 一点 不喜欢 诶
+10NC20MBQ_0101 929220 931465 ZH (呃) 这个 是 其中 的 一个 原因 吧
+10NC20MBQ_0101 942491 944121 CS if 我 可以 拿 到
+10NC20MBQ_0101 944851 949111 CS 四 以上 我 会 是 蛮 高兴 的 可是 觉得 这个 可能性 quite low 啊
+10NC20MBQ_0101 955999 958788 ZH 嗯 多 两个 礼拜 我们 就 可以 知道 结果 了
+10NC20MBQ_0101 969391 972611 CS 我 觉得 跟 理工学院 it's a totally different world
+10NC20MBQ_0101 979557 980913 ZH 你 知道 理工学院 的
+10NC20MBQ_0101 981571 985861 CS lecturer 叫 我 回去 give a speech on entering university 你 懂 吗
+10NC20MBQ_0101 989439 991663 ZH 其实 我 也 不认识 他 突然间 打 电话 给 我
+10NC20MBQ_0101 997195 997880 ZH 有 啊
+10NC20MBQ_0101 1011291 1014361 CS 英文 english 华 文 歌 我 都有 听 啊
+10NC20MBQ_0101 1014850 1019841 CS 可是 没有 没有 接触 到 什么 新 的 歌 因为 我 没有 听 radio 还是 什么 啊
+10NC20MBQ_0101 1022671 1024911 CS so my songs 都是 很 久 以前 的
+10NC20MBQ_0101 1033310 1035438 CS 我 friend 是 有 send 我 啊 可是 我 没有 去 听
+10NC20MBQ_0101 1035751 1037281 CS 因为 我 不是 很 喜欢 lady-gaga
+10NC20MBQ_0101 1056500 1059701 CS 我 一定 会 join activity 因为 我 想 继续 stay hall
+10NC20MBQ_0101 1060088 1064541 CS but then 我 我 也 不懂 要 怎样 hack maintain 一个 balance 诶
+10NC20MBQ_0101 1084499 1086127 ZH 有 啊 可是
+10NC20MBQ_0101 1086990 1088638 ZH 最近 好像 我 没有 跟 他们 去 诶
+10NC20MBQ_0101 1094161 1097411 CS 以前 jurong-point 那个 food court is under renovation but
+10NC20MBQ_0101 1097571 1099811 CS 现在 好像 又 刚 reopen 了
+10NC20MBQ_0101 1104631 1107361 CS jurong-point 大多数 都是 fast food 嘛
+10NC20MBQ_0101 1107361 1109621 EN there is not much else to eat
+10NC20MBQ_0101 1115081 1116411 CS jurong-point 有 鼎泰丰 咩
+10NC20MBQ_0101 1122546 1123819 ZH 嗯 没有 注意 过 诶
+10NC20MBQ_0101 1131411 1134891 CS 哦 this reminds me 我 还没 用完 我 的 new-york new-york 的 voucher
+10NC20MBQ_0101 1142663 1143459 EN ten dollars
+10NC20MBQ_0101 1153311 1154881 CS 我 用 acer 的 brand
+10NC20MBQ_0101 1156231 1160011 CS 只是 蛮 多 人 have bad experiences with acer 的 laptop 诶
+10NC20MBQ_0101 1163041 1165111 CS 可是 我 用 了 多久 it's still okay
+10NC20MBQ_0101 1174142 1175778 EN is it still under warranty
+10NC20MBQ_0101 1179821 1185371 CS 我 brother 他 当 他 一 买 一个 新 的 ben-q 的 laptop 他 的 acer 就 坏 掉 了
+10NC20MBQ_0101 1198194 1199920 ZH 我 是 蛮 喜欢
+10NC20MBQ_0101 1200813 1202671 CS the-quad 那个 cafe 的 canteen
+10NC20MBQ_0101 1203111 1206251 CS 因为 他 给 的 他的 菜饭 那个 分量 这样 is quite a lot
+10NC20MBQ_0101 1209651 1211468 ZH 跟 我 朋友 去 啦 你没 去 那边 吃 过 吗
+10NC20MBQ_0101 1214689 1218900 CS 那时候 啊 after exam 我 跟 我 朋友 去 那边 吃 因为 那边 not a lot people 诶
+10NC20MBQ_0101 1231449 1235911 CS 如果 是 peak hour 的话 就 不会 这样 久 啊 but 如果 non peak hour it's really very long
+10NC20MBQ_0101 1249829 1251024 ZH 没有 诶 我
+10NC20MBQ_0101 1251699 1254088 ZH 每个人 一直 问 我 为什么 不要 去 考 因为
+10NC20MBQ_0101 1254541 1258091 CS i think even i have a license 我 也 不会 去 驾车 因为 我 根本 都 没有 车 to 驾 嘛
+10NC20MBQ_0101 1264382 1266675 CS that's also one of my concern 啊 没有 钱 去 考
+10NC20MBQ_0101 1266971 1268671 CS 考 了 我 觉得 也是 会 forget 哦
+10NC20MBQ_0101 1279440 1280426 ZH 我还 不懂 诶
+10NC20MBQ_0101 1284121 1286671 CS 你 你 打算 读 三年 还是 three and a half years
+10NC20MBQ_0101 1299021 1301051 CS 你 已经 想 过 要 take 哪 一些 module 了 吗
+10NC20MBQ_0101 1310701 1313361 CS but 那 那个 plan 好像 有 两个
+10NC20MBQ_0101 1313621 1314901 CS maths 的 科目 诶
+10NC20MBQ_0101 1318811 1321001 CS 他 只是 suggested 而已 嘛 你 可以
+10NC20MBQ_0101 1322031 1324781 CS 你 可以 just 自己 plan 你 自己 的
+10NC20MBQ_0101 1330997 1333311 EN just need to consider whether
+10NC20MBQ_0101 1333781 1337598 CS 哪 一些 是 pre-requisite for next year 的 module 因为 可能 你
+10NC20MBQ_0101 1338621 1341221 CS 没有 take 的话 next sem 你 就 不可 以 再 再 take 了 啊
+10NC20MBQ_0101 1355491 1356371 ZH 我去 
+10NC20MBQ_0101 1356371 1358491 CS 我 去 can eleven 打包 菜饭
+10NC20MBQ_0101 1364844 1368818 ZH 还好 诶 因为 就今天 才 吃 啊 前几天 我 都 没有 吃 啊
+10NC20MBQ_0101 1375391 1377911 CS 为什么 你 要 选 computer science
+10NC20MBQ_0101 1394142 1395659 CS but 我们 来 这里
+10NC20MBQ_0101 1396041 1399371 CS computer science 也是 有 很多 hardware 的 东西 啊
+10NC20MBQ_0101 1407417 1408482 CS so 你 觉得
+10NC20MBQ_0101 1409971 1412380 CS 我们 理工学院 那个 course 怎样
+10NC20MBQ_0101 1417986 1421076 CS so 你 觉得 来到 这里 他有 帮助 你 到 什么 吗
+10NC20MBQ_0101 1435572 1438549 ZH 哦 我 应该 是 可能 很 少人 跟 我 去
+10NC20MBQ_0101 1439151 1440981 CS canteen two 吃 晚餐 吧
+10NC20MBQ_0101 1445778 1447975 ZH (呃) 回家 没有 什么 意义
+10NC20MBQ_0101 1448279 1450241 CS because thursday 我 有 training camp
+10NC20MBQ_0101 1454261 1457471 CS 我 有 training camp for othello 跟 scrabble
+10NC20MBQ_0101 1457903 1459260 ZH 我 也 不懂 要 去 哪一个
+10NC20MBQ_0101 1470151 1471541 CS 我 printer 是 剩
+10NC20MBQ_0101 1472561 1474961 CS 黑 的 ink but colour ink 我 已经 out 了
+10NC20MBQ_0101 1489581 1492021 CS 你 最近 有没有 看 什么 interesting 的
+10NC20MBQ_0101 1492687 1493448 EN anime
+10NC20MBQ_0101 1498270 1500455 CS 以前 我 以前 我 有看 这些 动漫 but
+10NC20MBQ_0101 1500916 1504227 CS nowadays 我 没有 去 跟 了 嘛 因为 它们 is too long already
+10NC20MBQ_0101 1520141 1521237 ZH 还有 半个 小时
+10NC20MBQ_0101 1537778 1539544 EN i don't know
+10NC20MBQ_0101 1542531 1546582 CS then 就算 有 birthday 你 要 去 organize meh
+10NC20MBQ_0101 1563960 1567360 CS 哦 对 他们 昨天 本来 有 k. t. v. outing 的
+10NC20MBQ_0101 1570400 1571665 ZH 本来 你 也是 有 去 的 嘛
+10NC20MBQ_0101 1580050 1582800 CS my singing very sucky so 我 不是 很 喜欢 去 唱 k.
+10NC20MBQ_0101 1601691 1604871 CS 最近 有没有 (呃) meet 到 mindy 跟 他 讲话
+10NC20MBQ_0101 1633271 1636251 CS 好像 是 year three sem one
+10NC20MBQ_0101 1638349 1641421 CS but i think 你 可以 自己 安排 actually
+10NC20MBQ_0101 1650221 1652988 CS so 你 去 standard-chartered marathon 是 跟
+10NC20MBQ_0101 1653671 1654691 CS 哪一个 group of friends
+10NC20MBQ_0101 1672841 1675311 CS 你们 的 reporting timing 也是 凌晨 一点 吗
+10NC20MBQ_0101 1685388 1687352 EN so what is your job responsibility
+10NC20MBQ_0101 1699501 1703111 CS 你 刚才 不是 告诉 我 你 你 的 station is very near the ending point
+10NC20MBQ_0101 1709804 1712978 CS 可是 如果 你 没有 跑 到 终点 then 你 需要 怎么办
+10NC20MBQ_0101 1720637 1721858 ZH 你 有没有 看到 什么
+10NC20MBQ_0101 1722951 1724942 CS very special 的 人物 吗
+10NC20MBQ_0101 1734427 1737154 ZH 我 看到 有 好像 有 两个人 他们 穿
+10NC20MBQ_0101 1738011 1740011 CS 圣诞老人 的 costume 去 跑 诶
+10NC20MBQ_0101 1748923 1751651 CS then 你们 是 怎样 去 你 的 station 的 那里
+10NC20MBQ_0101 1758297 1760507 CS 这样 不是 已经 走到 forty two k. m. 了 吗
+10NC20MBQ_0101 1772377 1773701 ZH 我 搭
+10NC20MBQ_0101 1774751 1777341 CS 我 是 搭 one nine nine 出去 离开 n. t. u.
+10NC20MBQ_0101 1777649 1780609 CS 停在 boon-lay 那搭 地铁 咯
+10NC20MBQ_0101 1783829 1785402 CS 到 potong-pasir 咯
+10NC20MBQ_0101 1791755 1793858 CS 从 我家 到 n. t. u.
+10NC20MBQ_0101 1794923 1796247 ZH 一个 小时 多 吧
+10NC20MBQ_0101 1807414 1808672 ZH (呃)
+10NC20MBQ_0101 1812348 1814114 ZH 你 现在 打算 再 交 女朋友 吗
+10NC20MBQ_0101 1817754 1819338 ZH 你 喜欢 什么 类型 的 女孩子
+10NC20MBQ_0101 1834751 1838261 CS 他 讲 他 这 礼拜 没有 什么 东西 做 在 家 里 就是 nothing to do
+10NC20MBQ_0101 1839071 1841031 CS 可是 他 thursday 他 有 floor ball training
+10NC20MBQ_0101 1850431 1852871 CS 我 最近 刚刚 玩 facebook 那个 castle age
+10NC20MBQ_0101 1857569 1859476 ZH 我 不懂 诶 我 只是 刚 玩 而已 诶
+10NC20MBQ_0101 1864092 1865001 CS 谁 是 standwin
+10NC20MBQ_0101 1877440 1878375 ZH 对 你 是
+10NC20MBQ_0101 1879201 1881901 CS 你 小时候 你 是 上 哪一间 secondary school 啊
+10NC20MBQ_0101 1889241 1890901 CS 你 家 是 在 woodlands 啊
+10NC20MBQ_0101 1901284 1905214 CS so when 你 去 读书 的 时候 他 还在 那里 吗
+10NC20MBQ_0101 1908555 1909231 ZH 现在 你
+10NC20MBQ_0101 1909231 1910961 CS 你 brother 在 做 什么
+10NC20MBQ_0101 1920610 1921934 CS 他 在 n. y. p. 读 什么
+10NC20MBQ_0101 1924591 1926621 CS 他 打算 after that
+10NC20MBQ_0101 1930231 1932181 CS then 你 有没有 劝 他 against
+10NC20MBQ_0101 1932181 1933854 CS 来 读 (erm) triple e.
+10NC20MBQ_0101 1941527 1943377 ZH 可是 他 还没有 当完 兵 还是 什么
+10NC20MBQ_0101 1947881 1950557 CS 我 brother 他 小 我 四 岁 诶 他 还没有 当兵
+10NC20MBQ_0101 1960671 1963981 CS so 你 家里 还有 谁 other than 你 的 parents 还有 你 brother
+10NC20MBQ_0101 1970012 1971181 ZH 我 家里 也是 啊
+10NC20MBQ_0101 1986455 1987702 ZH 我 会
+10NC20MBQ_0101 1988381 1990752 CS 跟 我 的 friend plan 一样 的 timetable
+10NC20MBQ_0101 1991203 1995570 CS 如果 刚巧 跟 may 一样 就是 这样 咯 可是 我 不会 特地 跟 她 一起 plan 一样 的 timetable
+10NC20MBQ_0101 1997362 1998457 ZH 为什么 你 这样 问 呢
+10NC20MBQ_0101 2016581 2021351 CS 如果 他 要 跟 我 一样 的话 就 叫 他 跟 我 plan 一样 don't ask me to plan the same as her
+10NC20MBQ_0101 2028529 2029367 ZH 可是 我 觉得
+10NC20MBQ_0101 2029841 2033731 CS everyone idea of a good timetable 差不多 应该 是 一样 的 吧
+10NC20MBQ_0101 2034151 2037251 CS 所以 那些 好的 slot 应该 每个人 都在 snatch 嘛
+10NC20MBQ_0101 2042428 2043278 ZH 说 的 也是
+10NC20MBQ_0101 2058481 2059630 ZH 你 喜欢 拍照 吗
+10NC20MBQ_0101 2068635 2070150 ZH 是 做 那个 摄影师 啊
+10NC20MBQ_0101 2076426 2080210 CS 我 在 等 我 老爸 他 要 change camera 的 时候 给 我 他 旧 的
+10NC20MBQ_0101 2083400 2085351 CS 他 好像 在 用 canon 诶
+10NC20MBQ_0101 2087891 2089801 CS but i think 他 有 两个 d. s. l. r.
+10NC20MBQ_0101 2094231 2096181 CS 他的 职业 是 photographer what
+10NC20MBQ_0101 2099828 2101220 EN photographer
+10NC20MBQ_0101 2108051 2109812 CS 以前 他 有 他 自己 的 studio
+10NC20MBQ_0101 2110180 2113778 ZH 现在 他 是 从 家里 工作 所以 我 觉得 他 赚 的 应该 不是 很 多 吧
+10NC20MBQ_0101 2124348 2125998 ZH 你 父母 是 做什么 职业
+10NC20MBQ_0101 2140328 2143621 CS 是 好像 那种 container 那种 长途 的 车 吗
+10NC20MBQ_0101 2151251 2153861 CS so 你 你 的 华 文 程度 应该 not bad 嘛
+10NC20MBQ_0101 2158480 2160142 ZH 她 小时候 没有 教你 咩
+10NC20MBQ_0101 2172520 2175391 CS 我 mother 他 是 做 h. r. 的
+10NC20MBQ_0101 2177111 2178631 CS 我 爸爸 就是 photographer
+10NC20MBQ_0101 2192738 2194628 ZH 七月 十六 号
+10NC20MBQ_0101 2199321 2201431 CS 那个 时候 are we having holidays
+10NC20MBQ_0101 2211111 2214821 CS 你 参加 f. a. c. f. o. c. 的 哪一个 position 吗
+10NC20MBQ_0101 2223101 2225841 CS but then will you 去 f. o. c.
+10NC20MBQ_0101 2231021 2234381 CS 不过 我 要 做 senior attachment 要 怎样 做
+10NC20MBQ_0101 2239537 2241499 CS but 你 懂 他们 已经 决定
+10NC20MBQ_0101 2242161 2243591 CS next year 的 theme 了 没有
+10NC20MBQ_0101 2249055 2251041 CS 你 的 school 的 f. o. c. 是 什么 theme
+10NC20MBQ_0101 2264201 2265621 CS so 你 要 怎样 illustrate
+10NC20MBQ_0101 2265831 2267691 CS 这个 主题 of final fantasy
+10NC20MBQ_0101 2290273 2292311 CS after this 你 要 回去 hall 洗衣服 啊
+10NC20MBQ_0101 2302441 2304281 CS i think 我 要 去 做 我 的 那个 website
+10NC20MBQ_0101 2304941 2308642 CS 可是 我 没有 don't have any 灵感 诶
+10NC20MBQ_0101 2318341 2321601 CS it's not student union 是 welfare services club
+10NC20MBQ_0101 2326201 2327371 CS 我 是 subcomm 而已 诶
+10NC20MBQ_0101 2329591 2330615 ZH 我 不知道 
+10NC20MBQ_0101 2335433 2341811 CS 因为 开始 我 讲 我 做 嘛 可是 是 其实 is me and 多 两个 人
+10NC20MBQ_0101 2346290 2349651 CS 我们 已经 做 了 一个 first draft 啊 可是 那个
+10NC20MBQ_0101 2349991 2352371 CS vice chairman 好像 不是 很 满意 所以 要 重做
+10NC20MBQ_0101 2358221 2361280 CS 已经 很 久 没有 做 website 了 诶 没有 那种 feeling 了
+10NC20MBQ_0101 2364835 2366055 ZH 以前 我 参加
+10NC20MBQ_0101 2366871 2371421 CS 那种 w. s. s. 可以 三个 小时 做 一个 website 出来 我 现在 已经 全部 忘记 了 咯
+10NC20MBQ_0101 2381452 2384575 CS 我 f. y. p. 的 partner 是 惠惠 你 认识 他 吗
+10NC20MBQ_0101 2385771 2387170 CS 她 她 在 n. u. s. 读
+10NC20MBQ_0101 2390289 2391175 ZH (呃)
+10NC20MBQ_0101 2391175 2393015 CS 我 不懂 诶 应该 是 year two 吧
+10NC20MBQ_0101 2397358 2399838 ZH 我 觉得 她 这样 聪明伶俐
+10NC20MBQ_0101 2400325 2402425 CS should be 应该 是 没有 打包 吧
+10NC20MBQ_0101 2404915 2408245 CS 她 本来 是 要 来 读 n. t. u. 的 then 突然间 她 又 换 去 n. u. s.
+10NC20MBQ_0101 2419644 2423487 ZH 哦 可是 多 大多 是 她 在 讲话 所以 对 我 来 说 没有 什么 分别
+10NC20MBQ_0101 2427595 2433475 CS 我们 还有 去 republic-poly 的 那个 auditorium present 给 public 诶
+10NC20MBQ_0101 2436505 2439075 CS 因为 我们 的 project 是 l. t. a. project
+10NC20MBQ_0101 2442735 2444371 CS 他们 public 只 可以 听 而已 啊
+10NC20MBQ_0101 2449925 2453865 CS 其实 是 l. t. a. 跟 全部 polytechnic 的 collaboration
+10NC20MBQ_0101 2454485 2456875 CS so 他们 会 派 他们 的 f. y. p. students
+10NC20MBQ_0101 2457325 2459495 CS 做 project for l. t. a.
+10NC20MBQ_0101 2473257 2476935 CS then 你 在 standard-chartered 你 做 那个 drink station 的 时候 你
+10NC20MBQ_0101 2478239 2481018 CS 你 有 like 帮 他们 鼓掌 还是 什么 吗
+10NC20MBQ_0101 2487898 2490853 EN then did they give you whistle
+10NC20MBQ_0101 2506160 2510810 CS actually 我 有 i. m. h. 的 canvassing project 是 去 做好 像
+10NC20MBQ_0101 2511545 2513010 CS survey 之类 的
+10NC20MBQ_0101 2514313 2515040 ZH 啊
+10NC20MBQ_0101 2515890 2518490 CS just 去 那里 两个 小时 then 他们 就 给 你 五十 块
+10NC20MBQ_0101 2524900 2527220 CS 思嘉 和 o. e. c. 的 chairman
+10NC20MBQ_0101 2530760 2532810 CS o. e. c. 是 overseas expedition camp
+10NC20MBQ_0101 2536590 2539890 CS 我 本来 有 make appointment with i. m. h. 的 人
+10NC20MBQ_0101 2540650 2542750 CS but 他们 没有 follow up 所以 我 就 没有 去 了
+10NC20MBQ_0101 2559480 2564070 CS 哦 那天 我在 宏茂桥 好像 他们 在 live broadcast 诶
+10NC20MBQ_0101 2573028 2576080 CS 我 不 喜欢 看 这种 charity show 因为
+10NC20MBQ_0101 2576985 2582116 CS 我 觉得 你  叫 人家 捐钱 i rather go and do something myself and help 咯
+10NC20MBQ_0101 2586601 2590651 CS then 我 也 不懂 为什么 他们 要 用 ang-mo-kio 那个 stage 因为 很 小 又 这样 挤
+10NC20MBQ_0101 2600781 2603491 CS then 那天 我 本来 要 去 看 看 movie 的
+10NC20MBQ_0101 2604391 2605711 CS but 好像 没有 slot 了
+10NC20MBQ_0101 2607555 2609166 EN either couple retreat
+10NC20MBQ_0101 2610079 2611352 EN or ninja-assassin
+10NC20MBQ_0101 2614871 2617921 CS 我 听说 ninja-assassin 真是 血淋淋 的 好看 咩
+10NC20MBQ_0101 2633071 2635551 CS 你 没有 看 日本 的 drama
+10NC20MBQ_0101 2643160 2644901 ZH 我 根本 都 没有 看电视
+10NC20MBQ_0101 2667609 2671047 CS 讲到 sun burn 我 是 我 从 一点 凌晨 到
+10NC20MBQ_0101 2672954 2673968 CS ten a. m. 而已 诶
+10NC20MBQ_0101 2686202 2688642 CS but then sun burn 好过 下雨 对 吗
+10NC20MBQ_0101 2694907 2697567 ZH 我 觉得 上半部 那些 跑
+10NC20MBQ_0101 2698750 2701008 CS full full fotry two k. m. 的
+10NC20MBQ_0101 2701472 2703852 CS 还 比 那些 twenty one click 的 人 还 少 诶
+10NC20MBQ_0101 2717162 2719612 CS so after 那个 marathon 你 去 哪里 做 什么
+10NC20MBQ_0101 2740086 2743470 CS so 你 现在 你 还剩 什么 什么 东西 要 交差
+10NC20MBQ_0101 2775209 2777302 CS 跳舞 唱歌 你 几时 需要 在 hall
+10NC20MBQ_0101 2801317 2806270 CS 我 记得 after 我们 的 last paper 那天 晚上 我 有 try to 去 跑
+10NC20MBQ_0101 2806634 2808065 ZH 可是 我 跑
+10NC20MBQ_0101 2808692 2813058 CS route c. 的 一半 我 已经 要 死 了 then after that 我就 走回 走回 hall 了
+10NC20MBQ_0101 2814741 2815891 ZH 没有 啊 一个人 去 跑
+10NC20MBQ_0101 2818322 2820832 CS 可以 发生 什么 意外 都 没有 人 要 abduct 我
+10NC20MBQ_0101 2826327 2829699 ZH 哎呀 这种 我 站在 我 站在
+10NC20MBQ_0101 2830182 2833312 CS 车站 也 可能 会 被 车 撞 也是 不能 很难 预料 what
+10NC20MBQ_0101 2842472 2844892 CS actually 那天 是 before midnight 吗
+10NC20MBQ_0101 2848060 2849435 ZH 以前 我 本来 想
+10NC20MBQ_0101 2850052 2852792 CS after 考试 every night 去 jogging
+10NC20MBQ_0101 2861329 2863823 ZH 可是 从 那天 到 现在 我 只 跑 一次 而已 诶
+10NC20MBQ_0101 2876240 2877923 ZH 我 本来 已经 完全
+10NC20MBQ_0101 2878552 2879762 CS 戒掉 facebook 了
+10NC20MBQ_0101 2880312 2882612 CS 可是 昨天 晚上 i was too bored
+10NC20MBQ_0101 2883032 2885752 CS so 我 又 click 那个 castle age 的 link 我 现在 又 开始 玩 了
+10NC20MBQ_0101 2892952 2895322 CS facebook 根本 就是 浪费 你的 青春 咯
+10NC20MBQ_0101 2917442 2919209 CS 我 没有 玩 其他 的 game 诶
+10NC20MBQ_0101 2919562 2921282 CS actually facebook 有 很多
+10NC20MBQ_0101 2921963 2923432 CS multiplayer 的 游戏 诶 你
+10NC20MBQ_0101 2923852 2925762 CS actually 有 scrabble 诶 facebook
+10NC20MBQ_0101 2927550 2929457 ZH 可是 没有 人 陪 我 玩 啊 很 sian
+10NC20MBQ_0101 2935982 2938432 CS 我 听说 过 啊 可是 我 没有 try 过
+10NC20MBQ_0101 2958592 2962372 CS 你 觉得 等一下 去 那里 那个 lecturer 会 还在 学校 吗
+10NC20MBQ_0101 2968846 2970865 CS 我 觉得 the~ technical communication
+10NC20MBQ_0101 2971522 2974192 CS 成绩 我 应该 大多 是 应该 是 拿 b. plus 的 啦
+10NC20MBQ_0101 2984542 2988172 CS 这个 学期 的 results 很 像 三十 号 才 会 出 诶
+10NC20MBQ_0101 2997271 2998708 ZH 难 难说 诶
+10NC20MBQ_0101 3007096 3008908 ZH 等下 先 吃完饭 才 回家 吗
+10NC20MBQ_0101 3013912 3015332 CS 你 要 打包 mac 回家
+10NC20MBQ_0101 3017782 3019892 CS 这样 你 干脆 去 你 家里 那边 的 mac 吃 算了
+10NC20MBQ_0101 3022905 3024335 EN okay
+10NC20MBQ_0101 3028964 3029746 CS 现在 mac
+10NC20MBQ_0101 3030132 3032162 CS 都 没有 那个 monopoly 了 不好玩 的
+10NC20MBQ_0101 3036299 3037395 CS then 他 的 新 的
+10NC20MBQ_0101 3038132 3041302 CS teriyaki chicken burger 也是 没有 什么 好 到 哪里 诶
+10NC20MBQ_0101 3043572 3045212 CS 我 觉得 it's quite normal
+10NC20MBQ_0101 3048562 3051042 CS 哦 你 懂 carl's junior 它 有一个
+10NC20MBQ_0101 3052042 3054692 CS parmesan chicken 的 burger
+10NC20MBQ_0101 3055122 3058122 CS 那个 味道 跟 k. f. c. 的 o. r. fillet burger 一样
+10NC20MBQ_0101 3059332 3062772 CS 他 的 这 份量 大 两 倍 but then 真的 味道 is the same
+10NC20MBQ_0101 3082132 3084822 CS 我 没有 join 诶 which games 你 有 join
+10NC20MBQ_0101 3094722 3096252 CS 他 可以 sign you up
+10NC20MBQ_0101 3096842 3098022 CS without 你 的 同意 的 咩
+10NC20MBQ_0101 3102052 3103602 CS so 你 已经 sign 了 啊
+10NC20MBQ_0101 3105732 3107042 CS then 那个 match 几时
+10NC20MBQ_0101 3112256 3114164 ZH 也是 十二月 吗
+10NC20MBQ_0101 3128480 3130830 CS inter school games 那个 date
+10NC20MBQ_0101 3131170 3132950 CS 会不会 before inter hall games
+10NC20MBQ_0101 3135430 3138260 CS 如果 你 去 inter school games then 你 get injured then how
+10NC20MBQ_0101 3146130 3147590 CS 可是 inter hall
+10NC20MBQ_0101 3147810 3150860 CS 可是 hall 那个 team 的 人 不是 全部 different school 的 咩
+10NC20MBQ_0101 3155746 3157750 CS inter school game 是
+10NC20MBQ_0101 3158190 3159820 CS 什么 school 对 什么 school
+10NC20MBQ_0101 3161770 3164740 CS 好像 likes engineering school 对 business school 啊
+10NC20MBQ_0101 3167880 3169890 CS so 你们 是 represent 哪 一个 school
+10NC20MBQ_0101 3184462 3186580 CS then 整个 volleyball team 都是 engineering 的 咩
+10NC20MBQ_0101 3188520 3190316 ZH 他们 他们 也是 有 参加 吗
+10NC20MBQ_0101 3203890 3205680 CS camp 我们 如果 有 剧本 会 比较 好 诶
+10NC20MBQ_0101 3230726 3231648 EN tomorrow
+10NC20MBQ_0101 3235781 3238761 CS tomorrow 我 本来 好像 有一个 camp but i not sure
+10NC20MBQ_0101 3247131 3250351 CS 这 几天 在 hall there's not much people around also
+10NC20MBQ_0101 3254558 3254894 EN i
+10NC20MBQ_0101 3255391 3258881 CS i think 只有 冠营 jackson 跟 春安 而已
+10NC20MBQ_0101 3261701 3265241 CS 我 知道 他们 有 打 squash 啊 可是 我是 不懂 when they come back
+10NC20MBQ_0101 3267253 3268599 EN oh i think maybe tennis
+10NC20MBQ_0101 3277856 3278838 CS william 有 回来 咩
+10NC20MBQ_0101 3281921 3284751 CS william 他 的 手 好像 还 受伤 还没有 recover
+10NC20MBQ_0101 3316543 3318763 ZH 通常 你是 几点 睡 的 最近
+10NC20MBQ_0101 3326081 3327421 CS then what time 你 起来
+10NC20MBQ_0101 3333461 3335501 CS 我 想 重新 condition 我 的 body
+10NC20MBQ_0101 3335681 3338581 CS 我 想 每天 十二点 睡 then 七点半 早上 wake up
+10NC20MBQ_0101 3344445 3346831 CS 可是 我们 下 个 sem 的 modules
+10NC20MBQ_0101 3347811 3351651 CS 好像 一 两 天 都会 有 八点半 lecture so 是 跑 不掉 的 咧
+10NC20MBQ_0101 3364038 3365494 ZH 好 吧 我们 每个
+10NC20MBQ_0101 3365814 3367714 CS saturday morning 在 学校 读书
+10NC20MBQ_0101 3375443 3377061 EN so i also considering
+10NC20MBQ_0101 3377314 3379014 CS 可能 不要 take 这样 多 module
+10NC20MBQ_0101 3382584 3384104 CS 可是 那个 plan 是
+10NC20MBQ_0101 3384616 3385533 ZH 三年 嘛
+10NC20MBQ_0101 3385804 3387554 CS 我 打算 three and a half years
+10NC20MBQ_0101 3390464 3392624 CS so 我 也 不需要 follow it so rigorously
+10NC20MBQ_0101 3399864 3405324 CS actually 有一个 module three zero one 是 programming languages 我们 next sem 可以 take 诶
+10NC20MBQ_0101 3410159 3412959 CS 那个 应该 是 那些 parentize 那些 东西 咯
+10NC20MBQ_0101 3413484 3414364 CS 没有 lab 的
+10NC20MBQ_0101 3430609 3433424 CS 你 觉得 我 可以 before 明天 finish 我 的 website 吗
+10NC20MBQ_0101 3439966 3441904 CS 可是 w. s. s. 他 是 给 你 很多
+10NC20MBQ_0101 3442354 3444784 CS images 跟 sound clips
+10NC20MBQ_0101 3445194 3447694 CS then 你 做出 一个 website 出来
+10NC20MBQ_0101 3448034 3449784 CS 可是 我 的 w. s. c. 他们
+10NC20MBQ_0101 3450184 3452134 CS 只 给 我 two c. d. of photos 而已
+10NC20MBQ_0101 3467114 3470414 CS 可是 他们 要 又 那 要 那种 square square 的 design
+10NC20MBQ_0101 3475398 3478213 CS 他要 vibrant and lively but
+10NC20MBQ_0101 3478724 3481734 CS 又 要 看起来 很 正 very formal
+10NC20MBQ_0101 3486254 3491714 CS 可是 他 的 logo 已经 是 那种 curly curly 的 then 怎样 看 都 不会 formal 了 then 怎样 做 怎样 fit 在 一个 formal website 里面
+10NC20MBQ_0101 3511614 3514764 CS 坦白 讲 i think sleeping 是 挺 浪费 时间 的
+10NC20MBQ_0101 3519504 3521284 CS 我 觉得 睡 太多 is a waste of time
+10NC20MBQ_0101 3527514 3530034 CS you spend 你 half your life sleeping anyway
+10NC20MBQ_0101 3551234 3553674 CS 我 poly 没有 join c. c. a. 诶 你 有 join c. c. a.
+10NC20MBQ_0101 3556334 3558854 CS then 为什么 你 大 现在 大学 你 要 join 这样 多 东西
+10NC20MBQ_0101 3565824 3568764 CS 我 也是 feel that 我 poly 时候 miss out 太多了
+10NC20MBQ_0101 3573863 3576804 CS but 现在 想 起来 我们 可能 应该 poly 的 时候 join 现在 不要 join
+10NC20MBQ_0101 3598703 3600321 ZH 新年 要 买什么 东西
+10NC20MBQ_0101 3603266 3604194 ZH 没有 钱 诶
+10NC20MBQ_0101 3625084 3626434 CS 那个 outing for 谁
+10NC20MBQ_0101 3629444 3631034 CS but then next week 我 没有 空
+10NC20MBQ_0101 3642598 3644573 ZH 九号 到 十七号 我 没有 空
+10NC20MBQ_0101 3653617 3656434 CS 然后 你 会 觉得 就 差不多 好像 exam 一样
+10NC20MBQ_0101 3672517 3674817 EN how can you get an interview that at last one hour
+10NC20MBQ_0101 3683634 3685934 CS 搭 shuttle bus what 都 不用 付钱
+10NC20MBQ_0101 3695564 3697944 CS 你 不是 讲 要 打包 mcdonalds 咩
+10NC20MBQ_0101 3707261 3710846 CS okay 我 就 陪 你 一起 走去 那里 吧
+10NC20MBQ_0101 3716298 3718304 CS anime 我 都 没有 inspiration
+10NC20MBQ_0101 3732971 3733617 ZH 我 觉得
+10NC20MBQ_0101 3734699 3738193 ZH 考试 好像 比较 简单 诶 你 知道 我 每天 就 起来 就是 要 读书 这样
+10NC20MBQ_0101 3751974 3754167 CS i'm not enjoying doing 我 的 website
+10NC20MBQ_0101 3757617 3759813 ZH 太迟 了 我 不可以 丢下 他们 不管
+10NC20MBQ_0101 3781324 3784594 CS 你 会不会 play any 乐器
+10NC20MBQ_0101 3795541 3798210 CS you never formally 上 过 any lesson
+10NC20MBQ_0101 3803234 3804364 CS 为什么 你 不要 continue
+10NC20MBQ_0101 3814048 3815365 ZH 现在 不可以 继续 吗
+10NC20MBQ_0101 3819863 3821278 ZH 弹吉他 是 自己 学 的 啊
+10NC20MBQ_0101 3841598 3844194 CS 我 什么 乐器 都 没有 learn 过
+10NC20MBQ_0101 3848596 3851766 ZH 吓 你 中学 有没有 参加 什么 课外活动
+10NC20MBQ_0101 3854553 3857674 EN secondary school you only join boys brigade
+10NC20MBQ_0101 3871334 3872592 ZH 我中学是 
+10NC20MBQ_0101 3873124 3874664 CS 参加 drama society
+10NC20MBQ_0101 3875364 3876244 CS 还有 library
+10NC20MBQ_0101 3886034 3887654 CS i thought 他 会 自己 回来 的
+10NC20MBQ_0101 3888078 3888798 EN not meh
+10NC20MBQ_0101 3895607 3897154 CS 我 觉得 we should talk more
+10NC20MBQ_0101 3897513 3900523 ZH 因为 我们 已经 很 多 时 已经 浪费 很多 时间 没有 讲话 了
+10NC20MBQ_0101 3916865 3920792 ZH 我 觉得 就算 你 洗衣服 可能 下雨 你也 没有 办法 收 起来 咧
+10NC20MBQ_0101 3926334 3930114 CS 有时候 我 洗衣 服 i will hang it in my room then i use 用 fan 来 吹
+10NC20MBQ_0101 3937614 3939044 CS so far 还 okay
+10NC20MBQ_0101 3950094 3951444 CS 除了 standard-chartered
+10NC20MBQ_0101 3951784 3955034 CS 你 的 f. o. c. still have what canvassing activity
+10NC20MBQ_0101 3963304 3965134 CS 为什么 n. t. u.
+10NC20MBQ_0101 3965854 3968564 CS 全部 的 model 都是 这样 都是 需要 canvassing
+10NC20MBQ_0101 3978464 3982334 CS 学校 activity 没有 给 some amount of funding meh
+10NC20MBQ_0101 3986425 3989426 CS 你 知道 h. a. b. 要 筹 三千块
+10NC20MBQ_0101 3994494 3998554 CS 他们 要 用 fish-and-co for 那个 event

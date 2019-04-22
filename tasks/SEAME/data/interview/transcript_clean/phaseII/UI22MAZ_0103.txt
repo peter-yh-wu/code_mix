@@ -1,0 +1,202 @@
+UI22MAZ_0103 0 3340 EN doctor chan chan huah doctor chan huah yong ah hah
+UI22MAZ_0103 6015 7919 ZH 哦 这样就会比较松一点咯
+UI22MAZ_0103 9174 10748 EN 
+UI22MAZ_0103 22801 24455 CS 就是 lecturer pay
+UI22MAZ_0103 26271 26904 EN uh huh
+UI22MAZ_0103 29628 31439 EN ah allowance ah hah
+UI22MAZ_0103 34057 35476 ZH 哇很不错喔
+UI22MAZ_0103 36934 39349 ZH 出去外国呢 好像你是在
+UI22MAZ_0103 41081 42500 CS 也是有 allowance lah
+UI22MAZ_0103 43621 50784 CS in 假如好像你之前是在 啊 法国 法国 hor 用法郎啊还是 malaysia
+UI22MAZ_0103 51153 52540 CS euro ah 算 euro ah
+UI22MAZ_0103 53212 56739 CS euro 也不错喔 而且还是 waive 了那些学费是吗
+UI22MAZ_0103 58375 59184 EN hmm
+UI22MAZ_0103 60095 60603 ZH 哦
+UI22MAZ_0103 61365 62831 CS 他们 education free 的啊
+UI22MAZ_0103 66698 71635 ZH 哇 这样还有得考虑可以去别位玩玩
+UI22MAZ_0103 76318 77220 CS 有 cover
+UI22MAZ_0103 79026 83368 CS tuition fee 就是表示好像有些 paper 你要拿的话就必须要自己给啦
+UI22MAZ_0103 88844 89719 EN uh huh huh
+UI22MAZ_0103 92004 92991 EN uh huh huh
+UI22MAZ_0103 93527 94825 ZH 就是那个自己给啦
+UI22MAZ_0103 101257 104328 ZH 哦 就更贵 哦
+UI22MAZ_0103 105066 109268 CS 哦 原来 education 的地方也要去找一下人
+UI22MAZ_0103 112513 116071 CS 哦 都有这样的 facili 这样的方便的地方啦
+UI22MAZ_0103 116829 119493 CS 哦 但是去到那边你就要学新的 language lor
+UI22MAZ_0103 119932 121958 ZH 因为那边英文不通用啊
+UI22MAZ_0103 125604 126704 ZH 啊 对咯
+UI22MAZ_0103 127973 130879 ZH 那边生活啊 生活生活就比较那个咯
+UI22MAZ_0103 131866 134641 ZH 一个人在那边 三 你在那边多年吗
+UI22MAZ_0103 137593 140913 ZH 反倒来我问你 pula  四年
+UI22MAZ_0103 142191 143750 ZH 啊呵呵呵
+UI22MAZ_0103 147270 149943 CS 哦我在 pentamaster ah
+UI22MAZ_0103 150514 152884 CS pentamaster 他是一个
+UI22MAZ_0103 153843 170205 CS 它起初是美 呃是 image processing 的公司啊 它是小 以前是刚开始好像我记 没有记错的话它是从 machine learning 那边开始的 then 过后 develop 变成比较 cover 比较多 area 了啦
+UI22MAZ_0103 170403 183521 CS 它主要主攻也是 啊 好像一些 company request 一些 solution on 怎样去 identify 这些 mound 怎样讲哈 好像它的 product 有没有坏
+UI22MAZ_0103 183973 189212 CS 就可能它一次过几百个 product 这样跑过的 而且人手就没有这样快
+UI22MAZ_0103 189361 197021 CS 它须要 computerised 它比较快一点咯 所以 就 in~ 我们用 ima~ 那个照相机来 capture 那些 image
+UI22MAZ_0103 197401 204637 CS 它的 product 的 image then 然后我们用 alogrithm 去 segment 它 okay 这个是 barcode barcode 有没有坏
+UI22MAZ_0103 204793 210108 CS then 这个是 哈好像 biscuit 饼干 的话 这些 biscuit 饼干到底对不对 printing
+UI22MAZ_0103 210802 215884 CS 它其 主要也是 pattern matching 罢了咯 ba~ basic algorithm 是 ba~ ah pattern matching loh
+UI22MAZ_0103 222933 227780 CS 它自己他们的 product 是 machine lor 一架大 machine lor
+UI22MAZ_0103 228491 230511 CS then 可能它 machine 是
+UI22MAZ_0103 231001 237927 CS 假如你是做饼干的话就一架大个 machine 饼干 加埋那些 belt 你 design engineer machinery 全部有到完咯
+UI22MAZ_0103 238789 240227 ZH 对 啊
+UI22MAZ_0103 240651 246586 CS 整 set lah 就是有那些 mechanical engineer soft~ 那些 software engineer electronic engineer 全部一起咯
+UI22MAZ_0103 250750 254314 CS 对 就很多种不同的 ima~ 呃不同的 machine
+UI22MAZ_0103 254671 257274 CS semiconductor 就比较小架
+UI22MAZ_0103 257858 265974 CS 小架一点哪 假如你这饼干长啊就够力了啊 可能整间 半间的 factory 你用完啊 你一架 machine 就够长了
+UI22MAZ_0103 266549 274421 CS then 那个 semiconductor 的话我有做过一些啦 但是很 眼睛很痛
+UI22MAZ_0103 274983 278446 CS 因为刚开始的时候你是 manually 用手拉的
+UI22MAZ_0103 278904 281328 CS then 它的东西是好像米这样大粒的
+UI22MAZ_0103 283250 286428 CS then machine 还没有出来嘛 then 我们 software 要先做先嘛
+UI22MAZ_0103 286692 292277 CS then 我们要讲明我们要需要多少的那些 measure~ measurement ah camera 要多高
+UI22MAZ_0103 292757 296800 CS 那个 lighting 要怎样放 then 我们要讲清楚了
+UI22MAZ_0103 297243 303687 CS so 那个 material designer 才能 material engineer 才能 design 那个 machine 出来 so that 全部能能放到位
+UI22MAZ_0103 304408 306939 CS 啊 所以我们就 manually lor 放在那边了桥咯
+UI22MAZ_0103 307596 312476 CS then 再用 software desi~ 那个 software 又 software part 又 design then
+UI22MAZ_0103 313322 316596 CS 用这种我们 capture 这种 image 跟 software
+UI22MAZ_0103 317132 321166 CS 放给 software 跑咯 看 software 能不能拿到这样好的 result
+UI22MAZ_0103 321307 327484 CS 不然就是要桥我们的那个 camera position ah 可以拿到更好的 image lor
+UI22MAZ_0103 332084 347684 CS 我进去那个 develop 那个 department 是 r. and d. lah 但是他们的 research 都不是很那种 official 的 research ah 主要也是看有什么 solution 人家人做 有些那些 available solution 他拿进来 then apply
+UI22MAZ_0103 347994 353686 CS 就那种啦 不会像我们现在这种 research 真正的是 new new algorithm 那种
+UI22MAZ_0103 355274 358518 CS 就可能人家 test on 其它的 image lah then 他讲
+UI22MAZ_0103 359223 364912 CS 啊 then 很多人很多都是 wikipedia 拿下来的 
+UI22MAZ_0103 365824 367046 CS wikipedia 很多
+UI22MAZ_0103 367968 375088 CS 我也是有做过一些东西因为我还跑去 search 找看那些 research paper ah supervisor 讲做么你这样麻烦 wikipedia 几多
+UI22MAZ_0103 375643 376987 ZH 他叫我去拿下来就好了
+UI22MAZ_0103 378436 384826 CS 就 就可能 不知道哦 他们的 research 的 concept 不同 可能他们要快 production
+UI22MAZ_0103 385262 391009 CS 要很快 有时 因为我自己我自己 trainee 也是 feel 能 feel 到他们的 stress ah
+UI22MAZ_0103 391440 398126 CS 有时候老板 啊好像 supervisor 给一些东西做 做不完 我也跟着他们开 o. t. 到晚上十一十二点才回家
+UI22MAZ_0103 403431 407521 CS 最主要是 main main 的 area 是 semiconductor
+UI22MAZ_0103 407916 410512 CS then 还有一些 food industry 跟
+UI22MAZ_0103 411076 417740 CS 他没有 我那时候在那边的时候刚刚好在 develop 这一个 machine 是 for medical 的
+UI22MAZ_0103 418186 419434 CS 是洗 glove 的
+UI22MAZ_0103 420584 424659 CS 啊那个 gl~ 那个 glove 就弄 让我呆在那边四个月了
+UI22MAZ_0103 425069 429983 CS 那个 machine 就给我呆着四个月在那边 去每天去那边玩那个 medical glove lor
+UI22MAZ_0103 431050 442094 CS 一架洗 嗯 他们 design 好好的 machine for 怎样从肮脏的 glove 洗干 洗干消毒打包
+UI22MAZ_0103 443181 449967 CS 啊 那个就很够力 很肮脏啊感觉到 整个房间就是那个有血的 glove
+UI22MAZ_0103 450431 462410 CS then 你要呆在里面整天咯 在那边 他们 design 他们的 machine ready to run 了你就在那边 看咯你的 sofware part 那你就看你的 好像我是 software 那边那我就看 software 那个东西咯
+UI22MAZ_0103 464255 464791 ZH 哈
+UI22MAZ_0103 467584 468233 ZH 啊
+UI22MAZ_0103 469333 475129 CS 就我们 其实他的 machine 都不是在我们 consumer area 的
+UI22MAZ_0103 475539 484383 CS 我们都不知道他们的 machine 的东西 只是他们是会在 company 其它的 company lor 他们 main 的 他们的 main customer 是其它的 company lor
+UI22MAZ_0103 484765 494328 CS 好像有 intel ah a. m. d. ah 有一些 dell 的也有 depends lah motor 诶上次还有一个我的 chipset 的是好像是
+UI22MAZ_0103 495795 499226 CS 一个电话哦 motorola 的电话里面的其中一个 chip
+UI22MAZ_0103 499829 507135 CS 他们 produce 了 send 过来 他们 manufacture 了那个 chip send 过来整 set 它是一个 tape 的
+UI22MAZ_0103 507701 509593 ZH 每一秒过五百粒
+UI22MAZ_0103 510381 513393 CS 你的 你的 camera 就这样 snap snap snap snap snap 五百个
+UI22MAZ_0103 513822 520226 CS liao 我们 inspect 好就是好像 q. a. 这样咯 然后再 send 回去 这些这些不能用
+UI22MAZ_0103 520651 527181 CS then 能能用的他就直接放进就是 manufacture 起来 直接 pateri 进去那个 machine 里面
+UI22MAZ_0103 533091 535128 CS 对整架 send 过去
+UI22MAZ_0103 535630 539290 CS 那 send 出去的时候那个所有的 engineer 都很没有空
+UI22MAZ_0103 539862 544344 CS 一定要 大多数啊 好像明天要 send 了 今晚就没有人回家了
+UI22MAZ_0103 544658 547290 ZH 我也中过啊 中到四点
+UI22MAZ_0103 547930 553233 CS 跟着他们 trainee 也是跟着中 他讲你不可以回 ko 跟着来看 看罢了
+UI22MAZ_0103 558510 565682 CS 没有 o. t. 啊四百块就是四百块 我们那时还有还有 allowance ah 四百块 我其他朋友有些没有 allowance 的
+UI22MAZ_0103 566634 573571 CS  then 我们四百块没有办~ 也是没有啦只是 也是跟着学罢了 学啦跟啦
+UI22MAZ_0103 573829 575380 ZH 傻傻就这样学先啦
+UI22MAZ_0103 575804 577403 ZH 学了一个道理喔
+UI22MAZ_0103 577863 580278 ZH 就是不要做傻工 
+UI22MAZ_0103 580994 583188 ZH 中了一次就没有了 没有下一次了
+UI22MAZ_0103 583505 586184 CS 你叫我 stay back ah 我是 trainee 罢了喔 不用 stay back ah
+UI22MAZ_0103 587116 591165 CS 啊 有时候 stay 到八点多咯 哈 肚子饿了就回家了不要管他了
+UI22MAZ_0103 593577 594546 ZH 啊
+UI22MAZ_0103 596285 605256 CS 就一个公司的 cultural 他们怎样去 starting 一些 东西 有一 我有跟到他们 starting design lor
+UI22MAZ_0103 605622 614490 CS 怎样开始从不知道的东西 好像那时候我要跑的时候他们有开始做 contact lens
+UI22MAZ_0103 614962 618037 CS inspect contact lens 就看那个 contact lens 有什么坏
+UI22MAZ_0103 618629 621462 CS then 才知道原来 contact lens 是很不好的东西
+UI22MAZ_0103 622042 634076 CS 因为 contact lens 他们做好了啦 它有一些 malf~ mal~ mal~ 好像坏的 就可能割不好 它的 contact lense 本来要圆圆的吗 它有一些角角角角这样的 牙齿的 then contact lens 里面会有洞
+UI22MAZ_0103 634371 638876 CS 它的洞可能是通的还是一个小洞这样 有 bubble 的 他们做的时候有 bubble
+UI22MAZ_0103 639251 641855 CS then 那些东西就会让你的眼睛痒
+UI22MAZ_0103 642608 645958 CS then 痒了就会红 啊 就会割到眼睛这样咯
+UI22MAZ_0103 646360 650664 CS then 我们用放大镜照下去的时候就知道了 原来这个 contact lens 很肮脏的
+UI22MAZ_0103 651721 657224 CS 是完全是 fresh 的拿 拿出来 从它的 cover 这样开出来照 就有这样的东西了
+UI22MAZ_0103 658068 663767 CS then 他就叫我们 怎样 design lor 怎样 design 那些 machine lor 要从怎么角度照
+UI22MAZ_0103 664444 668548 CS then 要拿什么怎样的 image 要怎样拿 那个就够力了
+UI22MAZ_0103 669015 671356 ZH 每天这样玩五百个
+UI22MAZ_0103 672259 676607 CS 五百个那个 contact lens 开新的知道吗 五百 新的每天
+UI22MAZ_0103 677026 679026 CS 他每天 send 过来 我们每天开的
+UI22MAZ_0103 679622 682957 CS then 问人你要吗 给你 不敢 没有人敢穿
+UI22MAZ_0103 683515 691116 CS then 那些全部都是 你不知道它坏不坏的 你开过了就要穿了 不然就是 因为它是 daily 的吗所以它就丢掉了
+UI22MAZ_0103 692543 695631 CS 哈 branded 的啦 但是不方便讲那名字啦
+UI22MAZ_0103 700470 704211 ZH 啊 就不戴那个咯 不戴那个标头的咯
+UI22MAZ_0103 704955 709387 CS 但是现在听说他们已经有 已经 gao dim 那个 machine 已经做好了了
+UI22MAZ_0103 709611 711556 CS 已经 send 过去他们的地方了 then
+UI22MAZ_0103 712178 715147 CS 他的东西 improve 了 差不多要
+UI22MAZ_0103 716043 722440 CS 而且他们的 accuracy 要九十九点 x 所以是九十九巴仙要好
+UI22MAZ_0103 730911 734928 ZH 对咯 有 十千里面会有一百个人 最少 会中
+UI22MAZ_0103 735961 737365 ZH 啊 很高
+UI22MAZ_0103 738133 742179 CS then 其他的好像 semiconductor 就不会这样高啦 九十巴仙就好了
+UI22MAZ_0103 749277 754902 CS 有啊有啊 他的那边的 supervisor 我要毕业时候他问我要不要 se~ 要不要去做工
+UI22MAZ_0103 755709 758887 CS 啊 直接 send 给我问 offer 我这个价钱要不要
+UI22MAZ_0103 759573 762126 CS 啊 then 我就讲我不要啦 then 我 s~
+UI22MAZ_0103 762366 766033 CS 就不 跟我几个朋友讲咯 then 我讲那边要请人你们去啦
+UI22MAZ_0103 766372 771535 CS recommend 了五个去 五个全部跑出来  半年后五个人跑出来到完
+UI22MAZ_0103 772749 774174 CS handle 不到啦
+UI22MAZ_0103 775711 779493 ZH 而且也是蛮骄傲的因为五个人进去没有一个薪水高过我
+UI22MAZ_0103 779801 783038 CS 没有一个薪水高过我 o~ 高过 offer 我的价钱
+UI22MAZ_0103 783694 787347 CS 他那时候 offer 我两千五 under probation ko
+UI22MAZ_0103 788998 790548 EN ah for
+UI22MAZ_0103 796503 801214 ZH 啊 因为他 那时候我有一些 因为我最主要是
+UI22MAZ_0103 801637 807936 CS 我有 medical 因为那时候我有 image processing 的 base then 其他朋友没有 image processing 的 base 没有拿过 paper
+UI22MAZ_0103 808351 810348 CS 所以那个可能是我的 credit 啦
+UI22MAZ_0103 810975 820126 CS then 去 刚刚的四月他又 send 多一张 s~ s. m. s. 给我 他问我读完书了没有  我跟他讲还在读着啊 没有这样快出来
+UI22MAZ_0103 826664 834304 CS part time ah 做 part time 的话有啦 只是没有找到什么 没有找到什么好的出路啦
+UI22MAZ_0103 834785 837563 CS 就有写了一个 website
+UI22MAZ_0103 838595 841364 CS 帮跟朋友两个人写了一个 website lor
+UI22MAZ_0103 841867 850516 ZH 就拿到一点点 还没有拿到钱 写了还没有好 还没有写 好了给他了 还没有拿到钱 等着他扑 啊 批给我们
+UI22MAZ_0103 850866 854726 CS then 那个就我朋友 handle 因为他是 head 了我只是帮他这样做
+UI22MAZ_0103 855238 858129 CS then 其他就做好像一些 sales lor
+UI22MAZ_0103 864014 873986 CS 哦 读 读书读 part time ah 哦 不能哦 discipline 的问题啊 还是一样回去那个 discipline 问题 我假如做 part time 的话五年都不能毕业
+UI22MAZ_0103 874169 877658 CS 我已经知道了 你给我 maximum 五年我也是不能毕业的
+UI22MAZ_0103 878118 881514 ZH 因为做工跟读书的心态不同
+UI22MAZ_0103 883478 884381 ZH 差很远啦
+UI22MAZ_0103 892704 900433 CS 嗯 他是没有 force 你做 o. t. lah 但是 task 是 task lor 时间到就是要了
+UI22MAZ_0103 903001 903948 ZH 啊哈
+UI22MAZ_0103 906246 916634 CS 啊哈 对啦但是 好像一些一个 product 是 cycle 蛮远的 但是你一 同一时间你不是一个 cy~ 一个 product 你可能要两三个 product 同时间跑
+UI22MAZ_0103 918405 921795 ZH 啊哈 是 人手也是一个问题啦
+UI22MAZ_0103 922411 925627 CS 因为 software department 好像只有三个 department
+UI22MAZ_0103 925993 928260 CS then 三个 department handle 不同的东西
+UI22MAZ_0103 928589 929973 CS 不同的 criteria lah
+UI22MAZ_0103 930507 933363 ZH 所以你就会跑到蛮辛苦的咯
+UI22MAZ_0103 935868 939704 CS competitor 有啊 他 competitor 是那个
+UI22MAZ_0103 940551 946094 CS 叫什么名了 嘶 啊 靠近 motorola 的那个叫什么名了
+UI22MAZ_0103 946982 949264 CS venture 不是 venture 那个
+UI22MAZ_0103 950340 955608 CS 忘记了 很靠近罢了 在 motorola 旁边罢了 我忘记他名字了
+UI22MAZ_0103 956490 960467 CS 啊 最近常常有来 u. s. m. 拿学生的
+UI22MAZ_0103 961145 965461 ZH 啊 福利蛮好的也是新的公司才成立不到十年
+UI22MAZ_0103 966618 969146 CS local 的 pentamaster 也是 local 的
+UI22MAZ_0103 981655 994354 CS 嗯 因为 research 的话假如好像 其实很有时候觉得啊 research 你做了 hor 你不能用在 industry 你不能来 不是你赚钱啊是可能别人用你来赚钱啊
+UI22MAZ_0103 994604 1000807 CS 不 人家看到了不能拿来用啊 是一个很可惜的东西咯 因为你的 knowledge 只是拿来看罢了
+UI22MAZ_0103 1001149 1008272 CS 你不能拿来用 then 就你的 contribution 你只是在 knowledge 你对人 社会没有 contribution nah
+UI22MAZ_0103 1008541 1010692 CS then 你的 research 人家不会 appreciate
+UI22MAZ_0103 1011390 1017342 CS 假如你做了好像人家可以用到可以 虽然不是很大 contribution 但是可以用的话 也是蛮
+UI22MAZ_0103 1018442 1021348 ZH 怎样讲啊有一点奖励性 哦我的东西能用
+UI22MAZ_0103 1022335 1032056 ZH 这样会比较 虽然 你可能没有赚到什么啦 你可能只是一个 连名字都没有啦 但是你 那 你知道你的东西被用着 就会有一点成就感咯
+UI22MAZ_0103 1032972 1033889 ZH 会比较
+UI22MAZ_0103 1034833 1040241 CS 那种 向那种方向走的话你会比较 能想到一些比较 productive 的东西咯
+UI22MAZ_0103 1040589 1050406 CS 不然你的 algorithm 很多 algorithm 都是会 能跑 它能出很好的 result 但是你不能在 industrial 用 因为它吃时间
+UI22MAZ_0103 1051111 1053349 ZH 啊 那个也是一个问题啊
+UI22MAZ_0103 1057431 1066153 CS 对 then 你 有些人是 research 的话就讲他的 research 的东西 他一定是 res~ 我的东西是这样好好了好了 但是是不能用的
+UI22MAZ_0103 1072947 1073794 ZH 啊
+UI22MAZ_0103 1078450 1086997 CS 对咯 所以你又不 significant ah 假如 除非你是 improve 到整 很够力啦 很 significant 那种 improvement lah 可能几十巴仙啦
+UI22MAZ_0103 1087336 1096301 CS 几巴仙就不要讲啦 几十巴仙的话 哦 okay lah 那个能 acceptable 只是可能你做了这样人家就会 base on 你的 algorithm 再 improve 你的 algorithm 给它快咯
+UI22MAZ_0103 1097096 1102907 CS 啊 现在有一个是 improve segmentation 的
+UI22MAZ_0103 1103727 1107387 CS 好像我们 fuzzy c. mean hor 有时候跑八张 image 很慢
+UI22MAZ_0103 1107620 1112153 CS then 要 parallelised 它 有一个 research student 在用在做着
+UI22MAZ_0103 1113036 1116354 ZH 那个不知道成不成功 另外讲 还没有看到
+UI22MAZ_0103 1122769 1123623 EN huh huh huh
+UI22MAZ_0103 1125731 1128790 CS 因为 modeling 的话
+UI22MAZ_0103 1138766 1145169 CS 嗯 可以这样讲啦 可是有时候好像 image 的话你要
+UI22MAZ_0103 1145592 1150839 CS 因为很难讲啦 假如你 我们人能 identify 它的 image 的话我们就可以啦
+UI22MAZ_0103 1150952 1153036 CS 假如是一个 unknown 的东西进来
+UI22MAZ_0103 1153294 1156402 CS 它是 image 我们只能知道它是 image 但是我们不知道它是
+UI22MAZ_0103 1157271 1160487 CS medical image ah 还是 normal natural grayscale image
+UI22MAZ_0103 1160940 1164759 CS then 你有 我们就很难知道我们到底要怎样 model 它
+UI22MAZ_0103 1165115 1166560 ZH 啊 那个是一个问题了
+UI22MAZ_0103 1167569 1169402 ZH 因为 你
+UI22MAZ_0103 1170446 1176135 CS 你是 medical image 的话我们知道它有一些 property 我们必须要 handle 那些 property 因为它
+UI22MAZ_0103 1176512 1187345 CS 它主要是 noise lor 因为很 blur 的 它有时候它会来很 blur 的东西 then normal image 的话它只是 grayscale 它不一定会 blur 而且它的那些 edge 会很明显
+UI22MAZ_0103 1187796 1193692 CS 所以那个东西你要分开它咯 所以不同 啊 那个 algorithm 你要 set 那个 parameter 那种不同咯
+UI22MAZ_0103 1197134 1197782 ZH 啊哈

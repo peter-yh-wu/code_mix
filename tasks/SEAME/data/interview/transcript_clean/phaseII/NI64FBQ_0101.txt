@@ -1,0 +1,428 @@
+NI64FBQ_0101 8702 11818 CS 哦 (呃) 我是 cassandra
+NI64FBQ_0101 13428 17450 CS 哦 我 现在 读 e. and e. year two
+NI64FBQ_0101 19297 21090 EN environmental engineering
+NI64FBQ_0101 23504 26850 ZH （呃） 不好 读 啦
+NI64FBQ_0101 30072 34043 CS 很难 then 里面 的 人 都 too clever already
+NI64FBQ_0101 38130 42400 CS mostly polytechnic but they are 那 那种 direct intake 的
+NI64FBQ_0101 43835 47345 CS 啊 那种 directly enter into en environmental engineering 的
+NI64FBQ_0101 52130 55469 CS 觉得 比较 没有 physics ah like easier to study
+NI64FBQ_0101 57732 59950 CS but aiya 很难 咯
+NI64FBQ_0101 61890 65137 CS you know hor 我 gave up on 那个 我的 elective ei for the
+NI64FBQ_0101 65994 68820 EN for the envi process
+NI64FBQ_0101 70123 71900 CS 那个 crime 的 then i didn't go at all
+NI64FBQ_0101 74018 78905 CS 没有 我 没有 take m. c. 因为 我 s. u. 了 then like damn wasted leh but really i no time to study
+NI64FBQ_0101 79580 81360 CS because like that time 我 不是 讲 我 move house
+NI64FBQ_0101 82224 87235 CS the day before 我的 hydrology then 我 都 没有 时间 读 我 九点 才 start to study then until like
+NI64FBQ_0101 87806 90929 CS 半夜 then 读 then 都 没有 时间 读 then 读 structure
+NI64FBQ_0101 91806 99321 CS 读 until until 我 那个 elective oh 也是 读 到 一半 哦 then i just give up lah like 没有 时间 读 了 啦
+NI64FBQ_0101 100806 101740 EN didn't go lor
+NI64FBQ_0101 103636 104337 ZH 没有 
+NI64FBQ_0101 106441 110284 CS 我是 想 take s. u. 了 嘛 so should be okay lah
+NI64FBQ_0101 114543 115270 EN ah yeah lah
+NI64FBQ_0101 121981 122734 EN oh
+NI64FBQ_0101 125305 129876 CS  yeah 我 都 不 知道 可以 这样
+NI64FBQ_0101 132109 133615 ZH 哦 我的 也是
+NI64FBQ_0101 138835 145495 CS 因为 我的 是 他要 s. u. ei 不是 s. u. (er) take m. c. for envi process
+NI64FBQ_0101 146071 150593 CS but i very i find very wasted lah because 是 it's a core core module mah then 你 拿 m. c.
+NI64FBQ_0101 153940 156520 CS 对 啦 but very 我 觉得 很 浪费 时间
+NI64FBQ_0101 161878 163436 EN but yeah lah but
+NI64FBQ_0101 164085 166688 CS because my friend right 那个 malay girl oh
+NI64FBQ_0101 167253 169705 EN she didn't take exams for too semesters
+NI64FBQ_0101 170369 172577 CS 因为 她 psychology barrier 这样 啊
+NI64FBQ_0101 173090 177433 CS 她 有 读 读 for the course but then during exam oh didn't go at all
+NI64FBQ_0101 180442 185194 CS ah that the first semester 她 已经 这样 了 first semester 她 是 polytechnic 的 嘛 first semester 已经 这样 then
+NI64FBQ_0101 185739 188132 EN second semester also like that then i find very wasted lah
+NI64FBQ_0101 188829 190721 EN then the school don't allow her to
+NI64FBQ_0101 191764 197840 CS to 什么 to to study for like more semesters lah they say they have to like complete within the same
+NI64FBQ_0101 198999 202508 EN within the the same period of time as us
+NI64FBQ_0101 206937 211265 CS then yeah lah she very wasted lah then because 她是 from republic polytechnic
+NI64FBQ_0101 214832 220669 EN they don't don't know leh she say ask the school then they don't they don't (er)
+NI64FBQ_0101 222622 228335 CS 那个 啊 they don't allow her to study for more semester but impossible mah 你 不要 study for more semester 你 怎样 clear
+NI64FBQ_0101 229270 233630 CS 对 啊 then 就算 你读 special semester 你 只是 clear elective 而已 你 不 可能 clear
+NI64FBQ_0101 235994 237058 EN ah i also don't know
+NI64FBQ_0101 238772 241836 CS 对 咯 我的 就是 another senior 他 也是 retain
+NI64FBQ_0101 244745 246330 CS for the whole exam 他 没有 去
+NI64FBQ_0101 252788 258709 CS but but actually it's still the same lah like if 他 还 the school fees right it's still the same thing mah
+NI64FBQ_0101 262500 263071 EN ah nor
+NI64FBQ_0101 267798 270824 CS 我 觉得 core very 浪费
+NI64FBQ_0101 271511 272782 CS like 这样 m. c.
+NI64FBQ_0101 275355 279490 CS 对 啦 but i don't want like 很 浪费 时间 啦 like other people
+NI64FBQ_0101 279490 281318 CS graduate then 你 还在 那边 读 这样
+NI64FBQ_0101 291673 294972 CS 我们 的 是 okay lah 不是 经常
+NI64FBQ_0101 300839 301436 EN oh
+NI64FBQ_0101 309382 314031 CS 那 时候 那个 hydrology right 原本 是 不要 去 是 要 take m. c. 的
+NI64FBQ_0101 314758 319250 CS 因为 根本 就 没有 时间 读 啊 i choose my 妈妈 要 搬家 on a such a bad day
+NI64FBQ_0101 320947 323656 CS 因为 我是 要 原本 要 take m. c. then 我 就 问
+NI64FBQ_0101 324323 329950 CS then 他 讲 i think just do and see how lah 看 可以 读 吗 heng lah 那个 exam 是 quite okay
+NI64FBQ_0101 330811 333968 CS 只是 那个 envi process hor 就算 读了 还是 一样 很烂 诶
+NI64FBQ_0101 334480 336150 CS 那些 可以 带 cheat sheet 进去 的 咯
+NI64FBQ_0101 336150 338940 EN really ah super the exam paper is damn hard
+NI64FBQ_0101 341692 342393 ZH 有 啦
+NI64FBQ_0101 343825 346188 CS 因为 我是 真的 是 squeeze envi process
+NI64FBQ_0101 347123 351313 CS 很像 don't know 诶 很 因为 他 syllables 每年 换
+NI64FBQ_0101 352051 353901 EN then really squeeze until
+NI64FBQ_0101 354914 356186 EN wah very very tiny
+NI64FBQ_0101 360965 363795 ZH 啊 我 不 知道
+NI64FBQ_0101 364587 366811 CS 有 啦 有 一个 啦 他的 cousin 可是 他 毕业 了 咯
+NI64FBQ_0101 368612 370196 CS then 我就 跟 他 做 e. i. d. lor
+NI64FBQ_0101 371872 379207 EN  e. i. d. very sucks lah really ah they choose the kind of idea right in the first place i also don't really agree one ah but then no choice mah
+NI64FBQ_0101 383414 388062 EN like at first we were thinking of another idea but then they say end up do until (er) cannot do
+NI64FBQ_0101 388452 391401 EN then they change idea lor then they come out cooling vest
+NI64FBQ_0101 393843 399318 EN they say want to cool like wear wear the vest what can cool your body then don't need air-con
+NI64FBQ_0101 399634 401219 EN really sai one
+NI64FBQ_0101 401998 405995 CS then 就 (呃) 我们 做 那个 prototype
+NI64FBQ_0101 406598 409481 CS very ugly leh really no materials leh we use 那种
+NI64FBQ_0101 410052 413650 CS 鱼缸 那种 tube then coil to show color
+NI64FBQ_0101 413999 418674 CS then 放 一个 这样 一个 box of like compressor radiator very ugly know it's like 后面 这边 哦
+NI64FBQ_0101 419123 420466 CS 有 个 大大 个 的 compressor
+NI64FBQ_0101 420466 423971 CS then 两个 fan 在 这边 嘞 因为 air-con mah then 要 排 那个 气 出去
+NI64FBQ_0101 425079 431805 EN very ugly lah but then the professor all also fake fake one lor all say (em) good good good i think really ah they fake one anyhow just say good good good
+NI64FBQ_0101 433571 434116 ZH 没有
+NI64FBQ_0101 435804 437986 EN that that one very lousy leh
+NI64FBQ_0101 439284 441673 CS like 因为 你们 是 楼下 嘛 我们 是 楼上
+NI64FBQ_0101 442634 448701 CS then it's quite then ours 是 facing 外面 我们 是 facing window 我们 是 last few groups
+NI64FBQ_0101 449272 452939 CS 没有 人 经过 的 因为 just really just sit there
+NI64FBQ_0101 453375 458013 CS 可是 they choose one leh because they book according to 那个 group number mah then 他就 把 你 放 在 那边
+NI64FBQ_0101 458699 461867 CS then then just 真的 是 没有 人 没有 人 来 咯
+NI64FBQ_0101 462987 463818 EN then the
+NI64FBQ_0101 465221 467299 CS 有些 really do until very nice leh they got all the box
+NI64FBQ_0101 467610 470401 CS you know the presentation oh it's the 那个
+NI64FBQ_0101 470726 474235 CS 那个 老师 啊 就 站 在 center of 那个 hall lor
+NI64FBQ_0101 474725 482178 CS no place to sit at first i thought press presentation hor we go nanyang audi that's why sit down then got stage 什么 那种 don't have leh
+NI64FBQ_0101 484383 489391 CS 哦 我们 的 不是 我们 的 因为 (呃) exam hall 楼上 那个
+NI64FBQ_0101 490252 495134 CS 他就 站在 那边 咯 just stand down there just say the award say what award award 这样 而已
+NI64FBQ_0101 496251 502044 CS 没有 我 没有 it's just 就 站在 那边 just 这样 讲 讲 讲 讲 完 了 then okay no more
+NI64FBQ_0101 506381 509043 CS 哦 对 啦 because nothing much to build mah
+NI64FBQ_0101 511383 514528 EN (er) my friend ah spend a lot
+NI64FBQ_0101 515460 519070 CS 因为 他 讲 two hundred mah 他 就 spend lor really really just anyhow just spend
+NI64FBQ_0101 520005 523766 CS then that time oh 我是 要去 shaun 的 家 也是 what
+NI64FBQ_0101 524623 530596 CS on the e. i. d. that day 我们 presentation 完 就想 after that day 就 去 shaun 家 嘛 他讲 要 celebrate 他的 birthday
+NI64FBQ_0101 531791 534673 ZH 那个 玉林 那个 原本 我 要 去
+NI64FBQ_0101 535478 540323 CS then because we need to give 那个 我们 的 那个 mentor 那个 endorse receipt
+NI64FBQ_0101 541089 545867 CS then 要 等 到 五点半 then after that 我 misestimate time then 我 回家 几点 了 又 不 可以 下去 了
+NI64FBQ_0101 547696 549566 ZH 七 点 四十 五
+NI64FBQ_0101 551487 556372 CS 就 因为 我 以为 可以 哎呀 不要 担心 还有时间 没有 想到 真的 jam jam jam all the way
+NI64FBQ_0101 558811 559564 ZH 没有
+NI64FBQ_0101 561355 566431 ZH 仙萍 敏捷 伊玲 咯 我 看到 照片 啊
+NI64FBQ_0101 568162 568707 EN ah nor
+NI64FBQ_0101 571070 578082 CS 没有 就 看到 你们 的 (呃) 那个 e. i. d. right 我 就 看 我 原本 进去 我就 ei wah 还有 banner 这样 grand 以为 是 for 我们 的
+NI64FBQ_0101 578443 583351 CS then after that 又 看 sponsor 好像 不对 诶 我们 都 没有 sponsor 为什么 你们 有 sponsor then 觉得 very unfair
+NI64FBQ_0101 584286 585620 EN then like wah
+NI64FBQ_0101 587090 588609 CS 我们 没有 sponsor
+NI64FBQ_0101 590544 593410 CS 啊 我 看到 什么 open house and competition 我们 没有 啊
+NI64FBQ_0101 594725 599944 EN whole time really very slack just anyhow do one idea put down there you know got one group hor
+NI64FBQ_0101 600274 601494 EN got three person only
+NI64FBQ_0101 602793 606661 EN then my (er) around between six to eight
+NI64FBQ_0101 607208 611357 EN then my my group ah got one kay-poh that guy right go and ask go and ask that guy
+NI64FBQ_0101 611357 613544 CS 那个 那个 男的 哦 是 我们 envi 里面 哦
+NI64FBQ_0101 614297 619573 CS they very mean lah they call him like loner 因为 他很 introverted then 没有 跟 别人 讲话 没有 make friends
+NI64FBQ_0101 619573 620823 CS so 他是 everytime alone
+NI64FBQ_0101 621462 625352 CS then they 好像 排斥 他 这样 啦
+NI64FBQ_0101 626162 629019 CS just then then 他就 form 那个 group lor
+NI64FBQ_0101 629590 633796 CS 不是 不是 就是 part (er)
+NI64FBQ_0101 634758 639512 CS 那个 我 朋友 那个 我 那个 很 kay-poh 的 朋友 他 就 去 问 then 他 讲 原本 是
+NI64FBQ_0101 639975 643027 CS around seven people 可是 意见 不合
+NI64FBQ_0101 644052 644935 CS 他 就 split
+NI64FBQ_0101 645896 651427 CS then then he became like 他就 the the group members also didn't do anything leh you know when we went to the booth hor
+NI64FBQ_0101 651973 656095 CS it was the other two members i think 他们 是 senior 来的 他们 什么 东西 都 没有 做 诶
+NI64FBQ_0101 657032 659792 CS they just sit down there and then say oh 什么 东西 都 不知道 什么 东西 都 不知道
+NI64FBQ_0101 660743 666791 CS then they just say 你们 just present oh 没有 question 就 很好 then they then they will say like oh 我 不是 这个 group 的 不是 这个 group
+NI64FBQ_0101 667258 671274 CS then like really ah like 让 他 一个 人 to man 那个 booth
+NI64FBQ_0101 671933 676020 CS then 他 就 他 是 讲 (er) he email them the title
+NI64FBQ_0101 676477 679199 EN then let them choose then they just do it you know their poster hor is
+NI64FBQ_0101 679723 680762 CS 很像 microsoft word
+NI64FBQ_0101 682190 686595 CS 就会 两张 咯 then just 很多 words 就讲 bicycle 的 东西
+NI64FBQ_0101 687218 690725 CS then (er) like 他的 groupmates oh 来 一下子 then after that disappear
+NI64FBQ_0101 691373 693348 ZH 就 剩下 他 一个 人 他 一个 人 坐 在 那边
+NI64FBQ_0101 694412 698467 CS 自己 man ah then the professor 来 哦 他就 一个 人 这样 讲 这样
+NI64FBQ_0101 702842 706058 EN ya lor you know the teachers right they come damn late leh
+NI64FBQ_0101 706058 711515 CS at first they say eight thirty start then we (er) the door was not even opened 我们 等到 九点 then they open
+NI64FBQ_0101 711921 719140 CS not a lot of professors came ah then 等到 like afternoon 一 一 两 点 多 then 他们 才来
+NI64FBQ_0101 720127 721832 EN then ah
+NI64FBQ_0101 727658 730668 ZH 哦 就是 有 啊
+NI64FBQ_0101 730953 735316 CS 我们 就是 有 一些 有 来 有 来 and 看
+NI64FBQ_0101 736537 740406 CS 就是 (呃) just a few professors just come and see see see lor then after that 就 没有 了
+NI64FBQ_0101 740744 746716 CS 等到 一两 点 then they like after meeting 还是 什么 then 全部 都 来 就 很 briefly 的 go through everything 这样 咯
+NI64FBQ_0101 747755 749867 EN ah very waste time ah
+NI64FBQ_0101 750906 752282 CS then 那个
+NI64FBQ_0101 753061 757157 CS 他的 我 看到 有 一些 哦 really bring one solar panel 过去
+NI64FBQ_0101 759683 763311 CS 有 有 一个 啊 bring the whole solar panel 过去
+NI64FBQ_0101 763966 768541 CS 他讲 是 borrow 就 有些 idea 很 interesting ah
+NI64FBQ_0101 769367 771477 CS then 我就 觉得 自己 的 really very lousy
+NI64FBQ_0101 773912 774665 EN yeah lah
+NI64FBQ_0101 775989 779251 CS then 那个 then 我们 的 group right 又 中 那个 (呃)
+NI64FBQ_0101 779771 783346 CS 他叫 我们 leave the poster behind for 那个 external moderation
+NI64FBQ_0101 784861 788871 CS then 因为 原本 哦 我们 要 交 那个 slip for endorsement mah
+NI64FBQ_0101 789343 797011 CS then 就 经过 那个 不 知道 谁的 office ah then 他们 就 问 then 他讲 啊 他 选 a few poster from the top middle and bottom range mah
+NI64FBQ_0101 797497 800907 CS then 我们 的 group 被 选 what then 我们 就 在 wonder 是 不是 bottom range
+NI64FBQ_0101 801756 805148 EN it's really the idea is is very lousy oh then
+NI64FBQ_0101 805911 809232 CS only the poster looks nice lah because 那个 prototype ah 也是 很 难看 的
+NI64FBQ_0101 809838 813110 CS 它 是 很 dull 的 一个 vest then 就 有 一些 东西 hang 在 那边
+NI64FBQ_0101 813811 815031 ZH 很 奇怪 很 奇怪
+NI64FBQ_0101 816615 817420 ZH 八个 咯
+NI64FBQ_0101 819901 821861 CS 其实 全部 都 poly 只有 一个 是 j. c. 
+NI64FBQ_0101 824094 824588 ZH 啊
+NI64FBQ_0101 827938 828587 ZH 两个 男
+NI64FBQ_0101 830041 830483 ZH 啊
+NI64FBQ_0101 833365 834251 EN okay lah
+NI64FBQ_0101 834640 838843 EN because in the first place those two guys oh they didn't really mix well with the other guys
+NI64FBQ_0101 840353 845739 CS because they don't know they say like they very because 不是 那个 terence 那 个 被 排挤 的
+NI64FBQ_0101 846258 851192 CS then they don't like one of the guy ah they don't like the way they treat 那个 terence
+NI64FBQ_0101 852335 854178 EN like very immature ah
+NI64FBQ_0101 855607 856386 EN ah
+NI64FBQ_0101 859570 861609 EN because because like one of our
+NI64FBQ_0101 862082 864693 CS another malay guy oh 他 form 那个
+NI64FBQ_0101 865951 869902 CS like lab 不是 有 有些 lab oh 是 那个 group 已经 是 帮 你 group 好了
+NI64FBQ_0101 870288 871288 EN then you are supposed to go there
+NI64FBQ_0101 871924 876415 CS then 可是 那个 (呃) malay guy right he don't like one of the girls inside one of the group
+NI64FBQ_0101 877064 881512 CS then 他 just change group he just switch group ei just 这 样子 换 to the other group
+NI64FBQ_0101 882076 883768 EN then like very
+NI64FBQ_0101 884413 885426 ZH 好像 有
+NI64FBQ_0101 886751 888958 EN but but it's still like
+NI64FBQ_0101 889971 894749 CS 你 just like that 换 哦 very not professional 还是 很 很 immature what
+NI64FBQ_0101 895346 899062 CS so it's just lab mah just do lor then 这 样子 换
+NI64FBQ_0101 903970 908792 CS ah okay lah lab lah i think 他 每次 都是 just follow the guys
+NI64FBQ_0101 913367 914292 EN work lor
+NI64FBQ_0101 916561 923350 CS because 现在 是 special semester then but they he decided to end early 他 thirty first may 是 last last lesson
+NI64FBQ_0101 924160 925400 CS but 有 那个 exam
+NI64FBQ_0101 926912 929002 EN (er) getting what you want with negotiation
+NI64FBQ_0101 931600 936737 CS 那个 是 蛮 interesting lah the that professor very cute leh 因为 他 小小 只 咯 thin thin
+NI64FBQ_0101 937334 938762 CS then 他 戴 眼镜 botak
+NI64FBQ_0101 939541 943206 CS then 就 讲话 啦 很 like you know you know you know
+NI64FBQ_0101 944401 946141 CS ah but 他 会 end early
+NI64FBQ_0101 947465 948634 EN around four like that
+NI64FBQ_0101 949179 952295 CS then 他 啊 因为 because 他 要 end early so
+NI64FBQ_0101 952763 954645 CS friday 这 一 天 有 lesson lor
+NI64FBQ_0101 958472 959607 CS 就 monday 跟 tuesday 而已 咯
+NI64FBQ_0101 961926 964275 CS 今天 啊 今天 因为 他 要 end one week earlier 这样
+NI64FBQ_0101 967821 968352 EN (em)
+NI64FBQ_0101 972495 978251 CS 对 啊 可是 我 觉得 有 太多 时间 to 读 了 because exam is eighteen (er) sixteen june
+NI64FBQ_0101 981315 984490 EN huh really ah 
+NI64FBQ_0101 995732 996330 EN ah
+NI64FBQ_0101 1002354 1003419 EN 
+NI64FBQ_0101 1004484 1008040 CS because 我是 问 那些 poly 的 they don't want to take
+NI64FBQ_0101 1009314 1012119 EN (em) yeah lor
+NI64FBQ_0101 1013799 1016344 CS  没有 人 take ah
+NI64FBQ_0101 1018065 1022151 EN okay ah because actually nothing much ei that course
+NI64FBQ_0101 1022896 1023623 ZH 就是
+NI64FBQ_0101 1024246 1028167 CS 他就 一直 讲 perceive what people preceive about 什么 什么 这样
+NI64FBQ_0101 1028635 1034763 CS then just write lor just write 一些 东西 啦 因为 他是 给 example about how people negotiate then 什么 什么
+NI64FBQ_0101 1035081 1035860 ZH 就 这样 而已 咯
+NI64FBQ_0101 1039781 1042897 CS no because in the first place 是 不够 clear
+NI64FBQ_0101 1044378 1048610 CS then yeah lor so i must take then i didn't expect 我 会 没有 读 那个
+NI64FBQ_0101 1048792 1051342 CS 没有 去 for 那个 所以 讲 i need to take another one again lor
+NI64FBQ_0101 1051753 1056247 CS 因为 原本 我 在 想 因为 third year right attachment then 我 怕 attachment 会不会 end late 还是 什么
+NI64FBQ_0101 1056509 1059795 CS then 你 cannot take special semester so 我 是 想 现在 take lah
+NI64FBQ_0101 1069259 1074150 CS (嗯) 哦 不够 时间 读 for 那个 envi process
+NI64FBQ_0101 1076539 1077266 EN ah
+NI64FBQ_0101 1085394 1086282 EN 
+NI64FBQ_0101 1088620 1090766 CS because during the whole time 那个 elective right
+NI64FBQ_0101 1092073 1093750 CS 因为 他是 很多 readings 他 cramp 的
+NI64FBQ_0101 1094463 1098718 CS 我是 很笨 诶 i should have really 以后 选 elective hor 真的 是 看 它 是 under
+NI64FBQ_0101 1098718 1099748 CS 他是 什么 label
+NI64FBQ_0101 1100046 1101240 ZH 我 每次 选 那种 哦
+NI64FBQ_0101 1101838 1105403 CS 要 写 essay 的 那种 东西 ei really ei then like
+NI64FBQ_0101 1105733 1109794 CS 像 我 现在 选 的 哦 是 sociology 的 then 要 读 很多 那种
+NI64FBQ_0101 1110677 1112862 CS 啊 很多 ei then like wah
+NI64FBQ_0101 1113378 1120152 CS 就 读 读 不完 的 then 很多 他 他是 要 你 right 这个 writer 他是 哪 一年 的 他 是在 讲 什么 东西
+NI64FBQ_0101 1121113 1127111 CS oh then 他会 他会 给你 一个 article 然后 叫 你 like use the theories you have learnt oh then go and write
+NI64FBQ_0101 1130020 1131882 EN yeah lah 
+NI64FBQ_0101 1133110 1134484 CS actually 我是 跟 朋友 take
+NI64FBQ_0101 1135291 1138307 EN but then they didn't didn't mangaged to get the elective
+NI64FBQ_0101 1139425 1142438 CS don't know why lah but it's always 拿 不 一样 的
+NI64FBQ_0101 1145970 1146333 EN ah
+NI64FBQ_0101 1150410 1153895 CS 我们 是 arrange 好 可是 就是 拿 不 一样 的
+NI64FBQ_0101 1155318 1156990 CS i don't know why 就是 拿 不 一样
+NI64FBQ_0101 1158486 1159188 EN ah
+NI64FBQ_0101 1163620 1166009 EN ah 
+NI64FBQ_0101 1179201 1181145 EN ah 
+NI64FBQ_0101 1184223 1185183 EN malay friend ah
+NI64FBQ_0101 1188819 1189468 EN oh
+NI64FBQ_0101 1190559 1195078 CS very 怪 what like saya 
+NI64FBQ_0101 1203679 1204640 EN exam
+NI64FBQ_0101 1209341 1211678 CS 我 没有 想过 要 take language ei
+NI64FBQ_0101 1213210 1215937 CS 因为 以前 我 想 要 take language then 现在 想 好像
+NI64FBQ_0101 1217131 1218628 EN like a lot of work to be done ah
+NI64FBQ_0101 1223160 1224977 CS 什么 like primary school 那种
+NI64FBQ_0101 1231599 1232352 EN ah
+NI64FBQ_0101 1236092 1242324 CS 哦 好像 听过 我的 friend 他 以前 take malay 他讲 他是 什么 topic
+NI64FBQ_0101 1243972 1244881 EN (er)
+NI64FBQ_0101 1245554 1247284 CS 哦 他的 oral 什么 问 你 like where do you live
+NI64FBQ_0101 1248127 1248984 EN live in what type of flat
+NI64FBQ_0101 1254930 1255450 EN ah
+NI64FBQ_0101 1264730 1265484 EN ah
+NI64FBQ_0101 1268054 1270599 CS 你 就 很 heng 中 到 那个 housing estate 的 啊
+NI64FBQ_0101 1276598 1277117 EN ah
+NI64FBQ_0101 1280623 1281247 EN oh
+NI64FBQ_0101 1289216 1289788 EN er
+NI64FBQ_0101 1296354 1296925 EN en
+NI64FBQ_0101 1301808 1305417 ZH 呃 哦 我 的 朋友 他 也是 这样 嘞 他 就是
+NI64FBQ_0101 1306116 1307506 CS 他 不会 那个 term in malay
+NI64FBQ_0101 1308014 1313061 CS 他 就 在 猜 啊 可是 他 讲 okay ah technical term 应该 是 一样 的 他 就 讲 h. d. b. lor
+NI64FBQ_0101 1313569 1315240 CS 就是 h. d. b. then 什么 什么 这样 咯
+NI64FBQ_0101 1316633 1320043 CS ah then 他 讲 他 有些 不会 then 他 就 乱 讲 的 那种 咯
+NI64FBQ_0101 1320866 1323402 CS 可是 我 觉得 很 like 学 这种 language hor 很
+NI64FBQ_0101 1324580 1329846 CS 很 难 like you cannot really understand 就是 因为 你 学 的 就是 很 formal 的 东西
+NI64FBQ_0101 1331082 1334578 CS 你 要 like really 用 with 别人 你 才 会 变得 很
+NI64FBQ_0101 1335081 1338950 CS 比较 normal conversation 这样 啊 if not 很 formal 很 奇怪 啊
+NI64FBQ_0101 1341495 1341885 EN ah
+NI64FBQ_0101 1345053 1349221 CS 可是 special semester 不会 很 chiong meh like yeah take take language but
+NI64FBQ_0101 1350624 1351773 CS can 学 meh
+NI64FBQ_0101 1352390 1355418 CS 不会 很 chiong like 一下子 你 学 不 到 东西
+NI64FBQ_0101 1360975 1361547 ZH 嗯
+NI64FBQ_0101 1367130 1367679 EN ah
+NI64FBQ_0101 1371107 1373817 CS 我的 我 还 没有 翻 ei just 读 咯
+NI64FBQ_0101 1375106 1376919 CS 可是 我 觉得 是 okay ah 那个 那个 notes
+NI64FBQ_0101 1379469 1384648 CS 我是 故意 选 选 一个 computer engineering 的 business 的 course
+NI64FBQ_0101 1385393 1387705 CS 我 在 想 computer engineering 的 business 应该 okay
+NI64FBQ_0101 1387990 1389841 CS 应该 不会 很 business 这样
+NI64FBQ_0101 1390977 1393963 CS ah okay 因为 它 我 觉得 它 the way they they form 那些 words lah
+NI64FBQ_0101 1394560 1397941 CS 我 觉得 engineering 应该 okay 就 问 questions lor
+NI64FBQ_0101 1398871 1403325 CS i think not 不 可以 讲 是 essay lah more of 可能 pas paragraph
+NI64FBQ_0101 1403918 1405787 CS 这样 咯 我 有 看过 past year paper lah
+NI64FBQ_0101 1406411 1409553 CS 有些 又问 我 看 了 是 觉得 是 okay can handle
+NI64FBQ_0101 1417970 1418464 EN en
+NI64FBQ_0101 1422749 1425787 CS wah final oh maybe next semester 可以 take
+NI64FBQ_0101 1428020 1430179 CS 我 没有 clear business 我是 put it as under u. e.
+NI64FBQ_0101 1431478 1434336 CS yeah because 在 想 can take with friend mah business
+NI64FBQ_0101 1435918 1438172 CS 我 在 想 是 year three 应该
+NI64FBQ_0101 1440463 1444139 CS 啊 那个 我 那个 envi 有个 朋友 他 也是 他 take
+NI64FBQ_0101 1444696 1450980 CS (呃) 他跟 朋友 take business law but they 忘记 放成 p. e. they put under u. e.
+NI64FBQ_0101 1452840 1458501 CS then 好像 不 可以 不 可以 then 他 他们 还是 s. u. ei then wasted lor then they now have to take another business course
+NI64FBQ_0101 1461997 1462906 ZH 可以 换 的 meh
+NI64FBQ_0101 1478877 1479760 EN 
+NI64FBQ_0101 1487763 1488334 EN ah
+NI64FBQ_0101 1492749 1497625 CS holiday ei 我 会 我 eighteen june 出去 cruise ah
+NI64FBQ_0101 1498566 1506891 CS ah just a star cruise virgo just a short trip ah my mother 我 问 我 妈妈 她 讲 她 会 pay
+NI64FBQ_0101 1507465 1513671 CS okay ah 就去 咯 but they very 扫兴 my mother very 扫兴 one leh 因为 we will stop by (er) redang island
+NI64FBQ_0101 1514035 1517534 CS then 我 跟 她 讲 since we go there right then 我 有 去 check mah redang island 有 什么 东西 可以 做
+NI64FBQ_0101 1518917 1521536 CS 啊 可是 swimming 的 东西 不 可以 去 嘛 then 我 就
+NI64FBQ_0101 1522111 1526451 CS 就 跟 她 讲 哦 就 看 到 有 trekking then 讲 我 要 去 then 她
+NI64FBQ_0101 1528425 1531411 CS then 她 就 讲 don't want you don't know the the the route there
+NI64FBQ_0101 1531931 1533411 CS then 她 就 讲 不要 去
+NI64FBQ_0101 1533749 1537658 CS then 她 讲 maybe not enough time also 可是 我讲 then but i am still 我 还是 要 去
+NI64FBQ_0101 1538127 1541451 CS 就你 难得 去 一个 地方 你 of course you must go and try 什么 嘛
+NI64FBQ_0101 1542153 1548671 CS then then 她 讲 you don't know how much time also then 就 等到 那 时候 看 他 讲 多久 的 时间 再 去 咯
+NI64FBQ_0101 1550982 1554540 ZH 我 妈妈 只是 就 我 妈妈 我
+NI64FBQ_0101 1555293 1556409 ZH 还有 那个 小 的 妹妹
+NI64FBQ_0101 1558097 1559370 CS shopping 要
+NI64FBQ_0101 1560154 1561244 EN ah shopping ah
+NI64FBQ_0101 1567840 1569245 CS great singapore sale 什么 时候 啊
+NI64FBQ_0101 1575268 1576280 EN oh
+NI64FBQ_0101 1577319 1578254 CS 哪 一个 week
+NI64FBQ_0101 1579500 1580357 CS 这个 week ah
+NI64FBQ_0101 1583880 1585257 ZH huh 很 快 诶
+NI64FBQ_0101 1587524 1589548 ZH 我 不想 花钱 诶
+NI64FBQ_0101 1593107 1595132 CS 对 啦 but
+NI64FBQ_0101 1597080 1599005 CS 对 啦 因为 还要 还 driving
+NI64FBQ_0101 1600092 1606617 CS so i just 我就 i really learn very slowly leh my driving 我 book oh p. t. oh july
+NI64FBQ_0101 1608133 1609561 CS ying hui fail 也是
+NI64FBQ_0101 1612132 1615879 CS i i find hor i rather immediate fail right than 那种 accumulate accumulate 的 fail
+NI64FBQ_0101 1616858 1620828 CS 我 觉得 immediate fail oh 他 立刻 跟你 讲 了 你 fail 我 i
+NI64FBQ_0101 1621139 1623061 CS 宁愿 right like 你
+NI64FBQ_0101 1623632 1627186 CS 他 跟 你 讲 你 immediate fail then 你就 just drive with no mood 这样 啦
+NI64FBQ_0101 1627450 1633855 CS otherwise 你 就 是 你 drive throughout the whole route oh drive 完了 你 在 等 诶 等 你 的 result then 他 跟你 讲 fail like
+NI64FBQ_0101 1637323 1637608 ZH 啊 对 啊
+NI64FBQ_0101 1646412 1647606 ZH 四十四 分 啊
+NI64FBQ_0101 1651294 1654945 CS wah but the thing is when 你 学 他 也是 没有 真的 跟你 讲
+NI64FBQ_0101 1655345 1656488 EN what you need to look out for
+NI64FBQ_0101 1659941 1662667 CS 我 觉得 有些 东西 是 must give hi give 给 他 扣 的
+NI64FBQ_0101 1664485 1664978 EN ah
+NI64FBQ_0101 1669938 1671964 CS 你是 immediate failure 什么
+NI64FBQ_0101 1675262 1678720 CS 啊 他 也是 fail ah 他 是 做么
+NI64FBQ_0101 1682221 1683104 ZH （呃） 没有
+NI64FBQ_0101 1685571 1688158 CS huh but 闯 红灯 will 扣
+NI64FBQ_0101 1694469 1699117 CS huh but i usually 看 yellow right 我 看 还是 可以 走 i just go one leh
+NI64FBQ_0101 1705941 1710641 CS oh okay 为什么 他 会 去 闯 他 没有 看 啊
+NI64FBQ_0101 1717133 1719533 CS 可是 if you if you ah
+NI64FBQ_0101 1720509 1721756 CS 过 line 也 不 可以 啊
+NI64FBQ_0101 1724768 1725135 EN ah
+NI64FBQ_0101 1726040 1728871 CS but if you zam brake 那 是 not good right
+NI64FBQ_0101 1731727 1731986 EN ah
+NI64FBQ_0101 1737024 1740223 EN my driving ah now learn parking lor ei i don't know how to park ei
+NI64FBQ_0101 1740458 1747326 CS like initially 你 进去 啊 park okay ah then 他 叫 你 再 做 一次 哦 我 开 出来 哦 park oh 就 不准 了
+NI64FBQ_0101 1748145 1751102 CS 就 看了 哦 他 会 有 些 gap 这样
+NI64FBQ_0101 1751573 1753370 CS 就 很 不准 then i don't know how to see
+NI64FBQ_0101 1754195 1759236 CS then 那 时候 他 去 toilet then 我 就 一个 人 在 那边 开 做 vertical
+NI64FBQ_0101 1759781 1763248 CS then 他 回来 哦 哦 okay 走了 就 开 开 别的 地方 了
+NI64FBQ_0101 1764352 1767942 CS 那个 uncle 他 很
+NI64FBQ_0101 1769364 1772676 ZH 哎呀 幸亏 他 是 住 我 家 那边 啊 每次 都 来 载 我
+NI64FBQ_0101 1772840 1776998 CS 八点 嘞 very sian leh like every sunday 八点 then 我 一大早 就 起来 坐 在 那边
+NI64FBQ_0101 1779306 1779700 EN ah
+NI64FBQ_0101 1780085 1782374 CS 那时 我就 回 回家 了 what ah lor
+NI64FBQ_0101 1785004 1790068 CS then 以前 是 yun xuan yun xuan take the eight a. eight o. clock one then 我 是 take 九 点 半
+NI64FBQ_0101 1790068 1795002 CS 因为 他 要 开 回来 so 他 开 回家 then after that 载我 这样 就 这样 开 咯
+NI64FBQ_0101 1795547 1800040 CS then yun xuan 没有 学 嘛 then 她就 then 我就 take over 她 八点 的 slot lor
+NI64FBQ_0101 1801911 1806692 CS (er) 她 没有 诶 那 时候 exam ah then 她 就 没有 学
+NI64FBQ_0101 1807341 1810535 CS then 现在 不 知道 什么 她的 business 这些 东西 啦 她
+NI64FBQ_0101 1811548 1814618 CS 哦 我就 问 她 诶 your t. p. 不是 june third lor
+NI64FBQ_0101 1815080 1818466 CS then why you still haven't learn then 她 就 讲 她 要 去 take 了
+NI64FBQ_0101 1818923 1821758 CS then 我 就 讲 like no time what june third leh 她 她 现在
+NI64FBQ_0101 1823208 1823730 EN ah
+NI64FBQ_0101 1824924 1826319 CS then 她 现在 take oh
+NI64FBQ_0101 1827261 1828378 EN don't know ah like not much lesson
+NI64FBQ_0101 1831828 1833848 CS 可是 她 也是 蛮 pack 的 leh 她的 东西
+NI64FBQ_0101 1836641 1840137 CS 我 觉得 她 也是 有点 show off lah 那 时候 她 就 问 我 她 就 跟 我 讲
+NI64FBQ_0101 1840562 1844373 EN (er) you must quickly you holiday ah think of what business idea you want to do ah
+NI64FBQ_0101 1845133 1852274 CS 她 讲 oh you got the kepap thing right then 她 讲 and education and 什么 gracy 的 i think 是 another martial art 的 东西
+NI64FBQ_0101 1852690 1856021 CS then 她 讲 哦 就是 她 在 讲 她 有 很多 business 这样
+NI64FBQ_0101 1857338 1862451 CS then 她就 叫我 想 business idea 可是 我 在 想 你 不 可以 这样 子 就 想 一个 business idea what
+NI64FBQ_0101 1863178 1865282 CS 我在 想 you rather do other thing
+NI64FBQ_0101 1866736 1871436 CS 她是 我 觉得 她是 很 heng 我 觉得 她的 whole life hor 她 真的 很 heng
+NI64FBQ_0101 1872735 1878993 CS like 她就 去 学 一个 东西 right 她就 end up 老师 很 信任 她 就 decided to to 做 什么 东西 这样
+NI64FBQ_0101 1882750 1886870 CS 没有 她 她 也是 有 有 show 她 很 interested in it lah
+NI64FBQ_0101 1887658 1891291 ZH 可是 有时 觉得 她 有 时候 真的 是 很 很 heng
+NI64FBQ_0101 1893423 1893865 EN ah
+NI64FBQ_0101 1896462 1897604 EN 
+NI64FBQ_0101 1902459 1902901 EN ah nor
+NI64FBQ_0101 1905238 1905627 EN huh
+NI64FBQ_0101 1908406 1912016 CS 对 啊 我 那 时候 就 一直 在 想 诶 keep thinking
+NI64FBQ_0101 1914197 1922014 CS 因为 you know i hear from a senior they keep saying right really envi engineering there's no future 我 就 觉得 my future very bleak 很像 没有 前途 like that
+NI64FBQ_0101 1922888 1928004 CS then aiya 因为 他讲 哦 they don't want to find they don't want female engineers
+NI64FBQ_0101 1928809 1930193 EN they want male engineers
+NI64FBQ_0101 1931821 1935950 CS then 我在 then you know even my professor that very sickening professor 他 会 讲
+NI64FBQ_0101 1936417 1941533 EN (er) i think you guys shouldn't have taken envi engineering you should all of you should have taken civil engineering
+NI64FBQ_0101 1941897 1944185 EN there's no business for envi engineering
+NI64FBQ_0101 1944444 1947742 CS 他 就 这样 讲 诶 哪里 有 professor 这样 的 then 他 他 很 proud lor 他 讲
+NI64FBQ_0101 1947976 1952287 CS one one of (er) 什么 i consultation one hour five hundred dollars
+NI64FBQ_0101 1952910 1959424 CS 他就 讲 自己 很 厉害 他讲 i don't need you all to follow whatever (er) method what just follow the
+NI64FBQ_0101 1959892 1963398 CS mother the father and son structure to see 什么 什么 什么 这样
+NI64FBQ_0101 1963917 1970354 CS 他就 讲 自己 很 厉害 then 他 就 讲 i i am a very busy man i have to travel to india build library for the
+NI64FBQ_0101 1971787 1975024 CS build 不 知道 build library for 不 知道 谁 啦 就讲 很多 东西 就 对 啦
+NI64FBQ_0101 1975500 1978106 CS 他 很 that's why during the first lesson oh 他 就 这样 讲 right
+NI64FBQ_0101 1978841 1983118 CS 很多 人 immediately oh change ei change to another another class
+NI64FBQ_0101 1983611 1985523 CS 可是 有些 人 还是 suay 还是 中 他
+NI64FBQ_0101 1985523 1991107 CS 他的 人 好 只是 他 讲话 哦 很 sarcastic
+NI64FBQ_0101 1995418 1998113 CS 他 就 一直 讲 哇 envi engineering
+NI64FBQ_0101 1998113 2002196 CS 讲 什么 if you take minor in environmental engineering never mind but you cannot take
+NI64FBQ_0101 2002845 2003520 EN ah
+NI64FBQ_0101 2004923 2009234 CS then 我就 觉得 future very 真的 没有 东西 这样
+NI64FBQ_0101 2013166 2013919 ZH 没有 啦
+NI64FBQ_0101 2018723 2019297 ZH 没有 啦
+NI64FBQ_0101 2022826 2024342 CS 就 想 yeah lor work lor
+NI64FBQ_0101 2026046 2026618 ZH huh 没有
+NI64FBQ_0101 2028825 2030098 CS 因为 我是 想要 做 sales
+NI64FBQ_0101 2030903 2032501 EN even though office work is very stable lah
+NI64FBQ_0101 2038408 2042025 CS 对啊 我 就 要 去 because (er)
+NI64FBQ_0101 2043523 2044069 EN ah yeah lah
+NI64FBQ_0101 2045289 2050119 CS this (er) ying hui was telling me west mall 什么 korean shop 在 找人
+NI64FBQ_0101 2050353 2054564 CS but i know 这种 是 pay really very low ah 可是 我 也是 知道 我 自己 很 picky
+NI64FBQ_0101 2055028 2056923 ZH 什么 东西 不要 什么 东西 不要 什么 东西 不要
+NI64FBQ_0101 2057936 2064948 CS yeah lor then 我就 就 就 想 这个 saturday 去 xin mei 家 嘛 就 过去 那边 看 一下
+NI64FBQ_0101 2076185 2077847 EN  plan outings
+NI64FBQ_0101 2078652 2080028 CS 你们 那 时候 没有 去 cycling ah
+NI64FBQ_0101 2082495 2083897 CS 我 听说 是 postpone ah
+NI64FBQ_0101 2087741 2088390 ZH 为什么 啊
+NI64FBQ_0101 2092298 2092817 EN oh
+NI64FBQ_0101 2094583 2096269 ZH 妹妹 
+NI64FBQ_0101 2098790 2101577 CS 她 她 很 像 乱 post 东西
+NI64FBQ_0101 2103049 2107307 CS 她 讲 什么 i dream of 不 知道 什么 的 啦 then 我 cousin 看到 嘛
+NI64FBQ_0101 2107775 2112667 CS then 我 cousin 跟我 阿姨 aunty 讲 啦 then 我 aunty 就 跟我 妈妈 讲 咯 then 他们 就
+NI64FBQ_0101 2112995 2114259 ZH 讲 讲 讲 讲 讲 啦
+NI64FBQ_0101 2114890 2120491 CS then then 我 那 时候 就 去 问她 嘛 then 她 就 这样 讲 她 就 讲 她 自己 emo
+NI64FBQ_0101 2121834 2125324 CS oh 自己 讲 她 自己 emo then so 她 就 这样 写
+NI64FBQ_0101 2126171 2131082 CS but (er) 我的 when 我 跟 我 妈妈 讲 哦 她 讲 是
+NI64FBQ_0101 2131962 2133489 EN she ike a guy
+NI64FBQ_0101 2134792 2139907 CS don't know lah but then like 随便 啦 small what you like a guy then like a guy ah it's okay mah
+NI64FBQ_0101 2141128 2142127 EN like
+NI64FBQ_0101 2142127 2144567 CS secondary school infatuation what 不要紧 mah

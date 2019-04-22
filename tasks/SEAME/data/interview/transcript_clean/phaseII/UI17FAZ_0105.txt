@@ -1,0 +1,137 @@
+UI17FAZ_0105 0 2693 ZH 哈咯啊 现在 比较 转凉 一点点 啦
+UI17FAZ_0105 3450 7881 CS 嗯 你 有去 arizona ah 去做 什么 去 那边 做 什么
+UI17FAZ_0105 8403 9349 EN hah
+UI17FAZ_0105 9556 11155 ZH 不要 吓我 啦
+UI17FAZ_0105 13890 16092 ZH 你是 去 几月 的
+UI17FAZ_0105 18827 25821 CS 不过 我的 那个 朋友 讲 现在 是 better 一点点 啦 compare to 之前 两三个月 咯 他讲
+UI17FAZ_0105 30820 32248 EN arizona ah
+UI17FAZ_0105 32850 35155 CS 那个 咯 grand canyon loh
+UI17FAZ_0105 35671 37433 ZH 哈 这样 热 啊
+UI17FAZ_0105 38069 39136 ZH 我的 我跟
+UI17FAZ_0105 39617 43505 ZH 哈咯 是去 看沙 咯 不是 看沙 就是 看 那个 仙人掌 咯
+UI17FAZ_0105 43969 51740 CS 不过 可能 没有 什么 去玩 啦 因为 那时候 回来 的 时候 我 老公 开始 做工了 嘛 我是 去 l. a. l. a. 和 san-fransisco 玩
+UI17FAZ_0105 54222 55133 ZH 去 那里
+UI17FAZ_0105 55821 58212 ZH 没有 去了 来不及了
+UI17FAZ_0105 58625 62651 CS 我是 expecting 我的 disneyland 两天 也 不知道 玩得完 吗
+UI17FAZ_0105 63442 69348 CS 我的 梦想 呵呵 我 一定 要 去到 original的 
+UI17FAZ_0105 73728 74881 EN en
+UI17FAZ_0105 77667 79168 ZH 我 喜欢 看 啊
+UI17FAZ_0105 79530 88285 CS 我 不是 去 看过 new zealand 的了咯 我还 很 想念 那个 new zealand 的 那个~ 那个~ 那个 风景 hahloheh 他们 它羊 很 可爱 的 你 知道 吗
+UI17FAZ_0105 88818 99166 CS 它羊 啊哦它~ 它~ 它在 那个~ 那个~ 那个 篱笆 旁边 吃草 啊哦 你走 下去 啊哦 它们 就 跟你 跑 跑 跑 进去 全部 翻过头 来 看着 你 这样 好象 你 是 那个 alien 这样的
+UI17FAZ_0105 104533 106623 ZH 啊 要 哦 可能 咯
+UI17FAZ_0105 108205 110940 ZH 嗯 不过 上次 去 台湾 我是 去 台北
+UI17FAZ_0105 111146 114818 CS 因为 台湾 它 不像 new zealand 这样 整条路 都 好看
+UI17FAZ_0105 115016 121776 CS 它是 你 要去 到 那个 particular 的 destination lah 你 才能 看到 那个 风景
+UI17FAZ_0105 124182 126739 ZH 是么 台北 我 觉得 很像 咯
+UI17FAZ_0105 127330 134330 ZH 别的 地方 我 不懂 啦 因为 我 只去 到 台北 五分埔 啊 那些 东西 那些 地方 咯
+UI17FAZ_0105 135534 138808 ZH 花莲 你 有去 吗 你 有去 花莲 吗
+UI17FAZ_0105 142505 144019 ZH 美 吗
+UI17FAZ_0105 147959 154010 ZH 我 本来 要去 花莲 的 不过 因为 你要 搭 火车 搭到 不知道 几个钟 才能 到 你 知道 吗
+UI17FAZ_0105 154216 163247 CS 我想 哎呀 我去 旅行 是去 relax 的嘛 这样 这样 percik 这样啊 因为 我 弟弟 之前 比我 早 几个月 去嘛 他去 八天
+UI17FAZ_0105 163401 168146 ZH 他 又去 台北 又去 花莲 好像 是 他们 讲 他 不知道 凌晨 四点半 就要 起来
+UI17FAZ_0105 168318 176970 CS 搭火车 不知道 搭 几个钟 下 花莲 很赶 啊整个 trip 啊 哎呀 算了啦 我改 我看 假如 要 去的话 改天 才去 还是 怎样 另外 去 一个 trip loh
+UI17FAZ_0105 177125 188018 CS 因为 它 台湾 又 不像 new zealand 喔 你 new new new zealand 你 drive along the whole journey 你是 看到 很 漂亮 的 东西 它 整个 那个 它 整个 地方 就是 很 漂亮 到 完了的
+UI17FAZ_0105 193401 195957 ZH 你 要去 美国 啊 哈 是咯
+UI17FAZ_0105 198563 199595 ZH 没有
+UI17FAZ_0105 201384 204604 CS 嗯 没有 啦 因为 他的 project 也 不是 在 u. s. mah
+UI17FAZ_0105 204983 209248 CS 因为 这次 他们 的 project 全部 搬回 u. s. mah
+UI17FAZ_0105 212379 214667 EN (er)
+UI17FAZ_0105 215441 219635 ZH 也 不知道 算 把 东西 要回啦 我是 听他 讲
+UI17FAZ_0105 220014 226171 CS 就是 以前 他 还~ 还有 several project 属于 malaysia 那一种 这样 咯
+UI17FAZ_0105 226309 237144 CS comes to now 因为 最近 他们 u. s. 的 economy 不好嘛 要 create more opportunity 给 他们 那边 的 人 这样 啊 所以 他们 很多 project 就是 based 在u. s. 那一种 咯
+UI17FAZ_0105 237364 243088 CS 所以 变成 很多 东西 你要 做 testing ah 什么 都是 要 飞往 那边 去 咯
+UI17FAZ_0105 243900 251245 CS 前 之前 两年 他 不大 飞 是 因为 他 根本 没有 飞 之前 两年 因为 那个 project 是 属于 malaysia mah
+UI17FAZ_0105 251365 258331 CS 那~ 那些 tool ah machine tool 都是 运来 malaysia 运来 运进来 malaysia mah 所以 你 不用 说 去到 u. s. 去做 testing mah
+UI17FAZ_0105 258589 268654 CS 现在 这个 project 是 属于 u. s. 去了嘛 所以 u. s. 讲好 好像 那些 machine ah 那些 tool 全部 都 运去 那个 u. s. mah 你 要做 什么 testing 你 都要 去到 那边 做 哦
+UI17FAZ_0105 272613 273559 EN hah
+UI17FAZ_0105 274866 276743 ZH 哦 有 有 有
+UI17FAZ_0105 277740 283966 CS 他 还是 不是 不是 他 还是 做 application ah same job scoop lah just like
+UI17FAZ_0105 284344 288541 ZH 那个 那个 专属权 在 美国咯
+UI17FAZ_0105 289935 292481 ZH 还 幸亏 有 啦
+UI17FAZ_0105 292652 295358 CS 哈 因为 他们 也 不够 resources
+UI17FAZ_0105 296028 299754 CS so far 也 不够 好像 是 这~ 这次 我 老公 假如 是
+UI17FAZ_0105 300030 303332 ZH 不能 去 那天 我 才讲 罢了 嘛 为什么 要 要 叫你 去
+UI17FAZ_0105 303470 307581 CS 特地 飞到 u. s. 去做 那个 不知道 六七天的 testing 罢了 你 知道 嘛
+UI17FAZ_0105 307890 313687 ZH 我讲 他们 美国 那边 没有人 做么 他讲 真的 是 没有人 可以 做的 就是 一定 要你 飞去 那一种的
+UI17FAZ_0105 317247 320835 CS so far 是 十八号 到 三十号 啦 真正 的 做工 期间
+UI17FAZ_0105 321958 325970 ZH 而且 十八号 到 三十号 不是 每一天 都做 咯 哈
+UI17FAZ_0105 326860 328030 ZH 很短
+UI17FAZ_0105 330639 332571 EN  
+UI17FAZ_0105 332571 334635 ZH 没有 啦 他们
+UI17FAZ_0105 334996 347922 CS 我讲 而且 他们 two time 又很 麻烦 嘛 又要 去 negotiate 跟 那些 engineer ah 又要 compromise to each other ah so okay loh 你 现在 你 几点 到 几点 用 又 怎样 怎样 啊
+UI17FAZ_0105 348455 355956 CS 所以 变成 十八 到 三十 假如 你要 真正 讲他 做工 的 真正 那个 the number of days 他 要在 那边 carry out testing hor
+UI17FAZ_0105 356076 363551 CS 他 自己 本身 讲 他 只 需要 四天 testing 了 vendor 只 需要 另外 四天 总共 是 八天 罢了 不需要 这样 长的
+UI17FAZ_0105 363713 369584 CS 十八号 到 三十号 是 因为 他们 因为 two time 的 那个 schedule 的 关系 变成 拖到 这样长咯
+UI17FAZ_0105 373632 378212 ZH 有啦有啦有啦 外国 东西 还能 吃啦 它的 猪 没有 这样 臭啦
+UI17FAZ_0105 382093 383019 EN 
+UI17FAZ_0105 384222 389756 CS 诶 不多 我去 new zealand 还 okay wah 我 没有 我 没有 饿死 怕 回来哦
+UI17FAZ_0105 390852 391694 EN hah
+UI17FAZ_0105 393862 400887 CS 有 一餐咯 吃它 炒饭 咯 它 炒饭 你 这样 一盘 罢了 两个人 就 share 了的 很 大盘 一下
+UI17FAZ_0105 401868 405598 CS 他啊 它的 那个 hotel 早餐啊
+UI17FAZ_0105 406185 407251 ZH 天 我们
+UI17FAZ_0105 407389 410707 CS 它~ 它的 hotel 早餐 又 很 好吃的 哦 它是 buffet style 的
+UI17FAZ_0105 410829 421103 CS 每次 吃到 饱饱了 哦 吃到 饱到 until hor 你 lunch 你都 不想 吃 东西 那一种了 的 可能 也是 天气冷 的 关系 啦 你的 metabolism 没有 这样 呱 高 还是 什么 也 不懂
+UI17FAZ_0105 422186 423327 ZH 然后
+UI17FAZ_0105 423597 431337 CS 晚上咯 然后 他们 有时候 去吃 它的 western food ah 什么 还 不错 啦 western food 我 还能 接受 我 最 不能 接受 吃 猪肉 罢了
+UI17FAZ_0105 431671 433787 ZH 那个 猪 好臭 啊
+UI17FAZ_0105 435696 437390 ZH 不要 
+UI17FAZ_0105 444313 446056 CS 哪里 u. s. ah
+UI17FAZ_0105 446710 449825 CS u. s. ah 没有 想过 移民 去 u. s. lah
+UI17FAZ_0105 450236 453074 CS 是 想过 移民 去 australia 罢了啦
+UI17FAZ_0105 455585 457133 ZH 复杂
+UI17FAZ_0105 458234 463353 CS 嗯 复杂 没有 像 new zealand australia 这样 peaceful
+UI17FAZ_0105 464237 475257 CS 我 不知道 啦可能 一些 state 很好 住 啦 因为 u. s. 太大了mah 好像 我 朋友 住在 washington d. c. 这样 我 本来 要 飞去 washington d. c. 先 找她 才跟 我 老公 去 arizona 的
+UI17FAZ_0105 475447 484131 CS mana zai ah hor 她 跟我 讲 你从 washington d. c. 要 飞去 arizona 那边 嘞 要 另外 的 五小时 我讲哇 好远 嘞
+UI17FAZ_0105 485981 494031 CS 另一边嘛 一个 在左 一个 在右 嘛 哈 真的 远 诶 等于 我 飞去 那个 hong-kong 的 时间 了 你 知道 吗 好大啊
+UI17FAZ_0105 496364 500090 EN en  en
+UI17FAZ_0105 500090 503798 CS 诶 不过 上次 你去 hawaii 你 不是 讲 你 坐到 二十四个 钟 啊
+UI17FAZ_0105 504976 508363 CS 你的 飞机 是 二十四个 钟 还是 transit
+UI17FAZ_0105 511502 514305 ZH 你的 飞机 总共 飞了 二十四个 钟 啊
+UI17FAZ_0105 518709 521646 CS 你从 法国 去到 l. a. leh 多少个 钟 啊
+UI17FAZ_0105 522377 526659 ZH 十多个 钟 都有 吗 有 这样 远 啊
+UI17FAZ_0105 530530 531796 EN cathay oh
+UI17FAZ_0105 535755 536541 ZH 哈
+UI17FAZ_0105 538821 541213 ZH 哈 不是 饿死
+UI17FAZ_0105 544302 547003 ZH 它是 很 便宜 哦 它的 飞机
+UI17FAZ_0105 548740 550342 ZH 哈 他要 看
+UI17FAZ_0105 552369 556807 ZH 你~ 你是 爬着 出去了 啊 从 那个 飞机 想要 爬着 出去了 啊
+UI17FAZ_0105 561394 563011 CS hawaii 美 吗
+UI17FAZ_0105 564920 569479 CS 哈 真的 像 槟城 么 我 还 以为 hawaii是 风景 漂亮的
+UI17FAZ_0105 571680 574206 ZH 那你 有 看到 火山 吗
+UI17FAZ_0105 574757 578541 ZH 你真 过分 嘞 去过了 就讲 像~ 像 槟城 这样
+UI17FAZ_0105 582067 584286 CS 你 没有 去看 它的 beach meh
+UI17FAZ_0105 584974 586057 ZH 美 吗
+UI17FAZ_0105 592972 594660 EN en en
+UI17FAZ_0105 595158 598426 CS oh surfing lah 去 划浪 啊
+UI17FAZ_0105 604068 607120 ZH 不过 那天 我听 我的 老公 讲 啊哦
+UI17FAZ_0105 607310 611703 ZH 他们 不知道 中国 啊 最近 好像 是 要去 跟 那个
+UI17FAZ_0105 611971 617613 CS 另外 九个 国家 还是 十个 国家 就是 那些 英国 啊 那些 europe 那边啊
+UI17FAZ_0105 617836 626539 CS 去 collaborate loh see whether they agree or not 因为 它要 建 一个 high speed train ah from 中国 啊下到 那个 u. k. 去 是 吗
+UI17FAZ_0105 627193 631148 CS 而且哦 total journey lah 九个 钟 罢了
+UI17FAZ_0105 639387 640591 EN en
+UI17FAZ_0105 641588 643774 ZH 哈 不是 不是 不是
+UI17FAZ_0105 644001 656317 CS 那个 我 不知道 我是 听 我的 husband 讲的啦 他是 说 从 中国 我 也 不知道 哪一个 地方 啦 从 中国 就是 由 那个 high speed train 下到 欧洲 那边 总共 你 只 需要 花 九个 钟 罢了 你 就能 到了 了
+UI17FAZ_0105 656317 658009 EN  
+UI17FAZ_0105 662130 672673 CS 不过 中国 他 说到 可能 做到的 嘞 中国 的 那个 project 很快 的 你 知道 吗 你 以为 像 malaysia 这样 啊哈 建一个 那个 那个 intel 前面 的 那个 那个 red bridge ah 建到 四五年 还 建不好 那一种的 啊
+UI17FAZ_0105 672896 681045 CS 建了啊 又~ 又 那个 它 马路 又 裂开 的 恐怖 得 要死 啊 那天 上次 有时候 去 载我 老公 在 intel 的 时候 看到 它 马路 又 裂开了哦
+UI17FAZ_0105 681307 685915 CS 刚好 那个 bridge 准准咯 真的 真的 真的 裂着
+UI17FAZ_0105 696197 700103 ZH 他讲 好像 是 两个 星期 过后哦 还是 那个 星期 不知道
+UI17FAZ_0105 700464 702614 ZH 最近 两个 星期 又 搬 回来了啊
+UI17FAZ_0105 704799 710114 CS 一样的啦他们 flexi time 呢 他 有时候 八点多 才 出门 呢
+UI17FAZ_0105 715033 718998 CS 其实 他讲 从 juru 下来 intel 这边 比较 近
+UI17FAZ_0105 719307 723473 CS compare to 下 juru ah sorry compare to 下 kulim
+UI17FAZ_0105 723676 735355 CS 因为 他讲 从 这边 juru 下到 来 intel hor 不知道 是 二十多 kilometer 罢了 去 kulim 三十多 kilometer 又要 过到 两个 toll. 虽然 是 toll. 是 company 付啦
+UI17FAZ_0105 737281 738184 EN en
+UI17FAZ_0105 738356 744927 CS 我们 就 很穷 咯 都 自己 付的 吝啬 得 要死 所以 你有 刚才 问我 有没有 benefit 我讲 没有嘛
+UI17FAZ_0105 746939 752270 CS 有 差哦 它 给你 三间 clinic 选 其中 一间 罢了
+UI17FAZ_0105 753645 755279 ZH farlim 的哦
+UI17FAZ_0105 757429 767371 CS 没有 它 其实 是 一间 farlim 的 了一间呢大山脚 有了 另一间 不知道 又 哪里啊 啊 又一间 terjami 靠近 tar college 的
+UI17FAZ_0105 768971 787325 CS 它~ 它 不像 intel 这样 它 直接 给你 一个 list 了 给你 直接 拿 一张 那个 intel card 还是 什么 you go any panel clinic that you feel the nearest to you 诶 我有 同事 come from s. p. ah come from kulim 的啊 大家 不是 生病 就是 爬 爬 爬 去 看~ 看病 啊
+UI17FAZ_0105 787646 791278 CS 有 我的 同事 有些 come from kulim 有些 come from s. p. 的啊
+UI17FAZ_0105 793640 798594 ZH 都要 死掉 去了啊 倒不如 自己 去看 医生 算了 不过 我 没有 看 啦 很少 看 啦
+UI17FAZ_0105 798886 804682 CS 我 看过 一两次 罢了 后来 我拿 因为 我拿 多数 拿我 老公 的 那个 intel 的 benefit mah
+UI17FAZ_0105 805388 807840 CS 哈 我 也有 一张 那个 medical card loh
+UI17FAZ_0105 808177 810946 CS 哈 我 多数 去看 intel 的咯
+UI17FAZ_0105 812064 815796 ZH 差啦 我们 那边 都 不明白
+UI17FAZ_0105 817293 818318 ZH 差啊
+UI17FAZ_0105 818318 825404 ZH (ppo）

@@ -1,0 +1,622 @@
+NI14MBP_0101 1268 2110 EN hello
+NI14MBP_0101 4270 6009 ZH (呃) 听到 吗
+NI14MBP_0101 8449 12119 EN en 
+NI14MBP_0101 20175 21802 EN en 
+NI14MBP_0101 23269 24579 EN 
+NI14MBP_0101 24579 26390 EN last time
+NI14MBP_0101 26390 30380 CS 我 想 过 要在 r. i. r. i. raffles institution 读
+NI14MBP_0101 30380 32409 ZH 所以 啊
+NI14MBP_0101 32409 34700 CS 小学 我是 在 xue-fa primary school
+NI14MBP_0101 35550 38340 CS 在 那里 study for six years
+NI14MBP_0101 41699 42991 EN 
+NI14MBP_0101 42991 51141 CS 一直 以来 my parents and i they they were trying to make me go to a prestigious a bet~ 好的 学校 啊
+NI14MBP_0101 51141 56881 CS 然后 我 哥哥 my brother 他 也是 在 那边 读 了 四年
+NI14MBP_0101 57691 61791 CS so he say it was quite a good experience a lot of 很多 东西 学
+NI14MBP_0101 65471 68501 CS 其实 我 真的 有 想 过 go to chinese high
+NI14MBP_0101 68501 69540 EN but
+NI14MBP_0101 70129 73551 ZH 因为 可能 我～ 我 爸爸 觉得
+NI14MBP_0101 74028 82900 CS like raffles institution like eng~ english is the more important subject and the culture there is 英语 化 所以 他 觉得 去 那边 比较 好
+NI14MBP_0101 88761 96081 CS 其实 我 从 primary school until now until sec. four i was in badminton all the way
+NI14MBP_0101 96081 98998 CS (er) got 但是
+NI14MBP_0101 100571 107111 CS 十年 的 badminton 之后 我 就 有点 厌倦 啊 所以 到 初级学院 i just quit lah
+NI14MBP_0101 107862 108816 EN yeah
+NI14MBP_0101 111509 113595 EN for junior college i decided to join
+NI14MBP_0101 113595 119614 CS something 我 觉得 会 比较 好玩 一点 我 去 join o. d. a. c. outdoor activity club
+NI14MBP_0101 119614 121661 ZH 那时 我们
+NI14MBP_0101 121661 125901 CS like 每 隔 一个 礼拜 just go mountain climbing
+NI14MBP_0101 125901 127761 EN water rafting
+NI14MBP_0101 127761 131381 CS sometimes 有时 去 马来西亚 或者
+NI14MBP_0101 131381 135603 ZH 印～ 啊 印尼 去 爬山 啊 或者
+NI14MBP_0101 135603 137118 ZH (呃) 就是 去
+NI14MBP_0101 137118 141821 CS 去 explore 很多 地方 就是这样 我 觉得 蛮 interesting 的
+NI14MBP_0101 145274 148303 ZH  现在 来到 大学
+NI14MBP_0101 148303 152315 CS (呃) 我只是 join 几个
+NI14MBP_0101 153305 154371 CS hall 的 东西 吧
+NI14MBP_0101 154908 159338 CS 我 现在 join (er) orientation committee 就是 说
+NI14MBP_0101 159338 166405 CS 啊 新的 大学 的 学生 他们 来 hall six 的 时候 他们 we will do some
+NI14MBP_0101 166405 171268 CS activities loh 来 to know each other better so
+NI14MBP_0101 171268 176318 CS i'm in charge of raising funds for that committee ah so that 他们 来 的 时候 会 比较
+NI14MBP_0101 176318 179934 ZH 啊现~ 现~ 现金 的 时候 没有 这样 多 问题
+NI14MBP_0101 182681 185258 ZH  以前 我
+NI14MBP_0101 185258 189788 CS 我 觉得  raising funds 是 the most difficult thing ah
+NI14MBP_0101 190218 195768 CS 但是 我 来了 之后 我 是 发现 actually the money is not the problem
+NI14MBP_0101 195768 204171 EN but actually is really is working with people and are because (er) at first i thought it was difficult to get jobs
+NI14MBP_0101 204171 207638 CS like 找 工作 来做 啊  但是
+NI14MBP_0101 207638 212978 CS 现在 我 发觉 了 工作 是 找 得到 但是 to get people down is another matter
+NI14MBP_0101 213608 218848 CS 但是 actually 我 我 本来 已为 每个人 都会 想 来 帮 这个
+NI14MBP_0101 218848 222020 CS 为这 for this cause they will give their best lah but
+NI14MBP_0101 222020 231137 EN now i realize i think got some people will* like  they don't really (er) care so much loh so one thing is getting them to go down and turn up for
+NI14MBP_0101 231137 234980 CS 这种 活动 is a bit challenging ah
+NI14MBP_0101 237304 240418 EN (er)
+NI14MBP_0101 240418 242248 ZH 其实
+NI14MBP_0101 242248 245348 CS disappointed 我 想 多多少少
+NI14MBP_0101 245348 246309 EN 
+NI14MBP_0101 246309 248216 EN a bit lah but
+NI14MBP_0101 249815 255033 EN when i think about it i think is is should be like that yeah cause everybody
+NI14MBP_0101 255033 258002 CS got their own lives 他们 的 自己 的 生活
+NI14MBP_0101 258002 260238 CS like cannot force them 每个人
+NI14MBP_0101 260887 263238 CS 为 这个 committee 着想 咯
+NI14MBP_0101 263238 272280 EN  
+NI14MBP_0101 272280 273328 EN (er)
+NI14MBP_0101 273328 274448 CS 这个 committee ah
+NI14MBP_0101 274448 276521 ZH  其实 我 觉得
+NI14MBP_0101 276521 281262 CS 到 现在 is 蛮 fun 的 啦 still very fun ah(er)
+NI14MBP_0101 281262 287069 CS 周围 的 人 都是 都是 蛮好 的 他们 周围 啊like  main-com.
+NI14MBP_0101 287069 291052 ZH  他们都是 (呃) 很专业
+NI14MBP_0101 294342 301315 CS  很 专业 的 在 啊 努力 所以 我 觉得 很好 so if
+NI14MBP_0101 301315 310885 CS i am going to work with the same group of people i think i don't mind joining ah but as the same time probably i don't mind having (er) 新 的 体验 咯
+NI14MBP_0101 310885 315851 CS  maybe 别的 活动 看 有 什么 明年 我 再 想 吧
+NI14MBP_0101 315851 322423 EN 
+NI14MBP_0101 322423 328566 ZH 我 觉得 这是 最 重要 的 工作 多 好玩 都是 看 所有 周围 的 人啊
+NI14MBP_0101 328566 337545 CS  j. c. r. c. ah wah 以前 有 想过啊
+NI14MBP_0101 338247 344928 EN ah now not so sure loh cause ah
+NI14MBP_0101 344928 353260 EN  frankly there are some some issues with j. c. r. c. that yeah so interesting ah
+NI14MBP_0101 354191 359325 ZH  啊好 好 可以 可以 
+NI14MBP_0101 359932 366538 CS next semester ah 其实 到 现在 我 也是 没有 去 读 看
+NI14MBP_0101 366538 370298 CS 有 什么 electives 可以 可以 去 学 所以 我 不是 很 肯定 啊
+NI14MBP_0101 370298 376329 CS 到 现在 这 两个 学期  i will be given allocated all mine course
+NI14MBP_0101 376329 385109 CS yeah because i think mine program is quite fixed yeah so i 我没有 没有 必要 去想 这些啦 但是 我看 明年 我
+NI14MBP_0101 385109 390407 CS 学期 开始 我就 会 去 look at it read more consider a bit seriously
+NI14MBP_0101 393745 396017 ZH 噢 听说
+NI14MBP_0101 396017 399355 EN (er) astronomy
+NI14MBP_0101 399355 404425 CS (er) i i thinks 是很 蛮 cool 的 一个 subject
+NI14MBP_0101 404425 406950 ZH 其实 
+NI14MBP_0101 406950 408100 ZH 还 是 吗
+NI14MBP_0101 410288 412700 CS wah darius 也 可以 吗?
+NI14MBP_0101 413542 415926 EN ah  
+NI14MBP_0101 417329 420915 CS languages ah 我~ 我是 想学 啊
+NI14MBP_0101 421392 422177 EN but
+NI14MBP_0101 422177 426974 CS not so confident about scoring 我 maybe i might i might take and then
+NI14MBP_0101 426974 429667 EN just (er) s. u. it later on
+NI14MBP_0101 429667 433875 CS but 是有 一点 兴趣 咯 我有 我 以前 读过 法文
+NI14MBP_0101 433875 438027 ZH  我 只读 一年 嗯因为
+NI14MBP_0101 438027 442732 ZH 在啊学校 我 有读 (呃) 第三 语言
+NI14MBP_0101 442732 449465 CS 法文 啊 然后 但是 我  我 读的 不好 so 一年 之后 我就~ 我就 放弃了 放弃 但是
+NI14MBP_0101 449465 457256 CS 我 i think it's important is important that we we know another sub~ another language loh give us more skills
+NI14MBP_0101 457256 459528 EN ah it will be more
+NI14MBP_0101 459528 464072 CS in a  although french 法文 现在 好像
+NI14MBP_0101 464072 468280 CS 不是 这样 多人 在 讲 所以 啊 可能 我学 spanish bah
+NI14MBP_0101 470015 471081 EN 
+NI14MBP_0101 473605 478262 CS most spoken language in the world right?  我是 这样 听说
+NI14MBP_0101 478262 482273 EN 
+NI14MBP_0101 482273 487547 CS  actually 现在  looking at the world
+NI14MBP_0101 488529 495942 CS i think asia 好像在 崛起 想 所以  其实 有 可能 asia language 比较 重要咯
+NI14MBP_0101 503622 507031 EN en
+NI14MBP_0101 507031 508153 ZH 对
+NI14MBP_0101 508153 509836 EN  
+NI14MBP_0101 509836 510762 EN en
+NI14MBP_0101 510762 512305 EN 
+NI14MBP_0101 512305 517635 CS 其实 i think 他们 这些 economy 也是 doing quite well 吧 i mean
+NI14MBP_0101 517635 522824 CS 你学 这些 language 都是 有用 咯 然后 i think 有 很多
+NI14MBP_0101 522824 523806 EN like
+NI14MBP_0101 525096 531431 CS china like sorry korean 或者 like japan is still the second i think largest economy
+NI14MBP_0101 531431 535695 EN not too sure about that but i think is still a very important economy ah even
+NI14MBP_0101 535695 542540 CS 他们 讲 日本 要 落了 但是 不可以 ah right off them totally loh
+NI14MBP_0101 547217 549153 EN 
+NI14MBP_0101 551004 552878 ZH  噢 这个
+NI14MBP_0101 552878 555188 CS 我 一个 礼拜 之前 i still not very sure
+NI14MBP_0101 555188 557828 EN ah (er) after
+NI14MBP_0101 557828 562878 CS 去 那个 specialization talk 之后 我 就 很 肯定 我 要 读 business and finance
+NI14MBP_0101 564128 571225 CS 其实 我 对 其它 四个 根本 是 没有 兴趣啊 like h. r. i. t.   还有 (嗯)
+NI14MBP_0101 572123 573628 ZH 忘～ 忘了 忘 啊
+NI14MBP_0101 573628 576838 CS tourism marketing 我 我 这些 都 没有 什么 兴趣 所以 我
+NI14MBP_0101 577198 580148 CS 真的 我在 考虑 只有 actuarial science 还有 business and finance
+NI14MBP_0101 581632 591838 CS 到了 那个 talk 之后 我就 去 看 什么 是 actuarial what is actuarial science to* at all about lahlike  when i when i look at it then it look (er) a bit boring
+NI14MBP_0101 591838 593606 EN (er)
+NI14MBP_0101 594363 608114 CS  很 (er) 很 死~ 很死 的 一个 一个 subject lah so 我喜欢 学 关于 钱  关于 钱 的 东西 so
+NI14MBP_0101 608647 611078 CS 我 that's why 我 读 accountancy loh
+NI14MBP_0101 611318 614548 CS 所以 我 看 b. and f. 也是 蛮 relevant 的 一个 field 吧
+NI14MBP_0101 614548 618121 CS so 我也 我想 去 那 那里 like specialize
+NI14MBP_0101 621852 622525 EN 
+NI14MBP_0101 625714 631719 CS  i think to a large extend yes ah  (er) 我觉得
+NI14MBP_0101 632532 633542 ZH 我是 想
+NI14MBP_0101 634138 640298 CS accountancy 是 给 你 那个 基础 给 你 打 好 那个 基础 让 你 知道 one company how does it actually work
+NI14MBP_0101 640806 651358 CS when you look at the figures 你会 懂 what 他们在 真的是 什么 意识啦 如果 他们 在 朝 那些 数目 字 你 起码 还 
+NI14MBP_0101 651358 654378 CS 还 看 得出 是不是 accountancy 的 用途
+NI14MBP_0101 654378 655648 ZH  然后
+NI14MBP_0101 655648 660098 CS 但是 我 也是 没有 打算 在 一个 accountancy firm work for very long ah
+NI14MBP_0101 660098 664815 EN i will guess about three four years after i get a basics i think i will
+NI14MBP_0101 664815 668072 CS consider 去嗯 银行
+NI14MBP_0101 668072 671728 ZH 来 嗯我也 不知道 有什么 啊
+NI14MBP_0101 671728 673458 CS career 在 那里 但是
+NI14MBP_0101 673788 677208 CS i think 可以 去 try investment 或者
+NI14MBP_0101 678338 682638 CS 或者 别的 operations  可以 试试看 哦 我 觉得 这些 比较
+NI14MBP_0101 682638 685404 EN  interesting bah 
+NI14MBP_0101 691471 692425 ZH 应该 是
+NI14MBP_0101 693827 694809 EN ah
+NI14MBP_0101 695566 696212 ZH 对
+NI14MBP_0101 699297 705076 CS grad. three 吧 还 long time away leh i haven't really thought about it yeah
+NI14MBP_0101 705076 712069 CS ah i guess if 找 得到 一些 好的 朋友 去 的 话 应该 是 会 去 吧
+NI14MBP_0101 712069 714229 CS 应该 是 好玩 的 i~ i feel lah
+NI14MBP_0101 718465 725478 EN (er) currently not really ah i don't mind going any where ah
+NI14MBP_0101 726108 732288 CS usually i don't like to go to 太 贵 的 地方 啊 but 我 看 grad. trip i think 应该 是 例外 吧
+NI14MBP_0101 732288 737367 ZH 可能 (呃) 可以 去 纽西兰 有 想过 去 那边
+NI14MBP_0101 743679 746933 CS (呃) 可以 很好玩 relax 的地方
+NI14MBP_0101 748833 750207 EN 
+NI14MBP_0101 750207 751578 EN actually
+NI14MBP_0101 751578 754018 CS 我 一直 想 要 去 exchange 的
+NI14MBP_0101 754018 755358 ZH 但是 
+NI14MBP_0101 755358 757628 CS 我 有 一点 遗憾 啊 因为 because
+NI14MBP_0101 757628 759408 EN  cause i was quite lazy so
+NI14MBP_0101 759408 762558 EN i didn't actually go and read up about all the
+NI14MBP_0101 762558 767608 EN all the requirements what how to clear your course
+NI14MBP_0101 767608 769768 ZH 所以 
+NI14MBP_0101 769768 774958 CS deadline 我 我 一直 懂 是一个 礼拜 之后 那 那一 个 礼拜 我 一直 不懂 我在 做 什么
+NI14MBP_0101 774958 776837 CS 做功课 like
+NI14MBP_0101 776837 780358 CS 有 some activities then 我 一直 没有 去看 then
+NI14MBP_0101 780358 782118 CS by now by 那个 deadline
+NI14MBP_0101 782118 788287 ZH 噢 一天 前 我就 知道 嗯噢 我要 去* 我 就想 (呃) 我要 去 但是 已经 太迟了 所以
+NI14MBP_0101 788287 799837 CS 我看 (er) next sem. 我再 apply 多 一次 then 可以 的 话 我是 想 我 就 year two sem. two 去 去吧 可能 是 (嗯)
+NI14MBP_0101 799837 803119 CS u. s. a. ah 对
+NI14MBP_0101 806710 808468 EN  ah
+NI14MBP_0101 808468 811528 CS 对 咯 but 问题 是 the problem is because mine course
+NI14MBP_0101 811528 814868 EN although is four years right the third year is f. y. p.
+NI14MBP_0101 814868 818138 CS so i cannot 我 不能 啊 第 三 年 去 咯
+NI14MBP_0101 819425 822203 ZH  现在 你 要 升 是 什么 意识
+NI14MBP_0101 833151 834581 EN wah can like that meh
+NI14MBP_0101 836068 837050 EN good friends
+NI14MBP_0101 837695 838368 EN oh
+NI14MBP_0101 838845 841707 EN i think i will still try for year two sem. two ah
+NI14MBP_0101 845938 847621 EN yeah go relax a bit
+NI14MBP_0101 848575 850230 EN  i agree
+NI14MBP_0101 853742 854836 EN en
+NI14MBP_0101 856597 858118 ZH 噢 其实
+NI14MBP_0101 858118 864918 CS 不是 因为 我 想 去 u. s. ah 但是 因为 我 觉得 那边 的 core 比较 容 is easier to clear
+NI14MBP_0101 864918 872791 EN more (er) is easier to and actually* like* to yeah to com~ to choose lah so
+NI14MBP_0101 872791 885155 CS and anyway i haven't been to u. s. in a long time actually i 我 两岁 的 时候 有去 啦 什么 印象 都 没有 了 so yeah interesting loh i think 
+NI14MBP_0101 896432 897737 CS 还是 u. s.
+NI14MBP_0101 897737 900556 CS actually europe 我 有 去过 我 去年 诶
+NI14MBP_0101 900556 906401 CS 嗯两年 前 我有 去过 啊 当兵 之后 after that 我有 去 我有 去
+NI14MBP_0101 906710 907523 EN france
+NI14MBP_0101 908056 909150 EN germany
+NI14MBP_0101 909571 910637 CS 还有 spain
+NI14MBP_0101 911170 912011 ZH 这些 地方
+NI14MBP_0101 912011 913105 EN ah
+NI14MBP_0101 914003 916839 ZH 差不多 啊 风格 是 不 一样 啦 但是 我 觉得
+NI14MBP_0101 917316 918557 ZH 大体 上
+NI14MBP_0101 918557 921127 CS 看 得出 europe 是什么 样子 咯
+NI14MBP_0101 921127 926517 CS 但是 嗯 就是 两岁 过后 我 没有 去过 u. s. united states of america so
+NI14MBP_0101 926517 932120 EN i want to really (er) experience loh because yeah the strongest nation in the world right now and
+NI14MBP_0101 932120 937169 EN they seem to have a culture of their own lah very* very unique i want to experience it
+NI14MBP_0101 940116 941709 EN 
+NI14MBP_0101 941709 943112 EN 
+NI14MBP_0101 944598 946141 EN 
+NI14MBP_0101 947363 948834 EN 
+NI14MBP_0101 948834 950040 EN 
+NI14MBP_0101 951885 954549 EN 
+NI14MBP_0101 954549 958933 EN  actually i never really thought about it ah ah places wise not really
+NI14MBP_0101 959718 966839 CS but food wise actually quite funny because i when i went europe right i went for 三个 礼拜 哇 三个 礼拜 之后
+NI14MBP_0101 967624 972084 CS 第二 第二 个 礼拜 i already start to get serious craving for singapore food ah
+NI14MBP_0101 972084 974749 EN yeah but then the problem is
+NI14MBP_0101 974749 984652 CS over there is very hard to find and also 很贵啊 like maybe fried rice for 十块 十多
+NI14MBP_0101 986009 992349 ZH 新加坡 钱 啊 因为那边 啊 东西 都是 很贵啊 然后 吃了
+NI14MBP_0101 992349 996332 CS 又 味道 也 不大 一样 not really the same
+NI14MBP_0101 996332 1000708 EN so feels like not really worth it loh so in the end
+NI14MBP_0101 1000708 1012133 CS ah we ice* i crave all the way from the second week to the third week ah i really* i couldn't taste what i was eating anymore the yeah   三个 礼拜 yeah
+NI14MBP_0101 1013648 1014997 ZH 超多 啊
+NI14MBP_0101 1014997 1018547 CS actually okay ah about 两 三千 咯
+NI14MBP_0101 1021212 1024326 CS 不是 哈 算 什么 算少 吗 for three weeks
+NI14MBP_0101 1026879 1027580 EN (er)
+NI14MBP_0101 1028268 1035047 ZH 省 咯 省 咯 嗯咯 所以 也 不懂 啊 我 觉得 那个 贵 的 东西 我 是 觉得 不是 很 好吃 他们 喜欢
+NI14MBP_0101 1035047 1037207 ZH 喝酒 嗯我也 不喝
+NI14MBP_0101 1037207 1039928 CS so 这种东西 我 我省 一点 喏
+NI14MBP_0101 1039928 1040741 EN ah
+NI14MBP_0101 1042642 1044422 EN 
+NI14MBP_0101 1044422 1046017 ZH 对啊 啊
+NI14MBP_0101 1046017 1053567 CS 如果 场合 需要 needs me to drink then i think i will drink a bit lah but i don~ generally 我是 不 喜欢 的 啦
+NI14MBP_0101 1053567 1055242 EN en
+NI14MBP_0101 1055242 1064275 CS 尤其是啤酒 我觉得  没有  我不能 不明白 为什么 will people like to drink loh it's very bitter
+NI14MBP_0101 1064275 1066889 EN oh haven't lah i think haven't lah
+NI14MBP_0101 1067619 1068412 EN 
+NI14MBP_0101 1074323 1083330 EN wah with regards to this  i actually like to eat a lot of stuff ah i don't think i will <unk>  favorite anymore last time i thought about favorite
+NI14MBP_0101 1083330 1093266 CS but now i realize 全部都好吃 我觉得 我真的 是 一个 新加坡人 laksa (er) hokkien mee
+NI14MBP_0101 1093266 1102575 CS even char kueywah char kuey tiao 也*是 超好吃 wan-tan 面 啊 什么 都好 吃 我什么都吃的 真的
+NI14MBP_0101 1104033 1105187 EN 
+NI14MBP_0101 1105187 1109967 CS oh 我 发觉 western 以前 我 以为 我 很 喜欢 吃 western  last time i thought
+NI14MBP_0101 1109967 1120599 ZH 嗯咯 应该 是 很 容易 啊 以* 现在 我~ 我去 欧洲 之后 我 看到 一个 牛扒  我 根本 就 不想 动 它 
+NI14MBP_0101 1125693 1127487 EN 
+NI14MBP_0101 1127487 1137239 EN oh (er) normally i like i just i just like run around and like expend some energy but in particular i like (er) rackets sports
+NI14MBP_0101 1137239 1138528 EN (er)
+NI14MBP_0101 1138528 1140637 CS 羽 球 啊 tennis
+NI14MBP_0101 1141611 1146738 EN table tennis no so good but i don't i don't mind (er) squash and so
+NI14MBP_0101 1146738 1156175 EN in general i like racket sports more (er) i don't know i will* just like to (er) spend like spend time and train noh just by myself but
+NI14MBP_0101 1156175 1159320 CS 其实 team base 的
+NI14MBP_0101 1159320 1164574 CS sports 也是 好玩 的 嘞嗯basketball soccer
+NI14MBP_0101 1164574 1166807 CS but 这种 这种
+NI14MBP_0101 1166807 1170887 CS sports 我是 想 跟 好朋友 打 啦 如果 是 自己
+NI14MBP_0101 1170887 1174647 CS 自己 打 是 不会 去 玩 <unk> play this kind of game by myself ah
+NI14MBP_0101 1175425 1188039 CS so but racket sports i will actually ask people to play with me loh like tennis like over the weekends 这种 even in between lessons if theres time ask mine (er) mine roommate to play with me ah
+NI14MBP_0101 1189674 1193575 EN   
+NI14MBP_0101 1196519 1205688 CS 绝对 啊 racket sports 其实 你 只要 找 one person 就 可以了 but ahloh 如果 你要 soccer 的话 basketball 
+NI14MBP_0101 1205688 1212388 CS 已经 如果 你有 五个人 都 不够咯 六个人 可能 可以 three on three
+NI14MBP_0101 1212388 1214691 CS ah for soccer 就 不用 讲 了 啊
+NI14MBP_0101 1214691 1216727 ZH 噢* 直接 要 找 十个 人 
+NI14MBP_0101 1216727 1218773 CS 不然 而且 要 看 有没有 location
+NI14MBP_0101 1218773 1224986 CS 如果 你 在 field 上面 打 五 five* 五个人 也是 five people is too also too little ah i think you can get a
+NI14MBP_0101 1224986 1229264 CS indoor soccer court or something then that is still 还好 啊
+NI14MBP_0101 1229264 1232063 ZH 不然 的 话 哇 真的 超难 找人啊
+NI14MBP_0101 1234737 1237253 EN  
+NI14MBP_0101 1239549 1240447 EN oh
+NI14MBP_0101 1240447 1245427 CS 以前 我 会 我 会 追 那个 i will follow the 英超 premier league
+NI14MBP_0101 1245427 1246595 EN 
+NI14MBP_0101 1246595 1247547 EN but
+NI14MBP_0101 1247547 1252157 CS 自从 我 我 父亲 啊 以前 我 有 starhub 的 sports channel mah
+NI14MBP_0101 1252157 1259350 EN so  whenever i am free i will just go and watch and then i will keep track all the fixtures and i will be watching  but
+NI14MBP_0101 1259350 1262292 ZH  自从 嗯 大学 开始
+NI14MBP_0101 1262292 1267073 EN then my dad cut off the subscription because is i think it's quite expensive
+NI14MBP_0101 1267073 1274024 CS  so (er) since then i only follow the major the 比较 大 的 clubs ah like
+NI14MBP_0101 1274024 1276792 CS liverpool ah man. u. 这种
+NI14MBP_0101 1276792 1283319 ZH 就 (呃) 有时 去 网上 来看 一下 他们 的 成绩咯  就是 这样
+NI14MBP_0101 1285552 1290979 CS   liverpool  但是 我 每次 每次 很 sad ah 因为
+NI14MBP_0101 1290979 1294793 ZH 他们 每年 都是 讲 要 噢 <unk>
+NI14MBP_0101 1294793 1297490 ZH 之* 今年 就是 我们 拿 冠军 啊 时候
+NI14MBP_0101 1297490 1302082 CS so 有时候 他们 真的 很靠近 what like 去年 他们 拿 第二
+NI14MBP_0101 1302082 1307429 ZH 而且 输 输* 到后 来 输 几分啊 然后 我 觉得
+NI14MBP_0101 1307429 1313897 ZH 所以 去年 过后 我就 觉得  今年 死期 要到了  然后 今年 一 开始 就
+NI14MBP_0101 1313897 1316937 CS 还 没有 到 一半 就是 out 了 out of the race
+NI14MBP_0101 1316937 1317567 EN 
+NI14MBP_0101 1317567 1320471 CS 不止 是 out of the race for premier league 连
+NI14MBP_0101 1320471 1321226 EN 
+NI14MBP_0101 1321226 1328909 CS champions league ah 什么 小小 的 的 cup ah 全部 都 out 了 叻 现在 只有 fighting for top four 
+NI14MBP_0101 1328909 1329447 ZH 别的
+NI14MBP_0101 1329447 1331579 CS 这种 club 不 应该是 fight for top four 的 so
+NI14MBP_0101 1331579 1336293 CS 有一点 demoralised 了啦 所以 我也 没有 什么 跟 咯
+NI14MBP_0101 1336293 1338526 EN not so often anymore
+NI14MBP_0101 1338526 1340162 EN 
+NI14MBP_0101 1340162 1347460 CS  我 不懂 耶 i really don't know loh actually 我 i feel ah vanentas is quite okay ah quite good ah
+NI14MBP_0101 1347460 1355040 EN (er) actually comes to coaches i think their control on the field is not so much loh
+NI14MBP_0101 1355040 1362589 EN i don't know the* you see so many fans support him right he should* come go to show that is already doing quite a
+NI14MBP_0101 1362589 1370014 CS quite a good job i think even though 我 觉得 它的  我 觉得 主要的 问题 是 他们 他们的 club
+NI14MBP_0101 1370847 1373867 CS 里面 有 争执 啊 他们的 owners
+NI14MBP_0101 1373867 1374969 ZH 他们
+NI14MBP_0101 1374969 1377087 CS 有 因为 他们 主要 有 两个 owner
+NI14MBP_0101 1377087 1378417 ZH 但是
+NI14MBP_0101 1378417 1380377 CS 他们 don't see eye to eye
+NI14MBP_0101 1380377 1385252 CS then 钱 的 方面 他们 也有 问题 要
+NI14MBP_0101 1385252 1389247 CS 要 买 好 一点 的 的 players 他们 也 没有 能力
+NI14MBP_0101 1389247 1394438 ZH 他们 要 卖 又是 债务 累累 他们 又 没有人 要买
+NI14MBP_0101 1394438 1400162 CS so the problem is this loh 他们 跟 那些 超 多钱 的 club 那 manchester city
+NI14MBP_0101 1400162 1403685 ZH 给你 几百亿 几百亿 这样 花 然后* 他们的
+NI14MBP_0101 1403685 1405321 ZH 已经 不可能
+NI14MBP_0101 1405321 1408197 ZH 他们 现在 只 剩下 是 一个 名誉
+NI14MBP_0101 1408197 1410567 CS 所以 liverpool 那 他们的 tradition
+NI14MBP_0101 1410567 1416456 EN is still is still strong ah they must capitalize on it and win a few
+NI14MBP_0101 1416456 1422244 EN cups within* this few years lah because once the the fans give up right
+NI14MBP_0101 1422244 1427748 CS then the cl~ the club is not going to 活 很久 啦
+NI14MBP_0101 1431275 1432816 EN 
+NI14MBP_0101 1432816 1442189 EN  
+NI14MBP_0101 1442189 1443227 EN i think
+NI14MBP_0101 1443227 1444800 EN 
+NI14MBP_0101 1444800 1446970 ZH  其实 我 觉得 噢
+NI14MBP_0101 1447957 1452695 CS tactics hor although tactics 是 important ah but personally 我 觉得
+NI14MBP_0101 1452695 1462698 EN being there to support your team your your team ahto give them the confidence like i mean during training of course you have your tactics lah but i think a coach must be
+NI14MBP_0101 1462698 1465537 CS 很 重要 的 一个 东西 是 he must be supportive
+NI14MBP_0101 1465537 1468667 CS 因为 我不懂 this is
+NI14MBP_0101 1468667 1471717 CS from my personal experience loh 因为 以~ 以前 我在 badminton
+NI14MBP_0101 1471717 1477671 EN also one of the reasons why i quit aft~ ah after sec.
+NI14MBP_0101 1477671 1478960 EN four
+NI14MBP_0101 1478960 1487472 CS 因为 我的 coach 他 他 although 他是 懂 他在 做 什么 他的 training 很 long 很 strat~ like organized
+NI14MBP_0101 1487472 1493445 CS  but after 因为他 他是 很 注重 performance 的
+NI14MBP_0101 1493445 1504895 ZH 他 不 可以 他 不 容许 你 嗯在 打 的 时候 有 任何 的 查疵 差错  所以 那时 我是 嗯队长 然后
+NI14MBP_0101 1505658 1508577 CS 我 有 时候 会 make some mistakes loh
+NI14MBP_0101 1508937 1512937 CS but 他 直接 把 他的 racket 甩 在 地上
+NI14MBP_0101 1512937 1523784 CS 在 打 competition 的时候 so 其 它 的 学校 全部 看到 咯 like 只是 做 <unk> 一次啊 他~ 他会 在 你打 一半 时候 直接 在 那边 骂 你
+NI14MBP_0101 1523784 1527559 CS 我 觉得 这是 like 没有 尊~ 尊重 你的
+NI14MBP_0101 1527559 1532987 CS 你的 player loh i think 我 已经 我~ 我~ 我 觉得 我~ 我 train 的时候 我 已经 train 很多了
+NI14MBP_0101 1532987 1535396 CS 有 时候 make mistake 我 觉得 normal lah although
+NI14MBP_0101 1535396 1537014 EN  i could have played better
+NI14MBP_0101 1537014 1543997 EN but still i don't think i deserve such a treatment loh so the way he treated me like i felt very demoralized
+NI14MBP_0101 1543997 1544941 EN then
+NI14MBP_0101 1544941 1549643 EN is also the reason why i don't play anymore then from then on my performance drop even more so is
+NI14MBP_0101 1549643 1559158 CS i don't know eh it work* it doesn't work at all loh i~ i just 我的想法 so in a team now like what i what i say just now tactic 是 important ah but
+NI14MBP_0101 1559158 1560511 EN in the end
+NI14MBP_0101 1560511 1563326 EN you have to support your teammates loh make them respect you
+NI14MBP_0101 1563326 1572794 CS  then (er) show that you are part of the team effort like everybody is in* need*together that kind of thing like don't 不要 弄到
+NI14MBP_0101 1572794 1576600 ZH 你 自己 高高在上 然后 其他 的 只是 你的 玩偶
+NI14MBP_0101 1576600 1578504 CS like 你的 pawn
+NI14MBP_0101 1578504 1585203 CS like you are just pieces to help you achieve your your goal 这样 everybody is the same loh 我 这是我的想法
+NI14MBP_0101 1585203 1591636 EN   
+NI14MBP_0101 1600768 1603054 EN 
+NI14MBP_0101 1603054 1611406 EN (er) i guess it really depends loh like i mean when in primary school i~ i think there must be some hierarchy ah because
+NI14MBP_0101 1611406 1616721 EN the children still  have no~ no real sense of order like if you lead them
+NI14MBP_0101 1616721 1618703 ZH 让 他们 自己
+NI14MBP_0101 1618703 1628124 CS  like let them run run around maybe there will be no order lah they will i think 很多 bullying cases like
+NI14MBP_0101 1628124 1632244 CS yeah some people 他们 don't can't defend themselves
+NI14MBP_0101 1632244 1649077 CS so 我 觉得 小 小孩子 是要 有人 教咯 要有 要有 嗯一个 老师 就 老师 是 老师  不是 你的 朋友 所以 你 要听 老师 的 话 这是 重要 的 像 家长 这样 小时候 必须 要有  like some respect 
+NI14MBP_0101 1649077 1651038 CS 到了 secondary school
+NI14MBP_0101 1651038 1657553 ZH 就 可以 松一点 但是 又 要看 呐 看 那些 孩子 会不会 (嗯)
+NI14MBP_0101 1657553 1663655 EN  know like take care of themselves loh because if they still abuse authority then
+NI14MBP_0101 1663655 1668216 EN (er) is is a time where is not so clear yet
+NI14MBP_0101 1668216 1671708 CS so 我 觉得 到 初级学院 is
+NI14MBP_0101 1671708 1682591 CS the time lah 我也是 看过 看到 我的 老师 比较 我们 老师 比较 放松 就是  有时 要有 与 以 朋友 的 角度 来 跟 我们 讲话
+NI14MBP_0101 1682591 1692122 CS 啊 上课 是 上课 啊 但是 上课 下班 sorry 下课 之后 我们 可能 去 canteen  去 eat something then (er) just
+NI14MBP_0101 1692122 1703320 CS talk for fun yeah loh so now in in uni. already i can like while working i awhile i was working part-time then 没有啦 can really see i like
+NI14MBP_0101 1703320 1710288 EN because we are all knowledgable adults already so tell us what is the jobs there is required to do to be done
+NI14MBP_0101 1710288 1719719 CS then let us 我们 just 以 一个 成人 来做 应该 做的 东西 我 觉得 这样 是 最好 不要 每 一个 东西 啊 应
+NI14MBP_0101 1719719 1726429 CS 要 做 要 以 你的 方法 去 做 每 一个 小 的 step 都 must follow your own your own way i think
+NI14MBP_0101 1726429 1728374 EN is important to have some autonomy loh
+NI14MBP_0101 1728374 1735783 EN    
+NI14MBP_0101 1735783 1739250 CS oh 在 n. t. u. 其实 不大 会 奇怪
+NI14MBP_0101 1739250 1742910 CS 我 以为 u. university 是 比较 relax 的 loh
+NI14MBP_0101 1742910 1744220 EN but
+NI14MBP_0101 1744220 1749240 CS 这边 的 tutors 可能 是 因为 不是 很 熟 吧 like 每 一堂课 just
+NI14MBP_0101 1749240 1752988 ZH 哈咯 每 一堂课 都 换 换~ 换 老师 换 教师
+NI14MBP_0101 1752988 1767240 CS 所以 可能 是 因为 这个 理由 吧 可能 接触 多一点 熟了 之后 就会 以 adult 的  的 way 来 一起 communicate loh 现在 先*
+NI14MBP_0101 1770028 1773250 EN 
+NI14MBP_0101 1776675 1777856 EN 
+NI14MBP_0101 1805852 1809595 EN actually i~i guess ah to a large extend probably loh
+NI14MBP_0101 1809595 1812649 EN i think like
+NI14MBP_0101 1812649 1816183 CS  your education level i think 是
+NI14MBP_0101 1816183 1818420 CS 很 important 的 一个 东西 咯 like
+NI14MBP_0101 1818420 1821485 CS 你 你的 想法 跟着 你的 education 会 改 咯
+NI14MBP_0101 1821485 1826100 ZH 你学 越多 可能 你 思想 越 成熟 所以 他们
+NI14MBP_0101 1826100 1828513 CS 想 的 东西 可能 maybe different from ours
+NI14MBP_0101 1828513 1832609 EN  but i think maybe also a large a large factor will be
+NI14MBP_0101 1832609 1836710 CS 那个 age 吧 因为 我在 j. c. 的 时候 老师
+NI14MBP_0101 1836710 1839518 ZH 虽然 有 一些 比较 年级 比较 长的 啦
+NI14MBP_0101 1839518 1841600 CS 但是 still got quite a few is
+NI14MBP_0101 1841600 1843922 EN who just graduated from uni. and
+NI14MBP_0101 1843922 1846190 EN like maybe twenty-six twenty-seven 
+NI14MBP_0101 1846190 1848719 EN the around that age so i think
+NI14MBP_0101 1848719 1850999 EN the gap wise isn't that big
+NI14MBP_0101 1850999 1852766 ZH 比较 容易 沟通 咯
+NI14MBP_0101 1852766 1855235 ZH 我 觉得 他们 可以 当 他们 这种 像 朋友 这样 就是
+NI14MBP_0101 1855235 1857367 ZH 到 现在 我 都有 跟 几个
+NI14MBP_0101 1857367 1859358 ZH 老师 还是 在 联络
+NI14MBP_0101 1859358 1861715 ZH 已经 两年 三年 了 之后
+NI14MBP_0101 1861715 1864436 CS 但是 还是 蛮 密切  quite close
+NI14MBP_0101 1874137 1880365 CS 我 已经 是 不一样 了 已经 is already different loh last time my dad was very authoritative
+NI14MBP_0101 1880365 1886536 EN  ah cannot say no (er) very scary in the sense
+NI14MBP_0101 1887342 1891450 ZH 很 可怕 啊 我是 我 以前 考试 之后 如果 考 不好
+NI14MBP_0101 1891450 1895840 CS 根本 不敢 让 他 看 啊  because ah he expects very high standards of me
+NI14MBP_0101 1895840 1900554 EN then ah he will spare no no chances ah he will cane me and everything
+NI14MBP_0101 1900554 1906631 EN although ah my mom is different ah my mom is more ah i always run to her when there's trouble
+NI14MBP_0101 1906631 1910841 CS and i'll tell her first but in the end she will tell me dad lah so* is* actually 我 爸爸 是 会 懂 的 啦
+NI14MBP_0101 1910841 1917044 CS  so 以前是 ah他 对 我 要求 很高 我 不敢 不敢 (嗯)
+NI14MBP_0101 1917044 1919460 ZH 违背 他 咯 但是
+NI14MBP_0101 1919460 1923846 CS <unk> 就以 刚才 所说啊 i think is quite important when you're young to have 
+NI14MBP_0101 1923846 1931297 EN aha guiding figure loh of authority because ah everyone probably won't do the correct thing mah if i am left to my own devices 
+NI14MBP_0101 1931297 1934401 CS like 以前 我是 不想 读书 啊 我 也是 想 玩 啊 想 玩
+NI14MBP_0101 1934401 1937591 CS 现在 我 懂 他是 他的 主要 what's his purpose is
+NI14MBP_0101 1937591 1941498 EN so that i can get a good education and* and rise up ah* higher
+NI14MBP_0101 1941498 1946092 CS i think i am very thankful to him ah 我 很 感激 他 so
+NI14MBP_0101 1946092 1951758 ZH 他 一直 到 中学 对咯 就是 中学 他 还是 很~ 很严
+NI14MBP_0101 1951758 1959161 ZH 就是 啊 放学 过后 他 他会~ 他会 要 懂 我 在 哪里 我 在 做 什么  啊 是不是 在 玩 啊 还是
+NI14MBP_0101 1959161 1962001 CS 如果 练 球 这种 他是 no problem with it ah
+NI14MBP_0101 1962001 1964011 CS but ah 他 也是 有
+NI14MBP_0101 1964011 1965591 CS control 我的 expenses
+NI14MBP_0101 1965591 1971349 CS 不可以 花 到* 要* 钱 花的 钱 是 做什么  what is it for like where do i go
+NI14MBP_0101 1971349 1975585 ZH 有没有 交 女朋友  这种 东西  啊
+NI14MBP_0101 1975585 1986839 ZH 到了 初级学院 就 比较 放松 一点咯 啊 到 现在 已经 是 哇 我 觉得 我 今天 像 一个 可以 跟他 像 一个 朋友 啊 有时 跟他 通常 会 跟 他 麻将
+NI14MBP_0101 1986839 1994617 CS 来叫 我 朋友 过后 跟他 一起 打 他会 跟我 打 可以 开玩笑 咯 can make fun with* him like  joke together
+NI14MBP_0101 1994617 2001013 EN very different ah experience from last time ah he is actually by nature quite a
+NI14MBP_0101 2001013 2007437 EN funny person ahi only realize when i grow up  he will like he will like to make a very sarcastic joke ah
+NI14MBP_0101 2007437 2011426 EN then  last time not something i will have imag~ imagine
+NI14MBP_0101 2011426 2014035 ZH 以前啊 没有 想过 是 这种
+NI14MBP_0101 2014035 2017962 ZH 他是 这样 的 人 但是 我 觉得 我 很 喜欢 现在 的 
+NI14MBP_0101 2017962 2025304 CS 的 relationship loh 我 觉得 可能 应该 就是 这样 咯 爸爸 是 最好 的 
+NI14MBP_0101 2026847 2029344 ZH 没有啦 妈妈 我 妈妈 是 
+NI14MBP_0101 2029989 2032896 CS all the way 一样 的 嘞她是
+NI14MBP_0101 2032896 2034888 EN ah
+NI14MBP_0101 2034888 2037496 ZH 很少 发 脾气 的 咯
+NI14MBP_0101 2037496 2047654 CS 以前 要把 她 当作 是 妈妈 现在  还是 要 把 她 当作 是 妈妈 as in 就是 我 比较 难 跟她 讲 现在 想要的 东西 咯
+NI14MBP_0101 2047654 2051701 CS 我 不懂 怎样 讲 嘞 有 有 some distance between us ah
+NI14MBP_0101 2051701 2053181 CS although as in 她 我们是
+NI14MBP_0101 2053181 2055670 ZH  感情 是 好 啊 就是
+NI14MBP_0101 2055670 2057161 CS 有点 frequency 不一样 这样 咯*
+NI14MBP_0101 2057161 2059989 ZH 我 跟 我 爸爸 比较 谈得来 谈得来 一点
+NI14MBP_0101 2064231 2071468 CS  yup ah have a older brother and older sister 只是 我 家庭 smallest ah smallest in my family
+NI14MBP_0101 2071468 2081210 CS yeah then but 距离 是 蛮 蛮 big 的 嘞 因为 我 my brother is 六岁 older
+NI14MBP_0101 2081210 2083571 CS my sister is 八岁 old* older
+NI14MBP_0101 2084097 2094440 CS yeah then 已经 都 在 做工 咯 其实 很早 已经 我 我已经 我在 读 中学 他们 我 姐姐 就 已经 在 做 工  所以 ah
+NI14MBP_0101 2094440 2096476 CS 距离 is very big loh
+NI14MBP_0101 2096476 2100150 EN that's why is is i find i felt that was very hard to communicate 
+NI14MBP_0101 2100150 2106901 EN and when i was young i was quite a idiot ah so i think i always always went to and ah
+NI14MBP_0101 2106901 2109398 CS irritate my brother 我的 哥哥 then
+NI14MBP_0101 2109398 2111756 ZH 他很 讨厌 我 那时 所以 
+NI14MBP_0101 2111756 2113781 CS 我 每次 跟 他 抢 computer ah
+NI14MBP_0101 2113781 2118321 CS 抢 玩 okay 以前 没有 玩 玩具啊 都是 抢 computer lah then 
+NI14MBP_0101 2118321 2121601 CS 每次 我 哥哥 不要 让 我 玩 i will just complain to my parents
+NI14MBP_0101 2121601 2125031 EN then my parents will let me play then he hates me 
+NI14MBP_0101 2125031 2126561 CS because 因为 我 觉得 
+NI14MBP_0101 2126561 2135334 CS 其实 我 想 回来 我 是 我 真的 是 有点 过分 啦 but 小时后 我 不知道 嘛 到底 不 知道 为什么 我 brother 这样 不 喜欢 这样 hates me lah
+NI14MBP_0101 2135334 2142964 EN but now i know loh so it was all the way until i think j. c. ah then i think i~ i started to get a bit more
+NI14MBP_0101 2142964 2151482 CS ah conscious of~ of我 在做 的 东西咯 so 我  我 就 没有 这样 ah 这样
+NI14MBP_0101 2151482 2156111 CS 一直 跟 他 抢 东西 咯 so  他 他 需要 帮忙 的 东西 我会 帮他 啊
+NI14MBP_0101 2156111 2158291 CS 做个 好 弟弟 could be a good brother 
+NI14MBP_0101 2158291 2159411 EN  so now
+NI14MBP_0101 2159411 2161781 CS i think it's getting better ah 现在 我们是
+NI14MBP_0101 2161781 2167099 CS  equal 的  equal 的 rank 这样 啊 因为 以前 他 是 brother 而~ 而且 他 很~ 很 有力嘛
+NI14MBP_0101 2167099 2172388 CS so 父母 不在 的 时候啊  我就死了 is i will do i will die  yeah but now
+NI14MBP_0101 2172388 2175390 EN now we are on correct* the talking term loh
+NI14MBP_0101 2175390 2178537 EN yeah 
+NI14MBP_0101 2184473 2190128 CS  其实 我 哥哥 is very con~ what is the word ah very
+NI14MBP_0101 2190128 2196411 CS ah not sociable ah introvert ah he 他是 他
+NI14MBP_0101 2196411 2204087 CS keeps to himself loh he doesn't really 跟 人家 接触 很多  哇 until now 他的 朋友 i think
+NI14MBP_0101 2204087 2213054 ZH 两个手 两只手  数得 完啊  因为 不懂嘞他~ 他~ 他~ 他 就是 跟人  不是 很 亲切 咯
+NI14MBP_0101 2213054 2217566 ZH 所以  我觉得 现 这种 （嗯）
+NI14MBP_0101 2217566 2219751 CS 程度 已经 是 算 not bad la
+NI14MBP_0101 2220263 2222893 ZH 因为 我看 他 跟 他 都 没有 很好 的 朋友 嘞
+NI14MBP_0101 2222893 2226399 CS 所以 很难 i think 他是
+NI14MBP_0101 2226399 2229457 CS 很难 跟 他 很 close 的 一个人 吧
+NI14MBP_0101 2229457 2231423 ZH 我 觉得 这样 已经 是 不错 了
+NI14MBP_0101 2232377 2238240 CS although 我 看 有 我 有 for 我有一些 朋友 他们 兄弟 之间 真的是 感情 超好
+NI14MBP_0101 2239031 2243828 EN like they go everywhere together loh even though they are six years apart same as me and my brother
+NI14MBP_0101 2243828 2247615 EN my roommate ah jin kai and his brother 
+NI14MBP_0101 2247615 2250494 EN they are so close leh they would
+NI14MBP_0101 2250494 2258377 EN even when he was like maybe six years old then my broth~ my friends is twelve years old then he bring him up on my class outing 
+NI14MBP_0101 2258377 2260341 EN  go and play together
+NI14MBP_0101 2260341 2262161 CS like 一起 玩 computer
+NI14MBP_0101 2262161 2266180 ZH 就是 寸步不离 咯 
+NI14MBP_0101 2266180 2268261 CS 很 夸张 ah very
+NI14MBP_0101 2269346 2282231 EN but is quite heart~heart-warming ah when you look at it un~until now leh they are still very close loh like they go and watch movies together like okay ah them them and their sister the three the three siblings then they will just
+NI14MBP_0101 2282231 2285071 CS okay let's go jurong-point 看 一个 电影
+NI14MBP_0101 2285071 2289234 CS they really is 真的  很 很interesting leh
+NI14MBP_0101 2289234 2293021 CS 我 cannot imagine 我 跟 我 brother 跟 我 sister 去 看 一个 movie loh
+NI14MBP_0101 2293021 2295153 ZH 没有 没有 想过 啊 
+NI14MBP_0101 2295153 2296083 EN 
+NI14MBP_0101 2298362 2299568 ZH （ppc）
+NI14MBP_0101 2301307 2302429 EN 
+NI14MBP_0101 2308068 2309555 EN oh what would the parents think
+NI14MBP_0101 2314323 2315081 EN 
+NI14MBP_0101 2317849 2319033 EN 
+NI14MBP_0101 2321821 2326786 EN wit~ with regards to this i don't really know leh like
+NI14MBP_0101 2328404 2329587 EN 
+NI14MBP_0101 2333017 2343962 CS oh 我 不知道 嘞 i think 是 这样 咯 就是 这样 咯 是 有缘 就 有缘 咯 even between like 跟 朋友 之间 也是 这样啊 如*~如果
+NI14MBP_0101 2343962 2352819 CS character 一样 的 话 就是 可以 相处 咯 我跟 我 哥哥 的 character not the same ahharder to
+NI14MBP_0101 2352819 2363900 EN to talk like yeah loh i think my brother and sorry my  jin kai and his brother ah i think they share the same character loh so maybe that's the reason? not too sure about that
+NI14MBP_0101 2371030 2374986 ZH 对
+NI14MBP_0101 2376192 2378631 ZH 哇 啊 明年 啊
+NI14MBP_0101 2378631 2380011 CS 可能 sem. one loh
+NI14MBP_0101 2381542 2389311 CS  应该 会 吧  看 他们 要不要 让 我 出 咯different matter lah  so ah
+NI14MBP_0101 2389311 2392751 CS 走 一步 算 一步 咯 我 也是 没有 想 其实 因为 i stay in clementi mah
+NI14MBP_0101 2392751 2398999 CS so distance wise not near not far lah i mean it still takes about  四十分钟 这样
+NI14MBP_0101 2398999 2412301 CS but  我 i also know of people who  住在 pasir ris 他们 每天 就是 花 三个 多 钟头来  有时 他们 一个 他们 一天 只有 一个 lecture 两个 钟头  他们
+NI14MBP_0101 2412301 2415251 CS travelling 的 time 已经 是 double of  他们的 
+NI14MBP_0101 2415251 2425406 CS  他们 的 lecture ah 就 我 就 觉得 奇怪 他们 做么 不要 住 hall  但是 哎呀 我 clementi 如果 没有 没有 的 住 我 还是 不会 是 算 一个 很大 的 打击啊 对啊
+NI14MBP_0101 2430035 2446191 CS   以前 我是 觉得  ah 住 hall 是 很 好玩 咯 我不懂 啦 我有 这个 印象 咯 like  可以 <unk> 交很多 朋友 咯 然后 啊 方便 也是 方便 一些 吧  而且
+NI14MBP_0101 2446191 2450271 CS 啊 我 已经 是 有 一个 很好 的 朋友 啊 就是 敬凯 咯 my roommate
+NI14MBP_0101 2450271 2461413 CS 因为 我们 从 小 到 大 就是 好朋友 咯  所以 我们 一起 去 读 南大 ah quite convenient to like i don't know we like don't have to adapt to each other loh cause some people got no room~ roommate ah
+NI14MBP_0101 2461413 2475582 CS then  they are like strangers with their roommate i don't like then there is no point alreadylah yeah loh so  我觉得 ah* 既然 有 这个 好朋友 了 一起 住 看 应该 没有 没有 我们 我们 是 不会 有 摩擦 的 咯 so 
+NI14MBP_0101 2475582 2478791 CS quite convenient loh like 我 也可以 一起 读书
+NI14MBP_0101 2478791 2489700 CS  我 喜欢 咯 like 我 是 喜欢 跟 朋友 一起 读书 咯  以前 还要 去 朋友家 或者 去 读书馆  浪费 时间 啊 like 来 travel here and there 
+NI14MBP_0101 2489700 2497868 EN but now is easier loh then a a lot of people will study around me ah but although  i realize now i only study with jin kai  usually ah
+NI14MBP_0101 2497868 2505432 EN  
+NI14MBP_0101 2505432 2511519 EN ah okay ah the people around  i have made some close friends like wei ming
+NI14MBP_0101 2511519 2513853 EN  ah
+NI14MBP_0101 2513853 2519267 EN com. the o.~ o. c. com. is quite close not bad as in we didn't
+NI14MBP_0101 2519267 2528302 EN i~ i~ i feel i am quite fine lahi~ i am okay i think people generally quite enthu~ ah like  like you ah really really this one i think is not bad
+NI14MBP_0101 2528302 2533951 CS  but yeah loh there are goods and bad loh good and bad stuffs 都是 这样 啊 每个
+NI14MBP_0101 2533951 2536101 CS 不可能 expect 每个 organization
+NI14MBP_0101 2536101 2536848 ZH 每个人
+NI14MBP_0101 2536848 2545544 CS 都是 啊可以 相处 的 很好 咯  所以 啊 相信 this is just normal loh like
+NI14MBP_0101 2545544 2552185 CS 只要 里面 有一些 好朋友 like 这样 就是 重要 最 重要 的 吧
+NI14MBP_0101 2552185 2558571 EN  
+NI14MBP_0101 2558571 2562578 CS oh  actually 我 觉得 block thirty-five not bad leh
+NI14MBP_0101 2562919 2564581 CS 我 不懂 诶 i feel ah
+NI14MBP_0101 2564581 2569252 EN quite quite leh then good for studying  like
+NI14MBP_0101 2569252 2580528 CS although the people there not so enthusiastic  but okay leh got some 还有 一些 wei ming 这种 咯 ah regina 她们 还好 嘞 
+NI14MBP_0101 2580528 2585901 CS 可能* 我 不懂 嘞 可能 如果 每个人 搬 的 话 就 可能 一起咯 but 我 现* 我 其实
+NI14MBP_0101 2585901 2588791 CS 到 现在 我 还是 蛮 满意 我的 房间 咯 my room is
+NI14MBP_0101 2589101 2591241 CS quite cosy 已经 有 我们的 味道 了
+NI14MBP_0101 2591241 2594855 CS so 对咯 我 觉得 是
+NI14MBP_0101 2594855 2595899 EN 
+NI14MBP_0101 2595899 2597273 CS 看啦 看 roomie 咯
+NI14MBP_0101 2612332 2618055 EN actually to a large extent quite true ei i or i don't really like to think about it cause i feel guilty
+NI14MBP_0101 2618055 2626224 CS  逃避 不是 问题 is true  oh 不是 解决 问题  yeah lah ah
+NI14MBP_0101 2626224 2630992 CS 因为 其实  我 commitment 蛮多 因为 我 有 一个 i have a girlfriend
+NI14MBP_0101 2630992 2635845 EN so  ahreally takes up quite a sometime then
+NI14MBP_0101 2635845 2645896 CS  together with hall ah is really 很多 时间啊 所以 到 现在 我只是 我 基本 上 是 只有 拜六 礼拜 会 在 家 咯
+NI14MBP_0101 2645896 2654816 CS 其它 天 我 都是 either 在 hall 或者 go back <unk> or go to visit my girlfriend that kind of thing go out study together so
+NI14MBP_0101 2654816 2664752 EN one thing is last time last time from~ from young ah until j. c. everyday i stay at home ah so i think is they used to have me around  then when i went army right i think my mom was very sad
+NI14MBP_0101 2664752 2670044 EN like she say she gave my son to the ah government  yeah so 
+NI14MBP_0101 2670044 2672551 CS one day she said 她 讲 了 一个 东西 很
+NI14MBP_0101 2672911 2675631 CS 很 striking 是 after 我 army 回来 hor 她 讲
+NI14MBP_0101 2676384 2681005 CS ah 我 又 有 儿子 了 i have a son back ah
+NI14MBP_0101 2681005 2688887 EN so it was like that for a while ah then maybe after i graduated from army i was still at home staying at home all the time loh
+NI14MBP_0101 2688887 2697131 CS but after 学校 开始 了 之后 我 有 hall 了 之后 我 就 渐渐 的 又  每天 又 没有 回家 了 因为 我 有 hall mah
+NI14MBP_0101 2697131 2699708 CS i think 他们 本来 expect 我 我是
+NI14MBP_0101 2699708 2702801 ZH 隔 两三 天 回 回家 一次 吧
+NI14MBP_0101 2702801 2704321 CS 我 想 他们 是 这样 expect lah
+NI14MBP_0101 2705038 2711567 ZH 但是 到 现在 我 已经 是 只有 礼* 拜六 礼拜 回 来 了 有时候 拜六 都 不可以 咯 如果 有 别的 东西 做 的 话
+NI14MBP_0101 2711567 2717991 CS  so i think 他们 有 一点 失望 咯 feel quite bad lah like let them down loh
+NI14MBP_0101 2719618 2721890 EN 
+NI14MBP_0101 2724043 2733833 CS 他们 肯定 是 这样 觉得 啊 as in 我 有 时候  从 他们 讲 的 东西 可以  ah 感觉到啊 哇 like 哇 你 终于 回来 了
+NI14MBP_0101 2733833 2741548 CS  这种 this kind of things like ah like 他们 讲 oh 我 以为 你 wednesday 回来 煮 你的 饭了
+NI14MBP_0101 2741548 2748764 CS 哇 then 我就  超sad lahlike like 超 内疚 咯 like very bad lah but
+NI14MBP_0101 2748764 2753898 EN  yeah loh i think now they are starting to understand lohlike
+NI14MBP_0101 2753898 2758055 CS i will make it up to them ah next time 以后 一定 会 promise
+NI14MBP_0101 2758055 2759513 EN really 
+NI14MBP_0101 2761421 2763686 EN i will ah very good parents
+NI14MBP_0101 2765313 2766295 EN 
+NI14MBP_0101 2768469 2774318 EN  
+NI14MBP_0101 2774318 2779765 EN  ahi actually other then school and hall i only join
+NI14MBP_0101 2779765 2788713 EN handball  ahlast time it was more intensive the training like twice a week then be~ because the competition then
+NI14MBP_0101 2788713 2791659 EN yeah lah but i don't know the
+NI14MBP_0101 2791659 2794466 CS a lot of people quit leh 很多 人 都
+NI14MBP_0101 2794466 2795971 EN i think either
+NI14MBP_0101 2795971 2803311 CS 开始 的 时候 蛮 多 人 的 then 有 几个 有 蛮 多 朋友 在 那边 那里 但是 一个 一个 渐渐 的 just 全部 走开 嘞
+NI14MBP_0101 2803311 2806463 ZH 他们 可能 有 别的 活动 咯 还是 我 不懂
+NI14MBP_0101 2806463 2819360 CS  到现在  year one 的人 hor only got about four yayfour or five the situation is very bad ah like  i think they got a cluster of the n. i. e. student
+NI14MBP_0101 2819360 2827949 EN so they are they are quite close loh then if form a team and everything they play they are the better players cause we year one mah we  don't really know how to play
+NI14MBP_0101 2827949 2829407 EN so
+NI14MBP_0101 2829407 2847606 CS they don't really care about interacting with us they 没有 没有 跟我们 来 来谈天啊 这种  so 感情 不是 很好 有些人 可能 因为 这样 觉得 不重视 咯 因为 可能 那时 我们 打 那个 competition 的 时候 他们 只 可以 send 几个人嘛
+NI14MBP_0101 2847606 2855591 CS 十二 十三 个 这样 所以 他们 他们 是 会 打 啦 所以 没有 没有 话 讲 so 他们 把 自己 放 进去 咯 then 
+NI14MBP_0101 2855591 2858476 CS i think aft~ oh 他们 去 competition 他们
+NI14MBP_0101 2858476 2859876 CS 就 没有 管 那些 junior loh
+NI14MBP_0101 2860276 2863116 CS so junior 就 觉得 like why am i here
+NI14MBP_0101 2863116 2866136 CS 一个 一个 走 掉 then
+NI14MBP_0101 2866136 2869376 CS as 一个人 走 掉 其 他 的 人 就 have less reason to stay
+NI14MBP_0101 2869376 2875727 CS  一直 走 走 走 走到 剩下 十五个 so they give one of that* why am i there lah 
+NI14MBP_0101 2875727 2879616 EN yeah loh then plus commitment quite high in other aspects
+NI14MBP_0101 2879616 2884722 CS 就 then i am thinking of whether i should continue lah but for now think i just stay for a while first
+NI14MBP_0101 2886101 2887264 EN 
+NI14MBP_0101 2902252 2907245 CS yeah actually is the letter the 如果 一直 这样 下去 我 不懂 嘞
+NI14MBP_0101 2907786 2910864 CS 已经 没有 什么 motivation 要 留 咯 like 
+NI14MBP_0101 2911252 2916243 CS 没有 朋友 嘞 就是  在那里 的 人 都是 like
+NI14MBP_0101 2916810 2921881 CS 只有 两个 我认识 的 讲 真的 其他 的 都是 they keep to themselves mostly
+NI14MBP_0101 2921881 2924069 EN (er) is quite ah
+NI14MBP_0101 2924661 2931773 CS quite boring loh i go training then nothing to say loh  so if this goes on i probably i think 我 没有 我 不会 留 啊
+NI14MBP_0101 2932957 2933929 EN 
+NI14MBP_0101 2935140 2936836 EN ohby itself
+NI14MBP_0101 2936836 2938496 CS handball 是一个 interesting 的 sport leh
+NI14MBP_0101 2939740 2941187 ZH 我 觉得 它是
+NI14MBP_0101 2942701 2945759 CS ah  一个 team sport loh like 
+NI14MBP_0101 2945759 2947330 EN ah in like
+NI14MBP_0101 2947330 2950506 CS  不懂 嘞 可以 一起 train 我 觉 因为 以前 我在 badminton mah
+NI14MBP_0101 2950506 2954006 CS then  以前 一起 train 一起
+NI14MBP_0101 2954006 2956836 CS 我们 的 感情 很好 between 不是 跟 coach la
+NI14MBP_0101 2957496 2959966 CS but between the players 我们 的 感情 很好 咯
+NI14MBP_0101 2959966 2966222 CS  then 到 j. c. a bit lose that feelings already the comarade* 因为 没有 一起 train for competition
+NI14MBP_0101 2966222 2975834 CS like 以前 我们 just go to each other house and stay sometimes like study together the team is close lah close i was hope i was thinking that eh maybe the handball team
+NI14MBP_0101 2975834 2980182 EN might be like that also yeah but don't know
+NI14MBP_0101 2980182 2983576 CS apparently not loh not 不是 我 想像 中 的 那样
+NI14MBP_0101 2983576 2984487 EN then
+NI14MBP_0101 2984487 2992741 EN  ah the game itself is quite fun also  ah like  ah like like a bit like soccer ah is like
+NI14MBP_0101 2993191 3001037 EN basketball and soccer combine together  so is pretty fun but i think the although is fun by itself as a sport
+NI14MBP_0101 3001037 3013722 CS the 最 重要 的 部分 就是 要 跟 好朋友 一起 play loh yeah which is not really the situation that is like 现在 这种 情况 咯 
+NI14MBP_0101 3017902 3020006 EN 
+NI14MBP_0101 3021028 3022278 EN 
+NI14MBP_0101 3023530 3026251 CS wah hall 的 situation senior-junior divide ah
+NI14MBP_0101 3026825 3028299 EN to a large extent
+NI14MBP_0101 3028299 3030506 CS i think 每 一个 organization 都会 有 啊
+NI14MBP_0101 3031104 3042081 CS  我不懂 啊 even 可能 是 要很 密切 的 like where every time interact 的 sports loh last time 以前 badminton 我的 senior-junior divide is very small
+NI14MBP_0101 3042081 3056645 CS like we are all friends ah together  but coming to uni. and j. c. and j. c. also ah practically seniors and juniors i mean 我们 是 不会 接触 啦  so 没有 没有 什么 感情 在 uni. 
+NI14MBP_0101 3056645 3059856 CS 有 一些 有 一些 seniors 是 蛮 friendly 的
+NI14MBP_0101 3060685 3068671 CS 这样 而已 真的 有一些 啦 zhi hong ah like dexter 他们 not bad 
+NI14MBP_0101 3068671 3072515 CS but 也是 有 一些  不懂嘞 cannot
+NI14MBP_0101 3074984 3077695 EN can lah surely yeah ah
+NI14MBP_0101 3077695 3087549 EN 
+NI14MBP_0101 3087549 3096526 CS some ah  not everything is this way  i don't know leh  yeah is a problem that i i have no solution to 我不懂 what
+NI14MBP_0101 3099264 3099526 EN 
+NI14MBP_0101 3101799 3110401 CS  对 我 觉得 我 我 以前 以为 都是 like  每个人 都是 很 cohesive* equality but
+NI14MBP_0101 3110401 3113224 ZH 不是 嘞 有点 不 一样 嘞 有 一些 隔阂
+NI14MBP_0101 3113673 3123612 CS so  我也 不懂 要 该 怎么办 嘞 我 自~ 我 自己 想 like social 那种 those activities the main reason is to bond the people
+NI14MBP_0101 3123612 3131045 CS  在 一起 啊 but  不懂 嘞 已经 变成 有 有 有些 是 like ah like some obligation 这样 peop~
+NI14MBP_0101 3131045 3140884 CS 对 咯 like 以前 做过 所以 this year also must do but the purpose behind it is to bond people which i don't really see it happening ah like
+NI14MBP_0101 3140884 3149216 EN although i don't have a yeah  ahas my mention a~already i don't really know what is like whether how to execute* it such that this thing happens
+NI14MBP_0101 3149785 3150407 EN so
+NI14MBP_0101 3151120 3160806 CS 我是讲  可能 seniors should take the initiative loh i feel ah because juniors cannot really invite 那些 seniors mah  可能
+NI14MBP_0101 3160806 3165576 CS seniors 如果 有空 的话 他们 去 吃 我 不懂 他们 如果 要 读书 的话 可以
+NI14MBP_0101 3165576 3166603 EN 
+NI14MBP_0101 3166603 3177926 CS i think it all starts from small group loh then maybe you want to study then can ask us 叫我们 一起去 or 去吃dinner 可以去 一起去 like

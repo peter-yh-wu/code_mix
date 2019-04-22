@@ -1,0 +1,94 @@
+UI16MAZ_0105 0 7851 ZH 这样
+UI16MAZ_0105 7851 16715 CS (呃) 很难 讲 啦 因为 有时 正~ 正常 来讲 如果 是 一个 course 大约 十五 到 二十分钟 会 解决
+UI16MAZ_0105 16715 27632 CS 如果 一天 一个 小时 里面 那个 小时 如果 刚好 peak hour 的话 就是 你 每 二十 分钟 十五 分钟 就会 一个 call 一个 call 一个 call 一个 call
+UI16MAZ_0105 27632 40025 CS 这样 如果 是 那种 non-peak hour 就是 你 整天 坐 住 那边 一两个 钟 像 拜六 的话 就是 以前 做工 就是 做 十二个 钟 才 听了 两三个 call
+UI16MAZ_0105 40025 45178 CS 就是 一大早 的 时候 他们 u. s. 的人 还 没有 睡 他们 打 电话 进来
+UI16MAZ_0105 45178 52651 CS 做了 几个 过 case 过后 after lunch time 大~ 大部分 时间 都是 全部 都 睡了
+UI16MAZ_0105 52651 54310 CS 全世界 都 off day了
+UI16MAZ_0105 54310 57020 ZH 休息
+UI16MAZ_0105 57020 65786 CS 星期六 还 okay 礼~ (呃) 星期日 就 不太 因为 星期日 早上 okay 因为 全世界 还在 睡觉 还 没有 醒
+UI16MAZ_0105 65786 74534 CS 然后 十二点 过后 lunch time 过后 一两点 过后 就是 (er) israel israel israel 开始 做工 嘛 礼拜
+UI16MAZ_0105 74534 81171 ZH 没有 他们 是 迟过 我们 嘛
+UI16MAZ_0105 81171 87201 ZH 就是 我们 在 这边 他在 这边 嘛 就是 我们 一两点 他们 才 早上
+UI16MAZ_0105 87201 90165 ZH 所以 他们 那个 时间 他们 醒了 他们 就很 喜欢
+UI16MAZ_0105 90165 93326 ZH 嗯
+UI16MAZ_0105 93326 97106 ZH 对 他们 是 礼~ 啊 星期日 做到 星期四
+UI16MAZ_0105 97106 101525 ZH 嗯
+UI16MAZ_0105 101525 104967 CS 他们 israel 是 这样 的 工作 时间 的
+UI16MAZ_0105 104967 112483 EN en
+UI16MAZ_0105 112483 116688 ZH 对
+UI16MAZ_0105 116688 117248 ZH 对
+UI16MAZ_0105 117248 123287 ZH 嗯
+UI16MAZ_0105 123287 124759 ZH 嗯 差不多 这样 啦
+UI16MAZ_0105 124759 129033 EN en
+UI16MAZ_0105 129033 131896 CS (呃) 不同 不同 的 support 咯 就是
+UI16MAZ_0105 131896 139701 CS 他们 有些 不同 不同 的 地方 的 人 很喜 像 israel 那些 他们 一点点 小事 他们 就 打 电话 进来
+UI16MAZ_0105 139701 147759 CS 然后 他们 有时 他们 讲 英文 又讲 不太 清楚 或者 他们 的 slang 又 不一样 所以 一开始 的 时候 也是 很 痛苦
+UI16MAZ_0105 147759 156258 CS 我 听 不懂 你 可以 repeat嘛 repeat repeat repeat 再 repeat 然后 repeat 到 真的 是 两次 还是 三次 他 开始 不爽 了
+UI16MAZ_0105 156258 162407 CS (呃) 你 等等 我 connect 去他 电脑 看看 这样 会 比较 啊 方便 咯
+UI16MAZ_0105 162407 172356 CS 因为 我们 的 support call phone 的话 啦 我们 分 啊 英文 跟 华语 罢了 两个 罢
+UI16MAZ_0105 172356 179119 CS 但是 华语 的话 是 另一 一小 group 的人 做 啦,我 不是 华语 support 我是 英文 support 的 所以 他们 打电话 进来 一定 要讲 英文 的
+UI16MAZ_0105 179119 189387 CS 对 他们 好像 u. s. 是有 spanish 的 但是 我 他们 他们 costa rica 的人 他们 会讲 spanish mah
+UI16MAZ_0105 189387 197435 CS 因为 现在 是 日本 也是 有 有得选 日本 但是 我 没有 我 没有 遇过 啦 我~ 我 不懂 哪里 有 那个 日本 support
+UI16MAZ_0105 197435 198486 ZH 很
+UI16MAZ_0105 198486 207295 CS 他的 那个 phone menu 那边 有得 有得 选 一 英文 二 华语 (呃) 然后 三 spanish 然后 四 日语 这样 的 东西
+UI16MAZ_0105 207295 214867 CS so far 我~ 我 知道 有 四个 啦 但是 日~ 日语 也是 很少 很少 很少
+UI16MAZ_0105 214867 218305 CS 但是 所以 最 main 的 只有 两个 英语 跟 华语 罢了
+UI16MAZ_0105 218305 224884 CS (呃) 不同 英文 不同 region 的话 有 不同 slang
+UI16MAZ_0105 224884 236143 ZH 有 你会
+UI16MAZ_0105 236143 242374 CS 好像 你 听完 那个 call 过后 你 可以 自己 好像 你 要去 上 洗手间 上 厕所
+UI16MAZ_0105 242374 246702 CS 你 可以 (er) off from phone 几分钟 这样 咯
+UI16MAZ_0105 246702 253723 CS 然后 如果 你 每个 call 完 过后 你 可以 off 几分钟 来做 你的 那个 document 这样 咯 差不多
+UI16MAZ_0105 253723 274828 CS call 啊 现在 他们 有个 新的 就是 一个 礼拜 一个 星期 啦 你 做工 (呃) 一个人 要 差不多 四十 到 五十个 issue resolve
+UI16MAZ_0105 274828 280816 CS 就是 你要 (呃) fix 四十 还是 五十个 issue 咯
+UI16MAZ_0105 280816 285130 CS 这算 ticket 啦 就是 五十个 ticket resolve under 你就 okay 咯
+UI16MAZ_0105 285130 288148 CS 如果 under 的话 他们 就会 问你 为什么 你会 少过
+UI16MAZ_0105 288148 293020 CS 然后 你 就要 list 给 他们 看 你 那一个 为什么 你会 这样 少
+UI16MAZ_0105 293020 298583 CS 因为 可能 有时 你 不小心 遇到 一些 call 就是 说 两三个 钟 你 一天 就 少了 几个
+UI16MAZ_0105 298583 304403 CS 然后 你 每一天 都 遇到 一个 长的 call 每一天 都 少了 几个 所以 比较 少
+UI16MAZ_0105 304403 314155 CS 那 有些 比较 好运 的 话 就 一天 就是 non-stop 全部 短短 的 就是 hello 啊 你有 什么 事情 很快 land desk 啊 那个 connect 过去 就 settle 了
+UI16MAZ_0105 314155 320614 CS connect 过去 settle了 就是 快了 有些 就是 很 麻烦 就是 anti virus 咯
+UI16MAZ_0105 320614 323856 CS 就是 因为 他 那个 他们 用 mcafee
+UI16MAZ_0105 323856 327406 CS 他们 不 知道 三四个 package 合在 一起
+UI16MAZ_0105 327406 331879 CS 有 anti virus 啊 那个 firewall e. p. o. 还有 什么
+UI16MAZ_0105 331879 337640 CS 还有 agent 什么 running 那个 background framework 那 一个 坏 然后 全部 一起 坏
+UI16MAZ_0105 337640 345203 CS 你要 慢慢 一个 一个 找 出来 一个 一个 fix 很 拖 时间 然后 如果 你 不能 fix 的话 你要 engage second level
+UI16MAZ_0105 345203 359287 CS (呃) 之前 有啦 一起 几个 但是 不是 很 major 到 全部 电脑 死 啊 他 只是 说
+UI16MAZ_0105 359287 366155 CS 他们 detect 到 有这 virus 在 spread 着 所以 他们 会把 特定 那 几个 电脑 好像 他们 有
+UI16MAZ_0105 366155 372766 CS 因为 他们 电脑 里面 有 那个 东西 一 run 着 他们 可以 monitor 你的 电脑 有 那个 bandwidth 啊 什么 东西 去跑
+UI16MAZ_0105 372766 376641 CS 他们 detect 到你 电脑 有 (呃) suspect
+UI16MAZ_0105 376641 379731 CS 他 就会 send email 给你 怎样 讲 你 电脑 suspect 这个 这个
+UI16MAZ_0105 379731 386657 CS 然后 如你 要 尽快 打 电话 给 我们 咯 就是 他 email 不是 我们 send 啦 是 另外 一个 那个 threat management那边
+UI16MAZ_0105 386657 392375 CS 他 叫 我们 打 电话 进来 叫 我们 check 给他 咯 看 能不能 run 那个 virus scan 啊或是 什么
+UI16MAZ_0105 392375 402970 CS 如果 真的 是 不能 loop 他 email 那边 有写 啦 如果 在 这几天 里面 没有 fix 好 我们 会disconnect 你的 电脑 就是 把 你的 account lock 掉啦 这样 东西
+UI16MAZ_0105 402970 413799 EN en
+UI16MAZ_0105 413799 424396 CS (er) 那个 web 就是 那个 certain 咯 有些 website 就是 像 他们 有 s. a. p. 有 purchasing的 东西 他们 就是 s. a. p. 的人 support
+UI16MAZ_0105 424396 435744 CS 然后 如果 有 certain 那个 forms 的 东西 他们 有时 就是 有 我们 support 咯 我们 support 了 不能 的 话 就 second level support (er) 他们 有 自己 的 second level
+UI16MAZ_0105 435744 442037 CS 就是 我们 的 second level 就是 support 我 帮 我们 就是 (呃) 普通 outlook 啦
+UI16MAZ_0105 442037 451287 CS software 啦 那些 问题 像 certain 的 那些 website 我们 只能 帮的 就是 看 你的 你的explorer 能不能 load 到 那个 website
+UI16MAZ_0105 451287 461336 CS 接下来 你要 怎样 用 你有 什么 问题 你要 改 那个 website 你要 找 那个 website 的 second level 或者 正式 那个 website 的 support
+UI16MAZ_0105 461336 463540 CS 你要 route 来 route 去
+UI16MAZ_0105 468165 479631 CS (呃) 暂时 还 没有 暂时 还 没有 这样 去 (呃) 暂时 是想 target 是(呃) 换 permanent employee先咯
+UI16MAZ_0105 479631 483003 CS either 是 别的 公司 或者 是 intel
+UI16MAZ_0105 483003 489100 ZH 也是 啦 暂时 是 还 没有 这样 (呃)
+UI16MAZ_0105 489100 494899 CS (呃) 嗯 master 应该 是 没有 读 啦
+UI16MAZ_0105 494899 506126 CS 可能 有的 话 都是 去 拿 一些 别的 那种 course 啊 很多 人 缺少 那种 c. c. n. a. 啦 什么 看看 咯 看 那个 会 比较
+UI16MAZ_0105 506126 514264 CS (er) 还 okay啦 不是 不是 很有 兴趣 啦
+UI16MAZ_0105 514264 521133 CS 但是 比较 喜欢 做 那些 好像 graphic 的 东西 这样 所以 自己 在 学着 photoshop
+UI16MAZ_0105 521133 522011 EN en
+UI16MAZ_0105 522011 531331 CS flash 以前 有 学过 一点点 有 一点点 有 做过 有 学过 一点点 然后 还在 慢慢 研究 着 因为
+UI16MAZ_0105 531331 544181 EN en
+UI16MAZ_0105 544181 555183 EN 
+UI16MAZ_0105 555183 568973 CS 暂时 没有 正式 这样 detail 去 打算 暂时 是 还在 做着 这份工 是 弄好 这份工 学好 这 应该 学的 东西 先 才来 打算 看 能不能 (呃)
+UI16MAZ_0105 568973 578690 CS 学 别的 course 或者 是 学 其它 的 东西 可以 (er) 进 另外 一个 field 或者 可能 是 不是 在 support layer
+UI16MAZ_0105 578690 589364 EN 
+UI16MAZ_0105 589364 595947 CS 他 update 了 我们 也是 那个 像 intel 的话 他们 software 他们 常常 用的 software
+UI16MAZ_0105 595947 603604 CS 他们 的 software 常常 有 update了 每次 有 major update 有 不同 的 话 他 就会 给 training 然后 去学 去学 个 不同 不同 一路 学
+UI16MAZ_0105 603604 606713 ZH 基本上 是 差不多 是 学不完的
+UI16MAZ_0105 606713 614550 CS 但是 我是 我是 想 可有 有~ 有 机会 我 想去 学 那个 blackberry 的 东西 yup 因为
+UI16MAZ_0105 614550 621734 CS 最近 好像 很多人 都用 啊 很多 support 都会 有 用到 blackberry
+UI16MAZ_0105 621734 625002 ZH 学 不完
+UI16MAZ_0105 625113 633516 ZH 嗯 对  嗯
+UI16MAZ_0105 633516 640266 ZH 嗯
+UI16MAZ_0105 640266 661134 ZH 是喔 有些 朋友 他会 一点点 啦 看 慢慢 研究 看 能不能 正式 有 兴趣 在 那边 话 就是 比较 深 一点 看咯
+UI16MAZ_0105 661134 673783 ZH 嗯 是

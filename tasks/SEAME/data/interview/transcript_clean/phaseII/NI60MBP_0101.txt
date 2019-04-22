@@ -1,0 +1,797 @@
+NI60MBP_0101 644 1546 ZH 啊哼
+NI60MBP_0101 2345 3595 ZH 啊哈
+NI60MBP_0101 3770 5480 ZH 我 名字 是 chun-kin 啊
+NI60MBP_0101 5782 6670 ZH 啊
+NI60MBP_0101 6670 9660 CS 我是 在 n. t. u. 读 year one
+NI60MBP_0101 9720 11270 CS triple e 的 今年
+NI60MBP_0101 11720 14170 ZH 然后 啊
+NI60MBP_0101 15150 17910 CS 我 之前 是 从 catholic junior college
+NI60MBP_0101 18420 19890 ZH 啊 然后
+NI60MBP_0101 19890 20960 ZH 恩
+NI60MBP_0101 20960 25140 CS 以前 中学 是 女皇镇 啊 queens town secondary school
+NI60MBP_0101 25787 26655 ZH 恩
+NI60MBP_0101 27350 29150 EN 
+NI60MBP_0101 29150 31420 CS 啊 现在 在 n. t. u. 是 没有 啦
+NI60MBP_0101 31930 35060 CS 啊 以前 在 secondary school 的时候 有 join badminton
+NI60MBP_0101 35420 37240 CS 然后 还有 drama club
+NI60MBP_0101 37532 44732 CS 啊 在 j.c. 也是 有 啦 badminton 跟 entrepreneur club
+NI60MBP_0101 47705 50322 CS 啊 对 yeah
+NI60MBP_0101 50322 52592 ZH 类似 那种 演～ 演戏 的 咯
+NI60MBP_0101 54267 57218 ZH  啊 对 戏剧 的
+NI60MBP_0101 58086 59392 ZH 啊嗯
+NI60MBP_0101 59392 62152 CS 有 有 演 过 charlie and the chocolate factory 啊
+NI60MBP_0101 62182 64292 ZH 那种 在外 面 学校 表演 的
+NI60MBP_0101 64922 69332 CS 就 参加 那种 比赛 啊 他们的 主题 是 fantasy
+NI60MBP_0101 69852 76572 ZH 然后 我们 就要 从 那些 故事 书 里面 找 一 本 我们 最 喜欢 的 然后 演 一段 出来 咯
+NI60MBP_0101 77419 78843 ZH 嗯 然后 
+NI60MBP_0101 82872 86192 CS practice 啊 (呃) 每个 礼拜一 两次 咯
+NI60MBP_0101 86390 93591 CS 到 比较 靠近 的时候 我们 就 比较 frequent 咯 like 两 三 三四 次 一个 礼拜 这样
+NI60MBP_0101 94424 95882 EN 
+NI60MBP_0101 96854 98833 EN 
+NI60MBP_0101 99180 104060 CS 诶 那个 算 比较 small 的 play 咯 我们 只有 四 到 五个 人
+NI60MBP_0101 104805 106957 ZH 嗯 
+NI60MBP_0101 107920 112676 ZH 诶 他们 嗯 内定 我们 一定 要 十五 分钟 不可以 太 长
+NI60MBP_0101 114134 116390 ZH  啊 对
+NI60MBP_0101 117467 118994 EN 
+NI60MBP_0101 119654 120904 ZH 嗯
+NI60MBP_0101 121772 124370 CS (呃) actually 不是 很好 啦
+NI60MBP_0101 124420 126820 CS 因为 那天 before that 我们 有 chalet
+NI60MBP_0101 127147 130097 ZH 然后 那个 老师 也不 懂 然后 我们 就
+NI60MBP_0101 130390 131207 ZH 脱掉 了
+NI60MBP_0101 131207 133487 CS 自己 secretly 去 咯
+NI60MBP_0101 133897 135577 ZH 到了 那边 我们 每个人 都 很 累
+NI60MBP_0101 135577 142017 CS 然后 就 演的 不怎么 好 那个 老师 就 开始 骂我 为什么 要 这样 为什么 我们 去 去 chalet 然后
+NI60MBP_0101 142017 146047 CS 弄 到 自己 这样 累 明知 道 有 performance 然后 还 还 去 玩
+NI60MBP_0101 147742 157582 CS 啊 去 那种 度假 在 那种 pasir-ris 的时候 我们 去 租 一个 很 像 (呃) 两~ 两层 的 (呃) 房子 这样 住 一 两天
+NI60MBP_0101 157773 162163 CS 然后 在那边 b. b. q. 去 游泳 踩 脚 车 这样 咯
+NI60MBP_0101 163232 164100 ZH 嗯
+NI60MBP_0101 164378 165905 ZH 嗯
+NI60MBP_0101 167954 169205 EN en ah badminton
+NI60MBP_0101 169615 174105 ZH 从 小四 开始 打
+NI60MBP_0101 174675 178468 ZH 小四 开始 打 那时 是 蛮 偶然 的 是
+NI60MBP_0101 178782 181662 CS 那个 老师 问 谁 要 join badminton
+NI60MBP_0101 181752 184812 ZH 然后 我 就 (呃) 其实 我 第一次 我 没有 举手
+NI60MBP_0101 185268 188148 CS 然后 那个 那时 因为 要 consent form 嘛
+NI60MBP_0101 188328 191648 CS 因为 还没有 还没有 成年 然后 就要 consent form 嘛
+NI60MBP_0101 191864 196054 CS 然后 那个 老师 上来 之后 他 photocopy 了 那个 consent form 然后 再 上来
+NI60MBP_0101 196334 200904 CS 然后 我 就 我 就 再 举手 然后 讲 啊 我 我 有意思 想 要 join 嘛
+NI60MBP_0101 201290 203970 ZH 然后 那个 老师 就 哦 刚刚 好 最后 一张
+NI60MBP_0101 203970 205060 ZH 啊
+NI60MBP_0101 205060 208350 CS 不然 不然 如果 没有 的话 应该 是 不会 join 啦
+NI60MBP_0101 208488 209599 ZH 会 开始
+NI60MBP_0101 210710 211890 ZH (呃)
+NI60MBP_0101 211890 215340 ZH 好玩 啦 不会 说 很 累 有时 是 蛮 累 的 啦 那种
+NI60MBP_0101 215640 218440 ZH 那种 比较 (呃) 高级 的时候
+NI60MBP_0101 218610 221660 CS 要 每天 练习 不是 just 打 玩玩 这样 啦
+NI60MBP_0101 221800 222630 ZH 然后 就
+NI60MBP_0101 223094 224290 ZH 嗯
+NI60MBP_0101 224290 226140 ZH 就要 练习 就 比较
+NI60MBP_0101 226820 228380 ZH 就 比较 无聊 咯
+NI60MBP_0101 228623 233413 CS 来 的 比较 乏味 这样 没有 这样 这样 enjoy 咯
+NI60MBP_0101 235633 237283 EN (er) inter school
+NI60MBP_0101 237613 239983 CS 还有 在外 面 有 join 那个
+NI60MBP_0101 240453 242753 CS (呃) 以前 是 叫 yonex sunrise
+NI60MBP_0101 243233 246353 CS 那个 youth 的 现在 是 叫 aviva open
+NI60MBP_0101 246725 250115 CS 然后 还有 join 那个 每年 一年 一度 的 pilot pen club
+NI60MBP_0101 250785 253565 CS 有 join 过 每个 两次
+NI60MBP_0101 253915 256735 ZH 然后 还有 多 一个 是 另外 一个 马来西亚 的
+NI60MBP_0101 257464 260785 CS 不是 马来西亚 是 u. s. a. brand 的 但是 是 马来西亚 的 人
+NI60MBP_0101 261108 263135 ZH (呃) 的 (呃)
+NI60MBP_0101 263135 265645 CS 去 host 的 那个 比赛 叫 asia way tournament
+NI60MBP_0101 272465 276985 CS 哦 (呃) 我 spend 我的 first three months 在 tekong 啦
+NI60MBP_0101 277185 283085 ZH (呃) 前 三个 月 在 那个 tekong 岛 做 (呃) 普通 的 训练 咯
+NI60MBP_0101 283187 287597 CS 然后 就 三个 在 然后 就 被 post 出去 被 post 去
+NI60MBP_0101 287787 290827 CS (呃) 他们 sispec* school 就是 在 这边 附近 的
+NI60MBP_0101 290904 295324 CS 那个 pasir-lebah camp 啊 去 学 去 做 sergeant
+NI60MBP_0101 296234 300694 CS 啊 然后 (er) actually 是 去 做 corporal 先 啦 去 学 做 corporal 然后
+NI60MBP_0101 301524 307694 CS (呃) 然后 他 再 派回 我去 那边 (呃) 再 去 怎样 做 (呃) sergeant 啦 去去
+NI60MBP_0101 308192 315072 CS 学 那些 (呃) 打仗 的 (呃) 那些 tactical (er) tactics 跟 那些 weapons 咯
+NI60MBP_0101 315662 316552 ZH 啊 然后
+NI60MBP_0101 317009 324059 CS 大概 (er) spend 了 差不多 一年 啊 然后 再 被 post 去 guards
+NI60MBP_0101 325129 334759 CS (er) 比较 比 是 算 这么 多个 里面 lor unit 里面 是 最~ 最凶 (er) 最凶 的 啦 可以 跟 那个 commando navy 那些 比 啊
+NI60MBP_0101 335579 345249 CS 啊 然后 每个人 都 讲 我很 suay 啊 then 我 那个 batch 就是 就是 这样 suay 的 啦 因为 我的 batch 刚刚 好 是 (呃) 他们 那边 guards 没有 没有 intake
+NI60MBP_0101 345613 349703 CS 他们的 那些 before 我们的 spec~ specialist 已经 完了
+NI60MBP_0101 350093 354093 CS 然后 我们 就 刚刚 好 那个 batch 是 to 补~ 补~ 补给 他们的
+NI60MBP_0101 354785 361075 CS 然后 就 大概 我 整个 platoon 三十 个人 三十 个 四十 个人 大概 有 三四 个 进
+NI60MBP_0101 361645 363635 ZH 我们 就 哇 全部 都 觉得 很
+NI60MBP_0101 364223 369803 ZH 很 很 (呃) 没有 办法 这样 但是 又 又 一定要 面对 啦
+NI60MBP_0101 370043 371015 ZH 嗯
+NI60MBP_0101 372204 372933 ZH 啊
+NI60MBP_0101 373353 380993 CS 算 算是 啦 很 像 人家 现在 走过来 问 我 (er) 你 以前 什么 unit 然后 我 就 讲 guards 啊 然后 他 就 讲 哇 很 凶 诶 这样 然后 我 就
+NI60MBP_0101 381323 384603 ZH 其实 也不 是 很凶 啦 是 刚 开始 的时候 (呃)
+NI60MBP_0101 385083 389973 CS 刚 开始 因为 他 有一个 一个 阶段 是 耳鸣 guards conversion course 啊 是 给 你
+NI60MBP_0101 390353 400383 CS 所谓 你要 clear 一些 (呃) 项~ 项目 你 才 可以 (呃) (呃) like 真正 成为 他们 那个 guards 的 unit 的 的 (呃) sergeant 是吗
+NI60MBP_0101 400863 404253 CS 然后 就是 那个 那个 一个 月 的 training 是 最凶 的
+NI60MBP_0101 404523 406323 ZH 每天 都 大概 是 (呃)
+NI60MBP_0101 406969 414069 ZH 每天 都 带 (呃) 带着 十 公斤 的 书包 这样 走走 十二 公里 这样 啦
+NI60MBP_0101 414209 415469 ZH 每天 都要 走 一次 因为
+NI60MBP_0101 415704 418304 ZH 到 最后 他 有 一 很 想 考试 这样
+NI60MBP_0101 418574 422674 ZH (呃) 给 你 去 (呃) 走 十二 公里 但是 他 只 给 你 一百 分钟
+NI60MBP_0101 422765 428845 CS 你 走 不 完 就 的话 就算 你 (呃) 不及 格 然后 就 就 不可以 pass 咯 整个 整个 course
+NI60MBP_0101 429234 437034 CS 然后 除了 那个 (呃) 走 十二 公里 还有 还有 跳 (呃) 那个 直升机 啊 helicopter
+NI60MBP_0101 437644 439994 ZH 我们 拿 一条 绳子 这样 跳下 去 咯
+NI60MBP_0101 442027 443274 EN repairing~ lah
+NI60MBP_0101 443274 445854 CS 那种 national day 有 看到 的 啊
+NI60MBP_0101 445964 448454 CS 但是 我们 没有 去 national day 这么 厉害 啦
+NI60MBP_0101 448660 452780 CS 我们 只是 学 怎么 跳 我们 又 跳 过 那个 mock up 的
+NI60MBP_0101 452780 453240 EN that
+NI60MBP_0101 453240 457170 CS (呃) 一 两 (呃) 三四 次 然后 再 再 跳 那个 actual 的 咯
+NI60MBP_0101 457740 460460 CS 啊 我的 batch 算 suay 啦 因为 我们
+NI60MBP_0101 460616 470466 CS 到 第一次 我们 跳 好 了 那个 mock up then 我们 准备 去 跳 那个 actual 的时候 那个 helicopter lor 来 (呃) 来 做了 两 三个 detail 我们 等 了 三个 小时 咯
+NI60MBP_0101 470828 482018 CS 他就 讲 哦 helicopter 有 failure 那个 那个 里面 的 那个 东西 to secure 我们的 这样 (呃) 有 有 有 safety issue 啊 然后 就 讲 啊 不可以 跳
+NI60MBP_0101 482408 488528 ZH 然后 我们 就 哇 浪费 三四 个 时间 在 那个 草地 那边 晒 太阳 咯 我们 全部 都 哇 无聊 诶
+NI60MBP_0101 491628 493218 ZH 啊 对比 较 不同 咯
+NI60MBP_0101 493448 496128 ZH 啊 也 也可以 说是 好玩 啦 很 像
+NI60MBP_0101 496318 501588 CS 很 像 如果 你 喜欢 那种 (呃) 那种 roller coaster rides 那种 就有 一点 相似 啦
+NI60MBP_0101 501834 505644 CS 然后 还有 做 那种 chinook 比较 大 的 直升机 啊
+NI60MBP_0101 505704 510044 ZH 是 那个 (呃) 有 两个 (呃) 盘～ 那个 盘旋 的 那个 啊
+NI60MBP_0101 510481 512301 ZH 那个 比较 那个
+NI60MBP_0101 512802 513600 ZH 啊
+NI60MBP_0101 514171 519081 ZH 是 很好 玩 的 因为 它 后面 是 开 一半 的 然后 你 坐在 里面 的时候 你 可以 看 得到 外面
+NI60MBP_0101 519081 519764 ZH 然后
+NI60MBP_0101 520339 525659 CS 我 我 开始 以为 哦 里面 的 (呃) 那个 seats lor 是 很 uncomfortable 的 but actually 进去 哦 它是
+NI60MBP_0101 525826 531006 CS 很 comfortable 的 坐下 去 哦 是 直接 很 想 要 睡觉 睡觉 这样的 因为 它的 是 (呃) 很 像 绳子 这样
+NI60MBP_0101 531116 535206 CS 它 有 两个 pole 一个 在 上面 一个 在下面 然后 他 用 绳子 这样 绑住
+NI60MBP_0101 535566 541606 CS 然后 你 就 just 坐 坐在 下去 整个 body 很像 垂~ 垂 下去 这样 很 舒服 啊
+NI60MBP_0101 543080 544018 ZH 嗯
+NI60MBP_0101 546378 547420 ZH (呃)
+NI60MBP_0101 549816 552176 CS 大概 是 thirty to forty 啊
+NI60MBP_0101 552956 559066 CS 他是 比较 (呃) considered 是 比较 大 的 (呃) groups to go attack 的 咯
+NI60MBP_0101 563177 566187 CS 我们 只 可以 从 那种 小 的 那种 super puma 跳下 来
+NI60MBP_0101 566257 571337 CS 那个 大 的 是 它 要 自己 land 的 然后 我们 才 跑 过去 跑 进去 啊
+NI60MBP_0101 571779 573549 ZH 哇 那个 引擎 咯 是
+NI60MBP_0101 573607 579817 CS 那个 engine 是 超~ 超热 的 我们 因为 他的 飞机 在 是 这样 face 我们 要 从 后面 进
+NI60MBP_0101 580214 583874 CS 然后 后面 进 咯 一 跑 过 那个 引擎 哦 我们 全部 跑 then 突然间 跑 不 动
+NI60MBP_0101 584434 585494 ZH 突然间 跑 不 动
+NI60MBP_0101 585660 586880 ZH 然后 就 (呃)
+NI60MBP_0101 586950 593670 CS 因为 那个 engine 的 那个 air 很 很大 then 我们 就 诶 怎么 我们 跑开 这样 大力 then 很 像 没有 动 到
+NI60MBP_0101 593778 596258 CS 很 像 still on the same spot 那种 感觉
+NI60MBP_0101 596488 598858 CS then 是 满 好玩 的 啦
+NI60MBP_0101 599125 599750 ZH 嗯
+NI60MBP_0101 604715 606867 ZH 啊 对
+NI60MBP_0101 607249 608083 ZH 嗯
+NI60MBP_0101 609638 612158 ZH 算 算算 好 啦 那时
+NI60MBP_0101 613360 614019 ZH 对
+NI60MBP_0101 615547 616484 ZH 嗯
+NI60MBP_0101 617128 623198 CS then i think 每个人 在 army 都是 那种 比较 好的 啦 因为 没有 办法 嘛 每天 都是 要 去 运动 运动
+NI60MBP_0101 623368 627628 CS 每天 每天 都要 去 做 那种 体操 啊 march
+NI60MBP_0101 634964 635901 ZH 啊
+NI60MBP_0101 637082 637917 ZH 嗯
+NI60MBP_0101 637917 644257 CS 在 army 算是 比较 brainless 啦 它的 它的 很 像 follow through motion 咯 我们 每次 讲 follow through motion
+NI60MBP_0101 644533 649903 CS just en just 不用 去 想 的 just 跟着 做 跟着 做 就 不会 错 的 一定 是
+NI60MBP_0101 651354 652361 EN en
+NI60MBP_0101 654583 655451 EN en
+NI60MBP_0101 659028 664128 CS year one 啊 有 last semester 是 有 学 physics 啊 maths
+NI60MBP_0101 664590 670640 EN ah econs ah effective communication
+NI60MBP_0101 671341 678211 CS 还有 很 像是 哦 chemistry 还有 computing
+NI60MBP_0101 682461 685261 ZH (呃) 比较 没有 什么 关系
+NI60MBP_0101 686011 688731 CS 对 因为 他们 讲 first year 是 common 嘛
+NI60MBP_0101 688981 694291 CS 所以 我 现在 也是 读 不会 说 特别 有 related 的 啦 but 有一点 点 啦
+NI60MBP_0101 694492 696232 CS 我 现在 是 读 也是 读 physics
+NI60MBP_0101 696472 699362 EN (er) material science life science
+NI60MBP_0101 699752 703652 CS (呃) 还有 什么 maths 咯
+NI60MBP_0101 703752 707422 CS 四 科 现在 then 有 两个 elective 是 自己 拿 的
+NI60MBP_0101 713932 715322 EN oh effective communication
+NI60MBP_0101 715962 720832 ZH 那个 我觉得 是 比较 好玩 的 耶 是
+NI60MBP_0101 721092 724252 CS 啊 是 他 教 你 怎么 去 present 自己
+NI60MBP_0101 724352 725472 CS like 很 像 (呃)
+NI60MBP_0101 725702 728452 CS interview 的时候 要 讲 什么
+NI60MBP_0101 728632 733002 CS 然后 要 以 什么的 语气 什么的 body posture
+NI60MBP_0101 733242 735302 ZH 怎么 的 你 怎样 讲话
+NI60MBP_0101 735572 738382 CS 你的 lang~ 你 language 你的 voice projection
+NI60MBP_0101 738692 744192 ZH 然后 还有 (呃) 多 一个 是 (呃) 是 关于 你的 穿着 啊
+NI60MBP_0101 744225 746845 CS 还有 有一个 是 public speaking
+NI60MBP_0101 747810 748535 ZH 啊
+NI60MBP_0101 748535 749375 ZH 然后 我觉得 他
+NI60MBP_0101 750345 753875 ZH 很 很 有趣 啦 因为 可以去 学 这种 东西 以后 一定 会 用 到
+NI60MBP_0101 754115 758375 CS 然后 再 加上 它 很多 group work 啊 可以 每次 给 我们 一个 group 这样 discuss
+NI60MBP_0101 758684 759664 ZH 然后 怎样 做
+NI60MBP_0101 759844 761234 ZH 然后 还有 (呃)
+NI60MBP_0101 761576 764492 CS 很 像 写 那种 letter to editor 那种 <unk>
+NI60MBP_0101 764736 766716 ZH 很少 会 很少 会 做 的 啦 但是
+NI60MBP_0101 766986 770286 ZH 他 就是 讲 要 跟我 要 我们 一定要 做
+NI60MBP_0101 770355 772145 CS so that (呃) 我们
+NI60MBP_0101 772275 775985 CS if 我们 以后 要 really 要 写给 那种 letter to editor 我们
+NI60MBP_0101 776346 779386 CS 要 (呃) 懂 用 什么 tone 啊
+NI60MBP_0101 779591 784581 CS 然后 (呃) 要 用 什么 (呃) language 去 写给 那个 editor 这样 咯
+NI60MBP_0101 788551 791521 CS ah 很 像 formal informal
+NI60MBP_0101 791681 792791 ZH 还有 那种 比较
+NI60MBP_0101 793489 794307 ZH (呃)
+NI60MBP_0101 794307 799837 ZH 因为 有些 时候 是 写给 那种 大众 啊 所以 你 会 想 要 用 一点 开玩笑 的 感觉
+NI60MBP_0101 800327 803097 CS 啊 一点 有一点 humour 啦 就是 讲
+NI60MBP_0101 803377 808857 CS 虽然 还是 要 maintain 那个 form formal 的 的 那个 part 但是 他 有一点 humour
+NI60MBP_0101 809204 814634 CS 啊 不会 直接 just 很 像 讲 (呃) 啊 good morning 今天 我 要 present 什么 什么 什么
+NI60MBP_0101 817311 818671 ZH 啊 对啊
+NI60MBP_0101 819041 823571 CS 啊 会 开场 会 有一点 a joke 这样 然后 to catch 他们的 attention 啊
+NI60MBP_0101 823844 825324 CS 这样 那个 老师 就 讲 啊 it's
+NI60MBP_0101 825624 831544 CS 啊 她 分成 三个 就是 讲 it's kind of a strategy and style to grab your audience
+NI60MBP_0101 831746 835366 CS 他 有 三个 s 就是 strategy style 跟 substance
+NI60MBP_0101 835526 840736 CS substance 就是 每个 都 需要 的 每个 letter 都 需要 的
+NI60MBP_0101 841016 846956 CS 他 讲 蛮 important 就是 style 就是 那个 depend on which kind of letter you're writing
+NI60MBP_0101 847365 852575 CS then like 很 像 比较 informal 的 你的 style 就可以 有 humor to catch people's attention or
+NI60MBP_0101 852775 855545 CS write something that is close to them 很 像
+NI60MBP_0101 855840 861220 CS let's say my audience is students then i'll write oh lecture is boring 那种 什么 啦
+NI60MBP_0101 861743 868553 CS 类似 的 then 那些 student 会 读 了 会 觉得 哇 发 自 内心 的 感觉 很 像 (呃) it's me it's me 这样 啦 很 像
+NI60MBP_0101 868862 872802 CS 然后 还有 多 一个 是 那个 style (er) strategy
+NI60MBP_0101 872922 874892 CS 就 讲 how you present your points
+NI60MBP_0101 875282 876332 ZH 很 像 (呃)
+NI60MBP_0101 876772 877982 EN introduction
+NI60MBP_0101 878392 888842 CS then (呃) 然后 就是 (呃) first point first point second point third point then conclusion 那种 比较 (呃) structured 的
+NI60MBP_0101 889066 890046 EN approach loh
+NI60MBP_0101 890706 891296 ZH 嗯
+NI60MBP_0101 896326 897756 EN public speech (er)
+NI60MBP_0101 898386 901366 CS 他 每次 他 讲 我们 最 重要 是 must
+NI60MBP_0101 902197 902826 EN oh
+NI60MBP_0101 902826 906296 CS practice planning 他 讲 practice 跟 planning 跟
+NI60MBP_0101 906756 910016 EN must really think before you go up the stage loh
+NI60MBP_0101 910047 916407 CS 就是 (呃) first practice 是 you must practice your speech well so that you don't er you don't hesitate when you talk
+NI60MBP_0101 916952 921222 CS 然后 planning 就是 using the three s that i just say 咯 to
+NI60MBP_0101 921536 927576 EN make sure that your~ your~ your speech has substance style and strategy to to grab your audience's attention
+NI60MBP_0101 927836 930266 ZH 然后 最后 一个 就是 那个
+NI60MBP_0101 931026 932186 ZH 讲 啊
+NI60MBP_0101 933033 934075 ZH 讲 什么
+NI60MBP_0101 934422 935846 EN <unk>
+NI60MBP_0101 936866 941466 ZH 最后 一个 就是 那个 (呃) 怎样 讲
+NI60MBP_0101 941466 942199 ZH (呃)
+NI60MBP_0101 943692 944664 ZH 啊
+NI60MBP_0101 948456 955806 CS 哦 (呃) 对 (呃) questions 啊 要 啊 要 要 要 问 自己 很多 questions like regarding 你 自己的 speech
+NI60MBP_0101 955806 956666 EN like
+NI60MBP_0101 956666 958446 EN ask a lot of questions like (er)
+NI60MBP_0101 958696 967606 CS what so that you can predict that 那个 audience 会 问 什么 question then 你 不会 stunned 在那边 or shocked that you don't know how to answer this question
+NI60MBP_0101 967916 976536 CS then 还有 最 重要 就是 read~ read up 咯 read up on what you're presenting so that when people ask you something related 你 会 懂 怎样 answer
+NI60MBP_0101 976699 979539 EN like~ like then your your speech is not just a bluff la
+NI60MBP_0101 980102 981351 EN yeah ah
+NI60MBP_0101 983608 989245 CS 然后 最后 我们 有一个 (呃) three 诶 two three minutes speech 啊 in front of the class
+NI60MBP_0101 989938 997138 CS then 我 talk about how to (呃) speak pok why (呃) why is there a need to speak proper english 啊
+NI60MBP_0101 998110 999600 ZH 啊 因为 那时 刚
+NI60MBP_0101 1000360 1003030 CS 因为 那时候 刚刚 好 是 那个 ris low 啊
+NI60MBP_0101 1003110 1008000 CS 那个 singapore 的 miss universe ei miss singapore miss singapore 的 那个 pageant
+NI60MBP_0101 1008410 1011890 ZH 她 赢 出来 然后 她的 英文 太 恐怖 了
+NI60MBP_0101 1012003 1015003 ZH 然后 每个人 那时候 她 就变成 一个 笑话 话题
+NI60MBP_0101 1015033 1016533 ZH 啊 然后 我 就
+NI60MBP_0101 1016793 1026633 CS actually starting 我是 想 我 我 想 做 一个 starting 我 不是 想 做 他的 我是 想 在 想 做 什么 london bridge is falling down 那个 歌 为什么 会~ 会~ 会 出现
+NI60MBP_0101 1026761 1028251 ZH 为什么 会~ 会 有 这个 歌
+NI60MBP_0101 1028481 1030641 CS then 原~ 原本 是什么 意思
+NI60MBP_0101 1030796 1039116 CS 然后 我 就 突然间 想到 (呃) 会 会 很 想 很 很 乏味 很 闷 诶 然后 我 就 换取 那个 比较 有 humour 的 这样 啊
+NI60MBP_0101 1042126 1044296 CS (呃) 就是 有一个 bridge 咯 (呃)
+NI60MBP_0101 1044856 1049016 CS 我 忘记 叫 什么 bridge 了 啦 我 有 research 到 他 讲 有一个 (呃) 有一个 bridge
+NI60MBP_0101 1049149 1052569 CS 然后 (呃) 是 about 它 falling down then 那个
+NI60MBP_0101 1053299 1059069 CS it's not really started is 不是 london bridge 来的 是 另外 一个 bridge but it's located at the same place
+NI60MBP_0101 1059689 1060929 ZH (呃) 然后 (呃)
+NI60MBP_0101 1061209 1064209 CS 那个 那个 song actually is two page long
+NI60MBP_0101 1065200 1067130 CS but rather than 我们 现在 唱的 是 很 像
+NI60MBP_0101 1067490 1069150 CS two paragraph 一点点 而已
+NI60MBP_0101 1069440 1071810 ZH 它 以前 的 是 那个 很长 很长 很长的
+NI60MBP_0101 1072534 1073110 ZH 嗯
+NI60MBP_0101 1073110 1075450 ZH 然后 (呃) 我 看 了 就 觉得 很 闷 诶
+NI60MBP_0101 1075630 1077680 ZH 人家 一定 会 人家 一定 会 睡 着
+NI60MBP_0101 1077980 1083450 CS 啊 我 就 讲 那个 ris low 的 咯 那个 ris low 她 那时 真的 她 太多 那种 成名 话
+NI60MBP_0101 1083756 1084450 ZH 她
+NI60MBP_0101 1085310 1087160 CS 那个 miss~ miss singapore 的
+NI60MBP_0101 1087580 1089670 EN last year miss singapore ah
+NI60MBP_0101 1092600 1094020 EN ah it's
+NI60MBP_0101 1094020 1095940 EN it's really very poor
+NI60MBP_0101 1095940 1097461 EN  en
+NI60MBP_0101 1099153 1104463 CS 她 讲 她是 s. i. m. 的 university 毕业 然后 她 还 她 有 她 讲 她 有 degree 啦
+NI60MBP_0101 1104960 1106100 ZH (呃)
+NI60MBP_0101 1106100 1110440 CS but actually 是 the truth 她~ 她 还在 读 but halfway 她 dropout
+NI60MBP_0101 1113906 1117946 CS 对 就 选 上了 她~ 她 还 赢 很多 award leh 我 就 奇怪 她 怎样 赢
+NI60MBP_0101 1118422 1121822 CS 嗯 她 虽然 蛮 漂亮 的 啦 quite pretty but then
+NI60MBP_0101 1122752 1127572 CS 就是 不懂 那些 评审 怎么 选 的 like cannot be pretty without brains what
+NI60MBP_0101 1128023 1128753 ZH 啊
+NI60MBP_0101 1130652 1131942 CS two thousand nine 对
+NI60MBP_0101 1133018 1137252 CS 嗯 那时 她 她 讲 什么 (呃) 她 很 喜欢 什么 leopard prints 啊
+NI60MBP_0101 1137980 1139240 ZH (呃) 那 豹纹
+NI60MBP_0101 1140590 1144410 CS 豹 纹 啊 leopard prints 然后 她 就 pronounce as leopard preenz
+NI60MBP_0101 1144820 1147460 CS 她 她 很像 读 到 是 p r e e n z
+NI60MBP_0101 1147810 1156250 ZH 然后 他 还有 很多 自己的 那种 讲话 的 方式 啊 是 比较 (呃) 那种 普通 时候 会 讲 到 的话 就是
+NI60MBP_0101 1156515 1158145 CS 啊 比如 是 boomz
+NI60MBP_0101 1158305 1162255 CS but 没有 意思 的 嘛 很 像 你 你 没有 听 过 you don't know what is the meaning
+NI60MBP_0101 1162424 1169254 CS but but 她 就 讲 哦 boomz 是 哦 很~ 很 有趣 很~ 很 有 爆 点 的 感觉
+NI60MBP_0101 1169840 1175060 CS 嗯 然后 我们 就 like 她 在 t. v. 这样 讲 耶 哪里 可以 哪里 可以 这样 讲
+NI60MBP_0101 1175536 1185156 CS 嗯 然后 就 代表 她 英文 真的 差 到 很~ 很~ 很~ 很惨 然后 他 自己 讲 什么 她 嗯 她 有 (呃) bachelor en degree in (er)
+NI60MBP_0101 1186490 1190330 ZH 忘记 是什么 啦 然后 他 自己的 那个 名字 都 讲 错
+NI60MBP_0101 1191060 1193340 ZH 就是 不可能 讲 错 的 嘞 这种
+NI60MBP_0101 1201409 1202104 ZH 嗯
+NI60MBP_0101 1202990 1213110 CS en i didn't really watch~ watch the 那个 (呃) 那个 (呃) 问答 那边 i think 是 有 啦 then but then 她 answer 那种 很 simple 的 咯
+NI60MBP_0101 1213660 1216520 CS 好像 那种 world peace 那种 感觉 啦
+NI60MBP_0101 1222529 1225240 ZH 啊 嗯其实 我
+NI60MBP_0101 1227570 1234190 CS (呃) 其实 我 con~ 因为 我 英文 不怎么 好 所以 我 以前 中学 老师 就 跟我 讲 (呃) 那个 structure 很 重要
+NI60MBP_0101 1234555 1238435 CS 然后 我 就 present 我的 points 到 很 很 明显 咯 就是 讲
+NI60MBP_0101 1238635 1241295 CS (呃) starting 我 要 一个 intro
+NI60MBP_0101 1241705 1247195 CS then 后面 我 就要 一个 point 为什么 为什么 要 很 重要 很 重要 然后 就 conclusion
+NI60MBP_0101 1247365 1251075 CS 然后 我 就 加上 那个 现在 那个 老师 教 的 like
+NI60MBP_0101 1251385 1257855 CS how to grab people's attention 然后 我 就 (呃) 想到 一个 办法 就是 i try to speak like her at the beginning
+NI60MBP_0101 1258155 1265145 CS 然后 就 真的 很 有效 果 啦 我 第一次 我 上台 我 就 讲 我 就 讲 我的 speech 的 侍候 刚 开始 就是 讲 (呃)
+NI60MBP_0101 1265493 1275633 CS 就是 自我 介绍 这样 我 就 讲 啊 my name is teng chun kim 这样 讲 到 很 monotonous 这样 啦 然后 全部 人 就 看 着 我 然后 眼睛 睁 睁 大 然后 就 stunned 这样 然后 我 就
+NI60MBP_0101 1275740 1277380 ZH 然后 我 就 继续 讲 讲 讲 讲 到 一半
+NI60MBP_0101 1277640 1280230 ZH 就 然后 就 (呃) 就 就 讲
+NI60MBP_0101 1280790 1283350 CS (er) do you understand what i say 这样 but
+NI60MBP_0101 1283459 1288719 CS see if you don't understand right 就 然后 讲 啊 that is why there is a need to speak proper english
+NI60MBP_0101 1288953 1292623 CS 然后 就 这样 这样 tackle 那个 question 咯 然后 就
+NI60MBP_0101 1292910 1300310 CS (呃) 最后 我 就 (呃) 还有 那个 point 就是 讲 (呃) english is a worldwide used language (呃) 然后 (呃)
+NI60MBP_0101 1301280 1314530 CS 就 讲 (呃) 如果 你的 command of english 不好 not only that 你 会 lose out in the in the in the society 然后 你 也 lose out the the ability to communicate with other different people 咯 很 像 different race 这样
+NI60MBP_0101 1314973 1315870 ZH 啊
+NI60MBP_0101 1315870 1321160 CS 因为 现在 (呃) 连 就算 连 中国 都 很多 人 会 speak english 了 对
+NI60MBP_0101 1321397 1325877 CS 然后 他们 (呃) 他们 反而 他们 speak english 的 percentage lor 比 别的 国家 还 高
+NI60MBP_0101 1326477 1328247 ZH 比 很 像 比 美国 还 高
+NI60MBP_0101 1329103 1329728 ZH 嗯
+NI60MBP_0101 1330657 1337187 CS 因为 (呃) 美国 的 main language actually 不是 英文 他们是 不懂 italian 还是 french
+NI60MBP_0101 1337525 1341665 CS 他们的 main~ main~ main~ language 不是 不是 english
+NI60MBP_0101 1342285 1344765 CS 啊 他们的 那个 race 比较 多 是
+NI60MBP_0101 1345185 1347175 CS speak ah latin 的 那种
+NI60MBP_0101 1347673 1351323 CS actually it's just 因为 english is a universal language
+NI60MBP_0101 1351783 1356393 CS 我们 就会 以为 啦 美国人 一定 会 讲 英文 but actually
+NI60MBP_0101 1356600 1362660 CS 那个 我 看到 一个 research 讲 (呃) 美国 的 人 会 讲 英文 的 比 中国 的 还 少 啦
+NI60MBP_0101 1363096 1363894 EN en
+NI60MBP_0101 1365491 1366352 EN ah
+NI60MBP_0101 1366352 1368352 CS total population 来看 对
+NI60MBP_0101 1370702 1373992 CS 啊 我 拿 到 a minus 啦 但是
+NI60MBP_0101 1374072 1380932 CS 我 我觉得 会 更好 啦 但是 我自己 也 发现 到 我自己 的 问题 我 讲 完 第一 我 三分 钟 speech 我 讲 太 快
+NI60MBP_0101 1381100 1384890 CS 我自己 在 在 在 房间 practise 的时候 都是 三分 钟 出 一点点
+NI60MBP_0101 1385100 1388800 ZH 但是 我 到 那边 因为 紧张 啦 每个人 都会 然后 就
+NI60MBP_0101 1388946 1394536 CS 两分 钟 三十 秒 就 讲 完了 然后 那个 老师 就有 一点 penalize 我 on 那个 time 啦 这样 讲 我 讲 太快
+NI60MBP_0101 1394974 1398884 CS 然后 (呃) but 那个 老师 讲 basically 我 overall 都 很好
+NI60MBP_0101 1399304 1402154 CS especially 那个 我 starting 的 那个 approach 讲 我
+NI60MBP_0101 1402574 1403614 CS grab 到 attention
+NI60MBP_0101 1403764 1410044 CS 很好 然后 我的 points 也是 有 then 我的 只是 我的 conclusion not very good 啦
+NI60MBP_0101 1410214 1411584 CS like 有一点 太 sudden
+NI60MBP_0101 1412044 1418324 CS but then 他 讲 我的 style 很好 因为 我 中间 有 有 like crack 那种 jokes 啊
+NI60MBP_0101 1418324 1419638 ZH 啊
+NI60MBP_0101 1419638 1421558 ZH 嗯 然后 (呃)
+NI60MBP_0101 1422308 1426358 CS 我自己 也是 觉得 like i can do better 啦 因为 那个 point 的 问题 but
+NI60MBP_0101 1426608 1429408 CS too late to change 啦 我 那时 也是 看到 然后 我 就
+NI60MBP_0101 1429588 1432388 CS 算了 反正 那天 已经 是 oral presentation 了 就
+NI60MBP_0101 1432898 1438448 CS aiya don't don't care 咯 just just 去去 讲 then try my best 啦 en but 我
+NI60MBP_0101 1440568 1443368 ZH (呃) 少 过 十次
+NI60MBP_0101 1443568 1451038 CS less than ten times 啦 嗯 有 几次 是 自己 自己 在 电脑 自给 一个 房间 自己 record 自己 怎样 讲 啦
+NI60MBP_0101 1451314 1453578 ZH 嗯(呃) 啊
+NI60MBP_0101 1453578 1455268 CS around 大概 record 了 五次
+NI60MBP_0101 1455688 1460288 CS 然后 那天 之前 的 晚上 就 practise 了 一 两次 然后 那天
+NI60MBP_0101 1460850 1462750 CS 走 去 那个 tutorial room 的时候 就
+NI60MBP_0101 1463231 1474501 CS 边 走边 念 边 走边 年 人家 以为我 神经病 的 我在 那边 边 走边 念 不要 管 啦 不要 管 just just mumble mumble mumble 然后 在那边 time time 那个 时间 然后 try to not forget 我自己 的 words 啦
+NI60MBP_0101 1475111 1484631 CS 然后 actually 那天 actual 得 侍候 我 有 i~ i got forget one sentence like very short sentence 啦 but it's not very important it's just part of the 那个 humour 的 那个 joke
+NI60MBP_0101 1485066 1485876 EN but (er)
+NI60MBP_0101 1486426 1490976 CS overall still ok 啦 everybody laugh at my my joke 咯 我 就 觉得 有 有 effect 到 咯
+NI60MBP_0101 1492428 1494508 ZH 嗯 就是 讲 那个 (呃)
+NI60MBP_0101 1494658 1496588 CS 因为 (呃) 那个 ris low
+NI60MBP_0101 1496878 1498508 CS 她 很 喜欢 (呃) red
+NI60MBP_0101 1498888 1501028 CS red red color 红色
+NI60MBP_0101 1501568 1505018 CS 然后 她 就会 讲 她的 pronunciation 时 很 奇怪 就是 rad
+NI60MBP_0101 1505568 1507118 CS 她是 rad 这样的
+NI60MBP_0101 1507118 1508088 ZH 讲到 嗯
+NI60MBP_0101 1508088 1510228 ZH 然后 我们 然后 我 就 讲 哦
+NI60MBP_0101 1510343 1522843 CS 然后 就 用 那个 很 monotonous 的 那个 tone 去 讲 (呃) hi my name is blah blah blah then my favorite color is red and i like leopard preenz too 然后 这样 啊 然后 每个人 就 笑 咯
+NI60MBP_0101 1522902 1528442 CS then 刚刚 好 因为 the few days before 我 买 了 一件 衣服 啊 是 她 代 言 的
+NI60MBP_0101 1529050 1531020 CS 是 是 后面 是 spell boomz
+NI60MBP_0101 1531240 1533540 ZH 然后 (呃) 还有 那个 (呃)
+NI60MBP_0101 1533660 1540400 CS when i'm naughty i like red and loud 这样 啦 啊 是 她的 她~ 她 自己 讲 过 的 那个 ris low 所 讲 过 的话
+NI60MBP_0101 1540750 1543760 CS 然后 就 很 有 effect 啦 那个 老师 就会 觉得
+NI60MBP_0101 1544191 1548681 CS oh no wonder you wear this shirt today 然后 就 (呃) 他是 那个 (呃)
+NI60MBP_0101 1549421 1552831 CS 他是 germany (呃) 来 的 啊 那个 老师 啊
+NI60MBP_0101 1553120 1555064 EN professor steve ahnah
+NI60MBP_0101 1555327 1558757 CS 他 就 他 starting 就 讲 oh i didn't know this got this shirt already
+NI60MBP_0101 1558887 1563317 CS after that 我 还没有 p~ 我 还没有 present 然后 他 就 看到 我的 那个 topic 他 就
+NI60MBP_0101 1563566 1566966 CS oh no wonder you're going to wear this shirt today 我 就 啊 然后 他 就 
+NI60MBP_0101 1567121 1572441 CS 他 就 觉得 会 (呃) i got prepare 啦 even though 我 不是 like 穿 到 那种 很 蛮 美 那种 suit 啊 but
+NI60MBP_0101 1572821 1579171 CS i wear something that is related to 我的 topic 会比较 有 亲切感 那种 感觉 啦
+NI60MBP_0101 1579533 1585923 CS 嗯 那个 老师 有 有 可能 就会 觉得 我 比较 有 会 有 effort 咯 put in so 他 给 我 a minus 啦
+NI60MBP_0101 1588059 1588892 ZH 嗯
+NI60MBP_0101 1591010 1591563 ZH 嗯
+NI60MBP_0101 1591563 1595763 CS 唯一 觉得 可惜 是 那个 a. u. 才 three two a. u. 而已
+NI60MBP_0101 1596250 1601480 CS then 那个 the amount of time spent lor 是 蛮 多 的 因为 他 还有 一个 project work
+NI60MBP_0101 1601480 1603460 ZH 啊 要
+NI60MBP_0101 1603460 1604920 CS 啊 对 teamwork 的
+NI60MBP_0101 1605140 1607270 CS 就是 要 (呃) 做 一个 brochure
+NI60MBP_0101 1607810 1609700 CS (呃) 那个 brochure 是 (呃)
+NI60MBP_0101 1609880 1614660 CS 是 假的 假的 brochure 讲 你要 去 做 一个 (呃) donation drive 啦
+NI60MBP_0101 1614737 1616747 CS 还是 一个 charity
+NI60MBP_0101 1617207 1621147 CS so 我的 team 就 做 一个 charity walk n. t. u. charity walk 啦
+NI60MBP_0101 1621296 1625536 CS 然后 我们 就 plan 我们 做 那个 brochure 然后 做 还要 做 一个 one thousand word essay
+NI60MBP_0101 1626346 1627816 CS 然后 就 actually
+NI60MBP_0101 1628156 1632116 CS quite time consuming 啊 我们 做 很 久 然后 in the end 才 拿 b
+NI60MBP_0101 1632590 1636157 CS ah then (er) 就是 loh
+NI60MBP_0101 1636157 1643227 CS like 浪费 这样 多时 间 then in the end 还是 拿 overall 只有 two au 的 的 weightage 而已 就有 一点 少
+NI60MBP_0101 1643637 1646247 CS 很 像 这个 semester 有一个 什么 life science
+NI60MBP_0101 1646512 1647367 ZH (呃)
+NI60MBP_0101 1647367 1651637 CS 每个 lecture different lecturer 那个 notes 不 不怎么 好的 啦
+NI60MBP_0101 1651751 1653911 EN quite quite lousy then (er)
+NI60MBP_0101 1654241 1660901 CS 那个 也 他 也没有 e lecture 没有 那种 lecture recording 什么 都 没有 然后 考试 是 m. c. q.
+NI60MBP_0101 1661281 1666671 CS 然后 就 three au 我在 那边 huh 这种 这种 这么 not related 的
+NI60MBP_0101 1666692 1674352 CS 因为 life science 是 只有 很 像是 (呃) material engineering 啊 才 需要 用 到
+NI60MBP_0101 1674944 1681454 CS 其他 的 common engineer 其他 的 engineering like 那种 civil 啊 electrical 都 不 需要 根本 都 不 需要 用 到 life science
+NI60MBP_0101 1681634 1685104 CS 就 很 像 觉得 有点 浪费 时间 然后 waste time 这样的 感觉
+NI60MBP_0101 1685724 1687574 CS then weightage 还 这样 高
+NI60MBP_0101 1688204 1688794 EN en
+NI60MBP_0101 1690270 1702340 CS 我 有一个 朋友 讲 (呃) 那个 life science 的 整个 module 哦 (呃) 是在 (呃) 是 很 像 整个 a-level 的 bio 这样
+NI60MBP_0101 1702743 1710767 CS then 有 一个 lecture 是 在 叫 d. n. a. 啊 它是 在 a-level 是 take few months to cover 的 那个 老师
+NI60MBP_0101 1710767 1712817 CS 好像 few months to cover 的
+NI60MBP_0101 1713257 1714357 ZH 那个 老师
+NI60MBP_0101 1715217 1718547 EN supposedly it's two hour lecture to cover the whole thing
+NI60MBP_0101 1718647 1723567 CS but then 那个 老师 很 frustrated that we are talking the whole lecture was talking 啦 then 很 noisy
+NI60MBP_0101 1723805 1726775 CS then 他 就 chiong chiong chiong chiong chiong 他 很快 then 就 one hour finish
+NI60MBP_0101 1727045 1732145 CS 然后 我朋友 就 讲 one hour finish the whole a-level d. n. a. 哪里 可能
+NI60MBP_0101 1732328 1736298 CS then o-level 是 take a few months finish 他 one hour finish
+NI60MBP_0101 1736620 1737680 CS then 这种 course 是
+NI60MBP_0101 1738260 1749020 CS 怎么 读 很 像 like 你已经 有 读 bio~ of course 你 会 懂 啦 but 你 没有 读 过 bio~ 你 怎么 懂 你看 他 notes 它 只有 以 个 membrane 五十 个 名字 在 那个 picture 里面 你 真的 全部 remember 咩
+NI60MBP_0101 1749650 1760010 CS 他 也没有 跟你讲 哦 must remember this is going to come out 还是 哦 it come came out before then 他 又 没有 past year paper 全部 m. c. q. 没有 past year paper then 我们 就 也 不懂 怎么办 啦
+NI60MBP_0101 1760200 1763830 CS 不懂 去 memorize 还是 不 memorize 整个 picture 这样
+NI60MBP_0101 1764257 1771787 CS then 很多 都是 这样的 咯 他 没有 没有 like 指定 like (er) this is important or this is relevant
+NI60MBP_0101 1772127 1778127 CS 他 全部 都 很 像 not very relevant 因为 他 everything is touch and go touch and go touch and go 的 感觉 所以 就
+NI60MBP_0101 1779210 1782380 CS 有一点 lost 啦 不懂 怎样 读 啊
+NI60MBP_0101 1782640 1784930 ZH 每个人 都 哎呀 怎样 读 啊 不懂 诶 不懂 诶
+NI60MBP_0101 1785199 1790639 ZH 然后 每个人 就 连 我 看到 很多 (呃) 我 比较 聪明 的 朋友 都
+NI60MBP_0101 1791458 1795308 CS 在 那个 quiz 啊 都 不是 很 会 诶 有些 question 是
+NI60MBP_0101 1795968 1799538 CS 没有 没有 not related with the 那个 (呃)
+NI60MBP_0101 1800047 1801347 ZH 那个 (呃)
+NI60MBP_0101 1801577 1805277 CS subject 的那些 notes 没有 没有 refer 的 没有 给 你 refer
+NI60MBP_0101 1805507 1810417 CS 然后 有些 他 又 没有 tutorial class so 直接 lecture based 全部
+NI60MBP_0101 1810887 1813537 ZH 然后 他 又 他的 那些 (呃)
+NI60MBP_0101 1813987 1816327 EN tuto~ tutorial online tutorial questions
+NI60MBP_0101 1816377 1818247 CS 是 那种 m. c. q. 的 那种 online 的
+NI60MBP_0101 1818577 1820967 CS 就 按 lor like 有 question 是
+NI60MBP_0101 1821587 1822567 CS 在 notes 找不到 的
+NI60MBP_0101 1822767 1825157 CS then 每个人 in the end 他 那个 三十 题
+NI60MBP_0101 1825377 1828257 CS 每个人 in the end 去 google 十五 题 more than 十五 题
+NI60MBP_0101 1828547 1830287 CS 都是 用 goo~ google 来 做
+NI60MBP_0101 1830837 1833097 CS (呃) 去 search for 那个 answer 来 search 到
+NI60MBP_0101 1833127 1835287 CS then 就是 我们 讲 哪个 notes 没有用 leh
+NI60MBP_0101 1835457 1836607 CS then 他 教 来 for what
+NI60MBP_0101 1837377 1840337 CS then 有 有些 时候 我 就 连 lecture 都 不要 去了
+NI60MBP_0101 1840957 1848447 CS like 有一点 浪费 时间 耶 i read the notes myself is better than manual explaining 那~ 那~ 那个 lecturer explaining
+NI60MBP_0101 1848758 1850228 ZH 因为 有些 时候 (呃)
+NI60MBP_0101 1850860 1854540 CS some~ some lecturers 的 really not say cannot teach 啦 but
+NI60MBP_0101 1854750 1858380 CS the way 他 讲话 很 monotonous then
+NI60MBP_0101 1858710 1863330 CS cannot catch attention 啊 then the way 他 explain 东西 是 很 messy 啊
+NI60MBP_0101 1863680 1867680 CS then 就 catch cannot catch what they are trying to say 啊
+NI60MBP_0101 1870310 1871400 ZH 嗯
+NI60MBP_0101 1872380 1875900 EN i think one thousand ah the whole engineering batch loh
+NI60MBP_0101 1877030 1878200 EN whole engineering batch
+NI60MBP_0101 1880330 1885140 CS (呃) l. k. c. 那个 lee-kong-chian 在 那个 can~ canteen b 上面
+NI60MBP_0101 1885280 1886300 CS 那个 lecture theatre
+NI60MBP_0101 1886500 1890300 CS most of the common engineering 的 lecture 都是 在那边 因为 我们的 batch 太 大 了
+NI60MBP_0101 1892350 1898820 CS until q~ usually 那个 是 没有 人的 没有 人 去 的 因为 全部 都 pon 然后 until quiz 那天 哇 整个 lecture full
+NI60MBP_0101 1899420 1901910 ZH 六百 多 七百多 八百 多个 人 这样
+NI60MBP_0101 1901910 1902997 ZH 嗯
+NI60MBP_0101 1903820 1907700 CS 很多 一直 进来 一直 进来 我 就 哇 first time 那个 lecture full 诶
+NI60MBP_0101 1908012 1909158 ZH 嗯
+NI60MBP_0101 1913949 1915060 ZH 嗯
+NI60MBP_0101 1917560 1918848 ZH (呃)
+NI60MBP_0101 1918848 1921058 ZH 其实 有点
+NI60MBP_0101 1921908 1924248 ZH 比较 好 了 啦 但 还是 觉得 有点
+NI60MBP_0101 1924898 1926148 CS 他的 pace 很快
+NI60MBP_0101 1926691 1927212 ZH 好像
+NI60MBP_0101 1927658 1929428 CS 一个 一个 sem 很快 过 这样
+NI60MBP_0101 1929631 1931441 ZH 很多 东西 要 去
+NI60MBP_0101 1931808 1933761 CS it's like 要 cover 到 咯
+NI60MBP_0101 1934031 1937801 CS 很 像 (呃) 他 teach 两个 lecture 就要 做 一个 tutorial
+NI60MBP_0101 1938132 1940962 CS then 根本 就有 时候 都 没有 时间 读
+NI60MBP_0101 1941017 1943427 CS 做 了 then 有些 时候 那个 一个 tutorial 啊
+NI60MBP_0101 1943527 1947777 CS even though 你 you know what to do lor you still need to take three hours to do a tutorial
+NI60MBP_0101 1947974 1949024 CS 很 像 maths lor
+NI60MBP_0101 1949494 1953904 CS part one part (er) question one two three then part a b c d a b c d 然后 哇
+NI60MBP_0101 1953904 1954654 ZH 就
+NI60MBP_0101 1954654 1956614 CS 一 做 就要 做 two three four hours
+NI60MBP_0101 1956734 1961694 CS imagine 那个 like everyday finish five four five p. m. three four hours
+NI60MBP_0101 1961922 1965145 CS 一~ 一有 吃 dinner 九点 多 十点 了
+NI60MBP_0101 1965415 1968045 CS 拿 来 可以 revise other other other subject
+NI60MBP_0101 1968745 1971120 CS the time is so little ah 什么
+NI60MBP_0101 1972545 1975175 CS 啊 some more i'm 我 还 住 hall
+NI60MBP_0101 1975515 1980375 CS suppose supposedly i got more time than anybody cut 那个 traveling time 了 已经
+NI60MBP_0101 1980709 1984679 CS then 我 还 like~ like travel to school 我也 just 走过 去 就 到 五分 钟
+NI60MBP_0101 1985419 1986379 EN (er) hall seven
+NI60MBP_0101 1987789 1988549 ZH 然后 就
+NI60MBP_0101 1989579 1992939 ZH 还是 觉得 时间 不够 用 咯 因为 他 东西 太 快 太 多 了
+NI60MBP_0101 1994128 1996728 CS 四个 四个 like (呃) 四个
+NI60MBP_0101 1997268 1998228 EN core then
+NI60MBP_0101 1998368 2000808 CS 每个 都要 都要 去 做 那个 tutorial
+NI60MBP_0101 2001065 2002765 ZH 根本 没有 时间 做 得 完 的 嘛
+NI60MBP_0101 2003485 2006755 CS (呃) 然后 (呃) 有些 很 像 (呃) lah last week
+NI60MBP_0101 2007100 2010720 CS 我 四个 quiz 两 天 四个 quiz 两天 之内 有 四个 quiz
+NI60MBP_0101 2011010 2015120 ZH 怎么 读 就是 每个 都 读 一点点 每个 都 读 一点点
+NI60MBP_0101 2015450 2019210 CS 有一个 是 算 比较 好 是 有 一天 是一个 quiz 而已
+NI60MBP_0101 2019480 2021560 CS 但是 有 一天 是 三个 quiz 诶
+NI60MBP_0101 2021880 2023490 ZH 连续 有 有一个 是
+NI60MBP_0101 2023620 2025670 ZH 九点 半 到 十一点 半
+NI60MBP_0101 2026040 2030570 CS 然后 break 三个 小时 就 再来 多 一个 quiz 然后 那个 quiz 是 fifty percent
+NI60MBP_0101 2030840 2031510 EN c. a.
+NI60MBP_0101 2031690 2034800 ZH 我 觉得 哇 怎么 读 这样 多 东西 要 读 诶
+NI60MBP_0101 2035070 2040920 CS 好像 我 就 整个 礼拜 在那边 哇 stress stress stress 在那边 一直 读 一直 读 硬~ 硬 读 咯 但是 没有 办法
+NI60MBP_0101 2041448 2042338 ZH 啊 已经
+NI60MBP_0101 2042338 2044528 CS 就是 他的 planning 不是 很好 啦
+NI60MBP_0101 2044628 2046678 CS 但是 也有 时候 不可以 blame 因为
+NI60MBP_0101 2046758 2048217 CS tutorial class 是 我自己 选 的
+NI60MBP_0101 2048578 2050618 ZH 但 但是 他 有 也是
+NI60MBP_0101 2050838 2059388 CS like 他 可以 place 那个 quiz on different weeks 嘛 因为 quiz weeks quiz week 是 not necessary 是 on 那个 that week
+NI60MBP_0101 2059817 2061937 EN can be one week before or one week after
+NI60MBP_0101 2062147 2065347 EN then all the teacher drag drag drag until last week
+NI60MBP_0101 2065899 2068879 CS then 所以 another thing is very funny is
+NI60MBP_0101 2069529 2072489 EN next week is exam this week is still teaching
+NI60MBP_0101 2073129 2077559 CS 就有 一点 not 不是 讲 not relevant but
+NI60MBP_0101 2077849 2079409 CS 很 像 not smart 啊
+NI60MBP_0101 2079699 2087379 CS to let your student to just go exam before one week before the the whole semester 那些东西 ends
+NI60MBP_0101 2087618 2094237 CS then 这样 你 在 害 自己的 学生 的 的 的 的 g. p. a. to~ to~ to~ be lower 嘛 因为
+NI60MBP_0101 2095199 2102480 CS not only that you have to revise other stuff then 你 还要 那个 last chapter 你要 你 也要 读 因为 last chapter 还是 要 读
+NI60MBP_0101 2102663 2105863 CS not saying not saying that 他们 讲 会 哦 last chapter 比较 少
+NI60MBP_0101 2106013 2108173 EN no it's still the same same same weightage
+NI60MBP_0101 2108283 2110233 CS twenty five points 这样 就是
+NI60MBP_0101 2111013 2113913 ZH 会 你 你 去 领悟 的 那个 时间
+NI60MBP_0101 2114184 2116414 CS it's 很少 哦 给 你 去 领悟 那个
+NI60MBP_0101 2116634 2118424 ZH 东西 的 时间 再 加上
+NI60MBP_0101 2118894 2122644 CS 刚才 我 就 讲 tutorial 时间 都 没有 做 怎么 拿 怎么 有时 间 去 revise
+NI60MBP_0101 2123377 2128497 EN revise for exam when when tutorial and lecture is still ongoing
+NI60MBP_0101 2129117 2133267 CS 啊 actually 啊 很 像 last semester 这样 会比较 好 but 有 at least two three weeks
+NI60MBP_0101 2133507 2135667 CS blank 的 for 你 to 自己 study
+NI60MBP_0101 2136157 2139707 CS 这个 我觉得 ridiculous 啦 just one week
+NI60MBP_0101 2140547 2144317 CS unless 是 那种 你 一直 很 很 consistent
+NI60MBP_0101 2144507 2147267 CS 你 know what you are doing
+NI60MBP_0101 2147607 2149077 ZH 你是 那种 哦 你 一 看
+NI60MBP_0101 2149277 2153227 CS 你 懂 了 the next time you do you know you see you will know how to do
+NI60MBP_0101 2153777 2154287 EN ah but
+NI60MBP_0101 2155267 2161517 CS normally engine most of the engine students 都 不是 这种 斗 士 那种 比较 hardworking 的 咯
+NI60MBP_0101 2162357 2168247 CS 嗯 因为 engineering 的 那个 range 很 有 很 聪明 很 聪明 then 有 那种 不怎么 聪明 的
+NI60MBP_0101 2168407 2171717 CS 他的 range 是 like 那种 d. e. e. a-level 都 可以 进
+NI60MBP_0101 2172925 2176635 CS 然后 到 那种 triple a four as 都有 都有 的
+NI60MBP_0101 2176845 2179505 CS 所以 他 没有 cater 到 那种 lower half 的 咯
+NI60MBP_0101 2179705 2182335 ZH 他 一直 那种 聪明 的 就 永远 会比较 聪明
+NI60MBP_0101 2183015 2187905 ZH 那种 比较 比较 没有 这么 聪明 的 就 永远 是 那种 吊~ 吊~ 吊车尾 咯
+NI60MBP_0101 2196840 2197810 EN preview
+NI60MBP_0101 2198151 2198880 ZH 嗯
+NI60MBP_0101 2202352 2202940 ZH 嗯
+NI60MBP_0101 2202940 2207910 CS starting 是 可以 first few week of the (呃) of the semester
+NI60MBP_0101 2208690 2210090 ZH 我 我自己 有 做到 啦
+NI60MBP_0101 2210520 2214940 CS as in first few weeks 的时候 我 又 去 读 before lecture then 我 还有 catch 到 tutorial
+NI60MBP_0101 2215130 2218560 CS but when everything start to pile up lor 就是
+NI60MBP_0101 2218970 2220700 CS three four week 之后 就
+NI60MBP_0101 2221330 2224450 CS 你 很难 prioritize 啊 因为 everything seems so important
+NI60MBP_0101 2224650 2228010 EN every teacher thinks that their subject is the most important of all
+NI60MBP_0101 2228210 2231800 CS you have to do it 这样 啊 then 每个人 just 丢 just 丢 just 丢 then
+NI60MBP_0101 2232200 2234750 CS until 你 overload 到 then 你 就 不要 做了 咯
+NI60MBP_0101 2234940 2235850 ZH 根本 因为
+NI60MBP_0101 2236990 2239220 EN don't even have the time to do then
+NI60MBP_0101 2239370 2243330 CS 就 像 你 做 完了 lor 你 lack of sleep then 你 明天 去 lecture 你 也是 没有 听课
+NI60MBP_0101 2243785 2244557 ZH 啊
+NI60MBP_0101 2244557 2245877 ZH 然后 有些 时候 我 就是
+NI60MBP_0101 2246047 2250137 CS 累 倒 根本 都 不想 去 lecture 就 直接 没有 去 lecture
+NI60MBP_0101 2250507 2254147 CS 然后 就 等 看 他的 e~ 看 他 那个 e-lecture 咯
+NI60MBP_0101 2254530 2255398 ZH 啊
+NI60MBP_0101 2256577 2257927 ZH 可以 看 啦 对
+NI60MBP_0101 2258522 2259217 ZH 啊
+NI60MBP_0101 2262047 2262862 ZH 他是 他
+NI60MBP_0101 2264806 2265535 ZH 啊
+NI60MBP_0101 2266458 2268047 ZH 可以 快 转 啦
+NI60MBP_0101 2268047 2273297 CS 但是 usually view on e-lecture 是 比较 slow 的
+NI60MBP_0101 2273357 2277817 EN because you you don't understand you play back and go and listen to him again
+NI60MBP_0101 2277907 2279857 CS then you take down notes then 你 就会 pause
+NI60MBP_0101 2280484 2281317 ZH 嗯
+NI60MBP_0101 2281317 2283627 CS actually 我 觉得 e~lecture 的 东西 很好 啦 是
+NI60MBP_0101 2283797 2288167 CS 可以 给 那个 学生 自己 再 revise 过 再 go through what the teacher say
+NI60MBP_0101 2288247 2289547 CS 很 像 有 一些 东西 not in the notes
+NI60MBP_0101 2289547 2290583 EN but
+NI60MBP_0101 2290583 2292207 EN it's inside what the teacher say
+NI60MBP_0101 2292757 2296477 CS then 我们 就可以 再 like 再 catch it 再 revise 咯
+NI60MBP_0101 2302040 2303157 ZH (呃)
+NI60MBP_0101 2303647 2305787 CS common engine 全部 都有
+NI60MBP_0101 2306017 2307167 CS 除了 life science
+NI60MBP_0101 2307467 2310357 CS but other school 的
+NI60MBP_0101 2310937 2314747 CS (呃) 比较 少 啊 好像 n. b. s. 很 像 没有
+NI60MBP_0101 2315047 2317007 CS 有 一 两个 core 有
+NI60MBP_0101 2317167 2319427 CS 然后 很 像 chem~ c. b. c. 那个
+NI60MBP_0101 2319737 2321117 EN chemical bio~
+NI60MBP_0101 2321717 2324227 CS (er) chemistry and bio 不懂 什么
+NI60MBP_0101 2324487 2325497 ZH 我的 朋友 他 就 讲
+NI60MBP_0101 2325647 2327847 ZH 有些 有 有些 没有
+NI60MBP_0101 2328477 2330637 CS engine 的 是 比较 他们
+NI60MBP_0101 2331127 2334517 CS 他们 知道 啦 engine 的 student 比较 需要 这种 东西 比较
+NI60MBP_0101 2335337 2336167 CS require 这种
+NI60MBP_0101 2336527 2340937 CS (呃) 给 你 自己 再 revise 的 东西 因为 content 太 多 了
+NI60MBP_0101 2341557 2347204 CS too much content for you to to grab it at one time 然后 study 不可能 的 啊
+NI60MBP_0101 2348137 2353197 CS and some more 他们 自己的 那些 lecturer 自己 都 讲 the notes is not enough
+NI60MBP_0101 2353817 2356087 CS 他们 自己 都 讲 then 我也 是 问 我朋友
+NI60MBP_0101 2356257 2359307 EN if the notes is not enough then what you make the notes for
+NI60MBP_0101 2359357 2365167 EN then you teach us some you give us something that is not enough then everything you ask look for the book look for the book
+NI60MBP_0101 2365327 2369637 CS then might as well 你 just 叫 我们 去 买 那个 book 咯 then 我们 just go through the book
+NI60MBP_0101 2370025 2370755 EN better than
+NI60MBP_0101 2370995 2373615 EN you go and print notes then you still ask us oh go and buy the book
+NI60MBP_0101 2373825 2374605 EN go and read it
+NI60MBP_0101 2374925 2381375 CS then 每个 老师 都 go and buy the book read it go and buy the book read it 就 讲 (呃) take it as (呃) before sleep 的时候 读
+NI60MBP_0101 2381907 2384497 CS 一个 chapter 一百 篇 诶 before sleep 读
+NI60MBP_0101 2384657 2390947 CS 然后 每个 subject 都有 什么 啊 material science 五十 篇 啊 physics 一百 篇 这样
+NI60MBP_0101 2391289 2395429 CS maths maybe 不 需要 啦 but 有些 时候 那个 maths 也是
+NI60MBP_0101 2396149 2401599 CS 他的 notes doesn't the difficulty doesn't tally with the tutorial
+NI60MBP_0101 2401759 2405509 EN then the tutorial difficulty is not even the exam standard
+NI60MBP_0101 2405739 2407729 EN how you expect us to do the exam standard
+NI60MBP_0101 2408189 2408909 ZH 你 应该 是
+NI60MBP_0101 2409549 2413229 CS (呃) the example 放 有 一 两 题 比较 difficult 的
+NI60MBP_0101 2413279 2415879 CS then 我们 就 哦 可以 follow 这个 step 去 做
+NI60MBP_0101 2416369 2424369 CS then 我们 会 会 懂 if exam come out like exam 会 出来 的 这种 question 我们 懂 怎样 approach 怎样 去 去 solve 哪个 question
+NI60MBP_0101 2424937 2428887 CS en then (呃) 好像 tutorials 就
+NI60MBP_0101 2429267 2432567 CS more of 那个 exam question so that we can practice
+NI60MBP_0101 2432667 2434087 CS cannot be 你
+NI60MBP_0101 2434277 2436517 CS 很像 physics 有 一次 physics 就是 (呃)
+NI60MBP_0101 2437117 2442057 EN all the example they give on lect~ the lecture notes lor is just sub in the value
+NI60MBP_0101 2442247 2447077 CS take the formula sub in the value then 我 全部 朋友 就 讲 exam 不会 出 这种 的 what
+NI60MBP_0101 2447687 2450527 CS 二十五 分 全部 叫 你 sub in value 没 不可能 哇
+NI60MBP_0101 2450617 2453417 CS 这样 这样 primary school 都 可以 拿 满分 了 这样
+NI60MBP_0101 2454377 2457847 CS then 就是 they don't have 那种 reality 的 感觉 咯
+NI60MBP_0101 2458197 2459947 CS then 一 跳 跳 跳 跳 很多 then
+NI60MBP_0101 2460307 2462677 ZH 那种 比较 聪明 的 会 做 就是 会 做
+NI60MBP_0101 2462887 2465197 ZH 然后 我 听说 那些 (呃)
+NI60MBP_0101 2465747 2470537 CS 那种 外国 的 学生 以前 有 学 过了 因为 他们 有 bridging course 还是 什么 已经 学过 了
+NI60MBP_0101 2470557 2472347 CS so 他们就 比较 advantage 咯 so
+NI60MBP_0101 2472444 2476684 ZH 那些 所谓 的 比较 聪明 的 就 永远 是 比较 聪明 然后 我们 就
+NI60MBP_0101 2477084 2480264 CS 在那边 struggle 咯 自己 自己 try to 找 办法
+NI60MBP_0101 2480504 2483224 CS 找 找 时间 去 读 那些 textbook 啊 去
+NI60MBP_0101 2483624 2490114 CS 做 咯 每天 我 看 我 隔壁 邻居 那些 poly student 每天 都在 玩 game 的 then g. p. a. four point five 在那边
+NI60MBP_0101 2490694 2494534 CS 哇 怎样 我在 那边 读 到 要死 要死 还是 three 而已
+NI60MBP_0101 2495252 2496397 ZH 啊
+NI60MBP_0101 2497094 2499894 CS 他 每天 都在 玩 game 都 可以 拿 four point five 这样
+NI60MBP_0101 2500772 2501709 ZH 啊
+NI60MBP_0101 2505464 2509934 ZH 他们 被 选 进来 的时候 真的 啦 他们是 比较 聪明 的
+NI60MBP_0101 2509989 2511769 CS 因为 他们 有什么 selection 对 吗
+NI60MBP_0101 2512319 2516709 CS 虽然 他们 讲 比较 聪明 but 不可能 local 会 笨 到 哪里 去 的 嘛 真的
+NI60MBP_0101 2516977 2520787 CS 我们 singapore 也 算是 i. q. 也 算是 比较 高 的
+NI60MBP_0101 2520787 2521817 ZH 嗯
+NI60MBP_0101 2521817 2524697 CS then cannot be 那个 standard 差 这样 远 的 嘛
+NI60MBP_0101 2525457 2531427 CS then at least 也是 也是 那些 lecturer 需要 去 cater 到 locals 咯
+NI60MBP_0101 2531637 2537017 CS because we never learn before then 不可能 叫 我们 on par with them then
+NI60MBP_0101 2538182 2541552 CS (呃) 有 中国 vietnam india
+NI60MBP_0101 2541963 2543143 ZH (呃)
+NI60MBP_0101 2543977 2545400 ZH 有
+NI60MBP_0101 2546077 2547247 EN hong-kong
+NI60MBP_0101 2547648 2548157 ZH 嗯
+NI60MBP_0101 2548157 2551837 CS engineering 比较 多 的 是 vietnam china 跟 india
+NI60MBP_0101 2552667 2556197 CS (呃) hong-kong 是 大多数 hong-kong 跟 xiang-gang 都是 n. b. s. 的
+NI60MBP_0101 2556710 2557439 ZH 嗯
+NI60MBP_0101 2562617 2564117 CS (er) fifty 吧
+NI60MBP_0101 2564287 2573347 CS everywhere 都是 诶 我们 很像 走到 哪里 很像 每~ 我 去 每 一个 tutorial class 啊 at least 一半 是 是 中国 跟 india 的 students
+NI60MBP_0101 2573517 2580207 CS vietnam 比较 少 很 像 vietnam 是 two out of ten 这样 but china 是 five out of ten 这样 很多
+NI60MBP_0101 2587504 2588927 ZH 嗯
+NI60MBP_0101 2589937 2591497 ZH 他们 讲话 比较
+NI60MBP_0101 2592847 2594747 CS 真的 很 有 那种 india 的 accent
+NI60MBP_0101 2595027 2597647 CS local 的 indian 比较 少
+NI60MBP_0101 2598417 2599567 ZH 啊 对
+NI60MBP_0101 2599847 2603487 CS 他们 没有 不会 讲 到 那种 ah leh ah nor ah leh ah nor 不会 的 啦
+NI60MBP_0101 2604307 2607477 ZH 我们 他们 会 讲 英文 的 啊 不会 讲 到 那种 啊
+NI60MBP_0101 2608242 2609388 ZH 啊
+NI60MBP_0101 2610221 2611407 ZH 嗯
+NI60MBP_0101 2611407 2614197 CS 不 不会 有 这种 accent 的 啦 所以 我们
+NI60MBP_0101 2614867 2621047 CS 会 分 得到 然后 大多数 因为 local 的 indians 很少 到 大学 啦 讲 真的
+NI60MBP_0101 2621477 2625777 CS 啊 我 so far 有 看过 local 的 只有 四 五个
+NI60MBP_0101 2626307 2628657 ZH 啊 我 认识 的 啦 四 五个
+NI60MBP_0101 2632081 2633877 ZH 对 啊
+NI60MBP_0101 2633877 2636997 CS 因为 他们 free education to secondary school 很 像是
+NI60MBP_0101 2637567 2639430 ZH 啊嗯啊
+NI60MBP_0101 2639430 2645980 CS one~ one~one of the thing is 因为 most of their family cannot pay 那个 school fees 太 过 太高 了
+NI60MBP_0101 2648060 2650280 CS seven thousand nine thousand 这样
+NI60MBP_0101 2650280 2651430 ZH 嗯
+NI60MBP_0101 2651430 2654050 CS 他们 (呃) cannot afford 咯
+NI60MBP_0101 2654140 2657040 CS one thing is cannot afford then second thing is 他们
+NI60MBP_0101 2657610 2658819 ZH 有～ 有
+NI60MBP_0101 2658819 2663499 ZH 不怎么 灵 (呃) 他们的 脑 不怎么 (呃) 灵活
+NI60MBP_0101 2665708 2668418 ZH 不懂 啦 就 新加坡 的 不怎么 灵活 啦
+NI60MBP_0101 2668438 2671368 ZH 外国 的 很 厉害 那些 数学 像 天才 这样
+NI60MBP_0101 2671578 2674378 CS computing 他们 很 厉害 的 我们 哇
+NI60MBP_0101 2675198 2684998 CS 他们就 是 local 的 比较 他们 比较 懒~ 懒散 的 那种 生活 方式 啊 他们就 觉得 actually 不~ 不 需要 读 到 大学 啦 那种
+NI60MBP_0101 2685518 2690188 CS 他们 我觉得他们 是 比较 注重 family 啊
+NI60MBP_0101 2690708 2691758 ZH 啊 他们是
+NI60MBP_0101 2692128 2694688 CS just 找 一个 工作 赚 到 钱 enough to
+NI60MBP_0101 2694995 2702975 CS 他们的 很 像 aim 是 enough to live survive and have a like stable income for the family 就 enough 了
+NI60MBP_0101 2703584 2706754 CS (呃) 他们 不是 很 像 chinese 这样 (呃)
+NI60MBP_0101 2707104 2710534 ZH 什么 都要 多 什么 都要 多 钱 多多 车 多多
+NI60MBP_0101 2710914 2712454 ZH 什么 都 多 就 对了
+NI60MBP_0101 2712674 2713854 ZH 啊 就 比较
+NI60MBP_0101 2714054 2718384 ZH 中国 (呃) 不是 中 (呃) 华人 就 比较 想 什么 都要
+NI60MBP_0101 2718464 2721978 ZH 啊 他们是 够了 就 好 那种 感觉 啊 啊
+NI60MBP_0101 2724098 2726598 ZH 我们 野心 重 嘛 野心 重
+NI60MBP_0101 2726598 2727925 EN 
+NI60MBP_0101 2728620 2729349 ZH 啊
+NI60MBP_0101 2730182 2731050 ZH 嗯
+NI60MBP_0101 2738248 2744238 CS actually starting 我 不是 想 进 triple e 的 我是 想 进 n. u. s. 的 architecture
+NI60MBP_0101 2744808 2754738 CS 哦 然后 我 进 不了 因为 i think 我 英文 fail 的 关系 啊 啊 然后 他们就 不 给 我 进 even though 我 懂 有些 人的 overall score 比 我 还 低
+NI60MBP_0101 2754783 2755953 CS 他们 进 得了 then 我 进 不了
+NI60MBP_0101 2757363 2759283 ZH 啊 对 他们 很 注重 英文 啊
+NI60MBP_0101 2759673 2762563 CS 就 讲 fail 就 很难 进 啦
+NI60MBP_0101 2764163 2767393 CS 没有 它 直接 英文 fail 是 直接 不用 interview 你的
+NI60MBP_0101 2768023 2769533 ZH 啊 只～ 只是 有
+NI60MBP_0101 2770153 2771683 CS 我 有 朋友 跟我 一样 grades
+NI60MBP_0101 2771958 2776178 CS then 他 有 interview then 我 没有 interview then 我们 apply the same course
+NI60MBP_0101 2776708 2779618 CS 有些 是 说 by luck 的 啦 啊
+NI60MBP_0101 2781028 2784108 CS en then (呃) 进 到来 n. t. u.
+NI60MBP_0101 2784728 2788488 CS 我 then 我是 直接 被 offered triple e
+NI60MBP_0101 2788890 2790530 CS but before that 我 有 想
+NI60MBP_0101 2790820 2794060 CS (呃) civil mechanic 还 mechanical 还是 an triple e 啦
+NI60MBP_0101 2795286 2800456 CS 啊 是 可以 choose 咯 你 apply 的时候 可以 choose 你的 first choice second choice third choice
+NI60MBP_0101 2801396 2809366 CS then 我 就 放 triple e first 因为 我 听 我 那些 en uncle 啊 姐姐 讲 triple e 的 prospect 比较 好
+NI60MBP_0101 2809922 2811332 CS cover 比较 多 东西
+NI60MBP_0101 2811782 2814332 CS en then 未来 会比较 好 啦
+NI60MBP_0101 2814357 2821717 CS 那时 当时 没有 想到 i like or do i like it or don't like 就是 讲 拿到 一个 大学 位 之后 才 再来 想 啦
+NI60MBP_0101 2822158 2826038 CS 啊 因为 进 大学 比较 more important 啦 like you get in then
+NI60MBP_0101 2826578 2830818 CS 你 不 喜欢 你 才 换换 去 别的 (呃) 因为 first year 是 common 嘛
+NI60MBP_0101 2831102 2833462 CS 所以 是 you get you get to choose to change 咯
+NI60MBP_0101 2834342 2836472 ZH 可以 (呃) 换 去
+NI60MBP_0101 2836702 2838042 CS after 这个 semester 咯
+NI60MBP_0101 2838372 2843622 CS 考完 试 可以 你 可以 apply to change but whether they give you the change is 另外 一回事 啊
+NI60MBP_0101 2844055 2844819 ZH 嗯
+NI60MBP_0101 2846867 2850127 CS (er) don't need just i think 是 based on 你的 score
+NI60MBP_0101 2850377 2853217 EN ah to~ to change to other
+NI60MBP_0101 2853897 2860169 CS engineering to engineering 比较 容易 but if 你 engineering to other school 就 more difficult 啦 啊
+NI60MBP_0101 2861662 2862687 ZH 嗯
+NI60MBP_0101 2862687 2867547 CS (呃) 很 像 (呃) 有 我 听 有 朋友 讲 triple e to mechanical
+NI60MBP_0101 2868397 2869847 ZH 啊 然后 (呃)
+NI60MBP_0101 2870047 2871937 EN triple e to civil
+NI60MBP_0101 2872187 2874817 CS 可以 啦 因为 first year 我们 study 的 东西 都是 一样
+NI60MBP_0101 2874929 2881119 CS 没有 讲 (呃) 我们 读 不一样 啦 很 像 aerospace 这样 aerospace 不一样 嘛 然后 我们 根本 就 不可以 换 过去
+NI60MBP_0101 2881625 2886065 CS 我们 读 的 东西 一样 不可能 讲 cannot you cannot change
+NI60MBP_0101 2886615 2889815 CS 讲 if you if you weren't interested i think they will
+NI60MBP_0101 2890855 2893385 CS they will (呃) 考虑 他们 会考 虑 啦
+NI60MBP_0101 2893605 2897035 CS like 到 (呃) or maybe 这个 很 interested then 会考 很好
+NI60MBP_0101 2897035 2898072 ZH 啊 好
+NI60MBP_0101 2899218 2900051 ZH 嗯
+NI60MBP_0101 2905259 2906125 ZH 嗯
+NI60MBP_0101 2906125 2909555 CS 我是 打算 换 啦 换 去 mechanical 啦
+NI60MBP_0101 2910045 2913005 CS en 因为 听说 triple e 很难 读
+NI60MBP_0101 2913345 2917785 CS 他的 那个 second year third year 的 东西 比较 很~ 很难 啊
+NI60MBP_0101 2918095 2924965 CS 然后 再 比较 比较 跟 起来 跟 那个 mechanical 比较 起来 就 比较 难 咯 triple e
+NI60MBP_0101 2925315 2929015 CS 然后 再 加上 我自己 比较 喜欢 design 画画
+NI60MBP_0101 2929675 2936175 CS 不怎么 喜欢 太 喜欢 那种 物理 啊 那种 (呃) (呃) physics 的 那种 东西 就
+NI60MBP_0101 2938103 2941753 CS 这样 想 mechanical 会比较 close to what i want 啦
+NI60MBP_0101 2941833 2944033 CS 因为 它 有 它 有 design stream
+NI60MBP_0101 2944396 2949276 CS then 它 还是 有 mathematics which 我 喜欢 啦 but 他 还 也是 还有 一点点 physics
+NI60MBP_0101 2949722 2951362 CS 它 还有 physics but
+NI60MBP_0101 2952242 2957702 CS if it's what i like 的话 if it's what i like to do then 就 应该 是 okay 啦
+NI60MBP_0101 2957844 2960574 CS 好过 我自己 去 做 那种 circuit board 那边 哇
+NI60MBP_0101 2960754 2964764 CS 什么 来 的 看 都 看 不明白 then 怎么 做
+NI60MBP_0101 2964764 2965719 ZH 啊
+NI60MBP_0101 2967420 2968357 ZH 嗯
+NI60MBP_0101 2970475 2971516 ZH 啊
+NI60MBP_0101 2976224 2980264 CS electric and electronic 啊 e double e 是啊
+NI60MBP_0101 2984327 2985195 ZH 哦
+NI60MBP_0101 2988232 2990106 ZH 电子
+NI60MBP_0101 2992641 2993648 ZH 啊
+NI60MBP_0101 2997069 3000539 CS 我 这边 有 e 但是 不是 electric 他是 environmental
+NI60MBP_0101 3001290 3008400 CS engineering 啊 也是 可以 也 也是 one of the common engine 的 的 的 的 bunch 啦 bunch 的 去
+NI60MBP_0101 3009007 3009597 ZH 嗯
+NI60MBP_0101 3011180 3015500 CS 很多 很多 engine 啊 这边 that is why common engine 这样 那个 batch 这样 多 一千多 个人
+NI60MBP_0101 3019006 3022304 CS 对 嗯 还有 n. b. s. 对
+NI60MBP_0101 3023450 3024179 ZH 嗯
+NI60MBP_0101 3031040 3031942 ZH 嗯 对
+NI60MBP_0101 3033008 3036748 ZH 在 不是 在 那个
+NI60MBP_0101 3037178 3043488 CS can~ b 的 旁边 在 那个 wee-kee-wee ah common studies
+NI60MBP_0101 3044138 3046058 CS 还是 triple e block 的 旁边
+NI60MBP_0101 3046774 3047434 ZH 嗯
+NI60MBP_0101 3048778 3052408 CS triple e block 的 旁边 是 那个 有一个 slope 下去 这样
+NI60MBP_0101 3053009 3054879 CS all the way 在 那个 slope 下面 的
+NI60MBP_0101 3055729 3059309 CS 是 自己 一个 的 他 没有 没有 other hall 在 旁边
+NI60MBP_0101 3061113 3062154 EN 
+NI60MBP_0101 3068619 3073839 CS nanyang technological centre 啊 innovation centre 是 吗
+NI60MBP_0101 3074949 3075989 ZH 啊 对
+NI60MBP_0101 3076599 3078079 ZH 比较 靠近 的 他是 那个
+NI60MBP_0101 3078499 3081969 CS school of physics and mathematical science 旁边 啊
+NI60MBP_0101 3082597 3085089 CS 啊 它是 自己 一个 alone 的
+NI60MBP_0101 3085259 3090239 CS 以前 啊 以前 hall three 在那边 然后 是 太久 了 就 拆掉 搬掉 啊
+NI60MBP_0101 3093679 3094409 ZH 对
+NI60MBP_0101 3095139 3098499 ZH 是 很 (呃) 哎呀 有点
+NI60MBP_0101 3099189 3102469 ZH 他们 刚刚 开始 近来 就 讲 不好 吃 不好 吃
+NI60MBP_0101 3102814 3108424 ZH 就是 吃 吃 吃 吃 了 下去 就 哎呀 没有 办法 因为 靠近 啊 吃 但是 其实 吃 下去
+NI60MBP_0101 3109194 3113174 ZH 不是 不是 难吃 其实 蛮好 吃 的 诶 它 有些 东西 蛮好 吃
+NI60MBP_0101 3114194 3118264 ZH (呃) 我 通常 吃 那个 鸡 饭
+NI60MBP_0101 3118684 3121064 ZH 但是 不是 讲 那个 鸡 饭 超 好吃 啦
+NI60MBP_0101 3121214 3124844 ZH 它 那个 饭 那个 米 有时 也是 那种 比较
+NI60MBP_0101 3125348 3128258 ZH 次 次货 的 那种 感觉 好像 那种 碎 米
+NI60MBP_0101 3128478 3129998 ZH 他 不是 那种 一粒 的
+NI60MBP_0101 3130398 3135548 ZH 但是 它 吃 起来 是 它的 鸡 啊 那些 还 还好 不错
+NI60MBP_0101 3135760 3137280 ZH 然后 还有 那个
+NI60MBP_0101 3137770 3139720 ZH 那个 斋 的
+NI60MBP_0101 3140000 3146180 CS 他的 东西 好吃 然后 有 便宜 最 重要 can~ b 是 便宜 啊 它 东西 很 便宜
+NI60MBP_0101 3146732 3147357 ZH 嗯
+NI60MBP_0101 3147950 3152560 CS 然后 他 那个 北京 delight 每个人 都 讲 不好 吃 的
+NI60MBP_0101 3152600 3156660 ZH 其实 我觉得 那个 火锅 蛮 不错 耶 还 蛮好 吃 的
+NI60MBP_0101 3156919 3163099 ZH 有 可能 是 他们 讲 啦 他们 在后面 做 东西 的时候 很 还 蛮 脏 的
+NI60MBP_0101 3163482 3167452 ZH 然后 我 有 一些 朋友 讲 啊 中国 的 朋友 讲 他 自己 看到 都 觉得 脏
+NI60MBP_0101 3167702 3168812 ZH 就 讲 哈 就是
+NI60MBP_0101 3169545 3173755 ZH 连 他们 自己的 同胞 都 觉得 受不了 了 我们 怎么 受 得了 那种 感觉
+NI60MBP_0101 3174115 3178245 ZH 但是 它的 那个 火锅 还 蛮好 吃 的 它的 汤
+NI60MBP_0101 3178245 3179332 ZH 啊
+NI60MBP_0101 3180075 3184245 ZH 它 放 橘子 啊 那些 熬 那个 汤 出来 还 蛮好 吃 的
+NI60MBP_0101 3184783 3186410 ZH 嗯唉

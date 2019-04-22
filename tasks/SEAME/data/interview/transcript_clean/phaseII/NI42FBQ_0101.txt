@@ -1,0 +1,230 @@
+NI42FBQ_0101 4019 4913 EN mmhmm
+NI42FBQ_0101 8240 20990 CS hello 哇 很 小 声 哦 hello  哦 很 近 啊 hello 可以 吗 hello 
+NI42FBQ_0101 26800 49490 CS hello 不够 啊 我 叫 翠 云 (er) 也是 翠 云  arh 听 不到 的 哦 okay
+NI42FBQ_0101 53090 55170 EN (hmm)
+NI42FBQ_0101 55170 61820 CS okay哦 可以 arh
+NI42FBQ_0101 67370 69650 ZH 什么
+NI42FBQ_0101 69650 76450 EN (er) nanyang-business-school (hmm) second year
+NI42FBQ_0101 80880 90140 CS (er) 我 take 四个 core 还有 两个 elective hmm
+NI42FBQ_0101 92100 96250 CS 我 不懂 它的 名 诶 我 懂 它的 code 
+NI42FBQ_0101 98920 109990 EN (er) accounting-control mm decision-making company-law (erm)
+NI42FBQ_0101 109990 116680 CS 还有 两个 acturial science arh 还有 两个 elective loh
+NI42FBQ_0101 120720 125230 CS 哦 okay  了解 
+NI42FBQ_0101 126720 130620 EN huh hum hall-two
+NI42FBQ_0101 131650 135070 EN (er) near canteen-two
+NI42FBQ_0101 138630 140830 ZH 对 很 近 而已
+NI42FBQ_0101 145050 155730 CS 因为 是 sportsarh volleyball arh 但是 我 没有 没有 join ah
+NI42FBQ_0101 158710 162110 ZH 好像 已经 过了 完了 
+NI42FBQ_0101 163540 164406 EN hum
+NI42FBQ_0101 170800 176090 CS cultural-activities-club yes 听 过 吗 
+NI42FBQ_0101 177380 190860 CS (er) 有一个 是 freshmen-orientation-camp hum (er) 还有 另外 一个 是 social-welfare-committee hmm
+NI42FBQ_0101 191700 199810 CS freshmen-orientation-camp 我是 social and welf~ (er) welfare and logistics officer
+NI42FBQ_0101 199810 201550 EN (er)
+NI42FBQ_0101 201550 220650 EN i'm responsible for finding food and accommodation for for people during the camp whereas for the social and welfare committee (erm) i'm supposed to oversee the logistics business managers and liaison officers yah
+NI42FBQ_0101 221898 223650 ZH  我不会
+NI42FBQ_0101 223650 232590 ZH  那种 简单 的 才 会 吧 hmm 比如 什么 意思
+NI42FBQ_0101 235590 240100 ZH 我 不知道 eh (er)
+NI42FBQ_0101 240759 242000 EN 
+NI42FBQ_0101 244590 260804 CS anderson j. c. ah 在 yio-chu-kang 那边 hum 没有 什么 好玩 的 只有 一个 m. r. t.  对 咯 你 没有 听 过 吗
+NI42FBQ_0101 262052 266460 EN arh yio-chu~ yio-chu-kang arh
+NI42FBQ_0101 267520 270740 ZH 对 对 对 因为 我 住 靠近 那边 嘛
+NI42FBQ_0101 270740 271799 EN hum
+NI42FBQ_0101 273790 274511 EN huh
+NI42FBQ_0101 275608 276329 EN hum
+NI42FBQ_0101 276329 277650 ZH 对
+NI42FBQ_0101 277650 285960 CS (er) saturday 我 回家 因为 saturday 我 有 课  是啊
+NI42FBQ_0101 286910 298190 CS 对啊 因为 老师 不是 学校 里面 的 arh 他在 做工 所以 只有 saturday 才 可以 下来 教 我们 arh
+NI42FBQ_0101 302657 316750 CS 啊 那个 我 不 清楚 eh 因为 我 不是 programmer 我是 负责ahfood 还有 还有 (er) accommodation 的
+NI42FBQ_0101 321010 338000 CS 哦 如果 觉得 好吃 就 record 他的 details ah 然后 交给 我的 in charge arh then 他 会 他 觉得 好吃 他 也是 会 买 啊 给 全部 的 人 啊 arh 不会 eh
+NI42FBQ_0101 339705 340686 ZH 兴趣
+NI42FBQ_0101 342649 343745 EN ah
+NI42FBQ_0101 344900 349870 ZH 有时候 会 跟 朋友 去 唱歌 (哦) arh
+NI42FBQ_0101 349870 364700 CS arh 我 妈妈 会 subscribe 那个 s. c. v. 的 karaoke system arh 那个 是 好像 cable t. v. 这样 你 换 到 一个 另外 一个 channel
+NI42FBQ_0101 364700 386910 CS arh 你 换 另外 一个 channel 他 就会 播 全部 karaoke 的 歌 arh 所以 那个 比起 来 不会 这样 贵 啊 因为 每次 去 karaoke 会 花 很多 钱 吧 二十多 块 一个人 arh 那个 是 每个 月 大概 like twenty dollars a month ah(erm)
+NI42FBQ_0101 388670 400260 CS (er) you mean in the karaoke system 很多 arh like chinese and english both also have arh
+NI42FBQ_0101 401640 409640 CS s. h. e  对啊 我 很少 唱 english song 啊 hum
+NI42FBQ_0101 412260 425340 CS 讲 english cause 我 妈妈 不会 讲 chinese (erm) cos 她是 从 malaysia 来 的 所以 malaysia 她 小时候 没有 学
+NI42FBQ_0101 428015 428552 EN arh
+NI42FBQ_0101 430237 439400 ZH 她 小时候 没有 学 中文 所以 我们 全家 人是 讲 英语 的 emm
+NI42FBQ_0101 439400 447520 CS (er) 小学 和 中学 loh arh 我 哥哥 也不 喜欢 讲 chinese 啊 hum
+NI42FBQ_0101 448212 449164 ZH 对啊
+NI42FBQ_0101 450694 453790 EN 
+NI42FBQ_0101 453790 459900 ZH 哦 我们 小小学 和 中学 有 学 啊 学中文 啊
+NI42FBQ_0101 459900 461283 EN hum
+NI42FBQ_0101 468464 469473 EN hmm
+NI42FBQ_0101 471240 480700 CS 很多 吧 有 k. -box top-one party-world 很多 间 可是我 只 去 过 k. -box
+NI42FBQ_0101 482940 495980 CS 不错 lah 很 便宜 i think 一个 student 才 十四 块 半 arh 五个 小时 还有 食物 eh
+NI42FBQ_0101 495980 510240 CS huh 有 nuggets (er) takopachi 还有 like fried shrimp ah huh? and french fries ah hum
+NI42FBQ_0101 510240 510866 EN 
+NI42FBQ_0101 510866 511612 EN <unk>
+NI42FBQ_0101 511612 513539 ZH 有很多 eh
+NI42FBQ_0101 513539 536480 CS ah有 smoothie like 那种 泡 泡茶 that kind arh 对啊 你没 没有 去 过 吗  你 应该 去 一次  arh jurong 那边 有 jurong safra 靠近 我们 学校 那边 而已
+NI42FBQ_0101 536480 557340 CS (er) boon-lay m. r. t. station 没有 要 走 一个 distance 啊 (erm) 很 靠近 而且 那边 是 touch screen 的 不是 用 remote control 的 arh 所以 比较 high tech 一点 啊 hum
+NI42FBQ_0101 557340 570380 CS only two ya usually like 不够哦 因为 有很多 人 就 not enough 啊 hum
+NI42FBQ_0101 570380 585180 CS 那个 screen 蛮 大 的 比 一般 的 还 大 i think 比 我 家 的 还 大  跳舞 没有 eh
+NI42FBQ_0101 588950 599300 CS hum ya 很 近 很 靠近 啦 like 对哦 是一个 room 那个 room 是 蛮 小 的 arh 所以不用 leave room 跳舞吧
+NI42FBQ_0101 600067 601365 EN hum
+NI42FBQ_0101 605920 614060 CS 好像 有 吧 很多 歌 都有 有 malay 的 i think 还有 japanese korean 的
+NI42FBQ_0101 617510 625190 ZH 语言 啊 没有  有 啦 可是 不好 听 啊  对啊
+NI42FBQ_0101 631670 648890 CS 家里 面 mm nothing much 啊 因为 我 回家 只是 saturday 半天 还有 sunday then 我们 没有 做 什么哦 like 看 电视 做功 课  这样 就要 回 学校 了 monday 就要 回 学校
+NI42FBQ_0101 650150 664410 CS 有一个 哥哥 他 也是 study in n. t. u. 他是 biological sciences hmm 他 也是 读 second year
+NI42FBQ_0101 664990 679720 CS 不是 因为 他 要 去 n. s. 所以 要 跟 我~ arh 跟我 一样 loh arh 对 nanyang-business-school hum
+NI42FBQ_0101 679720 697734 ZH 会 吗 你 以为我 是 运动 的 吗  不是 lah 他们 有 卖 一件 十 块 hum 很多 人 买 很多人排队买这个 我也 不知道 为什么 我 叫 我朋友 买 的 hum hum
+NI42FBQ_0101 699970 718220 CS hum 应该 可以 huh 还有~ 还有 卖 吗 还是 什么 应该 没有 了 他们 只是 一天 open for everyone to to register to buy 然后 他们 还有 一天 是 collect 的
+NI42FBQ_0101 718220 728730 CS arh 那个 queue 很 长 啊 我也 不知道 为什么 又 不是 特别 好看 啊 是 很 舒服 啊 对啊
+NI42FBQ_0101 731367 732042 EN 
+NI42FBQ_0101 740040 743660 EN (er) c. c. a. loh
+NI42FBQ_0101 747750 749670 EN overseas?
+NI42FBQ_0101 752530 773920 CS hum social and welfare committee 那个 也是 那个 是 hold dinner and dance 你 听 过 吗 dinner and dance like 他 会 gather 全部 的 members 然后 会 hold 一个 event 在 一个 hotel 还有 pageant 啊
+NI42FBQ_0101 774590 783040 CS 那个 pageant 是 好像 选 选 美 啊 arh 对啊
+NI42FBQ_0101 785300 795230 CS you mean 那个 选 美 还是 那个 event arh 就 c. a. c. members hum 不是 open to all 的 hum
+NI42FBQ_0101 796442 797990 EN 
+NI42FBQ_0101 799530 812880 CS arh pageant arh 我 没有 pageant loh 没有 选 参 赛 者 然后 教 他们 跳舞 arh 还有 他们 要 唱歌 就 唱歌 那种 啊
+NI42FBQ_0101 816960 837560 CS arh i think 每个 学校 都有 这些 arh 都有 选 美 还是 什么的 在 july end of july arh 是 一天 的 lah 在 在 一个 hotel 我们 已经 book 那个 hotel 了
+NI42FBQ_0101 843430 859010 CS 我们 hall 啊 怎么 hall 的 ah每个 hall 都有 有吗 我不~ 好像~ 我不懂 eh 学校的
+NI42FBQ_0101 859410 877600 CS (er) 自己 爽 loh  我 不知道 hennor 我们的 school 也有 这个 nanyang business school 也有 自己的 competition ah hum 我 有 看 那些 参 赛 者 不错 eh (er) 对啊
+NI42FBQ_0101 882320 894680 EN then i think they will take video yah then they'll upload on their blog or youtube lah i think they also have a facebook website hum
+NI42FBQ_0101 898900 903730 EN arh maybe n. t. u. n. b. s. pageant or what
+NI42FBQ_0101 903730 910940 CS (erm) your school don't have 有没有 选 美的
+NI42FBQ_0101 913060 922160 ZH 哇 是吗 我 以为 每个 学校 都有 这个哦 是啊  我 不知道 eh
+NI42FBQ_0101 924490 927420 ZH 哦 唱歌 比赛
+NI42FBQ_0101 928274 929131 ZH 哦
+NI42FBQ_0101 930780 933130 ZH 去 外面
+NI42FBQ_0101 937860 942900 CS 哦 if you want to join then 你 去 参加
+NI42FBQ_0101 945815 946386 EN hum
+NI42FBQ_0101 948550 950820 ZH arh 对啊 对啊
+NI42FBQ_0101 957630 967170 CS 什么 哦 但是 你 现在 是 year four 是吗 final year project
+NI42FBQ_0101 969740 978880 CS post duck 是什么 (oh) so 是 你 一个人 的 project 啊
+NI42FBQ_0101 982370 991120 CS 哦哦 我 还 以为 你们是 做 f.y.p. 的 哦 okay
+NI42FBQ_0101 995143 996260 EN okay
+NI42FBQ_0101 999490 1003600 CS 要 什么 transcribe
+NI42FBQ_0101 1010640 1013850 CS 哦 code switching 不是 singlish right
+NI42FBQ_0101 1014960 1017240 CS 哦 okay
+NI42FBQ_0101 1023756 1025740 EN (er)
+NI42FBQ_0101 1025740 1037910 CS from young i went to many 国家 ah when i was in primary school 我 妈妈 带 我 去 america's disneyland ah
+NI42FBQ_0101 1037910 1039099 EN hum
+NI42FBQ_0101 1039099 1046780 EN then after that (er) i think after a few years then my parents took me to the france disneyland
+NI42FBQ_0101 1046780 1065370 CS ah 可是 现在 我都 不 记得 disneyland 是 怎么样 的 因为 太久 了 太 小 了 我都 不 记得 arh 然后 因为 我 爸爸 是 work in s. i. a. 的 所以 他 有很多~ ah s. i. a. singapore-airlines
+NI42FBQ_0101 1065370 1087230 CS arh so 他 有很多 可能 比较 便宜 的 air tickets ah 所以 我们 经常 出国 hum (er) 我 有 去 过 thailand taiwan hongkong 还有 scotland ah london france
+NI42FBQ_0101 1087230 1107750 ZH (er) 都 不 记得  都是 蛮 多 的 lah 最近 (er) 新年 时候 回去 马马来西亚 loh ah 所以 是 因为 新年 嘛 所以 要 探亲 要 回去 探亲
+NI42FBQ_0101 1109690 1117790 CS (er) johor and kuala lumpur ah selangor 那边 的 hum
+NI42FBQ_0101 1120440 1130570 CS 我也 是 不 清楚 eh 因为 我 一年 只是 回去 maybe once or twice ah 所以 我是 很少 跟 他们 接触 的
+NI42FBQ_0101 1132200 1145990 CS relative lah yah my mother's relative is from selangor k. l. ah ya they 他们 会 讲 cantonese hum 广东话
+NI42FBQ_0101 1147570 1170650 CS 对哦 很多 eh 而且 我觉得 那个 language 很好 听 ah 可是我 爸爸 那边 是 johor 的 是 讲 hokkien 闽南语 啊 arh 跟 台湾 一样 吧 arh 所以 但是 我 不会 讲 闽南语 啊 我 不会 讲 hokkien ah 但是 我 比较 听 得 懂 广东话 hum
+NI42FBQ_0101 1170650 1178830 CS 因为 我 妈妈 每次 跟我 讲 cantonese 吧 但是 我 爸爸 不会 跟我 讲 hokkien hum 对啊
+NI42FBQ_0101 1184250 1197450 CS arh bangkok chiang-mai ah 因为 我们 去 蛮 多次 的 因为 我 爸爸 喜欢 那边 arh 我也 不知道 eh 
+NI42FBQ_0101 1199560 1212900 CS mm 中学 吧 小学 还有 中学 但是 我都 不 记得 thailand 有什么 因为 太 现在 我都 很少 出国 了 是 比较 小 的时候 出国
+NI42FBQ_0101 1212900 1221340 ZH 所以 现在 我都 不 记得 了 哪 哪一 个 国家 比较 好玩 arh 还是 什么的 对啊
+NI42FBQ_0101 1223290 1249320 CS 第一次 会 去 那边 是 tour then 我们 再 去 (erm) it's free and easy ah 就 不是 tour 的 是 自己 plan 自己的 itinerary (erm) 其实 比较 好玩 啊 cause for tours you have to you have to wake up very early like maybe 六点
+NI42FBQ_0101 1249320 1256380 ZH 然后 很 早哦 然后 要 睡 也是 睡 很 迟 然后 就 不够 休息 啊 对哦
+NI42FBQ_0101 1259700 1281500 CS 坐 arh 对 arh 吃 了 就 睡 睡 了 hum 对 loh (啊) 对啊 我 去 台湾 的时候 是 就是 一个 礼拜 啊 是 tour 的 然后 吃 了然 后 上 bus 就 睡 and travel to the next destination
+NI42FBQ_0101 1281500 1303050 CS then the travel time 可能 是 两个 小时 三个 小时 then 就 我们 刚刚 吃 饱 然后 就 睡 就 很 unhealthy ah 后 回去 新加坡 真的是 three k. g. (hm) arh three k. g. 公斤 啊 三 公~ arh
+NI42FBQ_0101 1306660 1329150 CS 好像 是 tour the whole 台湾 啊 around ah ya but i think like one place only 可能 一天 而已 so 没有 看到 什么 啦 like 有 去 那种 like bigger cities like maybe taipei 高雄 那些哦 台中 啊 arh
+NI42FBQ_0101 1330430 1339730 ZH 有 啊 有 去 啊 没有 我是 去 那边 看 几个 小时 就 走了
+NI42FBQ_0101 1339730 1354530 CS 对哦 everything 很 rush 啊 而且 那时候 think 要 来 台风 啊 so 那个 风 很大 很多 个 地方 都 不可以 去 啊 所以 他们 怕 我 我们 被 淹 死 还是 什么 
+NI42FBQ_0101 1355198 1355821 EN hmm
+NI42FBQ_0101 1356860 1358470 EN (erm)
+NI42FBQ_0101 1359610 1382690 CS before my university starts ah when 我是 second year ah two-o-o-eight ah 对 哦 i think after my a. -levels 对 好玩 meh 不是 真 很多 很多 飞  对 啊 黄 arh
+NI42FBQ_0101 1385810 1403520 CS different food 我 喜欢 吃 hong-kong 的 因为 arh and their dim sum is very very big compared to singapore's ah rea~ big 他们的 dim sum 比较大
+NI42FBQ_0101 1403520 1415100 CS arh then 还有 他们的 价钱 也是 比较 便宜 啊 hum 而且 他们的 dim sum 是 steam 的 嘛 所以 比较 healthy eh hum 对 loh
+NI42FBQ_0101 1415100 1421530 ZH 比较 小 吧 没有 这样 多 肉 我觉得 而且 比较 贵 啊
+NI42FBQ_0101 1421530 1424370 CS 啊 对啊 也是 steam 的 啊
+NI42FBQ_0101 1426670 1433700 ZH 哪里 新加坡 的 啊 哦哦 那个 应该 是 很 贵 吧
+NI42FBQ_0101 1435320 1441620 CS  去 香港 的 lah 比较 authentic 啊 hum
+NI42FBQ_0101 1446090 1465530 CS dim sum 行吗 okay eh 你的 口味 不同 啊  哦 我们是 没有 人 推 eh 我们是 去 那个 store 那边 then 我们 自己 拿 then 他 会 算 钱 啊 对 对 对
+NI42FBQ_0101 1465530 1466870 ZH 对 啊
+NI42FBQ_0101 1466870 1474300 ZH 这样 比较 好玩 吧  台湾 啊 点心 的 啊
+NI42FBQ_0101 1477230 1478242 ZH 哦
+NI42FBQ_0101 1481280 1483320 EN trolley ah
+NI42FBQ_0101 1485020 1492850 ZH 哦 新加坡 也是 这样 吧 有 有 一些 餐厅 啊 有 一些 不是 啊 hum
+NI42FBQ_0101 1494270 1500090 CS 有 啊 那个 我 还 记得 那个 america 跟 france 的 我都 不 记得 了
+NI42FBQ_0101 1501966 1502926 ZH hum 都
+NI42FBQ_0101 1507590 1528120 CS (er) l. a. 的 hum i think hong-kong 他们 只有 一个 ride 比较 好玩 啊  i think space-mountain (erm) 另外 the rest of the rides not not exciting ah 都 好像 给 小孩子 玩 的
+NI42FBQ_0101 1528120 1538170 ZH 啊 只有 那个 是 好像 是 给 大人 玩 的 比较 比较 快 比较 刺激 啊 没有 什么 好玩 的 啊
+NI42FBQ_0101 1540590 1545000 CS 哦 对 我 去 那边 也是 也是 lion-king
+NI42FBQ_0101 1546380 1549450 CS mm 不是 讲 english 吗
+NI42FBQ_0101 1550580 1555170 ZH 哦 对 而且 他们 唱歌 还是 什么的 对 吗
+NI42FBQ_0101 1556841 1557958 EN mm
+NI42FBQ_0101 1562165 1563229 EN oh
+NI42FBQ_0101 1567090 1569520 ZH 没有 你 有 去 过 吗
+NI42FBQ_0101 1574820 1578110 CS huh disneyland 在 一个 hotel ah
+NI42FBQ_0101 1580308 1581700 EN arh
+NI42FBQ_0101 1581700 1594020 CS 哦 castle ah? 没有 eh you mean disneyland 里面 的 hotel 啊? 没有 我 没有 看到 有什么 hotel eh
+NI42FBQ_0101 1597543 1602120 ZH mm 没有 eh 我 没有 去 过 eh
+NI42FBQ_0101 1602120 1603173 EN hum
+NI42FBQ_0101 1606490 1610370 ZH 有 啊 那时候 我都 不 记得 有什么 了
+NI42FBQ_0101 1610370 1622160 CS 可能 有 indiana-jones ah arh mummy ah 都 没有 有一个 shark 的 jaws ah?
+NI42FBQ_0101 1622690 1635760 CS 它 是 一个 电影 的  一个 shrek ah 没有 i think 那时候 我 去 还没有 shrek  都是 比较 旧 的 吧 hum
+NI42FBQ_0101 1639530 1641320 EN roller coaster
+NI42FBQ_0101 1646500 1658510 CS 哦 那个 我 看过 但是 我 不懂 应该 很 小 就 不能 坐 那个 roller coaster 应该 是 因为 太 矮 了 吧 hum
+NI42FBQ_0101 1660110 1662250 CS six 什么
+NI42FBQ_0101 1664610 1667640 EN wet* in u. s.
+NI42FBQ_0101 1672310 1674980 ZH 他 有一个 八 字 型 这样
+NI42FBQ_0101 1679600 1683830 ZH 没有 eh 下次 啊 下次
+NI42FBQ_0101 1684470 1692930 CS 哦 下次 我 graduation 的时候 再 去 loh graduation trip ah 对啊
+NI42FBQ_0101 1694580 1698530 ZH 我 爸爸 没有 回 新加坡 了
+NI42FBQ_0101 1702620 1705670 CS 哦 i mean 他在 新加坡 的 airline 工作
+NI42FBQ_0101 1705670 1710480 ZH 啊 他 有时候 要 去 上海 啊 hum 很多 次
+NI42FBQ_0101 1710480 1715870 CS 不是 他是 like design aircraft ah
+NI42FBQ_0101 1715870 1730690 CS (erm) 他 每次 看 like look in the sky then 他 看到 什么 aircraft 他 就 讲 那个 aircraft 的 model 什么 s. t. 八 六 六 六 零 还是 什么的  我都 不懂 啊 他 自己 爽 啊  对啊
+NI42FBQ_0101 1732840 1736530 EN aerospace-engineering ah
+NI42FBQ_0101 1737380 1752950 CS 不是 他在 london 读书 imperial-college ah? hum 对哦 我 妈妈 也是 london 读书 的 因为 malaysia 的 education system 不好 啊
+NI42FBQ_0101 1752950 1757930 ZH 他们 要 去外 国 读书 咯 对啊
+NI42FBQ_0101 1757930 1766940 CS 那个 我 没有 问 啊  应该 是吧 因为 johor 跟 k. l. 很 远 他们 不 应该 不会 在 malaysia 认识 吧
+NI42FBQ_0101 1766940 1768910 ZH 我觉得 啦
+NI42FBQ_0101 1770940 1776960 ZH 他们的 爱情 故事 啊 没有 leh  我都 不好意思 问 咯
+NI42FBQ_0101 1777990 1778588 EN hum
+NI42FBQ_0101 1780977 1782041 EN mm
+NI42FBQ_0101 1782460 1790100 CS my mother is forty eight 我 爸爸 是 五十 吧
+NI42FBQ_0101 1796200 1799100 ZH hum 对啊
+NI42FBQ_0101 1810020 1830380 CS (erm) on the eve ah 初一 啊 then my father's side will  (er) hold a dinner for all his brothers 还有 他们的 孩子 啊 then 那是 一年 一~ 见 他们 一次 的 机会 啊
+NI42FBQ_0101 1830380 1844490 CS 但是 我 不会 跟 他们 很 close 因为 都 没有 什么 话 讲 吧 他们是 读 malaysia system then 我们是读 singapore system 的 然后 那个 topic 都 like 不可以 relate to each other
+NI42FBQ_0101 1845212 1846043 EN arh
+NI42FBQ_0101 1847350 1851200 CS 因为 很 不同 吧 education system
+NI42FBQ_0101 1854990 1859115 CS 他们 有 他们 secondary 有 五年 啊 我们 只有 四年 啊
+NI42FBQ_0101 1860024 1860777 EN hum
+NI42FBQ_0101 1863270 1884620 CS (erm) 他们 也是 有 o. -level a. -level 的 嘞 但是 对 哦 而且 他们 比较 喜欢 讲 chinese then 我们 比较 喜欢 讲 english 因为 我们 讲 华语 比较 慢 吧 arh 所以 他们 讲 很快 的时候 就 听 不懂 啊 like cannot catch up 对 咯 就在 那边 orh okay 这样 
+NI42FBQ_0101 1884620 1904060 CS 对啊 然后 (erm) after 除夕 就 初一 啊 that one is a bigger gathering then is about i think got about eighty people in i~ gather in one relative's place ah
+NI42FBQ_0101 1904060 1909874 CS then that 那个 是 like 收 红包 的时候 啊 like 每个人 都会 给 的时候
+NI42FBQ_0101 1909874 1913874 EN hum huh eighty ah
+NI42FBQ_0101 1916930 1923670 CS mm 在一个人的家 mm 是 轮流 的 like 每个~ 每年 都是 不同 人的 家
+NI42FBQ_0101 1926270 1935340 CS 因为 有 那个 garden 所以 garden 那边 可以 有 可以 有很多 人 吧 (erm)
+NI42FBQ_0101 1937550 1956740 CS 其实 会 收到 三十 吧 但是 all in ringgit ah so in the end 比 新加坡 的 还 少 吧 而且 malaysia 都会 给 蛮 少 的 啊 对哦
+NI42FBQ_0101 1960654 1962030 EN (er)
+NI42FBQ_0101 1964590 1970150 CS ah 对 对 对 他 可能 会 给 (er) four ringgit 红包
+NI42FBQ_0101 1970150 1985610 CS then in singapore 可能 只是 一块 多 而已 吧 hum 对 咯 所以 蛮 少 的 lah 而且 我 问 我 新加坡 的 朋友 他们 都 讲 they'll get probably ten from each relative ten sing ah
+NI42FBQ_0101 1985610 1987849 CS then 我 就 讲 oh i only got four ringgit
+NI42FBQ_0101 1988473 1991920 CS then 他们还 complain 他们的很少
+NI42FBQ_0101 1993480 1998570 CS 他们 他们的 是 ten sing 啊 新加坡 的 朋友
+NI42FBQ_0101 2008250 2011660 ZH 没有 eh 这个
+NI42FBQ_0101 2013390 2027900 CS 忘 了 也是 一样 的 four ringgit four ringgit 这样 新加坡 我 没有 relatives orh 只有 一个 啊 arh so 我 每年 都会 回去 的 我 新加坡 没有 什么 relatives ah
+NI42FBQ_0101 2027900 2029228 EN hum
+NI42FBQ_0101 2032410 2042820 CS yah over the years 没有 increase 还是 没有 decrease 啊 都是 four ringgit 只是 那个 exchange rate 一直 换 而已 哦 对啊
+NI42FBQ_0101 2055370 2058550 ZH 哦 所以 两 哦
+NI42FBQ_0101 2061840 2063750 ZH 不错 啊
+NI42FBQ_0101 2065639 2068380 ZH huh 有 一千
+NI42FBQ_0101 2075010 2085000 CS 哦 所以 越 老 越 越 多 钱 吗 哦 这样子 很好 啊 then 大学 会 收 多少
+NI42FBQ_0101 2088090 2090830 ZH 很多 eh 一个人 给 一百
+NI42FBQ_0101 2094253 2096201 ZH 哦
+NI42FBQ_0101 2098538 2100304 EN oh view*
+NI42FBQ_0101 2104410 2108550 CS 四个 人 一起 gather 啊
+NI42FBQ_0101 2112583 2114190 ZH 哦
+NI42FBQ_0101 2114190 2124150 CS 哦 那 对 我们 有很多 亲戚 啊 but 都是 很少 的 啦 你们 加 起来 应该 还 比 我的 多 吧  对啊
+NI42FBQ_0101 2127762 2128644 ZH 哦
+NI42FBQ_0101 2131820 2150050 CS 哦 我 妈妈 也是 会 帮 我 收 可是我 有一个 朋友 他的 妈妈 会 keep the 红包 money as hers ah 就是她孩子的钱等于她的钱所以 我的 朋友 好像 有 红包 等于 没有 红包 这样子 啊 对 loh
+NI42FBQ_0101 2154480 2162770 CS 没有 eh 是 他 妈妈 每每 个 月 给 他 allowance 的 所以 红包 钱 应~ 应该 不算 吧
+NI42FBQ_0101 2167240 2169910 ZH 我 妈妈 会 给 我 三百 啊
+NI42FBQ_0101 2169910 2175680 CS arh 但是 i always never use finish 啊 是 会 存 起来
+NI42FBQ_0101 2175680 2182180 ZH 我朋友 也是 她 妈妈 也是 给 她 三百 但是 她 每次 花 完 的 我 不懂 她 花 在 什么 eh
+NI42FBQ_0101 2184300 2190480 ZH 可能 三 块 吧 而 学校 比较 便宜 两 块 多 啊 对哦
+NI42FBQ_0101 2191970 2193730 ZH 庆祝 什么
+NI42FBQ_0101 2195590 2211300 CS 没有 eh 好像 没有 时间 出去 外面 吃 eh 因为 business school 很多 projects 所以 like after lessons 都是 有 project meeting then project meeting until very late maybe eleven a~ eleven p. m.
+NI42FBQ_0101 2211300 2219240 CS then after that 回去 hall 就 睡觉 就 没有 什么 时间 可以 relax 啊 对啊
+NI42FBQ_0101 2220130 2226770 CS (erm) 是 蛮 辛苦 的 但是 我 used to it already
+NI42FBQ_0101 2226770 2227308 EN hum
+NI42FBQ_0101 2228320 2240320 CS but my brother 他 很少 projects but 他 很多 lab work 啊 lab work 要 arh 所以 应该 是 一样 吧 但是 他 没有 projects oh
+NI42FBQ_0101 2240320 2241311 EN hum
+NI42FBQ_0101 2246590 2254720 CS i think 不要 了 accounting i think 不用 念 masters 吧 对哦
+NI42FBQ_0101 2257950 2259950 EN arh
+NI42FBQ_0101 2261810 2271050 EN (er) quite easy lah cos n. t. u. supposed to be the best have the best accounting and business school ah in the
+NI42FBQ_0101 2272200 2285046 CS i think in the world 我们 rank 好像 二十多 名 啊啊 所以 finding a job 应该 是 蛮 容易 的 but the one i am not very sure

@@ -1,0 +1,172 @@
+UI27FAZ_0104 0 1265 CS okay 最新的
+UI27FAZ_0104 1265 7148 CS mmm 在 p. s. p. god of war 它 也是 有在 p. s. three 里面 okay
+UI27FAZ_0104 7560 13856 CS so 暂时 这个 咯 跟 那个 足球 咯 踢足球
+UI27FAZ_0104 18603 21206 CS (啊) 当然 p. s. three 比较 漂亮
+UI27FAZ_0104 21206 27545 CS 因为 p. s. three 是走 blueray 的 嘛 blueray 的 disc so 它的 sound effect 它的 graphics
+UI27FAZ_0104 27545 30653 ZH 啊 会 好很多 它的
+UI27FAZ_0104 51411 54501 CS recently 我才 去过 台湾 罢了
+UI27FAZ_0104 54501 56135 ZH 在 台湾 回来
+UI27FAZ_0104 60108 64133 ZH 台湾 好 (啊) 好玩的 地方 就在 垦丁
+UI27FAZ_0104 64133 73824 CS so 垦丁 是一个 island ah 一个 在 是一个 beach 来的 okay 它 比较 偏僻 一点
+UI27FAZ_0104 73824 81457 CS and 垦丁 是一个 最 southern 的 ah 地方 (啊) 在台湾
+UI27FAZ_0104 81457 93793 CS so 它 比较 落后 一点 okay 它 (啊) 但是 (啊) 你会 看到 大自然 的 东西 在垦丁
+UI27FAZ_0104 93793 99598 CS 啊 它的 beach loh okay and 他们 (啊)
+UI27FAZ_0104 99598 107135 CS day to day 每一天 的 (啊) (啊) 工作 你会 看到 他们 每一天 的 (啊)
+UI27FAZ_0104 107135 111901 CS (啊) 生活 这样 全部 咯 会比较 (啊) traditional 一点
+UI27FAZ_0104 115083 118821 ZH 我们 就没有 看到 但是 (啊)
+UI27FAZ_0104 118821 122107 ZH 他们 卖了 很多 海鲜 在那里
+UI27FAZ_0104 127215 134010 CS 清洁 咯 他们 会比 malaysia 的 beach 清洁 第一 and 他们的 wave 会 比较 高
+UI27FAZ_0104 134010 139552 CS compared to 我们的 (啊) malaysia 的 beach
+UI27FAZ_0104 139552 147015 CS 因为 他们 是 靠近 那个 south china sea 的海
+UI27FAZ_0104 152020 159748 ZH 还有 就是 在台北 台北 高雄~ (啊) 台北的 这个 西门町
+UI27FAZ_0104 159748 165435 CS 西门町 是 就是 好像 日本的 tokyo 这样
+UI27FAZ_0104 171834 178696 CS 他们的 衣服 鞋 咯 会 比 (啊) malaysia 便宜
+UI27FAZ_0104 178696 182340 ZH 跟 他们的 (啊) 玩具
+UI27FAZ_0104 182340 187913 CS 因为 他们的 玩具 就 (啊) 在日本 来的 他们 没有过 tax
+UI27FAZ_0104 191181 195941 CS 好像 malaysia 这样 有 我们 有些 东西 是 没有 过tax 比如说 我们的
+UI27FAZ_0104 195941 199966 CS (啊) 如果 我们要 import 这个 (啊)
+UI27FAZ_0104 199966 206244 CS medical 的 东西 还 还是 (啊) 电视机 我们 也是 没有 过tax的
+UI27FAZ_0104 206244 214036 CS 但是 在台湾 他们的 这个 玩具 啊 衣服 啊 全部 都 也是 没有 过tax的
+UI27FAZ_0104 221567 226090 CS 台湾 出产的 electronics product 就是 好像 h. t. c. 这样 咯
+UI27FAZ_0104 226090 230525 CS h. t. c. 我们的 (啊) 这个 pocket ah smart phone 这样
+UI27FAZ_0104 230525 237270 CS 他们是 h. t. c. 是 one of 他们的 国家的 (啊) 出产的 东西
+UI27FAZ_0104 237270 241192 CS 跟 很多 l. e. d. 也是 在台湾 出产的
+UI27FAZ_0104 242860 248372 ZH 就 我们 用的 (啊) 火 门~ 灯 （啊）
+UI27FAZ_0104 253184 263060 CS 他们 是一个 manufacturing company 他们会 supply 给 (啊) (啊) 做 o. e. m. 给 给 certain 的公司
+UI27FAZ_0104 277472 281731 CS 通常 台北的 attraction 就会 在 shopping
+UI27FAZ_0104 281731 285807 CS 因为 台北 是一个 city 来的 okay
+UI27FAZ_0104 285807 290346 CS so 通常 attraction 是在 它的 (啊) shopping 里面
+UI27FAZ_0104 290346 295914 CS 因为 他们 有很 蛮大间的 ah shopping mall
+UI27FAZ_0104 295914 301618 CS 和 (啊) 和 他们 小小的 (啊) 晚-
+UI27FAZ_0104 301618 303341 ZH (啊) 这个 叫什么
+UI27FAZ_0104 306574 312261 ZH 好像 他们的 夜 夜市 这样 对
+UI27FAZ_0104 316349 320350 ZH 他们的 小吃咯 通常 都是 小吃 他们的 小吃
+UI27FAZ_0104 320350 323725 ZH 好像 他们 一挡 一挡 小小挡 的小吃 这样
+UI27FAZ_0104 323725 326150 ZH 通常 也是 蛮不错一下
+UI27FAZ_0104 332961 335049 CS hong kong 就会
+UI27FAZ_0104 335049 342402 CS 他们的 小吃 也蛮 不错 and 他们 就是 好像 一个 shopping 的 city 这样
+UI27FAZ_0104 343047 347161 CS 比 台湾 还 还大 okay
+UI27FAZ_0104 347161 352091 CS so 通常 人家 去台湾 就会买 那个 名牌 的东西
+UI27FAZ_0104 354038 355758 ZH 啊 香港 咯
+UI27FAZ_0104 361236 363773 ZH 通常 会比较 贵
+UI27FAZ_0104 364502 370030 CS 如果 你 (啊) compared to 这个 中国
+UI27FAZ_0104 370030 375884 ZH 因为 通常 香港的 电器 全部 就会 在中国 出产
+UI27FAZ_0104 379118 387060 CS imported leh imported 的就会 (啊) 差不多 一样
+UI27FAZ_0104 387060 391182 CS 跟 malaysia 差不多 一样 不会 相差 很多
+UI27FAZ_0104 393241 398131 CS branded 的东西 就会比 (啊) malaysia 便宜
+UI27FAZ_0104 399214 405334 CS 因为 他们 是 free duty 的 duty free ha
+UI27FAZ_0104 409298 414799 CS 上次 我去 hong kong 我去的 这个 disneyland
+UI27FAZ_0104 414799 418140 ZH 然后 还有 去了 mongkok
+UI27FAZ_0104 418140 422839 ZH 还有去 这个 他们 (啊)
+UI27FAZ_0104 428798 432000 ZH 他们的 小街 全部
+UI27FAZ_0104 447545 459072 CS 通常 它的 地方 都是 (啊) 差不多 一样 (啊) 不一样的 就是 他们的 旅游胜地 好像 (啊) ocean park ah disneyland ah
+UI27FAZ_0104 459072 464353 CS 然后 他们买 东西啊 shopping mall 会比 会 会很多
+UI27FAZ_0104 464353 468085 CS (啊) 那个 名牌的 for 名牌的 会比较多
+UI27FAZ_0104 468085 473953 ZH 然后 嗯 看风景咯 这样咯
+UI27FAZ_0104 486155 490062 ZH 我 有打算 要去 韩国
+UI27FAZ_0104 492060 496065 ZH 因为 (啊)(啊) 韩国 是
+UI27FAZ_0104 499156 504689 CS 是 一个 地方 that ah 有这个 snow的 雪 有雪
+UI27FAZ_0104 504689 507716 CS 有得 滑雪 so
+UI27FAZ_0104 514768 518891 CS 通常 人家 是去 jeju island 去滑雪
+UI27FAZ_0104 520452 528952 CS 他们 有一个 山 哈 so so 就是 在韩国 咯 mmm
+UI27FAZ_0104 530212 532945 ZH 还有 一般的 朋友咯
+UI27FAZ_0104 535871 537860 ZH 暂时 没有人 去过
+UI27FAZ_0104 537860 540344 ZH 但是 （啊）
+UI27FAZ_0104 540344 546765 CS 最近 有去 这个 matta fair so 他们 介绍的 也是 蛮不错一下
+UI27FAZ_0104 549650 554114 ZH 通常 如果 你跟 (啊) 这个 旅游 的话
+UI27FAZ_0104 554114 556746 ZH (啊) 旅游团
+UI27FAZ_0104 556746 565088 ZH 通常 旅行团 啊 通常 都需要 差不多 四 四千块 里面
+UI27FAZ_0104 565913 568889 ZH 但是 但是 (啊)
+UI27FAZ_0104 568889 576732 ZH 根据 这个 他们的 旅行团 这个 韩国的 (啊) 旅行团的 (啊) 一个 他们
+UI27FAZ_0104 576732 582826 CS 政~ 他们 政府的 旅行团的 society ah 如果 你要 (啊)
+UI27FAZ_0104 582826 590034 CS 本身 去 不需要 一个 旅行团 来 带你们 去 也是 可以 但是 你只有 可以去 seoul
+UI27FAZ_0104 590034 596150 CS 你 不能 去 好像 jeju island ah 好像 他们的 小小的 state
+UI27FAZ_0104 596150 600271 CS 因为 只有 seoul 有英文字
+UI27FAZ_0104 600271 609463 CS 然后 (啊) 别个 state 就没有 英文字 so 会比较 (啊) 麻烦 一点
+UI27FAZ_0104 612998 614498 ZH 去别个
+UI27FAZ_0104 615565 618733 CS 不能 在 korea survive
+UI27FAZ_0104 618733 621808 CS 如果在 seoul 还可以
+UI27FAZ_0104 624251 626767 ZH 大多数 会 一点点
+UI27FAZ_0104 632283 639915 CS 他们 recommend 我们去 seoul 但是 不 recommend 我们去 别个 别个 (啊) 他们的 state
+UI27FAZ_0104 643537 645102 ZH 比较 麻烦咯
+UI27FAZ_0104 659653 663843 CS 最近 我看这个 resident evil four
+UI27FAZ_0104 667459 670317 ZH 它的故事 是讲 她
+UI27FAZ_0104 670937 672866 ZH 在她
+UI27FAZ_0104 677377 682446 CS 被 一个坏人 抓了她 但是-
+UI27FAZ_0104 682446 687894 CS 但是 她就 survive 在那个 在那个 plot 里面
+UI27FAZ_0104 687894 690219 CS so 她就 (啊)
+UI27FAZ_0104 691768 699999 CS 她的 整个的 super power 就 没有去 就变成 一个 (啊) 普通人 这样
+UI27FAZ_0104 704149 708368 CS 她的 super power 就比 普通人 比较 有力 okay
+UI27FAZ_0104 708368 715147 CS 她 比如说 她会跳 比较远 okay 然后 好像 (啊)
+UI27FAZ_0104 715147 720611 CS 她的 healing 会比 普通人快 很多倍
+UI27FAZ_0104 728589 732585 CS beside 这个 movie 就有 看
+UI27FAZ_0104 732585 736374 CS 应该 只有 这个 movie 罢了
+UI27FAZ_0104 740661 743898 CS series 就最近
+UI27FAZ_0104 746078 748893 CS 就看 twenty four 罢了
+UI27FAZ_0104 754024 758133 CS twenty four 是讲 一个 一个
+UI27FAZ_0104 758133 764881 CS 一个 (啊) 好像 detective 的戏 这样 okay 但是在 二十四 小时 里面
+UI27FAZ_0104 764881 768669 CS 在 我们的 real time 二十四 小时 里面 发生的
+UI27FAZ_0104 771166 773319 CS so 它就 做 (啊)
+UI27FAZ_0104 773319 777505 CS 每一个 series 都不同的 story loh hmm
+UI27FAZ_0104 781464 789410 CS 通常 是 (啊) 关于 这个 他们的 national security 他们 国家的 (啊)
+UI27FAZ_0104 789410 794020 CS ah security 这样 就有 有
+UI27FAZ_0104 794020 796763 CS 不同 不同的 story 比 比如说 好像
+UI27FAZ_0104 796763 800654 ZH (啊) 这个 美国 他们的 (啊)
+UI27FAZ_0104 801515 804787 CS defence sys~ defence 的 (啊)
+UI27FAZ_0104 807370 811186 CS strategy 就被 被 人家 啊 偷了
+UI27FAZ_0104 811186 818434 CS so 这个人 要怎样 讲 这个 detective 怎样去 (啊)
+UI27FAZ_0104 818434 826252 CS 偷回来 那个 这个 这个 这个 这个 information 全部 资料 全部
+UI27FAZ_0104 836321 840743 CS (啊) 最喜欢的 也是 twenty four
+UI27FAZ_0104 867786 879225 CS 我们 有一个 course 给 (啊) for 两年的 okay 那个 course 叫 prosat ok p r o s a t
+UI27FAZ_0104 879225 884150 CS 这个 so 这个 prosat 代表 professional selling skills
+UI27FAZ_0104 884150 890831 CS okay 它是 两年的 课程 for 好像 我们的 diploma 两年 然后 过后
+UI27FAZ_0104 890831 895473 CS 还有 continue for another 两年 就像 好像 我们的 degree okay
+UI27FAZ_0104 895473 904239 CS so 我们 全部 都需要 pass 这个 prosat okay 如果 不 pass 的话 我们 就需要 retake
+UI27FAZ_0104 904239 910304 CS and after retake 如果 还不 pass 的话 我们 就会 (啊) 罚
+UI27FAZ_0104 910304 916596 CS and 这个 course 就 包括 我们的 day to day 的 selling skills okay
+UI27FAZ_0104 916596 918541 CS 会 包括 english
+UI27FAZ_0104 918541 926934 CS 会 包括 我们的 (啊) (嗯) questions 跟那个 answers to be used
+UI27FAZ_0104 926934 930612 CS okay 在 我们的 (啊) sales 里面
+UI27FAZ_0104 936635 940279 CS so 这个 course 我们 会请 out source 的
+UI27FAZ_0104 940279 946358 CS (啊) 外面的 (啊) 这个 (啊) learning center okay
+UI27FAZ_0104 946358 950329 CS so 他们 会来 conduct 这个 course 给我们
+UI27FAZ_0104 950329 958305 CS 也是 他们 and 通常 这个 这个 course 是 我们 会去 attend 三个月 一次
+UI27FAZ_0104 958305 963677 CS and 我们去 attend 这个 course 的时候 就需要 一个 礼拜 时间
+UI27FAZ_0104 963677 971013 CS 来 attend 这个 course and another 多 两个月 我们 就是 会去 考试
+UI27FAZ_0104 975010 981518 CS ah among 这个 medical company 他们 是 recognized 的
+UI27FAZ_0104 981518 983691 CS 因为 这个 课程-
+UI27FAZ_0104 983691 989280 CS (啊) 他的 第一个 prosat 的课程 就需要 二十千 一个人
+UI27FAZ_0104 998546 1004401 CS 那个 topic 全部 都是 (啊) out source 外面的 那个 center prepared 的
+UI27FAZ_0104 1012125 1024601 CS 那个 subjects ah 会给 被 我们的 (啊) directors 我们的 h. r. 跟我们 有一个 academy 在 b-braun 里面 他们 就会revise 全部的 questions
+UI27FAZ_0104 1024601 1026316 CS and 它的 question 就是
+UI27FAZ_0104 1026316 1030311 CS 每一次的 exam 就不一样 的 就 好像 我们 考试 这样
+UI27FAZ_0104 1030311 1031765 EN so-
+UI27FAZ_0104 1033022 1034683 ZH 每一 (啊)
+UI27FAZ_0104 1035674 1042791 CS so 这个 once 他们 revise 全部 这个 questions okay 他们 就会 (啊) 给 我们
+UI27FAZ_0104 1042791 1044450 ZH （啊） 做咯
+UI27FAZ_0104 1044450 1047129 CS exam for 这个 questions
+UI27FAZ_0104 1056545 1062002 CS 我们 需要 因为 比如说 好像 我们 sales 这样 我们有 (啊)
+UI27FAZ_0104 1062002 1069906 CS 三个 level for sales in order to ah 你要 起薪水 还是 你要起 你的 status
+UI27FAZ_0104 1069906 1074125 CS so after 这个 三个 你的 prosat 就要 pass
+UI27FAZ_0104 1074125 1078099 CS okay so once 你 pass 你 才可以 去 另外 一个 stage
+UI27FAZ_0104 1078648 1083972 CS and 不是 考试 罢了 但 其实 我们 还有 一个 就是 practical
+UI27FAZ_0104 1083972 1087962 CS so 那个 (啊) instructor 就会
+UI27FAZ_0104 1088377 1089703 ZH （啊） 下来
+UI27FAZ_0104 1089703 1091253 ZH 跟 我们 做工
+UI27FAZ_0104 1091253 1094749 CS 他 就会 observe 罢了 在 旁边 observe 罢了
+UI27FAZ_0104 1094749 1099750 CS 看 我们 怎样去 persuade customer 怎样 去做 detailing
+UI27FAZ_0104 1102161 1108110 CS 对 就 就会跟 我们去 hospital ah
+UI27FAZ_0104 1108110 1112785 CS 见这个 specialist 跟这个 (嗯)
+UI27FAZ_0104 1114442 1116854 EN medical assistant
+UI27FAZ_0104 1123685 1128630 CS director 也是 可以 啊 因为 我们的 director 也是 在 sales 起来的
+UI27FAZ_0104 1128630 1134426 CS 啊 我们的 director 是 (嗯) malaysian 来的 okay
+UI27FAZ_0104 1134426 1139741 CS 他在 b-braun 二十年 了 and
+UI27FAZ_0104 1139741 1145988 CS 他是 when 他 first time 进 的时候 第一次 进 b-braun 的时候 他是 sales exec 来的
+UI27FAZ_0104 1145988 1148483 EN ok ah and
+UI27FAZ_0104 1148483 1153256 CS 他已经 做 director for 四年 了
+UI27FAZ_0104 1161952 1164571 CS (啊) 你 不需要 有一个 degree
+UI27FAZ_0104 1164571 1173749 CS okay 但是 (啊) 你 最需要 的东西 是 (啊) experience loh
+UI27FAZ_0104 1177107 1178858 CS 你 sales 的 experience loh
+UI27FAZ_0104 1178858 1182780 CS 然后 (啊) 在 b-braun 里面
+UI27FAZ_0104 1182780 1187433 CS 大多数 的人 promoted 的 就是 from sales 的
+UI27FAZ_0104 1194718 1196536 ZH 对 最少 六个月

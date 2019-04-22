@@ -1,0 +1,139 @@
+UI13FAZ_0104 5192 9467 CS 可以 but 我 没有 没有 download lah
+UI13FAZ_0104 14147 24287 CS that's right 戏院 的 戏 啊 很少 咯 不过 也 是 有 看 咯 好像 风 云 啊 avatar ah 那个 是 最近 的 啦
+UI13FAZ_0104 24287 26694 EN ah
+UI13FAZ_0104 26694 28615 CS avatar 会 比较 好看 
+UI13FAZ_0104 28615 30969 EN 
+UI13FAZ_0104 30969 35487 CS 其实 说 好像 说 (呃) 我们 读 computer science lah
+UI13FAZ_0104 35487 40492 CS 我 说 其实 是 风 云 是 那个 animation 那些 是 很 keng
+UI13FAZ_0104 40492 51263 CS but then compare with 第一 个 i mean 风 云 一 和 风 云 二 啦 它是 真的 很 disappointed
+UI13FAZ_0104 51263 52507 EN 
+UI13FAZ_0104 52507 59270 CS 反而 那个 avatar 它 有 animation 但是 它 也 是 有 story 在 那边
+UI13FAZ_0104 59270 60786 EN ah
+UI13FAZ_0104 60786 68482 CS 虽然 是 蛮 长 啦 整 差不多 大概 three hours 这样 啦 整个 整个 戏
+UI13FAZ_0104 69626 75266 CS but at least 他 有 story 在 那边 你 会 明白 它 是 在 做 什么
+UI13FAZ_0104 75266 76446 EN mm
+UI13FAZ_0104 76446 82659 CS but 风 云 for for 那些 有 看 那个 comic 他们 会 懂
+UI13FAZ_0104 82659 92490 CS 他们 会 觉得 哦 还 不错 for 我们 这些 没有 看 comic 的 你 会 觉得 没有 头 没有 尾
+UI13FAZ_0104 92490 105367 EN ah  mm
+UI13FAZ_0104 105367 109669 ZH 嗯 但是 到 一半 他 就 死 了 
+UI13FAZ_0104 109669 111806 EN mm
+UI13FAZ_0104 111806 113484 ZH 呃 这样 啦
+UI13FAZ_0104 117097 118098 ZH 啊 对 咯
+UI13FAZ_0104 118098 124266 EN mm
+UI13FAZ_0104 124266 128684 ZH 其实 是 他们 的 怎样 讲 商业 计划 吧
+UI13FAZ_0104 128684 130735 ZH 商业 手段 吧
+UI13FAZ_0104 130735 132223 EN 
+UI13FAZ_0104 132223 141638 CS 你 advertise 很 一直 advertise 一样 东西 啦 人家 好奇心 就 会 去 try 了 去 去 看 了
+UI13FAZ_0104 141638 148672 EN ah
+UI13FAZ_0104 148672 151243 CS christmas 我 回家
+UI13FAZ_0104 152324 157113 CS 噢 after christmas (er) after 二十四 号 我 就 回 怡保 了
+UI13FAZ_0104 157113 160573 ZH 因为 我 我 二 姐 从 新加坡 回来
+UI13FAZ_0104 160573 163008 ZH 呃 她
+UI13FAZ_0104 163008 167037 ZH 等 回 怡保 陪 她 咯 呃
+UI13FAZ_0104 167037 174308 EN mm
+UI13FAZ_0104 174308 176418 ZH 没有 啦 只是 吃 咯
+UI13FAZ_0104 178588 181158 ZH 怡保 很多 东西 好吃 
+UI13FAZ_0104 181158 186218 EN 
+UI13FAZ_0104 186218 190384 CS 槟城 哦 我 觉得 它 的 东西 是 repeat loh
+UI13FAZ_0104 190384 198121 CS 炒 粿 条 laksa 还有 福建 面 咖喱 面 没有 了
+UI13FAZ_0104 198121 208209 CS 怡保 它 有 yong-tao-fu 你 可以 喜欢 拿 什么 料 都 可以 它 很多 的 很多 的
+UI13FAZ_0104 208209 210604 EN (er)
+UI13FAZ_0104 210604 221031 CS 还有 那个 比较 多 小 食 啊 popiah ah 而且 它 的 它 的 口味 啊 和 槟城 的 口味 是 不一样 的
+UI13FAZ_0104 221031 230494 ZH 你 知道 (呃) 猪肠粉 吗 猪肠粉 在 怡保 哦 要 放 甜酱 (呃) 辣椒 这种 在 槟城 它 是 放 虾膏
+UI13FAZ_0104 231793 238228 CS 所以 你 从小 到 大 你 是 吃 吃 习惯 了 tomato 的 你 一时 转 去 虾 膏 都 
+UI13FAZ_0104 238228 240009 EN 
+UI13FAZ_0104 240009 241253 ZH 对 吗 
+UI13FAZ_0104 241253 242850 EN 
+UI13FAZ_0104 242850 243769 ZH 我 觉得
+UI13FAZ_0104 245744 258477 CS 其实 一 搬 来 槟城 的 时候 会 觉得 不 习惯 咯 东西 做 么 这样 的 其实 它 的 口味 呀 完全 totally different ah
+UI13FAZ_0104 258477 266543 ZH 啊 而且 怡 保 还有 那个 什么 盐 酥 鸡 那个 叫 什么 那种
+UI13FAZ_0104 266543 268644 EN oh
+UI13FAZ_0104 268644 273054 ZH 以前 更好 吃 现在 是 他们 商业化 了
+UI13FAZ_0104 273054 275615 EN mm
+UI13FAZ_0104 275615 277428 ZH 呃 对 对 对
+UI13FAZ_0104 277428 280431 EN mm
+UI13FAZ_0104 280431 285509 ZH 呃 对 咯 有些 会 说 你 等 得 就 等 不等 就 走
+UI13FAZ_0104 285509 294447 EN oh mm 
+UI13FAZ_0104 294447 300454 CS 因为 怡保 哦 它 有 一个 一样 就 是 说 好吃 就 可以 survive
+UI13FAZ_0104 300454 303220 ZH 不 好吃 就 直接 关 店 了
+UI13FAZ_0104 303220 304377 EN mm
+UI13FAZ_0104 304377 314252 CS 在 槟城 没有 的 你 好 不好 吃 也 是 有人 吃 的 只 是 你的 location suitable 你 就 可以 了 可以 survive 了
+UI13FAZ_0104 314252 320059 EN mm oh
+UI13FAZ_0104 320059 323280 CS 还 好 okay 的 不
+UI13FAZ_0104 324905 334114 CS 我 我 的 我 家人 更 更 keng 他们 吃 小 辣椒 的 就 是 一碗 粉 可以 两 三 碟 小 辣椒 这样
+UI13FAZ_0104 334114 338552 EN mm
+UI13FAZ_0104 338552 344710 CS 还 好 啦 其实 槟城 最 最 吸引 我 就 是 它 的 laksa 而已
+UI13FAZ_0104 344710 354745 CS 怡保 laksa 比较 不出 名 怡保 比较 出名 那种 curry 干 咖喱 干 的
+UI13FAZ_0104 357655 367023 ZH 就 是 干 捞 干 捞 哦 你 然后 你 你 煮 了然 后 你 放 那个 咖喱 鸡 把 它 放下 去
+UI13FAZ_0104 368344 372917 ZH 还有 咖喱 油 啊 很好 吃 的
+UI13FAZ_0104 372917 381921 ZH 对 对 对 就 是 说 你 你 回去 你 像 是 说 在 这里 一 两个 星期 回去 吃 就 很好 吃 了
+UI13FAZ_0104 381921 385682 ZH 啊 不是 说 每天 都 吃 这样
+UI13FAZ_0104 385682 396707 CS 所以 说 在 怡保 我 每天 吃 不同 样 的 东西 你 一 下 子 叫 我 吃 一 包 一杯 的 东 喝 一杯 的 东西 for for for 一 餐 的话 oh no
+UI13FAZ_0104 396707 401670 EN  (er)
+UI13FAZ_0104 401670 402806 ZH 对 对 对
+UI13FAZ_0104 405863 414990 CS 因为 那 时候 也 又 又 又 有 一点点 觉得 是 给 人 骗 的 感觉 咯 就 是 要 try mah
+UI13FAZ_0104 414990 417025 EN mm
+UI13FAZ_0104 417025 423987 CS 一 set hor 他 那 时候 跟 我 讲 只 是 for two weeks 而已 two weeks 一 set
+UI13FAZ_0104 423987 431403 EN mm
+UI13FAZ_0104 431403 439132 CS 噢 还 好 还 好 有 有 钱 就 可以 travel 没有 钱 就 不能 travel
+UI13FAZ_0104 439132 445735 EN 
+UI13FAZ_0104 445735 454014 CS err local loh local 比较 多 咯 overseas 我 去 到 最 远 只是 hong-kong 而已
+UI13FAZ_0104 454014 464625 CS 从 小 到 大 时常 去 的 啦 就 是 singapore loh 因为 我 有 很多 亲戚 在 那边 (呃) 没有 了
+UI13FAZ_0104 466089 475996 CS local 我 比较 prefer 去 那种 有 山 有 水 的 地方 but 在 这里 哦 有 山 就 没有 水 有 水 就 没有 山
+UI13FAZ_0104 475996 477701 EN 
+UI13FAZ_0104 477701 480136 ZH 对 吗 
+UI13FAZ_0104 484384 488908 CS 其实 relax 一点 的 我 去 到 k. l. 我 会 头痛
+UI13FAZ_0104 488908 490883 EN ah
+UI13FAZ_0104 490883 498564 CS even 说 k. l. 很多 shopping centre hor then 我 说 我 不要 走了 我 在 家里 好 了 你们 去
+UI13FAZ_0104 498564 500404 EN 
+UI13FAZ_0104 500404 504057 ZH 哈 他们 的 生活 习惯 比较 紧逼
+UI13FAZ_0104 504057 505599 EN (er)
+UI13FAZ_0104 505599 514535 CS compare with 怡保 啦 不能 比 的 怡保 你 你 你 驾车 慢慢 来 都 没有 人 horn 你
+UI13FAZ_0104 514535 526884 CS so hor 你 习惯 了 在 槟城 哦 你 回到 怡保 你 会 很 很 生气 他们 为什么 做 驾车 驾 到 这样 啊 then 他们 哦 很
+UI13FAZ_0104 526884 533975 CS 喜欢 喜欢 就 停 停 在 路 旁 然后 下车 买 东西 你 不能 horn 他们 的
+UI13FAZ_0104 533975 535568 EN 
+UI13FAZ_0104 535568 542019 CS 你 只 要 有 让 他们 okay loh 你 停 了 我 就 (呃) 打 signal 出去 咯 这样
+UI13FAZ_0104 542019 549733 ZH  而且 他们 不 赶 时间 没有 东西 做 你 赶 他 不 赶
+UI13FAZ_0104 549733 550815 EN 
+UI13FAZ_0104 550815 558468 CS 好像 for traffic light hor 你 在 怡保 哦 你 你 停 在 那边 整 两 三分 钟 没有 人 horn 你的
+UI13FAZ_0104 559373 563323 CS green color 了 你 可以 走了 没有 人 horn 你 的
+UI13FAZ_0104 563323 575038 CS 你 在 槟城 一 转 green color 你 不 走  后面 的 horn 就 horn 了 对 吗
+UI13FAZ_0104 575038 584738 EN  mm
+UI13FAZ_0104 584738 594530 CS hong-kong 的 时候 因为 我 其实 不是 mainly for travel 的 我 那 时 去 hong-kong 而是 我 姐姐 去 那边 conference
+UI13FAZ_0104 594530 604818 CS then 陪 我 姐姐 咯 她 噢 那 时候 我 去 整 差不多 大概 one week 有 两 三 天 她 是 for conference 的
+UI13FAZ_0104 604818 611407 CS then after that 我们 才 去 去 那个 (呃) 出名 的 地方 啦
+UI13FAZ_0104 616981 626866 CS 那 时候 有 那 时候 有 travel agent 带 我们 啦 啊 for for half day half day travel 好像 是
+UI13FAZ_0104 626866 632531 CS (呃) 他 那边 package 包 包 了 的 有 去 什么 浅水 湾 啊
+UI13FAZ_0104 632531 639614 CS 黄 大 仙 是 我们 自己 坐 坐 那个 l. r. t. l. r. t.
+UI13FAZ_0104 639614 644527 CS 它 那边 其实 蛮 方便 一下 的 我们 欣赏 他们 的 (呃) transport
+UI13FAZ_0104 644527 645556 EN mm
+UI13FAZ_0104 645556 651291 CS (呃) 虽然 说 人 多 哦 但是 没有 说 traffic jam 到 很 厉害 的
+UI13FAZ_0104 651291 659188 CS 因为 它 我 听 他们 说 他们 的 parking fees 很 贵 parking fees ah 买 车 不 买 车 不 贵
+UI13FAZ_0104 659188 667989 CS parking 很 贵 因为 他们 是 寸土 什么 寸土 什么 金 啊 我 忘记 了 那个 是 怎样 讲 
+UI13FAZ_0104 667989 677506 CS 就 是 蛮 蛮贵 then 他们 的 人 蛮 现实 一下 的 虽然 说 communication 没有 问题 啦 他们 也 是 讲 广东 话 嘛
+UI13FAZ_0104 677506 688374 CS but then 蛮 你 会 觉得 不同 咯 他们 的 态度 啊 不 friendly 的 其实 比较 现实 咯
+UI13FAZ_0104 688374 693960 CS then 他们 说 现在 (呃) 前 是 他们 看不起 大陆 人 的 嘛
+UI13FAZ_0104 693960 700622 CS 是 你 讲 华语 啊 他们 会 不 睬 你 这样 but then 现在 是 他们 china open open market 了 嘛
+UI13FAZ_0104 700622 705789 ZH 是 他们 会 会 比较 尊重 一点 啦 因为 大陆 人 有钱
+UI13FAZ_0104 705789 708320 EN mm
+UI13FAZ_0104 708320 712021 ZH 就 比较 现实 咯 你 有钱 就 看 得 起 你 咯
+UI13FAZ_0104 712021 713000 EN mm
+UI13FAZ_0104 713000 721321 CS 而且 他们 没有 说 你 order ah 你 坐下 来 吃 东西 啊 你 order ah 不能 想 的 leh 你 看 了 menu 你 就 要 叫 了
+UI13FAZ_0104 721321 731818 ZH 啊 没有 说 这个 是 什么 你 去 到 怡保 他 会 一样 一样 解释 给 你 听 这里 啊 有什么 什么 什么 这是 什么 东西 的 他 那边 没有 你 要 吃 就 吃
+UI13FAZ_0104 731818 733186 EN ah
+UI13FAZ_0104 733186 739165 CS 你 迟 了 一点 order hor 他 就 我 觉得 哦 你 你 想 好 才 叫 我
+UI13FAZ_0104 739165 751403 ZH 嗯 而且 他们 地方 是 蛮 窄 一下 的 没有 说 我们 啊 (呃) 可以 坐 一个 一个 地方 很 很大 可以 走 来 走 去 没有 的
+UI13FAZ_0104 751403 759969 EN mm
+UI13FAZ_0104 759969 767328 ZH 我 觉 的 最 特别 是 它 的 咖喱 鱼 蛋 还有 臭豆腐
+UI13FAZ_0104 767328 773000 ZH (呃) 特别 啊 味道 不同 咯 这里 吃 不到 的
+UI13FAZ_0104 773000 774489 EN mm
+UI13FAZ_0104 774489 785041 CS 它 没有 其实 哦 我 是 我 是 以为 啦 它 的 咖喱 鱼 蛋 好像 我们 t. v. b. 那些 连续剧 这样 啊 一个 档 口 在 路边 这样
+UI13FAZ_0104 785041 795731 CS 没有 的 我 找 了 很 久 我 找不到 then 只 是 找 到 是 有 一条 街 哦 那个 叫 什么 街 什么 女人 街 还是
+UI13FAZ_0104 795731 802330 ZH hmm 只 有 一 档 而已 而且 蛮 贵 啊 它 的
+UI13FAZ_0104 802330 808634 ZH ah 不是 不是 我 给 钱 的 那 时候 （ppl) 那 时候 他们 混 在 一起 喔
+UI13FAZ_0104 811967 820192 ZH 呃 没有  那时 没有 没有 去 到 那些
+UI13FAZ_0104 824063 834033 CS hmm okay 因为 那 时候 我们 也 是 蛮 赶 一下 的 那 时候 我们 有 去 disneyland 但是 没有 去 ocean park 没有
+UI13FAZ_0104 835994 842136 ZH 因为 那 时候 我们 有 带 我 的 小弟 弟 去 他 很 喜欢
+UI13FAZ_0104 842136 848413 ZH 其实 也 玩 不久 啦 只是 (呃) 半天 而已
+UI13FAZ_0104 854103 858962 ZH 噢 蛮 贵 的 那 时候 好像 三百 多 三百 多 磅 港币 好像 是
+UI13FAZ_0104 865426 877782 CS 那 时候 我们 有 选择 嘛 either either 是 ocean park 或者 是 disneyland mah then consider 到 我 的 小弟 弟 他 很 喜欢 那种 cartoon 这样 就 okay loh disneyland loh

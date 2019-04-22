@@ -1,0 +1,165 @@
+UI17FAZ_0101 4297 6026 ZH 拉曼 学院
+UI17FAZ_0101 9973 12701 CS (er) i. t. 的 subject loh
+UI17FAZ_0101 12907 14767 EN system analysis design
+UI17FAZ_0101 15043 16763 EN operating system
+UI17FAZ_0101 17175 20130 CS 了 还有 programming paper
+UI17FAZ_0101 23918 31249 ZH 第五年 不过 总共 是 教 四年 罢了 啦 四年半 这样 进入 第五年 咯
+UI17FAZ_0101 35281 38754 CS 一样 咯 system analysis design loh
+UI17FAZ_0101 45662 54555 CS 它的 syllabus 是 教 那个 s. d. l. c. 阿 system development life cycle 的 东西 咯 所以 means overall 那个 学生 呢 是
+UI17FAZ_0101 54813 57428 CS 要学 整个 software development 的 那个 process lah
+UI17FAZ_0101 57686 58736 ZH  所以
+UI17FAZ_0101 59011 63586 CS 而且 他们 要学 那些 calculation ah 那些 budget estimation
+UI17FAZ_0101 63844 73615 CS 了 还有 学画 diagram decision table decision tree 了 还有 学 那些 那些 testing 的 methods ah conversion methods ah 这样 咯
+UI17FAZ_0101 76646 78176 EN sorry
+UI17FAZ_0101 81772 83555 ZH 出去 做工 又会 咯
+UI17FAZ_0101 83776 85255 ZH 不过 我是 觉得
+UI17FAZ_0101 85616 89865 ZH 应该 读 高 一点点 啦 学的 东西 会 比较 深 一点 咯
+UI17FAZ_0101 90105 96899 CS 因为 so far 我们 provide 学生 的 syllabus even though 是 enough for 他们 出去 做工 啦
+UI17FAZ_0101 97140 103972 CS 不过 advance 他们 是学 u. m. l. 了 嘛 比较 advance 的嘛 他 so far 这边 是学 那些 d. f. t. diagram 罢了
+UI17FAZ_0101 109390 112250 CS 听说 多数 现在 是用 u. m. l.
+UI17FAZ_0101 115931 117548 EN  
+UI17FAZ_0101 121745 134375 CS en actually 有 propose 过啦 不过 他们 讲 originally 那个 u. m. l. 已经 在 advance diploma 的 那个 syllabus 了 就是 说 假如 是 你 diploma 要学 u. m. l. advance 要学 u. m. l. 就是 说 something like
+UI17FAZ_0101 134771 145898 CS 就是 重复 那个 syllabus了嘛 而且 secondly 是讲 不要 overlook 的学 那些 学生啦 因为 那些 进来 读 diploma 的 通常 都是 form five 直接 进来 i. t. 又 没有 什么 底啊
+UI17FAZ_0101 146070 149734 CS 所以 他们 basically 他们 是 认为 说你 在 那个
+UI17FAZ_0101 149958 160348 CS diploma 先给 他们 打 一个 底哦 了 so that 他们 上 那个 advance 的 时候 才 跟着 上哦 不然 你 直接 直接 教 他们 那些 u. m. l. 在 那个 diploma 可能 会 怕 跟不上啊
+UI17FAZ_0101 160520 164459 CS 因为 u. m. l. 又 不是 很~ 很 容易喔 十三个 diagram 要学 
+UI17FAZ_0101 164459 168268 EN 
+UI17FAZ_0101 168268 171904 CS diploma 呢 学的 东西 会 比较
+UI17FAZ_0101 172196 174982 CS so called 比较 basic loh
+UI17FAZ_0101 175361 182803 CS 定了 for advance 我 不是 很懂 它的 那个 syllabus lah 因为 我们 没有 教 嘛 它 而且 advance 是在 k. l. 才有 罢了
+UI17FAZ_0101 183044 192031 CS 不过 呢 so far 听 那些 ex-student 的 feedback lah 就是 他们 有些 从 k. l. 回来 的呢 他们 是 讲说 会 比较 难 一点点 咯 就是
+UI17FAZ_0101 192289 195000 ZH 比 就是 之前 你有 学过 的 东西 再
+UI17FAZ_0101 195241 205440 CS 再 更~ 更上 一层楼 这样 咯 比较 难 咯 比较 higher level 去啦 for one same topic lah 去学 比较 深~ 深 一点 的 东西 咯 i mean for one same topic 学 深奥 一点 的 东西 咯
+UI17FAZ_0101 207124 210790 EN    
+UI17FAZ_0101 210790 211937 EN (er)
+UI17FAZ_0101 212195 218611 CS 不同 不同 咯 不同 course 不同 啦 好像 for 我們 i. t. 是 at least (er) five credits and above loh
+UI17FAZ_0101 218989 225360 CS but 假如 是 那些 学生 是 mean maybe four credits three credits 呢 他们 就 要 先进 certificate level
+UI17FAZ_0101 226007 235531 CS 了 读 一年 的 那个 certificate level 才 上去 读 那个 diploma 两年 现在 是 两年 两年 又 四个月 啊 七个 学期
+UI17FAZ_0101 235926 242634 CS 因为  他们 讲 三个 四个 credits 的 学生 会 比较 差 嘛 所以 先给 他们 像 那个
+UI17FAZ_0101 242824 250092 CS peralihan 这样啊 打 一个 基础 给 他们 先 了 给 他们 的 english 也 比较 好 才能 上去 diploma 不然 怕 跟不上 啊
+UI17FAZ_0101 250298 256611 CS so far less than three credits 的 是 不能 进来 了 啊 这个 是 最新 的 那个 requirement lah 
+UI17FAZ_0101 263783 267599 CS s. p. m. 可以 进 咯 even s. t. p. m. 也 可以 进咯
+UI17FAZ_0101 267879 272572 CS 不过 s. t. p. 呢他们 通常 是 直接 进 diploma 了咯 没有 credit 了咯
+UI17FAZ_0101 272902 281779 CS for s. p. m. 你 就要 看 它的 那个 credit loh  那个 那个 subject credits loh 假如 是 three four credits 呢 就 先进 credit loh
+UI17FAZ_0101 282224 286591 CS 那是 你 假如 是 你是 five credits and above 呢 就 可以 直接 进 diploma loh
+UI17FAZ_0101 293137 294222 EN (er)
+UI17FAZ_0101 294446 295804 CS 学 programming
+UI17FAZ_0101 296286 299501 CS 啊 你 要讲 diploma 我们 有 很多 个 不同 的 diploma 的喔
+UI17FAZ_0101 299776 304524 CS 它有 information system engineering  它 又有 business information system
+UI17FAZ_0101 304903 306864 EN computer science and computer mathematic
+UI17FAZ_0101 307053 310132 CS 还有 一个 是 computer science and mathematic management
+UI17FAZ_0101 310321 311938 CS 了 还有 一个 是 i. t.
+UI17FAZ_0101 312196 313898 ZH 不一样 到 完的 所以
+UI17FAZ_0101 314122 319535 CS 大致上 它们 有 一些 sharing common paper lah 就是 说 programming ah 一定 要 学咯
+UI17FAZ_0101 319724 325676 CS 不过 好像 假如 假如 我们 我们 let's say 讲 嗯嗯 information system 跟 那个 info i. t. 的 学生
+UI17FAZ_0101 325848 329308 CS 他们 学的 programming language 又 不 一样 咯 他们 只 学
+UI17FAZ_0101 329632 331545 CS 第一年 一定 是 学 c. 的
+UI17FAZ_0101 332247 339816 CS 打 一个 基础 给 他们 那个 concept loh 第二年 就是 进 他们 的 那个 so called 他们 的 比较 那个 他们 的 field lah
+UI17FAZ_0101 339988 344265 CS 所以 好像 information system engineering 呢 他们 会 go further in java loh
+UI17FAZ_0101 344402 345039 EN 
+UI17FAZ_0101 345211 350921 CS for 那个 i. t. 的 学生 呢 他们 会 go further in (er) c. sharp ah asp.net 那些 language loh
+UI17FAZ_0101 351626 359573 CS 了 for computer science 呢 他们 就是 学啊 java loh 也是 学 java loh  所以 看 他们 是 什么 course lah
+UI17FAZ_0101 359728 364157 CS 不过 overlay leh 他们 programming 一定 学咯 network paper 也 一定 拿咯
+UI17FAZ_0101 364398 372622 CS 然后 而且 数学 啊 那些 因为 我们 又是 half government subsidize ah 所以 那些 ramadan islam ah moral ah 全部 都有 到完咯
+UI17FAZ_0101 376355 377420 EN  
+UI17FAZ_0101 378103 381482 ZH 两年 四个月 七个 学期
+UI17FAZ_0101 383382 385654 EN in q. a. requirement
+UI17FAZ_0101 391397 394957 CS yes 因为 这个 是 政府 要的
+UI17FAZ_0101 395542 404986 CS actually 以前 是 两年 罢了 就是 six semester ah but comes to now 一定 要两年 七个月 咯 因为 我们 申请 着 那个 m. q. a. 的 qualification mah
+UI17FAZ_0101 405141 407308 ZH 一定 要 两年 七个月 没办法 咯
+UI17FAZ_0101 407859 409888 ZH 我们 也 不想
+UI17FAZ_0101 414943 416749 EN s. t. p. m.
+UI17FAZ_0101 417454 420103 CS degree 我们 这边 是 没有 offer degree loh
+UI17FAZ_0101 420344 424613 CS 你 要 的话 你 也是 要 go through diploma advance 才 degree loh
+UI17FAZ_0101 425126 434092 CS 因为 我们 不是 university mah 所以 他们 是 (er) for advance diploma 的 学生 while they are taking 那个 advance diploma 的 时候 他们 也
+UI17FAZ_0101 434419 441203 CS 它有 两个 way loh 一个 就是 你 考完 advance 了 你去 外国 三~啊 sorry 你去 英国 三个月
+UI17FAZ_0101 441505 445284 CS 就是 那个 summer holiday 的 那个 三个月 咯 finished 了 degree loh
+UI17FAZ_0101 445473 450970 CS 或者 是你 while taking advance 的 时候 你 也 taking external paper
+UI17FAZ_0101 451442 454418 CS  那个 是 american paper i think
+UI17FAZ_0101 454865 459148 CS 所以 它是 有 两个 不同 的 route lah 看 学生 要选 哪 一个咯
+UI17FAZ_0101 460868 462161 ZH 不能
+UI17FAZ_0101 463528 469308 CS 啊 不能 除非 是 有些 学生 是 觉得 太 麻烦 的 他们 直接 进 u. t. a. r. loh
+UI17FAZ_0101 469807 473126 CS 就是 哈 直接 进 u. t. a. r. loh 就是 可以 直接 进 啦
+UI17FAZ_0101 473333 473849 EN 
+UI17FAZ_0101 474107 482655 CS 不过 for s. t. p. m. 的 学生 我 自己 是 觉得 他们 有些 好像 听说 啦 好像 是 直接 没有 来拿 diploma 了 直接 先进 u. t. a. r. 拿 degree 了 loh
+UI17FAZ_0101 483586 484913 EN  
+UI17FAZ_0101 493699 496091 ZH 其实 有 成绩 好 的 人 进来 的
+UI17FAZ_0101 498620 501132 ZH 哈 是咯 而且
+UI17FAZ_0101 501476 506344 CS 不过 他的 advance according to 我们 college management 呐 哈
+UI17FAZ_0101 506533 510919 CS 我们 的 advance leh hor 他讲 (er) is equivalent to
+UI17FAZ_0101 511194 520479 CS degree level 的 那些 syllabus 我~ 我 也 知道 不过 问题 是 有些人 讲 不过 我 拿 出来 我是 写着 一张 certificent 写着 advance diploma mah
+UI17FAZ_0101 520787 526919 CS 然后 有些 人 所以 他们 就 讲说 因为 他们 讲 我们 不可以 offer degree 因~ 因为 我们 是 college
+UI17FAZ_0101 527099 534203 CS 所以 变成 它 就 做 像 那种 training program 这样咯 就是 either 你 学生 在 拿着 advance 的 时候 在 考着 那个 
+UI17FAZ_0101 534392 541573 CS 嗯 那个 degree loh 或者 是你 考完 advance 了 你再 飞去 英国 三个月 才~ 才拿 degree loh
+UI17FAZ_0101 544194 546294 ZH 那个 我就 不懂 
+UI17FAZ_0101 546930 552417 CS 他们 的 那个  collaboration 的 那个 合作 关系 是 那 一间 大学啦
+UI17FAZ_0101 558214 561061 CS 那个 是 就 depend on 学生 喏
+UI17FAZ_0101 561548 569600 CS 因为 学生 他们 拿完 diploma 他们 even 有些 学生 连 u. t. a. r. 都 不去 的 去 segi 拿 一年 的 degree 就 拿 就 出来了
+UI17FAZ_0101 569908 573538 CS 有些 呢 又 跑去 inti 拿 那个 degree
+UI17FAZ_0101 573538 574259 EN 
+UI17FAZ_0101 574259 576998 CS 就 depend on 学生啦 看 他们 要去 哪 一间啦
+UI17FAZ_0101 577200 578606 CS 不过 so far
+UI17FAZ_0101 578938 587265 CS 我们 是 讲说 因为 我们 是 college ah 不 可以 offer any degree lah the highest level 我们 能够 offer 就是 advance loh
+UI17FAZ_0101 587265 589580 EN   
+UI17FAZ_0101 592909 594799 ZH 啊有 有 有 我有 听过
+UI17FAZ_0101 595040 597608 CS 有 很少 啦 很少 case lah
+UI17FAZ_0101 597792 600932 CS so far 听过 三四个 case 进 u. s. m. 罢了
+UI17FAZ_0101 602849 606442 ZH 剩下 的 因为 有些 他们 是
+UI17FAZ_0101 606442 607137 EN 
+UI17FAZ_0101 607137 614374 CS 怎样 讲 啊 有些 是 不知道 有些 是 已经 知道 的 时候 可能 那个 application 的 那 一个 deadline 已经 过了
+UI17FAZ_0101 614564 622468 CS then 你 application deadline 过 又要 等到 另一年 已经 浪费 一年 去了 嘛 所以 有些 是 就 这样 算了咯 就去 别间 读 咯
+UI17FAZ_0101 631545 632784 EN en
+UI17FAZ_0101 633162 635002 ZH 我 觉得 他们
+UI17FAZ_0101 635209 636705 ZH 分成 两种 咯
+UI17FAZ_0101 637015 642647 ZH 一种 就 出来 做工 直接 咯 因为 他们 有些 是  成绩 真的 很差
+UI17FAZ_0101 642991 644264 ZH 很难 跟上
+UI17FAZ_0101 644453 648836 CS 了 他们 也算 是 很 struggling 那 一种 读完 去 那 一种 啊
+UI17FAZ_0101 649008 653601 CS 好不容易 拿到 一个 diploma 他们 觉得 就是 很 不错 那 一种 了 啊 就 跑去 做工 了
+UI17FAZ_0101 653893 657665 ZH 因为 他们 讲 真的 啦 不是 每 一个人 是 读书 的 料子 嘛
+UI17FAZ_0101 657665 658996 EN 
+UI17FAZ_0101 658996 660108 ZH 所以
+UI17FAZ_0101 660675 666800 ZH 然后 另一种 呢 就是 他们 成绩 会 比较 好 咯 成绩 比较 好 他们 就 继续 去 读咯
+UI17FAZ_0101 667246 676246 CS 不过 你 虽然 是 讲说 我们 offering 那个 advance 不过 还是 有 三分二 的 学生 会跑 去 k. l. 继续 读完 他们的 level in advance 和 degree lah
+UI17FAZ_0101 678169 688428 CS 然后 还有 另一种 呢 的 学生 是 failed 太多了 failed 到 十多张 paper 那一种的 就 浪费 那个 diploma 两年 直接 withdraw
+UI17FAZ_0101 688652 691576 ZH 就是 不要 读 咯 也 算是 不了了之 咯
+UI17FAZ_0101 691576 693338 EN   
+UI17FAZ_0101 700211 702913 EN en depend loh actually
+UI17FAZ_0101 704048 706807 ZH 放弃 的 是 很少 啦
+UI17FAZ_0101 707179 713426 CS let's say 我们 讲 我们 有 一百 九十个 学生 for one i. t. course lah hor
+UI17FAZ_0101 713680 716457 ZH 可能 会有 十个 到 二十个 这样 啦
+UI17FAZ_0101 716457 717361 EN 
+UI17FAZ_0101 717361 721231 ZH 剩下 的 他们 有些 是 没有 放弃 不过 只是 说 有时候
+UI17FAZ_0101 721489 728987 CS 因为 他们 读完 diploma 过后 他们 还有 另外 extra 的 两年 给 他们 继续 finish their clear their paper 那一种 嘛
+UI17FAZ_0101 729142 735145 CS 问题 是 有些人 已经 到 那个 deadline 了 还 clear 不完的 话 就 也 算是 failed out loh
+UI17FAZ_0101 735884 738929 EN    
+UI17FAZ_0101 738929 743906 CS 他们 我们 讲 旧的 课程 啦 哈 旧的 课程 是 读 两年 diploma mah
+UI17FAZ_0101 744046 753403 CS 然后 你 毕业 过后 啊 也 不算 是 毕业 啦 就说 假如 你 还有 remaining failed paper 他们 就 给你 extra 的 两年 来 clear 掉 你 那个 remaining failed paper loh
+UI17FAZ_0101 753575 754314 ZH 所以
+UI17FAZ_0101 754762 759991 CS the maximum number of years you can take to (er) clear 那个 paper 是 另外 两年咯
+UI17FAZ_0101 760145 765734 CS 所以 有些 学生 是 到 另外 两年 他们 还是 一直 failed 一直 failed failed 到 最后 那个 学期
+UI17FAZ_0101 765906 767524 CS 最后 也算 failed out lah
+UI17FAZ_0101 769380 770992 ZH hor 有
+UI17FAZ_0101 771410 774376 ZH 有～ 有 一个 有些 更 可怜 剩 一张 罢了
+UI17FAZ_0101 774867 776209 EN 
+UI17FAZ_0101 779752 788585 CS en so far programmer a support loh 我有 听过 support ah database administrator 也有 啦
+UI17FAZ_0101 789018 796836 ZH 剩下的 因为 不大 听 有些 有些 有 遇到 的 就问 咯 没有 遇到 的 就 不大 懂咯 不过 通常 是 听到 这 几个 啦
+UI17FAZ_0101 799631 800641 EN 
+UI17FAZ_0101 802469 806429 EN c. oh c. programming software engineering
+UI17FAZ_0101 807228 809329 EN (er) marketing
+UI17FAZ_0101 810016 812883 CS not really marketing lah 它是 m. i. s. lah
+UI17FAZ_0101 813179 823018 CS 就是 the usage of (er) computer and (er) i. t. in technology in 那个 marketing field 所以 它 它 那张 paper 是 combination of (er) i. t. 和 一些 marketing 的 knowledge loh
+UI17FAZ_0101 823327 827457 CS 了 那些 final project ah 这样咯
+UI17FAZ_0101 829920 831099 EN 
+UI17FAZ_0101 837520 841492 CS 分别 没有 什么 分别 啦 actually
+UI17FAZ_0101 841942 845571 CS 只是 有时候 我们 lecturer 会 feedback 就是
+UI17FAZ_0101 845743 850609 CS diploma 学 生的 那一个 syllabus 有 一点点 难
+UI17FAZ_0101 850954 857502 CS 因为 我 记得 以前 我 有时候 有些 啊 degree first year or even second year 才 动到 那一个 topic ah
+UI17FAZ_0101 857708 861709 CS 他们 在 diploma second year 就 读到 那些 东西 了
+UI17FAZ_0101 862185 865277 CS 而且 学生 有~ 有时候 觉得 有点 overload loh
+UI17FAZ_0101 865277 866966 EN 
+UI17FAZ_0101 866966 868050 ZH 就是 说
+UI17FAZ_0101 868239 873485 CS 因为 你要 明白 哦 进来 读书 的 学生 都 不是 十个 a. 十一个 a. 的 那些 学生的哦
+UI17FAZ_0101 873657 882100 CS 剩下 的 是啊 两三个 a. 或者 是 有些 甚至 啊hor credit credit 刚刚好啊 passed 的 那种 那种 level 的 学生 进来 啊
+UI17FAZ_0101 882323 888453 CS 也不是 说 看不起 他们 啦 就是 他们 比较差 那一种 啊 然后 又 加上 自己的 attitude 又 比较 懒惰 啊
+UI17FAZ_0101 888643 895583 CS 然后 我们 又 放到 那一种 syllabus 这样 难的 给 他们 他们 有 确实 有时候 是会 有点 跟不上啦
+UI17FAZ_0101 895764 903359 CS 不过 问题 是 假如 你 放到 太 简单的 syllabus 呢 真的 要让 那些 学生 出去 之后 毕业 出去 做工 的话 又 好像 又 没有

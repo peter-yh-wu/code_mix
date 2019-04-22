@@ -1,0 +1,78 @@
+UI28FAZ_0105 941 3754 CS 就从 又 south 跑到 north 这样
+UI28FAZ_0105 3754 6501 ZH 哦 一个 小时 多 罢了
+UI28FAZ_0105 6501 11369 CS 不过 我们 没有 stop lah 我们 就 around 这样子 驾着 好像
+UI28FAZ_0105 11369 13128 ZH yao che hao 这样
+UI28FAZ_0105 13128 16419 CS 就 这 样子 等着 它 因为 我们 的 那个 fach~
+UI28FAZ_0105 16419 19315 CS 那个 hotel four season hotel 在 north park ah
+UI28FAZ_0105 19315 23955 CS 然后 我们 刚好 要去 pantai cenang pantai cenang 是在 south park
+UI28FAZ_0105 23955 26369 ZH 然后 就 <unk>
+UI28FAZ_0105 26369 29739 CS 就 全部 那边 是 最热闹 的 地方 在 aquarium 那边
+UI28FAZ_0105 29739 32748 ZH 好像 就从 sabah 那 走 走 走 走 走 走 走 走到上边
+UI28FAZ_0105 36502 37165 ZH 啊 也有
+UI28FAZ_0105 38933 41536 ZH 不是 我们 年轻人 想要 去 看的 地方 哦
+UI28FAZ_0105 43000 47356 CS 除非 你是 很爱 history ah 很想 懂 这些 东西
+UI28FAZ_0105 48660 56185 ZH 哦 那个 我 没有 去 没有 兴趣
+UI28FAZ_0105 56185 64891 CS 去它 pantai loh 去看 cable car loh 然后 以前 很多 人 去 过岛 吗 可能 一般人 过岛 就 比较 爽 啦
+UI28FAZ_0105 64891 67165 ZH 其实 一般人 玩水
+UI28FAZ_0105 67165 71261 ZH 过岛 就 一起 游泳 一起 玩水 咯
+UI28FAZ_0105 71261 75707 ZH 这样子 就爽了 不懂 人多 就 热闹 就 爽了 啊 然后 就玩
+UI28FAZ_0105 77864 79874 EN eagle bay hotel
+UI28FAZ_0105 79874 81281 ZH 不是
+UI28FAZ_0105 81281 84499 CS eh 这个 不懂 嘞 应该是 national park 吧 bird park
+UI28FAZ_0105 92766 98469 ZH 像 老鹰 过岛 也是 有的 看 的啦 （ppo) 没 什么 特别
+UI28FAZ_0105 98469 104223 CS 爽的是 可以 靠近 那个 crocodile 那边 有 一个 waterfall 很高 的
+UI28FAZ_0105 104223 107012 CS 好像 等 pocahontus 从 高高 啊 跳下 那个 waterfall
+UI28FAZ_0105 107012 111523 ZH 可是 你要 遇到 涨潮 才有水 退潮 没有 水的
+UI28FAZ_0105 111523 113441 ZH 好像 水龙头 这样 滴 滴 滴 滴 滴
+UI28FAZ_0105 116522 120990 CS 我 不懂 啊 他们 讲 涨潮 才有水 因为 我 去 过 两次 了 那个 waterfall
+UI28FAZ_0105 120990 124135 CS 第一次 去 还好 有水 很大 的 waterfall
+UI28FAZ_0105 124135 128022 CS 就 好像 natural 帮你 massage 这样 咯 很高 很高 这样子 打下来
+UI28FAZ_0105 128022 131296 ZH 然后 打在 这边 我 也 不敢 睡 太 中间 太 大力 了
+UI28FAZ_0105 131296 133155 ZH 那样要 打扁 我了
+UI28FAZ_0105 133155 137083 CS 啊 然后 我就 站在 它 旁边 的 waterfall 这样子 冲 一点 一点
+UI28FAZ_0105 137083 140347 CS 然后 男的 就敢 啊 因为 他们 大只 嘛 brandon 他们
+UI28FAZ_0105 140347 141539 CS chu li 的 coursemate
+UI28FAZ_0105 142301 145002 ZH 啊 然后 另外 一次 我 去 的时候
+UI28FAZ_0105 145002 152630 CS 好像 水龙头 的 水 这样 下来 bit water 这样 下- then then 打的- 打上去 都 没有 感觉
+UI28FAZ_0105 152630 153914 ZH 又很 失望
+UI28FAZ_0105 154439 157605 CS ha 所以 那时侯 就没有 下水 玩 就 就去 crocodile farm
+UI28FAZ_0105 157605 163163 CS crocodile farm 也不要 去 eh 全部 crocodile cacat 的 不是 一半 身体 就是 没有 尾巴
+UI28FAZ_0105 165490 166679 CS 哦 还 还- alive
+UI28FAZ_0105 168249 169708 ZH 看得 很 cacat 的
+UI28FAZ_0105 169708 171801 ZH 所以 就不要 去 啊 省起来
+UI28FAZ_0105 173125 175863 CS 要啦 你不用 你不用 ticket 进去 啊
+UI28FAZ_0105 175863 184527 CS 这 这 等 等 不好 开 动 起来 去 省钱 aquarium 也 不用 去啊 他们 讲 要去 aquarium 不如 去 k. l. c. c. aquarium 看
+UI28FAZ_0105 184527 189083 ZH 也许 啊 你 好奇 的话 你可以 去看咯 有一些 新的 海马 啊
+UI28FAZ_0105 189083 193045 ZH 唉 小小的 海马 还是 什么
+UI28FAZ_0105 193045 195356 CS 可是 k. l. c. c. 都 很多 啦
+UI28FAZ_0105 195356 205211 CS 那个 aquarium 有 很多 没有 去 如果 再去 的话 值得 玩的 是 他的 pantai parachute banana boat 这些 吧 就是 玩 这些 嘛
+UI28FAZ_0105 205211 209095 CS 然后 过岛 的时候 过岛 有的 那个 natural fish spa
+UI28FAZ_0105 209095 211065 ZH 你把 那脚 震在 那边
+UI28FAZ_0105 211065 214608 CS 那 fish 会来 咬掉 你的 dead skin
+UI28FAZ_0105 214608 220856 CS neh 普通 beauty salon 有的 啊 可是 langkawi 那边 有 你 不用 给钱 喔 因为 你 过岛 了嘛
+UI28FAZ_0105 220856 222113 ZH 更好
+UI28FAZ_0105 222113 228721 CS 而且 你要 想 一下 在 salon hor beauty salon 它的水 也许 用 普通 water
+UI28FAZ_0105 228721 232559 CS 如果 你在 那边 过岛 的 水 也许 它 应该 还有 flow ah
+UI28FAZ_0105 232559 238520 CS 也许 你的 脚 就是 真的 肮脏 那个 他的 flow flow 掉啦 那个 那个 你 震 下去 不会 这样 肮脏
+UI28FAZ_0105 238520 243115 CS beauty salon 我就 不 觉得 很好 啦 因为 它 都是 在 一个 桶 这样 的 water 里面
+UI28FAZ_0105 243115 247837 ZH 你 肮脏了 它 也 没有 讲 换过 新的 水 什么 水
+UI28FAZ_0105 247837 255635 CS 所以 要 要玩 这些 beauty spa 就 prevent 那些 allergic ah 什么 事情 发生 最好是 去 langkawi 好像
+UI28FAZ_0105 255635 257963 CS ha natural 比较 好
+UI28FAZ_0105 257963 263471 CS 不然 那个 你看 newspaper 的 case ah 讲什么 natural fish spa 就弄到 他allergic 什么
+UI28FAZ_0105 263471 267038 CS 不过 你要 想一下 啦 自己 logically 想一下 它 都 没有
+UI28FAZ_0105 267038 269651 CS waterflow 这样子 当然 是 会 很 肮脏 了
+UI28FAZ_0105 269651 273375 CS 他的鱼 永远 都在 那个 pond 吃 那个 pond 的 东西
+UI28FAZ_0105 273375 280739 CS 它 拉 也在 那边  还 expect 那个 鱼 是 健康 好了 嘞 它的 牙齿 没有 什么 的 嘞
+UI28FAZ_0105 281724 283753 CS 啊 咯 所以要 就去 natural lor
+UI28FAZ_0105 284801 286198 CS 要去 那边 玩 kayak
+UI28FAZ_0105 287205 291785 ZH 要去 那边 玩 这些 咯 水果 大师 如果 没有 去过 langkawi 过岛 就 比较 好咯
+UI28FAZ_0105 295282 296660 ZH 不要紧 的
+UI28FAZ_0105 302545 306321 ZH 给我 玩 完 pulau kunang 才 讲 啦 
+UI28FAZ_0105 310354 315769 CS 没有 咯 因为 budget 问题 有钱 的话 又想 存起来
+UI28FAZ_0105 315769 320507 ZH 存到 够了 真的是 一比 多有钱 才会 想到 出国 咯
+UI28FAZ_0105 323652 326659 ZH 我 想要 去啊 我 想去 台湾 eh
+UI28FAZ_0105 326659 328818 ZH 我 想去 吃 美食
+UI28FAZ_0105 328818 332244 ZH 啊 吃 比较 重要 嘛 趁你 年轻 的 时侯
+UI28FAZ_0105 332244 337197 CS 吃到完 high cholesterol 的 东西 吃到 fats 的东西 eh fats 我 不吃的
+UI28FAZ_0105 337197 343327 CS 甜品 啊 吃到完 先 啦 okay 老 的 时候 没有 的吃 的 时候 也 不会 看在 那边 流口水
+UI28FAZ_0105 343327 346156 CS okay 我要去 台湾 吃 东西

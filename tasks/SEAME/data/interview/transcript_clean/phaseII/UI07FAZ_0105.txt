@@ -1,0 +1,200 @@
+UI07FAZ_0105 0 1306 ZH 的 东西 啊 因为 冷
+UI07FAZ_0105 1933 6828 CS 所以 这边 你 不能 吃 这样 rich 的 你 吃 到 cheese 多 一点 你 就 想 吐 了
+UI07FAZ_0105 6828 16016 CS 啊 那边 冷 然后 那种 cookies ah 街上 卖 的 哇 很 香 很 香 的 cookies 这边 的 famous amos 你 吃 一点 了 过后 你 就 觉得 喉咙 要 痛 了
+UI07FAZ_0105 16016 19869 ZH  哇 那边 每天 就 挖 一粒 来 吃 哇 好
+UI07FAZ_0105 20674 25634 CS 这样 咯 东西 都是 (啊) 而且 很多 他们 都是 walking oh 因为 天气 的 事情
+UI07FAZ_0105 26205 29551 CS 我 觉得 malaysia 的 人 比较 少 walking 是 因为 太 热 了
+UI07FAZ_0105 30097 34887 CS 哈 可是 热 你 你 讲 bangkok 他们 的 又 可以 走路 哦 只有 我们 的 不要 走 罢了
+UI07FAZ_0105 35446 38225 ZH 不过 真的 是 很 热 啦 你 叫 我 去 走 我 也 不要 走
+UI07FAZ_0105 39445 43726 CS 很 热 所以 然后 transportation 他们的 bus
+UI07FAZ_0105 44454 49725 CS 是 很 friendly 的 啦 他们 整个 整个 nation new zealand 都 是 很 friendly 的
+UI07FAZ_0105 50842 56619 CS 然后 你 今天 提 他 会 跟 你 讲 how are you 这样 不 认识 的 也 会 跟 你 打招呼
+UI07FAZ_0105 56619 61375 CS 然后 他们 宿舍 吗 楼下 是 (啊) 他们 那边 很 流行 red cross 的
+UI07FAZ_0105 62102 65904 ZH 所以 他 就 会 有 免费 的 菜 给 你 这样 整 桶 这样
+UI07FAZ_0105 65904 70798 CS 所以 你 就 煮 来 吃 咯 然后 有 他们 有 中餐 中餐 是 student
+UI07FAZ_0105 71447 80632 CS 多 去 的 他 好像 (啧) 有 一个 小小的 店 这样 啦 so 他 是 卖 那些 (啊) 我们 这边 的 economy rice
+UI07FAZ_0105 80632 87881 CS 啊 所以 他 就有 有 那个 (啊) 各种 菜 给 你 选 这样 咯 不过 他 portion 也 是 很大 啦
+UI07FAZ_0105 87881 93984 CS 几 块 钱 咯 像 我们 这边 的 economy rice but 他 应该 是 purposely cater for asian 这样 啊
+UI07FAZ_0105 94919 96936 CS 也 是 asian 的 人 在 做 咯
+UI07FAZ_0105 97352 99170 CS 很多 asian 的 人 在 那边
+UI07FAZ_0105 100338 103013 CS 所以 只要 asian 多 了 就有 asian food 这样 咯
+UI07FAZ_0105 103506 106882 ZH  然后 有 一个 区 只 专门 印度 人 住 这样的
+UI07FAZ_0105 107505 111635 CS 没有 了 不过 那种 是 比较 educated 的 印度 人 哪
+UI07FAZ_0105 112751 115847 ZH 就 好像 我们 华人 去 到 一个 地方 就有 唐人街
+UI07FAZ_0105 116370 118344 ZH 啊 这样 的 一样 的 情形 喏
+UI07FAZ_0105 119180 125460 CS so 还算 好 啦 因为 new zealand 排华 那些 不会 很 严重
+UI07FAZ_0105 126576 129017 CS australia 有些 地方 就 比较 严重
+UI07FAZ_0105 130108 135752 CS 所以 他们 算是 很 friendly 的 可是 你 要 有 礼貌 啦
+UI07FAZ_0105 135752 142162 CS what i learn is 你 去 到 人家 国家 你 不要 bring 你 的 不好 的 习惯 去
+UI07FAZ_0105 142162 148150 CS 因为 我 有 看过 asian 在 那边 吐 痰 然后 那个 ang-mo 就 骂 他们 
+UI07FAZ_0105 148566 157057 CS  他们 是 这样 的 有 东西 不对 他 就 很 很 brave 这样 i mean they they stand for the justice ah
+UI07FAZ_0105 157473 162199 ZH 对 的 他们 就 会 赞扬 不对 的 他们 会 讲 这样 咯
+UI07FAZ_0105 163160 168042 CS 啊 对 真的 而且 是 整个 society 的 问题 来 的
+UI07FAZ_0105 168536 172077 CS 好像 我们 hor 会 我 有 一个 朋友 曾经 去 phuket
+UI07FAZ_0105 172597 176125 ZH 然后 他 在 那个 浅水 的 滩 那边
+UI07FAZ_0105 176125 181992 CS 他们 有 那个 (啊) 珊瑚 啊 coral dead dead coral 罢了 啦 不过
+UI07FAZ_0105 181992 184101 CS 然后 他 就 去 捡 那个 dead coral
+UI07FAZ_0105 184542 192049 CS 不过 那 ang-mo 就 会 骂 他 他 讲 说 you you are here to enjoy and not to bring back anything
+UI07FAZ_0105 192049 196858 CS 然后 even though 它 是 dead 的 coral 他 也是 讲 你 最好 什么 都 不要 带 出
+UI07FAZ_0105 197948 201376 ZH 这样 咯 然后 华人 是 不管 的 嘛
+UI07FAZ_0105 202399 209011 CS  整个 society 而且 好像 你 教 到 死 诶 不要 吐 痰 不要 吐 痰 也是 这样 咯
+UI07FAZ_0105 209250 212906 ZH 所以 去 到 人家 的 国家 的 时候 就 给 人家 骂 哦
+UI07FAZ_0105 212906 218479 ZH  对 吗 因为 (啧) 我们 没有 这种 公民 意识 啊
+UI07FAZ_0105 218753 223059 CS 哈 很 巧* 这些 东西 都是 a manners hah
+UI07FAZ_0105 223414 226258 ZH 你 自己 顾 自己 这样 啦 要不然 这些 垃圾 这样 多
+UI07FAZ_0105 227141 232186 ZH 没有 你 没有 找到 老鼠 没有 找到 蟑螂 不过 他们 修 马路 的 都 很 帅 的
+UI07FAZ_0105 232186 236236 CS  真的 倒 垃圾 都 很 handsome 这样 哦
+UI07FAZ_0105 236236 238835 CS  因为 ang-mo 很 handsome ah
+UI07FAZ_0105 239510 244245 CS  真的 我 看 修 马路 的 在 那边 修 马路 那样 muscle 这样 大 粒
+UI07FAZ_0105 244947 247621 ZH 天气 凉 hor 什么 看起来 都 很 美 这样 咯
+UI07FAZ_0105 248219 255407 CS  这边 天气 热 的 时候 就-  对 对 看 了 就 肮脏 这样 咯 
+UI07FAZ_0105 257153 262123 ZH (啊) 日本 咯 (嗯) 日本 是 两年 前 吧
+UI07FAZ_0105 263058 272147 CS 两年 前 (啊) 日本 是 under 之前 那个 osaka osaka university 大阪
+UI07FAZ_0105 274146 277948 ZH 他们 也 很 奇怪 啦 可能 他们 钱 太 多 没有 地方 丢 这样 啦
+UI07FAZ_0105 277948 284067 CS 然后 他们 就 来 这边 (啊) 招 不是 招生 sort of student exchange 这样 啦
+UI07FAZ_0105 284067 289024 CS 不过 他 又 不是 exchange oh 他 只是 invite 你 过去 one week 这样 罢了 啦
+UI07FAZ_0105 289024 294674 CS 跟 他 的 (啊) lab members 他们 是 做 research 的 那一 个 lab lah lab members 交流
+UI07FAZ_0105 294674 301123 CS and then 去 (啊) 其实 是 因为 他 很 内向
+UI07FAZ_0105 301668 305434 CS 当时 是 因为 那个 有 其中 一个 lab member 很 内向
+UI07FAZ_0105 305689 313702 CS 所以 他 lecturer 就 希望 我们 过去 好像 可以 跟 他 交谈 让 他 知道 (啊) apart from japan
+UI07FAZ_0105 313702 316416 CS what is there outside the world 这样 啦
+UI07FAZ_0105 316416 319169 CS 他们 会 有 这样 的 问题 啦 japanese lah
+UI07FAZ_0105 319948 324440 ZH 这样 咯 所以 就 邀请 我们 去 好像 一个 文化 交流 这样 咯
+UI07FAZ_0105 325947 333010 CS 啊 one week only but 他们 pay all the expenses lah including air ticket accommodation everything lah
+UI07FAZ_0105 333010 337494 CS and then after that 我 extend 多 one week because 我 的 sister 在 那边
+UI07FAZ_0105 338663 343519 CS 我 的 sister married 了 一个 japanese 所以 就 住 在 那边 了 了
+UI07FAZ_0105 344459 353102 ZH 哈 不过 当时 的 时候 就会 很 羡慕 这样 不过 现在 就 觉得 其实 如果 我 是 她 的话 我 会 觉得 很 辛苦 咯
+UI07FAZ_0105 353102 357442 CS 因为 当时 我 sister 过去 的 时候 她 的 japanese 不是 很好
+UI07FAZ_0105 358169 363674 CS 所以 你 要 去 那边 learn 的 而且 japanese 你 learn 了 要 考试 又 level one two three four 这样
+UI07FAZ_0105 364003 368182 ZH 哈 所以 考 了 很 久 啦 差不多 一 两年 这样 才 考 到 完 全部
+UI07FAZ_0105 369102 377420 CS  <unk> 然后 她 又 她 的 (啊) parents in law 又 不会 不大 会 english
+UI07FAZ_0105 378693 381007 ZH 所以 就 很 辛苦 这样 咯
+UI07FAZ_0105 381007 383280 ZH 不过 我 也 不知道 为什么 她 要 过去 啊
+UI07FAZ_0105 383943 390636 CS maybe 她 的- but the husband is actually  they met in indonesia
+UI07FAZ_0105 391727 394090 EN okay how they met in indonesia 
+UI07FAZ_0105 394388 397531 CS  okay 我的 sister 呢 在 k. l. 做工
+UI07FAZ_0105 397531 401080 CS 她 我 的 sis~ 那个 是 我 的 second sister
+UI07FAZ_0105 401080 403486 ZH 所以 她 呢 就 比较 不同 一点 的
+UI07FAZ_0105 403838 408751 CS 她 比较 比较 how to say 比较 男人 一点 啦 okay
+UI07FAZ_0105 408751 416900 CS so 她 她 等下 我 想想 okay 她 她 的 degree 是 读 mechanical engineering
+UI07FAZ_0105 417471 422127 CS oh okay 是不是 很 男人 我 的 physic 会 fail 的 她 physic 很好 的
+UI07FAZ_0105 422127 427279 CS okay mechanical engineering 出来 然后 她 拿 m. b. a. 的 master
+UI07FAZ_0105 427694 431278 CS okay 然后 她 就 进 了 一个 叫 k. p. m. g. 的 company 做 consultant
+UI07FAZ_0105 431927 436344 CS 然后 consultant 她 就 派 有 project 所以 就 派 她 去 indonesia
+UI07FAZ_0105 436344 441653 CS 然后 刚好 (啊) 我 的 brother in law 是 company 是
+UI07FAZ_0105 442675 446778 CS 不知道 哪里 的 company lah 总之 也是 派 他 去 indonesia so 是 她 的 client nah
+UI07FAZ_0105 448024 450361 CS 所以 是 consultant 跟 client 这样 啦
+UI07FAZ_0105 450674 452595 CS then 才 那边 才 认识 这样 咯
+UI07FAZ_0105 453218 455508 CS 啊 then 过后 就 married 了 过后
+UI07FAZ_0105 455976 460108 CS 我 的 brother in law 就 辞 掉 那个 工 就 来 malaysia 找 工
+UI07FAZ_0105 460108 463070 CS because actually 应该 也是 malaysia company lah
+UI07FAZ_0105 463070 467365 ZH 所以 他 不是 在 日本 那 一边 认识 的 所以
+UI07FAZ_0105 467365 474361 CS 所以 在 malaysia 做 可是 后来 不知道 为什么 好像 听说 不能 够 (啊) 顶 那个 stress
+UI07FAZ_0105 475166 476958 ZH 哈 所以 他 就 讲 要 回 日本
+UI07FAZ_0105 477867 479823 ZH (嗯) 是 没有 办法 就要 跟 回去 咯
+UI07FAZ_0105 480914 484368 ZH 那时候 我 姐姐 都 生 了 第一个 孩子 啊
+UI07FAZ_0105 485796 488558 ZH 现在 又 生 了 一个 一 男 一 女 这样
+UI07FAZ_0105 490373 495699 CS hello 可是 (啊) 我 觉得 日本 不好 一点 就是
+UI07FAZ_0105 497361 500571 ZH 你 他 的 妇女 啊 不能 做工
+UI07FAZ_0105 501636 503895 CS 因为 他 没有 indonesia maid
+UI07FAZ_0105 505843 509452 ZH  不要 这样 的 脸 哪
+UI07FAZ_0105 509452 518998 CS  吓 到 我 因为 他 没有 indonesia maid 没有 这样的 东西 所以 他们 hor actually 虽然 是 讲 在 tokyo 在 东京 的 女性
+UI07FAZ_0105 519355 524935 CS 日本 女性 她们 开始 open 了 就是 她们 working working 这样 啦 然后
+UI07FAZ_0105 525562 532583 CS maybe 在 那边 它 就有 托儿所 这样 可是 我 的 sister 过去 的 是 她 还是 一个 (啊) 乡下 这样
+UI07FAZ_0105 533284 538951 CS 所以 那边 的 人 普遍 上 啦 除了 tokyo 以外 啦 我 觉得 都是 认为
+UI07FAZ_0105 538951 549595 CS 一路 来 传统 走 来 日本人 都是 女的 要 在家 顾 孩子 到 certain age 她们 才 会 出去 做工 因为 没有 人 会 跟 你 顾 的 孩子
+UI07FAZ_0105 550556 552846 ZH 所以 我 就 觉得 很 浪费 这样 啊
+UI07FAZ_0105 554217 559169 CS 可是 of course 这个 东西 又是 有 好 有 坏 的 啦 你 自己 顾 你 自己 的 孩子 才 好 嘛
+UI07FAZ_0105 559974 566258 ZH 可是 我 姐姐 以前 很 喜欢 名牌 衣 啊 什么 这样 可是 她 现在 什么 都 没有 买 这样 咯
+UI07FAZ_0105 566933 569680 ZH 因为 日本 的 生活 水准 又 高
+UI07FAZ_0105 569680 573208 CS 然后 他们 又 刚刚 买 了 一个 屋子 是 马币 一 million
+UI07FAZ_0105 573208 574987 ZH 她 讲 已经 是 最 便宜 了
+UI07FAZ_0105 575442 579532 CS  日本 是 这样 的 咯 不能- 什么 东西 都 贵
+UI07FAZ_0105 580830 585474 ZH 然后 之前 (啊) 之前 的 时候 又 经济 风暴 结果 她
+UI07FAZ_0105 585941 591575 CS 她 的 老公 就 被 cut cut 了 薪水 twenty percent nah
+UI07FAZ_0105 592096 596640 CS twenty percent 还是 two percent 一千 不见 两 百 是
+UI07FAZ_0105 599030 605310 EN twenty two percent twenty percent ah whatever lah ah twenty percent hah
+UI07FAZ_0105 608011 613890 CS 所以 就 很 辛苦 咯 结果 很多 东西 要 cut lah 因为 他们 那边 有 很多 insurances 的
+UI07FAZ_0105 614279 619655 CS 你 在 那边 看 医生 如果 没有 insurance 的话 是 很 很大 件 事 这样 的 啦
+UI07FAZ_0105 620356 624355 CS 知道 啦 他们 有 他们 整个 society 的 system 跟 我们 不一样
+UI07FAZ_0105 624926 630120 ZH 所以 当时 是 过 得 很 辛苦 这样 咯 我 觉得 啦 嗯
+UI07FAZ_0105 632230 636163 CS (啊) 在 那边 的 时候 第一个 week 的 时候 就在 那一个
+UI07FAZ_0105 636163 640913 CS (啊) osaka u. 咯 就 先 跟 他 的 lab member 交流 这样 咯
+UI07FAZ_0105 641355 650629 CS 然后 lab member 交流 的 时候 就 看到 其实 facility wise lah now a day 我们 跟 他们 的 facility 是 相差 不 远 啦
+UI07FAZ_0105 651590 654134 ZH 哈 不会 讲 说 很 很 落后 啦
+UI07FAZ_0105 654134 658165 CS 只是 有 一些 machine 是 他们 routine 的 work 的
+UI07FAZ_0105 658165 661396 CS 我们 没有 那个 machine but 我们 可以 sub 给 人家 做
+UI07FAZ_0105 661874 665709 CS 就是 外面 有 private company provide lah 好像 sequencing 的 东西
+UI07FAZ_0105 665709 671239 CS maybe 那个 是 他们 每 一 间 有 可是 我们 必须 sub 去 给 private company 做
+UI07FAZ_0105 671888 680706 CS 所以 (啊) 唯一 不同 的 是 这样 啦 其它 的 小小的 那些 instrument nah 还是 equipment nah 那些 东西
+UI07FAZ_0105 680706 682427 ZH 他们 有的 我们 都有 啦
+UI07FAZ_0105 683414 691713 CS 然后 唯一 一个 东西 是 (啊) radioactive 的 东西 也是 他们 的 routine 他们 有 一个 building 是 整个 做 radioactive work 的
+UI07FAZ_0105 692258 695804 CS 然后 我们 就 没有 咯 我们 有 一个 radioactive room
+UI07FAZ_0105 695804 699831 CS 不过 那个 radioactive 要 handle radioactive 的 东西 是 要 有 license 的
+UI07FAZ_0105 700299 703103 CS 那 license 已经 在 十 多 年 前 expired 了 啦
+UI07FAZ_0105 703597 706853 ZH  也 没有 人 去 管 没有 人 去 什么
+UI07FAZ_0105 706853 710894 CS 可是 他们 会- 他们 他们- okay
+UI07FAZ_0105 712322 717758 CS 他们 会 对于 researcher 的 东西 顾 到 很 全面
+UI07FAZ_0105 717758 727362 CS in the sense of 他 会 如果 你 是 有 做 radioactive work 的 他 会 require 你 每 half a year (er) body checkup 一次
+UI07FAZ_0105 727881 730660 ZH 我们 这边 是 管 你 去 死 这样 的
+UI07FAZ_0105 731075 735651 CS 然后 你 做 什么 危险 的 东西 你 一定 要 跟准 那个 protocol
+UI07FAZ_0105 736352 739966 CS 你 进去 radioactive room 你 要 做 什么 什么 什么 你 全部 跟 到 完
+UI07FAZ_0105 740819 744380 CS 然后 你 handle 这个 危险 的 东西 你 又 要 怎样 怎样
+UI07FAZ_0105 744999 748298 CS 总之 是 一个 对 的 protocol 你 必须 要 走 完 啦
+UI07FAZ_0105 748895 752089 ZH 然后 他们 很少 会 走 取巧 这样 的 路 啊
+UI07FAZ_0105 752842 758685 CS 因为 整个 society 是 一个 很 很 守 规矩 的 society hah
+UI07FAZ_0105 758685 761738 ZH 所以 他们 到 现在 还 是 这样 啦
+UI07FAZ_0105 763089 771424 ZH 然后 我们 比较 比较 差 的 东西 是 在于 他们 是 认真 哪 可是 现在 也有 一点 改变 了
+UI07FAZ_0105 771424 779736 ZH 就是 讲 说 (啊) 对于 日本人 我们 的 印象 是 一定 是 从 早上 八点 做到 晚上 十二点 这样 啦 其实 现在 也 不一定 啊
+UI07FAZ_0105 779736 781213 ZH 看 地方 看 人 了
+UI07FAZ_0105 781473 789186 CS 他们 的 youngest 像 我们 一样 年纪 的 做 research 的 也是 早上 十点 才 来 不过 他们 会 做 比较 迟 一点 啦
+UI07FAZ_0105 789939 798766 CS 这样子 咯 然后 (啊) of course 我 去 的 时候 应该 是 要 接近 winter 了
+UI07FAZ_0105 798766 801198 EN end of end of autumn
+UI07FAZ_0105 802467 808907 CS end of autumn lah 还 没有 差不多 beginning winter 这样 啦 冷 到 要 死 然后 所有 的 东西 都是
+UI07FAZ_0105 809266 814346 CS ah grey color 这样 的 然后 每个人 穿 大衣 这样 走 来 走 去 冷 到 要 死 这样
+UI07FAZ_0105 814594 819136 ZH 可是 可是 最多 他们 交通工具 也是 搭车 走路 咯
+UI07FAZ_0105 819734 823058 ZH 然后 搭 火车 啊 地铁 啊 这些 东西 咯
+UI07FAZ_0105 823681 827291 ZH 所以 也是 很难 看到 很少 会 看到 肥仔 这样 的 啦
+UI07FAZ_0105 833056 834772 ZH 啊 踏车 的 这样 咯
+UI07FAZ_0105 834772 843009 CS  诶 不要紧 的 还 不要紧 你 看 他 女孩子 穿 tight skirt 的 然后 穿 那个 那个 boot ah 高高 这样 的 hor 下雨 嘛 踏车 拿 雨伞
+UI07FAZ_0105 843491 848051 CS 然后 那个 头发 好像 鸟 做 到 很 美 这样 踏车 还 穿 tight skirt
+UI07FAZ_0105 848544 852868 ZH 喔 很 厉害 哦 可以 一边 手 抓住  对
+UI07FAZ_0105 852868 856596 ZH 可是 他 有 一些 男生 就 很 帅 这样 哦 就在 那 边 看 帅哥
+UI07FAZ_0105 858194 861348 CS okay 这样 对 pun 啦
+UI07FAZ_0105 874377 883641 ZH 可以 撕 了 哦  ah-mah 达成 我 妈 的 心愿 就 可以 了 啦  没有 啦
+UI07FAZ_0105 884966 888072 ZH  我 希望 做 什么 哈
+UI07FAZ_0105 892357 894305 ZH 啊 是 咯 没有 钱 嘛
+UI07FAZ_0105 894524 899498 CS 所以 我 现在 在 找 的 是- 其实 以前 我 真的 很 想 出国
+UI07FAZ_0105 900147 905301 ZH 可是 现在 人 是 很 奇怪 的 你 年纪 大 了 你 就会 怕 害怕
+UI07FAZ_0105 905639 908260 ZH 你 的 胆子 没有 跟 年纪 一起 长大
+UI07FAZ_0105 909714 915463 ZH 不是 老 啦 我 是 说 (啧) 好像 差不多 要 三十 岁 诶 我 还 没有 要 三十 岁 了 可是
+UI07FAZ_0105 915463 924950 CS 因为 okay 要 讲 出来 then 我们 这 组 人 跟 外面 的 人 又 比较 不一样 因为 你 没有 去 社会 真正 的 社会 滚 过 所以 你 没有 他们 那种 沧桑
+UI07FAZ_0105 926012 928597 ZH 你 明白 吗 你 年龄 可能 一样 可是
+UI07FAZ_0105 929137 939586 ZH 外面 做工 的 人 三十 岁 了 他们 的 谈话 就 可能 跟 我们 不一样 啊 这 也是 我 发现 到 的 而且 他们 学 的 东西 可能 (啧) 对于 社会上 的 人 跟 人 之间 交际
+UI07FAZ_0105 939586 948929 CS 他们 会 比较 熟练 啦 所以 我 的 朋友 跟 我 一样 的 他们 在 外面 做工 看到 我 会 讲 诶 你 还是 一样 牛仔裤 t-shirt 这样 球鞋 就 走了
+UI07FAZ_0105 948929 954711 CS 他们 现在 是 很 厉害 打扮 了 啊 o. l. 这样 啊 会 化妆 这样 啊
+UI07FAZ_0105 954711 959214 ZH 所以 会 感觉 上 可能 会 觉得 他们 比较 老成 一点 这样 啦
+UI07FAZ_0105 959655 965058 ZH 哈 所以 可是 (啊) 这 是 题外话 所以 话 说 回来 呢 我 是 觉得
+UI07FAZ_0105 965058 971048 ZH 你 叫 我 比较 啦 三十 岁 跟 二十 岁 的 时候 二十 岁 你 就 会 真的 会 很 想 要 出去
+UI07FAZ_0105 971679 977845 ZH 可是 三十 岁 的 时候 呢 你 会 胆子 就 没有 跟 你 年龄 一起 长大 咯
+UI07FAZ_0105 977845 983016 CS and then 你 会 think of- (hah) concern think of 你 的 parents ah think of 你的
+UI07FAZ_0105 983745 988460 CS 你 的 whatever 你 的 关系 这样 啊 then 你 就 hesitate loh
+UI07FAZ_0105 989654 996156 CS (嗯) 可是 你 再 delay 下去 你 就 越 老 哦 所以 actually 我 还是 很 想 出国 啦
+UI07FAZ_0105 996156 1002475 CS but 我 希望 可以 带 带 人 去 照顾 我 这样  <unk>
+UI07FAZ_0105 1002475 1011039 ZH  啊 对 我 就 跟 我 妈妈 讲 了 我 昨天 才 跟 她 讲话 妈妈 我 去 还 不如 我 带 你 一起 去 (哈) 去 那边 准备 东西 给 我 吃 这样
+UI07FAZ_0105 1015662 1020380 CS 其实 我 找 了 maybe immediately lah maybe take a break 还是 什么 咯
+UI07FAZ_0105 1020380 1023765 CS 我 找 过 new zealand 的 farm farm work loh
+UI07FAZ_0105 1024596 1030127 CS 嗯 他 有 很多 有 offer 不过 这次 我 看 他 然后 如果 是 以前
+UI07FAZ_0105 1030456 1035942 CS 是 想 过 那个 holiday working visa 现在 不能 了 嘛 三十 岁 了 那 是 below 三十 岁 嘛
+UI07FAZ_0105 1035942 1040947 CS 所以 就 就 想 那种 private 的 farm farm work lah
+UI07FAZ_0105 1041552 1044950 CS 他 有 provide 你 accommodation 什么 的 嘛
+UI07FAZ_0105 1048478 1053746 CS 你 不能 去 太久 咯 你 不能 maybe 那 是 take time to take a break lah
+UI07FAZ_0105 1054059 1063199 CS but 看 怎样 先 pun 啦 因为 如果 要 immediately 投入 工作 就是 马上 找 postdoc 的 工 咯
+UI07FAZ_0105 1064056 1066216 CS 哈 怎样 都要 经过 postdoc 的 啦
+UI07FAZ_0105 1067099 1072504 CS 你 没有 经过 postdoc 如果 我 觉得 直接 跳 去 做 lecturer 的话 我 会 觉得 不是 很好 啦
+UI07FAZ_0105 1072504 1074806 ZH 因为 经验 不是 很 够
+UI07FAZ_0105 1074806 1077746 CS postdoc 的 时候 他 会 training 你 比较 多
+UI07FAZ_0105 1078120 1085802 CS 你 要 怎样 申请 grant nah (啧) 你 比较 知道 那种 内幕 消息 啦 因为 现在 怎样 也好 你 还是 一个 student mah
+UI07FAZ_0105 1085802 1089764 CS r. a. 你 也是 帮 你 老板 做 一些 东西 没有 深入 了解
+UI07FAZ_0105 1090595 1096204 CS 然后 postdoc 的 时候 他 应该 会 require 你 想 比较 全面 的 东西 啦
+UI07FAZ_0105 1097009 1101995 CS 比较 think like an adult lah instead of student nor 就 这样子 咯

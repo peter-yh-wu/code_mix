@@ -1,0 +1,460 @@
+12NC23FBP_0101 3150 4540 EN hello hello
+12NC23FBP_0101 11890 13437 ZH 我也 不懂 诶
+12NC23FBP_0101 29120 31970 CS 我 有 social culture
+12NC23FBP_0101 32570 34705 EN then hexas
+12NC23FBP_0101 35190 36380 EN h. s. o. c.
+12NC23FBP_0101 37304 38046 ZH 你 呢
+12NC23FBP_0101 40340 42850 CS 我 做 那个 make up 的 lor
+12NC23FBP_0101 46065 50674 CS 有 xinglin then meifang ze don
+12NC23FBP_0101 52210 53750 CS then 还有 谁 啊 (呃)
+12NC23FBP_0101 58490 62220 CS 有些 我 忘记 他们 叫 什么 名 因为 我们 很少 meet ah
+12NC23FBP_0101 76785 78301 ZH <unk> 你 做 什么
+12NC23FBP_0101 80591 82045 CS 你 有 做 props 啊
+12NC23FBP_0101 82740 84220 CS props 有 做 吗
+12NC23FBP_0101 87080 89740 CS oh 你是 light sound music 而已 ah
+12NC23FBP_0101 90643 92283 EN oh
+12NC23FBP_0101 97542 98965 EN yeah lor
+12NC23FBP_0101 99336 102461 CS then i. h. g. 你 有 join anything or not
+12NC23FBP_0101 114858 116838 EN oh
+12NC23FBP_0101 136028 137234 EN same lor
+12NC23FBP_0101 137977 139740 EN anyhow talk ah 
+12NC23FBP_0101 140514 142030 EN sihui
+12NC23FBP_0101 143590 147650 CS 不懂 leh 他 他 没有 join hall activities so 我 不懂 你 认识 他 吗
+12NC23FBP_0101 153440 155513 EN enhm thirty-three the <unk>
+12NC23FBP_0101 161430 164310 ZH 我也 不懂 诶 因为 他们
+12NC23FBP_0101 164546 166217 CS 我 也 不懂 我 为什么 join 他们
+12NC23FBP_0101 168166 169899 ZH 不懂 诶
+12NC23FBP_0101 179160 182970 CS 他们 那 排 就 很 吵 啊 很 happening
+12NC23FBP_0101 184220 187720 CS but 也不 懂 诶 我 都 没有 这么 跟 他们 诶
+12NC23FBP_0101 194600 197230 CS in the hall 有时候 是 我 o. g. 的 人 lor
+12NC23FBP_0101 200940 204163 CS but normally 我们 也是 like meet for dinner 要不然 有时候
+12NC23FBP_0101 204469 208123 CS 因为 以前 有 读 econs 嘛 then 我 有 去 你懂 shiqi
+12NC23FBP_0101 208580 210590 CS 啊 就 问 她 econs 的 东西
+12NC23FBP_0101 211190 213330 CS then 有时候 会 跑 进 他们的 block lor
+12NC23FBP_0101 213548 217990 CS then 有时候 xiumin 也是 会 跑去 我们 找 我们 then 有 吃 supper 这些 啊
+12NC23FBP_0101 219019 220350 EN xiumin
+12NC23FBP_0101 223540 226720 CS yeah lor 我也 不懂 他 他 好像 没有 什么 join hall 的 东西 的
+12NC23FBP_0101 228888 231239 CS but 他 join 什么 我 也 不懂 诶
+12NC23FBP_0101 238000 239270 ZH 我也 不懂 诶
+12NC23FBP_0101 245378 246491 CS 他 是 j.c. 诶
+12NC23FBP_0101 249940 251590 EN i'm not sure leh 
+12NC23FBP_0101 256279 258920 CS but 我 看 你们 那边 好像 蛮 happening 的 leh
+12NC23FBP_0101 265316 267079 CS yeah lor xinyi 他们 right
+12NC23FBP_0101 269183 270049 EN enhm
+12NC23FBP_0101 272710 276650 CS 我 看 你们 几个 蛮 okay 的 每次 一起 出去 的
+12NC23FBP_0101 278123 281256 EN facebook lah 
+12NC23FBP_0101 286794 290352 CS 看 有 看到 mostly 好像 都 是 你们 block 的 人 来
+12NC23FBP_0101 292641 294806 CS 对 哦 garen zhao jin 他们
+12NC23FBP_0101 302415 303281 EN oh
+12NC23FBP_0101 304766 308974 ZH 很小声 
+12NC23FBP_0101 313305 314233 ZH 怎么办
+12NC23FBP_0101 325180 326800 CS 还有 很多 pause 吧
+12NC23FBP_0101 332450 334740 CS then 你们 christmas 做 什么
+12NC23FBP_0101 349980 352180 CS then the christmas celebration 你 有 去 吗
+12NC23FBP_0101 355436 357199 CS 我 懂 啊 but 我 不在 啊
+12NC23FBP_0101 358150 361480 CS 因为 我 有 我 去 pulau-ubin got church camp
+12NC23FBP_0101 366325 367068 EN yeah
+12NC23FBP_0101 379649 380855 EN oh
+12NC23FBP_0101 386747 389707 CS but i thought 也是 要 看 你 whether you believe or not
+12NC23FBP_0101 397417 398997 CS then 就 free thinker lor
+12NC23FBP_0101 402944 404769 EN 
+12NC23FBP_0101 407368 408698 EN oh
+12NC23FBP_0101 411317 413787 EN different people got different thinking ah
+12NC23FBP_0101 419887 421372 EN oh
+12NC23FBP_0101 430337 433787 CS but 你们 怎 么 会 听到 那些 during assembly ah
+12NC23FBP_0101 435876 437113 EN oh
+12NC23FBP_0101 438057 440167 EN then then how you think of it
+12NC23FBP_0101 457607 461897 CS yeah 有些 pastor 是 这样 then 有些 pastor 就是 like 一直 talk talk talk talk talk talk talk
+12NC23FBP_0101 462167 463064 CS then 你 就
+12NC23FBP_0101 463517 465225 CS then 你 就要 fall asleep 
+12NC23FBP_0101 466931 468076 EN yeah lor
+12NC23FBP_0101 476237 480137 EN oh nine questions school got all these thing ah
+12NC23FBP_0101 480287 481817 CS 因为 我 进 normal school 啊
+12NC23FBP_0101 489243 490666 EN quite fun
+12NC23FBP_0101 492057 493737 EN but you don't believe it ah
+12NC23FBP_0101 504259 505651 EN oh
+12NC23FBP_0101 515947 518557 CS oh 因为 是 follow family one right
+12NC23FBP_0101 520824 523307 CS 对 我是 from young 的 lor
+12NC23FBP_0101 524987 534957 CS 阳光 presbyterian is at choa-chu-kang but ours is like 那种 很 小 间 lah we rent the place only 因为 很少 人
+12NC23FBP_0101 539087 540687 CS fifty plus 吧
+12NC23FBP_0101 541877 544667 EN but its a small one lor like family church ah
+12NC23FBP_0101 545723 546558 EN ah
+12NC23FBP_0101 553157 558947 CS yeah lor 我们 也是 在 讲 那边 太 大 了 then like i think they also like internal conflicts a lot ah
+12NC23FBP_0101 559987 561197 EN because too big wah
+12NC23FBP_0101 564147 568517 CS 因为 太 多 人 了 嘛 then all different groups of people
+12NC23FBP_0101 577620 582660 EN city harvest but that side don't know leh they got you know like speak in tongues
+12NC23FBP_0101 585937 594097 CS don't know leh cause they all believe like something like 好像 holy spirit 下去 then they can speak in tongues then nobody understand one
+12NC23FBP_0101 594287 595153 EN that kind
+12NC23FBP_0101 599387 601407 EN but other people don't know
+12NC23FBP_0101 603996 611027 EN yeah but they for my church i heard they say not good lah unless like got like other people can translate your word
+12NC23FBP_0101 611377 615057 EN thats mean not only you understand got one people understand also lah
+12NC23FBP_0101 617731 619432 EN no ei they say
+12NC23FBP_0101 619957 625937 EN but they say bible say is can translate one so thats mean like got one other people should understand what you talking
+12NC23FBP_0101 629947 638607 EN so don't know so we also don't know their tongue already because they say maybe not really is the holy spirit maybe some other thing also wah
+12NC23FBP_0101 643986 646089 EN got what betties
+12NC23FBP_0101 646637 648737 EN then got catholic that kind
+12NC23FBP_0101 651607 657277 EN i don't know leh catholic but we all like almost the same ah it's just that they believe in mary
+12NC23FBP_0101 672207 677257 CS 十二点 but this morning 因为 我 昨天 住 在家 then this morning 才 回来
+12NC23FBP_0101 679367 682637 EN but my dad fetch me here but very early lah
+12NC23FBP_0101 684227 688217 CS i wake up at seven plus leh
+12NC23FBP_0101 689764 692006 EN and i slept inside the car 
+12NC23FBP_0101 695766 696478 EN hah
+12NC23FBP_0101 696849 697654 EN where
+12NC23FBP_0101 699117 700767 EN wah at where
+12NC23FBP_0101 705417 709917 EN then he he stay near shaopeng wah shaopeng also stay near there
+12NC23FBP_0101 711834 713319 EN 
+12NC23FBP_0101 714677 716307 EN so many people stay in yishun
+12NC23FBP_0101 724507 726237 EN i know i saw him
+12NC23FBP_0101 726436 728045 EN in social also right
+12NC23FBP_0101 731100 732213 EN yeah
+12NC23FBP_0101 732801 734812 EN on only i
+12NC23FBP_0101 737407 740357 EN and then for the first time we meet for social
+12NC23FBP_0101 741057 743167 EN he came he was under logistics
+12NC23FBP_0101 750289 753228 CS  好像 don't know ei sledom
+12NC23FBP_0101 754032 756507 EN then
+12NC23FBP_0101 757377 761137 CS 你 懂 那个 two two twins
+12NC23FBP_0101 761542 762254 EN the
+12NC23FBP_0101 762625 764296 EN sharah and
+12NC23FBP_0101 765797 767377 CS 我 忘记 the other one 叫 什么 名
+12NC23FBP_0101 771132 774412 CS not twins mah 有 一个 twins 也是 stay in yishun
+12NC23FBP_0101 774845 780908 CS that one that one 什么 block they stay at block what ah block thirty~
+12NC23FBP_0101 781774 783785 EN thirty-five ah
+12NC23FBP_0101 785907 787397 ZH 我 不懂 他 玩 什么
+12NC23FBP_0101 789837 792007 CS but 他们 也是 stay yishun 有 一次 我 看到 他 玩
+12NC23FBP_0101 792467 793977 CS then 有 一次 我也 是 看到 shaopeng
+12NC23FBP_0101 797676 799099 EN only saw him once
+12NC23FBP_0101 808862 813441 ZH  很少 看到 你们 leh
+12NC23FBP_0101 815575 816472 EN 
+12NC23FBP_0101 817246 820487 CS  你 有 整天 stay hall 吗
+12NC23FBP_0101 824575 825689 EN wah
+12NC23FBP_0101 831598 833794 ZH 要 到 了
+12NC23FBP_0101 850071 851989 EN oh
+12NC23FBP_0101 859135 861177 EN <unk>
+12NC23FBP_0101 862507 866157 CS but normally 你们是 try to aim for bull eyes or what
+12NC23FBP_0101 895599 897331 EN oh
+12NC23FBP_0101 977473 979670 ZH 好像 蛮 好玩 的
+12NC23FBP_0101 986153 987359 EN 
+12NC23FBP_0101 989487 994927 CS 不懂 leh 本来 我 有 想 join i. h. g. then then after that they say i like join a lot
+12NC23FBP_0101 995337 997687 CS then 就 end up 没有 join lor
+12NC23FBP_0101 1000257 1003314 CS but but before that 我是 有 sign up 一些 lah
+12NC23FBP_0101 1012551 1013695 EN yeah lor
+12NC23FBP_0101 1026757 1028335 EN oh
+12NC23FBP_0101 1029634 1030686 EN 
+12NC23FBP_0101 1041597 1048227 CS i thought volleyball actually volleyball you want play like outside play with friend sentosa 这些 比较 好玩 right
+12NC23FBP_0101 1066857 1069377 EN but softball is like baseball right
+12NC23FBP_0101 1076839 1077952 EN oh
+12NC23FBP_0101 1079257 1085287 EN don't know leh that time i saw you all play before then i were like ei why it look like baseball
+12NC23FBP_0101 1089577 1091937 CS no 等 一下 可以 下去 try lor
+12NC23FBP_0101 1096776 1097828 EN enhm
+12NC23FBP_0101 1101479 1104108 EN oh
+12NC23FBP_0101 1104747 1107257 CS 等 一下 four thirty like that 要 下去 看看 lor
+12NC23FBP_0101 1115609 1118238 EN last sem~ actually
+12NC23FBP_0101 1118527 1123677 CS 还 okay 因为 我们 只有 一个 project like 你 懂 communication skills ah
+12NC23FBP_0101 1124707 1133367 CS then 我们是 说 like we need to ah think of a topic ah then 就 找 要 做 interview 还是
+12NC23FBP_0101 1134154 1137000 CS survey ask 人 做 了 then combine
+12NC23FBP_0101 1137147 1140667 CS that kind lor then online research 做 research
+12NC23FBP_0101 1147209 1152345 CS 我们 是 tech comm 我们 we our effective comm 我们 已经 like
+12NC23FBP_0101 1152747 1155307 CS 那个叫什么 已经 不用 take 了
+12NC23FBP_0101 1161860 1164922 ZH 啊 对 
+12NC23FBP_0101 1169934 1170893 EN 
+12NC23FBP_0101 1172353 1178097 CS yeah lah 所以 我们 end up 因为 我是从 poly 进来 的 so 有些 module 已经 exempted 了 lor
+12NC23FBP_0101 1197010 1199361 EN wah
+12NC23FBP_0101 1208362 1209939 EN 
+12NC23FBP_0101 1212105 1213528 EN oh
+12NC23FBP_0101 1218168 1223747 CS oh but 你们 有 很多 elective 要 take right
+12NC23FBP_0101 1235427 1238137 CS 那个 specially for your course one right
+12NC23FBP_0101 1242837 1244977 CS i thought 是 elective 来 的 that one
+12NC23FBP_0101 1246850 1248026 EN but
+12NC23FBP_0101 1249257 1254277 CS but 我 懂 那个 elective hor 只有 你们的 course 可以 选 leh other course 都 选 不了
+12NC23FBP_0101 1260927 1262257 EN but
+12NC23FBP_0101 1268166 1269310 EN oh
+12NC23FBP_0101 1272047 1277927 CS 不懂 ei but 我 that time 我 懂 那个 他们 讲 只有 你们 讲 可以 take then 他们 讲 那个 很 容易 to score
+12NC23FBP_0101 1284431 1286504 EN  wah
+12NC23FBP_0101 1289443 1291206 CS hah 这样 容易
+12NC23FBP_0101 1293927 1296777 EN then that project like ten people a group right
+12NC23FBP_0101 1298105 1301848 CS then 我 想 ten people 做 一个 project 做 什么 这样 多 人
+12NC23FBP_0101 1306337 1308857 CS 很难 distribute the jobs right
+12NC23FBP_0101 1323978 1328742 CS 因为 太多 人 了 那时候 我 进 没有 m. s. e. 的 他们 讲
+12NC23FBP_0101 1329020 1332657 CS ten people a group ei ten people a group 怎样 做 project
+12NC23FBP_0101 1336321 1338486 EN 
+12NC23FBP_0101 1339637 1340787 ZH 因为 太 多 人 啊
+12NC23FBP_0101 1358095 1358838 EN 
+12NC23FBP_0101 1361017 1364037 CS but i thought 我们 讲话 不是 有 mix meh
+12NC23FBP_0101 1365613 1366572 EN 
+12NC23FBP_0101 1376286 1379669 EN oh
+12NC23FBP_0101 1384409 1388029 CS  yeah lor 因为 我们
+12NC23FBP_0101 1388167 1391357 CS like most of us 都是 讲 mix 的 right
+12NC23FBP_0101 1393277 1396037 ZH 一半 一半 突然 间 英文 突然 间 华 文
+12NC23FBP_0101 1403347 1406507 CS ei 你是 more on 讲 english 的 啊
+12NC23FBP_0101 1410427 1411448 EN 
+12NC23FBP_0101 1414325 1415965 CS j. c. 吧
+12NC23FBP_0101 1431858 1433034 EN 
+12NC23FBP_0101 1437247 1440097 CS but but 你们 j. c. 没有 take chinese meh
+12NC23FBP_0101 1443217 1446397 CS then 等于 是 then chinese they should be okay wah
+12NC23FBP_0101 1455466 1456766 EN oh
+12NC23FBP_0101 1462860 1464376 EN oh
+12NC23FBP_0101 1467327 1472177 CS 我 懂 j. c. 的 ah mostly 是 讲 english 的
+12NC23FBP_0101 1479670 1488877 CS yeah lor end up 我 来 uni~ 也是 因为 poly 都是 讲 华语 mah friends then 来 uni university then like ei like 你们 mostly 都 讲 英文 嘛
+12NC23FBP_0101 1515516 1517186 EN wah
+12NC23FBP_0101 1517527 1521517 EN wah
+12NC23FBP_0101 1522136 1526034 CS yeah lor actually 我们 hall okay 的 有 mix
+12NC23FBP_0101 1531018 1533926 CS yeah lor but 有些 不懂 为什么 跟我 讲 英文
+12NC23FBP_0101 1534885 1538319 EN that time yanqin then yanqin
+12NC23FBP_0101 1539742 1541629 CS but yanqin 还 问我
+12NC23FBP_0101 1541947 1547817 CS 他 问 我 什么 你是 不是 like speak english 的 then 我 讲 like huh 没有 啦 我 讲 华语 的
+12NC23FBP_0101 1555976 1558157 CS but 不懂 为什么 要 跟 我 讲 英文 leh
+12NC23FBP_0101 1561111 1562503 ZH 不懂 诶
+12NC23FBP_0101 1565435 1566239 ZH 有 啊
+12NC23FBP_0101 1567909 1568930 ZH 哪一天
+12NC23FBP_0101 1571007 1572787 CS 有 啊 saturday 我 又 去 啊
+12NC23FBP_0101 1573997 1575537 ZH 我也 不 记得 我 看到 你 诶
+12NC23FBP_0101 1576767 1579307 CS 还是 你是 在 yanqin that side ah
+12NC23FBP_0101 1580408 1582078 CS 我在 ze don 那边
+12NC23FBP_0101 1584802 1590061 ZH 不懂 因为 我是 迟来 的 哎 我们
+12NC23FBP_0101 1592367 1597949 CS 啊 我 overslept ten plus 才 起来 了 shit 
+12NC23FBP_0101 1604371 1608980 EN wah oh
+12NC23FBP_0101 1610898 1612166 EN wah
+12NC23FBP_0101 1613137 1616737 CS 不懂 leh 因为 我 overslept but 还 好 yishun 下来
+12NC23FBP_0101 1618987 1620887 CS eighty five 你 搭 eighty five 啊
+12NC23FBP_0101 1621087 1624257 CS 我 搭 nine six five ei eighty five how how long
+12NC23FBP_0101 1627495 1629660 CS 我 的 好像 也是 around that
+12NC23FBP_0101 1636807 1638787 CS oh eighty five stop 在外 面 啦
+12NC23FBP_0101 1645677 1649967 CS i think 我的 应该 比较 长 一点点 啦 but 我的 go into interchange
+12NC23FBP_0101 1652652 1655003 CS 对 哦 eighty-five 有去 我 都 忘 了
+12NC23FBP_0101 1661497 1662837 EN interchange ah
+12NC23FBP_0101 1664537 1667217 CS but eighty-five eighty-five 是 new bus right
+12NC23FBP_0101 1667999 1669670 CS then 很少 搭
+12NC23FBP_0101 1673827 1676177 EN but actually nine six five all that
+12NC23FBP_0101 1677587 1679017 CS 从 woodlands 下来
+12NC23FBP_0101 1686796 1693477 CS  好吃 诶 你是 你的 是 那个 sembawang road that side one ah
+12NC23FBP_0101 1696727 1698997 CS 那个 mcdonald 再 走 下去 那边
+12NC23FBP_0101 1700748 1703532 ZH 哦 我 那时候 也 是 朋友 跟我 讲 那边 好吃
+12NC23FBP_0101 1709582 1710634 EN ah
+12NC23FBP_0101 1712087 1713927 CS wah 从 six hundred plus
+12NC23FBP_0101 1719987 1725267 CS ei 你 seven nine zero i thought 你 不是 也是 near yishun j. c. 那边 lor
+12NC23FBP_0101 1727717 1729207 EN that's quite near my house wah
+12NC23FBP_0101 1732227 1734357 EN swimming pool that side right
+12NC23FBP_0101 1739067 1740657 EN that side cross over ah
+12NC23FBP_0101 1743117 1745097 EN then quite near my house also wah
+12NC23FBP_0101 1747207 1748557 EN yishun j. c. there lor
+12NC23FBP_0101 1749967 1751517 EN is yishun j. c. beside
+12NC23FBP_0101 1754427 1758109 CS enhm but 我的 是 near yishun j. c. ah like
+12NC23FBP_0101 1758627 1763297 CS 因为 我的 house 我的 flat 在 这边 then 过多 一个 flat then 就 yishun j. c. 了
+12NC23FBP_0101 1766243 1770172 CS then 以前 我在 那边 下 因为 我 以前 primary school 是 jieming ah in front there
+12NC23FBP_0101 1770567 1772247 EN then secondary school yishun sec
+12NC23FBP_0101 1776390 1781123 CS 如果 我 读 j. c. 就是 后面 而已
+12NC23FBP_0101 1785269 1786383 EN yeah
+12NC23FBP_0101 1787403 1788796 EN seven
+12NC23FBP_0101 1791297 1793317 CS but i take from yishun 嘛
+12NC23FBP_0101 1819537 1820707 EN so fast
+12NC23FBP_0101 1843494 1847484 EN  
+12NC23FBP_0101 1848691 1854692 CS oh so yours is oh yours is naval base 那边 啊
+12NC23FBP_0101 1857972 1860354 CS 走 near khatib
+12NC23FBP_0101 1867101 1869793 EN oh
+12NC23FBP_0101 1870381 1874357 EN oh is that side swimming pool walk towards swimming
+12NC23FBP_0101 1876135 1877341 EN okay
+12NC23FBP_0101 1880682 1882817 EN oh
+12NC23FBP_0101 1893575 1894565 EN wah
+12NC23FBP_0101 1900797 1902847 EN ruijie ruijie live near
+12NC23FBP_0101 1908307 1911077 EN oh so you all three last time know already lah
+12NC23FBP_0101 1916857 1918857 CS 难怪 你们 这样 close lah
+12NC23FBP_0101 1932309 1935588 EN oh <unk> your roommate
+12NC23FBP_0101 1941280 1943415 EN oh
+12NC23FBP_0101 1953169 1954809 EN quite okay
+12NC23FBP_0101 1955047 1957562 CS 我的 block 我 都 不懂 诶 他们 senior
+12NC23FBP_0101 1958127 1960867 CS senior 比较 close ah junior 很少
+12NC23FBP_0101 1962587 1965157 CS 只有 那些 好像 sharah 他们
+12NC23FBP_0101 1965369 1969329 CS sharah 跟 sharon 他们 就跟 那些 senior 比较 close 了 跟 chester 他们
+12NC23FBP_0101 1973455 1975590 CS then 我们 其他 的
+12NC23FBP_0101 1975943 1980288 CS 不懂 诶 like third floor and fourth floor 很 安静 second floor 比较 noisy 而已 
+12NC23FBP_0101 1997685 1999294 EN yeah lor
+12NC23FBP_0101 2001150 2002264 EN oh
+12NC23FBP_0101 2003161 2005728 CS 你 是 outlook through all the window 啊
+12NC23FBP_0101 2010895 2011916 EN yeah lor
+12NC23FBP_0101 2012967 2018027 CS 我们 那边 yeah lor 我也 懂 second floor 每次 很 蛮 happening 的
+12NC23FBP_0101 2028107 2031047 CS ah 你们 那边 也是 senior 蛮 多 的 right
+12NC23FBP_0101 2057110 2059213 EN yeah lor
+12NC23FBP_0101 2061441 2065927 CS yeah lor 他们 block thirty-four 也是 哦 我 看 他们 也是 freshie 比较 close
+12NC23FBP_0101 2067947 2071147 CS siqi 他们 啊 都是 我的 group 的
+12NC23FBP_0101 2071526 2073630 EN siqi ziliang
+12NC23FBP_0101 2074001 2076412 EN then ruben they all
+12NC23FBP_0101 2077185 2080805 CS 还有 谁 啊 joy nancy
+12NC23FBP_0101 2082815 2085887 CS 他们 他们 几个 就 okay lah
+12NC23FBP_0101 2090168 2091653 ZH 因为 我 懂
+12NC23FBP_0101 2092717 2095697 CS ziliang 他们 每次 call siqi 他们 去 supper ah
+12NC23FBP_0101 2096200 2102577 CS at night supper then 我 like huh next day 有 lesson ei
+12NC23FBP_0101 2142103 2149227 CS 不懂 诶 他们 but 有时候 他们 叫 我 去 supper end up 我也 是在 那边 喝 水 在 那边 跟 他们 讲话 而已 我也 没有 吃 的
+12NC23FBP_0101 2156427 2158447 CS yeah lor then 在 t. v. room lor
+12NC23FBP_0101 2159686 2161017 ZH 要么 就是 看
+12NC23FBP_0101 2161387 2162647 CS stay 在 谁 的 room
+12NC23FBP_0101 2166237 2167707 ZH 那时 候 他们 也是 这样
+12NC23FBP_0101 2168547 2172677 CS 他们 不是 每次 在 siqi 的 room 就是 跑 去 t. v. room
+12NC23FBP_0101 2177821 2178657 EN yeah
+12NC23FBP_0101 2194057 2203637 CS before that quite okay what 因为 我 只是 join dance all that what then they all that time like quite near exam then they all stop already lah
+12NC23FBP_0101 2212353 2214333 EN yeah
+12NC23FBP_0101 2214642 2219847 CS but m. a. f. that time 还 okay lah quite still quite early right
+12NC23FBP_0101 2223788 2225428 EN test
+12NC23FBP_0101 2233258 2234403 EN oh
+12NC23FBP_0101 2238247 2240067 EN proposal for m. a. f. ah
+12NC23FBP_0101 2249874 2251143 EN oh
+12NC23FBP_0101 2270661 2274587 CS yeah lor but 你们 programmer only like plan for one event right
+12NC23FBP_0101 2284747 2286337 CS then 还 okay lah
+12NC23FBP_0101 2292236 2295051 CS hall six highlight 做什么
+12NC23FBP_0101 2302987 2304357 EN for the next sem lah
+12NC23FBP_0101 2311107 2313847 EN oh but but got what event on that day
+12NC23FBP_0101 2322337 2323847 ZH oh 这样 而已 lah
+12NC23FBP_0101 2332744 2337229 CS yeah lor 因为 我 like nothing like don't have games all that right
+12NC23FBP_0101 2340447 2341313 EN enhm
+12NC23FBP_0101 2347253 2348057 EN yeah
+12NC23FBP_0101 2356697 2362367 EN but i thought but the game play during orientation wah then seniors will know mah
+12NC23FBP_0101 2369207 2372897 CS then 你们 只是 burn 那个 light out the fire
+12NC23FBP_0101 2375917 2378777 CS 没有 啊 我们的 group 我们是 like
+12NC23FBP_0101 2378975 2382537 CS 他们 是 弄 pairing ah 就 like one girl one guy
+12NC23FBP_0101 2383247 2387807 EN then like maybe the guy or the girl hold the candle then the other is the defender lah
+12NC23FBP_0101 2389107 2394457 CS then 然后 就 then like both of them must go then together and burn the rope lor
+12NC23FBP_0101 2396397 2398277 EN then i thought its almost the same wah
+12NC23FBP_0101 2406532 2407460 EN like what
+12NC23FBP_0101 2424037 2425924 EN like that night lah 
+12NC23FBP_0101 2438347 2441719 CS yeah lor actually 这个 game 就是 这样 咯 end up will like
+12NC23FBP_0101 2442167 2443647 EN they play their own way
+12NC23FBP_0101 2448747 2451057 EN but okay lah they have fun then okay lor
+12NC23FBP_0101 2454482 2455503 EN yeah
+12NC23FBP_0101 2458040 2462463 EN but end up still okay lah
+12NC23FBP_0101 2470209 2471849 EN 
+12NC23FBP_0101 2473767 2475314 EN never mind lah
+12NC23FBP_0101 2482491 2483697 EN yeah
+12NC23FBP_0101 2485838 2487323 EN oh
+12NC23FBP_0101 2488327 2489787 EN but if go
+12NC23FBP_0101 2490107 2492335 EN go a. d. m. is nearer right
+12NC23FBP_0101 2497177 2500345 EN then the flight of stairs also almost the same
+12NC23FBP_0101 2513811 2514924 EN enhm
+12NC23FBP_0101 2519537 2520387 EN in charge
+12NC23FBP_0101 2524637 2525534 ZH 做 什么
+12NC23FBP_0101 2526557 2531417 CS 哦 因为 他们 要 放 那个 candle then at first 上去 prepare then 下来 放 candle
+12NC23FBP_0101 2533763 2536918 CS 因为 那边 wind 太
+12NC23FBP_0101 2543187 2544597 EN eighteen more minutes
+12NC23FBP_0101 2550033 2552168 EN 
+12NC23FBP_0101 2559967 2563037 CS wah 那时 候 你 讲 那个 nanyang house
+12NC23FBP_0101 2563477 2568705 CS that time during the camp ah then we all 我们 也 只有 爬 那边 but it's like
+12NC23FBP_0101 2569177 2570287 EN because before that
+12NC23FBP_0101 2571107 2575707 CS 我们是 before that day right 我们 like one whole day never sleep leh
+12NC23FBP_0101 2579367 2587467 CS 因为 before that before that day 我们是 在 chalet 住 so you think i mean before that they separate girl boy girl boy 嘛
+12NC23FBP_0101 2587957 2594707 EN then at the chalet they all one whole o. g. mah so normally who will sleep like first time like bonded together wah
+12NC23FBP_0101 2596027 2597847 EN then after that then we all
+12NC23FBP_0101 2598347 2602087 EN like quite late then sleep lah because we were playing and all that
+12NC23FBP_0101 2602713 2604198 EN in the chalet mah
+12NC23FBP_0101 2605281 2609364 EN then
+12NC23FBP_0101 2610797 2617847 EN no last time because we all sleep at the b. b. campsite so they separate like girls one room then boys one room
+12NC23FBP_0101 2620607 2622857 CS 就是 one o. g. one chalet
+12NC23FBP_0101 2623833 2632357 EN yeah lah then after that then the next day we all play games then after that at night got the you got heard like got obstacle course
+12NC23FBP_0101 2634320 2640427 EN yeah lah then we need to go that some more that time we all start is like twelve midnight until next day morning
+12NC23FBP_0101 2642627 2645657 CS then that means that one whole night 没有 没有 睡 哦
+12NC23FBP_0101 2651947 2654637 EN then after that we all still climb that stairs ei
+12NC23FBP_0101 2655439 2656336 EN 
+12NC23FBP_0101 2657147 2658677 EN that nanyang house that one
+12NC23FBP_0101 2661597 2664117 CS but by the time 我们 爬 那个 的 时候 已经 天亮 了
+12NC23FBP_0101 2666107 2670527 EN then all the senior all stand at the side lah like because we all past the test wah
+12NC23FBP_0101 2670757 2675647 EN so called pass the test lah then they all like like like welcoming us like that lah
+12NC23FBP_0101 2681041 2682835 EN i think so
+12NC23FBP_0101 2685947 2688747 CS like 没有 go through the obstacles lah like
+12NC23FBP_0101 2689327 2690937 EN they didn't pass the thing lor
+12NC23FBP_0101 2693849 2696633 EN next next take again lah if you are
+12NC23FBP_0101 2698517 2704747 EN some some senior take with us leh but they all may i think some because like like you all like never go for camp
+12NC23FBP_0101 2712484 2714000 EN not <unk>
+12NC23FBP_0101 2715017 2716367 EN yeah lah same lor
+12NC23FBP_0101 2719940 2723621 EN must see lor
+12NC23FBP_0101 2725214 2728493 EN 
+12NC23FBP_0101 2735113 2736351 EN wah
+12NC23FBP_0101 2753257 2757197 CS enhm but but 有些 graduate right
+12NC23FBP_0101 2763396 2764974 EN jing lun like
+12NC23FBP_0101 2772924 2777874 CS 不懂 诶 but but 好像 也 不是 每个人 都 可以
+12NC23FBP_0101 2778257 2779757 CS 都有 stay 吧
+12NC23FBP_0101 2782297 2784817 CS 好像 我 roomie 什么 都 没有 take
+12NC23FBP_0101 2792114 2793320 EN oh
+12NC23FBP_0101 2795486 2801587 CS then 我在 那边 想 如果 next year 可以 stay 要 stay single room 还是 找 一个人 stay
+12NC23FBP_0101 2805223 2806460 EN hah na
+12NC23FBP_0101 2811647 2813207 ZH 你 没有 做 啊
+12NC23FBP_0101 2819707 2821957 ZH 你 不会 找 别人 一起 住
+12NC23FBP_0101 2825563 2826460 EN yeah lor
+12NC23FBP_0101 2838711 2839917 EN a nor
+12NC23FBP_0101 2852295 2856147 CS 因为 我 next year i think 我 roomie 也是 应该 是 都 住 不了
+12NC23FBP_0101 2857152 2859070 CS then 我 也 不懂 要 怎么办
+12NC23FBP_0101 2869097 2871297 CS but 如果 你 可以 住 你 会 要 住 吗
+12NC23FBP_0101 2894727 2895841 EN oh
+12NC23FBP_0101 2919665 2920965 EN oh
+12NC23FBP_0101 2925822 2928730 CS but 你们 那边 每次 jio for supper meh
+12NC23FBP_0101 2939201 2940965 EN oh
+12NC23FBP_0101 2948235 2954545 CS oh 就 like 好像 你去 哪里 别人 都 懂 你在 做 什么 在 干嘛
+12NC23FBP_0101 2965509 2966653 EN 
+12NC23FBP_0101 2971046 2973181 EN wah 
+12NC23FBP_0101 2975841 2978316 EN  yeah lor
+12NC23FBP_0101 2981782 2983669 ZH 他们 怎么 懂
+12NC23FBP_0101 2997323 2998499 EN oh
+12NC23FBP_0101 3011403 3013290 EN 
+12NC23FBP_0101 3025912 3027830 EN 
+12NC23FBP_0101 3038724 3040363 EN en lor
+12NC23FBP_0101 3079158 3081045 CS  这样 cute
+12NC23FBP_0101 3083427 3085871 EN wah left nine minutes
+12NC23FBP_0101 3090821 3093804 ZH 我 有 我 有 带 啊
+12NC23FBP_0101 3100317 3102018 EN 
+12NC23FBP_0101 3105576 3110174 CS but after after one hour they will stop 啊 还是 什么
+12NC23FBP_0101 3112844 3114574 ZH 也是 要 等 那个 人 进来
+12NC23FBP_0101 3125834 3126994 CS 都要 lunch time 了
+12NC23FBP_0101 3141300 3144177 EN oh don't know ei now it's like
+12NC23FBP_0101 3144414 3147094 EN like something conversation but i don't know how long also
+12NC23FBP_0101 3156437 3159004 EN 
+12NC23FBP_0101 3167294 3169704 EN so weird but also nothing much what right
+12NC23FBP_0101 3176873 3178444 EN no ah all
+12NC23FBP_0101 3180177 3181228 ZH 没有 啊
+12NC23FBP_0101 3182992 3184446 EN i thought-
+12NC23FBP_0101 3191221 3191932 EN 
+12NC23FBP_0101 3193554 3196604 CS but that time 我们 fill in 那 application 没有 写 meh
+12NC23FBP_0101 3202552 3207038 EN ah
+12NC23FBP_0101 3207604 3210609 CS but they got our i. c. then 也是 可以 找 wah
+12NC23FBP_0101 3220721 3223598 CS yeah 去 police station lah but police
+12NC23FBP_0101 3229710 3231597 ZH 哦 要 完 了
+12NC23FBP_0101 3235433 3238836 EN 
+12NC23FBP_0101 3249577 3253382 CS 我们 要 take elective 因为 我 只有 两个 elective 而已
+12NC23FBP_0101 3255044 3256744 EN my one is three and a half years
+12NC23FBP_0101 3260454 3265804 CS 因为 我们 as in 本来 是 four years then some modules exempted until become three and one a half lor
+12NC23FBP_0101 3272434 3273950 EN no normal one
+12NC23FBP_0101 3277884 3283054 CS but some people squeeze to three years lah but 一直 overload lor
+12NC23FBP_0101 3287529 3288674 EN save oh
+12NC23FBP_0101 3295022 3296259 EN yeah but
+12NC23FBP_0101 3300343 3302539 EN oh but
+12NC23FBP_0101 3303224 3305494 EN but your result will not be so good wah
+12NC23FBP_0101 3310687 3313471 EN but you stay hall
+12NC23FBP_0101 3313654 3317504 CS 如果 又 要 stay hall then 又 要 study three years wah
+12NC23FBP_0101 3321774 3324964 CS but 我 有 friend 这样 做 ei 他 现在 在 他在 hall
+12NC23FBP_0101 3325754 3326674 EN hall ten ah
+12NC23FBP_0101 3327784 3329214 CS 他在 hall nine 忘 了
+12NC23FBP_0101 3329674 3330934 CS but 他 study three years
+12NC23FBP_0101 3331764 3334374 CS 他们 讲 result 蛮 好的 我 讲 他 很 厉害 hor
+12NC23FBP_0101 3338154 3341004 CS maybe 因为 它的 programming 蛮 好的 吧
+12NC23FBP_0101 3345224 3350024 CS 没有 我 听说 我 那个 friend ah 他 outside 有 做 帮忙 做
+12NC23FBP_0101 3350484 3352294 EN developer ah
+12NC23FBP_0101 3353144 3356094 CS like 做 programming 的 东西 lor 在 outside
+12NC23FBP_0101 3356918 3358001 EN so
+12NC23FBP_0101 3358244 3360314 CS i think 他 programming 蛮 强 的
+12NC23FBP_0101 3367444 3370244 CS 因为 那时 候 我 有 问 他 因为 我们 不是 next sem 要
+12NC23FBP_0101 3370466 3372334 CS 选 什么 modules to take
+12NC23FBP_0101 3374344 3378744 CS then then they all then that time 他们 plan 给 我们是 three years wah
+12NC23FBP_0101 3380134 3385024 CS then 我们 要 弄 three and a half years then 我们 不是 要 like 丢 一些 下去
+12NC23FBP_0101 3386174 3394144 CS then 就 变成 then 然后 就在 那边 问 那些 senior lah like 哪 一些 module 先 take 好 哪 一些 哪 一些 module like later then take lah
+12NC23FBP_0101 3394951 3401884 CS yeah lah then 问 那个 then 他 就是 讲 actually 因为 读 他 他 okay lah 他 他 take three years wah
+12NC23FBP_0101 3402672 3409434 CS then 他 就 讲 lor 它 可以 do then 为什么 我 不可 以 then 我 end up 我 reply 他 因为 你 聪明 嘛
+12NC23FBP_0101 3422261 3423591 EN but
+12NC23FBP_0101 3423684 3431744 CS then 那时候 我们 在 那边 听说 他 他 好像 有玩 games then 晚上 then 早上 看到 他 那边 好像 没有 睡 到 觉 的 那个 感觉
+12NC23FBP_0101 3446350 3447865 EN ah lor
+12NC23FBP_0101 3462904 3464704 CS then 没有 什么 读 到 书 啊
+12NC23FBP_0101 3478201 3480335 EN wah
+12NC23FBP_0101 3482204 3485454 CS ah lor 有时候 我们 也是 hope for bell curve
+12NC23FBP_0101 3498874 3503114 CS 要 看 thirtieth right but ah they say after nine a. m. ah
+12NC23FBP_0101 3507334 3511154 CS after nine a. m. 因为 那时 候 我 去 看 嘛 then 他们 讲
+12NC23FBP_0101 3511694 3515074 CS before that 会 出来 lah but i think they slowly slowly come out ah
+12NC23FBP_0101 3515244 3519614 CS then after that 他们 讲 你 要 你 要有 like all 的话 就 after nine a. m.
+12NC23FBP_0101 3525614 3530134 CS yeah i thought midnight come out 因为 以前 我们 poly 的 都是 midnight
+12NC23FBP_0101 3532344 3535304 EN then midnight then jam the whole system
+12NC23FBP_0101 3536504 3540434 CS 真的 因为 太 多 人 进去 了 then end up like 你 要 看
+12NC23FBP_0101 3541639 3546674 CS  then 你 要 看 then 他 一直 jam 因为 太 多 log in at the same time
+12NC23FBP_0101 3548476 3550642 CS but n. t. u. 的 不懂 会 怎样

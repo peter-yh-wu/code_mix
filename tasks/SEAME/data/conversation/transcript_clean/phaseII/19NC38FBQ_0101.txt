@@ -1,0 +1,411 @@
+19NC38FBQ_0101 23807 25199 EN okay
+19NC38FBQ_0101 35880 38117 ZH 啊 好 可以 好
+19NC38FBQ_0101 41865 42511 ZH 哦
+19NC38FBQ_0101 43265 44707 ZH 可以 可以
+19NC38FBQ_0101 56895 57719 ZH 呃
+19NC38FBQ_0101 62089 62771 ZH 嗯
+19NC38FBQ_0101 63490 64297 ZH 可以 可以
+19NC38FBQ_0101 68907 73387 CS oh my god 等下 你 要 录 那个 那个 多一次 
+19NC38FBQ_0101 76042 77529 EN ai easy money
+19NC38FBQ_0101 81575 84418 CS 唉 用 嘴巴 的 东西 哪里 不 easy
+19NC38FBQ_0101 91186 92888 CS 好吧 好吧 这个-
+19NC38FBQ_0101 94920 96481 CS 昨天 你- 昨天 你 学 什么
+19NC38FBQ_0101 97078 98870 CS 昨天 你的 driving right
+19NC38FBQ_0101 99316 100140 ZH 学 什么
+19NC38FBQ_0101 103597 104158 ZH 哈
+19NC38FBQ_0101 104774 105340 ZH (呃)
+19NC38FBQ_0101 107653 109259 CS 你是 private 还是-
+19NC38FBQ_0101 119173 120677 EN oh my god
+19NC38FBQ_0101 122805 124357 ZH 不然
+19NC38FBQ_0101 127408 131018 CS (emm) before 进 n. t. u. 我就 拿到 了
+19NC38FBQ_0101 132492 134949 CS 你是 噢 minor ah
+19NC38FBQ_0101 136439 137456 EN minor ah
+19NC38FBQ_0101 139240 140961 ZH 啊 多久
+19NC38FBQ_0101 144716 147466 CS  那 为什么 才 六个 lesson
+19NC38FBQ_0101 166224 167219 ZH 哎呦
+19NC38FBQ_0101 175820 177583 ZH 你 做工 为什么 没有 钱
+19NC38FBQ_0101 187705 189113 EN  wa
+19NC38FBQ_0101 204509 207996 CS oh my god 笨 死了 你做 什么 工
+19NC38FBQ_0101 214083 216539 CS 哈 哇 那种 government 的
+19NC38FBQ_0101 217606 218407 CS 做-
+19NC38FBQ_0101 226849 228534 EN customer service
+19NC38FBQ_0101 237970 239409 ZH 你 的 麦 已经 掉 了
+19NC38FBQ_0101 241420 242313 ZH 你看 那个
+19NC38FBQ_0101 258235 260075 EN oh my god so stupid
+19NC38FBQ_0101 260946 261972 EN kopai
+19NC38FBQ_0101 267106 271439 CS 啊 为什么 可以 like 全部 一起 做 同一个 公司
+19NC38FBQ_0101 290530 292012 ZH 哦
+19NC38FBQ_0101 293347 294932 ZH 啊 他 也是 在 那边 做的
+19NC38FBQ_0101 298315 301606 CS oh that means 你是- but 那时候 你 还 没有 认识 他 啦
+19NC38FBQ_0101 307635 310128 CS  笨 死了 what the-
+19NC38FBQ_0101 317388 322326 CS 有 啊 那 时候 我 学 driving 的 时候 哎呦 我的 job 很 boring 的 咯
+19NC38FBQ_0101 322326 323882 CS 是 like-
+19NC38FBQ_0101 323882 331167 CS (呃) 是 like 一个 company then 他们 是 like process 那种 document 的 就像- 就是 要 变成 softcopy ah
+19NC38FBQ_0101 331735 332393 EN then after that
+19NC38FBQ_0101 333857 342390 CS 就 看 你的 client 是 谁 咯 我们 有 government- 我们 也是 有 government client then 还有 其它 的 like a. i. a. ah 什么 屁 的
+19NC38FBQ_0101 348334 349096 ZH 嗯
+19NC38FBQ_0101 349920 357491 CS 不一定 是 写的 啦 就 可能 just 那种- 那种 什么 form 之类的 then after that 就要 去 scan
+19NC38FBQ_0101 357819 365282 CS then 我的- 我的 job 知道 是 什么 吗 超 boring 的 我 跟你 讲 它 scan 完 后 我 就- 我 就要 看 一个 一个 image 要 把它 弄 美美 耶
+19NC38FBQ_0101 365282 369673 CS then 那种- 那种 add 边边 有时候 like 缝 撕掉 什么
+19NC38FBQ_0101 369673 373231 CS 撕掉 什么 then 就有 黑黑的 嘛 then 就要 把它 cut 美美
+19NC38FBQ_0101 373231 376523 CS 要不然 有时候 那些 scanner 就 会 like double feeding
+19NC38FBQ_0101 376523 379795 CS 哇 那个 就 惨了 那个 叫 rescan 麻烦 哎
+19NC38FBQ_0101 385751 388829 CS 不是啊当然 不是 啊 那种 go through 的
+19NC38FBQ_0101 391015 391735 EN but-
+19NC38FBQ_0101 394825 401435 CS 就要 rescan咯唉 就 他们 有 那个 software 还好 啦 可以 让你 rescan 要是 有 double feeding 就 like insert 这样 哦
+19NC38FBQ_0101 402526 403948 CS then 就 just rescan loh
+19NC38FBQ_0101 404599 407493 CS 对呀 超 boring 我都 不懂 为什么 我 可以 做 这么 久
+19NC38FBQ_0101 408265 412000 CS 我- 哎呦 而且 很~ 很~ 很少 钱 啦
+19NC38FBQ_0101 412000 413687 CS 才 five per hour
+19NC38FBQ_0101 416136 425286 CS 哎呀 随便啊但是 我 很 sian ei 我都 找不到 工作 去 那个 什么 recruit expressahwalao 等 这么 久 他 一个- 一通 电话 都没有 打 给我 过 唉
+19NC38FBQ_0101 426898 428093 CS 他- but then-
+19NC38FBQ_0101 463581 467126 CS ei please lah 他们 真的 一通 电话 都 没有 打 给我 哎
+19NC38FBQ_0101 481636 488157 CS 唉 他们 找不到 其它 人 meh as he like 会有 蛮多 人 的 wah 干嘛 一定 要 push 你 奇怪 他们
+19NC38FBQ_0101 492900 494101 EN  en
+19NC38FBQ_0101 494563 500257 CS but then- but then 我 有 几个 朋友 去 recruit express 都 还 蛮 可以 找到 工作 的
+19NC38FBQ_0101 502414 510352 CS 差不多 like 要是 你的 base 是 like 九块 可能 给 他们 三块 了 one turn one set
+19NC38FBQ_0101 516621 517614 ZH 不 认识 人
+19NC38FBQ_0101 525959 533187 CS 哦 我的 还好嘞 我的 有 很多 part-time 他们- 他们 习惯 请 part-timers 所以 比较 好
+19NC38FBQ_0101 533187 534943 ZH 就有 同 年龄 的咯
+19NC38FBQ_0101 535740 541241 CS then 还有 比较- 会有 auntie uncle 这些啊but 他们 都 okay lah
+19NC38FBQ_0101 541822 548046 CS i think- i think 我 留 这么 久 都是 因为 那边 的人哦我的 company 不然 应该 是 哇 can not make it
+19NC38FBQ_0101 576662 578596 ZH 哇 这样 也 可以
+19NC38FBQ_0101 580906 585445 CS aiya but just 在 那边 一边 放哦又 怎样 meh
+19NC38FBQ_0101 586315 590788 CS just like- okay like just 放在 一边 然后 after a while then 停 一下
+19NC38FBQ_0101 591406 593429 CS 要 停 的 meh ei 要 response 的
+19NC38FBQ_0101 610763 612853 EN  stupid
+19NC38FBQ_0101 636985 640335 ZH  神~ 神经病 叫 他 还 那
+19NC38FBQ_0101 643026 647748 CS (er) oh my god but then 神经病哦厉害啊还 懂 那个 number 我 都 不懂
+19NC38FBQ_0101 650854 651909 ZH 哦
+19NC38FBQ_0101 658579 662654 CS 诶 but 我 做 part-time 好像 都 没有 还 tax ei part-time 不用 啊
+19NC38FBQ_0101 664182 666500 ZH 哦  我 不懂 啦
+19NC38FBQ_0101 676439 678936 ZH 哦 因为 你 做 那里 你 才 懂啊
+19NC38FBQ_0101 683485 685093 ZH 长大 了 去 管 那
+19NC38FBQ_0101 691083 693706 ZH 哦 没有 我 不 知道
+19NC38FBQ_0101 697497 709377 CS 没有 啦 他 本来 不是 bio 的 咧 他 本来- 他 本来 是 social- n. t. u. social 要 他 then n. u. s. 他 要 进 f. a. s. s.
+19NC38FBQ_0101 710145 714366 CS 他~ 他 是 那边 的 他 是 arts 的 可是-
+19NC38FBQ_0101 714816 718906 CS 可是 他 不敢 啦 you know 那个 market 不是 很大
+19NC38FBQ_0101 720477 722019 EN then is like-
+19NC38FBQ_0101 722727 731598 CS but 不可以 啦 i think 他们- 他 进不了 嘛 then 他就- 他 本来 social 那 他 就 想 oh my god 那些 g. p. staff then 他就 哦 不要 不要
+19NC38FBQ_0101 732026 736517 CS 然后 他就- 他就 去 bio science lor 我们 是 bio 的 嘛
+19NC38FBQ_0101 737107 743316 CS 我 跟 他-  aiyou 本来 就 一直 以来 都是 比较 bio 的
+19NC38FBQ_0101 744789 746078 ZH 哎呀
+19NC38FBQ_0101 749628 753312 EN i think in bio you got every short nana but then
+19NC38FBQ_0101 754096 755018 EN yeah
+19NC38FBQ_0101 755644 759408 ZH 哎呀 很 难 啦 sian
+19NC38FBQ_0101 760768 762214 ZH 哪里 有 每个 人
+19NC38FBQ_0101 764588 765909 ZH 哈 谁
+19NC38FBQ_0101 770733 772454 CS oh and they as 他们 现在 是 在 读-
+19NC38FBQ_0101 772858 774078 CS 现在 读 medicine
+19NC38FBQ_0101 775358 777048 ZH 中学 你 什么 中学
+19NC38FBQ_0101 778387 782288 CS 哎呀 那种 这么 厉害 我还 以为- 我还 以为 在想 m. j. 那种 like
+19NC38FBQ_0101 784358 788417 CS 安啦 我还 在想 m. j. before 你 讲 中学
+19NC38FBQ_0101 793234 793854 ZH 哦
+19NC38FBQ_0101 795673 797812 CS 啊 你们 以前 哪有 分的 不是 like
+19NC38FBQ_0101 800185 801411 ZH 啊 你们 有 啊
+19NC38FBQ_0101 802324 804007 ZH 难道 都是 japalang ah
+19NC38FBQ_0101 807623 813034 CS 没有 啦 我们 有 那个 h one h two 你们- 就 我们 还要 take contrasting mah 你们 需要 meh
+19NC38FBQ_0101 814723 816194 CS i know i know 就是 那个
+19NC38FBQ_0101 820246 823763 ZH  还好 啦
+19NC38FBQ_0101 832895 837794 CS 还- algebra 还好 是 那些 integration 那些 oh my god
+19NC38FBQ_0101 840001 843374 CS 哦 我 最 喜欢 的 是 stairs 好不好 最 容易 的
+19NC38FBQ_0101 845901 846709 ZH 哪里
+19NC38FBQ_0101 858625 862504 CS 你 本来 就 想要 做 老师 meh then 你 想要 做 么
+19NC38FBQ_0101 869873 874148 CS a. d. m. a. d. m. then 你 出来 要 做 什么
+19NC38FBQ_0101 876638 877891 ZH 哦
+19NC38FBQ_0101 879952 883938 CS 对咯对咯melissa 也是 要 那种 advertising
+19NC38FBQ_0101 887037 888267 ZH 啊 什么 危险
+19NC38FBQ_0101 890178 893564 CS 对呀 对呀 就是 因为 那个 reason 他 才 不要 的 嘛
+19NC38FBQ_0101 899668 901170 CS 哦 他要-
+19NC38FBQ_0101 901621 905216 CS i forget 他要 f. a. s. s. 的 什么 了 吧 好像 是-
+19NC38FBQ_0101 907411 915883 CS (呃) 不可能 不可能 (呃) 有可能 吧 i don't know i think 他 只是 了 like year one 先 try out everything then 再 decide
+19NC38FBQ_0101 920241 921649 CS (哇) 不同 他-
+19NC38FBQ_0101 922194 928519 CS 我 怎么 认识 他 哎呀 random 的 哦 我的 很好 一个 朋友 是 跟他 同班 的 then 就 这样 认识咯
+19NC38FBQ_0101 931057 934323 CS 啊 怎么 不信 stupid
+19NC38FBQ_0101 939037 939868 CS 嗯 他-
+19NC38FBQ_0101 941418 943482 CS 他有 他是 那个 s. l. c.
+19NC38FBQ_0101 944894 946236 EN yes
+19NC38FBQ_0101 948640 953714 CS 哎呀 what you expect her wie 都没有 什么 那种 manga 的 club you know
+19NC38FBQ_0101 955252 956930 ZH 没有 啦 因为 这 几时 有
+19NC38FBQ_0101 958510 959698 ZH 啊 他们 比较
+19NC38FBQ_0101 960760 964664 CS 他们 的 history 比较 长 当然 有 t~ 比较 多 c. c. a.
+19NC38FBQ_0101 968248 971602 CS 对啦 唉 我们- 我们 现在 有 fencing oh my god so cool loh
+19NC38FBQ_0101 973214 974658 CS 哎呀 but then-
+19NC38FBQ_0101 985653 986501 ZH 嗯 要啦
+19NC38FBQ_0101 989218 990619 CS 啊 什么 kendo
+19NC38FBQ_0101 993632 996179 EN (oh) okay in n. t. u.
+19NC38FBQ_0101 996989 1001488 CS oh my god so cool something- something like fencing but fencing 是 拿 剑
+19NC38FBQ_0101 1005223 1008364 CS 是 japa~ 还是 korean korean 也有 这种 还-
+19NC38FBQ_0101 1008788 1010656 ZH 还是 一样 我 也 不懂
+19NC38FBQ_0101 1021187 1023310 CS 咦 then 你是 什么 c. c. a. 的
+19NC38FBQ_0101 1025856 1028445 ZH 哦 哦 我 忘记 你 吹 什么 了
+19NC38FBQ_0101 1030143 1032817 ZH （呃）（噢） 你是 琵琶
+19NC38FBQ_0101 1033709 1037783 CS oh my god oh my god 对对 因为 你是 victorian 啊哈哈
+19NC38FBQ_0101 1040924 1042145 EN aiyou slicker
+19NC38FBQ_0101 1045753 1048979 ZH 哎呀 你们 怎么 有 什么 的 meh
+19NC38FBQ_0101 1053563 1055345 ZH 这样 也好 不然 坐在 那里 很闷
+19NC38FBQ_0101 1060948 1062816 ZH 你 不用 去 拍照 meh
+19NC38FBQ_0101 1068918 1070192 EN walao
+19NC38FBQ_0101 1071911 1074210 ZH 嗯 还好 啦
+19NC38FBQ_0101 1083251 1087835 CS 啊 我看 temasek 我才- 哎对 那时候 去 orientation- 啊
+19NC38FBQ_0101 1088939 1096112 CS 那时候 orientation 我 去看 temasek 我 就看 那个 environment oh my god 我 整个 sian 掉 oh my- 整个 整个 阴阴 dark dark 这样 dull dull 的
+19NC38FBQ_0101 1098437 1101960 CS 哎呀 okay lah 他们 也有 一些 是 比较-
+19NC38FBQ_0101 1102512 1103700 ZH 这样 好玩 的 人
+19NC38FBQ_0101 1104507 1107265 CS 应该 有啊 but v. j. 应该 比较 多
+19NC38FBQ_0101 1108624 1110067 EN v. j.
+19NC38FBQ_0101 1118885 1121092 ZH 啊 什么 意思 他们 是 mage* meh
+19NC38FBQ_0101 1126737 1127883 ZH 哦
+19NC38FBQ_0101 1133614 1137561 CS 是 他们 的 那些 dunmen 的 是 什么 fan
+19NC38FBQ_0101 1139641 1141084 EN (ah) chinese fan
+19NC38FBQ_0101 1156694 1157881 ZH 哦
+19NC38FBQ_0101 1158945 1163629 CS 怎么 没有 要去 t. g. t. g. 比 n. g. 好
+19NC38FBQ_0101 1166291 1168201 CS 哦 victorian 会 english 是吗
+19NC38FBQ_0101 1177624 1179449 CS 哦 but 还好 诶
+19NC38FBQ_0101 1182335 1188108 CS 进不了 (哎) 我都 不想 要去 t. g. 我 都 给你 讲 去 我就 看到 那个 environment 我就 sian 掉 哦
+19NC38FBQ_0101 1188617 1191036 ZH 神经 去 那里 会 死掉
+19NC38FBQ_0101 1223157 1225995 ZH 拜拜 学松 
+19NC38FBQ_0101 1228663 1230019 CS 那么 damn already
+19NC38FBQ_0101 1231382 1232988 EN oh my god so late
+19NC38FBQ_0101 1244482 1245323 ZH 谁来的
+19NC38FBQ_0101 1247708 1249797 ZH 应该 walao
+19NC38FBQ_0101 1252395 1254812 ZH 我 我也是 觉得 我 听到 那个 声音
+19NC38FBQ_0101 1257576 1258791 ZH 你要 打算 做什么
+19NC38FBQ_0101 1261632 1262974 CS 啊 他的 都 over 了
+19NC38FBQ_0101 1266116 1267522 ZH 哦 他有 什么
+19NC38FBQ_0101 1275757 1277081 ZH 哎呦 哎呦
+19NC38FBQ_0101 1281017 1283840 ZH 谁 比较 多东西 哼
+19NC38FBQ_0101 1286798 1290569 CS 什么 不用脑 我的 class training 要 很多 脑
+19NC38FBQ_0101 1292257 1301062 CS 我不知道 烦死了 那个 臭字 唉 还叫我去 去 subcom 我不 我不懂 subcom of j. c. r. c. 要 commencing eh
+19NC38FBQ_0101 1301062 1304183 ZH walao 这个病 唉 八十块
+19NC38FBQ_0101 1306023 1308255 ZH 臭字 哎 这还 换呐
+19NC38FBQ_0101 1313715 1315587 ZH 哦 那个 什么 分水的
+19NC38FBQ_0101 1319372 1323967 ZH 哎呀 因为 你都 不想要 住了 明年 当然不用 住啊
+19NC38FBQ_0101 1327284 1328607 EN walao
+19NC38FBQ_0101 1333612 1339214 CS 喏 最好 最好 没有 命~ term then after that 我就 可以 relax 了
+19NC38FBQ_0101 1340320 1345429 CS 我 这个夏日 咋 midterm 还差 两个 core 我四个 core 他 两个 core 有 midterm meh
+19NC38FBQ_0101 1346498 1347544 ZH 想咯
+19NC38FBQ_0101 1348353 1349210 ZH 四个啦
+19NC38FBQ_0101 1350535 1353048 CS 一个是 lab 然后 两个 elective
+19NC38FBQ_0101 1355728 1357428 ZH 安咯 爽哎
+19NC38FBQ_0101 1375366 1379260 CS 嗯 你不是 要加 华文 meh then
+19NC38FBQ_0101 1382412 1384521 CS boring eh 你要选 华文 做什么
+19NC38FBQ_0101 1385829 1388202 ZH 啊 你们 要选 不可以 选的
+19NC38FBQ_0101 1401660 1403409 EN oh my god
+19NC38FBQ_0101 1405431 1409535 CS oh my god 所以 所以 你是 现在 是在教 chinese 还是什么
+19NC38FBQ_0101 1412453 1414045 EN then only chinese ah
+19NC38FBQ_0101 1414934 1421033 CS ha that means 你的 geo~ history 这些 他们 都没有 给你啊oh my god so sad
+19NC38FBQ_0101 1426170 1428529 CS yala then so 他们 才问你 的嘛
+19NC38FBQ_0101 1431107 1433812 CS 为什么 为什么 做好 chinese teacher so wierd
+19NC38FBQ_0101 1438526 1440431 ZH 我都 不要 做老师
+19NC38FBQ_0101 1454731 1458866 CS 神经病哦 哇 that's not a stereostype
+19NC38FBQ_0101 1462323 1465022 ZH 呃 那 那个 让我想
+19NC38FBQ_0101 1467856 1472547 CS oh my god 我忘记了 哦 是个女的
+19NC38FBQ_0101 1473622 1478227 ZH 女的 女老师 她年龄 那个什么 称为 女子水
+19NC38FBQ_0101 1483488 1486729 CS oh my god 我忘记了 老师 是 什么 名字了
+19NC38FBQ_0101 1494139 1499333 CS oh walao 我 fuxiao* oh 我 j. p. 老师哦一直 换呐 换呐 like free 这样 oh my god
+19NC38FBQ_0101 1503493 1504381 ZH 不懂 哎
+19NC38FBQ_0101 1505898 1507718 ZH 不大懂吧 他没有 教过我
+19NC38FBQ_0101 1510217 1512884 CS 没 他 他 他是不是 h.o.d.
+19NC38FBQ_0101 1515825 1526829 CS 不知道 不过 有一个 有一个 h.o.d, then 他 很 蛮 蛮 strict 的 就 like 他 一进来 then 他 就在那边 讲他的 rule 什么啊有一点啦 有一点
+19NC38FBQ_0101 1528677 1532991 CS oh bahuda 我懂 我懂是谁 but 我忘记 他长 什么样
+19NC38FBQ_0101 1537973 1540016 CS 我发现 我一直 在讲 chinese eh
+19NC38FBQ_0101 1540820 1544426 CS  as in 我的 sentence 竟然 很少有 english
+19NC38FBQ_0101 1548766 1550537 CS 啊 对 stupid
+19NC38FBQ_0101 1557524 1559569 CS 好 我得 get the time
+19NC38FBQ_0101 1569085 1571753 CS 五四 four  stupid
+19NC38FBQ_0101 1574742 1577491 CS 那个 明确跟我讲 can not can not laugh
+19NC38FBQ_0101 1578383 1580822 CS 那个 i like i don't care
+19NC38FBQ_0101 1581685 1584202 CS 就 can not laugh don't know then 就是
+19NC38FBQ_0101 1587317 1590935 CS 对 like 随便讲 but just 不要 笑咯
+19NC38FBQ_0101 1590935 1594782 CS but then aiya 他们 都没有讲 哎 i don't care already
+19NC38FBQ_0101 1599870 1612806 CS 啊 哦 我 first three month 我在 d. p. j. then after that 我 就看过他 but 他哦我的 classmate 有一个 是他的 secondary school friend 我就 看过他咯 then 就
+19NC38FBQ_0101 1612806 1623177 CS then 那时候 来 hall then 看到他 then 他也 他也记得 他也看过我 then 就 then 他也 没怎么 lister啊then 就是 scholar 嘛 i think 有 loh then 就这样 认识啦
+19NC38FBQ_0101 1627572 1628912 ZH 我一下 也是 五啊
+19NC38FBQ_0101 1631390 1636616 CS  ok loh 这个 比较 比较好的 hall friend 就是 他了
+19NC38FBQ_0101 1637593 1638597 ZH 有咯 这样哦
+19NC38FBQ_0101 1642019 1648315 CS 诶 你的 roommate 也是 他是 a. d. m. 还是 是哦这样 你不是 很羡慕他
+19NC38FBQ_0101 1660181 1663972 CS 啊 为什么 then 你 你 为什么 觉得 他有 那个 business hate lah
+19NC38FBQ_0101 1674096 1681058 CS 哈 怎么 他 这么 奇怪 normally 人家 读书 是 practical 他是 interest funny
+19NC38FBQ_0101 1681936 1682901 ZH 什么什么
+19NC38FBQ_0101 1691780 1692922 CS then 很大
+19NC38FBQ_0101 1702950 1708904 CS oh my god please 难怪 他有 那个 freedom
+19NC38FBQ_0101 1712825 1713913 ZH 现实
+19NC38FBQ_0101 1718755 1721786 CS aiya i thought 你 也蛮 well to do 的 不是 meh
+19NC38FBQ_0101 1725308 1730819 CS 啊 是 meh 啊 你有 like 追求名牌 的 <unk>
+19NC38FBQ_0101 1737362 1740828 ZH 但是 你还去 花这种 钱啊 还敢讲 嗯
+19NC38FBQ_0101 1762675 1764836 EN aiyou peer pressure
+19NC38FBQ_0101 1776321 1778190 CS of course 那你 有钱
+19NC38FBQ_0101 1789021 1789935 EN oh my god
+19NC38FBQ_0101 1795596 1798846 CS 啊 三百 you mean 你一天 抽一包 啊
+19NC38FBQ_0101 1799526 1800810 EN walao
+19NC38FBQ_0101 1818473 1819499 ZH 诶 为什么
+19NC38FBQ_0101 1825172 1826598 EN what the-
+19NC38FBQ_0101 1830134 1833359 ZH 唉 这种事 还 蛮 恼的哦嗯
+19NC38FBQ_0101 1839860 1845582 CS why 你要是 那些 是 like 真的是 很想要做 老师的 then 就赚到了
+19NC38FBQ_0101 1847214 1848306 ZH 会有的啦
+19NC38FBQ_0101 1852722 1855451 CS  他就是 passion for teaching loh
+19NC38FBQ_0101 1862845 1865270 EN wah cool
+19NC38FBQ_0101 1868853 1876625 ZH 哎呀 这种老师哦真是为 那个 未来担心
+19NC38FBQ_0101 1886345 1887948 CS 你 为什么 不要去 try
+19NC38FBQ_0101 1892717 1896162 CS then 你就 你就 drag drag drag ok 就 try but 就 drag
+19NC38FBQ_0101 1910253 1918034 CS 对哦 对哦 哎呦 我本~ 我本来 也要去 我本来 也想要 有 consider a. d. m. but then 他们 require 很 jialat leh 有什么
+19NC38FBQ_0101 1928023 1933961 CS 我们的 i think 可能 比较 多 就 like 你有 自己的 以前的 portfolio but at the first thing 我都 没有
+19NC38FBQ_0101 1937724 1942500 CS then 还要 去做 什么 做一个 drawing 要去 take video 什么鬼啊
+19NC38FBQ_0101 1949906 1953606 CS aiya but then 也是啊做~ 去~ 多一天 要做什么
+19NC38FBQ_0101 1963003 1970329 CS aiya but actually 现在 差不多 全部的 course 读 读出来 都 很难找到 工作的啦
+19NC38FBQ_0101 1974689 1975370 ZH 然后
+19NC38FBQ_0101 1977525 1979009 CS 要咯 it's like normally
+19NC38FBQ_0101 1980359 1982257 EN normally ya not doing
+19NC38FBQ_0101 1993975 1998971 CS but actually lawyer singapore 这么小 有很多 官司的 meh so weird
+19NC38FBQ_0101 2009417 2012756 CS lawyer oh my god 这么厉害
+19NC38FBQ_0101 2029161 2030383 ZH 很聪明
+19NC38FBQ_0101 2042956 2046454 CS oh my god 你 你就 拿那些 雇金 
+19NC38FBQ_0101 2057761 2058944 EN oh no lah
+19NC38FBQ_0101 2065077 2067523 EN ah is it like
+19NC38FBQ_0101 2070957 2072108 EN oh my god
+19NC38FBQ_0101 2085199 2089736 CS 哎呀 这样子 不要去啦 有其他的 <unk> 和 那 那个 职位 不要去吧
+19NC38FBQ_0101 2093915 2096603 CS ok lah 那你还是 一定要 住 hall 啊
+19NC38FBQ_0101 2097906 2102198 CS 哎 对哦 为什么 你没有 住 i thought 有 n. i. e. hostel it's different loh
+19NC38FBQ_0101 2107037 2109809 CS oh but 我的 朋友 有来
+19NC38FBQ_0101 2114654 2116644 CS 你要 教什么啊secondary ah
+19NC38FBQ_0101 2118148 2124092 CS primary 我的 我有 我有一个 朋友 也是 n. i. e. 的 but 他是去 教 然后 再 回来读 哎
+19NC38FBQ_0101 2125542 2127638 CS 哦 这么 这样 different
+19NC38FBQ_0101 2135620 2136194 ZH 教什么
+19NC38FBQ_0101 2146091 2147952 EN gauses caught a servant
+19NC38FBQ_0101 2160845 2161868 ZH 当然了
+19NC38FBQ_0101 2168068 2172974 CS 哎呀 我要 我要去 读 graduate
+19NC38FBQ_0101 2176901 2181772 EN graduate lesson i am just trying 
+19NC38FBQ_0101 2184568 2187192 ZH (呃) 大概 多四 五年
+19NC38FBQ_0101 2188869 2190316 ZH 就是 这样的吗
+19NC38FBQ_0101 2191351 2196933 CS 哎呀 but then 可以进 再说咯 like 可以 还是 现在
+19NC38FBQ_0101 2198596 2201027 CS 那也可以 oh my god
+19NC38FBQ_0101 2208992 2209705 ZH 可以 meh
+19NC38FBQ_0101 2216736 2219144 EN (eh) wao oh my god
+19NC38FBQ_0101 2241497 2242688 ZH 啊 可以什么
+19NC38FBQ_0101 2250011 2253067 CS 因为 你 pay 了 已经 很多了
+19NC38FBQ_0101 2255072 2257658 ZH 已经 翻本 再说
+19NC38FBQ_0101 2259687 2261827 ZH 没有啦 我姐姐
+19NC38FBQ_0101 2264352 2266666 ZH 没有啦 哦 她在 做工了
+19NC38FBQ_0101 2269490 2274620 CS 她 比较想去 去那种 也是 legal 那边 的
+19NC38FBQ_0101 2275504 2279221 ZH 好像也有 在读哦 在做工 在读 这样
+19NC38FBQ_0101 2297310 2304441 CS 一直 在玩 好不好 我整个 first sem 在玩唉 like 没有做 tutorial then 在 lecture 睡觉
+19NC38FBQ_0101 2305260 2315556 CS tutorial 也睡觉  what 对啊 对 it's like not for exam oh it's like 我第一次 读 我的 notes ai 我就去 exam 了
+19NC38FBQ_0101 2317702 2319013 EN shut up
+19NC38FBQ_0101 2321275 2325269 CS 不会 很高的咯 乱 double my core no no
+19NC38FBQ_0101 2336200 2339740 CS 哈 你们有 prepare oh my god 我 没有 哎
+19NC38FBQ_0101 2343976 2347053 ZH 我 我每天 都很 迟醒的 我都 不懂 我在做什么
+19NC38FBQ_0101 2354794 2357633 ZH 对呀 我 我要 扁了 我要 变成 马哥了
+19NC38FBQ_0101 2362969 2365314 CS rubbish 我一定 会做的 okay
+19NC38FBQ_0101 2370015 2389437 CS ai please lah 他那个 比我 更死 好不好 it's like 你 for exam 的 前几天哦他还可以 看 manga 的 okay 唉就 一 一个 exam 完哦 他还可以 看 manga when like okay the of course the next exam like a few days away maybe one two days away 他还可以去 看 manga eh oh my god loh
+19NC38FBQ_0101 2389437 2399776 CS 等下当他 看完了 他就 跟我讲 oh my god 怎么办 怎么办 死了 can not finish liao 那我就 你要我 讲什么 他自己要 看 manga 我都 我都 我都 不想 跟他去 讲他了
+19NC38FBQ_0101 2403802 2406950 CS 就 也是这样咯 first time meet notes loh
+19NC38FBQ_0101 2407665 2411058 CS oh my god 我不可以 loh 我 second sem 我 一定会 乖了
+19NC38FBQ_0101 2413906 2420987 CS 哎 那个是 他去 什么 lecture哦怎么会 睡的 好不好 他没有 睡过 lecture it's like miracle 真的
+19NC38FBQ_0101 2424475 2426990 ZH 嗯 大 大 蛮大
+19NC38FBQ_0101 2428563 2431668 CS 他还 那个 like 上 one tutorial 课 class
+19NC38FBQ_0101 2450319 2454689 CS 哇哦 吼吼 oh my god only the guys lah
+19NC38FBQ_0101 2471905 2474712 CS oh my god 要 站起来 so sad
+19NC38FBQ_0101 2489952 2493819 EN oh oh oh that i know the one oh i know i know
+19NC38FBQ_0101 2509673 2513867 ZH 哎呀 因为 他又 不懂 那些 女孩子 的名字 哎呀 就是 这样的啦
+19NC38FBQ_0101 2530862 2532198 ZH 我 全部的
+19NC38FBQ_0101 2533698 2538903 CS 我 全部的 lecture 都可以 开 电脑 看 facebook 的咯这么大 都 没有人管
+19NC38FBQ_0101 2542139 2545014 CS but is it 要是 你没有 print 你的 notes then 你一定 要你的 电脑啊
+19NC38FBQ_0101 2548653 2551416 EN oh crap holly
+19NC38FBQ_0101 2562027 2565345 CS oh my god then 你们 这样 是 like 不用出 一分钱 啊
+19NC38FBQ_0101 2569818 2571188 ZH 哦 这样 他们 会帮你
+19NC38FBQ_0101 2574135 2575413 ZH 哦 多少 多少
+19NC38FBQ_0101 2579519 2581063 EN oh okay
+19NC38FBQ_0101 2583636 2586724 CS then 你可以 讲 你不要 then 你 自己 print 的吗 不可以啊
+19NC38FBQ_0101 2589863 2595768 CS 非要 还钱啊 你自己 有 printer 比较少吧
+19NC38FBQ_0101 2612878 2619375 CS walao 你懂 我们的 notes oh 一个星期 after 一个星期 那种 而且 normally it's like the-
+19NC38FBQ_0101 2620520 2626924 CS yeah 有些 是这样 有些是 evening please loh 要怎么 读完 再去 lecture 那种 rubbish shit
+19NC38FBQ_0101 2644646 2649279 CS i think 那 时间 是 差不多的 没有 还是 没有 这么多 life changes
+19NC38FBQ_0101 2666411 2668411 CS that's call 古板
+19NC38FBQ_0101 2672082 2674090 ZH walao 不像我的 咿呀
+19NC38FBQ_0101 2689822 2693153 CS i know i think amore 还蛮 喜欢 slack 的
+19NC38FBQ_0101 2695003 2708722 CS 对哦 因为 他们 其实 他们 自己 的 education 本来就是 不是说 很 tough 那种 他们 应该是 比较 i know 所以 他们 就是这样咯
+19NC38FBQ_0101 2723206 2724907 ZH 我看 你 没有 时间 吃哎
+19NC38FBQ_0101 2729359 2734118 CS 吃一点 哎 oh my god 你 等下 还要 record 那个 fifty sentence
+19NC38FBQ_0101 2735115 2739055 CS en good luck oh 那个很 stupid
+19NC38FBQ_0101 2750989 2756581 CS 那个 嗯 course swiching between chinese and english
+19NC38FBQ_0101 2762948 2764569 CS oh i know 是
+19NC38FBQ_0101 2767937 2768907 EN he why
+19NC38FBQ_0101 2776597 2778518 EN oh redundan~
+19NC38FBQ_0101 2788531 2796683 CS computer engin~ 做这个 no link school of computer engin~
+19NC38FBQ_0101 2802482 2805836 EN oh i see
+19NC38FBQ_0101 2813280 2814893 ZH 你 打包嘞
+19NC38FBQ_0101 2818044 2819756 ZH 哦 都没有 要吃
+19NC38FBQ_0101 2823354 2825739 CS 等下 lunch 等下 brunch
+19NC38FBQ_0101 2828291 2830649 CS 啊 等一下 哪能 不是 brunch
+19NC38FBQ_0101 2835884 2836853 EN lunch
+19NC38FBQ_0101 2840144 2843011 EN brunch ne you know what's brunch ne
+19NC38FBQ_0101 2855702 2857443 CS 你 usually 你在 这样 你会 出来 meh
+19NC38FBQ_0101 2871237 2874092 ZH 昨晚 我吃 杯面 哎
+19NC38FBQ_0101 2884188 2886452 ZH 哎呀 都走 习惯了
+19NC38FBQ_0101 2890317 2892462 ZH 哦 有 新的一个 他那里 懂啊
+19NC38FBQ_0101 2895783 2899522 ZH 那个 有菜饭 的 和 其他东西
+19NC38FBQ_0101 2902180 2905820 CS then 你干吗 还要他 variety 你都 不会吃 其他东西
+19NC38FBQ_0101 2910967 2914863 CS 嗯 我要 去买 我要 去买 horlicks 分
+19NC38FBQ_0101 2916922 2917790 ZH 笑屁
+19NC38FBQ_0101 2922198 2923837 ZH 哎 最近 有 分别的 meh
+19NC38FBQ_0101 2928550 2930076 EN ovaltine is milo
+19NC38FBQ_0101 2939169 2944131 EN milo is not a chocolate gene it's a coco powder
+19NC38FBQ_0101 2950676 2952999 CS 哎呦 我不懂 我 有没有 喝过 ovaltine neh
+19NC38FBQ_0101 2957824 2959961 CS 它的糖 是 like cream 这样
+19NC38FBQ_0101 2962116 2969982 CS then 可是 horlicks horlicks 也有 那个糖 哎呀 confusing uh
+19NC38FBQ_0101 2971225 2974671 CS 啊 哎呀 现在 都 很少人 喝 horlicks 了 那里 还会有 那个糖
+19NC38FBQ_0101 2990118 2991709 ZH 下楼 看呐
+19NC38FBQ_0101 2993542 2996447 ZH 你这是 猪哎 猪 真是 猪
+19NC38FBQ_0101 3003456 3006525 CS 啊 我每次 到处 乱跑 oh my god
+19NC38FBQ_0101 3023889 3033661 CS 嗯 他么讲 他们 要 住到 year three 他们 没有 year four 他们 business 哪里有 year four
+19NC38FBQ_0101 3038325 3042681 CS 哎 你在 讲 志豪啊 哎呦 讲错了 i know 在讲 志伟
+19NC38FBQ_0101 3045868 3047520 ZH 志伟啊 他去啦
+19NC38FBQ_0101 3049103 3050492 CS 志豪 okay loh
+19NC38FBQ_0101 3056025 3059215 CS what then 你是 like 一半年 devil 
+19NC38FBQ_0101 3085506 3088682 ZH 你是 是 假的 屁的
+19NC38FBQ_0101 3094314 3097079 EN oh targo is like crazy okay
+19NC38FBQ_0101 3103833 3105189 ZH 你是说啊
+19NC38FBQ_0101 3110235 3112867 CS 你的 driving 一个 小时 多少
+19NC38FBQ_0101 3115544 3116341 EN then weekend
+19NC38FBQ_0101 3118150 3120620 ZH 哦 我的 便宜 我的 比较 便宜 便宜两块
+19NC38FBQ_0101 3123789 3125412 CS 三十个 lesson neh
+19NC38FBQ_0101 3126408 3127435 ZH 六十块
+19NC38FBQ_0101 3129838 3138879 CS 而且 好累 我觉得 我的 driver uh instructor for what 哪来的 学校 二十四块
+19NC38FBQ_0101 3141455 3150513 CS 学校他们 一个 lesson 他们 一个 lesson is 九十 minute 差不 多 蛮贵的 我记得
+19NC38FBQ_0101 3155675 3157402 CS then 他们 就 road pass ah
+19NC38FBQ_0101 3162895 3164532 CS 啊 你 fail 两次
+19NC38FBQ_0101 3175450 3180621 CS god 我 我 考的好 lesson 这种 他都没有 驾到 哎 我很 xian neh
+19NC38FBQ_0101 3181885 3183541 ZH 没有
+19NC38FBQ_0101 3184664 3185913 ZH 不然
+19NC38FBQ_0101 3186597 3187624 EN xiao
+19NC38FBQ_0101 3188794 3189822 ZH 你教育我 啊
+19NC38FBQ_0101 3191147 3193870 ZH 你还 给我讲 你穷 嘞
+19NC38FBQ_0101 3201331 3205198 CS (oh) what you mean 什么 happen 哪里有 这种事
+19NC38FBQ_0101 3230515 3232780 ZH 啊 因为 快十年了
+19NC38FBQ_0101 3235353 3240805 CS ah i thought 现在 more than ten years 不可以 在那个 road 因为 government ma
+19NC38FBQ_0101 3245674 3247795 CS 否则 罚 fine 的 meh
+19NC38FBQ_0101 3264239 3266895 CS safra safra 和我的 一个站
+19NC38FBQ_0101 3268357 3268934 ZH 对
+19NC38FBQ_0101 3271310 3271912 CS then 你嘞
+19NC38FBQ_0101 3275142 3277093 ZH 啊 这样 不是 很 靠近
+19NC38FBQ_0101 3280043 3286631 CS 一个站 而已 是么 第 (啊) 住 h. d. b uh
+19NC38FBQ_0101 3289136 3290821 EN candle uh
+19NC38FBQ_0101 3293999 3297917 ZH 诶 你是住 那个 红红的 是吧
+19NC38FBQ_0101 3304658 3306837 EN uh till then end of temasek poly
+19NC38FBQ_0101 3320438 3326616 CS 明秀 我懂 那个 library 那边 再下去
+19NC38FBQ_0101 3334709 3336161 ZH 哦 为什么
+19NC38FBQ_0101 3339324 3342342 CS 哦 那个 有一个啦 but 我都 不去哎
+19NC38FBQ_0101 3350738 3355424 CS i know 我 没有在 那边吃 也是
+19NC38FBQ_0101 3357888 3360729 ZH 啊 对 走 走路 走得到
+19NC38FBQ_0101 3364149 3367952 CS but 我也 不是很常 出去 
+19NC38FBQ_0101 3370319 3372583 ZH 安咯 没有打包 就没有吃
+19NC38FBQ_0101 3378629 3380421 CS 就吃 rubbish ah
+19NC38FBQ_0101 3384187 3388561 CS 有 k 就吃 k 有什么 吃什么 啦 哎呀
+19NC38FBQ_0101 3393020 3396700 ZH 我妈妈 要 做工啊 你妈妈 煮的啦
+19NC38FBQ_0101 3399123 3401762 EN wao cool
+19NC38FBQ_0101 3408207 3414207 CS 我咯 我回 hall then 我妈妈 就可以 煮 哇哈哈 哎 什么 回 hall i mean 回家
+19NC38FBQ_0101 3415824 3416933 CS 因为 在 hall
+19NC38FBQ_0101 3423888 3426871 ZH  什么 天哪 懒惰
+19NC38FBQ_0101 3432787 3435833 ZH 嗯 然后 吃过饭 也是 很闲
+19NC38FBQ_0101 3438345 3441685 ZH 哎呀 反~ 哎呀 这样咯 哎呀 人
+19NC38FBQ_0101 3442761 3445290 EN live to eat eat to live

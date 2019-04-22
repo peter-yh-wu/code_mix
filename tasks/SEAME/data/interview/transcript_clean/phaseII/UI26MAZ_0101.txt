@@ -1,0 +1,202 @@
+UI26MAZ_0101 16040 18383 ZH 我 现在 啊 我
+UI26MAZ_0101 20907 22185 EN ah okay okay okay
+UI26MAZ_0101 22185 27127 CS 啊 我 现在 在 做着 master 啊 在 pharmacy school
+UI26MAZ_0101 27127 33730 CS under doctor habibah and my 我的 project title is ah
+UI26MAZ_0101 33730 37611 EN develop a drug for diabetes to design a drug ah
+UI26MAZ_0101 37611 39211 EN based on computer method
+UI26MAZ_0101 39211 44015 CS 拿 电脑 的 啊 用 电脑 来 design drug
+UI26MAZ_0101 44015 50309 CS so basically 我们 会 面对 很多 问题 like pharmaceutical company
+UI26MAZ_0101 50309 58575 CS 他们 会 有 一点 疑问 说 你 用 电脑 好像 design drug 会 不会 好像 啊
+UI26MAZ_0101 58575 60459 ZH 怎样 讲 就是
+UI26MAZ_0101 60459 65055 ZH 人家 会 不会 相信 你 所 你 所 做的 东西 啦 对 你们 的 信任 有 多大
+UI26MAZ_0101 65055 70432 CS so basically after 我们 design complete after computer design 完了 drug
+UI26MAZ_0101 70432 76580 CS 我们 会 去 lab lor to do the experiment to prove ah 证明 说 我们 的
+UI26MAZ_0101 76580 82786 CS 所做 的 东西 跟 电脑 做的 会啊 related 到 correlated 到 一样
+UI26MAZ_0101 83839 86279 CS  就 好像 现在 我 做的 是 under
+UI26MAZ_0101 86279 89444 CS mmm diabetes so 我们 会
+UI26MAZ_0101 89444 95952 CS ah screen through the database 好像 我们 有 一个 small molecule compound
+UI26MAZ_0101 95952 100123 CS 然后 那里 面 会 有 大概 有 三千 个 compound
+UI26MAZ_0101 100123 109738 CS which ah from malaysia 的 plant isolate 出来 就是 提 啊 怎样 讲 提炼 出来 他们 的 里面 的
+UI26MAZ_0101 109738 110361 ZH 啊
+UI26MAZ_0101 112656 114613 CS functional group 啊 就是 他们 的
+UI26MAZ_0101 114613 116100 EN act (uh)
+UI26MAZ_0101 116723 122404 CS 怎样 讲 就是 mm bio activity 的 compound lah
+UI26MAZ_0101 122404 130444 CS 然后 我们 才 从 那边 我们 会 选出 最好 的 大概 是 top hundred ah 一百 最好 里面 然后 再
+UI26MAZ_0101 130444 133761 CS 慢慢的 study 它们 然后 选 出来 那 一个 plant
+UI26MAZ_0101 133761 137454 CS 植物 里面 有 anti-diabetic 的 properties
+UI26MAZ_0101 137982 142402 CS 然后 我们 会 然后 去 lab 里做 experiment
+UI26MAZ_0101 142402 147831 CS so from 这个 plant 里面 如果 这个 plant有 activity 的话 我们 会 concentrate 它 either 是做
+UI26MAZ_0101 147831 152580 CS (嗯) 拿来 做 drug 还是 拿来 做 nutraceuticals 好像 是
+UI26MAZ_0101 152580 157175 ZH 做 (嗯) 啊
+UI26MAZ_0101 158241 159539 EN mm
+UI26MAZ_0101 161356 164247 ZH 好像 是 怎样 讲 就是
+UI26MAZ_0101 164247 166909 CS 好像 let's say 是讲
+UI26MAZ_0101 167512 179724 CS 啊 芒果 对 我们 会 做 芒果 的 汁 so that ah diabetes 的人 可以 用 这个 来 减少 啊 啊 怎样 讲
+UI26MAZ_0101 179724 183010 EN ah yah yah yah yah
+UI26MAZ_0101 191077 198791 CS diabetes 就是 那个 植物 里面 我们 要 知道 它 里面 有 什么 东西 它的 啊 bio activity的compound
+UI26MAZ_0101 198791 203464 CS for 那个 bio activity compound 还会 有 很多 的 compound let's say 一个 植物 里面 有 五十 个
+UI26MAZ_0101 203464 205401 CS from 这 五十 个 我们 会 screen through
+UI26MAZ_0101 206768 209498 CS 啊 一个 database 我们 叫 nadi database
+UI26MAZ_0101 209498 215452 CS 这 nadi database 里面 它们 有 三千个 compound from 我们的 plant 不同 的 plant 全部 不同 的 plant
+UI26MAZ_0101 215452 218065 CS so 这个 compound 里面 会
+UI26MAZ_0101 218065 220449 CS screen through 这个 我们的 receptor
+UI26MAZ_0101 220449 222588 CS 就是 我们 的 target 在 我们 身体 里面
+UI26MAZ_0101 222588 225653 CS so 它会 (嗯) form 一个 complex
+UI26MAZ_0101 225653 228957 CS 然后 if 它的 complex 是 stable 的话 hor
+UI26MAZ_0101 228957 237329 CS 就是 说 那个 compound 会有 activity 跟 我们的 啊 receptor diabetes ah
+UI26MAZ_0101 237329 242831 CS 然后 from 这个 compound 我们 会 看到 它是 从 哪 一个 plant 拿 出来
+UI26MAZ_0101 242831 246997 CS ah so from 那边 我们 就 会 知道 它是 从 哪 一个 plant 里面
+UI26MAZ_0101 254624 255483 EN computer
+UI26MAZ_0101 257625 260438 ZH 啊 对 对 对 因为 会 怕 会 比较 快 一点
+UI26MAZ_0101 282962 284947 ZH 啊 对 对 对
+UI26MAZ_0101 284947 287912 CS 我们 只是 design 是
+UI26MAZ_0101 287912 290474 CS 我们 其实 我们 没有 design 我们 是 用 他们 做 而已
+UI26MAZ_0101 290474 294620 CS 他们 design 然后 我们 用来 啊 analyze result
+UI26MAZ_0101 294620 297937 CS 他们 是 create 一个data mm 一个 software
+UI26MAZ_0101 297937 300816 CS 是 好像 我们 所用 的 是 docking
+UI26MAZ_0101 300816 305640 CS 就是 他们 用 genetic algorithm 来 screen through
+UI26MAZ_0101 305640 308932 CS 这个 东西 来 来 算 出 它的 interaction energy ah
+UI26MAZ_0101 308932 314221 CS 然后 它的 binding energy 是 看 他们的 complex 有多 strong form 起来 有多 strong
+UI26MAZ_0101 321730 324387 CS mm contribution 应该 是
+UI26MAZ_0101 324387 326920 CS 大 多数 应该 是 在 drug ah
+UI26MAZ_0101 326920 329139 EN gokgok mm
+UI26MAZ_0101 342507 345839 CS (嗯) 如果 是 它 database 我们 是 应该 是
+UI26MAZ_0101 350346 358522 CS 找出 我们 malaysia 里面 的 plant which has anti diabetes so that 我们 可以 利用 它
+UI26MAZ_0101 358522 360934 CS 来 好像 maybe
+UI26MAZ_0101 360934 364703 CS 因为 我们 malaysia 有 很多 (嗯) biodiversity mah
+UI26MAZ_0101 364703 373883 CS 是 很 strong 在 这里 so 我们 可以 用 那个 来 做 我们 的 income like ah economic part of the economic 如果 它 真的 会 有 anti diabetes
+UI26MAZ_0101 376592 381316 CS mm peria katak peria katak 好像 苦瓜
+UI26MAZ_0101 381316 385261 ZH 苦瓜 苦瓜 是 已经 证明 已经 有 了
+UI26MAZ_0101 385261 390562 ZH (嗯) 因为 我的 啊 姐夫 的 爸爸
+UI26MAZ_0101 390562 394206 CS 他是 他 也有 anti 他 也有 diabetes 他是 type two diabetes
+UI26MAZ_0101 394206 401160 ZH 然后 我 姐姐 就是 给他 吃 苦瓜 然后 他 吃了 整 几个 礼拜 啦
+UI26MAZ_0101 401160 405699 CS 他的 diabetes 已经 好 很多 他 从 十四点 多 下 到 五点 多
+UI26MAZ_0101 407720 413346 CS 已经 prove 了 很 strong 的 anti diabetic effect for 苦瓜 peria katak
+UI26MAZ_0101 416085 419527 CS details 对 对 对嗯
+UI26MAZ_0101 423768 428800 CS ah no no no not complement他 只是 好像 我们 家 煮 的 苦瓜 也 可以
+UI26MAZ_0101 430154 437664 CS 啊 就是 我 姐姐 就是 好像 在 家 煮 苦瓜菜 啊 苦瓜 煮 啊 喝汤 啊 就 给他 这样 吃 应该 是 汤 汤 gok
+UI26MAZ_0101 442517 444527 ZH 啊 不会 不会 不会 嗯
+UI26MAZ_0101 444527 447341 ZH 如果 是 你 煮 煮 要 煮汤 会 比较 好
+UI26MAZ_0101 447341 449155 ZH 煮汤 是 煮到 容易 吃
+UI26MAZ_0101 450130 453379 CS 我的 姐姐 是 这样做 啊 应该 是 应该 okay
+UI26MAZ_0101 461695 463963 EN oh my g. p. a. is mm bio tech
+UI26MAZ_0101 464721 467886 EN biotech at aim university s. p.
+UI26MAZ_0101 469243 477912 CS so 我 报读 是 biotech biotech 是 读 很多 东西 就是 我们 读 大概 基本 basic of everything in science
+UI26MAZ_0101 477912 482437 CS like mmm plant 我们 有 读 咯 genetic
+UI26MAZ_0101 482437 486934 CS plant ah human ah 然后 drug development 好像
+UI26MAZ_0101 487361 492085 CS 很 basic 的 东西 是 idea of everything ah living cells ah
+UI26MAZ_0101 492085 496991 CS 是 会 for 可是 我们 会 focus on genetic 会 比较 多 genetic food tech
+UI26MAZ_0101 500042 502856 ZH 嗯 其实 因为
+UI26MAZ_0101 502856 507505 CS ah for 我 本身 会 比较 喜欢 研究
+UI26MAZ_0101 507505 512279 CS so for 这个 course 因为 以前 我有 thought 我的 degree 是 做
+UI26MAZ_0101 512580 515633 CS 有 mixed also bio informatic and lab work
+UI26MAZ_0101 515633 520495 CS so 我 觉得 bio informatic 会 很好 especially when come to drug design
+UI26MAZ_0101 520495 521575 ZH 因为 啊
+UI26MAZ_0101 521575 523987 CS for 以前 我们 做 只是 很
+UI26MAZ_0101 523987 530193 CS blind run screening 就是 一个 plant 里面 就是 拿 出来 然后 慢慢 一个 一个 一个 去 screen
+UI26MAZ_0101 530193 534571 CS 然后 现在 我们 不用 我们 是 用 computer 来 screen through 它 就 很快
+UI26MAZ_0101 535907 541560 CS let's say 现在 我们 有 三千个 compound 如果 以前 的 方式 如果 你要 test 一个 diabetes 你要 三千个 一个 一个 去 try 它
+UI26MAZ_0101 541560 545329 CS 放 放 放 去 try so 现在 不用 我们 会 go through
+UI26MAZ_0101 545329 553505 CS computer 的 software 然后 它 会 帮 我们 排 出来 我们 最好 的 然后 我们 会 读 它的 啊 study 它的 interaction
+UI26MAZ_0101 553505 558530 CS 这样 会 比较 快 then 省 时间 然后 又 省 很多 钱
+UI26MAZ_0101 558530 562885 CS 不用 一个 一个 去 做 experiment 会 costly ah mmm
+UI26MAZ_0101 564586 575110 CS ah programmer 我 不会 只是 basic 的 啊 command key like linux ah unix command key mm 可是 我们 是 run in linux
+UI26MAZ_0101 575687 576405 EN linux
+UI26MAZ_0101 587858 596703 CS 我的 工作 是 好像 我们 要 找出 好像 我们 身体 有多 很多 部分 这要 找出 哪 一个 啊 target ah 我们 要
+UI26MAZ_0101 596703 602256 CS 啊 针对 就是 diabetes maybe它cause by 什么 原因 什么 原因 我们 我们 要 知道 它的 原因
+UI26MAZ_0101 602256 609392 ZH 然后 要 知道 它 从 (嗯) 哪 一个 会 让 我们 的 身体 啊
+UI26MAZ_0101 609392 612326 CS cause 我们 的 身体 会
+UI26MAZ_0101 612326 617100 CS 造成 diabetes ah 然后 从 那边 我们 要 对症下药 就是 好像 对症下药 一样
+UI26MAZ_0101 617100 620000 CS 就 我们 要 讲 找出 它的 target 然后
+UI26MAZ_0101 620000 624387 CS (嗯) 你 要 知道 它的 原因 为什么 你要 找出 这个 target 然后
+UI26MAZ_0101 624387 631246 CS after that 你要 screen through 这个 target 咯 然后 你要 做 essay 就是 做 lab work
+UI26MAZ_0101 631246 635854 CS ah if 它 show to your activity 的话 如果 你 还有 时间 的话
+UI26MAZ_0101 635854 642663 CS 你 可以 去 optimize 它的 lead compound 它的 啊 single compound from 你 screen through
+UI26MAZ_0101 642663 645554 CS maybe 它 你 会 improve 它的 activity 还是 什么
+UI26MAZ_0101 645554 651168 CS 如果会 improve 它 它 的话 你 会 啊 develop for 一个 drug 这 样子 咯
+UI26MAZ_0101 654512 658277 CS ah so far 我们 是 under mosti
+UI26MAZ_0101 658998 664475 CS 在 k. l.啊 然后 还有
+UI26MAZ_0101 664475 671948 CS ah okay oaky mm so far 我 知道 应该 是 mosti 吧 <unk> is under mosti
+UI26MAZ_0101 681748 685919 CS 啊 这里 啊 啊 head to head ah pharmaceutical
+UI26MAZ_0101 685919 689339 EN design simulation p. h. d.
+UI26MAZ_0101 702152 707547 CS 啊 有 有 应该 在 degree course 有 读 过 pharmacy 也有 读过
+UI26MAZ_0101 707547 713678 CS 其实 anatomy 是 比较 basic 就 真 真 是 我们 cell 里面 的 东西 会 比较 复杂 一点
+UI26MAZ_0101 713678 717321 CS 啊 就是 我们 的 cell 好像 我们的 cell 里面 它的 外表
+UI26MAZ_0101 717321 723477 CS 它 要 喝 它 会 有 很多 不同 的 protein 组 找 组 成 一个 不是 说 protein
+UI26MAZ_0101 723477 726053 ZH 啊 可以 说是 (嗯)
+UI26MAZ_0101 728173 734776 CS 怎样 讲 它的 membrane cell 里面 会 很多 的 receptor so 我们 要 针对 它的 哪 一个 会 是 我们 的 functional group
+UI26MAZ_0101 743203 744552 ZH 啊 对 对 对
+UI26MAZ_0101 746341 751369 CS 啊 我们 是 看 嗯 basic 的 basic 的
+UI26MAZ_0101 751369 755364 ZH 就 好像 啊 我们的 有
+UI26MAZ_0101 755716 759640 CS 好像 给 diabetes 他们 会有 adiponetic 好像是
+UI26MAZ_0101 759640 764540 CS adiponicyte 就是 说给 fat cell fat cell
+UI26MAZ_0101 764540 770258 CS 啊 那个 fat cell 是 会 会 造 成 diabetes 它 会 给 我们的 cell become resistant to insulin
+UI26MAZ_0101 770258 776213 CS insulin 是一个 hormone 给 我们 的 身体 reduce 我们 的 glucose leh level lah insulin
+UI26MAZ_0101 776213 784211 CS 看完 这个 adipocyte 的 的话 如果 多的 话 它 会 造成 我们的 cell become resistant 就是 normal 的 insulin
+UI26MAZ_0101 784211 790643 CS 不会 给它 也 不会 带来 一个 啊 reduce glucose 的 level 这 样子 啦
+UI26MAZ_0101 790643 799103 CS 就是 maybe mm 好像 比较 肥胖 的人 会 机会 比较 会 啊 中 diabetes 会 比较 多 会
+UI26MAZ_0101 808550 810686 CS 啊 我们 是 在 cell
+UI26MAZ_0101 810862 815098 CS 就是 adipocyte 我 所说 的 adipocyte cell adipocyte 里面 它会 有 一个
+UI26MAZ_0101 815098 820047 CS ah protein 叫 p. p. a. gamma 这个 p. p. a. gamma 是 一个 nuclear receptor 来的
+UI26MAZ_0101 820047 828907 CS 就是 当 我们 的 啊 compound 进 进去 这个 cell 里面 它 会 去 bind 跟 这个 p. p. a. gamma
+UI26MAZ_0101 828907 832726 CS 这个 p. p. a. gamma 它会 regulate 它的 cell 就是 给 它
+UI26MAZ_0101 832726 839738 CS (嗯) 又再 (嗯) 好像 分 出来 给 比较 生 出 健康的 cell 出来
+UI26MAZ_0101 839738 845844 CS 它 就 不会 有 那种 resistant 这 样子 咯 大 大概 是 这 样子
+UI26MAZ_0101 851343 855886 CS 啊 啊 会 辛苦 一点 因为 这里 more on chemistry
+UI26MAZ_0101 855886 858399 CS 然后 我 是 以前 是 biotech so
+UI26MAZ_0101 858399 863575 CS from 这个 我要 读 很多 东西 要 study 很多 东西 especially chemistry
+UI26MAZ_0101 865610 872150 CS 和 电脑 的 构成 它的 database 啊 然后 它的 software 啊 什么 algorithm 来 run 它
+UI26MAZ_0101 872150 877829 CS 然后 basic 的 command key 什么 啊 都 要 学过
+UI26MAZ_0101 880894 883005 ZH 啊 大概 一年
+UI26MAZ_0101 886557 892789 CS so after raya maybe will move to wet lab do experiment 做 我的 experiment
+UI26MAZ_0101 904969 912155 CS 啊 我们 有 separate sub project 这个 好像 assay 他们 会 sub 给 别的 student 做 他们 会 做 两
+UI26MAZ_0101 912155 917884 CS mm assay assay 的 部分 咯 他们 develop 它的 assay 然后 (嗯)
+UI26MAZ_0101 917884 922256 CS when 那个 assay develop 好 我们 就是 可以 利用 它们 来
+UI26MAZ_0101 922256 924761 CS 大多数 assay 是 如果 cell 是 可以 买
+UI26MAZ_0101 924761 926629 CS mammalian cells ah 什么 都 可以 买
+UI26MAZ_0101 933942 937470 ZH 啊 是 有 我有 两个 方式 咯
+UI26MAZ_0101 937470 942359 CS 一个 是 用 mammalian cell 是 普通 我们 cell test lor
+UI26MAZ_0101 942359 947065 CS 然后 看 它的 glucose 它 它们 那个 test cell 是
+UI26MAZ_0101 947065 951563 CS cell 是 我们 要看 它的 啊
+UI26MAZ_0101 951563 959319 CS affinity of the 它们 的 ligand 能 bind 不能 bind 跟 那个 cells 就是 看 它们 的 fluorescent 他们 会 有 一个 machine 来 detect
+UI26MAZ_0101 959947 966103 CS 他 会 出 好像 我们 有 如果 它 能 bind 的话 他 会 给 我们 一种 color 颜色 然后 它的 machine 会 detect
+UI26MAZ_0101 966103 975409 CS 看 它的 颜色 有 多深 if 它的 颜色 很深 的 话 它 它 就会 affinity to bind 跟 那个 我们的 所谓 的 receptor会 比较 强 一点
+UI26MAZ_0101 975409 978826 ZH 就是 这 样子 大概 是 这 样子 嗯
+UI26MAZ_0101 983726 989128 CS (嗯) 全部 都是 drug design 可是 like 不同 disease
+UI26MAZ_0101 989128 994422 CS 好像 h. one n. one malaria ah dengue
+UI26MAZ_0101 994422 998040 CS 这 比较 就 好像 malaria dengue 会 比较 是 (嗯)
+UI26MAZ_0101 998392 1004623 CS third year ah third country ah 比较 会 比较 多 一点 的 cases ah
+UI26MAZ_0101 1007623 1012045 CS mm so far mm 还 没有
+UI26MAZ_0101 1012045 1016015 ZH 还 没有 因为 那天 有些 问题 就是 好像
+UI26MAZ_0101 1016370 1023100 CS (嗯) 我 不懂 是 他们的 system 是 怎样 子 因为 我 我的 老板 有 好像 complain 给 我们 因为 他们的 project 已经 到 好像
+UI26MAZ_0101 1023100 1026743 CS okay 已经 prove that 它 会有 activity 可是
+UI26MAZ_0101 1026743 1030387 ZH 上面 没有 给 签名 哦 你的 功 已经 完 了
+UI26MAZ_0101 1030387 1038151 CS 不用 再 继续 做 就是 好像 给你 啊 待到 这个 五年 就是 五年 完了 然后 如果 你有 activity 他们 不给 钱 你 也 不能 做
+UI26MAZ_0101 1038151 1045268 CS 可是 说 他 他 就 很 奇怪 做么 已经 prove 了 有 activity 做么 你 还不 要 给 我 continue 下去 我的 project 这 样子 咯
+UI26MAZ_0101 1045721 1052429 CS 我 有 听到 这样的 问题 啦 我有 com 我的 老板 有 complain 啦 啊
+UI26MAZ_0101 1062193 1066087 CS ha 对 对 在 continue 他的 project 好像 去 做 跟 那个 好像
+UI26MAZ_0101 1066087 1072972 CS 苦瓜水 啊 好像 它的 tab tablet 啊 什么 再 continue 他的 project 下去 他们 就是 stop 在 那边
+UI26MAZ_0101 1072972 1075208 CS 哦 就 没有 continue
+UI26MAZ_0101 1075208 1079787 ZH 对 对 对 对 对 对 对 对 对 对 对 对
+UI26MAZ_0101 1082951 1086468 ZH 就是 在 争取 着 这样 的 东西 哦 嗯 有 时候 在 争取
+UI26MAZ_0101 1086468 1089534 CS 希望 他们 会 给 我们 多 一点 来做 extend
+UI26MAZ_0101 1091795 1097398 CS (嗯) 其实 我的 work almost finish 了 可是 我 还 没有register
+UI26MAZ_0101 1097398 1107172 CS 因为 我 还 我 不懂 他的 offer letter 几时 会到 因为 我 已经 send 去 大概 四个 四个 月 左右 了 可是 我 没 拿到 offer letter
+UI26MAZ_0101 1113312 1117709 CS 就是 很 奇怪 就是 我的 project almost finish 可是 我会
+UI26MAZ_0101 1117709 1120800 CS 因为 at least one year mah for master so 我会
+UI26MAZ_0101 1120800 1128579 CS find out to ah maybe use other better method ah 还是 怎样 因为 for computer work 你 还有 其他 的 method 来做
+UI26MAZ_0101 1128579 1133026 CS drug design 就 好像 现在 我们 是 用 docking 它 还有 一个 是 pharmacophore feature
+UI26MAZ_0101 1133026 1134948 CS pharmacophore feature 就是
+UI26MAZ_0101 1135671 1138579 CS mm pharmacophore study 是 好像 它 没有
+UI26MAZ_0101 1138579 1142674 CS concentrate on 我们的 target 它 只是 concentrate on available drug
+UI26MAZ_0101 1142674 1146091 CS 就是 commercialize 的 drug 然后 他们 从 journal 里面 找 出来
+UI26MAZ_0101 1146091 1148280 CS 看 它们的 activity 会 有 多高
+UI26MAZ_0101 1148280 1156310 CS 然后 from 它们的 那个 里面 drug 里面 我们 要 study 它的 (嗯) functional group 那 一个 那 那 一个
+UI26MAZ_0101 1156310 1164761 CS 会 给你 activity 然后 from 那边 我们 会 做 一个 啊 three d. 的 啊 好像
+UI26MAZ_0101 1168395 1170915 CS 一个 label ah three d. 的 label 给 它们
+UI26MAZ_0101 1170915 1173960 CS 就是 说 let's say 它 是 一个 三 三角形 的 label
+UI26MAZ_0101 1173960 1179041 CS 然后 这 三个 我们 如果 要 有 anti-diabetic 它 就要 有 三个 这 三个 functional group
+UI26MAZ_0101 1179041 1185398 CS so from 这个 我们 会 screen through database 好像 刚才 我们 讲 nadi database 哪 一个 compound 会 有 这个 三个 的 functional group
+UI26MAZ_0101 1185398 1187599 ZH 它会 排 出来 给 我们
+UI26MAZ_0101 1187599 1190397 ZH 这是 另外 一个 方法
+UI26MAZ_0101 1195146 1199360 CS bio informatic so far 还 (嗯)

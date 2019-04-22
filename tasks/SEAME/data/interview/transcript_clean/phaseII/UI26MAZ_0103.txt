@@ -1,0 +1,203 @@
+UI26MAZ_0103 0 1483 CS 他们 去 lab 就 是 说
+UI26MAZ_0103 1745 5565 CS 有 有 些 lab 他们 才 刚 develop ah
+UI26MAZ_0103 5565 7474 ZH 就 是 叫 他们 去 那 边 也 是 坐着 等着
+UI26MAZ_0103 7897 9808 CS 东西 来 machine 来 啊 还是 什么
+UI26MAZ_0103 9808 12811 ZH 然后 有 些 是 不是 很 有 兴趣 就 是 他们 做
+UI26MAZ_0103 13546 15873 CS 日本 啊 有 有 好像 gano
+UI26MAZ_0103 16434 23701 CS gano 里 面 也 有 也 有 几间 啊 可是 好像 一样 他们 给 的 价钱 大概 是 千 五 到 千 八 里面
+UI26MAZ_0103 23701 30243 CS biotech fresh grad 很少 很少 就 是 in sales 去 到 那边 做 又 没 有 c. 没有 cert 拿 来 做 什么 就 是 来 这里 啊 at least
+UI26MAZ_0103 30243 32602 CS 如果 你 拿 scholarship 也 是 千 五 块
+UI26MAZ_0103 33370 36603 CS 如果 你 不 要 做 research 就 是 做 sales sales 会 比较 高
+UI26MAZ_0103 37572 45909 CS (嗯) sales 是 (嗯) 给 普通 的 啦 大概 是 如果 是 fresh 的 大概 是 千 八 然后 他们 的 commission 会 很高 啊
+UI26MAZ_0103 45909 49141 CS fresh 拿 拿 到 完 应该 是 有 两 千 六 两 千 五
+UI26MAZ_0103 49141 53519 CS 啊 这 个 时候 啊 我 的 有 我 朋友 有 做 啦 他们 做 sales 的
+UI26MAZ_0103 54124 56525 ZH 他们 拿 到 应该 有 两 千 六 两 千 七
+UI26MAZ_0103 59349 60957 CS aim 十年 十年
+UI26MAZ_0103 64122 69172 CS 对 对 对 对 对 我 觉得 三年 不够 因为 三 年 只 是 你 能 读 到 basic 罢了 你 不能
+UI26MAZ_0103 69939 76422 CS 啊 现在 他们 也 是 三 年 但是 他们 有 industry training 我们 三年 是 说 我们 没有 好像 有 三 个 月 放假
+UI26MAZ_0103 76422 81556 ZH 我们 只是 两 个 礼拜 最长 也 是 两 个 礼拜 放假 罢了 就 是 说 时间 就 会 很 密
+UI26MAZ_0103 82661 85327 CS 我们 的 好像 三 个 月 我们 会 有 一 个 short course
+UI26MAZ_0103 85327 88893 CS 两 个 月 大概 是 两 个 月 这样 的 short course 两 个 多 月 的 short course
+UI26MAZ_0103 90140 98532 CS 然后 就 是 会 (嗯) 现在 的 就 不同 现在 的 他们 就 是 他们 的 三 个 月 的 时间 他们 会 去 industrial training
+UI26MAZ_0103 99453 100250 EN mm
+UI26MAZ_0103 105952 108401 CS aim ah aim 他们 的 老师
+UI26MAZ_0103 108401 114503 CS 我 不 懂 因为 是 我 的 这里 因为 我 我 不懂 太多 的 lecturer 是 什么 啦 我 觉得
+UI26MAZ_0103 114503 120674 CS 我 有 三个 上 过 几个 course 啦 好像 啊
+UI26MAZ_0103 120674 126676 CS mo~ modelling 有 有 个 马来 老师 他们 教书 有 点 不是 很 认真
+UI26MAZ_0103 126676 132903 CS 我 不懂 因为 只是 我 我 不能 给 很多 的 opinion 还是 什么 因为 我 我 不是 这里 的 学生
+UI26MAZ_0103 132903 138746 CS 然后 我 的 boss 就 会 很 忙 就 是 时常 就 飞 飞 那边 飞 这边 就 是 没有 时间 管 我们
+UI26MAZ_0103 139472 148899 CS 然后 aims 好 是 他 他们 老师 会 很多 时间 在 好像 改纸 不 是 改 啊 就 是 好像 你 有 问题 你 很 直接 去 找 他们 他们 都 会 帮 你
+UI26MAZ_0103 149631 155253 ZH 然后 大多数 的 导师 他们 因为 很多 都 是 从 印度 来
+UI26MAZ_0103 155253 160244 ZH 然后 印度 啊 别 的 国家 来的 老师 比较 多
+UI26MAZ_0103 160244 166622 ZH 然后 他们 给 的 教书 的 方法 会 嗯 不同
+UI26MAZ_0103 166622 172743 CS 可以 说 是 他们 的 英文 会 比较 好 他们 教书 啊 然后 不 会 mix up 的 好像 我们 讲 rojak 马来语 又 参
+UI26MAZ_0103 172743 176107 CS 啊 英文 这样 有 时 会 confuse 一 点
+UI26MAZ_0103 176107 184404 CS 然后 starting 他们 来 的 时候 也 是 有 一点 不 不 习惯 他们 的 slang 就 是 我们 读 m. 他们 读 yam eh
+UI26MAZ_0103 185854 189271 CS 他们 的 n. 是 yan 他们 是 是 yum 不 知道 他 讲
+UI26MAZ_0103 189271 195792 CS yan yum 我 听 不懂 是 什么 字 去  啊 现 现在 会 比较 好 如果 听 到 会 比较 好
+UI26MAZ_0103 198993 200853 ZH 啊 有 有 有 有 有 有 有 几个
+UI26MAZ_0103 201603 206450 CS 有 有 有 几个 蛮 多 哦 我 觉得 三 四 个 哦 从 aims 过 来 嗯
+UI26MAZ_0103 206826 211940 CS 现在 有 也 有 去 u. s. m. 的 sungai 那个 kelantan 的 u. s. m. 的 inform 也 有 过 去
+UI26MAZ_0103 216278 226101 CS ah from 你 说 aims aims 是 我 们 现在 more on molecular work genetic 会 比较 多 因为 他们 有 一个 dean 我们 的 dean 是 好像 他们 会 比较
+UI26MAZ_0103 227008 231062 CS ah expert in mo~ molecular 好像 genetic ah 这样 的 东西
+UI26MAZ_0103 231062 236239 CS 好像 一 有 有 有 有 有 他们 的 molecular 蛮强
+UI26MAZ_0103 236239 238776 CS quite 强 他们 在 develop 着 他们 的 lab
+UI26MAZ_0103 243134 248673 CS 嗯 应该 是 印度 会 比较 多 from india
+UI26MAZ_0103 251159 257385 CS oh grant grant hor grant so far ah 政府 的 grant 很少
+UI26MAZ_0103 257385 261167 CS 有 的 他们 有 的 是 有 有 一个 grant 我 知道 是 从 外国
+UI26MAZ_0103 261912 266646 CS 不懂 是 哪 一个 他 是 vaccine 的 vaccine 的 grant
+UI26MAZ_0103 266646 274178 CS 已经 我 知道 他 他 这个 我们 的 dean 他 有 一个 已经 是 已经 patent patent 了 for vibrio cholera 他的 vaccine
+UI26MAZ_0103 274178 277022 CS 然后 他 他们 的 grant 是 从 外国 来 的
+UI26MAZ_0103 283776 289120 CS mm u. s. m. 有 有 有 有 有 跟 u. s. m.
+UI26MAZ_0103 289120 292377 CS so far 好像 他们 都 有 有 有 有 跟 u. s. m. collaborate
+UI26MAZ_0103 292377 296715 CS 因为 他 的 dean 以 前 是 u. s. m. 他 那个 so 他们 会 有 跟 u. s. m. collaborate
+UI26MAZ_0103 297991 301497 ZH 然后 其它 是 好像 啊
+UI26MAZ_0103 301497 306661 CS company oh 好像 吉打 有个 company 是 什么 啊 新的 company
+UI26MAZ_0103 306661 314968 CS sin-tech ah kulim 有 一个 是 什么 啊 有 在 kulim 不错 if i wasn't if i am not mistaken 在 kulim 的 有 一个company
+UI26MAZ_0103 316407 318156 CS sin 什么 tech
+UI26MAZ_0103 320837 323430 CS 不是 不是 from marketer 它 是 genetic 的
+UI26MAZ_0103 323430 329009 CS genetech ah 什么 我 也 忘记 去 了 在 在 在 kulim 的 应该 是 kulim
+UI26MAZ_0103 334201 335700 ZH 槟城 啊
+UI26MAZ_0103 337615 338707 ZH 槟城
+UI26MAZ_0103 340894 346502 ZH 不是 很 懂 哦 不是 很 懂 不是 很 懂
+UI26MAZ_0103 346502 352841 ZH 我 知道 北海 北海 槟城 唉 那天 我 去 的 那间 是 哪里 啊
+UI26MAZ_0103 355028 358563 ZH 我 忘记 去 了 我 有 去 过 几间 啊 我 有 去 过 两 间
+UI26MAZ_0103 360101 360944 ZH 好像
+UI26MAZ_0103 361833 363131 CS drug ah 好像 是
+UI26MAZ_0103 363767 370197 CS mm panadol ah 好像 咳 咳 那 个 我 们 吃 的 咳嗽 药 啊 这 样子
+UI26MAZ_0103 370973 380637 CS 类似 好像 有 一间 是 比较 是 啊 蓝藻 啊 有 一间 他们 就 是 比较 supplement 的 东西 是 啊 蓝藻 哦<unk>
+UI26MAZ_0103 380637 388474 ZH 蓝藻 是 因为 我 的 朋友 的 他 的 自己 人 是 那 一间 公 公司 的 老板 然后 他 就 带 我 进去 看 一下
+UI26MAZ_0103 388474 393114 CS 然后 gano gano 是 在 kedah 那边 gano 也 是 supplement 的
+UI26MAZ_0103 397892 400705 ZH 嗯 没 没有 啦 这是 没有 没有
+UI26MAZ_0103 400705 403448 CS gano excel 罢了 他们 做 supplement 的 东西
+UI26MAZ_0103 406743 410507 CS 应该 是 没有 我 我 so far 知道 是 gano excel 一间
+UI26MAZ_0103 411911 414766 ZH 做 灵芝 那个 灵芝 灵芝 的 药材
+UI26MAZ_0103 428876 433844 CS mm course mate ah 没有 没有
+UI26MAZ_0103 433844 440532 CS 可是 他们 我的 啊 我的 senior 他们 有
+UI26MAZ_0103 440532 443278 CS 自己 的 juice ah on manggis
+UI26MAZ_0103 449446 455614 CS 因为 他 是 做 h. one n. one 可是 他 test 那边 有 activity 他 就 直接 做 他 juice lo
+UI26MAZ_0103 455614 461582 CS 他们 是 大多数 是 for manggis 就 最好 的 部分 是 它 的 皮 它 的 皮
+UI26MAZ_0103 464179 465834 CS 啊 他们 就 是 拿 来 做 它 的 juice 了
+UI26MAZ_0103 466132 470351 CS 因为 它 的 皮 是 antioxidant 会 比较 多 会 比较 多 会 比较 好
+UI26MAZ_0103 473287 474414 ZH 啊 那 我 就 不懂
+UI26MAZ_0103 474414 477323 ZH 因为 我 之前 有 听 过 他们 是 拿来
+UI26MAZ_0103 477323 484128 ZH 怎样 做 我 不懂 啊 会 会 有 人 吃 啊 是 煮 还 是 什么 它 的 皮 啊 然后 做 的 时 吃 晒 干 还 是 怎样
+UI26MAZ_0103 484128 486645 ZH 我 有 听 过 啊 之类 的 东西
+UI26MAZ_0103 494612 496421 ZH 腌 了 的 啊
+UI26MAZ_0103 496986 499251 ZH 腌 了 我 就 不 是 很 懂
+UI26MAZ_0103 499645 501416 ZH 我 就 不 是 很 懂
+UI26MAZ_0103 504040 506204 CS preserve 它 preserve 它 起 来
+UI26MAZ_0103 506699 508912 ZH 应该 是 会 有 啦 因为
+UI26MAZ_0103 510389 514332 CS 嗯 如果 是 你 preserve 用 对 的 方式 应该 是 会 有
+UI26MAZ_0103 514332 519183 ZH 好像 他们 会 有 几 种 就 是 说 保 住 它 的 新鲜 新鲜 啊
+UI26MAZ_0103 519183 523216 CS 啊 如果 是 说 你 蒸 着 水 里 面 的 maybe 它 会 少
+UI26MAZ_0103 523216 527852 CS 因为 你 蒸 着 水 它 会 dissolve 进 我们 的 水 里面 它 会 比较 少 掉
+UI26MAZ_0103 528878 531268 CS 吃 了 也 是 maybe 会 不是 很 好 啦
+UI26MAZ_0103 531268 534753 CS 因为 你 已经 有 的 东西 会 dissolve dissolve 进 我们 的 水 里面 嘛
+UI26MAZ_0103 534753 539792 CS 如果 是 它 已经 dissolve 进 水 里面 你 吃 了 就 是 没有 什么 意思 了
+UI26MAZ_0103 545259 548492 ZH 嗯 大概 是 我们 会 腌 在 盐 里面
+UI26MAZ_0103 548492 552912 CS 盐 里面 就 是 说 bacteria 不能 生存 他 他 会 out 比较 alkali 一点
+UI26MAZ_0103 552912 559852 CS 那么 bacteria 会 不能 生存 因为 bacteria 大多数 它的 生存 的 p. h. 会 比较 是 acidify 就 是 大概 是 啊 六 七 啊
+UI26MAZ_0103 559852 567895 CS 五 六 七 这样 如果 是 你 放 盐 下 去 的 话 它 比较 alkali 然后 它 会 比较 高 一 点 它 大概 就 是 (嗯) 八 九 十 这 样 bacteria 不 会 生 存 咯
+UI26MAZ_0103 569378 572854 EN alkaline alkaline condition mm
+UI26MAZ_0103 572854 579056 CS 比 比较 难 如果 是 以 普通 的 bacteria 会 比较 喜欢 比较 acidic
+UI26MAZ_0103 582596 586767 ZH 啊 糖 也 有 糖 糖 也 有
+UI26MAZ_0103 587838 589275 ZH 嗯 醋 醋
+UI26MAZ_0103 589275 594664 ZH 醋 醋 会 比较 给 肉 比较 多 啊 肉类 比较 多 肉类 比较 多
+UI26MAZ_0103 601728 605011 ZH 啊 应该 不 是
+UI26MAZ_0103 607217 612264 CS 应该 是 它 的 environment 的 问题 啊 environment 不 适合 不 适合 bacteria 生存
+UI26MAZ_0103 614515 619795 CS 啊 醋 是 acid 它 会 比较 是 strong acid 比较 不是 说 strong 它 它会 它的 p. h. 会 比较 高
+UI26MAZ_0103 623150 629800 CS 他们 的 bacteria 不 是 说 他们 会 在 strong 会 比较 啊 er er slightly acid ah slightly
+UI26MAZ_0103 629800 631472 EN slightly acid ah
+UI26MAZ_0103 633188 635970 ZH 也 也 不能 也 不能 不能 不能 对 对 对 对 对
+UI26MAZ_0103 635970 639409 CS 它 是 around neutral 大概 是 五 六 七 这样 啊
+UI26MAZ_0103 639409 641725 CS 如果 是 太 strong 也 不能 啊
+UI26MAZ_0103 644575 651312 CS 啊 能 能 能 of course 有 能 能 好像 有 有 些 bacteria 能 生存 在
+UI26MAZ_0103 651312 654530 CS mah more than hundred degree celsius 一定 有
+UI26MAZ_0103 658110 659207 ZH 啊
+UI26MAZ_0103 659207 660928 ZH 应该 是 不会 啦 因为
+UI26MAZ_0103 660928 662821 CS 如果 是 它 会 acidic 它 它
+UI26MAZ_0103 662821 666002 ZH 比较 很 少 能 看见 在 我们 的 周围 里面
+UI26MAZ_0103 666002 670057 CS 啊 如果 没 normally 给 food food 的 话 它 bacteria 会 不同
+UI26MAZ_0103 670971 675238 CS 因为 有 有 些 是 它 不 不 适合 它 的 food 的 condition 它 也 不 能 生存 啊
+UI26MAZ_0103 675238 683004 CS 然后 它 的 humidity 是 周围 的 啊 水量 水份 啊 什么 都 都 会 影响 啊 都 会 影响
+UI26MAZ_0103 686418 688691 ZH 啊 这里 会 比较 爽
+UI26MAZ_0103 695607 698388 CS 啊 啊 就 是 看 它 humidity 都 会 有 影响
+UI26MAZ_0103 707471 717104 CS 平常 都 会 啦 目前 是 上 就 是 说 是 facebook  可是 facebook 也 是 很 闷 啊 最近 很 闷 啊 就 是 看了 没有 东西 看 很闷 啊
+UI26MAZ_0103 721443 723607 CS mm facebook 这样 应该 是
+UI26MAZ_0103 723607 728939 ZH 一时 啦 然后 比较 适合 好像 交流 啊 就 是 因为 朋友
+UI26MAZ_0103 728939 737415 CS 有的 就 是 就 是 大多数 都 是 跑 啊 跑 出国 啊 出 外面 做工 啊 是 很少 联络 久 久 会 去 联络 他们 一次 在 facebook 问 他们 好 不好 啊
+UI26MAZ_0103 737415 739939 ZH 然后 工作 做到 怎么样 啊 这 样子 咯
+UI26MAZ_0103 740752 744207 CS 然后 好像 是 要 做 gathering ah 然后 也 是 一样 从 facebook 里面
+UI26MAZ_0103 744207 747808 ZH 安排 时间 
+UI26MAZ_0103 750530 757946 CS ah status ah depend ah depend depend depend 最近 有 最近 有 update
+UI26MAZ_0103 757946 762875 CS 然后 有 一阵 时间 我 也 是 有 停 停 停 停 很久 了 停 几个 月 没有 update
+UI26MAZ_0103 762875 771157 CS 然后 最近 又 有 update 回 因为 要 放假 咯 朋友 就 要 回来 就 是 说 啊 问 他们 几时 有空 啊 出来 这样子
+UI26MAZ_0103 776178 781335 CS facebook ah 最近 很多 人 都 是 在 做 生意 就 是 说 我 觉得 蛮好
+UI26MAZ_0103 781335 784595 CS 如果 你 做 internet 的 生意 就 是 说
+UI26MAZ_0103 784595 790867 CS ha 现在 是 (嗯) 你 卖 衣服会 比较 多 如果 是 你 能 别 的 东西 会 maybe 会 比较 好
+UI26MAZ_0103 790867 798167 CS 就 是 他们 所谓 的 啊 blue ocean strategy ah 就 是 找 新 的 market 这 样 子 啊 没有 competition ah
+UI26MAZ_0103 798167 803648 CS ah maybe 去facebook 会 有 因为 现在 facebook 里 面 都 是 很多 都 是 卖 衣服
+UI26MAZ_0103 803648 808164 CS maybe 你 可以 卖 别 的 东西 也 有 他们 是 promote 好像
+UI26MAZ_0103 808164 814390 CS m. l. m. 就 是 啊 他们 direct sales direct sales multi level 他们 direct sales ah supplement
+UI26MAZ_0103 814390 822796 CS 我 有 看 过 他们 在 facebook 里面 promote 可是 他们 只是 promote 他们 的 link ah 然后 做 好像 啊
+UI26MAZ_0103 822796 824542 CS encourage 你 的 话 啦 就 是 说
+UI26MAZ_0103 824542 833694 CS 做 什么 你 要 做工 这样 多 啦 还是 什么 什么 什么 之类 的 东西 他们 都 会 在 facebook 里 面 promote 就 是 来 啊 get 你 的 attention lah
+UI26MAZ_0103 837739 842237 ZH 嗯 如果 我 看 到 是 衣服 很多 全部 都 是 衣服
+UI26MAZ_0103 847567 850006 ZH 我 没有 买过 可是 我 的 朋友 有 买 过
+UI26MAZ_0103 850006 855174 CS 他们 买 是 从 中国 中国 蛮 便宜 啊 可是 quality
+UI26MAZ_0103 855174 863626 CS okay lah okay 不是 不是 说 很好 那 一种 可是 还 okay lah 可是 如果 你 买 回来 你 跟 电脑 看 会 相差 一点
+UI26MAZ_0103 864335 869676 CS 因为 你 现在 电脑 看 因为 maybe 他们 会 edit 会 他们 的 颜色 啊 会 相差 一点
+UI26MAZ_0103 869676 870195 EN 
+UI26MAZ_0103 870195 879167 CS 电脑 看 会 比较 美 他们 他们 的 因为 你 看 了 是 说 他们 会 给 model 穿 啊 还是 什么 看 了 会 比较 美 然后 你 买 买 回来 你 看 了 会 比较 不同
+UI26MAZ_0103 879167 886547 CS 因为 好像 衣服 你 看 了 model 穿 很 美 可是 你 穿 下 去 你 本身 不 是 很 美 不 适合
+UI26MAZ_0103 886547 892308 CS so 好像 去 店 会 比较 好 如果 你 个人 会 觉得 买 衣服 好像 你 很 喜欢 shopping ah
+UI26MAZ_0103 892308 897140 CS 啊 你 去 店 买 会 比较 好 你 因为 at least 你 有 试 试 看 试 穿 上 哦
+UI26MAZ_0103 898302 900162 ZH 它 的 布 你 喜欢 不 喜欢
+UI26MAZ_0103 900162 905724 CS 你 internet 买 你 不 知道 它 的 布 适 不 适合 你 啊 这 样子 啊 个人 啊 看 个人
+UI26MAZ_0103 915288 920723 CS 啊 我 觉得 因为 是 我 在 做 着 master 应该 是
+UI26MAZ_0103 920723 924206 CS 如果 他们 有人 觉得 project 是 什么 maybe 会
+UI26MAZ_0103 924206 932988 CS 啊 然后 我 maybe 我 propose 去 别 的country 他们 接受 我 的 proposal 然后 maybe 能 continue 在 那边 这 样子 咯
+UI26MAZ_0103 937667 943287 ZH 啊 可以 可以 可以 可以 可是 要 做 做 成品 要 蛮 久 时间 大概
+UI26MAZ_0103 944493 949794 CS 他们 要 study 他 的 side effect 给 animals 吃 看 有 没有 side effect 什么 也 是 蛮 久 的 project
+UI26MAZ_0103 949794 952893 CS 啊 然后 要 approve ah f. d. a. 什么
+UI26MAZ_0103 952893 958044 CS 如果 是 drug 会 比较 麻烦 如果 是 supplement 好像是 nutraceutical company ah
+UI26MAZ_0103 958044 960499 CS 出 好像 juice ah 什么 会 比较 容易
+UI26MAZ_0103 961307 963269 CS 只要 没有 side effect 他们 就 能 了
+UI26MAZ_0103 969041 974493 ZH 嗯 我 不 是 很 清楚 不 是 很 清楚 不 是 很 清楚
+UI26MAZ_0103 981220 984297 CS 有 有 有 有 有 有 control 有 有 有 他们 要 control
+UI26MAZ_0103 985103 992049 CS 好像  我 所 说 的 好像 supplement 这样 的 东西 好像 juice 这样 这样 的 东西 会 比较 容易 compare to drug
+UI26MAZ_0103 992049 998712 CS drug 他们要 test ah clinical trial 什么 都 要 要 要 管 嘛 可是 for 好像 juice 还是 什么
+UI26MAZ_0103 999045 1001235 CS 如果 你 prove 到 没有 side effect 就 可以 了
+UI26MAZ_0103 1002022 1004321 CS 好像 是说 side effect 就是 没有
+UI26MAZ_0103 1004321 1008260 ZH 它 不会 给 你 的 身体 带来 害处 就 可以 了 就 是 说 短暂 的 啦
+UI26MAZ_0103 1008260 1013604 CS 他们 不会 说 做 clinical trial 不会 啦 会 比较 容易 compare to drug
+UI26MAZ_0103 1020158 1026876 ZH mm 这个 要 看 他们 的 他们 他们 那边 做 做 做 东西 的 人 啊
+UI26MAZ_0103 1026876 1032760 CS 就 是 他们 因为 你 submit 过 去 了 然后 他们 要 process 是 排 排队 还是 什么 啊
+UI26MAZ_0103 1036526 1040276 CS 我 觉得 如果 是 在 malaysia 如果 你 有 钱 会 很 快
+UI26MAZ_0103 1040276 1041947 EN 
+UI26MAZ_0103 1050704 1057823 CS procedure 是 好像 嗯 你 要 有 一个 好像 如果 你 从 你 study 啊 产品
+UI26MAZ_0103 1057823 1060287 ZH 就 是 你 要 给 它 吃 喂 它 吃 咯
+UI26MAZ_0103 1061086 1066154 CS 喂 那个 animal 吃 好 像 老鼠 啊 吃 了 你 要 看 他 kidney ah 做
+UI26MAZ_0103 1068762 1071199 CS 嗯 大多数 会 test 在 那 个 老鼠
+UI26MAZ_0103 1072081 1076755 ZH 因为 老鼠 它们 的 构 构照 啊 会 和 人 会 比较 相似
+UI26MAZ_0103 1076755 1078708 ZH 而且 它们 是 比较 小只 可是 他们 的
+UI26MAZ_0103 1078708 1083293 CS 构照 大概 和 人 的 会 比较 相似 它们 的 cells ah 会 比较 相似 一点
+UI26MAZ_0103 1087283 1096499 CS ah certain part 老鼠 也 有 如果 不同 的 disease 好像 drug 他们 会 test 不同 的 那个 位 啊 不同 的 animal
+UI26MAZ_0103 1096499 1101677 CS 好像 有 些 人 是 用 啊 rabbit
+UI26MAZ_0103 1102504 1104125 ZH 然后 老鼠 也 有 分 几 种
+UI26MAZ_0103 1106499 1111876 CS ah rabbit 我 就 不是 很 清楚 因为 我 知道 你 知道 有 一 个 lecturer prof chan 他们 test on
+UI26MAZ_0103 1111876 1116087 CS 他们 test 那个 tongkat ali compound on rabbit
+UI26MAZ_0103 1119047 1124006 ZH 猪 以前 猪 以前 他们 是 造化 是 它们 是 提炼 它 的
+UI26MAZ_0103 1124006 1131139 CS ah insulin ah 就 是 我 所谓 的 hormone for for diabetes 他们 是 从 猪 里 面 拿 出 来
+UI26MAZ_0103 1133176 1138558 CS ha 那个 不能 那个 不能 然后 他们 是 ban 掉 一个 是 以前 以前 很久 现在 他们 他们
+UI26MAZ_0103 1138558 1143618 CS 所谓 做 的 是 recombinant 就 是 自己 produce in 它 synthetic
+UI26MAZ_0103 1152442 1156791 CS 就是 大概 是 这 样子 啦 如果 是 drug 他们 会 去 clinical trial 就 是 给 人家 try
+UI26MAZ_0103 1158069 1161491 CS 有 几个 我 觉得 有 u. s. m. 有 他 会 给 人家 try
+UI26MAZ_0103 1166491 1169467 CS 有 有 有 有 有 好像 hospital 全部 都 有
+UI26MAZ_0103 1169467 1172270 CS hospital 可是 你 要 maybe 有 sign agreement 还是 什么
+UI26MAZ_0103 1172270 1177396 CS 因为 我 有 读过 几 张 他们 patent 的 paper 在 u. s. ah
+UI26MAZ_0103 1177396 1182592 CS 他们 会 给 (嗯) hospital 还有 大概 几 个 人 几 个 人 这 样子
+UI26MAZ_0103 1183570 1186143 CS mm try 了 然后 他们 之后 做 report lor
+UI26MAZ_0103 1187206 1189760 CS 他 会 有 大概 有 三 个 phase 的
+UI26MAZ_0103 1191016 1195266 CS 三个 phase ah if i am not mistaken 应该 会 有 三个 phase

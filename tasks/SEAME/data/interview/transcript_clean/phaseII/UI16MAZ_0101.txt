@@ -1,0 +1,181 @@
+UI16MAZ_0101 0 7310 CS 啊 我的 英文 名字 叫 wong beng hui
+UI16MAZ_0101 7310 16191 CS 啊 做工 的 啊 technical support yay
+UI16MAZ_0101 16191 23940 CS (呃) 基本 上 是 一间 小 公司 然后 outsource 进去 intel 里面 做
+UI16MAZ_0101 23940 31644 EN en
+UI16MAZ_0101 31644 33666 ZH (呃) 对不起
+UI16MAZ_0101 33666 42874 CS (呃) 我的 公司 大部分 都是 专注 于 outsource 的人 去 公司
+UI16MAZ_0101 42874 51757 CS 那个 intel osram plexus 那些 人 做工 然后 本身 它 自己 也有 做 那些 啊 电脑 买卖 的 东西 这样啦
+UI16MAZ_0101 51757 58562 ZH 啊 差不多 可以 这样 算是
+UI16MAZ_0101 60228 61617 ZH 对
+UI16MAZ_0101 63075 71194 CS 啊 听 电话咯 然后 或者 是 chat support 还是 web support 就是 email 咯
+UI16MAZ_0101 71194 76256 CS so 一 开始 开始 的 时候 就是 啊 先听 call 先
+UI16MAZ_0101 76256 84658 CS 就是 听 call 大约 半年 这样 过后 我就 转去了 走 chat 就是 用 chat 来 communicate with user
+UI16MAZ_0101 84658 90017 CS 这样 就 啊 real time 这样咯 trouble shooting 咯
+UI16MAZ_0101 90017 97203 CS 然后 现在 又 转了 变成 web 就是 user submit email 进来 就是 我 reply 他 给他 solution
+UI16MAZ_0101 97203 99704 CS 然后 他 try 了 能不能 他再 reply 我
+UI16MAZ_0101 99704 107088 CS 然后 我再 啊 解决 决定 看 要不要 给他 下一步 的 那个 solution
+UI16MAZ_0101 107088 114800 CS 啊 算是 但是 只是 internal的人咯 就是 intel internal 但是 是 globally的
+UI16MAZ_0101 117802 126931 CS 就是 啊 我的 support 是 office support啦 就是 说 他们 office 里面 有 用到 的 application像 internet explorer outlook
+UI16MAZ_0101 126931 129776 CS 然后 其它 一些 啊 application
+UI16MAZ_0101 129776 136326 CS 之前 有 support v. p. n. 他们 自己 在 家里 也 可以 connect 回 intel network v. p. n.
+UI16MAZ_0101 136326 143140 CS 啊 还有 其它 一些 他们 工作 上 需要 用到 的 那些 application咯
+UI16MAZ_0101 143140 148142 CS 但是 他们 有 分得 很 detail 有些 不是 我们 support 的 就是 另外 一些 team 的人
+UI16MAZ_0101 148142 155051 CS 但是 大部分 我们 只是 support 我们 应该 要 support 的 东西 大部分 都是 outlook的application啦
+UI16MAZ_0101 155051 161146 CS 还是 那些 啊 anti virus 还有 那些 他们 security update 这样 的 东西
+UI16MAZ_0101 165444 171698 CS 大部分 都是 他们 分成 三三 大部分 咯 一个 是 outlook
+UI16MAZ_0101 171698 175442 CS 然后 另外 一个 是 啊 security 跟 software
+UI16MAZ_0101 175442 178105 CS 就是 说 anti virus 跟 software installation
+UI16MAZ_0101 178105 180322 CS 然后 第三个 就是 printer 跟 hardware
+UI16MAZ_0101 180322 184500 CS printer 跟 hardware 就是 他们 用 很多 那些 network 的 printer
+UI16MAZ_0101 184500 187507 CS 他们 需要 用 application 来 connect 过去
+UI16MAZ_0101 187507 193282 CS 还能 用 就是 有时 他们 print 不到 还是 那个 software 坏了 就是 reinstall
+UI16MAZ_0101 193282 195086 CS 然后 hardware 的话 就是
+UI16MAZ_0101 195086 205636 CS 基本上 是教 他们 怎样 restart 或者 有 什么 办法 去 那些 像 电脑 start 不到 的 话 就是 啊 safe mode 啊 system install
+UI16MAZ_0101 205636 212152 CS 如果 再 不能 的 话 就是 要 啊 route 这个 ticket 去 那个 他们 的 修理 电脑 的 部门
+UI16MAZ_0101 221267 223274 CS off 不到
+UI16MAZ_0101 227417 233653 ZH 啊 大部分 如果 正式 来讲 他们 都是 在 公司 里面 做工
+UI16MAZ_0101 233653 239480 CS 他们 每 一个 site 都会 有 一个 好像 啊 修理 电脑 的
+UI16MAZ_0101 239480 243646 ZH 只是 基本上 他们 先找 我们 先 看 我们 能不能 解决 他 问题
+UI16MAZ_0101 243646 247457 ZH 如果 能的 话 就是 解决 咯 如果 真的 是 没有 办法 了
+UI16MAZ_0101 247457 250568 CS 我们 才能 route 过去 那个 p. c. service
+UI16MAZ_0101 250568 253773 CS 看 either 是 如果 desktop 的 号码 会 派人 过去 拿咯
+UI16MAZ_0101 253773 256781 CS 如果 是 laptop 大部分 都是 user 自己 拿 过去
+UI16MAZ_0101 256781 262069 EN 
+UI16MAZ_0101 262069 266581 CS 啊 大部分 都是 outlook 咯
+UI16MAZ_0101 266581 274467 CS 因为 基本 上 outlook很多人 用 就是 每个人 都 每个 员工 在 intel 里面 都会 用的
+UI16MAZ_0101 274467 279960 CS 唔 看 那些 问题 咯 有些 是 他们 的 calendar
+UI16MAZ_0101 279960 289212 CS 因为 很多 admin 都是 他 帮他 那个 manager来 啊 好像 manage 他们 的 那个 calendar
+UI16MAZ_0101 289212 296034 CS 就是 有时 他们 up manager delegate 那个 calendar 给他了 还有 一些 问题 开不到 还是
+UI16MAZ_0101 296034 300374 CS 啊 application load不到 还是 有带 error 的 东西
+UI16MAZ_0101 300374 306049 CS 他们 就会 call 我们 send 我们 能不能 啊 帮他 solve 看 这个 issue 这样咯
+UI16MAZ_0101 315636 318680 CS 对 全部 都是 software 罢了
+UI16MAZ_0101 318680 328980 CS 嗯 因为 我们 都是 call chat 跟 web 我们 没有 direct 跟 user face to face interact的 我们 都是 经过 phone chat 或者 email
+UI16MAZ_0101 328980 334474 CS 真的 是 来回 了 这样 不能 的 话 我们 就是 决定 看 要不要 route 给 那个 p. c. service
+UI16MAZ_0101 334474 339800 CS 就 正式 跟 user 有 contact 的 就是 p. c. service咯 那个 修理 电脑 部门
+UI16MAZ_0101 342442 344629 ZH 啊 对
+UI16MAZ_0101 354001 360634 ZH 打电话 如果 你 打 进来 的 话 就 我们 先 问看 因为 如果
+UI16MAZ_0101 360634 367367 CS (呃) 你 打 进来 的 时候 他会 给你 menu 选的 你的 电话 他有 问你 你是 什么 类型 的 issue
+UI16MAZ_0101 367367 370912 CS 啊 outlook 或者 其他 s. a. p.
+UI16MAZ_0101 370912 377466 CS 或者 一些 manufacturing 的 东西 他会 跟着 不同 不同 的 support 他 就把 你 route 过去 那个 call
+UI16MAZ_0101 377466 381929 CS 那个 centre 就是 我们 拿到 就是 那个 三~ 三大 类型 的 东西 咯
+UI16MAZ_0101 381929 388815 CS 其他 的 嘞 他们 就会 route 去 其他 的 那个 啊 support team 因为 我们 有 很多 个 support team 的
+UI16MAZ_0101 388815 391468 CS 然后 啊 如果 s. a. p. 他们 就 过去
+UI16MAZ_0101 391468 394879 CS 如果 正式 来讲 如果 你 有 outlook 问题 你会 route 来的 话
+UI16MAZ_0101 394879 399301 CS 第一 我先 会 跟你 拿你 的 那个 啊 i. d. number
+UI16MAZ_0101 399301 403813 CS 然后 慢慢 跟 你 narrow down 那个 issue 问 一些 question
+UI16MAZ_0101 403813 407099 CS 看你 啊 load 不 load 得到 那些 application
+UI16MAZ_0101 407099 411442 CS 然后 我们 会 啊 remote 过去 你的 电脑
+UI16MAZ_0101 411442 419109 CS 正式 看到 那个 error 还是 remote control你的 电脑 来做 一些 trouble shooting 这样 咯
+UI16MAZ_0101 419109 421916 EN en
+UI16MAZ_0101 421916 423565 ZH 是 是
+UI16MAZ_0101 423565 424277 EN 
+UI16MAZ_0101 424277 430075 CS 就是 啊 啊 phone 跟 chat 的话 都是 会 remote 过去咯
+UI16MAZ_0101 430075 432866 CS 如果 他的 电脑 是 connect 在 network 的话 啦
+UI16MAZ_0101 432866 438306 CS 这样 大部分 web 的话 都是 他 因为 web 是 属于 比较
+UI16MAZ_0101 438306 442907 CS 啊 non priority 的 issue 就是 说 可~ 可以 慢慢
+UI16MAZ_0101 442907 445313 CS 他的 user 有 得空 才能 慢慢做 的 东西
+UI16MAZ_0101 445313 450930 CS 就是 我们 send 一个 solution 给他 他先 try try try 如果 不能 他 reply 说 哦 这个 不能
+UI16MAZ_0101 450930 454053 CS 我们 才来 send 过 另外 一个 还是 比较 深的
+UI16MAZ_0101 454053 459085 CS 如果 真的 再 不能 的 话 我们 会看 (呃) 能不能 contact 那个 user
+UI16MAZ_0101 459085 463589 CS 如果 能 contact 到的 话 就是 either 看 phone 他 或者 是 啊
+UI16MAZ_0101 463589 468247 CS 那个 用 那个 communicator 来 connect 去他 电脑
+UI16MAZ_0101 468247 471699 CS 然后 我们 remote control 才来 troubleshoot
+UI16MAZ_0101 471699 474456 CS 如果 真的 是 不能 contact 到他 的 话
+UI16MAZ_0101 474456 482899 CS 我们 会 啊 叫他 打电话 进来 就是 打进 我们 support 就是 我们 可以 因为 有时 他们 不同 时间
+UI16MAZ_0101 482899 486091 CS 他们 有些 在 u. s. 时间 啊 做工
+UI16MAZ_0101 486091 493102 CS 就是 我们 睡觉 他们 醒了 就是 没有 办法 正式 同 时间 一起 troubleshoot
+UI16MAZ_0101 493102 495907 ZH 就是 有时 就要 叫他 打 电话 进来
+UI16MAZ_0101 495907 501949 CS 他们 啊 另外 一个 counterpart 在 costa rica 的话 他们 就会 帮他 咯
+UI16MAZ_0101 501949 509317 CS 对 就是全 intel 的worker 但是是全世界咯
+UI16MAZ_0101 509317 520037 CS 就是 说 u. s. 印度 啊 日本 啊 亚洲 ireland u. k. sweden 那些 全部 都有
+UI16MAZ_0101 523731 531649 CS 啊我们 他们 公司 正式 分 四个 region咯 a. m. r. 就是 啊
+UI16MAZ_0101 531649 536341 CS u. s. 的 然后 g. a. r. great greater asia
+UI16MAZ_0101 536341 538854 CS 然后 g. e. r. 就是 greater europe
+UI16MAZ_0101 538854 543485 CS 然后 还有 一个 c. c. r. control country 就是 russia 跟 中国
+UI16MAZ_0101 543485 552233 CS 但是 他们 打 电话 进来 我们 call center 只是 分 两个 啊 main base 一个 是在 槟城 一个 是在 costa rica
+UI16MAZ_0101 552233 556858 ZH 就是 我们 这边 做 十二个钟 另外 一边 十二个钟
+UI16MAZ_0101 562998 568048 CS 啊 就在 槟城 的 那个 intel p. g. 十二 在
+UI16MAZ_0101 570087 577328 CS 全部 一样 的 全部 他们 就是 那个 四大 region 全世界 他们 在 什么 时间 打进来
+UI16MAZ_0101 577328 581603 CS 就是 说 如果 他在 槟城 operate 的 时间 打进来 他就 进来 槟城 了
+UI16MAZ_0101 581603 586846 CS 然后 如果 他在 costa rica operate 的 时间 他就 打 进去 那边 了 他会 自动 的
+UI16MAZ_0101 593466 598382 CS 大部 他们 有 set 啊 handling time
+UI16MAZ_0101 598382 603240 CS 就是 大约 十五 分钟 一个 issue 做 call啦
+UI16MAZ_0101 603240 607600 CS 但是 有时 有些 issue 真的 是 不能 啊 十五 分钟 解决
+UI16MAZ_0101 607600 612826 CS so average 是 二十 到 三十 二十 分钟 之~ 之内咯
+UI16MAZ_0101 612826 617338 ZH 但是 如果 真的 是 有些 事情 我们 试过 是 做到 三四个钟 以上 的
+UI16MAZ_0101 617338 624984 ZH 嗯
+UI16MAZ_0101 624984 628776 CS 啊 可以 repeat 嘛
+UI16MAZ_0101 635288 641534 ZH 怎么 样 说 不是 嗯
+UI16MAZ_0101 647050 650595 CS 可以 最 要紧 是 他 有 connect 到 intel 的 network
+UI16MAZ_0101 650595 658744 CS either 是 说他 在 office 里面 或者 是他 在 家里 有 connect 到 intel network 经过 那个 v. p. n. 我们 就能 connect 过去 了
+UI16MAZ_0101 658744 661826 CS 但是 有时 真的 是 不能 connect 的话
+UI16MAZ_0101 661826 667998 CS 嗯 就会 啊有时 他的 电脑 真的 是有 问题 到 根本 不能 connect 到的话
+UI16MAZ_0101 667998 673447 CS 就是 没有 办法 就是 叫他 去 那个 p. c. service 就是 电脑 啊 修理的
+UI16MAZ_0101 676518 686340 CS 啊 有时 会 很慢 因为 有时 他们 在 家里 用的 那个 network 是 很慢的 就 慢慢 control咯
+UI16MAZ_0101 686340 689099 CS 如果 真的 是 不能 control 就是 看着 那个 screen
+UI16MAZ_0101 689099 693703 CS 叫user control 慢慢 按 咯 就是 啊 请你 按 这个
+UI16MAZ_0101 693703 699926 CS 开了 你 看到 这个 吗 我们 再按 这个 就 慢慢 教他 如果 不能 control 的话
+UI16MAZ_0101 704344 706592 CS en 看 handphone
+UI16MAZ_0101 710383 715862 CS 就是 啊 基本 上 chat 跟 phone 就是 差不多 一样的
+UI16MAZ_0101 715862 720342 CS 就是 一个 是 不用 讲话 一个 要 讲话的 就是 typing 咯
+UI16MAZ_0101 720342 725330 CS 基本 上 都是 同时间 real time 来 communicate 然后 troubleshooting
+UI16MAZ_0101 725330 729939 CS 然后 抓 那些 urgent issue 像 有时 他们 电脑 开不到 或者
+UI16MAZ_0101 729939 734780 CS 他们 真的 很 需要 这个 software work 他们 要 工作 像 那个 outlook 这样咯
+UI16MAZ_0101 734780 743836 CS 如果 他们 今天 那个 calendar 开不到 他们 不 知道 他们 啊 接下来 要 怎样 去做 那些 meeting schedule meeting
+UI16MAZ_0101 743836 747539 CS 就是 他们 会 打 电话 进来 urgent的 就是 比较 打 电话 咯
+UI16MAZ_0101 747539 757427 CS 通常 我们 那些 啊 web 的话 就是 比较 不 urgent的 这样 我们 啊 哈 internet explorer 开 不到 一个 certain 的 website
+UI16MAZ_0101 757427 767252 CS 就是 我们 send 一个 script 给他 就是 说你 跟着 这个 按 按 按 按 reset 掉 你的 i. e. 我们 在 try 看 能不能 就是 比较 没有 这样urgent的咯
+UI16MAZ_0101 772600 781667 CS 啊 他们 有 用 一个 software 就是 一个人 可以 开 最多 到 四个 到 window
+UI16MAZ_0101 781667 784876 CS 就是 同~ 同 一个 chat 里面 support 同 时间 四个 user
+UI16MAZ_0101 784876 794682 CS 但是 大部分 时候 都是 两个 到 三个 因为 四个 是 真的 是太 啊 很难 去 communicate 四个人
+UI16MAZ_0101 794682 801504 CS 然后 大部分 时间 就是 两个 到 三个 chat 跟 phone的 不同 就是 phone 就是 一对一
+UI16MAZ_0101 801504 810600 CS chat 的话 就是 一对二 或者 一对三 就是 一个 agent support 两个 user 或者 是 三个 users
+UI16MAZ_0101 814554 825136 CS 对 就像 平常 你们 m. s. n. 或者 communicator 你 跟 朋友 讲话 你 可以 同 时间 跟 两个 到 三个 讲话 的 嘛
+UI16MAZ_0101 825136 831984 CS 就是 那个 chat 的 差不多 都是 一样 但是 我们 就是 要用 那个 remote 开 两个 咯 就是 remote 不同
+UI16MAZ_0101 831984 836714 CS 分开 两个 user 就是 我 做 这边 做 这边 两个 一起 做
+UI16MAZ_0101 842013 845221 ZH 啊 还好 咯 是 这样 咯
+UI16MAZ_0101 845221 855936 CS 就是 每天 都去 接 那些 issue 做久 的 话 就是 有时 会 知道 比较 direct的 啊 solution了 比较 快
+UI16MAZ_0101 855936 864313 CS 然后 遇到 一些 奇怪 的 不能 solve 的话 我们 也是 要 engaged 我们 的 second level 来看 他们 能不能 帮忙
+UI16MAZ_0101 864313 873532 CS 能的话 就 他 一边 做 我们 一边 学 然后 如果 不能 的话 他们 就会 escalate 看 他们 什么 team 的人 会 帮到
+UI16MAZ_0101 875632 882336 CS 啊 我们 有走 shift 咯 正式 来讲 啊 如果 走 shift 的话 一天 是 十二个 小时
+UI16MAZ_0101 882336 886412 ZH 就是 一个 礼拜 做 差不多 三天半 到 四天 这样
+UI16MAZ_0101 886412 891567 CS 但是 也有 正常 的 shift 就是 早上 啊 九点 到 六点
+UI16MAZ_0101 891567 899881 CS 拜一 到 拜五 像 我 现在 的 shift 就是 拜一 到 拜五 中午 十二点 到 九点 就是 像 啊 中午 班 这样
+UI16MAZ_0101 903664 912962 CS 早上 九点 就是 十二 个 小时咯 就是 槟城 的 operate 时间 是 槟城 时间 啊 九点 到 九点
+UI16MAZ_0101 912962 919614 CS 然后 c. r. 的 costa rica 那个 operate 时间 就是 槟城 的 时间 晚上 九点 到 早上 九点
+UI16MAZ_0101 919614 923384 ZH 他们 来讲 应该 是 早上 七点 到 傍晚 七点
+UI16MAZ_0101 927029 932125 CS (呃) 如果 正式 走 做 十二 钟 的 shift 的话 就是
+UI16MAZ_0101 932125 941468 CS 啊 有 比较 多 的 rest day咯 就是 一开始 我 我 这个 礼拜 我 做 四天 然后 我 休息 有 三天 这样咯
+UI16MAZ_0101 948115 956678 CS 啊 对 他们 有分 front end 跟 啊 back end 就是 从 礼拜 开始 算 咯 礼拜 拜一 拜二 拜三 四天
+UI16MAZ_0101 956678 961310 ZH 然后 拜三 拜四 拜五 拜六 四天 看 他们 怎样 排来排去咯
+UI16MAZ_0101 965646 971484 CS 啊 如果 是 我们 那个 team 的话
+UI16MAZ_0101 971484 981470 CS 应该 是 差不多 五六十个人啦 全部 有 那个 一 team 我们 有 包括 network 跟 啊 office support 咯
+UI16MAZ_0101 981470 986106 ZH 然后 其他的 我 就 不太 清楚 了 因为 也是 很多 一下
+UI16MAZ_0101 988397 996395 CS 啊 intel 掺了 我们 啊 那个 outsource 的 公司 就是 在 整个 team 里面 差不多 五六十个 人
+UI16MAZ_0101 996395 1002119 CS include second level 这些 这样 咯 但是 second level才 几个 人 罢了 很少的
+UI16MAZ_0101 1004066 1012978 CS 啊 有 就是 osram plexus 那些 其他 比较 小的 公司
+UI16MAZ_0101 1016639 1022757 ZH 是 算是 是 就是 毕业 过后 就是 做到 现在
+UI16MAZ_0101 1022757 1030099 CS 啊 u. s. m. computer science 啊 二零零七 毕业
+UI16MAZ_0101 1035947 1038833 ZH 三年 多 一点点
+UI16MAZ_0101 1047681 1055564 CS 啊 暂时 因为 就近 他们 intel 都是 在 cut cost 就是 很少 请人
+UI16MAZ_0101 1055564 1061224 CS 连 我们 他们 因为 我们 公司 都是 从 intel 付钱 给 他们 他们 才 可以 请人
+UI16MAZ_0101 1061224 1068153 CS 然后 他们 cut cost 我们 这边 都 没有 请人 就是 越来越少 人 然后 工作 也 越来越多 差不多 这样 啦
+UI16MAZ_0101 1071259 1074351 ZH 啊 是 肯定 比较 少
+UI16MAZ_0101 1074351 1080739 CS 然后 benefit 也 没有 这么 多 咯 如果 正式 来讲 你 under intel 的话 intel 会 给你 很多 benefit 就是
+UI16MAZ_0101 1080739 1084854 CS 啊 medical benefit啊 你做 眼镜 做牙啊
+UI16MAZ_0101 1084854 1092036 CS 但是 我 公司 的 大部分 都是 那些 普通 那些 panel clinic咯 然后 普通 的 insurance 这样 罢了
+UI16MAZ_0101 1098875 1103401 ZH 暂时 是 还有 兴趣 因为 还有 很多 东西 可以 学 啊
+UI16MAZ_0101 1103401 1110160 CS 因为 在 我的 那个 team 里面 我 还有 几个 啊 part 还 没有 学到
+UI16MAZ_0101 1110160 1117450 CS 就是 blackberry 跟 p. d. a. support 然后 基本 上 大部分 都是 有 support 都有 学到的
+UI16MAZ_0101 1119592 1126714 CS 啊 development 因为 太久 没有 做了 不太 啊 熟悉
+UI16MAZ_0101 1126714 1130439 CS 然后 基本 上 都是 做 support
+UI16MAZ_0101 1130439 1132254 EN en
+UI16MAZ_0101 1140448 1143964 ZH 暂时是还继续这边
+UI16MAZ_0101 1143964 1150497 ZH 因为 可能 看有 什么 机会 啊 可以 升级 或者
+UI16MAZ_0101 1150497 1154064 ZH 继续 啊 从 一个 工作
+UI16MAZ_0101 1154064 1161034 CS 然后 未来 的 话 可能 有 都是 换 公司 换成 比较 大的 permanent employee
+UI16MAZ_0101 1161034 1166994 CS 好过 outsource employee 这样 罢了 暂时 这个 是 第一个 打算 先
+UI16MAZ_0101 1169499 1174967 ZH 他们 都是 哈 都是 薪水 比较 少
+UI16MAZ_0101 1174967 1185850 CS 然后 benefit 又少 所以 现在 最大 的 打算 就是 暂时 看 有 什么 机会 可以 进到 大 比 正式 啊 permanent employee 咯
+UI16MAZ_0101 1185850 1189377 CS either 是 dell 或者 是 intel
+UI16MAZ_0101 1189377 1196275 CS 这个 两个 公司 是 最大 的 support center 有 最大的 support center 在 槟城的

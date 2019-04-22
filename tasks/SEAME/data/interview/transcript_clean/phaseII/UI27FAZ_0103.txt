@@ -1,0 +1,166 @@
+UI27FAZ_0103 0 1626 CS 医院的 team
+UI27FAZ_0103 4034 8891 CS 因为 一个 一个 州 一个 state okay
+UI27FAZ_0103 8891 15232 CS (啊) 最少有 (嗯) 十间 hospital 包括 private hospital
+UI27FAZ_0103 15232 18706 CS so 通常 这个 hospital 都很大
+UI27FAZ_0103 18706 23557 CS 一个人 就 不能 去 (啊) cover 到完
+UI27FAZ_0103 23557 31217 CS okay 不能 就去 cover 到完 so 一个人 就 代表 (啊) 私人的 一个 就是 代表 政府的
+UI27FAZ_0103 31217 38708 CS and 好像 我 讲 刚才 两~ 两百个 consumer product 是一个 不少的 数目
+UI27FAZ_0103 38708 46487 CS okay to cover 这两 这两个 field government 跟 private okay 就需要 两个人
+UI27FAZ_0103 52526 57802 CS 通常 我们 没有 cover pharmacy 因为 pharmacy 是- 不是 我们的 field
+UI27FAZ_0103 57802 60561 CS 通常 pharmacy 是 sell 去 consumer
+UI27FAZ_0103 60561 68157 CS and con~ 那个 consumer 是 不需要 到 我们的 (啊) 我们的 equipment 的
+UI27FAZ_0103 68157 74229 CS medical equipment 的 因为 我们的 medical medical equipment 就会 用在 医院 罢了
+UI27FAZ_0103 74229 81463 CS and pharmacy 我们 公司 有 supply 给 pharmacy 但是 只有 certain product 比如说
+UI27FAZ_0103 81463 92171 CS ah wound care 的 product 就好像 (啊) diabetic 的 patient ah 好像 我们 跌倒 有伤口 我们 就 需要 一个 plaster 来黏 起来
+UI27FAZ_0103 92171 96007 CS 但是 那个 plaster 会 比较 先进的 plaster okay
+UI27FAZ_0103 96007 100979 CS 不是 好像 普通的 plaster 我们 在 每天 用的 okay
+UI27FAZ_0103 100979 106432 CS 那个 plaster 就好 就会 (啊) 比较- 比较 advance 一点
+UI27FAZ_0103 107686 111223 EN advance is in terms of ah healing properties
+UI27FAZ_0103 111223 112784 CS okay 比如说
+UI27FAZ_0103 112784 120997 CS 我们的 handyplas 只有 一个 一个 普通的 (啊) cotton 好像 cotton 这样 罢了
+UI27FAZ_0103 120997 132457 CS 但是 我们的 (啊) (啊) 这个 这个 wound care 的 plaster okay 是一个 special 的 (啊)
+UI27FAZ_0103 133311 139810 CS ah plaster okay 为什么 有 为什么 我讲 有 (啊) 这个 healing properties leh
+UI27FAZ_0103 139810 146164 CS 因为 这个 plaster 是一个 special 的 foam 做的 它 不是
+UI27FAZ_0103 146164 154396 CS gauze ah 不是 不是 gauze 不是 (啊) 不是 棉花 来做的 它是 用
+UI27FAZ_0103 154396 166265 CS (啊) 一个 special 的 sponge lah 好像 sponge 这样的 它会 exudate 你的 (啊) 你的 wound okay
+UI27FAZ_0103 166265 169086 CS and 他有 我们 还有 卖一个
+UI27FAZ_0103 171563 180698 CS 一个 cream okay 因为 我们 通常 我们的 伤口 差不多 要好 的时候 它 会 变成 黑色
+UI27FAZ_0103 180698 182591 ZH 然后 硬硬 这样
+UI27FAZ_0103 182591 187055 CS okay 其实 那个 不是好 那个 是 越来越坏
+UI27FAZ_0103 187055 189883 CS so 我们 有一个 cream to-
+UI27FAZ_0103 190692 198241 CS to 做 那个 那个 remove 那个 slough dark slough ah okay
+UI27FAZ_0103 198796 203913 CS ah dark slough 变成 (啊) 我们的 伤口去
+UI27FAZ_0103 213824 217862 CS 暂时 我们 没有 一个 product 可以 remove scar
+UI27FAZ_0103 217862 223779 CS okay ha 别的 公司 maybe 有 okay ah
+UI27FAZ_0103 224570 230681 CS 它 普通 一个 scar (啊) 好像 我们 好像 女生 她们 生孩子 了
+UI27FAZ_0103 230681 234344 CS 她们 有 这个 scar okay 那个 scar
+UI27FAZ_0103 234344 239746 CS 通常 要放 差不多 最少 两个月 以上 才会 有一点 effect
+UI27FAZ_0103 239746 242360 CS 但是 暂时 b-braun 没有 这个 product
+UI27FAZ_0103 248828 255145 CS 它 不会 completely remove 但~ 但是 它会 reduce 它会 reduce 它的 scar
+UI27FAZ_0103 255145 260426 CS okay mmm 它的 effect 不会 很多
+UI27FAZ_0103 275336 281938 CS 通常 去 serve ah specialist ah 都需要做 (啊) 预定 先
+UI27FAZ_0103 281938 284725 CS 做 做 appointment 先
+UI27FAZ_0103 284725 290330 CS 因为 这个 specialist 通常 是会 很 很忙的 很忙一下
+UI27FAZ_0103 290330 301386 CS and 通常 我 星期一 星期三 跟 星期四 okay 是 他们的 clinic day 就是 他们 帮 看病人 的时间
+UI27FAZ_0103 301386 306764 CS so 通常 看病人 的时间 他们 就不会 有时间 去看 找 看 我们
+UI27FAZ_0103 306764 308742 CS 看 我们的 sales rep
+UI27FAZ_0103 309223 313835 CS and 我们 看 他们的 时间 通常 都是 二四
+UI27FAZ_0103 313835 320527 ZH 星期 唉 星期二 跟 星期五 还是 星期一 的 (啊) 下午
+UI27FAZ_0103 323558 328923 CS other than 这个 specialist okay 就会 有 (啊) medical assistant
+UI27FAZ_0103 328923 334962 CS 通常 medi~ medical assistant 会 比较 (啊) 有空 一点
+UI27FAZ_0103 334962 338446 CS so 他们 不用 做 any appointments
+UI27FAZ_0103 338446 342457 CS ah 然后 nurses leh
+UI27FAZ_0103 342457 350265 CS 通常 如果 你要 见他 的时候 你去 直接去 见他 就 可以了 没有 问题 不需要 做 any appointment
+UI27FAZ_0103 350265 355791 CS 但是 如果 她是 matron 意思 讲 (啊) 他们的
+UI27FAZ_0103 355791 358638 CS 这个 nurses 的 (啊) head
+UI27FAZ_0103 358638 362901 CS 你就 需要 做 appointment 因为 她会 很忙一下
+UI27FAZ_0103 373774 380397 CS 通常 我去 见她 的时候 啊 因为 我的 这个 product exist for almost 最少 有 二十年 了
+UI27FAZ_0103 380620 387552 CS okay and product detailing ah 很少 很少 我们 需要做
+UI27FAZ_0103 387552 392663 CS 很少- 我们 需要 做在 这个 给 给 这个 nurses 跟 医生
+UI27FAZ_0103 393517 397085 CS 通常 我们是 就是 restock 罢了 咯
+UI27FAZ_0103 397085 404522 CS restock 跟 (啊) 他 有 需要 什么 (啊) sponsorship ah 我们 就会 sponsor 他们
+UI27FAZ_0103 414736 423657 CS 其实 每一年 (啊) 那个 nurses 还是 specialist 他们 都有 这个 (啊) conference 的
+UI27FAZ_0103 423657 428473 CS okay so 在这个 conference 里面 他们 就 需要去
+UI27FAZ_0103 428473 435679 CS (啊) 他们 就有 这个 credit point 好像 一个 nurses 还是 specialist 他们 有 credit point
+UI27FAZ_0103 435679 443237 CS so 这个 credit point 他们 最少 一年 (啊) 一年 最少 要 他们 有一个 specification 要拿 几多的
+UI27FAZ_0103 443237 447635 CS 比如说 doctors maybe 他 要拿 一百个 钟头
+UI27FAZ_0103 447635 454316 CS 才 可以 (啊) 才可以 好像 advance 去 一个 level 还是 the next year
+UI27FAZ_0103 454316 456415 CS okay 他要 他需要 做的
+UI27FAZ_0103 456415 460009 CS for nurses maybe 他有 他的 (啊)
+UI27FAZ_0103 460216 464873 CS 需要的 hours 来 (啊) 时间 来 去这个 conference
+UI27FAZ_0103 464873 473284 CS so 他们 他们 整年 就会 (啊) 政府 就会 organ~ ah organize 这个 function
+UI27FAZ_0103 473284 475383 EN okay so
+UI27FAZ_0103 475383 479081 CS 他们 就会 去读书 就会 去 attend 这个 conference
+UI27FAZ_0103 479081 488369 CS so 我们 at ah at the same time 的时候 我们 就会 去这个 conference to promote our product 这样咯
+UI27FAZ_0103 494426 499839 CS 通常 (啊) 我们的 product 不需要 做 any ah research
+UI27FAZ_0103 499839 504489 CS ok 因为 我们的 research 会在 这个 germany 做
+UI27FAZ_0103 504489 508139 CS and 我们 会
+UI27FAZ_0103 508139 510016 CS 在 这个 hub
+UI27FAZ_0103 510016 515427 CS 对不起 ah normally 我们的 product okay 会在 三个 地方 做
+UI27FAZ_0103 515427 520571 CS 一个 在 hong kong 一个 在 germany 跟 一个 在 switzerland depends on product
+UI27FAZ_0103 520571 530780 CS 比如说 我们用 这个 (啊) 现在 最流行的 是 (啊) hand disinfectant 就好像 我们 洗手
+UI27FAZ_0103 530780 539639 CS to prevent h one n one okay 我们的 那个 ah disinfectant okay 就是 在 (啊) switzerland 做的
+UI27FAZ_0103 539639 543093 CS ok 因为 为什么 在 switzerland 做 因为
+UI27FAZ_0103 543093 548211 CS 那个 w. h. o. 的 recommendation 是在 那里 来的 在 switzerland 来的
+UI27FAZ_0103 548211 558208 CS so 我们有 一个 工厂 在那里 specialize to produce 这个 出产 这个 hand disinfectant al~ 我们叫 alcohol hand drop lah
+UI27FAZ_0103 567015 570532 CS 有 我 平常 都看 t. v. three 的
+UI27FAZ_0103 570532 574473 CS 啊 晚上的 news
+UI27FAZ_0103 580306 588457 CS 通常 我 都是 看 entertainment的 跟 (啊) 那个 我们 国家的 (啊) 每一天 的 news
+UI27FAZ_0103 599196 605582 CS latest 的 technology 就是 我们的 (啊) 就 来自 apple 的
+UI27FAZ_0103 605582 611351 CS okay 他们 最新的 (啊) mobile phone 还是 smart phone
+UI27FAZ_0103 611351 614708 CS (啊) 叫 iphone four
+UI27FAZ_0103 621372 626021 CS (啊) 它的 different 就是 在它的 processor
+UI27FAZ_0103 626021 630328 CS okay 它的 ah graphics 跟 它的
+UI27FAZ_0103 630328 635316 CS (啊) 它会 多一个 function 就是 video conferencing
+UI27FAZ_0103 635316 640326 CS okay 以前的 就不会 and 它的 processing time 会 比较快
+UI27FAZ_0103 640326 645025 CS ah compared to 它 那个 iphone three g.s
+UI27FAZ_0103 655630 663770 CS 每一个 都有 每一个 的 不同 okay iphone four 是一个 interactive 的 (啊) 电话 okay
+UI27FAZ_0103 663770 669114 CS 比如说 你要玩 (啊) 你要玩 game ah 你要玩 game
+UI27FAZ_0103 669114 671026 ZH 你要看 你要玩 游戏
+UI27FAZ_0103 671026 673747 CS 然后 你要看 你要 surf net
+UI27FAZ_0103 673747 679532 CS iphone four 会比较 流行 and 它的 它的 (啊)
+UI27FAZ_0103 679532 686662 CS 它的 in~ in~ ah interface 会比较 (啊)
+UI27FAZ_0103 688460 694613 CS 特别 一点 比较 特别 一点 会 比较 smooth 一点 compared to android
+UI27FAZ_0103 694613 698965 CS android 是 一个 新的 新的 (啊) phone and 他们
+UI27FAZ_0103 698965 702030 ZH 也是 很 (啊)
+UI27FAZ_0103 702030 704854 CS 快的 潮流 okay
+UI27FAZ_0103 704854 713925 CS 但是 它的 (啊) software 它的 interface 会 compared to iphone 会比较 差一点
+UI27FAZ_0103 713925 720711 CS 但是 两个 都 不一样 (啊) o. s. 它的 operating system 的 不同的
+UI27FAZ_0103 727537 733706 CS android 的 benefit 会 (啊) 它是 normally 现在 它是叫 google phone
+UI27FAZ_0103 733706 737085 CS okay 他们 会在 google phone 里面 (啊)
+UI27FAZ_0103 737567 741976 CS (啊) 用google 的 (啊) o. s.
+UI27FAZ_0103 741976 747726 CS okay so 其实 它的 benefit 不是 很多
+UI27FAZ_0103 747726 752293 CS benefit 就是 在 他们的 价钱 价钱 会比较 便宜
+UI27FAZ_0103 765603 776407 CS 因为 他们 claim that 他们的 o. s. 会比 比 普通的 快 比如说 好像 symbian 比较 interactive compared to symbian o. s. okay
+UI27FAZ_0103 776407 781484 CS symbian o. s.跟这个 (啊) windows o. s.
+UI27FAZ_0103 781484 786393 CS and 他们 就会 promote 他们的 google loh and
+UI27FAZ_0103 786393 790042 CS recently 应该 (啊)
+UI27FAZ_0103 790042 799737 CS 很多人 都用 这个 (啊) google 的 o. s. 了 compared to windows o. s. compared to symbian o. s.
+UI27FAZ_0103 807048 814882 CS 他们的 牌子 咯 brand name loh 他们的 牌子 因为牌子 对 对 (啊) 每一个
+UI27FAZ_0103 817101 821052 CS okay once 你有 牌子 okay 你的
+UI27FAZ_0103 821858 830941 CS in the other way okay when 他们 卖这个 o. s. 去 比如说 现在 用的 这个 google o. s. 就是 h. t. c. okay
+UI27FAZ_0103 830941 835746 CS h. t. c. 也是 需要 跟 他们 买这个 copyright 起来
+UI27FAZ_0103 841428 845133 CS h. t. c. 也是要 给钱 给 给 他们 pay 他们 的啊
+UI27FAZ_0103 848388 850256 ZH 这个 我 不清楚 了
+UI27FAZ_0103 860218 866917 CS so far ah so far 是 h. t. c. samsung
+UI27FAZ_0103 866917 872535 CS 然后 还有 motorola 也是 有
+UI27FAZ_0103 883211 889152 CS 如果 要玩 game 的话 我就会 我就会 建议买 (啊)
+UI27FAZ_0103 890323 895899 CS p. s. p. loh 因为 它的 graphic 怎样 都会 比 iphone 比较好
+UI27FAZ_0103 895899 901274 CS and 它的 processing 比较好 game 也是 比较多
+UI27FAZ_0103 908369 913481 CS 大多数 也是 有free的 也是 也是 要给钱 也 也是 要 给钱 的
+UI27FAZ_0103 913481 924565 CS 但是 free的 有些 你玩到 一个 一个 一个 stage 的时候 你就 不能 玩了 你 就要 给钱 买过 另外 一个 新的 了
+UI27FAZ_0103 927448 934812 CS 对啊 但是 他们的 game 只有 不是 好像 这样 three d. animated 的 它 比较 simple game 来的
+UI27FAZ_0103 934812 940151 CS compared to 这个 p. s. p. p. s. p. 的 game 会比较 有 three d. animation
+UI27FAZ_0103 940151 946522 CS 比较 complicated 比较 有 那个 好像有 比较 有这个 role playing games
+UI27FAZ_0103 952548 958537 CS 啊 对 没有 motion sensing 的 但是 iphone有
+UI27FAZ_0103 961671 964461 CS 但是 compared 起来 graphic 里面
+UI27FAZ_0103 964461 969354 CS p. s. p. 会 比较好 跟它的 sound effects
+UI27FAZ_0103 983226 989579 CS 啊 对 sony 有出 新的 p. s. p. 就是 它有 slide 的 p. s. p.
+UI27FAZ_0103 991025 997186 CS feature 就是 他们 (啊) claimed that 它 那个 只有 graphics 比较 漂亮
+UI27FAZ_0103 997186 1001013 CS graphics loh graphics 罢了 and
+UI27FAZ_0103 1001558 1008038 CS 暂时 很少人 会 去买 因为 它的 difference 不多
+UI27FAZ_0103 1012992 1019834 CS nintendo 它的 它的 这个 game 会比较 普通一点
+UI27FAZ_0103 1019834 1023290 CS ok 没有 这么 (啊)
+UI27FAZ_0103 1024140 1027343 CS three d 比较 simple game
+UI27FAZ_0103 1027343 1034251 CS ok and 它的 game 如果比 p. s. p. 起来 p. s. p. 会比 nintendo 多很多
+UI27FAZ_0103 1053857 1058507 CS 还有 一个 也是 来自 apple 的 就 ipad loh
+UI27FAZ_0103 1058507 1065844 CS 它 也是 好像 iphone 这样 只有 它不能 拿来 做 这个 电话
+UI27FAZ_0103 1065844 1070623 CS 但是 它可以 拿来 做一个 e-book electronic book
+UI27FAZ_0103 1079791 1090196 CS 因为 ipad 好像 我讲 刚才 它 比较 它 好像 iphone 这样 它 也是 很 interactive okay 你要 拿来 surf net 也是 可以
+UI27FAZ_0103 1090196 1095904 CS 你要 拿来 看相片 也是 可以 全部 都是 mo~ 也是 motion sensor 的
+UI27FAZ_0103 1095904 1099760 ZH 然后 你要 拿来 上网 也是 可以 没问题
+UI27FAZ_0103 1099760 1101343 ZH (啊)
+UI27FAZ_0103 1101845 1104829 ZH 大多数 还 (啊)
+UI27FAZ_0103 1104829 1112733 CS 因为 这个 ipad 会 它的 design 会比 这个 netbook 漂亮 so i think 它 也是
+UI27FAZ_0103 1112733 1119724 CS 啊 touch screen 的 and 通常 会 有人 会买 ipad compared to netbook
+UI27FAZ_0103 1125538 1132244 CS (啊) 其实 你也是 可以 type 字的 因为 它有 一个 (啊) virtual keyboard
+UI27FAZ_0103 1132244 1134069 CS 它 有一个 virtual keyboard 的
+UI27FAZ_0103 1134069 1140320 CS 在 它会 在那个 screen ah 出现 so 你可以 type 在它的 screen
+UI27FAZ_0103 1142214 1144193 ZH 啊 应该 不会啊
+UI27FAZ_0103 1144193 1147837 ZH 应该 不会 很慢 因为太 (啊)
+UI27FAZ_0103 1147837 1156022 CS 我 已经 是 试过了 因为 它也是 很 (啊) quick response 一下的 它的 它的 它的 字 全部
+UI27FAZ_0103 1163427 1165965 ZH 暂时 我也是 不清楚
+UI27FAZ_0103 1165965 1173944 CS 但是 如果 你讲的 要用 microsoft word excel 什么 呢 okay 它有 它的 third party 的 software
+UI27FAZ_0103 1178404 1185666 CS 有些是 download 的 但是 for 这个 microsoft word 应该 也是 有得 download for free
+UI27FAZ_0103 1195499 1197236 ZH 比较 好玩 的 啊
+UI27FAZ_0103 1198115 1201249 CS (啊) 现在 我们 有这个 god of war loh

@@ -1,0 +1,139 @@
+UI03FAZ_0101 6545 8736 CS 我 的 英文 名 叫 jazreel
+UI03FAZ_0101 12957 17908 EN ah j a z r double e l
+UI03FAZ_0101 17908 27783 CS and then 这个 英文 名 其实 是 有 点 像 马来 男生 的 名字 来 的 其实
+UI03FAZ_0101 27783 29649 ZH 然后
+UI03FAZ_0101 29649 31733 ZH 哦 我 自己 找 的
+UI03FAZ_0101 31733 34438 ZH 我 是 在 啊
+UI03FAZ_0101 34438 39308 ZH 啊 读书 的 时候 觉得 想 要 找 一 个 特别 一 点 的 英文 名
+UI03FAZ_0101 39308 41685 ZH 所以 就 找 到 这 个 名字
+UI03FAZ_0101 41685 45338 ZH 然后 为什么 我 会 知道 它 是 马来 人 的 名字 呢
+UI03FAZ_0101 45338 49315 ZH 是 因为 曾经 我 有 一 次 在 一 个 啊
+UI03FAZ_0101 49315 51872 CS 一 个 做 part time 的 时候
+UI03FAZ_0101 53103 60978 ZH 有 一 个 人 就 告诉 我 是 异族 他们 就 告诉 我 你 知道 吗 在 马来 人 的 名字 里面 有 一 个 字 叫 做
+UI03FAZ_0101 60978 63331 EN j a r i l
+UI03FAZ_0101 63331 65131 ZH 就 是 同样 的 音
+UI03FAZ_0101 65131 66729 CS jazreel 就 是
+UI03FAZ_0101 66729 68739 ZH 马来 男生 的 名字 来 的
+UI03FAZ_0101 68739 70553 ZH 然后 我 就 哦 原来如此
+UI03FAZ_0101 78605 81665 ZH 现在 在 啊
+UI03FAZ_0101 81665 83504 ZH 槟城
+UI03FAZ_0101 83504 86134 CS bayan lepas 的area
+UI03FAZ_0101 86134 90201 CS 在 agilent technology 上 班
+UI03FAZ_0101 90201 94315 ZH 它 是 啊
+UI03FAZ_0101 94315 97678 CS 它 是 one of ah
+UI03FAZ_0101 97678 101842 EN top ten in penang manufacturing
+UI03FAZ_0101 101842 105259 ZH 然后 是 电 子 业 的
+UI03FAZ_0101 105259 109264 ZH 然后 呃
+UI03FAZ_0101 109264 115209 CS 其实 agilent 以前 的 时候 是 from originated from h. p.
+UI03FAZ_0101 115209 122045 CS and then 现在 他们 已经 ah fully concentrate on microwave
+UI03FAZ_0101 122045 125613 CS instrument product 这 样 子 的 东西
+UI03FAZ_0101 125613 134583 CS 然后 so far 我 在 那边 在 那 家 公司 也 是 做 了 到 今年 为止 已经 有 六 年 了
+UI03FAZ_0101 134583 138850 ZH 觉得 这 家 公司 实 在 是 蛮 不 错
+UI03FAZ_0101 138850 142236 ZH 其实 (呃)
+UI03FAZ_0101 142236 147013 ZH 以前 我 一 直 以 来 对 于 啊 工厂 呢 是
+UI03FAZ_0101 147013 148822 ZH 没有 什么 兴趣 
+UI03FAZ_0101 148822 154695 CS 啊 somehow 有 一 些 bias 我 觉得 在 manufacturing 做工 是 很 boring ah
+UI03FAZ_0101 154695 157862 ZH 然后 啊 很 死板 这 样 的 工作
+UI03FAZ_0101 157862 159554 ZH 然后 啊
+UI03FAZ_0101 159554 167770 ZH 就 在 很 机缘 的 情况 之 下 因为 日语 的 关系 所以 就 进入 了 这 间 公司
+UI03FAZ_0101 167770 171184 ZH 然后 一 做 就 做 了 六 年
+UI03FAZ_0101 173739 176501 CS 做 customer service loh
+UI03FAZ_0101 176501 189490 CS 就 是 负责 啊 日本 的 那 些 order entry 然后 啊 support japan side 有 any inquiries
+UI03FAZ_0101 189490 193989 ZH 然后
+UI03FAZ_0101 193989 201489 CS 在 我们 的 team 里面 有 啊 create quotations order entry 跟 order management
+UI03FAZ_0101 206099 208832 ZH 一 般 上
+UI03FAZ_0101 208832 213045 ZH 我 主要 现在 主要 做 的 就 是 啊
+UI03FAZ_0101 213045 217410 CS create quotations for japan side 的 sales f. e.
+UI03FAZ_0101 217410 227126 CS and at the same time 我们 也 是 要 book order for agilent japan
+UI03FAZ_0101 227126 229635 CS 的 sales
+UI03FAZ_0101 229635 239512 CS 然后 在 啊 上班 的 时候 我们 是 以 啊 email corresponding with japan side
+UI03FAZ_0101 239512 242841 CS and 我们 的 那 个
+UI03FAZ_0101 242841 249893 CS 我们 是 用 oracle system 来 啊 handle 我们 的 daily task 的
+UI03FAZ_0101 254206 257793 CS 啊 f. e. 其实 是 stands for field engineers
+UI03FAZ_0101 257793 260825 CS layman terms 就 是 sales person
+UI03FAZ_0101 260825 265198 ZH 只是 在 啊 因为
+UI03FAZ_0101 265198 269500 CS agilent 卖 的 产品 比较 complicated
+UI03FAZ_0101 269500 278607 CS so 那些 做 sales 的 人 都 要 有 一 些 比较 啊 deep knowledge in engineering that's why they are called field engineers
+UI03FAZ_0101 281529 287402 CS 然后 在 agilent 上班
+UI03FAZ_0101 287402 293472 CS 呃 为什么 我 会 在 那边 呆 六 年 呢 因为 我 觉得 在 那边 上班 很 flexi~ 呃 有
+UI03FAZ_0101 293472 295690 CS flexibility 非常 的 高
+UI03FAZ_0101 298288 304281 CS 不 需要 好像 以前 的 时候 上班 要 clock in clock out
+UI03FAZ_0101 304281 309770 ZH 然后 在 那边 是 非常 的 自由 啊
+UI03FAZ_0101 313453 320216 ZH 钱 福利 
+UI03FAZ_0101 320216 329039 CS with 一 个 这样 comfortable 的 working environment and to me most important thing 还 是 income lah
+UI03FAZ_0101 335688 339165 CS 现在 整 个 team 应该 是 啊
+UI03FAZ_0101 339165 346294 CS shrink down to 五 十 多 啊 after last year 的 economy crisis 之后
+UI03FAZ_0101 346294 350278 ZH 之前 我们 有 啊 整 七 十 多 个 人
+UI03FAZ_0101 350278 353458 CS so 现在 team 里面 只 有 五 十 多 个 人
+UI03FAZ_0101 362337 370730 CS 我 可以 讲 说 有 人 interrupt mah 哦 你 们 只 是 要 capture 那 个 words lah okay
+UI03FAZ_0101 370730 372732 CS 你 的 声音 有 record 到 吗
+UI03FAZ_0101 383581 387417 CS 没有 啊 我 开始 的 时候 是 做 quotations 的
+UI03FAZ_0101 387417 389890 ZH 做 了 一 年 多
+UI03FAZ_0101 389890 400616 CS 做 了 一 年 多 之后 有 一 天 我 的 啊 上司 就 告诉 我 说 啊 jazreel i need your help to another team
+UI03FAZ_0101 400616 404295 CS 就 是 去 做 啊 order entry
+UI03FAZ_0101 404295 411691 CS 啊 那 时候 我 就 跟 他 讲 哦 okay ah 没有 问题 啊 你 要 我 去 help 哪 个 team 都 没有 所谓 只 要 是 under 你 的 team 就 可以 了
+UI03FAZ_0101 411691 414302 CS 然后 就 这样 子 去 help
+UI03FAZ_0101 414302 421931 ZH 其实 其实 我 的 老板 是 一 个 非常 啊 保守 跟 很 厉害 讲话 的 人 他 就 告诉 我 说
+UI03FAZ_0101 421931 427614 CS i need your help but 其实 他 已经 是 indirectly 把 我 transfer 过去 另外 一 个 department 了
+UI03FAZ_0101 427614 430736 CS 就 是 啊 support order entry
+UI03FAZ_0101 430736 436868 CS so 那 时候 啊 就 做 了 差 不 多
+UI03FAZ_0101 436868 442306 CS 啊 那 时候 其实 我们 transfer 过去 的 时候 是 有 几 几 个 人 的
+UI03FAZ_0101 442306 445273 CS 几 个 customer service exec 一起 过
+UI03FAZ_0101 445273 450843 CS 然后 过 了 不久 之 后 啊 job role 就 有 一 点 更改
+UI03FAZ_0101 452064 460206 CS 然后 啊 老板 就 一 直 把 我 keep 在 那个 order entry team 里面
+UI03FAZ_0101 460206 465525 CS 可能 他 觉得 我 比较 适合 啊 lead 一些 junior
+UI03FAZ_0101 466796 473705 CS to (um) support 那 一 个 job function so 我 就 在 哪边 呆 了 几 年
+UI03FAZ_0101 486536 491379 CS 我们 通 因为 我们 不是 啊 direct facing customer so
+UI03FAZ_0101 491379 499495 CS umm when japan 的 sales f. e. 拿 到 生意 from japan 的 customer 之后
+UI03FAZ_0101 499495 505303 CS 他们 啊 customer 通常 会 place p. o.
+UI03FAZ_0101 506845 510171 CS 啊 给 f. e. 啊 field engineer
+UI03FAZ_0101 510171 515136 CS and then 或 either either directly to them or through faxes
+UI03FAZ_0101 515136 519239 ZH 然后 我们 啊 在 日本 那边 我们 的 啊
+UI03FAZ_0101 520078 526209 CS so call 那 些 support 的 人 他们 就 会 把 那 些 啊 p. o. 的 informations
+UI03FAZ_0101 526209 532195 CS 啊 transfer 进去 电脑 让 我们 看 到 了 之后 我们 就 啊
+UI03FAZ_0101 532195 543185 CS based on 那 些 资料 然后 就 啊 key in into our oracle system 就 啊 把 那个 order
+UI03FAZ_0101 543185 544931 CS i mean confirm 的 order
+UI03FAZ_0101 544931 555587 CS and then er later part 我们 有 另外 一 个 team 的 member 是 负责 管理 那 个 order 的 shipment
+UI03FAZ_0101 557920 563250 CS 啊 每天 都 是 做 同样 的 东西 就 是 book order
+UI03FAZ_0101 563250 571474 CS and then 开始 的 时候 我们 都 会 有 一 点 怀疑 为什么 那 个 sales 可以 每天 都 有 and then 每天 都 那 么 多
+UI03FAZ_0101 571474 576780 ZH 以前 前 几 年 的 时候 那 个 啊 日本 的 生意 是 比较 好 的
+UI03FAZ_0101 576780 579481 ZH 然后 基本 上 是 比较 忙
+UI03FAZ_0101 584770 588817 ZH 的确 啊 的确 是 有 点 闷 的
+UI03FAZ_0101 588817 603997 CS 啊 以 我 个 人 来 讲 可能 有 些 人 是 蛮 喜欢 啦 因为 不 需要 太 多 的 啊 人 与 人 之间 的 那 些 啊 communications 啊 不用 deal with other parties 啊
+UI03FAZ_0101 603997 610243 CS 因为 基本 上 你 只 需要 有 电脑 有 oracle system 你 就 能 够 做工 了
+UI03FAZ_0101 610243 614274 ZH 然后啊对我来讲是
+UI03FAZ_0101 614274 619008 CS 如果 只 是 这样 daily 做 这 样 的 东西 我 是 觉得 是 有 点 闷 的
+UI03FAZ_0101 619008 629009 CS 只 是 啊 as a leader 可能 还 要 花 一 点 心 心 思 去 想 看 怎样 lead the team
+UI03FAZ_0101 629009 638370 CS and then sometimes 要 come out 啊 proposal how to er improve 啊 我们 的 work process
+UI03FAZ_0101 638370 643910 CS 然后 how to ah achieve the target set by ah management
+UI03FAZ_0101 643910 648894 CS so if 有 这样 的 others 的
+UI03FAZ_0101 648894 659913 CS 就 是 as a leader 的 role included 所以 我 觉得 还 能 够 啊 让 我 继续 continue to service in this company
+UI03FAZ_0101 670955 678043 CS 生为一个 leader 有时候你会面对人家负你嘛
+UI03FAZ_0101 678990 684581 CS 我 我 不 知道 其实 so far 我 没有 really 去 问 team 里面 的 人 不过
+UI03FAZ_0101 684581 689587 ZH  不过 我 我 只是 听到 风声 跟 以前 的 时候
+UI03FAZ_0101 689587 695701 ZH 啊 以前 曾经 有 人 告诉 我 那 个 人 已经 现在 没有 和 我 一 起 做工 了 他 就 告诉 我 说 啊
+UI03FAZ_0101 697754 704411 CS 人家 也 是 会 觉得 为什么 老板 选 你 做 leader instead of others loh
+UI03FAZ_0101 704411 713541 ZH 然后 啊 那 因为 那 个 人 也 只 是 好像 啊 八 新闻 给 我 听 这样 子 罢 了 然后 我 是 觉得
+UI03FAZ_0101 713541 718203 ZH 哦 这样 这个 是 每 个 上司 对 员工 的 那 个 看法 不 一 样
+UI03FAZ_0101 718203 723996 CS 大家 的 capability 跟 performance 在 各 方面 是 不 一 样
+UI03FAZ_0101 723996 728054 ZH 这 可能 是 老板 觉 得 啊 我 有 那 个 能力
+UI03FAZ_0101 728054 739315 CS 然后 做 leader 你 要 team 里面 的 人 able to follow your instructions
+UI03FAZ_0101 739315 744050 EN and uh listen to your guidance ah
+UI03FAZ_0101 744050 752704 CS and at the same time 你 要 carry out management 或者 是 你 的 manager 给 你 要 做 的task
+UI03FAZ_0101 752704 755591 EN so there there are there is a challenges lah
+UI03FAZ_0101 755591 762750 CS 你 又 要 啊 follow 上面 的 instructions and at the same time 你 又 要 下面 的 人 能 够 follow 你 的 instructions
+UI03FAZ_0101 788833 794201 CS 什么 letter 就 是 我 的 工作 嘛
+UI03FAZ_0101 795287 800337 CS 呃 还是 leader 然后
+UI03FAZ_0101 801182 805699 CS 其实 其实 对 我 来 讲 做 leader 没有 什么 了 不 起 的 工作
+UI03FAZ_0101 805699 809914 EN to me this is nothing great or superior lah
+UI03FAZ_0101 810870 812573 ZH 讲 到 最后 我 还 是 讲
+UI03FAZ_0101 814391 817017 EN money matters 
+UI03FAZ_0101 828983 834843 ZH 看 电视 呃 通常
+UI03FAZ_0101 834843 843732 ZH 其实 工作 以 外 回 到 家 有 的 时间 就 是 那 几 个 小 时 就 是 看 电视 啊 跟 家人 讲话 啊
+UI03FAZ_0101 843732 849959 ZH 然后 上网 做 一 些 自己 的 东西 啊
+UI03FAZ_0101 851604 853424 ZH 晚上 就 是 睡觉 了
+UI03FAZ_0101 861614 868826 ZH 嗯 上网 会 去 查 字典 啊
+UI03FAZ_0101 868826 877153 ZH 呃 那些 因为 因为 我 现在 还是 有 在 学习 日语 啊 所以 因为
+UI03FAZ_0101 877153 881319 CS 你 的 japanese 的 proficiency level 低 嘛
+UI03FAZ_0101 881319 889643 CS so 如果 你 要 上 那 些 japanese 的 website 的 时候 只 是 一 个 website 都 可能 你 要 花 很 多 的 时间 在 那边
+UI03FAZ_0101 890490 894302 CS translate 啊 理解 它 的 意思 这样 的 东西

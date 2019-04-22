@@ -1,0 +1,877 @@
+13NC25MBP_0101 6437 8660 CS okay 可以
+13NC25MBP_0101 10223 14856 CS alright wirong it's just you and it's just 你和我 now
+13NC25MBP_0101 17364 19760 CS this is this is very 奇怪
+13NC25MBP_0101 22674 23920 EN i have no idea
+13NC25MBP_0101 23920 26460 CS how about telling me about rugby training today 今天
+13NC25MBP_0101 44720 47490 CS oh so it was 昨天 晚上 有 rain 对不对
+13NC25MBP_0101 53806 54836 EN oh
+13NC25MBP_0101 57570 60430 CS okay 因为 我 今天 unfortunately 我 有
+13NC25MBP_0101 60430 63940 CS o. d. a. c. 的 briefing at bugis
+13NC25MBP_0101 63940 65680 CS so 不可以 join 你们
+13NC25MBP_0101 75320 76789 ZH 几时
+13NC25MBP_0101 78651 82981 CS 因为 我 不会 在 i will not be here until 五号
+13NC25MBP_0101 82981 87971 CS  yes  对了
+13NC25MBP_0101 87971 90761 CS then 你 明天 的 training有 没有 去 for hockey
+13NC25MBP_0101 92910 94956 CS oh 是 train flick 而已 对吗
+13NC25MBP_0101 98659 100121 EN oh okay
+13NC25MBP_0101 100121 102851 CS then anyway oh 我们 成绩 是 明天 晚上 出来 是 不是
+13NC25MBP_0101 105201 106611 CS 我 真的 是 不想 check
+13NC25MBP_0101 108658 116457 CS 对 我 觉得 我 明天 会 躲 在 房间 里面  and don't know  and sleep 
+13NC25MBP_0101 123521 125741 CS 对 我 觉得 我 拿 three 就 happy 了
+13NC25MBP_0101 127581 129121 CS 你的 target 是 什么 呢
+13NC25MBP_0101 133422 134692 CS 对 我 觉得 for
+13NC25MBP_0101 138631 142041 CS 对 我 看到 我 other school的人 哦 拿 three point two
+13NC25MBP_0101 142231 143951 CS and three point five 这种
+13NC25MBP_0101 144691 148791 CS 我 就 已经 怕 了 因为 他们 以前 a. level 拿 a. a. b. a. a. a. 的
+13NC25MBP_0101 158971 162751 CS i don't know i think i have heard of him before 我 有 听过
+13NC25MBP_0101 172721 176091 CS three point five 我 朋友 拿 four point five chemical engineering 的
+13NC25MBP_0101 176091 179608 ZH   oh 对 对 对 对 对 对
+13NC25MBP_0101 180577 181718 ZH 对 对 对
+13NC25MBP_0101 182051 185491 CS 哇 我 很 怕 我 拿 two point something eh 真的 很 吓人 eh
+13NC25MBP_0101 185491 186287 ZH 怎么办
+13NC25MBP_0101 190006 190788 CS 他的 first sem 多少
+13NC25MBP_0101 192370 194995 CS oh my god 我 觉得 也是 这样 的 
+13NC25MBP_0101 197089 197464 ZH 现在 什么
+13NC25MBP_0101 199917 200542 EN wah
+13NC25MBP_0101 201120 203650 EN three is sian very very very sian
+13NC25MBP_0101 206191 208161 CS three 是 second lower meh 不是 three point five meh
+13NC25MBP_0101 209503 211614 CS 如果 你 连 three point five 都 没有 不是 cui
+13NC25MBP_0101 212316 214771 EN 
+13NC25MBP_0101 219111 223471 EN yah lah actually i think ah honours honours right if you take like first class second class hor
+13NC25MBP_0101 223471 233642 EN first class only give about two hundred dollars extra than not having honours only then after that it's performance-based already they don't really care whether you got honours anymore  it's just starting pay lah i think
+13NC25MBP_0101 243219 244234 EN yeah lor
+13NC25MBP_0101 245441 247321 CS 不用 紧 啊 我 觉得 我 拿 degree 就 happy 了
+13NC25MBP_0101 247321 256289 CS 这种 东西 哎呀 对 啦 因为 很多 you know who i am talking about 
+13NC25MBP_0101 258716 262222 EN oh can continue talking yes anyway (er)
+13NC25MBP_0101 263429 265601 EN the o. c. thing right is held in hall right
+13NC25MBP_0101 270011 271076 EN 
+13NC25MBP_0101 271784 273065 ZH 我 真的 不懂 要 讲 什么 了
+13NC25MBP_0101 277331 280288 CS 没有 那个 o. c. 东西 in hall 是 八点半 is it
+13NC25MBP_0101 282231 286211 CS i think so lah 因为 明天 我们 有 hockey 嘛 right we won't go like
+13NC25MBP_0101 286211 290608 CS hockey 一个 小时 i think 会 完 了 啦 因为 hockey 明天 是 light training
+13NC25MBP_0101 292801 295561 CS blue streaks 而已 some aiya nonsense 的 啦
+13NC25MBP_0101 296670 297476 ZH 对 咯
+13NC25MBP_0101 297941 302371 CS 你 觉得 嘞 preliminary 都 没有 机会 玩了 你 觉得 我们 quarter final 有 机会 玩 吗
+13NC25MBP_0101 304839 307543 EN yes yes 
+13NC25MBP_0101 316011 319636 ZH 其实 那个 不是 玩 其实 他是 跑来 跑去 而已
+13NC25MBP_0101 330359 339159 EN i think so also leh but then ha to be honest ah they want to play safe lor no choice lah i think if this one ah it's like for the greater good lor
+13NC25MBP_0101 339159 342549 CS 你 要 hall 那 你 要 hall qualify right then 你 gotta do that eh
+13NC25MBP_0101 342549 349847 EN bo bian otherwise if later oh if they mount a comeback they win three two ah confirm they blame us one lor confirm 
+13NC25MBP_0101 360812 380767 EN yah but he will run a bit out of position then nobody can get him anyway i feel like we are radio deejays eh we are high on the air and this is edwin here and that's weehong you must say hi  wah it's damn fun yah so weehong how's your day 
+13NC25MBP_0101 383880 384834 ZH 对 很像
+13NC25MBP_0101 385771 387052 EN oh (erm)
+13NC25MBP_0101 387758 390131 EN so (er) christmas day what you do ah
+13NC25MBP_0101 390787 391521 ZH 你 做 什么
+13NC25MBP_0101 393439 397649 CS 为什么 你 在 家里 睡觉 没有 出去 外面 感染 一下 那个 christmas 的 气氛 吗
+13NC25MBP_0101 405152 408355 EN so you actually slept on the twenty-fifth on the twenty-fourth
+13NC25MBP_0101 412904 414263 EN east coast to do what
+13NC25MBP_0101 435477 437593 ZH 哇 好 无聊 哦 
+13NC25MBP_0101 448006 448771 EN oh
+13NC25MBP_0101 449164 451436 CS so 他们 的 这样子 is in the ah
+13NC25MBP_0101 455089 456737 EN you all didn't know that they know each other
+13NC25MBP_0101 464781 466117 ZH 你 看 不到 他们 meh
+13NC25MBP_0101 467820 468648 EN oh
+13NC25MBP_0101 474939 476532 EN i see i see
+13NC25MBP_0101 477869 480839 CS okay lah 不错 啦 at least 你 有 hang out with friends 吗 对不对
+13NC25MBP_0101 482556 484963 EN yah lah and brother lah okay lah brotherly love
+13NC25MBP_0101 486260 489429 CS (er) 不错 不错 有没有 收到 什么 christmas present 吗
+13NC25MBP_0101 491919 493979 CS oh 对 talk about 阿 燕 then
+13NC25MBP_0101 493979 500709 ZH  eh 有人 打 电话 给你 啊 是谁 oh
+13NC25MBP_0101 500709 502369 CS 不是 女孩子 就 okay 了
+13NC25MBP_0101 502369 506119 CS  男的 就 可以 挂掉 可以 turn on silent 
+13NC25MBP_0101 508178 511014 ZH 没有 啦 是 阿燕 偷掉 嘛 是不是
+13NC25MBP_0101 511967 513412 ZH 不 知道 eh 
+13NC25MBP_0101 517867 521743 ZH 哦 没有 我 还 以为 是 阿燕 拿的 因为 上次 你 很像 跟 我讲 是 阿燕 拿的
+13NC25MBP_0101 522790 524415 ZH 哦
+13NC25MBP_0101 525398 527054 CS oh then 然后 就 不是 咯
+13NC25MBP_0101 528899 531939 CS 不懂 eh 哇我们 很 像 还有 fifty one minutes
+13NC25MBP_0101 531939 533798 EN  that is quite a long time
+13NC25MBP_0101 535669 539469 CS 对 其实 我们 讲 十分钟 了we just need to do five more times of this
+13NC25MBP_0101 539469 543349 CS 我 you need to be it'll be really far
+13NC25MBP_0101 543349 544799 CS we will be really 好笑
+13NC25MBP_0101 544799 553189 EN if  we just repeat the conversation that we did just now for sixty minutes 
+13NC25MBP_0101 561887 562839 ZH 对
+13NC25MBP_0101 562839 564425 CS 要 听 我们的 conversation
+13NC25MBP_0101 565215 572012 CS anyway 我们的 conversation is not anything that is (erm) full of content is just full of mms (ha)s (hee)s and (hor)s 
+13NC25MBP_0101 572012 575513 EN yah and rubbish and the hahaha random one but yeah
+13NC25MBP_0101 575513 582057 CS the~ the~ and~ 刚才 我 我 我 i was like
+13NC25MBP_0101 582057 583587 CS 我 去 bugis
+13NC25MBP_0101 584524 587133 EN then then there was (er)
+13NC25MBP_0101 587836 595219 EN i was asking siew ling i was going to ask her lah how was it like to do the recording then she never reply me
+13NC25MBP_0101 596328 601413 EN i message her lah then i thought she she got traumatised for this thing
+13NC25MBP_0101 604273 607590 EN she did with jennifer
+13NC25MBP_0101 608142 608747 EN yah
+13NC25MBP_0101 609893 611124 EN your your block thirty four ah
+13NC25MBP_0101 612502 615195 EN no lah not everyone lah i think the block thirty four one
+13NC25MBP_0101 619693 623363 EN or she's she's in the dance the hall dance people
+13NC25MBP_0101 624237 627272 EN yeah i think zhaoqi they will know her
+13NC25MBP_0101 627272 629788 EN  that time she's in social decor what
+13NC25MBP_0101 630982 632196 EN social (er)
+13NC25MBP_0101 638567 641377 CS 对 咯 哇 这种 do with strangers 很难 做 的
+13NC25MBP_0101 641769 642630 ZH 我 觉得
+13NC25MBP_0101 644847 646613 CS bo bian eh 这种东西
+13NC25MBP_0101 653966 655301 ZH 对 我 也是 觉得
+13NC25MBP_0101 655874 657301 EN completely nothing to talk about
+13NC25MBP_0101 659257 661067 CS yah lah 那个 brother leh
+13NC25MBP_0101 661067 663377 CS but only 可以 talk cock 的
+13NC25MBP_0101 663377 664787 CS but 他是 我 brother leh
+13NC25MBP_0101 664787 669747 CS 可是 今天 早上 也是 eh bro 我 看 到 你 过 马路 你 去 哪里 然后 我 跟 他 讲
+13NC25MBP_0101 669747 671267 CS 我 要 吃 早餐 then 我 要 去 bugis 了
+13NC25MBP_0101 671267 672505 ZH 哦 好 帮我 买 
+13NC25MBP_0101 675438 676319 EN brother leh
+13NC25MBP_0101 676946 677977 ZH 哎呀
+13NC25MBP_0101 677977 680177 CS hall 最 重要 是 要有 认识 的人
+13NC25MBP_0101 680787 683187 CS 你 没有 认识 的人 哦 in hall 很 寂寞 then you
+13NC25MBP_0101 683187 688037 CS even if you are supposed to stay in hall right 你 有 时候 like
+13NC25MBP_0101 688037 690537 CS 不想 stay 因为 你 没有 人 跟你 讲话
+13NC25MBP_0101 690537 691497 EN then
+13NC25MBP_0101 691497 693307 CS sometimes 你 有 很多 东西 做 like
+13NC25MBP_0101 693307 700121 CS in hall then 你 又 不想 as in as in you feel you are more at home when you're at home than you are in hall
+13NC25MBP_0101 700121 702809 EN so everytime i come to hall it's like a very unpleasant experience lah
+13NC25MBP_0101 703532 703922 EN right
+13NC25MBP_0101 716279 718651 CS but 你 有 没有 跟 darren 他们 like 出去 吃 东西
+13NC25MBP_0101 726262 728600 CS but 他们 是 in their own world 的 是不是
+13NC25MBP_0101 734285 735359 EN oh
+13NC25MBP_0101 737088 737822 ZH 啊 对
+13NC25MBP_0101 742872 743703 ZH 哦
+13NC25MBP_0101 744202 745717 ZH 对 啊 最 重要 是 有人 要 jio
+13NC25MBP_0101 750991 752554 EN oh okay
+13NC25MBP_0101 756518 758881 EN are you going to stay sing~ single or double room next year
+13NC25MBP_0101 759992 761006 EN you can stay
+13NC25MBP_0101 763951 765012 EN no lah if you can stay ah
+13NC25MBP_0101 767921 770947 EN would you like to move to a single room or still stay in a double room
+13NC25MBP_0101 771849 772691 EN fun right double room double room is bigger and more spacious
+13NC25MBP_0101 774922 778069 EN i also think so see some people i don't know why want to stay in single room
+13NC25MBP_0101 779482 781221 EN yah lah there's good there's bad lah
+13NC25MBP_0101 783765 792734 EN you you if you if you okaylah i mean unless you got a very very annoying roommate lah but if you don't i think it is okay lah you can just stay in a double room 
+13NC25MBP_0101 798296 812717 EN yes eh but the other night you know first floor got block thirty two first floor got this china guy  he  he's really like the room right got sofa got yeah i like
+13NC25MBP_0101 812717 817337 CS like a living room like like 你 like go into the his room right it's like 客厅 like that
+13NC25MBP_0101 818014 818869 EN seriously
+13NC25MBP_0101 821453 822486 EN serious eh the room
+13NC25MBP_0101 823257 825557 CS he put his couch at the 门
+13NC25MBP_0101 825557 827167 EN then
+13NC25MBP_0101 827167 828387 CS you know you open the 门 啊
+13NC25MBP_0101 828387 830067 EN then it's just beside
+13NC25MBP_0101 830067 833547 EN then his study table is against the wall then his bed ah is at the far end
+13NC25MBP_0101 833547 833967 EN 
+13NC25MBP_0101 833967 836847 CS so 还 got a little 空间 in the middle then he i think he got put
+13NC25MBP_0101 836847 838457 EN carpet
+13NC25MBP_0101 838457 839717 CS then he very 温暖
+13NC25MBP_0101 839717 840656 EN i don't know what he put
+13NC25MBP_0101 841096 841674 EN yes
+13NC25MBP_0101 842298 842928 EN yes
+13NC25MBP_0101 844356 844962 EN wah
+13NC25MBP_0101 847565 850029 EN  wow
+13NC25MBP_0101 850029 851310 EN did you watch football yesterday
+13NC25MBP_0101 851873 852887 EN did you watch football yesterday
+13NC25MBP_0101 856449 857464 EN (er) i watch
+13NC25MBP_0101 857710 859877 EN i watch that towards towards the end i watched seventeen minutes
+13NC25MBP_0101 860563 861645 EN the seventeenth minutes onwards
+13NC25MBP_0101 866877 869217 CS 你 可以 出来 嘛 你有 motorbike leh
+13NC25MBP_0101 871432 873123 ZH 有 车 一定 坐 啦
+13NC25MBP_0101 879524 881928 ZH 有车 去 哪里 都 可以 咯
+13NC25MBP_0101 887767 889227 CS safra mount faber 有 bowling meh
+13NC25MBP_0101 893898 895857 CS don't even talk about mount faber lor 那个
+13NC25MBP_0101 895857 897237 CS jurong 你 懂 我 都 没有 去 过
+13NC25MBP_0101 904299 905413 EN oh
+13NC25MBP_0101 905413 907707 EN wah i didn't know that leh fact of the day
+13NC25MBP_0101 910096 913647 CS  then 你 自己 玩 也 觉得 很 noob hor
+13NC25MBP_0101 913647 916697 CS wah yah bowling 这种 game 我 average 一百 三十 多 而已 lor
+13NC25MBP_0101 919887 922637 CS 不 可以 啦 人家 什么 很 sick 的 eh 两百 多 的 嘞
+13NC25MBP_0101 924467 925320 ZH 他们 是
+13NC25MBP_0101 926008 926994 EN strike strike strike
+13NC25MBP_0101 926994 928497 CS then 他 就 spare
+13NC25MBP_0101 928497 930967 CS 他就 strike spare
+13NC25MBP_0101 930967 933187 CS strike strike strike strike strike 到 完 then 他 最后 两个 hor
+13NC25MBP_0101 933187 935152 EN if you strike again then you gonna get another chance what
+13NC25MBP_0101 935847 939087 CS desmond also get then 他 又 strike strike eh wah then 我们 怎样 玩
+13NC25MBP_0101 939087 940638 EN 
+13NC25MBP_0101 946307 947937 CS 有时 hor 我是 我是 like
+13NC25MBP_0101 947937 951307 CS like spare 到 很 lame you know like 有时 你 spare oh 剩 一个
+13NC25MBP_0101 951647 953617 CS then 你 只是 要 aim 那个 direction 而已 吗
+13NC25MBP_0101 953617 958617 CS then 有时 我 spare 我 就 立刻 pzzt 另外 一个 direction then 我就 哇 sian 
+13NC25MBP_0101 960070 960952 EN walao
+13NC25MBP_0101 962186 963397 EN yeah lor
+13NC25MBP_0101 963397 965698 CS 我 只 是 想 玩 tennis
+13NC25MBP_0101 965698 966549 ZH 我 超久 没有 玩 了 咯
+13NC25MBP_0101 967877 971327 CS (嗯) 以前 有 racket lah then 我 借 朋友 hor then like 那 两个 racket 不见 掉
+13NC25MBP_0101 971905 972518 EN walao
+13NC25MBP_0101 973330 974226 EN 
+13NC25MBP_0101 978424 979997 ZH 有 百多块 的
+13NC25MBP_0101 979997 981867 CS 百 八 啦 我 看过 badminton racket
+13NC25MBP_0101 982634 983877 ZH 超贵
+13NC25MBP_0101 983877 985857 CS like titanium 的 那种
+13NC25MBP_0101 987950 990927 ZH 哇 这样 很轻 哦 很像
+13NC25MBP_0101 990927 993037 CS 很 像 拿 那个 housefly swatter 来 打 这样
+13NC25MBP_0101 993597 994373 ZH 超爽 咯
+13NC25MBP_0101 999467 999970 EN mm
+13NC25MBP_0101 1005260 1005718 ZH 对
+13NC25MBP_0101 1006926 1007434 EN mm
+13NC25MBP_0101 1010047 1012057 CS yeah lah yeah lah but 有时 你 有时
+13NC25MBP_0101 1012057 1015767 CS 你 你 重 哦 你 玩 一下子 right you will feel
+13NC25MBP_0101 1016127 1018167 CS 其实 every gram counts 因为 你 你
+13NC25MBP_0101 1018167 1023587 EN like halfway through the game you will realize that that yeah the weight is actually hampering a bit of your
+13NC25MBP_0101 1023587 1025637 CS hand movement 因为 你的 wrist 可能 没有 这样 strong
+13NC25MBP_0101 1052855 1054103 EN 
+13NC25MBP_0101 1054726 1055536 EN oh
+13NC25MBP_0101 1063212 1065148 EN oh i didn't know that leh
+13NC25MBP_0101 1065148 1068427 ZH 我 是 乱乱 来的 其实 我 我 是 乱乱 来的
+13NC25MBP_0101 1076367 1079166 ZH 看 看 出来 的 这种 东西 
+13NC25MBP_0101 1085016 1086966 ZH 只是 听 而已 啦 管 他的 这种 东西
+13NC25MBP_0101 1087792 1089728 ZH 五十块 五十块 可以 买 eh 这种 东西
+13NC25MBP_0101 1091043 1091560 EN eh
+13NC25MBP_0101 1092202 1092726 ZH 这个 哦
+13NC25MBP_0101 1093470 1094178 ZH 哦 有 有 有
+13NC25MBP_0101 1096259 1098009 CS 有 adobe oh
+13NC25MBP_0101 1098009 1098499 EN 
+13NC25MBP_0101 1098499 1100009 CS 我 没有 看过 这个 software eh
+13NC25MBP_0101 1100009 1101192 ZH 还 蛮 好玩 的
+13NC25MBP_0101 1102839 1104609 CS 那 你 可以 自己 record songs
+13NC25MBP_0101 1104609 1108019 EN but anyway speaking of record songs i just bought a guitar
+13NC25MBP_0101 1108019 1109369 CS 对 刚 买 一个 guitar
+13NC25MBP_0101 1110124 1110471 EN cannot
+13NC25MBP_0101 1111928 1113125 EN for fun lah like
+13NC25MBP_0101 1113829 1115519 CS like 你 自己 这样 self record lor
+13NC25MBP_0101 1117609 1119249 CS yah 没有 这样 好 因 为他 会 like
+13NC25MBP_0101 1119249 1126217 CS like 有 时候 you are listening from a hand from a telephone like that yeah but i just trying to learn do you know how to play guitar
+13NC25MBP_0101 1127713 1133819 ZH 哇 我 玩到 我 玩到 我 手痛 咯 这边 按到 我 手 我 是 等 它 脱皮 而已 
+13NC25MBP_0101 1133819 1137409 CS 真的 不 容易 玩 你 要 你 要 你 要 你 要 shift 真的 要 diff 真的 很 difficult
+13NC25MBP_0101 1138852 1141731 ZH 等 一下 我 是 手痒 咯 才 去 玩 咯
+13NC25MBP_0101 1142899 1146849 CS 没有 我 刚刚 刚 买 刚 学 而已 才 学 online
+13NC25MBP_0101 1148854 1150097 CS mm 看 video 学
+13NC25MBP_0101 1150920 1154327 CS bo bian eh 要人 教 then the people are not in school
+13NC25MBP_0101 1155139 1157198 EN or they are out of school
+13NC25MBP_0101 1159003 1160641 EN okay yah then
+13NC25MBP_0101 1163559 1165729 CS 整个 ten minutes just passed okay four more to go
+13NC25MBP_0101 1165729 1167413 EN 
+13NC25MBP_0101 1167413 1169157 EN my god it's like i am talking
+13NC25MBP_0101 1169861 1172701 CS half chinese and half 英文
+13NC25MBP_0101 1179223 1188321 EN no i'm wondering what kind of research this is going to is it like human speech patterns tell me i am right 
+13NC25MBP_0101 1191170 1191902 EN yah
+13NC25MBP_0101 1192655 1193154 EN i mean
+13NC25MBP_0101 1194190 1194521 EN why
+13NC25MBP_0101 1194970 1197794 EN oh is it that girl's f. y. p.
+13NC25MBP_0101 1201195 1204418 EN eh f. y. p. is like one supervisor to you ah
+13NC25MBP_0101 1207559 1208030 EN ah
+13NC25MBP_0101 1209425 1215790 EN i don't know eh i don't know anything eh i think our f. y. p. it just feels very far away but before you know it ah it will just reach you
+13NC25MBP_0101 1220812 1223396 EN wah eh don't even think eh
+13NC25MBP_0101 1224067 1227838 EN oh please don't talk about exam can we talk about something else please 
+13NC25MBP_0101 1228748 1234501 EN can we talk about something else now something happier yes like
+13NC25MBP_0101 1234501 1241051 EN have you tried making the thing look like a very very nice pattern like or maybe you can do a consistent monotonous note like
+13NC25MBP_0101 1245039 1245771 EN yah can
+13NC25MBP_0101 1245771 1248411 CS or you can make abit of 形状 out of the thing
+13NC25MBP_0101 1251131 1258361 CS 对了 like 你 从 很 小 声 讲 到 很大 声 then 你 从小 声 then 又 讲 到 很大 声 then 你 从 很 小 声 你 讲 到 很大 声
+13NC25MBP_0101 1258361 1261275 CS  then you can 弄 那个 pattern 出来
+13NC25MBP_0101 1271562 1272990 EN eh but seriously ah i am pondering ah
+13NC25MBP_0101 1274031 1276111 CS i mean 如果 你 根本 都 不 认识 那个 人 right
+13NC25MBP_0101 1276741 1278511 CS then 你们 两个 人 一起 来 for 这个
+13NC25MBP_0101 1279341 1283981 CS i 我 真的 不知道 你们 讲 什么 eh okay for example okay even worse is if you are like a female
+13NC25MBP_0101 1283981 1293051 CS who's staying maybe in my hall and then i am here with you ah 那时 我们 两个 坐 在 这边 then 我 就 跟你 讲 hey you know i what's your name we are just 可能
+13NC25MBP_0101 1293051 1295811 CS 可能 你 会 跟 我 讲 你的 name then afterwards 你 又 讲 了
+13NC25MBP_0101 1295811 1304174 EN then like okay so what's your course then you know you are year what (er) where you stay then after a while there will be a lot of silence like this
+13NC25MBP_0101 1305784 1307321 CS then 就 没有 话讲 了
+13NC25MBP_0101 1313989 1317398 CS 对 咯 but 你 根本 不 知道 你的 original partner 是 谁 对不对
+13NC25MBP_0101 1318860 1321151 CS 对 啦 but then 你 根本 都 不 认识 他 right
+13NC25MBP_0101 1324801 1327900 CS 对 but then oh the thing is 你们 怎 你们 要 怎么 communicate
+13NC25MBP_0101 1341540 1344227 ZH 有些 很 好笑 刚才 我 差 一点 刚才 差 一点 想笑
+13NC25MBP_0101 1351596 1354571 ZH 有些 很 不 自然 因为 有些 是 英文 华文
+13NC25MBP_0101 1354571 1356391 CS 英文 华文 then 又 英文
+13NC25MBP_0101 1356391 1358251 CS then 就 好像 是
+13NC25MBP_0101 1358251 1363411 CS you want to 去 巴刹 买 buy fish 还是 buy meat
+13NC25MBP_0101 1363411 1367661 CS  then 你 会 想  then 你 可 不 可以 讲 三段 不 可能 讲 三段 的
+13NC25MBP_0101 1369573 1370518 ZH 对
+13NC25MBP_0101 1371357 1372303 ZH 哎呀
+13NC25MBP_0101 1376684 1377531 ZH mm 对
+13NC25MBP_0101 1382323 1383486 ZH 对 很 奇怪
+13NC25MBP_0101 1388791 1391931 CS yah you will try to finish it with the 一样 的 language
+13NC25MBP_0101 1393451 1396961 CS okay the sentence didn't go quite right cause i didn't finish the sentence with 一样 的 language
+13NC25MBP_0101 1397830 1402481 CS  i just said you will finish the sentence in 一样 的 language i just said that right
+13NC25MBP_0101 1402481 1404191 CS and that was not in 一样 的 language
+13NC25MBP_0101 1411430 1411800 EN yah like
+13NC25MBP_0101 1412431 1414401 CS do you want to go to the 巴刹 today
+13NC25MBP_0101 1415896 1418250 EN yah oh wee yong such an
+13NC25MBP_0101 1419214 1422583 EN okay nevermind  i don't think vulgarities are allowed
+13NC25MBP_0101 1423445 1424118 EN right
+13NC25MBP_0101 1428821 1435541 CS 我 觉得 hor 我们 这样 talk hor for like one hour oh 我们 走出 去 就 没有 话 讲 了 就 silent 了
+13NC25MBP_0101 1435541 1440005 CS 对很 shag 我 觉得 我们 会 很 shag but 其实 已经 要 半个 小时 了
+13NC25MBP_0101 1440758 1442791 ZH 很快 你 不要 去 想 它 他 真的 很快
+13NC25MBP_0101 1450657 1451378 EN eh
+13NC25MBP_0101 1451942 1452460 EN eh
+13NC25MBP_0101 1453926 1454422 EN eh
+13NC25MBP_0101 1454886 1457182 CS 哦 okay k. k. k. 看到 了 看到 了 看到 了
+13NC25MBP_0101 1459019 1459973 ZH 做么 你 不 讲话 了 eh
+13NC25MBP_0101 1461813 1465096 ZH 你 有 看 到 二十四零八零零六 是 什么 来的
+13NC25MBP_0101 1468609 1470809 CS start end then 有 一个 end 你 有 没有 看到
+13NC25MBP_0101 1471916 1478035 EN ah interesting right oh i know already i know already it's this whole thing from this timeline to this timeline
+13NC25MBP_0101 1478035 1479458 EN yah wah
+13NC25MBP_0101 1480440 1481949 EN  i didn't know that leh
+13NC25MBP_0101 1486583 1486905 ZH 对
+13NC25MBP_0101 1487569 1488929 CS how about 我们 不 讲话 for the whole
+13NC25MBP_0101 1488929 1490783 EN thing 
+13NC25MBP_0101 1493951 1496095 CS think i will be murdered alive 我 觉得
+13NC25MBP_0101 1497932 1498654 EN yah
+13NC25MBP_0101 1502910 1505040 EN this one loh this is the only one now
+13NC25MBP_0101 1505040 1514829 EN karang guni i did for hexis on saturday morning or we collect we collect like damn lot of stuff they
+13NC25MBP_0101 1514829 1515635 CS 他们 有 like
+13NC25MBP_0101 1515979 1516889 ZH 电视机
+13NC25MBP_0101 1517959 1528271 EN then still got (erm) hi-fi set then got clothing a lot of clothes damn lot of clothes  the clothes more than the newspaper i think
+13NC25MBP_0101 1529399 1532039 CS clothes 有 clothes about three times more than newspaper
+13NC25MBP_0101 1532039 1535647 EN but newspaper we got already
+13NC25MBP_0101 1535647 1538193 EN one collection point already more than one lorry already
+13NC25MBP_0101 1538702 1541249 CS then in total we collected about 八百五十块
+13NC25MBP_0101 1541516 1541933 EN yah
+13NC25MBP_0101 1542657 1543330 EN for one day
+13NC25MBP_0101 1556810 1558210 ZH 八百多块 (em)
+13NC25MBP_0101 1566263 1573999 EN true lah but you see ah it's (er) you come to think about part time job ah a lot of people don't want because we have to commit a lot of what but this one ah you just commit
+13NC25MBP_0101 1573999 1576879 CS for like 我 这样 you know that day i had i had to leave early i had to leave at two
+13NC25MBP_0101 1577567 1581335 CS 我 from because by the time two o'clock nearly finish already we just loading the thing up the lorry only
+13NC25MBP_0101 1582361 1586589 EN so we do four hours you get eight hundred plus in total it's not that bad lah
+13NC25MBP_0101 1586589 1588109 CS and besides 又 不是 full strength
+13NC25MBP_0101 1589169 1590779 CS 不是 full strength we all we only did
+13NC25MBP_0101 1591203 1592049 ZH 我们 只有 几个人
+13NC25MBP_0101 1592551 1593645 ZH 十八 个人 啦
+13NC25MBP_0101 1594699 1597989 CS 很少 很少 十八 个人 so 赚 八百 五十 块 not that bad
+13NC25MBP_0101 1602764 1604769 CS 没有 啊 siao 那里 可能 做到完
+13NC25MBP_0101 1604769 1606080 CS 我 又 不是 robot
+13NC25MBP_0101 1606080 1606999 EN (er) oh
+13NC25MBP_0101 1606999 1609409 CS 我 已经 忙 忙 这些 到 很像 crazy 了 啊
+13NC25MBP_0101 1609409 1611399 EN 
+13NC25MBP_0101 1611399 1612429 EN social
+13NC25MBP_0101 1613001 1613593 EN biz mag
+13NC25MBP_0101 1614001 1615173 EN h. s. o. c.
+13NC25MBP_0101 1616680 1617396 EN (er)
+13NC25MBP_0101 1618619 1619630 EN hexis
+13NC25MBP_0101 1620519 1621819 CS then 那个 两个 sports lor
+13NC25MBP_0101 1624109 1625829 CS hockey 跟 rugby lor
+13NC25MBP_0101 1631238 1631863 ZH 两个 而已 啊
+13NC25MBP_0101 1633459 1636599 CS 两个 都 够 了 咯 其实 哇 我 不懂 我 为什么 这样 extra eh
+13NC25MBP_0101 1638848 1639949 ZH 超 凶 咯
+13NC25MBP_0101 1642375 1643737 ZH 没有 做 什么 啦 就 只是 在 那边
+13NC25MBP_0101 1645936 1646897 EN (er)
+13NC25MBP_0101 1648130 1649507 EN 
+13NC25MBP_0101 1650220 1651296 ZH 五号六 是 什么
+13NC25MBP_0101 1652102 1653239 EN oh <unk>
+13NC25MBP_0101 1654129 1657022 CS wah cui 我的 sandal 你看
+13NC25MBP_0101 1658094 1659703 EN oh my god
+13NC25MBP_0101 1664779 1666258 EN i am always curious what's inside
+13NC25MBP_0101 1667389 1668855 EN this is cork like
+13NC25MBP_0101 1672309 1674679 ZH 超 好 穿 咯 这个 陪伴 我 四年 嘞
+13NC25MBP_0101 1676623 1677113 EN yah lor
+13NC25MBP_0101 1680429 1683257 CS 没有 啦 没有 买 那种 rubber slipper 那种 超 cui 咯 真的
+13NC25MBP_0101 1687185 1689119 EN yah i think so also
+13NC25MBP_0101 1689119 1694209 CS but 那个 太多 人 穿了 啊 you know sometimes things get very popular until like 你 根本 是 不想 穿
+13NC25MBP_0101 1694731 1697439 CS 因为 like you don't feel special already
+13NC25MBP_0101 1697439 1700099 CS 因为 有时 你 穿 because it feels good and then it looks good
+13NC25MBP_0101 1700139 1702879 CS then 每个人 会 问 你 eh wah your shoe very nice eh where you get it from
+13NC25MBP_0101 1703109 1705619 CS eh i bought it from here oh very specialah then 你 不会 那种
+13NC25MBP_0101 1705619 1707009 EN walan that one
+13NC25MBP_0101 1707009 1711529 CS along the streets you choose ten pe~ 你 throw stone ah about five people five people who wear the same slipper lor
+13NC25MBP_0101 1711529 1712412 EN  
+13NC25MBP_0101 1714974 1715525 EN yah
+13NC25MBP_0101 1718359 1718729 EN yup
+13NC25MBP_0101 1719719 1721519 CS that's what i was looking for lah actually 它
+13NC25MBP_0101 1721819 1723439 CS to be honest 也是 不是 很 好看 啦
+13NC25MBP_0101 1723439 1724346 ZH 只是
+13NC25MBP_0101 1724843 1725367 EN yah lor
+13NC25MBP_0101 1728087 1728826 ZH 没有
+13NC25MBP_0101 1728826 1730305 ZH 我 买 一百零九
+13NC25MBP_0101 1731058 1731683 EN yeah lor
+13NC25MBP_0101 1731683 1732403 ZH 有 五十 meh
+13NC25MBP_0101 1737485 1738804 CS i think 我 不用 戴 眼镜 了
+13NC25MBP_0101 1738804 1740006 ZH 我 戴 眼镜 它 这个 很痛
+13NC25MBP_0101 1740006 1741010 ZH 你 不 觉得 很痛 吗
+13NC25MBP_0101 1742564 1743116 EN 
+13NC25MBP_0101 1743769 1745049 CS huh you cannot feel it 吗
+13NC25MBP_0101 1749869 1751579 CS oh cause 你 戴 的 没有 这样 紧
+13NC25MBP_0101 1753598 1754122 ZH 有
+13NC25MBP_0101 1755041 1755620 EN c. p. f.
+13NC25MBP_0101 1757620 1758039 EN huh
+13NC25MBP_0101 1758689 1760779 CS 没有 eh 因为 我是 recruit express 拿到 的
+13NC25MBP_0101 1762519 1764189 CS you know like third party 的
+13NC25MBP_0101 1767709 1771109 CS no lah 哪里 有 eight bucks an hour 行情 哪里有 这样 好
+13NC25MBP_0101 1772207 1772929 EN c. p. f.
+13NC25MBP_0101 1773319 1774263 EN seven dollars an hour only
+13NC25MBP_0101 1774908 1775816 EN excluding
+13NC25MBP_0101 1776503 1779846 EN as in including the amount that you have to deduct form c. p. f. leh
+13NC25MBP_0101 1782772 1783355 EN okay
+13NC25MBP_0101 1788029 1791625 CS 没 it wasn't my choice eh 我是 the other day 我 work agency then
+13NC25MBP_0101 1791625 1792242 ZH 他们 就讲
+13NC25MBP_0101 1792242 1797291 EN (er) eh we got a job with c. p. f. eh customer service then i am like what customer service okay lor but what do i have to do
+13NC25MBP_0101 1798095 1799211 EN call centre then i am like
+13NC25MBP_0101 1799587 1804182 EN ah call centre ah because i was actually actually to be honest i i am not very interested in going for call centre lah
+13NC25MBP_0101 1804182 1806837 EN look at me which part of me looks customer-oriented to you
+13NC25MBP_0101 1807436 1808198 EN 
+13NC25MBP_0101 1810720 1813461 EN yah yah yah eh i actually met a lot of people you know there's this ah-mah
+13NC25MBP_0101 1813987 1814857 EN she called in once eh
+13NC25MBP_0101 1814857 1818924 EN she called in then i ask her then i hello hi (erm) this is c. p. f .
+13NC25MBP_0101 1819366 1821147 EN may i help you then the person was like
+13NC25MBP_0101 1821626 1824688 ZH (erm) (er) 小弟 啊
+13NC25MBP_0101 1824688 1825501 EN huh
+13NC25MBP_0101 1826441 1828281 CS yah then the thing is 小弟 啊
+13NC25MBP_0101 1828757 1829206 EN (er)
+13NC25MBP_0101 1829745 1830527 EN c. p. f. hor
+13NC25MBP_0101 1830841 1831731 CS send我一个
+13NC25MBP_0101 1832171 1833561 CS send 我 一个 letter leh
+13NC25MBP_0101 1833561 1834531 ZH 它
+13NC25MBP_0101 1834531 1837151 CS 我 不懂 在 它 讲 什么 我 读 给 你 听 好 吗 then i'll be like
+13NC25MBP_0101 1837151 1838221 EN oh okay
+13NC25MBP_0101 1838221 1839661 CS 可以 then 你 读 给 我 听
+13NC25MBP_0101 1839661 1843490 EN she spelled it out eh spelled the whole damn letter out leh
+13NC25MBP_0101 1843490 1846431 EN  yah then
+13NC25MBP_0101 1846431 1848981 CS then she was like okay 好 我 跟你 讲 啊
+13NC25MBP_0101 1848981 1850621 EN i
+13NC25MBP_0101 1850621 1851581 EN a. wah then i'm like
+13NC25MBP_0101 1852403 1865510 CS (er) ah aunty ah 我 不懂 你是 then i'll then i then i will ask her lah like when was the letter sent and so i can ask ask the my superior like you know what's the batch of stuff that they sent
+13NC25MBP_0101 1865510 1868026 EN recently and what so i can know
+13NC25MBP_0101 1868688 1884761 EN then actually she's actually she actually got a letter that's talking about like the newest scheme lah like what we're what we're doing lah so lucky that save my ass ah otherwise huh i have to listen to her  yes then got some people i don't know why they call
+13NC25MBP_0101 1884761 1891051 CS they call and then they they don't really know what they are looking for they they just straight away they ask (er) 政府 有没有 给 钱
+13NC25MBP_0101 1892003 1892738 EN then i'm like
+13NC25MBP_0101 1893701 1897202 EN dude do i look like government to me or something or government to you then
+13NC25MBP_0101 1897202 1898820 EN yah sometimes i don't understand what they what
+13NC25MBP_0101 1899269 1901953 EN it was quite a nice experience lah i i did that before i went n. s.
+13NC25MBP_0101 1903509 1904341 EN what did you do
+13NC25MBP_0101 1907562 1908421 EN before you went n. s. ah
+13NC25MBP_0101 1909206 1910082 EN then what they say sia
+13NC25MBP_0101 1910607 1911710 EN what they say sia what they say
+13NC25MBP_0101 1929409 1931087 EN 
+13NC25MBP_0101 1947406 1947959 EN ah huh
+13NC25MBP_0101 1949962 1956234 EN how can he exactly so so is is it's very unreasonable right how can the person just ask for eh i want curry sauce
+13NC25MBP_0101 1965831 1971607 EN that's seriously that seriously doesn't make sense lah then you deliver to the place just to give a one dollar apple pie
+13NC25MBP_0101 1975352 1977802 EN yah actually the service charge is more than the apple pie
+13NC25MBP_0101 1981011 1982569 EN yeah after that after that do you work after n. s.
+13NC25MBP_0101 1985293 1986670 EN as customer service ah
+13NC25MBP_0101 1990211 1991140 EN corporate server
+13NC25MBP_0101 1992593 1995174 EN that sounds damn cool that sounds like like
+13NC25MBP_0101 1995174 2000944 CS like what we call 永伟 we call him the operations maintenance director a. k. a. the dishwasher lah
+13NC25MBP_0101 2000944 2003058 EN 
+13NC25MBP_0101 2005570 2006176 EN yes
+13NC25MBP_0101 2011715 2012222 EN (er)
+13NC25MBP_0101 2018072 2018750 EN (er)
+13NC25MBP_0101 2022482 2023080 EN yah
+13NC25MBP_0101 2026745 2027383 EN ah huh
+13NC25MBP_0101 2031233 2031659 EN (er)
+13NC25MBP_0101 2035046 2035632 EN (er)
+13NC25MBP_0101 2037332 2038324 EN oh
+13NC25MBP_0101 2046939 2049001 EN so it's simple how much do you get paid
+13NC25MBP_0101 2051614 2054247 EN six ninety-four might as well round it up to seven seriously
+13NC25MBP_0101 2064490 2066630 EN so you just normal six ninety-four lah still
+13NC25MBP_0101 2068332 2069578 EN oh
+13NC25MBP_0101 2073770 2074422 EN oh
+13NC25MBP_0101 2074866 2080142 EN it's like to make up for the extra hour six six cents that you lose every hour you just add a bit more towards the end
+13NC25MBP_0101 2082182 2083017 EN 
+13NC25MBP_0101 2090602 2096538 EN thirty-five how are you going to count yah exactly you just divide it by four for them ah yeah 
+13NC25MBP_0101 2103403 2105062 EN no i think working ah sometime it's
+13NC25MBP_0101 2105469 2107497 EN it's fun like what i did i
+13NC25MBP_0101 2107497 2108724 EN i for
+13NC25MBP_0101 2109073 2112020 EN afternoon after n. s. right then you just look for
+13NC25MBP_0101 2112020 2113280 CS 找 工作 的 时候 right then
+13NC25MBP_0101 2113990 2118120 CS i got my friend recommend 我 去 做 那个 facilitator
+13NC25MBP_0101 2119576 2120446 ZH 带 小孩子 的
+13NC25MBP_0101 2121961 2123751 CS it's really 蛮 多钱 cause
+13NC25MBP_0101 2123751 2124756 EN it's
+13NC25MBP_0101 2124756 2126651 CS ah like 半天 right 你
+13NC25MBP_0101 2127205 2130821 EN seven p. m. seven a. m. to twelve p. m.
+13NC25MBP_0101 2130821 2133681 CS 你 每天 哦 only need to turn up for the activity
+13NC25MBP_0101 2133711 2135471 CS and you get paid 三十五 块
+13NC25MBP_0101 2136131 2138501 CS which is 五个 小时 so 一个 小时 七块 啦
+13NC25MBP_0101 2138731 2141311 CS but the thing is the activity 八点 才 start
+13NC25MBP_0101 2141671 2143621 CS so 你 七点 半 到 也是 okay 的
+13NC25MBP_0101 2143621 2145681 EN then the thing cut at eleven o'clock
+13NC25MBP_0101 2145681 2149371 CS because you have to go back to your school so by eleven o. clock ah virtually 你是 没有 东西 做
+13NC25MBP_0101 2149711 2152071 CS so you only work from 八点 到 十一点
+13NC25MBP_0101 2152421 2155961 CS effectively 你 只是 三个 小时 而已 so 你是 nearly every hour 十 块 多
+13NC25MBP_0101 2155961 2159631 CS then the only thing that i 不是 很 喜欢 做 is because
+13NC25MBP_0101 2160473 2162086 CS 有 时 the 小孩子 很
+13NC25MBP_0101 2163337 2165951 EN overwhelming you get what i mean like
+13NC25MBP_0101 2165951 2168221 CS 每次 叫 他们 做 东西 right then 他们 就
+13NC25MBP_0101 2168221 2172051 CS 不要 听 as in 你 跟 那些 e. m. one 的 哦 e. m. one they still got that right
+13NC25MBP_0101 2174801 2179351 CS top class people ah you tell them to do like eh 做 这个 做 完 这个 功课 then they will do
+13NC25MBP_0101 2179681 2180881 CS then 你 跟 那些
+13NC25MBP_0101 2181311 2182861 CS low end 的 class 讲
+13NC25MBP_0101 2183281 2185361 CS 他们 根本 都 不 听 你的 they only what
+13NC25MBP_0101 2185361 2186808 ZH 哇 他们 就是
+13NC25MBP_0101 2187236 2189577 EN hello mic test mic test okay good
+13NC25MBP_0101 2190228 2191790 EN yup alright thanks
+13NC25MBP_0101 2195306 2200930 EN okay thank you  thanks
+13NC25MBP_0101 2203880 2207971 EN okay anyway we are back on air now
+13NC25MBP_0101 2207971 2209601 CS 回到 what you call that
+13NC25MBP_0101 2209601 2215984 EN (er) how you say back into an air in chinese how do you say back in back back to air in chinese
+13NC25MBP_0101 2218205 2220021 EN  i don't think so
+13NC25MBP_0101 2220351 2227161 EN anyway i was talking about like like what i did lah like as facilitator
+13NC25MBP_0101 2227161 2230471 CS you know 每天 看 the school school kids
+13NC25MBP_0101 2231183 2234641 EN as in sometimes they when they go home ah then they
+13NC25MBP_0101 2234641 2236361 CS they 还 记得 your face
+13NC25MBP_0101 2237361 2239091 CS it's very 温暖 cause they will like
+13NC25MBP_0101 2239091 2243190 EN they walk out of school then they will hey hello
+13NC25MBP_0101 2243190 2246630 CS then you will wah eh 放学 了 啊 and that kind of thing then you
+13NC25MBP_0101 2246811 2249871 CS then 你 it's it's very nice cause they remember how you look like
+13NC25MBP_0101 2249871 2255561 EN you know and and and and the fact that you are you you you have been
+13NC25MBP_0101 2255561 2258131 CS you know you taught them something then 他们 很 很 开心 咯 like
+13NC25MBP_0101 2258777 2262877 EN like wah this gor-gor teach me something today he teach me how to write
+13NC25MBP_0101 2263547 2266568 CS 造句 that kind of thing and yah
+13NC25MBP_0101 2269835 2276501 CS but no no no the thing is i like the satisfaction but i don't like the process of going through it you know like like 有时 hor 他们 真的 是 hor
+13NC25MBP_0101 2277098 2280625 CS 你 想 把 他 给 掐死 的 咯 but 你 就是 bobian 真的 真的 真的
+13NC25MBP_0101 2281101 2283731 CS then after that 然后 我 actually 做 两个 两个 星期
+13NC25MBP_0101 2284326 2286231 EN then i went to 
+13NC25MBP_0101 2286542 2288459 EN then i went to microsoft
+13NC25MBP_0101 2290073 2296981 EN yah cause i was helping the data analyst there then (er) i know someone working inside so
+13NC25MBP_0101 2296981 2299101 CS then 他 就 介绍 我 to 他的 老板
+13NC25MBP_0101 2299571 2304381 CS then the 老板 i went for interview lah with 老板 and two of her colleagues
+13NC25MBP_0101 2304381 2306851 EN  then yah they kind of
+13NC25MBP_0101 2306851 2310671 CS think that i'm okay lah then they they they 就 请 我 咯
+13NC25MBP_0101 2310671 2313211 EN then
+13NC25MBP_0101 2313211 2319971 CS actually what i did was to source for 他们 客户 的 data
+13NC25MBP_0101 2320754 2323061 EN so everyday
+13NC25MBP_0101 2323061 2325681 CS 我的 job scope mostly 是 翻 报纸
+13NC25MBP_0101 2326400 2328831 CS 翻 报纸 过后 then 你 就 看 like
+13NC25MBP_0101 2328831 2333213 CS where the clients who are the clients and 谁 like
+13NC25MBP_0101 2334598 2340390 EN which of their clients have moved jumped ship then moved across to another company what are they doing now
+13NC25MBP_0101 2340390 2342840 CS and what company is he from then 我 就会 collate
+13NC25MBP_0101 2343385 2344193 EN and do for them
+13NC25MBP_0101 2345673 2351401 EN (erm) something like that lah but afterwards i still need to collate different type of data from the team lah
+13NC25MBP_0101 2351401 2355451 CS cause we are 我们的 team 是 叫 data management office singapore
+13NC25MBP_0101 2355681 2357861 CS so basically 我们 这个 small group is
+13NC25MBP_0101 2357861 2360821 EN (er) helping out with all the (er) info lor
+13NC25MBP_0101 2360821 2363171 CS it's quite fun lah because 因为 我 老板 很好
+13NC25MBP_0101 2363801 2364851 CS 我 老板 is like
+13NC25MBP_0101 2365011 2368951 CS 对 他 哦 可以 我们 可以 去 lunch break oh 去 两个 半 小时 eh
+13NC25MBP_0101 2369031 2371471 CS 你 有没有 听 过 lunch break oh 去 两个 半 小时 的
+13NC25MBP_0101 2372211 2374331 CS then after lunch 两个 半 小时 不用 紧 eh then 我们 可以 like
+13NC25MBP_0101 2374331 2376411 EN we can walk to starbucks
+13NC25MBP_0101 2376411 2380341 CS then 我们 可以 坐下 来 喝 咖啡 and 喝 咖啡 is 老板 请
+13NC25MBP_0101 2380341 2383321 CS so 他 三十 每次 三十多块 三十多块 这样 请 eh
+13NC25MBP_0101 2383321 2386131 CS cheese cake 也是 eh 你吃 啊 吃 eat eat eat it's okay
+13NC25MBP_0101 2386473 2387710 ZH 哇 真的 是 超爽 咯
+13NC25MBP_0101 2388153 2390629 ZH 我 没有 这种 老板 我 没有 这种 老板 嘞 真的
+13NC25MBP_0101 2391000 2391918 ZH 第一次 有 这种 老板
+13NC25MBP_0101 2392420 2392959 EN 
+13NC25MBP_0101 2394450 2395268 EN damn shiok
+13NC25MBP_0101 2397409 2398025 EN (er)
+13NC25MBP_0101 2418999 2421011 ZH 哇
+13NC25MBP_0101 2421011 2423531 CS 原来 他 老板 有 对 他 有 什么 intentions
+13NC25MBP_0101 2423531 2424831 EN 
+13NC25MBP_0101 2424831 2426281 CS ah auntie ah 真的 啊
+13NC25MBP_0101 2427371 2429701 CS 难怪 啦 young man look for 那种
+13NC25MBP_0101 2431030 2434798 ZH 处男 
+13NC25MBP_0101 2438938 2440888 ZH 哇 真的 很多 钱 嘞
+13NC25MBP_0101 2441621 2444933 CS it's like 买 一个 买 一双 鞋子 给他 这样 嘞 一百块
+13NC25MBP_0101 2456690 2460450 CS wah not bad ehwah 这种 这种 这种 老板 我 要 eh 这种 老板 这种 boss 最好 了
+13NC25MBP_0101 2461168 2461763 EN (aiyah)
+13NC25MBP_0101 2463475 2466290 CS 等 一下 我 没有 after 我 end work in june
+13NC25MBP_0101 2466290 2467700 EN thirtieth june
+13NC25MBP_0101 2467700 2469790 CS thirtieth june is like my 最后 一天 工作
+13NC25MBP_0101 2470330 2471300 CS yah then 我 就
+13NC25MBP_0101 2471300 2472160 EN relax
+13NC25MBP_0101 2472160 2474890 CS during july 因为 july 有 o. c. 嘛
+13NC25MBP_0101 2475447 2476432 CS 你 o. c.有 没有 来 啊
+13NC25MBP_0101 2477230 2478130 CS 你是 什么 group 的
+13NC25MBP_0101 2479359 2483490 CS 哦 kazi 啊
+13NC25MBP_0101 2483490 2487180 CS okay lah this michael zhao-qi 全部 是 你的
+13NC25MBP_0101 2489305 2490289 EN 
+13NC25MBP_0101 2494640 2498690 CS garang lor 好像 真的 我 看 你们 哦 很 很 united 这样 it's like
+13NC25MBP_0101 2499460 2501770 CS 一直 hang out 一起 hang out as in
+13NC25MBP_0101 2501780 2505780 CS 你们 during (er) o. c. 的 时候 你们 很 像 很 bonded 很 大声
+13NC25MBP_0101 2506170 2507940 CS then 又 很 on lor it's like
+13NC25MBP_0101 2508713 2509828 CS 什么 东西 都 on lor
+13NC25MBP_0101 2511127 2512451 CS oh 立德 是 你的 s. i. c. ah
+13NC25MBP_0101 2513728 2515000 CS 他 很 on leh 我 觉得
+13NC25MBP_0101 2515490 2515891 ZH 谁
+13NC25MBP_0101 2518566 2519490 EN oh i thought
+13NC25MBP_0101 2519490 2521070 CS oh yah amy 可能 比较 静 but
+13NC25MBP_0101 2521882 2525791 CS zhihong i thought 他们 garang 他 可能 会 一直 solo lah
+13NC25MBP_0101 2525791 2526481 CS 他 会 solo
+13NC25MBP_0101 2532426 2532861 ZH 对
+13NC25MBP_0101 2534012 2537790 CS 我 问 我 那 两个 s. i. c. 都 不在 我 那 两个 s. i. c. 都 没有 什么 在 的 咯
+13NC25MBP_0101 2538820 2541176 CS zhenfen 跟 xinyi
+13NC25MBP_0101 2541864 2545221 CS xinyi 现在 我 都 很少 看到 她 咯
+13NC25MBP_0101 2545221 2547751 CS 哪里 year four 他 去年 刚 freshie 而已 eh
+13NC25MBP_0101 2547751 2549162 CS 他 才 year two 而已
+13NC25MBP_0101 2549813 2550488 EN mm
+13NC25MBP_0101 2551073 2551316 ZH 她
+13NC25MBP_0101 2551929 2554131 CS then 我 很少 看到 他 usually 很像
+13NC25MBP_0101 2554131 2555781 CS 他 like come back from school
+13NC25MBP_0101 2555781 2558122 ZH 然后 我 看到 他 好像 中 马票 这样 咯
+13NC25MBP_0101 2558122 2559740 ZH 久 久 一次 的 真的
+13NC25MBP_0101 2564819 2565505 ZH 谁
+13NC25MBP_0101 2567118 2567890 ZH 是 meh
+13NC25MBP_0101 2573675 2575053 ZH 可能 还是 他 很 刀
+13NC25MBP_0101 2581765 2582694 ZH 真的 meh
+13NC25MBP_0101 2587435 2588836 ZH 啊
+13NC25MBP_0101 2589779 2591142 CS 不用紧 啊 okay 的
+13NC25MBP_0101 2591142 2593991 CS 我 no but 我 其实 跟 他们 on quite good terms 的
+13NC25MBP_0101 2594802 2595336 EN ah huh
+13NC25MBP_0101 2596239 2596754 EN yah
+13NC25MBP_0101 2602361 2604641 CS no 我 知道 like 有些 东西
+13NC25MBP_0101 2604641 2607811 CS if 没有 必要 跟你 讲的 they will try not to tell you anything what is it
+13NC25MBP_0101 2617264 2622023 CS 哎呀 不要 讲 啦 我 zurina* 也是 一 cui 就是 每个人 散掉 了
+13NC25MBP_0101 2632931 2636831 CS 不是 没有 the thing is 很 很多 东西 是 you feel a bit forced
+13NC25MBP_0101 2637901 2639621 CS like 你 为了 做 而 做
+13NC25MBP_0101 2639621 2641188 CS 很多 东西 so
+13NC25MBP_0101 2644218 2656265 EN no lah i thought his decision was okay lah you know as in maybe it was something necessary because it's like i mean sometimes you are senior in something so you want to feel that eh you know i have been through a lot of stuff
+13NC25MBP_0101 2656265 2663472 EN so you know i i think you all should have it also lah you know just to add fun i mean i even as a participant i don't mind doing that
+13NC25MBP_0101 2664097 2667589 EN yah it's just sometimes you show that o. c. right it's like
+13NC25MBP_0101 2668134 2668587 EN (erm)
+13NC25MBP_0101 2670392 2672227 EN yah you should do stupid things lah but sometimes
+13NC25MBP_0101 2673027 2675650 EN (er) i feel that end of the day
+13NC25MBP_0101 2677688 2679890 ZH 没有 什么 (er)
+13NC25MBP_0101 2679890 2682510 CS bonding with 你 自己 的 人 when you're supposed to have
+13NC25MBP_0101 2686530 2689020 CS 没有 因为 因为 like like if you
+13NC25MBP_0101 2690274 2692490 CS if you o. g. hor 的人 哦
+13NC25MBP_0101 2692490 2694120 CS 很 enthusiastic 的话
+13NC25MBP_0101 2694540 2696890 CS 我 觉得 those 比较 quiet 的 会
+13NC25MBP_0101 2697300 2698680 CS 会 shy away from
+13NC25MBP_0101 2698680 2702651 CS let's say 比较 很 大声 的 then if you
+13NC25MBP_0101 2702651 2705501 CS continue to 不要 管 那些 很 静 的
+13NC25MBP_0101 2705501 2706601 EN then
+13NC25MBP_0101 2706601 2708761 CS the 静 的 will just everyday just
+13NC25MBP_0101 2708861 2711341 CS follow through motion 跟 你 做 一样 的 东西 but
+13NC25MBP_0101 2711341 2719261 CS end of the day they will still don't know each other lah cause the very enthu one get noticed then 只有 那些 enthu 得 很重 只有 他们
+13NC25MBP_0101 2719261 2720691 CS 就 很 重视 那些 很 enthu 的
+13NC25MBP_0101 2721041 2722271 CS like you can see 的 嘛
+13NC25MBP_0101 2722271 2724133 CS 很 重视 很 enthu 的 人
+13NC25MBP_0101 2733609 2735310 ZH 心 谁是 心虹
+13NC25MBP_0101 2735310 2736302 EN 
+13NC25MBP_0101 2736302 2738206 CS who the beep is 心虹
+13NC25MBP_0101 2738206 2739194 EN 
+13NC25MBP_0101 2739943 2741918 CS 他 hall 他 hall 的 时候 very active
+13NC25MBP_0101 2743274 2743960 ZH 他 住 哪里
+13NC25MBP_0101 2746266 2750858 CS 哎呀 你 住 三十四 hor or thirty five 是 根本 是 没有 人 听到 你的
+13NC25MBP_0101 2750858 2753411 CS 你 you at night 被人
+13NC25MBP_0101 2753411 2755871 CS 被 人 打抢 哦 你 scream 都 没有 人 听 咯
+13NC25MBP_0101 2756746 2757420 ZH 对 哦
+13NC25MBP_0101 2759643 2761970 CS 很 sad leh 我 觉得 住 那 两个 block 的人 很 sad
+13NC25MBP_0101 2772682 2773600 EN oh
+13NC25MBP_0101 2774386 2776585 CS oh 我们 跟 他 很 jialat lor block initiation
+13NC25MBP_0101 2777160 2779111 CS wah siao lor thirty two 的
+13NC25MBP_0101 2779111 2782121 CS 你们 是 at least 是 kind eh 你们是 soap 丢 soap 这种 东西 对不对
+13NC25MBP_0101 2782687 2784816 ZH 懂 我们 丢 什么 吗 你 都 不 想 知道
+13NC25MBP_0101 2786589 2793671 CS 哇 在 那个 整 包 那个 不懂 不懂 那种 像 teh 冰 那种 colour 他 直接 跟 他 zham 下来 eh 他 整个 bucket 跟 他 丢 eh
+13NC25MBP_0101 2795580 2799641 EN horrible lor seriously lor i don't even know what's inside the
+13NC25MBP_0101 2799641 2801610 CS the mixture 那个 桶 里面 都 不懂 是 什么
+13NC25MBP_0101 2801610 2804011 EN 
+13NC25MBP_0101 2804011 2806121 CS 没有 因为 come out you can smell the
+13NC25MBP_0101 2807581 2811071 CS 食物 的 味道 like you think there's some food particles inside the 桶
+13NC25MBP_0101 2811071 2812841 EN 
+13NC25MBP_0101 2813136 2813634 EN you just
+13NC25MBP_0101 2814097 2816349 CS yah i don't i cannot make out what is in the 桶
+13NC25MBP_0101 2817002 2818467 EN then it's damn intriguing
+13NC25MBP_0101 2818724 2820279 CS bo pian lah 我 衣服 跟他 丢掉 咯
+13NC25MBP_0101 2832937 2835880 CS 那个 很 那个 the other day initia~ initiation 的 时候 那个 不是 更 冷
+13NC25MBP_0101 2836695 2837935 CS 那个 full initiation
+13NC25MBP_0101 2838235 2839845 CS 超 冷 咯 towards the end
+13NC25MBP_0101 2841885 2842618 EN oh
+13NC25MBP_0101 2843434 2844674 CS 没有 but 你 先中 mud 一定 很冷
+13NC25MBP_0101 2846605 2847497 EN oh
+13NC25MBP_0101 2849083 2852805 CS i thought 先 中 mud you'll feel very cold because the mud start to
+13NC25MBP_0101 2852805 2855675 CS you know mud is itself is 蛮冷 的 东西
+13NC25MBP_0101 2855675 2857785 CS then 你 as the night rings out
+13NC25MBP_0101 2857785 2860565 CS it gets colder and colder 你 会 觉得 越来越 冷 越来越 冷 越来越 冷
+13NC25MBP_0101 2865977 2869055 CS 因为 我的 scrape off 很 恶心 因为 cannot scream off finish
+13NC25MBP_0101 2869055 2869560 EN and then
+13NC25MBP_0101 2872475 2875715 CS 对 but then 你 又 feel that 你 整个 衣服 已经 粘 在 你的 身上
+13NC25MBP_0101 2875715 2882449 CS 哇 那个 超 恶心 then 那个 towards the end in the morning 然后 把 衣服 脱 出来 你 还 你 以为 那个 感觉 哦 你 imagine oh
+13NC25MBP_0101 2890736 2891288 EN oh
+13NC25MBP_0101 2928769 2929953 ZH 超 恶心 哦
+13NC25MBP_0101 2930854 2932239 ZH 他们 叫 我们 换裤 也是
+13NC25MBP_0101 2932625 2933248 EN 
+13NC25MBP_0101 2937143 2937882 EN 
+13NC25MBP_0101 2946687 2947431 ZH 没有
+13NC25MBP_0101 2947995 2955142 CS 有 很多 很多 是 那种 做 push up inside the 对 有 男孩子 女孩子 一直 做 push up 然后 你 从 外面 看 超 好笑 咯
+13NC25MBP_0101 2955905 2959227 EN 
+13NC25MBP_0101 2959928 2960162 ZH 对
+13NC25MBP_0101 2961094 2961937 ZH 啊 我 知道
+13NC25MBP_0101 2966822 2967882 ZH 他 姐姐 来
+13NC25MBP_0101 2969051 2969992 CS 哦 then
+13NC25MBP_0101 2973928 2974618 EN 
+13NC25MBP_0101 2977423 2978371 EN ah huh
+13NC25MBP_0101 2980469 2981175 EN 
+13NC25MBP_0101 2988720 2990094 ZH 好笑 啦
+13NC25MBP_0101 2990624 2992445 CS yeah lor wah then 他 一直 打
+13NC25MBP_0101 2992445 2994520 CS hit 到 那个 东西 他 整个 slope 上去 eh
+13NC25MBP_0101 2998748 2999528 EN 
+13NC25MBP_0101 3002047 3006659 CS 他 damn 这个 超 cruel 的 这种 东西 哪里 可以 这样 
+13NC25MBP_0101 3009582 3010124 ZH 对
+13NC25MBP_0101 3012296 3013092 ZH 什么 是 电臀
+13NC25MBP_0101 3017777 3018749 ZH 对 我 知道
+13NC25MBP_0101 3023200 3023864 ZH 真的 meh
+13NC25MBP_0101 3024419 3025679 CS then after that 你就 在 那边 摇 啊
+13NC25MBP_0101 3026896 3027472 EN 
+13NC25MBP_0101 3030355 3033235 CS 因为 哦 我 觉得 这种 东西 是 like give a chance for
+13NC25MBP_0101 3033235 3037495 CS for let's say 男孩子 jia-ba 都 看不到 东西
+13NC25MBP_0101 3037495 3040395 CS 很 很 sad eh 我 觉得 如果 是 女孩子 在 里面 哦 真的 是 很 sad
+13NC25MBP_0101 3041541 3043267 ZH 你 两个 男的 对 咯 我 也是 两个 男 的
+13NC25MBP_0101 3043267 3045569 ZH 因为 你懂 你懂 我 跟谁 坐 我 跟 维杰 坐 eh
+13NC25MBP_0101 3045977 3046576 EN haha
+13NC25MBP_0101 3046913 3048318 ZH 超好笑
+13NC25MBP_0101 3065975 3067303 ZH 哦
+13NC25MBP_0101 3068864 3069830 ZH 哇
+13NC25MBP_0101 3070545 3072575 CS 一个 高 then 又 一个 胖
+13NC25MBP_0101 3072575 3077175 ZH siao liao 啦 那个 四号
+13NC25MBP_0101 3077175 3078915 CS yesterday 立德 有 send 一个 message
+13NC25MBP_0101 3079661 3080541 ZH 他 飞去 哪里 啊
+13NC25MBP_0101 3081126 3081794 EN new-york ah
+13NC25MBP_0101 3084342 3086048 EN wah
+13NC25MBP_0101 3086704 3087450 EN wah
+13NC25MBP_0101 3088363 3089439 EN damn it's damn shiok
+13NC25MBP_0101 3089439 3090513 EN oh my god
+13NC25MBP_0101 3092215 3094745 CS yah lor eh this type of thing oh it's about money ah 我 跟你 讲
+13NC25MBP_0101 3101158 3102396 EN 
+13NC25MBP_0101 3103747 3104954 EN who else is more fierce
+13NC25MBP_0101 3108174 3109084 EN nelson dean's list meh
+13NC25MBP_0101 3110525 3113985 CS i thought nelson 四点 zero 而已 四点 zero four 我 thought four point zero 而已
+13NC25MBP_0101 3114727 3115302 ZH 在哪
+13NC25MBP_0101 3117004 3118985 CS 我 都 不知道 我 thought 他 four 而已
+13NC25MBP_0101 3120756 3121653 ZH 哦
+13NC25MBP_0101 3122315 3124402 ZH 哇 为什么 这么 多 这样zai 的人
+13NC25MBP_0101 3125915 3126282 EN then
+13NC25MBP_0101 3130974 3133071 CS 没有 我 也是 很 demoralising 因为 你 听 like
+13NC25MBP_0101 3133071 3135111 CS 很多 人 拿 very good very good grades
+13NC25MBP_0101 3135531 3137281 CS then 你 自己 you're you're living in a
+13NC25MBP_0101 3137281 3138907 EN an environment where you are full of them
+13NC25MBP_0101 3139316 3140599 EN but you are not like them
+13NC25MBP_0101 3141802 3143357 CS right then 你 会 觉得 很
+13NC25MBP_0101 3145236 3146723 ZH 跟 不上 感觉
+13NC25MBP_0101 3149953 3150665 ZH 对 咯
+13NC25MBP_0101 3152651 3155491 CS yah like 他们 就会 讲 eh what's your g. p. a. then
+13NC25MBP_0101 3155491 3158200 ZH 哎呀 你 又 不敢 讲
+13NC25MBP_0101 3162541 3165231 CS wah 你 不要 问 li-guang please 他 也是 four point something 的
+13NC25MBP_0101 3165728 3166263 EN 
+13NC25MBP_0101 3174801 3181301 CS liguang liguang 我 知道 他 很高 他 很高 他 很强 也是 这种 人 不可以 问的 这种 那种 hor 很多
+13NC25MBP_0101 3181301 3185680 CS 他们的 course hor 很少 you know who 的 不 可以 问 的
+13NC25MBP_0101 3186598 3189551 CS 我们 disadvantage 真的 不可以 很难 比
+13NC25MBP_0101 3189551 3191371 CS 我们 engine 的 只 可以 跟 engine 的 人 问
+13NC25MBP_0101 3192427 3193613 CS engine 一定 输的
+13NC25MBP_0101 3194851 3198361 CS 对 超 多 foreigners and i don't know how we are going to beat them seriously
+13NC25MBP_0101 3200065 3207871 CS 自己 都很 don't sad lah i cannot imagine ah what is going to happen tomorrow i just cannot imagine that 我按 in front of the computer right then 我 就会 在 那边 按
+13NC25MBP_0101 3207871 3208724 ZH 在 按
+13NC25MBP_0101 3214367 3216616 CS 对 没有 十二点 twelve midnight
+13NC25MBP_0101 3217654 3218304 EN yes
+13NC25MBP_0101 3221465 3226638 CS 我 也是 我 可能 我 很想 等到 真的 三十号 like 三十号 早上 的 时候 起来的 时候
+13NC25MBP_0101 3226638 3228444 CS 睡 到 够了 then 才
+13NC25MBP_0101 3229592 3232320 ZH 对 难道 你 一直 在 想 一直 在想
+13NC25MBP_0101 3239488 3244019 CS 对 咯 eh 我 真的 很少 明天 要 关 电话 要 关 m. s. n.
+13NC25MBP_0101 3246533 3247246 EN 
+13NC25MBP_0101 3250320 3254951 CS 哇 我 也 知道 我 也 cui 怎么办 
+13NC25MBP_0101 3254951 3256691 CS 他 他 有 count the score for you 的 huh
+13NC25MBP_0101 3260061 3260748 EN (ha)
+13NC25MBP_0101 3261138 3262277 ZH 等 一下 我 二点 掉
+13NC25MBP_0101 3262746 3266167 CS 等一下 我 one point something 
+13NC25MBP_0101 3268063 3269720 ZH 哈 不可能 啦
+13NC25MBP_0101 3275443 3277288 ZH 嗯 对 俊贤 我 认识
+13NC25MBP_0101 3288634 3290681 EN s. i. m. s. i. m. took exam already meh
+13NC25MBP_0101 3293758 3298401 CS oh r. m. i. t. because 因为 我 朋友 是 在 university of london
+13NC25MBP_0101 3300057 3303089 CS 对 一年 考 一次 so 他 很爽 他 明年 才考
+13NC25MBP_0101 3305678 3310748 CS 真的 meh 我 朋友 relax eh 我 朋友 超级 relax 的 咯 我 朋友 他 like 每天 不用 读书 的 then 他
+13NC25MBP_0101 3312408 3315798 CS 他 可以 来 我 hall 住 eh for 两天 eh consecutive
+13NC25MBP_0101 3322521 3326638 CS yes 我们 这里 competition 是 imba 的 我
+13NC25MBP_0101 3326638 3327958 CS 哎呀 很 sad 啊 因为
+13NC25MBP_0101 3327958 3336008 CS 因为 you come here you hope that you can get a four point zero then 有些
+13NC25MBP_0101 3336008 3339938 CS foreigners 来 and then 他们 就 dash 你的 dreams and then they 他们 讲
+13NC25MBP_0101 3339998 3344178 CS oh no lah four is too low and then 你 then 你 就 知道 你的 standard 一样 的 低 to accommodate 他们 了
+13NC25MBP_0101 3346568 3347271 ZH 对
+13NC25MBP_0101 3348505 3350083 CS then 你 一直 被踢 嘞 哇
+13NC25MBP_0101 3352322 3355190 ZH 怎么办 jialat 我 真的 不 哇
+13NC25MBP_0101 3355190 3357120 CS 我 已经 越想越 紧张 you know
+13NC25MBP_0101 3357775 3358370 EN the
+13NC25MBP_0101 3358370 3360530 CS fact that the fact that 我们 明天 会 知道
+13NC25MBP_0101 3361763 3364513 EN i also try not to think about it cause it's actually ruining my holiday
+13NC25MBP_0101 3365231 3367496 CS 因为 你 你 你 你 一直 在想 then 你
+13NC25MBP_0101 3367496 3372991 EN what you want to put your heart and soul to what you are supposed to be doing now or you you just can't put hundred percent
+13NC25MBP_0101 3372991 3374921 CS you 你 一直 会 想 there's something that
+13NC25MBP_0101 3375461 3380084 EN is is you know that that i have to worry about actually there's
+13NC25MBP_0101 3380084 3382036 EN you realize that there's nothing to worry about
+13NC25MBP_0101 3382442 3385928 EN as in for the result it's it's what you what happens afterwards that you have to worry about
+13NC25MBP_0101 3385928 3386618 EN you know
+13NC25MBP_0101 3387588 3388650 EN result is there already
+13NC25MBP_0101 3388914 3393772 EN for now maybe you only i mean honestly definitely yah it's being determined already right now
+13NC25MBP_0101 3394615 3397145 EN yah it's already there probably there it's just waiting to be released only
+13NC25MBP_0101 3399894 3402528 EN i just trying to make myself happy only for now you know
+13NC25MBP_0101 3402528 3405248 CS because there's nothing i can do it's really nothing i can do 我 现在 拿 two point
+13NC25MBP_0101 3405763 3407247 EN two point two ah two point three
+13NC25MBP_0101 3408154 3411810 CS eh 我 也是 like l. l. eh 真的 
+13NC25MBP_0101 3413653 3416028 EN i don't i don't wanna think i don't wanna think
+13NC25MBP_0101 3417044 3418653 EN it's very scary it's like
+13NC25MBP_0101 3420449 3423888 CS i know i don't even think that 我 mid year
+13NC25MBP_0101 3426325 3427387 EN i am hoping lah
+13NC25MBP_0101 3431591 3438449 CS yah but that's the minority you see we we we if we study ah and we don't still make it we are still minority 我们 还是 like
+13NC25MBP_0101 3439779 3444841 CS 包尾 垫底  you know
+13NC25MBP_0101 3452041 3458020 CS 没有 你 你 很难 你 那个 你 很难 跟 自己 讲 deal with it 因为 你 you know that at that point of
+13NC25MBP_0101 3458020 3459810 CS 起初 it was within your control
+13NC25MBP_0101 3460390 3462870 CS but then right now 已经 是 out of your control
+13NC25MBP_0101 3463350 3465880 CS 对 已经 是 out of your control so 你 你 自己 会 like
+13NC25MBP_0101 3466120 3469120 CS 哇 很 helpless 因为 i think we all all all of us
+13NC25MBP_0101 3469120 3472390 CS humans ah we all of us 比较
+13NC25MBP_0101 3472390 3474219 EN all of us are actually control freaks ah
+13NC25MBP_0101 3474813 3478061 EN if you want to lose ontrol of something you'll feel like you feel
+13NC25MBP_0101 3478921 3480314 EN yah yah you
+13NC25MBP_0101 3480314 3486411 CS you you won't you won't you won't think about yes it's okay you know i'll i'll let fate decide this you know 因为 你 知道
+13NC25MBP_0101 3498741 3503291 CS 没有 我 觉得 我们 要 一次 我们 要 过 一个 sem 先 the sem is the 第一个 sem is the highest hurdle
+13NC25MBP_0101 3504100 3507430 CS 因为 因为 你 会 想 i want to know roughly where i stand
+13NC25MBP_0101 3508054 3509585 EN within this whole sea of people
+13NC25MBP_0101 3509585 3514159 EN and if you realize that if you can get four ah four ah then you realize that eh
+13NC25MBP_0101 3514159 3516080 ZH 其实 还 不错
+13NC25MBP_0101 3516080 3519320 CS means 我 其实 有 这个 standing among this group of people
+13NC25MBP_0101 3519530 3521200 CS but 我 觉得 is 很难 因为 我们
+13NC25MBP_0101 3521400 3523710 CS 这种 烂 的 standard 的 usually 是 about
+13NC25MBP_0101 3524209 3527379 EN three point no two three point three
+13NC25MBP_0101 3532567 3536050 EN yah correct they from india eh then i ask them eh you know
+13NC25MBP_0101 3536535 3541958 CS they're not like i cannot say in chinese lah i cannot say 你们 是 什么 做的 but i asked them (er) how you do this
+13NC25MBP_0101 3542537 3545971 CS then i see i know the answer already 哪里 可能 
+13NC25MBP_0101 3545971 3547721 CS 你 哪里 可能 看 了 知道 answer 的
+13NC25MBP_0101 3548361 3549208 EN 
+13NC25MBP_0101 3550239 3551364 EN 
+13NC25MBP_0101 3553141 3555471 CS 没有 the thing is 他们 他们 在 那边 有 有 learn before
+13NC25MBP_0101 3559913 3564085 CS 对 我们 有 n. s. n. s. kills everything
+13NC25MBP_0101 3574689 3579438 EN no i think girls easier leh actually a lot easier for us
+13NC25MBP_0101 3585485 3586531 ZH 对
+13NC25MBP_0101 3586984 3587734 EN yes
+13NC25MBP_0101 3587734 3588703 EN yes i i
+13NC25MBP_0101 3588703 3592749 EN i don't know sometimes why i stare at the question ah they are actually felt that i've learnt before already
+13NC25MBP_0101 3593186 3595578 EN you know like okay like pulley questions to be honest
+13NC25MBP_0101 3596280 3597814 EN tell me you've done it before right
+13NC25MBP_0101 3598611 3600845 EN and why are we even thinking about how how
+13NC25MBP_0101 3601188 3604771 EN or we even hoping the way the way they come out and and and and you know
+13NC25MBP_0101 3604771 3608821 CS and and thinking that we have formulated 一种 formula 给
+13NC25MBP_0101 3609081 3610811 CS to make our job 比较 容易 一点
+13NC25MBP_0101 3611231 3613661 CS when actually ah 以前 你 已经 读 过
+13NC25MBP_0101 3613661 3615208 EN  you know
+13NC25MBP_0101 3632131 3637334 CS 怎么办 啊 我 真的 不知道 怎么办 eh 我 i think 我的 maths 跟 physisc 会 cui 很 cui
+13NC25MBP_0101 3643373 3644731 CS 我 觉得 我的 maths 是 buang
+13NC25MBP_0101 3644731 3646528 CS confirm 我 觉得 我的 maths buang
+13NC25MBP_0101 3647950 3649122 CS all the rest was 追 的
+13NC25MBP_0101 3649574 3650481 CS 我 觉得 我的 maths cui
+13NC25MBP_0101 3656265 3657265 CS last time 你 m. c.
+13NC25MBP_0101 3659302 3660428 CS 为什么 你 m. c.
+13NC25MBP_0101 3663038 3665943 CS 我 觉得 this year 这次 和 last time 是蛮 give away 的 to be honest
+13NC25MBP_0101 3667537 3669820 CS 没有 but 我 觉得 这次 我们 做的
+13NC25MBP_0101 3669820 3670694 EN life science
+13NC25MBP_0101 3672147 3672975 EN really huh
+13NC25MBP_0101 3674772 3678686 CS 因为他 once you got study right it's okay
+13NC25MBP_0101 3678686 3680646 CS 你 就 smooth sailing 了 confirm
+13NC25MBP_0101 3681316 3685910 CS everything don't even need to think you do before you study before 立刻 写 立刻 写 立刻 写
+13NC25MBP_0101 3685910 3688863 ZH 很多 人 做 很快 很多 人 做 半个 小时 就 做完 了
+13NC25MBP_0101 3688863 3690988 EN like half an hour into the thing
+13NC25MBP_0101 3690988 3695496 EN then got one guy tried to run try to leave the exam hall then he kena owned
+13NC25MBP_0101 3695496 3697306 CS he after after half an hour then 他 站 起来
+13NC25MBP_0101 3697646 3701576 CS then 他 就要 走 then the examiner 跑 过去 eh run to him eh stop you cannot go
+13NC25MBP_0101 3702405 3705996 CS because you can only supposed to leave 一个 小时 after the whole thing start
+13NC25MBP_0101 3706823 3710994 CS then 他 blur 他 bobian 他 走 回去 坐 他 回去 坐 在 那边 睡觉 sleep
+13NC25MBP_0101 3711588 3713369 CS 真的 哦 of course lah wah
+13NC25MBP_0101 3715884 3717996 ZH 哎呀 剩 五分钟
+13NC25MBP_0101 3717996 3719696 CS 四分 钟 半 actually
+13NC25MBP_0101 3720916 3722526 CS eh 其实 越 讲 越 smooth
+13NC25MBP_0101 3722526 3724618 EN 
+13NC25MBP_0101 3726759 3728587 CS 我们 已经 exhausted 很多 个 topics 了
+13NC25MBP_0101 3731056 3732320 EN (huh)
+13NC25MBP_0101 3736747 3737528 EN yah yah yah
+13NC25MBP_0101 3738417 3740536 CS 其实 towards the end 我们还 okay leh
+13NC25MBP_0101 3740536 3743036 CS 你 看 towards the end 我们 还 okay leh ah that's another sentence
+13NC25MBP_0101 3743036 3744082 EN 
+13NC25MBP_0101 3748426 3749441 ZH 对 对 对 对 对
+13NC25MBP_0101 3750660 3751716 EN sorry about it man
+13NC25MBP_0101 3751716 3753406 CS 对不起 about it but it's okay lah
+13NC25MBP_0101 3755467 3758623 CS 我们 try 我们 的 best 了
+13NC25MBP_0101 3762301 3765776 CS 我 看 那个 景色 我 觉得 刚才 那个 sentence 很 好笑 那 几个 sentence
+13NC25MBP_0101 3765776 3766596 CS some more 我们
+13NC25MBP_0101 3767267 3767799 ZH 什么 啊
+13NC25MBP_0101 3769175 3771120 ZH 不懂 啦 我 有 一个 很 好笑 的

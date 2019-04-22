@@ -1,0 +1,109 @@
+UI10FAZ_0105 0 7853 CS 我 觉 得 我 讲 出来 也 没有 人 相信 啊 我 喜欢 的 horror movie
+UI10FAZ_0105 7853 12495 CS 我 记 得 以前 我 记 得 以前 小 的 时候 住 在 kampung 的 时候
+UI10FAZ_0105 12495 18902 CS 那个 时候 我 一个 人 在家 then 下 大雨 then 我 的 阿嫲 又 不 在 so 我 一个 人 哦
+UI10FAZ_0105 18902 26776 CS then 我 开 了 电视 看 到 一 一 部 hindustan movie 是 horror movie 来 的 我 就 一个 人 在 家 看
+UI10FAZ_0105 26776 33461 CS 啊 它 的 story 是 about a village girl 她 有 一天 就 有
+UI10FAZ_0105 33461 41398 CS 就 有 四个 男生 啊 他们 就 坐 着 那个 four wheel drive 进 了 那个 哦 village 哦 其实 他们 是 好像 去 vacation 这样 的 then
+UI10FAZ_0105 41398 51543 CS then 那些 那些 从 城市 来 的 那些 男生 哦 就 强奸 了 她 你 知道 吗 and then 就 是 一个 rape and murder case
+UI10FAZ_0105 51543 59688 CS 他们 就 把 她 丢 进 那个 大海 then 也 没有 人 discover 哦 因为 那 如果 没有 错 他 讲 那个 village girl 好像 是 一个 orphan 来 的
+UI10FAZ_0105 59688 68046 CS so 他们 那些 男生 就 觉得 okay 咯 啊 就 是 close case 没有 事 了 咯 so 他们 就 回去 城市
+UI10FAZ_0105 68046 75219 CS 离奇 的 是 他们 一个 一个 就 死 去 了 因为 那个 女孩子 sei mm ang bai 她 就 回来 找 他们 咯
+UI10FAZ_0105 75219 83330 ZH 就 把 他们 一个 一个 杀死 那个 时候 我 不知道 为什么 我 觉得 很 很 可怕 很 恐怖
+UI10FAZ_0105 83330 93359 CS 看 到 最后 我 要 把 声音 关 到 完 啊 then 我 我 越 坐 就 是 距离 那个 television 的 distance 越 坐 越 远 越 坐 越 远 坐 到 最后 我 已经 坐 在 我 的
+UI10FAZ_0105 93359 98279 ZH 房门 外面 了 你 知道 吗 差 一点 都 要 看 不 到 那 种 了 可是 我 还 是 在 看
+UI10FAZ_0105 98279 103341 ZH 那 时候 是 很 小 啦 我 觉 得 那 那 部 戏 是 很 恐怖 的 啦
+UI10FAZ_0105 103341 119346 EN  okay  mm 
+UI10FAZ_0105 119346 123333 ZH  近期 没有 啦
+UI10FAZ_0105 137691 147307 CS 啊 我 觉得 handphone 啊 我 觉 得 我 已 经 不能 live without handphone 了
+UI10FAZ_0105 147307 151242 ZH 有 的 功能 当然 是 越 多 越 好 啦
+UI10FAZ_0105 151242 159328 CS 嗯 现在 我 觉 得 handphone 最 basic 的 那些 功能 就 是
+UI10FAZ_0105 159328 169388 CS i mean on top of 那些 以前 的 s. m. s. 啊 calls 啊 我 觉 得 现在 最 重要 的 是 有 要 g. p. s. 又 可以 online
+UI10FAZ_0105 169388 177466 ZH 又 可以 有 那个 什么 啊 那个
+UI10FAZ_0105 177466 183595 CS 就 是 好像 arrange 那些 appointment 啊 meeting 的 那种 function 啊
+UI10FAZ_0105 183595 190886 CS 可以 给 你 啊 可以 给 你 keep 一些 notes 的 那些 function 咯
+UI10FAZ_0105 199906 205855 CS then 啊 我 觉得
+UI10FAZ_0105 205855 212902 CS 我 觉 得 如果 可以 的 话 p. d. a. phone 会 更好 啦 
+UI10FAZ_0105 225140 234247 CS 嗯 我 看 的 故事 书 我 有 我 有 看 故事 书 mostly 是 english english story
+UI10FAZ_0105 234247 243170 ZH 也 是 蛮 闷 的 啦 啊 我 只 会 去 读 一些 那些
+UI10FAZ_0105 243170 250606 EN about people's like uh true story about somebody
+UI10FAZ_0105 250606 259097 CS or or people's childhood 那些
+UI10FAZ_0105 259097 264328 CS 我 觉 得 我 看 的 东西 都 会 比较 pessimistic 的
+UI10FAZ_0105 264328 268352 CS 都 是 很 sad
+UI10FAZ_0105 268352 275300 CS then 看 了 你 会 你 就 是 你 会 影响 你 的 emotion 你 会 觉得 哦 真 的 是 很 sad 这样 子
+UI10FAZ_0105 275300 279143 CS 大部分 我 的 story book 都 是 这 样 子 的
+UI10FAZ_0105 279143 285425 CS 啊 当然 我 也 是 有 看 magazine 啊 那些 东西 啊
+UI10FAZ_0105 285425 290587 CS 可是 我 觉 得 看 magazine 哦 很 不 环保 的
+UI10FAZ_0105 290587 298330 CS 所以 我 通常 都 是 去 那些 外面 啊 好像 去 starbucks 啊 coffee bean 啊 或者 是 去 salon 那 时候 才 看 咯
+UI10FAZ_0105 298330 303008 CS  but 啊 我 是 不看 newspaper 的
+UI10FAZ_0105 321131 328174 ZH 我 喜欢 的 书 有 好 几 本 啊 不过 我 读 过 最多 次 的 那 一 本 是
+UI10FAZ_0105 328174 334045 CS 啊 一 本 叫 作 the unwanted daughter
+UI10FAZ_0105 334045 340151 CS author is adeline yen-mah 在 她 是 中国人 来 的
+UI10FAZ_0105 340151 347964 CS why 她 的 那个 book 的 那个 title 叫 the unwanted daughter 嘞 because 我 觉得 她 是 一个 很 可怜 的 小 女生 咯
+UI10FAZ_0105 347964 353163 ZH 当 她 当 她 就 是 来 到 这个 世界 的 时候
+UI10FAZ_0105 353163 356817 ZH 因为 她 的 妈妈 难产 而 离开 了
+UI10FAZ_0105 356817 366606 CS so the whole family 啊 就 觉 得 she is like she's cursed 就 是 让 她 的 母亲 就 是 害 死 她 母亲 的 那个 小 女孩
+UI10FAZ_0105 366606 373287 CS so 从 小 到 大 她 的 爸爸 不 爱 她 她 的 哥哥 姐姐
+UI10FAZ_0105 373287 379736 ZH 都 不 参 她 玩 就 是 【嗯】  不 喜欢 她
+UI10FAZ_0105 379736 383720 CS so 只有 一个 人 疼 她 的 就 是 她 的 auntie
+UI10FAZ_0105 383720 387941 CS 因为 她 auntie 是 一个 很 open-minded 的 女人
+UI10FAZ_0105 387941 391921 CS so 从 小 到 大 她 都 是 被 人家 bully 的
+UI10FAZ_0105 391921 398004 ZH 最 惨 的 就 是 她 的 妈妈 去世 过后 她 爸爸 娶 了 一个
+UI10FAZ_0105 398004 404942 ZH 【啊】 法国 法国 的 妻子 回来 家里
+UI10FAZ_0105 404942 412300 CS 那个 时候 是 她 真 正 恶 梦 开始 因为 她 的 stepmother torture 她
+UI10FAZ_0105 412300 419966 ZH 就是 这样 【咯】 (呃) 可是 我 可以 看到
+UI10FAZ_0105 419966 428261 CS 我 可以 看到 她 the moral of the story is 每 其实 你 嗯
+UI10FAZ_0105 428261 433859 ZH 就 是 每 样 东西 【哦】 只 要 你 坚持 了 都 会 变 得 更好 的
+UI10FAZ_0105 433859 442568 CS 就 是 如果 其实 如果 她 当初 不 坚持 (呃) 就 是 她 去 她 拿 journalism 她 拿 writing
+UI10FAZ_0105 442568 451492 CS 其实 中途 她 有 想 过 放弃 的 可是 她 没有 到 最后 她 坚持 啦 所以 她 今天 她 是 一个 author
+UI10FAZ_0105 451492 460261 ZH 她 有 出 过 好 几 本 书 讲 的 都 是 她 生平 的 故事 故事 很 简单
+UI10FAZ_0105 460261 466920 CS 可是 the way she write 啊 真 的 是 可以 把 你 带 进 那个 story 里面
+UI10FAZ_0105 466920 473627 ZH 你 你 怎么 说 呢 你 不会 想 到 【哇】 这个 世界 上 竟然 有 这么
+UI10FAZ_0105 473627 482347 CS 这么 毒 的 女人 啊 可以 这样 torture 一个 小 女孩 这样 子
+UI10FAZ_0105 482347 490812 ZH 【嗯】 她 现在 还 她 现在 还 还有 在 在 美国 她 在 美国 生活
+UI10FAZ_0105 490812 497199 ZH  【嗯】
+UI10FAZ_0105 497199 503306 CS 她 的 childhood 啊
+UI10FAZ_0105 503306 508735 CS 可以 告诉 你 adeline 是 来 自 一个 非常 有 钱 有 实力 的 家庭
+UI10FAZ_0105 508735 516475 ZH 她 的 家庭 是 很大 的 是 开 银行 的 在 上海 【啊】
+UI10FAZ_0105 516475 524141 CS 可是 呢 就是 因为 她 的 stepmother 啊 她 的 stepmother 可以 不 让 她 吃 东西
+UI10FAZ_0105 524141 530289 CS 或者 是 叫 呃 因为 他们 以前 上课 啊 是 坐 那个 trishaw 的 嘛
+UI10FAZ_0105 530289 534080 CS 她 可以 不 让 她 坐 trishaw 她 让 她 走 去 学校
+UI10FAZ_0105 534080 544005 CS so 走 到 学校 的 时候 她 就 迟到 她 又 没有 钱 吃 东西 这 全部 都 是 她 的 stepmother 就 是 她 没有 她 没有 这样 对 她 的 brothers sisters 的 她 就 是 这样 对 她 罢了
+UI10FAZ_0105 544005 554391 CS 所以 其实 她 真的 是 很 可怜 的 then when she get into trouble even 她 的 自己 的 亲 哥哥 亲 姐姐 都 不 帮 她 的 因为 他们 觉 得 说
+UI10FAZ_0105 554391 558302 CS 你 是 那个 unlucky 的 人 啊 我们 不 应该 帮 你 的
+UI10FAZ_0105 558302 563024 CS 要不要 不是 因为 你 啊 mother 就 不会 死 的
+UI10FAZ_0105 563024 573016 CS 啊 而且 那 那 本 书 好像 是 children story 来 的 蛮 好看 的
+UI10FAZ_0105 573016 580856 ZH 因为 她 在
+UI10FAZ_0105 580856 587500 CS 嗯 我 最 记得 她 一 part 的 是 她 怎样 在 那个 convent school 里面 渡过 那 段 时间
+UI10FAZ_0105 587500 592083 CS 就 是 那个 时候 她 determine 说 i want to become an author
+UI10FAZ_0105 592083 595978 CS 你 知道 吗 那个 时候 在 convent school 里面 的
+UI10FAZ_0105 595978 602688 CS 有 很多 都 就 是 大部分 都 是 有钱 人家 小姐 convent school 嘛 so is a girl school
+UI10FAZ_0105 602688 609006 CS 那个 时候 啊 她 的 stepmother 啊 让 她 在 那个 convent school 生活 了 四年
+UI10FAZ_0105 609006 614418 CS with only one uniform 她 不 她 不 愿意 让 她 买 新的 uniform
+UI10FAZ_0105 614418 619987 CS 她 更 不 愿意 pay for pay for 她 的 那个 lunch fees
+UI10FAZ_0105 619987 629005 CS so 她 每个 她 每个 那个 lunch 的 时候 是不是 她 只有 一颗 鸡蛋 吃 罢 了
+UI10FAZ_0105 629005 634128 CS 如果 unlucky 的 话 就是 她 她 连 lunch 都 没有 得 吃
+UI10FAZ_0105 634128 640914 ZH 你 会 觉得 你 读 到 那边 的 时候 你 会 觉得 说 (呃) 为什么 一个
+UI10FAZ_0105 640914 646315 CS 没有 杀伤力 的 女生 啊 为什么 她 的 stepmother 会 这样 对 她
+UI10FAZ_0105 646315 653658 CS then 就 是 那个 时候 她 在 她 最 depressed 的 时候 她 就 把 她 的 啊
+UI10FAZ_0105 653658 661575 ZH 她 就 开始 写 【咯】 写作 是 她 一种 发泄 的 方式 啊
+UI10FAZ_0105 661575 670405 CS then 她 有 尝试 去 投稿 啊 而且 她 的 那些 writing 啊 时常 都 会 收到 她 的 老师 的 肯定
+UI10FAZ_0105 670405 676748 CS 所以 就 一直 有人 encourage 她 继续 继续 写 下去 写 下去
+UI10FAZ_0105 676748 680002 ZH 那 时候 是 她 我 觉得 她 是 很 可怜
+UI10FAZ_0105 680002 687057 ZH 然后 她 的 生活 在 大学 的 生活 是 比较 好 是 因为 她 终于 有机 会 出国 了
+UI10FAZ_0105 687057 689915 CS 她 离开 了 她 的 family
+UI10FAZ_0105 689915 696562 CS 那个 时候 她 才 她 才 觉得 说 她 终于 taste 到 a bit of freedom 这样 子
+UI10FAZ_0105 696562 705410 ZH 啊 其实 她 有 三 本 书 的
+UI10FAZ_0105 705410 712369 ZH 我 最 记得 是 她 最后 一 本 书 的 后面 那 那 一 段 就 是
+UI10FAZ_0105 712369 716224 ZH 我 我 不是 我 其实 我 不是 很 清楚 可是 我 知道
+UI10FAZ_0105 716224 723977 CS when 她 的 stepmother 她 的 stepmother 啊 要 pass away 的 时候 是不是 她 坚持 要 死 在 adeline 的 家里 面
+UI10FAZ_0105 723977 730575 CS so that time 啊 她 还 相信 说 其实 她 的 family 是 love 她 的 你 知道 吗
+UI10FAZ_0105 730575 736001 ZH 她 从 头 到 尾 她 都 不肯 放弃 说 她 在 这个 世界 上 没有 亲人 爱 她 的
+UI10FAZ_0105 736001 742789 CS until 最后 的 时候 哦 她 才 discover 为什么 她 的 mother 要 死 在 她 的 家
+UI10FAZ_0105 742789 750966 CS 那 时候 她 已经 是 住 在 美国 with 她 的 对 就 是 要 在 她 这 pass away
+UI10FAZ_0105 750966 755579 CS 如果 没有 错 来 讲 啦 那个 时候 好像 就 是 if 啊
+UI10FAZ_0105 755579 763117 CS 一个 好像 from 别的 国家 的 人 啊 死 在 你 的 家 的话
+UI10FAZ_0105 763117 769672 ZH 你 好像 我 忘记 了 你 会 有 就 是 法律 上 可能 可以 对 你 采取 一些 行动 的
+UI10FAZ_0105 769672 776259 ZH 所以 你 知道 她 的 那个 啊 她 真 的 是 绝望 了 她 就 讲
+UI10FAZ_0105 776259 781067 CS 她 的 stepmother 连 到 死 啊 都 不肯 放过 她 都 还要 这样 害 她
+UI10FAZ_0105 781067 786178 ZH 哦 你 真 的 是 在 读 到 这个 最后 的 时候 你 会 觉得 哇 这个 女人 很 恐怖
+UI10FAZ_0105 786178 791137 ZH 到 死 了 都 不肯 都 不肯 放过 她 这样 子

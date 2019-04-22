@@ -1,0 +1,154 @@
+UI27FAZ_0101 4762 8203 CS 我 在 u. s. m. 读书
+UI27FAZ_0101 9470 13717 CS 我 啊 我 读着 这个 (啊) computer science
+UI27FAZ_0101 21974 25088 CS 啊 我 在 u. s. m. 读 computer science
+UI27FAZ_0101 32809 41148 CS 我 读 data communication programming visual basic calculus
+UI27FAZ_0101 41148 46801 CS (啊) 和 一些 ah minor project minor minor subject
+UI27FAZ_0101 50946 59839 CS 我的 favorite subject 就是 (啊) data communication 因为 (啊) 它 会 让我 mmm
+UI27FAZ_0101 60965 67931 CS 比较 有 i. t.的 (啊) 题目 我 比较 喜欢
+UI27FAZ_0101 72833 77445 CS 我的 final year 的 project 就做 (啊) speech recognition
+UI27FAZ_0101 77892 88969 CS (啊) 我用 matlab 来做  那个 programming language for 这个 (啊) speech recognition
+UI27FAZ_0101 94765 98032 CS (啊) 我有 去 industrial training for six month
+UI27FAZ_0101 98032 102634 CS okay ah 这个 industrial training 在 trans-ocean-holdings
+UI27FAZ_0101 102634 105359 CS 它 是一个 logistic 的 company
+UI27FAZ_0101 105359 115819 CS okay and 在 那边 我会 做 它的 i. n. c. r. 的 programming 就是 他们的 i. s. o.的- (啊啊) i. s. o.的-
+UI27FAZ_0101 116718 122478 CS 一个- 一个- 一个- 一个- 一个 project 在 那个 company 里面
+UI27FAZ_0101 125110 139155 CS 那个 i. s. o. 的 project 就是 做 他们 的 day to day 的- (啊) (啊) transaction ok 他们 的- (啊) (嗯)
+UI27FAZ_0101 143040 145360 CS 他们 的- (啊)
+UI27FAZ_0101 152447 156850 CS (啊) 我在 用着 visual basic 来写 他们 的 programming language
+UI27FAZ_0101 156850 165347 CS so 我 写了 大概 三个月 okay so 我会 run 整个 programme ah and present 给 他们 的 directors
+UI27FAZ_0101 165347 169905 CS so 他们 的 directors 就会- (啊) (啊)
+UI27FAZ_0101 169905 176869 CS revise 整个 programme okay and to- to execute 在 他们的 公司 里面
+UI27FAZ_0101 182060 187607 CS (啊) 他们的 system 就用 windows x. p. 来 run 那个 programming
+UI27FAZ_0101 187607 192234 CS so 他们 run 着 for six month another six month okay
+UI27FAZ_0101 192234 201488 CS ah for the- for the ah pre~ preliminary stage ok 然后 他们 就会 continue 在 他们的 second stage 就是 execute 那个 programme 了 咯
+UI27FAZ_0101 206803 209818 CS 哦 那个 公司 是做 logistics 的
+UI27FAZ_0101 209818 217748 CS 他们的 logistics 就是 (啊) 包括 (啊) bondage ok truck ok 然后 还有 warehouse
+UI27FAZ_0101 217748 227722 CS so 他们的 transaction 就会在 (啊) 很多的 (啊) 这个 factory loh okay ah cover the whole world
+UI27FAZ_0101 227722 238334 CS so 那个 公司 有 (啊) the main 三个- 三个 port 一个 是在 klang port 一个 是在 ah penang port and 一个 是在 johor port
+UI27FAZ_0101 243225 251743 CS most of the customer 就是 在 (啊) manufacturing customer 就会 在 (啊) (啊) penang的 bayan lepas okay
+UI27FAZ_0101 251743 257071 CS 但是 也是 有 包括 overseas 的 (啊) manufacturing company
+UI27FAZ_0101 257071 265394 CS 比如说 好像 intel motorola 然后 还有 plexus and et cetera lah
+UI27FAZ_0101 268419 275089 CS 他们 就会 (啊) 送货 咯 他们 okay 他们 他们 有 这个 (啊)
+UI27FAZ_0101 275089 283342 CS ah container okay after 他们 要 送 一个 货 from one place to another end okay one point to another point
+UI27FAZ_0101 283342 290910 CS so 他们 就会 ah arrange everything bondage 然后 还有 他们 的 sea freight 还是 air freight
+UI27FAZ_0101 290910 298822 CS 然后 就有 啊 他们 的 warehousing loh and 他们 会送 by 他们 的 truck 去 from one end to another end
+UI27FAZ_0101 298822 301769 EN depends on the customer request
+UI27FAZ_0101 308770 314914 CS 之前 after ah 之前 我有 做过 这个 (啊) credit card sales
+UI27FAZ_0101 314914 323019 CS 就在 citibank loh after that after the industrial training 我就 直接 在 b~ ah medical ah field 了
+UI27FAZ_0101 327147 335617 CS 在 citibank 我是 做 credit card sales 的 那个 是我 part time 在 citibank so
+UI27FAZ_0101 335617 347349 CS 我做 在那里 做工作 差不多 有 mmm six month 左右 mmm after that 我就 continue 我的 (啊) degree 了
+UI27FAZ_0101 353808 358903 CS 他们 是 under direct sales department 的 在 citibank penang
+UI27FAZ_0101 360537 365474 CS 啊 它的 他们的 basic 是到 差不多 thousand five
+UI27FAZ_0101 365474 373489 CS and commission 看你 (啊) hit 拿到- hit 到 几多 就 得到 几多 咯
+UI27FAZ_0101 383781 392230 CS 它的 qualification 就 只有 (啊) diploma 在 那时候 okay but 现在 应该是 degree
+UI27FAZ_0101 392230 397474 CS so mmm大多数 是diploma lah
+UI27FAZ_0101 404156 413103 CS 还好 啦 so 因为 因为 现在 应该 比较 ah competitive 了 因为 有 很多的 banks
+UI27FAZ_0101 413103 416285 CS 啊 已经 started to promote 他们的 credit cards
+UI27FAZ_0101 416285 424824 CS even local bank and internation~ international bank 他们 已经 also (啊) promote 他们的 credit card ah widely 了
+UI27FAZ_0101 424824 435918 CS and you can- you can see that ah 很多 这个 credit card company 现在 在很多 shopping mall 跟油站 他们 也 已经promote 着 那个 credit card 了
+UI27FAZ_0101 446130 447678 ZH 对 哈哈
+UI27FAZ_0101 458996 462803 CS 不同的 他们的 benefit 就 不同 咯 不同 咯
+UI27FAZ_0101 462803 469734 CS ok giant 有可能 它会 给你 extra point okay 在这个 (啊) 他们的 giant 的 hypermarket
+UI27FAZ_0101 469734 475376 CS while if lets say 你拿 他们 solely own by citibank itself 的
+UI27FAZ_0101 475376 479292 CS 他们 就会 有 他们的 不同的 benefit 跟 privilege
+UI27FAZ_0101 479292 484894 CS ok and ah 就 benefit 就 不同 咯
+UI27FAZ_0101 484894 487917 CS 嗯哼 只有 benefit 罢了 咯
+UI27FAZ_0101 499776 502733 ZH 应该 是 会吧 嗯哼
+UI27FAZ_0101 514207 527006 CS 哦 我的 responsibility 就 我要 cover 整个 northern region 就 包挂 kedah perlis penang 和 perak the whole northern region
+UI27FAZ_0101 527006 536877 CS so 我的工 就 包挂 卖 这个 consumable products okay 跟 这个 i. v. ah large volume parenterals
+UI27FAZ_0101 536877 545408 CS 就 好像 我们 用着 在 nor~ 就是 normal saline okay 就好像 我们 用着 像 我们的 contact lens 的 药水 这样
+UI27FAZ_0101 545408 553590 CS 但是 他们 不是 用给 contact lens 的 药水 它 是给 这个 (啊) in~ intravenous 的
+UI27FAZ_0101 553590 565074 CS 就好像 我们 (啊) admit 进去 hospital okay 就 我们 好像 有 放那个 葡萄 那个 那个 葡萄水
+UI27FAZ_0101 565074 574407 CS (em) so besides that okay 我的 mainly 的工 就是 consumer products 就是 好像 cannula
+UI27FAZ_0101 574407 584832 CS okay cannula 是一个 (啊) for 做 i. v. okay 我们 会 插进 我们的 vein okay to 做 intravenous
+UI27FAZ_0101 584832 589115 CS 好像 我们 一进 admit 进去 hospital so 我们 一定要-
+UI27FAZ_0101 589115 595720 CS (啊) 插在 我们的 vein mah 才可以 (啊) 做 intravenous
+UI27FAZ_0101 595720 602555 CS intravenous 就是讲 (啊) i. v. i. v. 这个 (啊)
+UI27FAZ_0101 604239 609915 CS to code ah to infuse to infuse 一个 medication 去 我们的 身上
+UI27FAZ_0101 609915 617185 CS in order to infuse 那个 medication 去 我们 身上 我们 要 我们 就要 那个 一个针 okay 它是 一个针 来的 其实
+UI27FAZ_0101 617185 624822 CS 一个 needle but 那个 needle ah 我们 不能插 整个 needle 进去 我们的 身上吗 ok 因为 它是 铁 嘛
+UI27FAZ_0101 624822 630802 CS so in order 我们 要插 那个 needle 进去 okay 它是 用 一个 catheter 罢了
+UI27FAZ_0101 632065 633131 EN catheter
+UI27FAZ_0101 634232 639807 EN ah c a t h e t e r
+UI27FAZ_0101 641266 645631 CS so 那个 catheter 就会 在 我们 身上
+UI27FAZ_0101 645631 652969 CS 通常的 practice 就是 (啊) 九十六 小时 maximum 会用 那个 catheter for four days 在 我们的 vein
+UI27FAZ_0101 652969 658600 CS okay to infuse whatever doctor prescribe 的药 这样
+UI27FAZ_0101 665406 672159 CS 一个 patient okay 一个 patient admit 进去 hospital 就 需要 这样了
+UI27FAZ_0101 672159 677422 EN if the doctor prescribe a drug that to be infuse into a patient
+UI27FAZ_0101 677422 680862 EN then ah this cath~ this catheter or
+UI27FAZ_0101 680862 682600 EN they called it cannula
+UI27FAZ_0101 682600 690600 EN ok they need it to ah ah put it onto a patient vein to infuse ah medication
+UI27FAZ_0101 690600 704776 CS 然后 (啊) depends on the drug let say 那个 patient 是 suffered for after after after medical operation okay 就 他们 会 放进 这个 patient 去 surgical ward loh
+UI27FAZ_0101 704776 712242 CS ok 在 surgical ward 里面 他们 会给 (啊) 他们的 (啊) 那个 doctor prescribe 的药
+UI27FAZ_0101 712242 718586 CS if 这个 patient 是 suffered ah cancer 的 okay 他们 就会 给 chemotherapy
+UI27FAZ_0101 718586 721643 CS for maybe 一天 twenty four hours
+UI27FAZ_0101 721643 724933 CS continuously loh 这样 咯
+UI27FAZ_0101 726532 732774 CS so 比如说 如果 这个 patient 是 under medical 的 它就会 放进去 medical 的 ward
+UI27FAZ_0101 732774 737990 CS under ah under medical 的 (啊) specialties
+UI27FAZ_0101 742290 744353 ZH 这个 是 (啊)
+UI27FAZ_0101 745420 752877 CS 二十四 小时 是 actually 一个 protocol 来的 okay protocol from protocol from the hospital and w. h. o.
+UI27FAZ_0101 752877 756798 CS w. h. o. 是 world- world health organ~ organization
+UI27FAZ_0101 756798 761202 CS okay 是 他们 会 放一个 standard that ah
+UI27FAZ_0101 761202 769150 EN whene~ whatever product ah whatever whatever disposable that ah onto ah to that put it onto a patient
+UI27FAZ_0101 769150 775789 EN to be ah limit into twenty four hours in order to prevent ah infection
+UI27FAZ_0101 775789 778678 EN control and infection disease
+UI27FAZ_0101 784389 788017 CS (啊) 就好像 (啊) tromboflebitis
+UI27FAZ_0101 788017 792568 CS tromboflebitis loh ha 就会 cause 很多的 lung function
+UI27FAZ_0101 794839 797716 CS 再 就是 好像 好像 lung function loh
+UI27FAZ_0101 797716 804968 CS ha 他们的 他的 lung 不能 function ah 还是 他们的 (啊) 有 有 因为
+UI27FAZ_0101 804968 813241 CS 其实 这个是 (啊) 好像 一个 plastic 但是 这个 不是 plastic 来的 它是 d. h. p. free 跟 p. v. c. free 的东西
+UI27FAZ_0101 813241 816688 CS okay 但是 他们 也是 有 (啊)
+UI27FAZ_0101 816688 822598 CS 这个 lifetime 的 在 我们的 身上 so 不能 放 太久 okay
+UI27FAZ_0101 826090 838490 CS 我 就会 去做 这 (啊) 会去 (啊) meet 这个 k. o. l. which is the key opinion leader ah mainly 是 specialist ah head of department lah and the medical assistant
+UI27FAZ_0101 838490 848175 CS so also i will meet ah those nurses 就是 好像 sister 这样 sister 是 (啊)
+UI27FAZ_0101 848175 852597 CS 这个 nurses 的 (啊) head 来的
+UI27FAZ_0101 852597 861121 CS ok and matron matron 是 (啊) 管- 管理 这个 全部的 nurses 最大 的咯
+UI27FAZ_0101 866916 871108 CS 哦 我的 d~ 我的 product 就会 用在 整个 hospital
+UI27FAZ_0101 871108 880018 CS so 我 整个 hospital 的 (啊) nurses doctors 跟 medical assistant 我 也 需要 见 他们
+UI27FAZ_0101 880018 883586 CS and 通常 我会 在 o. t.跟 i. c. u. 里面
+UI27FAZ_0101 883586 889095 CS 因为 他们会 做动~ (啊) 他们 会做 operation and when 他们 做 operation 的 时候
+UI27FAZ_0101 889095 895833 CS 他们 也是 需要 我 (啊) to guide 他们 用 certain 的 disposable 的 products
+UI27FAZ_0101 901302 913183 CS (啊) 我 需要 training for i think almost ah six month and every every every three month i have to take the exam
+UI27FAZ_0101 913183 916049 EN in order to update ourself
+UI27FAZ_0101 923393 927589 CS 通常 是 (啊) combine practical 跟 knowledge
+UI27FAZ_0101 927589 935974 CS okay 我们 会用 一个 artificial arm 来做 training okay and to make sure that we are ah
+UI27FAZ_0101 935974 939371 EN ah we can do well on the cannulation part
+UI27FAZ_0101 939371 943246 CS and 其实 我们 不是 只有 做 这个 cannulation
+UI27FAZ_0101 943246 950160 CS okay cannula (啊) 我们 还有 做 很多的 (啊) disposable products
+UI27FAZ_0101 950160 953239 CS 比如说 好像 triple lumen
+UI27FAZ_0101 953239 957778 CS triple lumen 是 一个 central venous catheter okay
+UI27FAZ_0101 959309 964917 CS central venous catheter okay 就好像 我们 进 i. c. u. okay
+UI27FAZ_0101 964917 975295 CS once 一个人 进 i. c. u. 他们 就会 放 这个 central venous catheter ok 他们 就会 放在 我们的 (啊) femoral vein
+UI27FAZ_0101 975295 982476 CS okay femoral vein 就是 好像 在 我们的 (啊) heart 我们的 心 heart 在上面
+UI27FAZ_0101 982476 985457 EN okay in order to infuse drugs
+UI27FAZ_0101 985457 988045 EN okay to monitor our heart
+UI27FAZ_0101 988045 992796 EN okay and to to to get the blood sample
+UI27FAZ_0101 992796 995987 CS so when 一个 patient 进 这个 i. c. u. 里面 的时候
+UI27FAZ_0101 995987 998653 CS 它会 它 需要 continuous 的
+UI27FAZ_0101 998653 1003830 CS (啊) (啊) 这个 blood sample 跟 infuse of drugs
+UI27FAZ_0101 1003830 1009266 CS 因为 when 这个 patient 这个 这个 c. v. c. okay central venous catheter
+UI27FAZ_0101 1009266 1013185 ZH 它会 需要 用在 比较久 的 比较久
+UI27FAZ_0101 1013185 1017461 CS 因为 在一个 i. c. u. 里面 普通 一个 patient 会
+UI27FAZ_0101 1017461 1025512 CS 最少 有 minimum four days to and above sometimes two month the patient will be in the i. c. u. for one or two month
+UI27FAZ_0101 1025512 1038188 CS ok so 这个 c. v. c. 会 比较 suitable for a patient to use and a doctor to ah to do calibration everything on the patient
+UI27FAZ_0101 1038188 1048421 CS so why the doctor need the sample of the blood is because 他们 需要 做 (啊) 这个 这个 diagnosis from the drug
+UI27FAZ_0101 1048421 1059085 CS so 那个 doctor 会 拿 那个 patient 的 (啊) blood blood sample from time to time almost ah once a day
+UI27FAZ_0101 1059085 1065792 CS 这样 and to infuse drug through the through the central venous catheter 为什么 (嘞) 因为
+UI27FAZ_0101 1065792 1071605 CS (啊) 这个 会比较 fast action for the patient to take effect on the drug
+UI27FAZ_0101 1071605 1074925 EN instead of using the cannula the previous method
+UI27FAZ_0101 1075871 1080226 CS 因为 这个 can~ ah c. v. c.它会 直接 通过
+UI27FAZ_0101 1080226 1084552 CS (啊) 通- (啊) 通过 去 我们的 jugular vein
+UI27FAZ_0101 1085842 1090764 CS jugular vein 就是 (啊) 比较近 在 我们的 heart
+UI27FAZ_0101 1099499 1105380 CS 没有 我卖的 product 最少 有 (啊) two hundred product
+UI27FAZ_0101 1105862 1115786 CS ok but some product are 是 很普通 的 product 是 好像 那个 accessories 的 ah for the hospital accessories 的product 罢了
+UI27FAZ_0101 1115786 1124000 CS 他 没有 关系到 (啊) patient ah patient ah 不是 他 没有 关系到 (啊)
+UI27FAZ_0101 1124000 1134007 CS 在 在 administer drug 的 patient 的 身上的 它是 只有 一个 accessory to incorporate 在 (啊) 每一个 disposable 里面
+UI27FAZ_0101 1138952 1143500 CS besides 这个 product 我 还有 这个 (啊)
+UI27FAZ_0101 1143500 1150548 CS 我们 叫做 systofics systofics 就是 好像给 那个 (啊)
+UI27FAZ_0101 1150548 1159273 CS urology 的人 用的 好像 (啊) 有 problem with 他们的 (啊) (啊) urine problem
+UI27FAZ_0101 1159273 1168376 CS and on top of that 我们 还有 这个 linus linus 也是 一个 disposable product okay 他们 会用 在 o. t.
+UI27FAZ_0101 1169304 1172447 CS 什么是 linus leh ah linus 是一个
+UI27FAZ_0101 1172447 1182196 CS 一个 好像 (啊) container ok 因为 when a pers~ a patient ah in the operate operating theatre
+UI27FAZ_0101 1182196 1193270 CS when they are doing the ah operation okay so 这个 patient 需要 很多 blood 很多 lost of blood okay and the
+UI27FAZ_0101 1193270 1199209 EN ah the fluid okay that is dirty okay need to be suck out
+UI27FAZ_0101 1199209 1201708 EN ok so

@@ -1,0 +1,177 @@
+UI13FAZ_0102 0 7789 ZH 姐姐 还有 两个 弟弟 在 那 那 在 怡保 还有 我 爸爸 我 阿姨 啊
+UI13FAZ_0102 8844 13682 ZH 哦 我 有 三个 姐姐 两个 弟弟 我 排 第四
+UI13FAZ_0102 13682 25901 ZH （ppl) mm
+UI13FAZ_0102 25901 37459 CS 其实 我 爸爸 是 比较 古老 的 人 啦 他 说 (er) k. l. 和 johore 那边 嘞 就 比较 复杂 生活 习惯
+UI13FAZ_0102 37459 47235 CS 而且 他们 要 来 找 我们 也 是 蛮 麻烦 一点 而且 我 姐弟 之前 也 是 读 u. s. m. 不过 是 另外 一 side lah but
+UI13FAZ_0102 47235 52927 CS (呃) 他 说 (呃) 怡保 (呃) penang 的 路 他 比较 会 会 走
+UI13FAZ_0102 52927 58859 CS 他 (呃) 所以 说 我 填 那个 choice 的 时候 哦 我 只有
+UI13FAZ_0102 58859 63942 CS 那个 choice hor 其实 只有 一个 我 可以 选 而已 
+UI13FAZ_0102 63942 65403 EN 
+UI13FAZ_0102 65403 69407 CS 没有 我 只是 可以 选 u. s. m. 
+UI13FAZ_0102 69407 70327 EN 
+UI13FAZ_0102 70327 77496 CS hmm so 也 蛮 lucky 一下 啦 那 时候 我 填 它 啊 它 也 给 我 那个 choice 这样 lor
+UI13FAZ_0102 80883 89595 CS no lah it is actually is third  而 我 因为 我 是 first and second 我 是 我 是 填
+UI13FAZ_0102 89595 96241 CS 已经 超越 我 的 它 我 的 我 已经 那个 requirement (er)
+UI13FAZ_0102 96241 99894 ZH 不 符合 的 但是 是 我 的 兴趣
+UI13FAZ_0102 99894 106381 CS 啊 (呃) 两个 同样 的 东西 来 的 但是 他 不 给 我 他 给 我 third choice
+UI13FAZ_0102 110250 112333 CS 还 okay 啦 
+UI13FAZ_0102 114112 116815 ZH 呵呵 对 对 对 对 
+UI13FAZ_0102 116815 118405 EN 
+UI13FAZ_0102 118405 126449 CS 那 时候 是 在 想 的 如果 进 不到 大学 就 看 看 要 进 college 还是 怎样 还是 出来 读 的
+UI13FAZ_0102 126449 131216 ZH （呃） 因为 那 时候 我 （呃） 我
+UI13FAZ_0102 131216 138263 CS 我 是 自己 比赛 我 说 我 一定 要 进 大学 因为 那 时候 form five hor 我 的 malay 是
+UI13FAZ_0102 138263 142926 CS 没有 credit 的 so hor 我 不能 进 form six 了 咯
+UI13FAZ_0102 142926 149319 ZH (呃） 我 就 我 就 跟 我 家人 商量 然后 我 说 我 要 进 大学
+UI13FAZ_0102 149319 155911 CS 我 要 读 form six then 就 找 哦 幸好 是 怡保 有 一 间
+UI13FAZ_0102 155911 162047 CS 私人 的 私人 的 好像 school 这样 啦 它 只是
+UI13FAZ_0102 162047 167067 CS 它 有 给 那些 form six 没有 credit 的 人 读 啦
+UI13FAZ_0102 167067 176731 CS then 它 那边 是 可以 (呃) 也 是 拿 政府 的 exam 但是 它 可以 读 form six without credit 这样 啦 (呃)
+UI13FAZ_0102 176731 182521 CS then after that 我 那边 是 两年 form six 是 两年 嘛 啊 我
+UI13FAZ_0102 182521 190159 CS 我 第一 年 我 已经 拿 到 credit 了 我 我 retake 的 时候 已经 拿 到 credit 了 then mm 它
+UI13FAZ_0102 190159 198473 CS 我 可以 申请 回 ar government 的 school 啦 (呃) 而且 还是 我 中学 的 school (er)
+UI13FAZ_0102 198473 202462 CS 因为 我 中学 的 那个 school hor 它 刚好
+UI13FAZ_0102 202462 206141 CS 那一 年 它 是 开始 有 form six 读
+UI13FAZ_0102 206141 213865 CS then 我 就 觉得 哎呀 不要 转 来 转 去 了 咯 就 是 直接 读 咯 而且 哦
+UI13FAZ_0102 213865 222200 CS 呃 我 的 我 读 那个 私人 的 学 high school lah 它 是 有得 读 computer loh
+UI13FAZ_0102 222200 229397 CS 它 是 compulsory 一定 要 拿 的 咯 so 我 那 时候 form six 我 是 拿 五 科 咯
+UI13FAZ_0102 229397 234402 CS 五个 subject loh 有 包括 那个 computer 的 咯 so
+UI13FAZ_0102 234402 244872 CS 就 是 因为 那个 computer 我 才 会 填 computer science loh 不然 的 话 我 应该 不会 不会 选择 进 这个 field loh
+UI13FAZ_0102 249260 253914 CS 没有 啦 p. a. (er) maths 然后
+UI13FAZ_0102 253914 259704 CS chemical kimia mah 然后 还有 bio 然后 还有 computer loh
+UI13FAZ_0102 263001 266004 CS 啊 还有 m. u. e. t. 那个 啊
+UI13FAZ_0102 269569 279088 ZH 哦 那个 是 其实 是 蛮 久 一下 的 学校 来 的 不是 很 出名 啦
+UI13FAZ_0102 279088 283962 CS 叫做 呃 m. h. s. methodist high school
+UI13FAZ_0102 290223 297745 ZH 没有 没有 没有 它 是 私人 的 要 给 学费 的 每 个 月 而且 它 学费 那 时候 我 读 不是 很 高 啦 才
+UI13FAZ_0102 297745 303309 ZH 一百 多 这样 咯 啊 每个 月 的 咯 那 时候 我们
+UI13FAZ_0102 303309 310722 CS 我 就 跟 我 家人 商量 他 说 你 要 这样 读 私人 哦 then 你 就 不能 补习 了
+UI13FAZ_0102 310722 316189 CS 因为 如果 你 读 政府 哦 你 补习 的 fees 也 是 差不多 百
+UI13FAZ_0102 316189 324246 CS 为 一百 多 然后 我 说 okay loh 这样 我 等 下 我 不要 不要 补习 咯 
+UI13FAZ_0102 324246 333477 EN  mm
+UI13FAZ_0102 333477 335073 ZH 啊 对 咯
+UI13FAZ_0102 335073 339402 EN ah
+UI13FAZ_0102 339402 342757 CS 因为 啊 我 姐姐 说 她 比较 有 experience
+UI13FAZ_0102 342757 352889 EN  ah mm
+UI13FAZ_0102 352889 360968 CS 我 跟 我 三 姐 相差 四年 (er) second 的 是 相差 五年
+UI13FAZ_0102 361969 368914 ZH 大 的 那个 嘞 就 比较 多 像 是 五 八年
+UI13FAZ_0102 368914 377456 CS then 我 跟 我 弟弟 大 的 弟弟 相差 六年
+UI13FAZ_0102 377456 386119 ZH 跟 我 小 的 弟弟 相差 二十 二十二 年
+UI13FAZ_0102 386119 388013 EN 
+UI13FAZ_0102 388013 392072 CS 是 因为 我 的 小 的 弟弟 现在 才 standard three
+UI13FAZ_0102 392694 398023 CS 开学 standard three 
+UI13FAZ_0102 398023 404273 ZH 啊 其实 我 妈妈 我 妈妈 想 是 (呃) 一直 想 要 孩子
+UI13FAZ_0102 404273 410381 CS 一直 想 要 啊 男孩 你 知道 吗 生 了 四个 四个 girls 了 then
+UI13FAZ_0102 410381 415900 ZH 还 还 没有 （ppl) 你 知道 以前 的 比较 传 宗 接 代 嘛
+UI13FAZ_0102 415900 423916 ZH 啊 一定 要 生 男生 这样  一直 生 一直 生
+UI13FAZ_0102 426006 437298 ZH 啊 对 对 对 呃 因为 我 的 大 弟弟 也 出来 做工 了 现在 只是 现在 只 剩下 我 的 小弟 弟 咯
+UI13FAZ_0102 437298 452624 EN mm mm
+UI13FAZ_0102 452624 464745 CS (er) under graduate 的 时 我 是 住了 三年 咯 three years then after that 我 就 搬 回去 一年 then 搬 回来 应该 是 有 两年 了
+UI13FAZ_0102 468749 474024 CS 啊 虽然 是 住 在 槟城 啦 但是 town area 那些 路 哦 你 问 我
+UI13FAZ_0102 474024 479477 CS 不懂  因为 我 什么 什么 啊 penang road 在 哪里 啊
+UI13FAZ_0102 479477 486054 CS 不懂 啊  (呃) 有 去 过 啦 but then 你 问 我 exact 那个 路
+UI13FAZ_0102 486054 491240 CS 你 给 我 一个 address 问 我 是 在 哪里 我 会 不懂 啊
+UI13FAZ_0102 491240 500303 CS  因为 我 是 呆 都 是 在 这里 嘛 不是 在 啊 bayan lepas ah u. s. m. 这 一 区
+UI13FAZ_0102 500303 512254 EN mm
+UI13FAZ_0102 512254 516935 ZH 啊 不过 不是 不是 每 一天 都 来 lor
+UI13FAZ_0102 516935 524213 EN mm
+UI13FAZ_0102 524213 525592 EN weekend ah
+UI13FAZ_0102 526731 531628 ZH (呃) 如果 是 说 我 的 东西 不 赶 的 话 我 就 回 怡保 了
+UI13FAZ_0102 531628 533627 EN 
+UI13FAZ_0102 533627 536038 ZH 如果 我 的 东西 赶 的 话 就 在 这里 做 了
+UI13FAZ_0102 536038 537307 EN 
+UI13FAZ_0102 537307 541852 CS 我 的 weekend 就 是 做工 了 就 是 i mean 做 我 的 project 了
+UI13FAZ_0102 541852 547115 EN ah
+UI13FAZ_0102 547115 552765 CS hmm supertanker 那边 它 其实 叫 taman jubilee
+UI13FAZ_0102 554342 562918 CS 你 经过 从 这里 哦 你 要 去 sungai nibong 的 时候 哦 你 (呃) 不是 有 经过 那个 共和 学校
+UI13FAZ_0102 562918 570361 CS 其实 共和 学校 过了 没 多久 你 就 要 转 进去 supertanker 了 嘛 supertanker 就 对面 那 一 栋 而已
+UI13FAZ_0102 575420 579021 ZH 啊 停车场 那边 有 一个 巴刹 吗 巴刹 对面 咯
+UI13FAZ_0102 579021 580185 ZH （ppo)
+UI13FAZ_0102 580185 583729 CS 就 在 main road main road 的 旁边 而已
+UI13FAZ_0102 583729 589392 CS 啊 其实 那 一 个 area 它 taman jubilee 有 很多 个 很多 个 block 的
+UI13FAZ_0102 589392 593285 CS 啊 你 看 咯 因为 有 一个 block
+UI13FAZ_0102 593285 601564 CS 是 比较 好 一点 啦 它 是 好像 apartment 这样 它 有 swimming pool 有 gym room 有 tennis court 这样
+UI13FAZ_0102 601564 613210 CS but then 那个 rental fees 会 比较 贵 啦  so 我 是 搬 去 比较 便宜 一点 的 什么 都 没有 的 好像 normal 的 flat 这样 咯
+UI13FAZ_0102 614817 620378 ZH 没有 啦 我 跟 还有 两个 女孩子 他们 也 是 来 这里 做工 的
+UI13FAZ_0102 620378 624043 ZH 呃 一个 是 太平 人 一个 是
+UI13FAZ_0102 624043 629414 CS 我 不懂 她 是 哪里 人 她 是 她 的 whole family 是 移民 了 去 australia
+UI13FAZ_0102 629414 634046 ZH 是 剩下 她 一个 人 呃
+UI13FAZ_0102 634046 642346 EN mm
+UI13FAZ_0102 642346 649975 CS 啊 不是 那 时候 我 住 desa u. 就 mcdonald 后面 那 一 栋 啊 那个 那个 的 rental fees 很 贵
+UI13FAZ_0102 649975 657121 CS 那 时候 我们 七个 人 but 本来 是 八个 人 的 一 间 屋子
+UI13FAZ_0102 657121 662288 ZH (呃) 每个 月 都 要 千 二 块
+UI13FAZ_0102 662288 667531 CS so for 一个 人 大概 是 百 多 一个 月
+UI13FAZ_0102 667531 673059 CS 还 没 还 没 参 那个 什么 (er) bills 那些 bills 那些
+UI13FAZ_0102 688160 693679 ZH (呃) 其实 我 工作 的 时候 喔 我 反而 还 存 不到 钱 （ppl)
+UI13FAZ_0102 693679 697088 ZH 因为 我 工作 hor 我 要 给 钱 我 的 (呃)
+UI13FAZ_0102 697088 707640 CS (呃) 我 家人 啊 我 爸爸 啊 那些 然后 我 自己 还要 买 那些 衣服 啊 那些 for 读书 只是 normal t. shirt 这样 就 可以 了
+UI13FAZ_0102 707640 709668 EN ah
+UI13FAZ_0102 709668 716324 CS 比较 比较 formal 一点 的 的 的 衣服 这样
+UI13FAZ_0102 717465 728368 CS 而且 哦 你 知道 你 的 工钱 这样 多 哦 你 会 一直 吃 一直 吃  i mean 你 不会 说 啊 不会 说 有 planning 那种 (呃) 还是 (呃) 你 要
+UI13FAZ_0102 728368 736842 CS (呃) 这样 这样 (呃) for 这 一 个 月 我 要 因为 我 没有 property mah 我 又 没有 车 又 没有 啊 没有 屋子
+UI13FAZ_0102 736842 741904 CS 啊 对 then (er) 钱 就 是 拿 来 花 而已 咯
+UI13FAZ_0102 741904 743988 EN 
+UI13FAZ_0102 743988 750123 ZH 就 一直 吃 咯 每天 都会 吃 比较 比较 好 一点 的 东西 啦
+UI13FAZ_0102 758564 772401 CS 没有 我 就 online loh online 看 看 一些 information lah 还是 我 有 买 那些 magazine 来 看 这样 咯
+UI13FAZ_0102 777168 778656 ZH 我 会
+UI13FAZ_0102 780820 784743 CS 没有 我 我 我 每 一天 都 会 online 看 报纸 喔
+UI13FAZ_0102 784743 789802 CS i mean 是 chinese 的 啦  (呃) 因为
+UI13FAZ_0102 789802 803994 CS 买 一份 回来 看 一下 又 丢 在 那边 很 浪费 这样 then 就 会 online 看 报纸 then after that 就 看 forum ah 还是 看 有 什么 (呃) 槟城 有 什么 activity ah 这样 咯
+UI13FAZ_0102 808821 809930 ZH 小时候 算 吗
+UI13FAZ_0102 809930 814854 EN 
+UI13FAZ_0102 814854 821450 CS 以前 是 有 啦 (er) i mean 中学 的 时候 是 有 啦 then after that
+UI13FAZ_0102 821450 829413 ZH 就 开始 没有 时间 了 还 是 已经 懒惰 了 因为 一 本 一 本 小说 这样 厚
+UI13FAZ_0102 829413 834923 CS (呃) 而且 看 完 我 的 眼睛 也 tahan 不 到 了
+UI13FAZ_0102 834923 838340 EN 
+UI13FAZ_0102 838340 841316 ZH 英文 书 很少
+UI13FAZ_0102 846249 853040 CS 英文 书 啊 (呃) 那个 (呃) 我 的 我 的 那个 text book 就 有
+UI13FAZ_0102 856016 864186 CS 你 说 是 好像 那种 英文 的 magazine ah 还是 英文 的 那种 novel ah 就 没有 啦 
+UI13FAZ_0102 867775 876378 CS 都 是 华语 的 (er) i mean 好像 一些 (er) beauty 的 啊 health ah
+UI13FAZ_0102 877623 886659 CS 还有 keep fit 的 啊 那种  咯 比如 说 因为 年纪 也 开始 慢慢 增加 了 so 我们 要
+UI13FAZ_0102 886659 888589 EN 
+UI13FAZ_0102 888589 896445 CS 也 是 要 keep 的 嘛 啊 对 啊 你 知道 现在 现在 因为 年纪 开始 大 哦 你 会 看到 身边 的
+UI13FAZ_0102 896445 904173 CS 不同 的 病 啊 cancer ah 那种 咯 so 你 要 吃 比较 好 healthy 一点 的 food
+UI13FAZ_0102 904173 911919 CS hmm so 要 看 怎样 control 自己 的 食物 这样 咯
+UI13FAZ_0102 918306 922617 ZH 好像 吃 那 方面 咯 比较 吃 清淡 一下
+UI13FAZ_0102 922617 930069 CS 以前 我 都 我 以前 哦 一个 星期 哦 有 两 三 天 是 fast food 的
+UI13FAZ_0102 930069 934291 EN k. f. c. ah mcdonald ah pizza hut ah
+UI13FAZ_0102 935431 950292 CS then after that 我 看 了 那些 书 哦 而且 我 姐姐 一直 keep on 骂 我 啦 说 做 么 你 因为 哦 我 我 做 完工 哦 我 回来 这里 读书 哦 那 时候
+UI13FAZ_0102 950292 955704 CS 我 是 很 肥 的 比 现在 肥 整 ten k. g.
+UI13FAZ_0102 958692 969422 CS 是 她  一直 一直 一直 keep on 骂 我 她 说 你 这样 你 不 为 你 自己 的 outlook 你 也 要 为 为 你 自己 的 健康 这样 咯
+UI13FAZ_0102 970084 981705 CS 所以 我 就 (呃) 那 时候 我 也 是 没有 运动 我 做工 的 时候 一天 都 没有 运动 回来 放工 回来 我 就 买 了 k. f. c. 就在 家里 吃 吃 完 看 戏 睡觉
+UI13FAZ_0102 981705 984111 EN 
+UI13FAZ_0102 984111 987456 ZH 因为 那 时候 打包 很 方便 嘛 好 方便 啦
+UI13FAZ_0102 987456 988349 EN oh
+UI13FAZ_0102 988349 991921 ZH 又 又 回去 回家 了 又 懒惰 会 出去 对 吗
+UI13FAZ_0102 991921 993219 EN ah
+UI13FAZ_0102 993219 996630 ZH 其实 (呃) 然后 那 时候 也
+UI13FAZ_0102 996630 1005366 CS (呃) 也 没有 说 有 有 去 找 啦 找 那些 什么 yoga class ah aerobic class ah then 又 是 想 噢 如果 我
+UI13FAZ_0102 1005366 1013163 ZH 我 去 的 话 他 好像 是 八十 块 一个 月 (呃) 五次 还是 八次 这样
+UI13FAZ_0102 1013163 1017059 ZH 我 就 想 我 买 了 那个 我 会 不会 去
+UI13FAZ_0102 1017059 1019413 EN 
+UI13FAZ_0102 1019413 1023832 CS 你 知道 因为 你 要 你 要 keep fit hor 你 要 运动 哦 你 是
+UI13FAZ_0102 1023832 1036476 CS (呃) 怎样 讲 你 要 一直 keep on 的 你 不能 说 啊 你 一个 星期 去 两 三次 你 就 会 很 很 懒 了 很 懒散 了 你 就 不会 keep on 一直 做 一直 做 这样
+UI13FAZ_0102 1036476 1039376 CS (呃) then 我 就 (呃) 不要 了
+UI13FAZ_0102 1039376 1047331 CS 我 有 去 问 啦 我 有 问 很多 间 了 我 有 去 问 b. j. 那个 两 b. j. 有 两 间 我 我 问 了 两次
+UI13FAZ_0102 1047331 1054115 CS then 我 有 去 tekun tekun 那个 宿舍 旁边 那个 叫 什么 fitness concept
+UI13FAZ_0102 1054115 1061756 ZH 啊 对 啊 那个 我 也 是 有 去 问 那个 比较 便宜 但是 也 是 贵 也 是 也 是 一笔 钱 那边 啦
+UI13FAZ_0102 1061756 1064555 CS then 我 就 (呃) 不要 了
+UI13FAZ_0102 1064555 1070122 ZH 懒惰 去了  其实 在 (呃)
+UI13FAZ_0102 1070122 1078076 ZH 那 时候 (呃) 我 我 我 除了 我 姐姐 哦 连 我 姐姐 的 朋友 不是 很 不是 很 时常 见 那种 哦
+UI13FAZ_0102 1078076 1087524 ZH 他 一 见到 我 就 说 咦 做 么 做 么 这样 其实 他 跟 我 姐姐 讲 啦 他 没有 直接 跟 我 讲 啦 他 说 做 么 这样 肥 了 的 你 妹妹
+UI13FAZ_0102 1087524 1090109 ZH （ppl)
+UI13FAZ_0102 1090109 1096975 ZH 对 因为 我 我 三个 姐姐 都 是 很 很 瘦 的 (呃) 只 有 我 我 比较 肥 咯
+UI13FAZ_0102 1098264 1102539 CS then after that mm (呃) 要 keep 了 咯
+UI13FAZ_0102 1102539 1111819 CS 回到 来 这里 因为 我 keep 我 吃 的 东西 比较 健康 了 没有 吃 什么 fast food 了
+UI13FAZ_0102 1111819 1114573 CS then after that 我 就 去 做 gym
+UI13FAZ_0102 1114573 1115660 EN mm
+UI13FAZ_0102 1115660 1122338 CS 我 差不多 每天 都 去 做 gym 那时 候 啦 因为 u. s. m. gym 不用 钱
+UI13FAZ_0102 1122338 1124426 EN 
+UI13FAZ_0102 1124426 1128676 CS 我 那 时候 我 有 我 有 try 过 我 跟 我 朋友 去 打 badminton
+UI13FAZ_0102 1128676 1136594 CS (呃) 要 booking lah but okay lah still okay 因为 u. s. m. 有 六个 court mah still okay still can book
+UI13FAZ_0102 1136594 1142086 CS but hor 我 的 朋友 哦 他 跟 我 第一 次 去 我 book 了 一个 一个 小时
+UI13FAZ_0102 1142086 1150575 CS then 他 half an hour hor 他 就 顶 不 顺 了 then 他 回去 哦 他 他 还 vomit 他 呕
+UI13FAZ_0102 1150575 1160187 CS 他 顶 不 顺  then 我 就 哎呀 then 不能 不能 参 他们 去 了 我 就 (呃) 自己 去 咯 因为 做 gym 的 话 是 一个 人 mah
+UI13FAZ_0102 1160187 1166023 CS 比较 flexible 一点 我 几多 点 都 可以 then 我 又 不用 不用 booking 又 不用 钱
+UI13FAZ_0102 1166023 1171531 CS 因为 打 badminton book court hor 你 也 是 要 钱 的 这样 咯
+UI13FAZ_0102 1175113 1181887 CS 啊 会 那个 好像 bicycle 这样 的 坐 在 那边 踏 然后 还有 一个
+UI13FAZ_0102 1181887 1188245 CS 他们 说 好像 sky list sky link 还是 什么 好像 手 手 和 脚 都 有 动 的
+UI13FAZ_0102 1188245 1192360 CS 我 不懂 那个 那个 machine 叫 什么 名字 啦

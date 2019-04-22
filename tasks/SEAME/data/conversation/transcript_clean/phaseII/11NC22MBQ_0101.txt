@@ -1,0 +1,424 @@
+11NC22MBQ_0101 4258 8033 CS (er) 今天 早上 你 有 go where hah where did you go this morning
+11NC22MBQ_0101 12122 14197 CS 你 不清楚 where you go this morning
+11NC22MBQ_0101 17186 18915 CS 你 到 学校 what time
+11NC22MBQ_0101 25110 26900 CS 十二点 半 twelve thirty
+11NC22MBQ_0101 29139 31840 EN what what (er) i reach school
+11NC22MBQ_0101 31840 34430 CS around 十一点 半
+11NC22MBQ_0101 36499 41100 CS ah 对 where did you go ah en
+11NC22MBQ_0101 41100 43400 CS 你 到 学校 之后 where did you go
+11NC22MBQ_0101 49080 50842 CS caroling caroling 你 做 什么
+11NC22MBQ_0101 53510 58180 CS 是 啊 我 有 在 caroling* 可是 i want you to tell me what what what we were doing
+11NC22MBQ_0101 61230 64725 EN 
+11NC22MBQ_0101 83780 85530 CS 不要 同一 个 时间 okay
+11NC22MBQ_0101 87978 89645 CS okay 可以 可以
+11NC22MBQ_0101 96376 98610 EN uh so it starts at one
+11NC22MBQ_0101 100498 101379 EN oh okay
+11NC22MBQ_0101 103108 103989 EN okay okay
+11NC22MBQ_0101 105939 106757 EN okay
+11NC22MBQ_0101 114715 115978 EN oh okay
+11NC22MBQ_0101 117514 118322 EN okay okay
+11NC22MBQ_0101 120188 121194 EN okay
+11NC22MBQ_0101 128084 128865 EN ok
+11NC22MBQ_0101 130285 131421 CS okay 可以
+11NC22MBQ_0101 134028 134783 EN okay
+11NC22MBQ_0101 139249 140099 EN okay
+11NC22MBQ_0101 147570 148940 CS 我的 favourite food la
+11NC22MBQ_0101 149725 152630 CS 我的 food (er) 我 喜欢 banana
+11NC22MBQ_0101 155355 160324 ZH (er) 因为甜 啊 我 喜欢 啊 而且 我 喜欢 水果 奇怪 对 吗
+11NC22MBQ_0101 162086 165577 CS you don't know what 复杂* are you are you kidding me
+11NC22MBQ_0101 169572 173033 EN okay okay so what are fruits
+11NC22MBQ_0101 177110 181030 CS okay 除了 除了 水果 以外 我 还 喜欢 (er) 我 喜欢 吃 鸡 啊
+11NC22MBQ_0101 182343 183286 EN chicken
+11NC22MBQ_0101 191905 196834 CS (er) sea food chicken sea food chick~ 有 有 有 这 回事 吗
+11NC22MBQ_0101 200691 204833 EN really you can really do that i never tried that before but (er)
+11NC22MBQ_0101 210863 214801 CS (er) 那个 okay 我 我 没有 尝试 过 啦
+11NC22MBQ_0101 214801 216631 CS herbal chicken 我 就有 尝试 过
+11NC22MBQ_0101 217887 219020 EN i like herbal chicken
+11NC22MBQ_0101 221630 226505 ZH (er) 我 除了 我 不 太清楚 咧 因为 我 我 不是 煮饭 的 人
+11NC22MBQ_0101 228802 229833 ZH 就是
+11NC22MBQ_0101 230437 233491 CS 什么 什么 都 喜欢 啊 any any kind i also like
+11NC22MBQ_0101 234809 238772 EN yeah steamed chicken fried chicken roasted chicken
+11NC22MBQ_0101 239622 242359 EN any kind of chicken chicken you find on a shit i also like
+11NC22MBQ_0101 247014 257901 EN (em) let's not talk about chicken we have found on a shit (er) it skating* into some place where we don't want to go so let's talk about (em) (er) let's talk about
+11NC22MBQ_0101 257901 260571 CS hair colour what kind of hair colour 你 喜欢
+11NC22MBQ_0101 264376 266202 ZH 金色 为什么 你 的 是 黑 呢
+11NC22MBQ_0101 271448 275358 CS really 你有钱 驾车 没 钱 (er) 染 头发
+11NC22MBQ_0101 276802 281551 ZH 不是 你 的 车 叫 你 爸 给 你 钱 (er) 染头发 啦
+11NC22MBQ_0101 287370 288447 EN why
+11NC22MBQ_0101 296492 298128 ZH angmo 什么是 angmo
+11NC22MBQ_0101 302689 306432 EN you just said you like brown and now you are talking about red hair people
+11NC22MBQ_0101 312659 319009 EN <unk> right okay so (er) what kind have you been watching t. v. shows lately
+11NC22MBQ_0101 322970 326146 ZH (er) 好像 连续剧 啊
+11NC22MBQ_0101 328988 331838 CS hong-kong drama 哪 一种 我 没有 看 啦 所以 我 问 你
+11NC22MBQ_0101 340738 344708 CS 我 不知道 那个 那个 title 可是 你 喜欢 看
+11NC22MBQ_0101 345837 346372 EN wah
+11NC22MBQ_0101 346907 351688 ZH 你是 追 的 还是 还是 说 你 有空的 时候 坐 下来 电视机 前面 看
+11NC22MBQ_0101 357381 370283 ZH oh 这样子 啊 蛮 精彩 的 嘛 因为 我 我 自己 不看 电视机 我 什么 东西 是 要 看的 就是 在 电脑 上面 看 所以 我 没有 什么 追 电视机 上面 的 东西
+11NC22MBQ_0101 373958 377669 ZH 是 啊 是 啊 是 啊 我 我 很 我 很 喜欢 看 电影 啊
+11NC22MBQ_0101 380123 392485 CS 我是 我 什么 都看 啊 i watch anything (er) basically (er) any kind of movies and drama the only genre that we don't watch i don't really watch so much is (er) horror 怕人的 我 不是 很 喜欢
+11NC22MBQ_0101 393020 393487 EN er
+11NC22MBQ_0101 397046 398901 ZH 对 啊 我 不是 很喜欢 这些
+11NC22MBQ_0101 403368 410917 CS 有 有 些人 是 喜欢 这种 的 啊 可是 不~ (er) 我 不会 啊 i don't i don't really like this kind of movie
+11NC22MBQ_0101 412489 413055 EN yeah
+11NC22MBQ_0101 414755 421297 EN r. a. oh i love r. a. it is like you know my favorite (er) i watch r. a. every day
+11NC22MBQ_0101 426364 438328 CS 从小 啊 不可以 不可以 讲 从小 因为我 我 现在 还小 啊 所以 (em) 这个 比喻 不是 很 很好 啊 (er) i've watched since
+11NC22MBQ_0101 438328 441278 EN maybe when i was fifteen watching porn every day
+11NC22MBQ_0101 447803 458818 EN (er) yeah yeah illegal i do a lot of illegal things i i traffic in drugs i (em) i anything really i am i am a plain i 
+11NC22MBQ_0101 458818 462658 CS i do all sorts of things that you know 见不得 光 的 事 全部 都 做 过
+11NC22MBQ_0101 467428 469188 CS yeah yeah 有 啊 有 啊
+11NC22MBQ_0101 473826 475588 ZH (er) 对 啊 对 啊
+11NC22MBQ_0101 478670 483168 ZH 我 还有 做 什么 东西 啊 (er) 我 我 喜欢 唱歌 啊
+11NC22MBQ_0101 487509 491158 ZH 在 这里 这里 不好 吧 这里 不 不适当
+11NC22MBQ_0101 495184 499108 CS (er) 有 啊 我 有 去 啊 i i i i went for caroling and i
+11NC22MBQ_0101 499108 512424 EN i think i think musicals are great and i do enjoy caroling especially since it is christmas time and everyone likes um you know christmas carols so i joined it
+11NC22MBQ_0101 514626 515120 EN that's right
+11NC22MBQ_0101 519009 536636 EN (em) madly* so like the madly* madly* i i i like madly like you know who drove the <unk> reindeer and (er) a lot of the other ones like white christmas yeah (er) jingle bells yeah
+11NC22MBQ_0101 540021 544268 CS not 没有 啦 我 没有 我 没有 这个 本事 你有吗
+11NC22MBQ_0101 545337 548137 ZH 你没 没有 这个 本事 喜欢 听 而已
+11NC22MBQ_0101 549017 549426 EN (em)
+11NC22MBQ_0101 550055 554868 ZH 所以 你 你 你 最近 最近 有 做 什么 事 啊 精彩的 东西
+11NC22MBQ_0101 557258 557667 EN (em)
+11NC22MBQ_0101 558296 559849 CS 谈 一点 咯 australia
+11NC22MBQ_0101 563625 565373 ZH (er) 有 啊 有 啊
+11NC22MBQ_0101 568520 570124 ZH 你 去 看 他 干嘛
+11NC22MBQ_0101 571854 573363 ZH 帮 他 做 做 什么 事
+11NC22MBQ_0101 576289 577622 ZH 搬家 你
+11NC22MBQ_0101 584246 584875 EN (em)
+11NC22MBQ_0101 589657 596988 CS 是 他在 (er) 他在 (er) 他在 australia 是 读书 还是 做工 还是 什么
+11NC22MBQ_0101 606391 611152 ZH (em) 所以 你 你 一个 一年 是 几次 去 看 他 呢
+11NC22MBQ_0101 618407 625024 EN three times wah that is a lot of times for someone to visit her boy friend oversea especially when both are studying
+11NC22MBQ_0101 629038 631995 ZH 哦 你 不是 说 你 没有 钱 吗 为什么 有钱 去
+11NC22MBQ_0101 634958 641608 CS 别人 sponsor 的 车 是 别人 买 的 机票 是 别人 sponsor 的 then 什么 东西 是 你 自己 出 钱 的 呢
+11NC22MBQ_0101 644137 646244 CS 你 自己 pump petrol 那 那 你
+11NC22MBQ_0101 646905 649678 CS 是吗 你 pump petrol 的 钱 是 哪里 来 的
+11NC22MBQ_0101 651277 653699 ZH 你 自己 的 钱 是 哪里 赚来 的
+11NC22MBQ_0101 654170 655271 ZH 哦 你做工
+11NC22MBQ_0101 656624 659341 ZH 哦 你 你 你 喜欢 做工 你 去 哪里 做工 呢
+11NC22MBQ_0101 663136 666218 EN small office where is this small office
+11NC22MBQ_0101 668514 669930 EN what kind of work do you do
+11NC22MBQ_0101 675717 680636 EN basic administrating and accounting stuff sounds incredibly boring
+11NC22MBQ_0101 683706 686034 EN oh me me what why do you say that
+11NC22MBQ_0101 694024 704028 ZH 哦 那 那个 啊 (er) 其实 不会 很精彩 啦 我 觉得 做 做 一会儿 就 开始 闷了 就是 我 我 本来 是 要 做
+11NC22MBQ_0101 704028 710358 CS i wanted to do it for six months and in the end i i 我 两个 月 后 就 停止 了
+11NC22MBQ_0101 711041 712174 ZH 三个月 后
+11NC22MBQ_0101 716105 718181 EN (er) i am looking for something
+11NC22MBQ_0101 718684 734360 EN (er) i am so looking to do finance but i i don't know what exactly (er) probably if i can or <unk> go over to the buy* side* (er) instead of working at a bank but for now i guess as a undergraduate your exposure to the buy* side* is
+11NC22MBQ_0101 735010 739740 ZH (er) 很少 所以 我 就 可能 需要 去 银行 做工 啊
+11NC22MBQ_0101 747088 750611 ZH 其实 银行 有 很多 东西 可以 做 啊 不只 是 算钱 而已 啊
+11NC22MBQ_0101 751808 758488 CS 你 可以 你 可以 (er) 银行 很多 啊 你 譬如 说 the the investment banks they will have to
+11NC22MBQ_0101 758488 761898 EN (er) it is not it is not your normal commercial bank
+11NC22MBQ_0101 761898 769708 CS so you are not keeping (er) money for 普通人 好像 你 这样 子 你 放 钱 在 银行 里面
+11NC22MBQ_0101 769708 772808 ZH 不是 这些 这些 不是 普通 的 银行
+11NC22MBQ_0101 772808 775188 CS 就是 他们 做 比较 特别 的 jobs
+11NC22MBQ_0101 775188 791514 EN so when they take money and they (er) they don't they don't keep your money for you they raise money in the capital market and (em) they give advisory services to different businesses who want to you know merge and acquire other companies
+11NC22MBQ_0101 795717 817999 CS (er) 那些 这些 investment bank 有 有 好几个 啊 出名 的 是 goldman-sachs (em) j. p. morgan morgan-stanley credit suisse deutch-bank (em) (er) 比较 小 一间 小间的 可是 还是 很 出名 是 (er) rothschild (er) lazard these are the investment banks that are popular
+11NC22MBQ_0101 825473 827778 ZH 我 其实 (er)
+11NC22MBQ_0101 827778 829018 CS investment banking 他们
+11NC22MBQ_0101 829018 834061 ZH (er) 收 很多 不一样 (er) <unk> 来自 不一样 (em)
+11NC22MBQ_0101 835920 863290 CS 对 啊 他们 他们 different education backgrounds they take people from a lot of different education backgrounds and (er) it is not really related to what you studied anyway because (er) for example if you are in business school and you study finance so you can have a lot of exposure to finance but (er) it is probably not as in depth or 你在 这个 银行 你 开始 做工 的 时候 可以 学到 东西 所以 (er) 他们 其实 真的 很多 地方 的 人 都拿
+11NC22MBQ_0101 863290 865740 CS 好像 我 有些 朋友 是 study liberal art
+11NC22MBQ_0101 865740 873548 CS 他们 也是 进 (er) 这些 银行 做工 因为 他们 需要 a lot of different kind of people to work yup
+11NC22MBQ_0101 878568 886000 ZH (em) 其实 你 要做 这行 你需要 有 本身 有 这个 兴趣 啦
+11NC22MBQ_0101 886000 888800 CS 你 要有 这个 兴趣 而且 you must love money
+11NC22MBQ_0101 888800 894296 EN so it is it is too different (er) things you need to possess yeah
+11NC22MBQ_0101 894296 909010 CS 而且 这些 工作 是 很辛苦 的 虽然 很多 钱 可是(em) it is really really hard work because i mean it is not uncommon for you to put in (er) 一个 星期 一百 个 小时 的 的 工作 时间 好像你
+11NC22MBQ_0101 909010 914081 CS twenty four seven 都是 要 准备 去做工 这样子 是 蛮 辛苦的 我觉得
+11NC22MBQ_0101 926348 929230 ZH (er) 其实 我
+11NC22MBQ_0101 929230 933260 CS 就是 就是 这点 i don't feel very comfortable
+11NC22MBQ_0101 933260 939659 CS pursuing this this particular line because i i think it is it is a bit too much sacrifice 太多 牺牲了
+11NC22MBQ_0101 940542 963420 CS um 因为 我 好像 你 一个 星期 你 做 一百个 小时 的 工 你 就是 没有 时间 在 外面 做 其他的 东西 你 要 有 一个 家庭 也是 很难 的 事 so yeah basically i think (um) that that is why i i said if it is possible i would like to go to the buy side instead of (er) joining the investment banks that (er) have to work this crazy hours because
+11NC22MBQ_0101 963420 967030 CS from my friends who are in the private equity 他们 不 需要
+11NC22MBQ_0101 967030 970676 ZH 做 这样 长 长时间 的 工作 啊 对
+11NC22MBQ_0101 978139 997354 CS i think in business school (em) maybe not in singapore actually singapore is starting to become like this but (em) at most people try and use the investment bank as a stepping stone to (er) lever themselves into the buy side because it is (er) 就是 就是 普通 的 这个 过程 啊
+11NC22MBQ_0101 1000717 1003815 CS (er) big four 你是说 accounting 吗
+11NC22MBQ_0101 1005423 1012930 CS (er) 我 没有 我 对 这行 没有 兴趣 因为 我 是 一个 很喜欢 (er) i need things to be exciting 我 喜欢 东西
+11NC22MBQ_0101 1012930 1021705 CS 很刺激 (er) 然后 (er) 很多钱 我 喜欢 钱 所以 (er) big four 就是 不行 啊 我觉得
+11NC22MBQ_0101 1023029 1038088 CS 对 啊 工作 又 又 boring 钱又少 而且 你 升 的 升级 的 这个 (er) chances opportunities 很少 很多 人 做了 好像 几个 几个月 了 就 就放弃了
+11NC22MBQ_0101 1051712 1057402 CS its not exciting actually 如果 你 有 空 的话 你 去 读 一 本 书 叫 monkey business
+11NC22MBQ_0101 1058253 1079820 CS yeah 这 这本书 真的 很精彩 他 里面 就是 两个 两个 人 他们 以前 做过 (er) investment banking associate they worked at (er) this this bank called g. d. l. j. which is now defunct and at this bank what they they were just investment banking (er) analyst and associate and 他们 就是 在 书 里面
+11NC22MBQ_0101 1079820 1092147 ZH 写 他们 这两年 这四年 来 (er) 做 这些 工 的 过程 啦 就是 你 其实你 这 本 书 很好笑 所以你 你 有空的话 应该 去 读一下
+11NC22MBQ_0101 1092744 1113202 CS 他们 就是 说 the job is actually not very interesting i mean it is just they claim that you hardly use your brain (er) you just read it it just sounds like you have to be willing to put in that kind of hours that kind of time that kind of energy then it is yeah which is a game why i i i hope not to have to do something like that
+11NC22MBQ_0101 1117178 1118009 EN insurance
+11NC22MBQ_0101 1124600 1134426 CS (er) 其实 我 对 这 方面 没有 什么 (em) exposure 因为 我 (er) 现在 是 (er) 我 我 我 不是读 actuarial science 的 所以我
+11NC22MBQ_0101 1136810 1138270 CS 对 啊 是 啊 okay
+11NC22MBQ_0101 1138270 1157328 CS (em) i made a mistake sorry (er) insurance insurance company hire actuarial science yes but (er) insurance agent they probably looking more at the sale side 卖 sales side so actually i think (em) it might be interesting but 我 就是 没有 什么 exposure towards it for now
+11NC22MBQ_0101 1158107 1158653 EN ya
+11NC22MBQ_0101 1164319 1183940 CS (er) yeah i i mean an investment bank has a lot of (er) divisions right you are looking at different skill sets and different departments to (er) to work in so investment bank traditionally there are two main (er) front office 的 工作 你 可以 做
+11NC22MBQ_0101 1183940 1195770 CS so the first (er) the first one is typical investment banking la so global banking (en) 你做 的 工作 就是 你 (er) 需要 create pitch books
+11NC22MBQ_0101 1195770 1202913 CS when you pitch to companies (er) that would be interested in in raising money in the capital 市场上
+11NC22MBQ_0101 1204030 1206419 EN and when you do this (em) you
+11NC22MBQ_0101 1207510 1213658 EN the company that award you the business they will give you a cut out of this much* this business that they they they give to you
+11NC22MBQ_0101 1214890 1218430 CS 就是 like for example 如果 那个 company
+11NC22MBQ_0101 1218430 1231661 EN raises one billion dollars in the stock market it is like raises one billion dollars worth of equity then you will get a rate you will get a percentage of that that that that those fees they raised or underwriting fees yeah
+11NC22MBQ_0101 1239357 1244976 EN something like that yes the whole entire investment banking industries is based on commissions
+11NC22MBQ_0101 1246378 1257233 EN yeah so the other that that is investment banking of course there is merger and accession which is also done by the global banking guys (um) and then there is the trading sales and trading side
+11NC22MBQ_0101 1258433 1270586 CS (er) in the banks there are also very the forefront of the bank and typically for banks like goldman-sachs 这些 就是 他们 (er) 他们 赚钱 的 一个 大部分
+11NC22MBQ_0101 1271292 1279019 CS 不止 是 那个 global banking 他们 也是 做 这些 sales and trading 因为 他们 自己在 市场 上 自己 (er) take on positions
+11NC22MBQ_0101 1279524 1307341 CS and they will (um) you know they make money out of it yeah so i i can go into that road that road (er) the hours would 听说 我朋友 说是 比较 ah more humane less less insane compared to global banking and it is (er) it sounds very interesting also and it gives you a very good background in in about the financial market also because (er) yeah you can use that knowledge to push yourself to whatever you want to do in the future
+11NC22MBQ_0101 1309018 1309901 EN yea it is
+11NC22MBQ_0101 1311927 1317484 EN okay so enough about job let's talk about or how about let's talk about you what about you what you interested in doing yea
+11NC22MBQ_0101 1321120 1322366 EN speech therapist
+11NC22MBQ_0101 1324054 1327300 EN okay this this got nothing to do with what we are doing right now
+11NC22MBQ_0101 1388419 1392804 EN but (er) don't you think that accounting doesn't give you a lot of money in the first place as well
+11NC22MBQ_0101 1405434 1422214 EN but don't you think that these skills that you are learning in school you can pick them on anyway i mean accounting is just the main the main important thing about accounting is being able to read financial statements and being able to interpret financial statements and apply them to (er) companies that that you are analyzing right
+11NC22MBQ_0101 1433095 1433695 EN right
+11NC22MBQ_0101 1449435 1452499 ZH 卖 掉 车 啊 去 读书 国外 去 读书
+11NC22MBQ_0101 1454810 1457407 ZH 你 不要 整天 搭 飞机 去
+11NC22MBQ_0101 1460108 1461302 ZH 三三次
+11NC22MBQ_0101 1463406 1470859 CS 哦 哦 so 你 是 你 男朋友 (er) 啊 哇 我 我这样 这样就不同了这样子 我觉得
+11NC22MBQ_0101 1471819 1474499 ZH 不错 不错 你 这个 男朋友 是 蛮 照顾 你的 嘛
+11NC22MBQ_0101 1476733 1477731 ZH 额
+11NC22MBQ_0101 1478836 1480914 ZH 我是 啊 我 是 我 是 认识 你男朋友 啊
+11NC22MBQ_0101 1482212 1485095 CS (er) 我 是 secondary school 的 时候 认识
+11NC22MBQ_0101 1486211 1488523 ZH ah 好像是 一 还是 二 啊
+11NC22MBQ_0101 1489198 1489431 ZH 啊
+11NC22MBQ_0101 1490626 1491666 ZH 是 同班 吗
+11NC22MBQ_0101 1496651 1497534 ZH 同班 啊
+11NC22MBQ_0101 1499408 1502473 ZH 不认得 我 不可能 吧
+11NC22MBQ_0101 1505797 1516259 ZH (er) 其实 我的 这个 名字 你 不应该 在 这里 讲 出来 可是 (um) 反正 每个人 都会 听的 (er)  每个人 都 认识 我
+11NC22MBQ_0101 1516259 1518189 CS 总 有 一天 one day i will be famous so
+11NC22MBQ_0101 1518189 1519747 EN i i guess it is okay
+11NC22MBQ_0101 1521642 1525417 EN (er) no you you don't have to be a prime minister to be famous
+11NC22MBQ_0101 1532160 1543222 EN oh yeah oh i am sorry my my chinese is really poor so (em) moving on we are talking about (er) yeah we are talking about your boyfriend not knowing me
+11NC22MBQ_0101 1544689 1548979 CS so 你 你 这个 男朋友 你 跟 他 来往 多久 了
+11NC22MBQ_0101 1551408 1552420 ZH 很久 了
+11NC22MBQ_0101 1555666 1559717 ZH 四年 了 四年 是 一个 蛮长 的 时期 吧 你 今年 几岁
+11NC22MBQ_0101 1562314 1564547 ZH 哇 就是 问你 一下 问 爽的 不可以 吗
+11NC22MBQ_0101 1568027 1572733 EN twenty years old wah that's kind of watch r. a. movies yet can you
+11NC22MBQ_0101 1577407 1578885 EN illegally so do you
+11NC22MBQ_0101 1580056 1581822 EN you you don't why not
+11NC22MBQ_0101 1583198 1587163 EN you know the guy i see does your boyfriend watch (er) r. movies
+11NC22MBQ_0101 1588262 1603405 EN he doesn't really (er) well keep keep keep keep thinking that way you know (um) i am sure he doesn't right okay so (er) moving on let's talking about (er) i don't know what you want to talk about
+11NC22MBQ_0101 1608133 1613333 CS 好吃 的 地方 啊 就 喜欢 吃的 我 很 懒惰 i don't really go and look for places to eat
+11NC22MBQ_0101 1618188 1626030 EN (er) that is (er) you are talking about those normal ones like you can find in the orchard-road or as in those boutique
+11NC22MBQ_0101 1628757 1629462 EN cheap
+11NC22MBQ_0101 1641319 1645511 EN well actually i think the the the changi changi hawker centre is pretty good
+11NC22MBQ_0101 1648057 1658785 EN yeah as in the the changi-airport area that <unk> there and then there is a actually there are some hawker centre near n. t. u. they are pretty good that's all right now
+11NC22MBQ_0101 1660677 1670083 EN yeah ah-lian-bee-hoon (er) well i said i don't really like ah ah-lian ah-lian-bee-hoon i prefer like (er) extension actually why is it called extension i don't know
+11NC22MBQ_0101 1670940 1673018 EN yeah extension has pretty good hokkien-mee
+11NC22MBQ_0101 1674056 1678159 CS yeah i like the hokkien-mee there there's like the 干 幼 面 also it is pretty good
+11NC22MBQ_0101 1680367 1689897 CS (er) yeah it 那个 你 喜欢 很多人 来吃 你才 才 才会 才会 爽 吼 对 你 一个人 一个人 买 有一 未必 有 一点 太贵 了 吧
+11NC22MBQ_0101 1698264 1709029 EN (er) no actually i don't really that much on food well actually i do spend a lot on food (er) the last time i ate expensive stuff where is it where
+11NC22MBQ_0101 1709029 1713809 CS wasn't that expensive but (er) for the place i was eating at (er) 是 有点 贵 啦
+11NC22MBQ_0101 1713809 1716199 ZH 我在 sushi-tei 吃
+11NC22MBQ_0101 1716199 1718779 CS 就是 这个 raffles-city 的 sushi-tei
+11NC22MBQ_0101 1720135 1725302 ZH 有 有 就是 三楼 三楼 他们 那 最 出名的 shshi-tei 啊
+11NC22MBQ_0101 1726030 1728315 ZH 就是 最好吃 的 sushi-tei
+11NC22MBQ_0101 1730834 1733919 ZH 我 觉得 不一样 咧 他 你 看 他的 那个
+11NC22MBQ_0101 1733919 1736429 CS chefs 都是 不一样 的 哪里 可能 全部 一样 的
+11NC22MBQ_0101 1736429 1741642 CS 虽然 他们的 点的菜 是一样 啦 叫 一样 的 东西 可是 it doesn't taste the same
+11NC22MBQ_0101 1746264 1747277 EN they do rotate
+11NC22MBQ_0101 1750731 1762334 EN i don't know but i guess if it is a flagship (er) flagship location then it will be more (er) as in they will have to adhere to higher standard of
+11NC22MBQ_0101 1762993 1776206 EN food so anyway i went there and i (er) i went there with someone so we look like we spend i think seventy five dollars on food yeah that is kind of expensive dinner for me
+11NC22MBQ_0101 1781327 1792135 EN (er) you you have some problems with your mathematics is it seventy five dollars is (er) at least (er) seventy five fifty per person so
+11NC22MBQ_0101 1793459 1794783 EN no i was just kidding
+11NC22MBQ_0101 1797276 1805439 CS (er) anyway so yeah we spent a lot i paid i ended up paying like forty five because i 我 吃 得 比较 多
+11NC22MBQ_0101 1811123 1812913 EN (er) nice buffet
+11NC22MBQ_0101 1815174 1823640 ZH 这 这 我 不 太清楚 咧 有 什么 要 介绍 的 你 好像 要 要 跟我 介绍 一些 蛮好吃 的 地方
+11NC22MBQ_0101 1824315 1825509 ZH 那 怎么 你 一直 问 啊
+11NC22MBQ_0101 1828963 1830158 ZH 带你 朋友 去吃 啊
+11NC22MBQ_0101 1831556 1833076 ZH 你 一个人 要 花 多少钱
+11NC22MBQ_0101 1848801 1850548 EN must he know actually i
+11NC22MBQ_0101 1851950 1861605 EN from this conversation right i actually think i should go and visit more places to eat i haven't been really spending my holiday eating yet so i probably should do more fat*
+11NC22MBQ_0101 1863849 1865070 CS 你 啊 maybe i don't
+11NC22MBQ_0101 1865797 1868497 EN yeah you you don't have any places to introduce to me
+11NC22MBQ_0101 1872289 1875289 EN (er) not in particular unless you have something in mind
+11NC22MBQ_0101 1887459 1889459 EN <ppo> haji-lane
+11NC22MBQ_0101 1895588 1900484 EN it is not no i haven't i haven't i haven't how much is the food there and is it how why is it so good
+11NC22MBQ_0101 1906577 1908421 ZH 为什么 你 觉得 这样 还吃 呢 那个地方
+11NC22MBQ_0101 1917718 1921068 EN mutton curry so you like mutton curry a lot
+11NC22MBQ_0101 1927378 1928384 EN sotong
+11NC22MBQ_0101 1935070 1938238 EN i see (er) so what other kind of food do you like
+11NC22MBQ_0101 1940679 1942964 EN right so what kind of food do you not like
+11NC22MBQ_0101 1946107 1948830 EN celery why do you like vegetables
+11NC22MBQ_0101 1956032 1956785 EN pumpkin
+11NC22MBQ_0101 1957619 1958889 CS 为什么 你 不 喜欢 pumpkin
+11NC22MBQ_0101 1961563 1965328 CS 你 喜欢 那个 (er) soup 吗 汤 pumpkin soup
+11NC22MBQ_0101 1966809 1968017 ZH 我 很 喜欢 啊
+11NC22MBQ_0101 1971275 1979330 ZH 是吗 你 你 你 应该 把 你 口 换去 另外 一个人 的 因为 我 觉得 你 这个 口 有问题 啊
+11NC22MBQ_0101 1980349 1983519 CS 你 口味 有 问题 啊 哪里 可能 不 喜欢 pumpkin soup 这么 样 喝
+11NC22MBQ_0101 1988497 1990471 EN as so in yam case you are weird
+11NC22MBQ_0101 1992912 1994159 EN yeah do you like durian
+11NC22MBQ_0101 1995587 1996861 EN you hate durian
+11NC22MBQ_0101 1998252 1999742 EN get out of here right now
+11NC22MBQ_0101 2001071 2002214 EN you can't why not
+11NC22MBQ_0101 2003071 2004551 CS we can't 为什么 呢
+11NC22MBQ_0101 2006135 2008316 ZH 我们 在 讲话 讲话 可以 在 外面 谈 啊
+11NC22MBQ_0101 2010342 2014783 ZH 是吗 (er) 你 知道 我们 在 这里 讲话 是 赚 多少钱 吗
+11NC22MBQ_0101 2020158 2020924 EN you don't know
+11NC22MBQ_0101 2022875 2025222 EN producer that's that's a good idea
+11NC22MBQ_0101 2027219 2029019 CS 你 just 不想 跟 我 讲 是 吗
+11NC22MBQ_0101 2032654 2033459 EN kill you
+11NC22MBQ_0101 2034680 2039769 ZH 因为 你 觉得 太少了 是 吗 我们 我们 应该 去 问 他们 可以 给 我们 多一点 钱 是 吗
+11NC22MBQ_0101 2043301 2044389 ZH 试一试 啊
+11NC22MBQ_0101 2048287 2059355 CS okay so other than eating oh (er) haji-lane you (er) my friend was just telling me yesterday 他们 那边 有 卖 蛮 好看 的 这些 衣服 啊
+11NC22MBQ_0101 2061121 2068349 CS 我去过 啊 我 是 那边 在 我 是 去 那边 (er) 看 鞋子 因为 我 when i was in
+11NC22MBQ_0101 2068349 2075026 EN when i was in my first year in university i had a project (er) about this brand of shoes called vivobarefoot
+11NC22MBQ_0101 2076655 2101165 CS 没有听过 啊 it it is basically about a shoes that are not they don't impose a particulate contour to fit your foot so what what it does is it (er) it is very it is very very flexible (er) and it helps to (er) make your feet walk like 普通 (er) 没有穿鞋子一样
+11NC22MBQ_0101 2109947 2119779 CS 不 不 不一样 啦 他 只是 很薄 就对了 很薄 所以 你 走路 的 时候 他 不会 有 因为 你 like lookay at your shoe now
+11NC22MBQ_0101 2119779 2145549 CS basically there is it is very hard right there is a bottom sole which is 很硬 so (er) what this what this shoe does is its bottom sole is actually very flexible so like 你 在 石头 上面 走路 的 话 你 可以 其实 你可以 感觉到那个 the contour of the stones on beneath your feet so (er) it actually helps you walk in the normal way that you will walk (er) when 你 没有 穿鞋 子
+11NC22MBQ_0101 2146422 2164677 CS 其实 因为 你 你 穿 鞋子 就是 你 脚底 是 扁的 对 吗 那个板 (er) 有些 人 就是 some researchers say that its not healthy for your feet to walk like that so (er) when you have shoes that very thin basically all they do is just protect you from cuts that's all
+11NC22MBQ_0101 2169819 2172190 ZH 你 是 说 容易 破 是 吗 (er)
+11NC22MBQ_0101 2175642 2180339 CS 是 啊 是 啊 可是 这些 就是 比较 好 bet~ better quality
+11NC22MBQ_0101 2180339 2196158 EN (er) so so that actually it is rubber it usually doesn't really wear off until like (er) you you there is a hole then there are something probably the grip starts to loosen a little bit but other than that it should be still usable for a long time to come
+11NC22MBQ_0101 2200173 2208363 ZH 我 上次 看 因为 他们 是 第一次 带来 新加坡 所以 是 有点 贵 (er) 一双 鞋子 差不多 一百 八十 两百块 吧
+11NC22MBQ_0101 2210314 2236106 CS (er) actually for guy's shoes they are all around the same price but (em) it it's it's it's it's sort of just a different kind of (er) way of thinking usually because a lot of the shoes companies out there what they they think <unk> will give you more support if your feet your knee you have problems right (em) 你 脚 有问题 的话 还是 你 你 你 长大 你老了 开始 脚 开始 有 问题
+11NC22MBQ_0101 2236600 2258565 CS (er) they just think that adding support is going to help you walk better to relieve the pain but actually (er) it's been sort of like scientifically proven from studies (er) 有 显示说 你 其实 你 没有 穿鞋子 走路 是 最 对你 脚 最 有利的 因为 (er) 你你
+11NC22MBQ_0101 2259067 2288179 EN just take take a lookay at the way you walk without shoes you don't ram your heels into the ground correct yeah but where as if you wear sheos you don't care about ramming your heels into the ground because your heels don't feel pain which you don't you don't care about the impact cause it is something hard that alarming on so actually the more support the harder soles are the more (er) shocks you walk with that means the more you dig your heels the more impact you hit the ground with so
+11NC22MBQ_0101 2288179 2291069 CS 那是最 对 你 的这些 knee lah 这些 没有
+11NC22MBQ_0101 2291069 2295511 ZH 没有 好处 啦 就是 你 会 开始痛 啊
+11NC22MBQ_0101 2300991 2303819 CS it is a pair of shoes 是一双鞋子
+11NC22MBQ_0101 2303819 2308099 CS (em) 他们 有 不同 的 款式 啊 可是 他们的 central design is all the same
+11NC22MBQ_0101 2308099 2323266 CS it's it's about shoes with (er) it is called the vivobarefoot (er) for a reason 他们是有一个原因 的 叫 这个鞋子 vivobarefoot because it actually helps you try and emulate the way you walk without (er) shoes
+11NC22MBQ_0101 2327769 2328600 ZH 他们
+11NC22MBQ_0101 2329483 2330756 ZH 女人 也是 有 啊
+11NC22MBQ_0101 2331976 2332729 ZH 是有 啊
+11NC22MBQ_0101 2335248 2341579 CS 我 没有 买 因为我 那时 候 是 做 一个 marketing project for 我的 for 我的 学校
+11NC22MBQ_0101 2347614 2351294 CS 关掉 啊 (er) what what do you mean as in so what
+11NC22MBQ_0101 2366049 2369159 CS (er) 其实 they have one at the new shopping centre ion
+11NC22MBQ_0101 2370550 2383849 EN yeah so (er) they are trying to move into singapore although it is kind of (er) it is kind of difficult because this whole bare foot culture is not really (er) in singapore yet you if you look at a lot of the the more
+11NC22MBQ_0101 2383849 2409674 EN (em) backward culture around the world(er) it is like those tribal culture some of them actually like the mayan they don't they don't (er) they don't (er) wait sorry not the mayan what am i talking about (er) it is anoth~ some of them they don't they don't wear shoes like basically they walk around bare foot and they have very healthy feet very strong calf they don't have knee problems because they don't dig in their heels whenever they walk
+11NC22MBQ_0101 2410292 2420609 CS and 就是 他们 的 脚 就是 很健康 就 对了 so it is actually shoes shoes have actually been (er) especially heels heels are the worst
+11NC22MBQ_0101 2420609 2423279 CS for 女人 (er) heels 就是
+11NC22MBQ_0101 2423279 2427351 ZH 最 损害 你的 脚 损伤 你的 脚
+11NC22MBQ_0101 2429119 2429612 ZH 对
+11NC22MBQ_0101 2431749 2433999 CS 好像 like 有些 有些
+11NC22MBQ_0101 2433999 2449319 CS 女孩子 就是 (er) like in europe in in countries where you have your all four seasons you have your summer and your winter the two extremes so the people in when they are in sum~ during summer they wear heels all the times because 就是
+11NC22MBQ_0101 2449319 2451819 CS fashion mah 就是 每次 都是 穿 heels
+11NC22MBQ_0101 2451819 2457899 CS (er) 走来走去 他们 过了 这个 summer right 就是他们
+11NC22MBQ_0101 2457899 2463089 CS 进去 winter when they go into winter 他们 就是 每天 穿 boots then boots 没有 高 根 的
+11NC22MBQ_0101 2464290 2480799 CS 有 高跟的 啊 可是 他们 就是 (er) 可能 留在 家里 久一点 还是 (er) 没有 没有 出去 那么多 啦 没有 穿 heels 这些 东西 所以 (em) 他们 高跟 也是 没有 那么高 啦 我觉得 因为 boots 你
+11NC22MBQ_0101 2480799 2482839 CS 啊 你的 sole 可以 thick 一点 吗
+11NC22MBQ_0101 2482839 2510989 CS 厚一点 不需要 you all need such a high heels for example so like because of the heels that you wear during the summer your tendon and your heels shorten so what that that does is is it (er) it shortens the muscle there so when you stop wearing heels it actually starts to hurt because you are stretching the tendon it has to stretch in order to get back to your level horizontal foot placement
+11NC22MBQ_0101 2532759 2533637 EN why is it that
+11NC22MBQ_0101 2544029 2544860 EN heels
+11NC22MBQ_0101 2549475 2553679 CS well i am not too sure about that 这个 我 不 太清楚 but 你 可以
+11NC22MBQ_0101 2554759 2560729 CS 我 觉得 最 对 你 对 你 脚 最 有利 的 就是 you imagine yourself walking without
+11NC22MBQ_0101 2561745 2573729 EN without shoes the way you walk bare foot and there is no allegation right when you walk without shoes that is the way that gof (er) intended for you to walk
+11NC22MBQ_0101 2573729 2577928 CS 所以 我 觉得 那是 最 natural 最 最 对你 脚 有利的
+11NC22MBQ_0101 2578499 2579075 ZH 走法
+11NC22MBQ_0101 2582447 2587309 ZH 衣服 不是 衣服 衣服 是 只是
+11NC22MBQ_0101 2587309 2589699 CS 盖 身体 just to cover your body what doesn't
+11NC22MBQ_0101 2591185 2616600 EN covering your body but you are walking on them it is like (er) if you want to compare it then you have to say like you know wearing something that would actually alter your the the the way your body moves like you wear clothes and you don't wear clothes your body moves the same what because it doesn't really affect the way you move and there is no like additional faults against any other parts of the body unless you wear really really heavy clothes
+11NC22MBQ_0101 2617561 2624209 EN i mean i don't think it is i don't think it is healthy for people to grow up (er) maybe carrying like twenty k. g. at the back all the time also what
+11NC22MBQ_0101 2624964 2632153 EN yeah so it is that is not healthy but like (er) wearing clothes doesn't have that same kind of effects
+11NC22MBQ_0101 2634292 2634774 EN ya
+11NC22MBQ_0101 2637175 2648919 CS yeah i am i was actually thinking of going to buy some clothes there but 虽然 你 已经说 了 那里 好像 很多 店 都关了 可能 我 不想 去了
+11NC22MBQ_0101 2664810 2665356 EN yeah
+11NC22MBQ_0101 2670705 2674428 CS victorial-jomo 他 是 卖 哪一种 衣服
+11NC22MBQ_0101 2676029 2677249 CS normal 是 什么
+11NC22MBQ_0101 2697042 2703650 EN you know i was a i was sided all the way until the point where you are talking about mandarin collars because i think those are just positively ugly
+11NC22MBQ_0101 2706500 2715635 EN i know what you are talking about yeah not the not the <unk> but the <unk> like normal normal shirts do they sell polo t-shirts
+11NC22MBQ_0101 2720575 2721432 EN <unk>
+11NC22MBQ_0101 2722548 2727565 EN well (er) unfortunately i i may not be <unk> as you are
+11NC22MBQ_0101 2728890 2730526 EN (er) yeah i do like money
+11NC22MBQ_0101 2731461 2735434 CS and 我 就是 喜欢 收 我 自己 钱 在 口袋 里面
+11NC22MBQ_0101 2738888 2742969 ZH 为何 要花 好像三百块钱 买一件 衣服 啊 我 觉得 神经病 吧
+11NC22MBQ_0101 2746522 2753046 EN i can spend a lot i've spent on a lot on other things things that i can keep things that wont wear off after seventy washes
+11NC22MBQ_0101 2758733 2765270 EN well as you mean i have to buy a few and (er) that would actually cost a lot more then i would like
+11NC22MBQ_0101 2777721 2789209 EN shirts and shoes (er) shirts i get i mean you talking about work shirts i guess so but if you were talking about polo t-shirt i don't think they make that much of a difference
+11NC22MBQ_0101 2789209 2792990 CS i mean okay 你 可以 可以 买 没有 那么 贵 的 吗
+11NC22MBQ_0101 2792990 2799575 ZH 为 为 为什么 要买 贵 不 等于 好 嘛 又 便宜 也有好 的 嘛 就是要去找
+11NC22MBQ_0101 2802448 2803876 ZH (er) 没有
+11NC22MBQ_0101 2806213 2808961 CS 对 啊 why you ask*
+11NC22MBQ_0101 2814605 2818111 EN (er) they can and yes but i i i don't
+11NC22MBQ_0101 2820210 2824521 EN right so do you know any place that sells good polo t-shirts
+11NC22MBQ_0101 2828188 2831875 ZH (er) 五十块 到 一百块 吧
+11NC22MBQ_0101 2836108 2836893 EN online
+11NC22MBQ_0101 2845067 2845769 EN well this
+11NC22MBQ_0101 2849046 2861379 CS i can try but (er) it is not i i don't (er) really like all these online boutique shop because (em) you you never know if you can actually fit into 他们 卖 的 衣服
+11NC22MBQ_0101 2881511 2923184 CS 没有 我 我 本身 是 喜欢 去 那些 店 尝试 like 因为 我 觉得 你 男孩子 买衣服 就是 要 合身 啊 它 不管 它 衣服 怎样 好看 如果 不合身 的 话 就 it won't look good so i think it is it is i rather this (er) spend some time outside in the shop to shop itself and try it out i mean some some some designs really lookay good on paper but it just don't looks so good (er) on you 所以 我 觉得 我 我 我 反正 我 都 没有 买那么多衣服 嘛 所以 (er) 我 我 就 比较 (er) prefer to go outside and buy rather than buy online
+11NC22MBQ_0101 2928088 2935220 EN well lazy is sitting in front of a computer buying clothes lazy is not going out to try the clothes before you buy them
+11NC22MBQ_0101 2940973 2942376 EN it is just really hard
+11NC22MBQ_0101 2943337 2949407 EN no it is not i mean like for girls it is easy because you there are a lot of free sizing
+11NC22MBQ_0101 2964675 2984415 CS i guess so but i mean no lah even okay just take a look i just just think about it this way even in shops i i can't really find a lot <unk> that fit me so i i i don't see how ordering online without being able to try the clothes (er) 会 you know make it a better situation
+11NC22MBQ_0101 2986792 2991259 EN yeah but i will take your con~ your advice into consideration
+11NC22MBQ_0101 2997621 2998306 ZH 是 吗
+11NC22MBQ_0101 3003853 3005490 EN what so great about their clothes
+11NC22MBQ_0101 3010740 3011649 EN affordable
+11NC22MBQ_0101 3013727 3015804 EN how much do their clothes cost
+11NC22MBQ_0101 3031442 3036316 CS i see sounds interesting well that's that's really really 便宜
+11NC22MBQ_0101 3038869 3041336 EN so how often do you buy new clothes
+11NC22MBQ_0101 3049620 3050093 EN right
+11NC22MBQ_0101 3075289 3077299 CS 蛮 蛮 exciting 的 嘛 哈
+11NC22MBQ_0101 3077799 3080109 CS 你 你一个 一个 holiday 就是 赚 多少钱
+11NC22MBQ_0101 3096893 3100243 EN sixty a day is not a lot right is it
+11NC22MBQ_0101 3102611 3106554 EN oh right but that sounds like <unk> an hour right
+11NC22MBQ_0101 3108882 3110220 EN that means you work ten hours
+11NC22MBQ_0101 3113959 3117309 EN oops have you just realized that you are getting <unk>
+11NC22MBQ_0101 3118971 3119986 EN eight hours a day
+11NC22MBQ_0101 3120919 3126963 EN  it is about seven dollars an hour that is not a lot right why don't you get a better paying job
+11NC22MBQ_0101 3136709 3140297 CS what kind of work do you do 在 那个 公司 你 做 什么 什么
+11NC22MBQ_0101 3141102 3141621 EN job
+11NC22MBQ_0101 3143854 3147320 EN as in what kind of what what is basic admin elaborate
+11NC22MBQ_0101 3152481 3153156 EN right
+11NC22MBQ_0101 3154662 3160271 EN <unk> does that means it is a it is a french company or <unk> company or
+11NC22MBQ_0101 3161752 3163699 EN right i see
+11NC22MBQ_0101 3164894 3168244 EN i see so what does your boyfriend's company do
+11NC22MBQ_0101 3172217 3173018 ZH 哪 一种
+11NC22MBQ_0101 3186374 3188323 EN normal oh i see
+11NC22MBQ_0101 3195474 3196547 EN (er)
+11NC22MBQ_0101 3198222 3199053 EN ok
+11NC22MBQ_0101 3200273 3207544 EN i see oh i just realized that we only have like (er) six minutes and thirty seconds left to talk
+11NC22MBQ_0101 3215231 3218911 ZH (er) 这 我 清楚 要 等 他 进来 的 时候 再 再 再 看 吧
+11NC22MBQ_0101 3221360 3224023 ZH 不 太清楚 啊 等 一个 小时 过了 再讲 啊
+11NC22MBQ_0101 3225624 3228506 EN yeah so how often you stay at home
+11NC22MBQ_0101 3230090 3230895 EN near
+11NC22MBQ_0101 3239335 3242997 EN right so do you do you hang out with your parents often
+11NC22MBQ_0101 3248091 3249107 EN i see
+11NC22MBQ_0101 3251078 3251987 EN (er)
+11NC22MBQ_0101 3254012 3255726 ZH 不是 啊 我 有 两个 弟弟
+11NC22MBQ_0101 3256531 3257128 ZH 对 啊
+11NC22MBQ_0101 3263101 3265906 ZH (er) 有 偶尔 会 啦 有时候 会 啦
+11NC22MBQ_0101 3267568 3274397 ZH (er) 弟弟 啊 一个是 (er) 一个 十九 一个十七
+11NC22MBQ_0101 3279207 3280012 ZH 不会 啊
+11NC22MBQ_0101 3282167 3283881 CS 为什 为什么 你 讲 很 close 呢
+11NC22MBQ_0101 3286764 3296510 ZH 三年 两年 不会啦 其实 (er) 我 弟弟 两个 在 叛逆 时期 啊  所以
+11NC22MBQ_0101 3299389 3302584 ZH 没有 啊 他 只是 他 可能 迟一点 开始 吧
+11NC22MBQ_0101 3303919 3305709 CS 这 我 不 太 清楚 i am not very sure but
+11NC22MBQ_0101 3305709 3309699 EN yeah it is it is it is a bit complicated at home right now
+11NC22MBQ_0101 3312685 3315282 EN yeah so what should we talk about next
+11NC22MBQ_0101 3317775 3322586 EN oh christmas party (er) probably about seven thirty a. s.
+11NC22MBQ_0101 3326350 3327291 EN yeah we do
+11NC22MBQ_0101 3328791 3330089 EN can i ask who do you get
+11NC22MBQ_0101 3334385 3335075 EN why
+11NC22MBQ_0101 3340477 3343723 EN oh why do you have to choose the date for the road trip
+11NC22MBQ_0101 3354676 3365585 EN i see well i think i think you need to (er) you need to tell your family to let you come to my christmas party because it is going to be fun
+11NC22MBQ_0101 3368844 3369805 EN nothing
+11NC22MBQ_0101 3371208 3371831 EN ya
+11NC22MBQ_0101 3373337 3376323 EN how many times do you have in your life to sit down and do nothing
+11NC22MBQ_0101 3380819 3382739 CS the rest 啊 有 啊 有 来 啊
+11NC22MBQ_0101 3382739 3390811 CS (er) 应该 是 二十多 个 人 来 吧 可能 三十 我 不 太清楚 所以 你 要 问 violet 还是
+11NC22MBQ_0101 3391598 3393078 ZH 还是 是 送 他们
+11NC22MBQ_0101 3394818 3400687 CS 我 知道 but 不是 r. s. p. 不是跟我 r. s. v. p. 是 跟 对
+11NC22MBQ_0101 3405647 3408504 ZH (er) 应该 是 十块钱 吧 对
+11NC22MBQ_0101 3411957 3414025 ZH 没有 啊 我 一个 都 没有
+11NC22MBQ_0101 3416429 3420799 CS 就是 gathering just everyone come together
+11NC22MBQ_0101 3422012 3426115 CS (er) 你 要 的话 可以 啊 可以 特别 帮你 arrange
+11NC22MBQ_0101 3429849 3431269 CS 喝酒 eat turkey 啊
+11NC22MBQ_0101 3432166 3435572 ZH 这个 我 我 不 太清楚 啊
+11NC22MBQ_0101 3437282 3443909 CS 是 啊 but 我 比较 靠近 那个 时间 时时 那个 date 的 时候 我 再来 (er) plan lah
+11NC22MBQ_0101 3443909 3447309 CS 反正 我 都 不是 我 我 i'm not the one organizing
+11NC22MBQ_0101 3448246 3456088 EN yes i am just providing my house i should lease it i should like call a rental for one night but
+11NC22MBQ_0101 3457802 3462811 EN yeah exactly i should get commission then lets you guys mess up my place
+11NC22MBQ_0101 3467441 3468947 EN yea that is really small money
+11NC22MBQ_0101 3471559 3474679 CS yeah yeah its its 蛮 容易 的 我 觉得
+11NC22MBQ_0101 3478634 3481179 ZH 想 要 谈 什么 呢 只剩 三分钟 了
+11NC22MBQ_0101 3483334 3485022 EN you you don't know what you want to talk about
+11NC22MBQ_0101 3486118 3492693 EN yea so so why not (er) where did you where where are you going for a road trip what you gonna to do
+11NC22MBQ_0101 3499336 3501206 EN good foods i like good foods
+11NC22MBQ_0101 3502192 3504581 EN right so yeah i do
+11NC22MBQ_0101 3505906 3515498 EN i mean that was <unk> random i have no (um) what i mean to me good food is good food doesn't have to you know
+11NC22MBQ_0101 3516818 3518791 EN be anything specific in
+11NC22MBQ_0101 3523803 3524530 EN ya
+11NC22MBQ_0101 3526088 3526738 EN no
+11NC22MBQ_0101 3531334 3532269 EN really
+11NC22MBQ_0101 3533806 3535094 EN that's clementi
+11NC22MBQ_0101 3538792 3539675 EN right
+11NC22MBQ_0101 3549751 3554010 EN it is is it that i mean (er) is that considered pricy i don't know
+11NC22MBQ_0101 3557905 3559220 EN well
+11NC22MBQ_0101 3563961 3564714 EN ok
+11NC22MBQ_0101 3565908 3569544 CS you know what 等一下 我们 回去 的 时候 你 载 我 去买 啊
+11NC22MBQ_0101 3572089 3574359 ZH 不顺路 吗 真的 吗
+11NC22MBQ_0101 3574359 3575619 CS 蛮 靠近 what clementi
+11NC22MBQ_0101 3580788 3582977 ZH 可以 啊 <unk>

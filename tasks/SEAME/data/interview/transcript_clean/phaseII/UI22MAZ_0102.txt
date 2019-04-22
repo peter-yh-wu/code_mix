@@ -1,0 +1,168 @@
+UI22MAZ_0102 0 1981 ZH 么 地方 咯 啊
+UI22MAZ_0102 4745 9654 CS 啊 可以 跑 real-time 的 但是 有 些 algorithm 就 必须 要 take 一点 时间 因为
+UI22MAZ_0102 10218 23134 CS 都是 p. h. 那种 research work ah 他们 不 不 consider on 那个 performance ah 所以 有 时候 你 两百 张 image 它 敢 敢 会 上 到 整 整个 小时 这样 来 跑
+UI22MAZ_0102 25833 27399 EN ah hah hah
+UI22MAZ_0102 27823 29120 EN ah hah
+UI22MAZ_0102 33634 40614 CS ah real time 的话 so far 我们 real time 的 东西 是 on 那些 collaboration 的 东西 啦
+UI22MAZ_0102 40771 47542 CS then 好像 你 好像 刚才 我 讲 的 那个 mat matter lesion 的 话 呢 也是 要 take 一些 时间 才能 跑 完 啦
+UI22MAZ_0102 47853 54378 CS 因为 dataset loh depend loh 假如 是 一两 set ima 一两 张 image 的 话 没有 问题 啦 现场 就 可以 跑 完 了
+UI22MAZ_0102 59100 62725 CS 嗯 假如 是 很 robust 的 话 大概
+UI22MAZ_0102 64101 75700 CS for 我 的 dataset 上次 我 玩 我 test 过 的 是 因为 algorithm 还 没有 optimize 所以 它 的 时间 就 take 了 很 长 大概 用 了 二十 张 image 大概 用 了 三十 分钟
+UI22MAZ_0102 76600 77361 EN hah
+UI22MAZ_0102 78828 91634 CS 啊 哈 没有 啦 其实 test 的 话 还好 因为 我们 只是 要 看 那些 segment 的 东西 对不对 罢了 嘛 因为 平常 是 我们 的 话 都是 两三 次 两 啊 大概 是 一百 张 image 进来 的
+UI22MAZ_0102 92060 101270 CS 所以 你 每 一张 image 跑 完 的 话 大概 假如 optimise 了的 是 algorithm 的 话 大概 要 也是 要 差不多 二 三十 分钟 啦
+UI22MAZ_0102 104124 114547 CS 医院 啊 有 一个 我们 是 从 bertam 的 医 那边 有 一个 什么 medical image 不知道 一个 centre of excellence lah 我 也 不是 很 清楚 那边 的 area
+UI22MAZ_0102 114714 119863 CS then 他们 send 那些 data 给我们 是 patient data lah 所以不能公开出来咯
+UI22MAZ_0102 121372 122726 ZH 啊
+UI22MAZ_0102 124164 129546 CS 啊 不需 so far 是 不 需要 因为 我们 是 collaborate 跟 他 under 一个 project
+UI22MAZ_0102 129919 134734 CS 所以 我们 他 需要 我们 做 一个 algorithm 是 for 这个 case 的
+UI22MAZ_0102 135083 137129 CS 所以 我们 就 get 那些 data from 他们
+UI22MAZ_0102 137312 142565 CS so far 有 running 的 是 有 三个 三种 不同 的 project lah
+UI22MAZ_0102 142897 152998 CS 啊 就 一个 是 brain 的 咯 另外 一个 是 我 刚才 讲 的 osteosarcoma loh 小孩子 的 另外 一个 我 就 不大 清楚 是 什么 了 好像 是 那个 啊 abdomen ah
+UI22MAZ_0102 153701 156099 CS 那个 image 我 就 没有 拿 到 
+UI22MAZ_0102 162392 170121 CS 啊 没有 是 under project 的 是 这 三个 其它 software 是 其它 的 地方 还有 那些 啊 那个
+UI22MAZ_0102 170488 178739 CS algorithm 是 ready 只是 没有一 些 没有 一些 image 可以 test ah 因为 他们 没有 un 没有 没有 join 进去一个 project 里面 test
+UI22MAZ_0102 179176 183661 CS 所以 他们 只是 可能 会 拿 我们 的 data 来 test 咯 啊
+UI22MAZ_0102 187133 191159 CS developer for software wise 哩 现在 有
+UI22MAZ_0102 192634 196271 CS 五个 加埋 三个 intern 八个
+UI22MAZ_0102 197063 199039 CS then 剩下 的 都是 research
+UI22MAZ_0102 201774 205349 ZH 啊 有 唉 没有 付 我 都 不 需要 做 这样 多 啦 哈
+UI22MAZ_0102 208518 212851 CS 不值 得 啊 你 多 做 mood 这样 啦
+UI22MAZ_0102 213962 218644 ZH 嗯 有时候 会 会 问 自己 为什么 会 做 到 这样 辛苦 
+UI22MAZ_0102 220732 225585 CS 嗯 so 已经 做 了 差不多 半年 了 我 唉 没有 九 个 月 了 一月 做 到 现在
+UI22MAZ_0102 227448 241037 CS 有 啦 就是 在 中间 中间 有 已经 有 有 一张有 deve 啊 有 send 了 一些 一张 paper 去 conference lah 已经 accepted 的 啦 跟 doctor bong 一起 的
+UI22MAZ_0102 241439 245306 CS 啊 还 好 啊 有 一些 contribution 在 那边 有 做 了 一些 东西 出来
+UI22MAZ_0102 246180 264036 CS 就 test 了 蛮 多 的 algorithm 因为 之前 都 不知道 怎样 开始 then 就 因为 join 了 他们 就 被 逼开 始 做 一些 algorithm run double algorithm 所以 就 看 了 人家 的 end work 自己 玩 自己 develop 给 它 run then 再 add on 东西
+UI22MAZ_0102 272899 277642 CS 啊 不然 你 一直 看 paper 你 都 不知道 东西 跑 出来 是 什么 东西
+UI22MAZ_0102 290443 300878 CS 对 一个 很大 的 问题 嗯 而且 啊 matlab 又 跟 java 不同 是 因为 matlab 是 跑 matrix 的 它 performance 怎样 都 快 过 java 的
+UI22MAZ_0102 305678 309881 CS 啊 而且 你 在 matlab 里面 跑 for loop 的 话 就 没有 东西 了
+UI22MAZ_0102 310811 315468 CS 你要 会跑 那个 它的 排法 你要 会排 哈 matrix 啊
+UI22MAZ_0102 315946 318944 CS 那个 matrix 很 好用 只是 我 还是 不会
+UI22MAZ_0102 331661 339124 CS 啊 对咯 有时候 我们 有时 因为 matlab 都是 自己 学嘛 没有 那些 theoretical base ah
+UI22MAZ_0102 339391 350899 CS 所以 你 很 不知道 那些 到底 matrix 的 东西 我们 要 怎样 manipulate 它是 最 optimum 的 平常 我们 都会 想 就是 说 哦 因为 我们 有 programming 的 东西 的 话 我们 会 想着 哦 一个 一个 慢慢来
+UI22MAZ_0102 351690 356645 CS 啊 用 looping 的话 就 跟 你 不会 optimise 到 matlab 的 东西的
+UI22MAZ_0102 357107 358602 ZH 所以 就是 这样 咯
+UI22MAZ_0102 363426 364944 CS 是讲 algorithm
+UI22MAZ_0102 366332 368815 CS 我的 field 的啊 accuracy 啊
+UI22MAZ_0102 369012 372112 CS 上~ 上次 publish 的那个 paper
+UI22MAZ_0102 372736 379037 CS 它 accuracy 好像 是有 有 in increase lah 但是 我 忘记了 因为
+UI22MAZ_0102 379196 381576 ZH 写的 写的 那个 不是 我
+UI22MAZ_0102 384755 388700 ZH 嗯 不明白 嗯嗯
+UI22MAZ_0102 390538 391563 ZH 达到 多少
+UI22MAZ_0102 392400 393146 ZH 嗯
+UI22MAZ_0102 395531 400622 ZH 上次 是 八十 以前 我 没有 跑 之前 已经 有人 做到 八十二
+UI22MAZ_0102 400976 404151 ZH 我有 做到 好像 是 八十七 还是 八十五 这样 啦
+UI22MAZ_0102 404391 410569 CS 起不多 啦 就是 还有一 有得 improve lah 就是 result 是很 明显 就是
+UI22MAZ_0102 411584 413793 CS 我们 那时候 是 noise 的
+UI22MAZ_0102 414151 417734 CS 因为 我们 那时侯 我是 focus on noise removal noise
+UI22MAZ_0102 417875 426486 CS 所以 end up 的是 我把 所有 的 那些 一 specific noise ah 好像 salt and pepper noise 我能 完全 把它 清掉
+UI22MAZ_0102 427213 429744 CS 哈 then 其它的 noise 就 会有 问题
+UI22MAZ_0102 430091 438998 CS 就能 improve 在 一个 area 一个 地方 solving 一个 problem 但是 其它的 problem 还是 existing 不能 完全 cover 掉 那些 东西
+UI22MAZ_0102 439766 442582 CS 那是 for future work 才能 做到 才做咯
+UI22MAZ_0102 448570 453084 CS 应该 会 继续 啦 反正 已经 进来了 这个 area 而且 了解了
+UI22MAZ_0102 453366 458979 CS 只是 还 可能 可能 不会 同样的 不会 continue 同样的 algorithm ah 因为
+UI22MAZ_0102 459177 469782 CS 同样 algorithm 已经 很多 人 做了 因为 你 如果 要 stay 在 algorithm 里面 三年 同样的 algorithm 三年 还是 四年 的话 你 一下子 会 被 人家 overlap 过了
+UI22MAZ_0102 470913 475099 CS 啊 所以 可能 会 用 不同 的 方法 来 做 segmentation lah
+UI22MAZ_0102 475455 483074 CS 不 只 clustering 有 clustering 的 方法 then 可能 要加 一些 其它的 criteria 下去
+UI22MAZ_0102 483241 491928 CS maybe on texture-based 可能 还须 可能 须 可能 可以 hybrid 那些 刚才 之前 讲的 那个 hidden markov 的 东西 一起
+UI22MAZ_0102 492918 499774 CS 可以啊 可以 看看 一下 那些 其它的 area loh 不可~ 不可能 只是 做 一些 小小的 area 因为 p. h. d. 也是 require 很高哦
+UI22MAZ_0102 512355 518848 CS 哦 刚开始 会 很~ 很 头晕 因为 你 不知道 它的 mathematical 是 怎样 跑
+UI22MAZ_0102 519211 527832 CS 单单 你会 被 一开始 你 就 不是 一开始 是 每 一次 我 看到 新的 paper 就会 被 它的 mathematical 的 那个 terms 吓~ 吓坏 吓了
+UI22MAZ_0102 528182 533458 CS 就是 objective function 长到 很长 咯 一直 加 这个 加 这个 加 这个 到 最后
+UI22MAZ_0102 534276 545729 CS 现在 我 自己 有 自己的 看法 啦 就 每一次 看我 就 不看 它的 objective function 我就 直接 看 它的 calcul~ 那个 update function update 的 怎样 update 它的 function 不是 checking function
+UI22MAZ_0102 546068 552204 CS then 它的 idea 是怎样 then 自己去 test loh 可能 不 明白 就 写它 出来 咯
+UI22MAZ_0102 552811 556181 CS 写啊 写 写它的 run 它的 algorithm loh
+UI22MAZ_0102 556535 560180 CS 自己 写了 run 就会 知道了 到底 它是 什么 东西了
+UI22MAZ_0102 560400 563990 CS 可能 不是 medical image ah 自己 做的 一个 data
+UI22MAZ_0102 564305 568824 CS 就放 matrix 下去 给它 跑 then 你就 output matrix 自己 可以 看咯
+UI22MAZ_0102 569451 571796 ZH 就 大概 知道 它会 跑去 什么 地方了
+UI22MAZ_0102 576130 582301 CS 嗯 选择 image ah 也 不知道 啊 因为 之前 跟 image 好像 蛮 有缘的
+UI22MAZ_0102 582759 588231 CS 同样的 一张 image processing 我 已经 拿了 两次
+UI22MAZ_0102 588892 593716 CS undergrad 拿了一次 以为 上来 postgrad 会 不同的 哪里 知道 还是 一样 
+UI22MAZ_0102 594285 598465 CS then 但是 学了 不同的 东西 啊 有 不同的 理~ understanding 不同啦
+UI22MAZ_0102 600806 608219 CS 对 因为 我 以前 undergrad 的 时候 是 拿 a. i. 的 就 拿了 n. l. p. n. l. p. loh 跟 image processing loh
+UI22MAZ_0102 608582 612334 CS 过后 还有 image 嗯 什么了哈 knowledge management
+UI22MAZ_0102 612334 626559 CS 啊 过后 就 去 training 那些啦 training 的 时候 也是 在 image processing area 我在 factory 做 那些 啊 machine lear machine inspection 的 东西
+UI22MAZ_0102 626698 635949 CS 哪 也是 image 在 那边 学了 一些 basic 的 image morpholo 那些 calculation 的 东西 咯 只是 他 不给 我 动 他的 program lah 那个 时候 training 的 时候
+UI22MAZ_0102 636342 642516 CS 过后 回来 本来 final year project 的话 要 进去 image 的 只是 没有 那个 机会
+UI22MAZ_0102 642651 644936 CS miss 了 那个 机会 就 跟 朋友 做
+UI22MAZ_0102 645612 651025 CS 就有 offer 那个 title 但是 bid 慢了 因为 我们 是 用 bidding based 的
+UI22MAZ_0102 651393 658753 CS 就给 人家 bid 掉了 所以 就 没有 咯 不用紧 咯 就 而且 它是 只是 需要 一个人 then 我 那个 时候 我的 group 又 三个 人
+UI22MAZ_0102 659662 662526 CS 所以 就跟 朋友 做 其它的 program 咯
+UI22MAZ_0102 663081 668473 CS then after that 就做 毕业了 本来 要 直接
+UI22MAZ_0102 669621 679772 CS 不想 进 res mixed mode 的 因为 感觉 到 mixed mode 好像 毕业了 没有 东西 因为 你 很快 就 毕业了 人家 不会 讲 很 appreciate 你的 res 你的 master
+UI22MAZ_0102 680195 682139 CS then 就 本来 想进 research mode 的
+UI22MAZ_0102 682751 686699 CS 过后 算 算 一下 research mode 好像 不是 很 值得 这样 
+UI22MAZ_0102 687087 691112 ZH 因为 因为 你 可能 随时随地 拖到 你 三年 去
+UI22MAZ_0102 691951 701270 CS then 你 又在 那边 你 不一定 能 忍 顶得到 三年 这样 久 因为 你 可能 还要 有 其它的 consideration 要 想 一下
+UI22MAZ_0102 701486 710777 CS 而且 不一定 有 income 因为 之前 有 听过 你 research mode 的话 也 不一定 拿得到 那些 grant ah 那些 是 啊 financial support
+UI22MAZ_0102 710918 717893 CS 你 还要 自己 出钱 所以 觉得 mixed mode 的话 短 一点 虽然 是 贵了 一点 但是 会 比较 快 毕业
+UI22MAZ_0102 722533 732982 CS 啊哈对 还有 mini budget loh 那时候 刚好 mini budget 有讲 可以 support mixed mode 哇 高兴哦 快点 去 申请啊
+UI22MAZ_0102 733354 742149 CS 申请了 appeal apply 了 得了 我的 两边 都 一起 得 approve 了 哦 就 进来咯 本来 是 申请 mixed mode hold 着 先
+UI22MAZ_0102 742381 744700 CS 没有得 我就 进去 research mode
+UI22MAZ_0102 744989 748931 CS then 得了 mixed mode 那边 又 approve 了 啊 okay lah mixed mode lah
+UI22MAZ_0102 756694 758052 EN ah
+UI22MAZ_0102 775994 778920 ZH 啊 同 一个 时间 你跑 两边 两个 都 很好
+UI22MAZ_0102 796951 802295 CS 我 已经 我 first semester master 第一个 semester 也 就 遇到了
+UI22MAZ_0102 802979 814046 CS 那时候 是很~ 很 够力 要 上课 那时候 要 上课 又要 那时候 那个 钱 还 没有 来 那个 他讲 他 pay 我 他 那个 satu 啊 那个 mini budget 还 没有 到
+UI22MAZ_0102 814258 817828 ZH 那是 我用 我 自己的 储蓄 去 给的 三千多 块
+UI22MAZ_0102 818138 824855 CS then 那时候 就 没有 钱了 又~ 又要 上课 又要 生活费 那时候 我又 没有 住在 u. s. b. 里面了 还要 住 外面
+UI22MAZ_0102 825047 827906 ZH 又 每个 月 这样 两百 两百 多 租金 这样 给
+UI22MAZ_0102 828254 830858 ZH 哇 痛苦 啊 每天 都 吃 饼干 这样
+UI22MAZ_0102 831532 837897 CS 过后 到了 有 过后 我就 跟 我的 supervisor doctor mandava loh 讲
+UI22MAZ_0102 838089 846372 CS 有 一些 financial problem 了 可能 就 就 怎样 她就 问我 要不要 extend 多 一个 semester 才 毕业 就是 这个 semester 我讲
+UI22MAZ_0102 846623 851348 CS 如果 有 financial support 的话 我 可以 extend 但是 没有 financial support 我 一定 要 尽快 完
+UI22MAZ_0102 851698 855962 CS 不然 很 辛苦 then 她讲 会 support 我咯 我讲哦 这样 我就 可以 松 一口 气
+UI22MAZ_0102 857267 864230 CS 因为 我 原本 本来 plan 也是 一年的 then 过后 她讲 可以 她叫 我 extend so that 我的 东西 比较 concrete 一点
+UI22MAZ_0102 864584 868636 CS 那就 啊 okay 啦 你有 support 我就 可以 extend lah then 没有 support 我就 不能啦
+UI22MAZ_0102 869307 874264 CS 所以 我的 东西 全部 在 第一个 semester 做完了 咯 剩下 就是 research loh 现 到 现在
+UI22MAZ_0102 874523 887201 CS 了 之前 半年 都是 在搞 那些 啊 那些 research 的 东西啦 也 不是 完全 是 我的 东西 啦 只是 一些 那 就 relate 到 我的 area loh 所以 会 比较 好咯
+UI22MAZ_0102 903659 910285 CS 就是咯 啊哈 我 现在 还是 有 under p. t. p. t. n. 有 借到
+UI22MAZ_0102 913267 921684 CS 啊 他 直接 给我 两年 咯 所以 他 直接 给我 maximum period 所以 有没有 他都 给我 所以 就 暂时 hold 着
+UI22MAZ_0102 924018 928680 CS 啊有 所以 我 undergrad 的 p. t. p. t. n. 它 hold 着 没有 跟我 收钱
+UI22MAZ_0102 929023 934608 CS 利息 照跳啦 他就 叫 不 叫我 不用 还 then 就 借我 多 一笔
+UI22MAZ_0102 936038 943474 ZH 暂时 不用 还 两年 就 本来 是 十年 要 还完的嘛 他就 扣了 两年 就是 我 剩下 八年 还完
+UI22MAZ_0102 944955 950003 CS 啊 过后 还有 另外 一笔 就是 master 这 一笔 呢 是 五年 里面 要 还完
+UI22MAZ_0102 950509 954169 ZH 所以 两个 同时 间跑 有借
+UI22MAZ_0102 956008 961148 CS total 现在 已经 累积了 三十多 千 了 三十二千 呵呵呵
+UI22MAZ_0102 961753 963265 ZH 哈 咯买 一辆 车 了
+UI22MAZ_0102 967026 973763 CS 呃 因为 我 之前 training 的 时候 已经 面对 面对了 然后 问题 是 工作了 会 懒惰
+UI22MAZ_0102 974569 978136 CS 懒惰 study 你 会 没有 心 要 读书 你会 因为 有钱 嘛
+UI22MAZ_0102 978235 982049 ZH 你 读书了 你会 知道 没有 钱 而且 你 每天 做工 回来 你 就
+UI22MAZ_0102 982535 986973 CS 你 六点 过后 你 就 那个 时间 你 relax 了 你 不想 去 再 看书
+UI22MAZ_0102 987540 995525 CS 所以 你会 懒惰 而且 假如 而且 你 因为 我 自己 也 没有 那种 很好的 discipline 这样 每天 几点 要 读到 几点 所以
+UI22MAZ_0102 996374 1006474 ZH 还是 读了 书 先 辛苦 也是 那时候 反正 也是 读书 完 又再 读书 罢了嘛 你 没有 开始 做工 你 不会 觉得 赚钱 那种 享受的 你 不会 去 你 没有 去 想要 享受
+UI22MAZ_0102 1007124 1012958 ZH 所以 就 继续 这样 辛苦 的话 还能 接受 啦 不会 这样 感 心理 不 平衡 啦
+UI22MAZ_0102 1017419 1018847 ZH 哈
+UI22MAZ_0102 1022264 1027909 ZH 是哦 有 时候 看到 新的 东西 要买 哦 想 一下 哎呀 还 没有 钱 不 可以 乱来
+UI22MAZ_0102 1029403 1038622 CS 那个 income 那个 钱 每 那个 account 就 每天 在 那边 少着 而且 你的 东西 就 每天 在 用着 生活 还是 要过 啊 所以 会 比较 麻烦 啊 尤其 是
+UI22MAZ_0102 1039927 1045683 CS 有 commitment 过后 尤其 做工了的 时候 就 买车 啊 买了 车 就更 够力 啦 你就 不用 想 回来了
+UI22MAZ_0102 1046307 1050591 CS 尤其 假如 你是 没有 discipline 的人 啊 好像 你 不会 去找 side income 的啊
+UI22MAZ_0102 1050783 1056609 ZH 你又 每天 做 做完 工 回家 就是 躺在 家里 就是 跟 朋友 去 喝茶 什么 你 又有 车 的话
+UI22MAZ_0102 1056881 1061014 ZH 你 都不 不大 能 讲 放到 完 东西 回来 读书了
+UI22MAZ_0102 1061590 1064962 ZH 你 每个 月 要供 四百块 你 那个 已经 让你 很 头痛了
+UI22MAZ_0102 1068110 1074832 CS 我就 还好 是 没有 commitment 的 因为 我 不须 没有 呼 没有 交通 就 一个 摩哆 就 到处 乱跑 这样 罢了
+UI22MAZ_0102 1075230 1076393 ZH 就 还好
+UI22MAZ_0102 1084451 1090218 ZH 对 对 全部人 已经 哦 买 屋子了 买 车了 有的 一些 有 一些 更 够力 是 要 结婚了
+UI22MAZ_0102 1090690 1092251 ZH 你 还在 这边 读书 啊
+UI22MAZ_0102 1092663 1098425 CS income 还是 那种 样子 人家 一下子 就 跳 跳 跳了 每年 都会 跳的 我们 还在 这边 这个 样子
+UI22MAZ_0102 1098867 1107087 ZH 就 不平衡 有 时候 会啦 会 不平衡 啦 但是 要 想 一下 你 有时候 要给 自己 知道 为什么 我 还 呆在 这边咯
+UI22MAZ_0102 1107559 1110795 CS end up 做么 我还 困在 这 u. s. m. 里 还 不会 跑 出去
+UI22MAZ_0102 1111541 1116589 ZH 你 一定 有 一个 目标啊 就 每 一天 就有 时候 不 平衡的 时候 就想 那个 目标 为什么
+UI22MAZ_0102 1117641 1120496 ZH 就 自己 也会 平衡 一点啦 
+UI22MAZ_0102 1121131 1126454 ZH 是啦 有时候 有时候 很 pek-chek 啊 读到 很 sian 了 做么 我 还要 读书 全部 人 做工 赚钱 了 几爽
+UI22MAZ_0102 1127087 1129752 ZH 就想 一下 哦 我的 目的 为什么 我要 读
+UI22MAZ_0102 1133291 1137372 ZH 嗯是咯 不是 讲 人家 要去 玩 你就 可以 去玩 那种
+UI22MAZ_0102 1140678 1143139 CS relax wet  你都 不能
+UI22MAZ_0102 1146106 1146916 ZH 对
+UI22MAZ_0102 1150300 1151357 ZH 一个人
+UI22MAZ_0102 1155360 1157369 ZH 外国 出去 外面 读书
+UI22MAZ_0102 1158286 1159293 EN okay
+UI22MAZ_0102 1160224 1161246 EN ah okay
+UI22MAZ_0102 1161528 1162515 ZH 是 什么的
+UI22MAZ_0102 1171574 1172878 ZH 出去 外面 读书
+UI22MAZ_0102 1173884 1174730 ZH 哦
+UI22MAZ_0102 1175717 1182796 CS 好像 是 好像 他 support 你 出去 外面 读书 但是 你要 毕业了 你要 回来 做 跟 u. s. m. 做 几年 工 这样啦
+UI22MAZ_0102 1183295 1187283 CS contract lah oh 我有 听过 但是 我 不知道 怎样 申请
+UI22MAZ_0102 1193376 1194433 EN oh hor
+UI22MAZ_0102 1196760 1198698 ZH 这样 的话 就 啊哈

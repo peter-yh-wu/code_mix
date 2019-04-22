@@ -1,0 +1,901 @@
+NI27MBQ_0101 1181 1869 EN hello hello
+NI27MBQ_0101 2017 2746 ZH 哇 好 大声 哦
+NI27MBQ_0101 3566 4673 ZH 喂喂喂喂喂喂
+NI27MBQ_0101 18192 18758 EN hello hello
+NI27MBQ_0101 20291 20693 ZH 好怪
+NI27MBQ_0101 22197 23583 EN you can ask me different thing la please
+NI27MBQ_0101 23615 24513 ZH 这个 都 不好 讲的
+NI27MBQ_0101 25903 26190 ZH 对 咯
+NI27MBQ_0101 29982 32699 CS 哈 你要 你要 讲 中学 还是 secondary school 还是 primary school
+NI27MBQ_0101 34786 37904 CS 对 hor i mean as in ok la 我 primary school 我是 (呃)
+NI27MBQ_0101 37975 41417 CS 新华 primary 是 一个 很 cheena-cheena 的 sort of 的 school la but
+NI27MBQ_0101 41843 43528 CS okay lor 就 enjoy myself
+NI27MBQ_0101 43577 47372 CS there was prefect for think 四年 嘞
+NI27MBQ_0101 47680 49368 CS can imagine 我是 乖乖 boy 来的
+NI27MBQ_0101 49881 50543 EN then after that
+NI27MBQ_0101 50941 51695 EN join band lor
+NI27MBQ_0101 52031 52855 EN damn happening
+NI27MBQ_0101 53630 54663 EN then it's like ah
+NI27MBQ_0101 55527 57961 CS then 到了 secondary school 我去个 ah-beng school
+NI27MBQ_0101 58511 61343 CS 因为 我的 成绩 不是 很好 嘛 i mean 就去 serangoon sec
+NI27MBQ_0101 61716 63381 CS 有没有 kua-si-mi 
+NI27MBQ_0101 63381 65209 ZH 真的 真的 看不爽 就打人 咯
+NI27MBQ_0101 65648 67132 CS 真的 chao ah-beng 诶 我是 prefect ai
+NI27MBQ_0101 67836 70238 CS prefect 你 有没有 看过 prefect 打人你 有没有 看 prefect tuck out 的
+NI27MBQ_0101 71164 71636 ZH 就是我
+NI27MBQ_0101 72870 76173 CS 嗯 后来 就 year- sec three 了 嘛 想通了 嘛
+NI27MBQ_0101 76317 78141 CS take triple science one 怪 嘞 and then
+NI27MBQ_0101 78440 79867 CS 就想说 okay 要去 j. c.
+NI27MBQ_0101 80298 82216 CS then in the end first three month 进 meridian
+NI27MBQ_0101 83072 83938 CS yeah after that 就
+NI27MBQ_0101 85106 86999 CS (er) o-level result 拿 十九分 mah l. r.
+NI27MBQ_0101 87060 89540 CS 反正 啊 算了 不可以 都 不可以 进 then 进 poly lor
+NI27MBQ_0101 90233 93719 CS then 我 就去 republic poly ai but not bad 我是 dean lister
+NI27MBQ_0101 94511 95146 ZH 三年
+NI27MBQ_0101 95413 96782 EN dean list without fail
+NI27MBQ_0101 97302 99082 CS yaya-papaya 就 就来 这边 咯
+NI27MBQ_0101 99082 101169 ZH 我 不懂 我 不懂 手不懂 hor 很痒 嘞
+NI27MBQ_0101 101583 104522 CS n. u. s. n. t. u. send 过来 n. t. u. 先 send mah 每次 很 humble
+NI27MBQ_0101 104522 106405 CS  n. u. s. send 那种 鬼信 then it's like
+NI27MBQ_0101 106843 107286 EN what the hell
+NI27MBQ_0101 107703 109753 EN you know (erm) you are not you are you are
+NI27MBQ_0101 109753 115066 CS you are one of the most privilege slot la to come to n. u. s. oh like shit 我 才不要 啊 我 直接 click n. t. u. lor
+NI27MBQ_0101 115398 117771 CS click one oh 死 n. t. u. 在哪里 好像 在 jurong oh
+NI27MBQ_0101 117771 118603 CS  flip 一下
+NI27MBQ_0101 119005 124864 CS die ah 全部在 jurong ai 这样远 then some island ah then 我 is like ah 算了都进去
+NI27MBQ_0101 125418 127567 CS 进了 就 不用紧 咯 就 apply hall 对 吗
+NI27MBQ_0101 127960 132390 CS 我妹 就问 他 就问 我 啦 诶 要不要 一起 进 hall thirteen 因为 senior mah so
+NI27MBQ_0101 132803 136445 CS okay lor but 不要 我讲 我 不要 跟你 一起 住 我就 check 看 可以 住 什么 hall
+NI27MBQ_0101 137014 138430 CS then 那个 application 就进来 嘞
+NI27MBQ_0101 138786 141147 CS 就 起初 hall six 的 package 先进来 so 我讲
+NI27MBQ_0101 141716 142321 CS 不懂 什么 鬼 hall
+NI27MBQ_0101 142689 142944 ZH 妹讲
+NI27MBQ_0101 143267 145088 CS 这是 sports hall leh 你有 sports gene meh
+NI27MBQ_0101 145662 148114 CS 没有 嘞 你会 玩什么 我会 玩 我会 玩 tennis la then
+NI27MBQ_0101 148851 150190 CS 不会了 咯 就 that's it 了
+NI27MBQ_0101 150623 154878 CS 你 这样 sports hall 你 不用 住了 啦 你 可以 吃屎 already la 这样 yeah quite quite quite true ai
+NI27MBQ_0101 155239 156559 CS then 不用紧 咯 就 like
+NI27MBQ_0101 157345 160562 CS o. c. camp 玩 玩玩 诶 but thank god ah i mean although 我还蛮
+NI27MBQ_0101 161388 164160 CS secluded 因为 thirty five mah 又是那种 pulau-ubin block then
+NI27MBQ_0101 164687 169754 CS in the end senior 又不懂 跑去 哪里 就几个 senior jundin la welin okay edwin benny
+NI27MBQ_0101 170195 172217 CS 啊 就是 这样 camp 时 我 也没 什么 讲话 because
+NI27MBQ_0101 172733 173391 CS yeah 就
+NI27MBQ_0101 173917 177816 CS 就 比较 比较 我懂 他 每天 有那个 eager 出来 而已 啦 that's it you know
+NI27MBQ_0101 177816 178151 EN 
+NI27MBQ_0101 178151 178544 EN <unk>
+NI27MBQ_0101 178544 180855 CS yeah other than that 就没有 then 就是 只有 他们 咯
+NI27MBQ_0101 180952 182234 EN that's why when we
+NI27MBQ_0101 182923 185750 CS 真的 有一点 when we want to shift over thirty five (er) thrity three 的时候 是
+NI27MBQ_0101 186357 187278 CS 很 sad la because
+NI27MBQ_0101 187819 190652 CS but 你又看 每年 hor 很多 叛徒 你看 叛徒 叛徒 but then
+NI27MBQ_0101 190950 192660 CS it's like because 真的很 quiet
+NI27MBQ_0101 193095 194679 CS so then 我们 也不懂 你们
+NI27MBQ_0101 194996 197005 CS 你们 又 这样 远 then 又 很少 下来 so it's like
+NI27MBQ_0101 197334 197810 EN damn sad
+NI27MBQ_0101 198538 200547 CS yeah lor so 就 in the end 把它 shift 过来
+NI27MBQ_0101 201315 204628 CS but then okay la i mean so far 现在 还会 这样 加 还是 蛮 mings 啦 老实讲
+NI27MBQ_0101 204953 208545 CS because 又大 嘛 你懂 那个 煮面的 space oh my 天
+NI27MBQ_0101 208545 208855 EN 
+NI27MBQ_0101 208855 213082 CS it's one of the biggest ai like 煮面 就在 那边 煮 煮了 在 那边 吃 吃爽了 在 那边 坐
+NI27MBQ_0101 213082 214598 EN <unk>
+NI27MBQ_0101 214598 216195 EN ya lor but yeah la but
+NI27MBQ_0101 216195 217159 ZH 现在 很 sian 是 因为
+NI27MBQ_0101 217827 220818 CS i think when 你 step up position then 很多 东西
+NI27MBQ_0101 220818 223348 CS then people words will be flying around 你会 觉得 哇 很累 诶
+NI27MBQ_0101 223384 224933 CS 不懂 在做 什么 is it for your friends
+NI27MBQ_0101 225462 228074 EN is it just to realize people's dream or is it for your own self
+NI27MBQ_0101 228074 228821 ZH 你 真的 很乱
+NI27MBQ_0101 229289 229742 ZH 我 觉得
+NI27MBQ_0101 230583 230928 EN yeah lor
+NI27MBQ_0101 235836 236323 EN (erm)
+NI27MBQ_0101 236323 238402 CS elvin 是 很不高兴 i mean 老实讲 because
+NI27MBQ_0101 239161 243363 CS it's like 他觉得 他付出 很多 then 那天 明秀 what happen was that
+NI27MBQ_0101 243922 246275 CS 他就 直接去 confront 他 啦 i mean 就 like ei 你懂
+NI27MBQ_0101 246426 251127 CS 你做 一个 co~ co-director mah 你 就 support 我一下 kind of things la
+NI27MBQ_0101 252327 254910 CS co-director i mean 两个 co-director mah then
+NI27MBQ_0101 255534 257093 CS then she is like then 她
+NI27MBQ_0101 257227 258785 CS i mean elvin 就 有一点 很 offend 他 就讲
+NI27MBQ_0101 258962 261370 CS 你 有没有 想过 like 每次 出问题 的 时候 啊
+NI27MBQ_0101 261521 264710 CS i mean i agree la 因为 我 永祥 燕青 我们 都是 new mah so
+NI27MBQ_0101 265021 268391 CS 又 没有 去 hexis 的 performance 又 不是 hexis comm~ last year
+NI27MBQ_0101 268773 272693 CS 所以 我们 很多 东西 不会 so it's like alvin 很多 都会 帮 我们 da 的 感觉 啦
+NI27MBQ_0101 273004 279347 CS so it's 很多 background job but just that maybe 明秀 她很 involve in 那个 arts side 所以 她 会 觉得
+NI27MBQ_0101 279347 281438 ZH 诶 为什么 没有人 来 帮我
+NI27MBQ_0101 281438 284432 CS but 就 就 平常 把我 一个人 丢在 那边 的 感觉 so
+NI27MBQ_0101 284760 287107 CS she felt a bit 委屈 then alvin felt a bit 委屈
+NI27MBQ_0101 287472 289390 EN then in the end the two of them when they argue
+NI27MBQ_0101 289666 291141 CS 我们 不懂 怎么 step in lor
+NI27MBQ_0101 291531 292082 EN then plus
+NI27MBQ_0101 292917 295077 CS 你 又不是 不知道 那个 rugby 的 issue
+NI27MBQ_0101 295566 300505 CS it's like because on the twentieth itself 对 吗 除了 hexis rugby 也有 match
+NI27MBQ_0101 300968 301226 EN then
+NI27MBQ_0101 301963 306308 CS i mean for 我 自己 我们 initially agree 我们 就说 (呃) 既然 nat~ 都给 这个 comment 了 then
+NI27MBQ_0101 306715 307053 EN it's like
+NI27MBQ_0101 307550 312371 CS 你要玩 我们 给你 玩 咯 but 你要 make sure 我的 我的 我的 cast 回来 不要 injured 不要
+NI27MBQ_0101 312806 315640 CS uncle chong 等下 next moment limping then 你要 我 怎么办
+NI27MBQ_0101 315640 318225 CS 你 你 给 人家 什么 一种 什么 sense 你懂 吗
+NI27MBQ_0101 318671 318902 EN then
+NI27MBQ_0101 318902 319506 EN 
+NI27MBQ_0101 319506 322170 CS 我们 不懂 preparation time actually 一个半 小时 not enough
+NI27MBQ_0101 323300 325707 CS so in the end 我就 我就 很 内疚 因为
+NI27MBQ_0101 325885 328244 CS 是 like 我们 三个 我们 去 agree 先
+NI27MBQ_0101 328244 330217 CS 我们 我们 尽量 postpone la
+NI27MBQ_0101 330450 333461 CS 我们 懂 因为 hall ultimately the priority
+NI27MBQ_0101 333638 338125 CS 虽然 不是 讲 我们 hope to have a balance but ultimately is fighting for champ~ la
+NI27MBQ_0101 338578 340080 CS so 对我 来讲
+NI27MBQ_0101 340338 341688 CS 你要 fight for champ~ then
+NI27MBQ_0101 342195 343518 CS of course 我们 会 让 啦 but
+NI27MBQ_0101 344069 348000 CS ya lor so in the end when alvin came in he wasn't very happy 因为 他讲 我们 like 不 重视
+NI27MBQ_0101 348545 354019 CS it's not that it's just that 我们 不懂 how much is the preparation time so in the end 我们 accomodate 了 叮叮咚咚
+NI27MBQ_0101 357235 357674 ZH 嗯
+NI27MBQ_0101 361894 364374 EN ya la i mean true la but then maybe he see otherwise
+NI27MBQ_0101 364374 367376 CS 因为 他讲 要 mic club la 要 train song this and that
+NI27MBQ_0101 367696 370423 CS 所以 他就 expected 我们 拿 很多 时间 then in the end
+NI27MBQ_0101 371047 373739 CS worse come 现在的 senario 是 给 他们 玩一个 match 然后 after that
+NI27MBQ_0101 374059 375293 ZH 到 我们 的时候 啊
+NI27MBQ_0101 375578 378074 CS 然后 after 一个 match 我们 真的 要做 坏人 把 人家 拉走
+NI27MBQ_0101 378571 381624 CS 坐 cab 直接 下去 给 他们 做 make-up and stuff lor
+NI27MBQ_0101 382024 382264 EN i mean
+NI27MBQ_0101 382788 384461 ZH 有一点 很 内疚 啦
+NI27MBQ_0101 384674 387450 CS i 我 不懂 咯 就是 according to him 他讲 有 咯 so
+NI27MBQ_0101 388256 393160 CS then 我就 okay la i mean since 你是 co-director and 你 比较 pro 这种 东西 then
+NI27MBQ_0101 393586 396539 EN i i let you be la i mean i respect what you are doing lor i mean
+NI27MBQ_0101 396912 397605 ZH 我 自己 我 就要
+NI27MBQ_0101 398369 402514 CS like 我 自己 我 我 一进来 的 那个 main thing is because 他们 觉得
+NI27MBQ_0101 403936 406476 CS 我 geh-bo 啦 我会 讲话 嘛 又 可以 link 人家 so
+NI27MBQ_0101 406631 410611 CS i think 我的 position there is to facilitate the linkage lor 有 什么 东西 啊 是要
+NI27MBQ_0101 410929 412153 CS 我 就是 那个 bridge lor
+NI27MBQ_0101 412233 417252 CS so i think 既然 i am not good at that then i just fulfill what you want me to fulfill for you lor
+NI27MBQ_0101 417731 418477 EN i mean yeah
+NI27MBQ_0101 420120 422592 CS ultimately 是 有一点 开始 是 有点 sian
+NI27MBQ_0101 422592 425044 CS 下来了 because ultimately 有那种 passion mah you don't know ah
+NI27MBQ_0101 425044 425328 EN 
+NI27MBQ_0101 425328 428482 CS jundi 来了 yeah 那种 哇 真的来 真的来 but then
+NI27MBQ_0101 428784 430337 CS when 东西 一直 boil 下来
+NI27MBQ_0101 430337 435079 CS then plus 你 自己的 com~ 有时 不高兴 then 他们 又 不要 讲 then 他们 去 跟 别人 讲
+NI27MBQ_0101 435559 437329 CS then 你会 觉得 哎呀 很 sad leh
+NI27MBQ_0101 437480 441531 CS i mean 我自己 也是 很忙 then 我又 没有 什么 时间 去跟 他们 讲话 so
+NI27MBQ_0101 442988 444427 ZH 有点 很累 很累
+NI27MBQ_0101 444745 445794 CS then 我又 没有玩 sport
+NI27MBQ_0101 446113 446602 ZH 硬要 我去
+NI27MBQ_0101 446984 448485 ZH 哦 很气 嘞 不是 我要 讲 诶
+NI27MBQ_0101 448485 449588 CS but hor 真的要 complain
+NI27MBQ_0101 449908 455558 CS 我 year one hor 我 join tennis clinic leh 我有 join leh 我有 写 名字 嘞 but 没有人 叫我 去
+NI27MBQ_0101 455949 458056 CS 因为 我觉得 我 noob la okay so
+NI27MBQ_0101 458749 459930 CS i think 很忙 是吗 but
+NI27MBQ_0101 461932 465104 CS then 我很 sad then year two 的时候 哎呀 nat 在 我看 不要 join 了 啦
+NI27MBQ_0101 465104 466510 ZH 那个 一定 打不到 我
+NI27MBQ_0101 466510 470249 CS 因为 你懂 nat right 如果 他 觉得 你 capable 的话
+NI27MBQ_0101 470444 473029 CS 他会 拿你 如果 那种 half plus seven 的
+NI27MBQ_0101 474634 476882 CS 等明年 吧 then 我就说 okay lor 算了 咯 就 不要玩
+NI27MBQ_0101 476882 478987 CS then 就 今年去玩 i. s. g. lor
+NI27MBQ_0101 479494 480871 CS en then in the end end up 在 i. s. g.
+NI27MBQ_0101 481599 485128 CS 我 很喜欢 welin leh 我 还 记得 他 就是 他 每次 拉我 下去 玩 就是
+NI27MBQ_0101 485128 485403 EN 
+NI27MBQ_0101 485403 486025 ZH 我 很感动
+NI27MBQ_0101 486913 490023 EN edwin lor welin lor en danny lor
+NI27MBQ_0101 495710 498820 CS 如果 next year 我 还有 留下来 的话 i think
+NI27MBQ_0101 500287 502756 CS 哎 还是 join 回 o. c.
+NI27MBQ_0101 503432 505155 CS publicity oh i mean 我 很喜欢 画画
+NI27MBQ_0101 506427 508230 CS 因为 year one year one publicity mah
+NI27MBQ_0101 508843 510700 CS 真的很 happy yeh 你 你 stress right
+NI27MBQ_0101 511091 512637 CS 去 pour paint lor 去画 咯
+NI27MBQ_0101 512859 513237 ZH 去那边
+NI27MBQ_0101 513815 515238 ZH 我 画画 几吓人 你 看过 我 一个
+NI27MBQ_0101 515238 516785 EN <unk>
+NI27MBQ_0101 516785 518444 ZH 我 喜欢 画 乱画 乱画 这样
+NI27MBQ_0101 518856 522020 CS so yeah lor 还 才 stress but 不会 join 这样 多 我 觉得
+NI27MBQ_0101 522721 527369 CS 我 觉得 我 还是 想 join 回 sub-com~ 我 觉得 做 sub-comm~er 日子 比较 快乐
+NI27MBQ_0101 531493 533347 CS (呃) 不用做 best sub-comm~er but i think
+NI27MBQ_0101 533842 539842 CS 拿过 一次 已经 是 一个 很 哇 诶 not bad sia like a peak in that thing is damn good i mean 真的
+NI27MBQ_0101 540220 544625 CS and you know more or less 你 你 you are you are being recognised i think 你会 觉得 哇
+NI27MBQ_0101 545099 546463 EN but i think that is history lor
+NI27MBQ_0101 546463 548801 CS i mean we will in progress 一定 会有 junior 想
+NI27MBQ_0101 549360 551865 CS i mean junior mah 他们 一定 想要 住 add-in
+NI27MBQ_0101 551865 553011 CS 真的 很需要 那个 space
+NI27MBQ_0101 553279 554600 CS like for me 我 觉得 我 不需要 了
+NI27MBQ_0101 554884 556531 CS year three sem two imagine 我去 exchange 了
+NI27MBQ_0101 556905 558794 CS year four sem one 我 就 两个 module
+NI27MBQ_0101 559090 562185 CS year four sem two 我 f. y. p. yeh 十八个 a. u. 我 根本 不用 回来 学校的
+NI27MBQ_0101 563235 565382 CS one of one sem 十八个 a.u. ai so is like
+NI27MBQ_0101 565748 568479 CS to me 我 觉得 有可能 year three sem one is my last sem
+NI27MBQ_0101 569306 570462 EN to contribute back in hall
+NI27MBQ_0101 570462 573460 EN but i think definately i will i will miss hall very ah
+NI27MBQ_0101 573919 578082 EN i mean although i am not like zhihong they all very close to a lot of seniors
+NI27MBQ_0101 578082 580081 EN but i think those seniors that i met
+NI27MBQ_0101 580484 583751 CS i 真的 我 觉得 是 one of the best of life time thing 真的 i mean
+NI27MBQ_0101 585041 590216 EN who else in hall ah for for for that god sake who else will be able to come and approach you
+NI27MBQ_0101 591155 592588 EN and especially i am quite anti-social one
+NI27MBQ_0101 593107 595041 EN damn shit leh vincent tan anti-social then
+NI27MBQ_0101 595457 598363 CS 我 还记得 benny 我 跟你讲 我 是个 和尚
+NI27MBQ_0101 598863 599822 ZH 我 真的 去 相信他 诶
+NI27MBQ_0101 600169 604940 CS 我 不吃肉的 我 现在 在 慢慢 在 戒肉 他还 whatever la 那种 crap senior ai
+NI27MBQ_0101 604940 606193 EN then it's damn fun lor
+NI27MBQ_0101 606711 608192 EN can you imagine exam period
+NI27MBQ_0101 608192 613581 CS 哦 不是 去年 我 year one 记得 我的 recess week 我们 我 没有 回家的 是吗
+NI27MBQ_0101 613853 618009 CS ben 一直 坐在 那个 staircase thirty five 那个 staircase 要去 reading room 他 坐在 那边 我们 一直 讲话
+NI27MBQ_0101 618300 618920 ZH 半天 诶
+NI27MBQ_0101 619606 621091 CS 半天 crap 就讲 罢了
+NI27MBQ_0101 621359 622135 CS 我是 monk
+NI27MBQ_0101 622654 623634 ZH 我 没有 吃肉
+NI27MBQ_0101 623967 629627 CS 诶 你有 吃肉 啊 不可以 这样 你要 reach nirvana 我讲 okay 这样 我 不可以 吃肉 明天 要去 吃斋 then in the end
+NI27MBQ_0101 629849 630404 ZH 我 骗你的
+NI27MBQ_0101 631042 632698 EN walau then oh is like okay la
+NI27MBQ_0101 633246 634079 EN interesting lor
+NI27MBQ_0101 643666 644490 CS 你是说在 n. t. u. ah
+NI27MBQ_0101 645535 648033 CS last time 我 我 诶 我 现在 我只 join i think
+NI27MBQ_0101 648579 650328 CS 我 只 join 几样 东西 啊 prefectorial board
+NI27MBQ_0101 651061 656364 CS (er) concert band ah 我是 clarinetist mah so 我 已经 玩了 六 十年 的 clarinet
+NI27MBQ_0101 657223 662915 CS 诶 没有 没有 等下 四四八 所以 八年 八年 进到 j. c. first three month 八年 三个 月
+NI27MBQ_0101 663545 667265 CS then (er) poly~ 三年 我是 violin play violin
+NI27MBQ_0101 668393 671485 CS so then n. t. u. 我 join n. t. u. tennis team
+NI27MBQ_0101 671485 672216 EN woo-hoo
+NI27MBQ_0101 672855 674659 CS okay ah join 一年 被 踢出去 就 没有了
+NI27MBQ_0101 674659 676040 EN 
+NI27MBQ_0101 676040 680790 CS yeah lor 因为 没有去 training mah then 要 要帮 hall 的东西 所以 in the end 我 end up 没有去
+NI27MBQ_0101 681836 684595 CS but then 我 觉得 最 fulfilling 应该是 band bah
+NI27MBQ_0101 684595 691451 CS 因为 music leh 我觉得 something 你 如果你 like for me i am not very good at words but so 我 很难 express
+NI27MBQ_0101 691775 694871 CS so the only thing i can express through 就是 through either through sports
+NI27MBQ_0101 695038 696638 ZH 哇 打人 真的 很爽 耶 你 这样 嚯 下去
+NI27MBQ_0101 697434 698877 CS 去死 啊 去死 去死 去死 you know how the thing
+NI27MBQ_0101 699155 700866 CS 不然 就是like oh music lor
+NI27MBQ_0101 701486 703531 CS i can express mah 我 觉得 这是 yeah
+NI27MBQ_0101 704021 705113 CS 比较 memorable 的
+NI27MBQ_0101 705859 708773 CS ai but 我 那时 有很 cute 的 诶 因为 我怕鬼 嘛
+NI27MBQ_0101 709171 710173 CS then 真的 like
+NI27MBQ_0101 710590 714271 CS 以前 band 的时候 他们 讲 哇 你 有没有 听到 晚上 hall 有人在 play music
+NI27MBQ_0101 714558 717786 CS 是不是 你的 instrument then sort like wah 吓到 鬼 这样
+NI27MBQ_0101 718132 721550 CS but then 那时 fright night 也是 我说 我要 complain
+NI27MBQ_0101 722339 726441 CS fright night hor yiti hor elvin hor 要 把我 吓死 耶 你 知道 yiti 讲 什么 吗
+NI27MBQ_0101 726745 727950 ZH 你懂 你 那张 床 哦
+NI27MBQ_0101 728240 730385 ZH 去年 那个人 已经 去世了
+NI27MBQ_0101 730385 731107 ZH 我讲 为什么
+NI27MBQ_0101 731107 731540 EN 
+NI27MBQ_0101 731540 734006 CS because 那个人 他是 national swimmer leh
+NI27MBQ_0101 734006 736800 CS and then 他就被 dunk 进那个 pool mah 我们的 pool
+NI27MBQ_0101 737072 738646 CS then 他 就被 拉下去 嘞
+NI27MBQ_0101 738951 743483 CS then 他的 roomie 就以为 national swimmer 这种 这样 deep swallow 的 一定 不会 死的
+NI27MBQ_0101 743808 746404 CS then 他 没有 回来 但是 他 床 湿湿
+NI27MBQ_0101 746829 750032 CS then 我 那天 我跟 chris 就不敢 睡 耶 我 就 坐在 那边 做到
+NI27MBQ_0101 750386 752822 ZH 怎么办 我要 睡觉 我很 难睡
+NI27MBQ_0101 752822 755370 CS o. c. 你懂 o. c. 的那个 camp 又很累 then
+NI27MBQ_0101 755448 758216 CS next day 我 就 抽筋 咯 in the end 我跑 跑 amazing race leh
+NI27MBQ_0101 758591 759266 ZH 跑到 抽筋
+NI27MBQ_0101 759422 761907 CS never mind 我 就 坐在 那边 不敢 睡 then 他们 又讲 benny
+NI27MBQ_0101 762685 766770 CS benny 那故事 咯 他们 不是说 benny 去吃 耶 then benny 就讲
+NI27MBQ_0101 767254 769669 ZH 我 不要 我要 喝 我 不要 喝酒 我 不要 喝酒
+NI27MBQ_0101 770171 775024 CS then 就 那个 那个 story 吓到我 你懂吗 then 我就 shit 三十五 像很 haunted
+NI27MBQ_0101 775350 780408 CS then 他们讲 那个 pond 就是要 因为 我们的 block thirty five 是火神 耶 要克 那个 水火
+NI27MBQ_0101 780641 782101 ZH 金木水火 要 克 那个
+NI27MBQ_0101 782773 785117 ZH 不用 睡 那 整个 礼拜 我 没有 什么 睡到
+NI27MBQ_0101 785117 787715 CS then 在那边 da-ba-ke da-ba-ke-ro walao
+NI27MBQ_0101 787938 791433 EN yeah lor but okay la enjoyable leh
+NI27MBQ_0101 795120 795946 CS but 我 拖鞋 被偷
+NI27MBQ_0101 797122 798083 ZH 第一天 我就 被偷了
+NI27MBQ_0101 798917 801916 CS after 那个 o. c. 是 initiation 我 很高兴 耶
+NI27MBQ_0101 802409 806538 CS 裤子脱 衣服脱 全部丢 垃圾桶 right after that 就去 冲凉 冲凉 就去 clean 房间 嘛
+NI27MBQ_0101 807220 810659 CS 哎呀 我去 睡一下 然后 鞋子 全部 摆美美 放外面了 then
+NI27MBQ_0101 811334 813550 CS then after that two hours later 我就 起来
+NI27MBQ_0101 814155 816050 CS shit 我的 havaianas sandals leh
+NI27MBQ_0101 816205 819652 CS 四十块 刚刚 买的 不见掉 and then 我走 整个 block thirty five yeh
+NI27MBQ_0101 819914 822891 CS 希望 有一天 我的 havaianas sandals 是 不小心 被 人家 穿错
+NI27MBQ_0101 823463 826650 CS 没有 then 超 depress 的 咯 then after that 我 call 我 mother 我 mother 讲
+NI27MBQ_0101 826904 831439 CS 你 siao 如果 人家 want to steal then 一定 拿不回 的 嘛 then 我 就讲 okay la whatever
+NI27MBQ_0101 837318 840162 CS 诶 我想去 u. s. ai i mean for 我 那个 exchange ah
+NI27MBQ_0101 841204 844214 CS 为什么 because 没有 去过 嘛 then gien 嘛 i mean
+NI27MBQ_0101 844524 847328 CS it's the best thing what 你看 十五天 then after that
+NI27MBQ_0101 847758 849776 CS for fifteen thousand you can 去 u. s.
+NI27MBQ_0101 850244 856144 CS then why not then at least 去 exchange 一个 sem 我跟 人家 讲 诶 我 去过 u. s. woo 我去 shopping woo
+NI27MBQ_0101 856604 859273 EN factory outlet sales eh yeah i mean come on man
+NI27MBQ_0101 859495 862577 CS 就是 yeah so that's why i decide go us lor i mean
+NI27MBQ_0101 862911 865341 EN if not applying for univeristy-washington one joshentect
+NI27MBQ_0101 869919 872509 EN b. s. you know what is s. b. s.
+NI27MBQ_0101 873748 874606 EN sibeh sian
+NI27MBQ_0101 875305 878714 EN when come to exam sibeh stress lecturer sibeh slack
+NI27MBQ_0101 878714 879254 EN 
+NI27MBQ_0101 879254 882574 CS i mean 这个 是 acronym la i mean oh ai 老实讲 我 也是 蛮后悔的 诶
+NI27MBQ_0101 882797 885990 CS i mean 不只是 你 后悔 for econs~ 我 跟你讲 我 take b. s. 的时候 我 真的 是 超后悔
+NI27MBQ_0101 886355 892660 CS 因为 is 进来 的时候 application mah (er) 我拿到 n. t. u. 的 b. s. ah second choice
+NI27MBQ_0101 892960 895960 CS n. u. s. 我 拿 first choice f. a. s. s. take econs~ ah
+NI27MBQ_0101 896436 900998 CS then 我 is like wah 选来选去 选来选去 n. t. u. n. u. s then 我就 贪那个 honours
+NI27MBQ_0101 901268 905351 CS because honours 我觉得 quite important mah so 我 就说 okay lor 去 take b. s. 我要 take science
+NI27MBQ_0101 905796 909640 CS in the end 还 来这边 的时候 才 哇 what the hell is this
+NI27MBQ_0101 910117 912627 CS don't even understand then 那个 lecturer 真的很 sucky hor
+NI27MBQ_0101 913488 921351 CS then i think if 我在 n. u. s. 虽然 我日子 不会 这样 exciting but at least 我懂 我三年 出来 that's it you know i can be a flight steward
+NI27MBQ_0101 921716 924573 CS because 很想做 flight steward leh 好像很 bimbo 好像 那种
+NI27MBQ_0101 925057 928878 CS chicken fish or me 那种 哇 你会 觉得 哇 okay not bad ah 就
+NI27MBQ_0101 929029 931780 CS 很 bimbotic job lir 就是 then 还可以 travel
+NI27MBQ_0101 932280 933510 EN but although i am not very sure i
+NI27MBQ_0101 933923 935893 EN but i will try you know i will try because
+NI27MBQ_0101 936259 938015 CS the height i think my height 应该 还有 meet 到 啊
+NI27MBQ_0101 938015 947349 CS so yeah lor swimming 我刚刚 third choice 学的时候 我 应该 是可以 swim 虽然 像 像 海豚 这样 swim 一半 sink 下去 but 不用紧 you know kind of thing i can still swim over
+NI27MBQ_0101 948645 954054 CS yeah lor so in the i 我 不懂 啦 although my g. p. a. is not very ex~ exciting la
+NI27MBQ_0101 954054 957411 EN but okay lor managed to get through the yeah
+NI27MBQ_0101 962782 966880 CS my mum my mum was saying i mean for econs~ is okay because 很 specialized
+NI27MBQ_0101 967310 970087 CS b. s. 也是很 specialized then she was saying like if 真的我 真的是我
+NI27MBQ_0101 970317 971715 CS 我真的很想 take n. b. s. ai i was like
+NI27MBQ_0101 972115 973340 ZH 三年 嘛 出来了
+NI27MBQ_0101 973487 980948 CS business 又 not exactly very difficult la but business is too general so 我 就觉得 okay lor 你要我 take 我就 take la
+NI27MBQ_0101 980948 990056 CS i mean 老实讲 how many people can get into b. s. not many people also la i felt then for me is poly~ grad~ leh then poly~ grad~ 上去 更加 不容易 嘛
+NI27MBQ_0101 991179 991876 EN yeah la
+NI27MBQ_0101 992496 993929 CS but then 回想 起来 i mean
+NI27MBQ_0101 994819 999347 CS thankfully 我 还有 一个 course can take ah i mean 因为 a lot of my friend 他们 都 没有 什么 course
+NI27MBQ_0101 999347 1005446 CS imagine 一个去 s. i. m. then 几个 又不懂 fly 去哪 哪一个 鬼 island then 都不懂 偶尔 几天 才回来
+NI27MBQ_0101 1005446 1011927 CS 你看 励德 那时 当天 跟他讲 他 讲话 就讲 我 chinese new year 没有 回来 耶 那是 真的 很 sad 的感觉 诶 他 瘦 下来了
+NI27MBQ_0101 1012776 1016554 CS 很瘦 oh my 天 那个 肥肥的 chip 不见掉了 then 很 sad
+NI27MBQ_0101 1017261 1018946 CS 对 咯 then it's like oh actually
+NI27MBQ_0101 1020287 1022875 ZH (呃) 他 一直 去打球 他 讲 他 瘦下来
+NI27MBQ_0101 1029073 1030454 EN chrismast ah let me think
+NI27MBQ_0101 1031402 1033816 CS chris~ oh 因为 我 birthday 是 one day after christmas
+NI27MBQ_0101 1033937 1034944 EN so i think
+NI27MBQ_0101 1035738 1040466 CS before that (er) i think before christmas count down i think 一 两天 前 我 meet up castel 他们 嘛
+NI27MBQ_0101 1040707 1041880 CS 因为 他们 celebrate 我的 birthday
+NI27MBQ_0101 1042261 1043896 CS so yeah lor 就先 celebrate
+NI27MBQ_0101 1044236 1048359 CS 他 chrismast 很像 应该 是在 church bah 应该有 family christian mah
+NI27MBQ_0101 1048673 1051622 CS so in the end 就会 count down lor yo yo yo in the church there
+NI27MBQ_0101 1051622 1054877 CS after that 就是 next day 就是 kop k. o. 睡觉 睡整天的
+NI27MBQ_0101 1055222 1059664 CS 很 sad 的 嘞 每次 hor 每次 after christmas right 每个人 就 很累 boxing day 没有人 起床的 为什么
+NI27MBQ_0101 1060110 1064706 CS party party party then next day 我自己 一个人 八点 就 起来 希望 有人 会 wish 我 happy birthday
+NI27MBQ_0101 1065006 1066181 CS in the end 每次 没有的
+NI27MBQ_0101 1066181 1070852 CS 是我的 maid ai happy birthday oh oh thank you but you know nobody around 我讲
+NI27MBQ_0101 1070852 1073841 CS 对 咯 it's like 这样的 嘞 爸爸 妈妈 在睡觉
+NI27MBQ_0101 1073841 1079624 CS my 妹 她 party 不懂 在哪里 then my friend 还没有 起床 因为 他们 十二点 message 完了 竟然 没有 call 我
+NI27MBQ_0101 1079624 1086222 CS then 我 就在 那边 等 等 okay 六点了 yes 可以 出去了 twelve 朋友 一起 出去 then damn sad 的
+NI27MBQ_0101 1086649 1090198 CS okay la 有时 celebrate 早 有时 celebrate 迟 哦 有时 celebrate 二十九号 才 celebrate yeh
+NI27MBQ_0101 1093027 1097858 CS 对 but 因为 because my friend 二十八号 生日 嘛 so 只有 combine celebration 因为我
+NI27MBQ_0101 1098045 1105488 CS 我的 group 很小 like 我的 group 只有 七个人 from my poly clique so 就是 okay lir 我们 就 combine combine 一下 birthday then 就 这样 celebrate lor
+NI27MBQ_0101 1105915 1106289 EN yeah lor
+NI27MBQ_0101 1111774 1114242 ZH 有 我 被 人家 追过
+NI27MBQ_0101 1115630 1118442 CS 嗯 我 我 year year one sem two
+NI27MBQ_0101 1118815 1121675 ZH 有人来 你 可以 做 我的 男朋友 吗
+NI27MBQ_0101 1121675 1126202 CS that was like wah 不知 i 第一次 被追 的感觉 还蛮好 but 我 就 跟她讲
+NI27MBQ_0101 1126360 1129466 CS 我 就 不知道 不要 不要 不要 给人家 那个 chance sorry ah 我不要
+NI27MBQ_0101 1129915 1132940 CS i mean 因为 那时 我 还蛮 喜欢 一个人 那是 中学的 朋友 嘛
+NI27MBQ_0101 1133445 1138561 CS then 就 就 yeah lor 就 perserve 就 不要 不要 then in the end 她很 sad 然后 我就 啊
+NI27MBQ_0101 1139086 1140411 EN okay la
+NI27MBQ_0101 1141421 1144072 CS 她是中~ 她是 台湾人 but 她 超有钱 的
+NI27MBQ_0101 1144211 1146861 CS 你懂 changi airport 的那个 m. r. t. 的 glass 吗
+NI27MBQ_0101 1146861 1148149 EN 
+NI27MBQ_0101 1148149 1149967 CS 我 可以 买我的 longchamp bag ai 没有 啦
+NI27MBQ_0101 1150131 1154120 CS 就 你懂 m. r. t. 那个 glass hor 那个 platform hor 全部 是 她 ah-ba 的 嘞
+NI27MBQ_0101 1154567 1157824 CS 每一片 can you imagine i think 他做 什么 几百万的 生意 吧
+NI27MBQ_0101 1158089 1161118 CS 然后 就 没有 想到 哎呀 早知道 跟她 在一起 就 可以 买 longchamp hor
+NI27MBQ_0101 1161598 1162094 ZH 我 不可以 这样
+NI27MBQ_0101 1162880 1163618 EN i'm a good boy
+NI27MBQ_0101 1164403 1164688 EN okay la
+NI27MBQ_0101 1165407 1166116 EN yeah lor so
+NI27MBQ_0101 1166882 1168936 CS i think poly to me 我是 觉得 so far
+NI27MBQ_0101 1169134 1171002 CS i mean 这个 uni 还没有 走完 嘛 but
+NI27MBQ_0101 1171457 1177817 CS poly 因为 没有 hall so 难 actually 还蛮 exciting 只 做的 都是 stupid 的东西 你 有没有 看过 classroom 可以 玩 badminton 的
+NI27MBQ_0101 1178357 1179288 ZH 可以 唱歌的
+NI27MBQ_0101 1179288 1179590 EN 
+NI27MBQ_0101 1179590 1183553 CS 一面做 tutorial 一面 在看 movie 的 因为 r. p. 很 slack mah
+NI27MBQ_0101 1184007 1186628 CS then 就 真的是 enjoy lor 真的 fulfill leh
+NI27MBQ_0101 1187088 1189565 CS imagine 你 乱乱 读书 都可以 拿 a a a all the way
+NI27MBQ_0101 1190342 1199391 CS 真的 你是 真的很 不像 j. c. 这样 我 j. c. 我 我 记得 我 first three month 是超 超辛苦 but 为了 要穿 那件 uniform 我 真的 很拼
+NI27MBQ_0101 1199700 1200679 CS 因为 我 很喜欢 uniform
+NI27MBQ_0101 1201687 1203601 EN fetish for uniform i don't know
+NI27MBQ_0101 1203601 1206553 CS 哇 就是 我 觉得 穿那个 in the end 你 不用 去想 你要 穿什么 哦
+NI27MBQ_0101 1206927 1208986 CS then 每个人 穿一样 的 uniform 很 bonded 的
+NI27MBQ_0101 1209712 1213613 CS then yeah lor but 就拼到 很死 诶 imagine 我 每天 做到 十一二点 诶 for homework ai
+NI27MBQ_0101 1213844 1215413 CS first three month 的 homework 不懂 做什么
+NI27MBQ_0101 1215804 1217654 CS then in the end next day 睡觉 还给 老师骂 嘞
+NI27MBQ_0101 1217654 1220098 CS econ 老师 really econ 老师 很凶 的 indian guy one
+NI27MBQ_0101 1220386 1222099 CS 他就 like ai why you sleeping
+NI27MBQ_0101 1222445 1227804 CS you know why you ne~ you know why you don't understand because you are sleeping 我 like what the hell 我 不是 故意要 sleep leh 做 chinese tutorial
+NI27MBQ_0101 1228055 1229725 CS when i set it 还要 chi~ <unk>
+NI27MBQ_0101 1230272 1232446 ZH 相见时难别亦难
+NI27MBQ_0101 1232590 1236708 CS what is the meaning i don't know spelling 每天 fail fail fail then 我 like 啊 很 sian
+NI27MBQ_0101 1237362 1239392 EN yeah lor but okay la
+NI27MBQ_0101 1239724 1243898 CS poly was to me memorable because of the group of friends that 我有的
+NI27MBQ_0101 1244344 1247283 EN also because my work is very smooth sailing
+NI27MBQ_0101 1247701 1252382 CS then some more 我 join 很多 我 join 我 join 了 什么 poly games 啊 那种
+NI27MBQ_0101 1252785 1255491 CS lili-lolo 的那种 position holder 全部 跟他 join 到完的
+NI27MBQ_0101 1255491 1259132 CS 是like wah 无~ 那个 无所不知 这样 vincent tan wah
+NI27MBQ_0101 1259621 1260139 EN it's me
+NI27MBQ_0101 1260471 1265836 CS 然后 poster 几十张 在 you mean 如果 你 现在 去 r. p. 有空 的话 right let's say 真的 有去 performance hor
+NI27MBQ_0101 1266196 1270069 CS 走一下 你会 看到 vincent 有 四五张 poster a. o. 的 很大张 还在 那边
+NI27MBQ_0101 1270314 1271221 CS 有没看 ah-beng
+NI27MBQ_0101 1271221 1273308 CS 偶尔 还会 找我 一下 可以 去拍 model woo
+NI27MBQ_0101 1273668 1276217 CS 不错 不可以 做 model 做 school model 也不错 咯
+NI27MBQ_0101 1276648 1282874 CS then 我就 那时 跟 weikiat 讲 诶 n. t. u. 几时 要找 我们 我们 就知道 it's all about me lor 明年 orientation mah 都没有 哎呀 算了
+NI27MBQ_0101 1288164 1289891 ZH 诶 这样 我还 蛮想 唱歌的 嘞
+NI27MBQ_0101 1291691 1299013 CS 不想 perform 我 只想 唱歌 因为 我 没有 那个 勇气 我 不是 大鹏 诶 起来 起来 okay 真的 老实讲
+NI27MBQ_0101 1299350 1303367 CS i mean ai 不容易 嘞 我 我看 coleste 我看 大鹏
+NI27MBQ_0101 1303900 1306505 CS 我 觉得 他们 很 很 commendable leh i mean
+NI27MBQ_0101 1308095 1312989 CS they are not good but 他们 肯 肯 去学 肯 去被 人家 骂 肯去 perform
+NI27MBQ_0101 1312989 1314830 ZH 我 觉得 我 没有 那个胆 啊
+NI27MBQ_0101 1314830 1317810 CS 我 觉得 我 唱到 一半 zhao-siah 我 真的 会跑 and cry 的 嘞 那种
+NI27MBQ_0101 1318652 1321704 CS yeah self-esteem 没有 这样 高 啦 可能 but
+NI27MBQ_0101 1321971 1326703 CS 如果 如果 从来 的话 明年v如果 i mean 这样 slack 的 嘛 都 不用 交东西
+NI27MBQ_0101 1326703 1336020 CS 我 觉得 我 觉得 哦 我 觉得 我会 去 join 我会去 join (er) i mean singing la then it's like
+NI27MBQ_0101 1336020 1337335 EN <unk>
+NI27MBQ_0101 1337335 1343335 CS because (er) 我 很喜欢 唱歌 then 我妹 很会 唱歌 then 我很 jealous 的每次
+NI27MBQ_0101 1343700 1346480 ZH 人家 都不会 唱歌 嘛 我妹 每次 讲 诶 你 唱歌 很难听 诶
+NI27MBQ_0101 1346794 1349730 CS then 我讲 算了 唱歌 很难听 我 去 学校 唱 at least 还有人 appreciate 我
+NI27MBQ_0101 1349730 1351553 CS 讲我 (呃) 还有 一点 potential
+NI27MBQ_0101 1351927 1355552 CS 所以 如果 let say 明年 真的有 那个 chance 的话 i don't mind join in sing
+NI27MBQ_0101 1355908 1361052 CS just to sing lor but but 可能 帮 人家 对唱 然后 有时 人家 不是 没有来 我做 kay-leh-feh
+NI27MBQ_0101 1361317 1371049 CS 帮你唱一下 啦 then 偶尔 你 correct 我讲 诶 那个 你的 中气 不足 啦 or whatever not 那种 non-sense then i think i be able to learn lor i think i can learn leh 就 okay
+NI27MBQ_0101 1381094 1385250 CS 我 很想 i mean (er) 那时 我跟 ivan 因为 ivan 他们 year three mah
+NI27MBQ_0101 1385250 1393109 CS then 我 就说 不然 我们 year three sem two 去 ex~ (er) 那个 work and travel 就 一起去 work 一起去 travel lor 不然 就等到 year four
+NI27MBQ_0101 1393865 1396377 CS then 跟 nelson 他们 一起 去了 我觉得 not bad 因为
+NI27MBQ_0101 1396694 1401449 CS 没有钱 嘛 i mean 如果 要 save up 有点 困难 then 我要 还 bank 那个 bank loan so 很多
+NI27MBQ_0101 1401670 1403560 CS plus 如果 exchange 的话 要 加多 十五千
+NI27MBQ_0101 1403863 1411093 CS so is like yeah lor so 去 那个 work and travel 三千块 i pay then after that 我 can earn back 六千块 why not that kind of thing
+NI27MBQ_0101 1412512 1414582 CS 啊 他们讲 可以 earn back 问 伟林 他是讲 earn back so
+NI27MBQ_0101 1414998 1418636 CS 不懂 耶 我 想去 做那种 work resorts world 那种
+NI27MBQ_0101 1418844 1423973 CS hi welcome 那种 you want to book room ah 你 等一下 啊 我帮你 check 一下 哦 no room 那种
+NI27MBQ_0101 1424188 1427768 CS 很 bimbotic 的 job 要不然 就 去那边 帮人家 fasten safety belt lor
+NI27MBQ_0101 1428575 1429747 CS 做 cleaning 我也 don't mind
+NI27MBQ_0101 1433306 1435090 CS intern i. a. ah 我 学校 没有
+NI27MBQ_0101 1444110 1445652 CS 是在 uni 的时候 做 meh i mean
+NI27MBQ_0101 1445830 1448450 CS eventually 因为 我 我的 学校的 curriculum is such that
+NI27MBQ_0101 1448680 1453430 CS year three 的时候 是 根本 没有 给你去 i. a. 的机会 because 你很难 clear 你的 mods mah
+NI27MBQ_0101 1453820 1455210 CS 你的 mods 很多 然后 after that
+NI27MBQ_0101 1455570 1458447 CS yeah but 我学校很 stupid 的 一个 一个 sem take 九个 core ai
+NI27MBQ_0101 1459241 1462585 CS can you imagine 我 year three sem one 是 take 九个 year three sem two 是 take 七个
+NI27MBQ_0101 1463053 1466823 CS then it's like the ai 他 真的是 damn damn xiong one lor i felt
+NI27MBQ_0101 1467230 1471267 CS then it's like for me now 我 take 七个 mod la 七个 core 然后 加多 两个
+NI27MBQ_0101 1471658 1474574 CS 一个 lab 一个 elective i am alredy like struggling already
+NI27MBQ_0101 1475214 1478312 CS 我 觉得 很重 so it's very hard for me 去找 attachment 的
+NI27MBQ_0101 1478750 1481140 CS in fact 我 唯一 可以 做的 是 year four sem one
+NI27MBQ_0101 1481410 1483750 CS 我可能 去 一下子 我 还要 回来 clear 三个 mod
+NI27MBQ_0101 1493276 1500664 CS 我 我 很喜欢 吴克群 但是 我的 roomie 讲我 不可以 唱 因为 他讲 我的 声音 很像 罗志祥
+NI27MBQ_0101 1502669 1508746 CS 不好 我 不喜欢 他的 因为 他 唱歌 不好听的 他是 no skiller 的 then 他 就是 这样唱 then 会跳 而已 嘛
+NI27MBQ_0101 1508872 1517998 CS then 就是 indirect shoot 我 讲我 没有 skill leh 很 sad lor 几 sad 一下 没有 啦 就 okay la but actually 我没有 specific preference yeh 我
+NI27MBQ_0101 1518298 1521886 CS 就是 听到 流行 歌曲 喜欢 听什么 then after that 我就会 like listen
+NI27MBQ_0101 1522157 1526650 CS but 我 cheena-piang 的 嘞 i mean 因为 poly mah 那种 cheena cheena so in the end 我 end up
+NI27MBQ_0101 1526999 1528349 CS 我 listen to chinese songs 的 .
+NI27MBQ_0101 1528725 1531219 CS english song 你 跟我讲 有这个 song i will tell you ha
+NI27MBQ_0101 1531805 1536546 CS 是什么 band 来的 like 那种很 question mark but chinese 的 你问我 我觉得 我还 okay
+NI27MBQ_0101 1537116 1540463 CS 我 很喜欢 吴克群 okay la 周杰伦 not bad
+NI27MBQ_0101 1541108 1543312 EN 
+NI27MBQ_0101 1543312 1545096 CS then 还有 王力宏
+NI27MBQ_0101 1551278 1552185 EN forever love
+NI27MBQ_0101 1554430 1560506 CS 因为 因为 因为我 这个 我 以前 我在 computer 每天 练的 嘞 一天 我练 六七次的
+NI27MBQ_0101 1562713 1569984 CS 没有 我觉得 我的歌 很好听 what then 唱起来 woo woo 还可以有 groove 一点的 我 觉得 很 impressive mah then k. t. v. 可以唱
+NI27MBQ_0101 1577620 1581315 CS 我 要学 dance but 我 跳舞 很像 鸭子 我怕 ah-bu 会吐血
+NI27MBQ_0101 1581315 1587340 CS 真的 你看 那个 他们 今年 不是 跳 那个 这样 这样 咯 我 觉得 我 做 那两个 action 很像 驾 bus 这样
+NI27MBQ_0101 1587572 1590145 CS 所以 in the end 我 觉得 如果 我去 那边 ah-bu 会 气到 晕倒
+NI27MBQ_0101 1590606 1593925 CS i mean 我 会 觉得 我 会 比那个 珍妮弗 更死 诶 jennifer ah
+NI27MBQ_0101 1595585 1597893 CS 我 没有 真 but 真的 嘛 i mean 有点 limitations
+NI27MBQ_0101 1597893 1601104 CS 然后 我就 可能 我会比 colestine 好一点点
+NI27MBQ_0101 1601486 1603428 EN but then i will be equally bad lor
+NI27MBQ_0101 1603428 1605287 CS so 我觉得 不要 害死 整个 dance team la
+NI27MBQ_0101 1605287 1608000 ZH 我我我 我 有空 自己 自己 这样
+NI27MBQ_0101 1608315 1614125 CS 可能 改天 去找他 诶 ah-bu 教我 跳一跳 一下 两个 then 给他 气死 then after that okay you know kind of thing but
+NI27MBQ_0101 1614471 1617246 CS 如果 有机会 真的 我去学 dance not bad ai 很帅 嘞
+NI27MBQ_0101 1617867 1620208 CS oh then imagine 我 很想 去学 钢琴 也是
+NI27MBQ_0101 1620606 1622997 CS 学一曲 就好 then 弹完了 就 这样 走掉
+NI27MBQ_0101 1623296 1625619 ZH 那女生 都 哇 这个 男生 是谁 唔 帅
+NI27MBQ_0101 1625619 1626549 EN 
+NI27MBQ_0101 1627545 1628498 CS i only 弹一样的
+NI27MBQ_0101 1628498 1633860 CS 只弹 那些 一样 曲子 then 叫我 弹 第二首 shit i don't know how to play already 那种 yeah lor
+NI27MBQ_0101 1635843 1642681 CS dance ah dance is something that 我如果 有机会 的话 如果 骨头 还没有 break down 的话 i think 我 还想 学
+NI27MBQ_0101 1647968 1650231 CS 有 我有 一个妹 我妹 现在 hall thirteen
+NI27MBQ_0101 1651221 1651786 CS n. i. e. 的
+NI27MBQ_0101 1653031 1656434 CS 很想 过来 but then 你看 现在的 situation 你 觉得 过得来 meh
+NI27MBQ_0101 1657171 1657603 EN it's
+NI27MBQ_0101 1658283 1667053 CS first thing is 她 i mean for herself 她 觉得她 she felt very sian already because 她的 clique of friends 一个 一个 走了 嘛 i mean 因为 住不到 hall then attrition rate very high
+NI27MBQ_0101 1667335 1669842 CS then some more new people come in the culture 很 different
+NI27MBQ_0101 1670174 1672379 CS so in the end 她 本来 想说 诶 过来 hall six
+NI27MBQ_0101 1672661 1677060 CS 本来 她就 问 咯 就问 我可以 contribute 什么 to hall six 我 只会 唱歌
+NI27MBQ_0101 1677340 1679681 CS then 唱歌 又不是 一个 contribution mah
+NI27MBQ_0101 1679946 1685590 CS she need to play sports and she is not a sportsman except for maybe swimming 游 游一点 that's it you know kind of thing
+NI27MBQ_0101 1686262 1687988 CS 很难 进来的 咯 yeah
+NI27MBQ_0101 1689017 1691872 CS but okay la 我妹妹 很 crap 的 嘞 她 bimbotic 的 嘞
+NI27MBQ_0101 1692619 1695142 CS 她 哎 跟我 一样 啦 一样 可以 fight 的
+NI27MBQ_0101 1695389 1698427 CS 很 auntie 没有 but 因为 you know n. i. e. hor 有没有 看过 一个 老师 hor
+NI27MBQ_0101 1698709 1703186 CS 人家是 prepare for classroom experience then 她 是 做什么 research 对吗 学校 做什么
+NI27MBQ_0101 1703535 1707464 CS 没有 then 她 跟我妈 是 我们 去买 老师的 衣服 就买了 五套 衣服
+NI27MBQ_0101 1707796 1712710 CS then next day morning 就 match 这样 哇 很美 很像 teacher ah right go there in the end 就在 那边 睡觉
+NI27MBQ_0101 1713177 1715551 CS 她跟 ahbok 是一样 她跟 ahbok 是 classmate mah
+NI27MBQ_0101 1715800 1718439 CS 她讲 ahbok 每天 睡觉 but 人家 score 得 比我好
+NI27MBQ_0101 1719983 1722879 CS yeah lor so 我妹 很 crap la 我妹 小我 三岁
+NI27MBQ_0101 1723858 1725601 CS but 她很 smart 她是 一个 like
+NI27MBQ_0101 1726182 1731985 CS 她 listen to lecture right then 她 回家 她 去玩 打 game 打完了 right exam 她 可以 做 a 的
+NI27MBQ_0101 1732798 1736308 CS that's the 她 超爱 打 game 的 不懂么 computer game ah 那种
+NI27MBQ_0101 1736640 1743733 CS 她连 那个 那个 facebook 的 game 我 跟你讲 她 都 已经 玩到 已经 熟了 那个 war cafe express whatever not 那边 给她
+NI27MBQ_0101 1744210 1746180 CS 不懂 clear 几百个 level 跟 wiki 可以 fight yeh
+NI27MBQ_0101 1746778 1748388 EN yeah lor that's my sister
+NI27MBQ_0101 1748388 1752505 CS damn queer but damn funny but she is a bit fat la 应该 sportsman no 游泳 right
+NI27MBQ_0101 1752906 1757350 CS muscle 很大 then 我 妈妈 每次 不然 我们 每 每年 birthday 去 买 slimming package
+NI27MBQ_0101 1757699 1758901 CS celluwrap 跟她 wrap 一下
+NI27MBQ_0101 1759579 1760949 ZH 瘦一点 不然要 嫁不出去
+NI27MBQ_0101 1761952 1763006 ZH 猪 嘞 她
+NI27MBQ_0101 1763520 1765646 EN 
+NI27MBQ_0101 1765646 1766612 CS 要 wrap mah
+NI27MBQ_0101 1774225 1774554 CS 我的 clique
+NI27MBQ_0101 1776755 1777125 EN actually
+NI27MBQ_0101 1778194 1778629 EN actually
+NI27MBQ_0101 1779149 1779629 ZH 今年
+NI27MBQ_0101 1780053 1784523 CS 哎呀 应该 去年 思湄 有在 思湄 依琳 the in-sing gang la
+NI27MBQ_0101 1785208 1786989 CS ah then 因为 我 不是 in-sing 的 嘛 so
+NI27MBQ_0101 1787263 1790263 CS 每次 是 听 他们 唱歌 then 一直 笑 他们 geeti 每次 我 记得 你
+NI27MBQ_0101 1790619 1795430 CS 你的 咬字 不清 哦 咬字 开 嘴巴 开 大一点 know that kind of nonsense la then 我 like
+NI27MBQ_0101 1795430 1801537 CS geeti very fierce ei 我很怕 但是 geeti 如果 明年是 manager 我 不是 死 我 嘴巴 永远 不会 开 啊 唱歌
+NI27MBQ_0101 1802510 1805694 CS it's like yeah lor then 就 but in the end 他们 走了 so
+NI27MBQ_0101 1806064 1810559 CS so to me in the end i mean thank god 因为 我 只 认识 志洪 跟 shawn mah 因为 thirty five mah
+NI27MBQ_0101 1810998 1812902 CS then 那只 肥猪 我的 肥猪 又走了
+NI27MBQ_0101 1813998 1819422 CS chris mah then 就 真的 两个 thirty five la in the end 他 搬 回来 啦 then
+NI27MBQ_0101 1819880 1822967 CS so in the end 我是 through 他们 去认识 更多人 so
+NI27MBQ_0101 1823679 1826227 CS okay lor 就 有什么 crap at least 现在
+NI27MBQ_0101 1826419 1830556 CS at least 他 有去 那个 dinner clique 你 不觉得 比较 还 okay 啦la
+NI27MBQ_0101 1831043 1831276 EN so
+NI27MBQ_0101 1831756 1832413 ZH 做 什么 啊
+NI27MBQ_0101 1833331 1833961 ZH (呃)
+NI27MBQ_0101 1833961 1836002 CS 我 跟 kayle 很喜欢 扮 家家酒
+NI27MBQ_0101 1836865 1838503 CS 很 crap 的 我 跟你讲 门一关 哦
+NI27MBQ_0101 1838503 1839723 CS kayle 我们 来玩
+NI27MBQ_0101 1839723 1842928 CS then 就拿 你懂 那个 lilo and stitch 吗 我们 去 be 那个 guitar 对吗
+NI27MBQ_0101 1843161 1848198 CS 我就 把它 当 violin kayle 就拿 一个 那个 那个 pencil 就做 conductor
+NI27MBQ_0101 1848198 1848627 CS then 我们这样
+NI27MBQ_0101 1850189 1852613 ZH 就在 那边 拼命 拉 拉拉 完了 就讲 我要 唱歌 了
+NI27MBQ_0101 1852997 1854709 CS 我就 那边唱 那边唱 那边唱 then
+NI27MBQ_0101 1855011 1860326 CS 因为 他们 那天 practice 五六六 嘛 then 我就 帮他 配音 咯 因为 kayle 一个人 唱 很 mad 的 我就 陪他
+NI27MBQ_0101 1860502 1861283 ZH 我 陪你 唱
+NI27MBQ_0101 1861653 1864379 CS then you know we sing sing sing sing sing then damn interesting then 每个人 就管
+NI27MBQ_0101 1864489 1865626 CS 诶 你们 sot 啊 不用 读书 啊
+NI27MBQ_0101 1866014 1868556 ZH 不用 啦 给 我们 唱一下 啦 唱完了 就 啊 很爽
+NI27MBQ_0101 1868984 1873084 CS then 就 jimmy 回来 jimmy jim 有很多 那种 怪怪的 video then 就 这样看
+NI27MBQ_0101 1873497 1874936 CS 过后 就去 roll 志鸿 的 bed
+NI27MBQ_0101 1876077 1878681 CS but too bad 因为 那时 shawn 的电话 不是被 stolen lor 所以
+NI27MBQ_0101 1879016 1880146 ZH 他 现在 比较 少开
+NI27MBQ_0101 1880146 1882499 ZH 如果 以前 不然 你 借我 看 的时候 哦 你 自己 回去 看
+NI27MBQ_0101 1882857 1885202 CS 两个 赤裸裸的 男生在 sleeping
+NI27MBQ_0101 1885202 1885758 EN woo-hoo
+NI27MBQ_0101 1885758 1887131 CS sexy come help you 拍照 啊
+NI27MBQ_0101 1887402 1889533 CS 拍了 after that 就 post 有没有看
+NI27MBQ_0101 1890531 1893439 EN two handsome guys sleeping together
+NI27MBQ_0101 1893597 1894346 EN exciting
+NI27MBQ_0101 1894346 1896085 ZH 没有 咯 就是 这样 啦 就 给人家 看 那种
+NI27MBQ_0101 1896592 1898627 CS nonsense 的 啦 what~ 过去 darres 那边
+NI27MBQ_0101 1898680 1902824 CS 把 他的 stitch 抢走 derres 就 把 我的 dog 拿掉 不懂 拿到 哪里去
+NI27MBQ_0101 1903460 1904051 EN yeah lor
+NI27MBQ_0101 1905404 1906420 EN happening la in the sense
+NI27MBQ_0101 1906420 1908652 CS that's why 我是 觉得 如果 明年 真的 没有得 住了 right
+NI27MBQ_0101 1909103 1911196 CS 会 觉得 很 sad 因为 你的 clique
+NI27MBQ_0101 1911360 1913615 CS then 现在 他们 又 有些人 回来 有些人 去
+NI27MBQ_0101 1914014 1916216 CS so it's like yeah lor 很 sad leh
+NI27MBQ_0101 1916525 1923353 CS i mean 这个 是 afterall (er) friendship 我 觉得 在 uni 很难 built 一个 true friendship especially 如果 你不住 hall 的话
+NI27MBQ_0101 1923623 1925117 CS 你的 hi bye friend 就是 那几个
+NI27MBQ_0101 1925493 1929280 CS then it's like is when you come to hall 你 睡在 一起 吃 在一起 你 share 水
+NI27MBQ_0101 1929612 1934537 CS 我 还记得 一个 很 stupid 的 confrontation 去年 chinese new year mah 我的 g. p. a. 就 不是 很好 then
+NI27MBQ_0101 1934537 1937833 CS then 凯扬 g. p. a. 是 很高的 then 我们 讲 我们 喝 凯扬的 口水
+NI27MBQ_0101 1938387 1940334 ZH 一定 可以的 我们 就讲 凯扬 喝水先
+NI27MBQ_0101 1940699 1947741 CS 喝了 每个人 喝了 哇 感觉到 凯扬 的 power wi 我 exam 一定 sui sui 的 ace 的 i tell you 那种
+NI27MBQ_0101 1947874 1950927 CS then 真的 s~ true enough 我 真的是 g. p. a. 两倍 诶
+NI27MBQ_0101 1951392 1953471 CS was like 凯扬 yes
+NI27MBQ_0101 1953759 1959356 CS you know 那种 哇 今年的 mana 又 drop 我 就说 啊 叫 凯扬 再 喝多 一杯 我们 今年 再 再去 try
+NI27MBQ_0101 1959356 1960418 EN 
+NI27MBQ_0101 1960418 1962941 CS crap la 那种 很 nonsense lor then 我记得
+NI27MBQ_0101 1963240 1964880 CS 我 觉得 我在 thirty five 很 happening 的 因为
+NI27MBQ_0101 1965140 1966883 CS 去 reading room mah then 我 住一楼 对吗
+NI27MBQ_0101 1967173 1969805 CS 衣服 不是 每次 拿去 晒 哦 then 如果 我们 在 reading room 看了
+NI27MBQ_0101 1969805 1970522 EN 
+NI27MBQ_0101 1970522 1972029 CS 下雨了 湿 你 看 我 跟 shawn
+NI27MBQ_0101 1972300 1976293 CS auntie leh 跑跑跑 跑回去 把衣服 搬回去 因为 怕 要重洗
+NI27MBQ_0101 1977524 1982146 CS 真的 很 miss like those moment lor 现在 都 不可以的 洗衣服 都 晒不干的
+NI27MBQ_0101 1982936 1983594 EN yeah lor
+NI27MBQ_0101 1985117 1988437 CS 因为 那边是 ion-orchard 我从 pulau-ubin 可以 出来 都好 嘞
+NI27MBQ_0101 1988876 1991157 CS can you imagine 每次 hall event 完 喏
+NI27MBQ_0101 1991567 1994640 CS 就我 shawn 志鸿 三个人 走 回去 自己
+NI27MBQ_0101 1995277 1995774 ZH 回去 那个
+NI27MBQ_0101 1996388 1997471 EN 
+NI27MBQ_0101 1997471 2002005 CS 那种 没有人的 我的 我 neighbour 又是 印度人 诶 然后 neighbour 很 irony
+NI27MBQ_0101 2002972 2007886 CS parent 来 visit mah year one 时候 他讲 leave it to me i will take care of him you know
+NI27MBQ_0101 2008237 2010475 CS after 我 parent 一走他 door 就 slam oh it's like
+NI27MBQ_0101 2010828 2016225 CS 你 不是讲 你要 take care what the hell 你在 那边 都是 骗我的 嘞 then it's like yeah lor then damn sad la
+NI27MBQ_0101 2016767 2022970 CS 这种 like then 那时 又 chocolate meiji chocolate 的味道 对 啊 i also fainted 每天 闻到 coco powder
+NI27MBQ_0101 2023512 2023921 ZH 真的
+NI27MBQ_0101 2024374 2030912 CS then 你们 又住 四楼 then 又 很少 看到 你们 因为 你们 每次 在那边 so waiji 偶尔 下来 washing machine 的时候
+NI27MBQ_0101 2031381 2035731 CS 就 坐下来 roll 一下 我们的 bed then 然后 就这样 走回去了 yeah lor
+NI27MBQ_0101 2041442 2042198 EN two o one o ah
+NI27MBQ_0101 2046410 2049517 CS (er) serious 一点 (吧) 我 觉得 因为 我 觉得 我很 crap leh i mean
+NI27MBQ_0101 2050000 2053684 CS 有时 太 entertaining 也不是 很好 in the end 人家 会 觉得 很 crap lor
+NI27MBQ_0101 2053684 2055669 CS 每次 都 没有人 要 serious 我觉得
+NI27MBQ_0101 2055669 2057762 EN i think it's time to be serious
+NI27MBQ_0101 2058928 2062275 CS 没有 啦 but 就 就 really sit down and think through lor
+NI27MBQ_0101 2062335 2062713 ZH 没有
+NI27MBQ_0101 2063008 2065586 CS 好像 我 还 蛮老的 今年 都要 二十四 already
+NI27MBQ_0101 2066085 2068563 CS then 有一点 适婚 年龄 的 那种 感觉
+NI27MBQ_0101 2069092 2071140 CS 要 找个 伴 好好 you know kind of thing
+NI27MBQ_0101 2071747 2076955 CS 有时 会觉得 you know 每次 kayle 问我 你 有没有 觉得 很空虚 因为 two of us 还 single mah
+NI27MBQ_0101 2077431 2079486 CS then 就 觉得 还蛮的 因为
+NI27MBQ_0101 2080143 2081988 CS friend 一走 right 你会 觉得
+NI27MBQ_0101 2082424 2084623 CS oh no 我 没有 可能 去粘着 ivan mah
+NI27MBQ_0101 2084623 2087731 CS ivan 要跟 佳慧 讲话 m. s. n. 一下 then okay la 我
+NI27MBQ_0101 2087731 2091711 CS 跟 michelle 讲讲 一下话 聊聊 睡觉 的时候 (呃) 真的 还蛮
+NI27MBQ_0101 2092951 2093586 EN yeah lo so
+NI27MBQ_0101 2094071 2096512 CS okay la 就 be serious lor think through then
+NI27MBQ_0101 2097011 2098614 CS 希望 hexis 安全
+NI27MBQ_0101 2099082 2103700 CS o. c. 安全 hall six okay la 如果 可以住 的话 是 bonus 真的
+NI27MBQ_0101 2104020 2106574 EN a bit like ourselves i don't expect myself to stay next year because
+NI27MBQ_0101 2107544 2110056 CS contribute 不是 很多 而且 我没有 contribute in sports
+NI27MBQ_0101 2110497 2114169 CS so 我 觉得 啊 还 蛮内疚的 i mean everytime 我 每次 拿回 hall 的时候 觉得
+NI27MBQ_0101 2114737 2118527 CS walao 没有 sports non sportsman 去住 你是 stupid 的 耶 真的 啊 like
+NI27MBQ_0101 2119090 2122443 CS 就 that's why 我 try very hard to contribute in other areas
+NI27MBQ_0101 2123404 2126584 CS publicity 我 可以做 hexis 我 今年 可以做 就做
+NI27MBQ_0101 2127074 2129763 CS o. c. 是 我 强项 啊 因为 我 觉得 我可以 crap mah then
+NI27MBQ_0101 2130255 2133468 CS 不会 不认识 的人 我 都 可以要 打一下 跟他讲 hi 的 then ah 叫
+NI27MBQ_0101 2133468 2136253 CS okay la o. c. 应该是 okay so that's yeah lor
+NI27MBQ_0101 2137402 2139712 EN yeah la that's my new year resolution ah
+NI27MBQ_0101 2145588 2147430 CS eye candy 有 嘞 but 我觉得 hall
+NI27MBQ_0101 2147430 2148920 EN 
+NI27MBQ_0101 2148920 2151027 CS 你 不可以 讲 哦 我 跟你讲 你讲 我 把 你 巴死 没有 actually
+NI27MBQ_0101 2151371 2153514 CS year one 时候 我觉得 欣妮 还蛮 不错的
+NI27MBQ_0101 2154304 2156722 CS 嗯 然后 year two 的时候 我觉得 michelle
+NI27MBQ_0101 2158298 2159876 CS but 我 觉得 不可能
+NI27MBQ_0101 2160466 2161153 ZH 不可能 因为
+NI27MBQ_0101 2161698 2165522 CS 她的 内心 世界 很难 dissemble 而且 很多 男生 喜欢她
+NI27MBQ_0101 2165982 2166420 ZH 过后 觉得
+NI27MBQ_0101 2166769 2167000 ZH 就
+NI27MBQ_0101 2167664 2168283 CS yeah 就是
+NI27MBQ_0101 2168586 2170843 CS like as a friend lor 就是 as a friend 就觉得她
+NI27MBQ_0101 2171079 2172646 CS 不错的 eye candy 不错 嘛
+NI27MBQ_0101 2173150 2174881 CS yeah 就 嗯
+NI27MBQ_0101 2176837 2180065 CS 我 觉得 在 hall 是一个 很 scary 的东西 因为
+NI27MBQ_0101 2180820 2184343 CS overnight 你们 可以做 girlfriend boyfriend mah 如果 一旦 吵架了 你会 觉得
+NI27MBQ_0101 2185198 2188747 CS 你当 i mean touch wood let's say 你 break up 你会 觉得 不只是 你跟她 break ei
+NI27MBQ_0101 2189109 2190839 CS 你 跟你 social 那些 朋友 right
+NI27MBQ_0101 2191223 2194273 CS 一次过 会完 so 我不想 jeopardize 这种 relationship
+NI27MBQ_0101 2194706 2198509 CS 我会 觉得 如果 要的话 就可能 在学校 找找 一下 then after that 就走了 就走了
+NI27MBQ_0101 2198509 2201030 CS but hall six to me 我 觉得 是 一个 很
+NI27MBQ_0101 2201982 2203555 EN a place where i very treasure my friend ah
+NI27MBQ_0101 2204051 2204507 CS because 我觉得
+NI27MBQ_0101 2205210 2209329 CS 我的 bad habit 都给 人家 看到完 了 嘛 我就 睡觉 就是 就是 就 这样 睡 而已 嘛
+NI27MBQ_0101 2209695 2213062 CS 我 complain 也可以 complain 哭 也 哭过了 scream 也 scream 过了
+NI27MBQ_0101 2213652 2214313 ZH 有 啊
+NI27MBQ_0101 2215536 2217008 CS 因为 这种 我 觉得 也是 很 sad ei
+NI27MBQ_0101 2217416 2220384 CS 你会 觉得 哎呀 你 做 这样多 然后 人家 不会 appreciate
+NI27MBQ_0101 2220796 2224844 ZH 不然 就是 有时 就很 无缘无故 人家讲 为什么 你来 你 哪里 讲 我 诶
+NI27MBQ_0101 2225752 2228207 CS walao 没有 讲到你 诶 then 你 现在 讲 我 讲 你 嘞
+NI27MBQ_0101 2228264 2229534 EN it's like damn sad la it's like
+NI27MBQ_0101 2229977 2230477 ZH 不然 就是
+NI27MBQ_0101 2231109 2231525 EN yeah lor
+NI27MBQ_0101 2232219 2233608 CS 有时 会很 气 咯 but
+NI27MBQ_0101 2234051 2235387 ZH 不然 就是 有时气 是 气 什么
+NI27MBQ_0101 2235387 2238641 CS 自己 没有 perform up to the s~ the the expectation
+NI27MBQ_0101 2239119 2242547 CS then 有一次 就 the hall six 的 culture right 就是 很 last minute 的 嘛
+NI27MBQ_0101 2242952 2247544 CS then 读书 读不好 啊 这边 又 rush 不到 then 就 觉得 哇 pek-chek so yeah in the end 是
+NI27MBQ_0101 2248233 2253780 CS yeah la 虽然 i 我 不要 jeopardize 这边的 relationship where i felt although reasonably good la i mean
+NI27MBQ_0101 2254346 2257601 CS i wouldn't say 我 我跟 每个人 都是 很 ra-ra 的 then 看 我人 哇 damn 宅 no
+NI27MBQ_0101 2258041 2260673 CS 就 at least the the the friends that 我 有的
+NI27MBQ_0101 2261088 2262954 CS 我就 好好 maintain lor
+NI27MBQ_0101 2263021 2265056 CS at least 可以 走下去 走到 四年完 如果
+NI27MBQ_0101 2265755 2269711 CS come out to work 了 还 可以 出来 讲话 可以 join wah 可以 join alumni 的话 okay
+NI27MBQ_0101 2270080 2273424 CS then not bad la tan people 哭 哭 哭 多一点 而已 嘛 you know kind of thing
+NI27MBQ_0101 2273991 2275079 EN memories lor
+NI27MBQ_0101 2276286 2278075 EN yeah that's why no la
+NI27MBQ_0101 2278751 2280089 EN no la not not at the moment la
+NI27MBQ_0101 2280425 2282496 CS but ei 如果有 potential 要介绍 hor
+NI27MBQ_0101 2282947 2285151 ZH 人 老了 嘞 不是 很帅 嘞 hor
+NI27MBQ_0101 2285505 2288531 CS sports 不会玩 瘦干干 像一只 那个 bamboo stick 这样
+NI27MBQ_0101 2288703 2290052 ZH 没有条件 哪
+NI27MBQ_0101 2290558 2291294 ZH 欣妙 啊
+NI27MBQ_0101 2292541 2294205 CS 欣妙 喜欢 castel mah 不是 嘛
+NI27MBQ_0101 2294514 2298233 CS 没有 i mean 欣妙 actually 欣妙 我 觉得 是一个 很好的 朋友
+NI27MBQ_0101 2298481 2301237 EN but maybe when come to uh as a relationship wise
+NI27MBQ_0101 2301715 2306096 CS i think when you 你 expect from friend and versus you expect your partner 我 觉得 很不一样
+NI27MBQ_0101 2306805 2308810 CS plus 我 因为 我是 christian mah so
+NI27MBQ_0101 2309123 2310972 CS of course 如果 可以 拿到 christian girlfriend
+NI27MBQ_0101 2311459 2311653 ZH 会
+NI27MBQ_0101 2312476 2315816 ZH 比较好 不然 我 我觉得 把她 拉进去 的时候 我觉得 她 很痛苦
+NI27MBQ_0101 2316577 2318438 CS i mean 我 不想 去 逼 一个人 although
+NI27MBQ_0101 2319163 2321773 CS as much as 我 不想 把她 拉进 christian 去
+NI27MBQ_0101 2322259 2325450 CS but then 我的 community is such that she has to be you don't know
+NI27MBQ_0101 2325795 2329174 ZH 等下 我就 觉得 我 不想去 逼 那个人 我觉得 很幸苦
+NI27MBQ_0101 2330308 2332723 CS at least 我 我得 给她有 她 自由 空间
+NI27MBQ_0101 2332723 2336129 CS but then again 我觉得 我会 我 是一个 很没有 自信的 一个 男生
+NI27MBQ_0101 2336749 2338297 EN i mean like in a sense
+NI27MBQ_0101 2339014 2339456 EN (erm)
+NI27MBQ_0101 2340243 2342331 EN for me la my past relationship is that
+NI27MBQ_0101 2342974 2345070 CS 我会 我给 那个人 太多 空间 啊 i mean
+NI27MBQ_0101 2345070 2346398 ZH 我 不会 我 我还 我
+NI27MBQ_0101 2346725 2349176 CS as much as 我 很想做 m. c. p. 我 不想 because 我觉得
+NI27MBQ_0101 2349618 2351202 EN no point forcing the person mah but
+NI27MBQ_0101 2351538 2355995 CS in the end 那种 空间 那种 freedom 你给 给人家 觉得 诶 我 没有 去 关心 她
+NI27MBQ_0101 2356376 2361371 CS so in the end 就会 越来越 away then 觉得 很 sad 你 没有 去 cheerish 一个 relationship
+NI27MBQ_0101 2361371 2364749 CS although 你会 觉得 两个人 都 彼此 都很 like each other you know
+NI27MBQ_0101 2364926 2368991 CS that that kind of yeah but 就 because of this kind of communication gap so
+NI27MBQ_0101 2369925 2372818 CS it's sad ah 会这样 讲 还 觉得 还蛮 sad 的 so
+NI27MBQ_0101 2373464 2376109 CS yeah that's why 现在 要 我去 start relationship
+NI27MBQ_0101 2377081 2383114 CS 有点难 unless 是 以结婚 为前提 to to to you know to talk about it yeah to commit lor
+NI27MBQ_0101 2386690 2387751 ZH 不可以
+NI27MBQ_0101 2388079 2392033 CS no no no 燕青 是 我觉得 燕青 不可能的 燕青 她
+NI27MBQ_0101 2392397 2396037 CS 她的 她很 依赖人 and 我 不是 那种 给你 依赖的
+NI27MBQ_0101 2396374 2402521 CS i mean 我 不是 那种 like 我今天 我跟你 我跟你 在一起了 then 你就 restrict 我跟我 girl 的 commini~ communi~
+NI27MBQ_0101 2402521 2404309 CS 因为我 okay la 我 蛮娘的 嘛
+NI27MBQ_0101 2404716 2405963 EN so i mean
+NI27MBQ_0101 2406644 2408268 CS i cannot live without the girls 因为 有时候 我觉得
+NI27MBQ_0101 2408675 2414294 CS 老实讲 有些 girls 我 跟她 讲心事 的时候 啊 她们 还 at least 还有 跟我讲 so 我 觉得 很 you know i mean appreciated
+NI27MBQ_0101 2414798 2418195 CS guys yeah 他们 会讲 but to a certain extent 他 会 觉得 哦 that's it lor
+NI27MBQ_0101 2418530 2423732 CS but girls until 她会 去 probe 你 她会讲 诶 are you still okay 我 就觉得 walau appreciated leh 那种
+NI27MBQ_0101 2424192 2426210 CS but 如果 imagine 燕青 的话 我 觉得 她会 把我
+NI27MBQ_0101 2426723 2428050 CS 把我 就是 barrier
+NI27MBQ_0101 2428475 2432653 CS 燕青 winson winson 燕青 燕青 winson 那种 我会 觉得 我会死
+NI27MBQ_0101 2432653 2437682 CS because i am not those where by 我会 stick together forever 那种 你要 给我 一点 空间 to make
+NI27MBQ_0101 2438287 2440141 EN so that i am a healthy relationship people
+NI27MBQ_0101 2440663 2440927 EN and
+NI27MBQ_0101 2441762 2444796 CS come on la 我 又不是 一定 会跟你 结婚 you know kind of
+NI27MBQ_0101 2445589 2447184 EN what makes you think that i will be
+NI27MBQ_0101 2448258 2450767 CS 对 啦 but then not not possible then
+NI27MBQ_0101 2450983 2454203 CS 那 那 只 猪脸 can not la i mean ei 她 很喜欢 撒娇的 嘞
+NI27MBQ_0101 2454203 2454909 CS nope 你是
+NI27MBQ_0101 2454909 2455100 EN <unk>
+NI27MBQ_0101 2455100 2457801 CS 你会 觉得很 偶尔 一两次 okay la
+NI27MBQ_0101 2457801 2461299 CS but imagine twenty four seven 如果 这样做 因为 他认识你 right
+NI27MBQ_0101 2461682 2463706 CS 你会 觉得很 turn off 的 咯 真的
+NI27MBQ_0101 2463706 2469143 EN 
+NI27MBQ_0101 2469143 2471203 EN okay lor it is like fine
+NI27MBQ_0101 2471735 2474135 ZH 你看 她讲 那种 因为 我跟 你们 很熟
+NI27MBQ_0101 2474617 2478431 CS then 就这样 诶 你 知道 她 她 有跟 人家 表白过 吗 跟 我们 hall 的表白过
+NI27MBQ_0101 2480318 2482137 CS 白色的 honda 因为 不可以 讲 啊 这个
+NI27MBQ_0101 2483708 2486166 CS (呃) 很像 很像有 嘞 then 她就
+NI27MBQ_0101 2486927 2490092 CS 他们 就说 有点 awkward la then that's why castel 现在 觉得 有点
+NI27MBQ_0101 2490275 2493969 CS 看到 她 有点 awkward 的感觉 but 就是 以一个 朋友的 身份 咯
+NI27MBQ_0101 2497468 2499303 CS 诶 她有跟 ah-bu 表~ 他喜欢 ah-bu meh
+NI27MBQ_0101 2500782 2503226 ZH 我懂 这一次 她 喜欢的 小老虎 啊 那个 叫什么
+NI27MBQ_0101 2503311 2506925 CS 听过 她的 story but 我 我 不懂 她 喜欢 嘞
+NI27MBQ_0101 2507755 2508314 ZH 有吗
+NI27MBQ_0101 2509170 2514866 CS 诶 她 很勇敢 嘞 她 还去 表白 我不敢 我 觉得 我 我怕 被 我 跟你讲 我 一个人 我怕 被 reject
+NI27MBQ_0101 2516546 2519954 CS 因为 imagine 我 我 鼓起 勇气 去 去
+NI27MBQ_0101 2520064 2521648 CS then 我 又是 很梦幻的 然后我
+NI27MBQ_0101 2522274 2525305 CS 超喜欢 看 偶像剧的 耶 actually 你 有看 下一站幸福 吗
+NI27MBQ_0101 2525899 2528505 CS oh my god 去看 去看 我 看到哭 诶 i really cry you know
+NI27MBQ_0101 2528824 2529754 CS 因为 我觉得 very sad
+NI27MBQ_0101 2530139 2531535 ZH 哈 你看 命中注定 吗
+NI27MBQ_0101 2532019 2532470 ZH 我哭
+NI27MBQ_0101 2533053 2534339 ZH 败犬女王 我哭
+NI27MBQ_0101 2534955 2537161 CS 那时 我记得 我 my first time i know jimmy
+NI27MBQ_0101 2537480 2542230 CS then 我就在 他的房间 嘛 因为 就说 哎呀 反正 都要 做 roomie 了 就去 他 房间 then 我 就在 看 computer ai
+NI27MBQ_0101 2543143 2544797 CS then 我就 自己 一个人 那边 哭 诶
+NI27MBQ_0101 2545434 2547644 CS 哭哭哭 trigger trigger trigger then he turn back ai
+NI27MBQ_0101 2548535 2550559 CS why you cry says no 你 不要 管我
+NI27MBQ_0101 2550911 2554419 CS 我现在 immerse into 败犬 in that 我就 一直哭 一直哭 哦 then 就
+NI27MBQ_0101 2554837 2557235 CS 他 就有点 吓到 (嗯) winson 为什么 这样 emo-ious 的那种
+NI27MBQ_0101 2557873 2558665 ZH 你 不要 后悔 哦
+NI27MBQ_0101 2558665 2560545 CS 把我 tick roomie right 那种 没有 啦 然后 就看
+NI27MBQ_0101 2560919 2563206 CS then 就 in the end 他就 他 每个人 这样 看了
+NI27MBQ_0101 2564444 2566335 CS very normal leh 因为 他在 看 偶像 剧
+NI27MBQ_0101 2566335 2568150 EN 
+NI27MBQ_0101 2568618 2571983 CS yeah lor ai but 真的 我还蛮 emo 的 啦 so
+NI27MBQ_0101 2572742 2574765 CS after that 我 that's why i cannot take rejection
+NI27MBQ_0101 2575095 2578026 CS 因为 从小到大 我没有 被 reject 过 public 每次追 还蛮 成功
+NI27MBQ_0101 2578642 2581007 CS 那 romantic 我 有很多 那种 鬼点子的 but after that
+NI27MBQ_0101 2581337 2583669 CS 要 last after 两个 month 我 觉得 很困难 嘞
+NI27MBQ_0101 2583669 2593914 CS 因为 我的 idea used up but so that's where 我要 change to 很真心 然后 kind like 去对待 那个人 which i learning that's something that i am weak at lor but 我 会去 尝试
+NI27MBQ_0101 2597751 2600687 EN 
+NI27MBQ_0101 2601557 2604141 CS 他很 complicated leh 老实讲 他
+NI27MBQ_0101 2604361 2606153 ZH 我懂 他跟 美旋 在一起
+NI27MBQ_0101 2606516 2609221 CS but 那时 我 因为 我 不认识 他 也 不认识 我的 学姐
+NI27MBQ_0101 2610037 2612320 CS so 我不懂 what happen to them
+NI27MBQ_0101 2612320 2616546 CS but 我觉得 那个 match 那个 很不搭 那个 那种 combination 我觉得 很怪 哦 but
+NI27MBQ_0101 2617173 2623997 EN he also didn't share but just that he felt that it was just just a short span and they move on after that la so
+NI27MBQ_0101 2624878 2625263 EN okay la but
+NI27MBQ_0101 2625593 2628287 ZH 他很害~ 内心 也跟 我 一样 空虚
+NI27MBQ_0101 2628287 2628749 EN 
+NI27MBQ_0101 2628749 2630563 ZH 三个 空虚的 男生 住在
+NI27MBQ_0101 2630728 2635697 CS 我有 我 跟他讲 过 为什么 不要 选 vicky then 他 是 觉得 他有 consider 过 啦
+NI27MBQ_0101 2636103 2636554 CS but 就
+NI27MBQ_0101 2637027 2639919 ZH 不懂 嘞 就没有 就没有 那个 发展下去
+NI27MBQ_0101 2640592 2643275 CS 我也 不知道 but 我 老实讲 我觉得 vicky 如果她
+NI27MBQ_0101 2643621 2646156 CS 如果 凯扬 没有 girlfriend 的话 我觉得 vicky 和 凯扬 会很配
+NI27MBQ_0101 2647768 2649880 CS 因为 凯扬 很随便 but height height wise
+NI27MBQ_0101 2650406 2655050 CS 不要讲 啦 凯扬 那只 这样高 那只 giant 谁 会去 you know who can match him
+NI27MBQ_0101 2655050 2659271 CS 我 我觉得 我 很难 去 match ai 如果 我 做女生 我 也是 喜欢 凯扬 damn 帅 诶
+NI27MBQ_0101 2660030 2663855 CS 又高 又大 又随便 然后 觉得 他很 accommodating 真的
+NI27MBQ_0101 2664439 2665796 EN then yeah lor but
+NI27MBQ_0101 2666437 2668460 CS 不懂 欸 but jimmy 有 喜欢的人 欸
+NI27MBQ_0101 2669301 2670090 CS year one 的
+NI27MBQ_0101 2671350 2675720 CS basketballer 我 只可以 跟你 讲到 这边 因为 这个 是他的 secret 我 不可以 disclose
+NI27MBQ_0101 2675770 2677412 CS ah basketballer 的 year one 的
+NI27MBQ_0101 2679007 2681950 CS then then 你 你 不可以 讲
+NI27MBQ_0101 2681950 2682167 EN <unk>
+NI27MBQ_0101 2682167 2683433 ZH 你讲 我真的 巴你 我 跟你讲
+NI27MBQ_0101 2684545 2685313 CS but yeah lor 他
+NI27MBQ_0101 2685881 2687819 CS he is 我 觉得他
+NI27MBQ_0101 2688786 2692740 CS 对 exactly 就是 因为 这样 他 很难 去 initiate a conversation
+NI27MBQ_0101 2694455 2696231 ZH 你 不要 跟我讲 啊 真的 真的 你有空 你
+NI27MBQ_0101 2696885 2698747 CS 制造 一些 机会 啦 but yeah la but
+NI27MBQ_0101 2699543 2700580 ZH 就是 你讲 对人 嘛
+NI27MBQ_0101 2701391 2705940 CS 啊 对 啦 i mean 他 我 觉得他 他刚才 他 跟我 讲过 他喜欢的 他 叫我 不要 跟 人家 讲
+NI27MBQ_0101 2706270 2709100 CS 因为 他觉得 很 shy i mean 男生 嘛
+NI27MBQ_0101 2709592 2711676 CS i mean 就 imagine 我喜欢
+NI27MBQ_0101 2711676 2717610 CS then after that 每个人 哇 懂 他喜欢你 你喜欢 then in the end 那个 relationship 还蛮 restrain 因为 in the end 每个人 很尴尬
+NI27MBQ_0101 2717816 2720616 ZH 我 看到你 我 不敢 跟你 讲话 因为 你懂 我喜欢你
+NI27MBQ_0101 2721116 2722509 CS yeah lor so in the end 就 啊
+NI27MBQ_0101 2723802 2730070 CS 所以 yeah lor then 他就 每次 就是 空虚 三个 空虚的 男生 住在 一起 又 睡在 一起 then 就是 很 sad yeah
+NI27MBQ_0101 2732964 2735039 CS as much as he wants to 我觉得 他 很难 诶
+NI27MBQ_0101 2735664 2737568 CS what what's there in common 他 没有 join basketball
+NI27MBQ_0101 2738322 2742460 CS 她 不住 thirty two 她的 clique 跟 我的 clique 又不一样
+NI27MBQ_0101 2742830 2747710 CS so in the end 宁愿 做什么 and 又 s. m. s. 她 hexis how are you ah 那种 没有 嘛
+NI27MBQ_0101 2749836 2750888 ZH 对 咯 我 这样 觉得
+NI27MBQ_0101 2751428 2753020 EN 
+NI27MBQ_0101 2753290 2759631 CS 可以 啊 可以 啊 i mean 我 可以 帮他 我们 两个 一起去 then 叫 cynthia 跟她 roomie 一起去 then 给他们 制造 一下 then 我们 去找 事情 马上走
+NI27MBQ_0101 2760100 2762232 CS 不要 讲话 yeah la
+NI27MBQ_0101 2763525 2764420 ZH 我 肚子 好饿
+NI27MBQ_0101 2767450 2772282 CS 我 很惨 诶 因为 can two (er) 我 没有车 啦 没有像 帆江 有车
+NI27MBQ_0101 2772737 2774116 CS then 就 (呃)
+NI27MBQ_0101 2774345 2778622 CS can two lor 不是 这边 吃炒饭 后来 吃菜 我 跟你讲 我 会 背那种 smell
+NI27MBQ_0101 2779020 2781948 CS 每次 要走到 can two 我 就 这样想 smell 又是 一样的
+NI27MBQ_0101 2782360 2786708 CS then 就 but ok la 因为 就是 friends mah 吃来吃去 吃 那几样 kope 人家 食物 咯
+NI27MBQ_0101 2787490 2788655 CS ai but 我 跟你讲 一样 东西 诶
+NI27MBQ_0101 2789430 2790460 CS 那时 exam right
+NI27MBQ_0101 2790915 2797689 CS 帆 诶 是凡 在读 不是 (呃) 明秀 在读 dong (呃) 不是 dong 明秀 那个 另外 一个 明秀 c. m. 明秀
+NI27MBQ_0101 2798044 2801526 CS then 她在 读书 then 她 不是 戴 她 白色的 眼镜 头发 很乱 咯
+NI27MBQ_0101 2801898 2804314 CS then 我就 以为 是 焕帆 在看 lecture ai
+NI27MBQ_0101 2804726 2808620 CS then 焕帆的 眼镜 白色 对 啊 帆的 眼镜 是白色 啊 then 我在 那边 写写写写
+NI27MBQ_0101 2809140 2811016 CS 哇 他的 头发 很像 很长 很 messy hor
+NI27MBQ_0101 2811357 2818250 CS then 我 turn behind aiyou 是明秀 吓到 诶 然后 我就 because side view 很像 诶 then 我就 帆 做女生 很成功
+NI27MBQ_0101 2819485 2820295 ZH 哇 很媚
+NI27MBQ_0101 2820992 2825255 CS yeah 啦 帅 啦 因为 cute 他 yeah lor then 他在 那边 诶 我要 跟你讲
+NI27MBQ_0101 2825923 2826492 EN yeah lor
+NI27MBQ_0101 2836017 2836533 EN part time ah
+NI27MBQ_0101 2837144 2843796 CS (er) okay 我 我 我 不是 做 很多 啊 我 第一个 第一份 工 can you imagine 我去 kinokuniya 做工
+NI27MBQ_0101 2844810 2845563 ZH 做什么 你懂 吗
+NI27MBQ_0101 2845777 2848619 CS 撕 那种 porn 因为 他们 japanese 不是很 coming lor
+NI27MBQ_0101 2848619 2851831 CS then 我 帮 他们 撕 那个 porn pictures 因为 sensorship board mah
+NI27MBQ_0101 2852243 2858741 CS 只是 每天 在那边 撕 那个 picture 很恶心的 你 一直 在 那边 看 一样的 东西 then 一直 一直 撕 咯 then 就去 shrink wrap 那种东西
+NI27MBQ_0101 2858968 2861484 CS 因为 那时 我 还不是 很喜欢 跟人家 communicate
+NI27MBQ_0101 2861868 2865338 CS 就觉得 我 就是 那种 我 跟树 讲话 树 跟我 笑 that's it 那种 东西 啊
+NI27MBQ_0101 2865712 2866038 ZH 后来
+NI27MBQ_0101 2866482 2871234 CS poly 的开始 我 啊 chit chat chit chat 很多 crapie 因为 r. p. mah then 我 就去做 expression 帮人 减肥
+NI27MBQ_0101 2871608 2875131 CS aiyou auntie oh 你这样 这样瘦 哦 这样肥
+NI27MBQ_0101 2875896 2878260 CS you need to have slimming package ah 我 给你 四个 package
+NI27MBQ_0101 2878828 2883582 CS auntie 你 package 六个 package 要完了 我 帮你 加多 十个 package 那种 you know that kind of thing ah so in the end 我 就做 那个
+NI27MBQ_0101 2884942 2885867 ZH 后来 做完了
+NI27MBQ_0101 2886303 2886933 ZH 出来了
+NI27MBQ_0101 2887119 2887563 ZH (呃)
+NI27MBQ_0101 2887765 2891210 CS before uni 我 就去做 credit card 的 卖 credit card
+NI27MBQ_0101 2891561 2895891 CS 超 好卖的 因为 我 会 这样 骗 auntie mah auntie 你 知道吗 这样摸 这边 那边摸 那边 touch
+NI27MBQ_0101 2896296 2898019 CS after that 就不懂 credit card 是不是 进来我
+NI27MBQ_0101 2898120 2900691 ZH 因为 我 做 蛮多的 赚 几千块 一个月
+NI27MBQ_0101 2901189 2903907 CS so not bad okay so after that 就到 这边
+NI27MBQ_0101 2904217 2907744 CS 哦 我现在 哦 我 我 现在 刚刚 拿到 一个 anchor job
+NI27MBQ_0101 2908124 2911192 CS so in the end 我 每天 就去 教书 咯 i mean holiday 的时候 就
+NI27MBQ_0101 2911275 2914338 EN now you understand me don't understand go and key computer
+NI27MBQ_0101 2914712 2916839 CS 那种 那种 很像 computer consultant 这样的 啦
+NI27MBQ_0101 2916839 2918256 CS then 我 apply resorts world
+NI27MBQ_0101 2918940 2920510 CS so 希望 可以做 front desk
+NI27MBQ_0101 2920745 2922017 ZH 下一站幸福
+NI27MBQ_0101 2923047 2925660 CS yeah lor 就 yeah la but 我 part time job 不是 很多 因为
+NI27MBQ_0101 2926910 2928987 EN like from transition transition
+NI27MBQ_0101 2929335 2931249 CS 我 我的 transistion 蛮短 嘛
+NI27MBQ_0101 2931319 2933047 CS from army to uni just have 两个月
+NI27MBQ_0101 2933465 2933769 ZH 然后
+NI27MBQ_0101 2934334 2939063 CS june holiday 真的 没有 做工 因为 我要 出去玩 then 去 oversea so in the end yeah lor 就 没有 什么做
+NI27MBQ_0101 2944794 2948450 CS michelle and 永伟 啊 诶 那个 match 很 tak matching 她喜~ 她喜欢他 meh
+NI27MBQ_0101 2949483 2954529 CS 我觉得 反而是 bernert bernert 很喜欢 她 but bernert 已经 心灰意冷 了 i mean honestly
+NI27MBQ_0101 2954944 2958236 CS why because 绍伟 觉得 他 这个人 hor 每次 给错 signal
+NI27MBQ_0101 2958578 2959825 ZH 她跟 男生 很熟
+NI27MBQ_0101 2960287 2961541 CS but 她 会给 我们 那 signal 的
+NI27MBQ_0101 2962269 2964092 CS 我有 机会的 you know kind of thing
+NI27MBQ_0101 2964410 2967405 CS but 一旦 你去 表白 的时候 我觉得 bernert 这样 去 表白过
+NI27MBQ_0101 2967772 2968791 CS then 他 很像 fail
+NI27MBQ_0101 2969292 2971127 ZH 还是 他 继续 理她 时候
+NI27MBQ_0101 2971507 2972608 CS michelle 给他 很多 signal
+NI27MBQ_0101 2972946 2974630 EN so in the end it turn out to be that
+NI27MBQ_0101 2975422 2977157 CS 每个 男生 都很 喜欢的 why no
+NI27MBQ_0101 2977157 2982091 CS 诶 我 我 比你 老 诶 我 青春 已经 有限 already then 你 这样 这样 来 玩我
+NI27MBQ_0101 2983716 2985755 CS so 我 我 就觉得 哎呀
+NI27MBQ_0101 2986154 2986774 EN not possi~
+NI27MBQ_0101 2986952 2988440 CS then 永伟 怪怪的 嘞
+NI27MBQ_0101 2990103 2994402 CS 是 咩 gossip leh walao 我不懂 walao 喂 but 我 真的 不知道 i mean
+NI27MBQ_0101 2998392 3000570 ZH 哎哟 这是 新的 我 明天 要去 问他
+NI27MBQ_0101 3002217 3003401 CS then 他 quit school 了 嘞 懂吗
+NI27MBQ_0101 3004439 3006035 CS 她在 a. d. m. 活不下去
+NI27MBQ_0101 3006035 3006975 EN so in the end she say
+NI27MBQ_0101 3006975 3008352 EN she'll not quit school- she'll quit school
+NI27MBQ_0101 3008914 3009490 EN so that day
+NI27MBQ_0101 3009876 3011459 ZH 她 她 已经 两个 礼拜 没有 上学了 嘛
+NI27MBQ_0101 3011693 3015236 CS 那天 我就 很 worry 我 就把她 拉去 then 我 叫她 跟我 一起去 学校 上课 咯
+NI27MBQ_0101 3015622 3016939 CS so 那 整天 她 陪我 啦
+NI27MBQ_0101 3017618 3023161 CS that's why then i manage to cool her and say 如果 i mean 你 这样 quit school if anything happen 因为 tuition grant is damn expensive
+NI27MBQ_0101 3023617 3027056 CS so 我 跟她讲 啦 then she was like considering 好像很
+NI27MBQ_0101 3027157 3030232 CS why not 你 读多 一年 对 你换 course 换不了 的话
+NI27MBQ_0101 3030580 3033272 CS 读 多一年 的 话 year one 你完了 try n. i. e. lor
+NI27MBQ_0101 3033702 3035773 CS as in 换过去 你 tuition grant 不会 这样贵 吧
+NI27MBQ_0101 3036944 3037311 EN yeah lor
+NI27MBQ_0101 3037790 3040560 CS like that women ah 真的 有时 我真的 很难 fathom 她 嘞

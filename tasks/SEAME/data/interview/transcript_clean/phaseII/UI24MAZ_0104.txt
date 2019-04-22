@@ -1,0 +1,180 @@
+UI24MAZ_0104 0 1539 CS 我 蛮 喜欢 oregon
+UI24MAZ_0104 2725 3779 ZH 啊 啊 啊 啊
+UI24MAZ_0104 4516 8770 CS city of the roses 你 有 去 那个 ga~ 那个 garden roses 那个
+UI24MAZ_0104 9433 16429 CS 啊 你 是 下 oregon 你 是 下 哪里 啊 portland 我 就 是 去 portland 咯
+UI24MAZ_0104 18494 27197 CS port~ ah 对 没有 那个 portland 你一下 airport 那边 不久 你就 可以 去 那个 什么 了 嘛 那个 gar~ 那个 roses gar~ gardens of roses 了 嘛
+UI24MAZ_0104 27836 32514 CS 啊 啊 啊 then 那边 我 有 去 他们 的 china town 那些 到 他们 有 那个 japanese garden
+UI24MAZ_0104 33152 38244 CS ah chinese garden ah 那个 china garden ah 那边 有 我的 去 的 是 john's farm
+UI24MAZ_0104 38771 45257 CS from air airport ah portland 去那边 大概要 四~ 四十分钟 这样
+UI24MAZ_0104 45936 51338 CS 半小时 到 四十五 分钟 就是 在 woodburn 你有 听过 吗 woodburn
+UI24MAZ_0104 53585 56571 CS ah okay okay 那边 就是 买 东西 duty free 的 东西 啦
+UI24MAZ_0104 57027 59388 CS 他 就是 reject shop 那 一种 嘛 woodburn
+UI24MAZ_0104 62295 68441 CS hah hah hah factory outlet ah 那 一边 咯 我 因为 我 啊 那个 intel 的 firm 他的 firm 在 那边
+UI24MAZ_0104 68877 72341 CS ah hillsburrow ah 简单 一 句 在 hillsburrow 里面
+UI24MAZ_0104 78488 81301 CS 啊 啊 啊 现在 那个 semicon 还有 在吗
+UI24MAZ_0104 85161 87620 CS 哦 那间 subcom 是叫 什么 名字
+UI24MAZ_0104 88954 91193 CS  你之前 做的 那个 subcom
+UI24MAZ_0104 94889 95907 ZH 哦 没有 听过
+UI24MAZ_0104 101259 102840 EN oh ok ok ok
+UI24MAZ_0104 105544 106562 ZH 公司 买 起 来
+UI24MAZ_0104 111058 112076 ZH 哦
+UI24MAZ_0104 115764 119129 CS 哦 这样 是吗 okay 你 那边 做了 几久
+UI24MAZ_0104 120378 121579 ZH 哦 一年半 啦
+UI24MAZ_0104 123433 127015 CS 哦 okau lah 那边 but 公司 全部 subsidy 到完 不是 啊
+UI24MAZ_0104 128771 131208 ZH 啊 吃 喝 玩乐 那些 到完
+UI24MAZ_0104 135128 135845 ZH 对 对 对
+UI24MAZ_0104 139869 140993 ZH 对 对 对 对
+UI24MAZ_0104 147468 152491 CS 哦 我 我们是 claim receipt 就是 一天 你 一个 meal 不 可以 超过 二十五块钱
+UI24MAZ_0104 152491 157607 CS so ah 他 usually 是 两个 meal lor then 你 住 的 hotel 他
+UI24MAZ_0104 157958 160445 CS thought that 有 breakfast free 给你 了的 咯
+UI24MAZ_0104 160656 163280 CS so 你 一天 你 claim 五十块 咯
+UI24MAZ_0104 163280 167520 CS then 他 给 你 租车 咯 then petrol 他也 出 给你 咯
+UI24MAZ_0104 167520 175326 CS accommodation 他 给 你 自己 选 咯 就是 他 给 你 intel listed 的讲 说 那 几个 hotel arr 你去 那边 找 就 对了 咯
+UI24MAZ_0104 175894 185744 CS then 车 他也 租 给你 到完 咯 就是 比较 方便 then 你 打油 不要 打得 过分 啦 讲 说 一~ 啊 就 今天 打了 明天 又 再去 跑去 打
+UI24MAZ_0104 186164 195587 CS 他讲 知道 你 不是 go for work mah then 你 maybe 讲说 一个 礼拜 打 一次 假如 是你 有去 outing 的话 那个 你 用 你 自己 的 personal 的钱 咯
+UI24MAZ_0104 199217 204508 CS seattle 我 没有 去 啊 那时 我有 我有 plan 要去 seattle seattle 更 上去 上面 啦
+UI24MAZ_0104 204508 214854 CS california 我 有 去 los angeles ah california san francisco san fran then san fran 比较 好玩 啦 san fran
+UI24MAZ_0104 215730 218498 CS 看到 很多 building ah 那 那 不是 building 就是
+UI24MAZ_0104 219199 221601 CS 蛮爽 啦 一个 城市 啊 san fran
+UI24MAZ_0104 222528 225436 CS then 过后 就去 portland ah portland loh
+UI24MAZ_0104 225436 227728 CS 去 portland 去 hillsburrow 那些 咯
+UI24MAZ_0104 227728 231536 CS portland 那 时候 会 比较 爽 因为 我的 朋友 在 那边
+UI24MAZ_0104 232026 237712 CS then usually 我们 就 一起 去 then 在 san fran hor 我 自己 一个 人 罢 了
+UI24MAZ_0104 241487 243945 CS 对 对 对 definitely definitely
+UI24MAZ_0104 244439 250899 CS 我 那时 是在 san fran 时候 因为 我 之前 有 去 过 啊 我有 去过 los angeles 了的 so 我 那边 我 也是 蛮 熟悉 了
+UI24MAZ_0104 251148 253745 CS then 那时 在 san fran 我 自己 一个 人 咯
+UI24MAZ_0104 254441 257630 ZH 会 比较 闷 啦 就是 晚上 回来 因为 没有 东西 做
+UI24MAZ_0104 266458 267755 ZH 啊 对 对 对 对
+UI24MAZ_0104 269717 271159 ZH 对 对 对 今年 八月 咯
+UI24MAZ_0104 274902 281329 CS 啊 我的 l. o. d. ah la~ last day ah ah 就是在 七月 十九号 咯
+UI24MAZ_0104 283172 286115 ZH 啊 刚刚 罢了 不到 两个月 有 啊
+UI24MAZ_0104 288427 290469 CS ha 还 okay lah 还是 okay lah
+UI24MAZ_0104 294067 301736 CS then 我 啊 因为 我 觉得 prof zawawi 是 蛮 不错 的 一个 supervisor lah ah
+UI24MAZ_0104 302722 305186 CS 因为 他 help 了我 很多 东西 那 一种 啦
+UI24MAZ_0104 306261 310050 CS 哦 就是 (呃) 因为 做 master 的 时候 我 是 拿 mix-mod mah
+UI24MAZ_0104 310050 313834 CS then 有 看 多 有 看 到 很多 个 supervisor as well
+UI24MAZ_0104 313834 317470 CS then 有些 supervisor 我 觉得 en totally 是 没有 管 那些 学生 的
+UI24MAZ_0104 318032 323828 CS then 我 觉得 prof zawawi help 了 我 很多 他 跟 我 discuss 讲说 我的 contribution ah then
+UI24MAZ_0104 324356 326598 CS 他 真的 有 guide 我 那 一种 啦
+UI24MAZ_0104 326598 331574 CS 他 guide 的我 很好 那 一种 啦 so that why for p. h. d. 我 会 选择
+UI24MAZ_0104 332310 335658 CS 我 不会 选择 university 我会 选择 who is my supervisor
+UI24MAZ_0104 341034 341882 ZH 啊
+UI24MAZ_0104 342960 351232 CS 那个 that why ah 我 也是 想 有 这样 的 ah 可能 maybe for student exchange 或者 是 拿 一些 grant 过后
+UI24MAZ_0104 351860 354997 CS 可能 会 会有 student exchange 那 一种 啦
+UI24MAZ_0104 361215 370086 CS 啊 那个 我 没有 so far 问 过 他 but 他 讲 说 这次 他 希望 讲说 能用 因为 ni~ 啊 他讲 想 想去回 u. k.
+UI24MAZ_0104 371627 374795 CS u. k. 那 一种 stu~ for 那个 student exchange
+UI24MAZ_0104 376077 379651 CS but hopefully hopefully 是 能 弄 得 到 那 一种 啦
+UI24MAZ_0104 385677 386238 ZH 啊 啊
+UI24MAZ_0104 387780 388656 ZH 啊 啊 啊
+UI24MAZ_0104 391632 392788 ZH 啊 啊 啊 啊
+UI24MAZ_0104 395171 395837 ZH 啊 啊
+UI24MAZ_0104 396433 397063 EN okay
+UI24MAZ_0104 399621 404341 CS but 法国 那时的 那 时候 住的 时候 是学校 bear 或者 是什么 是自己 bear leh
+UI24MAZ_0104 405893 409915 CS 哦 这样 啦 but 那个 u. s. m. scholarship 不是 很 难 讨 啊
+UI24MAZ_0104 411745 417048 CS 哦 因为 我知道 现在 他们 哇 他 他 不知道 我听讲 apex 拿不到 钱 啊
+UI24MAZ_0104 417594 422094 CS so that's why  他 他 他们 的 requirement 很高 那 个 时候
+UI24MAZ_0104 426109 427283 ZH 哦 这样 啦
+UI24MAZ_0104 434343 435254 EN em hmm hmm
+UI24MAZ_0104 449303 452141 CS 就是 他会 sponsor 你去 那边 读书 啦
+UI24MAZ_0104 452562 456558 CS then 回来 才 contribute 给 u. s. m. lah oh
+UI24MAZ_0104 457362 461810 CS okay 因为 我有 上次 我 也是 有问过 then 他 讲说 因为
+UI24MAZ_0104 461810 466786 CS 我们 comp science 的 人数 已经 over 了 quota 已经 满 了
+UI24MAZ_0104 467767 470535 CS ah so that why 他们 讲 so far 他们 没有 这样 的 open
+UI24MAZ_0104 479330 483697 CS 啊 我 觉得 我 可能 会 回去 industry 那 一种
+UI24MAZ_0104 485403 488627 CS 看 看 怎样 啦 but 这个 东西 是 很难 讲 啦
+UI24MAZ_0104 494688 497002 CS okay ah for 这个 东西
+UI24MAZ_0104 497842 505757 CS 哦 你 可以 回去 那个 for example nvidia a. t. i. ah 那些 东西 或者 是 for
+UI24MAZ_0104 505757 515080 CS intel 你 可以 回去 一个 department 叫 啊 lalabee 的 就是 他们 有 一些 要在 做着 一个 啊
+UI24MAZ_0104 515975 518140 CS software 跟 hardware 那 一种 就是
+UI24MAZ_0104 518954 521977 CS intel 不 需要 nvidia 跟 a. t. i. 都
+UI24MAZ_0104 522538 527820 CS 做好 那个 g. p. u. lah 他们 打算 也是 要 做 这个 东西 in all integrated
+UI24MAZ_0104 530772 533601 CS ah mac afee 他们也 integrated 嘛
+UI24MAZ_0104 534174 537678 CS mac~ 他 他们 有 很大 我 可以 看得到 他们
+UI24MAZ_0104 537678 541565 CS 也 也是 可以 很大 那个 grooming 给 他们 boom 起 那种
+UI24MAZ_0104 548049 555938 CS oh maybe 这个 这个 是 他的 novelty 在 这边 他讲 so far 你拿 a. m. d. 有 没有 这 有 没有 这样 的 protection 没有 嘛
+UI24MAZ_0104 559545 564906 CS ah maybe 他 可以 在这 可以 这边 跟 你 讲说 是 啊
+UI24MAZ_0104 565817 568816 CS 他 不是 讲说 你 还是 需要 antivirus
+UI24MAZ_0104 569390 573069 CS i believe that 你 还是 需要 antivirus for windows 还是 什么 东西
+UI24MAZ_0104 573069 575802 CS but at least 在 他 讲说 在他 processor 那边
+UI24MAZ_0104 575802 581329 CS 他 有 一个 antivirus for free 那个 free time warranty 的 那 一种 只是 protect 你的
+UI24MAZ_0104 581329 586218 CS processor 那 一些 东西 i- i- this is what i am thinking ah
+UI24MAZ_0104 590413 597554 CS 他在 这边 就是 他讲 不管 你 unix 你 也是 要 有 一个 software 就是 他 他 可能 会 做 embedded software
+UI24MAZ_0104 597554 602465 CS 而 不是 install 在 我们 的 operating system 的 那个 layer 里面
+UI24MAZ_0104 606634 611038 CS ah that's why 我跟 你讲 他 这个 就是 他的 novelty 在 这边 啦
+UI24MAZ_0104 611038 614962 CS so far 他讲 有 那个 processor 不要 讲 arm lah 全部 东西
+UI24MAZ_0104 614962 620590 CS 有 哪 一间 公司 是 他 有 讲 说 你的 processor 是 free from antivirus 没有 人 讲 出来 嘛
+UI24MAZ_0104 620590 625621 CS but 真正 有 没有 hit 到去 processor 只有 他们 知道 嘛 我们 不知道 嘛
+UI24MAZ_0104 634929 640859 CS 嗯 因为 我 不知道 哎 可能 在 这边 可以 他 可以 讲说 他的 novelty 在 这边 嘛
+UI24MAZ_0104 641760 649223 CS 就是 直接 跟别人 不用 大家 坐 同 一艘 船 了 他 讲 我 processor 是 free from antivirus 的 你们 有 没有
+UI24MAZ_0104 649819 657244 CS but 你 要 知道 intel 在外面 他有 support 很多间 公司 好像 你 有 听过 啊 那个 vmware 吗
+UI24MAZ_0104 657980 660045 CS vmware 其中 一个 老板 是 intel ah
+UI24MAZ_0104 660573 665567 CS 他有 出钱 啦 他是 sleep~ sleeping member 有 几个 全部 都是
+UI24MAZ_0104 666354 675617 CS 他 他 他们 这 几个 公司 在 玩着 罢了 只是 他 build a~ another 公司 而 不是 totally under intel lah
+UI24MAZ_0104 676726 682693 CS 就是 他有 出钱 啦 那种 啦 then 有 另外 一个 另外 一边 的 management 的人 雇
+UI24MAZ_0104 693998 699254 CS 哦 我 知道 了 你是 讲的 是 paul allen oh 那个 microsoft 的 oh 他 sue apple 那些 东西 嘛
+UI24MAZ_0104 699604 700866 CS for 那个
+UI24MAZ_0104 710885 718642 CS 啊 有 我 跟你 讲 有些 后面 几个 是 partner 到 完 的 只是 他们 没有 讲 出来 罢了 behind 的 story lah
+UI24MAZ_0104 728333 731365 CS but 在 so far 在 malaysia 你 觉得 i. p. workable meh
+UI24MAZ_0104 738599 744955 CS ah that's why 我就 跟 你 讲 在 malaysia 不 practice i. p. lah 你 i. p. 也是 没有 用 那 一种
+UI24MAZ_0104 744955 747452 CS 我们 第一 可能 你 先 讲 market 小
+UI24MAZ_0104 747908 749485 CS 人家 usually 是 constrain-
+UI24MAZ_0104 749870 754741 CS 在 u. s. 他们 真的 是 真的 是 很 那个 care for i. p. oh
+UI24MAZ_0104 754741 758256 CS 第二个 件事 就是 他们 很 喜欢 sue 你 哦
+UI24MAZ_0104 758256 761009 CS 好像 上次 在 啊 mcdonalds
+UI24MAZ_0104 761325 764513 CS 一个 他们 的 咖啡 太热 then 那个 人 不小心 倒 到
+UI24MAZ_0104 764864 769373 CS 弄倒 在 那个 他 孩子 的 身上 他 sue sue mcdonald wo
+UI24MAZ_0104 771661 776076 CS 哦 假如 你 在 那边 哇 你一次 被 人家 sue 你就 你就 改了 那时
+UI24MAZ_0104 785009 787841 CS hmm u~ usually 大公司 不会 那么 快 sue 你的
+UI24MAZ_0104 795241 805690 CS 啊 他不 他 就是 你 刚刚 要 起来 的 时候 他 不会 sue 你的 他 给你 用 用到 他 知道 你的 公司 有 一种 的 asset 在 里面 过后 hor ha 他 直接 sue 你 咯
+UI24MAZ_0104 816706 819608 CS 中 中 中国 会 比较 tricky 那 一种 啦 but
+UI24MAZ_0104 820035 828743 CS for 那个 中国 的 product 我是 觉得 会 比较 不好 就是 中国的 product 真的 是 比较 烂 那 一种 啦 but
+UI24MAZ_0104 829180 833139 CS 有 便宜 的 便宜 的 货 啦 中国 也是 有 出产 好 的 product lah
+UI24MAZ_0104 835837 841767 CS 啊 他贵 也是 有 贵 的 product 便宜 真的 是 真的 是 便宜 的 quality 那种 啦
+UI24MAZ_0104 854371 862303 CS 啊 对啊 很像 啊 那 我们 usually 我们 啊 我在 intel 的 时候 跟 中国 deal 的话 很多 东西 我们 不能 跟 他们 做 sharing 的
+UI24MAZ_0104 863141 868318 CS for example ah 好像 i. p. ah for 那个 啊 processor 他们 不可以 知道 的
+UI24MAZ_0104 868318 870394 CS 他们 不 不可以 store 在 那边 啦
+UI24MAZ_0104 870394 881109 CS 你 send email 过去 太 大的 large file 他 就会 bounce back 给你 啊 他 讲说 啊 中国 是 under control 的 country please don't send sensitive 他会 bounce back 给你
+UI24MAZ_0104 883445 884391 ZH 啊 有
+UI24MAZ_0104 891459 897393 CS 不是 啦 因为 他 他们 but 中国 他们 那 那边 拼 他们 做工 真的 很 压力 啦
+UI24MAZ_0104 898046 905978 CS 好像 你看 他们 做工 我看 啦 usually 我 五点多 六点 就 pit 了 回了 他们 真的 有时 做到八九点 那 一种 的 喔
+UI24MAZ_0104 907694 908885 ZH 哦 真的
+UI24MAZ_0104 909586 916882 CS 对 exactly 他们 interview 罢了 啊 就是 讲 有 一个 position lah 几千个人 讨 一个 post 罢了 你 知道 吗
+UI24MAZ_0104 928470 931238 CS 他 他 他们的 那个 competi~ 那 那边的
+UI24MAZ_0104 932395 934332 CS 很 competition 很高 啊
+UI24MAZ_0104 935058 936144 CS 很 tough 的 那 一种
+UI24MAZ_0104 941189 943922 CS 对 可以 这样 讲 越南 现在 就 up 起来 咯
+UI24MAZ_0104 944378 948206 CS intel 在 越南 set up 一个 啊 他的 那个
+UI24MAZ_0104 949248 951579 CS manufacturing firm 在 那边 嘛 跟 office lah
+UI24MAZ_0104 952140 958145 CS 你 okay 你看 啦 槟城 跟 kulim mah ku~ ah kulim 就是 槟城的 两倍
+UI24MAZ_0104 958762 961647 CS then 越南 就是 kulim 的 两倍
+UI24MAZ_0104 966050 967760 CS ah then 第二个 他们
+UI24MAZ_0104 969204 974508 CS 他们 又 会 讲 英文 哦 ok wo 我们 这边 也是 会 讲 英文 啦 but 他们 那边 cheap labor wo
+UI24MAZ_0104 975544 978488 CS 比较 便宜 喔 then 现在 很多
+UI24MAZ_0104 978978 985882 CS 越南 的人 他们 有 send 过 send lor send 去 美国 啊 send 过来 malaysia ah training 那些 到完 咯
+UI24MAZ_0104 988544 992223 CS transfer 他们 side 有 一阵子 manufacturing for 槟城 的
+UI24MAZ_0104 992223 994989 ZH 他们 问 他们 要 不要 去 越南
+UI24MAZ_0104 996110 1000245 CS 我 不知道 how 他们 provide 他们 啦 可能 会 给 你们 住
+UI24MAZ_0104 1000245 1005115 CS 啊 听说 在 你在 kulim 做工 啦 intel provide 你
+UI24MAZ_0104 1005115 1009205 CS 啊 给你 你买 那边 的 屋子 他 subsidy 你 那个 interest 你 啊
+UI24MAZ_0104 1009951 1015529 CS 啊 假如 你 要 去 你是 from penang based 的去 kulim 做 的话 你 有 这样 的
+UI24MAZ_0104 1016643 1019762 CS 去 可以讨 他的 这样的 东西 benefit
+UI24MAZ_0104 1020813 1026197 CS 槟城的 没有 啦 你在 槟城 做工 没有 啦 你在 kulim 做 有啦 他有 给你 这样的 benefit
+UI24MAZ_0104 1027364 1033292 CS ah then 那边 有 几间 international school 你是 inteler 的话 你有 啊 比较 便宜
+UI24MAZ_0104 1037104 1044137 CS 因为 不是 因为 有些 人 不大 想去 kulim 做 啊 因为 他讲 kulim 那边 又 没有 什么 东西 什么 东西 啊
+UI24MAZ_0104 1044908 1050889 CS ah so that's why kulim ah oh okay then that's why 他 需要
+UI24MAZ_0104 1050889 1055455 CS 这边 的人 去 那边 啦 假如 他 没有 provide 这样 的 东西 的话 谁要 过去 kulim 做
+UI24MAZ_0104 1061657 1065551 CS transfer 有 咯 then 他们 有 transfer 过去 咯
+UI24MAZ_0104 1067793 1076658 CS 啊 有 有些 咯 看 咯 有些 人 在 那边 的 then 他选 department lor then let's say 他讲 槟城 他 有 一个 team 两百人 要 扣掉
+UI24MAZ_0104 1077184 1082906 CS then 两百人 扣掉 过后 then 他们 嘛 自己 找 咯 讲说 哪里 的 department 还 需要 人的 咯
+UI24MAZ_0104 1083491 1090006 CS then 他们 有跟 他们 讲 那边 有 一个 department 需要 人 哪 你们 讨 咯 假如 你们 不要 你们 可 可以讨 别个 咯
+UI24MAZ_0104 1094667 1098483 ZH 没有人 会 知道 咯 只有 他们 上面 上面 高层的 才 知道 啦
+UI24MAZ_0104 1099327 1102165 CS 假如 到 到 我 这个 level 能 知道 的话 嘞 就是
+UI24MAZ_0104 1102831 1105578 ZH 不是 秘密 了 每个人 都 紧张 了 那时
+UI24MAZ_0104 1109942 1116759 CS 对 因为 他总共 槟城 跟 kulim 十千个 employee ah 十千个人 around there lah ten thousand
+UI24MAZ_0104 1120349 1123152 ZH har 真的 那 那是 轰动 轰动 啊
+UI24MAZ_0104 1135273 1137022 EN oh lim guan eng har har har
+UI24MAZ_0104 1139233 1140645 ZH 啊 对 我是 槟城人
+UI24MAZ_0104 1145295 1150084 CS 我 也是 没有 什么 pro government 因为 我 都 没有 so far 我都 没有 去 election 过
+UI24MAZ_0104 1151146 1154089 CS har so 我 没有 讲说 pro 谁 什么 东西 啊
+UI24MAZ_0104 1163126 1164878 CS 我是 so far
+UI24MAZ_0104 1169818 1174499 CS 我 其实 我 也是 蛮 pit~ 你 这样 讲 的话 我 也是 蛮 pity 那个 penang govern~

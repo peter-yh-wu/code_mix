@@ -1,0 +1,781 @@
+07NC14FBQ_0101 7718 8585 ZH 按进去
+07NC14FBQ_0101 33221 33692 ZH 有 吗
+07NC14FBQ_0101 34897 35481 EN <unk>
+07NC14FBQ_0101 47985 48569 ZH 哦 好
+07NC14FBQ_0101 49492 50208 EN 
+07NC14FBQ_0101 56481 57600 ZH 哦 好 啊 好 啊
+07NC14FBQ_0101 58422 58930 EN 
+07NC14FBQ_0101 74792 76250 EN 
+07NC14FBQ_0101 78051 78767 EN okay
+07NC14FBQ_0101 84852 85737 ZH 切 出来
+07NC14FBQ_0101 87979 89018 ZH (呃) 坐 靠近 点
+07NC14FBQ_0101 89769 91257 EN <unk>
+07NC14FBQ_0101 91257 92745 ZH 好 <unk> 我们 要 聊 聊 什么
+07NC14FBQ_0101 94780 95778 ZH 啊 我 的 水壶
+07NC14FBQ_0101 96494 97040 ZH 啊 怎么
+07NC14FBQ_0101 101185 104463 ZH 哈 为什么 我 不懂 嘞 哈
+07NC14FBQ_0101 107495 108897 ZH  为什么 嘞
+07NC14FBQ_0101 126770 128639 CS so is everything 靠背 的
+07NC14FBQ_0101 129562 130372 ZH 哈
+07NC14FBQ_0101 132143 132652 EN then
+07NC14FBQ_0101 140890 144280 CS you know hor 我 今天 我 就 再 看 一个 past year paper eh then
+07NC14FBQ_0101 144280 144878 EN (em)
+07NC14FBQ_0101 144878 153242 CS 我 就 看 我 就 读 读 读 然后 <unk> 我 就 读 完了 我就 哦 okay 这个 这个 topic 他 会 出 出 出 then 我 就 看 多 一年 因为 我 有 print 两年的 我 就 看
+07NC14FBQ_0101 153242 160070 CS then 我 就 想 是 我 拿 错 吗 then 我 就 读 读 读 读 读 then 我 就 拿 另外 一个 pass year paper leh then 我 就 放 多 一遍 then 我 就 拿 来 看
+07NC14FBQ_0101 160070 163110 CS wah 那个 question 是 一模一样 的 那个 paper hor 是 ninety percent the same
+07NC14FBQ_0101 163110 166310 ZH 很 夸张 嘞 它 唯一 不一样 的 部分 <unk>
+07NC14FBQ_0101 166310 167860 CS 它 有 五 题 嘛 一 题 是 twenty mark
+07NC14FBQ_0101 167860 176532 CS then 它 有 一题 是 like fifteen and five 这样 then 它 唯一 不一样 的 hor 是 那个 五分的 part <unk> 而且 hor
+07NC14FBQ_0101 176532 178790 CS some of them is twenty mark 全部 exactly the same
+07NC14FBQ_0101 179433 181003 CS 所以 你 觉得 我 应该 just
+07NC14FBQ_0101 181003 182270 ZH 不要 拿 先 吗
+07NC14FBQ_0101 184116 185143 EN ah
+07NC14FBQ_0101 185143 187453 CS november o. seven o. eight 全部 一模一样 eh
+07NC14FBQ_0101 187453 189014 CS then 我 就是
+07NC14FBQ_0101 190321 191073 ZH 是
+07NC14FBQ_0101 191073 192090 CS 是 我的 major lah
+07NC14FBQ_0101 192090 193523 CS economics 的 module
+07NC14FBQ_0101 197627 198136 ZH 我就
+07NC14FBQ_0101 201094 207176 CS 哈 可是 我 觉得 它 真的 是 会 pick topic 出 嘞 一模一样 欸 is 像到
+07NC14FBQ_0101 208817 209307 EN simi
+07NC14FBQ_0101 210939 211561 EN 
+07NC14FBQ_0101 213652 216321 CS 可是  most of the time 我 都在 spot 的
+07NC14FBQ_0101 216321 218591 CS 诶 那时 我 跟你 讲 我 有 spot 一个 topic hor
+07NC14FBQ_0101 218591 220341 CS six two three ho 我只~
+07NC14FBQ_0101 220341 221860 CS 我 只 读 三个 topic eh
+07NC14FBQ_0101 221860 223542 CS then 我 真的 拿 b. plus eh 
+07NC14FBQ_0101 225445 226010 EN 
+07NC14FBQ_0101 226782 228026 CS but 是 真的 嘞
+07NC14FBQ_0101 229325 234106 CS 然后 我 有 多一个 hor 它 topic 就是 读到 太多 嘞 then 它是 open book mah所以 你
+07NC14FBQ_0101 234106 235396 CS 写 的 东西 都要 很 in depth
+07NC14FBQ_0101 235853 237410 CS oh 那个 我 confirm 会 spot 的
+07NC14FBQ_0101 237410 240893 CS 因为 它 出 的 东西 蛮 standard 的
+07NC14FBQ_0101 240893 244330 CS 不懂 嘞 economics 它 可以 出 的 它 喜欢 出 的 topic 都是 很 standard 的
+07NC14FBQ_0101 247085 249119 CS i think so lor 你的 不可以 嘛
+07NC14FBQ_0101 249967 253613 CS 我 我 每年都是 print 两个 pass year paper 去研究
+07NC14FBQ_0101 253613 255160 CS 看 它 有没有 trend 还是 怎样
+07NC14FBQ_0101 264767 265728 CS 背 那 solution
+07NC14FBQ_0101 270852 271492 ZH 为什么
+07NC14FBQ_0101 274149 274940 EN hah as in
+07NC14FBQ_0101 276350 278720 CS 哈 所以 那些 solution 他们 post 在 哪里
+07NC14FBQ_0101 281364 283681 EN oh
+07NC14FBQ_0101 286073 288127 ZH 哦 这样好 欸
+07NC14FBQ_0101 292539 296137 CS 对 咯 我是 b. b. student 好不好 他们 哪里 会 要我 answer
+07NC14FBQ_0101 296770 298109 CS 我 很 乐意 地 给 我 answer
+07NC14FBQ_0101 306842 307615 ZH 拜四 哦
+07NC14FBQ_0101 309875 310968 CS 你 拜五 考 right
+07NC14FBQ_0101 310968 313473 ZH 拜四 你 也是 拜四 <unk> 也是 拜四 考
+07NC14FBQ_0101 313907 314415 EN then
+07NC14FBQ_0101 317241 318202 ZH 屁 啊
+07NC14FBQ_0101 319521 320507 EN  
+07NC14FBQ_0101 322968 328544 CS 对 咯 never mind lah 拜四 考完 就 去 吃 一个 mcdonald 然后那个 night 就 slack 一下 然后 friday 又再 pia
+07NC14FBQ_0101 333675 334165 ZH 对 咯
+07NC14FBQ_0101 334956 335898 ZH 他 siao 的 啦 他
+07NC14FBQ_0101 337217 339722 CS 可是 actually <unk> 他 也 不是 很
+07NC14FBQ_0101 339722 342981 ZH 他 也 不是 很厉害 他 只是 很用功 而已
+07NC14FBQ_0101 344338 345299 ZH 不是 嘛
+07NC14FBQ_0101 345901 346768 ZH 我 觉得 嘞 他
+07NC14FBQ_0101 350442 352420 CS 都是 很 confident 很 relax 的 对 吗
+07NC14FBQ_0101 354411 357259 CS 他 跟 我 一个 friend 一样 嘞 我 那个 friend 他 也是
+07NC14FBQ_0101 357259 359489 CS 就是 我们 在 读 j. c. 的 时候 then
+07NC14FBQ_0101 359489 360562 CS <unk> 那个 friend 他
+07NC14FBQ_0101 361221 374829 CS 每次 在 year one 的时候 hor 他 有 什么 test ah 什么 东西 他都 很 pia 的 嘞 then you know year one j. c. 都是 foundation lah year two 都是 build up of foundation 的 所以 他到 year two 他几 好* 轻松 嘞 每个 exam just 读 读 一下 then 去考
+07NC14FBQ_0101 374829 377390 CS 全部 出来 都是 a. eh 他 最后 exam
+07NC14FBQ_0101 377390 379719 CS exam 的时候 hor 就 prelim 出来 嘞
+07NC14FBQ_0101 379719 384670 CS 他 一堆 全部 a. leh then 我 一堆 hor 全部 在 那边 f. ah 怎么办 o. ah
+07NC14FBQ_0101 384670 390579 CS d. e. o. leh  then 我 跟 你讲 我的 chemistry 是因为他才会 pass 的 有没有
+07NC14FBQ_0101 390579 392010 CS 我在 j. c. 我的 chemistry 没有 pass 过 欸
+07NC14FBQ_0101 393301 398048 CS 都是 o. o. o. o. o. all the way 没有 低 没有 到 f. 过 可是 也没有 高过
+07NC14FBQ_0101 400478 408420 CS 对 然后 我 认识 那个 聪明的 朋友 then 我 还 考 这样烂 嘞 then 他 就 跟我 跟 yvonne 一起读书 在 j. c. 的时候 then
+07NC14FBQ_0101 408420 411690 CS 就是 one month 就是 after prelim between prelim 跟 那个
+07NC14FBQ_0101 411690 415752 CS a. level period 然后 我 考出来 我 跟 yvonne 都是 a. a. b. leh
+07NC14FBQ_0101 418485 421386 ZH 对 咯 都是 拜 他 所赐 嘞 真的
+07NC14FBQ_0101 421386 422950 CS hor 他拿七个 a.
+07NC14FBQ_0101 422950 424514 CS g. p. 还是 a.
+07NC14FBQ_0101 425776 426887 CS 他 拿 两个 s. paper
+07NC14FBQ_0101 428583 433971 CS 他 很 zai 他 是 我们 全校 第二 然后 第一名 是 因为 他 g. p. a. one 然后 我 friend g. p. a. two
+07NC14FBQ_0101 435882 436504 ZH 很 zai
+07NC14FBQ_0101 438313 439066 ZH 有 啊 有 啊
+07NC14FBQ_0101 439066 440065 ZH 他是
+07NC14FBQ_0101 440065 446140 CS actually 我 是 他 我跟 yvonne 跟 他的 班的 人 是 他 唯一 联络的 friend 他 还 蛮少 friend 的
+07NC14FBQ_0101 448222 455041 CS 对 咯 就是 不懂 嘞 就是 在 学校 你 看 他 好像 很 popular 那种 感觉 就是 你 去 到 哪里 诶 hello <unk> hello hello 这样 可是
+07NC14FBQ_0101 455827 469241 CS like after that 就是 他 去 当兵 then 我们 读书 then 我们 有时候 出来 啊 就 什么 then 还有 我就 诶 那个谁 那个谁 怎样了 就 诶 没有 跟他 联络 就 你 到底 跟谁 联络 哦 就 跟你们 咯 还有 啊 <unk> 那一帮人
+07NC14FBQ_0101 470540 472610 CS 他 现在 n. u. s. 他 读 double degree
+07NC14FBQ_0101 474346 474949 ZH 不是
+07NC14FBQ_0101 478396 479206 ZH 他 很厉害 欸
+07NC14FBQ_0101 481690 482443 ZH 讨厌 嘞
+07NC14FBQ_0101 486767 488250 CS 不会 他 很 athletic 的 嘞
+07NC14FBQ_0101 489150 490544 CS 他很 athletic 的
+07NC14FBQ_0101 491185 496158 CS 他 以前 是在 nanyang 的时候 他 c. c. a. 是 (em) 那个 跑步的 track and field
+07NC14FBQ_0101 499153 502281 ZH 对 
+07NC14FBQ_0101 503620 504148 EN (em)
+07NC14FBQ_0101 506239 508217 ZH 他 就是 唉 什么 都很好
+07NC14FBQ_0101 510402 512116 CS 哦 我很 sad leh 我 什么 都很 cui
+07NC14FBQ_0101 512116 514848 CS then 他 就 每次 笑我 因为 他 读 f. math 的 嘛
+07NC14FBQ_0101 514848 523203 CS 他的 f. math 还 a. leh 讨厌 then hor 他读 f. math then 我 以前 不是 读 math lor year one 的时候 then 有 很多 那种 东西 都是 就是 f. math 的那种
+07NC14FBQ_0101 523203 525483 CS higher level 的 f. maths ah proving 那种 东西
+07NC14FBQ_0101 525483 536663 CS then 我都是 诶 <unk> how to do this how to do this 他就 walao this one also don't know how to do 他 直接 骂我 你 真的 是读 math 的吗 then 我 就 在 那边 很可怜 然后 one year 过后 我很 happy 跟他讲 我 drop 掉 math so 现在 你 不可以 骂我了
+07NC14FBQ_0101 537548 539715 ZH  真的 
+07NC14FBQ_0101 543758 544778 ZH 可是
+07NC14FBQ_0101 545321 546094 ZH 是 真的 wah
+07NC14FBQ_0101 553893 554533 ZH 对 咯
+07NC14FBQ_0101 558603 560620 CS 我读 fourier 我 应该 会很 stressed 吧
+07NC14FBQ_0101 565002 569731 CS 诶 我有 friend hor 就是 没有 没有 拿到 那个 basic 他们都 kena promote leh
+07NC14FBQ_0101 571916 573235 ZH 很像 是要
+07NC14FBQ_0101 576963 579603 CS 好像 g. p. 要 pass 啊 然后 嗯
+07NC14FBQ_0101 580865 586073 CS 不懂 是 要 一个 (er) 一个 a. level pass 就是一个 e. and above
+07NC14FBQ_0101 586073 588123 CS out of three subject 一个 e. and above
+07NC14FBQ_0101 590208 592808 CS 他 只考* o. o. f. 还是 o. f. f. 之类的
+07NC14FBQ_0101 594277 596067 CS after that 他 就 去 求 那个 校长
+07NC14FBQ_0101 597235 597876 ZH 没有 嘞
+07NC14FBQ_0101 599194 601455 CS 他 不是 嘞 他是 <unk> 他 是 跟我 一样 是 slack 的
+07NC14FBQ_0101 602943 605449 CS at least at least 我有 <unk> 他连 <unk> 都不是 嘞
+07NC14FBQ_0101 607158 612256 CS 然后 他 after that 因为 他 那时候 是 you know 那个 那个 女校长 是 他 最后一年 嘛
+07NC14FBQ_0101 613205 613714 EN so
+07NC14FBQ_0101 614411 615880 ZH 咦 我 很 讨厌她 咯 她
+07NC14FBQ_0101 616238 616992 CS hypocrite 来的
+07NC14FBQ_0101 618518 619403 ZH 那个 华语 很厉害
+07NC14FBQ_0101 620326 621325 CS 她很 hypocrite 的
+07NC14FBQ_0101 622022 631563 CS 我 跟你 讲 hor 她以前 她 就是 你 看 她 那张 嬉皮笑脸 then 她 每次 就是 哦 you all if you all need any help you all can always approach me 那种 then 人家 真的 去 找她 的时候 hor
+07NC14FBQ_0101 631563 633380 CS 他 就 跟他讲 哦 she cannot do anything about it
+07NC14FBQ_0101 633380 636720 CS 我 因为 我 去 找她 她 也是 这样 嘞 then 我 有 几个 friend 也是 这样 leh
+07NC14FBQ_0101 637543 639953 CS 那时 候 哦 那时 候 因为 他们 不要 给 我 take
+07NC14FBQ_0101 639953 643230 CS four a. level subject 我要 take four 我要 take bio~
+07NC14FBQ_0101 643230 646170 CS then in the end 我 不是 take chemistry economics maths lo 本来 还要 take 一个 biology 的
+07NC14FBQ_0101 646170 650524 CS then after that 那个 那个 死 <unk> 他 就 一直 不要 给我 take
+07NC14FBQ_0101 650524 653134 CS 因为 他 讲 说 因为 他 讲 它的 requirement 是
+07NC14FBQ_0101 653506 657710 CS i think 因为 我 combine science then combine science e. maths a. maths 全部 都有 a. one
+07NC14FBQ_0101 657710 665053 CS then 我 就 刚好 <unk> 我就 我的 a. math 就考 a. two 而且 我的 a. math hor 我 是 很 confident 一定会 a. one 的 嘞
+07NC14FBQ_0101 665053 678466 CS 然后 就 做错 一题 function 我 还 记得 是 function 就 做错 一题 function hor 我就 drop 去 a. two leh then 对 咯 然后 他 就 不要 给我 take then 我 就 去问 咯 因为 我 science 是 okay 的 嘞 我在 我 有没有 跟你 讲
+07NC14FBQ_0101 679526 682006 CS 可是 我在 combine science 里面 hor
+07NC14FBQ_0101 683187 684675 ZH 是 考 最好的 嘞
+07NC14FBQ_0101 688700 692320 CS 对 啊 可是 combine science 也 很多 人 没有 考 a. leh
+07NC14FBQ_0101 695357 700933 CS 是 actually 简单 很多 可是 你 没有 拿 biology 的 right 你 没有 你 有 看 你 有 拿 biology 的 combine science 吗
+07NC14FBQ_0101 702899 703351 EN actually
+07NC14FBQ_0101 704444 705516 ZH 你 有没有 你 有没有
+07NC14FBQ_0101 705516 707030 CS 看过 他们的 exam paper
+07NC14FBQ_0101 707030 710134 CS actually 只跟 pure 的 差 一点点 而已
+07NC14FBQ_0101 711050 715290 CS and 它 问 的 东西 就 没有 这么 绕 来 绕 去 这样 子 that's all leh
+07NC14FBQ_0101 715626 717360 CS actually 它 没有 much difference 的
+07NC14FBQ_0101 722266 723604 CS 不懂 leh actually 我
+07NC14FBQ_0101 724697 730956 CS 对 咯 我 觉得 like not much difference then 那个 chemistry 只是 okay 那个 chemistry 真的 是 很 容易 因为 没有 electrolysis
+07NC14FBQ_0101 733117 735076 CS 我 很讨厌 electrolysis leh
+07NC14FBQ_0101 735076 736876 CS 没有 因为 combine science 没有
+07NC14FBQ_0101 736876 738693 CS but pure science 有 然后 我 现在 每个 都 cui
+07NC14FBQ_0101 742112 743356 CS 就 electrolysis
+07NC14FBQ_0101 743921 744938 ZH 对 咯 可是
+07NC14FBQ_0101 746879 748122 CS 我 觉得 你 也 可以拿 a. lor
+07NC14FBQ_0101 749196 752310 CS 可是 我 不要 继续 take 那个 combine 的 诶 那个 pure 的 因为
+07NC14FBQ_0101 752310 754010 CS 那时 候 我 有 eight subject leh
+07NC14FBQ_0101 754923 757010 CS then <unk> five 只需 要 six
+07NC14FBQ_0101 757010 763786 CS 所以 我 drop 掉 就 算 需要 需要 seven 而已 我 就 在想 我<unk> 在 那边 想 因为 like 有没有 很 bohua
+07NC14FBQ_0101 763786 766280 CS 因为 你 读 两个 then 你 只 考 一个 paper
+07NC14FBQ_0101 766346 767270 CS then 只有 一个 grade
+07NC14FBQ_0101 767270 774051 CS 所以 你 两个 right 不但 加起来 是 多好 一个 两个 都可以 考 九十分 可是 in the end 你<unk>一个 grade 而已
+07NC14FBQ_0101 775426 778975 ZH 然后 我 我 那天 我 就听了 然后 我 就在 那边 想 好像 还蛮 bohua 的
+07NC14FBQ_0101 780453 786350 CS 可是 after that 我的 我 就 两个 老师 啊 then 我的 biology 那个 不懂 叫 什么 paper ah (em)
+07NC14FBQ_0101 788704 791888 ZH 不懂 哎呀 你们 应该 不懂 我 那 两个 老师 是 新来的
+07NC14FBQ_0101 793226 794584 ZH 然后 他们就
+07NC14FBQ_0101 794584 797794 CS 我的 biology 的 老师 他 蛮 好的 then 我 就 take 那个 qualifying test
+07NC14FBQ_0101 797794 804654 CS then qualifying 很像 biology 的 我 考得 不错 chemistry 的好像 marginally pass so 那个 chemistry 老师叫我 drop
+07NC14FBQ_0101 804654 805784 CS biology 老师 叫 我 不要 drop
+07NC14FBQ_0101 807022 812718 CS 所以 我 考虑 了 很久 then in the end 我就 drop 因为 我 觉得八个 subject 有 一点 太 为难人 因为 我 只 需要 六个
+07NC14FBQ_0101 812718 815518 CS 然后 那时 候 我也 没有 intend to 去 j. c. 所以 只需 要 五个
+07NC14FBQ_0101 815518 824187 CS 然后 五个 你 想一下 hor 哎呀 华文 英文是 okay 的 then 我蛮 confident 就是 math 两个 math history 就够了
+07NC14FBQ_0101 828410 838418 CS 哈 我 那时候 那时侯 我们的 班 啊 我的班 是 很 slack 的 then 每个人 都是 那种 哎呀 有够考 有够 六个 subject 就够了 每个人 just 讲 有 够 六个 subject 然后就
+07NC14FBQ_0101 838418 843260 CS 你们 拿 七个 也是 这样 then 拿 八个 不是 读 更多 then in the end 你们 还是 take 六个 的 grade 而已
+07NC14FBQ_0101 844958 848680 CS 我 drop 掉 就是 从 pure drop 去 combine lo 就是 两个 combine 成 一个
+07NC14FBQ_0101 855068 857508 CS pure chemistry pure biology drop 成 一个 chemistry biology
+07NC14FBQ_0101 860662 861585 CS 没有 我没有 take physics
+07NC14FBQ_0101 861585 863746 CS 那时候 four e. 没有 physics
+07NC14FBQ_0101 865828 868358 CS 不是 我的 我的 year 是 the first year that they did that
+07NC14FBQ_0101 868358 877783 CS actually 我要那个 four e. 的 <unk> four e. 的 <unk> 是 i think 是 combine physics chemistry pure biology then either english literature 还是 pure <unk> pure literature pure <unk>
+07NC14FBQ_0101 877783 881610 CS then combine s. s. history 就是 什么 都 读 到 完 就 对了
+07NC14FBQ_0101 883279 886670 CS and then 它是 the only class that 读 history that is why 我 要进 那班
+07NC14FBQ_0101 887857 889986 CS then 那时候 我还 就是 还 蛮 喜欢 history 的
+07NC14FBQ_0101 892510 893697 CS 你 只读 <unk>
+07NC14FBQ_0101 894281 896014 ZH 哇 你 真的 吗
+07NC14FBQ_0101 898477 899107 EN secondary two ah
+07NC14FBQ_0101 900022 900681 EN ehe
+07NC14FBQ_0101 906222 907861 CS 你 rubbish 的 嘞
+07NC14FBQ_0101 909161 909651 ZH 啊哈
+07NC14FBQ_0101 911422 912778 ZH 哦 你 就 读 中间的
+07NC14FBQ_0101 913550 915397 CS 哦 我 知道 我们的 year 才换
+07NC14FBQ_0101 922164 923823 EN <unk>
+07NC14FBQ_0101 932224 935087 CS 哦 就是 那时候 我们的 e. five 的 <unk> 咯
+07NC14FBQ_0101 942524 946881 EN 
+07NC14FBQ_0101 947874 948872 EN 
+07NC14FBQ_0101 960389 963818 CS  可是 e. two 的人 通常 都是 英文好的 嘞
+07NC14FBQ_0101 964438 965910 CS 我也 不懂 我 为什么 在 e. two leh
+07NC14FBQ_0101 968528 969018 ZH 是 吗
+07NC14FBQ_0101 972086 974572 ZH 到 我们的 时候 你们 那时候 有几班
+07NC14FBQ_0101 979263 980714 EN secondary three secondary five five class only ah
+07NC14FBQ_0101 981712 982221 ZH 我们
+07NC14FBQ_0101 983786 987540 CS sec three sec four five class only la 我们的是 (em)
+07NC14FBQ_0101 987540 992790 CS 我们的 是 go by 那些 名字 的 so is a. d. e. j. k. i.
+07NC14FBQ_0101 992790 994328 ZH 六班 嘞
+07NC14FBQ_0101 994328 996070 CS 所以 我们 有 两 班 triple science
+07NC14FBQ_0101 996070 1002270 CS but 第一班是 four a. 是好的 four k. 是 cui 的就是这样分 对
+07NC14FBQ_0101 1002270 1009125 CS 那些 four k. hor 是 因为 他们 英文 不够 好 to go into 那些 其 他的 class 然后 他们的 science 也不 够 差 to go into combine science class
+07NC14FBQ_0101 1010120 1011552 CS 就被 丢去 three k.
+07NC14FBQ_0101 1013838 1015120 CS science 不错 对
+07NC14FBQ_0101 1017330 1023039 CS 对 啊 可是 a. 的人 a. 的人 都是很 zai 的 嘞 a. 的人 都是蛮 okay 的就是 两个都 okay 的
+07NC14FBQ_0101 1027506 1028994 CS 嗯 你应该 是 那个 k. 的人
+07NC14FBQ_0101 1031669 1034570 CS 哦 okay  你 有没有 你很 proud 
+07NC14FBQ_0101 1036562 1037636 CS 我 g. p. 拿 c. five
+07NC14FBQ_0101 1038597 1041129 ZH 对 啊 可是 我 那年 跟你 那年 有的 比吗
+07NC14FBQ_0101 1042515 1044060 CS 因为 yvonne 也拿 c. five oh
+07NC14FBQ_0101 1044945 1046151 ZH 没得比 咯
+07NC14FBQ_0101 1046867 1048562 ZH 没得比 的
+07NC14FBQ_0101 1050164 1050898 ZH 是 嘛
+07NC14FBQ_0101 1052681 1054018 CS joslin* 哪里 跟你 同一年 屁
+07NC14FBQ_0101 1055299 1057993 CS joslin 小你 一年 joslin 大我 一年
+07NC14FBQ_0101 1058634 1059783 ZH 对 咯 他 晚 你 两年 啊
+07NC14FBQ_0101 1062510 1064978 CS rubbish lah 没有 没有 such thing 的
+07NC14FBQ_0101 1065995 1066711 EN 
+07NC14FBQ_0101 1069962 1072468 CS 她 以前 在 o. level 还拿 a. two 的 嘞
+07NC14FBQ_0101 1073240 1074616 CS then 我 friend hor 他
+07NC14FBQ_0101 1075633 1077178 ZH 我 有一个 朋友 啦 他是
+07NC14FBQ_0101 1078120 1081155 CS 他的 英文 算是 蛮好的 嘞 then (em)
+07NC14FBQ_0101 1081155 1085245 CS 有 一次 in the exam right 那个 cohort right 有 three quarter of the cohort fail g. p.
+07NC14FBQ_0101 1085245 1097815 CS then she 因为他们 that time i think 是 mid year 还是 怎样 so they got show the result on during the assembly then 他们 show 那个 result hor 就 a. one 的人 g. p. a. 的人 只有 一个人 就是他
+07NC14FBQ_0101 1097815 1104455 CS 因为 我们 懂 是 他 吗 因为 我们 懂 他 g. p. a. 因为 我们 全班 都 差不多 fail 到 七 七 八 八 then 只有 只有 他 一个 a. 所以 他 很 outstanding
+07NC14FBQ_0101 1104455 1109521 CS 所以 我们 全班 知道他 a. then 就出来 哇 只有一个 a. leh then 我们 class 就轰动
+07NC14FBQ_0101 1111706 1114777 CS 然后 你懂 in the end 他 考什么 吗 他 a. level 考出来 b. four leh
+07NC14FBQ_0101 1116653 1120770 CS 对 然后我 c. five leh 没有 那个 朋友 不是 yvonne 是 那个 朋友
+07NC14FBQ_0101 1120770 1123575 CS 所以 我们 就 觉得 那个 那个 a. level 的 standard 是
+07NC14FBQ_0101 1124358 1125300 CS fluctuate 很多的
+07NC14FBQ_0101 1129635 1130841 CS yvonne 是我 j. c. friend ah
+07NC14FBQ_0101 1132611 1133610 ZH 她 跟我 讲过 啊
+07NC14FBQ_0101 1134043 1138222 CS then 我 就 笑她 嘛 我就 哈哈 你英文 跟我 差不多 我就 诶 我 中学 考得 比你好
+07NC14FBQ_0101 1139620 1143105 CS 我 中学 没有 啊 我 中学 b. three 他 b. two ah 他 a. two 我 b. three
+07NC14FBQ_0101 1144857 1152484 CS 对 诶 你懂 hor 那时候 我拿 result 的时候 我就 你懂 谁是 mister shan* 吗 那个 m. p. p. c. 的 老师 那个 印度人
+07NC14FBQ_0101 1154292 1155460 ZH (em) <unk> 的
+07NC14FBQ_0101 1157240 1158502 EN (em) <unk>
+07NC14FBQ_0101 1159256 1164455 CS 他是 我的 form teacher 讨厌 然后 嗯
+07NC14FBQ_0101 1164455 1165875 CS 他 就在 分 那个 result slip
+07NC14FBQ_0101 1167191 1175217 CS then 我的 诶 我是 排 第一个 然后 啊 那个 那个 死校长 他 就 周会 讲 讲 讲 讲 讲 他就 讲完了 嘛 then after that 你的 校长是 miss-loh 吗
+07NC14FBQ_0101 1176234 1177421 ZH 哇 恶心到
+07NC14FBQ_0101 1180284 1183770 CS 哪里会 很年轻 她 <unk> 四十多岁了 吧 curly hair cheongsam
+07NC14FBQ_0101 1184222 1184787 ZH 对 吗
+07NC14FBQ_0101 1188269 1188840 ZH 是 啊
+07NC14FBQ_0101 1195315 1197086 ZH 对 然后 很恶心 嘞 哎呦
+07NC14FBQ_0101 1198197 1211296 CS 然后 不用紧 然后 他就 终于 讲完 他的话 了 so 我们就去拿 result then i was the first one then 我 就跟 <unk> 讲 我 就 看住 他 嘞 then 因为 他就 诶 eunice sit down sit down then 我就 看住 他 我就 mister shan
+07NC14FBQ_0101 1213190 1215865 EN did i pass my english if i don't pass my english i don't want to take my result already
+07NC14FBQ_0101 1216487 1223250 CS 他就 看我 他就 看 don't worry don't worry then 我就 哦 okay okay 我就 happy 坐下来 对
+07NC14FBQ_0101 1225649 1227759 CS then 就 okay ah 就考出来就 okay
+07NC14FBQ_0101 1235257 1237405 CS 哈 他很 discriminate 我们 嘞
+07NC14FBQ_0101 1238893 1239440 ZH 怎么 嘞
+07NC14FBQ_0101 1239440 1241327 CS ms loh 也是 niao 的好不好
+07NC14FBQ_0101 1253120 1254025 EN renovation ah
+07NC14FBQ_0101 1256900 1258256 ZH 可是 hor 我们
+07NC14FBQ_0101 1259315 1261305 CS by the time 到 我们 那个 时候 right
+07NC14FBQ_0101 1261305 1263921 ZH (em) 我们 不喜欢他 是 因为 他很
+07NC14FBQ_0101 1263921 1266201 CS 就是 他 花 很多 钱 on 那些 performing arts leh
+07NC14FBQ_0101 1266441 1269541 CS you know 他们的 budget 跟 我们的 budget hor 是一个 天 一个 地 的
+07NC14FBQ_0101 1271311 1273067 ZH 很夸张 嘞
+07NC14FBQ_0101 1273067 1275157 CS 我们 有 听 他们的 exco 讲 过
+07NC14FBQ_0101 1275157 1278677 CS 就是 他们 那些 performing art ah band ah 那些 的 exco 讲过
+07NC14FBQ_0101 1280848 1282901 CS 就是 annual 的 c. c. a. budget lor
+07NC14FBQ_0101 1284823 1285444 ZH 因为
+07NC14FBQ_0101 1285878 1287272 CS 你 懂 我的 friend 吗 jess*
+07NC14FBQ_0101 1288006 1289476 CS oh jess 是那个 treasurer 嘛
+07NC14FBQ_0101 1289476 1290625 CS then 他就
+07NC14FBQ_0101 1293100 1294249 ZH 他是 <unk> 的 嘞
+07NC14FBQ_0101 1296133 1296585 ZH 怎么 嘞
+07NC14FBQ_0101 1297621 1299997 CS 怎么 呢 我那个 friend <unk> 也是 <unk> 的 嘞
+07NC14FBQ_0101 1299997 1301947 CS 就是 我 最 close 的 两个 friends
+07NC14FBQ_0101 1303310 1304471 ZH <unk> 是 那个 比较 圆的
+07NC14FBQ_0101 1307221 1307674 ZH 谁
+07NC14FBQ_0101 1308201 1313834 CS 我认- 他 认识的 我 都认识 我 认识他 他 可能 不认识 所以 我 认识 比较 多人 conclusion 我 认识 比较多 人 
+07NC14FBQ_0101 1314512 1322255 CS 真的 因为我的 senior 我跟 senior 蛮 close 的 他就跟 senior 不是很 close actually 他跟 <unk> 的人 也 没有 很 close 他就 跟我 跟 <unk> close 而已
+07NC14FBQ_0101 1326662 1327321 ZH 可是
+07NC14FBQ_0101 1332069 1333557 ZH 哦 他 给 每个人 同样的 感觉
+07NC14FBQ_0101 1333972 1335460 ZH 我 第一天 认识 他的 时候 他也是
+07NC14FBQ_0101 1336101 1337212 ZH 我 忘记了
+07NC14FBQ_0101 1338163 1342157 CS 对 每 每个人 都 这样 讲的 他是 很 okay 的 嘞 as in 你要认识他 啦
+07NC14FBQ_0101 1342930 1354542 CS 他跟 不熟的人 会 这样 啦 then 他 有时候 就是 as in 他 就是 没有 表情的 所以 你 会 觉得 他 很凶 因为 他的脸 很黑 可是 他 真的 是 没有 在生气 他 就是 在那边 就 这样子 而已 啊
+07NC14FBQ_0101 1355627 1357642 CS 就 这是 他的 normal expression
+07NC14FBQ_0101 1360807 1361504 ZH 为什么 嘞
+07NC14FBQ_0101 1364518 1365460 EN (em) okay lah
+07NC14FBQ_0101 1367118 1368380 CS actually 那个 时候 我
+07NC14FBQ_0101 1369021 1374130 CS 我 对 他 没有 什么 印象 因为 那时候 我在 <unk> so 我 不是 跟你 讲我 比较 close to seniors lo
+07NC14FBQ_0101 1374130 1375797 CS 因为 我 有一个 friend 他是 一个 senior mah
+07NC14FBQ_0101 1375797 1377420 CS 他 primary school 是我的 friend
+07NC14FBQ_0101 1377420 1379657 CS 他是 我 friend 的 cousin 所有 他是 我的 friend
+07NC14FBQ_0101 1381160 1382492 ZH 大我一年 对
+07NC14FBQ_0101 1382492 1386302 CS 然后 我 就 跟 他们 蛮 close 的 就 他 跟 他的 那个 gang of friends 所以
+07NC14FBQ_0101 1386302 1389571 CS i didn't get to make many friends with 我的 batch 的人
+07NC14FBQ_0101 1391492 1395962 CS 对 咯 until june then 有一个 camp then i think <unk> 跟 jess* <unk> 本来
+07NC14FBQ_0101 1395962 1397152 CS 我们 都是 有 story 的
+07NC14FBQ_0101 1397152 1402927 CS <unk> 是 (em) 他本来 跟一个 friend 蛮 close 的 then after that 那个 friend 就 是 like not very nice
+07NC14FBQ_0101 1405807 1410441 CS 我 忘了 啦 我 忘了 他 做 什么了 啦 反正 应该 是 蛮小 的事情 吧 因为 那时候 我们 secondary one 而已
+07NC14FBQ_0101 1411798 1412269 EN 
+07NC14FBQ_0101 1414021 1416187 EN 
+07NC14FBQ_0101 1416187 1419288 CS 你 没有 发现 我 一直在 try to change
+07NC14FBQ_0101 1421191 1421718 EN 
+07NC14FBQ_0101 1424130 1426278 ZH 你 每次 跟我 讲话 的 时候 都是
+07NC14FBQ_0101 1426918 1429329 EN just chinese comes out you know it is a natural thing
+07NC14FBQ_0101 1431065 1431990 EN aiya never mind lah then
+07NC14FBQ_0101 1434872 1436134 CS 直接 revert to chinese 的 啊
+07NC14FBQ_0101 1438772 1440901 CS 你 most of the 人 跟你 讲话 都是 这样
+07NC14FBQ_0101 1443500 1444028 EN yeah lor
+07NC14FBQ_0101 1448813 1449472 EN okay leh
+07NC14FBQ_0101 1450414 1451469 ZH 我 觉得 还好 啊
+07NC14FBQ_0101 1455552 1457292 CS most of the time 好像 是 讲 english
+07NC14FBQ_0101 1458587 1459416 EN english leh
+07NC14FBQ_0101 1461130 1463052 ZH 对 很少 听到 他 讲华语
+07NC14FBQ_0101 1463052 1466650 CS 诶 那时候 你 有没有 看到 那个 那个 post that 那个 <unk> 怎样 <unk> 的
+07NC14FBQ_0101 1466650 1470512 ZH 就是 那个 什么 (呃) 什么 <unk> 那种 九个 原则 之类的
+07NC14FBQ_0101 1472528 1475088 CS 那个 不是 poem 那个是 night principles
+07NC14FBQ_0101 1476239 1477746 CS 对 那个 是 night principles
+07NC14FBQ_0101 1482933 1483687 ZH 一堆人
+07NC14FBQ_0101 1486588 1489772 CS 哦  you know 你 有没有 看到 lawrence 的 comment
+07NC14FBQ_0101 1491128 1500256 CS lawrence 他的 comment 很好笑 嘞 他 他写 <unk> so which character am i  他 <unk> 是完全 看不懂的 咯
+07NC14FBQ_0101 1502916 1503481 ZH 对 咯
+07NC14FBQ_0101 1504122 1505309 CS she everything 都 看不懂 嘞
+07NC14FBQ_0101 1506929 1509849 ZH 不懂 嘞 可是 我 很 像印象中 没有 听他 讲过 华语
+07NC14FBQ_0101 1511412 1512882 CS 都是 all along is english leh
+07NC14FBQ_0101 1514879 1515350 ZH 对 吗
+07NC14FBQ_0101 1516084 1517469 CS 可是 gerald
+07NC14FBQ_0101 1517469 1519709 CS occasionally 还 会 有 华语 出来
+07NC14FBQ_0101 1522002 1522774 ZH 对 吗
+07NC14FBQ_0101 1523565 1529499 CS 最难 逼 华语 出来 就是 <unk> 难 很难从 <unk> 那边 挤 挤 chinese word 出来
+07NC14FBQ_0101 1530121 1530611 ZH 对 咯
+07NC14FBQ_0101 1531948 1537016 CS 哦 偶尔 偶尔 他 只有 跟你 会讲 每个人 跟你 都 会讲 <unk> talk to you in chinese also
+07NC14FBQ_0101 1538633 1539839 ZH 连 <unk> 都是
+07NC14FBQ_0101 1544605 1546806 EN 
+07NC14FBQ_0101 1554175 1554797 EN ehe
+07NC14FBQ_0101 1562318 1564485 ZH  对 
+07NC14FBQ_0101 1565728 1568300 ZH 对 咯 就是 只有你 嘞 <unk>
+07NC14FBQ_0101 1570035 1570543 ZH 不懂
+07NC14FBQ_0101 1572163 1572955 EN yeah but
+07NC14FBQ_0101 1574744 1575498 ZH 哎呀 你
+07NC14FBQ_0101 1576195 1576892 EN don't rubbish
+07NC14FBQ_0101 1578079 1579159 ZH 没有 啊
+07NC14FBQ_0101 1579159 1581389 CS 你的 opportunity 都 pronounce 得 有点 怪
+07NC14FBQ_0101 1582668 1583893 EN opportunity
+07NC14FBQ_0101 1585136 1586021 EN opportunity
+07NC14FBQ_0101 1586888 1590166 CS 不懂 就觉得 like 你讲的 有点 怪
+07NC14FBQ_0101 1593274 1594014 ZH 就 还好
+07NC14FBQ_0101 1595893 1597230 ZH 很怪 嘞 那个 音 很怪
+07NC14FBQ_0101 1598285 1600065 EN opportunity opportunity
+07NC14FBQ_0101 1600725 1605321 CS opportunity opportunity but 我是 singaporean
+07NC14FBQ_0101 1607130 1612574 CS i don't 你 不会 觉得 华人 学 american 讲话很 bimbo
+07NC14FBQ_0101 1614062 1615245 CS you know 那时候
+07NC14FBQ_0101 1616113 1637789 CS saturday 在 train hor 我跟 <unk> 一起回去 then <unk> 他 就 在 那边 玩我的 game 玩到 很爽 then 我就很 bored mah then 刚好 就 有一个 女的 她 就 坐我 旁边 然后 她就 在 讲英文 then she talks in this very <unk> 那种就是很 很撒娇那种 tone then 她又讲 那种 angmo 她就 try to slang 她的 angmo 就 try to
+07NC14FBQ_0101 1637789 1640399 CS 讲 到 很 american 的 way
+07NC14FBQ_0101 1640399 1643801 CS 就 it comes out it sounded totally bimbo lor
+07NC14FBQ_0101 1646080 1648398 ZH 她坐 在 我 旁边 她就 坐 我右边 <unk> 坐我 左边
+07NC14FBQ_0101 1649792 1652391 CS then 我就 诶 <unk> 她讲 angmo 很 bimbo leh
+07NC14FBQ_0101 1652391 1656566 CS 就 听不到 啊 他就 继续 玩他的 game 他就 继续 玩 我的 game
+07NC14FBQ_0101 1662802 1663697 ZH 有点 啊
+07NC14FBQ_0101 1666965 1671354 CS 就是 很那种 (er) dumb blonde 的 感觉
+07NC14FBQ_0101 1671354 1676045 CS and the 那个 那个 (em) you know what is a dumb blonde
+07NC14FBQ_0101 1678767 1679596 EN 
+07NC14FBQ_0101 1680670 1682686 ZH <unk>
+07NC14FBQ_0101 1683667 1686642 EN d. u. m. b. space b. l. o. n. d. e.
+07NC14FBQ_0101 1689785 1690350 EN okay
+07NC14FBQ_0101 1691028 1692743 CS 对 你懂 什么 是 brunette 吗
+07NC14FBQ_0101 1694231 1695079 CS brunette 是
+07NC14FBQ_0101 1696171 1699977 CS 是 brown hair 的 女孩子 是一个 是一个 american term lah
+07NC14FBQ_0101 1701820 1702348 ZH 对 咯
+07NC14FBQ_0101 1705061 1707340 CS blonde actually 是 金头发 的 女孩子
+07NC14FBQ_0101 1708131 1711094 CS 对 对 然后 blonde
+07NC14FBQ_0101 1711918 1722204 CS blonde 都是 generally (em) 就是 regarded as very 笨的 不知道 为什么 啦 but 都是 这样 好像你看 barbie
+07NC14FBQ_0101 1723221 1725839 CS barbie doll 也是 blonde hair 的 就
+07NC14FBQ_0101 1725839 1728839 CS aiya 你 去 online 找 啦 你 type dumb blond 一定 很多 jokes 出来 的
+07NC14FBQ_0101 1728839 1731684 CS 很多 那种 stupid blonde jokes dumb blonde jokes
+07NC14FBQ_0101 1734126 1739954 CS 没有 嘞 就是 一个 华人 然后 就 try to 讲 那种 american english 很 irritating
+07NC14FBQ_0101 1742806 1745966 EN no it is okay to speak in american english it's just
+07NC14FBQ_0101 1745966 1749186 CS 他 try to 弄 到 那个 accent 很 像
+07NC14FBQ_0101 1749186 1750831 CS 就很 irritating
+07NC14FBQ_0101 1752413 1753016 EN what hah
+07NC14FBQ_0101 1754572 1756174 CS 你完全很 singaporean
+07NC14FBQ_0101 1757511 1758039 ZH 对 啊
+07NC14FBQ_0101 1761185 1762184 ZH 因为 你 很黑 嘛
+07NC14FBQ_0101 1764575 1766742 CS is it but 你的 华文 不会 嘞
+07NC14FBQ_0101 1767910 1770528 ZH 你 华文 不会 嘞 是 因为 你 讲英文 的 关系 吗
+07NC14FBQ_0101 1774035 1777011 CS maybe but 他们 can tell the difference meh
+07NC14FBQ_0101 1778179 1781670 CS i mean 他们 can tell the difference between malaysian and singaporean 的 chinese meh
+07NC14FBQ_0101 1788823 1790159 ZH 因为 你黑 吧 可能
+07NC14FBQ_0101 1790159 1792499 ZH 可能 因为 真的 因为 你黑
+07NC14FBQ_0101 1794255 1806048 CS  就只- 只有你 不懂 嘞 可是 可是我 roomie 也不像 malaysian ah 可是 她是 malaysian ah
+07NC14FBQ_0101 1806953 1809619 ZH 她超 不像的 可是 她 一讲话 完全 破功 咯
+07NC14FBQ_0101 1811980 1812545 ZH 对 啊
+07NC14FBQ_0101 1813468 1815484 ZH 哎呀 我几时 得空的 时候 我 再去 做 啦
+07NC14FBQ_0101 1816821 1817292 ZH 对
+07NC14FBQ_0101 1818385 1820966 CS 啊 可是 我的 roomie 她 不会讲
+07NC14FBQ_0101 1823980 1824903 ZH (呃) 对
+07NC14FBQ_0101 1827785 1829198 EN 
+07NC14FBQ_0101 1831176 1833713 CS <unk> 然后 我 跟我 roomie 讲话 <unk>
+07NC14FBQ_0101 1835961 1837581 ZH 得空 我会 跟她 得空
+07NC14FBQ_0101 1838245 1849416 CS 以前 我 做工的 时候 也是 蛮多 malaysian 他们 都是 那种 malaysian ah then they 嫁 to 嫁给 singaporean <unk> 在 这边 做工的 那种 aunty so 我跟 他们 讲话 我 很习惯 他们 这样讲 所以 他们 讲什么 我都 听得懂
+07NC14FBQ_0101 1851417 1854427 CS 就 习惯 then after that okay 渐渐 会 他们的 lingo
+07NC14FBQ_0101 1855456 1856605 CS understand 他们的 lingo
+07NC14FBQ_0101 1861833 1863886 EN hah you mean you don't know what is a lingo
+07NC14FBQ_0101 1865695 1869689 CS hah lingo 就是 (em) 就是 a way of talking
+07NC14FBQ_0101 1871886 1872583 EN something like that
+07NC14FBQ_0101 1876049 1878624 EN you know like you talk to ah-tiong you must have their lingo
+07NC14FBQ_0101 1880815 1882511 ZH 我们要 这种
+07NC14FBQ_0101 1883905 1885091 ZH 我 老师是 台湾人
+07NC14FBQ_0101 1886728 1887726 ZH 哦 是 吗
+07NC14FBQ_0101 1888499 1889629 ZH 他 他不像 欸
+07NC14FBQ_0101 1893717 1894791 ZH 不懂 嘞 可是 他
+07NC14FBQ_0101 1895883 1898389 CS  <unk> 什么 我就 stunned 掉
+07NC14FBQ_0101 1901092 1902661 CS 我 我 stunned 了 awhile
+07NC14FBQ_0101 1904188 1909821 CS then 我就 我 就 在 那边 <unk> 这是 什么 我就 try to 比那个东西 <unk> 这是甚么 出来*
+07NC14FBQ_0101 1911027 1913627 ZH  对
+07NC14FBQ_0101 1915009 1918174 CS  mango and banana 我觉得 mango and banana 超好笑
+07NC14FBQ_0101 1920302 1922149 ZH  对 咯
+07NC14FBQ_0101 1924579 1926312 ZH 我 不是 故意 要 弄你 笑的
+07NC14FBQ_0101 1929234 1929506 EN cut
+07NC14FBQ_0101 1931066 1931876 EN 
+07NC14FBQ_0101 1932969 1934828 CS <unk> action 就 action all the way <unk>
+07NC14FBQ_0101 1941427 1944818 CS 哦 不懂 嘞 我 讲 我 做完了 then 我 再去 meet 他
+07NC14FBQ_0101 1947345 1950152 CS 你 要不要 喝水 i know you want to 喝水
+07NC14FBQ_0101 1951565 1953487 ZH 喝水 啦 你讲话 很 口干
+07NC14FBQ_0101 1956804 1958462 ZH 你要 去吃 吗 要 被 毒死 吗
+07NC14FBQ_0101 1959781 1962324 ZH  我们 很坏
+07NC14FBQ_0101 1963661 1964415 EN it is okay
+07NC14FBQ_0101 1971215 1973062 CS it is okay lah 如果是 <unk> 他会 just 笑
+07NC14FBQ_0101 1975492 1976489 ZH  怎么 
+07NC14FBQ_0101 1980745 1982064 ZH 我 没有 啊 
+07NC14FBQ_0101 1982384 1983835 CS 诶 你很 mean leh
+07NC14FBQ_0101 1984984 1990560 CS 哦 没有 我没有 去 click 那个 名字 我有 去 玩那个 slug* 我有 去 玩 那个 slug* 它 一直 在 那边 掉 <unk> 蛮 好玩的
+07NC14FBQ_0101 1997869 2000697 ZH 哈 <unk> 哈 建分* 齐凯*
+07NC14FBQ_0101 2001432 2002280 ZH 凯芬*
+07NC14FBQ_0101 2003655 2005576 ZH 凯芬* 不错 哦 em
+07NC14FBQ_0101 2006405 2007988 ZH 叫 建齐 另外 一个 叫 建齐
+07NC14FBQ_0101 2014101 2015175 ZH 他 应该 会 打你 吧
+07NC14FBQ_0101 2015175 2019564 CS 他 会 在 那边 <unk> 那个 那个 那个tone 的
+07NC14FBQ_0101 2025008 2027540 CS 哈 我的 squid 跟 turtle 多大 我 很 想 卖掉了
+07NC14FBQ_0101 2031112 2032958 CS 不用紧 啊 adopt 啊 反正是 free 的
+07NC14FBQ_0101 2034559 2035464 EN <unk> adopt lo
+07NC14FBQ_0101 2036424 2037630 ZH 应该 有 很多 了
+07NC14FBQ_0101 2038063 2038742 ZH 不懂 嘞
+07NC14FBQ_0101 2039608 2044411 CS 可是 那个 trophy hor 是从 他们 implement 过后 嘞 so 之前的 他们 没有 嘞
+07NC14FBQ_0101 2046243 2049283 CS 对 他们 没有 start 因为 是 他们 implement 过后 他们 才 开始 算
+07NC14FBQ_0101 2051834 2054999 CS 我 meet 超多的 嘞 then 可是我 只有一个 trophy 而已
+07NC14FBQ_0101 2057342 2058943 ZH 嗯 六个 现在有七个了
+07NC14FBQ_0101 2061147 2061825 ZH 嗯
+07NC14FBQ_0101 2063408 2064161 CS 它会 lag 掉
+07NC14FBQ_0101 2066403 2066949 ZH 没有
+07NC14FBQ_0101 2068438 2070774 CS  韦强* 你 玩 很多 game leh
+07NC14FBQ_0101 2072848 2076032 CS 你没有 看 刚才 玩太多 online game 不好 哦
+07NC14FBQ_0101 2078572 2080986 ZH  <unk> 什么鬼 都玩的 咯 <unk>
+07NC14FBQ_0101 2082870 2085150 CS 他只差 mafia mo~ world 没有 玩 而已 可是
+07NC14FBQ_0101 2085903 2092384 CS 没有人 可以 赢过 佩依* 我觉得 佩依 <unk> 最多 farm-ville lah 什么 什么 sai 他都有玩 country-story lah
+07NC14FBQ_0101 2094931 2097770 CS farm-town 有 啊 可是 我 很久 没有 玩了 我 看到 你 send 我的 gold
+07NC14FBQ_0101 2102146 2103070 ZH hor 就开一下
+07NC14FBQ_0101 2104875 2105327 ZH 哦
+07NC14FBQ_0101 2107324 2108926 CS 超大 right 对 咯
+07NC14FBQ_0101 2110697 2113296 CS 然后 你 可以 买一个 哦 我 有 很多个 neighbour
+07NC14FBQ_0101 2115802 2122979 ZH 哦 那个 已经 很久 了 那个是 我 在 玩的 时候 就 已经 有了 而且 我 在 玩 是 我 去 台湾 之前 就是 七月的 时候 就 有了
+07NC14FBQ_0101 2124731 2126201 CS 你自己 plant 到完 不是 很久
+07NC14FBQ_0101 2129554 2130496 EN oh okay
+07NC14FBQ_0101 2130835 2131984 CS 你很 free ho
+07NC14FBQ_0101 2133189 2134847 CS 诶 学校的 computer 有些很 lag 的 嘞
+07NC14FBQ_0101 2137108 2138351 ZH  哦
+07NC14FBQ_0101 2139576 2140838 ZH 哦 楼下 很慢
+07NC14FBQ_0101 2143042 2143645 ZH 什么
+07NC14FBQ_0101 2145227 2147220 CS 我 我 我 都 不用 楼上的 computer
+07NC14FBQ_0101 2149630 2150554 EN oh
+07NC14FBQ_0101 2152908 2156040 CS 可是 hor 我 跟 你 讲 s. p. m. s. 的电脑 hor 它的 comp~ lab 里面 hor
+07NC14FBQ_0101 2156040 2159144 CS 他 电 脑 是 没有 microsoft 的 学校 省钱
+07NC14FBQ_0101 2161913 2163458 CS no lah 你有去 s. p. m. s. 的 嘛
+07NC14FBQ_0101 2165568 2167904 CS 没有 啊 你 你 去 s. p. m. s. 干嘛
+07NC14FBQ_0101 2170857 2173142 CS 哦 那个是 nanyang business n. b. s. 的 lab
+07NC14FBQ_0101 2174153 2174624 ZH 不是
+07NC14FBQ_0101 2177676 2178825 ZH 你 觉得 我 会 很熟 吗
+07NC14FBQ_0101 2181884 2182939 ZH 你 要 去 逛一下 吗
+07NC14FBQ_0101 2185558 2188270 CS oh then 你 就 可以 知道 mr-bean 在 哪里
+07NC14FBQ_0101 2189966 2191057 EN oh 
+07NC14FBQ_0101 2197265 2198678 CS mr-bean 的 ice cream 好吃 吗
+07NC14FBQ_0101 2200807 2203124 CS 可是 是 soya bean ice cream 不是 很怪
+07NC14FBQ_0101 2204010 2209586 CS 哦 哦 你 吃看看 then 你 跟我 讲 我 只会 吃 他的 豆花 tauhui tauhui tauhui-zui
+07NC14FBQ_0101 2210877 2213227 CS and pancake 我 不 吃 汤圆
+07NC14FBQ_0101 2213227 2214899 CS i don't like to eat 汤圆
+07NC14FBQ_0101 2217819 2220011 CS 不喜欢 因为它 like <unk>
+07NC14FBQ_0101 2220011 2221009 EN <unk>
+07NC14FBQ_0101 2224871 2225624 ZH 没有
+07NC14FBQ_0101 2226491 2227395 EN no why leh
+07NC14FBQ_0101 2230183 2231219 ZH 那边的 汤圆 啊
+07NC14FBQ_0101 2234648 2236532 CS 哦 有 榴莲 就是 steady 了
+07NC14FBQ_0101 2244903 2246711 CS 哇 luxury leh 你
+07NC14FBQ_0101 2247446 2248388 ZH 享受 啊
+07NC14FBQ_0101 2249424 2250197 ZH 哈
+07NC14FBQ_0101 2252193 2253173 CS how big 是那个 dessert
+07NC14FBQ_0101 2256187 2258749 CS 哈 这样 小一个 dessert 就
+07NC14FBQ_0101 2259409 2261625 ZH 哈 这样 太大 啊 不会 吧
+07NC14FBQ_0101 2265444 2268047 ZH 诶 我跟你 讲 一个 很好笑 的 事情
+07NC14FBQ_0101 2268047 2270617 CS you know that time 我们 不是 买 那个 durian
+07NC14FBQ_0101 2270617 2273441 CS moon cake 回去 咯 那个 冰皮的 月饼
+07NC14FBQ_0101 2274364 2287057 ZH 然后 我 不是 给我 ah-ma 吃 咯 然后 (呃) 我 回家的 时候 我 ah-ma 她 就 跟我讲 说 诶 你 那个 月饼 hor 很好吃 嘞 可是 hor 为什么 里面 没有 包 莲蓉的
+07NC14FBQ_0101 2289774 2293638 ZH  我 <unk> 我 ah-ma 那个是 榴莲的 月饼 所以 没有 包莲蓉
+07NC14FBQ_0101 2297462 2303170 CS 有 我 跟她 讲 是 durian 的 冰皮月饼 然后 她就 问 我 为什么 没有 包莲蓉
+07NC14FBQ_0101 2303170 2307484 CS 全部 都是 durian leh 太多 durian 了 啦 没有 莲蓉
+07NC14FBQ_0101 2308774 2310963 ZH 我 不懂 要 讲 什么 嘞
+07NC14FBQ_0101 2314767 2320607 CS   有啊 有 就是 普通的 莲蓉 的 snow skin lor
+07NC14FBQ_0101 2321285 2321926 ZH 有 啊
+07NC14FBQ_0101 2323640 2324582 EN <unk>
+07NC14FBQ_0101 2326993 2329424 ZH 榴莲  <unk> 的月饼
+07NC14FBQ_0101 2330290 2330893 ZH 对 咯
+07NC14FBQ_0101 2333380 2334340 ZH 也是 好吃 吧
+07NC14FBQ_0101 2335245 2335697 ZH 对 咯
+07NC14FBQ_0101 2336921 2339578 CS 没有 不在 worth it lor 对不对
+07NC14FBQ_0101 2347668 2348808 ZH 赚到 他们
+07NC14FBQ_0101 2350654 2352086 ZH 十块 对 咯
+07NC14FBQ_0101 2355439 2360620 ZH 那时候 <unk> 生日 我们 买 一粒 那个 莲蓉的 给她 才 六块多 而已 是 吗
+07NC14FBQ_0101 2361863 2363540 CS hm 去 <unk> 买
+07NC14FBQ_0101 2372142 2373762 ZH 哇 爽 hor
+07NC14FBQ_0101 2374930 2375420 ZH 对 咯
+07NC14FBQ_0101 2376870 2379018 CS hmm no 会 heaty 因为会 流鼻血 吧
+07NC14FBQ_0101 2382737 2384117 CS 多 人 吃 比较 有 feel
+07NC14FBQ_0101 2385251 2386042 EN feel eh
+07NC14FBQ_0101 2394143 2396252 ZH 哎哟 那个人 很挑的 啦 他
+07NC14FBQ_0101 2397176 2397910 ZH 他很 挑的
+07NC14FBQ_0101 2406368 2408300 CS hor 他 supposed to 在读书的 咯
+07NC14FBQ_0101 2410611 2427327 CS then 那时候 好像是 saturday 我们读 then i think 他读不完 so 他讲 okay 我 破例 一次 拿 东西 回家 读 then in the end 他就 在 那边 看戏 then 他就 online facebook ho then 我就 问他 诶 <unk> 你 不是 要 应该 读书 嘛 okay lah later later coming ming
+07NC14FBQ_0101 2430161 2430828 ZH 对 咯
+07NC14FBQ_0101 2434902 2436014 CS 可是 我们 all~
+07NC14FBQ_0101 2436014 2439164 CS 这个 semester lah 都是 拜 一 回 因为 我们 都 迟 start lesson
+07NC14FBQ_0101 2439714 2441980 CS 如果 是 九点半 我 就 会 sunday night 回
+07NC14FBQ_0101 2443156 2443981 EN hah
+07NC14FBQ_0101 2448980 2449279 EN hmm
+07NC14FBQ_0101 2455812 2457336 CS 可是 你 都是 skip 吗 还是
+07NC14FBQ_0101 2458323 2458657 ZH 哦
+07NC14FBQ_0101 2460383 2462696 ZH 我 会 去 上课的 嘞 我 每个课 都 会 去上
+07NC14FBQ_0101 2468548 2473219 ZH 呵 他 不爱你了 韦强* 
+07NC14FBQ_0101 2479734 2480752 ZH 你 买 才回来 啊
+07NC14FBQ_0101 2484830 2485848 ZH 没有 我 没有看
+07NC14FBQ_0101 2486849 2488026 ZH 对 啊 我 当然 看不到
+07NC14FBQ_0101 2488711 2489852 ZH 我 都 在上课 欸
+07NC14FBQ_0101 2495998 2496683 EN hor
+07NC14FBQ_0101 2500529 2501741 ZH 哈 你 考到 这样迟 啊
+07NC14FBQ_0101 2502250 2503181 CS 你要去 sheng-siong 吗
+07NC14FBQ_0101 2504584 2506514 CS 吃 东西 then groceries lor
+07NC14FBQ_0101 2512784 2514794 CS i don't mind 可是
+07NC14FBQ_0101 2514794 2516204 CS 不是 要 吃 macdonald 吗
+07NC14FBQ_0101 2517164 2519834 CS thursday 我们 不是 约 好 要 吃 macdonald
+07NC14FBQ_0101 2522294 2524884 CS 你 可以 啊 可是 friday 我 都 不会 在 school 里面
+07NC14FBQ_0101 2526113 2532259 CS 因为 我 会 在 读书 啊 我 会 在 某个 角落 读书 可是 我 都 死都不去 canteen a 读 吵死了
+07NC14FBQ_0101 2534594 2538454 CS 就 去 别的 地方 吃 啊 就 如果 在 我在 hall 读 就 hall five hall four 吃 咯
+07NC14FBQ_0101 2538454 2541830 CS 如果在 <unk> 那边读 就在 hall five hall four 吃 咯
+07NC14FBQ_0101 2544297 2554542 CS then 拜四 你 考完了 嘛 then <unk> 也是 考了 一个 paper then 就可以 去 celebrate 了 就 okay lo 我就 破例 去 远一点 吃 对  我就 去 远一点 吃
+07NC14FBQ_0101 2558287 2560412 ZH 哦 他 <unk> 后面<unk>
+07NC14FBQ_0101 2564981 2571721 CS 可是 他 最后 一个 paper hor 是 那个 最 slack 的 leh then 又 这么多 时间 i think 他完全 just 没有 start lo
+07NC14FBQ_0101 2577231 2579032 ZH 你 养好 养好 身体
+07NC14FBQ_0101 2579971 2580814 ZH 你要 喝水 吗
+07NC14FBQ_0101 2584800 2585977 ZH 哈 这么久 咯
+07NC14FBQ_0101 2602389 2603729 ZH 没有 好不好
+07NC14FBQ_0101 2603729 2605216 EN that's not a truth
+07NC14FBQ_0101 2609691 2610464 ZH 屁
+07NC14FBQ_0101 2616171 2616628 ZH 爸爸
+07NC14FBQ_0101 2621404 2624319 CS 是因为 爸爸 can't be bothered 爸爸就 静静
+07NC14FBQ_0101 2626377 2627729 ZH 会更惨 对
+07NC14FBQ_0101 2630486 2631013 ZH 动物
+07NC14FBQ_0101 2633085 2633928 ZH 诶 什么
+07NC14FBQ_0101 2634964 2635491 ZH 什么
+07NC14FBQ_0101 2636176 2638775 CS 如果 两个人 都 不要 讲话 that's worst
+07NC14FBQ_0101 2640822 2641261 ZH 对 啊
+07NC14FBQ_0101 2654081 2654766 ZH 没有 啊
+07NC14FBQ_0101 2655099 2657172 ZH 只是 我 我在想 为什么 你 会有 感触
+07NC14FBQ_0101 2657997 2660263 CS then 你 好像 讲到 很 natural 有没有
+07NC14FBQ_0101 2662040 2662585 ZH 哦
+07NC14FBQ_0101 2664780 2666290 ZH 我 爸爸 妈妈 很少 吵架 嘞 其实
+07NC14FBQ_0101 2668310 2673054 ZH  你是 习惯了 吗
+07NC14FBQ_0101 2677880 2682424 CS 我爸爸 就是 静静的 then 就是 can't be bothered 的 那种 then 我妈妈 就是 在 那边讲
+07NC14FBQ_0101 2686832 2687447 ZH 做工
+07NC14FBQ_0101 2691523 2694904 ZH 做工 是 很辛苦 滴 所以 你要 快点 毕业
+07NC14FBQ_0101 2694904 2697054 CS 找 工作 他们 就 不会 那么 stress
+07NC14FBQ_0101 2698257 2702033 CS 可是 现在 naturally 你的 妹妹 都没有 在读书 吗 <unk>
+07NC14FBQ_0101 2704298 2707143 CS 可是 读书 没有 那个 读书 的 burden what
+07NC14FBQ_0101 2711287 2712341 CS 就 okay ah
+07NC14FBQ_0101 2719084 2719822 ZH 怎么 嘞
+07NC14FBQ_0101 2721490 2723018 CS 为什么 她 不要去 找一个 full time 的 job
+07NC14FBQ_0101 2725221 2726881 CS 为什么 他 不要 找 一个 full time 的 job leh
+07NC14FBQ_0101 2728936 2729656 ZH 是 嘛
+07NC14FBQ_0101 2732589 2732993 ZH 哈
+07NC14FBQ_0101 2734995 2735486 EN why not
+07NC14FBQ_0101 2739183 2741286 ZH  很烂 嘞
+07NC14FBQ_0101 2741286 2745364 CS then 她每次 每天 都 sleep very late ah no wonder
+07NC14FBQ_0101 2751358 2760279 CS 可是 我 做工的 时候 十一点 十二点 睡 我是 okay 的 我早上就 七点半 这样 起来 哇 我 can reach on time leh 做工
+07NC14FBQ_0101 2762896 2765380 ZH 哇 她 需要 睡 这么多 啊
+07NC14FBQ_0101 2771488 2772243 ZH 哇
+07NC14FBQ_0101 2773577 2774122 ZH 哇
+07NC14FBQ_0101 2776212 2776703 ZH 对 咯
+07NC14FBQ_0101 2778597 2779460 EN bobian
+07NC14FBQ_0101 2780707 2781322 ZH 什么
+07NC14FBQ_0101 2783644 2784922 ZH 不是 啊 是 另外一件
+07NC14FBQ_0101 2786625 2788608 ZH 不是 啊 可是 我知道 你的 裤子是
+07NC14FBQ_0101 2791964 2793878 ZH 哎呀 我的 衣服 都 长 差不多
+07NC14FBQ_0101 2795529 2796372 ZH 我就 知道 是 啊
+07NC14FBQ_0101 2796934 2798672 CS 因为是 print 的 你 只有一件
+07NC14FBQ_0101 2802307 2802957 ZH 没有 啊
+07NC14FBQ_0101 2805935 2808358 ZH 哦 所以 是 真的 吗 是 真的 拿错 吗
+07NC14FBQ_0101 2811133 2816903 EN wah 
+07NC14FBQ_0101 2821020 2822337 CS then 你知道了
+07NC14FBQ_0101 2831299 2832405 CS 我有穿 x. s.
+07NC14FBQ_0101 2833424 2834144 ZH 因为
+07NC14FBQ_0101 2834899 2836683 CS 因为 joslin 没有 double x. s.
+07NC14FBQ_0101 2838042 2843394 CS 可是 actually 我跟 你 穿一样的 size 是 okay 的 嘞 你的 spirit shirt 是 什么 <unk> 什么 size
+07NC14FBQ_0101 2844641 2846871 CS spirit shirt 我的也是 m. leh
+07NC14FBQ_0101 2847574 2850366 ZH 我穿得 有点 松 啊 有 一点 松 而已 嘞
+07NC14FBQ_0101 2851964 2854141 CS 然后 那个 笨蛋 <unk> 他也是 拿 m.
+07NC14FBQ_0101 2855494 2858040 CS so 他穿了 就 变成 very tight
+07NC14FBQ_0101 2859515 2860589 EN yeah lor like tight fit like that
+07NC14FBQ_0101 2862432 2864012 ZH 就 很难 看 很怪
+07NC14FBQ_0101 2864837 2865768 ZH 就 觉得 穿得 很怪
+07NC14FBQ_0101 2867998 2869807 CS no free 的 从 天掉 下来的
+07NC14FBQ_0101 2871389 2872320 EN 
+07NC14FBQ_0101 2874533 2875375 EN 
+07NC14FBQ_0101 2876289 2876587 ZH 对
+07NC14FBQ_0101 2877202 2877623 EN okay
+07NC14FBQ_0101 2881715 2882912 ZH 我 尽量 不要笑
+07NC14FBQ_0101 2901865 2902901 ZH 果然有 嘞
+07NC14FBQ_0101 2905184 2907082 CS 哇 韦强 你 g. g. 了
+07NC14FBQ_0101 2925712 2926169 ZH 对 咯
+07NC14FBQ_0101 2926994 2932351 ZH 还是 你 这件 拿错 其实 你的 是 很窄的 可是 <unk> 我 记得 你的 不是 很窄的
+07NC14FBQ_0101 2937127 2939352 ZH 很空 对不对 是 应该 是 松的
+07NC14FBQ_0101 2940452 2940698 EN (em)
+07NC14FBQ_0101 2943209 2944105 CS 你 可以 送给 joslin
+07NC14FBQ_0101 2944790 2946265 EN 
+07NC14FBQ_0101 2947283 2948109 ZH  对
+07NC14FBQ_0101 2954452 2955067 ZH 看什么
+07NC14FBQ_0101 2957543 2958887 CS 那天 what do you 拍
+07NC14FBQ_0101 2964568 2966043 CS 诶 你 这个 handphone 还 蛮酷的
+07NC14FBQ_0101 2970429 2971847 ZH 我 刚才 拍的 哦
+07NC14FBQ_0101 2975486 2977295 CS 诶 你 please 这个 不要 post
+07NC14FBQ_0101 2978823 2980087 ZH 不懂 嘞 我 觉得 很怪
+07NC14FBQ_0101 2985759 2986316 EN 
+07NC14FBQ_0101 2987606 2988958 ZH 不懂 嘞 我 觉得 很怪
+07NC14FBQ_0101 2988958 3000408 CS 可是 你 不会 觉得 hor 那个 很像 我们 这样讲 啦 我 听 我 自己的 声音 跟 我 听 那个 machine 讲出来的 声音 我 觉得 很不像 我的 声音
+07NC14FBQ_0101 3004553 3005456 EN no
+07NC14FBQ_0101 3006520 3007696 CS 什么是 talent site
+07NC14FBQ_0101 3012014 3012892 ZH 你
+07NC14FBQ_0101 3013929 3016615 CS yeah i know 每年 都有 talent time 的 啊
+07NC14FBQ_0101 3017845 3018758 CS 然后 你 join 你 做 什么
+07NC14FBQ_0101 3038802 3039417 EN 
+07NC14FBQ_0101 3042402 3044246 CS ah you very 丢脸 嘞
+07NC14FBQ_0101 3046248 3047372 ZH 什么 名字
+07NC14FBQ_0101 3049173 3051000 EN ms tang
+07NC14FBQ_0101 3052071 3053458 CS 很熟 哦 英文的 ms tang 吗
+07NC14FBQ_0101 3053458 3055179 ZH 哦 我 知道 是谁
+07NC14FBQ_0101 3056075 3057023 ZH 我知道
+07NC14FBQ_0101 3058165 3059672 ZH 我知道 啊
+07NC14FBQ_0101 3063661 3072021 CS 哦 你 懂 有没有 你 有没有 认识 一个 老师 叫 ms cheong ms ella cheong 那个 p. e. 老师
+07NC14FBQ_0101 3076018 3083013 CS shubas* oh shubas shubas 在我 我 year one 的时候 她 就走了 我 secondary one 我 secondary one 的 时候 她 还在
+07NC14FBQ_0101 3085835 3087591 CS 那个 时候 他 好像 回去 m. o. e. ah
+07NC14FBQ_0101 3088936 3089498 ZH 我 不懂 嘞
+07NC14FBQ_0101 3091078 3091552 ZH 可是
+07NC14FBQ_0101 3093554 3095030 CS shubas* 人蛮好的 嘞
+07NC14FBQ_0101 3099051 3100122 EN no idea
+07NC14FBQ_0101 3101264 3101931 ZH 对 咯
+07NC14FBQ_0101 3103687 3105280 CS 你懂 mr ng kok wing 吗
+07NC14FBQ_0101 3106409 3107445 ZH 他结婚 嘞
+07NC14FBQ_0101 3109071 3109510 ZH 对
+07NC14FBQ_0101 3111038 3115007 CS 哦 跟一个 ms loi 然后 那个 ms loi 以前 是 他的 学生
+07NC14FBQ_0101 3116166 3117360 ZH 就 小他 十岁 嘞
+07NC14FBQ_0101 3120556 3121487 EN seriously he-
+07NC14FBQ_0101 3122101 3126548 CS she 小他 十岁 而且 她 以前 是 student counselor leh 她以前也是 <unk>
+07NC14FBQ_0101 3129868 3130728 EN (em)
+07NC14FBQ_0101 3132800 3139445 CS mr ng 我 那时候 他 已经 三十出 啊 他 结婚的 时候 三十 出 可是他 看起来 just 不像 三十 出
+07NC14FBQ_0101 3139445 3140755 CS 你 不觉 得 他 很 baby face mah
+07NC14FBQ_0101 3141528 3142898 ZH 对 啊 就 很 可爱
+07NC14FBQ_0101 3146902 3152697 CS 她是 以前 她 有 来 代过课 所以 我们 认识 他 她 就 来 代 我们的 i think music class
+07NC14FBQ_0101 3157387 3158555 EN (em)
+07NC14FBQ_0101 3164891 3165748 CS 诶 你们 你-
+07NC14FBQ_0101 3169802 3170451 EN 
+07NC14FBQ_0101 3171672 3172139 ZH 对
+07NC14FBQ_0101 3173048 3174217 ZH 可是 这样 hor
+07NC14FBQ_0101 3174788 3177385 CS 这样 你 已经 cut down 很 很多 那个
+07NC14FBQ_0101 3179592 3180313 EN yeah hor
+07NC14FBQ_0101 3181981 3188577 CS 我 我 已经是 average 然后 我跟你 差不多 size leh 韦强* 所以 你要 你已经有 half 的 population limited
+07NC14FBQ_0101 3195050 3198711 CS  but okay lah 小只的 女孩子 还不难 不难找
+07NC14FBQ_0101 3203256 3218889 CS 真的有 cut 掉 half ah 可是 depends on 可是 你看 我的 friend like among 我的 女孩子的 朋友 most of them 你看 shanon* 你看 舒婷* 看 jess* 在 我们 四个 当中 hor 我们四个 close friend 她 已经 是 最小只了
+07NC14FBQ_0101 3220932 3226359 ZH 而且 他 只 小你 那么 一点点 哦 而且 她有 一六零 哦 所以 你 只 高她 那么 一点点
+07NC14FBQ_0101 3227320 3229086 EN 
+07NC14FBQ_0101 3229969 3232540 ZH 真的 很 看不出来 嘞
+07NC14FBQ_0101 3234834 3236444 ZH 真的 很 看不出来
+07NC14FBQ_0101 3239750 3243308 CS but 韦强* 我 真的 看不出来 有 啊 一七三
+07NC14FBQ_0101 3245152 3246528 ZH 哦
+07NC14FBQ_0101 3250320 3251151 ZH 哦 对 hor
+07NC14FBQ_0101 3252839 3254059 ZH 我 不懂 嘞 我 忘了
+07NC14FBQ_0101 3254812 3255539 CS forgot 了
+07NC14FBQ_0101 3262269 3262840 ZH 可是
+07NC14FBQ_0101 3265069 3267873 CS 可是 like 我看你 and 俊杰*
+07NC14FBQ_0101 3275166 3276256 ZH 哦 要带住 哦
+07NC14FBQ_0101 3276802 3279061 ZH 哦 有一点 痛 就是旁边
+07NC14FBQ_0101 3281795 3283171 ZH (呃) 好 谢谢
+07NC14FBQ_0101 3287508 3288781 ZH 哦
+07NC14FBQ_0101 3290001 3291118 ZH 啊 我不知道 嘛
+07NC14FBQ_0101 3298400 3300036 CS okay then 这个 要调
+07NC14FBQ_0101 3301023 3303880 CS okay okay mah 这个 这样子 应该 还好 吧
+07NC14FBQ_0101 3304918 3305619 EN okay
+07NC14FBQ_0101 3306658 3308164 ZH 没有 我 觉得 你的 很小声
+07NC14FBQ_0101 3309671 3311410 ZH 你的 可以 放 靠近一点
+07NC14FBQ_0101 3313202 3314682 ZH 啊 这样 就 差不多了 啊
+07NC14FBQ_0101 3317072 3319094 ZH 对 啊 真的 是 差不多了 啊
+07NC14FBQ_0101 3322221 3330354 CS 哦 你讲到 俊杰 可是 我看你 跟 俊杰 我 还是 觉得 俊杰 比你高 i think 是因为 有 啊 小只的 关系
+07NC14FBQ_0101 3333810 3335910 CS 真的 真的 is because you are 小 只
+07NC14FBQ_0101 3338660 3341120 CS 就是 generally 就是 比较 瘦
+07NC14FBQ_0101 3341480 3343680 CS 你 跟 别人 比 起来 你是 generally 比较 瘦 的
+07NC14FBQ_0101 3347153 3348010 ZH 大只的 啊
+07NC14FBQ_0101 3349309 3350997 ZH 真的 我跟你讲
+07NC14FBQ_0101 3351957 3353957 ZH 男孩子 大大只 比较 有 安全感
+07NC14FBQ_0101 3356502 3359203 ZH 对 咯 你要 找 小小只的 所以 在她 眼里 你是 很大的
+07NC14FBQ_0101 3360164 3362501 CS  是 it is a relative thing
+07NC14FBQ_0101 3372892 3373688 ZH 为什么 嘞
+07NC14FBQ_0101 3378112 3385461 ZH 可是 老人 都会 变小的 啊 所以 老人 都是 小只的 老人 哪里有 很少有 你看到 很 就很壮 高大
+07NC14FBQ_0101 3388328 3389653 CS 是你的 gene 吗
+07NC14FBQ_0101 3395132 3396106 EN how tall is he
+07NC14FBQ_0101 3398326 3400352 ZH 很 gaolat 你 没有 问过 他 嘛
+07NC14FBQ_0101 3400923 3403987 ZH 我爸 有 一七 多 吧 一七五 吧 左右
+07NC14FBQ_0101 3405935 3406688 ZH 他 不懂 嘛
+07NC14FBQ_0101 3409550 3410095 ZH 哦
+07NC14FBQ_0101 3412121 3412640 EN healthy
+07NC14FBQ_0101 3414850 3416613 ZH <unk> 我 以前 量过
+07NC14FBQ_0101 3418145 3419970 CS 哈 joslin 为什么会 high risk
+07NC14FBQ_0101 3421833 3424326 CS 哦 那时候 我 也是 有 一个 period 是 低的
+07NC14FBQ_0101 3425001 3426274 CS after that 我 gain weight 就 okay 了
+07NC14FBQ_0101 3428741 3429624 ZH 很多 嘞
+07NC14FBQ_0101 3434401 3441619 CS you know 以前 nanyang 有一个 (em) machine 可以 量 the a~ percentage of body fat
+07NC14FBQ_0101 3443204 3447255 CS (em) nanyang 有 我的 year 的时候 有 啦 but 那 那个 p. e. lesson 我不在
+07NC14FBQ_0101 3448703 3452503 CS 哦 因为 不是 有 两个 p. e. session one morning 一个 afternoon 的
+07NC14FBQ_0101 3453353 3456393 CS 那个 morning 的 是 每个人 都要 去 then 那个 afternoon 是 你
+07NC14FBQ_0101 3456643 3459383 CS 如果 你 fail 那个 i. p. p. t. then 就
+07NC14FBQ_0101 3464958 3465841 ZH 差不多了
+07NC14FBQ_0101 3469850 3473183 CS 不是 要 fail i. p. p. t. 的话 就要 去 那个 afternoon p. e.
+07NC14FBQ_0101 3473183 3476920 CS then 如果你 pass i. p. p. t. then 就不用去
+07NC14FBQ_0101 3476920 3482630 CS 就 就 直接 是 那是 一个 incentive for passing i. p. p. t. 所以 你 不用 去 那个 afternoon p. e. 所以 afternoon p. e.
+07NC14FBQ_0101 3482630 3485973 CS is usual~ 而且 是 四点半 start lo 如果你一点半下课 hor
+07NC14FBQ_0101 3485973 3488133 CS 你 还要 等 三个 钟 just for 一个 p. e. session
+07NC14FBQ_0101 3488723 3490063 CS 不是 很 stupid meh
+07NC14FBQ_0101 3491153 3493663 CS 对 lor 就 waste 三个 小时 为了 一个 p. e.
+07NC14FBQ_0101 3493963 3496893 CS 所以 每个人 就是 很 有 incentive to pass 那个 i. p. p. t.
+07NC14FBQ_0101 3498160 3501172 CS 我 pass ah 诶 我要 gold leh 你小看我
+07NC14FBQ_0101 3502211 3505301 CS 我 我 是 不可以 run 那个 时候 那个 时候 就是 可以 嘞 诶 那个 时候 我跑
+07NC14FBQ_0101 3507249 3510341 CS that time that time 我 跑的 时候 十三分钟 多 而已 嘞
+07NC14FBQ_0101 3511871 3516052 CS compared to now now is 很 cui 不行
+07NC14FBQ_0101 3518415 3525594 CS 我现在 你要 你 要 我 去跑 two point four 应该会 don't know twenty minutes 左右  不懂
+07NC14FBQ_0101 3526243 3528873 CS 是 那个 时候 那时候 是 thirteen minutes leh
+07NC14FBQ_0101 3528873 3532023 CS 我 就 我 看到 我 自己的 timing 我 都 很 impress leh
+07NC14FBQ_0101 3532023 3535273 CS 我 just wa <unk> 跑一圈
+07NC14FBQ_0101 3535273 3539263 CS then 因为 那时 候 是 friend 帮 你 take timing 的 嘛 所以 你 跑 过 几 圈 他 要 记得
+07NC14FBQ_0101 3539573 3541081 CS 他 就 很 confirm <unk>
+07NC14FBQ_0101 3544504 3546062 CS 哈 我不要去 run
+07NC14FBQ_0101 3548425 3549308 ZH 我不要
+07NC14FBQ_0101 3552372 3554606 CS 你没事 吧 拜四有 exam leh
+07NC14FBQ_0101 3556579 3559363 CS 不要 拜 六 要 study
+07NC14FBQ_0101 3560419 3562782 CS study study study 要考试 了 韦强*
+07NC14FBQ_0101 3563483 3567586 CS 有 啊 会有叫 <unk> 来读书 我们 昨天吃 dinner 有 叫他 嘞
+07NC14FBQ_0101 3568573 3571793 ZH 有 啊 他 有 跟我们 吃 啊 可是 他 看起来 也是 sian sian 的
+07NC14FBQ_0101 3575611 3576260 ZH 不懂 嘞
+07NC14FBQ_0101 3578711 3580165 CS 昨天 dinner 你跟 我们 吃 嘛
+07NC14FBQ_0101 3583333 3584338 ZH 是 嘛
+07NC14FBQ_0101 3586532 3587856 ZH 哦 对 hor 是我 hor
+07NC14FBQ_0101 3588973 3590920 ZH 诶 然后 是 几时 我跟 俊杰 吃
+07NC14FBQ_0101 3592115 3593615 ZH 糟糕 我忘了 拜五吗
+07NC14FBQ_0101 3596270 3600477 ZH 不懂 嘞 可是 有 有一次是我 跟 <unk> 俊杰
+07NC14FBQ_0101 3602944 3604606 EN i don't know oh

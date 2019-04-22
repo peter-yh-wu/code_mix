@@ -1,0 +1,153 @@
+UI08MAZ_0103 0 9589 CS 也是 okay 然后 come to light bulb 你 create 一个 layout 一个 lighting efficient layout okay 省电 的
+UI08MAZ_0103 10598 18044 CS 然后 你 就 不用 用 多 因为 电 是 灯 是 最多 的 灯 是 占 了 四十 四十二 percent in the whole house
+UI08MAZ_0103 18333 23047 CS 如果 你 能 reduce 那个 一半 你 已经 省 了 咯 二十 块 吧
+UI08MAZ_0103 31021 37456 CS 对 啊 我们 是 做 那些 东西 的 啊 我们 就 啊 okay appliances okay okay sorry sorry
+UI08MAZ_0103 37860 43545 CS (啊) 对 out of conscious education ah architecture can help ah okay
+UI08MAZ_0103 44584 50351 CS 第一 点 为什么 要 用 灯 因为 这里 暗 嘛 这边 需要 一个 窗口 okay
+UI08MAZ_0103 50351 56641 CS 一个 窗口 它 sunlight 进来 那个 叫 passive design passive design 就是 跟着 你 orientation of 你的 building
+UI08MAZ_0103 57391 62264 CS 如果 你 一 晒 你 一 太阳 这样子 升 这边 下 你 building 放 这边
+UI08MAZ_0103 62817 69156 CS 你 放 这边 okay 能 面对 太阳 的 能 maximum 那个 太阳 的 咧 就是 这边 两面 罢了
+UI08MAZ_0103 69385 80411 CS okay 这边 是 fifty fifty 的 因为 它 是 在 上面 过 的 嘛 fifty fifty 这里 两面 然后 如果 你的 房间 要 一个 (呃) hundred percent 的 阳光 你 就 放 这边 咯
+UI08MAZ_0103 81219 83351 CS okay 然后 如果 你 是 不要 的话
+UI08MAZ_0103 84192 87443 CS 你 就 放 其它 那个 fifty percent oh 那个 就是 part of 那个 layout oh
+UI08MAZ_0103 87991 91572 CS 然后 如果 你 design 一个 这样子 的
+UI08MAZ_0103 92205 98813 CS okay 你 放 这样子 然后 自己 去 maximize 全部 那种 如果 你 一 放 阳光 这边 全部 啊 它 absorb heat mah
+UI08MAZ_0103 99390 106343 CS 然后 你 temperature of building increase 你 就 开 air-con 你 去 开 air-con 你 就 浪费 电 你 就 浪费 carbon release carbon
+UI08MAZ_0103 106952 113487 CS okay 所以 哦 那个 orientation ah 很 容易 罢了 那个 orientation 就是 face the minimum
+UI08MAZ_0103 114276 118703 EN minimum sunlight direct sunlight but get the maximum of day light
+UI08MAZ_0103 119817 126764 CS 你 要 有 阳光 进来 但是 不要 它 的 heat 进来 罢了 你 reduce 它 的 heat 它 就是 part of 那个 architecture
+UI08MAZ_0103 127054 130170 CS 然后 讲 到 那个 是 solar mah 那个 讲 到 solar 讲 到 wind
+UI08MAZ_0103 130632 137818 CS okay 如果 你 一 wind cross wind ventilation 这样子 cross okay 但是 你 你 的 building 是 放 这样子 的 它 只是 这边 进
+UI08MAZ_0103 138568 146189 CS 所以 是 没有 用 你 最好 是 maximize 它 然后 你 就- 我们 就 based on 那些 那个 叫 site analysis 去 determine 我 的 building 要 怎样 放
+UI08MAZ_0103 147535 152794 CS 啊 那种 passive design passive design 是 不用 用 到 mechanical 的 它 有 分 两种 一个 是 叫 passive design 一个 是 叫
+UI08MAZ_0103 152794 160240 CS passive design 一个 叫 active design active design 就 用 那个 那些 省 电 的 appliances 就 好像 刚才 你 讲 的 这样 啊
+UI08MAZ_0103 163632 165998 ZH 阳光 风 (啊)
+UI08MAZ_0103 167557 175482 CS vegetation 种 树 啊 你 的 树 要 怎样 摆 要 怎样 screening 啊 那个 也是 part of it
+UI08MAZ_0103 178339 182611 CS 最 主要 是 不要 heat ah 不要 给 那个 热能 进来 自己 家
+UI08MAZ_0103 186709 187300 EN where is it
+UI08MAZ_0103 193288 202488 CS 哦 很 简单  第一 点 我们 这里 的 local climax ah local climate 就是 这里 就是 hot and humid oh
+UI08MAZ_0103 203238 208023 CS 很 高 的 humidity 又 hot okay 那边 呢 就是 cold
+UI08MAZ_0103 209611 214273 CS 又 low humidity 那边 很 冷 你 不用- 你 出去 你 不用 拿 雨伞 的
+UI08MAZ_0103 215037 221796 CS 不管 几 热 都 好 啊 你 不用 拿 雨伞 因为 那边 它 humidity 低 低 没有 这样 潮湿 我们 这里 潮湿 会 出 汗 很 容易 出 汗
+UI08MAZ_0103 222565 227846 CS 所以 (呃) 那边 design 那边 design 可以 整个 都是 glass rock
+UI08MAZ_0103 228363 232957 CS 因为 他们 要 absorb heat 你 拿 那个 同样 的 东西 来 malaysia 看 这里 是 变 oven
+UI08MAZ_0103 234273 238841 CS 所以 这是 not applicable in different place
+UI08MAZ_0103 239727 243970 ZH 然后 如果 你 沙滩 跟 山上 又 不一样 然后
+UI08MAZ_0103 244864 250459 ZH (嗯) 还有 什么 啊 沙漠  沙漠 跟 大陆 不一样
+UI08MAZ_0103 251610 261782 CS 还有 那种 urban urban 跟 rural area 不一样 城市 跟 不 城市 不一样 嗯 这些 有 就 take in consideration loh
+UI08MAZ_0103 269493 277081 CS 没有 读 那个 要 自己 来 我 是 跟 我 以前 那个 practical 老板 他 是 有 看 这些 东西 的 那 我 就 在 那边 学
+UI08MAZ_0103 277631 284096 CS 就 (啊) 做生意 我们 是- 我 老板 全部 接 的 生意 全部 都是 那种 大 老板 的
+UI08MAZ_0103 284644 293585 ZH 然后 他们 就 很 注重 他们 的 东西 的 哪里 应该 放 水池 哪里 不 应该 放 水池 然后 哪里 应该 放 喷水池 啊 那种 类似 东西
+UI08MAZ_0103 297507 306691 CS 做生意 的  那些 老板 很 很 question 就是说 诶 我 一 进 门 就 看到 我 的 厕所 啊 那种 他们 很 很 不 喜欢 他们 就 已经 改
+UI08MAZ_0103 307545 312826 CS 然后 他们 又 有 可能 找 风水 师 来 读 看 他 的 图 okay 哪里 应该 摆 什么
+UI08MAZ_0103 313230 322314 CS 哪里 应该 我 的 我 的 房间 应该 在 哪里 啊 他们 有 画 那个 八卦 啊 based on 那个 八卦 去 determine 那里 应该 放 金 木 土 啊
+UI08MAZ_0103 325225 331083 CS 我 我 我 还 没有 因为 我 有 那 本 书 啊 可是 我 还没 有 空 去 自修 因为 我 自己的 basic 的 (啊) basic 的
+UI08MAZ_0103 332209 334921 CS 那个 叫 什么 knowledge 的 element 都 还 没有 还 没有
+UI08MAZ_0103 335268 341813 CS 顾 完 ko 我 不能 去 顾 那些 那个 那个 其实 是 一个 part of it 就 好像 一个 一个 衣服 这样子
+UI08MAZ_0103 342621 348681 CS 我们 连 我们 自己 build normal body 都 没有 build 好好 去 穿 衣 了 啊 那种 意思
+UI08MAZ_0103 351654 359946 CS joe-yap ah 啊 没有 啦 (呃) 我 看 那个 是 美~ 美国 人  那些 书 是 美国 人 写 的
+UI08MAZ_0103 362643 367552 CS 有 美国 人 他们 有 study 风水 他们 in pacific 你 知道 这个 地方 吗
+UI08MAZ_0103 367552 372130 CS 但是 我 不知道 他 源~ 他 的 origin 是 哪里 来 啦 哈 但是 他们 有 他们 没有 看小 这些 东西 的
+UI08MAZ_0103 375282 383385 CS (啊) 这个 东西 是 看 你 信 不 信 啊  这个 很 subjective 的 okay 如果 你 很 信 话 你 觉得 okay oh 就 做 哦
+UI08MAZ_0103 383731 391255 CS 他 一 做 完 过后 你 你 能 成功 就 okay ah 如果 一 做 完 它 讲 的 那个 东西 很 logic 但 你 做 完 你 生意 失败 你 要 怪 谁
+UI08MAZ_0103 397777 404841 CS practical ah  看 看 什么 人 啦 我 不觉得 不是 一定 全部 人 可以 接受 得到 啊
+UI08MAZ_0103 414580 421833 CS (啊) 也 也对 也对 那个 那个 那个 你 这样子 讲法 对 但是 因为 风水 师 是 很 很 影响 全部 的 嘛 okay 如果 真的 信 的话
+UI08MAZ_0103 422295 429827 ZH 我 我 这样子 摆 然后 我 的 我 的 子孙 会 怎样 啊 那个 真的 很 严重 的 你 看完 全部 不 不可能 乱乱来 了 吗
+UI08MAZ_0103 442166 446708 CS 然后 我 不 ch~ 吗 这个 我 不能 我 不能 judge 那个 东西 因为 base on 那个 人 信 不 信 啊
+UI08MAZ_0103 447562 452554 ZH 对 啊 你 去 算命 这样子 啊 他 讲 什么 看 你 信不信 哦 东西
+UI08MAZ_0103 459972 462908 CS final courses ah 应该 是 没有 时间 啊
+UI08MAZ_0103 465621 468519 CS 我们 major 我们 没有 minor 的 我们 全部 都是
+UI08MAZ_0103 468519 474464 CS ah building oh touch building economy economy 也是 关于 construction 的 economy ah
+UI08MAZ_0103 475808 482837 CS ah construction management 也是 关于 construction management 啊 那些 东西 economy management
+UI08MAZ_0103 483823 492341 CS materials 全部 也是 关于 building 的 我们 我 这 几年 都是 接触 more to 这些 东西 然后 现在 来 一样 东西 就是 green technology
+UI08MAZ_0103 493086 498394 CS 啊 green technology 其实 是 不是 我们 part 的 是 engineer part 来 的 是 mechanical engineering 他们 part
+UI08MAZ_0103 498394 504103 CS 然后 我们 现在 加 一点 去 我们 building 给 它 变成 更 更 漂亮 更 美
+UI08MAZ_0103 504680 511703 CS 因为 (啊) 因为 政府 有 讲 嘛 最 主要 啊 的 推动 green neh start from building 先
+UI08MAZ_0103 512501 518905 CS 你 building 先 做到 过后 人 自动 会 其他 人 其它 地方 会 自动 有 影响 到
+UI08MAZ_0103 525623 534042 CS 他们 已经 是 到达 maximum 了 但是 in malaysia 是 potential 我 刚才 看到 报纸 (啊) 这 两年 里面 建筑 -
+UI08MAZ_0103 535543 543136 ZH 哎哟 建筑 不是 旅游业 建筑 (啊) 我 忘记 了 有 有 三个 一起
+UI08MAZ_0103 543136 549258 CS 是 (啊) 在 这 两年 里面 可以 突围 啊 okay 啊
+UI08MAZ_0103 550059 558154 CS boost out (um) in malaysia 因为 我们 还 我们 还是 在 算是 一个 under development country mah
+UI08MAZ_0103 558911 560325 ZH 很多 东西 我们 还 没有 做到
+UI08MAZ_0103 561480 566475 CS 啊喏 很多 人 还 没有 experience 美国 是 已经 在 eighties 的 时候 他们 已经 maximum 了 他们 东西
+UI08MAZ_0103 566475 571659 CS high rise 已经 起 完了 没有 地 再 起了 然后 他们 要 reduce 现在 他们 要 怎样 去 sustain
+UI08MAZ_0103 572155 574616 CS 怎样 去 reduce 那个 heat ah 那些 啊 他们 是 做 那些 东西
+UI08MAZ_0103 575062 581420 CS 我们 是 一边 做 那个 re~ sustainable 一边 建 new building 然后 所以 我们 会 比 他们 更 advance
+UI08MAZ_0103 582363 589890 CS 啊 我 是 这样子 想 啊 因为 他们 已经 做 了 错 的 东西 我们 就 看到 了 okay 我们 就 不要 学 那些 错 的 东西 再 apply 过 那些 东西
+UI08MAZ_0103 601260 601894 ZH (嗯)
+UI08MAZ_0103 603388 606245 ZH 其实 槟城 不是 一个 很好 的 地方 啊 (啊)
+UI08MAZ_0103 606678 613156 CS 讲 回去 sustainable lah okay 一 讲 到 sustainable 最 主要 你 一 有 construction neh 那 就 不 sustain 了
+UI08MAZ_0103 614181 619115 CS 这个 很 related 的 我们 architect 其实 是在 骗 自己 的 okay 我 要 做 一个 sustainable building
+UI08MAZ_0103 619832 624681 CS 你 建 在 哪里 你 建 在 forest 你 砍完 全部 树 然后 建 一个 sustainable building
+UI08MAZ_0103 625200 630943 CS what for 那些 树 已经 不见 了 okay 那个 那 没有 办法 那个 是 一定 要 建 我们 一定 要 建 因为 我们的 population grow mah
+UI08MAZ_0103 631513 638244 ZH 好像 比如 槟城 去 前 十年 跟 前 十年 后 诶 十年 前 跟 现在 差 很 远
+UI08MAZ_0103 638901 642588 CS 以前 没有 b. j. 的 十年 前 没有 b. j. 的 我 知道 据 我 所 知 啊 没有 b. j.
+UI08MAZ_0103 642965 650033 CS 现在 你 看 b. j. area high density 每个人 都 不- 那个 high rise 全部 起 完 n. park 那边
+UI08MAZ_0103 650725 660422 CS okay 那个 是 十年 前 了 十年 后 会 怎样 i. j. m. 把 旁边 的 那些 high way 那个 那个 叫 什么 (啊) jelutong express
+UI08MAZ_0103 660884 667630 CS jelutong express 旁边 全部 地 是 他 的 因为 他 建 了 那个 express 他 可以 own 那些 旁边 的 地 是 他 厉害 地方
+UI08MAZ_0103 668582 670891 ZH 十年 后 那边 全部 你 不会 看到 大桥
+UI08MAZ_0103 671959 674701 CS 啊 这 是 what you expect from 槟城 咯
+UI08MAZ_0103 676865 681936 CS 因为 你 一 讲 到 high density 很多 东西 会 发生 social problems 就会 来了
+UI08MAZ_0103 682513 691315 CS 如果 你 一个 planning social planning 不好 的话 啦 很多 东西 会 发生 整个 地方 会 毁掉 不然 你 不管 你 的 地方 几 high end 都 好
+UI08MAZ_0103 692498 701900 CS 就 好像 (呃) 你 有 一个 million 一个 million 的 屋子 全部 okay 但是 你 一 出门 你 就 被 打抢 你 就 被 射 死 那种 那种 情况 如果 你 social planning 不好 的话
+UI08MAZ_0103 702910 709973 CS social planning 可以 讲 到 很多 啦 (呃) 讲 到 social planning ah (呃) 讲 到 culture
+UI08MAZ_0103 710817 719639 CS okay 就 讲 到 culture culture 会 lost 如果 你 没有 control 的话 我们 到时候 报纸 都 没有 得 看 你 看 e. paper 你 要 那种 生活 吗
+UI08MAZ_0103 720625 726486 CS 虽然 那个 是 好 但是 那种 culture oh 应该 保留 for next generation 的话 就 继续
+UI08MAZ_0103 735624 745537 CS okay 就 比如 (啊) georgetown georgetown 如果 它 整个 georgetown 现在 变成 heritage area mah heritage area
+UI08MAZ_0103 745537 751673 CS 然后 那边 从 以前 到 现在 都是 实行 shop house 下面 commercial 上面 是 housing 上面 住 上面
+UI08MAZ_0103 752151 761523 CS 现在 那个 culture 已经 不见 了 就是 因为 每个人 都 move out from georgetown okay 我们 要 怎样 把 那些 人 带 回去 for 那个 以前 的 culture
+UI08MAZ_0103 762071 771403 CS 就是 build 那种 shop house 上面 能 住人 的 上面 能 住人 的 意思 就是 他们 不要 住 因为 他 quality of life 在 那边 已经 减低 了
+UI08MAZ_0103 772023 782006 CS 然后 所以 每个人 move 到 sub urban 去 这样 move 掉 去 (啊) 去 gurney area 去 jelutong 去 gelugor 啊 那些 东西  然后
+UI08MAZ_0103 782641 791870 CS 我们 怎样 bring back 他们 okay bring back 他们 我们 就 create 那个 building lor 就 下面 有 commercial 上面 有 housing 这个 地点 它 好处 在 哪里 就是
+UI08MAZ_0103 792424 802489 CS 它 这个 叫 one stop centre people live there work there 你 不用 travel 不用 travel 你 就 省 carbon 啊 你 啊
+UI08MAZ_0103 806319 814779 CS 因为 现在 的 现在 的 屋子 啊 那边 condition 那个 quality of live 很 差 okay 人家 rather to 现在 人 喜欢 travel
+UI08MAZ_0103 816593 820647 CS 懂 吗 那种 mind set ah 我们 的 mentality 我们 现在 人的 mentality 不一样 了 吗
+UI08MAZ_0103 821167 827399 CS 就 好像 okay 比如说 我 一 有 一个 人 整天 讲 green ah okay 一个 人 整天 讲 green 但是 他 驾车 是 s. class
+UI08MAZ_0103 828668 836147 CS s. class ah 他 没有 用 electric car then 他 也是 一样 用 着 fuel 他 一直 这样 burn 着 一样 开 着 air-con 啊 那种 mentality
+UI08MAZ_0103 837393 843604 CS 或者 是 (呃) 他 要 我 pro~ 我 我 介绍 你 一个 product 一个 green product okay 你 又 什么 都 不懂 那种
+UI08MAZ_0103 844461 851048 ZH 那种 就是 为什么 我 要 去 做 这样 多 因为 我们 不知道 看 我们 没有 看到 以后 世界 会 变 怎样
+UI08MAZ_0103 852147 854718 CS what is going to happen to us 我们 不知道
+UI08MAZ_0103 856664 865472 CS 然后 所以 我 觉得 我们 government 应该 要 (啧) take action 就是 讲 给 我们 看 那个 scenario ah 外面 很 惨 很 惨 的 scenario 二十 年 后 的 scenario
+UI08MAZ_0103 865901 871261 CS okay 如果 我们 再 不 继续 maintain 的话 哦 我们 的 malaysia 会 变 怎样
+UI08MAZ_0103 872315 873458 CS global warming 一 发生
+UI08MAZ_0103 873925 880565 CS 那个 atlantic 的 冰 溶 它 就 sea level rise seven meter 整个 georgetown 不见
+UI08MAZ_0103 882199 889094 CS (呃) 那个 如果 他们 predict mah in twenty years time ah twenty years time sea level increase seven meters mah
+UI08MAZ_0103 889765 894285 CS maximum lah seven meters 整个 georgetown 不见 如果 他 出了 一个 campaign nah
+UI08MAZ_0103 894855 900202 CS okay 他 去 一个 campaign 讲 整个 georgetown 会 不见 okay 你 要 怎样 做
+UI08MAZ_0103 900837 905383 CS 就 好像 现在 他们 在 采取 着 那个 monday no plastic 啊
+UI08MAZ_0103 906654 911121 ZH 他们 应该 更 (啧) 更 强化 它 啦 我 是 这样子 觉得
+UI08MAZ_0103 916552 925869 CS  买 屋子 是 policy 就是 你- 现在 我 觉得 in malaysia 好 很多 比 起 那些 (啊) india ah africa ah
+UI08MAZ_0103 925869 928783 CS 没有 屋子 住 的 我们 malaysia 真的 好 很多 有 屋子 住
+UI08MAZ_0103 929121 938956 CS economy 好 有钱 买 到 东西 okay 虽然 是 那个 一个 月 赚 五百 块 的 他 也是 他 也是 有 钱 用 就是说 我们 的 economy 还 可以 cope 到 我们 malaysia 好的 地方
+UI08MAZ_0103 940369 946367 CS 不是 说 穷 是 很 穷 有钱 就 有钱 就 刚刚 好 刚刚 好 overall 刚刚 好
+UI08MAZ_0103 946367 952773 CS 就是 没有 人 会 饿死 africa 每天 都 有 人 饿死 malaysia 都 不会 发生 所以 这是 我们 好的 地方
+UI08MAZ_0103 959642 968329 CS 它 的 theoretical 它 在 它 的 paper 它 是 很多 work  但是 in time oh 有 可能 它 要 很 长 的 maintenance
+UI08MAZ_0103 968953 973368 CS 如果 它 maintenance 一 万一 没有 钱 去 maintain 的话 啦 整个 东西 就 不能 用 了
+UI08MAZ_0103 980742 989389 CS um dubai ah 那个 嗯 对 对 这 是- 这 是 一点
+UI08MAZ_0103 1000997 1009180 CS 其实 我 我 看到 他们 的 那种 东西 耶 不是 不是 他们 特地 要 建 那个 sustainable 他们 第一 点 他们是 尽量 正在 拿 着 油 换 金钱
+UI08MAZ_0103 1009180 1015168 CS 在 换 金 因为 金 换 金 拿 金钱 去 换 building 因为 building 到时 会 值钱
+UI08MAZ_0103 1016011 1024707 CS 因为 他们 油 有一天 会 跌价 啊 会 跌 到 没有 人 要 的 那种 情况 他们 在 攻击 那个 policy 我 是 觉得 这样子 啊 我 的 自己 perception ah
+UI08MAZ_0103 1025434 1028831 CS 他们 不是 要 真正地 build sustainable 他们 拿 钱 去 换 东西 罢了
+UI08MAZ_0103 1029853 1036896 ZH 一定 有一天 钱 是 没有 价值 啊 这是 我 懂 的 东西 啊 你 我 不知道 你 赞成 不 赞成 啊 我 这样 子 看 啊
+UI08MAZ_0103 1037753 1042609 ZH 因为 油 会 完 吗 不是 油 会 完 油 是 一天 没有 人 要 用 油 了
+UI08MAZ_0103 1045881 1054441 CS 因为 每个人- okay 就 比如说 很 简单 美国 出 了 一个 前 六年 六年 前 美国 出 了 第一 批 的 四千 辆
+UI08MAZ_0103 1054986 1063270 CS ar e. v. 叫 electric vehicles 然后 出 第一 天 过后 第二 天 bush 就 讲 收回 啊 全部
+UI08MAZ_0103 1064049 1073352 CS okay 收回 全部 因为 为什么 他 收回 全部 因为 他 的 朋友 是 一个 卖 油 的 很好 朋友 是 卖 油 的 okay 我 不知道 他 是 谁 卖 油 的
+UI08MAZ_0103 1074070 1079855 ZH 第一 点 如果 他 一 推出 那个 第一 批 四千 接 下来 又 整天 出 的 吗 出 完 过后 整个
+UI08MAZ_0103 1080740 1084297 CS 整个 nation 用 了 electric cars 然后 油 咧 没有 人 用 了 哦
+UI08MAZ_0103 1085258 1091595 CS 油 就会 跌价 哦 一 跌价 然后 没有 没有 价值 了 哦 然后 dubai 就 死 咯
+UI08MAZ_0103 1094815 1100743 CS 他 有 油 他- 没有 现在 问题 是 那个 bush 的 朋友 那个 他们 是 relationship 是 他 不要 他 朋友 死
+UI08MAZ_0103 1101896 1109506 ZH 啊 对 啊 以前 啦 他 是 这样子 但是 以前 的 问题 然后 其实 美国 是 有 油 的 啊 有 啊
+UI08MAZ_0103 1117293 1117604 ZH 对 啊
+UI08MAZ_0103 1123213 1131168 CS 对 哦 malaysia 也是 即将 会 这样子 哦 二零一五年 malaysia 将 变 net imported fuel
+UI08MAZ_0103 1132017 1134325 CS 就是 完全 import 二零一五年
+UI08MAZ_0103 1134915 1143176 CS 完了 到 完 没有 油 用 petronas 已经 是 死 了 然后 以后 我 不知道 我 不知道 经济 怎样 走 因为 malaysia 现在 的 经济 是 靠 petronas 的 嘛
+UI08MAZ_0103 1143901 1147588 CS okay petronas 每天 出 油 嘛 万一 二零一五年 他们 没有 油 出 了 咧
+UI08MAZ_0103 1148546 1155009 CS 我们 的 钱 去 了 哪里 那个 两 百 million 每 一年 两 百 million 去 了 哪里 那 是 一个 问题 啊
+UI08MAZ_0103 1157272 1163977 CS 这 是 我 担心 的 东西 哦 economy 一 drop oh 什么 事情 都会 发生 如果 一 稳定 不会 通街 打抢 啊
+UI08MAZ_0103 1165530 1171051 CS 你 一 乱 然后 一 一 乱 就 好像 social 这样子 哦 social -
+UI08MAZ_0103 1181932 1183383 CS result ah 我
+UI08MAZ_0103 1185376 1185921 ZH (嗯)
+UI08MAZ_0103 1188180 1191504 CS 讲 真的 我们 的 architecture 里面 哦 要 找到 一个 四点 零 的 也是 很难 哦
+UI08MAZ_0103 1192257 1198360 CS 你 要 找 一个 dean list 也 更 难 诶 没有 找 一个 dean list 很难 找 一个 四点 零 更 难 就 说 很难 score dean list
+UI08MAZ_0103 1198983 1203089 CS 因为 是 studio okay 因为 studio 很 subjective 你 知道 吗 subjective 是

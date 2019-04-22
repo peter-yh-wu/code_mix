@@ -1,0 +1,73 @@
+UI18MAZ_0101 8570 12074 CS 我 啊 我在 intel 做着 咯
+UI18MAZ_0101 12074 19011 CS intel 在 penang-based 的 (呃) 我 在 做着 是 一个 admin 咯 是 应该 是叫 unix-admin 咯
+UI18MAZ_0101 21359 25283 CS unix-admin 咯 是 管 全部 server 东西的
+UI18MAZ_0101 26193 33761 CS en more on operation 的 咯 就是 讲 在 公司 做 on hand 去 那边 hardware check 看 什么 问题
+UI18MAZ_0101 33761 38842 CS 比较 more on on site 那种 咯 它 里面 有个 data center 很大的
+UI18MAZ_0101 38842 52647 CS 他们 几千架 电脑 server 我们 要去 support 咯 每天 要看 多少 server down 坏掉 去叫 vender 来 修理 或者 landing 做 landing 那些 东西 set-up 这个 server 拿去 给 user
+UI18MAZ_0101 52647 62141 CS 还有 scrap loh server 他们 有 life time 的 然后 四年 就要 scrap 掉 我们 要去 做 那些 东西 帮他 maintain 一下
+UI18MAZ_0101 64391 68798 CS 他们 是用 unix 啊 因为 是 solaris 吧
+UI18MAZ_0101 68798 73949 CS 大多 是 他们 是 用 h. p. 还有 i. b. m 的 server 他们 install suse 的
+UI18MAZ_0101 73949 79764 CS linux 的 linux o. s. 比较 便宜 但是 旧的 machine 可能 会用 unix loh
+UI18MAZ_0101 98895 106462 CS 应该 是 只是 在 大学 take 那些 course ah 有 那些 写 program 那些 东西 罢了 有 一些 普通 basic 罢了
+UI18MAZ_0101 109931 119146 CS en so far 我 improve 我的 unix knowledge ah 应该 是在 进去 那时候 他们 给 一些 document 给我 读 咯 basic 先咯
+UI18MAZ_0101 119146 125383 CS 我 已经 有 basic 了 再 增加 一些 他们 environment 的 东西 啊 那边 学 咯 已经 学了 两年多
+UI18MAZ_0101 125383 127659 CS 现在 应该 是 有 一点 experince loh
+UI18MAZ_0101 131815 132853 ZH 学的
+UI18MAZ_0101 135192 145914 CS 他 应该 是 没有 给啦 大多数 我 都是 在 上网 找 那些 资料 学 啊 因为 现在 unix 在 internet 那边 很多 容易 找到 那些 资料
+UI18MAZ_0101 154742 157791 CS so far 有用 这样 多种 啊
+UI18MAZ_0101 166060 168372 CS o. s. 的 那个 不要 用 啊
+UI18MAZ_0101 168372 178752 CS 我 so far 用 很多 种 应该 有 用过 ubuntu loh free u. s. t. suse linux (er) 还有 fedora loh
+UI18MAZ_0101 178752 189188 CS 最 far 我 看到 他们 每个 都 各* 各有 各样 不同啊 有些 是要 很用 command based 的 有些 比较 有 g. u. i. so far 我 用到 最好 用的 应该 在 ubuntu
+UI18MAZ_0101 189188 193473 CS ubuntu 比较 friendly user 比较 好用
+UI18MAZ_0101 197152 199359 ZH 有 也是 有
+UI18MAZ_0101 203494 206752 ZH 有 用过 但是 比较 难用 一点
+UI18MAZ_0101 207628 212218 CS 因为 more 它 比较 more on command 的 东西 要打 很多 command
+UI18MAZ_0101 212218 217473 CS 比较 可能 比较 friend 跟 unix 一样 一点 它 command
+UI18MAZ_0101 220451 227494 CS stable ah 我 不懂 那个 比较 stable ah 但是 so far 我们 以前 有 test 过 那个 i. p. v. six (hor)
+UI18MAZ_0101 227494 230542 CS 他们 是 用在 free p. s. t. 他们 讲 比较 stable
+UI18MAZ_0101 230542 235553 CS 我 以前 也是 在 n. r. g. lab 那边 做 那个 training for i. p. v. six 的 东西
+UI18MAZ_0101 235553 247934 CS 所以 他们 是讲 用 那个 比较 好 啦 其他 的 我是 觉得 一样 啦但是 跟我 比较 windows 的话 啦, unix 比较 stable 过 windows windows 很~ 很 容易 crash ah
+UI18MAZ_0101 247934 254594 CS unix 比较 stable so far 我们 用 server 啊用 unix 的 也是 很 顺的 没有 这样 heavy load ah
+UI18MAZ_0101 259272 262424 CS en 没办法 啊 有 一个 方法 就是 reboot ah
+UI18MAZ_0101 269537 271044 ZH 哦 诶 进步大
+UI18MAZ_0101 272761 274022 ZH 那一个
+UI18MAZ_0101 275318 276650 CS 那 shell 坏去了
+UI18MAZ_0101 276650 279138 CS 应该 reinstall 应该 可以 fix 过
+UI18MAZ_0101 279138 283763 CS 他 因为 他 basic 很重要 也是 那个 很 terminal shell 的 东西
+UI18MAZ_0101 283763 285723 CS 那个 全部 都是 command based 的
+UI18MAZ_0101 285723 288456 CS 在 server 用 全部 都是 command 的 黑黑白白 的
+UI18MAZ_0101 288456 292661 CS 没有 graphic 的 graphic 应该 是比 home user 用的
+UI18MAZ_0101 292661 295990 CS 他们 目的 是 要 那些 services 要 up 罢了
+UI18MAZ_0101 301456 304303 CS (呃) 之前 他们 是用 red hat 的
+UI18MAZ_0101 304303 310385 CS 然后 之后 他们 e. o. 要 red hat 了 不要 用了 他们 要 换一个 只是 全部 换去 suse loh
+UI18MAZ_0101 310385 317594 CS 嗯 为什么 他们 要换 我 不大 清楚 啊 因为 他们 有 自己的 developer team 的 专门 develop 那些 software 东西的
+UI18MAZ_0101 317594 318790 CS 给 suse 的
+UI18MAZ_0101 318790 322049 CS 可能 是 他们 develop team 要选 那个 o. s.
+UI18MAZ_0101 322049 324151 CS 所以 他们 全部 埋 过去 那个 o. s.
+UI18MAZ_0101 324151 333102 CS 现在 最新 的 也是 用 九 和 十 咯 迟点 可能 用 十一 还是 十二 depends 他们的 staple 他们 有分 version 的
+UI18MAZ_0101 333102 336274 CS 有 civil ahman gold 然后 risk 给 user 这样
+UI18MAZ_0101 338270 343070 CS (呃) 比较 便宜 我们 是用 enterprise edition 也是 要 给钱 但是 比较 便宜
+UI18MAZ_0101 343070 344717 EN en
+UI18MAZ_0101 344717 351995 CS 也是 有 free 的 因为 我们 是用 enterprise 的 嘛 是有 收的 不懂 他们 怎样 收 啊 应该 是 比较 便宜
+UI18MAZ_0101 355219 358548 ZH 一个 是要 给钱 咯 一个 是 不要 给钱 罢了
+UI18MAZ_0101 358548 360510 ZH 怎样 讲 有 分别 嘞
+UI18MAZ_0101 364504 370917 CS 哦 因为 你要 讲 要 有钱 好像 一个 windows 他们 一个 o. s. 要 几百块
+UI18MAZ_0101 370917 375755 CS 一个 unix 可能 download 的 因为 是 op~ open source 的 免费 的 download 可以 用了
+UI18MAZ_0101 375755 385914 CS 同样 的 东西 也是 可以 用到 他们 那些 东西 也 可以 开出来 看 一模一样 问题 是 他们 比较 more on 要用 command ah 比较 自己 modify 一点
+UI18MAZ_0101 385914 392955 CS windows 那边 比较 他们 专门 去 modify 然后 那些 application 比较 friend user 容易 用一点 分别 是 这样 我 觉得
+UI18MAZ_0101 399613 405920 CS (呃) 假如 是 比较 外面的 啊 我们 intel hor 他们 很多 东西 要做 所以 他们 做 automation 的
+UI18MAZ_0101 405920 412682 CS 他们 的 image 应该 是 改到 完了 的 他们 自己 的 developer team 去 改到 他们 适合 他们 的 standard 的
+UI18MAZ_0101 412682 421265 CS 所以 他们 每次 要改 environment 他们 可能 要去 写 一些 那些 东西 讲 这个 什么 跟 什么 改 要跟 全部人 讲
+UI18MAZ_0101 421265 423963 CS 这是 intel 里面 罢了 不是 给 外面
+UI18MAZ_0101 425470 436041 CS 大多数 他们 去改 那些 library 的 东西 update ah library ah 那些 path ah 换去 他们 也是 有 很大database 的 他们 东西 全部 收在 file 的
+UI18MAZ_0101 436041 443338 CS 跟 那些 file 的 东西 那 setting 也要 换 咯 他们 叫 auto-infest 的 东西 啦 他们 要 自己 modify 他们 intel 自己 用的
+UI18MAZ_0101 443338 453391 CS 在 我们 外面 可能 会 没有 这种 东西 的 看不到 的 外面 可能 是 普通 的 可以 开机 上网 suff net 收 install o. s. 改 一下 这样 罢了
+UI18MAZ_0101 453391 462739 CS intel more on 比较 automate 东西 要做 比较 方便 太多 东西 要 modi~ 啊变成 automation 啊 改过的
+UI18MAZ_0101 468171 474179 CS 我会 involve 一点点 啦 大多数 是 给 我们 daily 的 要做 工作 重复 又 重复
+UI18MAZ_0101 474179 477532 CS 我 就像 他 变成 写 scripting 来 automate 它
+UI18MAZ_0101 477532 482815 CS 啊 我要 我是 假如 是 算 level 的话 我们 有 三个 level 的
+UI18MAZ_0101 482815 488877 CS 第一个 是 on support from customer 跟 他们 的 然后 他们 solve 不到了 extract 给 我们 的 咯
+UI18MAZ_0101 488877 491311 CS 是讲 我们 more on on site 的 operation 的
+UI18MAZ_0101 491311 499844 CS 然后 我们 再 solve 不到 就是 给 那个 第三 level 讲 他们 more on kernel site 的 去改 kernel 研究 为什么 会 这样 问题 出现
+UI18MAZ_0101 499844 504349 CS 做么 会的 会 server 一直 hang ah 一直 想~ 想 办法 做个 solution
+UI18MAZ_0101 504349 511418 CS 我们 的 大多数 是 帮 他们 capture 一些 data 做 report 给 他们 他们 以 这个 report 来 写 他们 的 application

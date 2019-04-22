@@ -1,0 +1,581 @@
+NI51MBP_0101 9351 16190 CS okay (呃) 我 (呃) 我 叫 jason (呃) 现在 在 啊
+NI51MBP_0101 16190 20540 CS n. t. u. 读 mechanical engineering then 现在 是 year one student
+NI51MBP_0101 20540 21712 ZH 然后
+NI51MBP_0101 26672 33000 CS  没有 啦 becauseahmy results wasn't too good 所以 (呃) 就 没有 办法 就 只好
+NI51MBP_0101 33000 34479 ZH 进 一些 比较
+NI51MBP_0101 36954 38738 EN test testing testing
+NI51MBP_0101 45365 51080 CS (呃) 我 是 比较 喜欢 画画 啦 不 不 不 至于 是 design
+NI51MBP_0101 51080 55210 CS 因为 (呃) when i am free i will just (er) 画画 咯 之类 的
+NI51MBP_0101 55210 58350 ZH 然后 （呃） 我 朋友 也是 找过 我 做 一些
+NI51MBP_0101 58350 60180 CS ahposter design 还是
+NI51MBP_0101 60946 66020 CS (呃) 就 design in general lah 之类 的 咯 比如 说 他们 有什么 orientaion camp ah
+NI51MBP_0101 66210 70920 CS 需要 (呃) 帮 人家 帮忙 design posters then i will just er help out lend a hand or two lor
+NI51MBP_0101 72668 74849 CS p. o. p. p. o. p. 是
+NI51MBP_0101 94284 97461 CS interesting ah 没有 因为 啊
+NI51MBP_0101 97850 102187 CS 中学 过后 就 j. c. 嘛 j. c. 升上 j. c. 的 时候 就
+NI51MBP_0101 102576 105225 CS 比较 忙了 一些 所以 啊 wasn't really free to
+NI51MBP_0101 105848 110560 CS draw as i want ah so end up 都是 画 一些
+NI51MBP_0101 110560 114524 CS 在 lecture notes 上面 啊 还是 之类 画画 之类 的 咯 啊 除非 是 那种
+NI51MBP_0101 115007 118420 CS 就 年头 年终 有 那种 大型 的 event
+NI51MBP_0101 118420 123080 CS 然后 他们 啊 orientation camp ah 还是 (呃) student council 需要
+NI51MBP_0101 123450 129759 CS 一些 (呃) decorations 之类 的 因为 因为 如果 是 posters 他们就 会 有 print mah 这样 看起来 比较 professional
+NI51MBP_0101 129759 133966 CS 看 人家 看了 会 比较 oh that's good then okay that's professional then can look for it
+NI51MBP_0101 133966 142450 CS but (er) 那些 比较 (呃) decoration ah 就 比较 需要 一些 亲切 感 之类 的 他们 就会 叫 人家 用 手 画
+NI51MBP_0101 142450 145840 CS then i will just (er) volunteer my services lor just 帮忙 画画 一下 咯
+NI51MBP_0101 149622 153527 CS (呃) 通常 不 不 只是 poster ah 因为 (呃) 最近
+NI51MBP_0101 153527 159759 CS 这种 年代 你 放 poster 人家 不 一定 也会 去 注意 啦 所以 就会 (呃) 比如 说
+NI51MBP_0101 160720 163531 CS 做 一些 (呃) hang hanging 的 mobile
+NI51MBP_0101 164382 167750 CS mobile 就是 直接 从 ceiling 然后 掉下 来 (呃)
+NI51MBP_0101 167750 170200 CS 他们 用 recycled materials 比如 说 拿 cardboards
+NI51MBP_0101 170390 176490 CS 然后 cut out a shape 然后 在 上面 做 一些 decorations 还是 就 放 more layers to make it look like three d. lor
+NI51MBP_0101 176993 180520 CS 然后 就 decorate after that 就 hang 起来 像 看起来 像
+NI51MBP_0101 180992 185990 CS (呃) 比较 it's like a it's like a publicity la but it's not
+NI51MBP_0101 185990 192880 CS 不是 很 formal 的 就 看 了 不是 很 严肃 的 那种 就 人家 看 了 哦 eh looks fun 看起来 很好 玩 then i want 我 要 join 这样 咯
+NI51MBP_0101 193810 194797 ZH 所以 是 之类 的
+NI51MBP_0101 195480 198700 CS 啊 然后 他们 也是 有很多 种 different types of publicity lah 因为
+NI51MBP_0101 199134 206100 CS 因为 坦白 讲 你 (呃) 看 orientation camp 的 publicity 通常 都 不会 是 是 posters 跟 brochures 而已 就会
+NI51MBP_0101 206611 207753 ZH 比如 说
+NI51MBP_0101 208750 213190 CS 就 不同 种类 的 to show that ah 我们是 we want you all to have fun 这样
+NI51MBP_0101 213362 217603 CS 啊 来 这里 是 玩 的 没有 什么 做 功课 so ya 之类 的 咯
+NI51MBP_0101 221253 223279 CS prop ah orientation camp 的 时候
+NI51MBP_0101 223538 232540 CS 对 比如 说 啊 他们 因为 通常 orientation camp 都会 有 一些 (呃) 故 有一 那些 game 全部 都是有 故事
+NI51MBP_0101 232540 236850 CS (呃) 故事 他们 之前 都会 跟你讲 (呃) okay once upon a time blah blah bah 这些 东西 的
+NI51MBP_0101 236850 241222 CS 然后 (呃) 有 必要 演 出来 的 还是 拍 下 来 的 就 会 有 那种 prop 啦 所以 就
+NI51MBP_0101 241611 247315 CS 有时 会 给 一些 suggestion lor 跟 他们 讲 要 怎么 做 比如 说 (呃) 比如 说 他们 说
+NI51MBP_0101 247315 249775 CS this character this is a sword 就 需要 一 把 剑 然后 就
+NI51MBP_0101 249775 253675 CS oh okay 然后 就 看 怎么样 帮你 做 一把 剑 然后 去
+NI51MBP_0101 253675 256365 CS 比如 说 i. t. fair 那种 剩下 的 cardboard 的 那种
+NI51MBP_0101 256365 261324 CS (er) corrugated board 跟 他 捡 起来 然后 剪 出来 cut out shape 然后 就
+NI51MBP_0101 262155 270066 CS make a prop lor prop 过后 就 拿 起来 看 看 人家 看了 过后 就会 觉得 哦 it fits in your storyline 这样 之类 的
+NI51MBP_0101 272714 273881 ZH 嗯 还好啦
+NI51MBP_0101 273881 276973 ZH 没有 啦 因为 不只 我 一个 人 会 做 这样 嘛 只是 因为
+NI51MBP_0101 277389 278505 ZH 我是
+NI51MBP_0101 279310 282842 CS okay 我 我 写字 算 蛮小 可是 (呃) 比
+NI51MBP_0101 284063 287325 CS 剩下 比较 多 男的 写字 比较 好看 handwriting
+NI51MBP_0101 287325 292675 CS 然后 他们 会 叫 我 有时 叫 我 写 一些 字 啊 比如 draw 一些 block woods ah 还是 decorate 一些 字 这样
+NI51MBP_0101 292675 298527 ZH 所以 通常 需要 的 通常 只有 这 部分 需要 比较 需要 我 的 帮忙
+NI51MBP_0101 300544 304938 CS 书法 不会 不会 我 是 没有 我 只是 (呃) normal handwriting 写的
+NI51MBP_0101 305858 309784 CS 虽然 小啦 可是 很多 人 讲 some they look better than girls lor so
+NI51MBP_0101 310506 315190 CS not very sure ya 我 不知道 啦 有些 人 有些 女的 也是 在 那边 有些 女的 也是 会 jealous la
+NI51MBP_0101 315674 316427 ZH 因为 看 我 字 好像
+NI51MBP_0101 318219 324646 CS 我 有 时后 写字 ya 就 他就 写字 比较 像 比较 整齐 一点 咯 他们 讲 啦
+NI51MBP_0101 325156 329915 CS but exams 的 时候 就 不一样 exams 的 时候 好像 a. levels 的 时候 a. levels 的时候 比如 说 general paper
+NI51MBP_0101 329915 333259 ZH 就 你 要 很短 的 时间 内 你 要 放 很 多 字 进去
+NI51MBP_0101 333726 337182 CS then 他们 讲 then 我老师 我 g. p. 老师 以前跟我 讲 过 啦
+NI51MBP_0101 337182 341415 EN because all the exam exam ah examiners ah they all mark the paper in winter
+NI51MBP_0101 341701 345554 CS 他 他是 跟 我 讲 这个 故事 过 所以 all the cambridge examiner are marking the paper in winter
+NI51MBP_0101 346064 353820 CS 冬天 mark 那个 纸 嘛 就 很累 然后 很想 睡觉 然后 你 写 那个 字 这样 美 如果 很 boring 的话 他 看 看 看 看 看 睡觉 就 忘记 给你 分 所以 你
+NI51MBP_0101 353820 359480 CS 你 不一定 要 write very 你 不一定 要 write very nice but 重点 是 你要 write all the main points just squeeze as many things down as possible
+NI51MBP_0101 359753 363515 CS 他讲 okay 你 handwriting 美 没关系 see you go and train how to write fast 就 可以 了
+NI51MBP_0101 363960 369881 CS 然后 exam 的 时候 我就 慢慢 从 写字 很美 then 看我 paper 哦 前 半个 小时 哇 写字 很美
+NI51MBP_0101 370378 376584 ZH 然后 后 半个 小时 写字 会 越来越 越来越 草 然后 到 最后 你 看 最后 十分钟 看 得 出 我 写字 是 我 写字 是
+NI51MBP_0101 378895 381893 ZH 就是 跟 画 画画 差不多 一样 的 没有 没有 人 在 管 的
+NI51MBP_0101 382167 386770 CS that's why 我 是 讲 哎呀 cambridge 的 examiners 看 得 懂 第一个 字 看 得 懂 第二 个 字 then 最后 一个 字
+NI51MBP_0101 386770 393171 ZH 看 得 懂 那个 字 大概 多 长 猜 得 到 是 什么 字 所以 没有 什么 人会 去管 你 写 得 美 不美 这种 东西 啊 考试
+NI51MBP_0101 393857 399120 CS ya 可是 通常 我 写字 还是 会 注意 一下 啦 因为 就
+NI51MBP_0101 399120 401680 CS 自己的 notes 自己的 notes ah 写 了 过 写 了
+NI51MBP_0101 401680 409994 CS 好看 一点 自己 看了 也 爽 啊 读书 的 时候 也会 比较 嗯 有 精神 有 精神 at least 看了 不会 这样 哦哇 this is tiring
+NI51MBP_0101 409994 417087 CS it's what am i writing i don't understand what i'm writing 我 看了 我 也 不懂 我 写 什么 然后 读 读 读 到 也是 没有 心情 读
+NI51MBP_0101 417632 418048 ZH 这样
+NI51MBP_0101 430860 437270 CS (呃) 这个 我是 不 清楚 啊 因为 我们 在 year one 学 的 还没有 到 (呃) engineering 的 阶段 通常 只是
+NI51MBP_0101 437270 444670 CS (erm) revise a. levels 的 syllables 而已 然后 就 做 做 一下 maths ah (er) chemistry
+NI51MBP_0101 444670 448940 CS 啊 之类 的 可是 还没有 真正 去 做到 那种 engineering 是 比如 说 (er) design
+NI51MBP_0101 448940 452799 ZH 真的 去 画 一个 东西 之类 的 可是 我 因为 （呃）
+NI51MBP_0101 453570 457870 CS ah mechanical engineeering 也是 有 lab session mah 然后 我 我的 lab session 是 tuesdays
+NI51MBP_0101 457870 459320 ZH 前 昨天
+NI51MBP_0101 459320 462750 CS 昨天 的 lab session (er) 是一个 sketching 的
+NI51MBP_0101 462750 469040 CS session 然后 我们 就 画 他 就 跟 我们 讲 讲话 讲话 讲话 他就 放 我们 自己 画 然后 叫 我们 画 一个
+NI51MBP_0101 469040 471850 CS 要 design 一个 hostel room 的 interior
+NI51MBP_0101 472480 478630 CS 就是 要 看 里面 要 放 什么 家具 比如 要 放 sofa 要 放 (呃) carpet 要 放 coffee table 这样 然后 叫 我们 画
+NI51MBP_0101 479389 480272 ZH 啊 所以
+NI51MBP_0101 483788 487320 CS architect 吗 啊 (呃) 没有 啦 没有 因为 那个 是 比较
+NI51MBP_0101 488073 493690 CS 比较需要多 mat ah mat mathematics la 我们 我们 只学 的 是
+NI51MBP_0101 493690 498350 CS 比较 free hand 一点 咯 所以 比如说 哦 这个 sofa 要 大概 多大 呢 也不 清楚 eh 就
+NI51MBP_0101 499330 502590 CS 大概 大概 看 一下 哦 okay 这个 proportion 对 okay 就 这样 啦
+NI51MBP_0101 503020 507390 CS 啊 可是 for 他们的 因为 他们的 mathematics 全部 都 算 很 准 连 他们的 right angles 都是 要
+NI51MBP_0101 507390 510160 CS 拿 一个 东西 画 可是我们 那个 sketching 是
+NI51MBP_0101 510160 514730 CS 哎呀 随便 怎样 画 呢 拿 一个 ruler 拿 多 一个 ruler slide okay right angle 随便 画
+NI51MBP_0101 517886 522690 CS (呃) 今年 而已 啦 可是 我 看 因为 我 有 senior 也是 在 读 mechanical engineering 然后
+NI51MBP_0101 522690 525590 CS (呃) 上 个 星期 看 到 他 的 时候 他 拿住 一个 sketch
+NI51MBP_0101 525590 528680 CS 它的 file 里面 有一个 a. three size 的 sketch 然后 那个 sketch 是
+NI51MBP_0101 528680 536352 CS 因为 通常 我们 的 graph 我们 从 到 j. c. 的 graph paper ah 还是 什么 paper 都是 singled line 还是 squared line 还是 square 的
+NI51MBP_0101 536620 539540 CS 可是 他的 sketching paper 是 有 triangle 的
+NI51MBP_0101 540196 544640 CS 啊 所以 是 特别 拿 来 画 circles 之类 的 咯 那种 curved surfaces
+NI51MBP_0101 544640 551289 ZH 所以 他 画 的 是 有 一点 看 起来 奇怪 啦 我 不懂 啦 就 看 起来 那 个 圆形
+NI51MBP_0101 551809 554574 CS 不怎么 像 圆形 的 感觉 嘞 因为 你画 three d. 的 时候
+NI51MBP_0101 555258 559348 CS 总 on the big picture it must look like it's the it's the actual like la but
+NI51MBP_0101 559348 562581 ZH 看 他 画 到 看 起来 也是 （嗯）
+NI51MBP_0101 563120 565760 CS 有一点 奇怪 lah looks abit strange ah the proportion
+NI51MBP_0101 565760 571690 CS ya so 我 看 应该 改天 也会 学 画 这种 吧 可是 听说 啊 三
+NI51MBP_0101 571690 574840 CS year two 也 会 学 一个 program to design
+NI51MBP_0101 575433 579380 CS (er) three d. objects 所以 not very sure about this la
+NI51MBP_0101 579951 582340 CS ya then 你刚 提到 photoshop 通常
+NI51MBP_0101 582340 588330 CS photo photoshop 是 拿 来 edit 照片 的 所以 通常 engineering 应该 不怎么 需要 photoshop 吧
+NI51MBP_0101 590650 593989 CS (er) (er) poster ya 因为
+NI51MBP_0101 595002 597246 ZH （呃） 不 一定 每个 都是 要
+NI51MBP_0101 598741 600342 CS oh okay 不 一定 (呃 ) 每 一个
+NI51MBP_0101 600965 607086 CS 他的 decoration 都是 要 那种 就 看 起来 好玩 这种 也是 有 一些 正经 的 啦 好像 this year
+NI51MBP_0101 607500 612540 CS 今年 我也 是 参加 (呃) 一些 committee 然后 他们 要 我们 design 一些 比较 正经 的 posters
+NI51MBP_0101 612850 617890 CS 就 需要 到 photoshop lah 来  从 internet 拿 一点 照 拿 一点 photos ah
+NI51MBP_0101 618090 624620 CS 然后 crop out then 就 edit edit 成 一个 比较 好看 的 poster then 他们 拿 去 print lor 还是 flyer 之类 的
+NI51MBP_0101 625651 628240 CS how big ah 可以 从
+NI51MBP_0101 628240 632660 CS poster 就 a. four size 通常 是 a. four size a. three size
+NI51MBP_0101 632660 637890 CS 然后 a. four size 就 通常 就 直接 粘在 那个 电梯 啊 lift 旁边 咯
+NI51MBP_0101 637890 640940 CS then 看 那些 ah s. u. 他们 全部 都是 粘 在 lift 旁边
+NI51MBP_0101 641400 649120 CS (er) a. three size 就 flyer lor 放在 放在 hostel room ah 还是 直接 在 那些 walkway 分 给 那些 人 lor
+NI51MBP_0101 649120 652365 CS then (er) 最大 的 我 做 过 的 是
+NI51MBP_0101 652859 657102 ZH 其实是 两个 星期 前 啊 两个 三个 星期 三个 星期 前 我 做 一个 （呃）
+NI51MBP_0101 657550 661230 CS 它是 写 它是 display board ah 有一个 time table for events happening
+NI51MBP_0101 661688 671293 CS 然后 那个 board 是 a. one size 所以 算 蛮大 的 然后 it's put on a a. frame 上面 放 在 一个 easel 上面 then 给 public public 看 一下 那个
+NI51MBP_0101 671920 677220 CS what time is what is going on 这样 咯 所以 他们就 懂 哦 几时 来看 这个 performance 几时 want come see this performance
+NI51MBP_0101 677889 679362 ZH 他们 就懂 几时 咯
+NI51MBP_0101 680849 687081 CS 最近 没有 因为 okay (呃) 我 是 在 一个 committee organising (er) competition
+NI51MBP_0101 687455 692295 CS (er) is a 全国性 的 比赛 要 (呃) it's a percussion competition na
+NI51MBP_0101 692831 699245 ZH 打击乐 打击乐 比赛 然后 （呃） 上个 星期天
+NI51MBP_0101 699852 703990 CS 是 初赛 preliminary 赛 啊 scape theme 在 scape youth park
+NI51MBP_0101 704656 711097 CS 啊 对 scape 啊 在 orchard cineleisure 的 对面 在 orchard road 一带 lah 然后
+NI51MBP_0101 714606 720870 CS 啊 没有 这个 event 是 公开 的 ya 你 可以 去 公开 看 可是 参加 (呃) 需要 一点 participation fee la
+NI51MBP_0101 720870 723500 CS 可是 还是 还是 会 拿 t. shirt 之类 的 还有 goodie bag lor
+NI51MBP_0101 724007 724838 ZH 可是 嗯
+NI51MBP_0101 725539 728670 EN for audiences admission is free
+NI51MBP_0101 728670 733150 CS 全部 那些 finals ah 那些 比赛 都是 在 public areas 举办 举行 的 所以
+NI51MBP_0101 733540 738890 CS (呃) 比 如说 prelims 在 (呃) scape youth park 人家 可以 just 走过来 然后 坐下 来看 那个 performance
+NI51MBP_0101 739227 744637 CS then finals 应该 是会在 某间 shopping centre 之类 的 还是 在 sentosa
+NI51MBP_0101 745106 748631 ZH 啊 所以 就 来来 往往 的人 都 可以 去 （呃） 听听 看 一下
+NI51MBP_0101 749105 751709 ZH 这些 打击 这些 打击 乐团 有 多 厉害 咯
+NI51MBP_0101 755831 758019 ZH 啊 有 兴趣 吗 啊
+NI51MBP_0101 758476 759489 ZH （呃） 其实 我
+NI51MBP_0101 760164 771150 CS (呃) okay 那个 website 是 啊 w. w. w. dot (呃) drumz out dot com
+NI51MBP_0101 771150 773460 CS 对 中间 有一个 z. eh dot com 就可以 了
+NI51MBP_0101 773600 776520 CS 然后 我们 会 一直 update 那个 website lor 如果
+NI51MBP_0101 777412 779476 EN drumz d. r. u. m. z.
+NI51MBP_0101 781593 786523 CS oh okay 等一下 啊 这样写 w. w. w. dot
+NI51MBP_0101 787722 795540 EN d. r. u. m. z. o. u. t. dot com
+NI51MBP_0101 795540 798000 CS 对 我们 有 final 的时候 会 update 这个 website ah
+NI51MBP_0101 799028 801400 CS ya 然后 现在 是 初赛
+NI51MBP_0101 801400 805460 CS 那个 finals 应该 是 会 在 may 还是 应该 是在 may
+NI51MBP_0101 805884 811560 CS 然后 啊 那个 grand champion 可以 在 啊 y. o. g. 会 在 y. o. g. perform
+NI51MBP_0101 812272 814344 ZH 对 所以 今年 算是蛮
+NI51MBP_0101 815362 817940 CS special 啦 不算 盛大 因为
+NI51MBP_0101 817940 821530 CS 就 participation 跟 last year 是 around the same lah
+NI51MBP_0101 821530 823050 ZH 跟 往年 差不多 一样
+NI51MBP_0101 824617 825578 EN y. o. g. open
+NI51MBP_0101 827006 828270 CS per performance mah 这个
+NI51MBP_0101 833867 836697 CS 不 不 清楚 eh y. o. g. 因为
+NI51MBP_0101 837217 841880 ZH 我 不 怎么 追 这种 （呃） 正 还是
+NI51MBP_0101 841880 846820 CS sports lah 还是 current affairs ah 我 通常 不 读报 纸 之类 的
+NI51MBP_0101 847760 852180 CS 啊 就  就 啊 没有 事 做 就 surf surf internet 这样 lor
+NI51MBP_0101 852180 859013 ZH 我 是 比较 电脑 的 人 啦 什么 东西 就 靠 电脑 有 有 必要 知道 才 靠 电脑 如果 没有 必要 我就
+NI51MBP_0101 859428 862400 ZH 不会 读 报纸 不会 这样 咯 就 通常 都是
+NI51MBP_0101 862400 866960 CS check email lor 看看 朋友 的 updates 之类 的 啊 facebook updates 之类 的
+NI51MBP_0101 866960 869639 CS 然后 就 没有 东西 做了 okay 就 看看
+NI51MBP_0101 870236 873190 CS 啊 就 随便 surf surf lor 所以
+NI51MBP_0101 873560 879639 ZH 有 有 偶然 看到 的 也是 还是 这种 最近 也是 没有 看到 啦 就有
+NI51MBP_0101 880702 882852 CS ah okay ya 就
+NI51MBP_0101 882852 887807 ZH 有些 重要 的 新闻 就 不会 看到 啦 可是 那些 不 重要 的 新闻 我 就 反而 会 看到 
+NI51MBP_0101 888612 890896 CS like 这种 y. o. g. 就 没有 看到 啦 可是
+NI51MBP_0101 891547 894553 ZH （嗯） 有 什么 有 什么 好 有趣 的 新闻 让 我 想 一下
+NI51MBP_0101 895182 896637 ZH （呃）
+NI51MBP_0101 899597 901571 ZH 啊  那个
+NI51MBP_0101 901571 905792 ZH 那个 我 是 等到 差不多 后 半部分 我 才 开始 在 追 那个 新闻 就 从 他
+NI51MBP_0101 905792 908580 ZH （呃） 记者会 然后 他
+NI51MBP_0101 908580 915810 CS 他的 老婆 在 那个 conference 那 时候 就 哭 嘛 然后 从 那个 video 过后 我 才 开始 去 check for updates 然后 看
+NI51MBP_0101 915810 918527 CS how did this whole thing started then oh wah 这个
+NI51MBP_0101 919046 925267 ZH 也是 男 男人 是 这样 啊 有 钱 的 就  就会 做 很 多 奇怪 的 东西 咯
+NI51MBP_0101 925772 928048 EN ya but (er)
+NI51MBP_0101 929112 935579 CS 本身 来 讲 我 觉得 这个 是 没有 借口 啦 他 一直 讲 什么 (呃) 什么 excuses la 都是 excuses 来 的
+NI51MBP_0101 935579 940590 CS 通常 这种 when it comes to an end then you have a lot of excuses la but
+NI51MBP_0101 941110 943273 CS ya 早知如此 何必当初
+NI51MBP_0101 944174 948920 ZH 没有 什么 没有 什么 没有 什么 解 没有 什么 话 好讲 咯 这种 事情
+NI51MBP_0101 949553 954009 CS ya 可是 比较 比较 (呃) 在 我 脑海
+NI51MBP_0101 954840 960449 CS 徘徊 的 那个 issue 是 哦 他 他 刚刚 不是 最近 出 很多 电影 咯 就
+NI51MBP_0101 960449 967772 CS som 做 做 人 then 然后 一个 贺岁片 然后 还有 一个 李明顺 做 做 那个
+NI51MBP_0101 968550 972020 CS 好像 坐 好像 坐牢 的 是吗 我 刚才 在 jurong-point 看到 而已 他的 poster
+NI51MBP_0101 972020 976410 ZH 然后 看 差不多 哇 他 一个 人 出 三部 电影 在 这个 时候 然后 在 这个
+NI51MBP_0101 976410 981410 CS 这个 时候 when he has this kind of issue going on ah wah 这个 是 最 suay 的 时候 不懂 他的
+NI51MBP_0101 981700 984930 CS 那个 啊 票房 会不会 被 affected 还是 什么 lah but
+NI51MBP_0101 985624 988610 ZH 这种 东西 就 
+NI51MBP_0101 989170 992130 CS 就 自己 自己 找 来 的 咯 he brought it upon himself so
+NI51MBP_0101 998669 999863 EN interest ah
+NI51MBP_0101 1000513 1002720 ZH （呃） 我对 日
+NI51MBP_0101 1002720 1006520 CS 日本 的 culture 是 有 兴趣 japanese culture
+NI51MBP_0101 1006520 1010370 CS ya 就 就 呃
+NI51MBP_0101 1010370 1013420 CS 整体 上 啦 on general lah 有 follow lor 它 就
+NI51MBP_0101 1013792 1021460 CS 就喜欢 就有去 追踪 它的 最近 的 新闻 啊 它的 games ah then 有时 也是 看看 一点
+NI51MBP_0101 1021460 1023760 CS ah drama 跟 animation
+NI51MBP_0101 1023760 1029079 CS ya but 我不读 漫画 因为 manga 很长 很 you you have to keep chasing the manga ah
+NI51MBP_0101 1033182 1036028 EN oh 
+NI51MBP_0101 1037883 1040930 CS 没有 啊 animation 我 没有 看 那种 长命 的 我 只 看
+NI51MBP_0101 1040930 1045640 CS 我 只 选择性 i only choose some anime to watch i only choose those that are are 就 短 的
+NI51MBP_0101 1046007 1049903 CS 比如 说 十四 个 episode 还是 二十多 个 episode 然后 (呃)
+NI51MBP_0101 1050785 1054213 CS 就 就 等 它 全部 出 完 了 过后 哦 then i will go and
+NI51MBP_0101 1055574 1061260 CS watch it la 啊 一次 看 完 就 这样 我 不用 等 到 那个 它 因为 它 每个 星期 播 就 哇
+NI51MBP_0101 1061260 1065980 CS 每次 要 等 有 点 boring ah what's going to happen next what's going to happen next i don't know ah 要 等到 很 久
+NI51MBP_0101 1065980 1071140 ZH 所以 就 （呃） 也是 通常 看 短命 的 还有 那种 比较 （呃）
+NI51MBP_0101 1071140 1074250 CS 就 humour humour genre 的 咯 就 看 了 比较 好笑
+NI51MBP_0101 1076235 1079325 EN anime movie
+NI51MBP_0101 1081351 1082660 ZH 没有 耶
+NI51MBP_0101 1084363 1090025 CS 都是 anime 啊 电影 我 不怎么 要 看 啦 我 本身 不 喜欢 去 电影院 所以
+NI51MBP_0101 1093656 1100576 ZH 动画  电 电影 是指 电视 电影 吗 还是 那种 在 电影院 放 的 电影
+NI51MBP_0101 1108283 1113970 CS 没有 没有 (呃) 因为 刚 吃 吃 了 饭 才来 我 本来 在 jurong point 吃饭 然后 吃了 差不多
+NI51MBP_0101 1115490 1119950 CS 两 点 四十五 about two forty five then 我的 朋友 刚才 的 朋友 他 就 跟我 讲 eh i thought you got survey 他就
+NI51MBP_0101 1120270 1123560 CS 我 就 eh 有 i got survey 然后 我们 就 搭 bus 赶 进来
+NI51MBP_0101 1123812 1127094 CS ya 因为 因为 aft 我 也是 不会 来 啊 then 他来过
+NI51MBP_0101 1127094 1132046 CS 所以 他 带 我 进来 这个 building lor 跟 我 讲 哪 一间 房 之类 的
+NI51MBP_0101 1132722 1137714 CS ya 然后 回到 ani actually anime 我 也 看 不多 啦 所以
+NI51MBP_0101 1137714 1145206 ZH 我 跟 我 朋友 之间 的 话 啦 他们是 算 他们算 看 很多 可是 我 看 的 话 就 比较 少 一点
+NI51MBP_0101 1146894 1148660 EN en culture
+NI51MBP_0101 1150218 1152493 ZH 就 很多 种 啦 就 吃 吃 的
+NI51MBP_0101 1153064 1157739 CS 啊 它 语言 也是 啊 语言 蛮 interesting 的 然后 它的 礼仪 啊
+NI51MBP_0101 1158492 1159479 ZH 就 之类 的 啦
+NI51MBP_0101 1162024 1168118 CS 没有 eh 想去 air 那 air ticket is so expensive 不 可以 啦 这种 要 等 改天 改天 有 机会 再去 咯
+NI51MBP_0101 1176096 1181420 CS holiday 的 话 不 需要 可是 eh eh 我 不 我 不 清楚 eh 这个
+NI51MBP_0101 1185261 1189491 ZH 因为 如果 没有 记错 的 话 就 跟 去 别的 国家 是 一样 嘞
+NI51MBP_0101 1189491 1193674 CS 可是 如果 (呃) if you stay longer than a few days you have to apply for visa la
+NI51MBP_0101 1194350 1196744 CS ya 因为 就 ya 就有 一些
+NI51MBP_0101 1197752 1198375 ZH 问题
+NI51MBP_0101 1199699 1203300 CS  没有 eh 只有 去过 malaysia
+NI51MBP_0101 1203300 1206130 CS 然后 army 的时候 就 去 thailand 跟 taiwan lor
+NI51MBP_0101 1206857 1209320 CS 啊 对 我 army 的 时候 算 幸运 啦 因为 我
+NI51MBP_0101 1209320 1213240 CS (er) army 两年 嘛 two years 我 two years 去 过 thailand 跟 taiwan
+NI51MBP_0101 1213240 1215305 EN taiwan went two times
+NI51MBP_0101 1215954 1220135 CS ya 所以 比 比 normal soldier 已经 算 很好 了
+NI51MBP_0101 1221226 1227722 ZH 大概 （呃） 一个 月 每 一个 地 每 一个地方 一个月 所以 （呃） 二零零六 年 进
+NI51MBP_0101 1228090 1232320 CS 然后 我 june 的 时候 去 台湾 for exercise 一个 月
+NI51MBP_0101 1232883 1237199 CS 然后 after that 就 (呃) 就 某些 事情 发生 发生 然后 二零零
+NI51MBP_0101 1238649 1240536 ZH 零七 零七 零八
+NI51MBP_0101 1241375 1247530 CS 哦 没有 我 零七 零七 进兵 零七 去 台湾 first 然后 零八 去
+NI51MBP_0101 1247530 1253050 CS march 去 thai thailand for one month then after that 回来 新加坡 三 天 直接 去 台湾
+NI51MBP_0101 1253674 1258380 CS 所以 直接 两 这 两个 月 都 不在 家 我妈 my mother missed me a bit but
+NI51MBP_0101 1258380 1262110 CS it was an interesting experience ah 就 一次过 直接 去 两个 国家 then 那个 bag 是
+NI51MBP_0101 1262470 1265260 CS 直接 从 thailand 直接 送 去 台湾 然后 回来 是
+NI51MBP_0101 1265600 1269900 CS 穿 那些 剩下 的 衣服 lah so yah lor but its a good experience lah 因为
+NI51MBP_0101 1269900 1272770 CS thailand 我们 不是 去 那种
+NI51MBP_0101 1272770 1277080 CS 因为 because when people go thailand they always go those kind 什么 bangkok 之类 这种 名胜 地
+NI51MBP_0101 1277569 1281208 ZH 啊 然后 去 台湾 就会 去 什么 （呃） 台北
+NI51MBP_0101 1281701 1286921 CS 只是 去 台北 holiday 这样 shopping 之类 的 还是 去 西门町 这种 area 很少 会去 那种
+NI51MBP_0101 1288115 1292500 ZH 比较 少人 去 还是 比较 不 可能 去到 的 地方
+NI51MBP_0101 1292500 1297180 CS 啊 因为 thailand 我们是 我们的 camp 是在 一个 (呃) 蛮 一个 蛮
+NI51MBP_0101 1298800 1300360 CS (嗯) 蛮 ulu ah
+NI51MBP_0101 1300851 1305940 CS 就 (呃) 对 没有 没有 很 多 人 的 地方 啦 可是 还是有 几个 village 然后 我们
+NI51MBP_0101 1305940 1312710 CS er nights out 的 时候 就可以 去 那些 villages 看看 一下 那个 village ah 直接 去 买 买 东西 然后 去 认识 一下 那些 人
+NI51MBP_0101 1313050 1316630 CS 然后 发现 orh thailand 其实 thailand 跟 singapore 不一样 新加坡 就是
+NI51MBP_0101 1316630 1318260 ZH 哦 （呃）
+NI51MBP_0101 1318260 1322340 CS army army 有很多 rank mah 就 从 最低 的 到 最高 的 然后
+NI51MBP_0101 1322550 1326270 CS army 的 人 过后 orh 最高 的 才是 我们 这种 普通人 叫 civilian ah
+NI51MBP_0101 1326932 1333870 CS 最 所以 所以 啊 the civilian is above the soldier in singapore ah but
+NI51MBP_0101 1333870 1341920 CS thailand 不一样 thailand 是 soldier above civilian 所以 比如 说 那个 soldier 去 某 个 杂货店 哦 他 可以 不用 付钱 他 可以 just 拿 拿 东西
+NI51MBP_0101 1342341 1347970 CS then 那些 人 也 不会 去 过问 就 直接 当作 是 give the thailand army royal thai army 这样
+NI51MBP_0101 1349111 1350794 ZH 啊 就 不 一样 的 文化 咯
+NI51MBP_0101 1356304 1358712 ZH 和尚 母 和尚
+NI51MBP_0101 1364744 1368131 ZH 没有 看到 eh 因为 那个 我 那个 地区 是 没有 什么 没有 庙
+NI51MBP_0101 1368910 1371385 ZH 和尚 不 记得 有 看过
+NI51MBP_0101 1372026 1376090 EN ya monk monk ya don't remember seeing any monks in thailand ah
+NI51MBP_0101 1376519 1385480 CS 因为 我 那个 地方 也是 除了 那个 camp 然后 过 几十 公里 的 那个 village 然后 过后就
+NI51MBP_0101 1385480 1391610 CS 蛮 远 的 蛮 远 才 会 到 那个 city area lah 所以 通常 都是 it's just all forest everywhere lor 还是 一些
+NI51MBP_0101 1392609 1394691 ZH 一大堆 （呃）
+NI51MBP_0101 1395170 1401320 CS forest ah barren land ah 这种 exercise 用 的 地方 啦 就 去 那边 (er) exercise 一下 咯 演习
+NI51MBP_0101 1405434 1408150 CS 每天 啊 嗯 okay
+NI51MBP_0101 1408150 1413650 CS ah exercise period 的 时候 有点 不 方便 讲 可是 通常 没有 exercise 的 时候 就
+NI51MBP_0101 1414170 1418150 CS exercise 过后 就 还 return stores mah 然后 每天 的 就是
+NI51MBP_0101 1418745 1423707 CS 啊 起 就 有一个 设定的时间起身 就 regularly wake up then we go for breakfast
+NI51MBP_0101 1424103 1427336 ZH 然后 走 走 回来 的 时候 他 每个 早上
+NI51MBP_0101 1427687 1431185 EN (er) thailand time seven seven a. m.
+NI51MBP_0101 1431185 1435405 CS 他 会 播 他的 national anthem 然后 每个人 都要 站住 然后 他的 national anthem 是
+NI51MBP_0101 1435993 1442667 CS 就 蛮 特别 的 啦 因为 你 第一次 听到 别的 国家 的 national anthem 然后 你 必须 听 一整个 月
+NI51MBP_0101 1443264 1451018 CS 所以 啊 所以 一 整 个 月 就算 你是 你是 睡 过头 还是 你是 那时 你 在 大便 小便 还 是 你 在 走路 you still have to stand still
+NI51MBP_0101 1451719 1454421 CS 啊 然后 你 看 那些 soldier 全部 在 那边 讲 话 讲 到 一半 就 突然 站
+NI51MBP_0101 1455277 1459024 CS (呃) 就 不知 就 他们 then 我们 过后 到 后面 我们 也是 不知不觉 的
+NI51MBP_0101 1459024 1464900 CS 时间 差不多 到 的 时候 我们 就 找 一个 (呃) 找 一个 安静 的 地方 所以 比如 说 我们 去 cook house 吃 早餐 了 过后 我们 就
+NI51MBP_0101 1464900 1467300 CS eh 时间 到了 时间 到 let's go let's go 我们 去
+NI51MBP_0101 1467300 1470950 CS 找 找 一个 偏僻 的 corner 然后 在那边 等
+NI51MBP_0101 1471271 1476770 CS 等 那个 歌 播 的 时候 我们 就 在 那边 坐下 来 等 因为 没有 没有 人 看 得到 mah no one can see then 你 可以 在那边 slack 一下子
+NI51MBP_0101 1482110 1490580 CS 就 all day long lor 所以 啊 从 早上 早上 那个 吃 的 过后 然后 就 回 回 (呃) bunk 冲凉 然后 等 instructions 通常 都是
+NI51MBP_0101 1491162 1493955 CS (呃) 自己 做 一些 运动 还是 玩 一些 game lah
+NI51MBP_0101 1494693 1496908 ZH 就 啊 就 我们 带 自己 的 东西 去 做 咯
+NI51MBP_0101 1497550 1504870 CS 啊 因为 那里 那里 是 他们 泰国 的 camp mah 我们 只是 借用 那个 camp 的 他 camp 很大 一下 but we are only borrowing the camp a small part of the camp
+NI51MBP_0101 1505285 1511100 CS yes 只有 small part 是 singapore 的 所以 我们 只是 在 那里 然后 通常 打扫 那些 就 自己 做
+NI51MBP_0101 1511100 1514790 CS but 以外 的 部分 通常 是 他们 自己 打扫 so we don't have to do area cleaning
+NI51MBP_0101 1515110 1520300 CS then toilet 也是 (呃) 不 需要 怎么 wash lah 因为 它的 toilet 是 compared to singapore 是 很 spacious 的
+NI51MBP_0101 1520300 1525240 CS singapore 是 因为 地 小 啦 所以 她 的 东西 都是 建 越高 越好
+NI51MBP_0101 1525240 1528790 CS but thailand 是 因为 位子 大 所以 很多 东西 都是  outdoor ah
+NI51MBP_0101 1528790 1530433 EN ya even the washroom is like outdoor
+NI51MBP_0101 1530796 1537266 CS then 我们 冲凉 只是 隔 一个 墙 然后 人家 可以 直接 看 进来 but 幸 but 幸亏 那个 地方 no females la 所以
+NI51MBP_0101 1537784 1543160 CS ya ya 然后 冲凉 然后 就 回去 等 instructions 有时 就会
+NI51MBP_0101 1543160 1546750 CS 啊 借 store 还 store 一下 然后 我是 driver mah 所以
+NI51MBP_0101 1547006 1555915 CS (呃) sometimes i will take the vehicles out for a few rounds lor 就 让那个 车 warm up 一下然后 <unk> 去 warm up 一下 <unk> 去 <unk> 去 然后 就 没有 什么 东西 做 其实
+NI51MBP_0101 1555915 1563040 ZH 然后 晚上 如果 有 机会 的 话 你 如果 有 机会 的 话 啊 （呃） 通常 就回
+NI51MBP_0101 1563040 1567520 CS nights out lor 就会 坐 那个 啊 tunnel 去 附近 的 area
+NI51MBP_0101 1568212 1572465 ZH 逛逛 一下 之类 的 因为 那 也是 没有 什么 地方 也是 没有 什么 地方 好 逛 啦
+NI51MBP_0101 1574487 1580680 CS 没有 啦 就有那个 上 有 (呃) 上面 讲 okay mah 我的 sir 讲 okay kay you all look very bored you all go go go
+NI51MBP_0101 1580680 1583530 CS go go okay okay lor then 我们 就 找 一个 thailand driver
+NI51MBP_0101 1583530 1586910 CS 因为 可以 just ah just book 他们
+NI51MBP_0101 1586910 1591250 CS book 他们 for 那个 slot 然后 叫 他们 载 我们 出去 然后 出去 讲 什么 讲 orientation
+NI51MBP_0101 1591563 1594535 CS 啊 就 看看 认 一下 那个 地方 learn more about that place
+NI51MBP_0101 1594939 1602160 CS 然后 到 那个 地方 因为 他们 他们 大概 大概 懂 那些 thailand 的 soldier they will know that (er) singapore soldiers come here also very bored then 他们
+NI51MBP_0101 1602160 1607080 CS 每次 讲 orientation 的 时候 那个 route 是 这样 然后 那个 route hor 会 有 几个 stop point 然后 就 在 那边
+NI51MBP_0101 1607526 1612382 ZH 停 下 来 买 东西 吃 坐 在 那边 吃 路边摊 他 会 故意 走过 那些 路边摊 什么 就 给 我们 停 在 那边 吃
+NI51MBP_0101 1613057 1615213 EN ah thailand ah
+NI51MBP_0101 1616459 1618147 CS thailand 很多 东西 都是 放 那个
+NI51MBP_0101 1619186 1620694 ZH 没有 没有 鱼 鱼露 啊
+NI51MBP_0101 1621705 1625669 CS 是吗 他们 有 一个 fish sauce ya 很 好吃 就 啊
+NI51MBP_0101 1626122 1635645 CS 我们 通常 新加坡 就 煮汤 就 不是 熬汤 就是 放 chicken stock la 他们 是 不同 他们 放 那个 鱼露 就 可以 了 啊 有 路边摊 哦 直接 卖 那个 米粉
+NI51MBP_0101 1636153 1643850 CS 然后 加 鱼露 汤 因为 那个 鱼 鱼 fish sauce ah 直接 加 在 水 直接 加 烧水 然后 搅 出来 变 汤 然后 煮 几个 鱼丸 这样 放下 去
+NI51MBP_0101 1643850 1645589 ZH （呃） 新币 不到
+NI51MBP_0101 1646485 1648885 CS actually 我 我 忘记 多少钱 i forgotten how much is it eh
+NI51MBP_0101 1648885 1656555 CS but 是 很 便宜 很 便宜 然后吃了 也是 你可以一个人吃 两三碗 然后就 很饱 啊 就是 真的 哦 撑 是 撑 了
+NI51MBP_0101 1656555 1658855 CS ah compared to singapore 板 面 这样 咯
+NI51MBP_0101 1658855 1661927 CS 那个 difference 有点大 啦 然后 那个 味道 也是
+NI51MBP_0101 1662576 1663589 ZH （嗯）
+NI51MBP_0101 1665614 1668495 CS actually 是 蛮 普通 啦 味道 可是 因为
+NI51MBP_0101 1668495 1675356 CS 新加坡 没有 什么 吃过 嘛 所以 你 去 哪里 吃 就会 觉得 哇 哇 这个 味道 很香 eh 起初 会 觉的 哇 很香 after that 你 每天 去 过后 就 平常 了
+NI51MBP_0101 1675356 1680394 CS 吃 吃 吃 然后 回来 新加坡 就 哇 i miss the feeling 对 咯 这样
+NI51MBP_0101 1680991 1684208 ZH （嗯） 然后 还有 什么 他们 那里
+NI51MBP_0101 1684727 1689676 ZH 就 其实 其实 他们 有 的 东西 大概 新加坡 都有 啦 因为 很多 新加坡 的 东西 都是 从 外国 来
+NI51MBP_0101 1690273 1698375 CS 啊 然后 我们 有时 也是 去 那 杂货店 然后 因为 路边摊 如果 有时 没有 开 的 话 就 去 杂货店 买 那些 泰国 的 instant food ah
+NI51MBP_0101 1698725 1705565 CS ah then 看 一下 泰国 的 instant food 跟 新加坡 的 instant food 有 什么 不同 所以 新加坡 的 instant instant 比如 说 instant porridge 只有 maggie flavor 而已 嘛
+NI51MBP_0101 1705984 1709733 CS 然后 他 那里 的 instant porridge 是 like 一盒 十包
+NI51MBP_0101 1710096 1713005 ZH 十包 一个 可以 煮 一碗 一个人 吃 然后 吃了 真的 是 很饱
+NI51MBP_0101 1713550 1718034 CS 哦 所以 就 很 很 值得 然后 when we came back we went for one one last round
+NI51MBP_0101 1718746 1722845 CS then we bought boxes 我们 买 很多 箱 然后 就 运 回来 singapore
+NI51MBP_0101 1722845 1726705 CS 偷偷 放 回来 啦 因为 我的 unit 是 啊 一个 unit 一个 container
+NI51MBP_0101 1726900 1728634 CS 那个 container 很多 位子 then 我 sir 就 讲
+NI51MBP_0101 1728634 1734206 CS wah so empty you all go and buy something and put inside la anything you all want then 我们 就 买 买 买 放 进去 里面 台湾 也是 这样 台湾
+NI51MBP_0101 1735037 1736829 ZH 啊 （嗯）
+NI51MBP_0101 1737686 1739382 ZH 生活 上面 就
+NI51MBP_0101 1742535 1745795 CS 不会 不会 (呃) 因为 新加坡 soldier 跟 台湾 soldier
+NI51MBP_0101 1747285 1750235 CS 不 一样 啦 就 thailand 跟 台湾 不一样 啦 那时候 因为
+NI51MBP_0101 1750235 1753706 CS thailand 政治 上 没有 这样 混乱
+NI51MBP_0101 1753706 1758302 CS 而且 就算 混乱 的 话 我们 的 area 也是 很 偏僻 通常 不会 在 那边 发生 可是 台湾
+NI51MBP_0101 1758613 1764275 CS 台湾 本身 比 thailand 小 啦 然后 她的 我们 的 camp 是 在 (嗯)
+NI51MBP_0101 1766508 1767625 ZH 下面 （呃）
+NI51MBP_0101 1770325 1774697 CS 没有 高 在 啊 南部 it's towards the south 啊 heng-chun heng-chun camp
+NI51MBP_0101 1775268 1780047 CS ya it's at heng-chun 然后 (呃) 他们 因为 那 时候 我们 去 的 时候 是 刚刚 好 是 那个
+NI51MBP_0101 1780697 1782177 CS (呃) 好像 是 election 的 时候
+NI51MBP_0101 1782774 1783268 ZH 是吗
+NI51MBP_0101 1784099 1790885 CS 不 清楚 eh 就是 有 某个 政治 的 不懂 是 很乱 还是 有 啊 election 然后 我们
+NI51MBP_0101 1790885 1797095 CS 是 instructed that whenever you hear you hear the thing go past ah 就是 那些 比如 说 什么 游行 啊 之类 的 hor
+NI51MBP_0101 1797095 1802005 CS 全部 人 全部 人 要 关门 全部 要 关 窗口 全部 躲进 indoors 里面
+NI51MBP_0101 1802005 1803995 CS exercise 全部 stop 先 躲 进去 里面
+NI51MBP_0101 1804618 1809867 ZH 啊 因为 他是 （呃） 因为 新加坡 政治 立场 啊 所以 就
+NI51MBP_0101 1810930 1813931 CS po (呃) 就得 hide 一下子 啊 ya
+NI51MBP_0101 1816775 1824395 CS 没有 啊 你 去 外国 就是 twenty 你 就 twenty four seven standby lah 那个 sir 那个 sir 要 叫 你 just 过去 敲 你 房间 eh come come come 就 可以 了
+NI51MBP_0101 1824782 1825431 ZH 啊 因为
+NI51MBP_0101 1826158 1829825 CS 新加坡 不 一样 嘛 新加坡 你 做完 了 工 你 做完 了 五天 过后 你 可以 book out 回家
+NI51MBP_0101 1829825 1836835 CS but 这个 不 一样 这个 你 book out 你是 在 camp 里面 睡觉 所以  sir 直接 去 敲 敲 敲 找 你 讲话 找 你 玩 game 什么 都 okay 的
+NI51MBP_0101 1837225 1841985 CS 可是 外国 也 比较 relax lah 外国 通常 都是 有 外国 的 soldier 在 管
+NI51MBP_0101 1842245 1845765 CS 所以 我们 比较 多 (er) free time lah 我们的 sir 也是 比较 放
+NI51MBP_0101 1846191 1847334 ZH 比较 放松 一点 因为
+NI51MBP_0101 1848190 1853275 CS singapore 大头 the all the heads are here leh in singapore but in thailand
+NI51MBP_0101 1853275 1860565 CS in taiwan thailand taiwan overseas ah 都 没有 什么 管 的 as long as 你 东西 做好 啊 you do your things well ah then if you have free time ah then i will give you then zhao
+NI51MBP_0101 1860996 1864579 CS 所以 台湾 的 nights out 会 比较 (呃) relax 一点 啦 因为 台湾 是
+NI51MBP_0101 1865282 1868760 ZH 台湾 怎样 讲 我们 都是 会讲 华语 嘛 都是 啊 华人 地区 所以
+NI51MBP_0101 1869125 1872146 CS 去 台湾 就 nights out 就会 去 垦丁 哦 垦丁
+NI51MBP_0101 1873029 1877830 ZH 那个 啊 晚上 去 晚上 去 垦丁 的 时候 就 很多 东西 好走 很多 东西 好玩 之类 的
+NI51MBP_0101 1880305 1884750 CS 打 交道 因为 那个 singapore camp 的 台湾 soldiers 不 多
+NI51MBP_0101 1885198 1887007 CS 啊 台湾 soldier 台湾
+NI51MBP_0101 1887769 1894521 CS heng-ch 恒春 camp 最 附 最靠近 的 (呃) 台湾 camp 离 我们 蛮远 一下
+NI51MBP_0101 1896140 1901775 CS 就 新 就 这个 camp 是 纯粹 是 singapore 的 所以 里面 只有 几个 台湾 soldiers
+NI51MBP_0101 1901775 1904065 ZH 不多 啦 就 只是 那个
+NI51MBP_0101 1904065 1909815 CS (呃) 比如说 是 cook house 的 啊 还有 那个 guard duty 的 也是 台湾 的 other that 就 没有 什么 了
+NI51MBP_0101 1910430 1913910 ZH 嗯 因为 啊 对 咯 然后
+NI51MBP_0101 1920277 1923398 CS actually 蛮多 的 就 啊 因为 台湾 的 人 就
+NI51MBP_0101 1923398 1930509 CS when they talk their attitude is different from singaporeans la 所以 singaporeans 就 有时会 有时会 有 什么 礼 让 精神 singapore 是 这样 的 what singapore
+NI51MBP_0101 1930509 1934555 ZH 多元种族 我们 要 懂得 礼 礼让 这种 东西 可是 去 台湾 就
+NI51MBP_0101 1934555 1938890 CS (er) it's a different story already 所以 他们 是 orh if i think this is right i am right
+NI51MBP_0101 1938890 1940990 ZH 所以 如果 我 觉得 这个 是 对 的 这 就是 对 的 所以
+NI51MBP_0101 1941561 1946760 ZH 比如 比如 说 譬如 说 （呃） 他 撞到 我 车 他 撞到 我 车 他 觉得 是
+NI51MBP_0101 1946760 1950765 CS (eh) you knock into my car 他 觉得 是 我 我 撞 他的 车 instead hor wah 就 惨 了
+NI51MBP_0101 1951118 1956925 CS 然后 这个 就 that's why 我们 做 driver 我 我是 driver lah then 我们 去 台湾 做 driving 的 时候 我们 会 特别 小心
+NI51MBP_0101 1957169 1961660 CS 因为 第一 台湾 是 left hand drive mah 所以 很多 东西 都 不一样 singapore
+NI51MBP_0101 1961660 1964445 CS 快 singapore 快 的 时候 靠右 慢 的 时候 靠坐
+NI51MBP_0101 1964445 1969587 CS 台湾 不 一样 台湾 什么 东西 都 靠右 然后 motorcycle 转 的 时候 也是 不 一样 所以 很多 东西 要 小心
+NI51MBP_0101 1969950 1973430 ZH 然后 在 台湾 如果 撞车 哦 哇 那 是 最惨 的 事 因为
+NI51MBP_0101 1973925 1978895 CS 什么 东西 都是 con 就 confirm 是 新加坡 人 的 错 因为 在 singapore 的 话 哦
+NI51MBP_0101 1978895 1987175 CS (呃) 如果 普通人 的车 撞到 你车 啊 然后 你 you're su not supposed to say anthing la you just supposed to say
+NI51MBP_0101 1987175 1992685 CS oh okay 我会 跟我 sir 讲 不过 (呃) 我 不 我 不 可以 comment 那个 after that 你 会 收到 s. a. f. 的 信
+NI51MBP_0101 1992685 1994871 ZH 啊 可是 台湾 那边 不 一样 台湾 哦
+NI51MBP_0101 1995391 2001621 ZH 啊 就不懂是 不管是 你撞 还是 他撞 哦 还是 谁 撞 哦 只要 你 的 车 在 哦 就是 你 付 了
+NI51MBP_0101 2001621 2005067 ZH 所以 是 有点 啊 对
+NI51MBP_0101 2005067 2010599 CS 因为 我们 也是 借 别人 的 国 别人 的 地 来做 training mah 所以 也是 有 一点 no choice la
+NI51MBP_0101 2011481 2011908 EN ya
+NI51MBP_0101 2013221 2015785 CS 然后 嗯 taiwan
+NI51MBP_0101 2015785 2019680 CS taiwan towards the end of the exercise we had a 就
+NI51MBP_0101 2019680 2027071 CS (er) r. and r. lah relax and recreational 然后 我们 就 去 台北 咯 是 很 standard 的 嘛 每 一 每 一个 exercise 通常 最后 几天
+NI51MBP_0101 2028131 2031575 CS one 不 不会 到 one week maybe four four days
+NI51MBP_0101 2031767 2033758 ZH 四天 而已 啊
+NI51MBP_0101 2036434 2039041 CS 没有 没有 就 直接 从 heng-chun 恒春 然后 坐 那个 bus
+NI51MBP_0101 2039550 2040370 CS then 那 bus 会
+NI51MBP_0101 2041005 2047395 CS 所以 比如 说 r. and r. 是 差不多 四 五 天 啊 for exercise 是 五 天 所以 两天 travel 上去
+NI51MBP_0101 2048198 2049158 ZH eh 没有 一天
+NI51MBP_0101 2049808 2054820 CS 一天 半 travel 上去 所以 我们 坐那个 bus 然后 就 途中 一直 停在 那些 名产 店 买 买 买 买 买 东西
+NI51MBP_0101 2056611 2060114 ZH 买 什么 太阳饼 啊 之类 的 然后 就 （呃）
+NI51MBP_0101 2060114 2065675 CS 过夜 在 那个 bus 睡觉 然后 睡 到 早上 然后 到 到 台北 台北 就有 hot 就 就有 hotel 住 then
+NI51MBP_0101 2066014 2068625 ZH 那个 真正 玩 的 时候 才 开始 因为 台北 有 很多
+NI51MBP_0101 2069131 2070759 ZH 很多 地方 好 去 啊 那些
+NI51MBP_0101 2071338 2078620 CS 啊 西 男的 男的 通常 (呃) 到 的 时候 通常 会是 晚上 然后 他们 就会 去 直接 换衣 然后 去 laksi clubbing
+NI51MBP_0101 2081131 2086065 CS ah clubbing 他们就 去 clubbing lor then 然后 laksi 是 台湾 一间 很 famous 的 club
+NI51MBP_0101 2086932 2094229 CS 啊 跟 singapore 的 (呃) club 是 差不多 一样 的 啦 一样 的 啦 就是 一样 就是 去 那边 跳舞 然后 泡妞 之类 的
+NI51MBP_0101 2094826 2097864 ZH 啊 然后 找 人家 搭讪 搭 搭 搭 人家 的讪 之类 的 咯
+NI51MBP_0101 2098540 2102145 ZH 啊 然后 可是 啊 我 不是 那种 我 是 那种
+NI51MBP_0101 2102145 2104095 CS 因为 台湾 有 那种 twenty four hour bookshop
+NI51MBP_0101 2104095 2111100 CS 然后 真的 是 去 那里 那个 bookshop 真的 是 很大 几层 楼 then 我 去 那边 然后 在 那边 哇 一整夜 没有 睡 然后 的 sir 就 抓我
+NI51MBP_0101 2111100 2116320 CS 因为 我 去 那里 的 时候 我 在 那边 读 读 读 读 我看 我看 差不多 哦 三四点 了 okay la
+NI51MBP_0101 2116320 2120055 ZH 应该 没有 人 会 抓 到 我 啊 现在 走 回去 最 安全 然后 走 回去 走 一半
+NI51MBP_0101 2120055 2123345 CS 看 我 sir 喝醉 从 club 走 回来 我 就 哇 惨
+NI51MBP_0101 2123865 2131135 CS 真的 是 很 suay then then 他 看到 我 hello what are you doing ah 然后 在 那边 醉熏熏 okay okay never mind i help you to your room sir then help 去 他的 room
+NI51MBP_0101 2131135 2140475 CS 然后 回 回房 然后 睡觉 then 早上 他 看到 我 的 时候 他 看到 我 的 时候 eh eh last night never see anything ah 没有 看到 东西 then 我就 哦 哦 then sir you got see me
+NI51MBP_0101 2140475 2144995 CS then 没有 没有 i also never see you i also never see you then okay 两个 人 安全 就 这样 安静 咯
+NI51MBP_0101 2144995 2147536 ZH 啊 就 就会 就会 偷偷 做 很多 小动作 啦 因为
+NI51MBP_0101 2148235 2151665 CS by right 你 去 那个 hotel 你 在 台湾 r. and r. 的 时候 hor
+NI51MBP_0101 2152055 2157805 CS 啊 十二点 要 到 hotel room 然后 要 睡 到 早上 六点 就是 一直 要 一定要 待 在 那个 hotel 可是
+NI51MBP_0101 2159508 2164515 CS  没有 啦 不是 not really care lah 是 因为 我的 unit 算 好 我的 unit 是
+NI51MBP_0101 2164515 2167880 EN ah the size is small so the sir is like
+NI51MBP_0101 2168503 2172160 CS 你 不要 做 错事 you do your job then i let you have your fun
+NI51MBP_0101 2172762 2178125 CS ah then 我 他 所以 我们 就 okay lor 我们 exercise 做得 不错 嘛 所以 okay lor you all got do your job i let you have your fun
+NI51MBP_0101 2178125 2181375 CS they want you want to break rules never mind 你 break 的时候 不要 给 人家 看到 可以 了
+NI51MBP_0101 2181375 2184367 CS 看到 的 时候 也 不要 讲 是我 okay lor then 就 okay lor
+NI51MBP_0101 2185146 2187328 ZH 然后台湾 就买很多 名产 啊 之类 的
+NI51MBP_0101 2187847 2193223 ZH （呃） 所以 除了 太阳饼 啊 太阳饼 很多人 都 知道 去 台湾 卖 太阳饼 啊 什么 阿婆 铁蛋 之类 的
+NI51MBP_0101 2193742 2196796 EN all the usual all the usual food stuff
+NI51MBP_0101 2197559 2199885 CS ya 然后 我的 sir (呃)
+NI51MBP_0101 2199885 2204545 CS 我的 warrant officer 也是 去 台湾 不懂 买 一个 小型 的 remote control helicopter 给 他的 儿子
+NI51MBP_0101 2204605 2207419 CS 因为 他 touch down 的 那天 是 他 儿子 的 birthday 然后 他 那里
+NI51MBP_0101 2210065 2213395 CS 没有 warrant officer warrant officer 是 sign on 的 嘛 就 已经
+NI51MBP_0101 2213395 2217735 CS 差不多 那 那 那 辈子 已经 是 献给 新加坡 政府 了啦 but
+NI51MBP_0101 2217735 2222735 CS 啊 然后 他 他 touch down 那天 是 儿子 的 生日 然后 他 买 那个 啊 remote control 的 helicopter 给 他的 儿子
+NI51MBP_0101 2222735 2226673 ZH 新加坡 卖 贵 两倍 他讲 对 然后
+NI51MBP_0101 2228776 2232074 ZH 就 真的 是 那种 咯 这 啊 给 小 给 小孩子 玩 的 可是
+NI51MBP_0101 2232360 2235597 CS 新加坡 贵 两倍 singapore 的话 差不多 是
+NI51MBP_0101 2236567 2238165 ZH 七十块 这样 买 得到 吧
+NI51MBP_0101 2238774 2240125 ZH 七十块 对
+NI51MBP_0101 2241111 2243386 CS 三十五 块 convert 台币 咯
+NI51MBP_0101 2244061 2247047 CS then 然 他 也是 买 他 也是 他 也 是买 很多东西 啦
+NI51MBP_0101 2247696 2255145 CS 最后 因为 我们 r. and r. 的 时候 那个 container 已经 不在 了 已经 shipped 回去 singapore 所以 你要 带 你要 买 什么 东西 都是 靠 你 自己 的 bag
+NI51MBP_0101 2255570 2259488 ZH （呃） 所以 也是 装 不多 啦 就 剩 着 用 咯 
+NI51MBP_0101 2264295 2270969 CS 可是 最想 去 的 还是 去 japan ah 因为 japan aiya 好吃 好吃 的 多 好看 的 多
+NI51MBP_0101 2271359 2274371 CS 美女 也多  ya they got a lot of things to see there mah
+NI51MBP_0101 2275046 2277495 CS ya 想 actually 有 一点 想去
+NI51MBP_0101 2277495 2282065 CS 因为 我 啊 last lesson last 我 我 现在 在 n. t. u. take japanese
+NI51MBP_0101 2282065 2284205 CS 在 学 日文啊 这里 ya
+NI51MBP_0101 2284205 2289045 CS 然后 啊 notice board 上面 也是 有 写 一个 啊 japanese programme
+NI51MBP_0101 2289625 2294985 CS 他是 一个 他是 一个 啊 忘记 是 它的 long form 是什么 lah but 它的 short form 是 j. r. p.
+NI51MBP_0101 2294985 2296991 CS japanese something programme 的 然后
+NI51MBP_0101 2297510 2301383 CS (呃) 你 sign 那个 contract 过后 哦 你 就 算是 (呃) 在 日本 做工
+NI51MBP_0101 2302081 2302938 ZH 做 一年
+NI51MBP_0101 2303821 2304727 ZH 啊 当
+NI51MBP_0101 2305197 2309762 CS 可以 是 当 (呃) 那种 日 japanese 的 english teaching 的 assistant
+NI51MBP_0101 2309762 2313235 ZH 在 对 因为 日 日本 现在 也是 在 讲究 英文 嘛
+NI51MBP_0101 2313235 2315470 CS 就 国际化 啦 then 他们就 教 english 然后
+NI51MBP_0101 2315470 2318445 EN all the english teachers wil have (er) usually need assistants nah
+NI51MBP_0101 2318445 2321245 CS 就 那种 native speakers native speakers lor 就
+NI51MBP_0101 2324705 2327965 CS high school 通常 是 high school lah 因为 high school
+NI51MBP_0101 2328496 2334677 CS elementary school 他 只有 最后 几年 才会 开始 跟 他们 接触 英文 因为 他们 本身 日文 也是 很难 学了
+NI51MBP_0101 2334677 2340180 ZH 然后 中学 过后 就会 开始 学 英文 然后 英文 老师 都 会 有 一个
+NI51MBP_0101 2340180 2344300 CS assistant ah 那个 assistant 通常 是 native speaker 然后 那个 老师 本身 是 日本人
+NI51MBP_0101 2344880 2347860 CS ah then 然后 这个 contact 就 last for 一年 然后
+NI51MBP_0101 2347860 2352520 CS (呃) 日本 政府 会 给你 钱 啊 they will pay you (er)
+NI51MBP_0101 2352520 2355650 CS 一年 如果 没有 记 错 是 about three point six million yen
+NI51MBP_0101 2356258 2359919 CS ya 可以 已经 已经 已经 more than enough to cover 你的 吃
+NI51MBP_0101 2360283 2362214 ZH 吃 用 租 之类 的 啦
+NI51MBP_0101 2362724 2365385 ZH 很多 很多 然 我 在 然后 我 在 想
+NI51MBP_0101 2365907 2369060 ZH 有 没有 这个 机会 去 参加 这个 活动 可是 我 看 了 过后 也是
+NI51MBP_0101 2369450 2372177 ZH 发现 到 哦 其实 他 这个 活动 是 需要
+NI51MBP_0101 2372920 2375300 CS 啊 需要 japanese proficiency lah
+NI51MBP_0101 2375620 2380000 CS yah 所以 你的 japanese 一定要 有一个 certain level 才 可以 去 参加 可是我 的 level 才
+NI51MBP_0101 2380432 2385340 CS 刚 开始 学 而已 this sem 开始 所以 有点 唉 还久 啊 这个 目标 还远
+NI51MBP_0101 2392560 2399520 CS 它的 requirements 是 j. l. p. t. two j. l. p. t. 是 japanese language proficiency test 就是 日文 鉴 日文 鉴定 啦
+NI51MBP_0101 2399520 2402630 ZH 日语 鉴定 然后 （呃）
+NI51MBP_0101 2402630 2409430 CS for n. t. u. 的话 if you are taking the course in n. t. u. n. t. u. 它的 couse 是 h. m. j. one two three four five six
+NI51MBP_0101 2410020 2416460 CS 这个 是 n. t. u. n. t. u. 是 h. m. j. ah then 外面 考 的 那个 international 的 日文 鉴定 是 j. l. p. t.
+NI51MBP_0101 2416560 2420250 CS 他是 四个 level four three two one 然后 n. t. u. 是 one two three four five six okay
+NI51MBP_0101 2421020 2424460 CS 外面 的 four four 是 最 容易 的 one 是 最 难 的 n. t. u. 的
+NI51MBP_0101 2424460 2427220 EN one two three four five six hor
+NI51MBP_0101 2427220 2429940 CS 你 finish six oh 你 才 在 j. l. p. t. three 而已 eh
+NI51MBP_0101 2429940 2432542 ZH 你 才 到 一半 而已 不到 一半
+NI51MBP_0101 2432542 2434589 CS 因为 three 跟 two 的 那个
+NI51MBP_0101 2435080 2438026 EN the difference is very big ah there is a lot of (er) vocab to learn ah
+NI51MBP_0101 2438352 2439079 ZH 差距 有点 大
+NI51MBP_0101 2439780 2440313 CS ya 然后
+NI51MBP_0101 2441520 2445985 CS 所以 你 其实 在 n. t. u. 读 完 了 过后 你 也是 还 不 可以 make it la
+NI51MBP_0101 2446426 2449168 CS 对 ya 你 还是 要 去 外面 自己 读 啊 还是 自修
+NI51MBP_0101 2449932 2451776 ZH 然后 那 考试 （嗯）
+NI51MBP_0101 2452860 2458398 CS 以前 他 因为 他 最近 换 syllabus lah 因为 before that 它的 syllabus 是 一年 考
+NI51MBP_0101 2459722 2465440 CS 一年 考 一次 sunday 的 第一个 星期 会考 然后 around mid year 就
+NI51MBP_0101 2465750 2469850 CS (er) june july 这样 会 open for registration registration 是
+NI51MBP_0101 2470634 2473350 CS (呃) 就 直接 报名 registration form 一块 钱
+NI51MBP_0101 2473350 2477440 CS 然后 j. l. p. t. four three two one 是 三十五 四十四 十五 五十
+NI51MBP_0101 2477957 2487644 CS ya 然后 去 那边 just 考 而已 咯 啊 然后 你 去 那边 考 的 时候 你 就会 发现 到 哇 他们 他们 的 学校 因为 新加坡 的 日本 学校 也是 跟 那边 的 日本 学校 是 差不多 一样
+NI51MBP_0101 2487644 2489746 CS (呃) 就是一样 standard 的 啦
+NI51MBP_0101 2489746 2497744 CS 然后 他们 桌子 哦 新加坡 的 桌子 是 这样 高 你 去 那里 考试 你 你 literally 是 这样 这样 这样子 写 的 因为 他 的 桌子 是 差不多 这样 高 而已
+NI51MBP_0101 2498393 2499536 ZH 就 小学生 桌子 这样 用
+NI51MBP_0101 2500494 2506365 CS 所以 你 写 你 做 你 做 那个 paper 你会 觉得 哇 很累 then 你 做 你 就会 stretch 后面 哇 then 这样 的 时候 tom 已经 撞到 后面 的人 桌子 了 所以
+NI51MBP_0101 2506935 2511396 ZH 也是 有点 有趣 啊 你 这样 看 你 会 觉得 哇 如果 你 去 日本 日本 的 桌子 不是 全部 这样
+NI51MBP_0101 2511843 2513167 ZH 这样不是 很 很惨
+NI51MBP_0101 2515245 2517595 ZH （呃） 没有 嘞 啊 听 朋友 讲
+NI51MBP_0101 2517595 2521425 CS 然后 i mean 那个 school 有 open house 也是 然后 你 去 那个 open house 他是
+NI51MBP_0101 2522999 2524717 EN (en) summer festival la
+NI51MBP_0101 2525336 2529633 CS 每个 九月 他 会 开放 那个 地方 那个 summer festival 然后 给
+NI51MBP_0101 2530215 2534175 CS (er) so 他 讲 他是 讲 open for public lah but 还是 需要 ticket 然后 ticket 是
+NI51MBP_0101 2534607 2539045 CS 你 只 可以 从 那个 japanese association 的 人 那里 才 买得到
+NI51MBP_0101 2539363 2546715 CS 啊 一个 人 只 可以 买 两张 票 然后 你 去 那边 你 就 可以 看 一下 他们 的 地 顺便 看 一下 他们 的 地方 他们 的 教室 跟 他们 的 sports 的 facilities 之类 的 咯
+NI51MBP_0101 2546715 2548246 CS then 那 classroom 是 真的 是
+NI51MBP_0101 2548785 2550629 ZH 哦 真的 桌子 很矮
+NI51MBP_0101 2550862 2556550 CS 什么 东西 都 很小 然后 墙壁 是 跟 新加坡 的 classroom 可是 新加坡 classroom 现在 已经 是 窗口
+NI51MBP_0101 2557017 2561120 CS 还有notice board notice board 通常 是 自己 不是 空 的 就是 自己 decorate 的
+NI51MBP_0101 2561120 2568111 CS 可是 日本 的是 差不多每 墙 墙 哦 有 有 什么 位子 他 就会 粘 一些 poster 什么 之类 教你 那些 日文
+NI51MBP_0101 2568552 2571300 ZH 小孩子 小孩子 学 日文 因为 新加坡 是 小学 来的
+NI51MBP_0101 2571798 2574500 ZH 他是 个 小学 所以 就会 很多 那种 很多 那种 （呃） 比如说
+NI51MBP_0101 2574862 2585465 CS 一 二 三 四 五 六 七 八 九 十 他就会 他就会 list 给你 然后 (呃) 星期一 到 星期天 也是 写 给你 了 all the all the (er) japanese language the words lor
+NI51MBP_0101 2585863 2587732 CS 所以 是 真的 是 很 interesting 啊 就是
+NI51MBP_0101 2588798 2594593 ZH 你从 你从 小 到 大 你 没有 看过 这种 东西 可是 你 每次 看戏 他们 每次 什么 教室 之类 的 哦 哦 这种 是
+NI51MBP_0101 2595238 2601270 CS 那个 image the image is there la ya but it's not really happening in singapore you don't see it often in singapore
+NI51MBP_0101 2601798 2604983 ZH 所以 是 有 一点 算 是 不同 的 体验
+NI51MBP_0101 2609147 2611342 ZH  有空 可以 去 看看 啦 他是
+NI51MBP_0101 2612419 2617574 CS 九 九月 九月 它的 release date 是 让 我想 一下
+NI51MBP_0101 2619876 2621123 EN j. a .c.
+NI51MBP_0101 2624550 2627874 CS japanese association eh 不是 等下 我 想 想 看
+NI51MBP_0101 2628602 2632702 CS 啊 j. c. s. 啊 japanese cultural society j. c. s.
+NI51MBP_0101 2633190 2638130 CS 它 总部 在 bugis 然后 你 去 考试 你 去 考 j. l. p. t. 也 在 这里
+NI51MBP_0101 2638570 2641910 CS 啊 然后 你 去 那个 summer festival 也是 去 这里
+NI51MBP_0101 2642323 2643950 CS but 这里 的 话
+NI51MBP_0101 2644610 2648200 CS 因为 那 时候 summer festival 的 票 算是 很 exclusive ah 所以
+NI51MBP_0101 2648417 2652961 CS (呃) 你 除非 你 可以 跟 那边 的 member 拿到 不然 的 话 你是 通常 是 拿 不 到 的
+NI51MBP_0101 2653663 2661360 CS 可是 啊 通常 他 有 剩 票 他 会 给 学校 啦 就 比如 说 n. t. u. 的 japanese appreciation club japanese n. t. u. 的 是 j. a. c.
+NI51MBP_0101 2661865 2665579 CS 啊 这个 是 n. t. u. 的 对 n. t. u. 的 通常 他 如果
+NI51MBP_0101 2665916 2670409 ZH 太多 太多 票 （呃） 卖 给 不完 还是 卖 不完 还是 他 之类的
+NI51MBP_0101 2670409 2673637 CS 他 就会 给 那些 学校 的 japanese association club 给 这些
+NI51MBP_0101 2674252 2679107 CS 日 日 给 这些 japanese culture 的 那些 爱 好者 来 咯
+NI51MBP_0101 2683158 2686519 CS n. t. u. 吗 n. t. u. 的 过了 就 (呃)
+NI51MBP_0101 2687900 2695120 CS 一月 吗 一月 还是 二月 january or february it's in north spine 在 那个 foy 在 那个 啊 macdonald's 前面 那个 那里
+NI51MBP_0101 2695120 2696792 ZH 然后 他 有 啊
+NI51MBP_0101 2697440 2700960 CS 本来 是 有 钓 金鱼 lah 可是 singapore a. v. a.
+NI51MBP_0101 2701285 2708669 CS (呃) a. v. a. 是 (呃) oh agriculture and vetenerian authority
+NI51MBP_0101 2709494 2718364 ZH 就 什么 啊 就是 管 那些 啊 食 就是 那些 进口 的 食物 啊 蔬菜 啊 那些 动物 之类 的 然后 他是 禁止 钓 金鱼
+NI51MBP_0101 2719014 2720987 ZH 啊 因为 因为 啊
+NI51MBP_0101 2721611 2730060 CS 三年前 他们 还是 可以 钓 金鱼 啦 所以 在 那个 j. c. s. 的 summer festival 还是 可以 钓 金鱼 你 就 真的 是 拿 那个 东西 钓 那个 金鱼 然后 钓 多少 可以 拿 回家
+NI51MBP_0101 2730060 2733300 ZH 可是 过后 他们 有些 就
+NI51MBP_0101 2733300 2738490 CS 那个 event itself ah 你 会 看到 地上 hor 很多 那种 plastic bag ah then 那个 金鱼 在 那边 pak pak pak pak 然后 死掉
+NI51MBP_0101 2739019 2740611 CS 啊 然后 a. v. a. 看了 就 觉得 有点
+NI51MBP_0101 2740785 2746340 CS (嗯) 不 道德 啊 有点 cruel ah 所以 就 ban 整个 钓 金鱼 的 活动
+NI51MBP_0101 2746888 2748442 ZH 啊 可是 在 日本 还是 有 啦
+NI51MBP_0101 2749989 2755624 CS 这种 钓 金鱼 的 活动 然后 (呃) 比较 传统 的 还是 有 那个 钓 yo-yo
+NI51MBP_0101 2756470 2762200 CS 嗯 日本 日本 的 yo-yo 是 你看 现代 的 yo-yo 是 那种 (呃) 这样 这样的 shape 的
+NI51MBP_0101 2762200 2764610 CS yo-yo mah 钓 然后 可以 做 很多 style
+NI51MBP_0101 2764610 2772086 CS but 日本 的 yo-yo 是 很 传统 的 就 一个 气球 气球 绑住 一个 rubber band 然后 rubber band 可以 绑 在 手指 所以 就 一直 玩 咯
+NI51MBP_0101 2772623 2776414 ZH 啊 那种 是 小时候 那种 小时候 没有钱 找 这种 乐趣 玩
+NI51MBP_0101 2776620 2781830 CS 然后 他们 钓 yo-yo 是 那个 balloon 放在 那个 水 一个 pool of water 里面 然后 你 就 拿
+NI51MBP_0101 2783180 2786040 CS 他是 拿 一个 paper clip 然后 bend into a shape of a hook
+NI51MBP_0101 2786440 2791290 CS 然后 你 就 拿 tissue 他是 tissue paper 吊 住 然后 你 就 用 用 东西 来 吊 那个 balloon
+NI51MBP_0101 2791290 2794310 CS 所以 如果 你 故意 aim 那种 太重 的 hor
+NI51MBP_0101 2794310 2797759 CS tissue paper 支撑 不 住 那个 重量 它 就会 break lah 就 就 会 破
+NI51MBP_0101 2797759 2804470 CS 可是 如果 你的 tissue 那个 hook oh 动 到水 then 那个 tissue 就会 开始 变 湿 也是 会 断
+NI51MBP_0101 2804470 2812320 CS 需要 一点 technique lah 所以 如果 你 没有 这个 耐心 跟 那个 technique 是 吊 不到 的 ya 可是 就 看起来 很 cute lor 玩 的 时候
+NI51MBP_0101 2812320 2816230 ZH 啊 因为 新加坡 现在 太 现代 化 了 啦 有些 东西
+NI51MBP_0101 2816230 2819820 CS 你看 久 了 也是 看到 有点 sian 就有 点 boring lah
+NI51MBP_0101 2819820 2821950 ZH 啊 所以 如果 你 偶尔 看 一些 这些
+NI51MBP_0101 2821950 2827150 CS 比较 traditional 的 玩具 你看 了 哇 有点 interesting 好像 很好 玩 很好 玩 以前 没有 这种 东西 好玩 这样
+NI51MBP_0101 2828716 2832681 CS 所以 有空 可以 去 看看 一下 咯 啊 你 可以 去 j. c. s. website 看一下它 几时
+NI51MBP_0101 2833045 2837490 ZH 有 那些 活动 之类 的 因为 这些 活动 通常 都是 免费 的 然后
+NI51MBP_0101 2837490 2843490 CS 它的 那个 summer festival 的 tickets 是 两 块钱 而已 所以 算 很 便宜 然后 里面 也是 很多 japanese products 那种
+NI51MBP_0101 2844056 2846750 CS singapore 吃不 通常 singapore 吃 不 到 的 食品 比如 说

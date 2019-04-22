@@ -1,0 +1,63 @@
+UI21MAZ_0105 2248 10589 CS 电脑 啊 有 啊 就 以前 没有 啦 玩 电脑 罢了 啦 没有 p. s. two p. s. three 那种 没有 就
+UI21MAZ_0105 10589 17252 CS 刚刚 要 来 之前 去 玩 star craft 咯 star craft 出 了 嘛 还 在 玩着 咯 现在
+UI21MAZ_0105 18655 19782 ZH 啊 怎样 讲
+UI21MAZ_0105 21219 27200 CS 啊 你 可以 download 到 download 到 那种 crack version 的 就 不用 connect internet 了
+UI21MAZ_0105 27200 31266 CS 直接 可以 玩 campaign 罢了 campaign 罢了 只能 玩 故事 罢了
+UI21MAZ_0105 31266 36042 CS 然后 你 要 跟 朋友 玩 是 不能 咯 你 要 玩 skirmish mode 是 也 是 能
+UI21MAZ_0105 38565 42208 CS 哦 没有 啦 没有 跟 朋友 玩 跟 朋友 玩 的 话 只能 玩 dota 罢了 咯
+UI21MAZ_0105 42208 47585 CS star craft 不能 跟 朋友 玩 除非 你 买 original 有 product key 我 有 一个 朋友 他 去 买
+UI21MAZ_0105 47585 53590 CS 买了 有 product key 你 可以 online 咯 online 过后 你 又 跟 全世界 有玩 star craft 的 人 玩 咯
+UI21MAZ_0105 58779 64357 CS 不用 啦 他 是 你 买 那个 正版 c. d. 他 come with 一个 life time 的 那种
+UI21MAZ_0105 67120 75370 CS 不像 你 讲 那个 每个月 要 玩 那种 比较 more to online game 咯 纯粹 online 的 那种 r. p. g. game 一直 升 level
+UI21MAZ_0105 79379 86263 CS 不算 他 是 single player 可以 也 可以 online 可以 自己 在 家 玩 也 可以 online 玩 参 朋友 玩
+UI21MAZ_0105 86263 94706 CS star craft 他 是 那种 strategy game 嘛 strategy game 是 起 base 那种 起 base 的 他 有 故事 的 咯 campaign 就是 跟 着 故事 走 罢了 咯
+UI21MAZ_0105 94706 100959 CS 然后 另外 一个 就是 要 你 跟 朋友 一起 起 base 然后 对打 那种 就要 online 玩咯
+UI21MAZ_0105 111339 125451 CS 那种 不是 那个 是 more to 像 你 讲 的 可能 是 像 world of war craft 咯 world of war craft 是 全世界 的 人 一起 link 起 来 玩 的 你 自己 create 自己 一个 character 自己 一个 人 是 character 一直 升 level 去 找
+UI21MAZ_0105 125451 130976 CS 找 东西 那种 是 online game 了 咯 star craft 是 有 自己 故事 single player 可以 offline 玩 的
+UI21MAZ_0105 130976 138108 CS hmm 它 它 本来 就是 offline game 来 的 嘛 以前 以前 我 从 六年级 已经 开始 玩 这个 game 了
+UI21MAZ_0105 138108 142482 CS offline 那 时候 现在 也是 offline 就 跟 着 故事 走 罢了 罢了 咯
+UI21MAZ_0105 150339 152148 ZH ha 怎样 讲 嘞
+UI21MAZ_0105 160942 164143 ZH 是 啊 我 不知道 我 很久 没有 买 了
+UI21MAZ_0105 185088 187952 CS 只是 现在 我们 都是 download 的 啊 是 现在
+UI21MAZ_0105 187952 193115 CS 因为 现在 download 都 直接 可以 download 到 去 买 又 麻烦 直接 download 了 我们
+UI21MAZ_0105 196193 200565 CS strategy 罢了 strategy 会 比较 多 那种 war craft star craft
+UI21MAZ_0105 200565 202727 CS 我 没有 玩 red alert 那些 啦
+UI21MAZ_0105 204736 206193 CS 我 玩 age of empire 以前
+UI21MAZ_0105 208153 211448 CS 没有 了 这样 罢了 咯 然后 shooting
+UI21MAZ_0105 211448 224284 CS 那种 其实 game 自己 在 家 玩 真的 蛮 sian 所以 多数 时间 也是 平时 星期六 啊 跟 朋友 去 cafe 跟 朋友 玩 那种 left-four-dead 是 打鬼 的 打 zombie 的 很 好玩 那个
+UI21MAZ_0105 224284 230117 CS 就 跟 朋友 一起 四个人 一 team 那种 比赛 啊 过关 okay 咯 就 这样 罢了 咯
+UI21MAZ_0105 237570 249329 CS 戏 啊 戏 就 有 有 什么 戏 最近 就 比较 少 看 刚刚 只是 看了 phua chu kang 罢了 最近 期 看 phua chu kang 罢了
+UI21MAZ_0105 249329 259464 CS 然后 平时 在 u. k. m. 的 时候 是 整天 看 啦 因为 真的 是 太 sien 了 整天 没有 事 做 然后 下午 就 可能 跑 去 那边 我们 那边 有 靠近 有 一间 alamanda
+UI21MAZ_0105 259464 262523 CS 是在 putrajaya 里面 的 shopping mall 里面 有 g. s. c. 的
+UI21MAZ_0105 262523 268525 CS 因为 那间 是 alamanda putrajaya 区 是 马来人 的 嘛 所以 那一区 马来人 很少 看戏 pun 的 嘛
+UI21MAZ_0105 268525 273399 ZH 所以 去 他 戏院 每天 多数 都是 很 空 的 很 爽 的 就 整间 戏院 没有 人 跟 你 抢 位子
+UI21MAZ_0105 273399 280961 CS 去 那边 看戏 咯 主要 大 的 大制作 那种 戏 都有 看 啦 每次 那种 iron man 啊 那些 那种 比较 大戏 都会 去 看
+UI21MAZ_0105 280961 291676 CS 或者 是 那种 有时 那种 comedy 也 会 看 咯 那种 animation series series 有 啊 就 可能 harry porter 可能 会 去 看 咯 harry potter 迟 一点 要 上 了
+UI21MAZ_0105 291676 301080 CS 然后 现在 resident evil 也是 要 出 了 嘛 没有 错 的 话 然后 那种 toy story 也是 算 series 吧 都 出 到 第三 了 shrek 也是 有 看
+UI21MAZ_0105 304418 310066 CS 哦 美国 连续剧 我 是 看 heroes 罢了 那种 c. s. i. 那些 我 没有 看 那种 series
+UI21MAZ_0105 310066 322003 CS heroes 我 觉得 不错 因为 我 以前 完全 没有 看 那种 series 的 我 是 有 一年 新年 我 去 老师 家 拜年 然后 他 就 放戏 他 看 刚好 在 看 heroes 的 第一集
+UI21MAZ_0105 322003 326695 CS 然后 我 觉得 很 新- 很 新鲜 他 的 题材 是 很 特别 每个人 有 特异功能 那样
+UI21MAZ_0105 326695 332095 CS 然后 去 看 咯 看 了 过后 蛮 喜欢 过后 就有 去 download 继续 看 看 看 看 到 完了 现在 已经 完了
+UI21MAZ_0105 334623 338593 CS season 是 好像 到 season 六 还是 五 罢了 五 还是 六
+UI21MAZ_0105 342714 350553 CS 啊 他 我 是 跟 着 他 一起 走 啊 就 刚好 他 出 一集 我 就 去 download 一集 看 看 完了 就 等 下 一集 再 download 看 咯
+UI21MAZ_0105 350553 355672 CS 还 不 不 会 这样 累 如果 一次 过 download 哇 整 从 一 到 六 里 你 要 我 看 我 会 疯掉
+UI21MAZ_0105 355672 361295 CS prison break 我 没有 看 只是 很多 人 看 我 很多 朋友 看 也是 很多 season
+UI21MAZ_0105 363217 369989 ZH 开始 sian 啊 会 会 越来越 sian 是 会 越来越 很 闷
+UI21MAZ_0105 372616 373707 EN pek-chek
+UI21MAZ_0105 377488 384434 CS 是 咯 我 也是 有 这样 就是 heroes 也 是 一样 same issue 第一集 哇 第一个 season 很 好看 很 好看
+UI21MAZ_0105 384434 392603 CS 第二个 season 他们 不懂 里面 那个 制- 制作片 那边 的 人 好像 是 有 问题 发生 问题 他 只 拍 不懂 七集 罢了
+UI21MAZ_0105 392603 403304 ZH ha 他 故事 本来 一开始 走 很好 的 过后 他 不懂 资金 不够 还是 什么 鬼 有人 乱 然后 开始 一直 乱 乱 来 了 他 故事 乱 来 了 我 看 做么 会 这 样 做 么 会 这样 的 开始 离谱 了
+UI21MAZ_0105 403304 415762 CS 又 开始 有 一点 sian 掉 然后 第三 又 慢慢 回来 啦 然后 过后 就 反正 都 看了 啊 看 给 他 完 啦 就 这样 的 心态 咯 就 保持 这样 看 到 完 咯 就 这 样 咯 series 只是 看 一个 罢了
+UI21MAZ_0105 417579 421905 CS 啊 lost 也是 很多 人 看 lost 也是 完了 嘛 也是 end 了
+UI21MAZ_0105 431693 433474 ZH 三年级
+UI21MAZ_0105 438376 447522 CS 哦 现在 的 话 只是 看 anime 看 看 manga 咯 看 是 说 bleach 跟 naruto 那种 东西 罢了
+UI21MAZ_0105 447522 452849 CS 爽 爽 online 也是 每 一个 每个 星期 都有 update 的 嘛 ha 每个 星期 去 看
+UI21MAZ_0105 456919 469058 CS 哪 一个 naruto one piece 我 没有 看 很多 人 看 因为 one piece 我 懒惰 从头 看 起 了 太多 了 已经 出 太远 了naruto
+UI21MAZ_0105 469058 475352 CS ha 很多 人 也是 介绍 one piece 只是 我 想 从 第一集 开始 看 起 但是 有 又 没有 时间
+UI21MAZ_0105 477152 484113 ZH 啊 我 我 是 我 个 人 啦 我 看 一个 故事 我 很 喜欢 你 叫 我 一半 看 起 我 很 不爽
+UI21MAZ_0105 484113 495607 CS 是 我 一定 要 从 第一集 看 起 的 才会 有 一个 比较 tsk complete 的 感觉 啦 ha 我 也是 从 第一集 看 起 ha 是 啦
+UI21MAZ_0105 498276 512058 CS ha 对 但是 naruto 我 我 是 从 anime 看 开始 看 起 的 不是 从 漫画 的 只是 很烦 啊 anime 我 看 到 有 一阵子 很烦 因为 他 一直 回想 有时 一整集 都 在 回想 哇 sian 掉
+UI21MAZ_0105 517951 518967 ZH 啊 故事
+UI21MAZ_0105 521177 526353 ZH 多余 的 东西 了 外赚 之类 的 ha 之类 的 东西
+UI21MAZ_0105 535198 542287 CS ha anime 的 啦 是 ha wish 也是 一样 只是 他 挑 去 别 的 故事 的 他 会 是 啦
+UI21MAZ_0105 543794 548863 CS 对 他 多 出来 的 多 出来 的 ha 有没有 关联 的 东西 来 的 extra 的

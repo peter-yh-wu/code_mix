@@ -1,0 +1,542 @@
+17NC34FBQ_0101 5710 7580 CS you last time 读 哪 一个 学校
+17NC34FBQ_0101 10987 11611 ZH 随便
+17NC34FBQ_0101 30600 31743 ZH 哦 随便 聊啊
+17NC34FBQ_0101 37144 38754 CS okay 没 问题
+17NC34FBQ_0101 41637 45538 ZH 就是 英文 和 华文 而已 啦 哦 没 问题啦 没 问题
+17NC34FBQ_0101 53556 55189 ZH 哦 可以 可以
+17NC34FBQ_0101 56825 57590 ZH 普通 的
+17NC34FBQ_0101 62953 65544 ZH 哦 一起 唱歌 有 合音 的
+17NC34FBQ_0101 74954 75578 EN fail
+17NC34FBQ_0101 78902 87830 CS 我 以前 i study in zhong-hua secondary and then 我 去 nan-yang j. c. 我 才 come to n. t. u. lor
+17NC34FBQ_0101 93495 94047 ZH 对
+17NC34FBQ_0101 102550 106600 CS 我 以前 参加 many many c. c. a.
+17NC34FBQ_0101 106600 112410 ZH 我 在 中学 的 时候 是 羽毛球
+17NC34FBQ_0101 112410 114830 CS 但是 i got play other sports lah
+17NC34FBQ_0101 115780 118640 CS and then 我 来到 j. c. 的 时候
+17NC34FBQ_0101 118855 121874 EN i play mainly is basketball
+17NC34FBQ_0101 126570 132620 CS 然后 我 来到 n. t. u. i only play recreational games for hall
+17NC34FBQ_0101 134800 137740 CS 因为 我的 身体 spoil already
+17NC34FBQ_0101 139160 142150 CS i have loose joints lah 是 天生 的 咯
+17NC34FBQ_0101 142934 144787 ZH 所以 那个 没 办法
+17NC34FBQ_0101 145687 148306 CS 有 injury injury many many
+17NC34FBQ_0101 148595 156970 CS 但是 this one the loose joint problem 是 天生 的 then i also can't do anything about it because 我 现在 fitness 已经 掉 了 已经
+17NC34FBQ_0101 157630 164122 CS after 我 动手术 过后 就 啊 没有 运动了 then become like this lor
+17NC34FBQ_0101 209110 211360 CS 现在 你 参加 what committees
+17NC34FBQ_0101 213147 213770 EN yes
+17NC34FBQ_0101 229540 238037 CS i am in recreational sub committee 然后 还有 hexis* sub committee
+17NC34FBQ_0101 238972 245387 CS 然后 还有 hall six orientation camp sub committee
+17NC34FBQ_0101 246200 251140 CS 然后 最后 一个 是 residential affairs 的 sub committee
+17NC34FBQ_0101 254874 255601 ZH 对
+17NC34FBQ_0101 257430 260649 CS 我是 在 block thirty four 的
+17NC34FBQ_0101 267340 269910 CS next semester 你 take 什么 electives 呢
+17NC34FBQ_0101 288593 289918 CS 我 也 没有 take
+17NC34FBQ_0101 295838 301275 CS 因为 我们 business first year 我们 有 nine core modules
+17NC34FBQ_0101 301560 304560 CS then 我们 就 clear all the nine core modules lor
+17NC34FBQ_0101 305394 309857 CS so not really necessary for 我们 to take electives lah
+17NC34FBQ_0101 310506 316089 CS but 有些 人 (嗯) 他们 要 他们 就 take lor
+17NC34FBQ_0101 320037 321049 ZH 可以 啊
+17NC34FBQ_0101 324347 330700 CS 还是 要 take 因为 我们 later 一定 有 时间 clear 的 咯
+17NC34FBQ_0101 344103 344960 EN yeah
+17NC34FBQ_0101 347505 349916 EN okay lor but short career in hall six
+17NC34FBQ_0101 371080 373730 CS 我们的 specialization 是在 year two 的
+17NC34FBQ_0101 375142 381431 EN en then because ours is a three-year course that is why we specialize in year two
+17NC34FBQ_0101 382517 385166 CS 然后 呢 we have
+17NC34FBQ_0101 386218 389798 CS 有 几个 啦 we have banking and finance
+17NC34FBQ_0101 390518 393088 CS 还有 human resource management
+17NC34FBQ_0101 394007 400707 CS 有 tourism and hospitality 有 i. t. 有 actuarial science
+17NC34FBQ_0101 401360 403530 CS 还有 marketing
+17NC34FBQ_0101 404498 406240 ZH 好像 就 只有 这 六个 吧
+17NC34FBQ_0101 407303 407952 ZH 对
+17NC34FBQ_0101 412756 414752 CS 你 在 什么 course
+17NC34FBQ_0101 416466 417816 ZH 哦
+17NC34FBQ_0101 430600 432470 CS 为什么 你 choose your course
+17NC34FBQ_0101 455094 458236 CS you never thought about (erm) 来 换 一个 新 的
+17NC34FBQ_0101 465910 468190 CS but 你 会 喜欢 info tech mei
+17NC34FBQ_0101 481165 481840 ZH 好 啊
+17NC34FBQ_0101 494149 497950 CS but isn't it more important to take 你 喜欢 的 东西
+17NC34FBQ_0101 500528 501333 ZH 有 啊
+17NC34FBQ_0101 507202 508396 ZH 哦
+17NC34FBQ_0101 512525 515144 CS 可以 啦 如果 你 喜欢 anything is possible
+17NC34FBQ_0101 518364 519741 ZH 哪里 会
+17NC34FBQ_0101 521429 522149 ZH 还有 啦
+17NC34FBQ_0101 524078 526733 ZH 还有 很多 时间 啦 命 没有 那么 短
+17NC34FBQ_0101 528834 530340 ZH 两岁 而已
+17NC34FBQ_0101 533534 536988 CS 没有比 chilip 老 哦 not supposed to say name 
+17NC34FBQ_0101 539481 539948 ZH 哦
+17NC34FBQ_0101 542389 544233 EN why did i choose my course
+17NC34FBQ_0101 544980 548360 CS 我 本来 是在 mathematical science 的
+17NC34FBQ_0101 549529 551382 EN mathematical science
+17NC34FBQ_0101 555310 557770 CS 对 就是 mainly 做 maths 的 因为
+17NC34FBQ_0101 558030 560420 CS i am good at maths lah and 我 很 喜欢
+17NC34FBQ_0101 561140 566080 CS but then the thing is (er) 我 有 一个 朋友 他 也 在 里面
+17NC34FBQ_0101 566513 572094 CS 他 是 跟我 一样 年 的 so then 他 跟 我 讲 里面 很少 新加坡人
+17NC34FBQ_0101 572094 580790 CS then 全部 人 都是 考 满分 的 所以 competition competition is very stiff
+17NC34FBQ_0101 580790 585200 CS so then 我是 那种 比较 喜欢 relax relax
+17NC34FBQ_0101 585800 588520 CS so 我 就 换 去 business
+17NC34FBQ_0101 590457 593028 EN okay lah i see everyone
+17NC34FBQ_0101 593807 600031 CS (erm) 很 用功 but end up everyone also say the paper difficult they got problem with this
+17NC34FBQ_0101 600377 605337 CS 这个 难 那个 不会 so 我就 可以
+17NC34FBQ_0101 607530 612071 ZH 因为 我 也 没有 什么 读 什么啦 我 比较 喜欢 这样
+17NC34FBQ_0101 617891 619527 EN mathematical science
+17NC34FBQ_0101 626331 627633 ZH 我 喜欢 嘛
+17NC34FBQ_0101 630054 631976 EN why not maths is fun
+17NC34FBQ_0101 645763 648230 ZH 可以 做 很多 其它 的 东西 啦
+17NC34FBQ_0101 649960 653940 CS 看 你 take 什么 (erm) specialization lor
+17NC34FBQ_0101 654696 657834 CS because 他们 有 三个 不同 areas 先
+17NC34FBQ_0101 658330 660000 CS 一个 是 pure maths
+17NC34FBQ_0101 660130 662660 CS (erm) applied maths 还有 statistics
+17NC34FBQ_0101 663318 667231 CS statistics (erm) you can go and work in 很多 地方 的 啦
+17NC34FBQ_0101 667828 669490 CS then 还有
+17NC34FBQ_0101 670110 672940 CS applied mathematics 就 看 你 go into which area lor
+17NC34FBQ_0101 672940 676050 CS 有 一些 like cryptography
+17NC34FBQ_0101 676050 680360 CS (erm) 这个 info tech 也有 so you just go into the different areas
+17NC34FBQ_0101 680633 683942 CS people will do maths related stuff 还有 computer 的
+17NC34FBQ_0101 685048 690210 CS (erm) not really lah but 你 可以 帮 别人 do 他们的 research
+17NC34FBQ_0101 691150 696300 CS then 你自 if you take pure maths then 你 又有 两种 不同 的 啦
+17NC34FBQ_0101 696600 699940 CS 一个 是 你 做 (erm) purely just maths research
+17NC34FBQ_0101 700504 703631 CS is just trying to solve this 做 那个
+17NC34FBQ_0101 703631 709961 CS 另外 一种 是 (erm) you do (erm) maths for other research 就说 因为
+17NC34FBQ_0101 709961 714081 CS 差不多 全部 的 research 都 需要 mathematician 的
+17NC34FBQ_0101 714621 717254 CS 好像 physics bio 这些
+17NC34FBQ_0101 717561 723481 CS 他们 都 需要 一些 东西 来 calculate then 那个 mathematician 就会 帮 他们 calculate 那些 东西 咯
+17NC34FBQ_0101 724444 725280 ZH 哦
+17NC34FBQ_0101 727872 728937 ZH 要 喜欢 啦
+17NC34FBQ_0101 736130 739021 CS 然后 你呢 graduate 了 你 要 做 什么
+17NC34FBQ_0101 748979 750836 CS but 你 要 做 什么
+17NC34FBQ_0101 752952 753705 ZH 对
+17NC34FBQ_0101 757531 761711 CS 就是 好像 after i graduate 我 要 去 煮饭
+17NC34FBQ_0101 763521 766286 ZH 啊 我 煮饭 很 厉害 的
+17NC34FBQ_0101 773322 774543 ZH 你 这么 喜欢 做工 啊
+17NC34FBQ_0101 779361 782171 CS 你 想 好像 你 中 马 票 啦 then what you gonna do
+17NC34FBQ_0101 784125 785320 EN oh
+17NC34FBQ_0101 791423 796911 CS so you like going overseas right so 你 下 一个 holiday 你 打算 做 什么
+17NC34FBQ_0101 824710 825333 EN oh
+17NC34FBQ_0101 829721 830760 ZH 那个 我 要
+17NC34FBQ_0101 833747 834993 CS 下个 hol~
+17NC34FBQ_0101 836441 839631 CS 下 个 holiday 应该 是 catch up with friends lor
+17NC34FBQ_0101 840088 843282 CS mostly that is what i do 因为 我 也 不 去 旅行 的
+17NC34FBQ_0101 843776 846584 ZH 我 已经 差不多 十年 没有 出国 了
+17NC34FBQ_0101 849567 854580 CS 啊 但是 你 看 你 已经 出国 了 i in singapore for the past ten years
+17NC34FBQ_0101 858832 860287 ZH 啊 但是 我 没有
+17NC34FBQ_0101 861601 863351 CS 我的 passport 到 现在 还 没有 update
+17NC34FBQ_0101 867861 872301 CS but i didn't update because 以前 要 等 很 久 啊
+17NC34FBQ_0101 874807 878391 CS 啊 now update very fast one and 你 可以 做 online 的
+17NC34FBQ_0101 881766 885923 CS 嗯 以前 要 坐 在 那边 等 then
+17NC34FBQ_0101 902381 905931 CS 你 不会 走 去 别的 地方 go and eat first then come back
+17NC34FBQ_0101 907404 908624 CS then 再 去 吃 咯
+17NC34FBQ_0101 912416 914879 CS then 去 跑 多 一点 啦
+17NC34FBQ_0101 919449 920151 EN okay lor
+17NC34FBQ_0101 923968 927803 CS 要 看 咯 看 我 的 朋友 if they really want to go then i go with them lor
+17NC34FBQ_0101 936018 937186 ZH 不 大 喜欢 啦
+17NC34FBQ_0101 942743 944639 EN politically correct lah yeah
+17NC34FBQ_0101 949438 950140 ZH 哦
+17NC34FBQ_0101 971660 976261 CS too troublesome already 所以 just stay in singapore 是 最好 的 咯
+17NC34FBQ_0101 988670 990046 ZH 放 风筝
+17NC34FBQ_0101 993290 998276 CS 有 你 要 知道 去 哪里 then you can go picnic also 有 很多
+17NC34FBQ_0101 1005988 1007546 EN fort* can fort*
+17NC34FBQ_0101 1023427 1027760 CS 你们 烂 啦 有 很多 东西 做 的 只是 看 you know where to find it or not
+17NC34FBQ_0101 1029581 1030531 ZH 有
+17NC34FBQ_0101 1032983 1034360 ZH 有 很多 东西 做 的
+17NC34FBQ_0101 1044482 1045552 EN learn new things lah
+17NC34FBQ_0101 1050816 1051725 EN roller-blading
+17NC34FBQ_0101 1052504 1053517 EN skateboarding
+17NC34FBQ_0101 1057672 1058581 ZH 不会 啊
+17NC34FBQ_0101 1061334 1067471 CS you must 你 要 学 怎么 the first lesson 是 how to 跌倒 properly
+17NC34FBQ_0101 1068579 1071731 CS so that so that you can 保护 自己
+17NC34FBQ_0101 1072838 1077606 CS 我 跌倒 这样 多次 过 but 我 这边 还 没有 断 过 啊 i never break any bones before
+17NC34FBQ_0101 1079164 1082352 ZH 没有 啦 我 我
+17NC34FBQ_0101 1082641 1090954 CS 打 篮球 play any sport 我 最多 也是 打 到 受伤 而已 but i never break any bones before lah i drink a lot of milk lah must be
+17NC34FBQ_0101 1100697 1102871 CS then 你 去 过 what countries
+17NC34FBQ_0101 1113448 1117944 CS 我 差不多 一样 吧 but 我 忘记 我 去 哪 一个 了
+17NC34FBQ_0101 1119638 1121275 CS 没有 i
+17NC34FBQ_0101 1121275 1128779 CS the one i remember the most is i went to australia because australia 我 去 过 两个 两个 不同 地方 啊
+17NC34FBQ_0101 1129325 1134831 CS i went to sydney gold coast and then 我 去 melbourne
+17NC34FBQ_0101 1139520 1140819 CS perth 没有 东西
+17NC34FBQ_0101 1143312 1145147 CS 好啊 exciting
+17NC34FBQ_0101 1169091 1173767 CS 因为 we never see before wah so to us 不是 很 平常 的 东西啊
+17NC34FBQ_0101 1179360 1180126 ZH 对 咯
+17NC34FBQ_0101 1190605 1191378 EN p. e. s. c.
+17NC34FBQ_0101 1194993 1195694 ZH 不用 啊
+17NC34FBQ_0101 1197045 1197902 ZH 啊 因为
+17NC34FBQ_0101 1199121 1202661 CS 看 你是 在哪里 的 啦 it depends on which unit you attach to
+17NC34FBQ_0101 1203601 1207977 CS 我是 attached to 一个 永远 不会 出国 的
+17NC34FBQ_0101 1209704 1211689 EN it's called blood supply unit
+17NC34FBQ_0101 1213755 1215404 ZH 没有 啦
+17NC34FBQ_0101 1216352 1219937 ZH 只是 我 的 工作 是 很 简单 的 就是 那个 人 跟 我 讲
+17NC34FBQ_0101 1221390 1233559 CS 没有 第一个人 a. plus then 我就写 a. plus then he say oh a. b. 我就写 a. b. 就 这样 而已
+17NC34FBQ_0101 1236921 1243231 CS 没有 啦 那是 我 reservist 做 的 我 n. s. life 我 学 很多 东西 i go a lot of places
+17NC34FBQ_0101 1243672 1246918 EN i because here and there transfer there
+17NC34FBQ_0101 1248476 1251329 ZH 对 咯 因为 每次 被 丢来 丢去 啦
+17NC34FBQ_0101 1254241 1260206 CS 因为 我 我 脚 是 condemn 了 嘛 so 他 也 不能 说 我 所以 丢来 丢去 咯
+17NC34FBQ_0101 1262577 1263322 ZH 对 咯
+17NC34FBQ_0101 1265731 1268571 CS 真的 是 丢 来 丢 去 but 变成 multi talented 了
+17NC34FBQ_0101 1272171 1275751 CS 真的 你 photocopying machine 坏 啊 我 可以 去 修 了
+17NC34FBQ_0101 1276098 1277921 ZH 因为 我 已经 修 了 三四 个 月
+17NC34FBQ_0101 1278903 1280072 ZH 差不多 啦
+17NC34FBQ_0101 1285498 1287862 ZH 而且 不是 那个 普通 的 是 那个 比较 大 的
+17NC34FBQ_0101 1288900 1292211 CS one one minute 可以 print sixty pages 那种
+17NC34FBQ_0101 1294223 1298328 CS 因为 那 时候 我 在 一个 叫 publications branch
+17NC34FBQ_0101 1298658 1301148 CS then we print manuals for 全部 人 的
+17NC34FBQ_0101 1301546 1306169 CS so 就 那边 一整天 就 听到 photocopying machine print print
+17NC34FBQ_0101 1307026 1313378 CS 哦 突然间 它 停 的 时候 就 觉得 为什么 这样 安静 哦 那个完了 then 我 就 collect 那个 paper
+17NC34FBQ_0101 1315586 1319507 EN something like that lah i do mostly admin work but a wide variety lor
+17NC34FBQ_0101 1326459 1330225 CS okay lah then 我 photocopying machine 我 会 用 laminating machine 我 也会 用
+17NC34FBQ_0101 1332406 1334810 CS then 这个 那个 哎呀 很 多 垃圾啦
+17NC34FBQ_0101 1337278 1338868 CS then 你 喜欢 吃 什么 food
+17NC34FBQ_0101 1341048 1343188 CS oh 你 会 去 overseas exchange 吗
+17NC34FBQ_0101 1344559 1349486 CS 我 也 我 也 不会 so 我们 下 一个  对 了
+17NC34FBQ_0101 1354689 1355209 ZH 对了
+17NC34FBQ_0101 1362430 1366075 CS and oops 我们 的 利益 得到 了
+17NC34FBQ_0101 1367894 1369484 ZH 你 喜欢 吃 什么 食物
+17NC34FBQ_0101 1370282 1370983 EN food
+17NC34FBQ_0101 1372801 1374021 ZH 不 可以 一起 讲
+17NC34FBQ_0101 1374956 1375372 ZH 哦
+17NC34FBQ_0101 1376177 1377579 ZH 我 喜欢 吃
+17NC34FBQ_0101 1379215 1382596 ZH 最 喜欢 吃 应该 是 北京鸭
+17NC34FBQ_0101 1391425 1395228 ZH 对 啦 那 就是 北 那 就是 北京鸭 嘛
+17NC34FBQ_0101 1397840 1403910 CS 不懂 我 要 try 一个 地方 就是 imperial treasure super peking duck restaurant
+17NC34FBQ_0101 1404539 1408316 CS that is my next destination 是在 paragon
+17NC34FBQ_0101 1409365 1410325 EN top floor
+17NC34FBQ_0101 1412559 1416098 CS not not top floor lah but 靠近 crystal jade 楼上 那边
+17NC34FBQ_0101 1417452 1417945 ZH 不懂
+17NC34FBQ_0101 1419358 1424478 CS but 好像 我 去 fountain of wealth 那边 也有 一个 imperial treasure 那个 是 normal 的
+17NC34FBQ_0101 1425580 1427979 CS 没有 啊 fountain of wealth suntec
+17NC34FBQ_0101 1430021 1433419 CS 有 因为 那边 有 一个 crystal jade so they are side by side
+17NC34FBQ_0101 1433419 1438433 CS 在 那边 吃 if 你 四个人 吃 share 不会 那么 贵 啊 it's okay one
+17NC34FBQ_0101 1440113 1442248 CS then 你 吃 那个 鸭肉 咯 就 吃饱 了咯
+17NC34FBQ_0101 1444560 1446829 ZH 啊 那 那边 是 好吃 啦
+17NC34FBQ_0101 1464206 1467979 ZH 你 要 好吃 的 你 去 北京
+17NC34FBQ_0101 1473048 1477638 CS because right their duck right 是 你 自己 选 的 then 你 可以 选 最 肥 的
+17NC34FBQ_0101 1478722 1481032 EN then the fatter it is the better it is
+17NC34FBQ_0101 1482612 1483777 ZH 那个 油 是 最好 的
+17NC34FBQ_0101 1490282 1492074 CS 那 你 喜欢 吃 什么 food
+17NC34FBQ_0101 1496307 1497969 ZH 为什么 你 不 喜欢 吃
+17NC34FBQ_0101 1500020 1503495 CS (呃) 怎么说 pig organ soup
+17NC34FBQ_0101 1505370 1506123 EN why
+17NC34FBQ_0101 1514378 1516168 CS 就是 他们 没有 wash properly
+17NC34FBQ_0101 1517147 1517874 ZH 是
+17NC34FBQ_0101 1531352 1532313 EN okay
+17NC34FBQ_0101 1533741 1535825 ZH 不会 啦 不同 人 不同 啦
+17NC34FBQ_0101 1538130 1542086 ZH 没有 啊 我 自己 也是 有点 怪怪
+17NC34FBQ_0101 1542996 1547151 CS 好像 i cannot drink i don't like sugarcane juice
+17NC34FBQ_0101 1549202 1556540 CS 没有 因为那个味道 我 i cannot eat a lot of different naturally sweet 的 东西
+17NC34FBQ_0101 1558075 1560805 CS honey 可以 but 好像 sweet potato
+17NC34FBQ_0101 1561556 1567040 ZH 嗯 罗汉果 啊 没有 罗汉果
+17NC34FBQ_0101 1570905 1571424 ZH 对
+17NC34FBQ_0101 1573761 1577975 CS 我 很 我 很 不 喜欢 喝 这些 咯 and sugarcane lor
+17NC34FBQ_0101 1577975 1583029 CS 因为 这些 那个 natural sweetness 我 是 受不了 的 我 可以 喝 and then 吐 的
+17NC34FBQ_0101 1586084 1588608 CS natural 我 可以 一些 啊 一些 而已
+17NC34FBQ_0101 1589717 1591457 ZH 因为 太 甜 我 受不了 啦
+17NC34FBQ_0101 1592600 1594599 ZH 青草 可以 啊 青草 是 苦 的 嘞
+17NC34FBQ_0101 1597170 1598157 ZH 那是 放糖
+17NC34FBQ_0101 1598962 1599689 ZH 啊
+17NC34FBQ_0101 1601346 1602333 ZH 啊
+17NC34FBQ_0101 1603138 1607315 ZH 我 比较 厉害 吃 苦 的 东西
+17NC34FBQ_0101 1608825 1611236 EN (er) bitter gourd (er)
+17NC34FBQ_0101 1611785 1615585 CS 只要 是 bitter 的 我 就 very good at eating
+17NC34FBQ_0101 1618236 1620936 CS 对 龟苓膏 i don't need to put honey one
+17NC34FBQ_0101 1624185 1628555 CS 我 懂 啊 and i know how to appreciate but i got high tolerance for bitterness ah
+17NC34FBQ_0101 1637619 1638606 EN sweet tooth ah
+17NC34FBQ_0101 1649504 1653806 CS 好像 你 你 给我 苦瓜 在 这边 then 你 给我 chocolate 我 就会 去 吃 苦瓜
+17NC34FBQ_0101 1659970 1664040 ZH 哎呀 我 生命 是 苦 的 所以 我 喜欢 受苦 
+17NC34FBQ_0101 1666800 1669321 CS 哈 好 那 你 有 什么 hobbies
+17NC34FBQ_0101 1674206 1675296 EN other than
+17NC34FBQ_0101 1676854 1678958 CS and then and then 吃 面 啊
+17NC34FBQ_0101 1680360 1681503 ZH 因为 你 讲 吃饭
+17NC34FBQ_0101 1684437 1685736 ZH 原来如此
+17NC34FBQ_0101 1695240 1696694 ZH 就是 那些 了 啊
+17NC34FBQ_0101 1700937 1702210 ZH 你 要 跟 我 讲 喝水
+17NC34FBQ_0101 1706365 1708635 CS pro pro 很 厉害 很 厉害 very good
+17NC34FBQ_0101 1713400 1716368 CS but also very few people 会 去 cross-stitch 的
+17NC34FBQ_0101 1722385 1725890 CS 不会 啊 you are only twenty-three
+17NC34FBQ_0101 1730851 1731328 EN okay
+17NC34FBQ_0101 1735275 1738521 ZH 没有 啊 我们 有 一个 三十多 岁 的
+17NC34FBQ_0101 1740235 1741073 ZH 哦
+17NC34FBQ_0101 1746078 1748906 ZH 不用紧 不用紧 你 做 我们 的 大姐 咯
+17NC34FBQ_0101 1755724 1756892 EN i see
+17NC34FBQ_0101 1769101 1775612 CS 没有 啦 这些 okay lah for most of the recreational games 我 都 是 可以 玩 的 啦
+17NC34FBQ_0101 1776243 1777784 CS 我 多数 会 玩 but
+17NC34FBQ_0101 1779385 1780944 CS 都会 啦 all can
+17NC34FBQ_0101 1781542 1785327 CS oh hobbies ah hobbies 有 一点 太多 了啦
+17NC34FBQ_0101 1786112 1788342 EN i like i play sports a lot lah last time
+17NC34FBQ_0101 1788839 1789588 EN then
+17NC34FBQ_0101 1790241 1792658 EN i also play game i like to go shopping
+17NC34FBQ_0101 1793721 1794318 EN yeah
+17NC34FBQ_0101 1795876 1797275 EN not maple-story
+17NC34FBQ_0101 1798490 1801225 EN yeah stupid right
+17NC34FBQ_0101 1810529 1811661 EN you say yours first lor
+17NC34FBQ_0101 1812476 1814756 ZH 应该 是 没有 因为 我 很 少 玩 了
+17NC34FBQ_0101 1821557 1822344 ZH 玩什么
+17NC34FBQ_0101 1839972 1842933 EN ah otherwise you won't go and pay to play right
+17NC34FBQ_0101 1851915 1852855 EN okay lor
+17NC34FBQ_0101 1861413 1865781 CS but all these will just 吃掉 你 的 命 吃掉 你 的 时间 而已
+17NC34FBQ_0101 1872423 1878682 CS 对 啊 所以 是 吃 时间 然后 when you get tired of the game you 换 去 一个 新 的 那个 新 的 就会
+17NC34FBQ_0101 1891892 1895272 CS oh now our hall also got d. o. t. a. what 很多 人
+17NC34FBQ_0101 1906620 1908019 ZH oh 不用 紧
+17NC34FBQ_0101 1908723 1909996 ZH 不用 紧 我的
+17NC34FBQ_0101 1911232 1912125 EN it's worse
+17NC34FBQ_0101 1913424 1918903 CS 我 在 omniknight 的 时候 哎哟 later 他们 听 不懂 这些 
+17NC34FBQ_0101 1921685 1928799 CS ah i used the character called omniknight and then 我 就是 boots of speed
+17NC34FBQ_0101 1929760 1934997 EN claw or attack then after that what did i get crystal leaves
+17NC34FBQ_0101 1945416 1946582 ZH 那个 最 厉害 了
+17NC34FBQ_0101 1954834 1955379 ZH 哦
+17NC34FBQ_0101 1964935 1965533 ZH 哦
+17NC34FBQ_0101 1970675 1973791 CS actually omniknight也是 very hard to kill one
+17NC34FBQ_0101 1975946 1979867 CS they had ultimate 是 guardian angel
+17NC34FBQ_0101 1980190 1982527 EN is erm
+17NC34FBQ_0101 1983566 1988846 EN nine thousand nine hundred and ninety nine armor for surrounding heroes
+17NC34FBQ_0101 1989773 1993809 CS for about i think six seconds ah 很多 咯
+17NC34FBQ_0101 1996516 1997873 ZH 不然 你 就 可以 跑 掉
+17NC34FBQ_0101 1998412 2000276 CS then 他的 skill 是
+17NC34FBQ_0101 2000827 2003116 ZH 啊 有 一个 是
+17NC34FBQ_0101 2003969 2005616 EN erm repel magic
+17NC34FBQ_0101 2006514 2008214 CS 所以 人家 不 可以 stun 你
+17NC34FBQ_0101 2011031 2016344 CS so 他 就是 then 他 他 好像 可以 heal 也是
+17NC34FBQ_0101 2016937 2020548 CS 所以 就是 最难 杀 的了咯 你 attack 他 他就
+17NC34FBQ_0101 2025299 2028478 CS but 你 要 cast before 他 弄 你 啦
+17NC34FBQ_0101 2034492 2038232 CS but 现在 已经 换 了 啦 change a lot already
+17NC34FBQ_0101 2039565 2043175 CS now got a lot a lot a lot of new items 所以 很 不同 了 咯
+17NC34FBQ_0101 2049545 2051155 EN mainly is the c. n. yang block i think
+17NC34FBQ_0101 2052937 2055691 CS 哦 你去问 (erm) ask
+17NC34FBQ_0101 2056677 2057975 EN ai
+17NC34FBQ_0101 2059715 2060935 EN go and ask them lor
+17NC34FBQ_0101 2065766 2068772 EN professor eddie 
+17NC34FBQ_0101 2075545 2077905 CS actually 我 玩 的 sports 太 多 了
+17NC34FBQ_0101 2078819 2080878 EN if you name it i probably play before
+17NC34FBQ_0101 2083208 2085804 CS why 你 没有 去 try other sports
+17NC34FBQ_0101 2126222 2127209 ZH 哎呀
+17NC34FBQ_0101 2165039 2168775 CS if you don't 喜欢 流汗 then you can go swimming what
+17NC34FBQ_0101 2170908 2172180 CS then 游 多 一点 啦
+17NC34FBQ_0101 2178425 2180325 CS okay lor then 不要 咯
+17NC34FBQ_0101 2182191 2184043 CS then 你 放 sunblock lah
+17NC34FBQ_0101 2188475 2192109 EN because you must reapply sunblock every like one hour
+17NC34FBQ_0101 2200405 2201573 ZH 我 不 喜欢 游泳
+17NC34FBQ_0101 2203806 2213076 CS ah because after i swim 我 会 很 痒 不然 就是 啊 不然 就是 很饿 啊
+17NC34FBQ_0101 2216765 2218944 CS 而且 because my
+17NC34FBQ_0101 2220079 2221533 ZH 啊 我吃 很 浪费 钱
+17NC34FBQ_0101 2222468 2228431 EN and then ah because i loose joints right i cannot kick too hard i only swim breaststroke
+17NC34FBQ_0101 2228932 2234853 CS because freestyle 很 irritating the water keep going in to the ear 
+17NC34FBQ_0101 2238605 2240925 CS breast stroke 我 不 可以 踢 太 大力 不然 我的 膝盖 会 痛
+17NC34FBQ_0101 2241864 2243985 EN and my here pain there pain lor spoil
+17NC34FBQ_0101 2265205 2272088 CS that is what they say lah i tried lah but in the end i just go back to just playing my sports lor  因为我
+17NC34FBQ_0101 2274670 2277753 CS yeah lah but 你 玩 sports 的 时候 你 不会 去 管 的
+17NC34FBQ_0101 2278384 2279059 EN that is the thing
+17NC34FBQ_0101 2287083 2291905 CS because it's it's like even though my leg pain 我 还是 会 去 我 学校 打 篮球 这样 咯
+17NC34FBQ_0101 2311781 2318325 CS oh but 这种 东西 after 你 学 你 打 习惯 了 after you get used to it 是 okay 的 咯
+17NC34FBQ_0101 2327865 2330065 CS 你 喜欢 什么 songs or singer
+17NC34FBQ_0101 2338358 2340929 CS 好像 我 my block dance 的
+17NC34FBQ_0101 2344980 2345529 ZH 对 啊
+17NC34FBQ_0101 2346875 2347836 CS 我 的 block 跳
+17NC34FBQ_0101 2352670 2355682 CS inter-block games closing ceremony 的 时候
+17NC34FBQ_0101 2357189 2359136 CS 我 的 block 跳 sorry sorry
+17NC34FBQ_0101 2363058 2363897 EN of course
+17NC34FBQ_0101 2366875 2367758 ZH 对 咯
+17NC34FBQ_0101 2377215 2383734 CS 我 喜欢 的 歌 都是 老歌 连你 没有 maybe you also never hear before one
+17NC34FBQ_0101 2386123 2391414 CS but 可能 你 应该 是 有 听过 的 啦 i prefer duets lah if it's 是 华文 的 歌
+17NC34FBQ_0101 2392527 2400015 CS 我喜欢 <unk> 的歌啊 when i was in j. c. 我 喜欢 oh during that time 是 情非得已
+17NC34FBQ_0101 2402291 2405018 CS 那个是 <unk> 的 the newer ones ah
+17NC34FBQ_0101 2405745 2407656 ZH 然后 就会 慢慢 变成 老 啊
+17NC34FBQ_0101 2409159 2409964 ZH 哎呀
+17NC34FBQ_0101 2410977 2413912 ZH 就是 我 的 年代 的 人 都 有 一些 不会 懂 的 咯
+17NC34FBQ_0101 2416612 2417340 ZH 对 呀
+17NC34FBQ_0101 2422923 2423769 ZH 屋顶呢
+17NC34FBQ_0101 2426377 2430217 CS 对 啊 这些 全部 都 比较 新 啊 but 对 现在 now the people right
+17NC34FBQ_0101 2430791 2433025 EN because now the girls are two years younger than me ah
+17NC34FBQ_0101 2433622 2435393 ZH 他们 有些 都 没有 听过 的
+17NC34FBQ_0101 2439218 2441033 EN nineteen
+17NC34FBQ_0101 2444203 2444671 ZH 对 咯
+17NC34FBQ_0101 2445242 2448343 EN oh i'm trying to think of what song it is that i wanted to say
+17NC34FBQ_0101 2450929 2454344 CS 没有 啦 是 华文的 chinese song
+17NC34FBQ_0101 2470418 2473389 CS 什么 来 的 what is that
+17NC34FBQ_0101 2479118 2483247 EN oh mostly the older ones i know all english one lah
+17NC34FBQ_0101 2487376 2489145 EN eh all these i know you know
+17NC34FBQ_0101 2493606 2496406 EN you know speedy gonzales that song i have the original
+17NC34FBQ_0101 2498945 2503615 CS 没有 那个 our hall 的 那个 mass dance
+17NC34FBQ_0101 2505396 2506941 EN i have the original song lah
+17NC34FBQ_0101 2509031 2511103 EN (er) that one is from the eighties i think
+17NC34FBQ_0101 2513237 2516108 EN then er love letters in the sand
+17NC34FBQ_0101 2517729 2519115 EN ah rose garden
+17NC34FBQ_0101 2524559 2525546 ZH 没有 听过 mei
+17NC34FBQ_0101 2526247 2527650 EN i beg your pardon
+17NC34FBQ_0101 2528740 2531779 EN i beg your pardon i never promised you a rose garden
+17NC34FBQ_0101 2532973 2535230 ZH 哇 你 很 烂 嘞 那个 还 挺新 的
+17NC34FBQ_0101 2540854 2543813 ZH 没有 啦 那个 是 应该 是 也 是 八十 年代 的
+17NC34FBQ_0101 2553129 2555372 CS how about this song called 金沙
+17NC34FBQ_0101 2559374 2562567 ZH 我 也 忘记 了 因为 我 只 听过 几次
+17NC34FBQ_0101 2564593 2566748 ZH 一个 很 老 的 歌
+17NC34FBQ_0101 2570177 2571163 EN then never mind lor
+17NC34FBQ_0101 2573435 2576085 CS 你 还有 想 学 any other thing
+17NC34FBQ_0101 2579266 2579707 EN like
+17NC34FBQ_0101 2594107 2595172 ZH 怕 什么
+17NC34FBQ_0101 2601534 2604698 EN after i fall so many times i also never injure myself leh
+17NC34FBQ_0101 2608208 2610003 ZH 我 也是 嘞
+17NC34FBQ_0101 2610695 2614785 CS 我 打 篮球 is most famous for 撞 到 but 没有 事 因为
+17NC34FBQ_0101 2616466 2618613 EN i use to used to it already
+17NC34FBQ_0101 2622334 2622957 ZH 煮饭
+17NC34FBQ_0101 2625035 2627972 EN i want to improve my cooking lor mainly
+17NC34FBQ_0101 2628281 2629268 ZH 什么 都 可以 煮 啦
+17NC34FBQ_0101 2629969 2632532 CS 我 现在 在 now i can cook chinese western
+17NC34FBQ_0101 2633890 2636175 CS mainly 是 这 两个 比较 好 咯
+17NC34FBQ_0101 2636705 2638765 CS 其他 的 basic basic 都 okay lah
+17NC34FBQ_0101 2640386 2642512 ZH 那个 太 容易 了 那个 是 浪费 时间 的
+17NC34FBQ_0101 2644593 2647417 CS that one you just put hot water-bomb on 那个
+17NC34FBQ_0101 2654747 2660011 CS 我 懂 啊 but i prefer to use the work and then 炒
+17NC34FBQ_0101 2676950 2678569 CS 你 喜欢 bake 什么
+17NC34FBQ_0101 2682273 2683078 EN cheesecake
+17NC34FBQ_0101 2685234 2689337 CS 很难 我 有 一个 朋友 很 厉害 的 他 做 都 比 hotel 的 好
+17NC34FBQ_0101 2691669 2695690 CS 没有 因为 他 每天 就是 在 家里 the only thing he do ah is bake
+17NC34FBQ_0101 2697252 2697876 ZH 男 的
+17NC34FBQ_0101 2703515 2709125 CS but 他 真的 是 真的 是 我 n. s. 的 时候 是 跟 他 一样 office 的 and then 他
+17NC34FBQ_0101 2709487 2712976 CS 每天我拿 later you go home what are you going to do
+17NC34FBQ_0101 2713720 2719150 CS 对 咯 他 就 first thing oh i first thing i'm going to turn on my oven and heat up
+17NC34FBQ_0101 2719589 2723991 CS ah then after that 我 去 冲凉 then prepare the thing then bake
+17NC34FBQ_0101 2727710 2734635 CS oh 他的 recipe 也是 在 外面 找 的 只是 他 有 调 的 啦 after he try out then he adjust here and there lo
+17NC34FBQ_0101 2742382 2746493 CS try hotel 的 啦 hotel one normally much nicer but more expensive
+17NC34FBQ_0101 2763325 2767411 CS actually brownie 还有 cookie is much easier to make ah
+17NC34FBQ_0101 2768943 2772035 CS and even if you make yourself cookie 是 很 简单 的
+17NC34FBQ_0101 2796256 2797217 EN no leh
+17NC34FBQ_0101 2799840 2801995 EN that one you just leave it there what
+17NC34FBQ_0101 2803060 2805030 EN not every thing you have to marin marinate
+17NC34FBQ_0101 2808851 2809838 CS baking 也是
+17NC34FBQ_0101 2813655 2816685 CS 看 你 习惯 咯 我 已经 i'm already used to cooking lor
+17NC34FBQ_0101 2820900 2821488 ZH 对 咯
+17NC34FBQ_0101 2836496 2845605 CS that is the main priority lor other than that 学 啊 看 咯 因为 我 现在
+17NC34FBQ_0101 2845605 2851805 CS 已经 学 过 a lot of things already so 要 找 新的 东西 学 that i'm interested in 是 有 一点 难 啦
+17NC34FBQ_0101 2854455 2857375 CS 真的 什么 垃圾 我 都 try before already lor
+17NC34FBQ_0101 2858695 2860795 CS oh 那些 我 就 不 喜欢 that is why i won't try
+17NC34FBQ_0101 2864653 2866548 ZH 应该 是 不 喜欢 啊
+17NC34FBQ_0101 2869565 2872395 CS 我也 不 喜欢 看 那种 i don't like to watch horror movie
+17NC34FBQ_0101 2874755 2877043 EN then why you want to go bungee jumping
+17NC34FBQ_0101 2893053 2894377 ZH 哦
+17NC34FBQ_0101 2906255 2910151 CS 我 跳 过 five meter 的 then 我 就 don't want to jump already
+17NC34FBQ_0101 2911631 2912722 ZH 跳 进 水 的 咯
+17NC34FBQ_0101 2921318 2923231 ZH 因为 那个 我 没有 选择 一定 要 跳 啊
+17NC34FBQ_0101 2924048 2924879 ZH 啊
+17NC34FBQ_0101 2930696 2937264 EN last christmas i my heart (er) sorry erm
+17NC34FBQ_0101 2939188 2940226 ZH 哦 对 lor
+17NC34FBQ_0101 2942096 2945166 CS oh christmas 没 没 做 什么
+17NC34FBQ_0101 2948062 2949650 EN i think so maybe maybe not
+17NC34FBQ_0101 2950140 2957407 EN oh but i didn't celebrate on christmas ah mine was like the night before no the day before we go to my friend house
+17NC34FBQ_0101 2958580 2961192 EN oh christmas eve we went to our friend house then we go there overnight lor
+17NC34FBQ_0101 2962215 2964765 EN then cook potluck then
+17NC34FBQ_0101 2967609 2968429 EN convenient what
+17NC34FBQ_0101 2973037 2976469 EN oh if they go prawning i will cook the prawns that kind of thing lor
+17NC34FBQ_0101 2978516 2981899 EN no ah they will go prawning then i cook
+17NC34FBQ_0101 2985294 2991908 CS 懒惰 啊 expensive eat my time i'd rather sleep
+17NC34FBQ_0101 2997655 3002691 CS even though now 我 也是 很 少 睡 因为 没有 时间 睡 because of all the trainings lor
+17NC34FBQ_0101 3007212 3009731 ZH 没办法
+17NC34FBQ_0101 3011029 3012665 EN then what about you
+17NC34FBQ_0101 3030102 3031141 EN i see
+17NC34FBQ_0101 3057266 3057993 CS 啊咯 like that
+17NC34FBQ_0101 3062927 3066725 CS some more go down there you 只是 跟 人家 挤 而已 what's the point right
+17NC34FBQ_0101 3070328 3074605 CS it's like 你 现在 countdown less than five days later 你 又 去 多 一个 countdown
+17NC34FBQ_0101 3078248 3080683 ZH 对 啦 数 而已 嘛 没有 数 过啊
+17NC34FBQ_0101 3088271 3090141 ZH 男 的 去 是 摸 女 的 嘛
+17NC34FBQ_0101 3091232 3093894 CS 啊 then 你们 喜欢 被摸 是不是 that is why 你们 去
+17NC34FBQ_0101 3118848 3120053 EN <unk>
+17NC34FBQ_0101 3126185 3130815 CS okay lah 你 已经 没有 算 man 了 as compared to some others i see
+17NC34FBQ_0101 3132407 3136313 CS oh 没有 啦 outside 也是 啦 but in hall (er) 有比你 man 的 啦
+17NC34FBQ_0101 3145353 3145898 ZH 没有
+17NC34FBQ_0101 3149945 3151036 ZH 我 懒 得 去 想
+17NC34FBQ_0101 3154282 3155507 CS 哦 then 我 也 懂
+17NC34FBQ_0101 3159268 3160385 ZH 我要 增肥
+17NC34FBQ_0101 3163036 3166299 CS but 我 增肥 不 了 不是 我 不要
+17NC34FBQ_0101 3169866 3173075 ZH 我 连 我 连 这边 都 肥 不 了 你 懂 吗
+17NC34FBQ_0101 3175397 3177844 EN so i can increase my weight but i cannot increase my weight at all
+17NC34FBQ_0101 3179896 3182312 CS i know but 我 这个 也 不会 有 的
+17NC34FBQ_0101 3192127 3197340 EN last time i like in j. c. i was very active i was five k. g. heavier you know
+17NC34FBQ_0101 3197736 3200380 EN because i do a lot of sports go gym a lot
+17NC34FBQ_0101 3200905 3203475 CS but 我 看 起来 跟 现在 一样
+17NC34FBQ_0101 3204982 3205709 ZH 没有 分别
+17NC34FBQ_0101 3208051 3209531 EN it's more dense
+17NC34FBQ_0101 3210518 3217841 CS 我 人家 看起来 全部 吃 eat the protein supplement one 看起来 做 做 的 weight 都 比 我 少咯
+17NC34FBQ_0101 3223450 3228567 CS 没有 用 的 啦 我 晚上 喝酒 before 我 睡觉 喝酒 吃面 都 no effect
+17NC34FBQ_0101 3232146 3234308 CS 面 is all carbo 酒 is all carbo
+17NC34FBQ_0101 3235678 3236904 CS then 你 要 我 吃 什么
+17NC34FBQ_0101 3241002 3241391 ZH 你好
+17NC34FBQ_0101 3246370 3250603 CS 你 好过 叫 我 直接 吃糖 eat sugar before i sleep
+17NC34FBQ_0101 3254732 3258100 CS 我 觉得 sugar after that sticky sticky eh i don't like that feeling lor
+17NC34FBQ_0101 3263093 3265396 EN oh then we jst get it over with lah
+17NC34FBQ_0101 3268955 3271395 CS 明年 你 要 stay in hall 吗
+17NC34FBQ_0101 3275175 3277265 CS i stay in 宏茂桥
+17NC34FBQ_0101 3278395 3278967 EN yes
+17NC34FBQ_0101 3280343 3280888 ZH 你 嘞
+17NC34FBQ_0101 3282291 3284569 ZH 哦 也是 蛮远 的
+17NC34FBQ_0101 3286497 3289411 CS eh but is 是 one straight m. r. t. leh
+17NC34FBQ_0101 3295664 3300235 CS 没有 啦 more than that but for ang-mo-kio usually 你 会 搭 上去
+17NC34FBQ_0101 3300906 3303303 CS 因为到 jurong-east 四十 分钟 这样
+17NC34FBQ_0101 3304957 3306656 EN half and hour to forty minutes
+17NC34FBQ_0101 3307450 3311680 CS 然后 在 so 看咯 about one hour plus
+17NC34FBQ_0101 3323519 3325378 CS 有一个 brother
+17NC34FBQ_0101 3328401 3329336 ZH 对
+17NC34FBQ_0101 3333569 3336673 CS 哦 that is why you so man lah
+17NC34FBQ_0101 3360218 3362535 CS 好 嘛 like that you can be their brother
+17NC34FBQ_0101 3364145 3367985 CS brother good what 比较 讲 义气 then not so troublesome to keep relationship
+17NC34FBQ_0101 3373980 3377018 CS it's okay one lah 因为 反正 就是 这样 but
+17NC34FBQ_0101 3377018 3379910 EN takes a while because like i hear my friends they say
+17NC34FBQ_0101 3380238 3385394 CS 女人 跟 女人 交 their interpersonal relations 每次 很 麻烦 的 咯
+17NC34FBQ_0101 3389145 3390626 EN as in friends
+17NC34FBQ_0101 3391249 3395518 EN ah very always aiya all those small small things very troublesome lor
+17NC34FBQ_0101 3413665 3417147 ZH 你 看 这样 麻烦 男 的 不管 全部 交 咯
+17NC34FBQ_0101 3421425 3424050 ZH 没有啊 你们 不 高兴 我们 不管 你 咯
+17NC34FBQ_0101 3427814 3430852 CS 看 咯看 咯 either that 不然 就 不要 叫 他们 来 咯
+17NC34FBQ_0101 3435007 3439220 EN okay lah you can change your attitude towards it you can't change it
+17NC34FBQ_0101 3444719 3447442 EN ah those kind of things you can't help it lah
+17NC34FBQ_0101 3451263 3454431 CS 有 啊 两年啊 but 现在没有了啊
+17NC34FBQ_0101 3456639 3459210 ZH 哦 就是 现在 的 啦 不是 啊
+17NC34FBQ_0101 3462081 3466182 CS 哦 到 二十一 啊 so long then 为什么 没有 掉
+17NC34FBQ_0101 3468781 3471208 CS 哇 then 你 还 可以 受
+17NC34FBQ_0101 3474936 3476815 ZH 是 这样 的 啦 是 这样 的 啦
+17NC34FBQ_0101 3489646 3490538 EN so sad
+17NC34FBQ_0101 3494269 3495203 EN aiyo and then you
+17NC34FBQ_0101 3498501 3500893 EN i tried not to say tahan but then you go and say
+17NC34FBQ_0101 3510588 3512724 EN you finally wake up your idea
+17NC34FBQ_0101 3517703 3520825 CS 对 啊 你 迟早 会 cannot take it one lah
+17NC34FBQ_0101 3528818 3530555 EN yeah lah you wah-lau
+17NC34FBQ_0101 3535794 3537404 EN wah you evil
+17NC34FBQ_0101 3547785 3549865 CS what no choice then 不要 管 他 啦
+17NC34FBQ_0101 3562313 3564122 EN never mind lah now you happier right
+17NC34FBQ_0101 3566649 3573450 EN then okay lah so hor you only have so many years just be happy during this period of time
+17NC34FBQ_0101 3586316 3588108 EN you're wasting his youth
+17NC34FBQ_0101 3607899 3608564 EN okay lah
+17NC34FBQ_0101 3610028 3611668 ZH 有 什么 啊
+17NC34FBQ_0101 3614002 3616787 CS 太多 了 more more likely
+17NC34FBQ_0101 3617612 3619794 EN the problem was communication lor
+17NC34FBQ_0101 3621222 3624494 EN no leh surprisingly during n. s. there was no problem
+17NC34FBQ_0101 3625152 3629077 CS it's (er) it was the beginning of this year 我们 才 break 的
+17NC34FBQ_0101 3630813 3631915 EN more communica
+17NC34FBQ_0101 3634319 3638148 CS 我们 break before 我 进 hall ah around march
+17NC34FBQ_0101 3647225 3649548 CS 唉 then 怎么 说 呢
+17NC34FBQ_0101 3649548 3653088 CS 就是 even after two years ah she still don't want to open up to me lor
+17NC34FBQ_0101 3654834 3656990 CS as in 对 咯 就是
+17NC34FBQ_0101 3657898 3668727 CS (erm) a lot of things although i know that things like this will happen and 她 会 这样 做 but in the end right no matter how i talk to her right 她 还是 不要 跟 我 讲
+17NC34FBQ_0101 3669581 3673878 CS then 就是 这样 咯 so 不用紧 我等 我忍
+17NC34FBQ_0101 3674229 3677874 CS then i wait one year two year then after that she tell me she want to 分手
+17NC34FBQ_0101 3678202 3686936 EN then okay lor like that lor no choice what because if she doesn't want to open up to me you still feel uncomfortable then i can't do anything about it lah
+17NC34FBQ_0101 3687801 3691466 EN that is why i just get over it and move on lor
+17NC34FBQ_0101 3697183 3697936 ZH 对 啦 二十
+17NC34FBQ_0101 3699182 3699936 ZH 我比
+17NC34FBQ_0101 3707036 3708387 ZH 你 还有 时间
+17NC34FBQ_0101 3713944 3716859 CS then you in uni find lah uni 最 容易 找 的 嘛
+17NC34FBQ_0101 3720774 3722227 ZH 准备 嫁给 这个 了 啊
+17NC34FBQ_0101 3725502 3732283 CS yeah lah because now when your relationship at this age 哇 讲 到 很像 我们 很老 at this age you really need to consider marriage already lor
+17NC34FBQ_0101 3734254 3734955 ZH 对 咯
+17NC34FBQ_0101 3773711 3774568 CS 对 咯 sad
+17NC34FBQ_0101 3800293 3802878 EN he's not ready to be in a relationship lah
+17NC34FBQ_0101 3804370 3805138 EN otherwise
+17NC34FBQ_0101 3807408 3811098 CS 哎呀 哎呀 男 的 通常 they take longer to mature
+17NC34FBQ_0101 3812783 3814332 EN on on average
+17NC34FBQ_0101 3820808 3821431 ZH 要看
+17NC34FBQ_0101 3824754 3826182 ZH 你 要 看 你 家庭 的咯
+17NC34FBQ_0101 3829922 3835218 CS that's why 他 还是 他年纪 二十三 but 他 act like 十六 岁
+17NC34FBQ_0101 3844412 3847168 EN he don't know how harsh society is
+17NC34FBQ_0101 3852588 3855298 CS 因为 你 出来 做工 啊 your mindset will change a lot
+17NC34FBQ_0101 3856474 3860837 EN also depends where you work in actually in army you also learn a lot but depends on where you are
+17NC34FBQ_0101 3860837 3863744 CS if 你是 officer ah 你学的东西
+17NC34FBQ_0101 3863744 3868364 CS 虽然 他 叫 你 学 的 东西 很多 but (erm) 那些 street smart 这些 啊 你 不会 学 很多
+17NC34FBQ_0101 3869121 3873466 CS 很 像 我 这种 每次 被 被 arrow 的 被丢
+17NC34FBQ_0101 3874027 3877301 CS 被 丢 这个 垃圾 被 丢 那个 垃圾 then ah because
+17NC34FBQ_0101 3877896 3882240 EN we have civilians working with us also what they are called <unk> then we learn a lot from them lor
+17NC34FBQ_0101 3882960 3887257 CS 就 这些 then actually ah all these right 你看 as in
+17NC34FBQ_0101 3887257 3892205 EN you think that it only happens in army actually outside ah government organizations other organizations you also happenlor
+17NC34FBQ_0101 3892958 3897587 EN so then you get to learn a lot of all these street smarts how to handle people things like that lor

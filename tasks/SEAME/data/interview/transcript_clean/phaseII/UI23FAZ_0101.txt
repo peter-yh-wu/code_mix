@@ -1,0 +1,186 @@
+UI23FAZ_0101 4283 12723 CS 我 的 research 啊 我 的 research 是 关于 呃 crowd simulation
+UI23FAZ_0101 12723 16469 CS 就是 我们 要 啊 model 一个 puppet
+UI23FAZ_0101 16469 20945 CS 它 讲 什么 language 它 的 人 是 怎样 的
+UI23FAZ_0101 20945 22751 ZH 它 穿 什么 衣服
+UI23FAZ_0101 22751 25062 ZH 在 什么 地方
+UI23FAZ_0101 28595 31357 CS 就是 er human modeling
+UI23FAZ_0101 31357 34037 ZH 是 人 来 ha
+UI23FAZ_0101 36022 39640 CS 啊 model 一个 人 对
+UI23FAZ_0101 39640 47272 CS 啊 就是 讲 啊 很久 以前 我 有 那种 malacca kingdom
+UI23FAZ_0101 47272 52189 CS then malacca kingdom 是 有 很多 business man 去的
+UI23FAZ_0101 52189 58552 CS so 他们 要 做 生意 他们 是 来 from 不 一样 的 地方 不 一样 的 country
+UI23FAZ_0101 58552 61308 CS then 他们 穿 的 衣服 也 不 一样
+UI23FAZ_0101 61308 64339 CS so 他们 讲 的 language 也 不 一样
+UI23FAZ_0101 64339 68695 CS so 你 就要 model 那个 人 全部 出来 then
+UI23FAZ_0101 68695 75203 CS 啊 在那种的 malacca kingdom 就有 不 一样 不 一样 的 人 咯
+UI23FAZ_0101 77012 79090 CS 对 是 讲 simulation
+UI23FAZ_0101 87582 90565 CS 啊 是 animation 罢了
+UI23FAZ_0101 90565 96301 CS 因为 整个 东西 是 一个 人 啊 给 我们 他 的 action 他 的 动作
+UI23FAZ_0101 96602 102881 CS 好像 他们 去 lift 那边 如果 他们 按 lift 他们 动作 会 怎样 的 他们 站
+UI23FAZ_0101 102881 108975 CS 还是 他们 会 进去 那个 lift 还是 他们 的 眼睛 会 看 上 啊 那个 lift 的 number
+UI23FAZ_0101 108975 114216 CS so 你 就 要 去 看 他们 的 behavior 是 怎样 的 然后 你 放 进去
+UI23FAZ_0101 114216 120943 CS so 不是 一个 人 而已 (er) 你 要 duplicate 很多 很多 人 的
+UI23FAZ_0101 128721 136337 CS 对 啊 还有 另外 一种 example 就是 在 啊 prayers 里面 masjid 里面
+UI23FAZ_0101 136337 142869 CS so 有一个 啊 ulama 他会 啊 baca 那个 al-quran
+UI23FAZ_0101 142869 150156 CS then 过后 the rest 就会 啊 蹲下 啊 还是 他们 的 手 会 放 哪里 啊
+UI23FAZ_0101 158769 162073 CS ah 其实 那个 focus 不是 在 脸
+UI23FAZ_0101 162650 170592 CS 啊 他 是 在 他 的 啊 动作 跟 他 他 的 characteristic 跟 他 的 衣服
+UI23FAZ_0101 182398 188987 CS 怎样用啊因为 啊 如果你model一个人通常他们 (啊)
+UI23FAZ_0101 188987 193196 CS 你一次过全部的behaviours全部的action是一样的
+UI23FAZ_0101 193196 204024 CS so现在你要用一个model但是你要study 通常啊在那个situation就像好像emergency人家会run去那个exit那边
+UI23FAZ_0101 204024 209942 CS then他们的跑步的movement是怎样的你要学了就duplicate了
+UI23FAZ_0101 209942 214689 CS then 看来有很多很多人其实是一个model 而已
+UI23FAZ_0101 220970 221619 EN ha
+UI23FAZ_0101 223600 225747 ZH 对 对 对
+UI23FAZ_0101 225747 235216 ZH 就是 我们 看 那个 电影 啊 ha 他们 是 前面 有 十 个 人 而已 但是 我们 看 来 好像 有 百多 个 人
+UI23FAZ_0101 243053 247987 CS (er) 其实 不是 (啊) 给game 不是 给 movie 罢了
+UI23FAZ_0101 247987 250726 CS 啊 你 可以 用 给 museum
+UI23FAZ_0101 251681 259482 CS 好像 啊 你 可以 放 那个 virtual store~ story teller inside 这个 crowd simulation
+UI23FAZ_0101 259482 266341 CS so 你 进去 museum 的 时候 人家 也 要 跟 你 讲 okay 这个 是 这个 刀 是 从 哪里 来 的
+UI23FAZ_0101 266341 276886 CS 在 什么 啊 地方 找 到 的 几年 了 那种 东西 then 你 可以 放 一个 (啊) virtual simulation 给 他们 看 oh
+UI23FAZ_0101 276886 279513 ZH （啊） 他们 怎样 拿 到 这个 刀 的
+UI23FAZ_0101 279513 286681 CS so 你 可以 放 那个 model model 进去 他们 fight fight fight 了 then 过后 有 这个 (啊) 刀
+UI23FAZ_0101 295557 297985 ZH 对 对 对 对
+UI23FAZ_0101 300231 300907 ZH 就是 这样
+UI23FAZ_0101 302037 305982 ZH  （啊） 如果 要 解释 的 话 就是
+UI23FAZ_0101 305982 310078 CS 他们 有 一种 program ah software ah
+UI23FAZ_0101 310078 319582 CS 我们 的 每 一个 (啊) (啊) 手 啊 还是 什么 我们 有 interconnection 的 so 在 那个 地方 我们 就 放 一个 node
+UI23FAZ_0101 319582 325625 CS so 每 一次 我们swing 我们 的 hand 是 这 边 有 一个 node 跟 这边 有 一个 node
+UI23FAZ_0101 325625 333088 CS so 你 就 要 有 一个 model 真正 的 人 then 过后 他 通常 会 做 怎样
+UI23FAZ_0101 333088 337479 CS then 你 就 record down 他 的 action 了 then come out with a hypothesis
+UI23FAZ_0101 338238 345726 CS then 你 就 可以 啊 predict 如果 是 在 什么 situation 他 会 behave 怎样
+UI23FAZ_0101 345726 347745 CS 他 的 feeling 会 怎样
+UI23FAZ_0101 352721 356123 CS (er) 这个 我们 还 没有 determine
+UI23FAZ_0101 357620 364358 CS 嗯 因为 我们 其实 有 more than ah 一百个 node 可以 放 的
+UI23FAZ_0101 364358 370388 CS 但是 那个 focus 也是 在 脸 跟 我们 的 手脚 罢了
+UI23FAZ_0101 370388 373609 CS 啊 那个 abdomen 我们 就 没有 count loh
+UI23FAZ_0101 373609 379573 CS 因为 我们 不是 做 好像 跳舞 还是 什么 so 身体 的 不用 什么 放 什么 node loh
+UI23FAZ_0101 386830 388367 CS 怎样 model 他
+UI23FAZ_0101 388367 393361 ZH （呃） 就是要一个人示范 咯 啊哈
+UI23FAZ_0101 396052 406038 CS 还 没有 model 因为 我 我们 是 beginning of 那个 research 罢了 这个 是 我们 要 做 的 东西 我们 还 没有 (啊) 肯定
+UI23FAZ_0101 406038 408581 ZH 我们 要 怎样 做 用 什么 做
+UI23FAZ_0101 408581 412397 CS 所以 我们 要 去 一个 (啊) apen 的 conference
+UI23FAZ_0101 412397 415135 ZH 要 啊 去找 啊
+UI23FAZ_0101 416316 418884 CS technology 是 最 latest 的
+UI23FAZ_0101 418884 424532 CS then 你 才 才 知道 okay 你 要 用 什么 approach 来 做 这个 research
+UI23FAZ_0101 427437 428657 CS 是 啊 okay
+UI23FAZ_0101 438424 440060 ZH 因为 我 （呃）
+UI23FAZ_0101 442170 448146 CS 但是 通常 research ah 最大 的 问题 就是 啊 你 以为 人家 没有 做
+UI23FAZ_0101 448146 455402 CS then 你 做 了 几年 啊 人家 已经 有 了 so 如果 可以 的 话 不要 用 什么 什么 model 就是
+UI23FAZ_0101 455402 465982 CS 新 的 algorithm 你 自己 你 自己 去 找 到 的 但是 那个 idea 整个 idea 不是 你 一个 人 做 其 其实 其他 人 也有 做 了
+UI23FAZ_0101 470437 475045 CS 很 basic 的 stage 呃 就是 第 一个 stage 罢了
+UI23FAZ_0101 475045 481833 CS 我 刚刚 进来 (呃) 大概 两个月 而已 for p. h. d. ah
+UI23FAZ_0101 486050 489945 CS (啊) 我 master ah ha
+UI23FAZ_0101 489945 492452 CS master 我 就 做 music 的
+UI23FAZ_0101 492957 496384 ZH 哈哈 呃 就是讲
+UI23FAZ_0101 496384 507957 CS 一个 人 要 (啊) 弹 guitar 还是 要 弹 piano 它 是 不 一样 的 instrument so 你 要 学 很多 很多 不 一样 的 musical instrument
+UI23FAZ_0101 508305 511108 CS 哈哈 但是 这个 是 一个 program
+UI23FAZ_0101 511108 516345 CS (啊) 他 已经 insert 进去 全部 instrument 的 声音 了
+UI23FAZ_0101 516345 520115 CS so 你 就 用 那个 keyword drag and drop
+UI23FAZ_0101 520115 527417 ZH 去 （啊） 学 怎样 要 （啊） 做 一个 声音 咯
+UI23FAZ_0101 527417 530658 CS 就是 可以 自己 compose lyric 那 一种
+UI23FAZ_0101 534415 542698 CS 啊 它 不是 几种 声音 它 来 那个 program 已经 有 combination of ah drum ah guitar 全部 有
+UI23FAZ_0101 542698 552957 CS 在 里面 了 的 so 如果 一个 人 要 真正 学 啊 a. note b. note c. note 在 哪里 你 不用 去 学 一个 一个 不 一样 的 instrument
+UI23FAZ_0101 552957 555344 CS 你 用 program 就 可以 了
+UI23FAZ_0101 558406 559185 ZH 哈 对
+UI23FAZ_0101 562742 569437 CS (啊) 它 是 一个 m. i. d. i. software 就是 musical instrument digital interface
+UI23FAZ_0101 569889 573055 CS so 已经 有 combination 了 的
+UI23FAZ_0101 573055 578195 CS 啊 as long as 是 western 的 (啊) music 就 可以 了
+UI23FAZ_0101 579110 582324 CS contribution 是 在 它 的 framework 方面
+UI23FAZ_0101 582324 585668 CS and 它 的 interpretation of 每 一个 model
+UI23FAZ_0101 585668 592945 CS 因为 如果 你 drag (啊) 好像 我们 讲 sokator 是 那个 note first note
+UI23FAZ_0101 592945 595873 CS ah ha 我们 就 知道 okay 现在 我们 要 start
+UI23FAZ_0101 595873 602897 CS ah using ah 左手 还是 右手 嗯
+UI23FAZ_0101 607728 612352 CS 对 其~ 啊 我 跟 我 的 lecturer 其实 都 不大 懂 music 的
+UI23FAZ_0101 612352 621131 CS 但是 用 了 这个 program 我们 at least 知道 okay 它 的 line 是 怎样 的 a. b. c. d. note 是 在 哪里
+UI23FAZ_0101 621131 632079 CS 就是 要 学 那个 note 因为 note 是 universal 的 但是 你 你 的 啊 每 一个 musical instrument 你 打 你 用 的 technique 是 不 一样 的
+UI23FAZ_0101 632079 637173 CS so ah 你 可以 用 note 来 recognize 罢了
+UI23FAZ_0101 637761 638676 EN musical note
+UI23FAZ_0101 642038 649015 CS 它 的 result 就是 很多 人 (啊) 认为 (啊)
+UI23FAZ_0101 649144 653212 CS mus~ (啊) 可以 学 music through computer
+UI23FAZ_0101 653212 656477 CS 不用 一个 一个 instrument 去 学
+UI23FAZ_0101 656477 660945 CS 因为 这个 是 很 potential 的 music learner tools
+UI23FAZ_0101 664829 668085 CS 啊 我们 有 分 两个 category
+UI23FAZ_0101 668085 671753 CS 一个 是 (啊) 没有 学过 music 的 人
+UI23FAZ_0101 671753 675036 CS 一个 是 有 experience 跟 music 了的
+UI23FAZ_0101 675036 680303 CS so 没有 学过 music 的 人 他们 一次 过 懂得 两个 东西
+UI23FAZ_0101 680303 684007 CS 一个 就是 l. system 是一种 algorithm 来
+UI23FAZ_0101 684007 688143 CS (啊) 那个 algorithm 是 based on 好像 plant modeling 这样
+UI23FAZ_0101 688143 695040 CS 我们 的 plant~ plant 全部 啊 其实 全部 universe 的 东西 是 用 fibonacci algorithm
+UI23FAZ_0101 695040 704995 CS 就是 我们 的 头发 我们 有 一个 strand 一个 strand 就会 duplicate 到 啊 两个 两个 变成 五个
+UI23FAZ_0101 704995 707276 CS 就是 fibonacci 的 style
+UI23FAZ_0101 707276 716570 CS so 我们 fibonacci 就是 讲 啊 我们 学 一 加 一 等于 二
+UI23FAZ_0101 717399 720942 ZH 二 加 等下 二 加 二 啊
+UI23FAZ_0101 721388 724258 CS 就是 每 一次 你 increase 的
+UI23FAZ_0101 724528 733793 CS ahha so 一 三 五 这样 咯 then 我们 如果 有 一个 leaf 的 话 那个 leaf 的 啊 baby ah
+UI23FAZ_0101 733793 737854 ZH 啊 它 也是 会 这样 这样 出来 的 咯
+UI23FAZ_0101 739099 743902 CS ha then ha then 讲 回 那种 (啊)
+UI23FAZ_0101 743902 747519 ZH 什么 啊 刚才 讲 什么 啊  我 忘记 了
+UI23FAZ_0101 753944 756623 CS ahhaha 怎样 evaluate
+UI23FAZ_0101 756623 764403 CS 哦 他们 两 啊 一次 过 learn 到 两个 东西 咯 就是 一个 l. system 另外 一个 就是 musical note loh
+UI23FAZ_0101 764403 772449 CS then 那个 l. system 就是 讲 啊 一个 leaf 可以 变 三个 然后 变 五个 变七个 这样咯 fibonacci 的
+UI23FAZ_0101 773550 778029 CS 变 就是 讲 (啊) grow grow 嗯
+UI23FAZ_0101 778847 781443 ZH 生 就是 一个 变 七个
+UI23FAZ_0101 785733 796286 CS 不是 就是 讲 (啊) 它 的 duplication ah 每 一次 一个 tumbuhan 它 生 它 会 increase ah add the number before
+UI23FAZ_0101 803232 806623 CS 和 (啊) music music note
+UI23FAZ_0101 807394 809781 CS then 第 二个 category
+UI23FAZ_0101 809781 815006 CS ah l. system 就是 那种 math mathematical modeling algorithm loh
+UI23FAZ_0101 815006 817405 CS 刚才 我 跟 你 explain 的
+UI23FAZ_0101 817405 819592 CS 嗯 then 另外 一种 是
+UI23FAZ_0101 823259 831171 CS 因为 有些 researcher 他们 学 l. system 的 话 他们 是 会 学 through ah plant
+UI23FAZ_0101 831171 835527 CS 现在 其实 plant 跟 music 是 有 connection 的
+UI23FAZ_0101 835527 844604 CS 每 一次 我们 上 一个 note 它 会 represent 那个 plant 的 branch turn 去 right hand side 还是 turn 去 left hand side
+UI23FAZ_0101 846510 850286 CS so 就 好像 我们 有 一个 piano 的 octave
+UI23FAZ_0101 850286 854399 ZH 我们 是 用 我们 的 左手 来 打 还是 用 右手 来 打
+UI23FAZ_0101 860555 862492 ZH ahha 因 因为
+UI23FAZ_0101 862492 869546 CS 他 他们 讲 啦 如果 用 (啊) 这个 是 什么 手 啊 left
+UI23FAZ_0101 870645 874038 CS so 如果 我们 用 right hand side
+UI23FAZ_0101 874842 877966 CS 就是 它 的 key 会 比较 上 比较 上 的
+UI23FAZ_0101 877966 881854 CS 这个 是 (啊) one octave upper
+UI23FAZ_0101 881854 886196 CS 就是 它 的声音 是 do re mi 比较 高 比较 高 的 它 的 pitch
+UI23FAZ_0101 886196 891273 CS okay 如果 我们 是 用 left hand side 的 手 (啊) 它 是 support 来
+UI23FAZ_0101 891273 892404 ZH 他是 啊
+UI23FAZ_0101 892404 895811 CS 你 打 这个 了 才 打 这个 它 是 the background noise 啊
+UI23FAZ_0101 896952 902067 CS so 还是 你 要 base 的 声音 你 就 要 come out from the left hand side
+UI23FAZ_0101 906494 909725 CS 就是 (嗯) music lor music note
+UI23FAZ_0101 915323 919711 CS (eh) 我 会 讲 如果 你 是 有 talent 在 music 的
+UI23FAZ_0101 919711 921068 ZH 可以 吧
+UI23FAZ_0101 921068 936018 CS 但是 如果 你 还 blur blur 跟 music 的 你 要 学 那个 notes then 再 过后 你 自己 要 真正 去 试 啊 那 那种 musical instrument 了 才回来 program 呃 compose 你 自己 的 lyric 咯
+UI23FAZ_0101 942925 947818 CS 可以 可以 (啊) as long as 它 的 它 是 western music
+UI23FAZ_0101 947818 952618 CS 因为 我们 (啊) 找 到 一个 room for future work
+UI23FAZ_0101 952618 959226 CS 就是 (啊)我们 有categorize 那个 music western music ah chinese music er
+UI23FAZ_0101 959226 964746 CS 不 一样 的music so 如果 你 是 打 kompang 你 打 那种 serunai gong
+UI23FAZ_0101 964746 968693 CS 全部 那个 music 马来 的 跟 英文 的 是 不 一样 的
+UI23FAZ_0101 974336 986601 CS (啊) 他们 学 的 东西 也 不同 的 他们 的 musical notes 也 不同 的 好像 如果 我们 打 古筝 的 话 我们 是 用 一 二 三 四 五 来 (啊) determine 那个 string 的
+UI23FAZ_0101 986601 995201 CS so 如果 你 是 打 啊 drum 的 话 你 其实 不 用 learn note 的 你 是 听 (啊) 人家 你
+UI23FAZ_0101 995201 1000304 CS drum 就是 好像 一个 back bone 这样 so 你 听 人家 打 了 你 你 才 打 的
+UI23FAZ_0101 1000629 1001615 EN ah ha
+UI23FAZ_0101 1013688 1016536 ZH 可以 可以 哈 可以
+UI23FAZ_0101 1016536 1026263 CS 但是 er 如果 是 讲 guitar 的 话 啦 (啊) 如果 chinese 用 他们 其实 也是 用 a. b. c. 那种 的 啊 musical note
+UI23FAZ_0101 1026263 1029168 CS 但是 如果 (啊) 他们 用 guitar 了 他们
+UI23FAZ_0101 1029168 1038025 CS 唱 在 mandarin 啊 他们 自己 会 slow down 那个 key ah then ah 放下一个 octave 还是 上一个 octave 去
+UI23FAZ_0101 1038025 1042397 CS 啊 去 suit 他 自己 的 (啊) music loh
+UI23FAZ_0101 1057725 1062098 CS mmm我 有 给 我 自己 (啊) 一个 time table
+UI23FAZ_0101 1062098 1067978 CS (啊) 星期一 到 星期五 leh 就是 很多 很多 computer 很多 很多 internet 的
+UI23FAZ_0101 1067978 1073027 CS then ah 星期六 跟 星期日 我 就 没有 check email 了 我
+UI23FAZ_0101 1073027 1077475 CS 不管 啊 什么 news 在 internet 我 没有 看 了 的
+UI23FAZ_0101 1083419 1089042 CS 啊 哈 如果 是 星期一 到 星期五 的 话 上 internet 就是 找 paper 了 咯
+UI23FAZ_0101 1089042 1091480 CS 要 读 for 那个 research loh
+UI23FAZ_0101 1091480 1097962 CS ah then 最近 啊 我 会 上 去 看 air ticket ah air asia ah
+UI23FAZ_0101 1097962 1100201 CS 有 什么 promotion ah
+UI23FAZ_0101 1101889 1102486 ZH 啊
+UI23FAZ_0101 1103191 1105150 ZH 最后 一次 我 看 是
+UI23FAZ_0101 1106532 1112917 CS malaysia fly 去 (啊) london 是 一 五 九 九 而已
+UI23FAZ_0101 1114796 1115912 ZH 很 便宜
+UI23FAZ_0101 1120448 1121409 ZH 是 吗
+UI23FAZ_0101 1126265 1131664 EN oh okay oh
+UI23FAZ_0101 1131664 1138907 CS 我 不大 清楚 因为 我 最近 有 submit 一个 paper 去 portugal 但是 不知道 有 得 到 还是 没有 得 到
+UI23FAZ_0101 1138907 1145878 CS so ah for safe ah 要 省钱 就 book ah air asia fly 去 london 先 咯
+UI23FAZ_0101 1145878 1152023 CS so 如果 last minute 有 得 到 的 话 才 book london 去 portugal 的 的 ticket loh
+UI23FAZ_0101 1154141 1159133 CS mmm take ah 那个 london 是 那个 middle point
+UI23FAZ_0101 1159133 1162977 CS 我 不知道 这个 是 我 lecturer 他 suggest 的
+UI23FAZ_0101 1162977 1164083 ZH 他 建议 的
+UI23FAZ_0101 1168913 1169926 ZH 我 也 不知道
+UI23FAZ_0101 1186389 1188340 CS 不 一样 的 airline 是 吗
+UI23FAZ_0101 1188340 1195010 CS 我们 有 compare 跟 emirates 的 thai airline 但是 最 便宜 就是 air asia loh
+UI23FAZ_0101 1196387 1198074 ZH 哦 哦 对

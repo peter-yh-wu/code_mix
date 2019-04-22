@@ -1,0 +1,426 @@
+NI52MBQ_0201 1470 3890 CS (呃) 你好 我的 名字 叫 nelson
+NI52MBQ_0201 4391 6840 ZH 我 今年 是 二年级 学生
+NI52MBQ_0201 6840 8650 CS 是在 (呃) 南洋 business school
+NI52MBQ_0201 8650 15856 CS 就读 那个 business and eco 就是 商科 会计 那个 商学位 课程吧
+NI52MBQ_0201 15856 21755 ZH 对 然后 今天 我们 我也 不太 清楚 今天 我们 聊的 话题 是 什么
+NI52MBQ_0201 21755 25736 CS 有些 high goals yup 看 我们 能聊 什么 吧
+NI52MBQ_0201 27936 31728 CS 啊 是 咩 哦 okay 好啊
+NI52MBQ_0201 45691 63471 CS why why they won't train us to speak in speak in different languages in washington i guess it's a fluency 就是 看 语文的 流畅度吧 因为 如果 你 习惯 嗯 用 中英语 (呃) 掺杂 来讲 一些 (呃) 来说 (呃) 交流的话 if you have
+NI52MBQ_0201 63471 79833 CS difficulties as you learn the language itself 因为 不同 的 语文 它的 文法 不同 对不对 the grammar and maybe the verbs and how you actually the sentence structure is different so 如果 我们 掺杂 来用 的话 可能 对 我们 的 学习 会有 影响吧
+NI52MBQ_0201 79833 85210 ZH 我～ 我想 大概 是 这个 这么 一个 事 不过 我们 通常 私底 下
+NI52MBQ_0201 85210 88378 CS when we speak to ourselves 我们 通常 还是 会
+NI52MBQ_0201 89406 110035 CS 无法 控制 啦 是 most of time you tend to have some (er) english among chinese words 然后 讲 中文 的 时候 偶尔 也会 掺杂 一些 英语 英语 的 词汇吧 可能 就是 一时间 找不到 那个 (呃) 那个 那个 tone 的一个 translation 所以 就会 比较 困难 一点
+NI52MBQ_0201 111719 113701 ZH 我 在家 是 通常 是 讲 华文
+NI52MBQ_0201 113701 116761 ZH 对 然后 偶尔 也会 掺杂 一点 英文啦
+NI52MBQ_0201 116761 123479 ZH 不过 比较 少 因为 父母 都是 嗯 华文 教育 长大 的 所以 用 华文 沟通 会 比较 方便
+NI52MBQ_0201 132549 135309 CS pre school 嗯 有啊 有啊
+NI52MBQ_0201 136806 141360 CS pre school 一开始 就是 嗯 all the way they have been using the english system
+NI52MBQ_0201 141360 155049 CS 就是 说 嗯 从 幼稚园 开始 的 时候 就是 他们 就是 尽量 是 以 英语 沟通 因为 我们 的 教育 our educational system in china in singapore is mainly (er) in en~ in english lah
+NI52MBQ_0201 155049 164936 CS 那个是 主要的 第一 语言 就是 英文嘛 所以 嗯 通常 一开始 即使 在 幼稚园 的 时候 也要 talk mainly in english
+NI52MBQ_0201 168571 190385 CS 上 中文 印象 中 是 应该 是在 小一 的 时候 吧 就是 (呃) 我们的 母语啊 所谓的 mothertone 就是 我们 (呃) 就是 (呃) 华文 或者 是 可能 说 马来语 或 印度语 之类的 所以 从 那儿 开始 我们就 we'll have we'll have lessons based on chinese that's
+NI52MBQ_0201 190385 204390 CS mainly focus on that (er) on the language itself 就是 一个 单 单一的一个 (呃) 一个科 一节课啦 就是 focus on dedicated to (er) teaching on the chinese language itself
+NI52MBQ_0201 204390 211242 ZH 除此 之外 其他 的 课 都是 还是 照常 用 英语 上 就是 比如 说 数学 科学 之类的啦
+NI52MBQ_0201 216163 224001 CS 嗯 还 不回 诶 记得 就 如我 所说 因为 哦 我是 (呃) brought up in a chinese educated family 所以
+NI52MBQ_0201 224001 243820 CS 比较 困难 的 是 其实 就是 (呃) 当我 刚 开始 学习 的 时候 就是 (呃) 怎样 用 英语 交流 吧 yup so but the foundation course our (er) coordinate in english more english based on primary school 就是 说 我的 (呃) 小学 是 比较 注重 于 英语 教育 的 所以 嗯
+NI52MBQ_0201 243820 246843 CS 就是 刚好 给我一个 the right balance 所以 我们
+NI52MBQ_0201 248020 267220 CS 过后 我 就会 比较 因为 在家里 是用 华文嘛 然后 在 学校 就要 学习 怎么 用 英文 所以 so it help me to balance between two language and maybe also that's a reason why 最后 就是 我会 掺杂 两种 语言 来说吧 对
+NI52MBQ_0201 269552 279424 CS 因为 过后 after primary school 我的 我就 基本上 在 华校 中学 之后 都是 在 华校嘛 所以 然后 又 回去
+NI52MBQ_0201 284790 288350 CS 基本 上 其实 课程 的 设计 都 there's not much difference
+NI52MBQ_0201 288350 308042 CS 因为 都是 根据 那个 教育部 的 那个 可能 说 准则啊 之类 的 东西 说 the rule the guidelines will be followed en will follow the m. o. e. system but 就是 说 可能 私底下 学生们 就会 比较 (呃) 习惯 用 华文 来 交流
+NI52MBQ_0201 308042 325690 CS 或者 是说 嗯 可能 在 课外 活动 的 时候 有些 嗯 教练 就会 比较 会 华~ 怎么 说 more chinese educated 所以 他们 通常 在 (呃) 教 一些 课外 活动 的 时候 可能 就会 比较 用 华文 来 交流吧
+NI52MBQ_0201 327493 336096 ZH 嗯 基本 上 就是 这样 吧 可能 就是 还有 就是 嗯 华校 可能 会 比较 注重 华文 的 一些 (呃) 文化
+NI52MBQ_0201 336096 345651 CS 就 好像 chinese culture more focused 就比如说 嗯 他们 会 有 可能 一些 华乐啊 华族 舞蹈 之类 的 (呃) 课外 活动
+NI52MBQ_0201 345651 351030 CS 英校 可能 就 没有 这 方面 的 注重 可能 他们 会 注重 maybe orchestra
+NI52MBQ_0201 351030 353371 CS 就是 orchestra band 之类的
+NI52MBQ_0201 353371 358112 ZH 就是 比较 西化的一些 (呃) 一些 文化啦
+NI52MBQ_0201 358112 361264 ZH 的 一些 课外 活动 之类的
+NI52MBQ_0201 370262 370962 ZH 有啊有
+NI52MBQ_0201 374340 383711 CS 到了 j. c. 就是 差不多 一样了吧 不过 还是 有 一些 比较 属于 说 我们 会 统称 是 一些 比较 华~ 华文派 的 啦
+NI52MBQ_0201 383711 399823 ZH 就 好像 (呃) 可能 (呃) 南洋 南洋 初学院 或者 是说 华中 初级学院 之类的 啊 对 这些 这 两间 就会 嗯 这 几间啦 就会 比较 说 属于 比较 嗯 华～ 华校派
+NI52MBQ_0201 399823 409790 CS 我 认识 (呃) 一些 j. c. 啊 raffles victoria 这些 j. c. 就会 感觉上 会比较 (呃) more towards the yes english educated side
+NI52MBQ_0201 412670 418422 ZH 排名 (呃) 都还 不错 吧 前 这 (呃) 这两~
+NI52MBQ_0201 420119 426400 ZH 校 都有 各有千秋啊 我会 我会 这么说 因为 新加坡 (呃) 公认的啦
+NI52MBQ_0201 426400 430630 CS 前两间 初级学院 一间 就是 属于 more english educated loh 就 which is (er)
+NI52MBQ_0201 430630 438740 CS raffles 然后 华中 就是 比较 华校 的 华文 比较 注重 的 一个 初级学院 啦
+NI52MBQ_0201 438740 442470 CS 不过 近几年 来 the focus has been more or less diluted so
+NI52MBQ_0201 442470 452088 CS both are actually focusing on same more or less the same base the influence of the difference culture is not so much (er) 没有 这么 明显啦
+NI52MBQ_0201 452088 462079 CS 对 所以 说 (呃) 就是 感觉上 会 有 这 两个 差别 不过 在 教育 方面 more or less 显然 没 too much of difference
+NI52MBQ_0201 464338 473340 CS 就 好像 我们 (呃) 我 本身 是从 华中 来的 啦 是的 我从 华中 and 我们的 有些 奖学~ 也是 有 从 比如说 (呃)
+NI52MBQ_0201 473340 482623 CS 欧洲 国家 maybe england or maybe (er) america lecturers from western country as well lah so 基本上 我 觉得 是 没有 什么 差别啦
+NI52MBQ_0201 482623 490919 ZH 就是 文化 (呃) 一些 传统 之~ 之类的 哦 我们 学校 好像 有 庆祝日 比如 说 中秋节 之类 一些
+NI52MBQ_0201 490919 495310 CS 比较 (呃) 华文 传统 的 节日 啦 whereas 我~ 我 认为 嗯
+NI52MBQ_0201 495510 496880 CS raffles 可能 就 没有
+NI52MBQ_0201 496880 501390 EN how much focus on mid-autumn festival and som~ festivals like these lah
+NI52MBQ_0201 505703 508920 ZH 清明 有 啊 不过 不是 在 学校 庆祝吗 对不对
+NI52MBQ_0201 508920 511040 CS yup so 清明 i guess
+NI52MBQ_0201 511040 523652 CS (en) more singaporeans will be where to (呃) 怎么说 more singaporeans 都会 (呃) like 去 扫墓啊 在 清明节 的 时候 去 扫墓 啊 这个 是 我们~ 我们 华人 传统 之一 嘛
+NI52MBQ_0201 525166 539793 CS 对呀 对呀 我的 是在 下个 礼~ 下个 星期 所以 (呃) 也 不一定 是 主~ 每个 every family will be going down on same day lah 会 他们 会 分开过 一个 一段 期间 吧 不然 的 话 会 蛮挤 的 嘛
+NI52MBQ_0201 547952 552230 CS 现在 都是 比较 是 火化的吧 yeah
+NI52MBQ_0201 553617 562051 CS 可是 (呃) we are lack of space in singapore so 如果 我们 土葬 的 话 会 会 占到 很多 宝贵 的 对
+NI52MBQ_0201 563096 565374 EN correct use of land will be effected
+NI52MBQ_0201 573514 575653 CS 嗯 对 是 internship
+NI52MBQ_0201 578353 584650 CS 申请 的 过程 其实 还蛮 简单 的 就是 因为 i saw this (er)
+NI52MBQ_0201 584650 587940 CS the school will have actually the career services department 就是
+NI52MBQ_0201 587940 593430 CS 嗯 好像 不能 这么 说 okay 好 就是 (呃) 会有 这个 部门 会帮 学生 好像 帮 我们
+NI52MBQ_0201 593430 595720 CS source for 一些 internship opportunities
+NI52MBQ_0201 596405 601863 ZH 然后 他们 会 比如 说 如果 有 相关 的 一些 (呃)
+NI52MBQ_0201 601863 603356 ZH 嗯 机会 的 话
+NI52MBQ_0201 603356 608060 CS some opportunities anywhere then 他们 就会 放上 那个 我们的
+NI52MBQ_0201 609120 611290 CS 不是 website lah 就是 通过 电邮
+NI52MBQ_0201 611290 614145 CS 告诉 我们 啦 那个 我们 n. t. u. 的 webmail
+NI52MBQ_0201 614145 617100 ZH 嗯 然后 我们 就会 资格
+NI52MBQ_0201 617100 620370 CS 就 submit 我们的 resume cover letter 之类的 东西
+NI52MBQ_0201 620370 626411 ZH 然后 就 他们 会 帮 我们 就是 机会 也不 不一定 需要 自己 去找吧
+NI52MBQ_0201 626411 628930 CS 就说 they will help us provide some channels
+NI52MBQ_0201 628930 631100 CS of course if we can self source 如果 我们 可以
+NI52MBQ_0201 631100 648840 ZH 自己 (呃) 自己 自个 找的话 也是 对 我们 学习 也有 帮助啦 就是 这么 说 不过 近几年 学校 最近 学校 帮 学生 找一些 (呃) 怎么 说 就 说 最近 因为 经济 不 景气嘛 所以
+NI52MBQ_0201 648840 651670 CS 机会 也是 比较 少的 the opportunities are actually
+NI52MBQ_0201 651670 660928 CS from school side are actually significantly reduce and maybe the internship companies are not as not as good as before 所以
+NI52MBQ_0201 660928 668073 ZH 精尖 可能就 比较 注重 一些 比较 小的 公司 没有 像 那些 之前 一些 大规模 的 银行 之类的啦
+NI52MBQ_0201 668073 676570 CS 所以 如果我们 真的 有兴趣 的 话 自己 (呃) 要 自己去 apply 会 可能 就 比较 机会
+NI52MBQ_0201 676570 680190 CS 继续 一些 比较 more prestigious 的 一些 部门 吧
+NI52MBQ_0201 687831 689875 ZH 哦 好 不好意思
+NI52MBQ_0201 692619 697650 CS 我的 部门 是 我 现在 即将 去的 一个 department 就是 嗯
+NI52MBQ_0201 697650 706510 CS 做 maybe 要 credits and for~ under asset management 就是 资产 管理 吧 就是 主要 是
+NI52MBQ_0201 706510 714237 CS (呃) 协助 他们 做一个 research 就是 研究 关于 一些 (呃) rules regulations for this asset management forms
+NI52MBQ_0201 714237 717800 CS 就说 我们 (呃) 这是 这个 industry 里面 其实 有一些
+NI52MBQ_0201 717800 725124 ZH 有 一些 条规吧 就是 主要 是 了解 帮~ 帮助 这个 部门 了解 一下
+NI52MBQ_0201 725124 735200 ZH (呃) 如果是一些 资产管理 一些 的 一些 公司 他们 需要 (呃) 主要需要 (呃) 注意一些 哪一些
+NI52MBQ_0201 735200 740669 CS 法规 之类的 the rules and the~ key regulations for the asset management company
+NI52MBQ_0201 740669 744740 CS 这个 是 那个 我的 assignment 的 那个 title lah
+NI52MBQ_0201 744740 749970 CS (呃) 主要 是 做 什么 我 就 不太 清楚 了 have to wait until
+NI52MBQ_0201 749970 754421 EN i go to the ground then i guess i will understand more about what i supposed to do
+NI52MBQ_0201 757895 762670 CS (er) yes 就是 等 我 主要 是 要
+NI52MBQ_0201 762670 766800 CS 我想 会跟 business law 或 和 company law 会有 关系 吧 (呃)
+NI52MBQ_0201 767650 777710 CS 在 当我 during my interview they actually asked me whether i actually learn business law or not so 我想 会 我学 的 东西 应该 会 派上 用场 吧
+NI52MBQ_0201 779940 788173 CS interview 完了 已经 昨天 (呃) 昨天 刚前 而已 啦 in fact i yesterday just went down to raffles place and actually signed for the internship contract lah
+NI52MBQ_0201 795127 804357 ZH 对呀 不过 也有 蛮多 在籍学 生 在 等～ 等着 进入 大学 的 都会 在 那边 兼职 吧
+NI52MBQ_0201 804357 808983 CS 就说 before i actually enter the u. e. i also work aero force base for quite a while
+NI52MBQ_0201 808983 816156 ZH (呃) 那时 我是 在 日本 东京 银行 就是 帮 就是 做 一些 兼职 的 工作 啦
+NI52MBQ_0201 819510 829301 CS administration 我是 做 (呃) financial accounting 就是 帮忙 可能 统计 一些 statements lah 之类的 东西 就 general ledger profit law statements
+NI52MBQ_0201 831210 833670 ZH 就是 因为 他们 那时候 是 嗯
+NI52MBQ_0201 833670 843616 CS 快 靠近 year end 的 时候 所以 他们 需要 很多 人手 来 prepare for the statements for the end of the year 所以 就 刚好 是 有 这个 机会 去帮~ 帮忙啦
+NI52MBQ_0201 843616 846052 ZH 从中 也 学到 蛮多 东西啦
+NI52MBQ_0201 854962 869310 CS policy's wize 一点 就是 low tax rate 吧 对 因为 我们的 (呃) 政府 为了 吸引 早期 因为 他们 为了 吸引 很多 这些 companies 来我们 新加坡 做 投资 所以 他们
+NI52MBQ_0201 869310 872870 CS 会 (呃) 调低 一些 tax rate ah 像 还 有些
+NI52MBQ_0201 873050 876730 CS incentives 要像 可能 说 前五年 不用 交税 之类 的 东西 啦
+NI52MBQ_0201 876910 880980 CS 现在 我就 不大 清楚 whether the this policy is still eh in existence
+NI52MBQ_0201 880980 883320 ZH 不过 然后 (呃)
+NI52MBQ_0201 883320 887860 CS 除了 tax rate 之外 另外 一点 可能 就是 political stability
+NI52MBQ_0201 887860 905480 CS 就是 政治 i think lah 对 我们的 政治 是蛮~ 蛮 平稳 的 所以 也是 主要是 好过 (呃) 主要 是 一个 对 这些 外来 投资 的 银行 来说 也是 一个 好处吧 因为 不会 有 有 一些 可能 说
+NI52MBQ_0201 905480 908370 CS 示威 啊 strikes riots 之类 的 东西
+NI52MBQ_0201 909242 913659 EN and and another thing is possibly the emphasis
+NI52MBQ_0201 913659 936840 CS and opportunity within this region 因为 我们 知道 东南亚是 (呃) 刚好 差不多 有说 是在 崛起 的 一个 区域吧 所以 嗯 if singapore singapore is more developed country within this region so most of them uses this as a base for the region to service their business ah their clients within the region itself
+NI52MBQ_0201 936840 965431 CS 所以 说 新加坡 就是 有 一个 优势啦 因为 比起 周边 的 一些 国家 来说 都 可能 他就 比较 发达 而且 设~ 设施 也 比较 完善 所以 就会 比 (呃) 就会 吸~ 吸引 一些 外来 的 投资者 在 这边 就是 好像 住set up a base here so that they can actually work their service maybe their indonesian clients thailand clients and 之类的 东西啦 对
+NI52MBQ_0201 969729 970414 ZH 事例 啊
+NI52MBQ_0201 973068 974333 ZH 金融界
+NI52MBQ_0201 976941 984804 CS 新加坡 就 三代 三代 银行 就是 (呃) local banks 就有 u. o. b. o. c. b. c. 以及 (呃) d. b. s.
+NI52MBQ_0201 984804 997040 CS 然后 海外 银行 其实 有 蛮多的 各国 各地 都有 吧 就是 说 美国 就有 嗯 美国 有 bank of america merrill lynch j. p. morgan morgan stanley 这些
+NI52MBQ_0201 997040 999940 CS 可能 有些 不是 银行 啊 more of financial institutions
+NI52MBQ_0201 1000379 1012450 CS 然后 英国 可能 就有 barcla~ barclays capital 德国 有 deutsche bank 瑞士 是 credit suisse (呃) u. b. s.
+NI52MBQ_0201 1012450 1014440 CS actually 就是 说 (呃) 蛮 多
+NI52MBQ_0201 1015198 1021110 ZH 就是 (呃) 世界 比较 重要 的 一些 银行 都有 在 本地
+NI52MBQ_0201 1021110 1023300 CS set up 他们的 那些 subsidiaries 之类的
+NI52MBQ_0201 1024528 1039288 CS 实力 方面 可能 之前 美国的 影响 会 比较 大吧 不过 现在 随着 美国 (呃) 这个 知识 的 经济 危机 可能 他们 的 实力 就会 more or less weaken by the crisis before
+NI52MBQ_0201 1039288 1055099 CS 我 觉得 现在 炙~ 最 炙手 可热 的 一些 银行 就 比较 是 属于 欧洲 欧洲 的 一些 银行 吧 比如 说 刚才 我 所说的 barclays capital 跟 deutsche bank
+NI52MBQ_0201 1055099 1060854 CS 哦 对 还有 goldman sachs goldman sachs 应该 是 <unk> 那个 我就 不太 清楚 了
+NI52MBQ_0201 1061977 1071432 CS deutsche bank 荷兰 还是 德国 我也 不太 清楚 deutsche 应该 好像 是 荷兰 
+NI52MBQ_0201 1086884 1089702 CS 我 也 不 清楚 but the common practice is that
+NI52MBQ_0201 1092877 1100511 CS 带 过去 那边 开设 银行 之类 的 吧 对 当然 如果 用 visa 也是 可以 的 啦 这样 就 不用 这么 麻烦 了 嘛
+NI52MBQ_0201 1102274 1106350 CS 对 那个 就是 主要 的 一个 hindering hindering factor
+NI52MBQ_0201 1111245 1113360 ZH 应该 没有 吧 不过
+NI52MBQ_0201 1124668 1131988 ZH 可我 这个 我 不太 清楚 诶 不过 照 惯例 来说 我想 应该 是 不可能吧
+NI52MBQ_0201 1131988 1134840 CS 因为 第一点 是 the currency will be different
+NI52MBQ_0201 1134840 1138296 ZH 然后 呢 那个 会 那个
+NI52MBQ_0201 1140940 1143220 CS exchange rate 没有 这么 影响 吧 可能
+NI52MBQ_0201 1143650 1146410 CS banks within the bank itself 他们 会用 一样的 exchange rate 吗
+NI52MBQ_0201 1146410 1153070 CS 就是 currency 的 difference 所以 如果 说 我们这边 是用 (呃) 我们 的 户口 是用 (呃)
+NI52MBQ_0201 1153070 1155760 CS 新加坡 dollars 然后 那边 是用 美金 吗
+NI52MBQ_0201 1156409 1161074 CS for u. s. 所以 可能 就 没有 这么 容易 汇 过去
+NI52MBQ_0201 1162049 1180230 CS 在 新加坡 是 我们 是 不 可以 开 foreign bank 其实 我 我有 尝试 过 啦 不过 他们 是说 除非 是 好像 说 一些 大的 机构 才 可以 开 私人 像 我们 这种 单~ 单一的 一些 individual 的 一些 deposits 是 其实 是 不可以 set up 一个 foreign account 的
+NI52MBQ_0201 1183311 1188190 CS 可能 就是 要到 那边 去 才 从在 viena 自己 下 一个 account 吧
+NI52MBQ_0201 1193393 1196123 ZH 会不会 很 危险 我 也是 蛮 担心的
+NI52MBQ_0201 1198000 1199820 CS 对 所以 需要 declare 是吗
+NI52MBQ_0201 1202375 1203029 ZH 是吗
+NI52MBQ_0201 1207362 1209602 EN ten thousand dollars okay
+NI52MBQ_0201 1214217 1216773 CS okay 就是 要 declare lah 不用
+NI52MBQ_0201 1236629 1242320 ZH 他 会 理解啦 会 看开 一点 就 这样 还好啦
+NI52MBQ_0201 1242320 1244920 CS 因为 我 也是 蛮 担心的 it's one of my concerns ah
+NI52MBQ_0201 1249854 1254853 CS 是吗  哦 会有 preferential treatment ah
+NI52MBQ_0201 1256486 1257905 EN ah oh check ah
+NI52MBQ_0201 1259035 1260899 ZH 所以 这 时候 怎么 说 呢
+NI52MBQ_0201 1263402 1265834 EN oh travel's check okay
+NI52MBQ_0201 1267651 1269806 EN i see i see
+NI52MBQ_0201 1271720 1275715 ZH 哦 所以 就是 不是带 一~ 一大笔 的 现金 啊 这样 还好 吧
+NI52MBQ_0201 1276547 1281235 CS 这样 如果 是 european countries 怎么办 是不是 一样的 也是 可以用 traveler's check
+NI52MBQ_0201 1285423 1287723 CS oh okay okay 这样 可以去 问问看
+NI52MBQ_0201 1290485 1291805 ZH 可是 要有 对
+NI52MBQ_0201 1296316 1302960 ZH 对 应该 去看 因为 最近 我 其实 昨天 也是 刚刚 换的 两千块 因为 现在的 (呃)
+NI52MBQ_0201 1302960 1307220 CS 那个 兑换率 蛮 favorable 的 对 所以 就 趁机 先 换一点 先 然后
+NI52MBQ_0201 1307220 1311362 ZH 到 到 蛮接近 的时候 再换 多一点吧
+NI52MBQ_0201 1313326 1317587 ZH 就 最近 几个月 掉的 蛮 厉害的 有 对
+NI52MBQ_0201 1320241 1327480 ZH 希腊 对 所以 我看 大概 有 一点 影响 吧 不过 最近 那个 欧盟 其实
+NI52MBQ_0201 1327480 1332220 CS 已经 推出 一些 措施 to actually bail greece out of this crisis
+NI52MBQ_0201 1332220 1338882 ZH 所以 我想 可能 过 几个月 可能 会 回去 没有 这么 低的 一个 水平吧
+NI52MBQ_0201 1340178 1344589 ZH 嗯 昨天 我 兑换 是 一 比 一点八九七
+NI52MBQ_0201 1347789 1354330 CS 不过 在 应该 是 差不多 在 一点八八 左右吧 如果 是 好像 我们在 网上 check 的话 的 actual
+NI52MBQ_0201 1354330 1356760 CS actual exchange rate 应该是 一点八八 左右
+NI52MBQ_0201 1363279 1370524 ZH 不过 通常 我们 在 网络 上 看到 的 那个 兑换率 我们 应该 是 换 不到 这么 好的 价钱吧 对哦
+NI52MBQ_0201 1371720 1376430 CS 我 是 去 那个 money exchange 跟 那个 货币 兑换商 换的
+NI52MBQ_0201 1376430 1385206 CS bank 的话 可能 他的 兑换率 又会 通常 会比 这些 money changers 来的 不好 一点 对
+NI52MBQ_0201 1385206 1398561 CS 当然 他们的 优势 蛮大的啦 就是 说 他们 当 他们 买的 时候 他们 会 买得 蛮低 的 他们 卖 哈 就会 卖 比较 高 啦 the spread will be much larger than the the money changers have 对
+NI52MBQ_0201 1402520 1415905 CS 不过 对呀 there are lot of money may changes around 就好像 昨天 我是去 raffle's place ah 他 单单 一个 <unk> 可能 就有 超过 十多千 对 所以 它的 竞争 是 蛮 激烈 的啦
+NI52MBQ_0201 1418821 1426429 CS 不同的 (呃) 不同的 money changers 他 可能 会 在 不同的 汇币 货币 上面 会有 一些 优势
+NI52MBQ_0201 1426429 1440987 CS 就是说 可能 a money changer 美金 会 比较 好 然后 b 的 可能 他的 人民币 啊 之类的 会 比较 好 所以 (呃) 就是 要看 货比三家 嘛 就是 到处 走走 那种 看 最好的 然后 就跟 哪一家 换吧
+NI52MBQ_0201 1451314 1453074 ZH 准备 什么 考试 啊
+NI52MBQ_0201 1454427 1456940 CS 就是 那 那 五科 吧 but before that
+NI52MBQ_0201 1456940 1460370 CS 要 赶完 一些 projects 和 assignments
+NI52MBQ_0201 1460760 1463350 CS 就是 (呃) 下个星期 有 projects due
+NI52MBQ_0201 1463350 1467180 ZH 对 要 做完 嘛 不然 不可以 没有 时间 开始 读了
+NI52MBQ_0201 1468207 1474320 CS 所以 严格 来说 差不多 只有 一个 星期 的 时间 准~ 一个 星期 左右 的时间 to prepare for the exams
+NI52MBQ_0201 1475998 1480265 CS which is around 差不多 three weeks three semesters yes
+NI52MBQ_0201 1488279 1493180 CS 也好 啦 嗯 还 不错啦 因为 这个 学期 是蛮 lucky 的
+NI52MBQ_0201 1493180 1496871 CS 因为 the exam schedule itself 是 排的 还蛮分开的
+NI52MBQ_0201 1496871 1508317 CS 就像 有 差不多 三天 左右 时间 in between the different mo~ (er) papers so 应该 是 有 时间 准备吧 希望 是 应付 得来 咯
+NI52MBQ_0201 1512701 1517530 CS percentage ah 就是 通常 都是 final exam 会占 差不多 五十 percent 吧
+NI52MBQ_0201 1517530 1519950 CS 然后 p~ (呃)
+NI52MBQ_0201 1519950 1522190 CS projects 差不多 二十 percent
+NI52MBQ_0201 1522190 1524670 CS then mid term papers 二十 percent
+NI52MBQ_0201 1524900 1527170 CS 然后 class participation 十 percent
+NI52MBQ_0201 1528092 1533330 CS 主要 是 这 这样 分配啊 通常 都是 大同小异 就是 在 这个 percen~ (er)
+NI52MBQ_0201 1533330 1536610 CS distribution 上面 有 一些 很小 的 更动 之类 的 吧
+NI52MBQ_0201 1540299 1548480 CS 嗯 也 不是 单单 说 如果 有 到 然后 就会 有 分数 吧 是要 participate ma
+NI52MBQ_0201 1548480 1551620 CS 要 参与 discussion ah 之类 的 发表 一些 意见
+NI52MBQ_0201 1551620 1554624 ZH 所以 偶尔 要 在 课堂 上 说说话
+NI52MBQ_0201 1562960 1565790 CS 有些 tutors 他们 会给 机会 好像 每个人
+NI52MBQ_0201 1565790 1572196 ZH 或者 会 点名 让 人家 有 机会 发表 意见吧 不然 的 话 就是 靠 自己 咯
+NI52MBQ_0201 1572196 1577450 CS 有的 也要 要 争取 opportunity 有 有
+NI52MBQ_0201 1579739 1581179 CS preview 什么 意思
+NI52MBQ_0201 1586190 1603120 CS 哦嗯 需要啦 因为 我们的 这科 其实 蛮 我们 所需~ 这个 business 跟 accountancy 这两科 蛮多时间 都是要 怎么说 to actually do some more of self study 之类的东西 所以
+NI52MBQ_0201 1603120 1607270 CS our course work is actually very little compared to engineering 之类 可能 他们
+NI52MBQ_0201 1607270 1618935 CS 上 engineering 的 一些 学生 他们 可能 一个 星期 会上 二十多个 小时 的课 我们 相比之下 我们 只是 一个 星期 大概 有 差不多 十五 十六 个 小时吧
+NI52MBQ_0201 1618935 1641073 CS but then the time other than in class other than being in class time will be spent on having to prepare for (er) lessons as well as to do our projects 所以 相比之下 我们 要 (呃) 比较多 free time but then 也要 学会 自己 怎样 分配时间 来 去做 这些 不同的 一些 requirements lah
+NI52MBQ_0201 1646801 1650660 CS 因为 (呃) different courses 他们 有 指定的 material 嘛
+NI52MBQ_0201 1650660 1661169 CS 那些 (呃) like reference books 所以 从 那边 从 那边 大概 会 需要 课前 需要 做一些 reading lah 这是 难免的啦
+NI52MBQ_0201 1674024 1682308 CS sometime you can actually buy second hand book also lah 嗯 因为 我们 之前 我 蛮多的 我的 一些 reference books 都是 从
+NI52MBQ_0201 1682308 1684378 CS seniors 他们 那边 传下来的
+NI52MBQ_0201 1684378 1688990 CS 就说 他们 有些人 会 买 first hand 然后 他们 就会
+NI52MBQ_0201 1688990 1694663 CS 他们 用过了 嘛 then 他们 没有 需要 的话 then they will pass it down then maybe 下来的 lower rate lah
+NI52MBQ_0201 1694663 1705420 CS 所以 这样 一来 对 双方 都好 嘛 我 觉得 因为 到头来 我们 就 没有 不 需要 还 因为 一本 新的 书 可能 要 fifty sixty dollars
+NI52MBQ_0201 1705420 1710450 ZH 所以 其实 是 蛮贵的 你看 如果 是 四科 的 话 就 差不多 两百 到 三百块 了
+NI52MBQ_0201 1710450 1713740 CS 所以 most of the time i'll try to see whether my seniors will have
+NI52MBQ_0201 1713740 1718057 EN like the reference material and maybe get second hand or even third hand books
+NI52MBQ_0201 1718057 1724990 CS 因为 反正 只是 用 一个学期 嘛 所以 也 不需要 除非 它 它的 editions 有 一些 更动 啦
+NI52MBQ_0201 1724990 1734083 CS 就 没有 办法 不然 的 话 可以 用 上个 学期 (呃) senior 传下来 一些书 还是 蛮 不错 的啦 我是 这样 觉得
+NI52MBQ_0201 1741586 1754204 CS 嗯 需要啦 不过 可能 时间 不同 学期 他们 所 注重 的 东西 会~ 会换吧 and over time the the structure of the paper will change over also
+NI52MBQ_0201 1754204 1767074 CS 所以 做 (呃) 主要是 看一些 看一下 how the questions are being phrase lah 然后 我 觉得 是 比较 重要 的
+NI52MBQ_0201 1767074 1778750 CS 在 (呃) 会 再 试出 还是 什么 之类 的 不过 就是 做了 会 比较 安心啦 这是 我 个人的 一个 preference lah
+NI52MBQ_0201 1778750 1781663 CS 就是 会 让我 比较 prepared for the papers
+NI52MBQ_0201 1781663 1784782 ZH 不然 会 做 那个 会 手忙脚乱 之类的
+NI52MBQ_0201 1791546 1796390 CS two hour to two and a half hours 不同的 (呃) papers
+NI52MBQ_0201 1796390 1798850 CS 大概 都是 在 这两个 range 之间
+NI52MBQ_0201 1799410 1807301 CS finance module 会 比较 比较 短 差不多 两个 小时 accounting 的 module 会长 差不多 在 两个 小时半 之间吧
+NI52MBQ_0201 1812866 1815140 EN finance of- finance itself
+NI52MBQ_0201 1828000 1830370 CS finance wise 不同的 科目
+NI52MBQ_0201 1830720 1834790 CS 主要 也是 有 calculations 像 所说的 因为 我们有 business
+NI52MBQ_0201 1834790 1849160 CS (er) business 的 那些 equations 之类的 好多 derive certain values ah 像 上次 所说的 所以 (呃) 会有 一些 structure questions 会 需要 我们 用到 这些 嗯 calculations
+NI52MBQ_0201 1849160 1851850 CS 当然 也是 有可能 一些 multiple choice questions
+NI52MBQ_0201 1851850 1853190 ZH 就是 (呃)
+NI52MBQ_0201 1853190 1856380 CS 考~ 考一下 我们 主要 我们的 一些 theory based
+NI52MBQ_0201 1856380 1862306 CS 看 我们 了解 一些 一些 (呃) theories within the finance module itself
+NI52MBQ_0201 1863645 1867760 CS 因为 我 就 觉得 finance 这 这门 课
+NI52MBQ_0201 1867780 1873827 CS 主要 the final paper 就是 比较 比较 会 比较 实一点 就是 theory 跟 calculation 之类 的 吧
+NI52MBQ_0201 1874222 1879960 CS 比较 (呃) 真正 可以 学习 到 比较 多 东西 会在 那个 准备 那个 project itself
+NI52MBQ_0201 1879960 1883752 CS 因为 project 你要 考虑 到 很多 不同 的 一些 因素
+NI52MBQ_0201 1883752 1887340 CS (er) pa~ the final paper 还有 一点 就是
+NI52MBQ_0201 1887340 1893079 CS ah final paper 他会 给你 (呃) 就是 那些 information 然后 从 那边 就 自己去 calculate
+NI52MBQ_0201 1893079 1896250 CS 不过 project 的话 这 information 你要 自己 去找
+NI52MBQ_0201 1896250 1901350 CS 啊 从中 会 学习 到 比较 多 东西啦 所以 真正 学习的 是 那个 project itself
+NI52MBQ_0201 1902117 1909210 CS fin~ the paper 当你 做那个 project 了 那个 paper 应该 是 看起来 应该 比较 轻松 啦 relatively easier lah
+NI52MBQ_0201 1913555 1914333 ZH 两个小时 多
+NI52MBQ_0201 1916161 1917908 ZH 所以 是 可能 两个 小时
+NI52MBQ_0201 1917908 1921421 CS project 就是
+NI52MBQ_0201 1922246 1930160 CS 嗯 差不多吧 有 蛮长的 时间 不过 通常 我们 除了 花~ 足~ 真正 花时间 是 around one month 左右啦
+NI52MBQ_0201 1930160 1935170 CS 就是 near the <unk> to the deadline maybe one month before then 我们 就会 开始
+NI52MBQ_0201 1935170 1938588 ZH 忙 忙 忙 然后 最后 赶出来啦 对
+NI52MBQ_0201 1939554 1941817 CS 不过 projects 真的 是 获益不浅 啊
+NI52MBQ_0201 1952015 1965845 CS 嗯 对 有 也 不一定 是说 有 这种 假 不过 你 也 没有 办法 一定 要去 做 而且 要 自己 去 了解 你 要 先 了解 才 可以 做 所以 that's where the learning process (er) comes in correct
+NI52MBQ_0201 1970251 1974500 CS 因为 我 一个 elective ma 所以 那个 elective 就 不需要 做 project
+NI52MBQ_0201 1974500 1978326 ZH 之~ 其他的 都 需要 做 所以 是 蛮 辛苦 的
+NI52MBQ_0201 1978326 1990030 CS 对 不过 有些 已经 做完了 所以 剩下 就 剩下 最后 一个 所以 就是 现在 是 赶在 把 这个 在~ 在 这个 星期 做完 可能 就 有时间 prepare for the final paper
+NI52MBQ_0201 1996045 2004531 CS 嗯 多少 个 page 有些 他们 是 没有 规定啦 不过 有些 可能 就是 说 在 可能 大概 在 twenty page 左右
+NI52MBQ_0201 2004531 2009022 ZH 对 不过 有时候 他们 也 不是 不是 很 喜欢 我们 写 太多
+NI52MBQ_0201 2009022 2011360 CS 会 limit to maybe ten pages 之类的 啦
+NI52MBQ_0201 2011360 2016031 ZH 就是 要 看 我们 怎样 把 那个 重 重点 写出来啦 对
+NI52MBQ_0201 2025926 2031341 CS 嗯 其实 主要是 因为 (呃) 那个 i'm able to clear more courses there lah
+NI52MBQ_0201 2031341 2045698 CS (呃) 就是 因为 这个 instep 就是 我们 学校的 那个 主要的 一个 嗯 留学的 一个 这个 (呃) 活动啊 对 这个 (呃) scheme 所以 出 (呃) instep
+NI52MBQ_0201 2045698 2053540 CS i. n. s. t. e. p. 是 international student exchange program ah 对
+NI52MBQ_0201 2053540 2061405 ZH 就是 我们 主要 一个 (呃) 交流的 一个 (呃) 活动 之一 啦 就是 我 我们 其中 一个 学生 会到 另外 一个 国家去
+NI52MBQ_0201 2061405 2067074 EN and other students from the overseas country will choose coming to study in n. t. u. lah for one one semester
+NI52MBQ_0201 2067727 2075880 CS 而且 他们 这个 嗯 活动的 actually 他们的 partner universities 其实 还 蛮多的 就是 好像 europe 有啊
+NI52MBQ_0201 2075880 2077440 CS (er) asia 也是 有
+NI52MBQ_0201 2077440 2084969 CS 然后 (呃) america 甚至 south africa 跟 mexico 都有 啦
+NI52MBQ_0201 2084969 2088626 CS 不过 可能 比较 罕~ 罕见啦 比较 rare 的 对
+NI52MBQ_0201 2088626 2096562 CS 然后 (呃) 就是 主要 我 是 我 怎么 选的话 就是 many depends on how i see the- how many courses i can match
+NI52MBQ_0201 2096562 2101837 CS 最 重要 我就 觉得 是 要 可以 好像 match 到 我 一些
+NI52MBQ_0201 2101837 2105170 CS (呃) 我们 (呃) n. t. u. 所学的 一些 courses
+NI52MBQ_0201 2105170 2109181 CS 可以 跟它 一起 就是 说 如果 我在 那边 take 了 这个 course
+NI52MBQ_0201 2109181 2112660 CS 就是 说 我在 回到 回来 就~ 就 不用再 clear 这个 course 了
+NI52MBQ_0201 2113183 2116299 EN that's why they calls~ (er) what they call (er) course matching
+NI52MBQ_0201 2119584 2123940 ZH 嗯 也 不一定 所以 要看 那个 到 当 （啊）
+NI52MBQ_0201 2123940 2126590 CS 就是 说 oh en the host university 的 一些 科目
+NI52MBQ_0201 2126930 2130370 CS 我们 (呃) before 我们 actually apply 我们 要 需要 submit
+NI52MBQ_0201 2130370 2133520 CS 给 我们 学校 的 一些 administrator to approve
+NI52MBQ_0201 2133520 2140380 CS 看 他们 教的 东西 跟 我们 学校 的 课程 是不是 大概 是 一样 如果 是 差不多 可能 eighty to ninety percent
+NI52MBQ_0201 2140380 2142330 CS similar then 他们就 可以 (呃)
+NI52MBQ_0201 2142330 2152602 CS match lah 就说 你的 你的 since match so we take the course in the host university 然后 我们 回来 就 不用 再去 take 这同一科 course lah 对
+NI52MBQ_0201 2155742 2158114 ZH 什么 意思 呢
+NI52MBQ_0201 2163019 2166574 EN sister schools partner schools ah ah partner university
+NI52MBQ_0201 2181169 2186830 CS 对呀 对呀 (呃) 有 当然 其中 有考上 我是 希望 去到 (呃) european countries lah 就是
+NI52MBQ_0201 2186830 2190360 ZH 因为 我 觉得 这个 是个 蛮难的 对 就是
+NI52MBQ_0201 2190360 2193280 CS 可以在 europe 待 差不多 半年 之 左右
+NI52MBQ_0201 2193280 2196637 CS 然后 可以 去 tour 整个 europe mah 对不对
+NI52MBQ_0201 2196637 2205476 CS 然后 (呃) 所以 选了 europe 了 然后 就是 看 哪 哪一些 国家 是比较 可以 clear 比较多 courses 的
+NI52MBQ_0201 2205476 2210430 CS (er) vienna 可以 可以 clear 超多 蛮 就是 蛮多的
+NI52MBQ_0201 2210430 2214380 CS 啊 可以 clear 到 差不多 可能 可以 clear 七个 modules in one semester
+NI52MBQ_0201 2215559 2219060 ZH 对 因为 其~ 听说啦 听说啦 我也 不太 清楚 不过
+NI52MBQ_0201 2219060 2222290 CS 而我 希望 可以 clear 差不多 five to six 就 应该 是 足够了
+NI52MBQ_0201 2222290 2229616 CS 然后 维也纳 的 生活 是 (呃) 的 living standards is course 维也纳 是在 中 (呃) 在 东欧吗
+NI52MBQ_0201 2229616 2235140 CS so european east europe countries will be the living standards will be lower lah 所以 hopefully
+NI52MBQ_0201 2235140 2250449 CS 他的 开销 会 没有 这个 昂贵啦 可能 比起 意大利啊 (呃) 听说 那个 (呃) 丹麦 瑞~ 瑞典 那边 瑞典 之类 的 国家 可能 的 expense is much much higher also 挪威啊 之类的
+NI52MBQ_0201 2250449 2254281 CS 所以 尽量 avoid 那些 国家 所以 就 选了 维也纳
+NI52MBQ_0201 2254281 2258972 CS 应该是 comparatively 在 europe 可能 会 比较 便宜 一点吧
+NI52MBQ_0201 2266611 2272390 CS 要 when you enter the universities 然后 你会 看到 seniors 他们 都会 去留学 然后 view 很好
+NI52MBQ_0201 2272390 2275800 CS 看起来 都 蛮好玩的 然后 会回来 会 分享 多 experiences
+NI52MBQ_0201 2275800 2282341 ZH 所以 应~ 都会有 憧憬 说 有一天 去会 去那边 自己 体验一下吧 对
+NI52MBQ_0201 2284731 2300339 CS 没有 去 (呃) 不一定 是去 维也纳啦 (呃) 就是 去 europe 吧 去 america 之类的 维也纳 之前 有 一个 朋友 的 朋友 有去过 也要去 可能 会从那 他 那边 打听 一些 消息吧
+NI52MBQ_0201 2300339 2304223 ZH 不过 好像 我 一些 朋友 现在 在 意大利 啊 在 荷兰
+NI52MBQ_0201 2304223 2316546 CS 然后 他们 去 去玩 欧洲 的 时候 他们 会 经过 维也纳 然后 他们 会 给我 说 好像 哦 这个 地方 很好 这个 地方 很好 所以 我也 来过 大家 有读 然后 try this school and this <unk> 之类 的 东西啦
+NI52MBQ_0201 2316546 2318830 ZH 所以 是 蛮期待 的 啦
+NI52MBQ_0201 2323469 2326893 CS 对 can go can go there lah 对
+NI52MBQ_0201 2329208 2331659 ZH 对 这个 是一个 蛮大 的 考量
+NI52MBQ_0201 2331659 2334715 EN a huge ceiling point definitely
+NI52MBQ_0201 2335787 2343551 ZH 现在 因为 据我 据我 所说 我是 据我 所知 啦 当我 去的 时候 是 应该 是在 今年 年尾嘛
+NI52MBQ_0201 2343551 2354436 ZH 所以 会有 一些 同样 时间 会有 一些 其他 的 朋友啊 可能 在 意大利 挪威 英国 德国 苏格兰 之类的啦
+NI52MBQ_0201 2354436 2361470 ZH 所以 大概 我 也是 已经 准备 会去 这些 地方 可能 在 这些 地方 会 有人 接应 之类的 （ppl)
+NI52MBQ_0201 2361470 2369409 CS yup so other then that then 就会 the other expense of course you have to forget yourself already as a for acommadation wize
+NI52MBQ_0201 2378737 2387961 CS the courses itself is in english but 维也纳 是 austria lah 奥地利 啊 他们 会用 德文 german 也是 one of the main languages 你有 of course
+NI52MBQ_0201 2387961 2392650 CS 如果 没有 错的 话 他们 应该 英文 应该 是还 okay lah 蛮 fluent 的
+NI52MBQ_0201 2392650 2395960 CS 不过 我们 去 那边 如果 没有 错 的话 需要 上一个 basic
+NI52MBQ_0201 2395960 2397878 EN german beginner's course ah
+NI52MBQ_0201 2397878 2403988 ZH 就是 基本 上 可能 会学一些 讲 (呃) 怎样 沟通 一些 比较 常用的 一些 语言吧
+NI52MBQ_0201 2403988 2407551 CS 应该 会对 我们 在 那边的 stay 会 有所 帮助
+NI52MBQ_0201 2407551 2417285 CS 不过 我 也是 有~ 有 听说 就 好像 说 我们 学的 东西 当你 问 然后 他们 回答 的 时候 你就 听不懂 他们 在 说 什么 you will beyond even understand what they are trying to sa~
+NI52MBQ_0201 2417285 2420189 EN what they are response to be so
+NI52MBQ_0201 2420189 2422405 ZH 再看 吧 尽量 咯
+NI52MBQ_0201 2425406 2429772 CS 为 听说 德文 是蛮 难学 的 german itself yes
+NI52MBQ_0201 2433371 2440591 CS 我 那个 是法文 对 franch is 有分啊 对 上次 我学 学了 三个月 就 放弃 了
+NI52MBQ_0201 2440591 2445181 ZH 中一 的 时候 因为 是 蛮 辛苦 的 对 所以
+NI52MBQ_0201 2448456 2452554 ZH 音乐之都 吧 嗯 对 要去 看
+NI52MBQ_0201 2466303 2467484 ZH 我也 不太 清楚 啊
+NI52MBQ_0201 2471538 2475434 ZH 哦 小神童啊 对 演 莫扎特 的 时候 演的
+NI52MBQ_0201 2482669 2488227 CS 差不多 对啦 september late august to september 的 时候 应该 会 飞过去
+NI52MBQ_0201 2488227 2496910 CS 因为 那个 那个 course (er) will actually start in october 十月 才 开始 可能 之前 就 可以 先去
+NI52MBQ_0201 2497886 2503770 CS 去 travel 先 对 然后 因为 他的 semester 会在 january
+NI52MBQ_0201 2504350 2506670 CS january 差不多 january 才 会完 然后
+NI52MBQ_0201 2506670 2510317 CS 到时候 n. t. u. 的 new semester 就会 开始了嘛
+NI52MBQ_0201 2510317 2517057 CS 所以 到时候 应该 是 没有 什么 时间 去 travel 所以 应该 是 先去 travel 先 暂时 是有 这个 打算啦
+NI52MBQ_0201 2527221 2539220 CS 学校 没有 说 有什么 subsidy 就是 也 就是 说 就是 说 我们 不用 不需 付 那边 的 学费 而 照常 付 我们 n. t. u. 的 学费
+NI52MBQ_0201 2539220 2542478 CS 因为是 exchange mah 对 然后
+NI52MBQ_0201 2542478 2545003 CS 不过 有 一些 financial assistant schemes lah
+NI52MBQ_0201 2545003 2549070 CS 就是 说 好像 可能 可以 借 一些 interest free loans 之类的 跟 银行
+NI52MBQ_0201 2549070 2553533 CS 如果 真的 是 有 需要 的话啦 然后 还有一些 scholarship 之类的 东西 咯
+NI52MBQ_0201 2557622 2561369 ZH 也 不一定 这 就要 看了 看 你的 申请了
+NI52MBQ_0201 2565990 2572739 CS 如果是 scholarships 的话 可能 成绩 会有 一定 影响 吧 如果是 financial assistant 就是 要 看你的 家境吧
+NI52MBQ_0201 2578024 2583180 CS rejection 哦 当你 刚开始 to apply for this in step program 的 时候
+NI52MBQ_0201 2583180 2586950 CS 你 需要 meet 一些 certain criteria 就 好像 你的 成绩
+NI52MBQ_0201 2586950 2592130 CS 你的 那个 g. p. a. 要在 三点六 以上啊 之类的 才可以 被 accept
+NI52MBQ_0201 2592130 2596764 CS 才 有 机会 被 considered for this applica~ acceptance 对
+NI52MBQ_0201 2598278 2599259 ZH 嗯 差不多啦
+NI52MBQ_0201 2605448 2611254 ZH 哦 对啦  当然 对 所以 对 咯 所以
+NI52MBQ_0201 2616323 2624933 CS 其实 蛮多的 嗯 以为 可能 是 我们 的 科~ 科系 的关系吧 business 蛮~ 蛮 容易 拿~ 拿 三点六 以上的啦
+NI52MBQ_0201 2625950 2632029 ZH 对 所以 说 这个 可能 没有 一个 大考 而且 要看 多~ 多少 人 申请啦
+NI52MBQ_0201 2632029 2634870 CS 因为 他的 数额 有限 the vacancies are limited
+NI52MBQ_0201 2634870 2642639 CS so we will see the number of people who apply 然后 从中 你 需要 你 也 需要 给 他们 你的 priority 就是 说 因为 我们 可以选
+NI52MBQ_0201 2642639 2649294 CS 到 五科 五个 university mah so they have to see the priority 然后 从中 他们 会 决定 咯
+NI52MBQ_0201 2649294 2652770 ZH 当然 如果 你 成绩 比较 好 会 的话 会 占 优势啦
+NI52MBQ_0201 2652770 2657810 CS 嗯 这个是 单 第 第一个 嗯 一个 cut off 的一个 考量
+NI52MBQ_0201 2659874 2663584 CS 第二个 就是 match course (er) whether you can match the courses loh
+NI52MBQ_0201 2663584 2678663 CS 因为 有些 好像 我 有 一个 朋友 本来 是 要去 欧洲的 其中 一个 university lah 不过 最后 发现 他的 courses 他 不可以 match 到 一些 courses 所以 就 没有 办法 去了嘛 不然 就 因为 如果 你 这样 你去 的话 也
+NI52MBQ_0201 2679731 2684248 CS 就是 没有 没有 带 太大 的 意义吧 因为你 clear 一些 courses 嘛
+NI52MBQ_0201 2684248 2688916 ZH 对 所以 就 只好 放弃 然后 再~ 再 选多一个 另外一个
+NI52MBQ_0201 2688916 2692875 ZH 不过 可能 机会 就比较 比较 少了
+NI52MBQ_0201 2696163 2700920 CS it takes quite long 现在 我们 刚 交完 我们的 application form 就说 我们
+NI52MBQ_0201 2701420 2706237 CS (呃) 学校 会帮 我们 submit to the host university for their acceptance
+NI52MBQ_0201 2706237 2712768 CS then 从中 如果他们 (呃) accept cause 现在 只是 我们学校 accept 我们 去 这个 program
+NI52MBQ_0201 2712768 2717140 CS 然后 要等 host university accept 我们的 一个 application
+NI52MBQ_0201 2717140 2722108 CS then from then on then 他们会 寄回 他 那个 acceptance package
+NI52MBQ_0201 2722108 2728937 ZH 然后 我们 从中 要 订 机票 啊 订 住宿啊 之类的 东西 从~ 到时候 又要 开始 忙了
+NI52MBQ_0201 2728937 2733667 CS 就是 现在 忙完了 appliation 的 阶段 了啦 现在 在等 他们的 回复
+NI52MBQ_0201 2738184 2743893 CS 他们 会有 residence (er) dormitories within the school itself 吧 通~ 大多数 学校 都 都会 有
+NI52MBQ_0201 2743893 2750988 CS 嗯 听说 维也纳 都有 还 蛮不错的 比起我们 n. t. u. 的 什么 好的 对
+NI52MBQ_0201 2756650 2762370 CS 我也 不太 清楚 了 不过 单 听说啦 嗯 for european
+NI52MBQ_0201 2762370 2764650 CS (er) for an exchange in europe 的话
+NI52MBQ_0201 2764650 2773523 CS 通常 the whole overall expenses 会 差不多 range between 一万五 到 可能到 两万吧 可能 没有到 两万 差不多 一万五 左右吧
+NI52MBQ_0201 2775582 2780730 CS 对 差不多 五个月 差不多 五个月 之类的啦 当然 要 包括 你 看你 travel
+NI52MBQ_0201 2780730 2783027 ZH 看你 的 自己的 消费吗
+NI52MBQ_0201 2783027 2785552 ZH 你买 什么 东西 吃 什么啦
+NI52MBQ_0201 2785552 2791343 ZH 不过 听说 有些 地方 吃是 蛮 就是 蛮贵的 像 我 一个 朋友 现在 是在 瑞士
+NI52MBQ_0201 2791343 2801393 CS 啊 他们 就是 煮来吃 因为 一 一定 要我 beware of expenses 然后 他们 通常 都会 在 在 自己的 房间 里面 煮来吃啦 对
+NI52MBQ_0201 2805190 2807795 CS (呃) 会 会要 带 蛮多 luggage 的 对
+NI52MBQ_0201 2807795 2820508 CS 所以 听 他们 讲 他们 是说 (呃) 好像 选 一些 航空 公司 也要看 如果 他们有 (呃) exce~ excess luggage pays oh 可能 就会 比较 好 一点啦 因为 这次 要 带 蛮多 东西 过去的
+NI52MBQ_0201 2822491 2828042 CS 不然 的 话 如果 add on to 那个 luggage 的 charge 就要 多 一笔 费用 也是吗
+NI52MBQ_0201 2828042 2833378 ZH 对 所以 要 很多 东西 要 考量啦 很多 东西 要 准备 对
+NI52MBQ_0201 2836070 2842357 CS 对啦 it worth it lah 我也 觉得 是 it worth the effort to actually prepare for this for program
+NI52MBQ_0201 2848351 2856241 CS 也 不太 清楚啦 不过 会有 蛮多人 整个 学校 都会有 蛮多人 去的吧 可能 二三十 percent 的人
+NI52MBQ_0201 2856241 2858038 ZH 都会 有 机会 去
+NI52MBQ_0201 2860417 2861008 ZH 应该
+NI52MBQ_0201 2863568 2869140 CS business school business school 之类啦 我 我是 认识 蛮多 身边的人 都会有 去的啦
+NI52MBQ_0201 2878777 2879993 ZH 你是 去 哪里
+NI52MBQ_0201 2881266 2883214 ZH 是 美国 哪 哪个 地方
+NI52MBQ_0201 2884273 2890402 CS georgia tech oh 对 新加~ 我们 n. t. u. 也是 有 蛮多 人 去 georgia tech 的
+NI52MBQ_0201 2890402 2895607 CS 而且 蛮 不容易 进的 for engineering 应该 是 比较 难 是吗  对
+NI52MBQ_0201 2899081 2905271 CS i see i see 对呀 georgia tech 现在 我 应该 有 两个 朋友 现在 在 那边 对
+NI52MBQ_0201 2906755 2912139 ZH 有 嗯 美国 都～ 都有吧
+NI52MBQ_0201 2914074 2918193 CS 是 是 engineering 吧 but 我们 这边 n. t. u. 也是 tech lah 对 对
+NI52MBQ_0201 2919070 2922200 CS 对啦 我有 我有 两个 accountancy 的朋友 现在 在 那边
+NI52MBQ_0201 2930209 2930972 ZH 怎么 说 呢
+NI52MBQ_0201 2946063 2950918 CS 是吗 就是 要 travel all of atlanta to actually atlanta and go to other places
+NI52MBQ_0201 2966292 2971802 CS okay atlanta 是在 西边 还是 在 东 哦 东边啊 okay
+NI52MBQ_0201 2972660 2974770 CS 哦 这样 还 不错 嘛 就是 sunny island
+NI52MBQ_0201 2976620 2980085 CS florida 不是 蛮 很像 蛮 阳光 的 一个 地方嘛
+NI52MBQ_0201 2984015 2989382 ZH 对 当然 不过 我看 我 朋友 拍的一些 照片 蛮 是 蛮美的 那个 地方
+NI52MBQ_0201 2991260 2994967 EN yup so i guess different countries will have different experiences lah
+NI52MBQ_0201 2998313 3003970 CS 啊 对 是呀 所以 当你在 america 的 时候 也是 有到 可能
+NI52MBQ_0201 3004460 3007110 CS within u. s. itself 会有 travel
+NI52MBQ_0201 3009900 3015300 CS 会不会 到 可能 canada ah 还是 mexico 之类的 就是 within america itself
+NI52MBQ_0201 3016470 3018840 CS 他们的 domestic flights 所以 会 会贵吗
+NI52MBQ_0201 3020743 3026504 CS 还好啦 听说 euro 的 euro- within europe itself 是 其实 也是 蛮便宜的
+NI52MBQ_0201 3026504 3031729 CS 好像 但 euro 是 可能 就有的 如果 是 幸运 的 话 所以是 嗯 还好 不错啦
+NI52MBQ_0201 3037057 3047822 CS 哦 i think singapore en the budget airline 是 对不对 to book it ma 不过 two dollars 可能 你 还要 加 一些 travel charge
+NI52MBQ_0201 3049142 3051711 ZH 最多 也是 一百块吧 对
+NI52MBQ_0201 3051711 3058203 CS 我 最近 刚 book 了 一个 budget travel 去 越南 vietnam
+NI52MBQ_0201 3058203 3065758 CS 可能 在去 维也纳 之前啦 跟我 一些 朋友去 可能 去 几天 而已 啦 可能 four or five days only
+NI52MBQ_0201 3065758 3069507 ZH 发现 其实 蛮便宜 的 是 差不多 一百 一百零七
+NI52MBQ_0201 3069507 3083107 CS ah two <unk> 所以 就蛮 不错啊 所以 我们就 我们 看 刚好 是 看到 然后 就 两个 小时 内 就 决定 了 okay let's go  所以 就去 就 订了 机票 所以 八月多 的时候 回去 一下子
+NI52MBQ_0201 3085002 3089676 CS 嗯 那个 应该 蛮 容易 的吧 对 可能 比较 靠近 一点 的 时候 再 book 吧
+NI52MBQ_0201 3092190 3095894 CS 现在 traveling 应该 是 比起 以前 应该 是
+NI52MBQ_0201 3096894 3099701 ZH 比较 方便 也 比较 便宜 便宜 蛮多了吧
+NI52MBQ_0201 3102402 3109823 CS 嗯 可能 在 even before that 对不对 现在 with the budget airlines 其实 到 那里 读 要 方便啦
+NI52MBQ_0201 3114857 3120762 CS 也对啦 像是 那时候 我搭 budget 差不多 也要 三 三四百块 吧
+NI52MBQ_0201 3120762 3126540 CS 嗯 我 记得 我有 最后 一次 是去 香港 的 时候 我 有 搭 一个 budget travel
+NI52MBQ_0201 3126540 3131295 ZH 差不多 三四百块 也 不是 说 不会 说 很 便宜 啦 就是 大概 这个 价钱 咯
+NI52MBQ_0201 3136277 3139710 CS 台湾 搭 but 从 新加坡 到 台湾
+NI52MBQ_0201 3142834 3148420 CS 四百多块 我 上次 我去 台湾 我搭 cathay 才 五百多块 而已
+NI52MBQ_0201 3148420 3151980 CS 对 不过 那时候 可能有 promotion 还是 什么 之类的 我也 不大 清楚
+NI52MBQ_0201 3151980 3161362 CS 对 cathay pacific 就是 去 然后 回 差不多 五百多块 所以 我 觉得 比 那时候 比起 budge~ budget 也是 差不多 五百多块
+NI52MBQ_0201 3161362 3166242 CS 所以 也是 差不多吧 所以 就有 选择 搭 cathay 咯 就 比较 舒服一点嘛
+NI52MBQ_0201 3169564 3171964 ZH 是吗 不过
+NI52MBQ_0201 3173726 3179791 EN the leg lay space is more extra lah but if there is a very short plane it's still okay i guess
+NI52MBQ_0201 3180902 3186847 CS forwards 比较 辛苦啦  对啦 也是 对啦 嗯 correct correct
+NI52MBQ_0201 3193390 3199574 CS older correct correct well it's budget mah 对不对
+NI52MBQ_0201 3207030 3209110 CS 也 要看 他们 有什么 sales period
+NI52MBQ_0201 3213124 3214466 ZH 最近 蛮多 的 嘛
+NI52MBQ_0201 3215730 3222305 CS 啊 我是用 jet star 不过 听说 好像 tiger airways air asia 之类的 也是 在 有 蛮多 促销
+NI52MBQ_0201 3223662 3228830 CS 所以 是一个 蛮好的 机会啦 不~ 没有 我只 搭过 一次 就是 jet star
+NI52MBQ_0201 3230964 3239650 CS 还好吧 那个 时候 是 三个 小时 多的 去 香港 的 一个 嗯 一个 flight 所以 蛮 considered 短程 的吧

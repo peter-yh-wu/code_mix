@@ -1,0 +1,135 @@
+UI21MAZ_0102 0 5414 CS 平 时 那 种 weekdays 的 话 四 十 多 个 罢 了 没 错 的 话 四 十 四 十 三 四 十 六 好 像 是
+UI21MAZ_0102 15213 22156 CS 哦 是 啊 现 在 就 是 这 样 啦 就 是 dell 的 support 就 有 分 主 要 两 种 可 以 讲 三 种 啦
+UI21MAZ_0102 22156 26335 CS 一 个 就 是 电 话 打 进 来 有 问 题 我 们 就 check 到 是 hardware 问 题
+UI21MAZ_0102 26335 30494 CS 我 们 就 send engineer 去 他 的 家 帮 他 当 场 帮 他 修 理 咯
+UI21MAZ_0102 30494 32713 CS 这 是 叫 on site service 咯 第一个 咯
+UI21MAZ_0102 32713 42884 CS 然 后 第 二 个 是 customer 可 以 有 些 他 们 warranty 可 以 的 啦 有 那 个 有 买 那- 那 一 类 型 warranty 他 们 就 可 以 去 我 们 的 repair center
+UI21MAZ_0102 42884 50565 ZH 比 如 说 槟 城 的 是 在 那 个 五 条 路 那 边 的 你 就 拿 进 去 里 面 就 放 在 那 边 他 们 修 理 好 了 过 后 你 再 去 拿 回 来
+UI21MAZ_0102 50565 57115 CS 那 第 二 种 第 三 种 是 啊 collect and return 就 我 们 site 派 人 过 去 把 你 的 电 脑 拿 走
+UI21MAZ_0102 57115 61161 CS 过 后 拿 回 去 我 们 自 己 的 workshop 修 理 好 过 后 再- 我 们 再 送 回 给 你
+UI21MAZ_0102 61161 63688 ZH 第 二 跟 第 三 都 一 样 啦 其 实
+UI21MAZ_0102 67844 79545 CS 只 是 还 蛮 sian 的 啦 整 天 坐 着 因 为 迟 早 会 变 肥 整 天 坐 在 那 边 没 有 的 走 咯 因 为 就 是 一 小 时 lunch 罢 了 嘛 你 要 很 准 时 的 那 边 的 discipline 还 蛮 严 的 啦
+UI21MAZ_0102 79545 82218 CS 因 为 你- 我 们 的 电 话 要 有 login 时 间
+UI21MAZ_0102 82218 87523 CS 所 以 你 按 login 的 时 候 他 们 就 会 record ah 你 九 点 login har 没 有 迟 到
+UI21MAZ_0102 87523 96049 CS 你 迟 了 一 分 钟 也 好 他 们 会 啊 过 了 在 同 一 天 里 面 啦 大 概 三 四 个 小 时 过 后 会 有 一 个 report 出 来
+UI21MAZ_0102 96049 98086 CS 你 们 全 部 agent 的 login 时 间
+UI21MAZ_0102 98086 105149 CS 然 后 你 会 有 红 色 就 是 迟 到 很 多 黄 色 是 迟 到 一 点 青 色 是 没 有 迟 到 会 有 一 个 list 出 来 的
+UI21MAZ_0102 105149 115003 CS 是 这 样 算 然 后 呃 你 的 lunch time 也 是 很 准 的 咯 就 你 如 果 吃 多 一 分 钟 的 话 啊 你 回 来 那 个 report 你 也 会 看 到 时 黄 色 红 色 了 咯
+UI21MAZ_0102 115003 122507 ZH 就 好 像 五 颜 六 色 了 然 后 就 这 样 mmm 是 这 样 咯 比 较 严 一 点 基 本 上 多 数 时 间 都 是 要 坐 在 那 边 听 电 话
+UI21MAZ_0102 130185 143657 CS eh  这 种 sensitive 问 题 来 的 喔 呃 会 有 啦 比 较 当 然 是 越 便 宜 的 product 那 个 issue 会 比 较 多 啦 那 种 贵 的 贵 的 系 列 的 那 种 很 少 会 有 问 题 的
+UI21MAZ_0102 147771 148872 EN okay
+UI21MAZ_0102 151741 156164 CS notebook 怎 样 讲 leh 不 要 买  哦 做么 leh
+UI21MAZ_0102 157636 158216 EN ha
+UI21MAZ_0102 161330 164872 CS 嗯 这 是 depends hmm hmm
+UI21MAZ_0102 170425 171254 EN ha
+UI21MAZ_0102 174968 185370 CS hor 因 为 我 之 前 part-time 做 卖 电 脑 的 嘛 那 时 候 我 卖 的 也 有 不 同 的 brand toshiba dell 啊 acer 啊 asus 啊 全 部 我 卖 过 啦
+UI21MAZ_0102 185370 193827 CS 就 最 不好 就 听 到 最多 feedback 不好- 不好 当然 是 最 便宜 那个 brand 就是 a. 字头 的 brand 咯 哈
+UI21MAZ_0102 193827 204889 CS okay 过 后 因 为 dell 跟 然 后 还 有 一 个 c. 字 头 的 brand 他 有 两 个 company 的 okay 那 个 他 走- 走 low end 路 线 的 都 是 会 比较 多 问 题
+UI21MAZ_0102 204889 213962 CS 比 如 说 dell- dell 也 好 啦 他 也 是 他 product 有 分 不 同 的 low end high end 的 嘛 low end 的 当 然 会 问 题 比 较 多 正 常 的 事
+UI21MAZ_0102 215229 221676 CS 然 后 如 果 有 钱 当 然 是 去 买 那 种 mac 了 嘛 apple 你 最 有 最 好 最 安 最 安 全 的 基本 上
+UI21MAZ_0102 228445 231931 CS hmm 也 是 可 以 install 的 mac 也 是 可 以 install 的 走 windows 的
+UI21MAZ_0102 233051 238317 CS 可 以 mac 可 以 走 走 hmm ha 它 可 以
+UI21MAZ_0102 239499 243467 CS 啊 就 你 要 买 他 的 一 个 software 咯 你 走 dual windows 的
+UI21MAZ_0102 243467 245990 CS 两 个 一 个 windows 一 个 mac o. s.
+UI21MAZ_0102 246912 250473 CS ha parallel 的 不 懂 忘 记 什 么 名 了 以 前 记 得 现 在 忘 记 了
+UI21MAZ_0102 256941 265842 CS laptop 咯 都 是 laptop 咯 toshiba 啊 那 些 全 部 都 是 laptop 的 之 前 做 的 那 间 店 现 在 不 在 了 queensbay 的 之 前 在 现 在 不 在 了
+UI21MAZ_0102 267235 270149 CS 啊 是  现 在 变 成 neway 了
+UI21MAZ_0102 270640 276930 CS 已 经 不 在 了 之 前 在 卖 就 toshiba asus acer 这 几 个 brand 咯
+UI21MAZ_0102 283057 291198 CS 这 种 我 不 会 我 没 有 去 管 只 是 以 前 那 种 他 是 那 种 world top one seller 的 现 在 掉 到 变 h. p. 店
+UI21MAZ_0102 291198 293881 CS h. p. 是 第 一 罢 了 dell 好 像 是 第 三
+UI21MAZ_0102 294490 300249 CS 然 后 acer 第 二 acer 他 便 宜 很 多 人 买 很 多 马 来- 马 来 人 买
+UI21MAZ_0102 300249 313917 CS acer 是 马 来 人 买 的 我 发 现 真 的 是 很 多 因 为 它 哈 啊 对 因 为 它 也 是 很 low end 的 他 你 用 可 能 三 千- 三 千 块 acer 你 可 以 买 到 一 粒 toshiba 或 dell
+UI21MAZ_0102 313917 320086 CS 五 千 块 的 东 西 了 他 真 的 是 很 便 宜 那 种 千 多 块 的 laptop 很 多 千 多 块 的 啦
+UI21MAZ_0102 320086 325264 CS 所 以 很 多 马 来 人 买 真 的 是 p. c. fair 的 时 候 你 做 p. c. fair 每 次 acer 都 是 马 来 人 买
+UI21MAZ_0102 325264 328540 CS 华 人 多 数 去 买 那 种 toshiba 那 些
+UI21MAZ_0102 337608 339559 EN 
+UI21MAZ_0102 339559 346458 CS 哦 你 买 compact okay 差 不 多 一 样 其 实 com compact 好 像 是 同 line 的 对 同 样 line 的
+UI21MAZ_0102 350400 351402 EN hmm
+UI21MAZ_0102 353566 354410 EN hmm
+UI21MAZ_0102 356053 358834 EN  okay
+UI21MAZ_0102 362938 373430 CS compact 给 我 的 话 我 不 敢 买 因 为 我 的 在 大 学 的 朋 友 有 好 像 三- 三 个 啊 compact 的 都 是 battery 有 问 题 然 后 也 不 能 耐 的
+UI21MAZ_0102 376646 380309 CS ha na 你 不 能 怪 compact pun 因 为 是
+UI21MAZ_0102 387496 396026 CS hmm 对 对 因 为 battery 而 且 你 也 不 能 怪 这 compact 因 为 battery 其 实 很 多 人 的 battery 都 是 跟 sony 拿
+UI21MAZ_0102 396026 403295 CS 就 算 dell 啊 还 是 什 么 company 啊 最 后 都 是 跟 sony 拿 很 多 就 主 要 battery 的 出 厂 商 是 几 个 罢 了
+UI21MAZ_0102 403295 415083 CS 就 好 像 hard disk 里 面 都 是 拿 western d. 啊 toshiba 还 是 几 个 其 实 很 多 那 种 acer 他 也 是 拿 不 同 厂 商 接 起 来 dell 也 是 拿 不 同 厂 商 接 起 来 的 都 一 样 的 基 本 上
+UI21MAZ_0102 418485 420110 ZH hmm 对
+UI21MAZ_0102 422128 426550 CS hmm 对 confi~ 他 们 的 quality 会 control 有 control 啦 至少
+UI21MAZ_0102 430193 437106 CS mmm 我 本 身 用 toshiba 其 实 mmm okay 我 觉 得 okay toshiba
+UI21MAZ_0102 440031 448256 CS ha 是 哦 有 钱 我 也 会 买 苹 果 的  给 我 的 话 又 美 又- 又- 又 好 用 你 看 现 在 通 街 都 是 i. phone
+UI21MAZ_0102 459931 468008 CS 啊 对 他 就 其 他 很 多 program 不 能 在 他 的 system 上 面 run 咯 是 这 样
+UI21MAZ_0102 471782 478526 CS 啊 对 你 可 以 modify android 机 他 们 要 看 有 没 有 人 unlock 到 罢 了 啦 i. phone
+UI21MAZ_0102 478526 485692 CS i. phone 是 最 so far 是 只 是 jail break 罢 了 啦 他 们 那 种 翻 版 的 jail break 到 然 后 你 去 download 东 西 不 用 钱
+UI21MAZ_0102 488418 489099 EN ha
+UI21MAZ_0102 492514 493201 EN ha
+UI21MAZ_0102 495624 497232 CS 他们 的 system
+UI21MAZ_0102 498288 504289 CS 是 咯 对 因 为 他 的 他 的 i. phone 就 是 run 着 on 他 的 o. s. 就 是 apple 的 o. s. 来 的
+UI21MAZ_0102 507019 508505 ZH 怎样 讲 leh
+UI21MAZ_0102 511441 516165 CS ha ha okay 跑 window 的 啦
+UI21MAZ_0102 532144 533592 ZH 要不要是
+UI21MAZ_0102 538953 546520 CS 自 己 的 这 一 个 不 给 人 家 去 take over 有 机 会 拿 掉 他 那 个 商 机 market
+UI21MAZ_0102 550079 554514 CS 是 哦 ha 不 能 走 flash i. phone 不 能 走 flash 是
+UI21MAZ_0102 565255 586323 CS hmm 是 哦 没 有 办 法 他 们 就 hmm 因 为 他 们 是 已 经 有 那 个 brand 了 他 们 不 怕 人 家 不 怕 没 有 人 去 用 他 们 的 东 西 而 且 designer 全 部 都 是 用 他 们 的 东 西 啦 他 们 已 经 有 一 个 fixed 的 market 在 那 边 所 以 他 们 可 以 不 用 管 其 他 人 它 们 可 以 自 己 改 自 己 的 东 西
+UI21MAZ_0102 600414 608416 CS 啊 你 要 看 的 咯 就 啊 dell 里 面 有 分 我 讲 我 是 consumer 嘛 consumer 跟 small medium business
+UI21MAZ_0102 608416 614552 CS 然 后 就 under 这 个 channel 里 面 就 任 何 的 consumer 他 买 的 电 脑 我 们 都 要 support 咯
+UI21MAZ_0102 614552 624468 CS 有- 有 一 多 数 consumer 当 然 是 最 便 宜 的 是 inspiron loh series 是 x. p. s. 还 有 studio 但 是 有 些 consumer 就 很 有 钱 的 他 去 买 一 个 server
+UI21MAZ_0102 624468 629286 CS 然 后 他 register under 那 个- 那 个 channel 是 consumer 我 们 也 被 逼 要 做
+UI21MAZ_0102 629286 643833 CS 但 是 会 很 少 啦 server 是 已 经 太 over 了 啦 有 些 人 买 那 些 比 较 贵 的 可 能 vostro latitude 或 者 是 radiant line 那 种 series 的 我 们 也 是 要 照 support 咯 只 要 他 的 channel 是 under consumer 我 们 就 要 support
+UI21MAZ_0102 643833 653839 CS 如 果 他 channel 是 under enterprise 就 是 说 那 种 大 的 大 型 的 那 种 company 的 或 者 是 under public 比 如 说 政 府 部 门 的 就 不是 我 们 support
+UI21MAZ_0102 655589 667025 CS 不 是 他 们 不 是 他 们 divide by channel 的 你 进 他 website 的 话 他 们 也 是 分 你 是 small medium business consumer 的 然 后 还 有 enterprise 的 然 后 还 有 一 个 是 那 种 public 的 他 们 分 这 三
+UI21MAZ_0102 667025 681183 CS 啊 因 为 变 成 是 你 一 次 过 你 订 比 较 多 台 啊 所 以 他 的 而 且 你 很 多 那 种 是 做 server 的 server 及 真 的 是 比 较 难 过 后 就 他 是 分 这 样 这 样 service 啦 我 也 不 懂 做 什么
+UI21MAZ_0102 686436 701016 CS 啊 基 本 上 software 没 有 hardware 罢 了 software 其 实 dell 是 有 另 外 一 个 extra warranty 他 是 叫 software support 的 但 是 多 数 人 都 不 会- 没 有 买 啦 因 为 那 个 要 另 外 加 钱 很 贵 然 后 我 们
+UI21MAZ_0102 701016 710853 CS ha 没 有 这 个 必 要 因 为 software 电 脑 有 问 题 format 咯 format window 咯 是 最 快 的 就 software 问 题 解 决 掉 了 嘛 hardware 问 题 罢 了 咯 我 们 是 你-
+UI21MAZ_0102 710853 719081 CS 我 们 会 run test 咯 你 call 进 来 的 话 有 问 题 开 不 到 电 脑 我 们 就 run test test 会 有 error code 的 就
+UI21MAZ_0102 719081 722751 CS 啊 他 们 自 己 有 自 己 的 system 的 好 像
+UI21MAZ_0102 722751 734956 CS 不 是 我 们 叫- 叫 就 只 是 在 电 话 跟 customer 讲 叫 他 按 什 么 什 么 然 后 去 test 的 因 为 dell 的 每 一 个 电 脑 新 的 啦 里 面 有 built in 的 那 个 test system test hardware 的 东 西 的
+UI21MAZ_0102 734956 745593 CS 啊 你 一 开 你 一 开 那 个 你 的 laptop 之 前 你 按 着 f. function key f. n. 你 按 power on 过 后 他 load 完 那 个 dell logo 它 直 接 进 去 那 个 test
+UI21MAZ_0102 745593 750304 CS 所 以 我 们 只 是 需 要 叫 customer 看 什 么 error code 读 给 我 们 听 就 settle 了
+UI21MAZ_0102 760087 774376 CS 啊 可 以 怎 样 讲 他 有 两 个 两 个 phase 第 一 个 阶 段 的 主 要 是 detect hard disk 的 然 后 还 有 ram 啊 还 有 什 么 mother board 的 话 是 mother board 是 最 wide 的
+UI21MAZ_0102 774376 780866 CS 如 果 你 try 那 种 test 都 test 不 到 有 问 题 但 是 那 个 机 那 个 电 脑 是 开 不 到 的 话 多 数 是 mother board 有 问 题 咯
+UI21MAZ_0102 780866 788562 CS 就 是 多 数 赖 给 mother board 嘛 因 为 mother board 是 最 主 要 的 component 嘛 如 果 你 test 到 很 小 的 part 都 没 有 问 题 就 可能 是 mother board 问 题 咯
+UI21MAZ_0102 788562 807669 CS 然 后 那 个 test 第 一 阶 段 完 了 过 后 是 hard disk 什 么 罢 了 嘛 第 二 个 阶 段 有 比 较 detail 的 你 可 以 只 是 test keyboard test 你 的 那 个 touch pad test 你 的 l. c. d. test 他 有 分 出 来 去 全 部 device 的 你 只 需 要 run 那 特 定 的 test 然 后 他 会 有 error 的 code 出 来
+UI21MAZ_0102 807669 813755 CS server 的 话 我 不 会- 不 知 道 我 没 有 我 们 还 没 有 support 到 server 地 步 so far
+UI21MAZ_0102 820840 830917 CS 开 window 开 嗯 开 不 到 嗯 开 window 开 不 到 就 要 看 你 所 谓 开 不 到 window 是 哪 一 个 开 不 到 因 为 customer
+UI21MAZ_0102 830917 842828 CS 啊 进 不 到 windows 也 是 有 很 多 这 种 讲 法 因 为 不 同 customer 的 讲 法 是 不 一 样 的 全 部 讲 进 不 到 windows 但 是 有 一 个 是 看 不 到 从 一 开 机 就 看 不 到 东 西 他 讲 进 不 到 windows
+UI21MAZ_0102 842828 848568 CS 有 一 些 人 是 过 了 dell 的 logo 过 后 黑 色 screen 看 不 到 东 西 他 讲 进 不 到 windows 咯
+UI21MAZ_0102 848568 858958 CS 有 些 是 到 了 login screen 但 是 就 停 在 那 边 please wait please wait 他 也 是 讲 进 不 到 logo 的 啊 所 以 我 们 要 先 搞 清 楚 他 所 谓 的 进 不 到 logo 是 到 哪 一 个 阶 段 先
+UI21MAZ_0102 858958 866443 CS 如 果 他 是 已 经 按 了 power on 有 有 灯 但 是 screen 是 看 不 到 东 西 的 从 一 开 始 就 看 不 到 东 西 那 叫 lupus 了
+UI21MAZ_0102 866443 869007 CS lupus 的 话 我 们 多 数 是 check hardware 了
+UI21MAZ_0102 869007 873982 CS 如 果 那 些 它 是 前 面 都 okay 就 到 到 windows 的 时 候
+UI21MAZ_0102 873982 883469 CS 那 login screen 啊 进 不 到 啊 之 类 可 能 是 software 问 题 咯 那 是 但 是 基 本 上 我 们 会 会 先 做 最 简 单 的 test 是 那 hardware test 先 咯 然 后 进 不 到 windows
+UI21MAZ_0102 883469 889072 CS 最 可 能 最 可 能 就 是 你 的 hard- boot- boot 不 到 你 hard disk 的 问 题 嘛 最 大 的 可 能 性
+UI21MAZ_0102 889072 897775 CS 就 做 那 个- 做 那 个 test 先 咯 我 刚 刚 讲 的 function 加 power on test 如 果 hardware 那 个 hard disk 有 问 题 一 定 会 有 code 跑 出 来 的
+UI21MAZ_0102 897775 902468 CS 他 code 跑 出 来 我 们 就 send engineer 了 最 快 然 后 就 是 叫 engineer 换 新 的 hard disk 给 他
+UI21MAZ_0102 902468 911805 CS 如 果 是 test 全 部 没 有 问 题 的 话 然 后 第 二 个 phase 的 hard disk test 也 没 有 问 题 的 话 format windows 就 这 样 咯
+UI21MAZ_0102 911805 918072 CS 或 者 是 不 是 format 啦 restore 啦 你 按 f. eight 可 以 进 system recovery console 那 边 进 去
+UI21MAZ_0102 918072 924942 CS 再 看 还 有 一 点 是 不 是 能 进 safe mode 咯 能 进 safe mode 进 不 到 windows 应 该 也 是 windows 问 题
+UI21MAZ_0102 924942 931019 CS 不 是 hardware 的 问 题 先 eliminate- eliminate 是 hardware 还 是 software 的 问 题 就 这 样 settle
+UI21MAZ_0102 933482 935461 CS 啊 现 在 全 部 windows seven 现 在
+UI21MAZ_0102 936798 943612 CS wah customer 的 的 电 脑 三 年 四 五 年 前 买 他 warranty 还 在 还 有 warranty 的 话 我 们 还 是 要 support
+UI21MAZ_0102 950152 958931 CS hmm problem 这 些 其 实 基 本 上 两 个 不 同 version 的 windows 啊 seven 是 加 很 多 新 的 东 西 罢 了
+UI21MAZ_0102 958931 966888 CS 然 后 你 要 troubleshoot 的 方 面 其 实 是 一 样 因 为 hardware 归 hardware software 归 software 嘛
+UI21MAZ_0102 966888 969404 CS 我 们 troubleshoot 怎 样 都 是 从 hardware 做 起
+UI21MAZ_0102 969404 978540 CS 肯 定 hardware 没 有 问 题 的 话 我 们 会 说 是 windows 或 者 是 你 电 脑 里 面 software 里 面 有 virus 啊 还 是 什 么 spyware
+UI21MAZ_0102 978540 981874 CS 那 时 候 要 看 他 有 没 有 software support 这 个 warranty 咯
+UI21MAZ_0102 981874 987590 CS 如 果 他 没 有 的 话 我 们 只 是- 只 能 suggest 他 re reload system restore 罢 了 咯
+UI21MAZ_0102 987590 995168 CS 因 为 如 果 讲 system restore 的 话 那 个 save 啊 restore point 你 有 restore point 就 可 以 了 嘛 是 每 一 个 version windows 都 可 以 做
+UI21MAZ_0102 995929 998808 ZH 所 以 是 一 样 的 基 本 上
+UI21MAZ_0102 1005592 1011246 CS 嗯 weekday 咯 因 为 我 们 是 new hire 啊 所 以 so far 我 们 只 是 做 星 期 一 到 星 期 五 喔
+UI21MAZ_0102 1011246 1019168 CS 然 后 如 果 是 比 较 senior 的 话 他 们 会 排 星 期 六 星 期 六 是 算 o. t. 来 的 星 期 六 只 做 九 点 到 四 点 咯
+UI21MAZ_0102 1019168 1032437 CS 就 这 样 罢 了 咯 然 后 so far 我 们 做 weekday 星 期 日 没 有 的 星 期 日 是 啊 全 部 off 除 非 customer 的 support 是 呃 七 乘 二十 四 所 以 七 乘 二 十 四 是 说 每 一 天 都 有 的
+UI21MAZ_0102 1032437 1045730 CS 那 种 我 们 整 个 call centre 会 轮 班 咯 基~ 基 本 上 怎 样 都 会 有 一 到 两 个 agent 是 留 在 星 期 天 啊 或 者 是 到 晚 上 啊 会 有 一 两 个 agent 留 着
+UI21MAZ_0102 1049670 1059695 CS 跑 外 面 啊 其 实 看 咯 我 是 看 现 在 tech support 做 做 做 了 啊 有 一 点 起 色 啊 我 不 可 能 会 跳 去 做 external sales 这 一方 面 的
+UI21MAZ_0102 1059695 1068263 CS external sales basic 就 已 经 好 多 很 恐 怖 external sales 的 basic 是 很 高 然 后
+UI21MAZ_0102 1068263 1075556 CS 又 可 以 claim 喔 那 种 出 去 跟 client 出 去 谈 东 西 的 时 候 吃 啊 全 部 啊 都 有 得 claim
+UI21MAZ_0102 1075556 1081755 CS 全 部 有 得 claim external 是 我 听 到 暂 时 最- 最 高 薪 水 的 啦
+UI21MAZ_0102 1081755 1086425 ZH 但 是 要 进 我 也 不 懂 要 怎 样 进 先 啦 要 慢 慢 观 察 先
+UI21MAZ_0102 1098224 1108878 CS 一 定 会 有 就 so far 接 了 快 要 三 个 星 期 的 电 话 罢 了 遇 到 的 有 两 个 有 问 题 的 人 物
+UI21MAZ_0102 1108878 1121994 CS 一 个 是 很 嫌 东 嫌 西 的 他 的 电 脑 嘞 就 才 来 了 不 久 罢 了 他 已 经 去 换 过 一 粒~ 他 已 经 complain 过 一次 说 不 懂 哪 里 有 问 题 已 经 换 一 粒 新 的 给 他
+UI21MAZ_0102 1121994 1132442 CS 然 后 他 又 再 打 电 来 打 电 话 来 他 讲 他 的 keyboard leh 就 那 个 key- key- key pad 那- 那 keyboard 这 边 不 平 就 是 说 有- 有 凸 一点 起 来
+UI21MAZ_0102 1132442 1138950 CS 然 后 他 的 touch pad 也 design 不 好 他 讲 touch pad design 不 好 手 摸 的 时 候 会 痛
+UI21MAZ_0102 1138950 1149116 CS 他 讲 很 奇 怪 的 东 西 然 后 我 就 叫 他 就 拍 照 下 来 如 果 keyboard 不 平 的 话 你 从 九 十 度 拍 下 去 你 可 能 看 到 他 弓 起 来 之 类 嘛 他 就 死 都 不 要 拍
+UI21MAZ_0102 1149116 1156467 CS 我 叫 他 拍 三 个 angle 他 send 一 张 随 便 拍 的 罢 了 随 便 拍 一 个 angle send 一 张 过 来 罢 了 然 后 跟 我 讲 就 有 问 题
+UI21MAZ_0102 1156467 1166989 CS 这 种 customer 然 后 他 就 之 前 因 为 他 之 前 也 弄 过 很 多 问 题 了 已 经 他 已 经 认 识 很 多 那 种 比 较 senior 的 名 字 但 他 以 为 他 们 是 manager
+UI21MAZ_0102 1166989 1180973 CS 他 要 拿 那 些 名 字 来 压 我 之 类 他 讲 i report to i complain to 谁 谁 谁 其 实 那 些 也 是 普 通 人 罢 了 啊 他 们 自 他 电 话 里 面 他 只 是 那 个 是 他 们 帮 之 前 那 种 agent 之 前 的 agent 被 他 刁 难 了 嘛
+UI21MAZ_0102 1180973 1186923 CS 然 后 他 们 的 senior 帮 他 说 我 是 manager 之 类 的 然 后 他 以为 他 真 的 是 manager 他 要 拿 名 字 压 我 之 类
+UI21MAZ_0102 1186923 1192134 CS 然 后 最 后 我 的 这 个 case 也 是 hand 给 丢 给 senior manager handle 咯 因 为 他 不 爽 我 了 嘛

@@ -1,0 +1,934 @@
+NI67MBQ_0101 2070 3240 ZH 我 叫 如 燕
+NI67MBQ_0101 3740 6370 ZH （呃）是 大 四 现在 要 讲 华语 还是 讲 英语 啊
+NI67MBQ_0101 10572 14510 ZH (呃) 我 忘记 我 要 讲 什么 我 是 个 中四 ei 中四
+NI67MBQ_0101 14510 16700 ZH 我是 个 大 四 学生 是
+NI67MBQ_0101 17300 18620 CS 就是 in mass comm
+NI67MBQ_0101 19060 20180 CS then 我是
+NI67MBQ_0101 20760 22970 EN specialize in electronic broadcast
+NI67MBQ_0101 23640 26060 ZH 就是 电子 传 媒 嘛 应该 这样 讲
+NI67MBQ_0101 29722 32171 ZH 接下来 就要 找 工作 啊 还没有 找到 工作
+NI67MBQ_0101 35389 39399 CS 我 过 几天 要 去 mindef 有一个 interview lah
+NI67MBQ_0101 39585 41665 CS 就是 不是 啦 是 有 psychometric test
+NI67MBQ_0101 42085 44145 ZH 就是 要 看 我 适 不适 合 那个 职位 咯
+NI67MBQ_0101 44665 47095 CS then 他们 他们 在 找 producer
+NI67MBQ_0101 47665 50775 ZH 要 拍 他们的 宣传 广告 啊 那种 之类 的
+NI67MBQ_0101 53195 54545 CS producer 其实 就是
+NI67MBQ_0101 54759 59469 CS 找 地方 啊 有时候 就会 liaise with 那些 directors
+NI67MBQ_0101 59649 61239 ZH 还是 他们 就 会
+NI67MBQ_0101 61599 64429 ZH 就是 琐碎 事 都 自己 bao-ka-liao 就 对了 啦
+NI67MBQ_0101 66249 67059 ZH 对 对 对 就是
+NI67MBQ_0101 67379 68189 ZH 他 不管 要
+NI67MBQ_0101 68689 72749 CS 叫 那些 director 到底 要 好像 那种 budget 多少 钱 他 要 管 好
+NI67MBQ_0101 73054 74794 ZH 还是 他 要 嗯
+NI67MBQ_0101 76244 78934 ZH 管 好 那些 演员 啊 管 好 那些 服装 啊
+NI67MBQ_0101 79080 82170 ZH 全部 都是 他 保办 的 啦 他 可以 手下 有很多 人 啦 不过
+NI67MBQ_0101 82700 85230 ZH 他是 最 主要 的 那些 管理 东西 的 人 咯
+NI67MBQ_0101 90398 91514 EN (erm)
+NI67MBQ_0101 92429 95209 CS director 是 就是 艺术 指导 啦
+NI67MBQ_0101 95509 98319 CS producer producer 就是
+NI67MBQ_0101 98889 100049 ZH 包办 那些
+NI67MBQ_0101 100719 102704 ZH 财政 啊 嗯
+NI67MBQ_0101 103083 104823 CS 衣服 啊 logistics 啊
+NI67MBQ_0101 105216 109063 CS ah scheduling 就是 安排 他们 几时 来 几时 不用 来
+NI67MBQ_0101 109333 111943 ZH 那些 艺人 会 有 几个 会 来 还是
+NI67MBQ_0101 112343 112923 ZH 就是
+NI67MBQ_0101 113433 115703 ZH 那天 的 行程 到底 是什么 都是 他 保管 的
+NI67MBQ_0101 118383 122013 ZH 哦 他 可以 有 小 弟 是 看 那个 制作 多大 因为 新加坡 很 小 嘛
+NI67MBQ_0101 122233 127013 CS 所以 他们的 budget constraint 都 很 budget constraint 都 很 tight lah
+NI67MBQ_0101 127053 130443 ZH 所以 他们就 会 经常 自己 就 做到 完 咯
+NI67MBQ_0101 131140 140729 CS 啊 然后 接下来 可能 还有 做 灯光 的 lighting 的 做 声音 的 sound recordist 还有 很多 跑腿 啊 runners 一大堆
+NI67MBQ_0101 143253 149313 ZH 买 便当 啊 然后 补 服装 那种 东西 啦 化妆 化妆 师
+NI67MBQ_0101 153293 162643 CS editor 是 不是 在 production 的 时候 做 的 他们是 post production 就是 拍 完 之后 要 剪接 啊 要 做 那些 音响 啊 那些东西 是 之后 的 事情
+NI67MBQ_0101 169771 175861 CS the shot lah (erm) director 通常 是 比较 在 production 就是 那个 过程 的 时候
+NI67MBQ_0101 176418 185088 CS 而 post production 他们 可能 会 偶尔 就是 进 那个 editing room 去 看 一下 到底 他的 他 要 的 那个 direction 那个 方向 是 怎么样 的
+NI67MBQ_0101 185728 189358 CS 如果 是 他 觉得 okay 的话 他 其实 就 不用 一直 进去 了
+NI67MBQ_0101 194834 197174 CS 对 然后 通常 editor 会 自由 发挥 的
+NI67MBQ_0101 199076 209076 CS 因为 要 看 的 时候 有时候 director 要 like control but 不是 每个 东西 都是 他 control 是 有 时候 是 给 editor 看 他 有什么 突 发 奇 想 那种 东西
+NI67MBQ_0101 218088 226308 CS (呃) 那个 时候 他 就会 control like 那个 camera 怎么 走 那个 演员 怎么 走 他们 要 讲 什么 台词 怎么 讲 那些东西 都是 director control
+NI67MBQ_0101 226618 231138 CS 不过 剪接 方面 有些 director 会 让 editor 自己来 try lor
+NI67MBQ_0101 231765 232335 ZH 嗯
+NI67MBQ_0101 241711 242952 ZH （呃）
+NI67MBQ_0101 244678 247718 CS sound effects ah sound 的 通常 是 比较 专 的
+NI67MBQ_0101 247968 250628 CS so 他们 specialize 就 没有 人 会 抢 他们的 饭碗 啦
+NI67MBQ_0101 251168 254808 ZH 因为 那个 科 那一 科 是 蛮 难 的 啦 蛮 难 学 的
+NI67MBQ_0101 256589 260099 CS 我们 学校 比较 没有 这样 专注 与 sound lah
+NI67MBQ_0101 260529 262259 ZH 就是 通常 是 请 外面 的
+NI67MBQ_0101 262919 266639 CS 我们 是 嗯 wee-kee-wee 的 so 跟 a. d. m. 有 一点 不同
+NI67MBQ_0101 267479 270224 CS a. d. m. 我 不懂 他们 学 什么的 啦 其实 啊
+NI67MBQ_0101 270976 276243 CS but (em) wee-kee-wee 的 是 比较 新闻 啊 比较 documentary 的
+NI67MBQ_0101 284343 286703 ZH 我们 这 一 科系 应该 不是 很多 吧
+NI67MBQ_0101 287852 291312 EN two point three two point four starting lah starting
+NI67MBQ_0101 296601 299391 ZH 做 久 的话 如果 看 自己的 公司 就 不用 讲 啦
+NI67MBQ_0101 299531 301761 CS 不过 如果 before that 的话
+NI67MBQ_0101 303131 305251 EN three point plus or four maybe
+NI67MBQ_0101 305709 306899 ZH 做 多 几年 啊
+NI67MBQ_0101 310709 314979 ZH 还好 啦 不过 他的 要 熬 蛮 多 苦 的 啦 做 这一 行
+NI67MBQ_0101 318917 320480 ZH 嗯
+NI67MBQ_0101 321609 322779 ZH 三点 吧
+NI67MBQ_0101 323695 324137 ZH 嗯
+NI67MBQ_0101 329649 331989 ZH 差不多 吧 因为 不可能 加 这样 多 嘛
+NI67MBQ_0101 335559 337119 ZH ei 我 还没有 做工 我也 不懂 ei
+NI67MBQ_0101 337613 338210 ZH 对
+NI67MBQ_0101 350031 352121 CS 教 as in 老师 叫 我们 啊
+NI67MBQ_0101 352555 354606 EN (erm)
+NI67MBQ_0101 355281 359561 CS 现在 的 科目 哦 现在 我在 学 的 就是 嗯 world cinema
+NI67MBQ_0101 360372 360943 ZH 就是
+NI67MBQ_0101 361358 371524 CS 嗯 就是 老师 会 从 世界 各地 的那些 影片 啊 documentaries ah 他 就会 show 我们 一些 咯 就是 比较 他 觉得 比较 精彩 的 东西
+NI67MBQ_0101 375911 378941 CS 啊 他 就会 analyse 就会 跟我 们 讲 他们的 历史 背景 like
+NI67MBQ_0101 379171 381321 CS what is the context 然后 我们 就要 学 一下
+NI67MBQ_0101 381878 386078 CS 为什么 他们 这样 拍 为什么 那 camera 走 这边 什么 什么 东西 就
+NI67MBQ_0101 386718 392028 CS 学 这种 东西 啦 之前 我 有 学 过 这种 东西 but 他 这次 show 得 比较 精彩 啦
+NI67MBQ_0101 395278 400538 ZH 他是 从 英国 吗 应该 是 从 英国 那边 过来 的
+NI67MBQ_0101 400898 402738 CS so 他 讲话 会 有一点 accent
+NI67MBQ_0101 404428 405068 ZH 还 不错 啦
+NI67MBQ_0101 406098 408878 ZH 不是 他是 新加坡 人 不过 他 去 那边 蛮 久 了
+NI67MBQ_0101 409263 410042 ZH 所以 现在 回来
+NI67MBQ_0101 413090 414480 CS 我们 都 不 看 hollywood 的
+NI67MBQ_0101 414550 417840 CS 我们 看 的 是 有 iran 的
+NI67MBQ_0101 418456 425084 CS (erm) iran 的 孩子 的那些 片 啊 就是 politics 的 东西
+NI67MBQ_0101 425597 426844 ZH 然后 还有
+NI67MBQ_0101 428685 429179 ZH 什么
+NI67MBQ_0101 430394 433204 CS indian 我们 反而 好像 没有 看 就 换 掉 了
+NI67MBQ_0101 433384 438884 ZH （呃） 就 换 成 非洲 的 非洲 有 蛮 多个 好看 的
+NI67MBQ_0101 439670 447004 CS (呃) 有 一个 是 关于 战争 的 蛮 感人 的 就是 讲 一些 (呃) 叫 什么 terrorist ah
+NI67MBQ_0101 447709 452549 ZH 他们 就 他们 就 是 炸 就是 炸毁 一些 地方
+NI67MBQ_0101 452869 457569 CS 然后 他们是 like 一九六六 年 拍 的 不过 到 现在 还是 很 relevant lor
+NI67MBQ_0101 459060 462390 ZH 看 了 是 蛮 伤心 不过 还 蛮 不错
+NI67MBQ_0101 464565 466700 CS 非洲 没有 什么 market
+NI67MBQ_0101 466963 468883 CS 不过 他们 真的 有很多 很好 的 director lah
+NI67MBQ_0101 469323 470233 ZH 只是 我们 不知道
+NI67MBQ_0101 470833 476003 ZH 所以 上 这个 课 是 蛮 蛮好 的 啦 因为 看到 很多 不同 的 戏
+NI67MBQ_0101 479540 485823 CS director 要 怎样 培养 其实 hor 我 不是 这么 这么 into fiction film 我是 比较 into documentary 的
+NI67MBQ_0101 486457 486916 ZH 对
+NI67MBQ_0101 491294 497364 CS 也不 是 writing lah 其实 那时 我 就 跟我 的 f. y. p. groupmmates 我们 去 泰国 拍 一个
+NI67MBQ_0101 499601 502135 CS hah hmm hah 什么 你 有 去 看 吗
+NI67MBQ_0101 504984 507484 CS 啊 对 我们 就 做 那个 a. i. d. s. 的 ei 你 有 去 看 啊
+NI67MBQ_0101 510794 511544 ZH 你 认识 谁
+NI67MBQ_0101 512611 516078 CS okay 好好 ei 就是 嗯 ei 我 要 讲 什么
+NI67MBQ_0101 516333 518404 CS 就是 那一 个 documentary 我们 就 去 泰国 拍 咯
+NI67MBQ_0101 518674 521034 ZH 就 去 那边 了 去 那边 三次
+NI67MBQ_0101 521384 522933 ZH 然后 最 长 的 一次 是一个 月
+NI67MBQ_0101 523433 526444 ZH 就 认识 那边 的 小孩子 他们 都有 爱滋病 啊
+NI67MBQ_0101 527134 530324 ZH 不过 他们 有些 就 蛮 大 的 十五 十六 岁
+NI67MBQ_0101 530663 534483 CS 就是 他们 从小 like 出生 之后 就 被 infected
+NI67MBQ_0101 535083 537903 CS 之后 就 可以 活 到 现在 是 蛮 amazing 的 咯
+NI67MBQ_0101 546548 551093 CS 哦 因为 当地 他们就 讲 泰语 嘛 then 我们 就 跟本 就 don't understand 他们 在 讲 什么 嘛
+NI67MBQ_0101 551349 553329 CS then 我们 就 手 舞 足 蹈 就 sign language lor
+NI67MBQ_0101 553742 554443 ZH 就
+NI67MBQ_0101 555289 556049 ZH 还 蛮好 玩 的 啦
+NI67MBQ_0101 556359 557909 CS 就是 当场 有 improvise 这样
+NI67MBQ_0101 562259 565429 ZH 哦 我们是 在 当地 我们 认识 一些 同学 啊
+NI67MBQ_0101 565429 568379 ZH 是 同 科系 的 啦 不过 他们 是 当地 的 科系
+NI67MBQ_0101 568879 571129 ZH 然后 他们 英文 跟 泰 语 都 不错 嘛
+NI67MBQ_0101 571129 574300 CS 所以 我们 就 麻烦 他们 帮 我们 translate lor
+NI67MBQ_0101 575157 577979 CS 嗯 就 花 了 三四 个 星期 translate
+NI67MBQ_0101 585629 586699 ZH 旁边 什么 意思
+NI67MBQ_0101 591255 592459 EN ei
+NI67MBQ_0101 593137 596477 CS 我们 还好 吧 因为 我们 两个 我 我 通常 是 我 那 着 camera
+NI67MBQ_0101 596557 598107 CS then 我的 director 就在 我的 旁边 嘛
+NI67MBQ_0101 598267 599337 CS then 只有 我们 两个 而已 咯
+NI67MBQ_0101 599503 604053 CS then 其他 因为 我们 看起来 像 小 女孩 嘛 so 其实 没有 什么 人 会 管 啦
+NI67MBQ_0101 606155 608385 ZH 不会 啦 除非 除非 是在 那个
+NI67MBQ_0101 609750 612567 ZH 没有 我们 有 在 那个 他们 的 繁忙 的 那个 pratunam 那边
+NI67MBQ_0101 612980 615700 CS then 就 那个 security guard 我 还 以为 他 会 赶 我 走
+NI67MBQ_0101 615970 618820 CS then 哪里 知道 他 看 了 他 在 那边 站 我 后面 看 我在 拍 什么 这样
+NI67MBQ_0101 619140 620480 ZH 因为 他 也是 很好 奇 啊
+NI67MBQ_0101 625170 629120 CS 蛮 重 的 啦 不过 他 那个 是 算 蛮 轻 的 啦 out of so many cameras
+NI67MBQ_0101 633840 635550 CS 昨天 就是 那个 oral presentation
+NI67MBQ_0101 636320 636950 ZH 对 对 对
+NI67MBQ_0101 638455 640455 ZH 哦 那 问题 可 难 哦
+NI67MBQ_0101 641672 643652 ZH 他们 那个 老师 是 从
+NI67MBQ_0101 644282 647082 CS 那个 老师 是 是 叫 zeemerman lah 他是 从 美国 来 的
+NI67MBQ_0101 648335 652325 CS what happened 就是 他 问 一些 很 difficult 的 questions lor
+NI67MBQ_0101 652385 653595 ZH 就是 他 问 嗯
+NI67MBQ_0101 653949 660209 CS what is at stake 就是 (呃) 觉得 这个 这个 纪录片 到底 是什么 意义 啦 
+NI67MBQ_0101 661149 661949 EN at stake
+NI67MBQ_0101 662229 663089 ZH 然后 就
+NI67MBQ_0101 663449 672719 CS 因为 我们是 在外 面 我们 已经 听到 其他 的 组 已经 被 问 same question so 我们 已经 prepare 好 了 已经 去 我 朋友 就 拉 时间 然后 在 那边 想
+NI67MBQ_0101 673297 675827 CS then 后来 他 就 起初 他 看起来 很 hostile
+NI67MBQ_0101 676097 679857 CS 我们 就 以为 他 很 like 哦 很 讨厌 我们的 我们的 documentary lah
+NI67MBQ_0101 680107 680987 CS then 哪里 知道
+NI67MBQ_0101 681787 683604 ZH （呃） 后来 他 就 讲 （呃）
+NI67MBQ_0101 683857 686137 EN i salute you all for your effort and everything
+NI67MBQ_0101 686417 692467 CS we are like i know that you all have changed along with the documentary lah then 他们 就 他 喜欢 这 部 戏 哦
+NI67MBQ_0101 692698 694578 ZH 后来 两个 老 师 都 蛮 喜欢 的 啦
+NI67MBQ_0101 696118 696918 ZH 两个 老师
+NI67MBQ_0101 697048 699608 CS 然后 还有 多 一个 老师 是 我的 supervisor mah so
+NI67MBQ_0101 700235 703505 CS 可是 他 就 给 我们 很多 东西 要 做 so 我 现在 不懂 要 怎么办 这样
+NI67MBQ_0101 706895 711665 CS 他 讲 是要 做 多 一个 cut lah 就是 从新 在 剪接 一点
+NI67MBQ_0101 712025 714835 CS 然后 我们 再 可以去 send 去 film festival
+NI67MBQ_0101 715185 719505 ZH 然后 他 讲 起来 是 很 容易 啦 不过 我们 做 起来 应该 是 蛮 多 功夫
+NI67MBQ_0101 721325 725215 CS (呃) 应该 师 要 原有 的 东西 original 我们 有的 东西
+NI67MBQ_0101 725248 726958 CS 就 try to edit again lor
+NI67MBQ_0101 727768 730958 CS 他是 不 喜欢 一些 like graphics 的 东西 还是 什么 东西 啦
+NI67MBQ_0101 735439 735985 EN yeah lor
+NI67MBQ_0101 739153 739698 ZH 对 咯
+NI67MBQ_0101 747888 750558 ZH 之前 之前 我 想 一下
+NI67MBQ_0101 752545 753968 ZH 还 蛮 多 的 嘞
+NI67MBQ_0101 754098 757808 CS 那时 我们 就 帮 我的 我们 其中 的 一个 group mate lah
+NI67MBQ_0101 758438 761678 CS then 他的 亲戚 就 刚好 生日
+NI67MBQ_0101 762400 765470 CS then 是 i think 他们 是 twin sister and brother
+NI67MBQ_0101 765700 768410 CS so 我们 就 帮 他们 做 了 一个 video lah
+NI67MBQ_0101 768560 769310 ZH 然后 她的
+NI67MBQ_0101 769620 773690 CS 我 朋友 的 mother 刚好 就是 要 算 捐钱 给 我们
+NI67MBQ_0101 773970 775460 ZH 所以 呢 嗯
+NI67MBQ_0101 775740 779780 CS 她 就 算 这个 算是 个 project lah 就 捐 了 一千 块 给 我们的 fund lor
+NI67MBQ_0101 779834 781624 CS so 我们 就有 钱 去 泰国 这样
+NI67MBQ_0101 783434 788084 CS so 我们 就 帮 他们 拍 了 一些 他们的 祝 言 啊 then edit together
+NI67MBQ_0101 788428 792918 CS then 放 一些 音乐 做 一些 美美的 东西 啦 就是 一个 生日 的 present 给 他 这样
+NI67MBQ_0101 795050 798070 CS 然后 我 现在 还要 帮 我 妈 做 一个 video
+NI67MBQ_0101 798706 802036 ZH 因为 她 因为 是 关于 我 去世 的 外婆
+NI67MBQ_0101 802306 804596 CS then 她 就 找到 了 一些 video
+NI67MBQ_0101 804614 809974 CS so 我 得 去 edit 然后 放 一些 photo then 就 给 亲戚 朋友 这样 咯
+NI67MBQ_0101 810584 811474 ZH 做 个 纪念 这样
+NI67MBQ_0101 815075 815543 EN em hmm
+NI67MBQ_0101 817205 817802 EN (em)
+NI67MBQ_0101 820321 820736 EN (em)
+NI67MBQ_0101 827852 828293 EN (em)
+NI67MBQ_0101 835284 837274 ZH 其实 你要 看 那个 目的 到底 是 什么 咯
+NI67MBQ_0101 837304 839864 CS 有些 目的 是 为了 要 educate 的话
+NI67MBQ_0101 840214 844084 CS 就 朝 那个 方向 走 你 可以 开始 很 educational
+NI67MBQ_0101 844114 845854 CS then 后面 你 可以 开始 很 moving
+NI67MBQ_0101 846225 848995 CS 真的是 depend on 你 手上 的 footage 是什么 样子 的
+NI67MBQ_0101 849285 851345 CS 还是 你 有一个 feel 好像 你要 做 一个
+NI67MBQ_0101 851594 853014 CS 很 轻松 的 一个 piece lah
+NI67MBQ_0101 853345 855255 CS 然后 你 就 找 一些 很 轻松 的 music 然后 就
+NI67MBQ_0101 855565 857315 EN just cut according to it lor
+NI67MBQ_0101 857755 860025 CS just 怎样 讲 就是
+NI67MBQ_0101 860789 862529 CS feel lor 就是 那个
+NI67MBQ_0101 862699 866029 CS ei 你 觉得 你要 这样 做 你 就 try 咯 然后 不行 你 就 换 另外 一个 咯
+NI67MBQ_0101 866169 867849 ZH 一直 做到 你 觉得 满意 为止
+NI67MBQ_0101 869145 873365 EN which is quite time consuming lah very time consuming
+NI67MBQ_0101 877925 881815 CS 三分 钟 的 video (呃) 我们 大概 会 花 几个 星期 这样
+NI67MBQ_0101 885351 886991 ZH 哦 很多 耶 （呃）
+NI67MBQ_0101 887541 891311 ZH 我 我们 啦 因为 我们 通常 是 就 拍 一些 然后 再 看 怎么办 这样
+NI67MBQ_0101 891527 896037 CS so 我们是 一分 钟 要 times 十 还是 二十 倍 吧
+NI67MBQ_0101 906520 907039 EN ah hah
+NI67MBQ_0101 909168 910140 EN (em)
+NI67MBQ_0101 911548 912145 ZH 可以 拍
+NI67MBQ_0101 914196 920013 CS 嗯 我会 先 看 是不是 美 啦 aesthetically appealing lor
+NI67MBQ_0101 920237 921607 ZH 因为 怎样 讲 有时候
+NI67MBQ_0101 921909 923646 ZH 嗯 我 喜欢 拍照 也是 嘛
+NI67MBQ_0101 924076 924896 EN so
+NI67MBQ_0101 925363 926746 ZH （呃） 一定 要 美 啦
+NI67MBQ_0101 926846 933350 ZH 因为 人家 看 电视 是 看 电影 就是 要 看 一些 美 的 东西 不 美 的 东西 其实 平时 看 就 好 了 啦 就
+NI67MBQ_0101 933636 935096 ZH 我觉得 那是 最 基本 的 啦
+NI67MBQ_0101 937296 938056 EN other than that
+NI67MBQ_0101 938506 941876 CS 如果 是 documentary 的话 应该 是 主题 很 重要 topic
+NI67MBQ_0101 942521 947071 CS 因为 如果 没有 一个 好的 topic 你 不管 多 美 人家 也 会 哦 就是 这样 咯
+NI67MBQ_0101 947231 948831 ZH 就 就 没有 深度 了
+NI67MBQ_0101 949268 955608 CS 然后 现在 我 比较 关心 的 是 documentary 跟 戏剧 其实 可以 合一
+NI67MBQ_0101 956018 957858 ZH 合 为 一 因为 我 现在 看 了 一个
+NI67MBQ_0101 957901 961291 CS 一个 一个 打仗 就是 war (er) war movie
+NI67MBQ_0101 961561 965021 ZH 他们 他 很 巧妙 地 结合 这 两个 东西
+NI67MBQ_0101 965383 966058 EN so
+NI67MBQ_0101 966344 969374 CS 有一个 很 真实 的 感觉 可是 又有 一个 很 emotional 的 感觉
+NI67MBQ_0101 969494 972134 CS so try lor 看 可不可以 做到 这样
+NI67MBQ_0101 973813 978905 CS (em) 怎么 拍 怎么 看 其实 除了 aesthetic 就是 你的 心 咯
+NI67MBQ_0101 979395 981955 EN other than the visual it's the soul lor
+NI67MBQ_0101 996475 997935 ZH 都要 学 啊 那时 我
+NI67MBQ_0101 998035 1000535 CS because 我们 去 之前 没有 这么 会 这些 东西
+NI67MBQ_0101 1001675 1004185 CS then 我们 玩 的 camera 跟我 们 后来 用 的 camera
+NI67MBQ_0101 1004465 1005355 ZH 其实 有 一点 不同
+NI67MBQ_0101 1005586 1007876 CS 我们 本来 是 平时 用 是 用 video camera
+NI67MBQ_0101 1008166 1010526 CS then 我们 去 那边 我们是 用 d. s. l. r. 来 拍
+NI67MBQ_0101 1010786 1013266 CS so turn out 要 学 很多 东西
+NI67MBQ_0101 1013570 1016900 CS 然后 就 okay lah 还好 啦 就 慢慢 开始 学会 了 咯
+NI67MBQ_0101 1018430 1019650 CS 有 video
+NI67MBQ_0101 1019820 1022880 CS 可以 可以 我们 很多 很 美的 都是 用 d. s. l. r. 拍
+NI67MBQ_0101 1023129 1026585 CS so 现在 actually 是 用 d. s. l. r. lah so
+NI67MBQ_0101 1027469 1031108 CS 你 应该 看 另外 一个 啦 另外 一个 全部 是 用 d. s. l. r. 的 很 美
+NI67MBQ_0101 1031710 1032177 ZH 嗯
+NI67MBQ_0101 1033086 1033424 ZH 对 咯
+NI67MBQ_0101 1035309 1038669 CS 我们的 测 光 没有 啦 测 光是 for photography mah photography
+NI67MBQ_0101 1038789 1041189 ZH 我们的 测 光 的话 那个 人 就 跑 掉 的 比较 难
+NI67MBQ_0101 1041396 1043993 CS 对 因为 他们 不会 一直 坐在 那里 嘛 so
+NI67MBQ_0101 1045049 1046868 ZH 是 蛮 精彩 的 啦 就 跟着 他们 跑
+NI67MBQ_0101 1047138 1051389 CS then 刚好 我们 我们 的 interviewee 我们的 主角 就
+NI67MBQ_0101 1052149 1053799 ZH 那时 就 跟 她的 老公 吵架
+NI67MBQ_0101 1054346 1055956 ZH 然后 他们 用 泰 语 吵架
+NI67MBQ_0101 1055976 1059196 CS 然后 我们 不懂 他们 在 吵 什么 啦 总之 他们 在 quarreling and quarreling
+NI67MBQ_0101 1059386 1062276 EN for about one hour then
+NI67MBQ_0101 1062806 1065086 ZH 我们 就 一直 拍 咯 一直 拍 一直 拍
+NI67MBQ_0101 1065576 1068846 CS then 后来 我们 回来 的时候 我们 就 发现 他们 讲 了 一些 蛮
+NI67MBQ_0101 1070283 1072743 CS 叫 什么 叫 就是 蛮 shocking 的 东西 啦
+NI67MBQ_0101 1073962 1076093 ZH （呃） 不 方便 这边 讲 吧
+NI67MBQ_0101 1076133 1077663 ZH 因为 是 蛮 私人 的 啦
+NI67MBQ_0101 1078063 1080123 CS then 我们 后来 决定 没有用
+NI67MBQ_0101 1080813 1082763 CS 因为 她的 privacy lah
+NI67MBQ_0101 1083517 1085647 EN (em) yeah lor
+NI67MBQ_0101 1089853 1090373 EN (em)
+NI67MBQ_0101 1093573 1095413 CS actually interview 四个 人
+NI67MBQ_0101 1095772 1099082 CS then out of 这 四个 人 我们 就有 我们 就
+NI67MBQ_0101 1099462 1100371 EN (erm)
+NI67MBQ_0101 1100682 1101962 CS 就是 focus on
+NI67MBQ_0101 1101962 1104772 EN focus on p. fong
+NI67MBQ_0101 1104772 1108922 CS 那 两个 主角 就 我们 觉得 比较 有 closest link because is mother and child
+NI67MBQ_0101 1109293 1116543 CS then 其他 两个 有一个 是 gay 另外 一个 是 嗯 另外 一个 是 drug addict 我们 就 觉得 比较 没有 关系 so 我们 take them out lah
+NI67MBQ_0101 1116770 1120097 CS then after that 我们 就 focus on 这 两个 我们 就 translate 他们 的
+NI67MBQ_0101 1120730 1122960 CS 这样 我们 就 比较 有时 间 来 edit mah
+NI67MBQ_0101 1123233 1125883 CS 不然 要 translate 四个 是 太久 了 是 不 可能 的
+NI67MBQ_0101 1128463 1133373 CS 而且 我们 只有 半年 要 做 完 嘛 so 从 拍 到 制作 就 只有 半年
+NI67MBQ_0101 1139283 1140533 ZH 收获 好多 哦
+NI67MBQ_0101 1141349 1146759 CS 嗯 首先 是 we know them lah as in we got to we got to go to their house like
+NI67MBQ_0101 1146989 1150249 ZH 我们 去 到 他的 家 他的 家 下面 是 真的是 水
+NI67MBQ_0101 1150488 1154108 CS 是 kampong style lah 你 东西 一 掉 进去 就 掉 进水 下面 都是 鱼 的 那种
+NI67MBQ_0101 1154548 1155378 EN then
+NI67MBQ_0101 1155997 1162267 CS 去 到 那边 就是 就是 很多 东西 是 突 发 的 咯 就是 他们 突然 吵架 然后 我 就要 拿 camera 来 拍 他们
+NI67MBQ_0101 1162777 1165287 CS 有一点 觉得 exploitative lah like
+NI67MBQ_0101 1165694 1167814 CS 他们 在 吵架 你 还在 拍 他们 you know
+NI67MBQ_0101 1167814 1168774 ZH 那种 东西
+NI67MBQ_0101 1168774 1173184 CS 不过 因为 camera woman mah 不管 怎样 不可以 错失 那些 footage
+NI67MBQ_0101 1173636 1175586 CS 不然 我的 director 会 骂 我 so
+NI67MBQ_0101 1175848 1179146 ZH （呃） 不是 骂 啦 就是 就是 觉得 应该 拍 啦
+NI67MBQ_0101 1179316 1182016 CS 不管 怎样 我们 之后 还是 可以 问 他们 for permission mah
+NI67MBQ_0101 1182279 1182929 EN so
+NI67MBQ_0101 1183587 1186799 ZH （呃） 除此之外 就是 认识 那些 小孩子 咯
+NI67MBQ_0101 1186989 1190959 ZH 那些 小孩子 真的 是 很 可爱 他们 真的 看 看起来 就是 普通 的 小孩子
+NI67MBQ_0101 1191599 1192739 ZH 就 好像 没有 病
+NI67MBQ_0101 1193429 1196589 ZH 可是 你 就 想起 他们 可能 有 一天 会 死 啦 就
+NI67MBQ_0101 1197584 1197860 EN hah
+NI67MBQ_0101 1199723 1201693 CS 不是 那个 halfway house 是 for 大人 的
+NI67MBQ_0101 1202003 1204603 ZH 小孩子 是在 比较 乡下 的 地方
+NI67MBQ_0101 1205204 1207214 ZH 然后 我们 就是 因为 我 跟我 朋友
+NI67MBQ_0101 1207494 1211664 CS 先 去 那个 地方 然后 我们 就 认识 很多 小孩子 跟 他们 蛮 close 的 啦
+NI67MBQ_0101 1211744 1214684 CS 然后 玩 得 蛮 疯 的 啦 我们 也 忘了 他们 是 有 a. i. d. s. 的
+NI67MBQ_0101 1215064 1215734 EN so
+NI67MBQ_0101 1216194 1220794 CS 就 觉得 就 跟 一般 小孩子 咯 一样 咯 我们 玩 得 非常 happy 这样
+NI67MBQ_0101 1221209 1221677 EN yeah lor
+NI67MBQ_0101 1223042 1225132 CS 就是 有机 会 i will go back and visit them lor
+NI67MBQ_0101 1227752 1229182 EN yeah of course like a friend i mean
+NI67MBQ_0101 1229772 1231792 CS 希望 我 回去 的时候 they are still there lah
+NI67MBQ_0101 1232672 1237702 CS it'll be sad lah because 到 目前 为止 there's only one case that one passed away lah
+NI67MBQ_0101 1238342 1239582 EN for that whole home
+NI67MBQ_0101 1243762 1245342 ZH 有机 会 你 可以去 看 一下
+NI67MBQ_0101 1249812 1250662 ZH 这样 危险
+NI67MBQ_0101 1251922 1253222 ZH 现在 很 动荡 ei
+NI67MBQ_0101 1255932 1257872 CS 就 stay away from the tourist place lor
+NI67MBQ_0101 1265769 1269049 CS 那边 的 朋友 其实 都 讲 okay lah 没事 啦
+NI67MBQ_0101 1271209 1271959 ZH 上次 几时
+NI67MBQ_0101 1275062 1275533 ZH 凯如 吗
+NI67MBQ_0101 1276698 1279310 ZH 哦 对 对 对 那天 他 也 来 对 吗
+NI67MBQ_0101 1279477 1280463 ZH 啊 对 对 对
+NI67MBQ_0101 1281009 1284281 ZH 那 时候 我们 去 他们 他们 有 拍 到 红 红山军 嘛
+NI67MBQ_0101 1285679 1287739 CS the red (er) red shirts 的 red t. shirts
+NI67MBQ_0101 1288069 1290419 ZH 他们 有 拍 到 啦 我 上次 十二月 去 的 时候
+NI67MBQ_0101 1290949 1293589 CS 真的 真的 他们就 他们 只是 坐在 那里 then 好像
+NI67MBQ_0101 1294037 1298447 CS 很 像 pasar-malam 就是 他们 坐在 那里 then 他们 开始 卖 东西 吃 then 有些 在那边 走 这样 而已
+NI67MBQ_0101 1298917 1300877 CS 那时 是 很 平静 的 啦 很 peaceful 的
+NI67MBQ_0101 1301437 1303237 ZH 现在 就 闹 到 这样 啦
+NI67MBQ_0101 1305327 1305827 ZH 对 咯
+NI67MBQ_0101 1310339 1311075 ZH 对 对 对
+NI67MBQ_0101 1311607 1313627 CS 我们的 interviewee 也是 被 shot 到
+NI67MBQ_0101 1314427 1322047 CS 他是 他是 他 很 可怜 就是 经过 不懂 他在 旁边 就是 路 roadside stall then 后来 他 就 被 人家 不小心 射 到
+NI67MBQ_0101 1322852 1325532 CS then 后来 他 进 医院 他 才 发现 他 有 爱滋病
+NI67MBQ_0101 1326572 1327992 ZH 他是 那 那个 时候 才 发现 的
+NI67MBQ_0101 1329252 1331522 CS so 很 奇特 special
+NI67MBQ_0101 1333243 1334384 EN 
+NI67MBQ_0101 1335814 1336982 EN ei
+NI67MBQ_0101 1343072 1343722 ZH 几号 去
+NI67MBQ_0101 1346461 1348331 CS okay 我是 一号 出国
+NI67MBQ_0101 1348720 1349640 ZH 我 去 尼泊尔
+NI67MBQ_0101 1350860 1352290 ZH 我 还 没有 去 过 嘛
+NI67MBQ_0101 1353308 1356858 CS 因为 没有 啦 因为 我 跟我 的 friends 他们 都 喜欢 去 爬山
+NI67MBQ_0101 1357288 1360108 CS 去 去 去 玩 那些 刺激 的 东西 啦 so
+NI67MBQ_0101 1360518 1361298 ZH 我们 就 去 咯
+NI67MBQ_0101 1364878 1365578 ZH 为什么
+NI67MBQ_0101 1366038 1372278 CS 尼泊尔 其实 蛮好 玩 的 啦 很多 adventure 的 东西 也 很多 寺庙 那些 可以 看 的 东西 啊
+NI67MBQ_0101 1374385 1378728 ZH （呃） 也 也 也 也算 是 啦
+NI67MBQ_0101 1378728 1382228 ZH 我 觉得 我朋友 就 没有 这种 心思 啦
+NI67MBQ_0101 1384012 1388572 CS 那边 有 很多 那边 有 rafting 可以 爬山 去 看 老虎
+NI67MBQ_0101 1389402 1390242 ZH 之类 的 啦
+NI67MBQ_0101 1390548 1392003 EN (erm)
+NI67MBQ_0101 1393360 1398200 CS (呃) 那边 煤油 skydiving i think 那边 有 那个 叫 什么 那 叫 什么 bungee-jumping
+NI67MBQ_0101 1399360 1401610 ZH 没有 没有 我 没有 去 我 没有 去 我会 吓 死
+NI67MBQ_0101 1405810 1409830 CS 英文 咯 我们 有 在那边 请 一些 guides lah so should be okay
+NI67MBQ_0101 1411487 1415017 CS online 找 啦 有些 有些 人 review 不错 then 我们 就 去
+NI67MBQ_0101 1415067 1418387 CS 有些 很多 是 很 reputable 的 companies 的 啦
+NI67MBQ_0101 1418937 1420537 EN so should be okay lah
+NI67MBQ_0101 1423755 1424679 ZH 嗯 嗯 嗯
+NI67MBQ_0101 1425907 1428567 CS 然后 我们 就 拿 lonely planet 走 到处 走 就 对了
+NI67MBQ_0101 1429367 1430987 CS lonely planet 是 蛮好 蛮 有用 的 啦
+NI67MBQ_0101 1432407 1433807 ZH 那个
+NI67MBQ_0101 1434877 1435877 ZH 我 不懂 华语 叫 什么 嘞
+NI67MBQ_0101 1435907 1437747 ZH 那个 那个 书 集 就是 旅游 书 集 啊
+NI67MBQ_0101 1438142 1438841 ZH 嗯 嗯 嗯
+NI67MBQ_0101 1439297 1441577 ZH 然后 蛮 多 资料 的 啦
+NI67MBQ_0101 1441948 1444418 ZH 大概 找 了 好多 个 月 现在 才 要 去了
+NI67MBQ_0101 1447299 1448467 CS 那时 natas fair
+NI67MBQ_0101 1449272 1451396 ZH 嗯 就 买到 我们 也 要 去
+NI67MBQ_0101 1451790 1455040 CS bangkok 就是 飞 到 bangkok 然后 再 飞 去 尼泊尔
+NI67MBQ_0101 1456110 1457270 CS (em) direct 比较 贵
+NI67MBQ_0101 1457868 1461110 CS so 我们 走 这个 so 最好 他们 不要 跟我 封 那个 airport
+NI67MBQ_0101 1462730 1463440 EN thai airways
+NI67MBQ_0101 1463857 1464980 ZH ei 几 点 的
+NI67MBQ_0101 1466880 1468010 ZH 我 忘记 我的 好像 是 早上 的
+NI67MBQ_0101 1470010 1471670 ZH 希望 没事 啦 那边 应该 没事 啦
+NI67MBQ_0101 1476321 1478216 ZH 我 那个 飞 应该 是 早 很 早 的
+NI67MBQ_0101 1479645 1480700 EN oh okay okay
+NI67MBQ_0101 1483880 1484520 ZH 没有 什么 人
+NI67MBQ_0101 1486000 1488220 ZH 因为 现在 嘛 现在 这种 情况 谁 要 去
+NI67MBQ_0101 1488830 1489970 ZH 我都 买 很 久 了
+NI67MBQ_0101 1491512 1494613 CS 不过 我是 过境 而已 啦 不是 嗯 should be okay
+NI67MBQ_0101 1497580 1499380 ZH 上次 他们 也是 封 了 机场
+NI67MBQ_0101 1501317 1502127 ZH 很 久 以前 啦
+NI67MBQ_0101 1502887 1504647 CS 那时 好像 是 army 封 的
+NI67MBQ_0101 1507647 1508697 ZH 好像 是 吧
+NI67MBQ_0101 1510824 1511733 ZH 讲 起来 嗯
+NI67MBQ_0101 1512487 1513007 ZH 小心 啊
+NI67MBQ_0101 1514817 1519487 CS 没有 啦 你 可以 去 那些 比较 没有 这样 多 tourist 的 地方 你们 住 哪里
+NI67MBQ_0101 1520511 1521238 EN cha tu chak ah
+NI67MBQ_0101 1522692 1525060 CS cha tu chak 是 蛮多 tourists 的 but
+NI67MBQ_0101 1525060 1526690 ZH 我 觉得 他们 应该 不会 去 那里 吧
+NI67MBQ_0101 1529078 1530702 ZH 嗯 那 刚好 啊
+NI67MBQ_0101 1531346 1533186 CS 那边 很好 what 叫 他 带 你 去 哦
+NI67MBQ_0101 1533738 1535108 ZH 那边 应该 没事 的 啦
+NI67MBQ_0101 1535318 1536728 ZH 如果 你 认识 人的 话 更 方便
+NI67MBQ_0101 1537599 1538093 ZH 嗯
+NI67MBQ_0101 1541079 1543364 EN en okay
+NI67MBQ_0101 1549675 1550246 EN forty
+NI67MBQ_0101 1554068 1555448 EN ah fifteen may fifteen may
+NI67MBQ_0101 1556038 1558188 CS 他们就 要 surrender so 就 等 咯
+NI67MBQ_0101 1560809 1563019 ZH 可能 所以 要 小心
+NI67MBQ_0101 1564138 1567426 CS no lah 就是 不要 去 那个 pratunam area pratunam area 比较 危险
+NI67MBQ_0101 1568501 1569592 ZH 去 去 cha tu chak 可以 啊
+NI67MBQ_0101 1572601 1575951 ZH 叫 你 朋友 问 你 朋友 那里 比较 安全 可以去 这样
+NI67MBQ_0101 1585937 1586820 EN oh
+NI67MBQ_0101 1587211 1590781 CS history 的 地方 他们 应该 不会 弄 的 他们 应该 不会 乱 搞 那些 地方
+NI67MBQ_0101 1591701 1594541 CS more of the tourist places like 那个 shopping centers
+NI67MBQ_0101 1597011 1600151 CS 他们 他们的 army 已经 封 了 那边 嘛 不 让 他们 进
+NI67MBQ_0101 1601051 1601778 EN so
+NI67MBQ_0101 1602479 1605521 CS silom 也 没有 什么 地方 好 去 的 啦 silom silom 东西 又 贵
+NI67MBQ_0101 1605521 1607621 ZH 除非 你要 买 的 是 贵 的 东西 啦
+NI67MBQ_0101 1609879 1610788 EN se pan spa ah
+NI67MBQ_0101 1611437 1614138 CS ei 我 有 去 but 就是 在 pratunam area lor
+NI67MBQ_0101 1615151 1616611 ZH ei 有很多 地方 有 啦
+NI67MBQ_0101 1620457 1623287 CS 我 去 那边 做 他的 massage 的时候 差一点 被 他 弄 痛 死
+NI67MBQ_0101 1624369 1625847 CS 泰式 的 it's
+NI67MBQ_0101 1625847 1627927 CS i think 那个 masseuse 有一点
+NI67MBQ_0101 1627927 1631737 ZH 嗯 嗯 老 练 啊 所以 他 会 觉得 你 这边 的 骨 你的 筋 有 一点
+NI67MBQ_0101 1631846 1633146 CS tight mah so 他 就在 那边
+NI67MBQ_0101 1633380 1635706 CS ei like 就 很大 力 就 很 痛
+NI67MBQ_0101 1636621 1641391 CS then 我的 friends 跟我 都 他们是 在 要 杀 了 我们 还是 要 什么 这样
+NI67MBQ_0101 1643481 1643793 ZH 什么
+NI67MBQ_0101 1645169 1649796 CS 嗯 他们 有用 有 没有 没有 我 有 去 try 那个 oil 的 他们 没有 try 他们 不敢
+NI67MBQ_0101 1649996 1653166 CS then normal 的 有 一间 是 很 痛
+NI67MBQ_0101 1653634 1655874 ZH 另外 一间 就 没有 什么 力 这样
+NI67MBQ_0101 1658179 1662604 ZH 啊 啊 可是 你 就 哎呀 到底 是在 按摩 还是 在 跟我 擦 油 这样
+NI67MBQ_0101 1662789 1663989 ZH 有一点 奇怪 啦
+NI67MBQ_0101 1666747 1668569 CS 啊 你 有 try 过 吧 oil 的
+NI67MBQ_0101 1672209 1673179 ZH 你是 台湾人 吗
+NI67MBQ_0101 1677145 1677639 EN yeah
+NI67MBQ_0101 1681839 1682819 ZH 这样 贵 吗
+NI67MBQ_0101 1684239 1684869 ZH 台湾 啊
+NI67MBQ_0101 1685779 1686909 ZH 啊 泰国 很 便宜
+NI67MBQ_0101 1689739 1690769 ZH 难怪 啦
+NI67MBQ_0101 1692599 1694209 CS 台湾 我 还没有 try 过
+NI67MBQ_0101 1694639 1696019 CS 泰国 我 就 try 很多
+NI67MBQ_0101 1699735 1701395 CS 我 还 没有 try 过 ei 脚底 按摩
+NI67MBQ_0101 1702007 1703227 ZH 怕 我 怕 痒
+NI67MBQ_0101 1703987 1705757 CS 你 应该 try fish spa
+NI67MBQ_0101 1706617 1708587 ZH 那个 鱼 在 咬 你的 脚
+NI67MBQ_0101 1709057 1709847 ZH 笑 死
+NI67MBQ_0101 1710942 1712527 ZH 有 有 很多 地方 有 啊
+NI67MBQ_0101 1712867 1714077 ZH 我 要 去 马来西亚 做 咯
+NI67MBQ_0101 1715307 1716777 ZH 比较 便宜 啦 马来西亚
+NI67MBQ_0101 1726117 1727547 CS 我是 o. d. a. c.
+NI67MBQ_0101 1728277 1729627 ZH （呃） 户外 活动
+NI67MBQ_0101 1730417 1732837 ZH 是 就是 去 爬山 啦 那些 对
+NI67MBQ_0101 1733425 1738035 CS 所以 就 就 就 开始 喜欢 trekking 和 rafting 这种 东西 咯
+NI67MBQ_0101 1740045 1741875 CS 其他 我 没有 什么 好 怕 的 啦 so
+NI67MBQ_0101 1742798 1745528 CS 因为 我们 都 去 like malaysia indonesia 爬
+NI67MBQ_0101 1745628 1748398 CS indonesia 还 没有 啦 他们 刚 开始 那个 trip
+NI67MBQ_0101 1755009 1756970 CS ah renjani 他们 要 去 renjani
+NI67MBQ_0101 1758098 1759688 ZH 他们 今年 才 开始 啦
+NI67MBQ_0101 1759936 1763826 ZH 其实 我 应该 是 应该 是 我 要 带 人 去 可是 我 后来 没有 钱 就 没有 去
+NI67MBQ_0101 1764907 1770527 CS 没有 因为 我们 是 就是 join 这个 协会 right 我们 就 如果 进 main comm 我们 就可以 带 人 去 出国 啦
+NI67MBQ_0101 1770893 1776983 CS 他们 会 like (erm) train 我们 一下子 然后 我们 就可以 跟 一些 guides 一起 去 malaysia lah 什么 东西
+NI67MBQ_0101 1777991 1778459 ZH 可以 啊
+NI67MBQ_0101 1778976 1780666 ZH 学校的 人 都 可以 参加 啊
+NI67MBQ_0101 1780866 1783126 CS 我们的 professor 都 参加 我们 啊
+NI67MBQ_0101 1784235 1787715 CS yeah yeah 你懂 谁 是 jacob gan mah jacob gan prof
+NI67MBQ_0101 1788208 1789527 ZH 哦 他 每次 跟我 们 去 的
+NI67MBQ_0101 1789767 1791437 CS 他 去 过 mount k. 他 去 过 很多 地方
+NI67MBQ_0101 1793584 1797657 CS ei 通常 是在 recess week 的 前 两个 星期 会 有 booth
+NI67MBQ_0101 1798444 1800894 CS so 你 就 看 can a. can a. lah can a. 通常 有
+NI67MBQ_0101 1801454 1804684 CS then 就 不管 你是 不是 member lah 他们 都会 让 你 sign up
+NI67MBQ_0101 1805274 1808424 CS 不过 有 different price lor 一点点 而已 啦 so 看 你 喜欢 什么
+NI67MBQ_0101 1809444 1810304 ZH 五 块钱 而已
+NI67MBQ_0101 1811489 1812553 ZH 对 咯
+NI67MBQ_0101 1815084 1815644 ZH 什么 东西
+NI67MBQ_0101 1816674 1818934 CS training course 我们 不是 很 training course 的
+NI67MBQ_0101 1818964 1823064 CS so 他们是 除了 main comm 之外 啦 就是 track comm 比较 training
+NI67MBQ_0101 1823746 1827534 CS ei track comm 就是 去 到处 去 找 一些 新的 地方 爬
+NI67MBQ_0101 1828024 1829834 CS so 他们的 开销 是 蛮 大 的
+NI67MBQ_0101 1830154 1832924 CS then 其他 的 comm 有些 就 弄 camp 啊
+NI67MBQ_0101 1833184 1838404 CS 就 就是 搭 脚 车 就是 我们 的 camp 不是 只有 在 新加坡 我们的 camp 有 去 malaysia
+NI67MBQ_0101 1838644 1844824 CS so 我们 要 每次 去 那边 recce like 找 那些 地方 有什么 危险 可能 那些 树 倒 还是 那个 terrain 都 换 了
+NI67MBQ_0101 1844874 1846234 CS so 我们 每年 都要 去 看 啦
+NI67MBQ_0101 1846674 1849714 CS then (erm) 还有 很多 event comm lah 有 一些 是
+NI67MBQ_0101 1850131 1852994 CS 攀 攀 攀 岩 啊 叫 什么 攀岩 right ah
+NI67MBQ_0101 1852994 1855324 CS 就是 bouldering 他们 每年 都有 competition
+NI67MBQ_0101 1855354 1856204 CS then 有
+NI67MBQ_0101 1857176 1859366 CS 最近 又 来 多 一个 a. t. c. lah 是
+NI67MBQ_0101 1859999 1862306 CS 叫 什么 叫 terrain challenge something like
+NI67MBQ_0101 1862752 1863479 EN (erm)
+NI67MBQ_0101 1864504 1867218 CS 叫 什么 kayaking (er)
+NI67MBQ_0101 1868234 1869944 ZH 越野 脚踏车 啦 那种
+NI67MBQ_0101 1870114 1871294 EN terrain cycling then
+NI67MBQ_0101 1871580 1874966 CS track cycling then after that 就是 跑步 啊
+NI67MBQ_0101 1875196 1877586 CS rock climbing 就是 什么 都有 啦 all the elements
+NI67MBQ_0101 1877810 1880080 CS so combined 在一起 就 变成 一个 race lor
+NI67MBQ_0101 1880420 1883660 ZH 就 不想 普通 那种 跑 在 在 马路 上 跑 的 咯 是
+NI67MBQ_0101 1885421 1886953 ZH 不是 三项 铁人 他们 没有 游泳
+NI67MBQ_0101 1887914 1889914 CS en so 这个 是 比较 适合
+NI67MBQ_0101 1890174 1892900 ZH （呃） 年轻 小 女孩 的
+NI67MBQ_0101 1893170 1898600 CS no mah 我们 这些 大学生 都 可以 参加 嘛 不 需要 你 说 很 很 健康 还是 什么
+NI67MBQ_0101 1899529 1900204 EN so
+NI67MBQ_0101 1903880 1904530 ZH 光顾
+NI67MBQ_0101 1906210 1910230 CS (呃) 还 没有 要 开始 了 actually 是 after exam 才 全部 一起 来
+NI67MBQ_0101 1911214 1915136 CS (em) so a. t. c. 你有 看到 poster ah 你 可以 找 一下 朋友 去 join
+NI67MBQ_0101 1915600 1918540 CS actually 我 现在 也不 是 不是 很 再 o. d. a. c. 了 啦
+NI67MBQ_0101 1919340 1920650 ZH 对 咯 都 大四 了
+NI67MBQ_0101 1921862 1922744 CS so 偶尔 听 咯
+NI67MBQ_0101 1924510 1925210 ZH 一次 啊
+NI67MBQ_0101 1926450 1927850 ZH 一年 的话
+NI67MBQ_0101 1928520 1929570 ZH 三四 百 吧
+NI67MBQ_0101 1931250 1932630 ZH 不过 不是 每个人 都 来 啦
+NI67MBQ_0101 1932833 1934423 CS as in 我们的 comm 是
+NI67MBQ_0101 1935624 1939254 CS 一个 comm 就有 二十 个 咯 一个 committee 大概 有 二十 个 so 有
+NI67MBQ_0101 1939831 1942324 ZH 七个 八个 就 蛮多
+NI67MBQ_0101 1943651 1946121 CS 平时 join 的 trips member 就 很多 咯
+NI67MBQ_0101 1948941 1951171 CS a. t. c ah 几号 啊 还是 什么
+NI67MBQ_0101 1951431 1952531 CS a. t. c. 是
+NI67MBQ_0101 1953041 1954181 ZH 那个 越野 的 咯
+NI67MBQ_0101 1962191 1963521 ZH 打入
+NI67MBQ_0101 1963901 1965791 CS 不用 打入 的 啦 it's ok 的 啦 我们是
+NI67MBQ_0101 1966611 1967401 CS laid back 的 那种
+NI67MBQ_0101 1968771 1971221 ZH 喜欢 在 野外 看 星星
+NI67MBQ_0101 1971491 1972741 CS 喝茶 then
+NI67MBQ_0101 1972867 1973997 ZH 聊天 这样 咯
+NI67MBQ_0101 1983749 1987074 CS 去过 哪些 地方 啊 你是 讲 trekking 吗 还是
+NI67MBQ_0101 1989037 1990027 ZH 我 有 去 过 台湾 啊
+NI67MBQ_0101 1990604 1993937 ZH 嗯 哇 好久 以前 哦 让我 想 一下
+NI67MBQ_0101 1994457 1995657 ZH 是 跟我 家人 一起 去
+NI67MBQ_0101 1996367 1998167 ZH 就 就 就是
+NI67MBQ_0101 1998577 2000457 ZH 七 八日 游 啊 游 整个 台湾
+NI67MBQ_0101 2001077 2001577 ZH 不过
+NI67MBQ_0101 2002368 2005432 CS  是 蛮 贪心 的 i agree
+NI67MBQ_0101 2005847 2006627 CS 不过 就是 like
+NI67MBQ_0101 2006887 2010927 CS 去 很多 地方 咯 but 我觉得 应该 去 多 一次 因为 很多 东西 we miss out
+NI67MBQ_0101 2011567 2012897 CS 因为 太 太 rushed 了
+NI67MBQ_0101 2013231 2016001 ZH 去 我 蛮 喜欢 花莲 的 因为 我的 导游 是 花莲 人
+NI67MBQ_0101 2016572 2020259 ZH 因为 花莲 真的 蛮 美 的 嘛 旁边 又是 你是 花莲 人 吧 哦
+NI67MBQ_0101 2020935 2024386 CS 我 很 喜欢 花莲 不过 他们 就 讲 很多 earthquake ah then 我就 (呃)
+NI67MBQ_0101 2025946 2031186 CS yeah 他 就 讲 哦 没有 啦 在 每个 每 每 几 分钟 都 有 一个 earthquake 只是 你 feel 不到 罢了 那 我就
+NI67MBQ_0101 2031781 2034206 CS 好 then 就
+NI67MBQ_0101 2034206 2036986 ZH 哦 台北 的时候 我 姐姐 就 好像 遇到 一些 灵 异 事件
+NI67MBQ_0101 2037666 2039666 CS because 我们 住 的 那个 hotel mah
+NI67MBQ_0101 2040428 2045909 CS qi lin then 在 台北 咯 靠近 西门町
+NI67MBQ_0101 2049595 2052937 CS 因为 我们 的 i think 我们 的 那个 tour agency 是 一样 的 then
+NI67MBQ_0101 2053664 2061456 CS 就 就是 在 那边 她 就 听到 有 一些 上面 好像 有 一些 小孩子 在 乱跑 半夜 的时候 在那边 乱跑 然后 我 就 hah 我都 在 睡觉 没有 在 管 这样
+NI67MBQ_0101 2061987 2064487 CS then 应该 是 没有 啦 没有 小孩子 啦 这种 可能
+NI67MBQ_0101 2065657 2067107 EN but other than that
+NI67MBQ_0101 2067531 2071427 ZH （呃） 我们 没有 去 到 什么 夜市 我觉得 我们 被 骗 钱 了 那次
+NI67MBQ_0101 2071896 2074738 CS 就 夜市 走 一点 then 因为 下 大雨
+NI67MBQ_0101 2075194 2077843 CS so 没有 什么 机会 走 然后 有 去 到 高雄
+NI67MBQ_0101 2078492 2080786 CS then 我 很 喜欢 台湾 的 食物
+NI67MBQ_0101 2081226 2082777 ZH 很好 吃
+NI67MBQ_0101 2083581 2084490 EN yah
+NI67MBQ_0101 2086178 2088773 CS 相对 来讲 比较 便宜 不过 他们的 shopping 就 差不多 啦
+NI67MBQ_0101 2090151 2091761 ZH 嗯 西门町 差不多 一样
+NI67MBQ_0101 2092280 2092852 ZH 嗯
+NI67MBQ_0101 2093890 2094280 EN yeah lor
+NI67MBQ_0101 2096259 2099489 ZH 没有 都 跟你 讲 那个 骗 钱 的 什么 都 没有 去
+NI67MBQ_0101 2100109 2102629 CS as in 什么 mountain 都 没有 去 啦 有 去 spa
+NI67MBQ_0101 2103109 2103992 EN then
+NI67MBQ_0101 2104667 2106684 CS 嗯 不是 spa lah 那个 温泉
+NI67MBQ_0101 2107234 2109284 ZH 然后 在那边 吃 鸡蛋 咯
+NI67MBQ_0101 2111301 2112912 ZH 不是 宜兰 嘞 好像 是
+NI67MBQ_0101 2113742 2114573 ZH 我 忘 了 在 哪里 ei
+NI67MBQ_0101 2116936 2117689 ZH 靠近 花莲
+NI67MBQ_0101 2119013 2121310 ZH 嗯 啊 差不多
+NI67MBQ_0101 2123220 2126580 ZH 嗯 不像 是 ei 他们 给 我们 的 印象 不是 很好
+NI67MBQ_0101 2127552 2128902 ZH 我 忘记 了 真的 太久 以前 了
+NI67MBQ_0101 2129502 2131152 ZH 嗯 那 是 我 第一次 泡 温泉
+NI67MBQ_0101 2135532 2136432 ZH 十月 吧
+NI67MBQ_0101 2136996 2139551 ZH 啊 啊 啊 热死 吧
+NI67MBQ_0101 2140432 2141582 ZH 还 蛮好 玩 的 啦
+NI67MBQ_0101 2141922 2143852 EN i quite enjoy it so next time i will go again
+NI67MBQ_0101 2146111 2147617 ZH 嗯 就是 比较 好 啦
+NI67MBQ_0101 2148188 2152322 CS 对 咯 然后 我 再 想 可不可以 去 去 租 一个 bicycle
+NI67MBQ_0101 2156394 2158351 ZH 有 什么 有 mei
+NI67MBQ_0101 2161082 2163582 CS 哦 就是 在 路上 都有 啦 road 上面 都有
+NI67MBQ_0101 2166382 2167432 ZH 很 流行 吧
+NI67MBQ_0101 2173102 2174790 ZH 那 那个 高铁 呢
+NI67MBQ_0101 2177958 2180878 CS oh businessman ah 普通人 不 坐 的 啊 okay
+NI67MBQ_0101 2189882 2190912 CS cycling 会 比较 好 啦
+NI67MBQ_0101 2191797 2193847 CS but for girls 比较 麻烦 嘛
+NI67MBQ_0101 2194237 2194877 ZH 比较 危险
+NI67MBQ_0101 2197977 2200957 CS okay lah 当然 啦 不过 就是 怕 那边
+NI67MBQ_0101 2201772 2203492 ZH 不懂 会不会 有 坏人 啦 啊
+NI67MBQ_0101 2205732 2207562 ZH 不过 他们 的 不是 黑帮 很
+NI67MBQ_0101 2208252 2208932 ZH 对 咯
+NI67MBQ_0101 2209878 2211695 CS 哦 新加坡 的 can't even see lor
+NI67MBQ_0101 2219070 2219434 ZH 有
+NI67MBQ_0101 2225329 2226159 ZH 那边 有 哦
+NI67MBQ_0101 2228959 2231319 ZH 那 时候 还 不知道 嘛 那 时 小 还 蛮 小 的
+NI67MBQ_0101 2237919 2238509 ZH 很多 哈
+NI67MBQ_0101 2239059 2240269 ZH 好 我 应该 去 找 一下
+NI67MBQ_0101 2243269 2244319 ZH 应该 蛮 累 的 吧
+NI67MBQ_0101 2244919 2246499 ZH 台湾 很多 山 ei
+NI67MBQ_0101 2248641 2253679 CS training my gosh i will become very thin lor 很好 很好 可以 减肥
+NI67MBQ_0101 2259729 2261896 ZH 那 时候 我 看什么 戏 啊 哦 我看 败犬女王
+NI67MBQ_0101 2262300 2266377 CS then 他们 就 有 一个 scene 是 他 那个 那个 女的 就去 cycling trip
+NI67MBQ_0101 2267369 2269279 CS a cycling trip then 刚好 就
+NI67MBQ_0101 2269675 2272911 CS 她 在 外面 扎 扎 那个 tent ah 然后 就
+NI67MBQ_0101 2273492 2276502 CS 是 真的 要 这样 做 吗 有点 太 challenging 了 吧
+NI67MBQ_0101 2279517 2282566 CS tents 借 借宿 啊
+NI67MBQ_0101 2287579 2289469 ZH 学校 可以 mei
+NI67MBQ_0101 2292720 2293135 ZH 随便 啊
+NI67MBQ_0101 2297161 2297654 EN ah hah
+NI67MBQ_0101 2299524 2300147 ZH 可以 啊
+NI67MBQ_0101 2301829 2303289 ZH 你 有 试 过 吗
+NI67MBQ_0101 2303885 2307178 CS 怎么 好 好 我去 find out first
+NI67MBQ_0101 2309936 2310611 ZH 安全
+NI67MBQ_0101 2311779 2313039 ZH 那 哪里 是 比较
+NI67MBQ_0101 2314221 2314922 ZH 西部
+NI67MBQ_0101 2322972 2323959 ZH 很多 民宿 吧
+NI67MBQ_0101 2329995 2332719 CS 哦 你 有 golden retriever
+NI67MBQ_0101 2337785 2340699 EN oh so is your is your golden retriever here also
+NI67MBQ_0101 2344569 2347999 CS it's too hot meh (er) singapore singapore 也是 很多 人 有 啊
+NI67MBQ_0101 2349749 2351779 CS 有 有 有 你要 去 private estate lah
+NI67MBQ_0101 2352157 2352581 EN but
+NI67MBQ_0101 2353139 2355229 ZH 不好 啦 对 他们 来讲 很 热
+NI67MBQ_0101 2358468 2361428 CS hah 可怜 的 马 可怜 的 狗
+NI67MBQ_0101 2365269 2367819 CS but 靠近 水 的话 就 蛮好 玩 的 what 不是 吗
+NI67MBQ_0101 2373496 2377925 ZH 我 知道 我 朋友 凯如 就是 讲 每天 要 洗澡 洗 好久
+NI67MBQ_0101 2381995 2382895 ZH 对 咯 对 咯
+NI67MBQ_0101 2384021 2385787 EN taiwan sounds fun okay
+NI67MBQ_0101 2387059 2388046 EN ei
+NI67MBQ_0101 2390149 2396544 CS 东南亚 我 就是 一直 去 malaysia lor 就是 因为 带 人 去 爬山 嘛 然后
+NI67MBQ_0101 2398359 2399009 ZH 还有 哪里 啊
+NI67MBQ_0101 2401731 2404196 CS 哦 最 好玩 的 我 觉得 是 stong
+NI67MBQ_0101 2405261 2409104 CS (er) gunung stong kelantan 那边 靠近 kelantan
+NI67MBQ_0101 2409499 2410999 CS 不过 就是 坐 train 过去 咯
+NI67MBQ_0101 2411259 2417639 CS then (erm 那边 在 最 怀念 的 就是 那边 的 (呃) leech 那个 吸血 的
+NI67MBQ_0101 2417639 2420159 ZH 因为 那时 我 中 到 一个 很 哦 很大 只 的
+NI67MBQ_0101 2420429 2422509 ZH 很 痛 很 痛 永远 记得
+NI67MBQ_0101 2422969 2423679 ZH 不过
+NI67MBQ_0101 2424886 2427849 CS 呃 会 吓到 啦 起初 就 哇 很痛 嘞 then 就
+NI67MBQ_0101 2428703 2431889 ZH 没有 不 可以 拿 下 来 要 看 看住 它 然后 我 看住 它 很久
+NI67MBQ_0101 2431889 2433669 CS then 后来 我朋友 就 拿 那个 大火 机
+NI67MBQ_0101 2433979 2435619 ZH 就 烧 它 一下 他 就会 掉下 来
+NI67MBQ_0101 2435929 2437459 ZH 还是 你 放 药水 他 就会 掉下 来
+NI67MBQ_0101 2439178 2443258 CS 就 流血 咯 就 流血 流血 直到 它 慢慢 地 叫 什么 coagulate 啊
+NI67MBQ_0101 2443687 2447615 EN en then gurong stong ah
+NI67MBQ_0101 2447615 2450565 CS 其实 他 就是 好玩 的 是 他 那边 有 很多 waterfall
+NI67MBQ_0101 2450745 2454345 ZH 他 有 很多 啦 大概 有 三四 个 还是 多 过 啦
+NI67MBQ_0101 2454505 2455145 ZH 大 的
+NI67MBQ_0101 2455145 2456194 ZH 啊 啦
+NI67MBQ_0101 2456194 2459474 CS then 我们 就有 几个 人 在 那边 在 那边 拍照 啊
+NI67MBQ_0101 2459784 2462214 CS then 就 被 水 冲 啊 好像 被 冲 走 这样
+NI67MBQ_0101 2462584 2465524 CS 然后 有 一个 他们 有 一个 slide 就是 water slide
+NI67MBQ_0101 2465543 2470713 CS then 是 就是 你 要 爬 到 那个 石头 上面 然后 那个 guide 会 教 你 怎样 slide 啦 哪里 比较 安全
+NI67MBQ_0101 2470973 2474803 CS then 他 就 叫 你 slide then 我 有一个 朋友 就在 上面 呆 了 两个 钟头
+NI67MBQ_0101 2474803 2476368 ZH 因为 他 不敢 下去
+NI67MBQ_0101 2476939 2482182 CS then 我们 就 站在 他 后面 然后 我们就 好心 就 不用紧 啦 没有 事情 啦 就 没有 我们 没有 推 他
+NI67MBQ_0101 2482759 2484569 ZH 然后 我们 就 跟他 讲 了 很 久 很 久
+NI67MBQ_0101 2484643 2485803 ZH 我们的 脚 都 麻 了
+NI67MBQ_0101 2485973 2490723 CS then it's very difficult lah it's 太 太 累 了 then 有 一些 朋友 just do down first lor
+NI67MBQ_0101 2490993 2492503 CS then 刚好 我 又 怕 水 嘛
+NI67MBQ_0101 2492503 2496907 CS as in 我就 叫 下面 的 人 如果 你 看 我 drowning 的 时候 请 救我 这样 啦
+NI67MBQ_0101 2497553 2501383 CS 然后 我 就 等 我 那个 朋友 然后 后来 我 就 也是 give up 了 就 先 下去 好 了
+NI67MBQ_0101 2502203 2506847 CS yeah 那个 是 非常 值得 纪念 的 一次
+NI67MBQ_0101 2509137 2511663 EN ei ah nature slide
+NI67MBQ_0101 2512073 2515573 CS 没有 啦 他们 因为 很多 人 去 玩 过 so 他们 懂 是 安全 的
+NI67MBQ_0101 2515573 2520485 CS then 那个 guide 还会 我们 是 用 屁股 这样 下 嘛 他是 他 很 强 他会 站住 嘛
+NI67MBQ_0101 2520485 2522822 ZH 还是 他 做 一些 怪怪 的 姿势 就 这 样子 下去
+NI67MBQ_0101 2523497 2524845 CS 很 满 amazing 的
+NI67MBQ_0101 2525339 2529078 CS 就 好像 他们 滑浪 嘛 他 就 stand up lor then 两只 脚 这样 shoom 下去
+NI67MBQ_0101 2529831 2531467 CS 然后 我们 就 wow
+NI67MBQ_0101 2533763 2538703 CS 还有 很多 东西 啦 就是 他们 会 有一个 hole 然后 让 你 submerge 进去
+NI67MBQ_0101 2538703 2541143 ZH 然后 你就 觉得 好像 要 淹死 啦
+NI67MBQ_0101 2541143 2542363 ZH 他们就 会 把 你 拉 上来
+NI67MBQ_0101 2542383 2544653 ZH 他 只是 给 你 那个 感觉 好像 内 个 水 一直 冲进 来 嘛
+NI67MBQ_0101 2544803 2545903 CS then 你 冲进 来 他 会
+NI67MBQ_0101 2546093 2547783 ZH 不小心 的话 你 会 可能 会 被 冲 走
+NI67MBQ_0101 2548043 2548863 CS so 你要 小心
+NI67MBQ_0101 2551557 2552232 ZH 索溪
+NI67MBQ_0101 2555686 2560357 CS 嗯 有 (呃) 不是 这个 stong lah 是 另外 一个 palepa 就有
+NI67MBQ_0101 2560657 2567443 CS palepa 是个 蛮 危险 啦 but 我们 有 时候 会 带 我们 的 我们 都 带 我们 的 新生 去 那边 year ones
+NI67MBQ_0101 2567443 2568723 ZH 因为 那边 真的 太 多 东西 看 了
+NI67MBQ_0101 2569216 2575010 ZH 又 上水 又 又 爬上 去 又 下水 就 很多 不同 的 东西 啦
+NI67MBQ_0101 2575010 2577550 CS but yeah lor technically 有 一点 危险 啦
+NI67MBQ_0101 2579930 2581960 CS 通常 我会 wear 我的 sandals
+NI67MBQ_0101 2582823 2587991 CS (er) teva 比较 好 的 sandals 不然 你用 那种 普通 的 overland 会 滑下
+NI67MBQ_0101 2588406 2589029 ZH 不行 不行
+NI67MBQ_0101 2589620 2590770 CS then 我 有 一些 juniors 也是
+NI67MBQ_0101 2591770 2593370 ZH 没有 我们 没有 带 那个
+NI67MBQ_0101 2594660 2595670 ZH 没有 没有 没有 我们 没有 带
+NI67MBQ_0101 2595852 2598862 CS 因为 它 不是 不是 不是 爬 上 那个 waterfall 是
+NI67MBQ_0101 2599102 2600492 CS 爬 along the 水 嘛
+NI67MBQ_0101 2600922 2604192 CS then 在 旁边 那些 干 的 地方 我们 就 上去 so a bit different
+NI67MBQ_0101 2604533 2606472 CS i think 你 讲 的 是 canyoning mah
+NI67MBQ_0101 2607173 2608809 CS canyoning 我 要 去 nepal 做
+NI67MBQ_0101 2609458 2610653 ZH 什么 就 看 起来
+NI67MBQ_0101 2611412 2612662 ZH 应该 是 没事 吧
+NI67MBQ_0101 2615200 2617560 ZH （呃） 我 去 那边 是 十九 天
+NI67MBQ_0101 2619220 2621910 CS 我们 毕业 旅行 嘛 当然 要 longer lah
+NI67MBQ_0101 2623240 2624430 ZH 我 花 很多 钱 哦
+NI67MBQ_0101 2625000 2628050 ZH 花 两千 五 吗 差不多
+NI67MBQ_0101 2630620 2632560 CS okay lah okay lah 十九 天 啦
+NI67MBQ_0101 2634619 2637891 ZH 不是 我们 没有 这样 虔诚 没有 啦
+NI67MBQ_0101 2638260 2640670 CS 就 住 一些 hotel 我们 去 online search lah
+NI67MBQ_0101 2640893 2645333 CS 就 看到 有 很多 不错 有 一些 很好 吃 的 东西 then 他们的 hotel 我们 就 去 住 咯
+NI67MBQ_0101 2645915 2647624 EN then
+NI67MBQ_0101 2648705 2649900 EN (em) backpack
+NI67MBQ_0101 2650623 2652163 CS then 就 希望 没事 啦
+NI67MBQ_0101 2654853 2658663 ZH 没有 啦 我是 怕 尼泊尔 嘛 因为 我们 几个 女生
+NI67MBQ_0101 2660541 2665267 CS 也是 有 也是 有 一些 (呃) thief ah 那种 东西
+NI67MBQ_0101 2666488 2668185 EN yeah yeah lor
+NI67MBQ_0101 2671509 2672392 EN (er)
+NI67MBQ_0101 2673347 2675857 ZH 他们 吃 的 好像 有 一点 像 那个 印度 煎饼 那种
+NI67MBQ_0101 2676366 2678802 ZH 听说 不是 很 好吃
+NI67MBQ_0101 2678802 2680162 ZH 因为 我 有 朋友 去 过
+NI67MBQ_0101 2680372 2681762 CS then 他们是 去 tibet
+NI67MBQ_0101 2682152 2683252 CS 然后 再 去 nepal
+NI67MBQ_0101 2685692 2688952 CS 他们 没有 他们 更 惨 他们 从 vietnam 上去 中国
+NI67MBQ_0101 2689582 2691522 CS 从 四川 那边 又 去 tibet
+NI67MBQ_0101 2692392 2694142 CS 再 去 tibet 再 去 尼泊尔
+NI67MBQ_0101 2694382 2695392 ZH 尼泊尔 再 去 印度
+NI67MBQ_0101 2699668 2705008 CS 没有 没有 他们 如果 要 进 tibet 的 时候 要 就是 join 他们的 tour tour group 现在 他的 policy 是 这样 啦
+NI67MBQ_0101 2705460 2706910 CS so 他们就 这样 进去 咯
+NI67MBQ_0101 2708361 2710732 ZH 他们 是 他们 是 非常 非常 自由 行 啦
+NI67MBQ_0101 2711244 2713857 CS (em) then 对 咯
+NI67MBQ_0101 2714412 2716342 CS 他们 拍 的 photo 都 很好 看
+NI67MBQ_0101 2720061 2724191 CS 现在 是 夏天 啊 but 我们 去 的时候 是 有一点 靠近 monsoon
+NI67MBQ_0101 2724800 2725786 CS 有点 危险 so
+NI67MBQ_0101 2728227 2732251 ZH 嗯 我 我 爬 的 山 其实 不是 很 高 因为 我 只是 去 五 天 嘛
+NI67MBQ_0101 2732251 2733463 CS as in 爬 五天 啊 so
+NI67MBQ_0101 2734424 2735125 ZH 三千 多
+NI67MBQ_0101 2755718 2756627 ZH 应该 参加
+NI67MBQ_0101 2757978 2758809 EN 
+NI67MBQ_0101 2763301 2765631 CS 现在 不是 应该 蛮 有空 的 嘛 as in quite free right
+NI67MBQ_0101 2767352 2767742 EN em hmm
+NI67MBQ_0101 2768677 2769404 EN oh oh
+NI67MBQ_0101 2770287 2772106 CS 不 可以 不用 ninety days nineteen
+NI67MBQ_0101 2772780 2774638 ZH 嗯 还 很难 拿 吗
+NI67MBQ_0101 2775121 2776601 ZH 两个 星期 也可 以 啊
+NI67MBQ_0101 2778044 2778823 EN hah oh
+NI67MBQ_0101 2782043 2784846 CS oh okay 好 好
+NI67MBQ_0101 2785419 2787311 ZH 没有 啦 台湾
+NI67MBQ_0101 2787311 2790431 CS 可以 去 短 一点 啦 nepal 其实 蛮 我 觉得 蛮 值得 去 的 啦
+NI67MBQ_0101 2791080 2795750 CS 很 不只 是 爬山 不只 是 那种 adventure 的 嘛 还有 那些 跟你讲 的 temples
+NI67MBQ_0101 2797702 2799290 ZH 没有 啦 就是 去 拍照
+NI67MBQ_0101 2799806 2801840 ZH 我 也是 没 什么 兴趣 只是 拍照 罢了
+NI67MBQ_0101 2803130 2808231 CS 没有 啦 他们 的 temple 其实 比较 他们 的 天空 比 我们 多 嘛 就 比较 美 嘛
+NI67MBQ_0101 2811260 2812690 CS singapore 太 clustered 了 我 觉得
+NI67MBQ_0101 2813660 2814590 ZH 看 不到 天空
+NI67MBQ_0101 2815320 2816021 EN no skies
+NI67MBQ_0101 2820462 2821579 ZH 对 啦
+NI67MBQ_0101 2827580 2829240 ZH 因为 我 去 泰国 的 时候 他们的
+NI67MBQ_0101 2829500 2831150 ZH 因为 我 去 乡下 嘛 他们的
+NI67MBQ_0101 2831360 2834220 CS 我 觉得 他们 的 就是 sunset ah skies 都 很 美 ei
+NI67MBQ_0101 2834640 2836172 ZH 新加坡 的 像 什么 嘛
+NI67MBQ_0101 2838300 2840560 ZH 也 不是 啦 真的 他们 的 天空 真的 很 美
+NI67MBQ_0101 2841170 2843380 ZH 因为 你看 得到 是 一望无际 嘛
+NI67MBQ_0101 2843650 2845670 CS 新加坡 全部 都是 被 block 住 so
+NI67MBQ_0101 2851840 2853970 CS (em) by right 应该 是 七月 吧
+NI67MBQ_0101 2856333 2856957 EN convo mah
+NI67MBQ_0101 2860410 2862760 ZH 有 啊 有 啊 可是我 还 不懂 几时 耶
+NI67MBQ_0101 2863240 2864180 ZH 我 要 去 找 一下
+NI67MBQ_0101 2866080 2868830 CS (呃) 应该 是 nanyang auditorium 吧
+NI67MBQ_0101 2869634 2871498 CS 不同 科系 不同 嘛 不同 timing
+NI67MBQ_0101 2872439 2872828 ZH 嗯
+NI67MBQ_0101 2873920 2875750 ZH 不 可能 啊 太 多 太 多 学生 了
+NI67MBQ_0101 2876220 2876940 CS fit 不了
+NI67MBQ_0101 2877607 2877958 ZH 嗯
+NI67MBQ_0101 2879276 2881138 CS 可是我 还 不懂 几时 啊 so
+NI67MBQ_0101 2883426 2888076 CS yeah 他们 现在 不是 有 那些 packages lor 我 还没有 真的 去 看 啦
+NI67MBQ_0101 2888343 2890863 CS 听说 是 有 一点 overpriced so
+NI67MBQ_0101 2892193 2893323 CS 太 贵 啊 so
+NI67MBQ_0101 2894487 2901507 CS 现在 啊 他们 有一个 offer 是 一百多 一百 六十八 啦 不过 听说 他们 会 加 一些 附加 的 东西 so
+NI67MBQ_0101 2902673 2906563 CS 因为 我 朋友 他 已经 已经 graduate 了 so 他 try 过 的 那些 package lah
+NI67MBQ_0101 2906563 2910885 CS 他就 讲 那间 公司 其实 不是 很好 我就 okay
+NI67MBQ_0101 2911248 2913302 ZH 可能 找 朋友 还是 什么 来 拍 还是 什么
+NI67MBQ_0101 2917844 2920207 ZH 如果 可以 的话 我 可以 自己 拍 啊 只是 不 可以 自己 拍 啊
+NI67MBQ_0101 2923167 2927326 CS 啊 其实 我 现在 啊 我 现在 是 玩 semipro 的
+NI67MBQ_0101 2928056 2930386 CS 就是 hybrid lor
+NI67MBQ_0101 2930620 2931866 CS 有 听过 four thirds mah
+NI67MBQ_0101 2932500 2936480 CS 就是 它 不是 不是 d. s. l. r. lah but 不过 他是 比较 小巧 的
+NI67MBQ_0101 2936900 2938680 CS 可以 装 上 那些 lens
+NI67MBQ_0101 2939420 2941650 CS 比较 轻 咯 比较 方便 for travel
+NI67MBQ_0101 2942150 2943111 CS so 我在 try 那个 先
+NI67MBQ_0101 2948089 2954659 CS 你 可以 买 那个 adaptor for 那个 normal 的 lens lor so 我 还 没有 这么 多 钱 so 慢慢 来 啦 慢慢 来
+NI67MBQ_0101 2957957 2959382 EN body body
+NI67MBQ_0101 2959382 2962912 CS 如果 是 first hand 就 差不多 千 二
+NI67MBQ_0101 2963952 2965152 CS 可是 我 买 secondhand lah
+NI67MBQ_0101 2965152 2966397 ZH 比较 便宜 一点点
+NI67MBQ_0101 2967228 2968774 CS so 九百 多 这样
+NI67MBQ_0101 2970786 2975096 CS dry box (er) dry cabinet (er) 还 没有 钱 买 so 慢慢 来
+NI67MBQ_0101 2975880 2977840 ZH 有 有 有 便宜 的 啦
+NI67MBQ_0101 2980390 2981180 ZH 为什么 嘞
+NI67MBQ_0101 2983120 2985820 ZH （呃） 怕 会 发霉 啊
+NI67MBQ_0101 2987550 2988720 ZH 等 我 尼泊尔 回来
+NI67MBQ_0101 2990300 2993830 CS 开始 要 找 工 了 嘛 找 工 如果 有 got money of course 我 buy lah
+NI67MBQ_0101 2994160 2996740 CS but 现在 来讲 嗯 a bit difficult
+NI67MBQ_0101 3003530 3004180 EN tuition lor
+NI67MBQ_0101 3004710 3013570 CS 我 还 喜欢 给 我 (呃) as in 我 有 给 我的 opposite my house 有 一个 小 男生 他 就 我 就 教 他 sec three mah 我 就 教 他 maths 跟 science
+NI67MBQ_0101 3014549 3016572 CS so 还 蛮 开心 的 跟他
+NI67MBQ_0101 3017328 3017873 EN (em)
+NI67MBQ_0101 3020081 3022750 ZH 有 啊 有 不过 呃
+NI67MBQ_0101 3024002 3024417 ZH 真的 吗
+NI67MBQ_0101 3024902 3026972 CS 你 可以去 sign up 很多 agency 啦 其实
+NI67MBQ_0101 3027362 3028102 ZH 华文 啊
+NI67MBQ_0101 3033299 3039786 ZH 当然 啦 当然 啊 没有 啊 其实 这种 东西 要 看 缘分 没有 啦
+NI67MBQ_0101 3041496 3044532 CS 嗯 有很多 agency 再 找 其实
+NI67MBQ_0101 3044532 3047027 CS 华文 蛮 吃香 的 a lot of people is looking for
+NI67MBQ_0101 3047832 3048637 EN so
+NI67MBQ_0101 3049392 3053602 CS (呃) 去 agency sign up 的话 他们 就 会 问 你 学历 什么 东西 的 啦 then 你 一定 会 拿 到 的 嘛
+NI67MBQ_0101 3053940 3054537 EN then
+NI67MBQ_0101 3055172 3057432 CS online tuition agency ah 我 sign up 是什么
+NI67MBQ_0101 3058512 3060012 CS 我 忘记 了 singapore tutors ah
+NI67MBQ_0101 3060442 3061432 CS 你 可以 去 try 一下
+NI67MBQ_0101 3061942 3067522 CS then 他们就 会 给 你 咯 then 我 又 拿 过 几个 but 我 还是 喜欢 这个 小 男生 啦
+NI67MBQ_0101 3067922 3068772 ZH 比较 投 缘 嘛
+NI67MBQ_0101 3071884 3076117 CS yeah 你 真的 很 想 打 他们 到底 会不会 醒过来 那种
+NI67MBQ_0101 3076642 3078892 CS like 你 觉得 他们 可以 like can make it one but
+NI67MBQ_0101 3079029 3082739 CS 他 就是 死死 都 不要 跟 你 做 你的 功课 啊 then 那边 lazy 得 要死 then 你 就
+NI67MBQ_0101 3085057 3086173 ZH 对
+NI67MBQ_0101 3086415 3089625 CS 就 好像 那种 比较 积极 比较 enthu 的 enthusiastic 的 就
+NI67MBQ_0101 3090069 3091860 ZH ei 你 教 得 比较 起劲 嘛 这样
+NI67MBQ_0101 3093782 3094995 ZH 这是 看 缘分 的
+NI67MBQ_0101 3097781 3100282 ZH ei 有 让我 想 一下 我 现在 是 多少
+NI67MBQ_0101 3100612 3101625 ZH 二十 五 吧
+NI67MBQ_0101 3103027 3107545 CS 呃 高 不是 高中 (呃) 叫 什么 就是 upper second
+NI67MBQ_0101 3108395 3109885 CS upper sec 是 sec three sec four mah
+NI67MBQ_0101 3110326 3112736 CS sec three sec four 比较 多 十二 十五 到 三十 嘛
+NI67MBQ_0101 3113256 3115756 CS then 就有 分 二十 到 二十五 是 lower second
+NI67MBQ_0101 3116601 3119730 CS 然后 就 这样 咯 每个 level drop 一个 five dollar 这样
+NI67MBQ_0101 3120536 3127616 CS 然后 高中 如果 你的 学历 越 高 当然 你的 嗯 怎样 讲 你 自己 本身 你的 tutor 的 学历 比较 高 then 你 就可以 charge 比较 多 咯
+NI67MBQ_0101 3128443 3130798 CS 嗯 所以 你 可以 去 try 一下
+NI67MBQ_0101 3142706 3145250 CS 中文课 教 什么 啊 我 有 try 过 一次
+NI67MBQ_0101 3145796 3147987 CS then 我 那个 中文 其实 是 我 cannot make it so
+NI67MBQ_0101 3148343 3152683 CS as in as in 他的 中文 以前 他们 是 请 过 for 我的 case lah
+NI67MBQ_0101 3152803 3155963 ZH 他是 请 过 中国 的 老师
+NI67MBQ_0101 3156309 3159159 CS then 因为 中国 的 老师 他们的 口音 有点 重 嘛
+NI67MBQ_0101 3159663 3160884 CS so 那个 学生 听 不懂
+NI67MBQ_0101 3161279 3163399 CS so 他 要 找 一个 就是 新加坡 的
+NI67MBQ_0101 3163399 3169685 CS 可是 我的 华语 又不是 非常 标准 嘛 so i think 那个 parent 就 就算 他们 我们 跟着 那个 课本 讲
+NI67MBQ_0101 3170078 3173268 CS then 就是 他们 的 深字 其实 就是 学 那个 手册 的 嘛
+NI67MBQ_0101 3173578 3176998 CS then 就 给 他们 一些 like 听写 啊 all the spelling test whatever thing lah
+NI67MBQ_0101 3177294 3177735 EN then
+NI67MBQ_0101 3178826 3181397 CS (呃) 给 他们 很多 papers 做 咯
+NI67MBQ_0101 3182202 3182721 ZH 可是 我
+NI67MBQ_0101 3184158 3185838 CS ei 通常 有很多 assessment book
+NI67MBQ_0101 3186558 3190638 CS so 我都 是 用 assessment book 如果 真的 assessment book 我 觉得 不好 的话 我 才 用 自己的
+NI67MBQ_0101 3195572 3197322 ZH 如果 你 有 自己 的 东西 是 不错 的 嘛
+NI67MBQ_0101 3198592 3200072 CS then 就 assessment book lor
+NI67MBQ_0101 3202242 3204072 ZH 可以 吧 中文 其实
+NI67MBQ_0101 3207332 3208442 CS but 是 用 华语 教 吧
+NI67MBQ_0101 3209653 3210873 ZH 嗯
+NI67MBQ_0101 3213136 3216506 CS 为什么 台 台湾 的 english 会 这样 差 呢 不会 吧
+NI67MBQ_0101 3217640 3221020 CS i think 是 i think 是 新加坡 因为 新加坡 故意 要 双 语
+NI67MBQ_0101 3221365 3222236 ZH 所以 才 会 这样
+NI67MBQ_0101 3225416 3228667 ZH 对 啦 可是 你们 的 华语 很好 啊 好过 我们 的 一半 一半 这样
+NI67MBQ_0101 3231038 3231843 ZH 对 啊 对 啊 对 啊
+NI67MBQ_0101 3239348 3239945 ZH 对 华语
+NI67MBQ_0101 3241650 3242630 ZH 你们是 每天 嘛
+NI67MBQ_0101 3245440 3247670 ZH 对 咯 我 我 去 台湾 的时候 我 觉得 格格不入
+NI67MBQ_0101 3248151 3251838 CS 因为 我 会 like (er) 就 讲 一些 英文 还是 就 那个 口音 不同 嘛
+NI67MBQ_0101 3252150 3256695 CS 就 try to mimic 他们 的 口 口音 这样 就 (呃) 怪怪 的
+NI67MBQ_0101 3264145 3268897 CS 太 新加坡 啊 嗯 我 不 觉得 我 觉得 跟 malaysia 比较 近
+NI67MBQ_0101 3269858 3272866 ZH 真的 嘛 这样 靠近 嘛 因为 台湾 的 口音
+NI67MBQ_0101 3272866 3275406 CS 台湾 的 跟 中国 的 口音 比较 靠近 what
+NI67MBQ_0101 3278796 3280086 ZH 有 一点 点 差别
+NI67MBQ_0101 3280506 3281196 ZH 一点点
+NI67MBQ_0101 3282354 3285098 CS for example ah wah 很 难题 ei 让 我 想 一下
+NI67MBQ_0101 3286249 3289229 ZH 不懂 嘞 就是 我们 会 讲 很多 啦 咯
+NI67MBQ_0101 3289885 3291988 CS 不是 啦 then 他们 的 调子 有点 不同
+NI67MBQ_0101 3292845 3293521 ZH 嗯
+NI67MBQ_0101 3293917 3295147 EN intonation yeah
+NI67MBQ_0101 3295650 3296143 ZH 就
+NI67MBQ_0101 3297087 3298267 ZH 我也 不懂 怎样 形容
+NI67MBQ_0101 3300219 3300920 ZH 重音 啊
+NI67MBQ_0101 3302089 3303563 ZH 我 本身 我 觉得 是 在 后面
+NI67MBQ_0101 3304790 3307034 CS hah 我的 friends ah
+NI67MBQ_0101 3309075 3312892 CS (er) french 我 可 没有 我 没有 没有 研究 啦
+NI67MBQ_0101 3313613 3314583 ZH 不过 就是
+NI67MBQ_0101 3315423 3317203 ZH 很 不同 咯 我觉得 很 不同
+NI67MBQ_0101 3317833 3319883 CS so 你 可以去 研究 一下 这 方面 吧
+NI67MBQ_0101 3321782 3324640 ZH 蛮 像 台湾人 啊 还是 中国 吧 啊
+NI67MBQ_0101 3325262 3328588 ZH 不像 新加坡 还是 马来西亚 啦 当然 啦 嗯 嗯
+NI67MBQ_0101 3329419 3331159 ZH 这里 附近 就是 这 几个 啦 就
+NI67MBQ_0101 3333742 3336242 ZH 马来西亚 不 像 马来西亚 的 腔 不同
+NI67MBQ_0101 3342559 3342923 ZH 有 啊
+NI67MBQ_0101 3345932 3349162 CS ei 我的 课堂 啊 我的 课堂 蛮 少 as in 我的 course 只有
+NI67MBQ_0101 3350052 3351522 ZH 一百 三十 个人 吗
+NI67MBQ_0101 3352237 3355230 CS oh then 男孩子 很少 女孩子 很多
+NI67MBQ_0101 3355590 3359530 CS because 它的 ratio is like one guy is to six girls
+NI67MBQ_0101 3360651 3361612 EN yes
+NI67MBQ_0101 3362350 3364400 ZH 哦 那边 的 男生 就 幸福 啦 哎呀
+NI67MBQ_0101 3364858 3368026 CS 可是 那边 的 男生 也 不是 什么 样 的 so yeah lah
+NI67MBQ_0101 3369013 3372302 CS 看 起来 有点 gay gay so ah anyway then 就
+NI67MBQ_0101 3372607 3374584 ZH 中国 生 中国 学生 蛮 少
+NI67MBQ_0101 3374584 3376454 CS ei 应该 是 没有 ei for 我的 batch
+NI67MBQ_0101 3376840 3377490 ZH 因
+NI67MBQ_0101 3377904 3380344 CS 因为 我们 的 英文 要 b. three 以上
+NI67MBQ_0101 3380564 3383324 CS so 对 他们 来讲 可能 会 有一点 问题 啦
+NI67MBQ_0101 3384138 3384917 EN so
+NI67MBQ_0101 3385748 3389344 CS yeah lor 因为 我们 蛮 多 就是 like jiat-kantang
+NI67MBQ_0101 3391044 3395684 CS jiat-kangtang 是 就是 只 会 讲 英文 不会 讲 华文
+NI67MBQ_0101 3396634 3399054 CS (呃) 新加坡 语言 singlish ah singlish
+NI67MBQ_0101 3399308 3400087 ZH 真的 真的 真的
+NI67MBQ_0101 3400866 3401697 ZH 啊 jiat-kantang
+NI67MBQ_0101 3402384 3404274 CS jia-kantang 是 是 hokkien 嘛
+NI67MBQ_0101 3406943 3408371 CS 就是 吃 potato
+NI67MBQ_0101 3413799 3414867 ZH 就是
+NI67MBQ_0101 3417234 3421034 CS 不是 不是 不是 不是 jia-kantang 是 jia-kantang 吃 potato
+NI67MBQ_0101 3422996 3425626 CS (呃) 吃 potato 叫 什么 啊 番薯 啊
+NI67MBQ_0101 3426345 3426761 ZH 啊 啊 啊
+NI67MBQ_0101 3429773 3431826 EN  jiat-kantang
+NI67MBQ_0101 3435068 3436600 CS hokkien hokkien 嗯
+NI67MBQ_0101 3437337 3439017 ZH 不懂 从 哪里 演变 出来 的 啦
+NI67MBQ_0101 3439067 3440017 ZH 就是 突然 这样
+NI67MBQ_0101 3440807 3442262 ZH ei ei 我们 讲 到 什么 了
+NI67MBQ_0101 3445670 3449190 ZH 就是 你 讲 那个 人 不会 讲 华语 可是 他 明明 是 华人
+NI67MBQ_0101 3449680 3451980 ZH 他 只 会 讲 英语 就 叫 他 jiat-kangtang
+NI67MBQ_0101 3452597 3455487 ZH 对 对 对 有 很多 名 次 嘛 名 名词
+NI67MBQ_0101 3455487 3457027 CS so jiat-kang-tang 是 其中 一个
+NI67MBQ_0101 3459287 3460407 CS banana 还有 什么
+NI67MBQ_0101 3462077 3463227 ZH 没有 啦 应该 没有 了 吧
+NI67MBQ_0101 3465727 3468793 CS 我觉得 比较 贴 切 啦 比较 singlish 对 咯
+NI67MBQ_0101 3477207 3486667 CS 对 就是 有时候 要 switch lor 不然 我们 没有 switch 够 的话 我们 有时候 会 参 杂 一些 like malay hokkien 都 不好 嘛 如果 我们 在 做工 的时候 讲 这种 话
+NI67MBQ_0101 3487496 3492396 CS 尤其是 对 那种 international clients then 突然 冒出 一 句 怪 怪 的 then 他们就 (呃) 这样
+NI67MBQ_0101 3494795 3498505 CS 要 adapt 要 adapt 而且 我 学校 蛮 多 就是
+NI67MBQ_0101 3498875 3501945 CS 外国 嗯 western 的 老师
+NI67MBQ_0101 3502345 3504255 CS so 他们 有时候 就会 对 英文 很 挑剔 啦
+NI67MBQ_0101 3504503 3505703 CS so 有时候
+NI67MBQ_0101 3506013 3508643 CS but 他们 很好 笑 啦 他们 又 会 开始 跟我 们 讲 一点 singlish
+NI67MBQ_0101 3509231 3511716 CS 他们 很 喜欢 玩 这种 东西 就 oh okay
+NI67MBQ_0101 3513256 3517460 CS yeah but 就 我 觉得 很 搞怪 嘛 很 好笑 嗯
+NI67MBQ_0101 3521653 3523983 CS 没有 因为 我们 老师 就 刚好 看 我们的 report
+NI67MBQ_0101 3524373 3528743 CS 他 就会 管 很多 subject verb 管 很多 grammar then
+NI67MBQ_0101 3528915 3531843 CS 我们 就 okay 做
+NI67MBQ_0101 3531843 3533753 CS 没有 啦 it's good lah it's good in a way
+NI67MBQ_0101 3533877 3536647 CS 然后 我们的 report 就 比较 detailed lor
+NI67MBQ_0101 3560393 3562264 ZH 一个 个 哦 哦 对 对 对 对 对
+NI67MBQ_0101 3564210 3567534 ZH 啊 啊 啊 可是 我 不 喜欢 后面 那个 东西 啦 这个 比较 亮
+NI67MBQ_0101 3571187 3573447 CS 然后 那时 我 就 踢 足球 把 我的 nail 弄 成 这样
+NI67MBQ_0101 3574657 3575497 CS 弄 到 蛮 bad 的
+NI67MBQ_0101 3577385 3579920 ZH 没有 没有 我 就是 就 那 一次 踢 足球 而已
+NI67MBQ_0101 3580553 3583537 ZH 就 就 刚好 我的 脚指头 弄 到 这样
+NI67MBQ_0101 3584111 3586153 CS so 最近 都 没有 踢 了
+NI67MBQ_0101 3587850 3593505 CS hmm 什么 jogging ah (呃) 现在 很少 在 忙 f. y. p. mah 那时
+NI67MBQ_0101 3593925 3595945 ZH 现在 在 忙 功课 就 很难
+NI67MBQ_0101 3597533 3598533 ZH 现在 很多
+NI67MBQ_0101 3599859 3602853 ZH 因为 考试 嘛 每个 要 减 压 啦
+NI67MBQ_0101 3602853 3604393 CS stress reliever mah 就
+NI67MBQ_0101 3604483 3605823 CS 很多 friends 他们 都有 啦
+NI67MBQ_0101 3606093 3607483 CS 而且 有很多 race coming up
+NI67MBQ_0101 3608584 3612584 CS 嗯 就 x. physique ah 学校 的 嘛 那个 sports club
+NI67MBQ_0101 3614143 3615593 CS sports club 他们 有 做 so
+NI67MBQ_0101 3616163 3617513 EN a. t. c. is coming up also mah

@@ -1,0 +1,443 @@
+06NC11MAX_0101 3220 4326 CS 哎哟 in fact
+06NC11MAX_0101 7183 8127 ZH 啊
+06NC11MAX_0101 8850 15613 CS 我是 (er) 来自 马来西亚 的文炳 今年读 (er) mechanical year four
+06NC11MAX_0101 25857 29254 CS 哦 你 graduate 了 咯 for how long period already
+06NC11MAX_0101 42054 43438 EN then
+06NC11MAX_0101 44728 45790 CS 哦 then 你
+06NC11MAX_0101 45790 49040 CS 之前 是在 哪一间 company 上班
+06NC11MAX_0101 53095 53912 ZH 哦
+06NC11MAX_0101 56900 71635 CS then 你 觉得 他们 company 的 (er) policy ah 还是 他们的 social ah 还是 office politics ah 有什么 (er) 值得 (er) 我去 参考 啊 因为 以后 我 graduate 过后 会 打算 去那边 做工 咯
+06NC11MAX_0101 104556 105562 ZH 哦
+06NC11MAX_0101 112293 115500 CS 哦 then as a fresh grad 你觉得 (er)
+06NC11MAX_0101 115500 120570 CS 毕业 过后 (嗯) 你的 study life 跟 你的 working life 有什么 difference 吗
+06NC11MAX_0101 165562 169242 CS 那么 你 做工 这么久 你 有没有 试过 late for work
+06NC11MAX_0101 193122 194474 EN cab loh hum
+06NC11MAX_0101 196707 198972 ZH  你的 hum
+06NC11MAX_0101 208408 216136 CS 哦 then 你 just now men~ mention 你 做工 了 为什么 (er) 今天你会 (er) a a~ appear 在这里 啦
+06NC11MAX_0101 216136 256187 EN 
+06NC11MAX_0101 256187 257193 EN hum
+06NC11MAX_0101 279651 283640 CS (er) as i know apple 是 一个 蛮出名的 公司
+06NC11MAX_0101 283640 286170 CS 然后 你 又是 读 (er) triple e.
+06NC11MAX_0101 286170 287660 ZH 那么 (er)
+06NC11MAX_0101 287660 290380 CS 为什么 你 不 选择 留 在 apple 呢
+06NC11MAX_0101 290380 294364 CS 因为 我觉得 他的 future 是蛮 bright 一下的
+06NC11MAX_0101 331711 338639 CS 哦 据我所知 你是 (er) 来之 ipoh from malaysia (er) is that right
+06NC11MAX_0101 338639 340480 EN then (er)
+06NC11MAX_0101 340480 342710 CS 我们 也是 来自 同一 个 home town 的
+06NC11MAX_0101 342710 343780 EN then
+06NC11MAX_0101 343780 345830 CS 你 你 会 miss 你的 home town 吗
+06NC11MAX_0101 370575 371837 CS 它的 white coffee
+06NC11MAX_0101 376690 378121 CS 还有 chicken noodles
+06NC11MAX_0101 402110 407679 CS 像 新加坡 不 happy 嘛 新加坡 这么 多 shopping mall then 他的 transport 又 这么 方便
+06NC11MAX_0101 450942 463172 CS 哎 并非 不可以 compare 这样的 喔 因为 你 earn as singapore dollars then 你 应该 spend as singapore dollar 你 不可以  讲 其实 新加坡的 东西 蛮便宜 啊 你看他们的
+06NC11MAX_0101 463172 469849 CS 电话 他们 sign con~ contract 可能 不用钱 就 可以 拿一个 免费电话 啦
+06NC11MAX_0101 523793 536390 CS but 那 又不一定 因为 他们  他们 其实 每个月 charge 你的 bill 其实 蛮 高一下的  then 而且 他们 又 有分 incoming outcom~ (er) outgoing call like malaysia 其实
+06NC11MAX_0101 536390 540990 CS 你 买 了 一个 便宜 的 sim card then 他 就 all include inside 了 你 call 也是
+06NC11MAX_0101 540990 544403 CS 你收 你 没有 分 outgoing 还是 incoming call 这样
+06NC11MAX_0101 549537 551753 CS 还有 caller id 对 then
+06NC11MAX_0101 558622 560698 ZH 对 实在 太过分 了
+06NC11MAX_0101 578026 583636 CS 那就 很 不方便 啊 because 人 人家 call 你 的时候 then 你不知道 who is calling you
+06NC11MAX_0101 595945 603042 CS (er) 什么叫 international foreigner  还是 foreigner student 是 吗 
+06NC11MAX_0101 607811 610210 CS 噢 那么 你 会不会 觉得 新加坡的 food
+06NC11MAX_0101 610210 612090 CS 其实 他们的 variety 很少 你 看
+06NC11MAX_0101 612090 621829 CS 我们 去到 哪里 都是 肉脞面 啊 鱼圆面 then 还有 mixed rice 啊 他们 来来去去 都是 这几样 最多 还有 roti-prata 比起 马来西亚 的
+06NC11MAX_0101 621829 625953 CS food 的 她 就不够 special 而且 她 的 variety 蛮 少一下
+06NC11MAX_0101 646644 647486 ZH 啊 没有
+06NC11MAX_0101 653629 654550 EN (er)
+06NC11MAX_0101 654550 656260 CS for now 还没有 试 过 啦
+06NC11MAX_0101 698605 701635 CS 那 当然 因为 我们 在 那边 grow up then
+06NC11MAX_0101 701635 704159 ZH 应该 比较 有一些 亲切感
+06NC11MAX_0101 706852 711312 CS 对 这边的 bak kut teh 是没有 colour 的 嘞 他的 汤 是 清清淡淡 的 嘞
+06NC11MAX_0101 715764 717222 EN then
+06NC11MAX_0101 717222 721851 ZH 哦
+06NC11MAX_0101 721851 724516 ZH 对 啊 就 喝 喝 胡椒粉 的 味道
+06NC11MAX_0101 733120 738478 CS then 他们的 curry laksa and 我们的 (er) penang assam laksa 很大分别
+06NC11MAX_0101 738478 749783 CS 开始 我来 (嗯) singapore 的时候 我 order laksa then 他给我 一个 哎 这个 明明 是 curry 的 喔 为什么 会 这样嘞 过后 原来 他们 的 laksa 是 curry laksa 就是
+06NC11MAX_0101 749783 754467 CS then 我 也 分 不清楚 他们的 curry 跟 他们的 laksa 有什么 分别 喔 
+06NC11MAX_0101 769856 770866 ZH 对
+06NC11MAX_0101 778030 780870 CS 然后 嘞 你 觉得 有什么 difference 还是
+06NC11MAX_0101 794680 797480 CS then 他的 taste compare to penang 的 会不会
+06NC11MAX_0101 797480 800790 CS 讲很 similar 还是 better 还是 lousier
+06NC11MAX_0101 811609 812534 EN 
+06NC11MAX_0101 818734 821210 CS 最近 比较 忙 啊 因为 忙着 我的 f. y. p.
+06NC11MAX_0101 821210 824980 CS then 又 要 regularly meet 我的 prof. like weekly meet 一次 then
+06NC11MAX_0101 825200 827930 CS 又 没什么 progress 哦 基本上 就 蛮 stress 一下
+06NC11MAX_0101 830660 834640 CS 因为 要 读 很多 那些 (er) online 的 information then
+06NC11MAX_0101 834640 839236 CS 读了 过后 又 没有 一些 头绪 哦 don't know how to summarize 他们 then
+06NC11MAX_0101 839236 843120 CS in the end 又 要 meet 那个 deadline 而且 要 come out with some like
+06NC11MAX_0101 843120 849390 CS (er) idea to let them proceed on then 就 就 stuck 在那边了 啦
+06NC11MAX_0101 854600 856890 ZH (er) 其实 我 就 基本上 要
+06NC11MAX_0101 856890 858840 CS design 一个 micro motor 出来
+06NC11MAX_0101 858840 867111 CS then (er) for for the moment 就这个 markets 是* 方面 嘞 他的 micro motor 就 不会 很多 尤其 是 我 是
+06NC11MAX_0101 867111 870370 CS 用在 那个 capsule 的这样 放进 肚子 里面
+06NC11MAX_0101 870370 874640 CS 有 camera 可以 照 我们的 (er) intestine 里面 有什么 问题
+06NC11MAX_0101 878717 883810 CS 对 其实 我的 motor 不是 拿 来 推 那个 capsule 它是 拿 来 rotate 那个 camera
+06NC11MAX_0101 889594 892539 CS 对 好像 nano-tech 这样
+06NC11MAX_0101 907401 914442 CS 我 真的 要 做 那个 东西 出来 but then 是 in prototype lah then 就 prototype means 就是 它的 size 会 比较
+06NC11MAX_0101 914442 916378 ZH 大一点 但是
+06NC11MAX_0101 916378 919510 CS 他们 working principle basically 差不多 一样 啊
+06NC11MAX_0101 919920 923108 CS 但是 最近 又 要 exam ah final exam ah 要 来 这样
+06NC11MAX_0101 923108 923950 EN then
+06NC11MAX_0101 923950 927440 CS 就 可能 要 stop for like one month 再 continue
+06NC11MAX_0101 931760 934900 CS 哦 其实 因为 之前 holiday ma then 我 就 回 怡保 then
+06NC11MAX_0101 934900 939565 CS 怡保 家里 没有 internet 就 不是 很 方便 啦 then 回到 怡保 当然 是要 enjoy
+06NC11MAX_0101 939565 945372 CS 在家里的 life ah 所以 就 去 吃 啊 玩 啊 meet 朋友 啊 看戏 这样 嘛
+06NC11MAX_0101 949243 955214 CS (er) 基本上 是 不可以 啦 不过 不要紧 啦 先 先 读书 啦 因为 final more important mah
+06NC11MAX_0101 964353 968027 CS ah almost 啦 ah
+06NC11MAX_0101 971310 978322 CS maybe lah maybe i stay one week 然后 我 就 回去 malaysia then 再 stay for three week in singapore
+06NC11MAX_0101 982244 983114 ZH 对
+06NC11MAX_0101 987265 989090 CS december 啊 因为 我 没有 做
+06NC11MAX_0101 989090 991380 CS financial 不是 很多 钱 啊 所以
+06NC11MAX_0101 991380 995625 ZH 可能 我们 就 在 新加坡 玩 啊 可能 出去 吃 一下 东西 吧
+06NC11MAX_0101 1002318 1004871 ZH 噢 这个 当然 喜欢 啦 
+06NC11MAX_0101 1016490 1019930 CS 那么 你 你 毕业 了 过后 你 有没有 regularly 去 exercise 啊
+06NC11MAX_0101 1034933 1038876 CS then 基本上 是 near to totally zero exercise ah
+06NC11MAX_0101 1043040 1044470 CS 因为 因为 of
+06NC11MAX_0101 1044470 1046079 CS 那个 survey 跟 我们 讲
+06NC11MAX_0101 1046079 1051344 CS 一个 人 如果 长期 没有 运动 的话 对他 本身 的 health 其实 是不是 几好 的 喔
+06NC11MAX_0101 1055602 1057678 ZH 全部 硬化 了 他的
+06NC11MAX_0101 1060679 1065504 CS 可能 你 可以 去 sign up 一个 gym member then 你 可以 use 他 那边 的 running machine
+06NC11MAX_0101 1066565 1070128 ZH 啊 也 不是 很贵 啦
+06NC11MAX_0101 1077278 1080280 CS 它们 它 member 多少 annual fees ah 一年
+06NC11MAX_0101 1092305 1098084 CS 什么 plaugue* then then
+06NC11MAX_0101 1100244 1101927 CS 那个 plaugue* 有 什么用 啊 
+06NC11MAX_0101 1106860 1108116 EN oh
+06NC11MAX_0101 1117039 1118835 CS 噢 就是 这些 bonus lah
+06NC11MAX_0101 1137455 1146375 CS 哦 那么你 打算 长期 留在 singapore 发展 你的 career mah 还是 你有 think of going back to malaysia then 因为 那个是 你的 hometown mah
+06NC11MAX_0101 1166279 1173380 CS then 头 五年 你 觉得 你 可以 还完 你 的 那些 debt  then 还有 可以 存钱 回去 吗 then 你回到 malaysia then
+06NC11MAX_0101 1173380 1175900 CS 你的 salary 跟 这边 又有 很大 的 gap 了
+06NC11MAX_0101 1182437 1183895 EN maybe ten years lah
+06NC11MAX_0101 1197097 1198163 ZH 对
+06NC11MAX_0101 1203409 1204138 EN 
+06NC11MAX_0101 1209916 1212127 EN 
+06NC11MAX_0101 1212127 1218607 CS then 你 回去 malaysia 过后 你 打算 你 进 什么 career 又是 做回 engineer mah 还是 你 like
+06NC11MAX_0101 1218607 1223347 EN entrepreneurs set up your own company or small business like that
+06NC11MAX_0101 1236158 1237589 CS 啊 i see
+06NC11MAX_0101 1245135 1246621 ZH 哦
+06NC11MAX_0101 1250184 1251138 EN i see
+06NC11MAX_0101 1252570 1256170 CS then 你 做 customer service 还有 做 salesman 是 一流 的 啦
+06NC11MAX_0101 1266782 1271130 CS 噢 不要紧 啦 等 你 做了 boss 过后 你 就 会 习惯了 啦
+06NC11MAX_0101 1278500 1282399 CS 对啊 then 我 觉 得 你要 多点 jogging ah 为了 你的
+06NC11MAX_0101 1282399 1284699 ZH 身体 的 健康
+06NC11MAX_0101 1285737 1289468 CS 没问题 你 多 多点 come back anything lor then 我们 可以
+06NC11MAX_0101 1289468 1291319 EN together go jogging
+06NC11MAX_0101 1292806 1297098 CS chi- chinese custom 对 我 来讲 又一点 严 或者 过了 我的 final exam 先 吧
+06NC11MAX_0101 1299055 1301692 CS then 你 毕业 过后 我看 你 的 穿的
+06NC11MAX_0101 1301692 1304777 CS clothe 跟 以前 没有什么 difference 的 wah
+06NC11MAX_0101 1317089 1319445 CS then (er) 脱鞋 短裤
+06NC11MAX_0101 1335677 1336238 ZH 哦
+06NC11MAX_0101 1337724 1344990 CS 我 也是 很冷 咯 我在 lecture hall but then 那些 singapore 女孩子 也是 穿到 短短 短裙 还有那个 (er)
+06NC11MAX_0101 1344990 1347458 CS tee 这样 来 上课 的嘞
+06NC11MAX_0101 1347458 1351133 ZH (er) 那些 女孩子 嘞 为什么 要 羡慕 那些 女孩子 嘞
+06NC11MAX_0101 1364028 1367960 CS 哦 then 他们的 其实 你 在 n. t. u. four years 了 then
+06NC11MAX_0101 1367960 1370720 CS 你 可不可以 一 眼 就 看出 那个 person 是
+06NC11MAX_0101 1370720 1372331 CS from which country 的
+06NC11MAX_0101 1413774 1415227 CS 还有 他们 的 slang 是 吗
+06NC11MAX_0101 1434833 1441960 CS then 你 讲话 已经 来了 四年 已经 给 singapore 的 culture (er) influence 了then like 他们的
+06NC11MAX_0101 1441960 1445330 CS culture 就是 讲 一下 英文 就 switch 一下 去 华语
+06NC11MAX_0101 1445330 1447830 CS then 我 现在 看你 讲话 都 应该 是
+06NC11MAX_0101 1447830 1449980 CS 已经 变成 他们的 culture 了
+06NC11MAX_0101 1482617 1484272 ZH 哦
+06NC11MAX_0101 1487807 1491330 CS 那么 你 的 family 还有 你的 ipoh friends then
+06NC11MAX_0101 1491330 1493430 CS 他们 understand 你 在 说 什么 吗
+06NC11MAX_0101 1497449 1499693 CS 就 不会 switch 来 switch 去 啊
+06NC11MAX_0101 1507940 1508978 ZH 然后 呢
+06NC11MAX_0101 1513207 1519518 CS  for for example 是 怎样 的 他们 他们 的 广东话 跟 我们 的 广东话 有什么 不同
+06NC11MAX_0101 1519518 1521819 EN 
+06NC11MAX_0101 1525634 1527064 EN how much lah
+06NC11MAX_0101 1537970 1540523 CS oh qin 跟 lio 的 difference lah
+06NC11MAX_0101 1549384 1558297 CS 哦 其实 是 singapore 他们 穿 衣服 的 方法 跟 其他 国家 都 也是 有 点 不同 like malaysia 他们  他们 类似 穿 jeans 的 for girls 也是 穿 jeans
+06NC11MAX_0101 1558297 1560261 CS guy 也是 穿 jeans then
+06NC11MAX_0101 1560261 1561355 EN singapore
+06NC11MAX_0101 1561355 1563571 CS 就 很少 看到 他们 穿 jeans 的 啊
+06NC11MAX_0101 1563571 1567891 CS 他们 通常 是 穿 短裤 啊 或者 short pants 这样
+06NC11MAX_0101 1568789 1569574 EN 
+06NC11MAX_0101 1571510 1572127 ZH 对
+06NC11MAX_0101 1574479 1575096 EN 
+06NC11MAX_0101 1576050 1596270 CS 而且 他们 的 brand 他们 prefer 的 brand 跟 我们 prefer 的 brand 不同* 不同 例如 我们 在 malaysia 噢 我们会 look for nike ah adidas ah puma ah  然后 来到 新加坡 新加坡人 其实 他们 没有 讲 追求 nike ah 他们 追求 一些 好像 什么 crumpler ah 那些 比较 我们 比较 少 听到 的 名字 啦 好像
+06NC11MAX_0101 1596270 1598810 CS sport shoe 他们 也是 用 news balances ah
+06NC11MAX_0101 1616962 1621030 EN multi nat~ multi-racial multi-culture
+06NC11MAX_0101 1628125 1628769 EN 
+06NC11MAX_0101 1653040 1654770 CS 那 你 有 打算 change 你的
+06NC11MAX_0101 1654770 1658633 CS outlook 还有 image ma 还是 你 打算 continue 就 (er)
+06NC11MAX_0101 1658633 1663318 CS 毕业了 跟 毕业 之前 没有 什么 difference 就 continue like 诶 这样穿
+06NC11MAX_0101 1690682 1701890 CS relax relax 这样 哦 then oh then 你打算 (嗯) 毕业 过后 你 你的 life 有什么 change ah 还是你
+06NC11MAX_0101 1701890 1703820 CS 打算 maintain 就 这样 下去 啊
+06NC11MAX_0101 1716351 1719490 EN 
+06NC11MAX_0101 1737202 1744075 CS then 你的 n. t. u. friends 不是 很 stress lor 因为 他们 continuous 有 c. a. ah 考试 ah presentation ah
+06NC11MAX_0101 1744075 1749993 CS then 通常  我 很少 看到 每个  student weekend 去 enjoy 的 喔 他们 通常 会 读书 啊
+06NC11MAX_0101 1749993 1753219 CS catch up ah 这样 then 你 回来 不是 很 boring loh
+06NC11MAX_0101 1775735 1777703 EN 
+06NC11MAX_0101 1781870 1783497 ZH 哦
+06NC11MAX_0101 1790174 1793961 CS 那班 你 还是 回来 n. t. u. 
+06NC11MAX_0101 1802060 1804195 EN 
+06NC11MAX_0101 1820766 1826500 CS then 对 啦 因为 你去 了 另外 一个 stage then 你 应该 另外 一个 stage 应该 do different thing what
+06NC11MAX_0101 1826500 1828520 CS 我们 人 应该 要 move on 的 嘛
+06NC11MAX_0101 1828520 1829631 EN 
+06NC11MAX_0101 1833025 1836728 CS okay 你 你等 我们多一 一 一年咯 
+06NC11MAX_0101 1842974 1848358 CS 应该 会 back to taiwan or philippines what 因为 台湾 的 food 实在  太好吃了
+06NC11MAX_0101 1862827 1866755 CS oh this one 我有 (er) 听讲 过 一点点 啦 a bit lah
+06NC11MAX_0101 1871916 1878452 CS 噢 但是 如果 我 去 玩 得话 就 不需要 这么 stressful ah 就想 fully 去 enjoy 那个 vocation
+06NC11MAX_0101 1889611 1892977 CS 之 之前 我已经 去过 台湾 一次 了 then i think
+06NC11MAX_0101 1892977 1904023 CS 就 我 只是 去 台北 台北 then 下一次我可能 maybe like travel to other part of 台湾 可能 少吧 or 花莲啊 东部 啊 这样
+06NC11MAX_0101 1905341 1906744 ZH 你 你 要 一起 去 吗
+06NC11MAX_0101 1908315 1915463 CS 那么 你 先 存钱 先 啊 明年 毕业 考完 跟 qi qiong 一起去  你 存 新币 二千 嘛
+06NC11MAX_0101 1916024 1917286 ZH 包括 飞机票
+06NC11MAX_0101 1917286 1918801 EN 
+06NC11MAX_0101 1919755 1921157 ZH 去 一个 礼拜 啦 当然
+06NC11MAX_0101 1922447 1923205 EN 
+06NC11MAX_0101 1939213 1943954 CS then 你去 travel then 你 当然 是要 你 这么 远 去 到 那个 place then
+06NC11MAX_0101 1943954 1950711 CS sure 你 要 try 全部那个 当地的 食物 啊 所以 你 不可以 去 到那边 你又讲
+06NC11MAX_0101 1950711 1955680 CS 不想花 不想花 这样 你要 try 全部 食物 嘛 then 需要一笔钱
+06NC11MAX_0101 1955680 1957200 CS 这样 还 enjoy 的 嘛
+06NC11MAX_0101 1961398 1966441 CS then 我 不清楚 嘞 他们 一个小吃 都要 整 三块钱 新币 嘞
+06NC11MAX_0101 1968040 1977578 CS then 你 没有 你 又去 士林 夜市 就 吃一个 小吃 哦 你 吃 三个 小 (arhm) 你吃 十个 就 已经 三十块 新 dollar 一餐 罢了 嘞
+06NC11MAX_0101 1985032 1986098 EN pot luck ah
+06NC11MAX_0101 1991260 1992326 ZH 哦
+06NC11MAX_0101 1992858 1994345 CS hong kong 有 什么 好玩 啊
+06NC11MAX_0101 1996702 1997796 ZH 又是 吃 啊
+06NC11MAX_0101 2025888 2027263 ZH 然后*
+06NC11MAX_0101 2035650 2037277 ZH 大屿山
+06NC11MAX_0101 2040355 2043385 CS then 你们 没有 去 macau ah 香港 这么 近 macau
+06NC11MAX_0101 2048422 2049678 EN 
+06NC11MAX_0101 2058701 2065658 ZH 哦 
+06NC11MAX_0101 2073564 2076896 CS after that 就是 多少 新 dollar ah
+06NC11MAX_0101 2076896 2079198 CS per night ah 多少 个人 住 啊
+06NC11MAX_0101 2083513 2084382 EN 
+06NC11MAX_0101 2086458 2088590 CS 哦 他 不是算 by room 的啦
+06NC11MAX_0101 2098994 2100172 EN 
+06NC11MAX_0101 2106119 2107016 ZH 不过*
+06NC11MAX_0101 2109592 2119185 CS 也是 二十五块 啦 但是 有 冷气 啊 有 冰箱 啊 有 电视 啊 (嗯) then (嗯) 应该 是 双人床 我记得 then 蛮好
+06NC11MAX_0101 2126156 2128266 CS 对 啊 我的 也是 almost the same
+06NC11MAX_0101 2132896 2134131 ZH 哦
+06NC11MAX_0101 2142680 2147410 CS then 你 去了 那个 place 你 又要 revisit 那个 place 你 不会 觉得 很 waste money 的 嘛
+06NC11MAX_0101 2179108 2181604 CS then 你 又要 去 旅行
+06NC11MAX_0101 2181604 2188056 CS then 你 又要 存钱 还债 then 你 又要 back to malaysia set up company then 你不是
+06NC11MAX_0101 2188056 2190550 CS 一个人 不是 multi tasking 了
+06NC11MAX_0101 2198045 2199325 EN 
+06NC11MAX_0101 2201205 2203702 CS saving account 但是 里面 是 没有 money 的
+06NC11MAX_0101 2205160 2208414 CS 为什么 你 不把 它 全部 放 在 同一个 same
+06NC11MAX_0101 2208414 2209424 EN banking account
+06NC11MAX_0101 2214522 2215981 ZH 哇 这么多
+06NC11MAX_0101 2220273 2222860 CS  你 不是 要 开 很多 个 account 不是 很 烦
+06NC11MAX_0101 2231684 2233872 EN 
+06NC11MAX_0101 2234826 2236902 CS 多少 吧 有多少 interest rate ah
+06NC11MAX_0101 2240605 2242288 CS one percent 这么 多 啊
+06NC11MAX_0101 2243915 2245205 ZH 这么多 啊
+06NC11MAX_0101 2256446 2258129 CS 哦 then 过后 嘞
+06NC11MAX_0101 2267804 2268814 ZH 哦
+06NC11MAX_0101 2270722 2272321 ZH 原来 是 这样
+06NC11MAX_0101 2280168 2283640 CS 哦 还 还真 的 是 蛮不错 then
+06NC11MAX_0101 2283640 2286920 CS 你 financial recently 有 什么 problem mah 因为 你
+06NC11MAX_0101 2286920 2290350 CS 还没 有 找到 新 的 工作 then 你 又再 expend then
+06NC11MAX_0101 2290350 2293990 CS 你的 expend 多 过 你的 income then 有 什么 问题 吗
+06NC11MAX_0101 2298146 2299913 EN fam~ family support ah
+06NC11MAX_0101 2306811 2309630 CS 你 你 一个 月 的 salary 是 多少 你 在 apple 做
+06NC11MAX_0101 2313344 2316233 ZH 那 很好 啊 你 应该 可以 继续 呀
+06NC11MAX_0101 2316233 2317524 ZH 这 份 工
+06NC11MAX_0101 2325887 2327867 EN  
+06NC11MAX_0101 2355545 2357789 EN 
+06NC11MAX_0101 2359865 2366654 CS then 你 刚才 讲 到 你有 girl phobia then 改次 你的 customer 你的 对象是 girl then 你怎么办 你不是 很 panic
+06NC11MAX_0101 2372846 2373996 ZH 还不错
+06NC11MAX_0101 2374473 2379297 CS then 你就 把 那些 女生 当做 是男生 这样去看 then 就
+06NC11MAX_0101 2379297 2384150 CS then 你他们是 same 的嘛 你把 他们  看成 一个 same gender then
+06NC11MAX_0101 2384150 2386451 ZH 就 不用 把 他们 分男女 啊
+06NC11MAX_0101 2388465 2394019 CS 就你 你跟 boy and 跟 guy 讲话的 attitude 是一样 啊
+06NC11MAX_0101 2402231 2404054 ZH 看 咯 如果 你
+06NC11MAX_0101 2404054 2408570 CS 跟 男孩子 讲 跟 女孩子 没有讲 这个* 你的人 真的 太过 fake 了
+06NC11MAX_0101 2411151 2412694 ZH 最好 就是 不要讲 啊
+06NC11MAX_0101 2418837 2424416 CS 但是 你 应该 没有 什么 时间 啊 那个 时候 you should be walking la then
+06NC11MAX_0101 2424416 2426520 EN 
+06NC11MAX_0101 2426520 2427754 EN one week woh
+06NC11MAX_0101 2428876 2429886 EN one week
+06NC11MAX_0101 2430924 2431878 EN to taiwan
+06NC11MAX_0101 2454080 2455455 ZH 哦
+06NC11MAX_0101 2456296 2457138 EN 
+06NC11MAX_0101 2460027 2463506 ZH 那么 你 有没有 打算 找 一个 女朋友 啊
+06NC11MAX_0101 2466220 2471550 CS 那么 你 今年 已经 是 twenty four years old then 你 再 不找 then 你 怎么办 啊
+06NC11MAX_0101 2471550 2473043 CS 做 bachelor
+06NC11MAX_0101 2476560 2479140 CS 怎么办 你 有没有 担心 过 这个 problem ah
+06NC11MAX_0101 2497237 2500547 CS 这个 是不是 一个 excuse ah 因为
+06NC11MAX_0101 2500547 2504390 CS as i know 应该 有 很多 男孩子 从 小到大 都是
+06NC11MAX_0101 2504390 2508822 CS from (er) same gender 的 school then 难道 他们 全部 跟 你一样 吗
+06NC11MAX_0101 2510337 2512525 ZH 哦 那 你 要训练 你 的 胆量 了 啊
+06NC11MAX_0101 2513535 2514236 EN (er)
+06NC11MAX_0101 2514236 2523683 CS then 你有 try talk more to the girls lor 一有 机会 就 talk talk talk talk lor 久了 你 就 会 成为 一个 习惯 了 啊
+06NC11MAX_0101 2523683 2525026 EN 
+06NC11MAX_0101 2530861 2533385 CS 因为 你 都 没有 看到 她们 的 face
+06NC11MAX_0101 2549340 2552950 CS 其实 chase girl 是 一 门 很 高深 的 knowledge 来 的
+06NC11MAX_0101 2552950 2554137 EN then
+06NC11MAX_0101 2555203 2565750 CS 因为 你 要 懂 很多 things 的 喔 then every girl 她们 都 有 自己 不同的 地方 then 你要 approach different girl 你要用 different method 而且 this
+06NC11MAX_0101 2565750 2567940 CS 很多 都是 靠 experience 的 啦
+06NC11MAX_0101 2571214 2573929 ZH 最好 就是 不要 理 那个 女生 啦
+06NC11MAX_0101 2573929 2583719 CS (er) 调高 来卖 then 她们 会 觉 得 哎 这个男生 这么 special ah i 她 就 会 开始 留意 你 这个 男生 啊
+06NC11MAX_0101 2587337 2590788 ZH 哦 你 不要采她
+06NC11MAX_0101 2590788 2595850 CS 没有 影响 到你的 attitude ah 你只是 不要 去 采 她 罢了
+06NC11MAX_0101 2595850 2598245 CS 跟 你的 attitude 没有 什么 related 的
+06NC11MAX_0101 2602424 2607946 ZH  有时 你 就 简短 这样 打她 有时 就 不需要 打的 就不要打 啦
+06NC11MAX_0101 2609181 2610022 EN 
+06NC11MAX_0101 2611509 2612912 ZH 啊 差不多 啦
+06NC11MAX_0101 2619417 2620540 CS then 你 要 快 要去
+06NC11MAX_0101 2620540 2622610 CS 找 一些 对象 来 practice 一下 啦
+06NC11MAX_0101 2623765 2630265 CS n. t. u. 的话 你 经常 回来 n. t. u. 你去 library 这么多 girls 在那边 study then 你
+06NC11MAX_0101 2630265 2631415 ZH 就可以
+06NC11MAX_0101 2635679 2640701 CS 你 不是 用 电脑 嘛 你可以 跟 你的 beside 那些 computer user 谈天 啊
+06NC11MAX_0101 2642603 2644763 CS 没有 哦 因为我都不 desperate
+06NC11MAX_0101 2646082 2646979 EN arh
+06NC11MAX_0101 2652590 2653600 ZH 到 多少 岁 啊
+06NC11MAX_0101 2654946 2656349 ZH 四十岁 啊
+06NC11MAX_0101 2657527 2659210 CS two more years 过后去 哪里 找 啊
+06NC11MAX_0101 2664592 2666247 ZH 缘分 来的 时候 挡不住 哦
+06NC11MAX_0101 2669837 2673752 CS 来过了 来了 又 走 这样 咯 come and go easy come easy go mah
+06NC11MAX_0101 2679503 2683290 CS 哦 因为 我 enjoy 我 as a bachelor 的 freedom ah
+06NC11MAX_0101 2686207 2690330 CS enjoy 因为 可以 go out hang out with friends 然后又不用
+06NC11MAX_0101 2690330 2691950 CS 想 我的 girlfriend 在 想 什么
+06NC11MAX_0101 2692360 2696280 CS then 我 做 everything 又 不用 like consider another girl then
+06NC11MAX_0101 2696280 2698578 ZH 就 喜欢 做什么 就做什么 啦
+06NC11MAX_0101 2699532 2705054 CS then 又可以 save money leh 因为你 pak-tor you need to spend a lot 你知道 吗
+06NC11MAX_0101 2705054 2710299 CS like movie ah eating out ah then transport fees 那些的
+06NC11MAX_0101 2721090 2725691 CS then 你 又是 几听话 来的 一个 children 来的 喔
+06NC11MAX_0101 2725691 2727879 EN good children ah
+06NC11MAX_0101 2753874 2761616 CS then 我 看到 很多 学生 他们 的 result 也是 很好 then 他们 也是 有 girlfriend oh then 我 觉得 他们 doing quite good leh
+06NC11MAX_0101 2762710 2764646 ZH 很 多 都 是 这样
+06NC11MAX_0101 2779308 2782281 ZH 哦 那么 那么 你 有没有
+06NC11MAX_0101 2782955 2784441 CS 听过 vegetarian ah
+06NC11MAX_0101 2787948 2792964 CS 那么 你 知道 为什么 人家 选择 vegetarian mah
+06NC11MAX_0101 2799248 2800117 ZH 对
+06NC11MAX_0101 2812229 2819859 CS 其实 他 吃素 是 环保 但是 不是 因为 你煮那些 鸡肉 猪肉 所发出的 heat 你 知道 吗
+06NC11MAX_0101 2826894 2831798 ZH 因为啊 会会 造成 闹 饥荒 啊 好像 非洲的人 为什么 嘞
+06NC11MAX_0101 2831798 2839160 CS 因为 其实 他们 拿去 养猪 那些 米啊 那些 (arhm) grain ah 其实
+06NC11MAX_0101 2839160 2841672 CS 可以 拿 去 help africa 那些 children 的 then
+06NC11MAX_0101 2841672 2846553 CS 就 其实 不 rationale lah 你 去 raise up 那些猪 then
+06NC11MAX_0101 2846553 2848990 CS 你 就 饿死 africa 那些 people then
+06NC11MAX_0101 2848990 2851711 EN it's a like very sad truth ah
+06NC11MAX_0101 2856002 2858583 CS 对 啊 是 full-time vegetarian
+06NC11MAX_0101 2860379 2863377 CS ipod ah 所以 就 吃了 一个 burger ah
+06NC11MAX_0101 2884744 2888222 CS 这 个 是 normal people will do what normal people 也是
+06NC11MAX_0101 2888222 2890102 EN two veggie one meat
+06NC11MAX_0101 2890102 2893552 CS 除非 你 很有钱 啦 then 你可以 order three meat
+06NC11MAX_0101 2897108 2899773 CS 真的 吗 你 有没有 想过 like 一天
+06NC11MAX_0101 2899773 2902663 CS 一个 meal 是 veggie like that 你又可以
+06NC11MAX_0101 2902663 2904540 CS train 你的 discipline
+06NC11MAX_0101 2904540 2906270 CS 又 可以 contribute to the earth
+06NC11MAX_0101 2912478 2914722 CS 噢 那也算是 veggie lah
+06NC11MAX_0101 2916125 2916938 EN 
+06NC11MAX_0101 2918785 2919570 EN 
+06NC11MAX_0101 2922965 2926134 CS 哦 看来 你 也是 几 veggie tarian 一下
+06NC11MAX_0101 2932943 2933729 ZH 然后
+06NC11MAX_0101 2960397 2963314 CS gravy 好像 不用钱 的 喔
+06NC11MAX_0101 2966989 2969009 CS 那 不小心 拿到 一点 fish 给你 啊
+06NC11MAX_0101 2971197 2972824 ZH 那你 不是 赚到 了
+06NC11MAX_0101 2991049 2992395 EN pineapple rice lah
+06NC11MAX_0101 3005993 3015054 CS okay you save a lot of money lor since 你现在 jobless then it's better for you to save some money 要不然 以后 很 stress
+06NC11MAX_0101 3030361 3035888 CS eating noodle actually 对 你的 健康 不好 咯 最好 不要 eat so often
+06NC11MAX_0101 3037599 3040432 ZH 哦 那么 你 平时 都 不 吃 东西 啊
+06NC11MAX_0101 3043265 3044191 ZH 喝奶 啊
+06NC11MAX_0101 3063395 3069679 CS 那么 你* 我 以前的 roommate 就是 你 现在 的 roommate 怎样 啊 很久没有他的 news 了 哦
+06NC11MAX_0101 3093511 3097803 CS then 他的 态度 好像 毕业 了 跟 毕业 之前 有一个
+06NC11MAX_0101 3097803 3102403 CS dramatic change lor 那 他 最近 还有 在 change 的 吗
+06NC11MAX_0101 3105145 3106780 CS like 他的
+06NC11MAX_0101 3106780 3110290 CS 穿 衣服 样子 啊 outlook ah then 思想 啊
+06NC11MAX_0101 3110290 3115356 CS then overall lah 因为 你 跟他 是 roommate ma then you should
+06NC11MAX_0101 3115356 3117937 ZH 了解 他 多一点
+06NC11MAX_0101 3117937 3120096 ZH 很奇怪 的 思想 是 吗
+06NC11MAX_0101 3124888 3125842 EN wow
+06NC11MAX_0101 3128647 3131199 CS 最近 不再 喜欢 physic ah
+06NC11MAX_0101 3133163 3134538 EN professor
+06NC11MAX_0101 3136193 3137455 EN researcher
+06NC11MAX_0101 3139222 3141186 ZH 看那些 纪录片
+06NC11MAX_0101 3166612 3167370 ZH 哇
+06NC11MAX_0101 3168267 3170091 CS 他整个人 change over 了 啊
+06NC11MAX_0101 3174411 3177833 CS 我 不用毕业了 我可以 change 了 啊
+06NC11MAX_0101 3178478 3179870 ZH (er) 我 例如 我
+06NC11MAX_0101 3179870 3184400 CS 最近 在 diet ah then 我 就 吃 少 一点 then 就 more work out
+06NC11MAX_0101 3184400 3188350 CS then 就 啊 我是 juice diets loh
+06NC11MAX_0101 3188350 3191540 CS 就 每 一天 我 只是 drink juice loh 没有 吃 solid food loh
+06NC11MAX_0101 3194377 3197800 CS 就可以 喝 banana juice ah watermelon juice ah
+06NC11MAX_0101 3199567 3200997 EN so
+06NC11MAX_0101 3201730 3206510 CS 可以 因为 with my determination 我 觉得 我 这次 一定 can make it 的
+06NC11MAX_0101 3207949 3212213 CS (er) 以前我只是 kidding mah then 这次 我是 full of determination
+06NC11MAX_0101 3215074 3219190 CS after thirty days then 我的 weight 是 confirm 会 drop down ah
+06NC11MAX_0101 3225614 3229541 CS seventy five k. g. ah 我的 target
+06NC11MAX_0101 3230803 3234800 CS 我 expect 要 three months ah three to six months then 
+06NC11MAX_0101 3234800 3236760 CS 我 一定 可以 achieve 这个 target 的
+06NC11MAX_0101 3239660 3240620 ZH 我 不用 因为
+06NC11MAX_0101 3240620 3242550 CS 这 三 天 我 就 没有 order 东西 吃 了
+06NC11MAX_0101 3242550 3244317 ZH 今天 是 第三天
+06NC11MAX_0101 3245579 3246470 ZH 我懂 我
+06NC11MAX_0101 3246470 3249670 CS 相信 我 可以 一直 continue until the last day
+06NC11MAX_0101 3252676 3255285 CS 我 已经 在 做着 了 啊 after that 我可以 show 你
+06NC11MAX_0101 3259881 3262230 CS 现 现在 那个 plot 是
+06NC11MAX_0101 3262230 3266550 CS 我 还没有 publish ah after 我 真的 succeed 了 我 就 post on facebook 了
+06NC11MAX_0101 3267258 3268521 CS later on 我 show 你 啊
+06NC11MAX_0101 3272274 3273649 EN 
+06NC11MAX_0101 3290081 3295803 CS 啊 还不错 啊 他们 都是 busy with the preparing for the exam then
+06NC11MAX_0101 3295803 3299057 CS 就 大家 都 忙着 读书 啊 mugging mugging and mugging
+06NC11MAX_0101 3306795 3309572 CS 哦 因为 这个 是 chin shiong birthday mah
+06NC11MAX_0101 3309572 3313977 CS then 他们 是 去 celebrate then 我觉得他们这几天都
+06NC11MAX_0101 3313977 3316048 ZH 很忙 啊 要考试 啊 那些
+06NC11MAX_0101 3319526 3321405 ZH 你 还没有 请 我们 吃东西 呀
+06NC11MAX_0101 3323089 3325838 CS after 我的 thirty day juice diet then
+06NC11MAX_0101 3327939 3330744 CS 哦 我 thirty days juice diet mah
+06NC11MAX_0101 3332062 3332483 ZH 然后
+06NC11MAX_0101 3333016 3335509 CS 过了 三十天 再 re-plan 过 咯
+06NC11MAX_0101 3337473 3341288 CS 我 可能 选 water diet ah 还是
+06NC11MAX_0101 3341288 3343195 EN fruit diet ah
+06NC11MAX_0101 3347399 3348633 ZH 其实是
+06NC11MAX_0101 3351635 3354580 CS then 这个 theory 是 not true 的 因为
+06NC11MAX_0101 3355590 3356760 ZH 你没有
+06NC11MAX_0101 3356760 3359280 CS 吃 solid food 的 时候 你的 stomach 就可以 rest
+06NC11MAX_0101 3359280 3366777 CS then 他就 可以 进行 一些 detoxification after that 你还 你没有 不用它 去消化 它 就 可以 save energy
+06NC11MAX_0101 3369189 3377541 CS 对 如果你 online 你打 juice fasting then 你 就 会 发现 其实 有很 多 benefit 的 
+06NC11MAX_0101 3380009 3385423 CS 不好笑 not fun at all 
+06NC11MAX_0101 3386932 3388439 EN then
+06NC11MAX_0101 3392209 3394734 ZH 还没有 完全没有 完蛋了
+06NC11MAX_0101 3400006 3401016 EN 
+06NC11MAX_0101 3405135 3411643 CS 哦 我这个 semester 也是 差不多 一样 啦 还没有 开始 读书 因为忙 f. y. p. 啊 又睡觉 啊 又 减肥 啊
+06NC11MAX_0101 3411643 3421485 CS 因为 我 前天 礼拜天 我跑 五 k. m. then 我拜一 又 再 跑 五 k. m. then 昨天 我 又 再跑五 k. m. then 今天 我 又要 再 跑五 k. m.
+06NC11MAX_0101 3425412 3429059 CS 哎 我不知道 可能 今天晚上再 plan 过 吧
+06NC11MAX_0101 3435226 3437947 ZH 一个 小时 啊 有时候 我 会 跑 两次
+06NC11MAX_0101 3439294 3440584 ZH 睡不着
+06NC11MAX_0101 3442682 3445599 CS 我 尽量 before twelve 睡觉 嘛
+06NC11MAX_0101 3453594 3456932 ZH 哎 不知道 嘞 我 一睡 就睡到 九点 啊 每次 都是 这样
+06NC11MAX_0101 3457661 3459143 CS 我的 alarm 是 六点 啊
+06NC11MAX_0101 3460826 3463659 ZH 好像 跟 你 一样 哦 你笑什么笑
+06NC11MAX_0101 3469267 3479642 CS 没有 因为 又 要 走出 来 啦 又要 entertain friend ah 又要冲凉 啦 又要 rest lah 又要来 library 做工啦 又要 f. y. p. la 又要 想东 想西 啦
+06NC11MAX_0101 3479642 3482111 CS 然后 not much time left already
+06NC11MAX_0101 3484130 3485757 ZH 我 快 要 死了 啦
+06NC11MAX_0101 3495735 3498288 ZH 我 讲 我忙 到 要 死 啊 笨蛋
+06NC11MAX_0101 3504936 3514473 CS 害我 伤风 是 因为 太冷了 嘞 还是 那个 juice fasting 因为我 read 我的 internet 他讲 过了 几天 会 有一些 symptoms 的 哦
+06NC11MAX_0101 3514473 3521340 CS 排毒 symptoms 就要 流鼻涕 啊 那些 咯 最近 我 也是 sweat 很多 嘞 这两天
+06NC11MAX_0101 3521340 3523590 CS 可能 是 其中 一个 symptom 来 的
+06NC11MAX_0101 3529138 3533648 CS 当然 这个 要有 身边人 的 support ah 还有 不要 有些
+06NC11MAX_0101 3533648 3539876 CS 不好的 bad influence ah 例如 shi chiong ah 那些 一直叫我 吃 吃 吃 吃 吃
+06NC11MAX_0101 3544476 3545620 ZH 有 啊
+06NC11MAX_0101 3545620 3548020 CS 昨天 dinner 的 时候 我 去 canteen then
+06NC11MAX_0101 3548020 3548931 ZH 我 只是
+06NC11MAX_0101 3548931 3551820 ZH 陪 他们吃 然后我
+06NC11MAX_0101 3551820 3553520 CS 自己 就 order carrot juice lor
+06NC11MAX_0101 3556380 3557990 CS 很 贵 呀 two thirty
+06NC11MAX_0101 3560040 3565785 CS 不知道 我 我讲 不要冰 不要奶 的 哦 不要冰 不要糖 他算我 two thirty 呀
+06NC11MAX_0101 3575122 3577410 CS 哦 我 叫 他 不要 放 sugar 给 我
+06NC11MAX_0101 3577410 3579078 EN because i'm on diet
+06NC11MAX_0101 3579751 3581490 EN is natural
+06NC11MAX_0101 3582528 3585894 CS then 他 你喝果汁 也是 不 cheap leh like
+06NC11MAX_0101 3586563 3590125 CS 我 昨天 去 n. i. e. canteen then i buy 那个
+06NC11MAX_0101 3590770 3595203 CS (er) apple juice one sixty then 那个 (er)
+06NC11MAX_0101 3595203 3599659 CS banana shake 也是 one sixty then 昨晚的 carrot juice 是两块三
+06NC11MAX_0101 3599659 3601286 EN 
+06NC11MAX_0101 3607653 3608635 ZH 哦
+06NC11MAX_0101 3616427 3618139 CS 这么远 我住 hall three 呀
+06NC11MAX_0101 3627283 3631009 CS 哎 因为我 juice diet mah then 我 就 不要 吃 水果 了
+06NC11MAX_0101 3632524 3634853 CS 我没有 blending machine
+06NC11MAX_0101 3636255 3641573 CS or 你 可以 try to buy me one for free lah then 我
+06NC11MAX_0101 3646005 3650128 CS 因为 有 纤维 嘛 then 你喝 juice 只是水 嘛
+06NC11MAX_0101 3650998 3652232 ZH 是 不同 的
+06NC11MAX_0101 3658993 3660844 ZH 啊 可以 这样 说 啦
+06NC11MAX_0101 3665354 3670375 CS 没有 啊 等一下 有 做工 啊 五点到七点 then maybe lee wee nam library
+06NC11MAX_0101 3670375 3673629 EN nine o' clock until twelve until closing ah
+06NC11MAX_0101 3673629 3677070 EN then today you spent five hours on walking
+06NC11MAX_0101 3677070 3679040 CS 你 看 我 哪里 有时 间 去 study leh
+06NC11MAX_0101 3679040 3681147 CS wait 了 monday
+06NC11MAX_0101 3689198 3690712 ZH 我 可以的 其实
+06NC11MAX_0101 3693109 3693670 EN 

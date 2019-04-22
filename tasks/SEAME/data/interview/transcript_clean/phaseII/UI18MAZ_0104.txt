@@ -1,0 +1,182 @@
+UI18MAZ_0104 0 9819 CS 去 收购 那些 科技 啊 买 那些 版权 出来 咯 然后 就 自己 有 这个 版权 了 大间 会吃 小间 的 现在 一直 买 好像 microsoft 也是 吃 吃 吃 很多 间 去来
+UI18MAZ_0104 18416 22489 CS 我 比较 最近 比较 喜欢 那种 mobile 的东西
+UI18MAZ_0104 23602 27282 CS 因为 我 觉得 他们 现在 的 trend hor 他们 已经 more on mobile 了
+UI18MAZ_0104 27282 32999 CS 以后 看 以后 的 人 全部 都是 用一个 mobile ah 可能 一个 小小粒 东西 代替 一个 电脑 这样
+UI18MAZ_0104 32999 36885 CS 还是 不用 不用 mouse 了 touch screen 的 东西 这样 改变 一下
+UI18MAZ_0104 36885 43257 CS 看 这个 trend 应该 是 未来 会 这样 啊 淘汰 那些 那些 比较 大粒 的 东西 可能 server 还会 有 啊
+UI18MAZ_0104 43257 46691 CS 可能 他用 mobile connect 去 server 他 东西 是 放 server 那边 咯
+UI18MAZ_0104 47391 49354 CS 比较 mobility
+UI18MAZ_0104 52550 53179 EN en
+UI18MAZ_0104 54818 59621 CS p. c. 应该 是 不会 不见 啊 我 觉得 是在 gaming world 里面 啊 p. c. 还会 存在的
+UI18MAZ_0104 59621 65330 CS 嗯 那个 可能 那个 比较 more on 他们 trend 会 比较 more on mobility loh
+UI18MAZ_0104 65330 70912 CS laptop ah netbook ah handphone 比较 多 在这 market 里面 这个 应该 是 很大 市场 来 现在
+UI18MAZ_0104 78958 87122 CS 嗯 可以 讲 thin client 好像 他们 可以 自己 做个 match 出来 自己 connect each other 这样 可以 communicate
+UI18MAZ_0104 87122 89014 ZH 还是 有个 危险 啦 这样 觉得
+UI18MAZ_0104 91117 94831 ZH 危险 太 危险 他们 要 做 什么 都 可以 其实
+UI18MAZ_0104 96758 98370 ZH 有好 有坏 啦
+UI18MAZ_0104 101276 103738 CS 嗯 他们 有 那些 policy 的 东西
+UI18MAZ_0104 104626 105915 EN 
+UI18MAZ_0104 108074 111458 CS 好像 他 也 可以 拿 你的 account ah 像 hotmail ah
+UI18MAZ_0104 111458 114993 CS 卖去 那个  那些 网站 啊 拿来 send 做 广告
+UI18MAZ_0104 114993 119545 CS 好像 有时候 收 那些 junk mail 咯 就是 那些 公司 拿来 用 我们 account 来 乱~ 乱做 东西
+UI18MAZ_0104 119545 124470 CS 他们 用 很多 种 method 来 这样子 来 tag* user 还是 赚钱 的 东西 啊
+UI18MAZ_0104 124470 126136 ZH 还是 不～ 不好 啊
+UI18MAZ_0104 131373 138760 CS mobile ah 现在 最强 就是 两个 罢了 嘛 android 跟 iphone 两个 fight loh 迟早 应该 是 有 其中 一个 会赢 啦
+UI18MAZ_0104 140282 140911 EN en
+UI18MAZ_0104 140911 142284 EN 
+UI18MAZ_0104 142284 149773 ZH 共存 是要 看 他们 上面 的人 有个 一 同样 的 共同点 嘛 不然 的话 也是 有 问题 的 他们 会 打仗 啊
+UI18MAZ_0104 154939 155536 EN en
+UI18MAZ_0104 161021 163907 CS so far 我 只有 一个 ipod touch 罢了 没有了
+UI18MAZ_0104 163907 168825 CS so far 我用 android 我是 我 觉得 也是 不错 一下 我 用过 android 那些 phone
+UI18MAZ_0104 168825 173773 CS  它 interface 还不错 可惜 跟 有的 fight 的 啦 跟 iphone
+UI18MAZ_0104 177382 184661 CS ipod 我是 只有 一个 好像 一个 device 来 可以 上网 chatting m. s. n. en 听歌 这样 的 东西 咯
+UI18MAZ_0104 191188 197573 CS 可以 啊 我 看他 现在 android hor 他们 有个 market 做 这种 tablet hor 他们 用 android o. s. 进去
+UI18MAZ_0104 197573 200834 CS 好像 一个 tablet 这样 可以 做 东西 的 比较 方便了 嘛
+UI18MAZ_0104 200834 205132 CS 他们的 o. s. 可能 没有 requirement 这样 大的 那个 resource ah
+UI18MAZ_0104 205132 210800 CS 所以 在 mobility 也是 不错 一下 可以 lasting 是讲 battery 可以 用 比较 久 咯 o. s. 也 可以 用 很久
+UI18MAZ_0104 215924 223000 ZH 嗯 对啊  迟早 会 有 一些 淘汰的 啦 正常的
+UI18MAZ_0104 226091 227241 EN en
+UI18MAZ_0104 232250 239608 CS 对啊足够了 啊  假如 你 普通 要写 application 做 那些 analysis 不能了 啊 没有 你拿 一个 很 不方便的 真的
+UI18MAZ_0104 249277 253987 CS 嗯 然后 micro~ 可以  用 application 可以 看 document的 就 够了 啊 excel 那些 东西
+UI18MAZ_0104 253987 256250 CS 我 觉得 比较 重要 for 那些 office 的人
+UI18MAZ_0104 260490 263713 ZH 嗯 有 但是 是 真的 嘛
+UI18MAZ_0104 264975 269010 CS 真的 可以 detect 到 啊 他 讲的 东西 他会 找的 出来 哦
+UI18MAZ_0104 270054 271876 ZH 嗯 打电话的
+UI18MAZ_0104 274153 276606 CS 我~ 我 看到 很多 google 的 东西 很~ 很 奇怪 的
+UI18MAZ_0104 279212 279997 EN en en
+UI18MAZ_0104 283614 289114 CS oh 他们 好像 是 apply 给 美国 罢了 不是 么 美国的 美国 国家 罢了
+UI18MAZ_0104 290038 291404 CS local 也 可以 啊
+UI18MAZ_0104 293471 296975 CS 还是 他 free 几个 小时 你打 这样 罢了 过了 就 没有了
+UI18MAZ_0104 302152 303021 EN en
+UI18MAZ_0104 304643 307502 EN 
+UI18MAZ_0104 310676 316210 CS 嗯 对他 用 skype method 的 嗯 迟点 就会 收了
+UI18MAZ_0104 325215 327598 ZH 噢 这样 啊 哇 很 gan 的 做 生意
+UI18MAZ_0104 331487 337045 CS 嗯 要 换了 换去 google voice 了
+UI18MAZ_0104 341593 342350 EN en
+UI18MAZ_0104 345099 346053 ZH 对 呀
+UI18MAZ_0104 348065 357876 CS 有时候 他们 好像 讲 赚了 钱 他们 会 有 用 一些 不好 的 手段 来赚 那些 user 钱 啊 很 不好 出名了 是 这样 啊
+UI18MAZ_0104 362114 372070 CS technology ah en 好像 我有 看 一些 转变 好像 像 些 现在 人 比较 用 喜欢 用 那些device 来看 那些 杂志书 那些 东西
+UI18MAZ_0104 372070 380258 CS 嗯 我 不懂 会 做么 做么 会走 这样 trend leh 可能 他们 久了 习惯 看 报纸了 你 就要 换 一下 intresting 一点
+UI18MAZ_0104 382926 384012 ZH 你有 买
+UI18MAZ_0104 385118 385876 EN en
+UI18MAZ_0104 391721 397441 CS 对 啊 好像 google 那些 e-book 那些 book 也是 可以 download 下来 看的 有一个 standard format 了的
+UI18MAZ_0104 402174 403689 EN 
+UI18MAZ_0104 405625 406635 EN en
+UI18MAZ_0104 410113 411039 EN en
+UI18MAZ_0104 417125 418948 EN en  ipad
+UI18MAZ_0104 423464 432432 CS 那个 比较 贵 的 投资 那些 真的 是 他的 便宜的 几百块 也是 有了 啊 那 黑白 l. c. d. 也是 有些 是 有 颜色的 也是 不错 啊
+UI18MAZ_0104 432432 434224 EN en
+UI18MAZ_0104 436636 440227 ZH  贵 啊 
+UI18MAZ_0104 441910 443340 ZH 对 呀
+UI18MAZ_0104 445837 446819 EN en
+UI18MAZ_0104 450793 455643 CS 对 好像 现在 这样 我有 一个 trend 就是 讲 那个 market hor 全部 走 three d. 的
+UI18MAZ_0104 455643 462284 CS 好像 电视机 啊 game ah (er) 可能 以后 电话 也是 会走 three d. 的 l. c. d. 那种 东西的
+UI18MAZ_0104 463195 465429 CS game 好像 nintendo three d. 最新的 hor
+UI18MAZ_0104 465429 468030 CS 你 不用 带 spec. hor 也 可以 看到 three d. 的
+UI18MAZ_0104 468030 471289 CS 嗯 他们 已经 有 这种 de~ 那种 technology 出来了
+UI18MAZ_0104 471289 481155 CS 啊 应该 是 明年 会 出了 得 现在 是 他们 在 那种 e~e. a. 那些 展览会上 讲出来 先 讲 科技 的 东西  他们 也~也会 讲出来了
+UI18MAZ_0104 483726 487721 CS 玩 game 应该 会 以前 比较 多 现在 比较 少
+UI18MAZ_0104 487721 495083 CS 因为 现在 more on 那些 做工了 可能 比较 累了  回去 还要 打 game 也是 很累 可能 会 more on 看戏 那些 东西
+UI18MAZ_0104 497006 500002 CS 我 比较 xiao 那种 drama 的 东西 还有 movie loh
+UI18MAZ_0104 501734 506366 CS drama ah 我 比较 喜欢 看 t. v. b. 那些 drama 我 应该 是有 追的
+UI18MAZ_0104 507796 514348 CS 英文的 应该 是 那种 smallville ah 怪怪的 那些 pri~prison break ah hero 那种 都会 追 啦
+UI18MAZ_0104 514348 518413 EN 
+UI18MAZ_0104 518413 528727 CS 我 应该 是 有 喔 但是 我 不大 没有 大 清楚 那个 for 那个 英文的 啦 华语的 我是 看 那个 t. v. b. 的 咯 每一天 有 两套 这样 他 出
+UI18MAZ_0104 530196 537008 ZH 嗯 现在 啊 他出 那个 女人 最痛 应该 是 做完了还要 出 很多 种 奇奇怪怪 的 啦
+UI18MAZ_0104 543382 543971 EN en
+UI18MAZ_0104 547889 554862 CS (呃) 肯定 咯 我 觉得 会 比较 便宜 大多数 我 我是 用 internet 的 更 便宜
+UI18MAZ_0104 554862 556964 CS 但是 不好 啦 是 pirated 的 嘛
+UI18MAZ_0104 558716 560940 CS 我 大多数 是 download 下来 看的
+UI18MAZ_0104 561765 567556 CS 上网 也是 可以 啊 那种 p. p. stream streaming 也是 有的 你要 看 多少 集 click 下去 可以 直接 stream 回去
+UI18MAZ_0104 569717 575498 CS 嗯 也是 比较 旧 download 比较 新 咯 我去 那些 比较 新的 网站 up to date forum mah 就 可以 download 了
+UI18MAZ_0104 578967 586466 CS 比如 我去 那个 h. d. zone loh h. d. z o n e dot org 那边 全部 戏 都是 h. d. 的 high quality 的
+UI18MAZ_0104 587972 593471 CS (呃) 应该 forum 那边 会 没有 这样 多 啦 我 去的 是 forum 的 比较 信的 过
+UI18MAZ_0104 593471 596169 CS 假如 去 那些 怪怪 的 网站 会 比较 多 virus
+UI18MAZ_0104 598517 601320 CS 这样 要 install 一个 好的 antivirus 下去 就 可以了
+UI18MAZ_0104 604776 608188 CS 太快了 他们 spread 每一天 都有 新的
+UI18MAZ_0104 608188 610886 CS 他要 package 那些 每天都要 download 新的
+UI18MAZ_0104 610886 613149 CS 每一天 都有 新的 virus 要 download 的
+UI18MAZ_0104 617892 623583 CS 啊 好像我们好  (嗯) 几种 咯 一种 好像 他们  那些 filer 是收 database 的 嘛
+UI18MAZ_0104 623583 628357 CS 那些 filer 可那 那些 data hor virus hor 收在 filer 可能 不会 出现 问题的
+UI18MAZ_0104 628357 633099 CS  只要 他们 user 没有 在 他们 电脑 run 这个 这个 东西 hor 他就 不会 中了
+UI18MAZ_0104 633099 638511 CS 只是 可能 他们 潜意 有 潜 (嗯) existing 会有 impact 到 啦 未来 可能 你 用到 的话
+UI18MAZ_0104 638511 641541 CS 没有 用到 是 没有 事的 可能 他们 scan 了 才 delete 掉
+UI18MAZ_0104 641541 645397 CS 或者 你们 在 电脑 的 他们 有种 network spread 好像 bomb 这样 也是 会 中的
+UI18MAZ_0104 645397 648398 CS 中了 就 很 麻烦了 他会 一直 spread spread spread email spread
+UI18MAZ_0104 650231 652158 CS 我们的 server ah
+UI18MAZ_0104 652158 657905 CS 可能 会有 啦 我 没有 我 没有 听说 到 应该 是 他们 比较 保密 啊 算 secret 的 东西 他们 没有 给人 知道 呱
+UI18MAZ_0104 663439 669326 CS denial of service ah 应该 会有 啦 我 觉得 他们 应该 是 有 method 来 resolve 掉 它
+UI18MAZ_0104 669326 672549 CS 他们 用 firewall 用 proxy 那些 来 解决
+UI18MAZ_0104 684356 689714 CS 有 so far 应该 是 一个月 能看 继续 几次 去 看戏 咯  去 戏院 看 咯
+UI18MAZ_0104 690908 695177 ZH 嗯 最近 有 看到 几套 啊 很 好笑 一下
+UI18MAZ_0104 695177 711006 CS (呃) 要 英文片 啦 嗯 忘记了 么 还有 一个 那个 (嗯) 叫 什么 名 啊 他~ 他 梦中有梦 的 那个 叫什么  那个 很 不错 啊 inception 噢 那个 好看  那 导演 不错 做戏 那个 好看
+UI18MAZ_0104 712490 721544 ZH 哇 我 不是 很 奇怪 他们 会 想到 这样 特别 的 东西 哦  这种 好像 很 新的 东西 嘛 没有 人 会 想到的 比较 好看 一点 这种 东西
+UI18MAZ_0104 725630 727323 ZH 嗯 对
+UI18MAZ_0104 728305 731738 ZH 哇 太假了 有时候
+UI18MAZ_0104 732534 733207 EN en
+UI18MAZ_0104 735137 738186 CS 嗯 我 比较 喜欢 看 那种 好像 inception 那种 比较 好看
+UI18MAZ_0104 742180 744195 ZH 有 么 我 不清楚 啊 那个
+UI18MAZ_0104 745007 745960 EN en
+UI18MAZ_0104 750421 751907 EN oh nine minute lah
+UI18MAZ_0104 756614 762957 CS 嗯 我 比较 看 华人的 戏 咯 就是 drama t. v. b. 的 咯
+UI18MAZ_0104 762957 770949 CS 好看 movie lah 香港的 movie 有些 是 很搞 很好笑 的 比较 笑笑的 那种 咯 笑戏 啊 那种
+UI18MAZ_0104 775360 782647 CS 嗯 我 比较 喜欢 去 jungle trekking ah jogging ah 到处 去 跑跑 啊 吃吃 这样 咯
+UI18MAZ_0104 785940 788918 CS en so far 我去 很多 几个 地方 啦
+UI18MAZ_0104 788918 793754 CS 好像 槟城 有 那个 youth park 爬上去 那个 升旗山 咯
+UI18MAZ_0104 793754 797177 CS 或者 去 那个 比较 上去 一点 的 那个 moon gate ah
+UI18MAZ_0104 797177 800187 CS 那个 在 botanic Ｇarden 那边 也是 可以 爬到 升旗山
+UI18MAZ_0104 800187 808285 CS 然后 我 去过 teluk bahang 那边 hor 跑 九个钟 才 上到 升旗山 也有 那个 是 真的 是 jungle trekking 了 里面 没有 signal 的
+UI18MAZ_0104 808285 811018 CS 好像 mission impossible 这样 啦
+UI18MAZ_0104 811754 820224 CS (呃) 他们 他们 走过的 路 hor 他们 会有 做 一个 mark 起来 好像 或者 你会 看到 好像 有人 走过 那些 路 他 地下 比较 没有 没有 些 草 啊
+UI18MAZ_0104 828781 836926 CS 应该 是 没有的 都是 那些 那些 jungle trekking 的人 hor 他们 走 久了 hor 他 可能 挖 挖 挖 那些 地 给他 知道 有路 这样 给人 跑
+UI18MAZ_0104 836926 841767 CS 可是 久了 之后 也会 生出来 啊 也是 要 有人 去走 咯 他 maintain 一下 就 可以了
+UI18MAZ_0104 847123 847796 EN en
+UI18MAZ_0104 853762 854498 ZH 颜色
+UI18MAZ_0104 858072 861085 CS so far 马来西亚 的话 没有 看到 有 这样 marking lah
+UI18MAZ_0104 861085 868093 CS 除非 他们 搞 活动 啊 他~ 好像 以前 我在 小学的 时候  (er) 中学的 时候 搞 活动 在 森林 里面 走 那种 marathon hor
+UI18MAZ_0104 868093 880664 CS 我们  早一点 要找 一些 preparation 就要 去 那边 拿 那些 颜色 纸 这样 碎碎的 在 地上 做 marking 这样  然后 他们 运动的 人 就 知道 走 那条路  假如 不然 是 真正 是~ 是在 森林 里 失踪 啦
+UI18MAZ_0104 882037 886136 CS (呃) 我 so far 没有 迷路 过 大多数 我 出* 看 那些 有 走过的 才去 走 咯
+UI18MAZ_0104 896506 899711 ZH 应该 用 一两个钟 就 可以了
+UI18MAZ_0104 902767 903581 EN en
+UI18MAZ_0104 905756 906772 ZH 快 啊
+UI18MAZ_0104 908995 909752 EN en
+UI18MAZ_0104 913220 916091 CS 我们 比较 more on trekking 比较快 一点的 咯
+UI18MAZ_0104 916091 917382 ZH 冲下去 这样 啊
+UI18MAZ_0104 917382 920366 EN 
+UI18MAZ_0104 920366 928054 CS 也是 走回 那条 有 啦 有时候 我 试过 一次 teluk bahang 太久了 太累了  回来 就坐 缆车 下 他 现在 好像 maintain 着 不是 啊
+UI18MAZ_0104 932174 936344 ZH 是 啊 要 开了 看 应该 是 几个月 后
+UI18MAZ_0104 940058 946118 CS badminton loh 游泳 咯 有时 是去 bowling 这样 玩 一下 咯
+UI18MAZ_0104 950042 955995 CS (呃) 有 travel  到处 去 马来西亚 这样 驾车 朋友 驾车 这样 出去 玩 咯
+UI18MAZ_0104 955995 961499 CS  去 北海 啊 去 cameron ah 去 不一样 地方 地方 找 东西 吃 这样 咯 去北
+UI18MAZ_0104 961499 964898 CS 外国 so far 去到 最远的 就是 泰国 罢了
+UI18MAZ_0104 964898 966367 EN 
+UI18MAZ_0104 967631 969472 ZH (呃) 应该是 ＃hazhai＃ 那边咯
+UI18MAZ_0104 973375 982251 CS 嗯 现在 promotion 我们 也是 打算 十月 去 台湾 嘛 十月尾 到 十一月头 这样 去 一个 礼拜 这样 咯
+UI18MAZ_0104 987881 993626 CS 我们 是 买 不用 钱的 机票的 就是 讲 他们 可能 网上 才 start 十二点 hor 去 book loh
+UI18MAZ_0104 993626 997901 CS 可能 他的 的 seat 不是 肯定 你要 位 啦 可能 是 random seat mah
+UI18MAZ_0104 997901 1002631 ZH 可能 他们 买 两个位 剩下 一个位 啊 那些 卖不出的 啊 那个 便宜 咯 不用 钱的 咯
+UI18MAZ_0104 1002631 1006240 CS 只是 给 那个 tax ah luguage 的 东西的 钱 咯
+UI18MAZ_0104 1006240 1012571 CS 嗯 买了 咯 应该 是 几百块 罢了 咯 只是 给 那个 tax 罢了
+UI18MAZ_0104 1012571 1017066 CS 去 台湾的 来回 都要 六七百块 啊 tax 来回
+UI18MAZ_0104 1018853 1025230 CS en 只是 tax 罢了 喔 没有 算 那个 飞机票的 喔 飞机票 再 加 进去 就 千多块了 咯
+UI18MAZ_0104 1026596 1028653 ZH 没有 么 台湾 喔
+UI18MAZ_0104 1031747 1033522 CS 嗯 只是 tax 罢了
+UI18MAZ_0104 1035327 1035944 EN en
+UI18MAZ_0104 1040049 1044911 CS 是 啊 哇 korea 这样 远 才 两百多块 呱 哇 便宜 咯 这样
+UI18MAZ_0104 1048081 1048908 EN en
+UI18MAZ_0104 1059698 1060961 EN en
+UI18MAZ_0104 1062579 1073698 CS 一些 外国 地方 啦 嗯 欧洲 咯 欧洲 地带 咯 没有 去过 感觉上 很 特别 我 也是 几个 朋友 他们 在 那边 travel ah backpack ah 他们 去 travel 很爽一下 他们
+UI18MAZ_0104 1076068 1080810 ZH  那时候 经济 有 问题 嘛 他们 家里 有~ 有钱 嘛
+UI18MAZ_0104 1087631 1100649 CS 嗯 听说 会有 可是 我 我 我 那时 也 不知 不大 清楚 啦 那时候  so far 没有 听说 我 coursemate 有 去到 外国 去 exchange loh 应该 是 没有
+UI18MAZ_0104 1102450 1110922 ZH 但是 他们 有些 出来了 之后 他们 公司 会 派 他们 去 那边 那边 做～ 做～ 做工 咯 有些 去 外国做 很～ 很 不错 一下
+UI18MAZ_0104 1118426 1124826 CS 我 啊 我 比较 喜欢 看 那种  comic loh 或者 是看 那种 科技的 书 咯
+UI18MAZ_0104 1126345 1129888 CS 有 电脑 啊 电话 那种 那些 magazine
+UI18MAZ_0104 1131916 1136884 CS 嗯 看来看去 也是 那几种 罢了 电话 电脑 咯 mobile 那种 东西 咯
+UI18MAZ_0104 1148453 1154358 CS 我 现在 也是 有 打算 走 那行 啊 去 研究 那种 mobile 的 o. s. 的 东西 咯
+UI18MAZ_0104 1156512 1167379 CS 嗯 之前 有 做过 for windows的  那时候 还 window pocket 罢了 嘛 很旧了  现在 已经 走了 windows Ｓeven 了 那 mobile 的 i. i. ~ 那个 phone Ｓeven
+UI18MAZ_0104 1174447 1176383 EN enen
+UI18MAZ_0104 1181108 1184685 CS 那个 电话 啦 应该 是 visual studio 用~ 用 那种 东西 咯
+UI18MAZ_0104 1187814 1190435 CS android 他们 自己的 iphone 他们 又 自己的
+UI18MAZ_0104 1190435 1196083 CS iphone 就是 他 需要 他们 自己的 o. s. 才能 app~ run  install 那 application 的
+UI18MAZ_0104 1196083 1199237 CS 是讲 你要 至少 一个 mac o. s. 的 时候 才能 install loh
+UI18MAZ_0104 1199237 1203252 CS 我要 install 去 windows 他 不给的 好像 an~ android ah goo~

@@ -1,0 +1,459 @@
+08NC16FBQ_0101 2340 4237 EN test test
+08NC16FBQ_0101 53841 54570 EN okay
+08NC16FBQ_0101 55804 57095 EN <unk>
+08NC16FBQ_0101 58890 59851 ZH 好
+08NC16FBQ_0101 62060 64444 ZH 再 继续 想 
+08NC16FBQ_0101 66464 67010 EN oh yeah
+08NC16FBQ_0101 79916 81100 EN night meh
+08NC16FBQ_0101 83170 84471 ZH 去哪里买
+08NC16FBQ_0101 85611 87939 CS fairprice 哪个 fairprice 哪一间
+08NC16FBQ_0101 88781 90127 ZH 哦 多少 钱
+08NC16FBQ_0101 92315 95602 ZH 三块 啊 几粒 几条
+08NC16FBQ_0101 99609 101897 CS but you you that time buy 有 几条
+08NC16FBQ_0101 106890 108267 ZH 二 三 四 条
+08NC16FBQ_0101 109330 114488 CS 哦 二 三十 条 then 一 一条 多少  数一下
+08NC16FBQ_0101 118430 119092 ZH 三块二 对吗
+08NC16FBQ_0101 119597 120355 ZH 三块二
+08NC16FBQ_0101 122094 123384 ZH 三块二
+08NC16FBQ_0101 131619 133976 ZH 嗯 毛半
+08NC16FBQ_0101 136272 137775 ZH 值得 
+08NC16FBQ_0101 139782 142980 CS  不会 sian 咩 不会 sian 做么
+08NC16FBQ_0101 143794 145425 EN 
+08NC16FBQ_0101 145425 145954 EN okay
+08NC16FBQ_0101 150261 154519 EN about today i am going to later i go and practice
+08NC16FBQ_0101 156166 167025 CS then after that meet xukun and weileong (呃) we all going to 吃 那个  吃 那个 (呃) new-york-new-york (呃) 他有 voucher 嘛
+08NC16FBQ_0101 168018 168821 EN at jurong-point
+08NC16FBQ_0101 174738 177263 CS but then maybe 我们 去 ang-mo-kio <unk>
+08NC16FBQ_0101 183490 187395 CS 嗯 <unk> 晚上 回家 咯 吃 咯 watch movie then 回家 咯
+08NC16FBQ_0101 192383 193645 ZH 去 <unk> 买 咯
+08NC16FBQ_0101 200225 201993 ZH  不够 钱
+08NC16FBQ_0101 211199 212044 ZH 你会 给 咩
+08NC16FBQ_0101 212652 213550 ZH 你要 给
+08NC16FBQ_0101 226189 228405 CS bo-liao 那个 training
+08NC16FBQ_0101 236035 238463 ZH 围棋 啊 围棋
+08NC16FBQ_0101 242033 243724 CS but 我 觉得 围棋 比较 好玩
+08NC16FBQ_0101 249235 251619 ZH 哦 玩一下 咯 我也 要 我也 想玩
+08NC16FBQ_0101 255126 259979 CS 嗯 then 那个 captain 讲我  吓 又没有 training
+08NC16FBQ_0101 264819 265222 ZH 诶
+08NC16FBQ_0101 266482 267753 CS 不是 december thirtieth
+08NC16FBQ_0101 268585 269167 ZH 几时
+08NC16FBQ_0101 273728 275792 ZH 还不是一样 还不是一样
+08NC16FBQ_0101 296231 298497 CS 不会赢 的 咯 you see other hall was very good
+08NC16FBQ_0101 303855 304998 EN but we are not doing there
+08NC16FBQ_0101 322988 323987 CS 用 你的 comp 玩咯
+08NC16FBQ_0101 324394 325217 CS 我又 没有 带 laptop
+08NC16FBQ_0101 330332 331686 ZH 哪里 <unk>
+08NC16FBQ_0101 334035 337485 CS (呃) 不用 不用 i just need the keyboard
+08NC16FBQ_0101 340080 341276 ZH 舍不得 做么
+08NC16FBQ_0101 343391 343881 ZH 哦
+08NC16FBQ_0101 350803 352026 ZH 哦 你 还没有 拍
+08NC16FBQ_0101 356085 357031 ZH 去 哪里 拍
+08NC16FBQ_0101 358808 359858 ZH 哦 后面 啊
+08NC16FBQ_0101 367264 369228 ZH 下 下 下 下 下 到完 就 六点 了
+08NC16FBQ_0101 378875 379763 EN can you say something
+08NC16FBQ_0101 381530 385514 EN why why why why why
+08NC16FBQ_0101 386860 392134 CS 都 这样 小声 啊 都 这样 小声 都 这样 小 i can't make the same frequency as yours
+08NC16FBQ_0101 395560 403463 EN 
+08NC16FBQ_0101 404860 408774 EN yeah we are supposed to talk and now you are talking this is what they want to hear talking hello
+08NC16FBQ_0101 411702 412955 EN evolutionary music
+08NC16FBQ_0101 414703 416422 CS then 你看 那个 evolutionary music
+08NC16FBQ_0101 465312 469343 EN this is damn bio ah cross over mutation replacement
+08NC16FBQ_0101 469837 471766 EN actually music is somthing like that also right
+08NC16FBQ_0101 472649 474651 EN you know there is this for example john gage
+08NC16FBQ_0101 475465 479259 EN you know john cage okay he is a is a modern music writer la
+08NC16FBQ_0101 480285 484263 EN wow you see my frequency all very high one it is like du-du-du-du-du-du-du
+08NC16FBQ_0101 486591 487797 EN amplitude that means how loud
+08NC16FBQ_0101 488799 489620 EN this is the loudness
+08NC16FBQ_0101 490350 491332 EN so you need to talk softer
+08NC16FBQ_0101 492286 494729 EN oh is it ah ah
+08NC16FBQ_0101 499146 503426 EN okay yeah anyway there was this there was this john ca~ john cage guy la
+08NC16FBQ_0101 503908 504868 EN then he
+08NC16FBQ_0101 505654 510282 EN he he composed a piece like an orchestra cause there is an orchestra then okay you know what's a concerto
+08NC16FBQ_0101 511533 515276 EN concerto is like when there is a piano playing right and then the orchestra just play in the background la
+08NC16FBQ_0101 516413 520825 EN then he concludes this piece right where the pianist's scroll is nothing
+08NC16FBQ_0101 525418 526596 EN the scroll is nothing
+08NC16FBQ_0101 529037 530605 EN yeah then there is nothing on the scroll
+08NC16FBQ_0101 531500 533073 EN then the orchestra doesn't play anything
+08NC16FBQ_0101 533912 535968 EN so the scroll lasts for four minutes and thirty three seconds
+08NC16FBQ_0101 536751 540866 EN and nothing happens like there is three movements right so like every~ the the after the first minute
+08NC16FBQ_0101 541504 543949 EN then he open he close the piano then after he will wait
+08NC16FBQ_0101 544455 546598 EN then after that he opens the piano again and then he starts the stopwatch
+08NC16FBQ_0101 547280 548131 EN then he will wait
+08NC16FBQ_0101 548776 551860 EN then after he will closes and opens again do the samething la for four minutes and thirty three seconds
+08NC16FBQ_0101 552738 555976 EN yeah then the point of this whole this whole performance is that
+08NC16FBQ_0101 556696 557096 EN (erm)
+08NC16FBQ_0101 558085 561494 EN their they will the the music ah because this is a music consider music
+08NC16FBQ_0101 562007 563866 EN it is a natural music like what is actually
+08NC16FBQ_0101 564449 569681 EN like the sounds around and know people grumbling noise of natural sounds la
+08NC16FBQ_0101 570095 574657 EN yeah so that is the four minutes and thirty three second the whole point of four minute and thirty three second
+08NC16FBQ_0101 580122 581568 EN yes made by yourself
+08NC16FBQ_0101 582598 583131 EN correct
+08NC16FBQ_0101 586161 590396 EN yeah but but this is a paid performance as in people pay money to go and watch
+08NC16FBQ_0101 591953 592610 EN to themselves
+08NC16FBQ_0101 593098 593861 EN 
+08NC16FBQ_0101 594462 597210 EN yeah so you can imagine like incredulity
+08NC16FBQ_0101 604152 606654 EN i don't know like maybe twenty sing
+08NC16FBQ_0101 610017 612139 EN forty ah twenty euro
+08NC16FBQ_0101 614687 615181 ZH 你有去 啊
+08NC16FBQ_0101 615945 616445 EN <unk>
+08NC16FBQ_0101 616445 616765 ZH 几时
+08NC16FBQ_0101 618417 618985 CS where 哪里
+08NC16FBQ_0101 621578 623541 EN oh you went by who mah who who
+08NC16FBQ_0101 624635 625308 EN who
+08NC16FBQ_0101 627468 628983 EN yeah the band right
+08NC16FBQ_0101 630233 631622 EN no as in which orchestra
+08NC16FBQ_0101 633628 635824 EN wind symphony right yeah yeah yeah my girlfriend la
+08NC16FBQ_0101 636644 638403 EN she is in n. u. s. symphony i tell you what they played
+08NC16FBQ_0101 638904 640932 EN they played tetris they played
+08NC16FBQ_0101 641696 642196 EN erm
+08NC16FBQ_0101 642196 643248 EN 
+08NC16FBQ_0101 644382 646636 EN they played halo two
+08NC16FBQ_0101 647730 648975 EN they played what else ah did they play
+08NC16FBQ_0101 652129 654121 EN so you went
+08NC16FBQ_0101 663710 664388 EN yeah
+08NC16FBQ_0101 665202 666436 EN <unk>
+08NC16FBQ_0101 672983 673421 EN yeah
+08NC16FBQ_0101 684124 688198 EN you mean the n. u. s. w. s. they didn't play sonic they didn't they
+08NC16FBQ_0101 691076 692061 EN oh you mean it's a
+08NC16FBQ_0101 692618 695152 EN i thought it just the wind symphony playing what oh there a lot la
+08NC16FBQ_0101 695828 696317 EN is it
+08NC16FBQ_0101 704733 706065 EN the piano guys should play the mario
+08NC16FBQ_0101 729036 729887 EN the music ah
+08NC16FBQ_0101 739042 739676 EN eighty
+08NC16FBQ_0101 741543 742550 EN wah you pay so much
+08NC16FBQ_0101 751190 752649 EN wah
+08NC16FBQ_0101 788042 788692 EN how much did you pay
+08NC16FBQ_0101 789732 790903 EN seventy plus to watch that
+08NC16FBQ_0101 792496 793383 EN how long is the concert
+08NC16FBQ_0101 795375 796129 EN wah that's it
+08NC16FBQ_0101 796129 797672 EN <unk>
+08NC16FBQ_0101 819853 820495 ZH 很多人 啊
+08NC16FBQ_0101 820937 821591 ZH 很多人
+08NC16FBQ_0101 826276 827174 ZH 哦
+08NC16FBQ_0101 852003 852829 EN why is it so crowded
+08NC16FBQ_0101 853578 854513 EN why is it so crowded
+08NC16FBQ_0101 875374 875849 EN erm
+08NC16FBQ_0101 900155 901066 EN 
+08NC16FBQ_0101 902435 903656 EN but they also heck care ah
+08NC16FBQ_0101 906018 908472 EN that time we the that time new year
+08NC16FBQ_0101 908929 909310 EN <unk>
+08NC16FBQ_0101 909310 910545 CS this this year 的 new year
+08NC16FBQ_0101 911081 912829 CS then me 志凯 韦明
+08NC16FBQ_0101 913193 913670 EN couples of us
+08NC16FBQ_0101 914681 918662 CS we went out for 哎呀 they all they all call us to go that esplanade watch the firework
+08NC16FBQ_0101 919792 920099 EN then
+08NC16FBQ_0101 921045 927646 CS there is damn crowded then after everything right there is no taxi nothing 啊 so we went over to aloysious has this friend okay you know who is aloysius
+08NC16FBQ_0101 928066 928393 EN you know meh
+08NC16FBQ_0101 929507 933335 CS ah yeah she has this friend who is working in the club (呃) pub there 啦
+08NC16FBQ_0101 933744 935627 CS so we went to the pub we drink a bit all free one 啦 yeah
+08NC16FBQ_0101 936134 939684 CS then after that (呃) 志凯 drank quite a bit then got quite drunk
+08NC16FBQ_0101 941030 942080 EN yeah then
+08NC16FBQ_0101 942964 947761 EN (erm) no it is because of that that's why you all every one knows that he cannot hold
+08NC16FBQ_0101 948792 955552 EN yeah then he was really drunk la then all of us were trying to support him my mum also was there my mom was a bit drunk but my mum left
+08NC16FBQ_0101 956759 965369 CS no he is not okay but he knew his limit 啦 so he merely went home straight yeah then (呃) 志凯 so we all decided to look for a cab 啦 then cannot find cab
+08NC16FBQ_0101 966482 969705 EN really cannot find cab then got there
+08NC16FBQ_0101 970786 972276 EN there is a trishaw rider we uncle
+08NC16FBQ_0101 972996 973323 EN 
+08NC16FBQ_0101 973323 974979 CS then uncle say 你们 要 去 哪里
+08NC16FBQ_0101 975112 978635 CS say uncle uncle 实龙岗 可以 吗
+08NC16FBQ_0101 981768 982151 EN as in
+08NC16FBQ_0101 982151 985088 CS uncle 实龙岗 可以吗 then he 实龙岗 啊 siao
+08NC16FBQ_0101 990181 995358 CS retarded yeah then in the end then we walk all the way until (呃) dhoby-ghaut
+08NC16FBQ_0101 997049 998837 EN burger-king ah there was like five already
+08NC16FBQ_0101 999693 1001811 CS then we all just like pong 哇 like die already 啊
+08NC16FBQ_0101 1002321 1004976 CS then 志凯 志凯 came awake so he
+08NC16FBQ_0101 1006023 1007090 EN so what happened
+08NC16FBQ_0101 1007090 1007978 EN 
+08NC16FBQ_0101 1010444 1011172 EN why you all so tired
+08NC16FBQ_0101 1012570 1019990 EN he is like he finally awoke from his day then he so what happened why you all so tired what happened just now i remember fighting with someone
+08NC16FBQ_0101 1021525 1022479 EN yeah <unk>
+08NC16FBQ_0101 1022998 1024738 EN because we were trying to wrestle away his
+08NC16FBQ_0101 1027476 1028227 EN away
+08NC16FBQ_0101 1029768 1030441 EN his
+08NC16FBQ_0101 1033134 1034060 EN his
+08NC16FBQ_0101 1040792 1041886 EN you should close the door
+08NC16FBQ_0101 1047793 1053352 EN wrestle away ah cause we were trying to take his wallet out and his hand phone to find his sister's number so we can tell his sister what happened to him
+08NC16FBQ_0101 1054032 1063025 EN cause he is really drunk ah then like i quite worry for him also even board the trans~ the night rider right after that night rider broke down so it's like kind of wasted three bucks
+08NC16FBQ_0101 1064540 1065047 EN yeah
+08NC16FBQ_0101 1065746 1067403 EN <unk>
+08NC16FBQ_0101 1068932 1069493 EN no
+08NC16FBQ_0101 1070839 1071148 EN no
+08NC16FBQ_0101 1071933 1072865 EN cause we were just so packed
+08NC16FBQ_0101 1073564 1074990 EN then every like confusion
+08NC16FBQ_0101 1075538 1076775 EN then it broke down at clark-quay
+08NC16FBQ_0101 1078400 1080169 EN so it's like not even anywhere ah
+08NC16FBQ_0101 1081246 1086091 EN yeah we were actually the where where is the national day esplanade esplanade and clark-quay quite near also actually
+08NC16FBQ_0101 1087130 1087820 EN can walk
+08NC16FBQ_0101 1092579 1093591 EN yeah he broke down ah
+08NC16FBQ_0101 1094658 1097077 EN yeah so we all come out and
+08NC16FBQ_0101 1097463 1099012 CS try to wrestle with on 志凯 then 志凯 said
+08NC16FBQ_0101 1099749 1101858 CS 哦 i remember fighting with someone
+08NC16FBQ_0101 1103311 1106396 EN me and all of us la he is quite strong you know he is very strong
+08NC16FBQ_0101 1116776 1119273 CS which what 志凯 oh you know what happened to him ah
+08NC16FBQ_0101 1119877 1124238 EN no no no the whole time is he is drunk what so he is trying to he is trying to fight with all of us
+08NC16FBQ_0101 1128843 1129948 EN like wrestling
+08NC16FBQ_0101 1135838 1137213 EN <unk>
+08NC16FBQ_0101 1153125 1155468 EN no no no he was what what was the nickname
+08NC16FBQ_0101 1158189 1159861 EN he cannot hold liquor at all
+08NC16FBQ_0101 1160465 1164779 EN it was it is not even liquor it is like beer there you drinking beer
+08NC16FBQ_0101 1165931 1166459 EN in the club
+08NC16FBQ_0101 1167612 1170596 EN two jugs it is quite a lot yeah it is a lot la
+08NC16FBQ_0101 1172113 1175283 EN but we will have five people la but to that height still a lot
+08NC16FBQ_0101 1185611 1186617 EN easily
+08NC16FBQ_0101 1188046 1188993 EN and do you know why
+08NC16FBQ_0101 1190234 1192189 EN and do you know why you know why
+08NC16FBQ_0101 1193813 1198052 EN usually alcohol you don't get drunk you just get high beer then you get drunk
+08NC16FBQ_0101 1200349 1201290 EN yeah okay then
+08NC16FBQ_0101 1202112 1204445 EN (erm) yeah lo like that then he just got
+08NC16FBQ_0101 1205950 1210033 CS 哎呀 all of us at five ah it was very very tired so we all going to sleep already except him
+08NC16FBQ_0101 1213574 1217170 EN at in the end he he sorry for all the troubles
+08NC16FBQ_0101 1220906 1222273 EN yeah then nothing else
+08NC16FBQ_0101 1271142 1272012 ZH 你去哪里
+08NC16FBQ_0101 1276220 1277510 ZH  他懂 啦
+08NC16FBQ_0101 1279446 1281269 ZH 几点 那时 几点
+08NC16FBQ_0101 1292360 1294350 CS 他 等 他 等 midnight 啊
+08NC16FBQ_0101 1294350 1295619 CS 他等 midnight
+08NC16FBQ_0101 1297835 1299378 ZH 哦 在 哪里
+08NC16FBQ_0101 1300990 1303240 CS 哦 then 他 ferry 你 到 camp 啊
+08NC16FBQ_0101 1303895 1305241 ZH 哇 多少 钱
+08NC16FBQ_0101 1310823 1312280 CS 二十 还 okay 咧
+08NC16FBQ_0101 1312280 1313280 CS 还没有 midnight charge
+08NC16FBQ_0101 1315270 1316780 CS 有 啊 including midnight
+08NC16FBQ_0101 1328063 1330815 EN where got worse what got people worse meh don't have meh
+08NC16FBQ_0101 1331778 1338099 EN like like ho-jiak ho-jiak-qing ei if it is ho-jiak-qing pick up your phone
+08NC16FBQ_0101 1350510 1352980 CS 哦 to you exercise 的 时候 啊
+08NC16FBQ_0101 1375743 1376627 EN <unk>
+08NC16FBQ_0101 1376627 1377851 EN like bo-liao ah
+08NC16FBQ_0101 1385324 1386443 EN heck care one la
+08NC16FBQ_0101 1387288 1390564 EN yeah actually all the things all heck care one la nobody actually really cares
+08NC16FBQ_0101 1391338 1393375 EN only xin-jiao ah xin-jiao will care
+08NC16FBQ_0101 1396797 1399434 CS 因为 你们 因为 他们 like hum-ji 啊
+08NC16FBQ_0101 1403828 1404275 EN yeah
+08NC16FBQ_0101 1405514 1407697 EN shen-jiao lao-jiao is always more superior
+08NC16FBQ_0101 1416028 1417219 EN what you mean
+08NC16FBQ_0101 1420404 1428634 EN no lo i don't feel i i already know i am superior leh  i teach you one mah <unk> you must <unk> ah 
+08NC16FBQ_0101 1465896 1466962 EN <unk>
+08NC16FBQ_0101 1468240 1469418 EN oh
+08NC16FBQ_0101 1476347 1481279 EN i know when was that yeah then he i think he blew up until quite
+08NC16FBQ_0101 1482119 1484087 EN did he blow up no ah
+08NC16FBQ_0101 1490738 1491684 EN pissed ah
+08NC16FBQ_0101 1501525 1502563 EN who was the spec~
+08NC16FBQ_0101 1503882 1505905 EN oh when was that
+08NC16FBQ_0101 1510550 1512618 EN oh non exercise personnel ah
+08NC16FBQ_0101 1513771 1514852 EN but what time was it really
+08NC16FBQ_0101 1515610 1516704 EN oiyo
+08NC16FBQ_0101 1517377 1518836 EN asking for it leh
+08NC16FBQ_0101 1543846 1545680 EN actually it is not games live music
+08NC16FBQ_0101 1549147 1551745 EN l. g. m. m. g. l.
+08NC16FBQ_0101 1554730 1556188 EN games music live
+08NC16FBQ_0101 1558657 1559751 EN i forgot what was the name
+08NC16FBQ_0101 1588199 1592323 EN a. y. e. go to k. j. e. okay what you were going to camp mah
+08NC16FBQ_0101 1598157 1598746 EN yeah
+08NC16FBQ_0101 1600682 1602639 EN then go up k. j. e. yeah
+08NC16FBQ_0101 1606685 1607647 EN into s. l. e.
+08NC16FBQ_0101 1611806 1613574 EN oh from kallang
+08NC16FBQ_0101 1622466 1623081 EN wow
+08NC16FBQ_0101 1624401 1625732 ZH 三十 咧
+08NC16FBQ_0101 1634135 1635201 EN alleviate the cost ah
+08NC16FBQ_0101 1642426 1643849 ZH 做么 你们 在 做么
+08NC16FBQ_0101 1645933 1646924 ZH 哦
+08NC16FBQ_0101 1670326 1672479 EN wah ins~ insane yeah
+08NC16FBQ_0101 1676125 1676780 EN thirty
+08NC16FBQ_0101 1677507 1679358 EN oh but it's pass twelve already
+08NC16FBQ_0101 1682965 1685209 EN then you never direct him to take other road
+08NC16FBQ_0101 1686948 1692250 EN the moment you go into a. j. what a. y. how you even get to a. y. e. you need to go by p. i. e. first what
+08NC16FBQ_0101 1694466 1695399 EN oh
+08NC16FBQ_0101 1701787 1707123 EN but maybe p. i. e. got some traffic jam oh no it's eleven p.
+08NC16FBQ_0101 1718896 1724972 EN if i were him i will go back s. l. e. s. l. e. is very fast first you go up after that you s. l. e.
+08NC16FBQ_0101 1729590 1730409 EN what's k. p. e.
+08NC16FBQ_0101 1732956 1738370 EN the new one ah the underground one ah the one which is in fifty kilometer per hour seventy
+08NC16FBQ_0101 1751358 1754668 EN p. i. e. to s. l. e. you mean east or west
+08NC16FBQ_0101 1756199 1757854 EN east side there is no there is no limk what
+08NC16FBQ_0101 1760463 1762931 EN t. p. but you don't need to go t. p. e. from kallang
+08NC16FBQ_0101 1764727 1766326 EN since from kallang you just go up
+08NC16FBQ_0101 1767441 1771158 EN just go up like up then the ang-mo-kio
+08NC16FBQ_0101 1772273 1773451 EN to yio-chu-kang
+08NC16FBQ_0101 1775799 1782499 EN ah then s. l. e. s. l. e. is very fast cause everyone speeds on s. l. e. s. l. e. average is like hundred hundred and ten hundred and twenty
+08NC16FBQ_0101 1787715 1791251 EN i have seen car i have been in car which does la so taxi should have la
+08NC16FBQ_0101 1822376 1824892 EN faster i think he is probably in a rush also right
+08NC16FBQ_0101 1825488 1826135 EN no
+08NC16FBQ_0101 1842505 1844000 EN how come merz cab so cheap ah
+08NC16FBQ_0101 1844693 1847947 CS so cheap 咩 i alwasy have the impression that merz cab 比较 贵
+08NC16FBQ_0101 1855720 1858120 CS but 他的 starting price 是 different 还是 一样
+08NC16FBQ_0101 1859550 1862720 CS forty cents 对 啊 then 比较 comfortable
+08NC16FBQ_0101 1873546 1874949 EN oh t. p. e. can push also
+08NC16FBQ_0101 1885765 1887054 EN but he is young meh not old man
+08NC16FBQ_0101 1888289 1889832 EN wah old man still do this kind of thing
+08NC16FBQ_0101 1890505 1891768 EN usually old man
+08NC16FBQ_0101 1893928 1895214 ZH 四十多 啊
+08NC16FBQ_0101 1934887 1935616 EN strict
+08NC16FBQ_0101 1945702 1947356 EN 
+08NC16FBQ_0101 1947356 1948495 EN but what cab was that
+08NC16FBQ_0101 1949237 1954735 EN oh the merz then let me ask him go fast la you say he very flexible right you say he is very flexible
+08NC16FBQ_0101 1998976 2001728 EN he he is what kind of person what kind of person is he
+08NC16FBQ_0101 2003853 2005540 CS no but he is 他 新加坡人吗
+08NC16FBQ_0101 2013984 2015078 ZH 哦
+08NC16FBQ_0101 2017880 2021130 CS 你 在 穿 什么 哦 那个 那个 three quarter jeans 啊
+08NC16FBQ_0101 2034954 2036584 EN like the like those
+08NC16FBQ_0101 2047874 2052024 CS then 你 ask him 啦 uncle 你是不是新加坡人
+08NC16FBQ_0101 2054382 2055896 CS then 哎呀
+08NC16FBQ_0101 2056934 2058143 ZH 吓 他不是新加坡人
+08NC16FBQ_0101 2060777 2063284 EN then you also la uncle you can hear my accent or not
+08NC16FBQ_0101 2063869 2066051 EN my english leh you speak what singlish ah
+08NC16FBQ_0101 2067034 2068205 EN then you hokkien with him ah
+08NC16FBQ_0101 2068205 2069590 EN <unk>
+08NC16FBQ_0101 2083700 2084457 EN yeah
+08NC16FBQ_0101 2086043 2087024 EN <unk>
+08NC16FBQ_0101 2095133 2096083 EN in teochew
+08NC16FBQ_0101 2098359 2099635 EN you know teochew ah
+08NC16FBQ_0101 2100771 2101956 EN but you can speak meh
+08NC16FBQ_0101 2104109 2105315 EN say you say something
+08NC16FBQ_0101 2106858 2107741 EN say something
+08NC16FBQ_0101 2112400 2114925 EN lei ho-yi gong teochew
+08NC16FBQ_0101 2116776 2117450 EN eh-sai
+08NC16FBQ_0101 2118459 2120255 EN isn't that hokkien
+08NC16FBQ_0101 2123817 2125220 EN eh-sai buey-sai
+08NC16FBQ_0101 2128025 2129365 EN then how to say i want go toilet
+08NC16FBQ_0101 2132990 2134168 EN chi-sou
+08NC16FBQ_0101 2135699 2136428 EN no
+08NC16FBQ_0101 2145910 2148548 EN so you wa ke ah wa ke as i want to
+08NC16FBQ_0101 2149585 2153596 CS wa ai 啊 wa ai ke 我爱 ke then
+08NC16FBQ_0101 2170751 2176923 EN no when you did when you do french right then you will learn this suay word ah is like shit la like shit they say ngieh
+08NC16FBQ_0101 2177792 2186428 EN yeah yeah so so it is like we ngieh my friend la we were just talking say okay i want to shit so i say i would like to shit
+08NC16FBQ_0101 2186428 2187911 EN 
+08NC16FBQ_0101 2187911 2188658 EN you know what i mean right
+08NC16FBQ_0101 2189706 2197001 EN yeah because we don't know right go to you don't know how to say like go go toilet and do business it is like i like to then we use the suey word shit
+08NC16FBQ_0101 2200109 2203954 EN no la we just talking oh yeah then in this show which is called l'auberge espagnole
+08NC16FBQ_0101 2204464 2211998 EN it's a called the spanish inn (erm) k. yeah no okay it's is it it is about this french guy who go to spain
+08NC16FBQ_0101 2212491 2220298 EN and then he wants to find their apartment la so he sees oh there is a lot of people in apartment and then all of the people in this apartment are of different nationality did i tell you this is <unk> at the telephone right there is this piece of paper so like with a country flag and then what to say ah so like if someone calls for this person then you know okay british then you see a british flag then you must read like oh he is not around now so what french okay so someone called the the phone and the british go and pick up the she was reading the french script la he says (erm) he is not around he will be back
+08NC16FBQ_0101 2220728 2230336 EN there is english there is there is english there is german there is italian there is spanish and he is french la so they all mix and okay then at the telephone right did i tell this before
+08NC16FBQ_0101 2230775 2242776 EN the telephone right then there is this piece of paper so like with a country flag and then what to say ah so like if someone calls for this person then you know okay britizen see a british flag then you must read like oh he is not around now
+08NC16FBQ_0101 2242928 2254827 EN so my friend okay so someone called the phone then the british girl pick up then she was reading the french script la which say he is not around he will be back in the afternoon
+08NC16FBQ_0101 2255285 2269801 EN yeah he go to school ah so she reads then after that the mother says so he go to school then the girl say what okay she the mother was speaking in french then say yeah go to school is school is lafuq la lafuq fakute
+08NC16FBQ_0101 2270430 2276315 EN fakute yeah how to say ah fuq-lafuq lafaq the question lafaq with a question mark lafaq
+08NC16FBQ_0101 2276755 2295529 EN then she la~ what lafuq then she lafaq  then there is one guy lying on sofa and say eh wendy calm down  then the next day she ask the french guy is it true that lafaq means school then he says yeah le-e-kul lafuq lafaq
+08NC16FBQ_0101 2296422 2313309 EN yeah fa-ku-te then she oh okay then the next day right when they all eating then says (erm) what time is it then together oh everybody i am going to fuq  yeah that's why the show is sure quite hilarious
+08NC16FBQ_0101 2317741 2321163 EN it is not vulgar you know it is it is it is french 
+08NC16FBQ_0101 2333241 2338116 EN ah then (erm) (erm) like okay la more preface to this as in
+08NC16FBQ_0101 2338421 2342399 EN why is it it is not that it is not just this funny it is more funny than this because
+08NC16FBQ_0101 2342585 2349448 EN if you know the character she is like a nun she is like a nun she is not a nun it is like i am not the trendy london girl
+08NC16FBQ_0101 2352434 2355660 EN yeah like very traditional like a nun la yeah lo
+08NC16FBQ_0101 2356670 2358578 EN then she i am going to fuck
+08NC16FBQ_0101 2361877 2364224 EN what you want to talk about oh you want to talk about computers
+08NC16FBQ_0101 2366450 2369675 EN eh do you know anything about this what is this what do you think this is for
+08NC16FBQ_0101 2370405 2370994 EN it is a speaker
+08NC16FBQ_0101 2371920 2375314 EN oh yeah i have this i have it you know
+08NC16FBQ_0101 2376632 2378961 EN something like this i think it is i think it is i haven't used it yet
+08NC16FBQ_0101 2382287 2386158 EN (erm) no i yeah fall into my table then became mine
+08NC16FBQ_0101 2387897 2390060 EN this is quite expensive i bought from challenger
+08NC16FBQ_0101 2391403 2391992 EN forty
+08NC16FBQ_0101 2393900 2397042 EN looks quite good is it very good just now was it good
+08NC16FBQ_0101 2398753 2402287 EN yeah i heard it was quite good right not bad huh
+08NC16FBQ_0101 2403578 2405457 EN no it just one piece of like that
+08NC16FBQ_0101 2417311 2418639 EN holiday
+08NC16FBQ_0101 2430074 2430691 EN no
+08NC16FBQ_0101 2431521 2434635 EN what what do you mean by plan aren't you allocated courses
+08NC16FBQ_0101 2443976 2445188 EN do these courses
+08NC16FBQ_0101 2446781 2450287 EN oh i haven't got any email yet but i have looked at it ah
+08NC16FBQ_0101 2452503 2458017 EN no but generally it is all the same my eight thirty lessons end at five thirty start at eight thirty cannot siam mah
+08NC16FBQ_0101 2462169 2462926 EN no
+08NC16FBQ_0101 2463544 2466704 EN because mine huh the lectures are spread out on the five days
+08NC16FBQ_0101 2467611 2473390 EN so there is no way you can actually like siam the one of the days every day has lessons
+08NC16FBQ_0101 2482691 2487919 EN no but he only have there is only one lecture per week on every course
+08NC16FBQ_0101 2489762 2491309 EN let's say there are four course
+08NC16FBQ_0101 2492999 2501784 EN there are lecture and tutorial la so like maybe (erm) on on the monday then there is like the first lecture then on tuesday there is another lecture then on wednesday there is another lecture
+08NC16FBQ_0101 2502105 2504878 EN so no matter what you have to go hunt school on monday tuesday and wednesday
+08NC16FBQ_0101 2505351 2514615 EN then there are still two more lectures then there are tutorials which are on other days which you cannot siam cause everybody will be going for tutorial which are not on those days so you will be fighting with every one la but
+08NC16FBQ_0101 2514980 2521116 EN anyway every day there is lecture i checked already it is quite bad it is very bad how is yours you haven't checked yet
+08NC16FBQ_0101 2538985 2540332 EN but you can't
+08NC16FBQ_0101 2550699 2558469 EN actually it is possible right to take your next year modules that means your year three modules and then your year two we taking next year
+08NC16FBQ_0101 2560517 2561192 EN oh
+08NC16FBQ_0101 2567012 2580958 EN but anyway you will be at the loss la because you are fighting against people who have done your year things but then again when you do your next year during next year when you do your first your your previous year one you will be at the advantage
+08NC16FBQ_0101 2601728 2604375 EN (erm) so you need your year two first
+08NC16FBQ_0101 2615938 2635676 EN do you think it is better to to actually do with people you know all the way or you better to screw up your timetable when no really not screwed up but like take okay for me ah i am year one right so do you think it is better if i just follow the friends and follow the tide and do the year one modules in year one do the year two modules in year two
+08NC16FBQ_0101 2635676 2644679 EN or now i take the year two make my timetable damn sui don't need to school for two days then year two also do the same thing but have no friend to do it with
+08NC16FBQ_0101 2649504 2651411 EN subjects are roughly the same it is like
+08NC16FBQ_0101 2660500 2661167 EN yeah
+08NC16FBQ_0101 2667669 2669380 EN no one to discuss with
+08NC16FBQ_0101 2677880 2681235 EN so technically i at loss in even a greater extend
+08NC16FBQ_0101 2687630 2692006 EN do you think if we reconnect this analogue this analogue all these
+08NC16FBQ_0101 2692959 2696466 EN these analogue so we reconnect it here it still works
+08NC16FBQ_0101 2699327 2700954 EN because you need to reconfigure right
+08NC16FBQ_0101 2709554 2710956 CS now 我们 可以 换 吗
+08NC16FBQ_0101 2711573 2712476 ZH 我们 可以 换 吗
+08NC16FBQ_0101 2717128 2718542 EN g. g.
+08NC16FBQ_0101 2721476 2724169 CS firewire 如果 我们 抽住 那个 范
+08NC16FBQ_0101 2726329 2727599 EN power la eh
+08NC16FBQ_0101 2731322 2732478 EN all the weakness
+08NC16FBQ_0101 2738940 2740314 EN and then everything is recorded now
+08NC16FBQ_0101 2743316 2745167 EN or you put a bug here and then
+08NC16FBQ_0101 2750245 2758290 EN i know i know but you put a bug here e. m. p. bug  then after it activates then everything black out
+08NC16FBQ_0101 2767865 2780647 EN oh there is no plan catch up my reading i am going to read quite a bit play game we didn't go out no there is nothing much to work actually all the people don't want to go out i want to go out and do eh did you meet kenzi they all
+08NC16FBQ_0101 2781526 2782405 EN did did alan go
+08NC16FBQ_0101 2789568 2790467 CS k. 的
+08NC16FBQ_0101 2792485 2795159 EN that is quite good right that is quite good right
+08NC16FBQ_0101 2802291 2807901 EN oh so it supposes to be a peuch crowd ah then you all play you all play still play the volley ball
+08NC16FBQ_0101 2874908 2876002 EN <unk>
+08NC16FBQ_0101 2897506 2899611 EN wah you all reach at four isn't that very late already
+08NC16FBQ_0101 2902807 2905080 EN oh but isn't it very early in that case
+08NC16FBQ_0101 2906370 2909820 EN oh but actually these few days not very good to go out because it is like rain every day
+08NC16FBQ_0101 2910830 2917298 EN that is why these few days must like go and watch all the the clay indoor things play all the indoor games
+08NC16FBQ_0101 2921758 2922740 EN what concert is it called
+08NC16FBQ_0101 2923778 2924411 EN by whom
+08NC16FBQ_0101 2926499 2929444 EN as in oh it is a singing concert where where is it held
+08NC16FBQ_0101 2931380 2942384 EN oh one of the one of the it is like a it is like a resettled studio studio thea~ drama theatre so it is like a like that lo bigger
+08NC16FBQ_0101 2947974 2957618 EN actually i know where it is la i know where it will be held national library (erm) upstair there got seats one right got chair (erm) then got stage in front
+08NC16FBQ_0101 2960429 2962424 EN sixty ah wah
+08NC16FBQ_0101 2964176 2965522 EN i would mind
+08NC16FBQ_0101 2967121 2968890 EN but who who what anime is it called
+08NC16FBQ_0101 2998583 3009663 CS yeah that time for weiming's twentieth birthday 志凯 bought you know what 志凯 did 志凯 bought evaluin ticket i think it is hundred and twenty each
+08NC16FBQ_0101 3011475 3011943 EN yeah
+08NC16FBQ_0101 3012821 3014869 EN then weiming didn't know who to go with so she went xukun
+08NC16FBQ_0101 3016384 3031111 CS hundred and twenty each then for 志凯 's birthday i think weiming bought like a book 哦 no it is like nothing 啦 nothing in comparison then 志凯 will be sad and then i keep telling him you buy present you don't expect anything in return who ask you buy so expensive for him so rich meh but he is also quite rich 啦
+08NC16FBQ_0101 3032965 3037257 EN he is quite rich you know he is very spentry when he he can spend somehow
+08NC16FBQ_0101 3039557 3042942 EN he can spend he is spentry therefore he spends
+08NC16FBQ_0101 3043765 3048028 EN and he can spend because because he cause he got some maincomm on somewhere ah
+08NC16FBQ_0101 3051395 3056220 EN (erm) i i believe it is more of allowance i don't think that l. ting give him much income
+08NC16FBQ_0101 3058956 3063637 EN i don't i really don't think it gives much income and anyway some approach recently ask me to again
+08NC16FBQ_0101 3063637 3068335 EN that was so angry ah some friends from fencing last time
+08NC16FBQ_0101 3068724 3074635 EN my j. c. friends they are so so annoying you know walau and then ah my army friends also ask me to go say (erm)
+08NC16FBQ_0101 3074635 3086613 EN like actually brother eh hello very long time no see huh yeah lo ah what you want then we talk talk talk talk and say you got think you want to meet ah oh meet lo you want do business with me ah make money
+08NC16FBQ_0101 3087391 3088846 EN that i knew la then i
+08NC16FBQ_0101 3088846 3097302 EN business okay business is fun i want to do business sure can make money why i don't want same okay la we meet and talk about it la so what business are you in
+08NC16FBQ_0101 3097302 3100276 EN (erm) don't know (erm) no la he never says don't know he say oh
+08NC16FBQ_0101 3101259 3101994 EN no
+08NC16FBQ_0101 3102534 3105764 EN yeah la like some form they try to be as ambiguous as possible
+08NC16FBQ_0101 3106271 3119586 EN yeah then after that say he says okay la so so we meet up la meet up then i okay lo so they ask me where i stay i say i stay serangoon how about you then he says my stay hmm then hesitate i stay aljunid
+08NC16FBQ_0101 3122235 3123553 EN you know the significant of aljunid
+08NC16FBQ_0101 3123985 3131783 EN yeah so stay aljunid ah eh no la ask you something is it it is called l. f. i. then he
+08NC16FBQ_0101 3132777 3134627 EN so you know la as in yeah you know
+08NC16FBQ_0101 3134627 3136168 EN <unk>
+08NC16FBQ_0101 3145837 3147174 EN then after he tried to ask me to go
+08NC16FBQ_0101 3148560 3156341 EN then he s. m. s. me just recently hey bro you shouldn't leave this platform come back you won't be under me and all these craps la
+08NC16FBQ_0101 3163952 3165340 EN nah i won't i will never say that
+08NC16FBQ_0101 3166438 3168553 EN because i don't want 
+08NC16FBQ_0101 3170001 3173212 EN no i don't want get my he is already in he is pulling me in
+08NC16FBQ_0101 3174785 3176547 EN no no no b. s. m. the guy is pulling me in
+08NC16FBQ_0101 3177837 3183116 EN so i don't want to i don't want to go in and i don't want to tell him that i no work like it is just very pek-cek la and
+08NC16FBQ_0101 3184469 3188886 EN it's it's wrong la anyway everyone from all those loses their friends in the end
+08NC16FBQ_0101 3190602 3196293 EN really like our our bunk you know my bunk my bunk got gemi weiming weileong jiaqing roy
+08NC16FBQ_0101 3196681 3197442 EN <unk>
+08NC16FBQ_0101 3197780 3205667 EN so in the end all of us (erm) like weileong and roy cut cause roy did all this kind of things
+08NC16FBQ_0101 3206621 3208192 EN yeah cut really cut
+08NC16FBQ_0101 3210380 3212389 CS 这种 咯 yeah yeah
+08NC16FBQ_0101 3213017 3213550 EN yeah
+08NC16FBQ_0101 3215671 3218785 CS yeah 他是 b. s. m. 的狗
+08NC16FBQ_0101 3220860 3225826 CS 他 志凯 loh-mee-kia jinghao 跟他 but he dropped
+08NC16FBQ_0101 3227817 3228855 EN jinghao went in leh
+08NC16FBQ_0101 3233063 3234251 ZH 他有讲 这样讲 咩
+08NC16FBQ_0101 3239010 3240681 ZH 几时跟你 跟你讲
+08NC16FBQ_0101 3243823 3244820 CS 哇 after <unk>
+08NC16FBQ_0101 3245243 3245983 ZH 后悔 啊
+08NC16FBQ_0101 3247729 3248535 ZH 做么后悔
+08NC16FBQ_0101 3266210 3269110 CS the easiest way to 赚钱 乎 is by conning people
+08NC16FBQ_0101 3269110 3273180 EN for if you are in this one la how to how to sell cannot sell one la
+08NC16FBQ_0101 3273854 3276547 ZH 这种东西 他们要买车 诶
+08NC16FBQ_0101 3278258 3281090 CS 他们 l. f. i. automobile
+08NC16FBQ_0101 3281090 3283170 CS 还有 diamond 咧 怎样 卖
+08NC16FBQ_0101 3283170 3290693 CS diamond 怎样卖 跟我讲 咧 you want buy or not couple 咧 love love want buy who will buy people buy soo-kee jewellery
+08NC16FBQ_0101 3293570 3296100 CS healthcare initially 本来 是 healthcare

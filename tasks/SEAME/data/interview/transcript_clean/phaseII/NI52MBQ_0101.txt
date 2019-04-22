@@ -1,0 +1,504 @@
+NI52MBQ_0101 0 15220 CS test testing testing okay 好听 得到 我 说话 吗 testing testing one two 一二三 可以 啦 大概是这个声音声量啦
+NI52MBQ_0101 15220 23570 CS okay (err) 我的 名字 是 nelson okay 我 现在 是 第二 年级 学生 在 nanyang business school 上课
+NI52MBQ_0101 23570 26850 CS 啊 我是 business and accountancy 的 学生
+NI52MBQ_0101 26850 42270 CS 所以 我的 (嗯) 主攻 是 (嗯) 金融 finance 然后 还 需要 知道 些 什么 吗 sorry oh 学过的东西
+NI52MBQ_0101 42270 47050 CS 包括 (嗯) 我们 学 过 (嗯) cost accounting financial accounting 那是 (嗯)
+NI52MBQ_0101 47050 57030 CS 规划 在 那个 (嗯) accounting 的 module (erm) 身上 然后 至于 那个 (嗯) 主 我的 金融 的 科目 我
+NI52MBQ_0101 57030 59580 CS 现在 有 学 过 (嗯) international finance
+NI52MBQ_0101 59580 69419 CS 然后 还有 那个 (嗯) investments 就是 (嗯) 理财 怎么 理财 投资 然后 还有 现在 我 在 上 一个 是 关于 (嗯)
+NI52MBQ_0101 69419 84535 CS equity securities 就是 (嗯) 比较 是 属于 (嗯) (嗯) 股票 之 类 的 东西 怎样 去(erm) 衡量 一个 一只 股 的 价钱 how to do the evaluation of the stock
+NI52MBQ_0101 84535 92060 CS 真 真的 吗 okay 好 (嗯)
+NI52MBQ_0101 92060 99790 CS 我 本身 i am a 有 一些 investments 是 我是 主要是 在 (嗯) within 这个 (嗯) 本地 的 市场 singapore market
+NI52MBQ_0101 99790 107062 CS 所以 我是 比较 我的 投资 会 说是 比较 小 啦 因为 我是 一个 student 吗 所以 (嗯)
+NI52MBQ_0101 107062 115730 CS what i (erm) invest in will be mainly (erm) those (erm) penny stocks 会 比较 属于 比较 资 (erm)
+NI52MBQ_0101 115730 119010 CS 就是 market capital 比较 小 的 一些 股 股票 上面
+NI52MBQ_0101 119010 126226 CS 所以 好像 之 之前 蛮(erm) 热门 的 一只 好像 是 那个 云顶 国际 genting international
+NI52MBQ_0101 126226 133887 CS 啊 云顶国际 所以是 (erm) 我 其中 一只 有 投资 的 what i ah one of the stock that i invested in
+NI52MBQ_0101 133887 143512 CS 啊 然后 还 最近 我 也是 在 看 一些 其他 的 (嗯) 一些 比较 (嗯) 可以 负担 得起 的 股 amount affordable stocks
+NI52MBQ_0101 143512 159567 CS 比如 说 (嗯) 那个 (嗯) n. o. l. 是 一个 (嗯) 航 (嗯) a marine trading industry (erm) company lah 这个 我 不太 清楚 要 怎么 (嗯) 华语 应该 要 怎么 说 所以
+NI52MBQ_0101 159567 169601 CS 主 啊 主要 是 这样 啦 就是 我有 是做 (嗯) (嗯) 运输货 (嗯) 货的 那个 neptune oriental oreint lines ah
+NI52MBQ_0101 169601 179650 CS 是 我们 (嗯) 的第一家 比较 (嗯) 大规模 的 一个 (嗯) (嗯) 运输公司 啦 transport company 对
+NI52MBQ_0101 185790 191290 CS 当然 当然 我们 (呃) 这个 课程 (嗯) equity securities 主要有 分 两 两个 部分
+NI52MBQ_0101 191290 220439 CS 一个 是 (嗯) 叫 我们 怎么 (嗯) 我们 怎样 研究 (嗯) 一只 一家 公司的 (嗯) 基本 他们 的 那些 (嗯) financial ratios and how the fundamentals of the company 所以 看 他们 的 公司 (嗯) 近期 (嗯) 过去 几年 的 表现 all the historical data 所以 我们 会 (嗯) (嗯) 用 他 来 衡量 来 预 预算 他 这个 (呃) (嗯) 股 是 大概 什么 价钱 啦 the intrinsic value of the stock itself
+NI52MBQ_0101 220439 227530 ZH 然后 当然 还有 (嗯) 我们 会 跟 市场 上 其他 一些 竞争者 比较 还有 做 一些 市场 调查
+NI52MBQ_0101 227530 231470 CS 从 那边 我们 会 用 (嗯) 这个 叫 relative evaluation 的 一个 method
+NI52MBQ_0101 231470 235650 ZH 来 (嗯) 其实 比较 看 (嗯) 这 只 股 的 (嗯)
+NI52MBQ_0101 235650 240420 CS 它的 value 是在 (嗯) 属于 哪一 个 range higher range or lower range
+NI52MBQ_0101 240420 245628 ZH (嗯) 主要是 (嗯) 这 几个 这 几个 方面啦
+NI52MBQ_0101 245628 256587 CS (呃) 这个 老实 说 i am not very sure lah 所以 (嗯) 因为 我们 是 主要 是 他 教 我们 的 东西 是比 较 (嗯)
+NI52MBQ_0101 256587 259775 CS tech (erm) 比较 technical 就是 (嗯) 所以 我们 是
+NI52MBQ_0101 259775 263860 ZH 用 一些 比较 (嗯) 属于 跟 数字 比较 有 关系 的 一些 东西 所以
+NI52MBQ_0101 263860 267440 CS 我们 没有 什么 factor in 那些 (嗯) market situations 之类 的 东西
+NI52MBQ_0101 267440 269980 ZH 当然 (嗯) 这些 课 (erm) 这些
+NI52MBQ_0101 269980 273630 CS 这些 (嗯) factors 也 蛮 重要 的 不过 (嗯) i think i think
+NI52MBQ_0101 273630 276700 EN (erm) this will be learnt in other courses yah
+NI52MBQ_0101 276700 282670 CS the what we are learning now 我们 主要 学 的 is more focused on all the technicality stuff 比较 (嗯)
+NI52MBQ_0101 282670 292810 CS 比较 跟 数字 有 关系 的 啦 主要 是 这样 airlines oh
+NI52MBQ_0101 292810 301640 CS 但 那个 是 under technical analysis 对不对 (erm) 因为 那个 是 就是 看 主要是 看 我们 市场 的 走 势 是 比较 短期 的 比较 short term 的 一个 analysis
+NI52MBQ_0101 301640 321620 CS (呃) 我们 现在 学的 这个 这 科目 是 比较(erm) 属于 说 比较 focused on long t(erm) 比较 长期 他的 过去 可能 十年 来的 表现 从 那边 我们 (嗯) 做 一个 研究 这样 之类 的 right right
+NI52MBQ_0101 321620 326680 CS (嗯) 所以 我们 会 看 这些 past ten years 的 historical data 然后 我们 从 那边 就会
+NI52MBQ_0101 327360 329280 CS analyse 它的 maybe growth rate
+NI52MBQ_0101 329280 335180 CS 他的 maybe 他的 (erm) (erm) investment rate 之类 的 东西 所以 从从 那边 我们 会
+NI52MBQ_0101 335180 339320 CS 用 一个 calculation 的 method 用 一个 (嗯) 比较 mathematical 的 一个 角度
+NI52MBQ_0101 339320 347830 ZH 然后 我们 估计 他的 股市 大概 会 过去 (erm) 可能 未来 的 十年 会 带 带 给 我们 什么 的 (嗯) 怎样 的 一些 (嗯) 收入啦
+NI52MBQ_0101 347830 350140 CS 看 他的 cash flows 主要 是 看 他的 cash flows 是 怎样
+NI52MBQ_0101 350140 369601 CS 然后 从 那边 我们 会 (嗯) 怎么 说 我们 会 衡量 他 现在 的 一个 present value 这个 这只 股 现在 应该 是 大概 是 值多 少钱 跟 市场 现在 的 价钱 来 比较 就 看 他的 (嗯) 他的 (嗯) 现在 的 价钱 是 overvalued or undervalued 所以 看 我们 适 不 适合 在 这个 时候 进场
+NI52MBQ_0101 369601 374634 ZH (呃) 对 主要 是 这样 这 一 方面 的 一些 研究 啦
+NI52MBQ_0101 374634 382470 ZH 什么 什么
+NI52MBQ_0101 382470 385000 CS 是 under (er) business school 的 一个 课程 啊
+NI52MBQ_0101 385000 404130 CS oh equity securities bf219 二 一 九 yes oh they 台湾 市场 啊 哦 他们 的 市场 会 跟
+NI52MBQ_0101 404130 411000 CS 跟 singapore 的 market 比起 来 比较 活跃 吗 因为 我们 actually 我们 local market 他们的 volume 比较 小
+NI52MBQ_0101 411000 418314 ZH 所以 可能 (嗯) 活跃度 没有 这么 大 啦 我会 我会 这样 这样 认为 啦
+NI52MBQ_0101 428188 441279 CS 很多 很多 外来 因素 的 影响 啦 当然 因为 可能 他的 市场 跟 可能 会 会 说会 more affected by other countries maybe like 香港 or china maybe
+NI52MBQ_0101 441279 452265 CS correct (err) correct 因为 government po policy itself 他会 对 对 一只 股 actually 造成 蛮大 的 影响 尤其 是 他们 (嗯)
+NI52MBQ_0101 452265 455015 CS 借钱 的 一些 (嗯) the cost of the cost of debt
+NI52MBQ_0101 455015 479835 CS so (erm) 他们 就是 (erm) the interest lah 主要 是 说 他们 借钱 方面 会会 (erm) 受到 影响 之类 的东 西 所以 我看 这 方面 新加坡 会 比较 singapore government will be (erm) more stable 会 比较 稳定 啦 所以 可能 没有 这么 大 的 影响 啦 对吗
+NI52MBQ_0101 479835 482795 CS 云顶 国际 (嗯) genting internationals
+NI52MBQ_0101 482795 494262 CS 是 一个 我 会 认为 说是 是 一个 还 没有 haven't the stock that haven't proved itself yet 就是 说他 这 支 股 还 没有 (嗯) 怎么 说 (嗯) 证明 他 自己 的 实力 啦 (嗯)
+NI52MBQ_0101 494262 516895 CS (嗯) 换句话 来说 因为 他 现在 (嗯) 刚开市吗 (呃) (嗯) 他 刚开 市营业 it just started the operation and maybe in a few months ago 他 马来西亚 是 是 一个 独立 出来 的一个 subsidary 所以 是 (嗯) 他的 表现 是
+NI52MBQ_0101 516895 520515 CS 跟我 们 新加坡 刚 开 的 那个 resorts world sentosa 的 那个
+NI52MBQ_0101 520515 524895 CS 那个 赌场 casino 是 那个 是
+NI52MBQ_0101 524895 530545 CS 就是 这 支 股 是 based on 这个 (嗯) resorts world sentosa 的 casino 所以
+NI52MBQ_0101 530545 540163 CS 跟 malay 马来西亚 那个 是 分开 来 malaysia 的 他是 在 马来西亚 上市 所以 我看 他的 表现 都是 分开 来算
+NI52MBQ_0101 549167 568793 CS 市场 这 几个 月 的 (嗯) 看 起来 还是 蛮 乐观 的 啦 因为 不过 长期 来看 我们 我 本身 是 觉得 可能 开 两间 赌场 对 我们 太会太 多 啦 因为 期望 太大 了 the expectation is too high
+NI52MBQ_0101 568793 577590 CS so 他们 有些 (嗯) 市场 人员 也是 认为 那个 这支 股 会 可能 会 上 到 可能 两块多 三块钱
+NI52MBQ_0101 577590 580400 CS but 它 现在 的 present value 是 少 过 一块
+NI52MBQ_0101 580400 596220 CS so since 之前 他们 的 期望 有点 过高 他们 他 一度 升上到 差不多 一块二 one twenty but if fell back again into around nine now is between around ninety cent range ninety to one dollar
+NI52MBQ_0101 596220 599690 CS so 这个 可能 是 它的 比较 一个 (嗯) stable 的 一个 价钱 啊
+NI52MBQ_0101 599690 624600 CS 所以 短期内 我 不 认为 会 有 什么 太 大 的 增长 我们 要 得 看 他们 的 maybe this year performance or maybe the quarterly performance 从 那边 才 可以 估计 看他 会 会 他 走势 会 怎样 how the market will move 对 当然 当然
+NI52MBQ_0101 624600 628900 CS 因为 身 为 (呃) resorts world 身为 一个 (嗯) tourist attraction mah 所以
+NI52MBQ_0101 628900 650740 CS how 我们 对 这个 (嗯) 现在 经济 刚刚 一方面 经济 刚刚 开始 复苏 just recovery so we have to see how the market (erm) sentiments lah 看 市场 的 走势 是 怎样 咯 如果 如果他们 认为 (嗯) 这个 市场 (嗯) 我们 的 经 整个 经济 会 (嗯) 在 过去
+NI52MBQ_0101 650740 655190 CS 会 fully recover 的话 我们 then in that case 我 认为 (嗯)
+NI52MBQ_0101 655190 657390 ZH 对 我们 的 这个
+NI52MBQ_0101 657390 661600 CS resorts world 会 当然 会 带来 一些 (嗯) 负面 (呃) 正面 的 影响
+NI52MBQ_0101 661600 666849 EN yah positive (erm) benefits in the sense
+NI52MBQ_0101 666849 702130 CS 对 (em) hmm 对 没错 踏入 赌场 啦 okay 应该 这 方面 来说 我看
+NI52MBQ_0101 702130 706160 CS 多少 macau 会 有 一点 像 因为 它 主要 的 customers 都是 from china mah
+NI52MBQ_0101 706160 723620 CS (呃) 至于 ah malaysia 方面 长期 以来 都是 新加坡人 在 上去 而 这次 新加坡 自己 独立 开 一间 赌场 所以 主要 我看 他的 market that is targeting will be around south east asia asian and 之后 会 开 多 一间 嘛 那个 金沙
+NI52MBQ_0101 723620 725580 CS 在 那个 marina bay 那边
+NI52MBQ_0101 725580 742090 CS 那个 会 比较 属于 (嗯) 比较 一个 另外 一个 a different class of customers thay are targeting more of those (erm) business people who are professionals cause 他们 除了 有 赌场 之外 还有 一些 会议室 在 那个 地区 所以 他们 这 两 间
+NI52MBQ_0101 742090 746490 CS 这 两 间 赌场 他们的 主要 的 customers will be (erm) of different target groups
+NI52MBQ_0101 746490 763836 CS 新加坡 的 会 跟 马来西亚 跟 (erm) 澳门 的 macao 的 more it will be more similar like 我 觉得 会 比较 相似 所以 这 方面 会 有 一些 竞争 啦 will be will be some competition and it won't eveyone will be affected i guess
+NI52MBQ_0101 769172 804362 CS 去拿 对 correct 嗯 okay 就是 说会 放 假 消息 这类 的 东西 这
+NI52MBQ_0101 804362 815835 CS (嗯) 一方面 就 是 说我们 ( (嗯) 现在 所学 what we are learning now is more of valuing the true value of the stock and not looking at the market value 就是 说 我们 在 在 分析 他 这 支 股 他
+NI52MBQ_0101 815835 832000 CS 真 (嗯) 他 真正 的 (嗯) 价钱 是 在 哪 一方面 所以 如果 once is out of this range or is too much out of this range then 我们 可能 会 知道 哦 就 可能 是 一个 达 不 到 的 一个 一个 极点 啦 就 好像 说 (嗯) 云顶 我们 刚才 之前 discuss 过的
+NI52MBQ_0101 832000 837660 CS the possibility of it reaching 三 块钱 可能 是 一个 太 真的是 太 op 太 乐观 的 一个
+NI52MBQ_0101 837660 847872 CS 太 乐观 了 一个 too optimistic (err) an approach 所以 我们 如果 从 这边 方面 看 我们 就 可能 会 对 这些 方面 比较 reserve 一点
+NI52MBQ_0101 847872 864313 CS 对 我们 不会 太 去 注意 这些 消息 啦 不过 主要 我们 自己 要 有 一个 (嗯) estimation of what the range of the value of the stock should 来 啦 and from there we should be able to understand what the 我们 主要 我们 就 可以 了解 到 这个 (嗯) 市场
+NI52MBQ_0101 864313 872704 CS 到底 是 (嗯) 是 一个 (嗯) expectation or is just a a surreal look real growth of the company itself
+NI52MBQ_0101 872704 878850 ZH 就是 这个 公司 是 真的 在 成长 真的 在 (呃) 带来 一些 (嗯) 盈利 或者 是 (嗯)
+NI52MBQ_0101 878850 884080 CS 这 间 公司 其实 (呃) 这些 消息 其实 是 (嗯) analysis analysts 放出 来 的
+NI52MBQ_0101 889371 906345 CS 对 it will depends on his fundamental 就像 我们 所 说 的 他 他的 一些 (erm) 就 好像 他们 可 不 可以 在 (erm) 以 在 以 低 利息 借 借钱 whether they can actually raise capital in the lowest amount of (erm) the lowest rate possible 然后
+NI52MBQ_0101 906345 912130 CS 他们 能不能 actually 用 这些 这些 (嗯) capital 来 actually turnover
+NI52MBQ_0101 912130 921185 ZH 从中 赚取 (嗯) 更高 的 利润 咯 所以 就是 说 他们 看 他们 主要 公司 的 表现 啦 当然 我们 得 看 很多 方面
+NI52MBQ_0101 921185 927925 CS 他们的 未来 的 growth prospects whether 他们 会 有 一些 (嗯) 投资 吗 acquisitions maybe (erm)
+NI52MBQ_0101 927925 935767 CS and maybe 他们 有些 r. and d. research 这些 是 (嗯) 基本 上 就是 一些 比较 common 的 一些 东西 我们 会 (嗯)
+NI52MBQ_0101 935767 943397 CS 哦 基本上 会 这些 会 比较 will be things that we will be taking into consideration lah 我们 考量 的 其中 一 方面
+NI52MBQ_0101 943397 951618 CS 的 其中 之一 啦 就是 基本 上 就是 要 著重 于 蛮 多 不同 方面 we have to take into different aspects
+NI52MBQ_0101 956622 965907 EN (emm) you have to (erm) actually look into more of the analysis from maybe different data sources
+NI52MBQ_0101 965907 969835 ZH 我们 一定 要 (呃) 不可以 单单 依靠 一个 的 一个 (嗯)
+NI52MBQ_0101 969835 983704 CS database lah 很像 现在 市场 上 有 蛮多 的 蛮多 的 一些 好的 database 我们 可以 可以 从中 获取 (嗯) 资料 啦 就像 刚才 其实 我 到了 图书馆 去 我们 用 那个 bloomberg machine
+NI52MBQ_0101 983704 988055 ZH 是 我们 是 其中 一个 蛮好 的 管道 因为 他
+NI52MBQ_0101 988055 991065 CS 它的 分析 是 actually 是 蛮 清晰 的 very detailed analysis
+NI52MBQ_0101 991065 995690 ZH 所以 一 小 (嗯) 可以 到 每 一个 小部分
+NI52MBQ_0101 995690 999805 CS 的 一些 (嗯) financial data 跟 figures 它 都 能 提供 给 我们
+NI52MBQ_0101 999805 1007355 ZH 然后 我们 还 可以 在 (嗯) 上网 我们 也 可以 找到 一些 他们 可能 是
+NI52MBQ_0101 1007355 1010965 CS 那些 公司 自己 release 的 一些 annual reports
+NI52MBQ_0101 1011575 1014145 CS 然后 还有 一些 其他 data sources maybe 好像
+NI52MBQ_0101 1014145 1031300 CS 就 比如 说 thompson routers one source 之类 的 就是 我们 常用 的 一些 databases 从 这边 他们 会 他们 会 已经 帮 我们 分析 就 专业 的 人士 会 帮 我们 分析 啦 从中 我们 当然 要 (嗯) 加入 我们 自己 的 一些 因素
+NI52MBQ_0101 1031300 1033950 CS 我们 自己的 expectations 我们 自己的 evaluations
+NI52MBQ_0101 1033950 1067120 CS 然后 就 从中 得到 一个 一个 我们 心目 中 认为 是 一个 适当 的 一个 价钱 啦 对 emm hmm 对 没错 right 对 啊 当然 就 好像 我们 以前
+NI52MBQ_0101 1067120 1072050 CS (嗯) 很多 internet companies 他们 都 上市 嘛 对不对 而 他们 现在 的 股市 可能
+NI52MBQ_0101 1072050 1084290 CS 比 比起 十年前 当然 不是 这样 所以 我们 除了 看 看 过去 的 data 之外 我们 当然 要看 未来 我们 整个 全世界 的 走势 外来 的 发展 会 怎样 how the market is actualy moving
+NI52MBQ_0101 1084290 1088140 CS 就 比如 说 (嗯) 刚才 我们 提到 一个 因素 就是 research and development
+NI52MBQ_0101 1088140 1099030 ZH 蛮 重要 的 一个 其中 一个 因素 所以 我们 从中 可以 如果 这间 公司 其实 放 放 很多 他们 的 投资 在 在 (呃) 做 研究 啊 开发 新 领域 之类 的 东西
+NI52MBQ_0101 1099030 1101880 CS 所以 他们的 可能 他们的 growth prospects 会 比较 好
+NI52MBQ_0101 1101880 1107636 CS 比起 其他 的 其他 相似 的 公司 啦 other similar companies
+NI52MBQ_0101 1110064 1113540 ZH (嗯) 当然 这个 是 考量 之 一 啦 所以 我们 当然
+NI52MBQ_0101 1113540 1125316 CS 也要 不只 是 看 这间 公司 也要 看 全球 的 走势 嘛 好像 我们 讲说 比如 说 刚才 你说 的 那个 d. v. d. 现在 可能 我们 现在 已经 (嗯) 走向 blue-ray 了吗 对不对 所以
+NI52MBQ_0101 1125316 1140551 CS 这些 方面 我们 可以 看 得 出 可能 近 三 五 年 之内 每个 人 都 可以 用 在 用 blue ray 所以 如果 这些 每间 公司 他 其实 放 多 (嗯) 投资 r. and d. 在 这 方面 研究 上面 当然 我们
+NI52MBQ_0101 1140551 1147266 CS 会 (嗯) expect 他 会 有 一些 收获 吧 会 reap the benefits of research and developement
+NI52MBQ_0101 1149650 1192214 CS l. e. d. 电视 嘛 那个 对 correct 每个 right emm hmm 对 什么 什么 (嗯) 至于 说 这个 我 不太 清楚 耶 老实 说 对 okay
+NI52MBQ_0101 1195956 1209319 CS 当然 你要 在 这 方面 你 要是 先 进去 这个 领域 的 人 you have to be the fore at the fore front of this (erm) field lah 你要 如果 是 你 可以 踏出 比 人家 快 踏出 第一步 当然 就有 优势 了 吗
+NI52MBQ_0101 1209319 1222435 CS 对不对 so that is the where the advantage will lie and then 另外 一个 就是 看 你的 公司 你的 公司 其实 有 多的 the market capital of the company 如果 是 间 大 公司 的话 比如 我们 说 (嗯) samsung
+NI52MBQ_0101 1222435 1234081 CS 它是 我们 世界 上 最大 的 l. e. d. 厂商 之一 吗 对 所以 他 他 没有 这些 (嗯) 能力 从 从中 他们 这些 大公司 他们的
+NI52MBQ_0101 1234081 1242443 CS (嗯) 从 这些 (嗯) 研究 上面 取得 成果 当然 会 比 一些 小公司 来的 比较 the rate of success will be higher definitely
+NI52MBQ_0101 1242443 1255108 CS 所以 我们 从 这边 也是 可以 大概 看 出来 (嗯) 这 方面 要 怎样 (嗯) how to deduce which company will actually actually make the break out of this investment 对
+NI52MBQ_0101 1257596 1265542 ZH 还有 什么 可以 讨论 的吗
+NI52MBQ_0101 1266736 1267863 EN umm
+NI52MBQ_0101 1271177 1276430 CS 比较 相关 的 courses (erm)
+NI52MBQ_0101 1278049 1282965 EN ah huh
+NI52MBQ_0101 1289946 1290933 EN okay
+NI52MBQ_0101 1299425 1301065 EN oh okay (erm)
+NI52MBQ_0101 1301065 1306255 CS 另外 一个 我 上 过 的 科目 是 我 刚才 所 说 过 的 international finance financial management
+NI52MBQ_0101 1306255 1309255 ZH 这些 是 (嗯) 比较 关于 我们 (嗯)
+NI52MBQ_0101 1309255 1311205 CS foreign exchange 之类 的 东西 好像
+NI52MBQ_0101 1311205 1320970 CS foreign exchange 是 (嗯) 我 忘记 华文 我 不懂 华文 是 怎么 说 啦 所以 就是 说 好像 会跟 我们 的 生活 比较 息息相关 吧 因为
+NI52MBQ_0101 1320970 1326709 ZH (呃) 不同 国家 之间 的 那个 货一 是吗 货币 对 是
+NI52MBQ_0101 1326709 1333982 CS currency 货 货币 走势 对 我们 当然 有 影响 嘛 对不对 最 基本 上 的 影响 就 好像 我们 出国 要 兑换率 之类 的 东西
+NI52MBQ_0101 1333982 1344919 CS 而 从中 我们 可以 了解 到 为什么 这些 (嗯) 兑换率 会 (嗯) 有所 改变 啦 而 我们 也 可以 从 我 从 这个 这个 course 里面 我有 学到 一些 东西 就 好像 (嗯)
+NI52MBQ_0101 1344919 1349341 EN how we actually (err) how do i put it
+NI52MBQ_0101 1349341 1352372 ZH 就 好像 (嗯)
+NI52MBQ_0101 1366439 1376585 CS 可以 继续 吗 can we continue okay 刚刚 我们 是 说到 how the singapore currency is actually (erm) bench
+NI52MBQ_0101 1376585 1380415 CS compared to 其他 一些 国际 比较 重要 的 一些 股市 (嗯)
+NI52MBQ_0101 1380415 1383983 ZH 一些 (嗯) 国 (嗯) 吗 (嗯) 货币 啦 对
+NI52MBQ_0101 1383983 1394199 ZH 对 所以 啊 我们 在 说 新加坡 其实 不是 单单 咬住 一个 主要 的股 市 所以 ( (呃) 主要 的 货币 而是 让 他 可以 有 一些 活动 的 空间 啊 主要 是
+NI52MBQ_0101 1394199 1403678 CS but 如 如果 currency 对 所以 如果 说 the the actually the currency actually moves out of this band 然后
+NI52MBQ_0101 1403678 1409956 CS 政府 就会 actually 采取 一些 措施 the government might actually step in to actually bring those these (erm) currency back
+NI52MBQ_0101 1409956 1422646 CS into a very healthy range lah 所以 他们 有 一个 (嗯) 一个 活动 的 范 一个 (呃) 主要 两个 一个range 一个 一个 range 对 华文 不是 很好
+NI52MBQ_0101 1425504 1435826 CS 的 主要 的 目的 为什么 会 给让 他 floating 就是 说 (呃) 不要 (呃) 不要 让他 太受 到 外来 因素 的 影响 就好象 如果 说 the u. s.
+NI52MBQ_0101 1435826 1444665 CS currency (erm) 如果 贬 贬值 的话 如果 我们 咬住 美金 然后 新币 自然而然 也会 贬值 嘛 所以 我们 不想
+NI52MBQ_0101 1444665 1449575 CS such ah things from happening 所以 他 会 给 它 一个 floating range 就是 给 他 一些 flexibility
+NI52MBQ_0101 1449575 1453545 ZH 所以 我们 不会 不单 会 (嗯) 我们 主要 就是
+NI52MBQ_0101 1453545 1457795 CS 不要 让 我们的 一些 export and import 受到 太 多 的 影响 啦
+NI52MBQ_0101 1457795 1470555 ZH 对 (嗯) 没有 耶 因为 (嗯) 我们 是 觉得
+NI52MBQ_0101 1470555 1476860 CS 本身 是 觉得 (嗯) currency creating lah and speculations 比较 比较 复杂 一点
+NI52MBQ_0101 1476860 1489815 CS compared to stock trading ah 因为 有 蛮多 因素 嘛 还要 还要 看 国际 一些 (嗯) government policies 随时 每天 都会 在 变 嘛 对不对 尤其 是 美国 所以 (嗯) what we are doing (err) what i think
+NI52MBQ_0101 1489815 1495225 CS is more suitable for 我们 这些 (嗯) 学生 的话 就是 maybe 做 一些 (嗯)
+NI52MBQ_0101 1495225 1501213 CS 股票 投资 stocks trading 之类 的 就是 从中 吸取 一些 经验 咯
+NI52MBQ_0101 1506225 1507705 ZH 对
+NI52MBQ_0101 1509004 1510276 ZH 对
+NI52MBQ_0101 1510276 1516865 ZH emm hmm 对 啦 本身 因为 我 觉得
+NI52MBQ_0101 1516865 1521740 CS 还 年轻 啦 所以 what my investment policies 会 属于 more aggressive 一点
+NI52MBQ_0101 1521740 1528515 ZH 所以 我们 会 我们 买的 股 (嗯) 我 所买 的 股 的 一些 投资 都会 比较 (嗯) 他的
+NI52MBQ_0101 1528515 1532985 CS stock price 会 比较 低 啦 就 通常 会 少 过 一块 或 one dollar plus 之类 的
+NI52MBQ_0101 1532985 1541030 CS 所以 (嗯) 主要 投资 不会 很多 而 不过 他的 fluactuations 他的 活 (嗯) 活动量 会 就会 比较 大 所以
+NI52MBQ_0101 1541030 1546561 ZH 可能 一天 会 可能 一天 可能 会损失 高达 五八仙
+NI52MBQ_0101 1546561 1559105 CS 不过 我们 我 就 至于 我 本身 来讲 啦 i myself 我 会 让他 放 我会 不会 太过 在意 他的 得失 啦 就看 maybe 我的 因为 我们
+NI52MBQ_0101 1559105 1564925 CS 投资者 我们 会 有一个 investment horizon 就是 说 how long we want to put the money within the stock so
+NI52MBQ_0101 1564925 1577875 CS 我 本身 来讲 就 差不多 一年 左右 所以 除非 真的 是 有 太大 的 一些 更动 啦 不然 我 won't be actually adjusting the portfolio itself
+NI52MBQ_0101 1577875 1588719 CS (erm) one day i think 如果 一天 掉 二十 到 五十 八仙 比如 说 啦 for example for it drops so much 一定 是 有人 在 在 (嗯) 在 操作 吧 对不对
+NI52MBQ_0101 1588719 1594491 CS then 这些 (嗯) market sentiment actually 久而久之 as the time goes by 会 correct itself
+NI52MBQ_0101 1594491 1603526 CS the market will actually auto-correct itself 就是 说 我们 知道 这个 如果 这支 股 的 价钱 是 大概 是 在 这边 如果 他 真 的 一天 跌 跌了 五十 五十 八仙 的 话
+NI52MBQ_0101 1603526 1608850 ZH 可能 过 会过 需要 一段 时间 等 当 当 那个
+NI52MBQ_0101 1608850 1615850 CS the market actually realized that 这 这个 股票 是 undervalued it's underpriced 的话 then 它 会 慢慢 会 再 回去 的
+NI52MBQ_0101 1615850 1624524 ZH 可能 是 需要 一段 时间 啦 不过 长远 来看 的话 应该 是 没有 太大 影响 就 好像 我们 过去 我们 的 那个
+NI52MBQ_0101 1624524 1638665 CS financial crisis 三月 零八年 三月 的 时候 跌了 蛮多 的 零 sorry 去年 零九年 三月 一次 过 跌了 差不多 海峡 指数 跌到 差不多 千四 嘛 差不多 一半了 嘛
+NI52MBQ_0101 1638665 1649438 CS 那 慢慢 现在 又 开始 回到 我们 之前 差不多 两千八 差不多 要 过三千了 以前 的 水平 所以 from this aspect 我们 是 认为
+NI52MBQ_0101 1649438 1654442 CS if there is really (erm) market (erm) movement 的话 it will auto correct itself
+NI52MBQ_0101 1654442 1664372 CS 就是 说 as 只要 有 时间 啦 我们 可以 afford 时间 的话 这个 股会 回到 他 原来 应该 在 的 一个 位置 suitable position
+NI52MBQ_0101 1664372 1665382 EN yes
+NI52MBQ_0101 1683173 1688576 CS 海峡 指数 啦 the index straits time index
+NI52MBQ_0101 1693408 1700565 ZH 哦 我们 当然 我们 但是 我们 所说 的 它 掉到 一千四 不是 当然 不是 一天 之内 就 掉的 一件 事 吧 对不对
+NI52MBQ_0101 1702030 1709624 CS right 没有 限制 啦 对 nine o clock to around five
+NI52MBQ_0101 1711794 1722939 CS 对 不过 之间 有 之间 有 一些 时段 是 比较 inactive 的 如果 我 没有 记错 的话 应该是 十二点 到 一点 之间 那个 时段 吧
+NI52MBQ_0101 1722939 1729172 CS 恩 不过 主要 是 (嗯) the actually training hours 是 between nine to five lah
+NI52MBQ_0101 1729172 1734505 CS now 是 monday to friday 应该 是 跟 全 全 世界 的 走 (嗯) 的一些
+NI52MBQ_0101 1734505 1737656 CS stock market 都是 差不多 大同小异 吧
+NI52MBQ_0101 1742556 1750075 ZH 开 账户 这个 问题 啊 （呃） 其实 我 现在 是 用 我 父亲 的 账户 啦 啊 就是 他 他
+NI52MBQ_0101 1750075 1753215 CS 本身 其实 你要 开张 to open an account should be quite easy
+NI52MBQ_0101 1753215 1762731 CS first you can actually do it online as in you can find the (erm) the trading can be done online 当然 我们 交易 的话 我们 在 网上 做 就 通过 网上 做 就 可以 了 吧
+NI52MBQ_0101 1762731 1767284 CS 不过 我们 得 下去 他的 的 那个 security firm itself to actually open an account
+NI52MBQ_0101 1767284 1771185 CS 然后 他 会 给 我们 一个 网上 的 帐户 then 我们 set up 一个 online account
+NI52MBQ_0101 1771185 1774385 CS 然后 从 (嗯) online 就可以 做 我们的 trading lah
+NI52MBQ_0101 1774385 1783960 ZH 对 因为 现在 我们 多数 的 一些 交易 都是 在 网上 就 可以 就 可以 做 不过 我们 起 最
+NI52MBQ_0101 1783960 1797976 CS 最初 开 一些 开设 一个 户口 的话 我们 得 去 到 那个 他的 一个 不是 交易所 啦 就是 (嗯) 好像 说 个 别的 一些 security fir securities firm 他们 会 do account 就 好像
+NI52MBQ_0101 1797976 1808507 CS 比如 说 我们 本地 的话 我们 有 d. b. s. security vickers (erm) phillip security (erm) c. i. m. b. o. c. b. c. 我 不太 清楚 有没有 啦 就是
+NI52MBQ_0101 1808507 1817022 CS 然后 他们 之间 有 一些 不同 就是说 可能 他们 的 trading cost 会 比较 低 有些 会 比较 低 不然 有些 就会 好像说
+NI52MBQ_0101 1817022 1831145 CS 你 前 五十 个 交易 是 free 之类 的 东西 啦 所以 他们 个别 个别 的 security firm 会有 不同 的 一些 津贴 啦 different incentives trading cost
+NI52MBQ_0101 1831145 1835645 CS (嗯) 是 一个 fixed cost lah 就是 说 不是 看 你的 交易 量 而 定 的
+NI52MBQ_0101 1835645 1848993 CS 所以 这个 所以 说 如果 你 你的 交易量 比较 大 的话 then 你 就会 省下 你 这个 trading cost lah 主要 一个 交易 是 差不多 二十五 到 三十 块新机 新币 吧
+NI52MBQ_0101 1848993 1877048 CS yes around twenty twenty eight dollars per transaction 所以 当你 做 买 跟 卖 的话 就是 有 两倍 啦 就 差不多 五十 到 六十 块 之间 right emm hmm 百分比 哦 是 蛮低 的 啦 不过 我们 新 台湾 会 有 一个 限制 说 你 一次 过 要 买 下 一百 张 还是 是 一千
+NI52MBQ_0101 1883996 1887692 CS 哦 这么 早 就 关 就 闭市 了 啊 okay
+NI52MBQ_0101 1894893 1907722 EN one share itself oh one lot is it
+NI52MBQ_0101 1907722 1913774 CS one thousand one lot lah ah 跟 这样 跟 新加坡 一样 我们 一次 每次 交易 是 one lot
+NI52MBQ_0101 1913774 1918056 ZH 所以 每次 买 买 一只 股 会 抽 一千 张 啦
+NI52MBQ_0101 1918056 1929385 CS 对 不过 我们 没有 好像 说 闭市 后 会 can buy by individual lot eh individual share by itself 我 好像 知道 说 美国 是 一百 啊 一百 每 每 一个
+NI52MBQ_0101 1929385 1933160 CS  (erm) lots 是 一百 个 而 我们 新加坡 是 one thousand
+NI52MBQ_0101 1933160 1961916 CS 所以 台湾 是 一样 啦 okay okay (err) 你好 我的 名字 叫 nelson (err) 我 今年 是 二年级 学生 是在 (嗯) nanyang business school 读 就读 那个 business and accountancy 就是 商科 与 会计 的 一个 双学 位 课程 吧 对 然后 今 天我们 我 也 不太 清楚 我们今天聊 的 话题 是 什么 所以
+NI52MBQ_0101 1961916 1966073 CS we will see how it goes yah 看 我们 能 聊 什么 吧
+NI52MBQ_0101 1966073 1990755 CS 蛤 是 meh oh okay 好 啊 啊 对 why they won't want want us to speak different languanges in one sentence i guess
+NI52MBQ_0101 1990755 1994505 CS its (er) fluency 就是 看 语文 的 流畅 度 吧
+NI52MBQ_0101 1994505 2015752 CS 因为 如果 你 习惯 (嗯) 用 中 英 语 (嗯) 掺杂 来 讲 (嗯) 来 (嗯) 交流 的话 maybe will have the difficulty as you learn the languages itself 因为 不同 的 语文 他的 (嗯) 文法 不同 对不对 the grammar and maybe the verb and how you actually the sentence structure is different so
+NI52MBQ_0101 2015752 2023865 ZH 如果 我们 掺杂 来用 的话 可能 对 我们 的 学习 会 有 影响 吧 我 我 想 大概 是 这个 这么 一回事 不过 我们
+NI52MBQ_0101 2023865 2027425 CS 通常 私底 下 when we speak to ourselves 我们 通常
+NI52MBQ_0101 2027425 2044540 CS 还是 会 无法 控制 啦 most of the time we will tend to have some (erm) english among chinese words 然后 讲 中文 的 时候 偶尔 也会 掺杂 一些 英语 的 词汇 吧 可能 是 一 时间找不到 那个 (嗯) 那个
+NI52MBQ_0101 2044540 2048310 CS 那个 term 的 一个  (erm) translation 所以
+NI52MBQ_0101 2048310 2065248 ZH 就会 比较 困难 一点 我在 家 是 通常 是 讲 华文 对 然后 偶尔 也会 掺杂 一点 英文 啦 会 比较 少 因为 父母 都是 (嗯) 华文 教育 长大 的 所以 用 华文 沟通 会 比较 方便
+NI52MBQ_0101 2072382 2097688 CS pre school (erm) 有 啊 有 啊 pre school 一 开始 就是 (嗯) all the way they have been using the english sytem yeap 就是 说 从 幼稚园 开始 的 时候 就是 他们 就是 尽量 是 以英语 沟通 因为 我们 的 教育 our educaiton system in chinese ah in singapore is mainly (erm) in english lah 那个 是 主要 的 第一 语言 就是 英文 吗
+NI52MBQ_0101 2097688 2114280 CS 所以 (嗯) 通常 一开始 即使 在 幼稚园 的 时候 yah we will talk mainly in english 上 中文 印象 中 是 应该 是 在 小一 的 时候 吧 就是 (嗯)
+NI52MBQ_0101 2114280 2117290 CS 我们的 母语 啊 所谓 的 (呃) mother tongue 就是
+NI52MBQ_0101 2117290 2133548 CS 我们 (嗯) 就是 (嗯) 华文 或者是 可能 说 马来语 或 印度语 之类的 所以 从 那 开始 我们 就 we will have we will have lessons based in chinese that's mainly focused on that (erm) on the language itself
+NI52MBQ_0101 2133548 2144511 CS 就是 一个 单 单一 的 一个 (嗯) 一个 课 一节 课 啦 就是 (嗯) focus on dedicated to (erm) teaching of (erm) the chinese language itself
+NI52MBQ_0101 2144511 2154977 ZH 除此 之外 其他 的 课 都是 还是 照常 用 英语 上 的 就是 比如 说 数学 科学 之类 的 啦 对
+NI52MBQ_0101 2154977 2169026 CS (erm) 还不会 啦 就 就 如 我 所说 因为 i was (erm) brought up in a chinese family 所以 比较 困难 的是 (erm) 其实就是 当我 刚 开始 学习 的 时候 就是 (嗯)
+NI52MBQ_0101 2169026 2187253 CS 怎样 用 英语 交流 吧 yeap so but the foundation course i was (erm) taught in a english more english-based primary school 就是 说 我的 (erm) 小学 是 比较 注重于 英语 教育的 所以 恩 就是 刚好 给我 一个 the right balance 所以 我们
+NI52MBQ_0101 2187253 2198123 CS 过后 我就 会 比较 因为 在 家里 是 用 华文 吗 然后 在 学校 就要 学习 怎么 用 英文 所以 so it helps me to balance between the two language
+NI52MBQ_0101 2198123 2208148 CS and maybe also that's the reason why 最后 就是 偶尔 会 掺杂 两种 语言 来说 吧 对
+NI52MBQ_0101 2208148 2222890 CS 因为 过后 after primary school 我的 我就 基本 上 就在 华校 中学 之后 都是 在 华校 嘛 所以 然后 又 回去 就是
+NI52MBQ_0101 2222890 2248058 CS 基本 上 其实 课程 的 设计 都 there's not much difference 因为 都是 根据 那个 教育部 的 那个 可能 说 准则 之类 的 东西 so the rule the guidelines will been followed will follow the (erm) m. o. e system but 就是 说 可能 私底 下 学生 们 就会 比较 (嗯) 习惯 用 华文 来 交流
+NI52MBQ_0101 2248058 2265963 CS 或者 是说 (嗯) 可能 在 课外 活动 的 时候 有些 (嗯) 教练 就会 比较 (erm) 华 怎么 说 more chinese educated 所以 他们 通常 在 (嗯) 教 一些 课外 活动 的 时候 可能 就 会 比较 用 华文 来 交流 吧
+NI52MBQ_0101 2265963 2293779 CS (嗯) 基本上 就是 这样 吧 可能 就是 还有 就是 (嗯) 华中 可能 会 比较 注重 (嗯) 华文的 一些 (嗯) 文化 some of the chinese culture more focused 就 比如 说 (erm) 他们 会 有 可能 一些 华乐 啊 华族舞蹈 之类 的 课外 活动 而 英校 可能 就 没有 这 方面 的 注重 可能 他们 会 注重 maybe orchestra <unk> orchestra band 之类 的
+NI52MBQ_0101 2293779 2302952 ZH 就是 比较 西化 的 一些 (嗯) 一些 文化 啦 的 一些 课外 活动 之类 的
+NI52MBQ_0101 2306752 2341420 CS (erm) sorry 有 啊 有 (erm) 到了 j. c. 就是 差不多 一样 了 吧 不过 还是 有 一些 比较 属于 说 我们 会 统称 是 一些 比较 华 华文 派 的 啦 就 好像 (嗯) 可能 (erm) 南洋 南洋 初级学院 或者 是说 华中初级学院 之类 的 啊 对 这些 这 两间 就会 (嗯) 这 几间 啦 就 会 比较 说 属于 比较 (erm) 华 华校 派 的 whereas (erm)
+NI52MBQ_0101 2341420 2349790 CS a. c. j. c. ah raffles victoria 这些 j. c. 就会 感觉 上 会 比较 (erm) more towards the yes english educated side
+NI52MBQ_0101 2349790 2366505 ZH 排名 (嗯) 都 还 不错 吧 前 这 (嗯) 这两 都有 各有千秋 啦 我 会 怎么 说 因为 新加坡 (嗯) 公认 的 啦
+NI52MBQ_0101 2366505 2373215 CS 前 两 间 初级学院 一间 就是 属于 more english educated lor which is (erm) raffles 然后 hwa-chong 就是 比较 (嗯)
+NI52MBQ_0101 2373215 2393288 CS 华校 的 (嗯) 华文 比较 注重 的 一个 初级学院 啦 不过 近 几年 来的 focus has been more or less diluted so both are actually focusing on the same more or less the same base the influence of the different culture is not so much (erm) 没有 这么明显 啦 对
+NI52MBQ_0101 2393288 2403372 CS 所以 说 (嗯) 就是 感觉 上 会 有 这 两个 差别 不过 在 教育 方面 (嗯) more or less shouldn't make (erm) too much of the difference
+NI52MBQ_0101 2403372 2430960 CS 就 好像 我们 (呃) 我 本身 是从 华中 来的 啦 so i was from hwa chong and 我们 的 (erm) 有些 讲师 也是 有从 比如 说 (嗯) 欧洲 国家 来的 like maybe england or maybe (erm) america lecturers from westernised countries as well lah so 基本 上 我觉得 是 没有 什么 差别 啦 就是 文化 (嗯) 一些 传统 之 之类 的 哦 我们 学校 好像 有 庆祝 比如 说中秋节 之类 一些
+NI52MBQ_0101 2430960 2437080 CS 比较 (嗯) 华文 传统 的 节日 啦 whereas 我 我 认为 (嗯) raffles 可能 就 没有
+NI52MBQ_0101 2437080 2455880 CS not much focus on maybe mid-autumn festival and festivals like this lah 对 清明 有 啊 不过 不是 在 学校 庆祝 嘛 对不对 yeap so 清明 i guess (erm) most singaporeans will be will have to (erm) 怎么说
+NI52MBQ_0101 2455880 2461850 CS most singaporeans 都会 (嗯) like 去 扫墓 啊  在 清明节 的 时候 去 扫墓 这个 是 for 我们
+NI52MBQ_0101 2461850 2481972 CS 我们 华人 传统 之一 嘛 对 啊 对 啊 我的 是 在 下个 礼 下个 星期 所以 (嗯) 也 不 一定 是足 啊 每个 every family will be going down the same day lah 会 通常 会 分开 过 一个 一段 期间 嘛 不然 的话 会 蛮挤 的 嘛
+NI52MBQ_0101 2487559 2502494 CS 现在 都是 (嗯) 比较 是 火化 的 吧 yah cause (erm) we are lack of space in singapore so 如果 我们 土葬 的话 会 会 占到 很多 宝贵 的 对
+NI52MBQ_0101 2502494 2506439 EN correct the use of the land will be affected
+NI52MBQ_0101 2513580 2515866 CS (嗯) 对 是internship
+NI52MBQ_0101 2518229 2533470 CS 申请 的 过程 其实 还 蛮 简单 的 就是 因为 i saw this (erm) the school will have actually the career services department 就是 华文 不懂 怎么 说 okay 好 就是 会有 这个 部门 会 帮 学生 好像 帮 我们
+NI52MBQ_0101 2533470 2535990 CS source for 一些 internship opportunities
+NI52MBQ_0101 2535990 2549170 CS 然后 他们 会 比如 说 如果 有 相关 的 一些 (erm) (erm) 机会 的话 some opportunities anywhere then 他们 就会 (erm) 放上 那个 (呃) 我们 的 (嗯)
+NI52MBQ_0101 2549170 2554180 CS 不是 website lah 就是 通过 电 邮 告诉 我们 lah 那个 我们 n. t. u. 的 webmail
+NI52MBQ_0101 2554180 2557250 ZH 啊 然后 我们 就 自各
+NI52MBQ_0101 2557250 2560330 CS 就是 submit 我们 的 resume cover letter 之类 的 东西
+NI52MBQ_0101 2560330 2575864 CS 然后 就 他们 会 帮 我们 就是 机会 也不 不 一定 需要 自己 去 找 吧 就是 说 they will help us to provide some channels of course if we can self source 如果 我们 可以 自己 (erm) 自己 自各 找 的话 也是 对 我们 学习 有 帮助 啦
+NI52MBQ_0101 2575864 2600277 CS 就是 这么 说 不过 近 几年 学校 最近 学校 帮 学生 找 的 一些 (嗯) 怎么 说 (嗯) 就是 说 最近 因为 经济 不景气 吗 所以 机会 也是 比较 少了 the opportunities are actually from the school side is actually significantly reduced and the maybe the internship company are not as not as good as before
+NI52MBQ_0101 2600277 2613130 ZH 所以 今 今年 可能 又 比较 (嗯) 注重 一些 比较 小 的 公司 没有 像 那些 之前 一些 大规模 的 银行 之类 的 啦 所以 如果 我们 真的 有 兴趣 的话 自己 (嗯) 要
+NI52MBQ_0101 2613130 2619970 CS 自己 去 apply 会 可能 就 比较 有机 会 进去 一些 比较 more prestigious 的 部门 吧
+NI52MBQ_0101 2620678 2621084 ZH 对
+NI52MBQ_0101 2623586 2625362 EN (erm)
+NI52MBQ_0101 2627923 2635500 CS 哦 好 啊 不好 意思 okay 我的 部门是 我 现在
+NI52MBQ_0101 2635500 2639450 CS 即将 去 的 一个 department 就是 (嗯) 做 maybe on credit risks
+NI52MBQ_0101 2639450 2654316 CS and for under asset management 就是 资产 管理 吧 是 主要 是 (呃) 协助 他们 做 一个 research 就是 研究 关于 一些 (erm) rules and regulations for this asset management firm
+NI52MBQ_0101 2654316 2680577 CS 比如 说 我们 (嗯) 这个 industry 里面 其实 有 一些 有 一些 条规 吧 就是 主要 是 了解 帮 帮助 这个 的 部门 了解 一下 (嗯) 如果 是 一些 资产 管理 一些 的 一些 公司 他们 需要 (嗯) 主要 需要 (嗯) 注意 些 哪 一些 法规 之类 的 the rules and re key regulations for the asset management company
+NI52MBQ_0101 2680577 2684720 CS 这个 是 那个 我的 assignment 的 那个 title lah
+NI52MBQ_0101 2684720 2694506 CS 啊 而 主要 是 做 什么 我 就 不太 清楚 了 have to wait until i go to the ground and i guess i would understand more about what i am supposed to do
+NI52MBQ_0101 2696800 2701690 CS (er) yes 就是 跟 我 主要
+NI52MBQ_0101 2701690 2706090 CS 是 要 我 想 会 跟 business law 和 或 company law 会 有 关系 吧
+NI52MBQ_0101 2706090 2717916 CS 而 至 在 当我 during my interview they actually asked me whether i actually learnt business law or not so 我 想 会 所学 的 东西 应该 会 派上用场 啦
+NI52MBQ_0101 2719952 2729337 CS interview 完了 已经 昨天 eh (erm) 昨天 刚 签约 了 in fact i yesterday just went down to raffles place and actually signed for the internship contract lah
+NI52MBQ_0101 2729337 2730525 ZH 对
+NI52MBQ_0101 2730525 2734866 ZH 对
+NI52MBQ_0101 2734866 2749347 CS 对 啊 不过 也有 蛮多 好像 在籍 学生 在 等 等着 进入 大学的 都会 在 那边 兼职 吧 就是 说 before i actually enter to uni i also worked at raffles place for quite a while
+NI52MBQ_0101 2749347 2756421 ZH 啊 那 那时 我 是 在 啊 日本东京银行 就是 帮 就是 做 一些 兼职 的 工作 啦
+NI52MBQ_0101 2756421 2759570 EN sorry
+NI52MBQ_0101 2759570 2766500 CS administration 我是 做 (嗯) financial accounting 就是 (嗯) 帮忙 可能 统计 一些 statement ah 之类 的 东西
+NI52MBQ_0101 2766500 2773680 CS ge general ledger profit loss statements 恩 就是 因为 他们 那 时候 是 (嗯)
+NI52MBQ_0101 2773680 2780030 CS 快 靠近 year end 了 so 所以 他们 需要 很多 人手 来 prepare for the statements for the end of the year
+NI52MBQ_0101 2780030 2787029 ZH 所以 就 刚好 是 有 这个 机会 去 帮忙 帮忙 啦 从中 有 学到 蛮多 东西 的 啦
+NI52MBQ_0101 2794859 2809315 CS policies wise 一点 就是 low tax rate 吧 对 因为 我们 的 (嗯) 政府 为了 吸 早期 因为 他们 为了 吸引 很多 这些 companies 来 我们 新加坡 做 投资 所以 他们
+NI52MBQ_0101 2809315 2816905 CS 会 (嗯) 调低 一些 tax rates ah 好像 还有 一些 incentives 可能 说 前 五年 不 需要 缴 税 之类 的 东西 啦
+NI52MBQ_0101 2816905 2823385 CS 现在 我就 不大 清楚 whether the this policy still has in existance 不过 然后 (嗯)
+NI52MBQ_0101 2823385 2827825 CS 除了 tax rates 之外 另外 一点 可能 就是 political stability
+NI52MBQ_0101 2827825 2849358 CS 就是 政治安定 啦 啊 对 我们的 政治 是蛮 蛮 平稳 的 所以 也是 主要 是 (嗯) 主要 是 一个 对 这些 外来 投资 的 银行 来说也 是 一个 好处 吧 因为 不会 有 一些 可能 说 示威 啊 strikes riots 之类 的 东西
+NI52MBQ_0101 2849358 2856480 EN and another thing is possibly the emphasis and the opportunnities within this region
+NI52MBQ_0101 2856480 2869350 CS 因为 我们 知道 东南亚 是 (嗯) 刚刚好 差不多 可以 说 要在 崛起 的 一个 区域 吧 所以 (嗯) if singapore (erm) singapore is more one of the more developed countries within this region
+NI52MBQ_0101 2869350 2876926 EN so more most of them used this as the base for the region to service their business (erm) their clients within the region itself
+NI52MBQ_0101 2876926 2907151 CS 所以 说 新加坡 就是 有一个 优势 啦 因为 比起 周边 那些 国家 来 可能 它就 比较 发达 而且 设 设施 也 比较 完善 所以 就 会 比 (嗯) 就会 吸 吸引 一些 外来 的 投资者 在 这边 就是好像 驻 set up a base here so that the can actually work their (erm) service maybe their indonesian clients thailand clients and 之类 的 东西 啦 对
+NI52MBQ_0101 2909460 2920060 ZH 势力 啊 金融界 新加坡 就 三大 三大 银行 就是 (嗯)
+NI52MBQ_0101 2920060 2924740 CS (erm) local banks 就有 u. o. b. o. c. b. c. 以及 (嗯) d. b. s.
+NI52MBQ_0101 2925606 2940053 CS 然后 海外 银行 其实 也有 蛮多 的 耶 各国 各地 都有 吧 就 好像 说 美国 就有 (嗯) 美国有 bank of america merril lynch j. p. morgan morgan stanley 这些 可能 有些 不是 银行 啦 more of financial institutions
+NI52MBQ_0101 2940053 2944697 CS 然后 英国 可能 就有 barclay barclay's capital
+NI52MBQ_0101 2944697 2961160 CS 德国 有 deutsche bank 瑞士 credit swiss (erm) u. b. s. 没有 啦 actually 就是 说 (嗯) 蛮多 就是 (嗯) 这些 比较 重要 的 一些 银行 都有 在 本地 set (erm)
+NI52MBQ_0101 2961160 2963600 CS set up 他们的 那些 subsidiaries 之类 的
+NI52MBQ_0101 2963600 2979606 CS 势力 方面 可能 之前 美国 的 影响 会 比较 大 吧 不过 现在 随着 美国 (嗯) (嗯) 这个 这次 的 经济 危机 可能 他们的 势力 就会 more or less weaken by the crisis before
+NI52MBQ_0101 2979606 2991860 ZH 而 我 觉得 现在 炙 最 炙手可热 的 那些 (嗯) 银行 就 比较 是 属于 (erm) 欧洲 欧洲 的 一些 银行 吧 就
+NI52MBQ_0101 2991860 2995340 CS 比如说 我 刚才 所 说 的 barclay's capital 跟 deutsche bank
+NI52MBQ_0101 2995340 3001516 CS 哦 对 还有 goldman sachs goldman sachs 应该是 英国的 那个 我 就 不 太 清楚 了
+NI52MBQ_0101 3001516 3026780 CS deutsche bank 荷兰 还是 德国 我也 不 太清楚 deutsche 又 好像 是 荷兰 right 对 恩 emm hmm emm hmm
+NI52MBQ_0101 3026780 3032840 CS (嗯) 我也 不 清楚 eh but the common practice is that 会 换 蛮 大笔 的 现金 然后 去 那边
+NI52MBQ_0101 3032840 3041218 CS 带 过去 那边 开设 银行 之类 的 吧 对 当然 如果 用 visa 也是 可以 啦 这样 就 不用 这么 麻烦 了 嘛
+NI52MBQ_0101 3042354 3047079 CS 对 那个 就是 主要 的 一个 hindering hindering factor
+NI52MBQ_0101 3050022 3053554 ZH 哦 应该 没有 吧 不过
+NI52MBQ_0101 3054826 3056693 ZH ah huh 对
+NI52MBQ_0101 3064588 3083730 CS 我 这个 我 不太 清楚 耶 不过 照 惯例 来说 我 想 应该 是 不可能 吧 因为 其 第一点 是 the currency will be different (erm) 他们 的 那个 汇 那个 exchange rate 没有 这么影响 吧 可能
+NI52MBQ_0101 3083730 3088570 CS banks within the banks itself 他们 会 用 一样 的 exchange rate mah 就是 currency 的 difference 所以 如果
+NI52MBQ_0101 3088570 3101289 CS 说 我们 这边 是用 (嗯) 我们的 户口 是 用 (嗯) 新加坡 dollars 然后 那边 是 用 美金 啦 for u. s. 所以 可能 就 没有 这么 容易 汇 过去
+NI52MBQ_0101 3101990 3116580 CS 在 新加坡 是 开 是 不 可以 开 foreign account 的 actually 我 我 有 尝试 过 啦 不过 他们 是 说 除非 是 好像 说 一些 大的 机构 才 可以 开 私人 好像 我们 这种 单 单一 的 一些 individual 的 一些
+NI52MBQ_0101 3116580 3120330 CS deposits 是 其实 是 不 可以 set up 一个 foreign account 的
+NI52MBQ_0101 3120330 3129738 CS 对 可能 就是 要 到 那边 去 才从在 维也纳 自己 set up 一个 account 吧 恩
+NI52MBQ_0101 3133140 3136153 ZH 会 不会 很 危险 啊 我 也是 蛮 担心 的
+NI52MBQ_0101 3138074 3140152 CS 对 所以 需要 declare 是吗
+NI52MBQ_0101 3142411 3143466 ZH 是吗
+NI52MBQ_0101 3147548 3149732 EN ten thousand dollars okay
+NI52MBQ_0101 3153947 3157785 CS okay 就是 要 declare 啦 不用
+NI52MBQ_0101 3160569 3161790 EN oh okay
+NI52MBQ_0101 3165841 3166918 ZH 对对
+NI52MBQ_0101 3168775 3170870 ZH 恩 对
+NI52MBQ_0101 3175690 3186218 CS oh i think 他 他 会 理解 啦 会 看开 一点 啦 哦 这样 还好 啦 因为 我 也是 蛮 担心 的 is one of my concern lah 对
+NI52MBQ_0101 3189774 3206281 CS 是吗  我 会有 preferential treatment ah 啊 哦 cheque ah 所以 是 怎么 怎么 说 呢 哦 traveler's cheque okay
+NI52MBQ_0101 3207874 3210651 EN i see i see
+NI52MBQ_0101 3210651 3216610 ZH 哦 所以 就是 不是 带 一大笔 的 现金 啦 这样 还好 吧
+NI52MBQ_0101 3216610 3221140 CS 这样 如果 是 european countries 的话 是不是 一样 也是 可以 用 traveler's cheque
+NI52MBQ_0101 3225344 3228264 CS oh okay okay 这样 可以 去 问问 看
+NI52MBQ_0101 3229814 3232068 ZH 可是 要有 对
+NI52MBQ_0101 3235524 3251603 CS 恩 对 应该 去看 因为 最近 我 其实 昨天 也是 刚刚 换了 两千块 因为 现在 的 (嗯) 那个 兑换率 蛮 favourable 的 对 所以 就 趁机 先换 一点 先 然后 可能 到 到蛮 接近 的 时候 再 换 多 一些 吧
+NI52MBQ_0101 3251603 3257723 CS 恩 最 最近 几个月 掉 得 蛮 厉害 euro
+NI52MBQ_0101 3260322 3267590 ZH 希腊 对 所以 我 看 大概 有 一点 影响 吧 不过 最近 那个 欧盟 其实
+NI52MBQ_0101 3267590 3272270 CS 已经 推出 一些 措施 to actually bail greece out of this crisis
+NI52MBQ_0101 3272270 3279738 ZH 所以 我 想 可能 过 几个 月 可能 会 回去 没有 这么 低的 一个 水平 吧
+NI52MBQ_0101 3279738 3291370 ZH 恩 昨天 我 兑换 是 一比 一点八九七 不过 在 应该 是 差不多 在 一点八八 左右 吧
+NI52MBQ_0101 3291370 3296760 CS 如果 是 好像 我们 在 网上 check 的话 the act actual exchange rate 应该 是 一点 八 八 左右
+NI52MBQ_0101 3303076 3325646 CS 不过 通常 我们 在 网路 上 看到 的 那个 兑换率 我们 应该 是 换不到 这么 好的 价钱 对 咯 我是 去 那个 money exchange 跟 那个 货币 兑换商 换 bank 的话 可能 它的 兑换率 会 通常 会 比 这些 money changers 来 得 不好 一点 对
+NI52MBQ_0101 3325646 3339062 CS 当然 他们 的 优势 蛮大 的 就是 说 他们 当 他们 买 的 时候 他们 会 卖得 蛮低的 他们 卖 就会 卖 比较 高 啦 the spread will be much larger than the one that the money changers have 对
+NI52MBQ_0101 3341477 3343930 ZH 恩 不过
+NI52MBQ_0101 3343930 3348980 CS 对 啊 不过 there are a lot of money changers around 就 好像 昨天 我是 去 raffles-place 嘛
+NI52MBQ_0101 3348980 3356678 CS 他 单单 一个 building itself 可能 就有 差不多 十多间 啊 对 所以 他的 竞争 是 蛮 激烈 的 啦
+NI52MBQ_0101 3358712 3382373 CS 不同的 (erm) 不同 的 money changers 他 可能 会在 不同 的 汇币 货币 上面 会 有 一些 优势 就 好像 说 可能 a. money changer 美金 会 比较 好 然后 b. 的 可能 他的 人民币 啊 之类 的 会 比较 好 所以 (erm) 就是 要 要 看 咯 货比三家 嘛 就 到处 走 走 走 走 然后 看 最好 的 然后 就 跟 那 一间 交换 吧 对
+NI52MBQ_0101 3391348 3393192 ZH 准备 什么 考试 啊
+NI52MBQ_0101 3393192 3396195 ZH 就是 那 那 五科 吧
+NI52MBQ_0101 3396195 3403355 CS but before that 要 赶 完 一些 projects 和 assignments  就是 (嗯) 下个 星期 有 projects due
+NI52MBQ_0101 3403355 3414140 CS 所以 要 做完 嘛 不然 就 不可以 没有 时间 开始 读 对 所以 严格 来说 只有 差不多 一个 星期 一个 星期 左右 的 时间 to prepare for the exams
+NI52MBQ_0101 3415874 3421661 CS (erm) which is around 差不多 three weeks three weeks time yes
+NI52MBQ_0101 3428153 3448287 CS (嗯) 也好 啦 (erm) 还 不错 啦 因为 这 这个 学期 是蛮 lucky 的 因为 the exam schedule itself 是 排得 还 蛮 分开 的 就 好像 有 差不多 三天 左右 的 时间 in between the different mo erm papers so 应该 是 有 时间 准备 啦 希望 是 应付 得来 咯
+NI52MBQ_0101 3452561 3459880 CS percentage ah 就是 通常 都是 final exam 会 占 差不多 五十巴山 吧 然后 (嗯)
+NI52MBQ_0101 3459880 3467220 CS projects 差不多 二十八 仙 then mid-term papers 二十八 仙 然后 class participation 十八 仙
+NI52MBQ_0101 3467220 3478475 CS 主要是 这 这样 分配 啦 通常 都是 大同小异 就是 在 这个 (嗯) distribution 上面 有 一些 很小 的 更动 之类 的 吧 对
+NI52MBQ_0101 3480057 3487110 ZH (嗯) 也 不是 单单 说 如果 有 到 然后 就会 有 分数 吧
+NI52MBQ_0101 3487110 3491690 CS participate lah 就是 要 参与 discussion ah 之类 的 发表 一些 意见 就是 要
+NI52MBQ_0101 3491690 3497684 ZH 所以 偶尔要 在 课堂 上 说 说话  对
+NI52MBQ_0101 3500151 3517644 CS (嗯) 有些 tutors 他们 会 给 机会 好像 每个 偶尔 会 点名 让 人家 有 机会 (嗯) 发表 意见 吧 不然 的话 就是 靠 自己 可 得 要 要 争取 opportunnity 有
+NI52MBQ_0101 3519617 3521345 CS prelude 什么 意思
+NI52MBQ_0101 3525902 3532220 ZH 哦 (嗯) 需要 啦 因为 我们 的 这科 其实 蛮 我们 所学
+NI52MBQ_0101 3532220 3538980 CS 这个 business 跟 accountancy 这 两科 蛮多 时间 都是 要 怎么 说 have to actually
+NI52MBQ_0101 3538980 3558668 CS do some more of self study 之类 的 东西 所以the our course work is actually very little compared to engineering 之类 可能 他们 上 engineering 的 一些 学生 的 他们 可能 一个 星期 会 上 二十多个 小时 的课 我们 相比之下 我们 只是 上 一个 星期 大概 有 差不多 十五 十六 个 小时 吧
+NI52MBQ_0101 3558668 3582299 CS but then the time other than in class other than being in class the time will be spent on having to prepare for our lessons as well as to do our projects so if 相比之下 我们 要 (erm) 比较 多 (erm) free time but then 你要 学 会 自己 怎样 分配 时间 来 学会 做 这些 不同 的 一些 requirements lah 恩
+NI52MBQ_0101 3586838 3590780 CS 因为 (嗯) different courses 他们 会有 指定 的 material mah
+NI52MBQ_0101 3590780 3601772 CS 那些 (嗯) like reference books 所以 从 那边 从 那边 大概 会 需要 课前 需要 做 一些 reading lah 这是 难免 的啦
+NI52MBQ_0101 3601772 3604701 ZH 对
+NI52MBQ_0101 3606285 3609270 EN emm hmm
+NI52MBQ_0101 3612689 3618600 CS oh sometimes you can actually buy second-hand books also lah ah 因为我们
+NI52MBQ_0101 3618600 3624530 CS 之前 我 蛮多 的 我的 一些 reference books 都是 从 seniors 他们 那边 传 下来 的
+NI52MBQ_0101 3624530 3629150 CS 就是 说 他们 有些 人 会 买 first hand 然后 他们 就会
+NI52MBQ_0101 3629150 3634680 CS 他们 用过 了 嘛 then 他们 没 需要 的话 then they will pass it down then maybe sell it at a lower rate lah
+NI52MBQ_0101 3634680 3650357 CS 所以 这样 一来 对 双方 都 好 嘛 我 觉得 因为 到 头来 我们 可能 就 没有 不 需要 还 因为 一本 新的 书 可能 要 fifty sixty dollars 所以 其实 蛮贵 的 你 看 如果 是 四科 的话 差不多 两百多 三百块 了 
+NI52MBQ_0101 3650357 3674411 CS 所以 most of the time i will try to see whether my seniors will have like the reference materials like maybe get the second hand or even third hand books 因为 反正 只是 用 一个 学期 嘛 所以 也不 需要 除非 他的 editions 有 一些 更动 啦 那 就 没有 办法 不然 的话 可以 用 上个 学期 (erm) seniors 传 下来 一些 书 还是 蛮 不错 的 啦 我是 这样 觉得 恩
+NI52MBQ_0101 3677752 3694487 CS 恩 (嗯) 需要 啦 不过 可能 时间 不同 学期 他们 所 注重 的 东西 会换 and overtime the the structure of the paper will change itself also
+NI52MBQ_0101 3694487 3717456 CS 所以 做 (嗯) 主要 是 看 一些 看 一下 how the questions are being phrased lah 那 我 觉得 是 比较 重要 的 (呃) 也 不 一定 说 上个 学期 的 东西 这个 学期 会 再 (嗯) 会再次 出 还是 什么 之类 的 不过 就是 做了 会 比较 安心 啦  这是 我 个人 的 一个  preference lah
+NI52MBQ_0101 3718954 3725693 CS 就是 会 让我 比较 prepared for the paper itself 不然 会 到了 那个 会 手忙脚乱 之类 的 
+NI52MBQ_0101 3731321 3734265 EN two two hours to two and a half hours
+NI52MBQ_0101 3734265 3738795 CS 不同 的 (嗯) papers 大概 都是 在 这两 个 range 之间
+NI52MBQ_0101 3738795 3747425 CS finance modules 会 比较 比较 短 差不多 两个 小时 accounting 的 module 会 差不多 在 于 两个 小时 半 之间 吧
+NI52MBQ_0101 3750552 3755405 EN emm hmm finance (erm) finance itself
+NI52MBQ_0101 3757662 3758015 ZH 对
+NI52MBQ_0101 3761213 3762331 EN em-hmm
+NI52MBQ_0101 3764402 3767699 CS 对 em-hmm
+NI52MBQ_0101 3768168 3775485 CS finance wise 不同 的 科目 主要 也是 有 calculations 像你 所说 的 因为 我们 有business (erm)
+NI52MBQ_0101 3775485 3779345 CS (erm) business 的 那些 equations ah 之类 的 how to derive at
+NI52MBQ_0101 3779345 3783975 CS certain values ah 像 上次 所说 的 所以 (erm) 会有
+NI52MBQ_0101 3783975 3791850 CS 一些 structured questions 会会 (嗯) 需要 我们 用 到 这些 (嗯) calculations 当然 也是 有 可能 一些 multiple-choice questions
+NI52MBQ_0101 3791850 3805605 CS 就是 (嗯) 考 考 一下 我们 主要 我们的 一些 theory base 看 我们 了解 一些 一些 (嗯) theories within the finance module itself 恩 因为 我是 觉得
+NI52MBQ_0101 3805605 3810395 CS finance 这 这门 科 主要 the final paper 就是 比较
+NI52MBQ_0101 3810395 3811985 ZH 比较 会 比较 死 一点
+NI52MBQ_0101 3811985 3813955 CS 就是 theory 跟 calculations 之类的 吧
+NI52MBQ_0101 3813955 3827325 CS 比较 (嗯) 真正 可以 学习 到 比较 多 东西 的 会 在 那个 著重 于 那个 project itself 因为 project 你要 考虑 到 很多 不同 的 一些 因素 而 the final paper 他 会 给 就是
+NI52MBQ_0101 3827325 3836335 CS er final paper 它 会 给 你 那些 (嗯) 就是 那些 information 然后 从 那边 你 就 自己 去 calculate 不过 project 的话 这个 information 你要 自己 去找
+NI52MBQ_0101 3836335 3843830 CS 啊 从中 会 学习 到 比较 多 东西 啦 所以 正真 学习 的 是 那个 project itself right the paper
+NI52MBQ_0101 3843830 3849235 CS 当 你 做完 那个 project 了 那个 paper 应该 是 看 起来 应该 比较 轻松 啦 relatively easier lah 
+NI52MBQ_0101 3849235 3851719 ZH 对
+NI52MBQ_0101 3853329 3854735 ZH 两个 小时 咯
+NI52MBQ_0101 3856095 3858002 ZH 所以 是 可能 两个 小时
+NI52MBQ_0101 3859731 3870327 CS project 就是 (嗯) 差不多 吧 有 蛮长 的 时间 不过 通常 我们 差不多 花足 正真 花 时间 around one month 左右 啦
+NI52MBQ_0101 3870327 3881853 CS 就是 nearer to the to the deadline maybe one month before then 我们 就会 开始 忙 忙 忙 然后 最后 赶 出来 啦 对 不过 projects 真的 是 获益不浅 啦
+NI52MBQ_0101 3881853 3886439 EN en right
+NI52MBQ_0101 3892000 3905851 CS 嗯 对 有 也 不 一定 是 说 有 东西 啦 不过 你 没有 办法 一定 要 去 做 而且 要 自己 去 了 你 要 先 了解 才 可以 做 嘛 所以 that's where the learning process (erm) comes in correct
+NI52MBQ_0101 3910440 3914550 CS emm 因为 我 有 一 一 个 elective mah 所以 那个 elective 就 不 需要 做 project
+NI52MBQ_0101 3914550 3930459 CS 之 其他 的 都 需要 做 啦 所以 是 蛮 辛苦 的 对 不过 有些 已经 做完 了 所以 剩下 的 就 剩下 最后 一个 所以 就是 现在 是 赶 在 把 这个 在 这个 星期 做完 可能 就 有 时间 prepare for the final paper
+NI52MBQ_0101 3935975 3944679 CS (嗯) 多少 个 page 有些 他们 是 没有 规定 啦 不然 有些 就 可能 就是 说 在 可能 大概 twenty pages 左右
+NI52MBQ_0101 3944679 3955212 CS 对 不过 有 时候 他们 也 不是 不是 很 喜欢 我们 写 太多 会 limit to maybe ten pages 之类 的 啦 就是 说 要 看 我们 怎样 把 那个 重点 写 出来 吧 对
+NI52MBQ_0101 3955212 3958539 ZH 对 嗯
+NI52MBQ_0101 3961667 3963251 ZH 维也纳
+NI52MBQ_0101 3965810 3971368 CS (嗯) 其实 主要 是 因为 (嗯) i am able to clear more courses there lah
+NI52MBQ_0101 3971533 3979402 CS 啊 就是 因为 这个 in-step 就是 我们 学校 的 那个 主要 的 一个 (嗯) 游学 的 一个
+NI52MBQ_0101 3979507 3988181 CS 一个 (erm) 活动 啦 对 这个 (嗯) scheme 所以 出 (嗯) instep i. n. s. t. e. p.
+NI52MBQ_0101 3988181 4001305 CS 是 international students exchange programme ah 对 就是 我们 主要 的 一个 交流 的 一个 (嗯) 活动 之一 啦 就是 我们 其中 一个 学生 会 到 另外 一个 国家 去 而
+NI52MBQ_0101 4001305 4007563 EN another student from the overseas countries will actually come into study in n. t. u. lah for a one one semester
+NI52MBQ_0101 4007563 4008905 ZH 而且 他们
+NI52MBQ_0101 4008905 4017480 CS 这个 (嗯) 活动的 actually 他们的 partner universities 其实 还 蛮多 的 就是 好像 europe 有 啊 (嗯) asia 也是 有
+NI52MBQ_0101 4017480 4019595 ZH 然后 (嗯)
+NI52MBQ_0101 4019595 4025995 CS america 甚至 south-africa 跟 mexico 都有 啦 不过 可能 比较
+NI52MBQ_0101 4025995 4030602 CS 罕见 啦 比较 rare 一点 对 然后 (嗯)
+NI52MBQ_0101 4030602 4041835 CS 就是 主要 我 怎么 选 的话 就是 mainly depends on how i see the how many courses i can match 最 重要 我 是 觉得 是 要 可以 好像 match 到 一些
+NI52MBQ_0101 4041835 4045215 CS (嗯) 我们 (嗯) n. t. u. 所学 的 一些 courses
+NI52MBQ_0101 4045215 4047965 ZH 可以 跟他 一起 就是 说 如果 我 在 那边
+NI52MBQ_0101 4047965 4052695 CS take 了 这个 course 就是 说 我 再 回到 回来 n. t. u. 就 不用 再 clear 这个 course 了
+NI52MBQ_0101 4052695 4056845 EN that's what they called (erm) what they called (erm) course matching
+NI52MBQ_0101 4059525 4067440 CS (嗯) 也 不 一定 所以 要 看 那个 到 当 那 (嗯) 就是 说 o. (erm) the host university 的 一些 科目 我们
+NI52MBQ_0101 4067440 4073525 CS (erm) before 我们 actually apply 我们 需要 submit 给 我们 学校 的 一些 administator to approve
+NI52MBQ_0101 4073525 4091466 CS 看 他们 教的 东西 跟 我们 学校 的 课程 是 不是 大概 是 一样 的 如果 是 差不多 可能 eighty to ninety percent similar then 他们 就 可以 (嗯) match lah 就是 说 in the sense in the sense matcn so we take the course in the host university 然后 我们 回来 就 不用 再去 take 这 同 一科 course 了
+NI52MBQ_0101 4092134 4093432 ZH 对
+NI52MBQ_0101 4095821 4097899 ZH 什么 意思 呢 嗯
+NI52MBQ_0101 4102755 4106702 EN sisters school partner school ah ah partner universities
+NI52MBQ_0101 4111636 4112753 EN em-hmm
+NI52MBQ_0101 4116444 4124066 ZH 对 对对 啊 对 啊 (erm)有 当然 其中 一个 考量 就是 我是
+NI52MBQ_0101 4124066 4136527 CS 希望 去到 (erm) european countries lah 就是 因为 我 觉得 这个 是 这个 是 一个 蛮 难得 的 机会 就是 可以 在 europe 呆 差不多 半年 左右 然后 可以 去 tour 整个europe mah 对不对
+NI52MBQ_0101 4137374 4150500 CS 然后 (嗯) 所以 选了 europe 了 然后 就是 看 哪里 哪 一些 国家 是 比较 可以 clear 比较 多 courses 的 而 维也纳 可以 可以 clear 差不多 蛮 就是 蛮多 的
+NI52MBQ_0101 4150500 4154430 CS 啊 可以 clear 到 差不多 可能 可以 clear 七个 modules in one semester
+NI52MBQ_0101 4155548 4162404 CS 对 七 听说 啦 听说 啦 我 也 不太 清楚 不过 我 希望 可以 clear 差不多 five to six 就 应该 是 足够 了
+NI52MBQ_0101 4162404 4179883 CS 然后 维也纳 的 生活 (erm) the living standards is cause 维也纳 是 在 东欧 嘛 so european eastern europe countries will be the living standards will be lower lah 所以hopefully 那个 开销 会 没有 这么 昂贵 啦 可能 比起 意大利 啊
+NI52MBQ_0101 4179883 4195750 CS (嗯) 听说 那个 (嗯) 丹麦 瑞典 那边 瑞典 之类 的 国家 可能 the expenses is much much higher also 挪威 啊 之类 的 所以 尽量 avoid 那些 国家 所以 就 选了 维也纳 应该 是
+NI52MBQ_0101 4195750 4199140 CS comparatively 在 europe 可能 会 比较 便宜 一点 吧
+NI52MBQ_0101 4201144 4203092 EN (erm)
+NI52MBQ_0101 4205818 4222641 CS (erm) yeah when you enter the university around 你会 看到 seniors 他们 都会 去 游学 然后 会 很好 看 起来 都 蛮好 玩 的 然后 会 回来 会 分享 很多 experiences 所以 都会 有 憧憬 说 有 一天 去 会 去 那边 自己 体验 一下 吧 对
+NI52MBQ_0101 4224298 4228100 ZH (嗯) 没有 去 (嗯) 也 不 一定 是 去 维也纳 啦
+NI52MBQ_0101 4228287 4232806 CS (嗯) 就是 去 europe 吧 去 america 之类 的
+NI52MBQ_0101 4232806 4240467 ZH 维也纳 之前 有 一个 朋友 的 朋友 有 去过 维也纳 所以 可能 会 从 那边 他 那边 打听 一些 消息 吧
+NI52MBQ_0101 4240467 4256773 CS 不过 好像 我 现在 朋友 现在 在 意大利 啊 在 荷兰 然后 他们 去 去 玩 欧洲 的 时候 然后 他们 会 经过 维也纳 然后 他们 会 跟我 说 啊 这个 地方 很好 这个 地方 很好 所以 when i go there i have to try this school and this restaurant 之类 的 东西 啦
+NI52MBQ_0101 4256773 4260551 ZH 所以 是 蛮 期待 的 啦
+NI52MBQ_0101 4263222 4272735 CS 对 can go can go there lah 对 对 这个 是 一个 蛮大 的 考量 a huge
+NI52MBQ_0101 4272735 4275801 EN selling point definitely
+NI52MBQ_0101 4275801 4294231 ZH 现在 因为 知 我 据我 所说 我 据我 所 知道 当 我 去 的 时候 是 应该 是 在 今年 年尾 嘛 所以 会 有 有 一些 同样 时间 会 有 一些 其他 的 朋友 啊 可能 在 意大利 挪威 英国 德国 苏格兰 之类 的 啦
+NI52MBQ_0101 4294231 4309791 CS 所以 大概 我 已经 准备 会 去 这些 地方 可能 在 这些 地方 会 有人 接应 之类 的  yup so other than that then 就会 the other expenses of course you have to fork out yourself already that's (erm) for accommodation wise
+NI52MBQ_0101 4317782 4328390 CS (erm) the courses itself is in english but 维也纳 是 austria 嘛 奥地利 啊 他们 会 用 德文 german is more of the main languages used of course
+NI52MBQ_0101 4328390 4332540 CS 如果 没有 错 的话 他们 应该 英文 应该 是 还 okay lah 还蛮 fluent 的
+NI52MBQ_0101 4332540 4347688 CS 不过 我们 去 那边 如果 没有 错 的话 要 上 一个 basic german beginner's course lah 就是 基本 上 可能 会 学 一些 教 (嗯) 怎样 沟通 一些 比较 常用 的 一些 语言 吧 应该 会 对 我们 在 那边 的 stay 会 有 所 帮助
+NI52MBQ_0101 4347688 4357666 CS 不过 我 也是 有 一 有 听说 就 好像 说 我们 学 的 东西 当 你 问 然后 他们 回答 的 时候 你 就 听 不懂 他们 在 说 什么 了 you won't be able to understand what they are trying to say
+NI52MBQ_0101 4357666 4365089 CS what their response should be so 再 看 吧 尽量 咯 对
+NI52MBQ_0101 4365089 4371502 CS 我 听说 德文 是 蛮 难学 的 嗯 german itself yes 
+NI52MBQ_0101 4373265 4385810 CS 那个 是 法文 对 french is 有分 啦 对 上次 我 学 学 了 三个 月 就 放弃 了 中一 的 时候 因为 是 蛮 辛苦 的  对 所以
+NI52MBQ_0101 4388527 4394184 ZH 音乐之都 吧 恩 对 要 去 看
+NI52MBQ_0101 4396266 4398204 ZH 谁 啊
+NI52MBQ_0101 4403823 4416131 ZH  我 也 不太 清楚 啦 哦 小神童 啊  对 对 莫扎特 是 维也纳 的 对
+NI52MBQ_0101 4422571 4428110 CS 差不多 对 啦 september late august to september 的 时候 应该 会 飞 过去
+NI52MBQ_0101 4428110 4442090 CS 因为 那个 那个 course (erm) will actually starts in october 十月 才 开始 可能 之前 就 可以 先 去 去 travel 先 对 然后 因为 他的
+NI52MBQ_0101 4442090 4446650 CS semester 会在 january january 差不多 在 january 才 会 完 然后
+NI52MBQ_0101 4446650 4458571 CS 到 时候 n. t. u. 的 new semester 就会 开始 了 嘛 所以 到 时候 应该 是 没有 什么 时间 travel 所以 应该 是 先去 travel 先  暂时 是 有 这个 打算 啦
+NI52MBQ_0101 4467186 4482560 CS 学校 没有 说 有 什么 subsidy eh 就是 (嗯) 比较 说 就是 说 我们 不用 不需 付 那边 的 学费 而 照常 付 我们 n. t. u. 的 学费 因为 是 exchange mah 对 然后
+NI52MBQ_0101 4482560 4489110 CS 不过 有 一些 financial assistance 的 schemes lah 就是 说 好像 可以 跟 银行 借 一些 interest free loan 之类 的
+NI52MBQ_0101 4489110 4496080 CS 如果 真的 是 有 需要 的话 啦 然后 还有 一些 scholarships 之类 的 东西 咯 嗯
+NI52MBQ_0101 4497743 4501405 ZH 也 不 一定 耶 就是 要看 啦 看 你 的 申请 嘛
+NI52MBQ_0101 4505280 4512760 CS (嗯) 如果是 scholarships 的话 可能 成绩 会 有 一点 影响 吧 不过 如果 是 financial assistance scheme 的话 就是 看你 的 家境 吧
+NI52MBQ_0101 4512760 4520410 CS 对 rejection oh 当你
+NI52MBQ_0101 4520410 4525660 CS 刚 开始 to apply for this instep programme 的 时候 你 需要 meet 一些 criteria
+NI52MBQ_0101 4525660 4537672 CS 就 好像 你的 成绩 你的 那个 g. p. a. 要 在 三点六 以上 啊 之类 的 才 可以 被 accept 才 有 机会 被 considered for this applica~ ah acceptance 对
+NI52MBQ_0101 4537672 4551810 ZH (嗯) 差不多 啦 什么 哦 对 啦 当然 对 所以 对 咯 所以 (嗯)
+NI52MBQ_0101 4556017 4578662 CS actually 蛮多 的 leh (erm) 因为 可能 是 我们 的 科目 科系 的 关系 吧 business 蛮 容易 拿 拿 三点六 以上 的 啦 所以 说 这个 可能 就 没有 一个 大考量 就是 而且 要 看 多少 人 申请 啦 因为 他的 数额 有限 the vacancies are limited so have to see the number of people who applied 然后 从中
+NI52MBQ_0101 4578662 4589412 CS 你 需要 你 也 需要 给 他们 你的 priority 就像 你 因为 我们 可以 选到 五科 五个 universities mah 所以 have to see the priority and 从中 他们 会 决定 咯
+NI52MBQ_0101 4589412 4610425 CS 当然 如果 你 成绩 比较 好 会 的话 会 占 优势 啦 嗯 这个 是 单 第一个 (嗯) 一个 cutoff 的 一个 考量 对 第二个 就是 match course (erm) whether you can match the courses loh 因为 有些 好像 我有 一些 有 一个 朋友 本来 是 要 去 欧洲 的 其中 一个 university lah
+NI52MBQ_0101 4610425 4614875 CS 不过 最后 发现 它的 courses 它 不 可以 match 到 一些 courses 所以
+NI52MBQ_0101 4614875 4634433 CS 就 没办法 去 了 嘛 不然 你就 因为 如果 你 这样 你 去 的话 也 就是 没有 没有 太大 的 意义 吧 因为 你 clear 不到 一些 courses mah 对 所以 就 只好 放弃 咯 然后 再 再 选 多 一个 另外 一个 不过 可能 机会 就 比较 比较 少了 嗯
+NI52MBQ_0101 4635942 4646250 CS it takes quite long 现在 我们 刚刚 交 完 我们 的 application form 就是 说 我们 (嗯) 学校 会 帮 我们 submit to the host university for their acceptance
+NI52MBQ_0101 4646250 4652970 CS then 从中 如果 他们 (嗯)  (erm) accept cause 现在 只是 我们 学校 accept 我们 去 这个 programme
+NI52MBQ_0101 4652970 4655070 CS 然后 要 等 host university
+NI52MBQ_0101 4655070 4662110 CS accept 我们的 一个 application then from then on then 他们 会 寄 回 那 acceptance package
+NI52MBQ_0101 4662110 4678210 CS 然后 我们 从中 要 要 订机票 啊 定 住宿 啊 之类 的 东西 从中 到 时候 又 要 开始 忙 了 就 现在 忙完 那个 application 的 阶段了 啦 现在 在 等 他们的 回复 对
+NI52MBQ_0101 4678210 4681850 CS 他们 会有 residence (erm) dormitries within the school itself lah
+NI52MBQ_0101 4681850 4693894 CS 通 大多数 学校 都 都 会有 嗯 听说 维也纳 的 还 蛮 不错 的 比 起 我们 n. t. u. 的  是 蛮好 的 对
+NI52MBQ_0101 4693894 4702445 CS (嗯) 我 也 不太 清楚 耶 但 听说 啦 (嗯) for european
+NI52MBQ_0101 4702445 4708780 CS (erm) for the exchange in europe 的话  通常 the  the overall expenses 会 差不多 range between
+NI52MBQ_0101 4708780 4714491 ZH 一万五 到 可能 到 两万 吧 可能 没有 到 两万 啦 差不多 一万五 左右 吧
+NI52MBQ_0101 4714491 4741883 CS 对 差不多 五个月 差不多 五个月 之内 啦 当然 要 包括 看你 travel 看你 的 自己 的 消费 嘛 买 什么 东西 吃 什么 啦 不过 听说 有些 地方 吃 是 蛮 真的 是 蛮贵 的 好像 我 有 一个 朋友 现在 是 在 瑞士 啊 他们 就 煮来 吃 因为 eating out will be very expensive 然后 他们 通常 都 会 在 在 自己 的 房间 里面 煮 来 吃 啦
+NI52MBQ_0101 4745635 4761071 CS 会 会 要 带 蛮多 luggage 的 对 所以 听 他们 讲 他们 是 说 (嗯) 好像 选 一些 航空 公司 也要 看 如果 他们 有 (嗯) excess excess luggage base 的话 可能 就会 比较 好 一点 啦 因为真的 是 要 带 蛮多 东西 过去 的
+NI52MBQ_0101 4761071 4773735 CS (嗯) 不然 的话 如果 要 add on to 那个 luggage 的 charge 就要 多 一笔 费用 也是 嘛 对 所以 要 很多 东西 要 考量 啦 很多 东西 要 准备 对
+NI52MBQ_0101 4776051 4782949 CS 对 啦 it's worth it lah 我 是 觉得 是 it's worth that effort to to actually prepare for this whole program
+NI52MBQ_0101 4785753 4801779 ZH (嗯) 也 不太 清楚 不过 会 有 蛮多 人 整个 学校 都 会有 蛮多 人 去 的 吧 可能 二 三十 八仙 的 人 都会 有 机会 去 应该
+NI52MBQ_0101 4803441 4810189 CS business school business school 之类 啦 因为 我 我 是 认识 蛮多 身边 的人 都会 有去 的 啦 对
+NI52MBQ_0101 4818690 4835795 CS 你是 去 哪里 是 美国 哪 哪 个 地方 georgia tech oh 对 新加坡 我们 n. t. u. 也是 蛮多 人 去 georgia tech 的 而且 蛮 不 容易 进 的 for engineering 应该 是 比较 难 是 吗  对
+NI52MBQ_0101 4839045 4846140 CS i see i see 对 啦 george tech 现在 我 应该 有 两个 朋友 现在 在 那边 对
+NI52MBQ_0101 4846140 4868690 CS 有 嗯 美国 都有 吧 所以 就是 engineering 吧 but 我们 这边 n. t. u. 也是 nanyang tech lah 对不对 对 啦 我有 两个 accountancy 的 朋友 现在 在 那边 对 嗯
+NI52MBQ_0101 4870001 4881977 CS 怎么 说 呢  会 啊 哦 okay
+NI52MBQ_0101 4885899 4893639 CS 是 吗 就是 要 travel out of atlanta to actually atlanta and go to other places
+NI52MBQ_0101 4898486 4899161 ZH 对
+NI52MBQ_0101 4906493 4921078 CS okay atlanda 是 在 西边 还是 (erm) 东边 okay oh 这样 还 不错 嘛 就是 sunny island foo~florida 不是 蛮 好像 蛮 阳光 的 一个 地方 吗
+NI52MBQ_0101 4923931 4940300 CS 对 当然 不过 我 看 我 朋友 拍 的 一些 照片 蛮 是 蛮 美 的 那个 地方 嗯 yup so i guess different countries will have different experiences lah (em) 啊 对 是吗
+NI52MBQ_0101 4940300 4947200 CS 所以 当 你 在 america 的 时候 你 也是 有 到 可能 within u. s. itself 会 有 travel
+NI52MBQ_0101 4949800 4958920 CS 会 不会 到 可能 canada ah 还是 mexico 之类 的 就是 within america itself 他们的 domestic flight 会贵 吗
+NI52MBQ_0101 4960783 4972618 CS 还好 啊 听说 euro 的 europe within europe itself 是 其实 也是 蛮 便宜 的 好像 ten euros 可能 就有 了 如果 是 幸运 的话 所以 是 好像 不错
+NI52MBQ_0101 4976328 4993360 CS oh as in singapore (erm) the budget airlines 是 对不对 to phuket 是 吗 不过 two dollars 可能 你 还 要 加 一些 travel charge 最多 也是 一百块 吧 对 我
+NI52MBQ_0101 4993360 4998260 CS 最近 刚 book 了一个 budget travel 去 越南 vietnam
+NI52MBQ_0101 4998260 5023302 CS 可能 在 去 维也纳 之前 啦 跟我 一些 朋友 去 可能 是 去 几天 而已 啦 可能 four five days only 当时 是 蛮 便宜 的 是 差不多 一百 一百 零七 啊 to and fro 所以 就 蛮 不错啦 所以 我们 就 我们 看 刚好 就 看到 然后 就 两个 小时 内 就 决定 了 okay let's go  所以 就 去 就 定了 机票 所以 八月 多 的 时候 会 去 一下子
+NI52MBQ_0101 5024983 5040218 CS (嗯) 那个 应该 蛮 容易 的 啦 对 可能 比较 靠近 一点 的 时候 才 book bah 对 现在 travelling 应该 是 比 起 以前 应该 是 比较 方便 也 比较 便宜 便宜 蛮多 了 吧
+NI52MBQ_0101 5042022 5051152 CS 嗯 可能 在 even before that 对 不对 现在 with the budget airlines 现在 到 哪里 都 比较 方便 啦
+NI52MBQ_0101 5051152 5072454 CS 嗯 也对 啦 像 那 时候 我 搭 budget 差不多 也 要 三四百块 吧 (嗯) 我 最后 最后 一次 去 香港 的 时候 有 搭 一个 budget travel 差不多 三四百块 也 不是 说 不会 很 便宜 啦就是 大概 这个 价钱
+NI52MBQ_0101 5072454 5106875 CS 嗯 台湾 搭 从 新加坡 到 台湾 四百多块 啊 上次 我 去 台湾 我搭 cathay 才 五百多块 而已  对 不过 那 时候 可能 有 promotion 还是 什么 之类 我 也 不太 清楚 对 cathay pacific 就是 去 然后 回 差不多 五百多块 所以 我 觉得 比 那 时候 比起 budget budget 也是 差不多 五百多块 所以 也是 差不多 嘛 所以 最后 选择 搭 cathay loh 就 比较 舒服 一点 啦 对 咯
+NI52MBQ_0101 5109279 5130972 CS 是 吗  不过 the lack leg space is smaller as well lah but if is a maybe short flight is still okay i guess four hours 比较 辛苦 啦  对 啦 也是 对 啦correct right
+NI52MBQ_0101 5130972 5155835 CS (em) oh the correct correct well is budget mah  对不对 correct 你 要 看 他们 有 什么 sales period 最近 蛮多 的 嘛

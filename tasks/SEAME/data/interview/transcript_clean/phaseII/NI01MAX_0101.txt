@@ -1,0 +1,484 @@
+NI01MAX_0101 1353 3612 ZH 讲 多久 啊 大概 大概
+NI01MAX_0101 4243 4762 ZH 好
+NI01MAX_0101 9141 12753 CS 我的 英文 名 是 bryan b. r. y. a. n.
+NI01MAX_0101 12753 13447 EN 
+NI01MAX_0101 13447 17094 ZH 对 我 华语 名 是 啊 金福
+NI01MAX_0101 17952 20982 ZH 金福 华语名 你们 呢 你 呢
+NI01MAX_0101 22396 25052 ZH 哦 哦  好 好 好 行 行 行
+NI01MAX_0101 25917 27101 ZH 好 好 行 行
+NI01MAX_0101 28139 29236 ZH 好 可以 可以
+NI01MAX_0101 32183 35277 ZH 我 现在 在 南洋 理工 大~ 大学 读
+NI01MAX_0101 36220 39308 ZH 对  南洋 理工 大~
+NI01MAX_0101 41125 45233 ZH 之前 哪 我 之前 还是 在 南洋 理工 大学
+NI01MAX_0101 46090 47466 ZH 对 南洋理工大学
+NI01MAX_0101 52988 62359 CS 现在 哦 我 刚刚 在 南大 毕业 then 我 现在 做 研究生 还 没有 开课 下 个 我 下 个 下 个 星期 就 开课
+NI01MAX_0101 65441 68794 ZH 我是 电子 与 电 脑 诶 电子
+NI01MAX_0101 69129 69487 ZH 嗯
+NI01MAX_0101 71667 72680 EN ok ok
+NI01MAX_0101 75931 76951 EN can
+NI01MAX_0101 79153 85403 EN english and chinese okay okay oh i mean the electrical and electronic engineering triple e.
+NI01MAX_0101 88998 89795 EN (arrrr)
+NI01MAX_0101 89795 92042 EN electrical and electronic engineering
+NI01MAX_0101 92148 92524 EN ya
+NI01MAX_0101 95924 100941 CS undergraduate 也是 一样 electrical and electronic engineering 嗯
+NI01MAX_0101 105066 108959 EN undergraduate you mean courses ah as in
+NI01MAX_0101 109161 109841 CS 什么 course
+NI01MAX_0101 110524 116117 CS subjects ah okay 有 有些 是 啊 digital coms
+NI01MAX_0101 116360 119760 EN digital coms ah image processing
+NI01MAX_0101 120317 122776 EN (eh) semiconductor fundamentals
+NI01MAX_0101 122776 132463 CS ah analog electronics 还有 (erm) physics ah basic 的 physics as as a background lah as a background mm
+NI01MAX_0101 139713 143244 CS minor ah 没有 我 没有 minor 我 没有 minor 到
+NI01MAX_0101 143491 146444 CS 没有 时间  没有 时间 minor
+NI01MAX_0101 148456 165867 CS computer courses ah as in programming 还是 programming wise programming 有 基本 的 c. language (um) programming matlab ah 用 matlab 做 一 做 一些 simulation 啊 嗯 就 这样 而已 电脑 电脑
+NI01MAX_0101 168613 173618 CS 现在 我 现在 是 direct p. h. d. 呀 啊 direct p. h. d.
+NI01MAX_0101 176943 182972 CS you mean 我的 research topic ah 我是 做 啊 next generation 的 wireless network
+NI01MAX_0101 184586 192171 CS ah next generation wireless network 现在 还在 developing ah so 尽量 的 尽量 的 在 弄 嗯
+NI01MAX_0101 196813 203751 CS 我是 more to physical layer 的 做 physical layer 的 一些 一些 一些 东西 啦
+NI01MAX_0101 203751 205473 CS  ya 做 一些- 嗯
+NI01MAX_0101 211552 224515 CS mmm more to wire more to the physical connection lor umm it's more to some physical connection protocol 也是 啦 physical and link layer 两 两个 在一起
+NI01MAX_0101 233522 237686 CS 我的 basically 我 这个 next generation wireless 是 (啊)
+NI01MAX_0101 237686 238489 EN 
+NI01MAX_0101 238489 240605 CS 这个 是一个 新的 technology ah
+NI01MAX_0101 241174 245808 EN it originated from ah nineteen ninety nine by a person call james-mitolah
+NI01MAX_0101 246201 251109 EN so what this person say was (um) currently the spectrum has some -
+NI01MAX_0101 251109 251711 EN tsk 
+NI01MAX_0101 251711 253104 EN not fully utilize ah
+NI01MAX_0101 253364 256844 EN so when the spectrum was not fully utilized they try to think of ways to
+NI01MAX_0101 257113 268748 EN opportunistic ways ah so actually this c. r. is connective radio ah what they call is is actually meant to do serve this purpose ya u~ u~ utilize the specturm ah
+NI01MAX_0101 272262 279325 CS you mean actually currently 是 很多的 spectrum 没有 被 fully utilized lor
+NI01MAX_0101 279533 289253 CS 他们 尽量地 在 open up 新的 gig~ giga hertz bandwidth for 新的 service but actually  most of the spectrum is not fully utilized oh mm so-
+NI01MAX_0101 290754 295828 CS as in (um) 可能 在 这个 时~ like 可能 说 这个 时间 内 
+NI01MAX_0101 296394 302890 CS 它 可以 容纳 这么 这么 这么 多 人 来 上网 用 这个 spectrum but 可能 才 一点点 人 用 而已
+NI01MAX_0101 303176 317268 CS 所以 他们 可以 用 再 用 另外 一点点 可能 他们 说  make use of the other rest of the spectrum for other services like broadband and other things to acc~ access it something like that 全部 一起 公私 mm
+NI01MAX_0101 328534 330339 EN open spectrum ah
+NI01MAX_0101 337708 354635 CS 那个 是 因为 a. star ah 我们 新加坡 有 个 a. star 的 他 i think 他 发 他 想 了 一个 方法 来 utilize the t. v. bands ah that means 会 让 其他的 users 来 来 用 这个 t. v. bands
+NI01MAX_0101 354635 369145 CS so actually the google is thinking of of of of u~ of using this these ways lahof what a. stars has 发明 的 to actually (um) try to  to do more research from it mm
+NI01MAX_0101 372871 378655 CS 那个 我 没有 那个 那个 我 还没有 跟 actually 不是 没有 跟 啊 是 我 现在 还在 我 起步 啊
+NI01MAX_0101 379192 382285 ZH 刚 开 刚 开始 而已 嗯 刚 开始 而已
+NI01MAX_0101 382285 387627 ZH 嗯
+NI01MAX_0101 387627 392206 CS 这个 啊 这个 有 啊 我 现在 是 跟 d. s. o. 的 员工 做工
+NI01MAX_0101 393353 396568 EN ah defence science organization
+NI01MAX_0101 396932 402679 CS 啊 做工 跟 j~ 跟 几个 en~ 几个 engineer 做工 咯 嗯 就是 这样
+NI01MAX_0101 404641 405357 ZH 这样 咯
+NI01MAX_0101 407832 413434 CS 啊 我是 under n. t. u. 的 research scholarship ah ah research scholarship
+NI01MAX_0101 422534 429830 CS 以后 的 打算 (啊) 可能 我 以后 我 希望 可以 在 d. s. o. 做工 啊 我 毕业 的 时候 应该 是 会 在 d. s. o. 做工
+NI01MAX_0101 432514 442866 CS 哦 没有 bond 因为 我 觉得 d. s. o. 啧 他 环境 很好 啦 环境 很好 啦 所以 可以 在 那边 做工  尽量 尽量 在 那边 做
+NI01MAX_0101 445137 449889 CS 还 没有 first year 其实  下个 星期 是 first year  现在 还是 我的-
+NI01MAX_0101 450036 454010 CS 我 放假 了 不过 我 回来 做 做 一点点 lit~ literature review ah
+NI01MAX_0101 454417 456171 CS 啊 做 一点 literature review 嗯
+NI01MAX_0101 462916 464164 EN ah
+NI01MAX_0101 464164 466250 EN doctor teng ah teng-see-ho
+NI01MAX_0101 467106 469790 CS 他 他 是 n. t. u. 的 一个 triple e. prof ah
+NI01MAX_0101 470395 471772 EN triple e. prof
+NI01MAX_0101 475750 477800 CS 嗯 他 也是 network domain 对
+NI01MAX_0101 477907 479052 EN network domain mm
+NI01MAX_0101 490938 492285 EN (em)
+NI01MAX_0101 492285 510440 CS 因为 它 毕竟 是 communication 嘛 then 我 读 我 bachelor degree 的 时候 我是 specialize in communications 的 but 这个 communicate~ communications 会 比较 难 一点 啊  所以 现在 我 还在 适 适应 一下 有些 terms 我 不 清楚 啦 不过 尽 尽量 在 学 哦
+NI01MAX_0101 510440 512186 ZH 嗯 尽量 尽量 在 学
+NI01MAX_0101 516082 522340 CS signal processing 有 有 like im~ image processing 这些 也是 有
+NI01MAX_0101 537284 548665 ZH 看 书 (啊) 我 通常 是 看 小说 啊 比如说 看 水浒传 三国 那种 比较 比较 古 古 古老 的 啦
+NI01MAX_0101 550082 551407 CS 啊 chinese educated
+NI01MAX_0101 552289 555821 CS as in 不是 chinese e~ chinese chinese ah 是 比较 比较 喜欢 看 这种 书 啦
+NI01MAX_0101 556313 561265 ZH 打架 杨 杨 杨家将 这种 这种 书 啦
+NI01MAX_0101 561621 564162 CS then 有空 就 跟 朋友 去 看 去 看 戏 哦
+NI01MAX_0101 564753 570908 CS (啊) 去 zouk chong 一下 啊 嗯 就 这样 咯 走走 一下
+NI01MAX_0101 572921 579210 CS 英文 书 啊 看 课 看 课 课本 咯 en~ engineering 的 课本
+NI01MAX_0101 588242 600987 CS (嗯) 我 第一 年 是 有 卖 很多 啦 then 过后 就 很 忙 了 因为 越 读 越 越 难 嘛 then 就 比较 少 买 啦 不过 我 第一 年 的 时候 就 买 买 比较 多 本
+NI01MAX_0101 601655 613351 CS then 现在 也是- 因为 我 买 的 是- 因为 first year 是 掺掺 的 嘛 是 有 semiconductor 什么 so 买 了 then 我 现在 也 不是 说 很 很 很 有用 到 因为 我 more to communications 了
+NI01MAX_0101 613899 614400 ZH 啊
+NI01MAX_0101 619527 631914 CS you mean 我的 reference ah 从 survey pap~ papers oh research papers  fundamentals 就 从 textbook 找 mm 跟 朋友 拿 纸 哦 跟 朋友 拿 纸 嗯
+NI01MAX_0101 637888 651433 CS 我 那 行 的 啊 as in 书 的话 就是 game theory lor graph theory optimization oh 这 这些 啊 这些 还有
+NI01MAX_0101 651839 657837 CS 很多 啊  很 很多 书 书 是 读不完的  读不完的 书 是 读-
+NI01MAX_0101 664537 665888 ZH 英文 故事 书 啊
+NI01MAX_0101 667160 672717 ZH 好像 没有 嘞  故事书 我 不读 英文的 故事书 英文 故事书
+NI01MAX_0101 673178 680419 CS novels ah lone wolf lah 以前 的 一个 game book 来 的 那个 是 一 本 game book
+NI01MAX_0101 680419 682739 ZH 啊 很多 年 前 现在 就 没有 读 了
+NI01MAX_0101 686998 688815 CS you mean 看戏 啊
+NI01MAX_0101 689580 692500 CS 看 戏 有 看 harry potter ah
+NI01MAX_0101 692500 698635 CS harry potter  ti~ ti~ titanic lah 还有一 还有 还有 一些 啦
+NI01MAX_0101 701242 705164 CS transformer transformer 有 不过 不是 很好 看 嘞 那 第二 的 
+NI01MAX_0101 705435 707071 ZH 我 还是 觉得 第一 的 比较 好看
+NI01MAX_0101 708501 709851 ZH 我 我 还是 觉得 嗯
+NI01MAX_0101 721512 723768 ZH 很 差 啊 我 看到 要 睡觉 了
+NI01MAX_0101 723768 725027 ZH  没有
+NI01MAX_0101 725027 728775 CS no comments 很 差 很 差 这个 越 做 越 差
+NI01MAX_0101 728775 730956 ZH 我 觉得 越 越 越 做 越 差
+NI01MAX_0101 730956 731487 EN 
+NI01MAX_0101 731487 732032 ZH 不行
+NI01MAX_0101 733488 734204 EN 
+NI01MAX_0101 736109 745237 CS 不知 不 不知道 无非 什么 他们 说 好看 我 跟 他们 去 看 then 看 了 就  看 我 看到 睡 like this  我 看到 睡觉 嗯
+NI01MAX_0101 751423 756280 ZH 这个 是 第七 第六个 了 第六 第六个 第六个
+NI01MAX_0101 757916 759759 EN the the crown prince ah
+NI01MAX_0101 760525 764607 CS 诶 the half prince 不是 crown prince 我 看到 乱掉 the half prince
+NI01MAX_0101 767949 769923 ZH 它 的 书 我 没有 我 没有 看 它 的 书
+NI01MAX_0101 771351 775506 ZH 没有 没有 钱 买 
+NI01MAX_0101 779765 781038 EN animation ah
+NI01MAX_0101 781791 783167 CS no 我 不看 animation 的
+NI01MAX_0101 783404 791398 CS 看 香港 的 drama lor 比如 香港的 drama 情陷夜中环 哪 那种 戏
+NI01MAX_0101 791598 797493 CS love the abit to love loved 啊 还有  香港的 啊 嗯 就 这样 咯
+NI01MAX_0101 799706 820567 CS singaporean 的 我 想 一下 singaporean 的 有 那个 叮当神探 嘛 那个 也 也是 也是 蛮 久 的 还有 那个 什么 难兄烂弟 啊 还有 一些 中国 的 诶 不是 中国 的 本地 的 也 想不到 了 暂时 想不到
+NI01MAX_0101 824002 843934 CS movie ah  很少 我 我 很少 看 那个 李国煌 跟 范文芳 的  那个 是 大喜事 是 跟 李 跟 李明顺的  跟 李国煌 是 i think something to do with law 的  跟 法律 有关 的 something 啊
+NI01MAX_0101 843934 845810 CS gurmit-singh 也 是 有
+NI01MAX_0101 845810 853103 CS gurm~ gur~ gurmit-singh 范文芳 还有  那个 是 也是 something to do with law 的 嗯
+NI01MAX_0101 860924 862822 EN  mm
+NI01MAX_0101 863343 875657 CS 我 觉得 是 啧 是 不错 啦 因为 它 针 针对 一些 新加坡 的 话 的 话题 来 讲 then 他的 那个 tone 也是 比较 有点 啧 singlish type 的 but (er)
+NI01MAX_0101 875657 880050 ZH 跟 国外 的 比 还是 有 有点 距离 啊
+NI01MAX_0101 880264 883043 ZH 还是 可以 进步 的 嗯
+NI01MAX_0101 884061 890106 CS 本地 人 比较 喜欢 看 本地 的 电影 本地 as in 它 比较 in~ informal lor 嗯
+NI01MAX_0101 891177 892735 CS 嗯 比较 localized
+NI01MAX_0101 898872 908316 CS english drama ah  好像 没有 几个 嘞 可能 first class lor 他 有一个 是 first class 那个 是 in terms of education 的
+NI01MAX_0101 908784 917058 CS 有 celest-chong 还有  adrian-pang 他们 演 it's 它 it's more to u~ u~ u~ university life lor
+NI01MAX_0101 917058 918097 EN mm
+NI01MAX_0101 918097 926236 CS something like that but 那个 也是 啧 普普通通 啦 那个 那个 也 不是 说 很 (啊) 很 fantastic lah
+NI01MAX_0101 933092 935792 CS manga 什么 什么 是 manga
+NI01MAX_0101 938607 941740 CS japanese animation 没有 我 没有 看 japanese animation 的
+NI01MAX_0101 943245 944668 EN death not~ ah death n~
+NI01MAX_0101 944668 967306 CS death note 是 电影 啊 电影 有 电影  death note one 跟 two  mm 那个 戏 不错 很 很好 as in 他的 mystery 不错  but 我 觉得 number one 会 比较 好 啦 因为 number two 是 continuation but 有点 draggy tsk ah 通 通常 是 number one 会 比较 好 一点
+NI01MAX_0101 972521 976987 CS manga 没有 manga 是 那个 title 的 书 是 吗 还是
+NI01MAX_0101 984856 988076 CS 哦 是 manga 是 那个 真正 的 书 的 名 啊
+NI01MAX_0101 998863 1015105 ZH 我 有空 我 会 去 跑步 一个 通常 是 一个人 跑 啦  找 朋友 跑 是 好不 过 啧 朋友 朋友 累 累 累 的话 就要 跟 他 跟 他 一起 停下来  所以 大概 一天 跑 三十 分钟 吧 一天 三十 分钟
+NI01MAX_0101 1017267 1030929 ZH 平常 我 在 我 家 附近 跑 通常 是 跑 一 圈 一 圈 大概 是 七 八百 吧 我 大概 跑 三 三 到 四 圈 就 停下 来 半 小时 啊 只要 只要 我 只要 我 一 跑 了 半 小时 我 就 停 了
+NI01MAX_0101 1034132 1039582 CS n. t. u. 附近 有 跑 不过 啧  那边 跑 很 很 吃力
+NI01MAX_0101 1039582 1040018 EN 
+NI01MAX_0101 1040018 1045210 ZH 因为 一 圈 是 大概 五 公里 啊  蛮 吃力 啊 我 通常 跟 我 朋友 跑 半 圈 而已 
+NI01MAX_0101 1046513 1047344 ZH 通常 跟 我 朋友
+NI01MAX_0101 1050521 1051094 ZH (嗯)
+NI01MAX_0101 1051964 1056980 ZH 他们 比较 耐 啦 我是 跑 简简单单 的  跑 半 圈
+NI01MAX_0101 1057576 1058407 ZH 我 跑 半圈
+NI01MAX_0101 1063421 1067786 ZH 运动 啊 本来 以前 有 不过 现在 慢慢 地 比较 少 了
+NI01MAX_0101 1068669 1075369 ZH 以前 是 去 游泳  不过 现 现在 因为 忙 也是 所以 没有 游泳 单单 只是 跑步
+NI01MAX_0101 1078087 1078653 ZH 这里 啊
+NI01MAX_0101 1080179 1085196 CS 我 平常 是 去 bukit-merah 游泳 那边 已经 关 了 所以 现在 是 去
+NI01MAX_0101 1085196 1087810 EN del~ del~ delta swimming pool
+NI01MAX_0101 1088260 1091375 EN delta swimming pool mm delta
+NI01MAX_0101 1096835 1101873 CS football 没有 badminton 偶尔 跟 朋友 在 s.r.~ s.r.c. 玩
+NI01MAX_0101 1102938 1105864 ZH 嗯 读 读 完了 书 就 跟 朋友 去 玩玩 一下
+NI01MAX_0101 1124054 1131139 CS 电视 的 sports ah 没有 嘞 其实 可能  可能 有 啦 不过 我 想 不 起
+NI01MAX_0101 1131139 1136487 ZH 有 我 应该 是 应该是 没有 啦  应该 是 没有 应该 是 
+NI01MAX_0101 1138325 1159189 CS 电视 啊 平常 我 电视 我 看 啧 新闻 啧 我 看 七 看 十点 的 什么 肥田喜事 那种 比较 笑话 的 then 看 九点 的 第八波道 的 then 可能 再 看 啧 看 那种 啧 auntie 的 戏 啊
+NI01MAX_0101 1160156 1165516 ZH 意 意难忘 那种 这种 是 因为 我 家人 有 看 所以 偶 偶 偶尔 跟 他们 看 一下
+NI01MAX_0101 1166674 1168466 ZH 这样 啦 就 没有 了 
+NI01MAX_0101 1169750 1178168 CS english series ah english series 没有 哦 the the incredible tales ah 一个
+NI01MAX_0101 1182105 1193791 CS 没有 incredible tales 是  鬼 鬼戏 啦 mystery 的 mystery prison break 没有  不 不 不可以 看 这样 多 啦  我 我 就会 看 
+NI01MAX_0101 1195843 1196466 EN e.r.
+NI01MAX_0101 1197479 1198076 CS e.r. 没有
+NI01MAX_0101 1202491 1207292 CS 我 是 more to comedy lah comedy
+NI01MAX_0101 1207292 1230079 CS for horror 也是 可以 like 那个  最 recent 有一个 是  drag me to hell ah ah 那个 我 觉得 我 觉得 是 最好 的 啦 one of the best ah as in 它 很 怕人 then 它的 character 全部 都 都 很 真 啊 很 恐怖 也是 很 恶 很 恶心 也是 了 不过 很好 最好 的 我 还是 觉得 嗯
+NI01MAX_0101 1233128 1243635 CS 我 觉得 是 很 (啧)  很 怕人 啊 它的 then 那个 巫婆 也是 啧 全部 都 很 真 stronly recommend  strong mm
+NI01MAX_0101 1260306 1277574 CS 新闻 (啊) 新闻 是 有 like recently  那个 圣淘沙 有 一个 它的 main project 它 倒 了 因 因 因为 它 没有 它 没有 钱 去 供 供 那些 材料  but 不是 那个 真正的 casino lah it's another part the palawan beach 那里
+NI01MAX_0101 1277574 1278162 EN 
+NI01MAX_0101 1278162 1284307 CS 那里 整个 i think 是 不懂 十五亿 啊 没有掉 like 他 cancel 掉 整个 project
+NI01MAX_0101 1285304 1286670 ZH 啧 因为 它 的 啧
+NI01MAX_0101 1286670 1291280 CS 那些 sand ah 那些 sand infrastructure 的 东西
+NI01MAX_0101 1291280 1293665 ZH 他们 是 应该 是 供不起 啊 供不起
+NI01MAX_0101 1295565 1305317 CS 他们 是 要 起 他们 真正的 原因 他们 没有 讲 不过 他们 他们 他们 是 说 那些 材料  没 没 没有 钱 还 啊 something like that
+NI01MAX_0101 1305914 1327875 CS then 全部 的 东~ 东西 在 increase partly because of the main project 在 圣淘沙 圣淘沙 的 那个  那个 那个 什么 (啊) sentosa casino ah 他们 有一个 something like genting 这样 的 with 那个 在 i think the other one 应 应该 是 比较 没有 争议 sort of like 被 被 拉倒 所以 他们 所以 他们 割掉
+NI01MAX_0101 1330012 1339338 CS actually 有 两个 啦 一个 在 marina bay 那个 是  那个 是 more to casino 的 就是说 全部 要 玩 casino 就 去 那边
+NI01MAX_0101 1339932 1360435 CS i think 那边 会 给 最好 的 casino structure but for 圣淘沙 那边 是 more to  那种 recreation nah like 可能 玩 过 过山车 这种 应该 是 圣淘沙 会 比较 好 一点 不过 那边 也是 有 比较 小 的 赌场 比较 小 一点 不是 不是 那种 比较 high class 的 在 marina bay 是 最 high class 的
+NI01MAX_0101 1360746 1361211 EN mm
+NI01MAX_0101 1366625 1367930 CS interesting 的 (啊)
+NI01MAX_0101 1370781 1391972 CS interesting 的 like 贪污 喔 明义 贪污 actually 也 不是 算 贪污 啦 就是 他 有 有 有些 东西 他 没有 报  but 啧 这种 东 这种 东西 是 (啧) 不懂 嘞 可能 人 做得 越 越 越高 就会 贪 贪污 吧 很 难讲 啦 这种 东西 
+NI01MAX_0101 1394738 1400572 CS actually 有 蛮 多 的 杜莱 是 杜莱 是一个 明义 明义 是 第二 个
+NI01MAX_0101 1402415 1405116 ZH 有 两个 啦  现在 有 两个 啦
+NI01MAX_0101 1413476 1423914 CS (嗯) politics  news actually news 我 不读 那种 啧 stocks ah stocks 那种 我 不在行 
+NI01MAX_0101 1424287 1433732 ZH 在学 啦 不过 需要 需要 一点 时间  看 我的 几个 朋友 在 做 做 投 做 投资 不过 啧  不 不容 不容 不容易 学 啊
+NI01MAX_0101 1434291 1435436 ZH 啊 不容
+NI01MAX_0101 1436868 1437298 ZH 什么
+NI01MAX_0101 1439778 1446570 CS market 怎样 啊 啧 这 两个 星期 是 不错 啦 这 两个 星期 的 股票 在 涨 不懂 为什么 一直 在 涨
+NI01MAX_0101 1446570 1447075 EN 
+NI01MAX_0101 1447075 1451980 ZH 涨 得 很 高 所以 买 的 应该 会 赚 很多 之 之前 就 很 差
+NI01MAX_0101 1451980 1452992 EN 
+NI01MAX_0101 1452992 1454840 CS then 我 朋友 很多 都在 赚
+NI01MAX_0101 1455590 1456551 ZH 很多 都 在 赚
+NI01MAX_0101 1460050 1466062 CS 我 有 钱 的话 啊  我 应该 会 invest 在 endowment fund 吧 more to savings 的 那种
+NI01MAX_0101 1466473 1471810 ZH 而 不是 去  玩股票 玩股票 也是 可以 啦 不过 玩 一点点 啦  不要
+NI01MAX_0101 1472824 1474184 ZH 嗯】
+NI01MAX_0101 1477208 1479186 CS international news like 什么
+NI01MAX_0101 1480221 1483960 ZH 因为 我  (嗯) 没有 
+NI01MAX_0101 1488401 1492478 EN international news ah 
+NI01MAX_0101 1495049 1498961 ZH 哦 这种 我 不清楚 这个 这个 我 这个 种 我 不清楚
+NI01MAX_0101 1508404 1509344 EN shopping ah
+NI01MAX_0101 1511027 1526841 CS i.m.m. oh 去 suntec city 走走 一下 嗯 then  买 衣服 啦 我 通 我 通常 是 去 去 去 去 买 衣服 跟 朋友 去 买 一点 衣服 买 买 便宜的 没有 买 贵  嗯
+NI01MAX_0101 1530074 1530539 ZH (嗯)
+NI01MAX_0101 1532858 1535455 CS boutique boutique 是
+NI01MAX_0101 1537766 1545236 CS 没有 没有 我 买 gio~ gio~ giordano lah 最好的 是 买 u.~ u.two lah 这种
+NI01MAX_0101 1545236 1545972 EN 
+NI01MAX_0101 1545972 1555283 CS g. two thousand 偶尔 啦 哦 买 一些 衣服 啊 很少 啦 跟 朋 跟 朋友 买 有 我 通常 是 跟 家人 买 的 一起 去 买
+NI01MAX_0101 1556551 1562758 CS 毕竟 他们 会 杀 会 杀 会 杀价 啦  but not to those departmental stores ah
+NI01MAX_0101 1565614 1566403 EN budget lah
+NI01MAX_0101 1568403 1569413 ZH 不过 五十 啊
+NI01MAX_0101 1569805 1574739 CS 不过 比较 贵的 like jacket 这种 可能 会 比较 贵 一点 啦
+NI01MAX_0101 1575414 1576890 ZH 看 啊 要 看 要 看 情况 啦
+NI01MAX_0101 1577700 1579001 ZH 这种 要 看情况
+NI01MAX_0101 1582891 1599090 CS 哪 一个 mall ah 当然 是 vivo-city ah 不过 vivo-city 的 mall (啧)  是 很好 不过 他的 东西 比较 high class 一点 全部 的 店 没有 没有 听 过 的 like london news ah 不懂 什么  很多 啊 很像 新加坡 你 没有 看过 的
+NI01MAX_0101 1603334 1614966 CS orchard-road 是 好 不过 那 那边 (啧) 的 shopping center 太 多 了 吧 好像 then 你 走 到 完 会 需要 一点 时间 vivo-city 是 大 不过 它 毕竟 是一个 本身 的 center 在 里面
+NI01MAX_0101 1614966 1617934 EN  mm 
+NI01MAX_0101 1617934 1621725 CS boon-lay 那边 我 还 没有 走 到 完 啦  我 只是 走 大概 四-
+NI01MAX_0101 1622160 1625260 ZH 一点点 不过 我 觉得 也不 错 还是 很 空 啊
+NI01MAX_0101 1626072 1633006 ZH 刚 因为 它 另 它的 另外 一边 刚刚 开 而已  所以 啧 店 是 有 不过 还 还 没有 填 到 完 哪
+NI01MAX_0101 1634200 1635447 ZH 啊 还没有 还没有 填 到
+NI01MAX_0101 1636823 1641393 ZH 嗯 人 是 很多 新的 东西 很多人 会 去 呀  新的 东西 很多人 会 去
+NI01MAX_0101 1642900 1650090 CS 那边 应该 是 跟 vivo-city 的 面积 一样 大 吧 整个  整个 一样 大 (嗯)
+NI01MAX_0101 1656606 1671456 CS 去 看 戏 哦 golden village 那边 的 challenger 也是 很 大间 不过 还是 输 给 funan-center lah 也是 蛮 蛮 多 东西 的 then 通常 我 在 去 它 那边 有 个 starhub center 也是 很 大间
+NI01MAX_0101 1671456 1672551 EN 
+NI01MAX_0101 1672551 1674112 ZH 那个 是 最大的 应该 是 
+NI01MAX_0101 1674533 1680588 CS then 还有 什么  吃 它的 ice cream oh 吃 haagen-dazs
+NI01MAX_0101 1681027 1684766 CS 嗯 then 还有  还有 什么 啊
+NI01MAX_0101 1685869 1687659 ZH 嗯 这样 咯
+NI01MAX_0101 1700586 1715903 CS electronics ah as in laptops 这种 啊 最好 还是 去 i. t. fair lah 三个 月 一次 的 i. t. fair  不过 学生 我 不 建议 他们 在 这边 买 eight-flag 因为 这边 的 还是 会 比较 贵 一点
+NI01MAX_0101 1716342 1718908 CS 最好 是 去 i.~ 去 i.~ 去 i.t. fair
+NI01MAX_0101 1718908 1723993 CS 真的 sim-lim 的- sim-lim 可以 不过 可能 会 被 骗 吧
+NI01MAX_0101 1723993 1724732 EN 
+NI01MAX_0101 1724732 1725459 ZH 那边
+NI01MAX_0101 1726408 1732844 CS 那边 的 人 会 说  会 杀价 可能 会 like 啧 东西 不 不是 说 很好 会 比较 贵 了 贵 了
+NI01MAX_0101 1735271 1746367 CS as in 我们 杀 then 他们 会 说 okay 我 给 你 then 他们的 parts 会 可能 说 比较 他们 会 会 会 动手脚 啦 我 觉得 看 咯 可能 i. t. fair
+NI01MAX_0101 1747041 1747598 EN i.~
+NI01MAX_0101 1747598 1757869 CS i.t. fair 是 也是 好 不过 i. t. fair 的 选择 哦 是 比较 多 啦 很 很多 啊 我 觉得 很多 还 还是 去 i.~ 去 i.t. fair 买 最好
+NI01MAX_0101 1758591 1759056 EN mm
+NI01MAX_0101 1767115 1772329 ZH 吃 的 食物 啊 我 经常 吃 鱼汤 的  最 喜欢 吃 了
+NI01MAX_0101 1772481 1774904 CS then 嗯 鱼汤
+NI01MAX_0101 1775441 1780099 CS 有 空 就 吃 河粉 伊面 这种 more to chinese 的
+NI01MAX_0101 1781440 1783284 EN ah traditional chinese
+NI01MAX_0101 1783716 1793985 CS western 偶尔 western 偶尔  restaurant 也是 偶尔 啦 跟 朋友 出门 就 去 就 去 吃 restaurant
+NI01MAX_0101 1797717 1802749 ZH 在 新加坡  翡翠 不错 不过 贵 了 一点
+NI01MAX_0101 1802749 1803130 EN 
+NI01MAX_0101 1804577 1805457 EN crystal jade
+NI01MAX_0101 1805457 1810014 CS crystal jade 要 选 那个 crystal jade kitchen ah jurong-point 有 一 间
+NI01MAX_0101 1811609 1822733 CS vivo 的 不 是 crystal jade but 它 不是 crystal jade kitchen 它 不懂 是 crystal jade 的 另外 一个 名字 那个 啧 那个 不是 很 好 啦 吃 kit~ 吃 kitchen 的  比较 好
+NI01MAX_0101 1826026 1835870 CS 这个 我 不清楚 了 不过 我 是 比较 喜欢 吃 kitchen 的 especially kit~ 啊 then  西湖 啊 在 farrer road 那边 有 一间
+NI01MAX_0101 1836824 1837942 ZH 鼎泰丰 也是 不错
+NI01MAX_0101 1838771 1848273 ZH 啊啊啊 还是 什么 啊 吃的  有 有 一个 是 什么 夹 夹香面 啊 那个 也是 不错
+NI01MAX_0101 1849677 1850508 ZH 就 这样 啦
+NI01MAX_0101 1854793 1857150 EN fast food long-john oh
+NI01MAX_0101 1858143 1859753 CS 我 很少 吃 mcdonald lah
+NI01MAX_0101 1861077 1864661 CS mcdonald 偶尔 嗯 就 这样 不多 啦
+NI01MAX_0101 1868738 1869824 ZH 旅行 啊
+NI01MAX_0101 1869824 1873108 ZH 我 经常 去 云顶 啊  去 赌博 啦
+NI01MAX_0101 1873910 1875470 ZH 希望 可以 赢 钱 哪
+NI01MAX_0101 1876117 1876714 EN then
+NI01MAX_0101 1878617 1881554 CS  invest ah 赌 啦 真的 去
+NI01MAX_0101 1882531 1888558 CS 投资 啊  投资 赌 啦 赌 then 去 我 我 通常 是 去 malaysia 的
+NI01MAX_0101 1889802 1896672 CS 去 malaysia 我 没有 我 没有 我 我 好像 从来 没有 出 出远门 的 了  like 去 香港 这种 没有
+NI01MAX_0101 1897357 1905856 CS 通常 是 去 malacca genting  槟城 cameron high~ highlands de~ desaru 这种 便宜 的 国家
+NI01MAX_0101 1911428 1914146 CS 云 顶 的 budget ah 三千 啊
+NI01MAX_0101 1914458 1914852 ZH 新
+NI01MAX_0101 1915286 1920402 CS 啊 啊 一 输了 三千 我 就 没有 玩 了 but 我 通常 是 不会 啦 
+NI01MAX_0101 1920830 1924560 ZH 投资 大 就 可以 赢 多 也是 看 运气 啦
+NI01MAX_0101 1925180 1931465 CS 我 好像 还 没有 输过  heng heng 都 还 没有 输过  本来 是 输了 then 下 多 就 会 赢 多 了
+NI01MAX_0101 1933955 1942499 ZH 通 通常 啊 通常 啦 尽量 我 我 好像 还 没有 一次 机会 说 去 那边 输到完 回来  通常 是 赢 的 通常 是
+NI01MAX_0101 1944660 1945990 ZH 两个 月 去 一次
+NI01MAX_0101 1946602 1949661 CS 两个月 去 一次 then mm 就 这样
+NI01MAX_0101 1952702 1957922 CS kuala-lumpur 有 不过 偶尔 也是 去 kuala-lumpur 一年 一次 咯 kuala-lumpur
+NI01MAX_0101 1958805 1959844 EN kuala-lumpur
+NI01MAX_0101 1961350 1964128 CS penang 也是 有 我 penang 是 坐 cruise 去 的
+NI01MAX_0101 1965063 1981013 CS 坐 新加坡 的 cruise 去 penang 啧 那个 地方 很  很 糟糕 啊  跟 跟 新加坡 比 我 觉得  毕竟 比较 比较 比 比 比较 差 了 一点 啊
+NI01MAX_0101 1981267 1984791 ZH 不过 啧 是 这样 的 啦 差 不懂 诶 嗯
+NI01MAX_0101 1986175 1994040 ZH  我 我 我 看得出 了 我 我 看得出  我 看得出 我 看得出 槟城 啊  槟城 哪 很 吵 很 吵
+NI01MAX_0101 1998156 2002441 CS 马来西亚 desaru  cameron
+NI01MAX_0101 2002868 2011244 CS thailand 是 吃 啊 看 那些 farm  也 没有 什么 去 malacca 是 吃 了 吃 它 的 chicken ball ah
+NI01MAX_0101 2011473 2012226 ZH 啊 就这样
+NI01MAX_0101 2014498 2015187 CS thailand 没有
+NI01MAX_0101 2015706 2018147 CS thailand 我 没有 我 我 没有 去 过 thailand
+NI01MAX_0101 2020380 2021914 CS indonesia 没有
+NI01MAX_0101 2022539 2024383 CS 诶 indonesia 有 去 medan oh
+NI01MAX_0101 2025032 2027233 CS medan 那边 (啧)
+NI01MAX_0101 2027451 2029733 ZH 那边 的 人 很 独立 啦 我 觉得
+NI01MAX_0101 2029970 2030739 ZH 那边 人 很 独立
+NI01MAX_0101 2031914 2033290 ZH 他们 很 (啧)
+NI01MAX_0101 2035120 2042273 ZH 比 新加坡 人 更 独立 啦 我 觉得 他们 可以 做 很 很多 的 东西 啊 的 男 跟 女 都是 很 独立 的
+NI01MAX_0101 2044257 2045823 CS 嗯 business 的 独立
+NI01MAX_0101 2046539 2052963 ZH 会 比较 独立 啊 可能 是 他们 的 家人 训练 他们 还是 什么 他们 来 新加坡 也是 很 独立 啦
+NI01MAX_0101 2053243 2053744 ZH 嗯
+NI01MAX_0101 2060725 2061683 EN 
+NI01MAX_0101 2061683 2063942 ZH 想去 的 旅游 的 地方 (啊)
+NI01MAX_0101 2064387 2070413 CS 我 希望 可以 去 澳 去 澳洲 啦  找 一天 去 澳洲 去 gold coast 看看 一下
+NI01MAX_0101 2071084 2071830 ZH 去 那边
+NI01MAX_0101 2071830 2077275 CS 玩 它 的 roll~ roller coaster ah i think 那边 的 roller coaster 是  number one ah
+NI01MAX_0101 2077275 2078114 EN 
+NI01MAX_0101 2078821 2092688 CS 我 朋友 去 他 那 他 讲 他 roller coaster 一次 大概 是 五分 钟 吧 整个 他 讲 那边 很大 整个 新加坡 还 还 比 新加坡 大 他 讲 整个 roller coaster 这边 转来转去 很大
+NI01MAX_0101 2092688 2093482 ZH 很大 那边
+NI01MAX_0101 2094290 2094887 ZH 很大
+NI01MAX_0101 2095743 2097622 CS gold coast eh 没有 吗
+NI01MAX_0101 2098270 2105727 CS but 那边 的 东西 最好 了 我 觉得 in terms of of 那些 (啧)  是不是 number one ah 还
+NI01MAX_0101 2105990 2107460 CS 啊 roller coaster 这种
+NI01MAX_0101 2110499 2113400 ZH 这样 这样的 话 就 不对 了 这样 这样 的话 就 不对 了
+NI01MAX_0101 2113615 2118393 CS 应该 有 吗 真的 gold coast 最好 了  gold coast
+NI01MAX_0101 2123552 2125650 CS 也是 有 but 那 那边 的 (啧)
+NI01MAX_0101 2126006 2130754 CS gold coast 的 roller coaster 也是 有 coral reefs 也是 有  全部 都 全部 都 有
+NI01MAX_0101 2131823 2138471 CS 我 还 没有 去 啊 是 听 人家 讲 的 很多人 都 讲 它 那边 的 roller coaster 很好  找 找 找 一天 去
+NI01MAX_0101 2141863 2143187 CS 嗯 有 gold coast
+NI01MAX_0101 2144151 2145424 EN oh low cost
+NI01MAX_0101 2145424 2146663 EN 
+NI01MAX_0101 2147524 2150614 ZH 还是 不要 去  先 不要 去 先 啊 先 不要 去 先 啊
+NI01MAX_0101 2154422 2158413 CS australia 我 我 还 没有 去 过 诶 其实 我 我 还没有 去 过
+NI01MAX_0101 2160098 2161604 CS 嗯 去 gold coa~
+NI01MAX_0101 2161850 2168688 ZH 想 啦 想 去 不过 看 有 有 机会 去 就 去 呀  嗯
+NI01MAX_0101 2172051 2172946 ZH 嗯
+NI01MAX_0101 2174199 2175121 ZH 暂时 还 没有
+NI01MAX_0101 2175871 2179688 ZH 我 没有 出 没有 出 出远门 的 
+NI01MAX_0101 2181973 2182493 EN 
+NI01MAX_0101 2184187 2185762 ZH 原来 啊
+NI01MAX_0101 2204936 2213194 CS 哦 因为 我  因为 我 毕竟 是 在 这边 长的 嘛 成~ 成长 的 then 我 觉得 说 啧
+NI01MAX_0101 2213446 2236252 CS 要 出国 的话 可能 要 跟 我 家人 分离 可能 两 两 三年 这样  所以 我 觉得 尽量 不要 啦 在 新加坡 虽然 说 新加坡 的 那个  network ah 比 比较 小 了 一点 不过 啧 还是 可以 的 会 比较 难 一点 会 他 他们 讲 外国 的 p. h. d. 比较 吃香 啊 but 啧 
+NI01MAX_0101 2236783 2240653 ZH 我 不要 啦  最 最好 在 新加坡 读  最好 在 新加坡 读
+NI01MAX_0101 2246229 2248610 ZH 出国 我 希望 可以 去 麻省 诶
+NI01MAX_0101 2249558 2251639 CS 麻省 m. m.i.t. m.i.t.
+NI01MAX_0101 2252128 2258819 CS m.i.t. 去 那边 可能 去 那边 半年 吧 去 那边 看看 一下 他们的  cul~ 的 culture 是 怎样
+NI01MAX_0101 2259144 2263561 ZH 去 那边 也是 应该 不会 去 久 啦 希望 可以 希望 可以 去
+NI01MAX_0101 2266396 2269730 CS m. i. t. 是 在 u. s.
+NI01MAX_0101 2269947 2273912 CS u.s. 它 跟 那个  har~ 跟 harward 是 蛮 close 的
+NI01MAX_0101 2276506 2279483 CS states state 我 不 清楚 state 我 不 清楚
+NI01MAX_0101 2285980 2290729 CS n. t. u. 有 有 exchange 哦 you mean 我 bachelor 的 时候
+NI01MAX_0101 2293210 2308473 CS 我 我 没有 去 我 bachelor 的 时候 可以 去 but 我 没有 去 因为 我 比较 喜欢 在 新加坡 啦  then 因为 我 这个 post grad 我 需要 出国 一下 可能 出国 半年 这些 所以 可能 会 可能 可能 需要 出国 一下 
+NI01MAX_0101 2308473 2309340 ZH 出国 半年
+NI01MAX_0101 2314888 2320002 ZH 也不 是 肯定 啦 尽量 啦 可以 的话 我 希望 可以 可以 可以 去 哦
+NI01MAX_0101 2320630 2326228 ZH 不可以 的话 就 没办法  嗯 不可以 的话 就 没办法
+NI01MAX_0101 2337200 2340633 CS backpack  比如 什么
+NI01MAX_0101 2343863 2350128 ZH  哦 最好 是 跟 旅行团 啊 因为 毕竟 什么 都 不 不清楚 嘛
+NI01MAX_0101 2350128 2358510 CS 除非 是 真的 真的 是 做 了 很多 的 功课 啦  like 哪里 好玩 这些 then 写 好好 去 不然 没有 的话 就 最好 是 跟
+NI01MAX_0101 2359534 2371609 ZH 跟 旅 跟 旅 跟 旅行团 去 通常 是 通常 是 跟 旅行团 去 的 啦  通常 是 跟 旅行团 去 一个人 在 那边 会 迷路 嘛 有时 还是  看 啊 嗯
+NI01MAX_0101 2379453 2383919 CS hobbies ah  玩 游~ 玩 游戏 咯 可能 玩
+NI01MAX_0101 2384310 2394905 CS 玩 dota oh  dota dota war craft ah war craft 的 那个 dota  then red alert lor more to strategy type 的 那种
+NI01MAX_0101 2395342 2396069 ZH 简
+NI01MAX_0101 2396537 2396890 ZH 建
+NI01MAX_0101 2396890 2398963 CS 建 屋子 啊 建 东西 then 打
+NI01MAX_0101 2400434 2406930 CS sim city 没有 sim city 没有 red alert war craft  就 这样 啦
+NI01MAX_0101 2408104 2414933 CS 单单 red alert 就 很 就 就 很 就 有 很多 的 系列 了  啊 then 一  一个 一个 玩 咯
+NI01MAX_0101 2416607 2417179 ZH 嗯
+NI01MAX_0101 2424475 2427640 CS playstation 没有 console 的 东西 我 没有
+NI01MAX_0101 2428027 2429377 CS console 的 东西 我 没有
+NI01MAX_0101 2431199 2438723 ZH  玩 电脑 的 游戏 都 玩 都 都 都 玩 都 玩不完 还 玩  那种  机~ 玩 机器 
+NI01MAX_0101 2440024 2444413 CS m.r.d. 没有 那种 没有 那种 那种 啧  不要 啦 不要 
+NI01MAX_0101 2447079 2448274 ZH 我 住 外面 的
+NI01MAX_0101 2449260 2450585 ZH 我 是 住 外面 的
+NI01MAX_0101 2454704 2455241 ZH 嗯
+NI01MAX_0101 2456090 2456873 ZH 掺掺 啊
+NI01MAX_0101 2456873 2458433 CS 我 要 搭 bus 再 搭 m. r. t.
+NI01MAX_0101 2460635 2462790 ZH 不方便 啦 来到 这里  其实
+NI01MAX_0101 2464296 2467698 ZH 一小 一小~ 一小时 出 啊  一小时 出
+NI01MAX_0101 2469014 2477584 ZH 不过 我 第一年 有 住 宿舍 因为 我 第一 第二年 有 住 宿舍 所以 还好  第三 第三年 就 没有 了  第三年 就 没有 了
+NI01MAX_0101 2484519 2490968 ZH 这里 的 宿舍 啊 我 觉得 三 号 跟 十六 是 最好 的 它们 有 冷气
+NI01MAX_0101 2492873 2511047 CS 啊 then 它们 毕竟 会 比较 新 i think 好像 三 三 四年 而已 所以 说 蛮 新的 then 很 活动 啊 他们 呢 很多 的 activity 不过 in aircon room 那种 我 就 啧 比较 少 因为 人 会 关门 嘛
+NI01MAX_0101 2511566 2516732 CS 有 aircon 就 全部 开 aircon then 门 关 你 门 关 的话 就 跟 人家 讲话 就 比较 难 了 除非 你 要 敲 门
+NI01MAX_0101 2517332 2529727 CS 因为 我 去 别的 hall 去 hall hall two 这种 他们 全部 门 开开 的 整个 走廊 的 门 开开 then 走过 可以 进去 里面 比较 容易 啦 会 比较 容易 then 毕竟 是 那个 hall
+NI01MAX_0101 2530046 2540991 CS hall 新的 话 那个 j. c. r. c. 会 比较 新 新 的话 会 比较 不 团结 啊 like 比较 新 嘛 whereas hall two 已经 很多 年 了 so 一代 传 一代 一直 下 一直 下
+NI01MAX_0101 2541430 2542001 ZH 所以
+NI01MAX_0101 2543405 2548183 CS 他们 他们 会 like train 一个 commitee oh 来 教 一下 new generator
+NI01MAX_0101 2548346 2559548 CS new generations 可能  chinese chess then after after this batch becomes the venteran of chinese chess then 他 又 会 再 教 另~ that means 他 会 有 community 一直 一直 下 的 in chess
+NI01MAX_0101 2560050 2564597 CS otello 这种 that's why 他们 在 hall hall games 的 时候 一直 都 很好
+NI01MAX_0101 2565688 2573513 CS but for hall three hall hall three 的 hall three 还是 新 哦 but 它 的 那些 人 住 在 hall hall three 的 时候是
+NI01MAX_0101 2573721 2585798 CS 因为 before that 也是 有一个 新~ 旧的 hall three then when 新的 hall three 出来 的 时候 他们 搬 过去 so the tradition is still there ah 我是 住 hall 十六 那个 是 很 新的
+NI01MAX_0101 2585798 2588074 ZH 根本 就 从 从来 都 没有 所以
+NI01MAX_0101 2588074 2596110 CS 它的 第一 批 的 j. c. r. c. 很像 不 清楚 要 做 什么 something like that 啊 like 有 有 leadership ah then the bond
+NI01MAX_0101 2601315 2604741 CS 不同的 hall ah  facilities
+NI01MAX_0101 2605503 2616546 CS facilities 差不多 是 一样 的 可能 hall 三 跟 十六 的 比较 好 因为 他们 有 有 aircon ah but hall two 也是 很好 其他的 也是 都 很好
+NI01MAX_0101 2618865 2622335 CS 用 aircon 大概 多 五十 块 吧 一个 月 会
+NI01MAX_0101 2624241 2625840 ZH (诶) 
+NI01MAX_0101 2625840 2629883 ZH 所以 很难 进 啦 很 很多 人 要 进 不过 很 很 很难 进
+NI01MAX_0101 2632432 2635759 CS 大概 要 十五分 吧 c. c. a. point 要 十五分
+NI01MAX_0101 2635957 2637920 ZH 很 高 啊  是 是
+NI01MAX_0101 2639282 2645847 CS 他们 这种 分数 有 两个 一个 是 你的  distance from 你的 school to home
+NI01MAX_0101 2646799 2648555 ZH 那个 是 最高 可以 拿 九分
+NI01MAX_0101 2649276 2653785 CS 另外 一个 是 你的 c. c. a. 的 campus involvement 那个 也是 另外 的 九分
+NI01MAX_0101 2654211 2656895 CS 那个 九分 应该 是 要 在 main comm 的 那种
+NI01MAX_0101 2657386 2664624 ZH 所以 最高 是 十八分 啊 所以 他们 要 十五分 才 才 才 可以 进 我是 十 十三分
+NI01MAX_0101 2665293 2668240 ZH 我 十三分 所以 还是 不可以
+NI01MAX_0101 2668670 2669333 CS 我 是-
+NI01MAX_0101 2673204 2674509 ZH 哦 找 远方 的 啊
+NI01MAX_0101 2675731 2679820 ZH 这种 这个 我 不 清楚 因为 我 通常 是 用 家里 的 地址
+NI01MAX_0101 2680551 2684187 CS so 住 boon-lay 的 会 很 会 很 吃亏 啊 很像 一分 而已 很像
+NI01MAX_0101 2684877 2687550 CS 它 那个 一分 then 你 九分 最多 给 十分
+NI01MAX_0101 2692578 2696365 CS 我是 block rep eh 我 是 block representative of hall 十六
+NI01MAX_0101 2697221 2701340 CS so 在 那边 我是  ah organize for gatherings ah
+NI01MAX_0101 2701694 2712319 CS 我 是 basically 我 represent 我的 hall lah so if vice president which is the main committee 他 他 有 一些 事 的话 他 会 跟 我 讲 then 我 回去 跟 我 block members 讲
+NI01MAX_0101 2714935 2722116 CS you mean block rep ah 就是 要 敲 门 跟 他们 讲 说 几 几时 有 supper 这种 东西 咯
+NI01MAX_0101 2722404 2733040 CS then like 可能 new year 什么 new new year 的 时候 before that 会 跟 他们 一 一起 去 走走 啊 去 supper hall hall supper 这种 东西 敲 门 啊
+NI01MAX_0101 2734460 2739620 CS 做 saikang 啊  做 saikang 啊 不过 也好 啦 因为 可以 可以 认识 很多 人
+NI01MAX_0101 2743696 2745053 ZH 一层 大概 有
+NI01MAX_0101 2745776 2751601 ZH 一层 大概 有 十 十五 十六 个 人 总共 有 大概 六 层 吧 接近 一百
+NI01MAX_0101 2755701 2760168 CS 一楼 男 一楼 女 一 一楼 女 哦 alternate nah boy girl boy girl 这样
+NI01MAX_0101 2766796 2768614 EN as in strict as in
+NI01MAX_0101 2771702 2772337 ZH 狼 啊
+NI01MAX_0101 2774530 2783390 ZH 哦 男 上去 女 应该 没有 问题 没有 没有 问题 应该 应该 没有 问题  因为 我 经常 也是 去 她们 的 房间 讲话 这种 东西
+NI01MAX_0101 2788125 2794690 CS 我是 那个 u.r.e.c.a. 的 sub comm ah u.r.e.c.a. 是一个 undergraduate research 的 committee 来 的
+NI01MAX_0101 2795462 2798066 CS 那个 朋友 景炎 啊 他 是 那个 main comm ah
+NI01MAX_0101 2798499 2806753 CS 他 他 是 main comm 是 他 推 他 推荐 我 进 我 进去 的  then 我 在 那边 我 是 做 pub~ pub~ publication 的
+NI01MAX_0101 2807705 2815538 CS so in pub~ publication 我 是 adjust 那个- 因为 他们 有 出 magazine mah 所以 我 要 collect 一些 information 放 进 magazine
+NI01MAX_0101 2816219 2816925 ZH 啊 就 这样 咯
+NI01MAX_0101 2819764 2823829 CS u.r.e.c.a. 的 main purpose ah it's to promote research ah in undergrad
+NI01MAX_0101 2824403 2826905 CS 因为 在 undergrad 他们 有一个 program mah
+NI01MAX_0101 2827292 2837441 CS 叫 u.r.e.c.a. so 这个 committee 是  叫 is is is is to foster the research cul~ culture in to those undergrad sutdents ah
+NI01MAX_0101 2838618 2844738 CS 希望 more undergrads 会 take up research work then after that go up to p. p. h. d. level something like that
+NI01MAX_0101 2851979 2853970 CS oh you mean 我 的 research culture
+NI01MAX_0101 2860995 2875020 CS 有 我 second year 的 时候 有 因为 我 有 机会 做 做 做 做 u.r.e.c.a. ah so at that time 我是 做 电子 electronics so 我是 用 software 来 simulate 一些 power processor elements
+NI01MAX_0101 2875492 2885939 CS 那个 那个 是 蛮 好 的 as in 蛮 interesting 的 but  electronics 我 觉得 很难 哪 as in  as in 我 觉得 我 不是 很 很 上手 啦
+NI01MAX_0101 2886199 2889323 ZH 可能 说 我 读 这个 东西 会 花 很多 的 时间 读
+NI01MAX_0101 2889323 2892352 CS but whereas communication 我 读 的 时候 会 like 啧 
+NI01MAX_0101 2892352 2896927 CS 比较 容易 啦 then 我 读 的 时候 会 比较 喜欢 所以 我 final year 我 specialize comm
+NI01MAX_0101 2897485 2900619 CS but 我 的 research 的 时候 我 是 做 elec~ electronics
+NI01MAX_0101 2900619 2910134 CS then 我 觉得 做 research 很 啧 it's interesting like as in 什么 都 没有 给 你 我 记得 我 跟 我 朋友 去 见 我 supervisor 的 时候 他 给 我 一个 啧 一个
+NI01MAX_0101 2910134 2910873 CS s~ 一
+NI01MAX_0101 2910873 2923256 CS 一个 stack of notes on software 的 then then 我 就 跟 他 讲 sir got any books or not then 他 跟 我 讲 you go and find yourself  then then 我 就 okay okay 我 懂 了 懂 了 then i think 那个 是个 很好 的 经验 喏
+NI01MAX_0101 2928385 2928821 EN not
+NI01MAX_0101 2929399 2934450 CS 要 顶尖 啊 that means 成绩 要 好 then 他 推荐 你 去 做 这个 东西
+NI01MAX_0101 2935204 2938757 CS 因为 这个 是 一个 ex~ ex~ extra 的 一个 module 来的
+NI01MAX_0101 2938757 2943307 CS it's not in the curriculum 的 啊 not compulsory to take lah
+NI01MAX_0101 2943307 2944664 EN 
+NI01MAX_0101 2944664 2946049 CS 谁 要 take 就 可以 去 take
+NI01MAX_0101 2955024 2955543 ZH 这个 属
+NI01MAX_0101 2957328 2967060 CS 这个 club 是 一定要 u.r.e.c.a. 的 students 才 可以 进 就是说 不可以 随随便便 一个 学生  参加 这个 club
+NI01MAX_0101 2967491 2968171 ZH 一定~
+NI01MAX_0101 2970111 2974264 CS 一定 要 做 u.r.e.c.a. like 我 我 做 过 这个 u.r.e.c.a. 的 project
+NI01MAX_0101 2974264 2981966 CS then 我 才 可以 进 这个 club  then 第二 是 of course 他们 会 选 他们的 president vice president 这种 啦
+NI01MAX_0101 2981966 2986083 CS social secr~ secr~ secr~ secretary 这种 东西
+NI01MAX_0101 2986372 2995601 CS but 这种 东西 是 bases on votes 的 嘞 that means 他们 会 选 then after that 他们 会 叫 all the students in triple e. to vote for 这些 student oh
+NI01MAX_0101 2995601 2997680 EN then those who gets the highest votes will
+NI01MAX_0101 2998128 3003308 CS will automatically be the president ah 就 这样 这个 club 还是 蛮 新 啊
+NI01MAX_0101 3007362 3021056 CS 两年 吧  最迟 最多 最多 也是 三年 而已 因为 这个 club 是 这个 u.r.e.c.a. 的 program 是 是 四年 前 四年 前 才 有 的 本来 undergraduate 没有 机会 做 research work
+NI01MAX_0101 3026643 3028865 CS 有 我 这个 我 electronics 有 一个
+NI01MAX_0101 3029240 3031700 EN it's it's like a normal final year project
+NI01MAX_0101 3031700 3039362 CS a final year research pro~ project 这样 咯 it's just that 我 做  during my second year one year 也是 啦 it's a one year project
+NI01MAX_0101 3042935 3053430 CS 哦 我 final year project 是 third year but 我 u.r.e.c.a. 是 second year 做 it's then 这 两个 是 it's very similar lah 做 research work 因为 我 最后 一年 也是 在 做 research work
+NI01MAX_0101 3054741 3058406 CS 做 用 用 两年 的 时间 做 research work 嗯
+NI01MAX_0101 3062782 3063968 CS 全部 的 field 都有
+NI01MAX_0101 3064380 3065736 CS 全部 的 field 都 有 that means-
+NI01MAX_0101 3067381 3068169 EN u.r.e.c.a.
+NI01MAX_0101 3068169 3080948 CS 因为 毕竟 不是 很 很 很多 人 可以 可以 可以 进 啊 可能 说 一千个 人 五十个 可以 可以 可以 进 then 这 五十个 也 不是 说 全部 人 要 join 这个 club
+NI01MAX_0101 3081167 3089892 CS 可能 五~ 五十个 有 十 十五个 要 join 这个 club so 整个 club 也 大概  十多个 咯 十多 二十个 人 这样
+NI01MAX_0101 3093889 3099072 CS 大部分 哪 大部分 是 triple e. 跟 computer en~ com~ computer lah
+NI01MAX_0101 3100224 3101147 EN bio~
+NI01MAX_0101 3101147 3101928 CS bio 好像 很少
+NI01MAX_0101 3104310 3106970 CS 啊 maths 也是 有 mathematical science
+NI01MAX_0101 3107323 3109825 CS degree of mathematicals 那个 也是 有 蛮多的
+NI01MAX_0101 3111557 3112538 CS basically 是 这样 啦
+NI01MAX_0101 3113432 3116578 CS business 这种 就  有 啦 不过 很少
+NI01MAX_0101 3121798 3124470 CS arts arts 很像 没有 嘞 没有 看到
+NI01MAX_0101 3125228 3126946 CS art~ art~ arts 的 我 没有 看到
+NI01MAX_0101 3127306 3128259 ZH (嗯) 应该 是 没有
+NI01MAX_0101 3128798 3136195 CS 可能 有 啦 不过 我 我 不认识 他们 but 我 所- 据 我 了~ 我 了解 应该 是 不清楚 应该 没有
+NI01MAX_0101 3145835 3156044 CS 我 degree 几年 啊 最 快 是 三年 最 慢 可以 一辈子  做 我 做 不出 的话 就 要 一直 做 咯
+NI01MAX_0101 3157800 3167179 CS (诶诶) 好像 好像 没有 limit 的 他们 讲 av~ the average 是 四年 哪  but 十~ 有些人 是 做 十年 哪
+NI01MAX_0101 3167490 3170549 ZH  就是 一直 做 因为 他们 做不出 嘛
+NI01MAX_0101 3173608 3180304 CS 有 啊 (啊) 第一~ 要 读 六科 六科 六 六个 course ah
+NI01MAX_0101 3182531 3191759 CS 我是 more to digital comms 的 so 我 全部 是 in communications 跟 network networking side 的 signal processing 有 一 科 吧 signal processing
+NI01MAX_0101 3192412 3194894 CS take take 多 一个 then 就 then 就 这样 啦
+NI01MAX_0101 3203889 3205855 ZH 英文 英文 可能 需要
+NI01MAX_0101 3205855 3206354 ZH 英
+NI01MAX_0101 3207643 3223808 CS 英文 有 拿 过 不过 他 还是 叫 我 拿 多 一个 嘞 i think 是 group teaching 的 因为 我 第二 年 要 教 要 assist 那个 school 来 教书 嘛 so i think 他 要 我 学 一些 底 skills of teaching mah something like that
+NI01MAX_0101 3227032 3227898 EN mm ok
+NI01MAX_0101 3229667 3233137 CS g. r. e. ah 哦 新加坡 不 不 需要
+NI01MAX_0101 3233489 3238683 CS 啊 啊 不是 啊 在 新加坡 读 不需要 新加坡 -
+NI01MAX_0101 3240022 3250910 CS foreigner 因为 我 不 清楚 因为 我 懂 if 我 要 去 外国 读 p. h. d. 我 我 我 要 读 这个 g.r.e. but 在 新加坡 n. t. u. 就 不 需要 n.t.u. n.u.s. 就 免 了
+NI01MAX_0101 3251691 3255847 ZH 这个 也是 一 一个 原因 啊 做么 我 做么 我 在 我 在 这边 读
+NI01MAX_0101 3263263 3266855 CS 哦 要 读 哦 要 拿 g.r.e. ah 哦 这样 本地人 可能 就 不需要
+NI01MAX_0101 3268090 3272582 CS g.r.e. 不容易 啊  英文 的  英文的
+NI01MAX_0101 3274222 3275787 CS vo~ vocabulary 很多
+NI01MAX_0101 3276531 3280144 CS g.r.e. 跟 s.a.t. one 有 什么 不同 啊 你 懂 吗
+NI01MAX_0101 3283313 3287295 CS 越来越-  越来 obs~
+NI01MAX_0101 3287295 3297883 CS it's an obstacle ah 我 觉得 这种  因为 我 来 n. t. u. 的 时候 也是 有 读 s.~ s.a.t. one 嘛  那个 是 (啧) 评估 啊 那个 是 评估 的 测验 哇 那个 很难
+NI01MAX_0101 3298521 3303783 ZH 那个 是 不只 要 会 还有 速度 的 可能 半 半 小时 做 三十五 题 啊
+NI01MAX_0101 3305188 3310048 ZH 应该 是 做 不 完 啊 我 通常 没有 做 完 的 能 能 做 多少 就 做 多少 那种
+NI01MAX_0101 3310421 3311403 ZH 英~ 英文 的
+NI01MAX_0101 3316848 3318535 CS mandarin 的 level ah
+NI01MAX_0101 3319679 3320785 EN i see
+NI01MAX_0101 3320785 3327341 CS 我 读 到 secondary five ah 应该 应该 是 有 啊  十一 年 吧 从小

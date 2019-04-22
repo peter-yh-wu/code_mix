@@ -1,0 +1,205 @@
+UI14MAZ_0102 0 5395 CS 是 他们 的 一个 一个 culture 来 所以 你 跟 他们 谈谈 说 起 他们 喜欢 的 一些 球队 他们 会 很 开心
+UI14MAZ_0102 5859 9160 ZH 乎 然后 可以 啦 谈谈 天 谈 北 这样
+UI14MAZ_0102 9540 14619 CS 所以 这个 又是 其一 一 个 一个 不同 的 skill 咯 (嗯) presentation skill
+UI14MAZ_0102 15269 24114 CS 啊 比如 说 因为 偶 我们 也是 通 很多 时候 通过 话 不是 (嗯) 不是 每 一天 都 有 那个 luxury to be able to talk to them face to face directly
+UI14MAZ_0102 24476 26817 CS 所以 偶尔 他 很多 时候 book (呃)
+UI14MAZ_0102 27661 31475 CS it's it's quite normal to see that 五十 percent of our customers
+UI14MAZ_0102 31636 36693 CS or not customer 就是 我们 的 colleague 就是 全部 都 只是 一个 名字 而已 和 一个 声音
+UI14MAZ_0102 37128 43167 CS 不过 没有 脸 的 哦 right 啊 可能 你 可以 看到 他 照片 不过 你 没有 看过 他 animated 这样 真人 这样
+UI14MAZ_0102 43499 48585 CS 所以 你 要 靠 你的 想 像 才 find out 就 是 讲 说 你 可以 自己 想 哇 他 是 一个 俊 男 美女 什么 这样
+UI14MAZ_0102 48907 50678 ZH 哦 其实 也是 (呃)
+UI14MAZ_0102 51793 56864 CS 然后 就是 啊 那个 skill 我 所 说 的 就是 (呃)
+UI14MAZ_0102 57918 58273 ZH 比如 说
+UI14MAZ_0102 59318 68309 CS communication skill 啊 大家 都 应该 知道 就是 说 七十 percent 是 通过 body language 嘛 and that 七十 percent is being taken away when we just use 电话
+UI14MAZ_0102 68538 78104 CS 这样 而已 所以 (啊) 剩下 那 三十 percent 里面 (啊) 有 时候 只是 谈 一些 project 不用 紧 有 一些 如果 我们 投 到 一些 executive 的 的 的 meeting
+UI14MAZ_0102 79368 84439 CS 乎 你 要 做 一个 presentation to 你 的 manager 的 manager 的 director 这样 哦
+UI14MAZ_0102 85286 93598 CS 所以 这样的 状况 之下 (啊) 一个 很 成功 很 successful 很 出色 的 project manager 就是 他 有 很好 的 presentation skill
+UI14MAZ_0102 93598 97600 CS 那 怕 他 你 看 不到 他 你 也 可以 感受 到 整个 picture 整个
+UI14MAZ_0102 98020 102158 ZH 整个 画面 这样 哦 通过 几个 图 这样 他 能够 说 到
+UI14MAZ_0102 105048 108082 ZH 啊 他 可以 画 出 一个 整个 整个 画面 出来
+UI14MAZ_0102 108350 115214 CS 将 他 要 deliver 的 讯息 能够 顺利 的 讲 on top of that 他 还 能够 让给 你 一定 的 input
+UI14MAZ_0102 115410 125693 CS 就是 拿 那个 input feed back yeah 是 two way 的 一个 interaction 所以 presentation absolutely skill is absolutely one of the the the skill 我们 也 需要 的 咯
+UI14MAZ_0102 126191 135843 CS 然后 on top of that (呃) 如果 你 有 technical skill 也好 咯 就是 你 你 你 你 你 要 做 什么 project 都 好 什么 program 都 好 如 你是 那 那一 门 的
+UI14MAZ_0102 136429 140589 CS 那一 方面 的 s. m. e. 就是 subject matter expert
+UI14MAZ_0102 142317 146862 ZH 你 可以 说 我在 这 行 我 已经 做 了 两 三年 现在 我 要 做 一些 就是 不同 的 东西
+UI14MAZ_0102 146862 147253 EN 
+UI14MAZ_0102 147253 153126 CS 你 跟 人家 说 人家 会 比较 convincing 一点 就是 觉得 说 嗯 对 嘛 你 sound 你 曾经 做
+UI14MAZ_0102 153380 164379 CS 而 不是 说 嗯 你 只是 凭空 想 像 design 一些 东西 出来 这样 其实 你是 本身 是 那一 行人 所以 technical skill 也是 啊 not absolutely necessary but if you have it it's a added bonus 咯
+UI14MAZ_0102 166534 168282 CS 这个 好像 是在 做 着 interview 这样
+UI14MAZ_0102 168282 168936 EN 
+UI14MAZ_0102 169571 172937 CS 对 对 对 对 对 这些 这些 都 some of the skill that we are looking for 啦
+UI14MAZ_0102 176852 178860 EN en okay attitude is a
+UI14MAZ_0102 179807 180764 EN is a wah
+UI14MAZ_0102 181028 187596 CS attitude 简 简单 严格 来说 每个 人 都会 有的 咯 这些 就 是 一些 不同 的 characteristic 嘛
+UI14MAZ_0102 187596 189539 ZH (嗯)
+UI14MAZ_0102 189539 194399 ZH 我们 要 最 重要 就 是 说 你 要 (呃)
+UI14MAZ_0102 196244 203060 CS 要 open 啦 be open 而已 啦 很多 时候 我 看过 很多 啊 situation scenario 就是说 有 一些
+UI14MAZ_0102 203509 206643 CS 啊 比如说 之前 我 有 一些 泰国 的 啊 (emm) colleague
+UI14MAZ_0102 207092 217940 CS 哦 原来 他们 之间 就是 啊 我 不 说 他是 attitude 其实 是 蛮 culture 的 东西 就是 原来 男 的 很难 work with 女 的
+UI14MAZ_0102 218956 222826 ZH 吓 吓 而且 男 的 又是 年长 的话 乎
+UI14MAZ_0102 223481 229104 CS 他 很难 跟 比较 age 比较 轻 比较 年轻 的 的 (啊) female work
+UI14MAZ_0102 229876 234508 CS very strange but 啊 that is a fact and (啊) so 这些 
+UI14MAZ_0102 235817 242608 CS i would say is not really atti~ 当然 attitude 的 例子 也是 很多 比如 说 他 就 是
+UI14MAZ_0102 242784 247032 CS (嗯) 不是 很 很 哇 attitude 是
+UI14MAZ_0102 248418 249327 EN (erm)
+UI14MAZ_0102 251016 257599 CS 我们 我 最 重要 的 就 是 要 open 然后 你 要 能够 能够 willing to learn to open to learn you know right
+UI14MAZ_0102 257599 270245 CS 因为 我们 在 在 dell 这样的 一个 u. s. company 他是 open open hiring concept 就 是 说 他 不理 你 多少 岁 就是 年轻 或者 他 不管 你的 皮肤 颜色 race 他 不管
+UI14MAZ_0102 270792 277668 CS 对 对 所以 所以 这样 这样 一个 open 的 东西 我们 请 到 我们 也是 expect 你 会 open 的 去 去 去 学
+UI14MAZ_0102 278196 281212 CS 然后 最 重要 就是 你 能够 deliver 它 就 okay 了 咯
+UI14MAZ_0102 281573 283546 ZH 不过 很多 时候 并 并 不是 这样 简单
+UI14MAZ_0102 283546 290461 CS 比如说 日本 来说 japan 的话 你 会 发现 他们 很多 hiring 找 人
+UI14MAZ_0102 291164 299332 CS 就是 他们 会 set 一个 age limit 首先 那么 他 会 specific 要 男 要 女 啊 乎 age age 是一个 很大 的 问题
+UI14MAZ_0102 299654 305486 CS 在 在 我们 的 interview 我们 的 啊 dell company 你 不 需要 写 你 的 age 的
+UI14MAZ_0102 306111 310961 CS there's no age limit 当然 你 不要 说 你 不懂 已经 过 retire
+UI14MAZ_0102 310961 316918 CS based on still there's a minimum guide line within 那个 国家 那个 country 的 labour law right
+UI14MAZ_0102 317240 320486 CS maybe within malaysia 我们 说 五十五 岁 之后 就 retire
+UI14MAZ_0102 320486 322215 CS 所以 没有 五十六 岁 你 apply for 那个
+UI14MAZ_0102 322215 327821 CS 其实 也 可以 的 不过 会 比较 surprise 啦 哦 五十六 岁 的 人 来 来 interview
+UI14MAZ_0102 327821 336279 CS 不过 it's not really a a requirement you not necessary need to paste a 照片 啊 什么 这样 所以 这个 是一个 很 open 很 fair 的 一个
+UI14MAZ_0102 336816 341293 ZH 一个 一个 (啊) 工作 (呃) (呃) (呃)
+UI14MAZ_0102 341293 346274 EN job opportunity for everyone outside there irregardless of race age
+UI14MAZ_0102 346274 349946 CS and 这 这 and 这 because of 这一点 我 也 是 觉得 我 我 我
+UI14MAZ_0102 350375 358077 CS 我 很 我 feel as a employee for this company 我 觉得 我 是 很 proud 的 一个 很 很 很好 很好 的 东西
+UI14MAZ_0102 358428 363879 CS 所以 attitude 的话 啊 会 有 那么 有 的话 (呃)
+UI14MAZ_0102 365071 367326 ZH 要 看看 你 要 怎样 去
+UI14MAZ_0102 368449 371114 CS (啊) manage 他 咯 (呃)
+UI14MAZ_0102 372383 372920 ZH 就是
+UI14MAZ_0102 374522 374917 EN haih
+UI14MAZ_0102 375844 380121 CS 见过 的 比如 说 啊 有 一些 就是 比较 年轻 的 一 group 然后 比较 有 家庭 的 一 group
+UI14MAZ_0102 380121 385987 CS 就是 两个 不同 的 group 不过 如果 如果 容 che~ 能够 能够 compatible 的话 就 是 没有 问题
+UI14MAZ_0102 385987 390084 ZH 有 一些 就 觉得 (啊) 可能 话题 不对 啊 可能 就是 我 就是 不 喜欢 你 你 就是
+UI14MAZ_0102 390270 394453 CS 这个 就是 人之常情 一个 很 common 的 一些 characteristic 所以 这些 是 难免 的
+UI14MAZ_0102 394863 398691 CS 啊 at the end of the day professional as a business 我们 要 的 就是
+UI14MAZ_0102 399228 404283 CS 大家 能够 达到 一个 objective 达到 一个 我们 需要 到 的 goal 一些 output
+UI14MAZ_0102 405035 410468 CS after that attitude 只是 something as long as you 你 不 break 那个 law 你 不
+UI14MAZ_0102 411064 415811 CS 乎 (啊) break 那个 那个 那个 office 的 ethics 啊 whatever 这样
+UI14MAZ_0102 416534 423517 CS it's it's (呃) it's okay one i think in terms of (啊) 比如说 像 mild 对 吗 他 又 很多 的 顾虑
+UI14MAZ_0102 424669 433374 CS 也 保护 (呃) (呃) 那些 员工 的 rights 乎 (呃) 我 觉得 很多 那个 尺寸 哪 他是 蛮 flexible 咯
+UI14MAZ_0102 433667 441405 CS 给 你 很大 的 空间 他 不能 够 说 马上 because 因为 attitude 是一个 subjective 的 东西 嘛 他 不能 说 嗯 because of attitude
+UI14MAZ_0102 442011 450059 CS 我们 要 炒 到 他 什么 这样 啊 there's no such thing one 啦 最 重要 是 (呃) 能够 做工 咯 就是 这样 而已 咯 嗯 嗯
+UI14MAZ_0102 453962 454548 ZH 嗯
+UI14MAZ_0102 455495 455993 EN um-hmm
+UI14MAZ_0102 468590 478367 CS (嗯) i am for 我 的 case is not as serious until 我 需要 去 consult 找 一些 medical 啦 也不 是 说 那些
+UI14MAZ_0102 479109 483055 CS 啊 失眠症 啊 insomnia 还是 什么 这样 啊 basically
+UI14MAZ_0102 483261 487479 CS (呃) 不过 我 可以 说 maybe is disorder 啦 sleeping disorder
+UI14MAZ_0102 487860 495488 CS 或者 是 我 不能 够 很 有一个 很好 很 就是 很 很 能够 reach 那个
+UI14MAZ_0102 496250 502692 CS 那个 不懂 什么 睡 睡 睡眠 也是 有 很多 阶段 的 那个 level stage one stage two stage three 是 你 睡 到
+UI14MAZ_0102 503746 506189 ZH 人家 叫 你 都 叫 不 醒 火烧 到 都 不知道 这样
+UI14MAZ_0102 506531 511716 CS 乎 stage one 就是 比如说 你 你 不懂 什么 你 的 眼孔 啊 然后 到 certain stage 啊
+UI14MAZ_0102 512048 517206 ZH 他 会 跳动 啊 什么 这样 我 不是 很 清楚 啦 读 过 啦 不过 啊 我 知道 就是说
+UI14MAZ_0102 517323 523592 ZH (呃) 如果 我 睡觉 我 得到 一个 很好 的 休息 就是 我 就 从 睡 到 醒 哦 没有 没有 醒 起来 这样
+UI14MAZ_0102 524119 529069 CS okay 间 中 there's no interruption 不用说 要 去 啊 晚上 要 去 toilet 啊 什么 这样
+UI14MAZ_0102 529381 538676 CS (呃) 不过 有 时候 (呃) 蛮 stress 的 时候 首先 会 遇到 问题 problem 就是 很难 入睡
+UI14MAZ_0102 539321 547447 CS 第二 睡 了 就 睡 得 很 很 light 很浅 就是 一点点 翻身 你 就 醒 一点点 noise 你 就 醒 这样
+UI14MAZ_0102 547887 555749 CS 所以 那样 那样 的 sleeping order 可能 你 你 accumulate 起来 也是 八个 小时 六个 小时 和 compare 那个 六个 小时 两个 我 相信 你 也是 知道 说
+UI14MAZ_0102 556110 560145 CS (啊) 这个 continuous 的 那个 sleep 会 会 有 比较 好的 东西 那个
+UI14MAZ_0102 560516 565645 CS 那个 间断 间断 这样 睡 一下 又 醒 起来 这样的 那个 早上 起来 也是 会 有 眼袋 eye bag 这样 所以
+UI14MAZ_0102 566182 567198 ZH (嗯)
+UI14MAZ_0102 568399 577533 ZH 我 有 这样 的 问题 我 承认 呃 我 通常 都是 要 自己 去
+UI14MAZ_0102 578334 583284 CS 找 一些 reason 咯 to to to fix the problem 我 没有 去 找 过 doctor 什么 这样 不过 现在
+UI14MAZ_0102 583869 587981 ZH (啊) 就是 看 每 一个人 有 不同 的 一些 一些 一些
+UI14MAZ_0102 589605 603592 CS 去 overcome 这样 的 problem maybe for example 我 自己 会 说 okay 我 睡 不 着 怎样 我 不要 勉强 我 自己 躺 在 那边  硬 硬说 要 睡觉 很难 我 知道 所以 就 (嗯) 我 会 我 会
+UI14MAZ_0102 604461 605252 ZH 找 牛奶 喝 咯
+UI14MAZ_0102 605252 606433 EN 
+UI14MAZ_0102 606433 610073 CS 找 牛奶 喝 或者 是 找 一 本 很 boring 的 一个 story book
+UI14MAZ_0102 610883 615855 CS 读 过 很多 次 了 的 读 啦 这个 我 比较 少 用 这样 因为 也是 很 痛苦 的 你 读 那个 boring
+UI14MAZ_0102 616910 619449 CS 乎 如果 你 读 到 很 boring 了然 后 你 就 睡觉 it's fine you know
+UI14MAZ_0102 619879 622711 ZH 不过 你 睡 了 啊 那个 灯 还没有 关 你 又 要 醒 起来 又 再 去 关 这样
+UI14MAZ_0102 623072 625847 ZH 啊 所以 这个 也是 蛮 麻烦 的 就
+UI14MAZ_0102 626804 629929 CS 有 我 有 很多 的 dis~ sleeping disorder
+UI14MAZ_0102 630456 631062 EN (erm)
+UI14MAZ_0102 632839 638179 CS 我 我 我 我 i want to believe that 我 还 年轻 我 还 能够 cope with 这样的 stress 咯
+UI14MAZ_0102 638746 642890 ZH 所以 很 奇怪 有 时候 我 觉得 我 睡 五个 小时 就 就 够 了
+UI14MAZ_0102 643349 648528 CS 因为 晚上 睡 不 着 嘛 所以 很多 时候 maybe
+UI14MAZ_0102 649632 651261 ZH 我 没有 这样的 一个 一个 一个
+UI14MAZ_0102 651261 651788 EN <unk>
+UI14MAZ_0102 651788 660268 CS 一般 来 说 可能 讲 or i would expect 啦 normal 的 人 十一点 多 就 觉得 嗯 累 十二 点 应该 睡 to 我 十二 点 就 好像
+UI14MAZ_0102 660981 667659 ZH 还 还 很 早 一点 就 开始 应该 准备 哦 蛮 夜 了 有 那个 那个 意识 的
+UI14MAZ_0102 668050 677206 CS 有 一个 意识 到 哦 was quite late 然后 两 点 就 啊 累 啦 累 啦 哇 都 一点 困 了 maybe two and a two thirty 这样 我 才 会 进入
+UI14MAZ_0102 677714 682520 ZH 啊 床 这样 然后 才 会 尝试 睡觉 如果 已经 就是
+UI14MAZ_0102 682520 684483 ZH (嗯)
+UI14MAZ_0102 684483 691825 ZH 睡觉 并 不是 因为 我 那个 时间 到 而是 我 真的 累 了 我 才 睡
+UI14MAZ_0102 692206 693734 ZH 我 觉得 这样 太 长期 也是
+UI14MAZ_0102 694144 700628 CS 惯 惯 了 也是 不好 因为 是 你 已经 exceed 那个 demand 然后 你 才 去 rest
+UI14MAZ_0102 701019 707402 CS 你的 output 已经 exceeded 了了 而 不是 说 你 已经 routine 说 啊 你 你 的
+UI14MAZ_0102 708417 710195 ZH (嗯) (嗯) 怎么 说 你 就是
+UI14MAZ_0102 710810 717499 ZH (呃) 不 需要 太 累 你 才 去 睡 一下 而是 你 的 身体 说 诶 时间 到 睡觉 这样
+UI14MAZ_0102 718104 722663 CS 所以 (嗯) yes i think i have sleeping disorder
+UI14MAZ_0102 723874 727078 EN and maybe some other hidden problem also don't know la
+UI14MAZ_0102 727078 727771 EN 
+UI14MAZ_0102 727771 730828 EN but (erm) yeah sleeping order is one problem la
+UI14MAZ_0102 738954 744034 EN (erm) it is very important because (erm)
+UI14MAZ_0102 747696 753962 CS 有了 passion 你 才能 够 continue 去 很多 时候 我们 都是 在 一个 materialistic 的 一个 world 里面 就是
+UI14MAZ_0102 754450 759066 CS 就是 at the end of the day 我们 看 说 哦 我们 做 这样 多 的 工 我们 拿 到 多少 的 salary 这样
+UI14MAZ_0102 759681 764457 CS 那么 如果 你 你 你 可以 往 如果 你 有一个 很 高 的 salary 你 可以 不 需要 passion
+UI14MAZ_0102 765170 770176 CS 不过 如果 你 的 salary 是 一般 人 which most of time when 我们 是 一般 人 的 salary 的话 我们 就 需要
+UI14MAZ_0102 770840 778732 CS (啊) 如果 我们 能够 找到 那个 工作 的 乐趣 然后 我们 be very passionate about the work then 你 就会 enjoy along the way alright
+UI14MAZ_0102 779162 781528 CS and 我 现在 目前 我们 一直 啊 我
+UI14MAZ_0102 782007 786036 CS 我 非常 stress 我 有 sleeping disorder whatever you call it
+UI14MAZ_0102 786036 799316 CS but on top of that 我 学 到 很多 you know and because of (啊) i know that because of 啊 在 这样的 公司 我 有 机会 到 可以 有 很多 很多 不同 的 一些 一些 啊 chance to learn about
+UI14MAZ_0102 799990 805320 EN ah different culture different work different people talk you know so (emm)
+UI14MAZ_0102 806180 815607 CS 早上 我 可以 跟 u. s. 的 人 讲话 下午 可以 跟 email 的 人 讲话 那么 啊 当然 还有 整个 在 我们 asia pacific 就 已经 够 了 乎
+UI14MAZ_0102 815998 824866 CS 像 等 下 韩国 人 打 电话 等 下 乎 等 下 印度 人 又 再 打 一个 hand 打 我 的 handphone 然后 啊 等 下 australia 又 来 吵 我 那种
+UI14MAZ_0102 826097 826644 EN wow
+UI14MAZ_0102 827808 833481 CS 所以 都 蛮 混乱 一下 的 都 因为 只是 asia pacific 都 够 你 够 你 够 饱 了
+UI14MAZ_0102 833481 833875 ZH 不过
+UI14MAZ_0102 833875 834617 EN 
+UI14MAZ_0102 834617 838172 CS 再加上 u. s. 那些 啊 然后 现在 比较 interesting 就是 la~
+UI14MAZ_0102 838172 839685 CS latin america 就是 拉丁 美
+UI14MAZ_0102 840438 847898 CS 他 是 属于 emerging country 嘛 那个 就是 啊 就是 一个 还没 开拓 的 市场 这样 拉丁美国
+UI14MAZ_0102 848298 853563 CS 所以 你 会 看到 不同 的 一些 什么 antonio 啊 然后 什么 maria 啊 什么 讲 到 哇
+UI14MAZ_0102 854080 860085 CS 然后 他们 讲 的 slang 完全 是 又是 另外 一个 阶 另外 一个 一个 level 这样 咯
+UI14MAZ_0102 860495 865982 CS 哦 因为 其实 之前 我 刚刚 开始 work with europe 那边 很 很大 的 challenge
+UI14MAZ_0102 867232 872091 CS 就是 他们 的 他们 的 slang 是 好像 足球 commentator 在 那边
+UI14MAZ_0102 872726 876095 CS commenting 那个 足球赛 <unk> 讲 什么 我 都 不知道 他们 讲 什么 这样
+UI14MAZ_0102 876378 884622 CS 我 觉得 我们 我们 马来西亚 我们 可能 会 比较 comfortable with 那个 美国 的 发音 因为 我们 以前 小 的 时候 开 电视机 就是 一些 美国 program 嘛 所以
+UI14MAZ_0102 885208 889526 ZH 对 美 有 怎样 说 美国 都会 比较 比较 自 自然 点 啦
+UI14MAZ_0102 890063 895596 CS 那么 我 刚刚 开始 做 这个 dell 的 工 as a dell technical support 我 是 support australia new-zealand 的
+UI14MAZ_0102 896045 905399 CS 所以 一 开始 早上 三 四 五点 我 还没有 睡醒 那 时候 就要 去 可能 会 有一个 auntie 很 老 的 auntie 他 打电话 来 hello mate you know 然后
+UI14MAZ_0102 905949 911955 CS one two three four 然后 他 那种 发音 啊 是 很 很 crazy 的 啦 他们 kiwi 尤其是 啊 new-zealand 的 所以
+UI14MAZ_0102 912506 913024 ZH 所以
+UI14MAZ_0102 914342 920270 CS 乎 你 可以 reach out to different different continent different different 不同 的 发音 这样 所以 目前 是 我在
+UI14MAZ_0102 920865 926399 CS (啊) explore 着 拉丁 咯 那么 还有 一些 (啊) emerging country 比如说 africa
+UI14MAZ_0102 926545 932430 CS 这 这一点 这一批 也是 要 开拓 的 一个 市场 另外 一个 就是 russia
+UI14MAZ_0102 933094 934626 ZH 也是 一个 还没 开拓 的 市场
+UI14MAZ_0102 936003 943669 CS 在 我们 asia 里面 (呃) china 和 india 也是 还没有 完完全全 开拓 的 市场 就是 这 这 这 这 几 块 这样 咯
+UI14MAZ_0102 944216 948839 CS (啊) but 目前 我 我 发现 非常 interesting which i
+UI14MAZ_0102 948839 952136 EN if you ask me what what do oh you know what is do you passionate about
+UI14MAZ_0102 952136 958997 EN yeah because i get to know all this and everyday is a very different challenging thing for me
+UI14MAZ_0102 959602 967977 CS and (啊) 我 觉得 可能 (呃) 以 以 一张 平面 那一个 graph 来看 那么 我 学 的 东西 一 进入 dell 就是 整个 哇 学 到 很多 东西
+UI14MAZ_0102 967977 971931 CS 那么 after that 两 三年 就 觉得 好像 是 蛮 routine 没有 什么 学 到
+UI14MAZ_0102 971931 977673 CS 那么 进入 这个 果 进入 这个 position 之后 哇 又 再 每 一天 学 到 pick up pick up 很多 很多 很多 的 东西 这样
+UI14MAZ_0102 978074 983310 EN (erm) which ah is one of the reason i am very passionate about the job
+UI14MAZ_0102 990987 992237 EN ah
+UI14MAZ_0102 992696 996588 ZH 想 不 不 不要 承认 也 也是 说不过去 啦
+UI14MAZ_0102 1010858 1020249 CS right 其实 很多 时候 也是 看 timing 看 也不是 我 我说 我 要 我 就有 嘛 这样 那么
+UI14MAZ_0102 1021391 1025861 CS (呃) 毕业 回来 的 时候 我 是 在 我 是 毕业 在 在 australia
+UI14MAZ_0102 1026271 1030011 CS 所以 回来 我 拿着 australia 的 certification 我 去 interview 的 时候 他 看到 我 australia 哦
+UI14MAZ_0102 1030597 1033533 CS 我们 有 australia 的 工作 就 pomp 就有 australia 出来 给 你
+UI14MAZ_0102 1033845 1038952 CS 日本 什么 这样 没有 啦 而且 我 觉得 日本 也不 是 这样 容易 deal with 的 不是
+UI14MAZ_0102 1040633 1045015 CS even until today 当 我 deal with 我 的 (啊) japan 的 colleague 的 时候
+UI14MAZ_0102 1045337 1051079 CS 我 也是 会 觉得 even though 我 我 我 可以 understand 他们 这样
+UI14MAZ_0102 1051587 1056749 CS as a start it's very important you don't you have to set the expectation right 就是
+UI14MAZ_0102 1057208 1063196 CS (啊) 可能 他 也 知道 你 会 讲 日本 语 也好 你 try to start with english because when you start with english
+UI14MAZ_0102 1063587 1070129 CS (啊) 他 就 他 就会 要 attempt to to talk english 他们 的 英文 比较 比较 比较 差 一点 嘛
+UI14MAZ_0102 1070500 1074418 CS 那么 他 又 知道 说 okay (嗯) 我们 可能 觉得 他 的
+UI14MAZ_0102 1075814 1082729 CS 当 在 当 我 initiate 一个 英文 conversation 他 就 要 match 那么 你 知道 完全 是控 掌控 control 着 整个 conversation 的
+UI14MAZ_0102 1083169 1089405 CS 不过 当 你 你 你 你 attempted maybe after five ten minutes 时候 okay
+UI14MAZ_0102 1089405 1091837 EN (erm) let's try japanese la
+UI14MAZ_0102 1092217 1097004 CS 啊 他 会 说话 哇 thank you very much you know 他 会 哇 跟 你 很 friend 这样 你 知道
+UI14MAZ_0102 1097004 1097336 EN 
+UI14MAZ_0102 1097336 1101352 CS 所以 (啊) 你 你 用 这样 的 strategy 的话 就 觉得 嗯 啊
+UI14MAZ_0102 1101576 1114924 CS 然后 你 也 他 也 知道 说 okay 你 的 primary language 是 eng~ english but (啊) now let's try japanese so that 他 可以 比较 into the conversation as well
+UI14MAZ_0102 1115315 1120304 CS 那么 (嗯) 那 我 发现 这样 的 strategy 很好 很多 时候 就 don't know 一些 colleague 会 说
+UI14MAZ_0102 1120685 1128948 CS 做么 你 不要 讲 日语 我说 it's not 而且 日语 是一个 很 很 很 (呃) 很 (呃) 很 很 kibishi 就 怎么 说 呢 很 很
+UI14MAZ_0102 1129729 1134069 CS 很 strict 的 一个 国家 so 你 你 我 我 的 日语 也 很多 时候 都是 一些
+UI14MAZ_0102 1134440 1140359 CS 一些 绵绵 语 那种 爱情 的 那种 love 的 这样 乎 整天 你 爱 我 我 爱 你 这样
+UI14MAZ_0102 1140691 1152035 CS 就是 这样 而已 嘛 所以 那里 能够 搬 去 那个 工作 的 那个 场面 去 用 所以 也是 完全 not appropriate 的 所以 这个 我 要 很 很 注意 一点 哦 所以 一 开始 用 日 日 (啊) 英文 然后 再 转 去 日语 的话
+UI14MAZ_0102 1152455 1162219 CS 他 他 会 觉得 很 感谢 你 appreciate 说 你 有 trying to use of course 有 disadvantage 你 一 转 英文
+UI14MAZ_0102 1162502 1167726 CS 日语 你 如果 你的 日语 是 够 够 standard 的话 okay 啦 你 不够 standard 的话
+UI14MAZ_0102 1168956 1172607 CS 整个 situation 就 change 就 变成 他 in control
+UI14MAZ_0102 1172607 1173027 EN 
+UI14MAZ_0102 1173027 1179140 ZH 他 可能 会 会 会 (啊) 会 (呃) 就是 可能
+UI14MAZ_0102 1179777 1186554 CS 就是 你 当 你 lost control 可能 你 就 你 就 不能 够 达到 你 要 what you want from that call itself 咯 就是 这样 咯
+UI14MAZ_0102 1187325 1193403 CS 虽然 我 没有 什么 direct 回答 你 哈日族 的 东西 这样 不过 mmm
+UI14MAZ_0102 1195191 1197116 ZH 讲 到 这个 乎 (诶)

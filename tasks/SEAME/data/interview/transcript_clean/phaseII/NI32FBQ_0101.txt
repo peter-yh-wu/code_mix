@@ -1,0 +1,438 @@
+NI32FBQ_0101 8330 11730 CS (呃) 我是 english 比较 多 
+NI32FBQ_0101 11980 13590 ZH 对 
+NI32FBQ_0101 15360 18980 CS 啊 我 叫 sarah ah 华文名 叫 月英
+NI32FBQ_0101 18980 20870 ZH 啊
+NI32FBQ_0101 20870 23480 EN ah communications studies year one
+NI32FBQ_0101 23960 25800 ZH 啊 啊
+NI32FBQ_0101 28492 33640 ZH (呃) 上 哪些 科目 有一些 好像 (呃)
+NI32FBQ_0101 33640 34650 EN mm
+NI32FBQ_0101 34650 38943 CS speech 的 科目 还有 啊 writing 这些 东西
+NI32FBQ_0101 38943 44080 ZH 啊
+NI32FBQ_0101 44080 49810 CS ah south spine 那个 wee-kim-wee school of communications 我们 自己 有一个 building 在 那边
+NI32FBQ_0101 49810 52557 EN mm 
+NI32FBQ_0101 55680 62840 ZH (呃) 不错 啦 因为 学校 很 小 所以 好像 每个人 都 认识
+NI32FBQ_0101 68843 73090 ZH 啊 啊 对
+NI32FBQ_0101 73090 97650 CS ok (er) 我们 有五种 好像 (呃) concentrations 所以 一个 是 (呃) journalism 记者 之类 的 东西 then mm 有 public relations 还有 还有 advertising advertising communications eesearch 还有 (呃) 好像 广播 之类 的 东西
+NI32FBQ_0101 97970 104990 CS 可是 因为 year one 我们 只是 上 foundation course 所以 没有 没有 什么 hands on 的 东西 啦
+NI32FBQ_0101 104990 107130 EN mm as in
+NI32FBQ_0101 107130 108850 ZH 换 
+NI32FBQ_0101 119610 123220 CS intern 在 year three 的 时候 才 会 intern
+NI32FBQ_0101 123220 127670 CS ah year three 的 时候 才 会 算 internship then year four 就是 final year project
+NI32FBQ_0101 134980 146640 CS 啊 上学期 上学期 我 我 有 上 a. d. m. 的 科目 a. d. m. 的 科目 蛮 有趣 的 有一个 是 好像 (呃)
+NI32FBQ_0101 147030 155260 CS 电影类 的 他们 教 我们 怎么 好像 (呃) 学 那些 (呃) technique 还有 那些 shots
+NI32FBQ_0101 155260 159230 CS 在 电影 那边 那些 shots 怎么 怎么 拍 出来
+NI32FBQ_0101 159600 168600 CS 而且 (呃) 怎么 like how to how to analyse the shots for the for mm films ah
+NI32FBQ_0101 169200 184770 CS 还有 一个 课程 就是 (呃) asian film history 就是 我们 去 我们 去 看 那些 好像 (呃) 中国 (呃) 日本 之类 的 一些 旧 的 电影 啊 then (er)就是 学 他们的 历史
+NI32FBQ_0101 190158 191770 EN no  
+NI32FBQ_0101 191770 200280 CS (呃) 我们 没有 拿 (呃) 拿 那个 camera 直接 做 啦 只是 看 那个 电影 然后 一个 一个 shot 慢慢 analyse lor
+NI32FBQ_0101 200280 200934 EN mm
+NI32FBQ_0101 204990 206020 ZH 对
+NI32FBQ_0101 206020 208501 EN ya then how to take the shot
+NI32FBQ_0101 213890 216060 EN (er) ya
+NI32FBQ_0101 222250 231300 CS (er) ok 因为 学了 这些 好像 film 之类 的 课程 我 like (er) it made me more interested in broadcast
+NI32FBQ_0101 231300 250890 CS like broadcast 之类 的 东西 可是 like  因为 broadcast 他们 讲 没有 什么 前途  因为 在 新加坡 那个 industry 很小 所以 很难 like very hard to have a breakthrough la so like yah i don't know whether i want to do broadcast or not
+NI32FBQ_0101 257899 265350 EN yah but then like (er) there's not much money in the yah in the industry cause very small
+NI32FBQ_0101 265570 274160 CS (er) yah then 你 刚开始 的 时候  this you are a very small fry la then you don't get paid much
+NI32FBQ_0101 274160 275370 EN also
+NI32FBQ_0101 275370 284658 EN (er) then on the other hand like communication research right there's a lot of money there like you can earn the most money in communication research
+NI32FBQ_0101 284658 287200 EN com mm ah
+NI32FBQ_0101 288830 301640 CS (呃) 他们的 职业 是 好像 (嗯) 好像 他们 会 做 survey 之类 的 东西 then like like find out what what consumers want then 他们 会 卖 这些 information
+NI32FBQ_0101 301640 305070 ZH 给 那些 公司 啊 
+NI32FBQ_0101 305070 307240 ZH 好像 好像 (呃)
+NI32FBQ_0101 307240 308450 EN 
+NI32FBQ_0101 308450 310370 ZH 比如说
+NI32FBQ_0101 311910 321770 CS 好像t. v. news 人家 喜欢 看 哪一类 的 t. v. news 然后 (呃) 他们 比 比 较 喜欢 看 local news 或者是 overseas 的 news
+NI32FBQ_0101 321770 329460 CS 这些 之类 的 information 然后 可以 卖给 好像 那些 news program (er) yah lor 之类 的
+NI32FBQ_0101 329460 332850 CS 因为 这个 这个 got a lot of money la 
+NI32FBQ_0101 332850 339740 EN you can earn a lot of money in communications research compared to like (er)(er) journalist and all that
+NI32FBQ_0101 339740 340889 CS then 没有
+NI32FBQ_0101 341950 344301 EN not much money leh ya
+NI32FBQ_0101 349110 350150 EN (er) salary
+NI32FBQ_0101 356820 358390 EN oh (er)
+NI32FBQ_0101 360480 374750 CS 我 看 (呃) 学长们 多多 数 是 是 p. r. 之类 的 工作 p. r. p. r. 我 看 你 出来 的 时候 应该 有 一 一 两 千 多 吧
+NI32FBQ_0101 375080 381720 CS p. r. 是 public relations 就是 好像 (呃) 你 帮 那个 公司 like mm construct 他的 image
+NI32FBQ_0101 381990 387360 CS 怎么 怎么 like mm (er) show its image to the public la
+NI32FBQ_0101 387670 394720 CS 他们的 image then 帮 他们 做 一些 (呃) research 之类 的 东西 也是 可是 like p. r. 一 两 千
+NI32FBQ_0101 394720 396358 ZH （嗯） 一两千 （嗯）
+NI32FBQ_0101 399710 401860 ZH (呃)  我 还没有 决定
+NI32FBQ_0101 401950 408220 CS (er) concentration  他们 叫 我们 今年 叫 我们 declare 可是 我
+NI32FBQ_0101 408450 410160 ZH 我 还没有
+NI32FBQ_0101 410160 411950 CS 我还没有 idea ah
+NI32FBQ_0101 411950 418580 CS 我 本来 是要 做 journalism 的 可是  (呃) 很 困难 啊 the 因为
+NI32FBQ_0101 418580 420108 ZH (呃）
+NI32FBQ_0101 421390 430860 EN a lot of people in the school write very well ah so its like got a lot of competition and its a very tough industry la
+NI32FBQ_0101 430860 431671 EN hello ya
+NI32FBQ_0101 447855 453570 CS  oh but then block block 这个 like
+NI32FBQ_0101 453570 456890 CS its more informal like 比较
+NI32FBQ_0101 456890 462510 EN ya ya that's true mm
+NI32FBQ_0101 462510 465380 EN but even in like like journalism
+NI32FBQ_0101 465980 478540 CS its a very like hectic life style la a lot of deadlines and all that also 所以 like you must be really hard like very interested in it
+NI32FBQ_0101 478540 482135 EN if not it's very difficult ya mm
+NI32FBQ_0101 493410 509850 CS 因为 本来 我是 要 进 (呃) business school 的 n. t. u. business school 因为 他们 他们的 ranking (er) 好像 他们的 program 比 n. u. s. 好 啊 还有 direct honours 之类 的 东西 n. t. u. 多 大数 有 direct honours 的 concept
+NI32FBQ_0101 509850 514140 CS 所以 我 选 n. t. u. 可是 因为 我的 a level results 不是 很好
+NI32FBQ_0101 514140 519130 CS 所以 我 like i i chose to go to communications school lah 因为
+NI32FBQ_0101 519130 520049 EN (er)
+NI32FBQ_0101 520049 532790 CS 我是 比较 喜欢 好像 g. p. general paper 这些 like like more related to english kind of course so (er) 我 选择 去 journal ah communications school
+NI32FBQ_0101 536330 541590 CS  我 g. p. 是 拿 a la 可是 like (er) 我 不知道
+NI32FBQ_0101 541590 542915 ZH 啊
+NI32FBQ_0101 544234 547964 CS 啊 g. p. 的 过程 哦 ok (er)
+NI32FBQ_0101 547964 550914 CS 好像 last time 我的 g. p. teacher 会
+NI32FBQ_0101 550914 562354 CS (呃) 每个 星期 都要 做 一个 好像 newspaper review 每个 星期 要 剪出 三个 newspaper articles then 做 一个 review 然后 放在 一个 file 里面
+NI32FBQ_0101 562354 572934 CS 这样 我们 会 好像 increase our general knowledge la cause 我们 会 读报 纸 平常 如果 没有 做 这个 like assignment 的话 就 不会 看报 纸 了
+NI32FBQ_0101 572934 578144 CS 所以 g. p. g. p. 最 重要 是 you must know like general knowledge and current affairs mah
+NI32FBQ_0101 578524 586274 ZH 所以 如果  好像 没有 没有 老师 没有 叫 我们 做 的话  很惨 啊
+NI32FBQ_0101 587774 593664 CS (er) g. p. (er) 在 j. c. 里面 (呃) two years lor mm
+NI32FBQ_0101 600804 602404 ZH 啊 对 
+NI32FBQ_0101 603924 611344 CS review 就是 看好 像 they say (er) you must find an article first then after that like put it in the category
+NI32FBQ_0101 611344 623424 CS 所以 if ah like let's say 他是 (呃) ah like social news or maybe science and technology news environment news 这些
+NI32FBQ_0101 623424 627564 CS 这些 category so 所以 你 你 file 你 file 好了 然后 你 去
+NI32FBQ_0101 627574 636684 EN like you write a review la what you you think about the issue and why you think it is important to know about this this issue and why do you think it it was reported
+NI32FBQ_0101 636684 638446 EN that kind of thing ya
+NI32FBQ_0101 640394 647853 EN (er) there there was no word limit cause i think about mm
+NI32FBQ_0101 649854 654324 EN three hundred to five hundred words yah for one article like that
+NI32FBQ_0101 656454 660724 EN mm don't really need to argue but you can summarize then
+NI32FBQ_0101 660724 662694 ZH 啊 这样 简易 嗯
+NI32FBQ_0101 662694 664244 EN what your your your thoughts about
+NI32FBQ_0101 668554 671024 CS yah 这样 training 
+NI32FBQ_0101 671024 672454 ZH 啊 对
+NI32FBQ_0101 677644 683718 ZH 啊 有 兴趣 可是 来到 大学 就 没有 什么 读 报纸 了 哈哈
+NI32FBQ_0101 684109 687928 ZH 因为 我 (呃) 没有 因为
+NI32FBQ_0101 687928 691868 CS (er) stay (er) stay in hall 的 时候  很像
+NI32FBQ_0101 691868 701798 CS 在 家里 还 会 看 报纸 因为 每天 有 报纸 可是 在 hall 很少 like 去 t. v. room 之类 的 to (er) 去 看报 纸
+NI32FBQ_0101 701798 702841 ZH 很少 (嗯)
+NI32FBQ_0101 705304 707464 CS ah studies 或者
+NI32FBQ_0101 707964 714374 CS 因为 来到 大学 就有 laptop 了 嘛  有了 laptop 我 就 一直 上网 上网 上网
+NI32FBQ_0101 714374 715676 ZH 上网 没有 
+NI32FBQ_0101 715676 718574 CS like 有 有 上网 看 新闻 啦 but then
+NI32FBQ_0101 718914 722187 CS but then 我 我 我 还是 觉得 看 newspaper 比较 好
+NI32FBQ_0101 722764 725634 CS newspaper 的 报 道 比较 啊 完全
+NI32FBQ_0101 739494 740904 ZH 我是
+NI32FBQ_0101 741154 746024 CS 不怎么 喜欢 science and technology news la 因为  我是
+NI32FBQ_0101 746024 758504 CS 我是 比较 属于 arts 这 方面 的 的 人 就是 like i don't really like to read science and tech technology news ah i always like find it very boring ya then business news 还 好
+NI32FBQ_0101 758954 765562 CS (呃) 比较 喜欢 看 的 那些 好像 social social 之类 的 东西 and social news mm
+NI32FBQ_0101 769830 775311 CS 啊  这种 news 比较 感兴趣 啦 因为 science
+NI32FBQ_0101 775311 780390 CS science and technology 我是  很多 很多 那些 terms 我 都 不明白
+NI32FBQ_0101 780390 783445 CS 所以 like like ya loh mm
+NI32FBQ_0101 783445 785575 CS business news 还 好 
+NI32FBQ_0101 787695 797915 CS (嗯) 好像 最近 有 那个 (呃) drug trafficking case ah 有一个 (呃) there's this boy who was caught
+NI32FBQ_0101 798285 805375 CS carrying forty seven grams of heroin then actually (er) 要 判 死刑的
+NI32FBQ_0101 805375 811915 CS but then cause 他 他 被抓 的 时候 他 只有 十八 岁 七个 月 大
+NI32FBQ_0101 811915 829485 CS 就是 like only seven months past his birthday eighteenth birthday so he like mm then 他是 逼 不得已 才 去 那么 做 因为 他的 他的 父亲 赚 赚的钱 不多 then 他的 他的 mother 好像 有 depression 还是 什么
+NI32FBQ_0101 830285 837935 CS 所以 他 逼 不得已 要 去 要 去 like mm 帮 这些 (呃) traffickers traffic 那些 drugs ah
+NI32FBQ_0101 838345 854465 CS 所以 很多 人 都是 都 都 说 很 像 (嗯) 应该 yah give another chance 因为 他 还小 可是 因为 这是 一个 law mah law 是 因为 他是 已经 是 算是 个 adult 了 所以 要 背 判 死刑 咯
+NI32FBQ_0101 854515 863065 CS then (er) 最近 news 就是 在 报道 这些 东西 then 因为 presi~ 因为 我们的 president 有权利 去 pardon 他
+NI32FBQ_0101 863065 872035 CS 可是 president pardon 已经 过了 then (em) 他 没有 被 pardon 所以 我 看 应该 是 会 被判 死刑
+NI32FBQ_0101 874445 884215 CS 我的 想法 因为 最近 我的 (呃) 昨天 我的 一个 speech class then (er) 他的 topic 是 death penalty la ah like 叫 我们
+NI32FBQ_0101 884215 886539 CS 对 death penalty 有算
+NI32FBQ_0101 886539 888329 CS 有什么 看法 then
+NI32FBQ_0101 888805 897475 CS 我的 两个 同学 都有  好像 举 这个 例子 我是 觉得 (嗯) 很  可惜 啦 because he's still young
+NI32FBQ_0101 897475 914855 CS 他的 and then 他是 被 他是 被 他的 circumstances 逼到 这个 逼到 这个 程度 所以 was 当然 like we will feel very sympathetic towards him la 可是 因为 这是 law mah
+NI32FBQ_0101 915425 920365 CS 是 law 所以 很难 啊 make an exception loh
+NI32FBQ_0101 920365 938865 CS 因为 如果 你 once you once you make an exception then it will become an example for other people then 很 以后 就 很难 判 like like can't make a make a verdict already because everybody will also has their own like difficulties and all that so
+NI32FBQ_0101 938865 950985 CS (er) in the future like if there are like similar cases right (er) then everybody can argue that oh 因为 我是 被 逼 的 所以 like i
+NI32FBQ_0101 951275 959937 CS i had no choice i had to do it so everybody can like escape the death penalty la so i think 他 应该 是 不会 被 like
+NI32FBQ_0101 959937 963177 EN ya ya he wouldn't be pardon la mm
+NI32FBQ_0101 971635 975095 CS (er) a caning ah 是吗 啊 caning ah
+NI32FBQ_0101 978957 980865 EN (er) caning
+NI32FBQ_0101 980865 982945 EN i think
+NI32FBQ_0101 982945 985275 EN i don't know i think caning is okay
+NI32FBQ_0101 987755 991915 EN for what kind of punishment for what kind of crime ah mmm
+NI32FBQ_0101 994000 995165 EN (er) but i think
+NI32FBQ_0101 995165 1004000 EN i don't know i don't know what sort of i actually i'm not very i am not very familiar like what sort of crimes you can get caning get caned for
+NI32FBQ_0101 1004000 1024454 CS but then like i guess like its better than than yah it's better than the death penalty because at least mm 他 好像 会  it's like a warning la it's like a warning (er) to the person who committed the crime lah but at least  你 不会 死 嘛  你 还会 活着
+NI32FBQ_0101 1024454 1026158 EN ya like that
+NI32FBQ_0101 1032508 1033228 EN welfare
+NI32FBQ_0101 1044275 1046484 ZH 哦 (呃)
+NI32FBQ_0101 1048717 1053295 CS (嗯) 应该 没有 什么 影响 可是 like
+NI32FBQ_0101 1053295 1056385 CS 好像 关 retirement age 这种 东西啊
+NI32FBQ_0101 1056385 1057374 EN ok
+NI32FBQ_0101 1057374 1059875 EN (er) retirement
+NI32FBQ_0101 1059875 1067105 CS 好像 他们 一直 把 那个 retirement age mm push back ah 一直 push back then 
+NI32FBQ_0101 1067445 1084245 CS 我是 觉得 ok la 因为 我们的 society 不够 不够 baby mah 所以 我们 我们的 population 会 慢慢 慢慢 老化 所以 like ok la it is important that the retirement age (er) slowly goes up also
+NI32FBQ_0101 1084675 1095430 CS but then like 很多  我 i i i wouldn't want to work until i am like sixty three plus years old  i think i will want to retire by then already maybe
+NI32FBQ_0101 1095430 1097515 EN ya
+NI32FBQ_0101 1097515 1102485 EN yah forty fifty still okay but like once you hit sixty ah you will 
+NI32FBQ_0101 1102705 1104695 EN  i don't want to work already
+NI32FBQ_0101 1105165 1113325 CS but i think like (er) because of the aging population right 他们 说 我们 因为 现在 不够 年轻人
+NI32FBQ_0101 1113325 1123955 CS 所以 以后 会 the strain will be very big la like on on on the yah the next generation to provide for the older generation so
+NI32FBQ_0101 1124165 1126385 ZH 可是 好像 今年 又是 虎 年
+NI32FBQ_0101 1126405 1131765 CS you know 好像 不够 like  the people won't have babies during this year la i think
+NI32FBQ_0101 1132195 1134585 EN i think like gradually
+NI32FBQ_0101 1134585 1142685 CS i don't know i think it is a mind set that people have like 他们 觉得 两个 孩子 就 够了 还是 一个 孩子 就 够了 so
+NI32FBQ_0101 1144244 1145655 EN yah there's like
+NI32FBQ_0101 1146395 1156865 CS not enough babies i i don't think i don't think all the measures that the government gives like all the baby bonus 之类 的 东西 doesn't really help cause 是一个  its a
+NI32FBQ_0101 1156865 1167915 CS its a like already fixed in their mind already oh i only want two children like (er) 政府 给 钱 给 钱 也是 没有 用 因为 like it cost so much to raise one child
+NI32FBQ_0101 1167915 1178585 CS like 你 给 我 这些 baby bonus 我 都会 like 只是 一点点 而已 所以 我 我 我 like people still wouldn't have enough children ah
+NI32FBQ_0101 1182875 1193515 ZH  我 将来 我也 也是 觉得 两个 比较 好 因为 因为 现在 我 妈妈 有 四个 孩子 (嗯) 三个 儿子 一个 女儿 啦
+NI32FBQ_0101 1193515 1194125 ZH 我 一个 女儿
+NI32FBQ_0101 1194125 1199480 CS then (er) 很 乱  家里 很 乱 like
+NI32FBQ_0101 1199480 1203250 ZH (呃) 我是 觉得 我 妈妈 放弃 了 很多
+NI32FBQ_0101 1203250 1205065 CS 很多东西 ya
+NI32FBQ_0101 1205065 1210255 CS at first 她 也是 plan plan 只有 (呃) 只要 两个 孩子
+NI32FBQ_0101 1210255 1214320 CS 可是 因为 我的 那时 候 我的 爷爷 他 得了 lung cancer
+NI32FBQ_0101 1214320 1216785 ZH 所以 要 给 他 多 添多 一个 孙子
+NI32FBQ_0101 1216785 1224655 CS 所以 去  like (er) 我 第三个 弟弟 出来 then 第四个 弟弟 是 好像 by accident 的 
+NI32FBQ_0101 1224655 1235155 CS 可是 因为 我 妈妈 又 不要 打掉 所以 like 她 当时 很 危险 因为 她 她 她 到了 四十 岁 了
+NI32FBQ_0101 1235155 1249975 CS 她 四十 岁 才 生 我 我 我 最小 的 弟弟 so there was a very high risk ah 可是 她 他的 姐姐 我的 阿姨 讲 like ah 不要 打掉 了 yah its a gift 已经 since like its a already given to you 你 你 不要 打掉
+NI32FBQ_0101 1253365 1256855 CS (呃) 不是 我是 (呃) second yah
+NI32FBQ_0101 1258185 1266075 CS 我 打算 以后 不知道 我 觉得 两个 够了 cause like 四个 孩子 太 太乱了 我 觉得 
+NI32FBQ_0101 1266565 1273470 CS  很难 很难 like mm 好像 give give the equal amount of attention to every child also la 我 觉得 很难 我 妈妈
+NI32FBQ_0101 1273470 1282195 CS my my mum managed to do it la but then 我 是觉得 (呃) 没有 没有 这个 i don't have the patience to do it  go and like
+NI32FBQ_0101 1282195 1287855 EN (er) do like like slowly teach four children one by one ah i cannot cannot one
+NI32FBQ_0101 1298195 1299505 EN society and you
+NI32FBQ_0101 1299505 1300035 EN 
+NI32FBQ_0101 1300035 1309395 ZH 就 最近 最近 我的 同学们 蛮 都在看 好像 啊 那个 梁智强 的 梁智强 的 新闻
+NI32FBQ_0101 1309395 1310625 EN okay
+NI32FBQ_0101 1310625 1325755 CS 因为 他是 like 他是 一个 新加坡 出名 的 导演 嘛 新加坡 的 film industry 没有 没有 几个 导演 then 他是 蛮 出名 的 一个 他 还 得了 我们 我们的 (嗯) 那个 cultural medallion
+NI32FBQ_0101 1325985 1331575 CS so 也是 好像 新加坡 的 骄傲 啦 but then 他 他 他
+NI32FBQ_0101 1331575 1354525 CS 惹 出 这些 因为 他 他 已经 有 老婆 又有 四个 孩子 了 可是 他 他 去 like 搞 搞 外遇  他 好像 两个 报道 是 两 有两个 (嗯)(呃) other outside women outside la but then now now don't know which newspaper say he got eleven
+NI32FBQ_0101 1355105 1359225 EN yah mistress yah like tiger woods the cheating yah what la
+NI32FBQ_0101 1359225 1361535 EN yah then mm
+NI32FBQ_0101 1362085 1368855 CS i don't know then (er) 最近 他 有 他 有 举行 一个 press conference then 他 他 叫 他的 老婆 like
+NI32FBQ_0101 1368855 1380675 CS his wife was there to like at the press conference also to to to ask the media to like forgive her her husband and to like 给 他 一个 出路 啦
+NI32FBQ_0101 1380675 1387265 CS but then mm she fainted at that press conference ah 他 好像 站 起来 之后 她 她 就 晕 了 then
+NI32FBQ_0101 1387315 1394165 EN in the end she had to be carried out ah so it is very very dramatic like  it was really like drama like that then
+NI32FBQ_0101 1394165 1401955 CS like 有些 人 讲 是 好像 都是 演戏 啊 因为 他 要 他 真的 没有 出路 了 嘛 他
+NI32FBQ_0101 1401955 1408265 CS 他 这种 immoral 的 东西 都 做得 出来 很多 人 都 讲 他 所以 like
+NI32FBQ_0101 1408265 1418055 CS 这 那个 很多 人 讲 那个 press conference 只是 一个 只是 一个 like 想 like let people sympathize with him
+NI32FBQ_0101 1418095 1431945 CS then like try to like you know forget what he has done but i don't think it is working la cause 很多 人 讲 都是 演技 咯 they are only trying to make us believe that he that he is really sorry that kind of thing mm
+NI32FBQ_0101 1435585 1438625 EN mm  yah
+NI32FBQ_0101 1439145 1441365 CS yah 他们 ya they say
+NI32FBQ_0101 1441635 1447455 CS no but they they but then 报道 说 他是 是 他 去追 那个 女孩子
+NI32FBQ_0101 1447455 1449975 CS then there're because 好像
+NI32FBQ_0101 1449975 1454015 ZH 第二个 女孩子 讲 他 有 好像 (嗯)
+NI32FBQ_0101 1454015 1459435 CS (呃) 梁智强 send 给 她的 s. m. s. then the s. m. s. 就是 讲 好像 我 喜欢 你 之类 的 东西啊
+NI32FBQ_0101 1459435 1463805 CS (呃)  我 只是 (呃) yah loh 
+NI32FBQ_0101 1463805 1469865 CS 我 就是 在 想 cause like 他的 他的 电影 都是 like 有 有 一些 moral values 的 东西
+NI32FBQ_0101 1469865 1474185 CS 他们是 讲 like 好像 家庭 很 重要 或者 的 是 like 好像 like
+NI32FBQ_0101 1474413 1483103 CS 彼此 之间 要有 那种 don't know 好像 很多 moral values 的 东西 啦 then 他 他 自己 他 自己 这样 (嗯) 
+NI32FBQ_0101 1483753 1490753 EN his his kind of behavior doesn't doesn't reflect the kind of moral values that he has in his film also
+NI32FBQ_0101 1490753 1495323 ZH 所以 我 我是 觉得 现在 很 啊 对
+NI32FBQ_0101 1497232 1499032 ZH (嗯) 小孩 不笨 是 他
+NI32FBQ_0101 1501242 1510282 CS 很多 like i two i two 三个 好人 then 最近 他的 电 刚要出 的 电影 是 做人 所以 like 
+NI32FBQ_0101 1510282 1513732 ZH 很 他 电影 也是 做人 可是 他
+NI32FBQ_0101 1513732 1515932 ZH 他 现在 怎么 教 人家 做人
+NI32FBQ_0101 1515932 1518164 ZH 哎 是觉得 哎 mm
+NI32FBQ_0101 1522952 1528762 ZH  尤其 是 有钱 有 有 有事业 的 男人 他们 会 这样
+NI32FBQ_0101 1533412 1546492 CS 我是 觉得 很多 很多 啦 因为  我们的 娱乐 新闻 没有 什么 好像 paparazzi 没有 什么 他 他们 好像 不 像 (呃) yah hong kong or taiwan
+NI32FBQ_0101 1546532 1558202 CS they will 他们 真的 会 like 好像 去 追 这些 新闻 啦 我们是 没有 什么 追 啦 所以 like once there's one controversial issue right wah the media just explodes over it la
+NI32FBQ_0101 1558702 1561042 CS like 好像 newpaper 之类 (嗯)
+NI32FBQ_0101 1561042 1567132 CS (呃) 晚报 啊 这些 like newspaper 都会 哇 一直 追 一直 追 一直 追
+NI32FBQ_0101 1572963 1574432 EN  that's the reason
+NI32FBQ_0101 1574432 1577052 ZH 很少 啦 新加坡 我 觉得 很少
+NI32FBQ_0101 1590488 1592212 CS ya 对对对
+NI32FBQ_0101 1592212 1600852 CS 因为 我们 我们 我是 觉得 我们的 media industry 是 很小 啦 发展 的 空间 也不是 很大
+NI32FBQ_0101 1600852 1608722 CS so like  like always the same thing getting reported again like magazines ah 杂志
+NI32FBQ_0101 1608722 1622472 CS (er) you keep seeing the same faces over and over again ah so there's not really much of a change 可是 because like 我们的 the reason why 我们的 local media 无法 expand 是 因为 like
+NI32FBQ_0101 1622472 1626252 ZH (呃) 新加坡 人 比较 喜欢 看
+NI32FBQ_0101 1626442 1635172 CS 别的 国家 的 的 的 productions ah drama 这些 都是 比较 喜欢 看 别的 国家 的
+NI32FBQ_0101 1636362 1648462 CS (呃) 美国 韩国啊 台湾啊 hong kong ah then 每次 like 看 我们 好像 比如说 我们的 local dramas right 很多人 都 不 不 喜欢 看
+NI32FBQ_0101 1648662 1656522 CS 啊 我 我 知道 我 学校 的 人 因 我们 都是 比较 喜欢 讲 英文 的 嘛 so 每次 like
+NI32FBQ_0101 1656532 1662072 CS (er) somebody playing chinese song 我在 看 那些 那种 台湾 偶像剧
+NI32FBQ_0101 1662072 1664282 CS 就会 like ai 为什么 你看 这种
+NI32FBQ_0101 1664282 1672402 CS 所以 看 那种 我 我  (呃) like the people in my school prefer watching like those american dramas series
+NI32FBQ_0101 1673012 1677032 CS yah heroes that yah yah twenty four 那种
+NI32FBQ_0101 1677032 1681582 CS mm then 他们 我 我 没有 我 没有 我 本 (嗯) (嗯) 我 自己 没有
+NI32FBQ_0101 1682622 1693922 CS ah prison break ah 这种 他 like 他们 比较 比较 比较 喜欢 看 那种 我们 讲 ang-moh 派  鸿毛 人的 那种 戏 啦
+NI32FBQ_0101 1694172 1709582 CS so yah lohi i i think 我的 学校 是 like 因为 n. t. u. 是 有 很多 讲 讲 华 华 文 之 之类 的 人 嘛 他 like they are more familiar with chinese a lot of people speak chinese in n. t. u. la
+NI32FBQ_0101 1709582 1716672 CS but then 我的 我的 学校 是 like speak 很多 english 的 如果 你 你 你 突然 like 讲 华语 right
+NI32FBQ_0101 1716672 1720402 EN but ya people find it very weird la yah
+NI32FBQ_0101 1723302 1727080 CS 在 n. t. u. ah 在 n. t. u. (er) 
+NI32FBQ_0101 1728362 1735622 EN yah there are a lot of chinese people but i i mean we are all chinese la it's just that it's just that mm they don't really like to speak
+NI32FBQ_0101 1735682 1745010 EN chinese ya cause i think all of us cause to get into the communications school right they always look at your english grade so
+NI32FBQ_0101 1745010 1745836 EN once you
+NI32FBQ_0101 1745836 1759242 CS once you show that you have a good english background right (er) most probably you are in la like you have a good g. p. grade and you didn't do too badly for your other subjects you are probably in so like 我们 都是 like
+NI32FBQ_0101 1760182 1762442 EN when we when we speak right in school always
+NI32FBQ_0101 1762442 1764202 EN talk english english english english then
+NI32FBQ_0101 1764202 1769372 EN whenever we speak chinese ah its like like maybe one sentence then they fail 
+NI32FBQ_0101 1769742 1771222 EN  yah its very bad
+NI32FBQ_0101 1771222 1779882 CS then like yah loh you don't i don't know some of my friends 真的 不 喜欢 like 那种 一直 讲 华语 的 人 啊 she they don't like ah
+NI32FBQ_0101 1779882 1780702 EN ya
+NI32FBQ_0101 1780702 1783682 EN they find it very very funny like very
+NI32FBQ_0101 1783682 1784557 EN  mm
+NI32FBQ_0101 1788882 1791592 CS 不只 是 这个 school la like i think like mm
+NI32FBQ_0101 1791592 1796492 ZH 啊 以前 他们 也是 好像 在家 里 他们 没有 讲 什么 华语 嘛
+NI32FBQ_0101 1796922 1800632 CS so 他们 好像 不 不怎么 喜欢 华语
+NI32FBQ_0101 1804032 1805402 ZH 我也 不知道 叻
+NI32FBQ_0101 1805402 1810852 ZH 我 我  我 在 家里 其实 不讲 华语的
+NI32FBQ_0101 1810852 1813882 ZH (嗯) 讲 英语 的 可是 可是 因为
+NI32FBQ_0101 1813882 1815302 ZH huh  华语 怎么 学
+NI32FBQ_0101 1815302 1820352 ZH 我 有 (呃) 从小 就有 一个 补习 老师 我 我也 不知道 我 怎么 学 华语 的 叻 
+NI32FBQ_0101 1820352 1828122 ZH 因为 我 弟弟 我 弟弟 的 华语 真的 很 差  弟弟 的 华语 真的 很 差 可是 (呃) 我们 都是 同一 补习 老师 啦
+NI32FBQ_0101 1828122 1838220 CS 他 教了 他 教了 (呃) 我们 四个 孩子 一起 教  so (er) 我们的 华语 是 从 他 学 来 在家 里 没有 怎么 讲 华语
+NI32FBQ_0101 1838220 1846032 ZH 因为 我 我 妈妈 的 华语 也 也是 不好 他们 比较 (呃) 他们 会 讲 英语 啊 广东 话
+NI32FBQ_0101 1846032 1849882 CS (嗯) 讲 讲 dialect 的
+NI32FBQ_0101 1849882 1850922 ZH 广东 人 咯
+NI32FBQ_0101 1850932 1857152 CS 我们是 广东人 可是 我 广东话 也不 是 很好  多数 是 讲 english la
+NI32FBQ_0101 1857152 1860062 CS 我的 ya 我的 弟弟 也是 ah ya
+NI32FBQ_0101 1860062 1867392 CS 以前 以前 他 小的时候 我 去 问 他 (呃) 你 知道 你是 华 华人吗 为什么 你 华语 这样 差 then 他 讲
+NI32FBQ_0101 1867392 1871342 ZH 他 讲 不是 我是 (呃) (呃) 英国 人 
+NI32FBQ_0101 1871342 1875992 CS  then 我 讲 你 不是 英国 人 啦 你是 华人  你 要 讲 华语 then
+NI32FBQ_0101 1875992 1880912 CS then (er) 他 一直 讲 no 我是 english 我是 english 我 不是 chinese 
+NI32FBQ_0101 1880912 1885569 ZH （嗯） 小的时候他 很好笑 （嗯）
+NI32FBQ_0101 1890012 1892452 CS exchange ah 以后 去 exchange
+NI32FBQ_0101 1892452 1894562 ZH （嗯） 我是
+NI32FBQ_0101 1901512 1920162 CS ok actually 我 like when i'll go exchange right i think i don't know i don't feel very comfortable going to those like u. k. u. s. 之类 because mm 那边的 the the teaching method 很 不同 so like
+NI32FBQ_0101 1920162 1930902 CS 你 要 很 很 outspoken 的 那种 啦 then 可是 好像 (呃) westerners right 他 他们 不 喜欢 他们 不怎么 喜欢 asians mah like
+NI32FBQ_0101 1930902 1937262 CS 我是 觉得 like 无论如何 你 都会 觉得 你 你 比不上 他们
+NI32FBQ_0101 1942132 1952900 CS  去 china i don't know i don't know but i don't know i might consider la if if like their their i find the courses very interesting
+NI32FBQ_0101 1952900 1956542 CS but then currently 因为 我在 学
+NI32FBQ_0101 1956542 1966452 CS 我在 学 韩语 所以 我 要 去 我 我是 打算 去 韩国 去 做 exchange ah 跟 我的 朋友 一起 去 啦 可是  要 看 g. p. a. 怎么样 
+NI32FBQ_0101 1966452 1969932 CS 如果 我 g. p. a. 太差 的话 also very difficult to go ah
+NI32FBQ_0101 1969932 1973842 CS yah and it's very expensive also 可能 要 拿一个 grant
+NI32FBQ_0101 1973842 1981122 CS 拿 一个 grant then 去 去 那边 啊 then next time when i working then i pay back pay back the money loh
+NI32FBQ_0101 1983422 1996252 EN (er) one semester yah now (er) i have a lot of seniors on exchange la all over the place they are in taiwan switzerland u. s. all that then they it seems like very fun like that they look like they are having a lot of fun there
+NI32FBQ_0101 1996252 2000756 EN ya so i also want to go and try in year three ya year two
+NI32FBQ_0101 2006302 2009502 CS 啊 对 对 我的 我的 教授 也是 有 很多 westerners
+NI32FBQ_0101 2010491 2011285 ZH (嗯)
+NI32FBQ_0101 2012470 2013392 ZH 应该是
+NI32FBQ_0101 2013392 2023152 CS yah 我 我 我 觉得 如果 去 u. k. 或 u. s. 应该 it'll be a good experience la to get exposed to like (er) western culture and all that
+NI32FBQ_0101 2023152 2028092 EN but then i don't know i i i will see how next time 
+NI32FBQ_0101 2031732 2036352 ZH (嗯) 韩剧 还有 听 他们的 歌 咯
+NI32FBQ_0101 2038257 2041953 ZH (嗯) 我是 喜 比较 喜欢 韩国 的 东西
+NI32FBQ_0101 2041953 2042362 ZH 西
+NI32FBQ_0101 2042362 2045782 CS 我 我 (呃) last year i went there in april
+NI32FBQ_0101 2046127 2054266 CS like (er) before university started i went to like after after j. c. right after i got my a level results 我 去 我 去 工作
+NI32FBQ_0101 2054266 2059847 CS then earn the money then we all book the same trip then 我们 去 韩国 八 玩了 八天
+NI32FBQ_0101 2059847 2064797 CS 八 天 ya where (er) we we went to play for eight days lah very fun
+NI32FBQ_0101 2065036 2082297 CS very very fun ah i want to go back ah then 那边 的 啊 好像 我们 新加坡 有 好像 face shop ah skin 护 之类 的 那种 (呃) 美容 like like cosmetics and stuff lah but its very expensive 在 在 新加坡 很贵
+NI32FBQ_0101 2082297 2091327 EN then in singapore like the kor~ like imported from korea clothes also very expensive but actually down there it's very very very cheap leh
+NI32FBQ_0101 2091327 2103697 CS it's like here here when they when they sell like let's say a t-shirt with a printed design 他们 会卖 like close to twenty dollars but actually actually 那边 只是 like ten dollars 而已
+NI32FBQ_0101 2103707 2108467 CS 所以 its its its good to go there to shop la if you know what to buy already
+NI32FBQ_0101 2112227 2114107 EN kimchi ah  yah
+NI32FBQ_0101 2114357 2122447 CS actually 以前 我 我 刚 开始 吃 的 时候 是 (呃) 不怎么 喜欢 啦 因为 我是 like i grew up eating
+NI32FBQ_0101 2122447 2126690 CS 我 我 小时候 是 很 喜欢 吃 like mm japanese food
+NI32FBQ_0101 2126690 2137517 CS (嗯) 所以 我 我 吃 kimchi 的 时候 我是 觉得 (嗯) 为什么 这样的 but then like after a while like when when you keep when you keep eating ah you'll you will find that its very nice ah
+NI32FBQ_0101 2137517 2143707 EN but i still prefer japanese food la  i think japanese food is very very nice
+NI32FBQ_0101 2143707 2155000 CS 啊 可是 我 没有 去 我 没有 去 过 日本 so like i heard the food there is singapore's food (er) japanese food cannot compare to the japanese food there so must go there and try one day 
+NI32FBQ_0101 2161662 2163647 ZH 对 咯 我有
+NI32FBQ_0101 2163647 2165900 CS 还 好 啦 ya 不错 啦 不错
+NI32FBQ_0101 2165900 2174340 CS but i think mm the 他的 分别 是 (呃) 我 因为 我的 朋友 去 过 日本 他 讲 他们的 sashimi 真的 很好 吃
+NI32FBQ_0101 2174340 2186047 CS 在 那边 的 sashimi 真的 很好 吃 新加坡 的 like 因为 我们 like the 这边 的 厨师 都 不是 好像 不是 日本人 都是 like 我们 local 的 人 啦 所以 他们
+NI32FBQ_0101 2186047 2194117 CS 他们 好像 不懂 什么 切 法 或者 他们 like the fish 又 不是 很 新鲜 所以 有时候 哎呀 真的 比不上 啦
+NI32FBQ_0101 2194117 2206517 CS 那边 因为 那边 they really like 早上 刚刚 从 那个 sea ah catch 那个 fish then 在 你 面前 把 它 切 成 sashi~ sashimi ah
+NI32FBQ_0101 2206517 2214457 CS 因为 我们 这里 只是 好像 放 那个 belt 那个 conveyor belt 或者 yah loh 不怎么 不怎么 比不上 啦
+NI32FBQ_0101 2214457 2215750 ZH 比不上 的 感觉 (嗯)
+NI32FBQ_0101 2219747 2228527 CS 鱼 市场 我 只 知道 我们 有 很多 金木儒 那种 sea bass ah 我们 一直 breed 那种  sea bass fish farm
+NI32FBQ_0101 2228847 2232667 ZH 可是 其它 的 我 不 我 不怎么 了解 (嗯)
+NI32FBQ_0101 2244657 2247357 CS (嗯) 没有  ya
+NI32FBQ_0101 2249887 2262127 CS 啊 哦 哦 他们 有 他们的 那种 好像 fish market 很 很大 的 我们 知道 like 他们 很早 就去 因为 在 channel news asia 就是 有一个 program 叫 japan hour mah 他们
+NI32FBQ_0101 2262127 2272807 CS 他们 会 介绍 好像 japan 的 the 不同 的 的 地方 (呃) 他们 不同 的 好像 饮食 这些 东西 啊 啊
+NI32FBQ_0101 2272807 2281887 CS so 我 知道 they will go to the market and like buy fish very early in the morning then bring back their restaurant and like serve it loh mm
+NI32FBQ_0101 2287197 2296737 CS 是 靠 海洋 啦 but then i think we don't really do much fishing la 都 我们的 agricultural 之类 的 东西 都是 好像 import 的 很多 东西
+NI32FBQ_0101 2296737 2315817 CS 因为 我们 地 很小 then government 一直 拿 那些 (呃) agriculture 的 地方 去 好像 like 翻新 啦 不要 like 好像 我 妈妈 讲 以前 有 很多 猪场 鸭场 like keep all the ducks all the all the pigs all that but then 都 被 clear 掉
+NI32FBQ_0101 2315817 2323777 CS 都 被 clear 掉 啊 要 啊 就是 (呃) one reason is because very unhygienic la 它 不
+NI32FBQ_0101 2323777 2329137 EN like very smelly also so they clear everything then they build (er) residences loh
+NI32FBQ_0101 2329137 2338507 EN ok so now only left i think singapore we only have like one goat farm then (er) some organic vegetables
+NI32FBQ_0101 2338507 2343887 EN (er) cow farm i think pig farm no more already totally
+NI32FBQ_0101 2343887 2347037 EN yah so only left a few farms at the
+NI32FBQ_0101 2348774 2349897 EN i think choa-chu-kang
+NI32FBQ_0101 2349897 2351827 EN area ya
+NI32FBQ_0101 2351827 2354957 EN very lil~ very few la very few left mm
+NI32FBQ_0101 2361357 2364027 EN korean food ah ah
+NI32FBQ_0101 2364717 2369517 CS 很多 地方 啊 现在 like a lot of a lot of places all got korean food now ah
+NI32FBQ_0101 2369517 2375577 EN like slowly like even food court like you go to a food court sometimes got got korean food mm
+NI32FBQ_0101 2376397 2380057 CS n. t. u. 要 到 (呃) can thirteen
+NI32FBQ_0101 2382257 2383757 EN can thirteen
+NI32FBQ_0101 2384547 2391897 CS ah can thirteen 在 以为 你 你 要 如果 你 搭 shuttle bus 的话 bus c loh
+NI32FBQ_0101 2391897 2392627 ZH 搭到
+NI32FBQ_0101 2392627 2397847 CS (er) can can thirteen 那边 他们 有一个 like korean food 的
+NI32FBQ_0101 2399107 2408477 CS (呃) 石 锅 拌 饭 (嗯) 那种 (呃) kimchi stew kimchi soup 那种 东西
+NI32FBQ_0101 2411577 2420817 CS 没有  没有 只有 那种 like professional restaurant 才会 才会 like 一直 refill 你的 那个 那 那个 side dish
+NI32FBQ_0101 2426297 2436237 CS novena (er) 很好 吃 的 啊  (er) bugis 那边 bugis 那边 有一个 like korean barbecue buffet
+NI32FBQ_0101 2436237 2442727 CS 所以 it's like 你 可以 一直 叫 一直 叫 一直 叫 like eat all you want la but you cannot waste the food la
+NI32FBQ_0101 2442727 2447747 EN so down there bugis (er) its very near bugis junction opposite
+NI32FBQ_0101 2447747 2455077 CS then (er) 那边 有 一条 街 like 很多 火锅 的 then there's a there's a there's a restaurant called arirang
+NI32FBQ_0101 2455077 2459167 CS ah arirang 那边 like they will 很 哇 你 一直 叫 肉 的
+NI32FBQ_0101 2459167 2463837 CS 那时 候 我去 that time i went wah i ate until i was so full i couldn't walk 
+NI32FBQ_0101 2463837 2470727 EN  my friends and i ordered like ordered too much ah so we cannot waste ma cause down there they put that they will charge if you waste
+NI32FBQ_0101 2470727 2477467 CS so 我们 叫了 很多 then wah keep eating keep eating until after that cannot walk already 
+NI32FBQ_0101 2483567 2489077 CS (呃) 他们 他们 不是 火锅 是 like like barbecue loh
+NI32FBQ_0101 2489077 2493050 ZH 啊 可是 你 可以 叫 汤 啦 如果 你 你 要 喝汤 的话
+NI32FBQ_0101 2493050 2497907 CS 他是 barbecue then 你 一直 烤肉 咯 烤肉 烤肉 一直 吃 一直 吃 
+NI32FBQ_0101 2501417 2503657 CS i think 二十 多吧 一个人
+NI32FBQ_0101 2503657 2507897 ZH 啊 二十多 mm 
+NI32FBQ_0101 2507897 2509367 CS 啊 有 beverage
+NI32FBQ_0101 2510367 2513037 CS 有 (呃) fruit ah fruit 好像 没有
+NI32FBQ_0101 2513827 2519097 CS 菜 可是 他们的 side dish 是 一直 来 的 so you can keep asking for refill 
+NI32FBQ_0101 2519707 2527547 CS (嗯) 不是 自己去 你 因为 他 有一个 好像 paper then 你 一直 你 你 要 几个 你 就 打钩 咯
+NI32FBQ_0101 2527547 2530617 CS 如果 then 你 你 把 那个 纸 交给 那个 人
+NI32FBQ_0101 2530617 2547177 CS then so the orders will come like that la 不是 like 好像 because 好像 seoul garden seoul garden 他们 会 放 全部 都 放 摆 在 那边 我是 觉得 not very not very nice la then always like you have the feeling that it's not fresh ah cause the the meat you put there for so long
+NI32FBQ_0101 2547207 2552797 EN then like you don't know how long it's been put there also so its not very fresh ah whereas here like you
+NI32FBQ_0101 2552797 2561527 CS 因为 你是 order 的嘛 所以 like they will bring it out for you not like they put it there then like (er) not very not very clean also i think
+NI32FBQ_0101 2563467 2569347 CS mm no 不用 等 很久 the the food comes quite fast ah
+NI32FBQ_0101 2572227 2581287 ZH 哦 因为 那时 候 我们 是 早去 啦 我们 五点 多 就 去了 所以 那时候 没有 什么 人 可是 七点多 就有 人 进来 了
+NI32FBQ_0101 2592947 2595797 CS 新加坡 哪一些 food 可以 介绍
+NI32FBQ_0101 2603227 2605517 ZH 没有 没有 去 过 台湾
+NI32FBQ_0101 2611217 2623447 CS (嗯) (呃) 差不多 啦 差不多 一样 因为 他们 也是 韩国人 开的 so 那边 那边 (呃)
+NI32FBQ_0101 2623447 2631830 ZH 他们 那边的 老板 也是 韩国人 啦 所以 他们的 食物 也是 蛮 不错 可是 他的 汤 不 太好喝
+NI32FBQ_0101 2632307 2635397 EN the the the soup wasn't very good yah
+NI32FBQ_0101 2635397 2645607 CS it it i don't know because i think it was a buffet so the the soup right they just they didn't really make it very well la 是 那种 好像 便宜 的 
+NI32FBQ_0101 2645607 2647047 ZH 便宜 的 汤 啊
+NI32FBQ_0101 2647047 2652407 CS yah so like but the the the 他的 肉 烤肉
+NI32FBQ_0101 2652407 2653827 ZH 很好吃 (嗯) 不错
+NI32FBQ_0101 2660527 2663991 EN yah  
+NI32FBQ_0101 2666417 2670807 CS (嗯) 去 首尔 有 去 jeju jeju island
+NI32FBQ_0101 2670807 2675527 CS ah so from seoul we went to 搭 飞机 到 jeju island
+NI32FBQ_0101 2675527 2681947 CS then 然后 又 搭 飞机 回 de-gu 因为 嘛 de-gu 因为 de-gu 那边 (呃)
+NI32FBQ_0101 2682247 2691227 CS 我们 从 首尔 到 jeju island jeju island 在 那边 玩 然后 去 de-gu de-gu 有 那种 (呃) ever land 是 很大 的 那种 theme park la
+NI32FBQ_0101 2691227 2696827 CS so 去 那边 玩 然后 又 搭 bus 上去 首尔 咯 (嗯)
+NI32FBQ_0101 2699217 2706707 CS jeju 好像 两 两三天 因为 去 那边 jeju jeju island 没有 什么 东西 做 的
+NI32FBQ_0101 2706727 2715477 CS 他 是 很 很平静 的 一个 岛 所以 那边 (呃) 那时 候 我们 去 是 (呃) april mah april 有很多 花
+NI32FBQ_0101 2715477 2718287 ZH 花 都 开 了 所以 在 那边 哇 很 漂亮
+NI32FBQ_0101 2719117 2729417 CS (er) jeju island 好像 没有 什么 樱花 可是 有 那种 不懂 是什么 花 黄色 的 then like 整 片 都是
+NI32FBQ_0101 2729417 2733397 ZH 那种 黄色的花 去 那边 拍 很多 照片 
+NI32FBQ_0101 2733397 2740637 CS  啊 去 那边 骑马 咯 jeju island jeju island actually nothing much to do ah 去看 看 风景的
+NI32FBQ_0101 2744357 2752117 ZH (呃) 啊 我 我们 没有 爬 到 山顶 啊 只是 在下 面 下面 呆 了 一会儿
+NI32FBQ_0101 2752117 2761397 CS 没有 we we didn't we didn't climb to the top la cos it is very very far and then 我们的 tour group 是 因为 是 (嗯) 只有 我们 四个 年轻人
+NI32FBQ_0101 2761417 2771307 CS then 其 他 都是 (呃) 好像 family 之类 的 a couple ah 这些 所以 like 好像 我们 去 我们 去 首尔 的 时候 去 shopping then
+NI32FBQ_0101 2771307 2782637 CS shopping 的 时间 不是 很多 then 我们 每次 都 迟到 因为 其它 家人 因为 有 有 老人 有 孩子 所以 他 不怎么 (呃) 去 shopping
+NI32FBQ_0101 2782637 2791627 CS 所以 我们 shop shop shop 每次 (呃) 要 要好 像 一个 小时 okay 你们 去 shop 一个 小时 then (er) 一个 小时 之后 在 bus 里面
+NI32FBQ_0101 2791627 2794227 ZH (呃)集合 我们 每次 都 迟到 
+NI32FBQ_0101 2794227 2796957 ZH  也是 不好 意思 啦
+NI32FBQ_0101 2796957 2803877 CS not very nice also because we always shop for very long 可是 yah then bus 上 那些 老人 孩子 都在 等 我们 
+NI32FBQ_0101 2808497 2815907 CS actually 其实 因为 他们 没有 什么 给 shopping 的 时间 所以 买 的 东西 不是 很多
+NI32FBQ_0101 2819907 2831107 CS 啊 可是 因为 我们的 的 tour group 是 真的 很多 老人 like 一 整 一 整个 家庭 都 来 老 老的 少的 都来 then like
+NI32FBQ_0101 2831357 2838707 CS yah loh 因为 我们的 的 的 tour guide 也是 应该 是 看了 看了 这种 情况
+NI32FBQ_0101 2838707 2842757 CS 所以 给 的 shopping 的 时时 间 也是 不是 很多 啦 他们
+NI32FBQ_0101 2842757 2846719 CS like they they'll bring us more to eat then 去看 风景 这些
+NI32FBQ_0101 2847107 2858187 CS 不会 不会 like 给 什么 shopping 的 时间 因为 shopping 如果 好像 如果 他们 给 shopping ah 那些 老人 也是 去 只是 去 cafe 去 cafe like drink coffee
+NI32FBQ_0101 2858587 2870337 CS 他 没有 东西 做 嘛 (嗯) 所以 给 的 shopping 的 时间 很少 so next time 我 我 我们 我们 几个 约好 we say that (er) next time i go to korea i want to do free and easy
+NI32FBQ_0101 2870337 2882117 CS free and easy instead la instead of following tour then because mm (er) in seoul its not very difficult la 很 because 他们 有一个 (呃) 好像 地铁
+NI32FBQ_0101 2882277 2889747 EN so you just follow along the along the line loh to to go shopping and all that don't next time don't go tour already ya
+NI32FBQ_0101 2892517 2895107 CS (嗯) 因为 kor~ (er) 韩国人 也是
+NI32FBQ_0101 2895107 2904657 CS they all take english also as a second language but 他们 讲的 不是 很 很 很 fluent but they will they can sort of understand what you are talking about so
+NI32FBQ_0101 2904657 2907707 CS i think 应该 不是 问题 去 那边
+NI32FBQ_0101 2907707 2914387 CS yah then (er) 我 现在 在 n. t. u. 的 那个 啊 my korean teacher in n. t. u. now
+NI32FBQ_0101 2914387 2921427 EN she's going back cause we are going off for a very long break in for four months what so she is going back to korea for three months
+NI32FBQ_0101 2921467 2928177 CS she's a korean but she 她嫁 she married a singaporean here so she's staying here but
+NI32FBQ_0101 2928177 2930707 CS (er) during the holidays 她会 回去
+NI32FBQ_0101 2930707 2938497 CS mm then 这个 月 啊 这个 假期 她 会 回去 三个月 then she said if we are going to korea we can go and look for her also  ya
+NI32FBQ_0101 2947341 2958821 CS yah 他们 好像 如果 你 有看 韩剧 的话 the way they speak is very it's very like quite rough compared to japanese you know japanese are always very polite
+NI32FBQ_0101 2958821 2961331 EN korean koreans are more
+NI32FBQ_0101 2963161 2967831 CS 女生 啊 女生 男生 都 like the 他们 说话 的 语气
+NI32FBQ_0101 2967831 2972951 EN all quite quite tough one like they're quite tough then their
+NI32FBQ_0101 2972951 2983161 CS yah la they can they're not as polite as japanese people cause people always compare them to the japanese but japanese people 真的 很有 礼貌 like when they speak to you they they really like
+NI32FBQ_0101 2983161 2987841 EN like all about service their service very good but then like in korea i think
+NI32FBQ_0101 2987841 2993351 CS mm it depends la some like if you go to those like 好像 那种 theme park
+NI32FBQ_0101 2993351 2998781 CS 他们 很 有 礼貌 cause they are they are told to do so ah 可是 如果 好像 你 去买 东西
+NI32FBQ_0101 2998781 3001771 CS then you know singaporeans 他 我们 喜欢 bargain 的嘛
+NI32FBQ_0101 3001771 3005361 CS 你 跟 他们 bargain 的话 他们 很 不爽 的 
+NI32FBQ_0101 3005361 3016831 CS 那时 候 去 韩国 的 时候 (呃) the tour guide said (er) cannot bargain with koreans don't bargain with koreans they will get very angry with you so 不可以 不可以 讨价还价 啊
+NI32FBQ_0101 3054444 3060441 CS  啊 因为 这 好像 是 觉得 都是 korean
+NI32FBQ_0101 3078401 3079468 ZH 没有 
+NI32FBQ_0101 3081161 3084061 ZH 没有 没有 去 可是 (呃)
+NI32FBQ_0101 3084331 3086618 ZH 有 听说过 (嗯)
+NI32FBQ_0101 3091381 3095171 CS 啊 有 去 teddy bear museum 可是
+NI32FBQ_0101 3095171 3099181 ZH (呃) 因为 (呃) 他 有一个
+NI32FBQ_0101 3099541 3105611 CS 以前 有一个 drama 是在 那边 拍 那个 宫 啊 他在 那边 拍 所以 我
+NI32FBQ_0101 3105661 3107501 EN i i thought it'll be very big
+NI32FBQ_0101 3107501 3113771 CS 可是 进去 好像 很 小 yah just go there and see see see after that nothing nothing to do already 
+NI32FBQ_0101 3113781 3119381 CS then ah 因为 我们 i thought that 去 那边 可以 买一些 好像 souvenir 之类 的 东西 可是
+NI32FBQ_0101 3119381 3119941 ZH 他们的
+NI32FBQ_0101 3119941 3127681 CS 他们的 teddy bear 都 很 贵 then 没有 好像 like 那种 小小的 去 买 回 买 回去 送给 别人 也是没有
+NI32FBQ_0101 3127681 3133841 CS so ok loh 去 那边 看 那个 咯 我 我 朋友 很 喜欢 那个 l. v. bear
+NI32FBQ_0101 3134411 3145461 CS (嗯) 没有 卖 啦 可是 他 有 display ah 我们 有 看过 (嗯) take take picture loh ah 还有 (嗯) 一只 很大 的 啊
+NI32FBQ_0101 3148861 3151391 CS 啊 对 对 对 对 对 vangogh 的 画
+NI32FBQ_0101 3152441 3156511 ZH (嗯) 可是 很 小 我 以 我 以为 他 很大
+NI32FBQ_0101 3159981 3165541 CS (嗯) 对 对  okay 谢谢

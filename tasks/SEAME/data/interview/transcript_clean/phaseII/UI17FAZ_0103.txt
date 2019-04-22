@@ -1,0 +1,151 @@
+UI17FAZ_0103 0 1300 ZH 的 它 的 那个 钟
+UI17FAZ_0103 4843 8008 ZH 嗯 没有 它是 几个人 出来 罢了 的
+UI17FAZ_0103 8317 11852 ZH 不 假如 是 你 要看 那个 小世界 的 呢 你 要 坐船 咯
+UI17FAZ_0103 12084 22834 CS 你 进 进去 坐船 咯 你 就会 看到 很多 不同的 那个 小洋娃娃 啊 哦 所以 它 就 分 咯 欧洲 啊 亚洲 又 africa bernua ah 那些 东西 到完 啊
+UI17FAZ_0103 23281 26041 CS 所以 你 就 看 不同 的 那个 culture loh
+UI17FAZ_0103 26558 29717 CS 他们 唱歌 咯 那些 那些 robot 在 唱歌 咯
+UI17FAZ_0103 32939 34229 ZH 有 有 有
+UI17FAZ_0103 34505 40697 CS 有 啊 有一个 他是看 donald duck 和 mickey mouse 的 cartoon 的
+UI17FAZ_0103 40955 42555 CS 不过 它 three d. 不错 啦
+UI17FAZ_0103 42761 46602 CS compare 因为 我 很久 很久 没有 看 three d. 的戏了 了
+UI17FAZ_0103 47021 48328 ZH 我看
+UI17FAZ_0103 48672 52869 CS 我看 你讲 avatar ah 我连 two d. 我 都 没有 去 看 啊
+UI17FAZ_0103 53471 59330 CS 我有 我有 看过 那个 three d. 的戏 是 很多年 前 但是 我 觉得 很 autar
+UI17FAZ_0103 59484 67448 CS 你 放 那个 镜子 上去 hor 根本 都 没有 看到 什么 three d. 这样 啊 一些 一些 小小东西 浮 起来 罢了 它的 three d. 我 觉得 很 不错
+UI17FAZ_0103 67758 75220 CS 它~ 它 是 讲 那个 donald duck leh 它去 它 mickey mouse 要去 开 一个 演唱会 了 mickey mouse leh 就叫 那个 donald duck leh hor 去
+UI17FAZ_0103 75706 79472 CS 去 帮它 set 好 那些 music instrument 到完
+UI17FAZ_0103 79713 83691 CS donald duck 一开 勒 那个 music instrument 就会 自己 动 自己 动 你 知道 cartoon mah
+UI17FAZ_0103 83828 91328 ZH 要 跟 他 作对 这样 啊 它 生气了哦 它就 丢 那个 笛子 然后 你会 感觉 到 那个 笛子 真的 是 冲向你 你会 这样 闪 的 啊
+UI17FAZ_0103 91517 102488 CS 过后 它 就 去 一个 好像 (嗯) 它们 那些 那些 music instrument ah hor 就 pakat ah hor 带 它 去 那个 魔幻世界 这样 哦 music 的 魔幻世界 哦
+UI17FAZ_0103 102660 110942 CS 不错 pun lah 它 的 那个 three d.lorh 它~ 它~ 它 捧了 它 一盘 它 放~ 放 那个 cake 上来 的 时候 哇 真得 很想 吃 
+UI17FAZ_0103 115328 118406 ZH 没有 啦 最近 新的 我都 不看 啊
+UI17FAZ_0103 119147 123119 CS 因为 几年前 咯 看那个 three d. 以为 骗人 嘛
+UI17FAZ_0103 125029 128708 CS so 我 要去 看了 去 try 一个 新的 看
+UI17FAZ_0103 130277 132275 ZH 嗯 最近 我 很 heng 哦
+UI17FAZ_0103 133442 134886 ZH 加 五块 哦
+UI17FAZ_0103 135488 139763 ZH 它的 那个 眼镜 做么 干 不脆 不送 我 给 我 买去 算了 啊
+UI17FAZ_0103 142751 143990 ZH 过份 哦
+UI17FAZ_0103 145297 148049 ZH 五块钱 哦 贵咯
+UI17FAZ_0103 150874 152112 ZH 嘁
+UI17FAZ_0103 152577 155356 CS 我 听说 啊 美国 有 four d. 了 喔
+UI17FAZ_0103 158494 160888 CS four d. 跟 three d. 有 什么 不同
+UI17FAZ_0103 165530 168867 CS yeah loh 这样 我 这里 disneyland 的 是 four d. ah
+UI17FAZ_0103 169176 176722 CS 不是 three d. oh 因为 它开 那个 champagne 的 时候 我 可以 feel 到 那个 风   它 开 到 那 个 什么 啊
+UI17FAZ_0103 176928 183419 CS 它~ 它~ 它~ 它 有 哈 对 噢 有 味道 到 完 全部 都有 咯 哈哈 那个是 four d. loh
+UI17FAZ_0103 184445 193764 CS 哈 有 味觉 然后 而且 它 它的 那个 它~ 它们 开 champagne 的 时候嘛 每次 它 这样 喷 出来 啊 你会 feel 到的咯 真的 是
+UI17FAZ_0103 195151 196140 ZH 有 啊
+UI17FAZ_0103 196552 198427 ZH 哈 全部 都有 啊
+UI17FAZ_0103 199769 203329 ZH 椅子 就 没有 啦 因为 它 没有 关系 到 我们 嘛
+UI17FAZ_0103 207991 210365 ZH 我 去 看 的 那 一出 是 没有 咯
+UI17FAZ_0103 211745 214132 CS 可能 是 看 不同 movie 噶
+UI17FAZ_0103 222681 226577 ZH 没有 啦 没有 拜神 啦 去看 那个 佛 罢了 啦
+UI17FAZ_0103 226955 230783 ZH 我也 没有 去 吃 斋 啦 去 看 那个 佛 罢了 咯
+UI17FAZ_0103 232376 235469 ZH 很～ 很 大樽 的 那个 佛陀 咯
+UI17FAZ_0103 235641 236880 ZH 在山上咯
+UI17FAZ_0103 237052 242351 CS 你坐 cable car 不知道 要过 几粒 山 你~ 你坐 cable car 就要 半小时 多了 你 知道 吗
+UI17FAZ_0103 243829 249379 CS 没有 你 要坐 cable car 过的 有~ 有 两个 方法 一个 就是 坐 巴士 一个 就是 坐 cable car
+UI17FAZ_0103 249603 254866 CS 坐 巴士 勒 你 就 走山路 cable car lah 你 直接 是  跨越 那个 山
+UI17FAZ_0103 255072 260700 ZH 到完 咯 不过 也是 坐 蛮久 好像 是 有四十 半小时 到 四十分钟 你 知道 吗
+UI17FAZ_0103 261093 263034 CS 很久耶 它的 cable car
+UI17FAZ_0103 263415 269816 CS 坐到 坐 cable car 已经 坐到 要死 不要 死了啊 去到 那边 它的 那个 佛 又 很高啊 又要 爬到 半条命 咯
+UI17FAZ_0103 271098 274038 ZH 很 大樽 啊 不过 真的 很 大樽 一下
+UI17FAZ_0103 275231 276549 ZH 嗯
+UI17FAZ_0103 277875 282956 ZH 嗯 有庙哦 不过 我 没有 真正 去看 到完 啦
+UI17FAZ_0103 288131 291210 ZH 极乐寺 还没有 去 
+UI17FAZ_0103 291915 294461 ZH  在 我 妈妈 家 旁边 罢了
+UI17FAZ_0103 295904 301533 ZH 我 每次 驾车 看 就 看得到 了嘛 不用 不用 特地 爬 上去 看了 
+UI17FAZ_0103 306688 310003 ZH 嗯 我 觉得 那边 的 比较 高
+UI17FAZ_0103 310646 316249 ZH 因为 你 这边 的 观音 你 是 驾车 你 这样 平时 这样 过 你 也 可以 看到 的
+UI17FAZ_0103 316476 327425 CS 那边 的 佛哦 好像是 看不到 的 咯 你 真的 是 要 坐 那个 cable car 过 几粒 山 你 才会 看到了 咯 而且 你~ 你~ 你 过到 越高 越高 的 时候 啊 雾 越 多 哦
+UI17FAZ_0103 327743 332967 ZH 刚好 我去 的 那天啊 雾 很重 啊 应该 是 天气 也凉 转凉啊
+UI17FAZ_0103 335956 336970 ZH 没有
+UI17FAZ_0103 336970 342667 ZH  我 去 香港 是 为了 要 去过 香港 才去 罢 了 吗 
+UI17FAZ_0103 348888 354685 CS theme park 一天 咯ah disneyland 一~ 一天 咯
+UI17FAZ_0103 355906 358122 CS for 半天 罢 了 嘛
+UI17FAZ_0103 358831 360586 ZH 那天 我 还有 去 哪里 吗
+UI17FAZ_0103 361325 364720 CS 过后 应该 是 去 shopping 罢了嘛 没有 去 什么 了啊
+UI17FAZ_0103 366107 367517 ZH 那个
+UI17FAZ_0103 367947 369581 ZH 那个 叫 什么 名字 啊
+UI17FAZ_0103 370011 372197 ZH 最 著名 尖沙嘴 啊
+UI17FAZ_0103 373143 376356 ZH 高龙 我没有 去到 去 尖沙嘴 咯
+UI17FAZ_0103 379868 383266 ZH 也 没有 什么 啦 东西 贵到 很贵 咯 香港
+UI17FAZ_0103 383953 384830 EN hahloh
+UI17FAZ_0103 385226 390519 CS 连它 espirit 也 贵到 要命 虽然 是说 比起 malaysia 便宜 一点点 啦
+UI17FAZ_0103 390953 392669 ZH 不过 不知道 啦
+UI17FAZ_0103 398057 401540 ZH 我 自己 本身 是 觉得 香港 的 东西 很贵 咯 坦白 讲
+UI17FAZ_0103 401764 404980 CS 我去 台湾 shopping hor 反而 觉得 很 好买
+UI17FAZ_0103 405290 410628 CS 好像 你 你 买一件 做工的 blouse 在 台湾 啊 你 可以 买到 一件 二十块 三十块 的 你 知道 吗
+UI17FAZ_0103 410931 417039 ZH 你 去 香港 你真 的 是 买 不下手的 它一件 最少 要 七八十块 百多块 我 也 不知道 为什么 这样 贵 咯
+UI17FAZ_0103 418345 423213 CS even 有些 non-branded 的啊 而且 我 觉得 也 是 蛮 贵一下 咯
+UI17FAZ_0103 423362 428574 CS 而且 你看 啊 在 台湾 啊哦 它们 地下 铁 的 shop 很多的 那个店 上面 很多 的
+UI17FAZ_0103 428746 434633 CS 它 可以 从 one station to another station ah 是 整排 都是 shophouses 到完 shop lots 到完 卖东西的
+UI17FAZ_0103 434926 440894 CS 他们 那边 的 香港 哦 我 觉得 地下铁 的 那个 shop lots 很少 很少 很少
+UI17FAZ_0103 441290 443335 ZH 而且 卖 东西 也 很贵
+UI17FAZ_0103 444678 446089 ZH 又 加上
+UI17FAZ_0103 446312 454484 CS 我 也 不知道啦 可能 是 香港人 不喜欢 坐 还是 怎样啊 它的 m. r. t. station ah hor 一张 椅子 都 没有的 走到 脚 要 断掉 啊
+UI17FAZ_0103 460487 462654 ZH 啊 对 对 对 对
+UI17FAZ_0103 464924 467470 ZH 中国 来 应该 更 便宜 了 吗
+UI17FAZ_0103 470669 472443 ZH 那个 又 我 不懂 啦
+UI17FAZ_0103 472890 479463 CS 蛮贵 咯 我 觉得 香港 假如 你 真正 想要 去 shopping lah 我 觉得 台湾 比较 好 shopping loh
+UI17FAZ_0103 482178 483090 ZH 没有
+UI17FAZ_0103 483812 489438 CS 有 几 间店 有 啦 不过 也是 after discounted 也是 蛮 贵一下 
+UI17FAZ_0103 491926 497842 CS 嗯  因为 我 是 去 五月 好像 是 没有什么 sales loh
+UI17FAZ_0103 515202 520271 CS 五月 没有 什么 sales eh 不过 去年 我 去 台湾 有 sales wah mother day sales
+UI17FAZ_0103 520694 526529 CS 哈 它的那个 skin care ah sales 到 很 便宜 那一种 它可以一片 mask hor
+UI17FAZ_0103 526697 535239 CS 啊 五十片 mask 本来 五百块 的 啦 那个 是 很贵 的 mask ah hor 下 到 五十片 一百五 块 罢了 刚好有 mother day sales
+UI17FAZ_0103 541807 545522 CS 买 mask loh  买 mask 一大堆 回来
+UI17FAZ_0103 548395 556244 CS 嗯 不错啦 你 知道 在 malaysia 买 同样 的 一片 mask ah 五块钱 你 知道 吗 我在 那边 买 两块钱 罢了 你 知道 吗
+UI17FAZ_0103 561589 571745 CS 你 要放 more frequent loh compare to 那些 比较 贵贵的 mask loh okay lah 我们讲一片 s. k. two 的 mask 三四十块的 可能 你 一放 下去
+UI17FAZ_0103 572130 575966 ZH 你 就 可以 看到 比较 快的 效果 啦
+UI17FAZ_0103 576275 584323 CS 这些 便宜 的 mask 呢 因为 我 朋友 做 美容师 的 她讲 其实 便宜 和 贵的 mask 是 差不多 一样的 她讲 不 需要 去买 到 这样 贵的 mask 的啦 她讲
+UI17FAZ_0103 584461 591151 CS 你 去 买 便宜 的 mask ah 她 讲 你一天 熬 一天 一天 敷 一天 不敷 一天 敷 一天 不敷 你 也会 看到 效果的啦 她讲
+UI17FAZ_0103 591599 598566 CS 只是 可能 就是 说 你要 more frequent lah 不过 假如 你买 一片 s. k. two 你放 一~ 一可能 一个 星期 放一片 咯
+UI17FAZ_0103 599117 607817 CS 不过 问题 是 一片 三四十块 啊 好贵 耶 我 可以 买 我 可以 买 let say 我 想 讲 一片 四十块 哦 我 这边 可以 买 二十片 了 你 知道 吗
+UI17FAZ_0103 608800 611853 ZH 二十片 我 可以 放 差不多 整 个月了了
+UI17FAZ_0103 616841 618716 ZH 嗯
+UI17FAZ_0103 619181 623085 ZH 你要 问 我 钱啊 我 很少 花的 哦 又 不是 我 出的
+UI17FAZ_0103 623687 625717 ZH 好像 是 八百多 吧
+UI17FAZ_0103 627333 630882 CS 没有 没有 我们坐 a. a. 诶 没有 我们坐 tiger airway 去
+UI17FAZ_0103 632894 636851 EN penang singapore singapore hong-kong
+UI17FAZ_0103 640875 646292 CS 没有 因为 本来 要坐 air asia 了 我 要去 的 日子 又 没有
+UI17FAZ_0103 646484 651661 ZH 我 因为 我 教书 那个 时间 比较 难桥 嘛
+UI17FAZ_0103 652366 665253 CS 没办法 哦 就看 tiger way loh cathay pacific 当时 好像 是 没有 什么 哦 没有 什么 promotion 这样咯 它有 好像 是 三天两夜 不知道 一人 千 千多 哦
+UI17FAZ_0103 668779 674416 CS 哈哈哈哈 包括 住宿 咯 不过 问题 是 三天两夜 有点 rush mah 我 觉得
+UI17FAZ_0103 674760 680127 CS 所以 而且 它 那一个 cathay pacific 那一个 particular 那一个 package hor
+UI17FAZ_0103 680351 684169 CS 它 又 不可以 extend 的哦 一定要 三天两夜 那一种 的 哦
+UI17FAZ_0103 684376 692008 CS 所以 最后 本来 要 拿 的 嘛 了 它有 两个 offer actually 了 另一个 是 两千多 好像 是 两千 三 哦
+UI17FAZ_0103 692357 695509 CS 我 是 听我 husband 讲的啦 两千三
+UI17FAZ_0103 695681 704402 CS 那个 是 给你 住 在 disneyland 一晚 something 是这样 不过 也是 觉得 很贵啦 倒不如 拿 那个 tiger way loh tiger airway ah
+UI17FAZ_0103 705021 709935 CS 所以 是 penang singapore singapore hong-kong loh
+UI17FAZ_0103 712391 713172 EN en
+UI17FAZ_0103 714441 716058 ZH 多少 什么
+UI17FAZ_0103 716058 717640 EN 
+UI17FAZ_0103 717640 720839 ZH 嗯 多小
+UI17FAZ_0103 722654 724780 ZH 差点 要 饿死 爬回来 啊
+UI17FAZ_0103 727927 731443 CS 啊 云吞面 还 okay lah 不过 很贵 咯
+UI17FAZ_0103 732227 734687 ZH 一 一盘 chap gui kor loh
+UI17FAZ_0103 736527 746117 ZH 它 给你 的 那个 那个 那个 那个 啊 云吞 大大粒 到完 咯 五粒 大大粒的 里面 又有 虾的 好料 是 好料 啦 不过 很 贵 啊
+UI17FAZ_0103 751720 754727 CS ah sorry 我 不吃 kim gary 的 
+UI17FAZ_0103 755248 758340 CS  我很 排斥 hong-kong food 的 我 不知道 为什么
+UI17FAZ_0103 758877 763555 ZH 嗯 可能 是 因为 猪肉 的 关系呱 我 不喜欢 吃 猪肉 嘛
+UI17FAZ_0103 764123 769346 ZH 去 台湾 也是 嘛 差点 饿死 爬回来 也是 猪肉 一大堆 又 臭 臭猪肉咯
+UI17FAZ_0103 773096 780686 ZH 不是 没有吃 有吃 不过 就是 不 不明白 为什么 他们 那边 的 猪 猪肉 这样 臭啊
+UI17FAZ_0103 781115 790205 ZH 不懂哦 又很  你~ 你~ 你 经过 他 的 店啊 那个 猪肉面 这样 啊哦 你 嗅到 一股 很臭 的 那个 猪肉味 那一种 的 哦
+UI17FAZ_0103 790541 794812 ZH 牛 我 没有 吃牛 嘛 我 吃 鸡 比较 多嘛
+UI17FAZ_0103 795620 801444 CS 就 不喜欢咯 了 compare to 外国 的 猪 又 好像 没有 这样 臭哦 外国的 人 的 猪
+UI17FAZ_0103 801640 807394 ZH 可能 是 吃~ 吃草 吃~ 吃草啊 那些 饮料 啊 比较 好 好 好 上等的 吧
+UI17FAZ_0103 812671 814425 ZH 我 没有 吃到 它 鸡饭
+UI17FAZ_0103 814425 818139 EN 
+UI17FAZ_0103 818139 823180 CS 我 吃到 它 点心 哦 还有 那个 mango pudding 不错咯
+UI17FAZ_0103 824848 828981 ZH 一点点 一点点 啦 因为 我 很 挑 吃 嘛
+UI17FAZ_0103 838459 841687 CS 我 没有 去 australia lah 去 new zealand lah
+UI17FAZ_0103 842265 847115 CS new zealand 还 okay lah 东西 不 东西 很 好吃 一下
+UI17FAZ_0103 848268 850194 ZH 噢 两个 星期 有啊
+UI17FAZ_0103 852430 857881 CS 嗯 它有 south island 和 north island 的嘛 我是去 south island loh
+UI17FAZ_0103 858121 860770 CS 它的 south island 我去 差不多 two-third loh
+UI17FAZ_0103 860994 870162 CS 从 christchurch christchurch 又 去到 有去到 dunedin 又去到 它的 mount cook ah mount tasmania ah
+UI17FAZ_0103 870626 875801 CS 还有那些 glacier 那些 fox 什么什么什么 fox glacier ah
+UI17FAZ_0103 876162 881460 CS 不错啊 它那个 trip ah 它 self-driving 的嘛 我们 自己 租车 自己 驾的嘛
+UI17FAZ_0103 884969 889475 CS (嗯)  看 地图 因为 它们 那边 的 highway 很 容易 的
+UI17FAZ_0103 889819 894945 ZH 它的 它的 路 嘞 不是直 就是 横 不是 横 就是 直 不像 我们 槟城 这样
+UI17FAZ_0103 895237 898773 ZH 一条路 又 看到 哇 三四 个 叉 出来 的 那一种 啊

@@ -1,0 +1,197 @@
+UI28FAZ_0104 0 11083 CS 我就 不懂 带 他们 哇 在 哪里 因为 我是 side 嘛 我一直 在找 哇 哇 哇 看 没有 虾 pun 讲 a lot a lot 哪里 啊 richard 指 那边 后面 我才 翻去 后面 看
+UI28FAZ_0104 16699 18774 CS 除了 guala gula 就讲 那边 的 trip ah
+UI28FAZ_0104 20385 24179 CS 其他 地方 没有 了 最近 都 没有 去 哪里 travel
+UI28FAZ_0104 25029 27249 CS 没有 去 哪 去 malacca
+UI28FAZ_0104 28548 31103 ZH 哦 然后 去 taman negara
+UI28FAZ_0104 31103 34957 ZH taman negara 玩 不够 eh 还想 再去 多 一次
+UI28FAZ_0104 37234 40550 CS 哦 我 去 的 时候 很 lucky eh 没有 半只 啊
+UI28FAZ_0104 41705 46196 ZH 啊 可以 这样 讲 咯 不是 <unk> 没有 这样 啊 水很好
+UI28FAZ_0104 46196 50766 CS 但是 没有 晒 可是 很 unlucky 哦 因为 它 第一天 带 我们 去 水 的 地方
+UI28FAZ_0104 50766 54284 CS 有 river 然后 有 很多的 石头啊
+UI28FAZ_0104 54284 60275 ZH 我的 脚 给 石头 割到 所以 我 就 没 办法 玩太多 第二天 的时候 没怎么 玩到
+UI28FAZ_0104 60275 63803 ZH 第一天 就 受伤 了 嘛
+UI28FAZ_0104 63803 66927 ZH taman negara 的 时候 咯
+UI28FAZ_0104 66927 71646 ZH 啊 第一天 我们 去到 那边
+UI28FAZ_0104 71646 74118 ZH 就去 走 咯
+UI28FAZ_0104 74118 81550 CS 然后 就 走 走 咯 走 到 有 一个 tourist guide 带 我们 去 走 它 里面 然后 介绍 他的 hutan ah
+UI28FAZ_0104 81550 88145 CS 这个 啊 怎样 做 这个 其实 是 shampoo 来的 可以 洗头 的 我也 忘记 他 怎样 教 我们 洗了
+UI28FAZ_0104 88145 94301 ZH 它 叶子 指的是 什么 其实 有 泡沫 的 好像 是 根 好像 在 讲 这个 是 shanzhan*
+UI28FAZ_0104 94301 100480 ZH orang tempatan bumiputra 拿来 洗头 的 树 来的 哦 这样 哦 咯 就懂 咯
+UI28FAZ_0104 101161 106412 ZH 然后 带 我们 去 走 去 它的 树林 咯 然后 就讲 这些 树 那些 树 我都 没有 兴趣 的
+UI28FAZ_0104 106412 108522 ZH 因为 我 只想 爬 gua telinga 罢了 嘛
+UI28FAZ_0104 108522 110067 ZH 然后 走到 gua telinga
+UI28FAZ_0104 110067 112743 ZH 可以 <unk> 去爬 咯
+UI28FAZ_0104 113562 117191 CS 然后 chuli 跟她 boyfriend 在 前面 我 跟我 boyfriend 在 后面
+UI28FAZ_0104 117191 119970 ZH 然后 就 爬 爬 爬 爬 爬 爬到 上面 咯
+UI28FAZ_0104 119970 127846 CS 然后 最 paiseh 是 最后 的 时候 只有 我 不会 爬  我永远 都 记得  要 boyfriend 扛我上去 哎呀
+UI28FAZ_0104 127846 131344 CS panda 上面 拉我 那个 最 paiseh
+UI28FAZ_0104 131344 133849 ZH 觉得 自己 很 小姐 没有 用
+UI28FAZ_0104 136997 139183 ZH gua 里面 很多 kelawar
+UI28FAZ_0104 140063 141746 ZH 还有很多 kelawar 的粪
+UI28FAZ_0104 141746 146738 CS 很臭  很多 bat 跟 他的 他的 shit lor 很臭 eh
+UI28FAZ_0104 146738 149299 ZH 对 那个 很 倒霉 的
+UI28FAZ_0104 149299 153884 CS 就去了 那个 gua telinga 过后 因为 那个 torch light 有粪 嘛
+UI28FAZ_0104 153884 160510 CS chee-lee 的 torch light 拿去 洗 没有 事情 我的 torch light 拿去 洗 竟然 不能 function 了
+UI28FAZ_0104 160510 163296 CS 哎呦 我这 我的 torchlight 这样子 就 因为 是
+UI28FAZ_0104 163296 166292 CS 因为 我的 gua telinga 就 sacrifice 它 自己 了
+UI28FAZ_0104 167212 168573 ZH 有点 倒霉 eh
+UI28FAZ_0104 168573 175809 CS 过后 还好 after 那个 gua 过后 就 不需要 用到 什么 torch light 我们 也 没有 去 什么 night night 的 activity ah 因为 很贵
+UI28FAZ_0104 177179 179737 ZH 所以就 算了 不划算 嘛
+UI28FAZ_0104 182119 185075 CS 那我 因为 去 了 gua telinga 过后 我们 就坐 boat
+UI28FAZ_0104 185075 191677 CS 就 逆水 这样子 去 另外 一个 那个 瀑布 waterfall 就去 玩水 的 咯
+UI28FAZ_0104 191677 194912 ZH 哪里 知道 我 走 走一下 就给 石头 割到了
+UI28FAZ_0104 194912 196947 ZH 早 知道 穿鞋 走
+UI28FAZ_0104 196947 201845 ZH 我们就 不懂 eh 看到 哇 好像 很清 这样 就像 争水 在里面 玩的 吗
+UI28FAZ_0104 201845 207477 ZH 然后 走 走 走 一下 就 被 割到了 很 小姐
+UI28FAZ_0104 207477 211276 ZH 割到 很深 血流 不止 皮 又开 起来
+UI28FAZ_0104 211276 213357 ZH 啊 就 没 办法 咯
+UI28FAZ_0104 213357 215103 CS 就 have to go back 了 咯
+UI28FAZ_0104 215103 217549 ZH 水都 玩不到 一下子 就 被 割到了
+UI28FAZ_0104 217549 222795 ZH 好像 四个人 没有 什么 好玩 的 事 eh 有 什么 好玩的 事 eh 要是 多人 的话 玩水 就爽 啊
+UI28FAZ_0104 226752 228422 ZH 哦 没有 注意到 哦
+UI28FAZ_0104 234735 237667 ZH 哦 哎 下 一次 想要 看多 一次
+UI28FAZ_0104 240216 242046 ZH 啊 不 可以 待了 他 不知道 嘛
+UI28FAZ_0104 249661 252513 ZH 哦 啊 对 咯 他也在 那 旁边 看 我们 玩
+UI28FAZ_0104 252513 255010 ZH 没 瀑布 嘛
+UI28FAZ_0104 255010 257258 ZH 我 还 讲 不要 去 太远 啦 这边 可以 啦
+UI28FAZ_0104 258554 262155 ZH 就 好像 是 逆水 的时候 那个 水很大
+UI28FAZ_0104 262155 266841 CS 然后 我的 这个 bottle hor 我的 tupperware 就成了 他们 的 hand phone 的 protector
+UI28FAZ_0104 266841 270497 ZH 然后 水满满 要给我 喝水了 那里 再打掉
+UI28FAZ_0104 270497 276675 CS 拿来放 hand phone 因为 水很 它逆 逆 那个 river 的水 啊 水 水很大 盛水
+UI28FAZ_0104 278115 281522 CS 水 很大 所以 拿 来 装 装 hand phone loh eh 很好 用 一下
+UI28FAZ_0104 281522 284401 CS  这些 <unk> 了 他们的 handphone
+UI28FAZ_0104 284401 286407 CS 不 便宜 eh 这样多 hand phone
+UI28FAZ_0104 286407 288964 CS 哦 then 拿来 装 嗯
+UI28FAZ_0104 288964 293362 CS 然后 after that 第二天 晚上 也 没 什么 玩 啊
+UI28FAZ_0104 293362 299125 ZH 因为 脚 都 受伤 了 什么 心情 都 不想 因为 皮 又 想 剪掉 又 太 大片 不能 剪
+UI28FAZ_0104 299125 303346 CS 就 只好 关 着 它 让 它 生 回 recover
+UI28FAZ_0104 303346 307793 ZH 不然 的话 又 全部 剪到 有时 薄 的话 他是 抓个 大块来
+UI28FAZ_0104 311239 316543 ZH 自己 去 走 咯 走 那种 桥 啊 一根 罢了 自己 走 咯
+UI28FAZ_0104 316543 319294 CS 第二 第二天 没有 tourist guide 了 哦 没 叫 了
+UI28FAZ_0104 320538 323788 CS 啊 两天一夜 嘛 呐 你的 coupon ah
+UI28FAZ_0104 326628 333120 CS 没有想到 他们 他们 就 tumpang 阿 kent 的车 都 没有 pay 回的
+UI28FAZ_0104 333120 340309 CS 而且 阿 kent 这样 大只 我们 睡在 single bed 我跟他 都 不能 睡 下去 他 太肥 了
+UI28FAZ_0104 341573 344226 ZH 啊 但是 他 其实 不是 很快 就 睡着了
+UI28FAZ_0104 345019 347098 ZH 然后 我 都 没 没 怎么 睡到
+UI28FAZ_0104 347098 349202 ZH 所以 第二天 都 没有 什么 去走到
+UI28FAZ_0104 349202 352001 ZH 就 有 机会 再去多 一次 taman nagara
+UI28FAZ_0104 353681 355294 ZH 还要去 malacca
+UI28FAZ_0104 355981 358250 CS malacca 的 a. a. famosa 还 没有 去多过
+UI28FAZ_0104 360226 366421 ZH malacca 我们 走 那个 红 keretapi 那边 罢了 嘛 红屋 咯
+UI28FAZ_0104 366421 368316 CS 走 那边 吗 a. famosa 没有 去到
+UI28FAZ_0104 368316 370347 ZH 因为 我们 去 两天一夜 罢 了
+UI28FAZ_0104 375050 377593 CS 因为 chinese new year 的 holiday 不会 很长 的 嘛
+UI28FAZ_0104 381316 383980 ZH 全部 都 红色 没有 什么 特别 咯
+UI28FAZ_0104 383980 387841 CS 因为 我们 重要 的 是 我们 要去 我 喜欢 去走 它的 night market 罢了
+UI28FAZ_0104 387841 389708 ZH 其实 想吃 那 鸡饭
+UI28FAZ_0104 389708 391246 ZH 想吃 它的 沙爹
+UI28FAZ_0104 391246 395136 CS 最 想懂 它 那边 的 culture 它们 那边 食物 罢了 嘛
+UI28FAZ_0104 395136 399153 ZH 知道 吃不到 不要 回来了 
+UI28FAZ_0104 399153 402191 ZH 没有 什么 特别 原来 他的 鸡饭 不好吃的
+UI28FAZ_0104 402191 406994 CS 他 那个 哦 好像 fishball 这样的 沙沙的饭 不好吃
+UI28FAZ_0104 406994 414198 CS 应该 没有 我们 不应该 在 那 一间 吃 我们 应该 在 town 的 那 一间 吃 我们 不应该 在 那个 night market 那 一间 吃
+UI28FAZ_0104 414198 416447 CS 虽然 famous 的 是 在 那边
+UI28FAZ_0104 416447 420434 CS 可是 我们 应该 在 我 我们 town 那边 的 有 一间
+UI28FAZ_0104 420434 425170 CS 哈 不是 咖啡店 它是 restaurant 来的 那 一间 比较 好吃
+UI28FAZ_0104 425170 430109 ZH 可是 就是 看到 他 这样 这样 这样 豪华 这样 mewah 所以 才 不敢 去吃
+UI28FAZ_0104 430109 436365 CS 所以 我们 才去 那个 好像 咖啡店 这样 靠近 night market 那个 街 哦 那边 吃
+UI28FAZ_0104 439397 440869 ZH 沙爹 没有 吃到
+UI28FAZ_0104 440869 443685 CS 那时侯 没有开 找不到 他 night market 没有
+UI28FAZ_0104 443685 445947 ZH 还是 我们 去的 太早了
+UI28FAZ_0104 445947 448384 ZH 一直 走来走去 都 找不到 奇怪
+UI28FAZ_0104 448384 450372 CS 然后 吃 他的 muah chee lor
+UI28FAZ_0104 450372 456173 CS 然后 做了 很多 那个 key chain ah 他 那边 的 key chain 很- 还 做得 很好
+UI28FAZ_0104 456173 461676 CS 比较 精致 compare to 我们 在 town 那边 的 一个
+UI28FAZ_0104 461676 463585 CS 很 那个 什么 tower 那个
+UI28FAZ_0104 463585 466668 CS 可以 坐上去 看 mai 整个 malacca 的 view 那边
+UI28FAZ_0104 466668 470319 CS 啊 那边 也有做 key chain 那边 的 不美
+UI28FAZ_0104 470319 475446 CS 那边 没有 他 这样 精致 你要去 他 night market 那边 做 才美
+UI28FAZ_0104 479962 484568 CS 就 他 写的 字 咯 比较 看得出 比较 artistic loh
+UI28FAZ_0104 485272 488274 ZH 哦 就是 水 我 买 很多 给你 咯
+UI28FAZ_0104 490234 495103 ZH 哎 不是 就 真正 普通人 咯
+UI28FAZ_0104 495103 497289 ZH 他的 整家人 好像 都会做
+UI28FAZ_0104 497289 502191 ZH   他 他当~ 整~ 就好像 自己 家人 做的
+UI28FAZ_0104 503757 505756 ZH 然后 放 什么 都 可以
+UI28FAZ_0104 505756 509098 ZH 那 看到 觉得 哦 很美 一下 所以 才 跟他 买
+UI28FAZ_0104 509098 514653 CS 起初 又 不懂 嘛 因为 我们 去 玩 那个 去看 那个 东西 那个 tower 的地方
+UI28FAZ_0104 514653 521744 ZH 就 看 他做 哦 就 很想 要 那张 觉得 那张 不美 很 失望 咯 然后 才去 那边 做
+UI28FAZ_0104 521744 531144 CS 不过 那边 没有 的 是 写的 啦 写的 只有 在 那边 town 有 罢 了 一块 石头 你 可以 写 你的 名字
+UI28FAZ_0104 531144 534560 CS 他 真的 是 很会 写 那个 uncle 很老了
+UI28FAZ_0104 534560 537973 CS 他 真的 会写 写完 然后 你 可以 做 necklace 还是 做 什么
+UI28FAZ_0104 544068 548679 CS 不像 eh malacca food 没有 槟城 这样 variety
+UI28FAZ_0104 549766 553760 CS malacca 比较 有 portugese 的感觉
+UI28FAZ_0104 554293 559680 CS 因为 它的 我们 去看 红屋 after that 我们 去看 它的 旧的 building ah
+UI28FAZ_0104 561418 565057 ZH 就 没有 那边 槟城 都没有 什么 这样 的 地方
+UI28FAZ_0104 565057 569504 ZH 还是 我 没有 去过 讲 我是 槟城人 我都 很多 地方 没有 去过
+UI28FAZ_0104 576399 578848 ZH oh langkawi ah 走到 不要 走了
+UI28FAZ_0104 578848 581299 ZH 走到 我 连路 都会 认了
+UI28FAZ_0104 581299 584762 CS 哎 不过 还是 要 map lah 以防 万一
+UI28FAZ_0104 584762 587053 ZH 啊 没了 langkawi ah
+UI28FAZ_0104 587053 589712 ZH langkawi 几条路 罢了
+UI28FAZ_0104 589712 592581 CS 好的 嘛 是在 cable car loh
+UI28FAZ_0104 592581 597289 CS ah cable car 你讲 最长 的 桥 还是 最 special 的桥
+UI28FAZ_0104 598607 604686 ZH 哦 对 我都 没有 看到 因为 那时侯 有雾 所以 不用 上来 啦 看到 有雾 就懂 不用上了
+UI28FAZ_0104 605472 608328 ZH 没有雾 的时候 又 太热 很热的
+UI28FAZ_0104 609819 613881 CS cable car special loh 然后 我们 玩 那个 segway loh
+UI28FAZ_0104 613881 619823 CS segway ah there jacky chan advertisement 那个 kaspersky 的 anti virus 他坐 那个 segway ah
+UI28FAZ_0104 619823 623188 CS ah how to control ah 你去 前面 嘛 走 咯
+UI28FAZ_0104 623188 624736 CS 你去 后面 就 stop loh
+UI28FAZ_0104 624736 627619 CS 你要 弯的 时候 嘛 turn left and right loh
+UI28FAZ_0104 627619 629563 CS 两个轮 两个 row 这样
+UI28FAZ_0104 629563 632754 CS 起初 我很怕 eh 因为 想到 好像 motor 这样
+UI28FAZ_0104 632754 636914 CS motor 前面 后面 两个轮 没有 啦 它的 两个轮 是 side to side 的
+UI28FAZ_0104 636914 638909 ZH 然后 这样子 站上去
+UI28FAZ_0104 638909 642275 ZH 感觉 好像 我们 小时候 玩 那个 两个轮 的 脚车 这样
+UI28FAZ_0104 642275 645479 ZH 这样子 踏上去 你 自己 要 自己 踏 他讲
+UI28FAZ_0104 645479 648625 CS ah balance ah 可是 segwheel 很好 很多 因为 它 它 可以 自己走
+UI28FAZ_0104 648625 650969 ZH 所以 去 前面 去 后面
+UI28FAZ_0104 651529 653914 CS 啊 不过 要 小心 哦 也是 会 accident
+UI28FAZ_0104 653914 659163 ZH 没有 啦 你 自己 要 小心 不要 不要 去前了 就 不要 忘记 去后 啦
+UI28FAZ_0104 659163 667935 CS 啊 然后 你上 bridge 的 时候 啊 那个 拱桥 啊 你 上的 时候 如果 你肥 的话 啦 哦 你要 你 你-
+UI28FAZ_0104 667935 670649 ZH 你 下的时候 你要 比较 后 一点 咯
+UI28FAZ_0104 670649 673397 ZH 瘦的人 不用 咯 一点点 就 够了
+UI28FAZ_0104 673397 676703 CS 因为 我是 比较 不会 balance 的人 嘛 所以 我用 我的手 control
+UI28FAZ_0104 676703 678239 ZH 去前 去后 去前 去后
+UI28FAZ_0104 679102 680528 EN left and right left and right
+UI28FAZ_0104 681490 688806 CS 然后 庭华 是很 aggressive 的人 啊 没有 啊 她 很 恐怖 啊  这样子 下去 那个 拱的 bridge woh
+UI28FAZ_0104 688806 694372 CS 然后 她 差点 撞到 那个 因为 有 那个 带 我们 她带 我们 round 的 那个 cable car 的 area 的 嘛
+UI28FAZ_0104 694372 698404 CS around around fifteen neh fifteen or sev~ seventeen 这样的 价钱
+UI28FAZ_0104 698404 701420 CS 然后 如果 你要 take picture 的话 hor 又要 加钱 neh
+UI28FAZ_0104 701420 705535 CS 庭华 没有 啊 她几 aggressive eh 她 还 帮 我 take picture 边 驾 边 take
+UI28FAZ_0104 706646 710128 ZH 她 很 很 很 敢 咯 她 就 好像 男子 这样
+UI28FAZ_0104 710128 713219 CS 哦 而且 那个 我的 picture 是她 take 的 from 后面 take
+UI28FAZ_0104 713864 719678 CS 她还 刚刚 学 罢了 你 知道 吗 我们 当场 学 刚刚 start 走 她就 take 我的 pic~ photo 了 喔
+UI28FAZ_0104 720866 727231 CS 啊 然后 哇 她很 很 很 很 敢 咯  就 往前 往后 往 left 往 right 就很 很快 嘞
+UI28FAZ_0104 727231 730976 CS 就很 used to it 这样 我就 不敢 了 我要 用手
+UI28FAZ_0104 732374 736900 CS 那 cable car 它 也是 因为 我们 老板 都 没有 sponsor 所以 就 没有 坐 咯
+UI28FAZ_0104 736900 741110 ZH 不过 以前 我 我 跟着 chu-li 他们去 的 时候 我 已经 坐过 了 嘛
+UI28FAZ_0104 741110 744047 CS 反正 都去 过 这些 没有 什么 special ah
+UI28FAZ_0104 747376 750633 CS 没有 没有 没有 langkawi 你去 的话 你要坐 cable car
+UI28FAZ_0104 750633 754304 CS 因为 它 可以 看到 很 那个 view 可以 看到 很 清楚
+UI28FAZ_0104 754304 758104 CS 也许 penang 也有 啦 penang 的 cable car 我 没有 去 <unk> 过
+UI28FAZ_0104 759531 763131 CS 然后 哈 它的 seafood 你要 try
+UI28FAZ_0104 763131 769894 CS seafood 真的 很 不是 很 便宜 啦 很甜 咯 也许 他 他们 煮的 方式 比较 不 一样
+UI28FAZ_0104 769894 772768 CS 他的 black pepper crab 很 好吃
+UI28FAZ_0104 772768 777066 ZH 呃 不是 它 不是 辣的 leh 它 外面 那层 辣的 嘛 不要 吃 它的 壳 咯
+UI28FAZ_0104 777066 783983 CS 他的 crab hor 你 吃它 里面 hor 它的 crab 的 juice ah even though 它的 roe ah there ah 它 middle 的 part hor
+UI28FAZ_0104 783983 789241 CS 还到 到 两边 的 嘛 你吃 他的 他还 他 还有 juice 很甜 的 嘞
+UI28FAZ_0104 789241 794667 CS 而且 因为 black pepper 你 只是 在 外面 lick 掉 就 没有 了 嘛 它 里面 的 是甜的 很甜 的
+UI28FAZ_0104 794667 799282 CS 还 还 还 可以 这样子 哇 真的 是 很-
+UI28FAZ_0104 799282 802021 ZH 哇 很爽 啊 就是 那种 满足感
+UI28FAZ_0104 802021 805057 ZH 哦 就是 要吃 那个 为了 那 一餐
+UI28FAZ_0104 806124 811174 CS 很 很 容易 罢了 那个 靠近 <unk> bay 就 是 走 然后 turn 上去 就 到了 然后 就 能 去
+UI28FAZ_0104 814287 820805 CS 哦 我们 那时侯 我去 做工 嘛 before that 我 都 去 过了 没有 什么 特别 的 嘛 是 过岛 然后 潜水
+UI28FAZ_0104 820805 823393 ZH 潜水 我又 不会 游泳 我 怎样 潜 嘞
+UI28FAZ_0104 823393 825886 ZH 有时 潜到 喝 海水 罢了
+UI28FAZ_0104 832647 838925 ZH 嗯 如果 不会 游泳 你 敢 敢来 就 可以 啦 因为 他 都 没有 给你 那个 啊
+UI28FAZ_0104 838925 844759 CS 就 你 穿着 哦 你穿着 那 life guard 的 衣服 然后 你 戴着 那个 goggles 跟 这 样子 就 自己 看 咯
+UI28FAZ_0104 844759 849248 ZH 没有 人 带你的 你就 自己 在 那边 你 自己 浮 咯
+UI28FAZ_0104 849248 854638 ZH 没有人 带你的 除非 你会 游泳 这样 嘛 可以 去 到 边 边游 边看 咯
+UI28FAZ_0104 857864 859487 ZH 哦 没有 玩到 那个 eh
+UI28FAZ_0104 866349 868221 ZH 因为 没有 吃过 也 没有 看过 eh
+UI28FAZ_0104 871395 877915 ZH  玩的 有啊 有啊 因为 没有 去过 eh 没有 很 好玩 的 没有 去过 没有 去过
+UI28FAZ_0104 877915 883780 CS 哦 不过 如果 你要 更 豪华 的 你 可以 过岛 而且 他们 provide food 给你 吃 我有 看到
+UI28FAZ_0104 883780 886475 CS 那边的 food 可是 没有 什么 好料 啦
+UI28FAZ_0104 886475 890464 ZH 还是 自己 自己 去 在 langkawi 找吃 更好
+UI28FAZ_0104 891368 894624 ZH 应该 不到 我们 哦
+UI28FAZ_0104 894624 899072 CS 就 差不多 一个小时 多啊 我们 就 可以 从 north

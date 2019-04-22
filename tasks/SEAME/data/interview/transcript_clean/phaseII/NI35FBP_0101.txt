@@ -1,0 +1,475 @@
+NI35FBP_0101 1743 3223 EN hello hello
+NI35FBP_0101 3760 9310 EN hello hello hi hi hi hello
+NI35FBP_0101 9890 15110 EN  hello hi yup ok alright got it
+NI35FBP_0101 18950 22910 CS (er) my name is amanda chinese name 瑞芳
+NI35FBP_0101 23060 24500 ZH 瑞芳
+NI35FBP_0101 26559 32430 CS (呃) 我 现在 在 year two 念 海事 嗯
+NI35FBP_0101 36800 38760 ZH 哦 是 男生 的 吗
+NI35FBP_0101 40420 42480 EN 
+NI35FBP_0101 42720 44957 ZH 哦 我 知道 雁章 是吗
+NI35FBP_0101 45476 48073 CS 啊 有 就 说 一样 hall 的 人
+NI35FBP_0101 51813 55682 CS 啊 不 需要 嗯  ok
+NI35FBP_0101 63891 66981 CS (呃) 我 不大 会 用 华文 讲 this
+NI35FBP_0101 67705 78706 EN (erm) it's like port economics then insurance maritime insurance maritime law some of the international frameworks of the shipping industry
+NI35FBP_0101 81130 85692 EN (erm) a bit here and there like certain terms but we haven't really done in depth yet
+NI35FBP_0101 86480 87830 EN mm 
+NI35FBP_0101 90293 91080 EN port
+NI35FBP_0101 93254 96188 EN ya correct like the operations
+NI35FBP_0101 96889 100240 CS 嗯 哦 好了 啊  ok
+NI35FBP_0101 103693 104732 CS ok 好
+NI35FBP_0101 108920 109770 ZH 好 好
+NI35FBP_0101 116001 120234 ZH (呃) 不大 会 讲 诶 不大 会 用 中文 讲
+NI35FBP_0101 124930 128449 ZH 啊 对 全部 家里 的 人 全部 都是 讲 英语 的
+NI35FBP_0101 131490 136060 ZH 他们 是 华人 不过 也是 比较 擅长 讲 英文
+NI35FBP_0101 136389 137038 ZH 嗯
+NI35FBP_0101 141920 143219 EN 
+NI35FBP_0101 149560 151700 ZH 啊哈 海事 啦
+NI35FBP_0101 152812 155990 ZH (呃) 是 原因 是 什么 是 吗
+NI35FBP_0101 156180 158292 ZH 就是 有 一点 感兴趣
+NI35FBP_0101 158837 162810 CS (呃) 因为 我 舅舅 他 是 navy 的 navy 的 colonel so
+NI35FBP_0101 163719 167614 ZH (呃) 就 对 海 (呃) 海事 这些 有 有 一点 兴趣
+NI35FBP_0101 168030 170263 CS 又 是 本来 是 想 读 business 的
+NI35FBP_0101 170940 180680 CS 不过 又 怕 business 好像 (呃) 就是 一般 人 全部 都 能 读 的 东西 我 想 比较 (呃) 专 (呃) 比较 specialised 的 一点
+NI35FBP_0101 182720 186500 CS 啊 好 啊 ya so
+NI35FBP_0101 187030 190695 CS 就是 因为 这样 then 就 找到 了 这个 maritime 它 是
+NI35FBP_0101 191363 202842 CS 它 它 就是 参与 一点 海事 but 也是 很 像 business 的 的 course 这样 就 突然 就 感兴趣 然后 再 去 再 去 (呃)
+NI35FBP_0101 203864 211940 CS 做 一点 (呃) research then 问问 一点 亲戚朋友 都讲 海事的 他的 prospects 很好
+NI35FBP_0101 216719 220588 ZH (呃) 这个 就 不 太 清楚 了 因为 它 它 有很多方面
+NI35FBP_0101 221441 227220 CS (er) but 大概 是 大多数 女生 都是 做 office 的 也 不会 去 航海 的 啦
+NI35FBP_0101 228011 233020 CS (erm) yah 这样 
+NI35FBP_0101 238933 239582 EN 
+NI35FBP_0101 240730 244390 ZH 就是 新加坡 嗯 
+NI35FBP_0101 247689 248261 EN ya
+NI35FBP_0101 255636 259064 EN 
+NI35FBP_0101 264160 268797 CS 哦 你~ 哦 你 的 意思 是 like 别的 industry 哦 
+NI35FBP_0101 269419 276404 CS 我 觉得 还好 啦 因为 好像 我们 (erm) trade 方面 都是 要 看 都是 要 靠
+NI35FBP_0101 277028 283489 CS (er) 就是 船 那些 船 like maritime 这些 来 来 运 运货 的 嘛 因为 它
+NI35FBP_0101 284618 293868 CS 它 就是 比较 大  (er) 比较 大 它 一下子 它 ship 的 的 goods 也是 比较 多 它 就 比较 会 有 economies of scale
+NI35FBP_0101 294608 297647 CS 就是 比较 划算 so (呃) 这 方面
+NI35FBP_0101 298608 303381 CS 我 觉得 永~ maritime 永远 都会 有 这种 (呃) 重要性
+NI35FBP_0101 304407 310761 CS (呃) 不是说 like (呃) 什么 飞机 啦 这些 都 可以 like 容易 取代 的 mm
+NI35FBP_0101 315760 323830 CS 对 而且 你 运 一下子 运 的 的 quantity 都 很少 因为 重量 的 关系 可是
+NI35FBP_0101 333632 334840 ZH 对 嗯
+NI35FBP_0101 335035 335671 ZH 是 这样
+NI35FBP_0101 341111 343804 ZH (啊) 我 本身 是 很 喜欢 舞蹈
+NI35FBP_0101 344720 345200 EN ya
+NI35FBP_0101 346460 347109 EN 
+NI35FBP_0101 349628 350744 ZH 对 (呃)
+NI35FBP_0101 353190 363280 CS (嗯) 我 没有 做 真正 训练 过 就是 好像 住 hall 就 (呃) 就 跟 hall 的 dance team 这样 一时 (呃) 就 训练 在 学校 就是 跟 学校 的 dance team 这样 训练
+NI35FBP_0101 363747 370537 CS 不过 就 很多 那种 style 都 都 有 至少 都 至少 有 好像 有 try 过
+NI35FBP_0101 371160 379319 CS (嗯) (呃) 好像 (呃) modern dance (er) hip-pop 这些 都 有 都 有 尝试 过 啦 就是
+NI35FBP_0101 380293 384034 CS  我 都 不 不大 喜欢 hip hop 我 觉得 有点 粗鲁
+NI35FBP_0101 388591 389435 ZH 是 它
+NI35FBP_0101 390036 402074 ZH (呃) 我 它 它 就是 很 很 凶 的 感觉 啊 有一点 凶~ 有一点 凶 有一点 粗鲁 好像 我 妈妈 看 了 也 都 不 不大 习惯 因为 我 妈妈 是 喜欢 看 芭蕾舞 这种 的 就是 比较
+NI35FBP_0101 402451 407958 CS 好像 比较 classy 的 的 舞 不过 如果 (嗯) 你 跳 了 之后 你 就会
+NI35FBP_0101 408229 411786 ZH 你 就会 发现 到 (呃) 其实 它 动作 粗 是
+NI35FBP_0101 412565 418917 ZH 你 要 看 你 怎么 跳 啦 有时候 你 自己 跳 你 你 真的 跳 得 好 骚 这些 那 是 你 自己 的 问题
+NI35FBP_0101 419189 424150 CS 不然- 啊 你 说 得 对 它 它 是 挺 有 节奏感 音乐感 的 嗯
+NI35FBP_0101 425160 427251 EN 
+NI35FBP_0101 429655 430304 EN chinese
+NI35FBP_0101 434238 436420 EN ok can ok
+NI35FBP_0101 440814 449073 CS (erm) i have been dancing 就是 从 从 九 岁 这样 就 开始 dance 了 ya
+NI35FBP_0101 452863 456083 EN (er) started with ballet then
+NI35FBP_0101 457199 468342 CS (呃) 后来 去 学校 的 时候 就是 (呃) 舞蹈 老师 就是 从 中国 来 的 嘛 就 become chinese dance  就 这样 换来换去 的 咯
+NI35FBP_0101 468909 469402 ZH 嗯
+NI35FBP_0101 472510 483202 CS 还好 it's it's quite interesting (呃) 因为 你 可以 尝试 到 全部 的 like 比较 多样 的 styles 这些 (呃) 对于 一个 dancer 来说 就
+NI35FBP_0101 483920 489979 CS (呃) 就是 比较 多 经验 比较 多 (呃) exposure ya
+NI35FBP_0101 495368 497419 EN (er) ya 
+NI35FBP_0101 498986 499363 ZH (嗯)
+NI35FBP_0101 501440 504128 CS runner 是 要 是 要 training 的
+NI35FBP_0101 505390 518280 CS (呃) 就是 all your normal 好 好像 他们 他们 sportsman 他们 做 的 是 那种 stretching 这些 就是 也是 要 也是 要 这样 (呃) 地 train 下来 啦 不是说 每个人 (呃) 一生 下来 就 很 flexible
+NI35FBP_0101 518775 519242 ZH 嗯
+NI35FBP_0101 524488 532191 CS (erm) depends on person like 有些 人 就是 比较 比较 软 有些 人 就 比较 硬 嗯
+NI35FBP_0101 533326 533872 EN but
+NI35FBP_0101 535261 536728 ZH (呃) 有 啊 
+NI35FBP_0101 538596 540051 ZH (呃) 就是 刚刚 过了 
+NI35FBP_0101 542622 543011 EN 
+NI35FBP_0101 545128 553668 CS (erm) but 如果 你 你 有 兴趣 这个 这个 星期天 是 n. t. u. 他们 dance team 的 joint dance concert
+NI35FBP_0101 554657 555709 ZH 啊 他们
+NI35FBP_0101 557515 560359 ZH  哦 你是 马来西亚 人 吗
+NI35FBP_0101 561683 565840 CS oh oh oh ok 去 去 which state
+NI35FBP_0101 569710 571320 CS oh penang 嗯
+NI35FBP_0101 573956 575228 EN oh ok ok
+NI35FBP_0101 582100 586684 ZH (呃) 他们 就 这 他们 每次 说 嘛 台上 一 分钟 台下 十年 功
+NI35FBP_0101 587320 589735 EN it's quite true because (er)
+NI35FBP_0101 590345 601592 CS 尤其 是 舞蹈 如果 不是 solo 的 舞蹈 是 一个 group 的 的 performance  就 大家 要 努力 一点 了 咯 要 尽量 配合 like (erm) the timing must be right
+NI35FBP_0101 602999 611855 CS 嗯 如果 是 一个人 的 就 就是 you and the music  but 如果 是 group 的 就是 you the music and your friends
+NI35FBP_0101 612889 619771 CS ya 就 男性 就 比较 高 一点 训练 过程 也是 要(呃) 要 比较 配合 一点 咯 ya
+NI35FBP_0101 622757 636664 CS 学校 他们 是 很多 clubs and societies 好像 他们 有 chinese dance modern dance (er) m. j. dance m. j. 就是 他们 的 modern jazz 本来 是 modern jazz but 现在 是 比较 跳 hip hop
+NI35FBP_0101 638404 644732 CS ya so 看 你 的 兴趣 就 可 就 就 参 参加 咯 (呃) but for me 因为
+NI35FBP_0101 645382 654975 CS 我 已经 住 在 hall 了 就说 hall 也有 自己 的 hall dance team so so 我们 是 join hall 的 就 时间 已经 差不多 了 都会 用 到 差不多 了
+NI35FBP_0101 658905 660333 ZH 哦 没有 没有 
+NI35FBP_0101 663826 669999 CS (呃) 那个 我 觉得 you must be very small size (er) for 女生
+NI35FBP_0101 671790 678106 CS ya 比较 高 比较 高 的 人 就 一定 做 那个 base ah ah 就 就 没 兴趣 了 
+NI35FBP_0101 679885 684767 ZH 对 对 因为 他们 比较 比较 壮 嘛 比较 容易 扛 起来
+NI35FBP_0101 685766 686519 EN ya
+NI35FBP_0101 694302 706901 CS school 的 就 没有 不过 hall 除了 他们 dance team 之外 (呃) 你 还 可以 参加 很多 好像 sports 这些 还是 什么 那种 they call it sub com (erm) committee
+NI35FBP_0101 707420 717927 CS 好像 (呃) 就是 cultural committee social committee business committee 这样 就是 你们 的 roles 就 不一样 depending on the committee
+NI35FBP_0101 718472 728641 CS 嗯 so 我 呢 是 in cultural committee 的 就是 cultural committee 就 (呃) 就是 in charge of 那些 performance 的 好像 唱歌 啦
+NI35FBP_0101 729031 736138 CS 跳舞 (呃) 还有 什么 啊 (呃) 好像 jam band 他们 玩 那种 instrument 的
+NI35FBP_0101 736930 748164 CS so 我 我 因为 是 舞蹈 员 嘛 就是 join 这个 cultural committee then 还有 另外 其它 activities 那种 小小的 就 有时候 做 一点 来 帮忙 这些
+NI35FBP_0101 749267 755865 CS (嗯) but 他们 他们 这些 activities 不是 one shot 都 来 的 就是 (呃)
+NI35FBP_0101 758176 769382 CS (呃) 有时候 有 舞蹈 表演 就 比较 舞蹈 重要 then 舞蹈 表演 完了 就 看 还有 什么 东西 比较 需要 人 的 then it's for you to participate 这样 参加 嗯
+NI35FBP_0101 772005 778588 CS 可以 it's it's quite an experience but (erm) 就 既然 住 hall 了 就 尽量 (呃)
+NI35FBP_0101 779575 786623 CS 尽量 join 一点 我 我 我 是 不 喜欢 打 sports 的 而 而且 打 不好 so 那个 就 算了 吧 
+NI35FBP_0101 792630 811576 CS ah-huh (erm) 今年 是 没有 啦 不过 我们 (呃) 今 今年 新的 year ones 有 有 来 了 一个 好像 他 是 马来 马来人 啊 不过 他 他 也 有 try 过 那种 印度 的 的 dance 好像 也有 接触 过
+NI35FBP_0101 812801 817460 CS ya so 可能 明年  maybe he'll do something mm
+NI35FBP_0101 824055 828340 EN (er)  ok the shapy body is it ok
+NI35FBP_0101 837025 841817 ZH 哦 就是 在 那边 自由 发挥 啦 嗯
+NI35FBP_0101 846590 855180 ZH  要不然 你 就 跟 我 说 一下 好像 台湾 有什么  景点  你 讲 一点 我 再 问 一点 
+NI35FBP_0101 857382 860862 EN (er) tourist attraction
+NI35FBP_0101 861920 863011 EN ok
+NI35FBP_0101 865514 869565 CS (呃) 就是 没有 去 过 台湾 but (erm) wanted to go
+NI35FBP_0101 876551 877122 EN ah-huh
+NI35FBP_0101 881781 886559 CS 我 上次 but 上次 本来 想 去 有 做 什么 (呃)
+NI35FBP_0101 887131 897460 CS 我 知道 有 一个 湖 是 吗 什么 什么 什么 湖 我 突然间 忘记 了 因为 我 两年 前 本来 是 想 要 去 台湾 就 去 找 那种 tour itinerary 这些 就 看到 很 -
+NI35FBP_0101 897960 906617 CS 什么 什么 moon lake 什么 something moon lake sun moon lake yah sun moon lake ya ya 月潭 correct
+NI35FBP_0101 919230 921080 EN ok correct
+NI35FBP_0101 921930 928400 ZH 哦 就是 就是 跟 新加坡 挺 不一样 的 嘛  嗯
+NI35FBP_0101 930420 934020 CS ok 可以 mmhmm
+NI35FBP_0101 937997 938672 EN 
+NI35FBP_0101 940831 941792 EN ok
+NI35FBP_0101 942857 945610 ZH 啊 啊 
+NI35FBP_0101 952107 956210 CS 就是 如果 如果 (呃) 我是 一个 tourist 那 我 问 你
+NI35FBP_0101 956650 963910 ZH 这些 好像 台中 这些 (呃) 值得 去 吗 因为 我 有 一个 朋友 他 说 去 台湾 就是 去 购物 而已
+NI35FBP_0101 963910 969655 CS 他们 就是 在 台北 concentrate 他们 的 activities 就 去 three four days 这样 就 就 完了
+NI35FBP_0101 970040 978735 CS then 本来 我 跟 另外 一个 朋友 是 要 去 它 的 郊外 这些 去 tour 就 如果 要 去 那些 就 七 八 天 了 就 变成 了 七 八 天 一个 的 tour
+NI35FBP_0101 979644 989538 CS 所以 有些 人 就 讲 (呃) 没有 不大 不大 划算 啦 因为 去 那边 最 主要是 去 shopping 一下  去 shop 两 两 三 天 都 够了 嗯 这种 的 
+NI35FBP_0101 994853 995398 ZH 嗯
+NI35FBP_0101 999090 999428 EN 
+NI35FBP_0101 1002259 1002622 EN 
+NI35FBP_0101 1003059 1007681 EN oh oh oh ok
+NI35FBP_0101 1018723 1020982 ZH 啊 哦
+NI35FBP_0101 1023267 1030668 CS 不过 台湾 会 便宜 吗 好像 (呃) 如果 讲 shopping 因为 我 朋友 讲 是 挺 便宜 的 嗯 
+NI35FBP_0101 1032782 1033639 CS ok 可以
+NI35FBP_0101 1039935 1043181 EN oh oh ok mm
+NI35FBP_0101 1044210 1045093 ZH 小吃 
+NI35FBP_0101 1050339 1050737 EN uh-huh
+NI35FBP_0101 1074438 1076983 CS (哦) 我 是 actually-
+NI35FBP_0101 1077583 1078128 EN 
+NI35FBP_0101 1078645 1084981 CS 我 我 travelling 就 tra~ travel 了 几个 (呃) 几个 地方 啦 but 台湾 是 没有 去 过
+NI35FBP_0101 1086280 1087033 EN (erm)
+NI35FBP_0101 1088227 1096030 CS 从 很 小 很 小 的 时候 就 有 好像 有 去 过 北京 (呃) but 那个 就 太 小 了 就 什么 东西 like can't remember
+NI35FBP_0101 1096450 1097817 EN  (erm)
+NI35FBP_0101 1099182 1106012 CS 最- 在 我们 (呃) 东南亚 的 就 去 过 柬埔寨 ya (er) went to see the angkor wat
+NI35FBP_0101 1106739 1110983 CS ya  that- 那个 就 很 (呃) 那个 就 好玩 啦 因为
+NI35FBP_0101 1111892 1114749 CS 因为 它 是 很- 一个 很 特别 的 地方
+NI35FBP_0101 1115294 1123422 CS (呃) 每次 在 postcard 这些 看到 就 就 觉得 哎呀 可能 没有 什么 大 啊 可是 when 你 站 在 那个 gate 好像 你 站 在 它 的 courtyard
+NI35FBP_0101 1123760 1130200 CS 然后 就 觉得 哦 是 有 一点 majestic 的 感觉 (啊) 那个 是 刚刚 去 啦
+NI35FBP_0101 1130927 1132330 ZH (呃) 没有 去年
+NI35FBP_0101 1133042 1134678 ZH 去年 六月
+NI35FBP_0101 1135093 1141300 CS ya 去年 december 我 是 去了 new z~ new zealand auckland 
+NI35FBP_0101 1143040 1158780 CS (呃) 我 只 去 了 它 的 它 的 (呃) 北部  (啊) 因为 没有 时间 没有 没有 票 到 票 到 南部 啦 so 去 new zealand 就是  要 做 很多 (呃) 那种 activties like 新加坡 找不到 的 例如 zorbing
+NI35FBP_0101 1158960 1162500 CS 你 你 有 听 过 什么 是 zorbing 吗 就是 好像 它 一个
+NI35FBP_0101 1163149 1172536 CS 好像 一个 balloon 的 感觉 一个 大大 的 balloon 然后 你 你 你 坐 在 里面 他 绑 起来 然后 就是 从 一个 山坡 上 这样 滚 下来 的
+NI35FBP_0101 1173416 1178097 CS ya (er) so that that's zorbing 还有 做 wide water rafting
+NI35FBP_0101 1179281 1181566 ZH 这个 就 试试看 (呃)
+NI35FBP_0101 1182440 1186280 CS (hmm) 还有 (呃) we- no we didn't skydive 
+NI35FBP_0101 1186708 1196507 CS 啊 in the end didn't cause not enough time it was act~ (er) 就 new zealand actually 它 是 挺 贵 的 它 很多 很多 东西 都 很 贵
+NI35FBP_0101 1203552 1209317 CS  (啊) 不大 记得 好像 是 ten hours around ten hours
+NI35FBP_0101 1213944 1218774 CS 我 去了 那里 差不多 一~ 一 个 星期 多 而已 about about one week
+NI35FBP_0101 1219969 1221034 ZH (呃) 不过 是
+NI35FBP_0101 1221683 1236940 CS (erm) new zealand 很大 so 即使~ 即使 是 only went to the north part but 也是  好像 驾车 这些 你 去 去 到 另外 一个 small city 还是 另外 一个 state 就要 差不多 三 四 个 小时 的 的 driving on on the roads so-
+NI35FBP_0101 1238507 1246740 CS (呃) 有 就是 要 要 plan 你 的 route 好好 不然 waste a lot of time on the travelling and driving 就 比较 累
+NI35FBP_0101 1247930 1251669 CS but 我 觉得 new zealand 它 是 以个 很 很 美 的 地方
+NI35FBP_0101 1252344 1258032 CS 因为 有 可能 在 新加坡 就 觉得 很 stress 还是 (呃)
+NI35FBP_0101 1258970 1264573 CS 最近 你 就 觉得 人潮 好像 很 很多 很 crowded 去 哪里 都 很 crowded 很 congested
+NI35FBP_0101 1265098 1273330 CS then 去 到 那边 就 就 好像 不见 容 不见 人影 的 感觉 (呃) 去 去 哪里 都是 看到 sheep lah cows 这些
+NI35FBP_0101 1273800 1276703 ZH 那 那 是 个 很 很 不 很 不一样 的 体验
+NI35FBP_0101 1277180 1278125 EN (erm)
+NI35FBP_0101 1281625 1284150 CS (呃) 它 是 很 它 是 挺 funny because
+NI35FBP_0101 1284799 1293328 CS 他们 有- no they have fourteen million sheep and four million people and and and 好像 是 thirty million cows
+NI35FBP_0101 1294451 1306580 CS but 它 是 很 美 啦 因为 你 去 到 哪里 都是 好像 野 草 的 感觉 then 都 都 不会 说 很 很 crowded then 好像 即使 它 的 bigger cities 有些 parking 也是 免费 的
+NI35FBP_0101 1306590 1317810 CS 你 都 不用 像 新加坡 一直 在 找 找 一个 lot 一个 parking space 这么 这么 挤 这么 辛苦 又 要 管 好像 什么 cash card 够不够 钱 就是 去 到 那边 没有 这种 烦恼
+NI35FBP_0101 1318696 1323225 EN yah so it's very it's very relaxing  ver~ very different from-
+NI35FBP_0101 1326356 1330144 CS mm no 我们 是 一家 一个 family 这样 自己 去
+NI35FBP_0101 1331391 1335390 CS 因为 如果 你 join- (er) 因为 我 爸爸 可以 驾车
+NI35FBP_0101 1335390 1342661 CS 他 他 也 不 怕 驾车 (呃) i know some people 就 比较 怕 驾 in for~ (um) drive in a foreign land but
+NI35FBP_0101 1342940 1348043 CS 我 爸爸 他 他 ok lah 他 就 不大 想 (呃) 跟 tour 的 itinerary
+NI35FBP_0101 1348390 1356961 CS 就是 要 跟住 他们 的 timing 跟住 他们 要 吃 的 地方 要 做 什么 me~ then 去 到 哪里 都要 等 三 四 个人 (呃) 三十 四个 四十个 人 这样
+NI35FBP_0101 1357675 1361414 CS 就有 一点 waste time 他 觉得  嗯
+NI35FBP_0101 1371574 1377677 CS oh ok 我们 去 我 我 上次 去 cambodia 我 我 只 去 了 四 天 what about you
+NI35FBP_0101 1381520 1385597 CS ya about around there 就 就 足够 了 啦 也 没有 什么
+NI35FBP_0101 1386065 1390921 ZH 我 本来 本来 是 因为 我 有 一个 (呃) 好 朋友 他 妈妈 是 柬埔寨 人
+NI35FBP_0101 1391284 1395255 CS so 去 之前 他 他 就 讲 like there's so much to do (erm)
+NI35FBP_0101 1396008 1404837 CS 什么 shopping is very cheap lah food is food is cheap 就 就是 讲 到 好像 我们 我们 plan 的 不够 不够 不够 天 这样 啊 but
+NI35FBP_0101 1405383 1413929 CS 去 到 那边 了 就 觉得 有 一点 boring  除了 除了 angkor-wat 之外 就 就 也 nothing much already
+NI35FBP_0101 1416915 1418240 ZH 啊 对 对
+NI35FBP_0101 1419768 1420132 EN 
+NI35FBP_0101 1422185 1423483 ZH 就 随便 享受
+NI35FBP_0101 1426028 1429508 CS 哦 对 对 我 也 是 我 i i like thai food then
+NI35FBP_0101 1429923 1435199 CS 他们 是 讲 柬埔寨 的 food 应该 跟 泰国 和 越南 的 (呃) similar
+NI35FBP_0101 1435922 1447500 CS but 我 觉得 差别 挺 多 我 觉得 thai food 好像 比较 more flavourful (呃) 柬埔寨 的 东西 就 没 没什么 没什么 好 嗯 没什~
+NI35FBP_0101 1455441 1456505 EN oh ok
+NI35FBP_0101 1457619 1458009 EN mm
+NI35FBP_0101 1458450 1459801 ZH 哦 那 那个 美 吗
+NI35FBP_0101 1461411 1466760 CS (呃) 因为 (呃) my my brother and mother 他们 是 有 去 过 halong bay
+NI35FBP_0101 1467384 1476200 CS 我 自己 是 我 不 本身 是 还 没有 去 过 but 他们 讲  那个 真的 很 美 (呃) 对 对
+NI35FBP_0101 1481965 1491054 CS (呃) 是 是 去 看 好像 他们 那边 的 人 是 那种 (呃) 住 在 船 船上 的 人 是 吗 什么 boat people 应该 是
+NI35FBP_0101 1495092 1495637 EN 
+NI35FBP_0101 1500714 1504142 CS oh so 你 是 有 跟 他们 买 东西 啦 
+NI35FBP_0101 1508652 1511020 EN oh ok i understand
+NI35FBP_0101 1518235 1518936 EN 
+NI35FBP_0101 1525593 1531566 ZH (哦) 还好 啦  
+NI35FBP_0101 1538785 1543563 CS 是 比较 expensive 吗 我 以为 是 应该 会 比较 cheap 的 感觉
+NI35FBP_0101 1545200 1546970 EN 
+NI35FBP_0101 1547709 1551888 ZH 我 我 知道 他 我 我 妈妈 跟 弟弟 (呃) 去 的 时候
+NI35FBP_0101 1552565 1555629 CS 他们 就 说 it's quite expensive the air ticket
+NI35FBP_0101 1556330 1558727 CS 就是 quite expensive 好像
+NI35FBP_0101 1559161 1568107 CS 因为 他们 还 没有 开放 还是 什么 东西 so 还是 用 u. s. dollar 全部 东西 都是 用 u. s. dollar 就 算 起来  全部 tax 这些 也 变得 很 贵
+NI35FBP_0101 1568819 1577025 CS 不过 他们 讲 去 到 那边 的 东西 就 很 便宜 啊 好像 they went shopping 这些 (呃) 买 的 东西 全部 都 很 便宜
+NI35FBP_0101 1577648 1581172 CS 只是 (呃) initial when you go in 就 很 贵
+NI35FBP_0101 1582232 1582959 ZH 嗯
+NI35FBP_0101 1584855 1585763 EN 
+NI35FBP_0101 1592520 1593533 EN (erm)
+NI35FBP_0101 1597195 1600390 ZH huh 应该 我 觉得 应该 应该 去 啦
+NI35FBP_0101 1601665 1606925 CS 它 的- 它 的 东西 是 很~ 我 知道 是 很 贵 like 好像 如果 有些 人 就 跟 我 讲
+NI35FBP_0101 1606925 1611475 CS wide water rafting 这种 可以 在 马来西亚 好像 例如 可以 在 马来西亚
+NI35FBP_0101 1611475 1615119 CS (呃) 也是 可以 做 可是 价钱 a fraction of the price
+NI35FBP_0101 1615870 1624065 ZH 不过 (呃) 就是 每 每次 听到 人家 都是 去 纽西兰 做 纽西兰 做 可是 去 了 纽西兰 你 就 看 了 它的
+NI35FBP_0101 1624065 1630977 CS 它 的 price 即使 有一点 expensive 你 也 会 你 就是 想 在 当地 那里 去 做 嗯
+NI35FBP_0101 1633909 1640812 CS 对 它 的 rivers 也 也 应该 不一样 吧 我 觉得 它 的 scenery 应该 比 跟 马来西亚 的 可能 不一样
+NI35FBP_0101 1641280 1648707 CS 可能 马来西亚 的 就 比较 more rainforest 这种  if if they have a river also 也是 在 rainforest 之间 啊 这种
+NI35FBP_0101 1650960 1651739 ZH 对
+NI35FBP_0101 1653159 1661085 CS (呃) 不过 纽西兰 还好 澳洲 australia 它 就 比较 hot 不过 纽西兰 还好 mm
+NI35FBP_0101 1667182 1671441 CS 很- 哦 他们 的 你 那 那种 就是 牛奶 嘛  (呃)
+NI35FBP_0101 1671960 1675125 CS 他们 的 milk 就 有 一点 不一样
+NI35FBP_0101 1675547 1680663 CS 跟 新加坡 的 比 起来 就 不一样 他们 的 很 薄 very thin very dilute
+NI35FBP_0101 1681884 1686662 CS 对  因为 他们 的 是 就是 很 很 fresh
+NI35FBP_0101 1687311 1702000 CS (呃) 没有 说 什么 processing 的 but those that 来 新加坡 的 就 可能 因为 要 keep it fresh 还是 什么 就 全部 都 已经 被 process 过了 so 他们 的 那里 的 牛奶 好像 water 一样 的 的 texture
+NI35FBP_0101 1702805 1704337 CS (嗯) 很-
+NI35FBP_0101 1706892 1708320 EN (erm)
+NI35FBP_0101 1710635 1713565 ZH 可能 新加坡 的 香味 还 比较 多 
+NI35FBP_0101 1713815 1719705 CS maybe they add 可能 加 了 什么 东西 什么 preservatives 有 有 fragrance 的 还是 什么
+NI35FBP_0101 1720110 1731124 CS 他们 那边 就 就 是- (呃) 你 你 喝 的 时候 就 觉得 很 像 water very like water (erm) 喝 的 时候 也不 会 饱
+NI35FBP_0101 1732007 1732734 EN mm
+NI35FBP_0101 1734125 1738811 CS ya (er) so like 我 妹妹 她 就-
+NI35FBP_0101 1739512 1756091 CS 她 就 不大 习惯 因为 她 喜欢 配 那个 cereal 就像 milk and cereal 一起 配 起来 吃 早餐 不过 去 了 那边 的 milk 就 变得 好像 水 那 吃 起来 有一点 有一点 不一样 so not used to it 嗯
+NI35FBP_0101 1758818 1760428 ZH 他们 的 (呃)
+NI35FBP_0101 1761233 1769699 CS 因为 they have a lot of beef but 我 自己 本身 不 吃 beef 我 我 觉得 它 有 一个 一种 味道 我 我 不 习惯 啊
+NI35FBP_0101 1771027 1778184 CS so (er) 他们 最 最 最 好 的 去 到 那边 最 好吃 的 东西 就是 beef but i miss out
+NI35FBP_0101 1779535 1786468 CS so 其它 的 东西 就 (呃) i think singapore taste better  in singapore
+NI35FBP_0101 1788727 1789558 EN 
+NI35FBP_0101 1791922 1795453 ZH (呃) 你喜欢吃 如果你喜欢海鲜 啊 这些
+NI35FBP_0101 1796362 1804425 CS singapore 我 觉得 比较 它 是 hawker food honestly 它 的 hawker food 才是 最 好吃 的
+NI35FBP_0101 1805151 1811017 CS 嗯 不是 那种 restaurant 的 什么 新加坡 也 没有 说 一个 真正 的 singaporean dish
+NI35FBP_0101 1811495 1814935 ZH 因为 这里 的 人 全部 都是 从 外 外地 来 的 嘛
+NI35FBP_0101 1815409 1837805 CS 就是 有 马来西亚 的 influence (er) indonesia 的 influence thailand 的 influence 可能 台湾 也 也 现在 现在 好像 (呃) 台湾 小吃 也 很 也 也 也 很 很多 间 so no problem finding 就 很 很 fusion 的 感觉 没有 说 一个 真正 的 singaporean dish mm
+NI35FBP_0101 1840198 1840984 ZH 对
+NI35FBP_0101 1843210 1844898 CS (呃) 我 喜欢-
+NI35FBP_0101 1848952 1854224 CS (呃) 我 喜欢 chinese food 是 是 吃 习惯 了 嘛
+NI35FBP_0101 1854769 1860222 CS all the while you eat chinese food but (er) 我 也是 很 喜欢 吃 north indian food
+NI35FBP_0101 1862793 1869198 CS 有 它 的 它 north 跟 south 的 food 就是 不一样 可能 like you say for 台湾
+NI35FBP_0101 1869665 1889139 CS 它 的 food 也 不一样 在 在 different cities 它 的 food 也是 (呃) 不 可能 similar 不过 也 不是 说 一模一样 的 感觉 吧 (呃) north 的 是 比较 我 我 看 它 是 它 的 spices 的 味道 有一点 有一点 不一样 比较 比较 特别 的 感 感觉 啊
+NI35FBP_0101 1889944 1890645 CS (呃) 不-
+NI35FBP_0101 1892827 1899049 ZH (呃) 我 我 不知道 你 你 你 住 哪里 比较 靠近 好像
+NI35FBP_0101 1899914 1905731 CS oh you stay in pioneer (erm) 我 我 不 清楚 你 有没有 听说 这个 地方 叫 l amin
+NI35FBP_0101 1908172 1914045 CS 它 是 很 靠近 bu~ beauty world 你 如果 知道 beauty world 在 哪里 就是 bukit-timah 那边
+NI35FBP_0101 1914664 1921615 CS 它 有 一 整 排 的 (呃) like shops 卖 很多 东西 它 就是 supper joint (er)
+NI35FBP_0101 1921615 1929393 CS 就是 开 好像 开 开 通宵 的 啦 很多 东西 吃 like (er) 有 鸡饭 这些 就是 一 one whole row of shops
+NI35FBP_0101 1930295 1940065 CS (呃) 他们 那里 就有 很多 也是 indian indian food 可以 吃 (呃) roti-prata 这种 东西 不过 他 的 menu 就是 很 (呃)
+NI35FBP_0101 1940552 1949796 CS 很多 很多 东西 吃 啊 不只 是 prata 还是 mee-goreng 这种 这种 而且 我 觉得 他 的 价钱 比较 比较 低 比较 affordable
+NI35FBP_0101 1950535 1953754 CS 如果 是 要 去 restaurant 的 就 holland v. 
+NI35FBP_0101 1954195 1958560 CS (呃) 那 我 我 最近 刚刚 去 (呃) holland v. 那 那 间 吃
+NI35FBP_0101 1959624 1968600 CS 是 它 的 它 的 (呃) 它 的 ambience 是 很 美 的 因为 他 把 整个 restaurant decorate 起来 (呃) 有 carpet 有 那种 elephant 的 carvings
+NI35FBP_0101 1969431 1975170 CS so (er) 你 要 付- 是 贵 了 一点 啦 but 有 有 那个 ambience 有 那个 气氛
+NI35FBP_0101 1975949 1977144 EN mm
+NI35FBP_0101 1978516 1980905 CS holland village (er) 不知道 你 有没有 去 过
+NI35FBP_0101 1981915 1983055 EN 
+NI35FBP_0101 1984281 1984876 EN 
+NI35FBP_0101 1988774 2005265 CS holland v. 它 是 很多 bars so 本来 以前 我 我 以为 只是 喝 那~ 比较 喜欢 喝酒 的 人 就 去 那 那里 喝 but 它 的 东西 in the end 去 走 了 一趟 就 发觉 到 (呃) there are a lot of food joints as well
+NI35FBP_0101 2007163 2012942 CS (er) ya 要 actually holland v. 也 不是 说 很 长 的 一段 road
+NI35FBP_0101 2015333 2029036 CS (啊) 对 就是 有 一个 like a small lane 就 它 的 bars 那边 好像 有 一个 harry harry's bar 就 harry's bar opposite 就 很多 很多 都是 restaurant 来的 (嗯)
+NI35FBP_0101 2030152 2041924 CS 我 也是 很少 在 那里 吃 啦 不过 那天 不知道 为什么 就 (啊) 好像 几个 朋友 这样 又 感兴趣 想 吃 想 去 holland v. 走 一趟 就 随便 在 那里 就 吃 一间 啦 这样 嗯
+NI35FBP_0101 2044651 2056545 CS (er) no (er)  我 自己 本身 是 住 四美 so it's very far from n. t. u. 四美 就是 (呃)
+NI35FBP_0101 2058314 2064332 CS (呃) 就是 这个 green (er) 青色 green colour 的 的 线 不过 是 从 另外 一边 起 第三 站 
+NI35FBP_0101 2065135 2070815 CS ah that's why i stay in hall 不然 真的 太 too far to travel
+NI35FBP_0101 2073048 2082734 CS 没有 啦 about 从 我 家 就是 搭 上 地铁 的 时候 它 的 journey 差不多 one hour 就是 one hour
+NI35FBP_0101 2083565 2084890 EN 
+NI35FBP_0101 2087810 2092925 CS 没有 新加坡 都 没有 大 的 park  全部 的 park 都是 很 小间 的 
+NI35FBP_0101 2093690 2094521 EN ya
+NI35FBP_0101 2098794 2101830 CS 哦 你 是 喜欢 water sports 还是 water activities
+NI35FBP_0101 2102716 2114524 CS 可能 是 讲 那个 east coast park east coast park the the beach they have this new (erm) 就是- 啊 对 (啊)
+NI35FBP_0101 2117944 2123398 ZH 有 有 就是 就是 那个 可能 那个 就 比较 感兴趣 那个 是 挺 靠近 我 家 的
+NI35FBP_0101 2124047 2128836 CS 嗯 如果 驾车 去 就 差不多 要 十 分钟 like ten minutes 就 到了
+NI35FBP_0101 2131029 2135286 CS (呃) 其实- 如果- 你 知道 (呃) 那个 singapore expo 在 哪里 吗
+NI35FBP_0101 2136378 2138819 CS expo 就是 它 的 exhibition centre
+NI35FBP_0101 2140687 2144348 CS (er) i.t. show 啊 对 对 ya (er)
+NI35FBP_0101 2144816 2148969 CS 就 我 的 我 的 家 就 很 靠近 very near airport as well
+NI35FBP_0101 2154762 2161020 CS 哦 那里 也是 可是 比较 比较 少 industrial (er) offices
+NI35FBP_0101 2161825 2169925 CS (呃) 好像 我 我 那里 就 没有 什么 offices 的 的 感觉 就 be~ all residential kind of housing
+NI35FBP_0101 2170405 2181431 CS 以前 以前 小时候 搬 过去 的 时候 是 很 很 (erm) like very deserted but 现在 就 人数 就 很多 了
+NI35FBP_0101 2185258 2196738 CS  应该 是 about maybe three three million three point five 还是 最多 就 four 现在 诶 现在 也是 差不多 four point- 四点 出 一点点
+NI35FBP_0101 2200242 2201099 ZH 嗯
+NI35FBP_0101 2205395 2210770 CS (er) ya 那个 就- 那个 是 大型 的 but 可能 不是 water park 啊
+NI35FBP_0101 2220924 2222404 ZH 哦 那个 我 不知道
+NI35FBP_0101 2223157 2227284 CS (啊) 我 不 清楚 我 只- 我 只 去 看 它 的 什么 rides 它 的 theme park
+NI35FBP_0101 2227881 2230867 ZH 因为 我 很 喜欢 这种 东西  嗯
+NI35FBP_0101 2231620 2236295 CS (呃) the 开幕 (呃) but 好像 不是 全部 的 rides 都 开 了
+NI35FBP_0101 2236866 2243358 CS so open so 我 是 要 等到 (呃) more rides open 再 去 嗯
+NI35FBP_0101 2246998 2249698 ZH 哦 是吗  我 .也是 去 过 
+NI35FBP_0101 2250841 2262906 CS 对 对 那个 就 很 好玩 就是 不知道 有一点 期待 啦 hopefully hopefully singapore's theme park 跟 (呃) 美国 的 不会 说 相差 很 远
+NI35FBP_0101 2263725 2267075 CS 去 美国 我 是 我 是 喜欢 在 winter 的 时候 去
+NI35FBP_0101 2267413 2271305 CS 因为 没有 这么 热 而且 而且 不用 排 这么 这么 长 的 queue
+NI35FBP_0101 2272606 2273204 ZH (呃)
+NI35FBP_0101 2274268 2283796 CS 就是 but 我 我 是 想 如果 把 这些 东西 like 带 回来 新加坡 会不会 说 too hot then 好像 每个人 就 一直 在 出 汗 的 感觉
+NI35FBP_0101 2285087 2287606 CS (呃)- 对
+NI35FBP_0101 2290333 2300768 CS (呃) 去 过 l. a. florida ya disneyworld 有 有 因为 我 我 从小 就是 一个 disney fan
+NI35FBP_0101 2301445 2308192 CS 就是 (呃) 我 当天 十六 岁 考 完 o. 水准 我们 新加坡 这个 o. level ya
+NI35FBP_0101 2308665 2312165 ZH 考 完了 就 像 诶 好像 后天 这样 就 飞走 了
+NI35FBP_0101 2313157 2315910 ZH 啊哈 就 飞 去 那里 玩
+NI35FBP_0101 2316589 2323834 CS 我 一直 说 like 很 想 去 florida disneyworld 因为 我 听说 是 最 它 规模 最大 的
+NI35FBP_0101 2324925 2332184 CS 对 对 啊 那里 也有 universal but 它 的 universal 是 split into two parks
+NI35FBP_0101 2332874 2336250 CS 他 就 一 一 一间 就是 universal 一间 islands of adventure
+NI35FBP_0101 2337184 2348395 CS (啊) 我 是 比较 喜欢 islands of adventure 它 它 比- 它 的 rides 比较 刺激 因为 universal 的 是 比较 比较 注重 好像 那些 (呃) 做戏 里面 什么 拍 拍 拍戏 的 那种
+NI35FBP_0101 2348395 2357645 CS equipment ah (er) graphic ima~ imagery whereas 另外 (呃) islands of great adventure 就 比较 说 (呃) rides 就是 那种 刺激性 的 rides
+NI35FBP_0101 2358398 2359385 EN 
+NI35FBP_0101 2359995 2361259 ZH 哦 没有
+NI35FBP_0101 2361675 2370557 CS  我 是 很 想 去 but 有时候 like 听 人家 说 (呃) it's it's more scary (aoh) (er) intensity higher
+NI35FBP_0101 2371388 2376595 CS 就 没有 去 过 而且 six flags (er) 以前 我 去 美国 的 时候 我
+NI35FBP_0101 2376595 2382486 CS 因为 我 虽然 说 我 差不多 十六 岁 不过 my sister she's only about ten
+NI35FBP_0101 2383022 2394381 CS so 不大 适合 去 这种 地方 要 去 一种 (呃) 有 小孩子 玩 的 也有 大人 玩 的 的 这种 theme park be for more balance 那 everybody has something to do
+NI35FBP_0101 2395025 2395665 EN 
+NI35FBP_0101 2396885 2402725 CS  对 咯 disney 还有 去 过 las vegas mm 
+NI35FBP_0101 2404906 2405997 EN (er) ya 
+NI35FBP_0101 2409736 2414155 CS (er) las vegas 是 在 我 八 岁 时候 去 的 (呃) 我 当年 去
+NI35FBP_0101 2414155 2418864 CS l. a. 就 从 l. a. 我 爸爸 驾 驾车 到 las vegas
+NI35FBP_0101 2420522 2425532 CS 去 对 but 小时候 你 什么 东西 都 不知道 就是 sleep in the car 这样
+NI35FBP_0101 2426155 2427165 EN huh
+NI35FBP_0101 2427745 2434558 CS 它 是 las vegas 是 很多 casinos 对 我 觉得 对 小孩子 就 没有 什么 没有 什么 relevance 没有 什么 兴趣
+NI35FBP_0101 2435010 2445543 CS 因为 全部 的 场 全部 的 地点 都 不能 进去 的 就是 在 外面 拍 几 张 照 then 里面 都是 casinos then 就 no entry 了 (嗯)
+NI35FBP_0101 2446076 2446725 EN 
+NI35FBP_0101 2447673 2453542 CS 有 就是 看 好像 那个 (呃) 那种 animals 的 他们 好像 那种 magic shows
+NI35FBP_0101 2454009 2457385 CS 它 那里 就 它 那里 比较 famous 的 就是 那个 white tiger
+NI35FBP_0101 2458551 2463252 CS 啊 啊 m. g. m. 的 white tiger 是 (呃) 它 是-
+NI35FBP_0101 2466316 2471250 ZH  我 不知道 就是 (呃) 很 好玩 因为
+NI35FBP_0101 2471795 2476792 CS 那时 才 八 岁 我 认识 的 tigers 全部 都是 orange colour 的
+NI35FBP_0101 2477680 2484087 CS 啊 好像 去 我们 singapore zoo 都 没有 white tigers 去 到 那边 他们 就 一直 讲 white tiger white tiger
+NI35FBP_0101 2484484 2494271 CS 就 很 想 去 看一 看一看 是 什么 东西 then 看起来 就 觉得 诶 那个 white tiger actually (呃) 挺 美 的  很 很 美
+NI35FBP_0101 2495491 2496556 ZH (啊哈)
+NI35FBP_0101 2499646 2509002 CS 对 but 现在 就 比较 common 了 好像 (呃) 我 觉得 现在 很多 那种 show magic show 也是 都 有 用 white tiger 了 就 换 过来 了
+NI35FBP_0101 2509810 2510703 EN (erm)
+NI35FBP_0101 2513791 2514726 EN 
+NI35FBP_0101 2519808 2526338 CS 我 这个 我 不大 清楚 它 的 scientific basis of 为什么 会 变 white 的 感觉
+NI35FBP_0101 2531705 2535208 EN oh like albino kind of i see
+NI35FBP_0101 2536717 2542732 CS 我 不 清楚 不过 如果 真的 是 一个 好像 defect 它 是 一个 挺 美 的 defect 
+NI35FBP_0101 2550101 2550555 ZH 嗯
+NI35FBP_0101 2553633 2556489 CS 我 觉得 可能 是 因为 它 是 一个 很 new 的 东西
+NI35FBP_0101 2556853 2571195 CS 它 不是 就 common- common tigers 就是 橙 色 嘛 so 都 看 (呃) 可能 for 那种 show purpose 人家 都 看 腻 了 就 来 一点 change 来 一点 white 的 可能 比较 exciting  mm
+NI35FBP_0101 2574776 2584810 CS 有 可是 当时 就 很 (呃) 当时 就 很 可惜 因为 我 睡着 我 在 那个 bus 睡着 了
+NI35FBP_0101 2585277 2590211 CS so 到了 hoover dam 他们 全部 下去 拍照 我 都 没有 看过 then 起来 的 时候 就 诶
+NI35FBP_0101 2590731 2594990 CS 都 已经 (啊) 都 已经 过 了 but 我 觉得 可能 小
+NI35FBP_0101 2595561 2601739 CS 可能 八 岁 的 时候 你 跟 我 讲 这个 hoover dam 这么 说 多 美 多 美 我 我 也 不知道 怎么 去 appreciate
+NI35FBP_0101 2603368 2606484 CS (呃) 有 有 有 去 过 grand canyon
+NI35FBP_0101 2607714 2617089 CS 就是 他 的 tour 就是 从 hoover dam grand canyon 应该 是 全部 都 是 一样 的  我们 这些 tourists 都是 被 骗 的 
+NI35FBP_0101 2619244 2620411 ZH 对 对
+NI35FBP_0101 2625659 2631699 CS 我 觉得 grand canyon (er) 现在 回想 起来 它 是 挺 grand 的
+NI35FBP_0101 2632141 2644216 CS 不过 我 记得 当时 去 的 时候 我 就 觉得 哎哟 这个 不 好玩 的 你 走 来 走 去 你 you (erm) 你 看 你 哪里 看 的 都是 一样 的 的 look 你 拍 的 照片 全部 都是 一样 的 就
+NI35FBP_0101 2644580 2652102 CS 根本 就 没  nothing special then 现在 回想 起来 好像 看 了 以前 拍 过 的 照片 就 觉得 mm
+NI35FBP_0101 2652959 2656049 CS 幸亏 是 有 去 过 嗯 lucky mm
+NI35FBP_0101 2658023 2665828 ZH 八 岁 对 我 我 也 不知道 为什么 我 我 爸爸 会 想 带 我们 那时 我 八 岁 我 我 弟弟 六 岁 我 妹妹 都 还 没 出生
+NI35FBP_0101 2666629 2676769 CS 啊 可是 他 他 这样 他 可能 是 他 他 自己 想 去 吧  就 bring the whole family along mm
+NI35FBP_0101 2677639 2680085 ZH  就 这样 啊
+NI35FBP_0101 2689883 2692350 EN oh ok las vegas conference
+NI35FBP_0101 2695258 2696089 ZH 啊
+NI35FBP_0101 2699595 2701826 ZH 我 不 我 不 记得 我 不 清楚
+NI35FBP_0101 2707697 2708269 EN ok
+NI35FBP_0101 2710603 2712785 CS 哦 so 是 travel 挺 远 的 啦
+NI35FBP_0101 2722263 2728678 CS mm  so 你 有 了 一个 bird's eye view  那 就 比 我 好 了
+NI35FBP_0101 2734005 2737147 CS helicopter 对
+NI35FBP_0101 2742393 2743250 ZH 什么 旅
+NI35FBP_0101 2747370 2752148 CS 哦 (啊) 是不是 donkey ya ya i think it's donkey
+NI35FBP_0101 2753732 2760565 CS 哦 那个 挺好 玩 的 嘛 哦 我 没有 玩 这个 我 就 didn't get a chance to play mm
+NI35FBP_0101 2767392 2769175 ZH 不过 这样 比较 有趣 嘛
+NI35FBP_0101 2770110 2775122 CS 其实 new 你 something new 我 都 我 都 好像 没 看过 一个 real 的 donkey 
+NI35FBP_0101 2775589 2777145 EN 
+NI35FBP_0101 2782393 2787197 CS 没有 诶 马 we have horses but donkey 就 没有
+NI35FBP_0101 2788002 2788600 ZH 嗯
+NI35FBP_0101 2794643 2796409 ZH 嗯 可能 吧
+NI35FBP_0101 2798035 2799485 ZH 还有 (呃)
+NI35FBP_0101 2802408 2804762 ZH (呃) 去 过 土耳其
+NI35FBP_0101 2806173 2810432 CS 那个 那个 那个 是 one of my favourite destinations
+NI35FBP_0101 2811237 2814795 ZH (呃) 因为 土耳其 是 很 美 很 美 的 地方
+NI35FBP_0101 2815714 2818181 ZH 它 它 的 它 很多 景点 都是
+NI35FBP_0101 2818830 2824543 CS (呃) 都是 natural 的 都 还 没有 存~ 好像 有 一个
+NI35FBP_0101 2825192 2828125 CS 有 一个 place 它 的 名字 叫 cappadocia
+NI35FBP_0101 2828854 2832862 CS (呃) 你 去 你 如果 它 是 how to say
+NI35FBP_0101 2833382 2841375 CS (呃) 那 整个 地方 整个 地方 都是 (呃) 好像 sand 的 感觉 不过 它 是 有 很多 formation
+NI35FBP_0101 2841375 2845675 ZH (呃) 人家 也 可以 住 在 里面 的 他们 那里 的 人 他们 的 家
+NI35FBP_0101 2845675 2850180 CS 他们 的 homes 也是 从 这 这些 就是 好像 地 这样 建 的
+NI35FBP_0101 2850700 2857296 CS 是 因为 (呃) (um) over the years like 有 有 下雨 啦 还是 还是 风 吹 啦
+NI35FBP_0101 2857815 2865201 CS 就会 把 它 整个 (呃) land area 就是 磨 到 you after erosion all the soil erosion
+NI35FBP_0101 2865779 2873024 CS 它 就会 erode 这些 structures 出来 then 好像 是 over how many thousand of years 它 就 变得 硬 起来
+NI35FBP_0101 2873985 2887245 CS 就是 (呃) 就是 整个 整片 地 就是 这样 (呃) up down up down 你 从 远远 看 远远 看 好像 是  一个 很 沙 很 沙 好像 沙漠 啦 只是 好像 有 形状 的 沙漠 这样
+NI35FBP_0101 2888206 2893107 CS 而且 这种 这种 struc~ 他们 这种 structures 这种 dome
+NI35FBP_0101 2893755 2894386 EN (er)
+NI35FBP_0101 2895347 2903212 ZH 他们 讲 夏天 的 时候 就会 保 就会 比较 凉 啊 不过 冬天 的 时候 就 比较 温
+NI35FBP_0101 2903825 2910160 CS 对 那个 就- 那个 就 很 有 兴趣 而且 很 美 本来 是 要 做 那个 hot air balloon
+NI35FBP_0101 2910821 2914442 CS 你 可以 啊 坐 hot air balloon 然后 在 他们 的 structures 这些
+NI35FBP_0101 2915221 2924517 CS 它是 一种 很 low 的 hot air balloon 不 像 纽西兰 纽西兰 的 hot air balloon 就是 (呃) 高高 的 嘛 then 你 看 下去 都是 grassland ah 什么 cow 这些 这个 就
+NI35FBP_0101 2924881 2931285 CS (呃) 它 go very close to the to the structures so 你 是 可以 摸 到 的 感觉
+NI35FBP_0101 2933009 2938913 CS 可是 也是 挺 大 的 嘛 就 他 的 hot air balloon 也是 可能 一次 也是 二十多 个人 这样 二十 个人
+NI35FBP_0101 2939302 2946726 CS 可是 in the end 去 了 两个 早上 都 没有 机会 因为 他 是 看 那个 (啊) ya 风 啊 weather 这些
+NI35FBP_0101 2947427 2950257 CS 就 不 适合 so in the end 就 没有 去 到
+NI35FBP_0101 2951244 2956308 CS but 那个 是 很 美 还有 另外 一个 地方 叫 它 是- 它 的 名 叫 pamukkale
+NI35FBP_0101 2957451 2970855 CS 它 是 它 它 (呃) 有 另外 一个 英文 的 外号 是 cotton terrace 因为 好像 我们 种 (呃) 种米 米 的 地方 它 就是 terrace 的 你 你 有 看过 吗 就是 好像 steps 的 感觉
+NI35FBP_0101 2971583 2987783 CS 啊 可是 它 那边 它 是 limestone 它 是 (呃) 由于 after many years 就是 一样 (呃) weather rain 这些 它 就 form 一个 limestone cave so limestone 是 白 的 嘛 so 你 从 远远 看 就是 一个 白色 这样 的 steps 的 感觉
+NI35FBP_0101 2988185 2995470 CS so 它 它 它 的 另外 一个 英文 名 叫 cotton terrace 因为 看起来 好像 cotton wool 的 感觉
+NI35FBP_0101 2995875 2996509 EN so
+NI35FBP_0101 2997351 3005531 CS 土耳其 我 觉得 是 很多 这种 很 很 interesting 的 的 景点 (啊)
+NI35FBP_0101 3008725 3012303 ZH 非常 对 它 的 它 的 它 食物 也是 很 好吃
+NI35FBP_0101 3012932 3031257 CS 可是 就是 很 像 那种 north indian food so 如果 你 说 你 喜欢 好像 (呃) 土耳其 他们 每次 吃 那种 kebab 嘛 这些 的  ya 跟 跟 我 刚才 跟 你 讲 那种 north indian food 是 挺 相似 的 只是 north indian 的 可能 比较 重 它 的 味道 它 的 spice used
+NI35FBP_0101 3031847 3037063 CS (er) is stronger so 味道 是 比较 重 了 一点 土耳其 的 是 比较 淡
+NI35FBP_0101 3038336 3040777 ZH 不过 就是 很 好吃
+NI35FBP_0101 3041348 3046438 CS (呃) 我 记得 我们 每 一 餐 都是 吃 一样 的 东西  因为 是 join tour 的 嘛 (呃)
+NI35FBP_0101 3046775 3056845 CS 他 的 每个 每 每 一 餐 好像 kebab 这些 他 就 问 你 beef 还是 chicken  so 我 弟弟 他 他 我 弟弟 这种 他们 就 比较 他 就会 吃 beef beef 他 就可以 alternate
+NI35FBP_0101 3056855 3065635 CS some days beef some days chicken  可是 我 就 不 吃 beef 就 只有 chicken chicken chicken but 吃 了 八 天 还 吃 不 腻 so 应该 是 挺 好吃 的
+NI35FBP_0101 3066726 3067816 ZH 嗯 对
+NI35FBP_0101 3070933 3073737 CS 有 有 就是 它 的 (呃) mosque
+NI35FBP_0101 3074568 3075525 ZH 嗯
+NI35FBP_0101 3076282 3078386 ZH 有 啦 (呃)
+NI35FBP_0101 3079189 3090927 CS 本来 是 没有 什么 特 我 没有 什么 特别 我 是 没有 信 我 是 没有 信仰 的 so 去 去 哪里 都 ok but (erm) 我 觉得 这种 好像 mosque lah church 这些
+NI35FBP_0101 3091165 3096666 CS 可能 去 了 一个 你 去 了 最 最 famous 的 一个 就 其它 的 有一点 不用 去了 like
+NI35FBP_0101 3097341 3101995 CS 你 看 来 看 去 都是 差不多 一样 的 啦 那个 mosque  嗯
+NI35FBP_0101 3104201 3111524 CS 对 它 的 它 的 structure 它 的 decorations (er) 是 很 美 的 而 而且 他 那里 就 挺
+NI35FBP_0101 3112069 3116955 CS (呃) 挺 奇怪 的 因为 他们 虽然 是 muslim muslim based country but
+NI35FBP_0101 3117367 3124735 CS 他们 好像 是 christian 也是 挺 多 muslim and christian 挺 多 而且 而且 他们 是 in harmony ah
+NI35FBP_0101 3124735 3131348 CS 就是 没有 什么 冲突 因为 他们 那边 的 人 是 很少 吃 猪肉 because it's a it's still a muslim country
+NI35FBP_0101 3131738 3137764 CS 他们 就 很少 吃 猪肉 but 它 有 一个 有 有 有趣 的 是 它 的 几个 mosque
+NI35FBP_0101 3139010 3143295 CS (呃) 以前 是 cathedral 以前 是 是 个 church
+NI35FBP_0101 3143736 3153258 CS 因为 我 我 不大 清楚 它 的 history 是 什么 不过 土耳其 也有 (呃) 以前 打 什么 战争 啊 blah blah blah 被 人家 被 人家 (呃) 侵 敌 侵略 这些 东西
+NI35FBP_0101 3153985 3158354 CS 有 很多 的 church 很多 他们 现在 famous 的 mosque 以前 都是 一个 church
+NI35FBP_0101 3159142 3165115 CS (er) so 他们 把 church 的 东西 全部 留 住 只是 加 了 他们 那些 (呃) prayer 的 东西
+NI35FBP_0101 3165790 3172776 CS 就 become fusion 因为 他们 的 mosque 有 (呃) allah 有 他们 的 那种 (呃)
+NI35FBP_0101 3173736 3178814 CS 他 的 koran 里面 的 那个 scriptures 不过 也有 christian 的 murals
+NI35FBP_0101 3179803 3183958 CS (呃) 好像 那种 (呃) 耶稣 啦 mother mary 这些 他们
+NI35FBP_0101 3184410 3188866 CS 他 在 他们 墙壁 上 都有 画 这些 东西 因为 以前 church 的 时候 是 用 这种 的
+NI35FBP_0101 3189334 3202460 CS so 他们 现在 是 fusion 的 的 感觉 just 不错 啦 因为 有时 我 记得 我 知道 religion 是 一个 很 敏感 的 的 issue 不 不是说 可以 乱乱 掺 来 掺 去 的
+NI35FBP_0101 3203076 3208220 CS so 他们 可以 这样 fusion 是 很 很 难得 嗯
+NI35FBP_0101 3213619 3218974 CS  我 没有 他们 那边 的 tour guide 那 土耳其 那里 的 tour guide
+NI35FBP_0101 3219687 3232230 CS (呃) 是 要 有 要 要 训练 的 而且 ya you need a license and you need a university degree to be 他们 的 tour guide 因为 他们 不 希望 你 把 (呃) 他们 的 history 他们 国
+NI35FBP_0101 3232698 3241645 CS 国 里面 的 东西 (呃) 好像 讲 错 啦 跟 跟 这些 tourists 有 有 错 错别 的 interpretation 这样
+NI35FBP_0101 3243926 3248037 CS (呃) 那里 就是 参加 tour 的 因为 ya 整个 土耳其 就 很大
+NI35FBP_0101 3248583 3257490 CS 你 如果 只是 要 在 首都 那 actually 也 好像 跟 台湾 一样 都 不用 join tour 的 可是 你 要 去 到 别的 别的 city 这些 都是 要 坐 bus
+NI35FBP_0101 3258555 3266584 CS 就 比较 容易 join 一个 tour lor  而且 那里 (呃) 土耳其 的 人 不错 他们 他们 都会 英文
+NI35FBP_0101 3266974 3271960 CS 他们 的 英文 是 挺 棒 的 so  language barrier is is not a problem
+NI35FBP_0101 3272947 3275777 CS but 也是 人生地不熟 so 
+NI35FBP_0101 3276426 3282997 CS 比较 好 啦 join 一个 tour 比较 好玩 而且 你 可以 学 到 他 的 领导 他 的 tour guide 就会 跟 你 讲 他们的 history
+NI35FBP_0101 3283516 3289145 CS 这些 culture 的 东西 就 也 有 不一样 的 经验 可以 可以 有 学习 的 地方
+NI35FBP_0101 3289427 3297280 CS 好像 可能 去 美国 这种 就 不大 需要 一个 一个 tour guide cause 你 你 如果 可以 驾车 你 你 什么 地方 都 可以 去
+NI35FBP_0101 3297711 3311665 CS 什么 地方 都 可以 (呃) 你 随便 在 internet 读 一些 东西 也是 可以 like (er) (er) 有所 收获 对  不过 in this type of country 就 比较 难  嗯
+NI35FBP_0101 3315091 3320986 CS 对 我 我 不是说 每次 出 出国 都要 学习 我 也是 很 好玩 like  i like to have fun but
+NI35FBP_0101 3321610 3327816 ZH (呃) 有时候 学 一点 玩 一点 学 一点 玩 一点 就 比较 好玩 啊 就 比较 有 收获 嘛
+NI35FBP_0101 3331426 3341364 CS  如果 你 还 因为 你 你 说 like you haven't been to turkey 我 就会 recommend 你 去 因为 我 因为 它 去 土耳其 也 不会 说 很 贵
+NI35FBP_0101 3342435 3351374 ZH (嗯)  我 我 不大 清楚 因为 不过 不~ 好像 是 两天 两千 少 过 两千
+NI35FBP_0101 3352382 3354018 ZH 对 (呃)
+NI35FBP_0101 3355305 3356655 EN eight days
+NI35FBP_0101 3357680 3362631 CS 因为 土耳其 的 东西 (呃) is not very expensive 它 的 cost of living 不会 说 很 高
+NI35FBP_0101 3363627 3367273 CS so 每个 好像 你 吃 方面 这些 也 不会 说 很 贵
+NI35FBP_0101 3368053 3376337 CS 你 你 basically 你 付钱 的 what you pay for is mainly the tour and then 他们 的 tour 通常 都 包 包括 很多 meals 
+NI35FBP_0101 3376805 3382765 CS then 那些 你 好像 偶尔 你 需要 自己 settle 你 的 meals 他 的 meals 也是 很 便宜 的
+NI35FBP_0101 3382765 3386085 CS 他们 那边 食物 这些 like not very expensive
+NI35FBP_0101 3386828 3397773 CS so 你 除了 付 了 那个 tour 的 钱 之外 actually 也 没有 说 要 再 花 什么 钱 的 而且 他 的 tour 也 不 也 没有 像 (呃) 欧洲 这些 这么 贵
+NI35FBP_0101 3398594 3405445 CS 土耳其 又 是 (呃) half asian half europe so 还好 啦 
+NI35FBP_0101 3406593 3408229 ZH 对 
+NI35FBP_0101 3409645 3411660 ZH 嗯 可以 了

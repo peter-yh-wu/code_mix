@@ -1,0 +1,202 @@
+UI29FAZ_0102 0 5277 CS g matrix 还是 一些 u 的 matrix ah 这些 东西 他 他 懂 然后 怎样子 configure
+UI29FAZ_0102 5277 8382 CS 所以 说 他们 是 more on 要 这样子 的 experty lor
+UI29FAZ_0102 18883 24987 ZH 对 对 啊 他们 已经 很 不过 他 很多 东西 啊 哦 啊 要
+UI29FAZ_0102 25685 29985 CS (er) custom 啊 不是 customized 很多 东西 你要 configure 你 要 会 configure
+UI29FAZ_0102 29985 34680 CS 啊 因为 它有 好像 有 finance 的 东西 他 已经 set了 因为 finance 和 h. r. 是 很
+UI29FAZ_0102 34680 37172 CS generic (er) 不是 很 generic 是 很
+UI29FAZ_0102 37172 40492 CS common share among all the 不同的 enterprise
+UI29FAZ_0102 40492 41782 CS company 的 嘛
+UI29FAZ_0102 41782 47578 CS 啊 所以 这个 terms ah 好像 like legend 去到 哪一个 只是 legend 了 不是 啊 that is why 他们
+UI29FAZ_0102 49040 50984 CS 国外的 functionality 是 很好
+UI29FAZ_0102 50984 56402 CS 但是 你 configure 的 时候 你 真的 是 要 那种 domain knowledge 你 才 可以 去用 s. a. p. lor
+UI29FAZ_0102 57112 59090 ZH 那 这样子 咯
+UI29FAZ_0102 63236 64704 ZH 啊 有 很多 啊
+UI29FAZ_0102 64704 71545 CS 又有 m. m. lah 我的 我的 有的 有的 我 都 不懂 啊 知道 最 著名的 是 e. p. i. k. o. ah h. r. ah (er)
+UI29FAZ_0102 71545 83479 CS s. d. ah servi service deli~ deli~ delivery ah 还有 shipping ah 然后 shipping 有 一个 specific 的 我 不是 很 清楚 好像 有 六个 啊 so far 好像 是 有 六个 module ah 没有 记错 的话
+UI29FAZ_0102 86488 95449 CS 啊 对 啊 它是 by module module 的 啊 而且 每一个 ah lock in to the system 呢 是 by license 的 每一个 user 是 一个 license 来的 嗯
+UI29FAZ_0102 105551 108269 ZH 都是 这样 咯 这样 他们 才会 赚钱 嘛
+UI29FAZ_0102 118297 122340 ZH 啊 时 暂时 没有
+UI29FAZ_0102 122340 125162 CS 很多 都是 permanent staff 来的
+UI29FAZ_0102 130598 143894 CS 对 可是 最近 我 换 group 了 但是 i still under 同样的 老板 啦 但是 我去 另 另外 一个 group 因为 我 老板 group manufacturing system 还有 quality system 的
+UI29FAZ_0102 143894 148148 CS 然后 现在 我 已经 要求 转去 quality system 了 因为
+UI29FAZ_0102 148148 155149 CS quality 的 会 比较 没有 这样 critical lor 所以 没有 这样 tension lor okay
+UI29FAZ_0102 155149 165861 CS 因为 它 可以 不用 sup~ i mean 它 support 是 like by business day mah 不是 twenty four times seven standby 的 这样
+UI29FAZ_0102 167433 173324 CS 对 因为 我们的 是 啊 我们的 manufacturing system 的 group 我们 是 support global 的
+UI29FAZ_0102 173324 183263 CS 所以 all the (er) 没有 follow the sun 因为 我们 没有 counter part 在 u. s. 所以 都是 我们 这边的 人 support 所以 我们 拿一个 support form
+UI29FAZ_0102 183263 188450 CS 然后 每一个 人 rotate 然后 support globally
+UI29FAZ_0102 190905 191820 ZH 啊
+UI29FAZ_0102 193540 203464 CS 啊 很多 时候 都是 可能 system slow ah database slow ah 然后 还有 就是 有的 时候 啊 certain bugs ah 在 application 因为 这个 是 self developed 的 嘛
+UI29FAZ_0102 203464 212181 CS 然后 可能 user ah 他 用 一些 lope hole 然后 它 caused 他 system hang 还是 system 会有 一~ 一些 bugs lor 他们 要 fix lor 这样子 咯
+UI29FAZ_0102 215862 219515 CS 没有 因为 我们 还有 一个 group 就是 developer group ah
+UI29FAZ_0102 219515 232571 CS 的人 去改 coding lor 我们的 关 就是 我们 要 make sure okay 这个 是 一个 bugs 然后 confirmed 这个 真的 是 a happened then before 我们 escalate 去给 developer 叫 他们 做 fixing
+UI29FAZ_0102 236027 238819 ZH 所以 我们 是 做 三等
+UI29FAZ_0102 238819 246903 CS 等 电话 等 email 等 call 嗯 还有 那 不是 等 call 它 是 等老板 order 这样
+UI29FAZ_0102 252683 258536 CS 啊 在 比较 好听的 来讲 哦 like 因为 你 是 go in through level mah 像 我们 i.t.的 人 哦 我们 是
+UI29FAZ_0102 258536 265760 CS from 一个 developer 然后 你 自己 再 upgrade 一点的 话 okay 你 可以 functional support 一个 functional 的人 啊 怎样 做 system analysis ah
+UI29FAZ_0102 265760 272945 CS 啊 接下来 可能 你 又 可以 选 两个 path either 你 就是 去做 project manager lor 因为 你 functional wise 你很 ok mah
+UI29FAZ_0102 272945 279118 CS 因为 technical farm 的 话 你 要做 developer 的 话 你 不是 再去 做 一个 新的 developer 还是 你 直接 去做 一个 architect lor 这样子 去做 architect lor
+UI29FAZ_0102 279118 283401 CS 这样子 咯 depends on 看你 咯 对我 来讲 是
+UI29FAZ_0102 283401 286841 CS 我 要做 coding 也是 可以 我 没有 做 coding 也是 可以的
+UI29FAZ_0102 298296 304345 CS 但是 它 很 它是 oh okay okay 它 further 就是 我 跟你 讲的 path lor 就是 说
+UI29FAZ_0102 304345 309367 CS 你 support 你 知道 functional 的 东西 okay beside that lor 其实 我们 不是 purely on support lah
+UI29FAZ_0102 309367 311985 CS then 我们 因为 我们 也是 有 一些 requirements 的 嘛
+UI29FAZ_0102 311985 313960 CS 但 然后 enhancements 的 嘛
+UI29FAZ_0102 313960 321203 CS 其实 当 我们 需要 要 user 要求 一些 new 的 request which is this is not a bug but is an enhancement
+UI29FAZ_0102 321203 325165 CS 但是 我们 他们 要去 啊 怎样 讲 去 create 一个 functional spec
+UI29FAZ_0102 325165 329983 CS 啊 我们 要去 做 一些 project involved 然后 我们 as a functional team 我们 会
+UI29FAZ_0102 329983 341773 CS 啊 做 呢 functional certification requirement study ah 然后 pass 给 developer 去develop 然后 我们 validate ah the ah the result and then ah then pass to internal communicate with the customer since okay
+UI29FAZ_0102 341773 347011 CS 啊 这个 是 你 要的 吗 这样子 所以 that is why 我们 还是 有 involved 在 project 里面 啊
+UI29FAZ_0102 347011 350623 CS beside mainly 我们 是在 support lah 这样子
+UI29FAZ_0102 366688 368365 CS although 我们
+UI29FAZ_0102 370102 375125 CS 因为 因为 okay 因为 我们 是 global team mah
+UI29FAZ_0102 375125 378205 CS 因为 global team 的话 我们 是 负责 好像 啊
+UI29FAZ_0102 378205 381984 CS 比较 啊 overall see 全部 东西 啦 就是 说
+UI29FAZ_0102 381984 386253 CS 所以 啊 domain knowledge lor on manufacturing 是 很 重要 的 咯
+UI29FAZ_0102 386253 391234 CS 如果 一个 fresh grad 哦 他要 进来 可能 他 都 不知道 production 要 怎样子 走
+UI29FAZ_0102 391234 399146 CS 可能 一些 terms 对他 来讲 他 根本 都 不知道 但是 因为 user 来 跟你 讲话的 时候 一定 是 expect 你是 已经 有 相差 equivalence 的
+UI29FAZ_0102 399146 402027 CS domain knowledge 不是 说 很 deep lah 但是 at least 他 讲的 话
+UI29FAZ_0102 402027 406440 CS 你 可以 了解 但 如果 一个 fresh grad 他 没有 experience 但是 他 可以 讲 一些 很
+UI29FAZ_0102 406440 411599 CS engineering specific 的 terms 啊 比如 说 然后 他们 怎样 去 support leh
+UI29FAZ_0102 411599 417491 CS 还是 他们 有 一些 new 的 requirement 的 时候 他们 会 问 okay 我要 我要 啊 这些 东西 出现
+UI29FAZ_0102 417491 421326 CS 然后 你们 as a functional team 你要 想看 okay 我们 要 怎样 去 provide
+UI29FAZ_0102 421326 423521 CS visualize 它 在 一个 screen 里面
+UI29FAZ_0102 423521 432611 CS 然后 pass 给 cus* ah developer okay 你 觉得 这样 东西 可以 走 吗 我们 会有 给 一些 suggestion okay how the business process transformed into the user interface
+UI29FAZ_0102 432611 439682 CS 然后 technical 的 人 也是 会 provide 给 他们 technical wise 可 不可以 capture 其实 我们 也是 要想 哦 这些 东西 咯
+UI29FAZ_0102 443373 444032 ZH 恩
+UI29FAZ_0102 458909 463731 ZH 啊 对 你要 看 咯 有 如果 我 对我 来讲 好像 比如 说 啊 一个
+UI29FAZ_0102 463731 470060 CS 怎样 讲 啊 啊 好像 dell lor 如果 它 不是 啊 manufacturing system 的话 啦
+UI29FAZ_0102 470060 475358 CS 好像 on hardware 的 东西 然后 你 一定 是 okay
+UI29FAZ_0102 475358 482892 CS after a while 这样 你 一定 会 知道 了 吗 okay 像 我们的 team lor 其实 i. t.
+UI29FAZ_0102 482892 487539 CS is a plus lor 如果 你会 那些 items 因为 有时候 你 可以 啊
+UI29FAZ_0102 487539 492074 CS validate 一个 error 的 时候 你 觉得 哇 做 做 什么 它 business logic 在 这个 coding 里面 是 这样子 的
+UI29FAZ_0102 492074 503107 CS 然后 它 caused 到 这个 问题 还是 我们 要 purpose 一个 salution 给 那个 啊 developer 的 时候 我们 当然 是 不 可以 站在 好像 user 的 方面 啊 天马行空 啊 你 要有 i. t. 的 那种 logic
+UI29FAZ_0102 503107 505682 CS like to make it works 这样子 然后
+UI29FAZ_0102 505682 507782 CS purpose to 他们 这样子
+UI29FAZ_0102 507782 509087 ZH 但是
+UI29FAZ_0102 509087 515203 CS 在support vice leh 如果 好像 有 一个 啊 okay 我们 有 一些 啊 新的 东西 哦
+UI29FAZ_0102 515203 519455 CS 有的 是 以前 他们 是 不是 non 是 non i. t. 的
+UI29FAZ_0102 519455 523480 CS 所以 要 mix and match lor 就是 说 有 一个 program 我们 可以 容纳
+UI29FAZ_0102 523480 528607 CS non i. t. 的人 就是 说他 之前 可能 是 production 的 人 可是 他 现在 哦 他 有 兴趣 在 system
+UI29FAZ_0102 528607 531625 CS then 他的 domain knowledge 有在 production okay mah
+UI29FAZ_0102 531625 540355 CS 这样子 他 可以 进来 还是 做 那些 functional spec 这个 是 也 可以 接受 啊 但是 不可以 purely 全 整个 team 的 人 都是 有 一个 non i.t.的 的 support lor 这样子
+UI29FAZ_0102 543038 551279 CS 哦 我们 so far 我们 现在 我们的 team 里面 都是 i. t. background 的 然后with ah supporting manufacturing system 的 back ah 的 experience lor
+UI29FAZ_0102 553381 557820 CS 因为 槟城 哦 不是 很多 选择 罢了 不像 在 k.l.
+UI29FAZ_0102 557820 562093 CS like 如果 你 有 兴趣 要 在 financial ah 还是 在 banking ah
+UI29FAZ_0102 562093 568017 CS 很多 时候 这边 的 bank oh 他们的 headquarters 都是 在 k. l.嘛 所以 他们 那些 i. t. system lor 都是
+UI29FAZ_0102 568017 570409 CS 都是 会 based 在 headquarters 的 咯
+UI29FAZ_0102 570409 574887 CS 所以 他们 真的 不 需要 i. t.的 人 去做 他们的 supporting 他们 banking 的 system lor
+UI29FAZ_0102 574887 579529 CS 我们 这边 是 major 有 很多 厂 嘛
+UI29FAZ_0102 579529 583885 CS 所以 我们 只是 可以 做 support on manufacturing system
+UI29FAZ_0102 583885 587377 CS 还有 可能 一些 financial 的 东西 啊 还有 h. r. lor
+UI29FAZ_0102 587377 591109 CS 但是 都是 manufacturing related 的 啦
+UI29FAZ_0102 598281 602888 CS 没有 啊 manufacturing ah system 是 一个 罢了 的 然后
+UI29FAZ_0102 606169 610813 CS 用 同样的 因为 我们 还 可以 support 他们 不可以 一些 啊 看 有的 side leh
+UI29FAZ_0102 610813 615168 CS 可能 他 觉得 你 这个 不够 好 that is why 他 会 built 一些 out of
+UI29FAZ_0102 615168 616936 CS 啊 这个 called 的
+UI29FAZ_0102 616936 621042 CS 可能 做 一些 mini 的 application to fulfill the side needs lor
+UI29FAZ_0102 621042 630165 CS 因为 怎样 讲 我们 是 global 嘛 我们 不能 cap accommodate 全部 东西 在 里面 嘛 因为 我们 的 nature of business lor 是 有 很多 不同 various product 的 可以 从
+UI29FAZ_0102 630165 633140 CS 每 一个 side lor run 不 一样的 东西的
+UI29FAZ_0102 633140 635428 CS 所以 不能 fulfill 到完 that is why
+UI29FAZ_0102 635428 638396 CS 但是 called leh most of the functionality like
+UI29FAZ_0102 638396 641672 CS 如果 他们 validate okay 可能 超过 有
+UI29FAZ_0102 641672 648235 CS 七十 percent ah 还是 important customer ah 真的 是 很 需要 的 fixture 是 吗 他们 都会 implement 在
+UI29FAZ_0102 648235 650702 CS 那个 called 的 m. e. s. 里面
+UI29FAZ_0102 650702 657701 CS 只要 有些 有些 side specific 的话 呢 他们 就有 一些 out of 小小的 application interpret into 我们的 system lor
+UI29FAZ_0102 665631 671191 CS 哦 没有 晚上 啦 就是 说 每个 礼拜 rotate 的话 我们 拿 support firm 的人 就是 二十四 小时 stand by lor
+UI29FAZ_0102 672911 676196 CS 在 美国 我们 就是 stand by lor 如果 就 that is why lor ah
+UI29FAZ_0102 676196 681683 CS okay 因为 我们 有 一些 我们的 i~ 我们的 incident report 我们 有 based on 不同的 priority 的 吗
+UI29FAZ_0102 681683 685139 CS 除非 它是 一个 啊 我们 有 一个 其实 我们 有 一个 level 就是
+UI29FAZ_0102 685139 686288 CS help desk 的
+UI29FAZ_0102 686288 690340 CS 如果 只是 把 sorry 如果 是 priority to 的话 哦 就是 很 critical 了 咯
+UI29FAZ_0102 690340 694623 CS 然后 他 就会 called 我们的 phone lor 如果 像 normal priority three 的话 啊 他们
+UI29FAZ_0102 694623 697598 CS 就会 丢进 我们的 queue 所以 我们 support 的人 哦 normally
+UI29FAZ_0102 697598 702314 CS 可能 晚上 啊 before 睡 之前 哦 我们 会 check 一些 email lor 因为 我们 不要 给他 as ah
+UI29FAZ_0102 702314 706105 CS expired mah 那 s. l. a. level s. l. a. expiration date mah
+UI29FAZ_0102 706105 708882 ZH 不要 不要 给他 有 可能 说 三天 里面
+UI29FAZ_0102 708882 714958 CS 啊 可能 晚上 临睡 之前 要 check lor okay 没有 的话 半夜 来 我们 有伴的 我们 不 可能 半夜 起来 的 吗 是 吗
+UI29FAZ_0102 714958 718844 CS 因为 可能 这个 不是 很 critical 的 可是 我们 早上 起来 的 时候 我们 不是 快点 去 settle lor
+UI29FAZ_0102 722835 729050 CS 有 有 中到 e. s. 知道 我们 不能 fix the bugs 了 吗 如果 有 anything lah
+UI29FAZ_0102 729050 731148 ZH 我们 有 中 过 但是
+UI29FAZ_0102 731148 736842 CS 很多 时候 呢 我们 也是 会 叫 developer  因为 u. s. developer 有在 u. s. lor
+UI29FAZ_0102 736842 739353 CS developer 在 u. s. 他 没有 support
+UI29FAZ_0102 739353 746021 CS 所以 像 我们 就算 我们 validate 了 过后 有 问题 的 话 我们 也 可以 contact 那个 u. s. developer which is 是 他们的 working time 来的 吗
+UI29FAZ_0102 746021 750337 CS 啊 这样子 只 适合 functional wise 我们 只有 malaysia support 罢了 咯
+UI29FAZ_0102 752301 761349 CS 啊 以前 originally 是 u. s. 写的 然后 最近 我们 才 啊 啊 走 i mean 他们的 group expand lor
+UI29FAZ_0102 761349 765586 ZH 然后 他们 请 本地人
+UI29FAZ_0102 767369 769073 CS station 在 local lor
+UI29FAZ_0102 769073 772393 CS ah originally 这个 application 是 from u. s. 的
+UI29FAZ_0102 776693 782589 ZH 啊 这个 还在 各有所求 这样 很 难 讲 咯 怎样 知道 也好 我们
+UI29FAZ_0102 783173 789624 CS 是 自己的 有 啦 有 这些 flexibility lah 因为 我们 customer 要 怎样 我们 就 可以 即刻 改 给他 吗
+UI29FAZ_0102 789624 793356 CS 对 吗 那 s. a. p. 可能 哦 可能 s. a. p. ah on
+UI29FAZ_0102 793356 798275 CS (er) quality control wise lor 可能 他的 fixture 会 比较 fantastic 一点 咯
+UI29FAZ_0102 798275 805292 CS 但是 如果 for 我们的 functioning 呢 how to fulfill 那个 production line 的 那些 mix 的 话 哦 我们 可能 会 比较
+UI29FAZ_0102 805292 807425 CS most specific lor 因为 我们 真的 是
+UI29FAZ_0102 807425 810435 CS 可以 change 那个 coding accordingly lor
+UI29FAZ_0102 817226 818129 ZH 啊
+UI29FAZ_0102 823937 826655 CS 对 啊 hello 因为 它被
+UI29FAZ_0102 826655 829476 ZH 被 哪一个 公司 卖去 啊 买去 啊 那个 谁 啊
+UI29FAZ_0102 830301 837491 CS 有 一个 啊 他们 之前 他们 adapt 他的 application be after factory works 过后 我们 没有 用 factory works 因为 很贵 嘛
+UI29FAZ_0102 837491 840966 CS 然后 我们 会 用 一个 啊 c. a. m. s. t. a. r. 对 被 c. a. m. s. t. a. r. 买去 对
+UI29FAZ_0102 845678 846861 ZH 啊
+UI29FAZ_0102 846861 851078 CS 之前 他们 就是 用 他们 有 draw out for 几个 customer 都是 用 c. a. m. s. t. a. r. mah
+UI29FAZ_0102 851078 858712 CS i mean after factory work 他们 没有 啊 any 联系 啊 做 integration 都是 concentrate on c. a. m. s. t. a. r. lor 然后 现在 被 c. a. m. s. t. a. r. 买去 咯
+UI29FAZ_0102 862513 866087 ZH 但是 很多 人 都 跑了 咯 我 都 不知道 还有 多少个 人 还 留在 槟城
+UI29FAZ_0102 874364 878637 CS ong kam long ah mo ah 没有 跟他 联络 了 失踪了 了 他
+UI29FAZ_0102 881011 883976 CS 他 他 还是 跟 e. h. 一起 做 吗
+UI29FAZ_0102 883976 885552 ZH 他
+UI29FAZ_0102 885552 890523 CS major 的 customer 还是 kulim 呢 我 以前 那间 公司 咯
+UI29FAZ_0102 890523 892346 EN major customer
+UI29FAZ_0102 892346 899589 CS 之前 以前的 时候 就 遇到 他 比较 多 啦 因为 他 都在 我们 那边 上班 吗 as as as external mah 这样子 现在 很少 联络 了
+UI29FAZ_0102 901653 905182 CS 我 觉得 应该 是 会 不错 啦 因为 他们 可以 last 这样 久
+UI29FAZ_0102 905182 906282 EN so far
+UI29FAZ_0102 906282 913438 CS 都 没有 说 炒人 啊 只是 那些 人 自己 走 罢了  哈 还 这样子 benefit leh 不是 很好 啦 可能
+UI29FAZ_0102 913438 918701 CS 那些 experience 的 都会 走 咯 但是 说 okay ah quite quite profitable lah 应该
+UI29FAZ_0102 925788 929970 CS 啊 一定 会 高薪 留在 还有 股份 啊 profit sharing 这样子 的 东西 咯
+UI29FAZ_0102 929970 935616 CS coordi 啊 就像 那个 value first 的 那个 谁 啊 他 应该 还是 在 value first 吧
+UI29FAZ_0102 937710 939637 ZH 没有 啦 没有 联络 了 咯
+UI29FAZ_0102 939637 941933 ZH 连 鸿玉 我 都 不知道 去了 哪里 啊
+UI29FAZ_0102 943558 946895 CS 啊 facebook 我有 add 他 但是 我 没有 跟他 讲话
+UI29FAZ_0102 948099 953733 CS 哦 可能 他 很忙 我 知道 last known 的 时候 last time 我 在 malacca 遇到 他 咯
+UI29FAZ_0102 953733 960338 CS 然后 过后的 时候 因为 malacca 的 那一个 他 support 的 东西 他 好像 搬去 johore ah 他 好像 他 有去 johore 啊 你 知道 吗
+UI29FAZ_0102 960338 968663 CS 啊 接下来 时 我 不知道 他 有没有 因为 他们 又有 project 可能 在 新加坡 我 不知道 他 有没有 过去 新加坡 啦 因为 他 有 跟我 讲过 他 很想 去 新加坡 咯
+UI29FAZ_0102 969695 973553 CS ah so far 没有 update 应该 我 觉得 应该 没有 吧
+UI29FAZ_0102 973553 980691 ZH 因为 他 好像 一直 都是 做工 做工 然后 就 回家 啊 又 做工 然后 又 回家
+UI29FAZ_0102 983564 987249 CS 不过 他 okay lor 他 quite enjoy 一下 啊
+UI29FAZ_0102 987249 991386 CS 其实 mei ling 跟 guo leng 也是 一样 啊 他们
+UI29FAZ_0102 991971 1000192 CS 哈 在 south africa mah 他们 两个 更 geng eh 他们 as a contract 罢了 你 知道 吗 他们 去 做的 那些 as a developer lah
+UI29FAZ_0102 1002136 1008756 CS 跟 我 不知道 他们 是 做 freelance 还是 什么 东西 啦 还是 engage program company lah 只是 呢 他们 也是 okay ah
+UI29FAZ_0102 1010501 1014171 CS 我 哪里 懂 啊 不知道 啊 我 觉得 so far so good lor
+UI29FAZ_0102 1015438 1017131 ZH 应该 是 哈
+UI29FAZ_0102 1017131 1024897 CS 这个 他们 可以 请你 好像 as a freelance 你 可以 charged 高 一点 咯 可能 他们 有 一些 benefit lah 但是 开始 freelance 都 可以 charged 很高 吗
+UI29FAZ_0102 1027873 1033150 CS south africa ah 不能 啊 现在 有 家庭 啊 很难 啊 很难 travel
+UI29FAZ_0102 1036710 1038904 ZH 当然 会 比较 危险 啊 这样
+UI29FAZ_0102 1040838 1043648 CS okay 很久 了 咯 他们 在 那边
+UI29FAZ_0102 1043648 1046295 CS 我 看我 so far 好像 没有 回来 这样 哦
+UI29FAZ_0102 1049013 1057682 CS 不过 我 没有 跟 他们 联络 啦 只是 有时候 看 他们 在 yahoo 的 时候 就是 他们 还是 放在 yohamersburgs lor 这样 咯 嗯
+UI29FAZ_0102 1069326 1071597 ZH 哎 我 可以 问你 问题 的 吗 为什么
+UI29FAZ_0102 1072095 1072755 ZH 哦
+UI29FAZ_0102 1073171 1075140 EN 
+UI29FAZ_0102 1075140 1077547 CS 啊 so far 还好 咯
+UI29FAZ_0102 1077547 1078752 ZH 还 可以 啦
+UI29FAZ_0102 1078752 1082244 CS 虽然 是 有时候 做 很 routine 的 东西 但是 还 可以 咯
+UI29FAZ_0102 1082244 1086240 CS 因为 最 开心 的 就是 还 可以 在 本地 做工 吗 不用 travel
+UI29FAZ_0102 1086240 1089038 CS 之前 我 在 kulim 的 时候 我 每天 都要 来回
+UI29FAZ_0102 1090603 1093633 CS 哦 我 弟弟 geng 哦 他 哼
+UI29FAZ_0102 1093633 1103629 CS 他 本来 跟我 同样 公司 的 吗 then 过后 就 换去 另外 一间 公司 咯 after 我 走了 过后 他 去 另外 一间 公司 迟我 大概 啊 四五个 月 这样 啦 去 另外 一间 公司
+UI29FAZ_0102 1103629 1111149 CS 但是 他 做满 一年 罢了 哦 他 现在 已经 是 在 别间 公司 了 你 知道 他 currently 在 哪里 吗 他 currently 在 u. s. 他 十月中 才 回来
+UI29FAZ_0102 1111149 1118787 CS 去 两个月半 因为 他的 是 star company ah then 他们 要 train 他 吗 他 就 过去 咯 在 那边 两个月半
+UI29FAZ_0102 1119269 1121126 CS i. t. 啊 还是 i. t.
+UI29FAZ_0102 1121126 1125289 CS 也是 support 那些 manufacturing 的 东西 咯 因为 他的 background 也是 manufacturing mah
+UI29FAZ_0102 1129830 1133814 CS 我 觉得 是 吧 so far 他 quite okay lor 因为
+UI29FAZ_0102 1133814 1142475 CS 如果 based on 我的 experience 上次 跟 他的 experience 上次 来 equivalence 那个 salary 的 话 哦 哇 他 高过 我 很多 耶 应该
+UI29FAZ_0102 1146895 1149251 ZH 哦 只是 看你 要不要 咯
+UI29FAZ_0102 1149251 1152996 ZH 不能 啦 不能 啦 有心无力 啊 现在
+UI29FAZ_0102 1152996 1154773 ZH 太 懒惰 了
+UI29FAZ_0102 1156063 1165110 CS 不过 有时候 也是 一些 concern ah 我 不知道 啦 可能 malaysia wise oh 当 你到 一个 年龄 的 时候 for 一些 理由 哦 他们 一定 会有 一些 concern on 你的 年龄 啊 然后
+UI29FAZ_0102 1165110 1170138 ZH 他 觉得 你 没有 这样 的 冲劲 啦 又有 孩子 的话 他们 觉得 哇 可能 你 没有 这样子 的 拼劲 然后
+UI29FAZ_0102 1170138 1172051 ZH 会的 咯 有 咯 会有 一些
+UI29FAZ_0102 1172051 1177300 CS 哈 还有 h 不是 h.r.可能 老板 吗 老板 请你 的 时候 他们 有看 的 吗 这样子 咯
+UI29FAZ_0102 1177300 1179823 CS 有的 会有 一个 concern 的 咯 这样子
+UI29FAZ_0102 1182029 1183731 ZH 哦 我 老板 啊
+UI29FAZ_0102 1183731 1187034 ZH 我 有 啦 因为 他 没有 家庭 吗
+UI29FAZ_0102 1188066 1199091 CS 有 不一样 的 他会 他 体会 不到 okay 你要 家庭 你要 怎样 他 也是 觉得 像 一个 所以 你 不能 categorize 他 也是 哦 唉 也 这样 男的 这样子 不是 很 kiam siap

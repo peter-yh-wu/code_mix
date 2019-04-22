@@ -1,0 +1,525 @@
+40NC58FAY_0101 0 9075 CS 哎你的 毕业 旅~ 旅行 哦 你 有没有 觉得 有 什么 什么 rebel 的
+40NC58FAY_0101 9075 21200 ZH  事情 吗 （ppo) 哦 你们 是 没有
+40NC58FAY_0101 21200 23660 CS 一个 tour 这样 子 带 你们 去 的 啦
+40NC58FAY_0101 35914 37894 ZH 哇
+40NC58FAY_0101 42762 46997 EN oh i see oh
+40NC58FAY_0101 50036 50918 EN ah
+40NC58FAY_0101 65790 66749 EN oh
+40NC58FAY_0101 67083 86639 CS then 是你们 rent 的啦 那个 car 哦 哦 没有讲什么其他的
+40NC58FAY_0101 86639 113032 ZH 哦 嗯 嗯 然后 
+40NC58FAY_0101 113032 134595 CS 哦 so how 哦 so before that 你知道你是  不能喝 alcohol 吗
+40NC58FAY_0101 134595 147436 CS 哦 so 那个  原因 是 因为 you drink too much 啊 哦 so you like to drink alcohol
+40NC58FAY_0101 152601 154055 ZH 就
+40NC58FAY_0101 159067 164753 CS 不会 你 不会 觉得 那 alcohol a little bit 就是 
+40NC58FAY_0101 164753 183563 CS very bitter 么 哦  哦 i see  哦 i also don't like 吃苦瓜 but 苦瓜 is good for health
+40NC58FAY_0101 183563 196266 CS 这样子 你 喝 alcohol hor 就你 有没有 啊 就你 醉的 时候 你 有没有 意识 这样 哦 i'm drunk 这样子
+40NC58FAY_0101 205237 213506 EN oh i see en my trip ah
+40NC58FAY_0101 213506 220080 ZH 啊 因为我们是 我们 是一整班的人四十个人一起 去
+40NC58FAY_0101 220080 223090 CS 找 一个 tour guide 这个 样子 带 我们 去
+40NC58FAY_0101 223090 228076 CS so 其实 去的 那些 地方 啊 其实 就
+40NC58FAY_0101 228076 232278 CS 怎么讲 嘞 其实 对 你们 来讲 是很 common 的
+40NC58FAY_0101 232278 239050 CS 因 我们 都是 去 k. l. 啊 我们 没有 去到 penang 啦 because too far away already
+40NC58FAY_0101 239050 242490 CS so 去 k. l. 最 impressive 的 东西 hor 就是
+40NC58FAY_0101 242490 257956 CS 他的 shopping centre loh very cheap ah 就 啊 就 cheaper than johor 的啦 嗯
+40NC58FAY_0101 257956 268449 CS 然后 我们 还有 去 那个 sunway lagoon loh but 我 不 喜欢 玩 水啦 所以 我们 就在 那里 聊 gossip 咯 我跟 我 几个 friend
+40NC58FAY_0101 268449 280380 CS no no  没有 因为 我 很怕 那些 东西
+40NC58FAY_0101 280380 282330 CS 哈 我 不懂 那里 有 ice skating
+40NC58FAY_0101 282330 296665 CS sunway pyramid ah i mean sunway lagoon oh i forgot already  oh because 没有 人 陪我 嘛
+40NC58FAY_0101 296665 308760 CS 然后 我 prefer gossiping mah  就 几个 女性 朋友 一起 嘛
+40NC58FAY_0101 308760 311430 CS 就 你 最后 一次 gossiping 是 几时
+40NC58FAY_0101 311430 331197 CS wow so 你 聊过 three hours 的 几 多少个 哦
+40NC58FAY_0101 331197 346816 CS 哦  哦 在找啦 再找 你的 朋友 出来 gossiping 啦 就
+40NC58FAY_0101 353219 354190 ZH 嗯
+40NC58FAY_0101 370950 392032 CS 找 singapore friends 啦 哦
+40NC58FAY_0101 392032 411583 CS 嗯 毫升 哦 he's the one 从 russia 回来啊 哦
+40NC58FAY_0101 411583 427795 ZH 嗯 他 哦
+40NC58FAY_0101 435430 438170 CS but 他 i think 他 要 来 新加坡 找 你
+40NC58FAY_0101 438170 450868 CS back already 啊 哦 这样子 他在 russia hor 有没有 在
+40NC58FAY_0101 450868 460045 ZH 遇到 那些 比较 奇怪的 东西 因为 很多 嘛 那边  
+40NC58FAY_0101 460045 476064 CS 哦 所以 你 有 几个 friend 都是 去 russia further study right oh
+40NC58FAY_0101 476064 492615 CS but at least 还有 一些 啦
+40NC58FAY_0101 492615 511710 EN aiya better than nothing mah en en en
+40NC58FAY_0101 511710 536027 EN   oh
+40NC58FAY_0101 536027 557350 CS but 久久 一次 ok what 嗯
+40NC58FAY_0101 557350 560990 CS 这样 你 通常 都是 一个人 自己 study 的 么
+40NC58FAY_0101 560990 578298 EN ah oh you prefer studying alone lah oh so lonely ah
+40NC58FAY_0101 578298 605413 CS 如果 叫你 跟 你的 friend 一起 study leh 一起 就 跟 你的 friend 一起
+40NC58FAY_0101 605413 632650 CS en that's fine 这样 你 觉得 你的 就是 
+40NC58FAY_0101 632650 636400 CS 你 读书 的 schedule 啊 你 觉得 okay 吗
+40NC58FAY_0101 636400 651109 ZH 啊 哦 嗯
+40NC58FAY_0101 651109 673792 CS headache ah  after that 还有 we last year practice right oh
+40NC58FAY_0101 673792 692115 CS 哦 这样 so 你很 喜欢 就是 乐器 right harmonica harmonica band
+40NC58FAY_0101 692115 712419 EN en some instrument ah
+40NC58FAY_0101 712419 736280 EN en oh en en i can tell
+40NC58FAY_0101 736280 753355 CS break oh concert oh 我 也是 有去 嘞 我 觉得 就 其实 啊 不错 啦 因为 那个 气氛 啊
+40NC58FAY_0101 753355 776940 CS 是在 一个 theatre 里面嘛 就 觉得 很~ 很 perfect 这样子啊 很 那种 feel 啊
+40NC58FAY_0101 776940 778970 CS but 我们 sense 不到
+40NC58FAY_0101 778970 793230 ZH 哦 因为 我对 那些
+40NC58FAY_0101 793230 798670 CS 你们 吹 的 那些 歌 啊 我 不 familiar mah so 有 一些 都是 我 没有 听 过 的
+40NC58FAY_0101 798670 814197 CS but 我是 喜欢 你们 的 那个 乳燕 啊 那个 little nyonya 的 主题曲 就我 觉得 他的 那个 melody 很 好听 这样 你们 有 吹错 吗
+40NC58FAY_0101 814197 838989 CS oh dance with then oh oh 瑶族啊 哦
+40NC58FAY_0101 838989 847860 CS 嗯 嗯 嗯 这样子 你们的 那个 啊 口琴啊 那个 instrument ah
+40NC58FAY_0101 847860 849830 CS 不是 有 很多 个 holes loh
+40NC58FAY_0101 849830 864185 CS 这样 你们 要 怎么 去 make sure 你们 是 有 吹对 那个 holes 这样子的 哦
+40NC58FAY_0101 864185 885426 CS 啊 哦 哦 but 有 多少个 holes ah all together
+40NC58FAY_0101 885426 910198 CS 这样 你们 hor 就 你们 在 吹的 时候 hor 你们的 另外 一只 手啊 还有 一直 在 按啊 press 那个 button ah what is that ah
+40NC58FAY_0101 910198 924571 CS 嗯 哦 就会 比较 高音啦 哦 i see 这样 会不会 就是
+40NC58FAY_0101 924571 940572 CS 啊 就是 来不及啊 你 又要 吹 又要 press oh practice makes perfect lah oh
+40NC58FAY_0101 940572 963527 CS 嗯 嗯 嗯 可以 concentrate on study 了啦
+40NC58FAY_0101 963527 991268 CS 就 什么 什么 point 嗯 嗯
+40NC58FAY_0101 991268 1015840 ZH 就 你还 哦 嗯
+40NC58FAY_0101 1015840 1019150 CS but i think 你们 常常 gather 在 一起 嘛
+40NC58FAY_0101 1019150 1038875 CS 嗯 嗯 yeah yeah
+40NC58FAY_0101 1038875 1042470 CS he told me before he said 要有 一个
+40NC58FAY_0101 1042470 1046450 CS 为了 一个 target 而 去 努力 那个 事情 这样 子 会 很 辛苦
+40NC58FAY_0101 1046450 1062109 CS 他 只是 要 怡情养性  yeah
+40NC58FAY_0101 1062109 1077679 CS 他们 没有 interactions 的么 你们 之间 没有 玩 一些 games ah oh
+40NC58FAY_0101 1077679 1100224 CS 哦 really 这样 他是 也是 undergrad lah undergraduate ohoh 嗯 oh
+40NC58FAY_0101 1100224 1129439 CS but 你们的 leader 没有 就 跟他 讲 一下 么 哦 他 只是 conduct 而已 是吗 嗯
+40NC58FAY_0101 1129439 1155730 CS 哦 i see 就是 表演的 啊
+40NC58FAY_0101 1155730 1182376 CS but i think 你们 可以 自己 online 找 一些 谱 来 practice 的 provided you 你有 time 啦 哦 是
+40NC58FAY_0101 1182376 1186100 ZH 嗯
+40NC58FAY_0101 1186100 1190940 CS 就 你们 表演 的 时候 有 一些 的 那个 比较 big size 的 那些 instrument ah what is that ah
+40NC58FAY_0101 1190940 1205888 CS bass 也是 属于 harmonica ah
+40NC58FAY_0101 1205888 1225578 CS 这样子 hor 那个 普通的 is it 嗯
+40NC58FAY_0101 1225578 1238394 CS 光辉 是 bass 吗 哦
+40NC58FAY_0101 1238394 1243812 CS 你们 d harmonica 做不到 bass 么 普通的
+40NC58FAY_0101 1243812 1249686 CS 那个 instrument 啊 你 好像 你 吹的 那种 你讲 most common 的啊
+40NC58FAY_0101 1249686 1266819 CS 不可以 做到 bass 的啊 哦 学 bass
+40NC58FAY_0101 1266819 1292433 CS 这样 hor 他是 有 拿住 一粒 东西 在 那里 摇 摇 摇 的啊 一直 shake 那个的啊 那个 是 什么 percussion 嗯
+40NC58FAY_0101 1292433 1302002 CS 你们 还有 piano right 有 piano
+40NC58FAY_0101 1302002 1308960 CS but 我 听不出 那个  piano 的 sounds leh 然后 我 一个 friend 跟我 讲啦 hor 是 因为
+40NC58FAY_0101 1308960 1318760 CS 那个 piano 的 声音 已经 很 successfully 融合 进 你们的 声音 so 我们 听 不到 是 正常 的 should be a normal
+40NC58FAY_0101 1318760 1342927 CS 哦 因为 听 不 就 他有 microphone 吗 piano 嗯 嗯 嗯
+40NC58FAY_0101 1342927 1362770 CS 是么 哦 but pian~ 那个 pianist 有 看到 么 啊 他 不是 很 busy 看谱 啊 哦
+40NC58FAY_0101 1362770 1366110 CS 我 觉得 你们的 conductor hor 他的 动作 很好 看 嘞
+40NC58FAY_0101 1366110 1367610 ZH 就 其实 哦
+40NC58FAY_0101 1367610 1370940 CS 那 整个 concert 我 都是 很 sleepy 的
+40NC58FAY_0101 1370940 1377723 CS but hor 那个 conductor hor 就 就我 之前 也是 有 看过 一些
+40NC58FAY_0101 1377723 1387243 CS 也是 类似 concert 的 东西 他们 conductor 就 也 没有 就 这么 那么 多 花俏 那些 动作 啊 你们 conductor 真的 是 很experienced
+40NC58FAY_0101 1387243 1412180 CS 嗯 but 你们 还是 吹到 很好啦 我 没有 睡着 啦 嗯 嗯 嗯 嗯 fransco ah
+40NC58FAY_0101 1412180 1424830 CS yeah 我 那时候 也是 很 奇怪 eight hundred ah 就 from malaysia ah 他们 是
+40NC58FAY_0101 1424830 1427240 CS 他们 是 世界 的 champion
+40NC58FAY_0101 1427240 1439730 CS yeah 太 哦
+40NC58FAY_0101 1439730 1461654 CS 嗯 嗯 我有 看到 你们 在 out 那边
+40NC58FAY_0101 1461654 1479894 CS 哦 对 所以 你 就叫 他们 很 confident 自己 也 不会 出 mistake oh  嗯
+40NC58FAY_0101 1479894 1499170 ZH  嗯
+40NC58FAY_0101 1499170 1502050 CS but 那天 我 看到 你们 都 穿 到 很 smart leh
+40NC58FAY_0101 1502050 1517445 CS 你们 有 那些 你们 tie 有 different color ah 没有 没有 i mean 那个 那个different color 的 tie 啊 有 是 什么 意思喔 有 yellow 啊 有 red color 啊 有green 啊 blue 啊
+40NC58FAY_0101 1517445 1533749 ZH 哦 一高 二高 那个啊
+40NC58FAY_0101 1533749 1552022 CS 嗯 哇 嗯 嗯 对咯 都很 什么 啊 都很 standardized 你们的 你们的 attire 很 formal 一下
+40NC58FAY_0101 1552022 1565430 ZH 哦
+40NC58FAY_0101 1565430 1567440 CS 嗯 我也 是 有 填 feedback form
+40NC58FAY_0101 1567440 1593104 ZH 嗯
+40NC58FAY_0101 1593104 1616123 EN that's good en
+40NC58FAY_0101 1616123 1635161 CS so 那个 frequency 要 多少 why (er)
+40NC58FAY_0101 1635161 1653091 CS normally 啊 哦 所以 你们 都是 senior 教 senior
+40NC58FAY_0101 1653091 1674959 EN practice loh en
+40NC58FAY_0101 1674959 1690003 EN en i think so too
+40NC58FAY_0101 1690003 1708762 CS 有 什么 common 的吗 嗯
+40NC58FAY_0101 1708762 1723237 CS 就你 对 这 整个 整个 你们的 performance 有 什么 任何的 common oh i see
+40NC58FAY_0101 1723237 1733053 ZH 哎然后 哦 你 来到 大学 啊 你 开始 第一次 是 参加 什么 也是 就是 这个啊
+40NC58FAY_0101 1733053 1740952 CS harmonica band lah ah 你 一 来到 university ah 你 参加 c. c. a. ah
+40NC58FAY_0101 1740952 1757150 CS 哦 哦 我 那时候 是 参加 folk dance ah 然后 我们 是 有 一个 camp 这样子的
+40NC58FAY_0101 1757150 1763920 CS 然后 我们 每个 friday night after 我们的 lesson 我们 就会 去 practice loh 那些 舞蹈
+40NC58FAY_0101 1763920 1773269 CS 然后 那些 舞蹈 都是 senior 教 下来的 然后 还有 一次 我是 好像 印度舞啊 那时候 在 新春联欢 上面 有 看过嘛
+40NC58FAY_0101 1773269 1778622 ZH 就是 那时候 你 问我 是 什么 歌啊 我 就讲 好像 是 印度歌啊
+40NC58FAY_0101 1778622 1787382 CS 那时候 哦 其实 是 一个叫 如泉的 senior 从 sarawak 学了 来 教 我们的 就很 特别 啊 very special
+40NC58FAY_0101 1787382 1796244 CS 然后 哦 我们 每个 礼拜 也是 也是 像 你们 这样 有 练习 but 我们 没有 一个 好像 表演 这样子啦
+40NC58FAY_0101 1796244 1810977 CS 然后 我们 啊 我们 那~ 那时候 我是 舞技嘛 舞蹈技术 我也 不懂 为什么 我的 leader 会 选我 做 舞技啦 其实 我是 一个 不大会 跳舞的 人啦 but 我就 很 enjoy loh 我们 每个
+40NC58FAY_0101 1810977 1818034 CS 拜六 早上 都 会有 练习 一些 舞 然后 拜五 晚上 就 等到 next friday 的 时候 我们 在
+40NC58FAY_0101 1818034 1826840 CS 教 我们的 juniors 那些 新的 或者 那些 新的 members loh 然后 我们 还有 一个 camp 就是 专门 来 学 跳舞的
+40NC58FAY_0101 1826840 1831910 CS 我们 有一个 就 请 外面 的 那些 instructor 进来 教 我们
+40NC58FAY_0101 1831910 1838710 ZH 啊
+40NC58FAY_0101 1838710 1843170 CS 啊 我们 也是 一个 老师 啊 老师 是 in charge of fridays 的 activities 的
+40NC58FAY_0101 1843170 1850218 CS 然后 我们 是学 比较 different 的 因为 我们 老师 教的 都是 folk dance 啊 都是 那种 土风舞 那些
+40NC58FAY_0101 1850218 1854250 CS 我们 就有 学 比较 不一样 好像 modern jazz ah
+40NC58FAY_0101 1854250 1861380 CS 就学 一点点 啦 因为 我们 也 没有 那个 standard 去 学 那些 我们 都是 很 relax 的 我们 学 的 舞蹈
+40NC58FAY_0101 1861380 1875520 CS jazz ah 不一样 就 我们 modern jazz 他们 是 比较 大型 的就
+40NC58FAY_0101 1875520 1880800 CS 我们的 leader 有 讲 过 如果 我们的 members hor 谁 想 要 去 join modern jazz
+40NC58FAY_0101 1880800 1894668 CS 他们 可以 来 我们的 folk dance group 里面 去 练 一些 比较 basic 的 那些 skills loh 过后 因为 modern jazz 是 要 interview 的
+40NC58FAY_0101 1894668 1905775 CS 也 不可以 这样 讲啦 因为 我们的 那些 我们的 风格 是 很 不一样的嘛 然后 就 and modren jazz for modern jazz right 他们 是 要去
+40NC58FAY_0101 1905775 1910332 CS interview 就 他们 hor 会有 一个 class 这样子 给 那些
+40NC58FAY_0101 1910332 1922687 CS who want to join modern jazz 的人 去 practice practice 过后他 interview 你 你就 跳 那时候 他们 教 你的 那只 舞蹈 出来 那时候 蛮香 志明 也是 有去啊
+40NC58FAY_0101 1922687 1935516 CS 去 练习 每次 练到 很迟 回来 然后 其实 我 觉得 他们 练得 很 不错 but 他们 是 很 strict 啦 所以 他们的 standard 会 比较 高 而 for 我们 right 我们 是 没有 就是
+40NC58FAY_0101 1935516 1948958 CS 要 interview 谁要 进 就 进啦 我们 也 没有 很 规定 讲 每 一个 拜五 每 一个 member 都要 来 因为 我们 没有 一个 target 讲 我们 要去 表演 这样子
+40NC58FAY_0101 1948958 1961140 CS 嗯 嗯 but 你们 至少 你们 是 一个团嘛
+40NC58FAY_0101 1961140 1962540 CS 我们 只是 一个 group
+40NC58FAY_0101 1962540 1980826 CS 嗯 嗯 嗯 然后 我们的 camp ah 也是 很少 人 来 but
+40NC58FAY_0101 1980826 1989332 CS for 我啦 因为 那时候 我 是 main-com mah 我是 做 programmer 然后 我们的 dance instructor 就有 教 那些 我们 也 一起 下去 跳
+40NC58FAY_0101 1989332 1994768 ZH 然后 是 觉得 那些 舞蹈 真的 很 可爱啦 也很 好玩
+40NC58FAY_0101 1994768 1998898 CS 然后 也不 会 很 difficult ah 也 不会 让 我们 觉得 很 stress ah
+40NC58FAY_0101 1998898 2005434 CS 因为 我们 不像 其他 舞蹈 很 complicated 我们 只是 比较 simple simple 的
+40NC58FAY_0101 2005434 2020421 ZH 嗯 然后 我们 还有 一些 是 双人舞啦 两个人 一起 跳的 啊 就 (呃) 是不是 有 一点 浪漫啦 因为 他的 歌 很 好听 嗯
+40NC58FAY_0101 2020421 2036085 CS yeah yeah 就 but 我 觉得 也 没有 怎么样 谁
+40NC58FAY_0101 2036085 2044219 CS  谁 适合 谁 不 适合啦 就 其实 去 elect~ election 的 那些人 hor 就 只有 他 一个 right
+40NC58FAY_0101 2044219 2049089 CS 就 只有 他 最 有心 要 做 嘛 既然 他 要 做 我们 当然 是 support 他 啦
+40NC58FAY_0101 2049089 2066569 CS but 他是 比较 inexperienced lah ah斗 也是 有 一直 在 guide 住啦 just the at the beginning mah 是 这样 right 然后 那时候 (er)
+40NC58FAY_0101 2066569 2072079 CS 就 第一次 activities 其实 我 觉得 是 新 一批 的 dance instructor 是 不错
+40NC58FAY_0101 2072079 2078376 CS 因为 他们 都 很会 memorize 那些 舞步 那时候 过后 after activity 我 就有 问 郭靖
+40NC58FAY_0101 2078376 2087794 CS 哎 郭靖啊 之前 你有 教过 那些 dance dance instructor 的 sub-com 有没有 学过 那些 舞 他讲 哦 没有 我 他们 自己 我 刚教 他们 就 会的了
+40NC58FAY_0101 2087794 2094949 CS 就是 郭靖 他是 有 一点 nervous lah 他 只是  可能 第一次 在 这么多 人 面前 讲话
+40NC58FAY_0101 2094949 2096809 CS but 他是 有 那个 heart 去 做
+40NC58FAY_0101 2096809 2112010 CS 嗯 so 然后 你 觉得 嘞 你是 有听 人家 这样讲啦
+40NC58FAY_0101 2112010 2125073 CS dance group 的人啊 因为啊 斗 他是 比较 会 跳舞 又很 cute mah en
+40NC58FAY_0101 2125073 2144592 CS 嗯  没有喔 我们 只是 一个 小小的 group 大家 来 只是 relax 而已 有 我们 没有 很 stress 讲要 做 一些 什么 很大的 东西 出来
+40NC58FAY_0101 2144592 2160731 CS 嗯 嗯 but 我们 是 有 只是 两个 member
+40NC58FAY_0101 2160731 2171213 CS 两个人 来 join 我们的 camp but 我们 是有 找到 五六个 sub-com lah so plus main-com altogether 大概 有 二十多个啦
+40NC58FAY_0101 2171213 2187782 CS ah seven marks ah 对啊 对啊
+40NC58FAY_0101 2187782 2201636 CS but 他是 一个 special event mah 就 其实 我们 也是 考虑 要 cancel 的 就 其实 hor past years hor 也是 有 这种 情况 发生
+40NC58FAY_0101 2201636 2209449 CS so 我们 就 可能 那时候 去年 是讲 可能 我们 连 dance group 都 没有 因为 太少 人 来了 but
+40NC58FAY_0101 2209449 2214339 CS 我 不懂 今年 还 会不会 有 camp lah 要 depends on 那个 committee 要 怎样 决定 啦
+40NC58FAY_0101 2214339 2229643 CS 嗯 but 他的 存在 还是 有 他的 意义 啦 就 散分啦
+40NC58FAY_0101 2229643 2248042 CS but 我们 好像 我 我 做 m. f. m. 他 也是 很 一个 很 big 的 event ah 也是 五分 才 啊 嗯 嗯
+40NC58FAY_0101 2248042 2260320 CS seven points 这样 有 什么 活动 是 两三天 我们的 camp 是 三天的嘞
+40NC58FAY_0101 2260320 2273431 CS 嗯 才 three hours yeah 嗯 这样子 hor
+40NC58FAY_0101 2273431 2278321 CS 这样 s. a. o. 给 的 那些 points lah 这样 就 很难 去 decide 了嘞
+40NC58FAY_0101 2278321 2294630 EN ah en dance camp en yeah
+40NC58FAY_0101 2294630 2315339 CS 大概 十二 这样 嗯 嗯 but 我们
+40NC58FAY_0101 2315339 2331428 CS 我们 之前的 preparation 也 不会 差到 也 不会 少啊 我们 很 我们 也是 要 准备 很~ 很多 也是 要 put a lot of effort mah so 好像 有人 去 join 很大的 event but 他 可以 就
+40NC58FAY_0101 2331428 2352067 CS 做 很少 东西 就 所以 就 很难 去 定夺啦 我 觉得 是 应该啦 都是 一个 event
+40NC58FAY_0101 2352067 2378030 CS 嗯 but 这是 depends on committee 的 决定 嘛 就 可能 this year 就 may cancel 了啦 嗯 嗯 嗯 嗯
+40NC58FAY_0101 2381506 2385056 CS but i think 那个 points 不是 一个 很大 的 problem lah
+40NC58FAY_0101 2385056 2391096 CS for me lah 我 可以 拿 一个 三四个 five points
+40NC58FAY_0101 2391096 2393226 CS 其实 others 也 一样
+40NC58FAY_0101 2393226 2406997 CS 他们 都 不懂 yeah 你 可以 这样 讲 是 啊
+40NC58FAY_0101 2406997 2418897 CS but junior just a small portion 而已嘛 seniors 比较 多嘛 没 没有 我讲 first year junior 只有first year 嘛 senior 有 second third final
+40NC58FAY_0101 2418897 2427320 CS 只是 一个 小小的 portion 而已啦 for 凯华 right first year 他 也是 拿了 三个 five points 啊
+40NC58FAY_0101 2427320 2436687 CS so 其实 有时候 不是 讲 就我 觉得 不是 讲 那个 东西 少 committee 没有 做 很多 事情 就要 cancel 掉 那个 event
+40NC58FAY_0101 2436687 2458618 ZH 啊 你是 讲 不 值得 嗯 嗯 嗯
+40NC58FAY_0101 2458618 2472966 CS 嗯 你 就 你 知道 为什么 吗 因为 for 第一次 我们的 activities 其~ 其实 是有 很多人 来 but 后来 他们 就
+40NC58FAY_0101 2472966 2482688 CS 因为 大家 都 不会 跳舞 我们 不像 你们 band 一样 你 我 不像 我 不是 要 你们 学 harmmonica 你们 harmonica 学久 就好 我们 是要 运用 到 我们的 body 的 四肢
+40NC58FAY_0101 2482688 2491193 CS 头啊 手啊 脚啊 你们 只是 用 那些 skills 其实 这 两个 是 很 different 的 东西 就 有些人 hor 跳舞 是 跳不会的
+40NC58FAY_0101 2491193 2510485 CS 有些人 就 不会 跳舞 but 至少 你们 有 那些 东西 啊
+40NC58FAY_0101 2510485 2533536 CS 嗯 嗯 他们 都是 在 learning 的 东西
+40NC58FAY_0101 2533536 2553203 CS 是 是要 take time but 有一些 东西 就是 天生的嘛 你 一 生出来 你的 四肢 都是 硬硬 这样子的 就 很难 去 
+40NC58FAY_0101 2555055 2568105 CS but 至少 你的 是 可以 practice 的嘛 dance 的 这种 东西 所以 为什么 那些 dancer 他们 可以 就 这样 出名 那些 singerah 这些 都是 有 一些 就是 天生的 东西 就 hard to control ah
+40NC58FAY_0101 2568105 2575193 CS 啊 so 我们的 members 其实 是 很少 罢了 所以 可是 最近 就
+40NC58FAY_0101 2575193 2589675 CS (呃) 现在 是 term start 就 一开始 就 很多人 进来啦 我就 喜欢 可以 keep going lah 这种 情况 这样子 maybehor我们的 camp 还 可以 继续啦 这样 会 比较多 人 嗯 嗯
+40NC58FAY_0101 2589675 2609663 CS 嗯 嗯 activities 我 觉得 是 很多人 是 busy lah
+40NC58FAY_0101 2609663 2617181 CS 因为 大家 都有 自己的 commitment 要 complete mah ah 就 for 你们的 band right
+40NC58FAY_0101 2617181 2626295 CS 你们 是 有 一直 是 你们的 practice 是 一直 要 慢 慢 学 学 学 我们是 今天 一堂课 教 一只舞
+40NC58FAY_0101 2626295 2632479 CS 然后 就 finish 了 我们 下一次 又 like 因为 three hours mah 一
+40NC58FAY_0101 2632479 2636879 CS 一个 four minutes 的 歌 当然 是 一定 是 学 得 完 的
+40NC58FAY_0101 2636879 2643511 CS 有 有 有从 练习啦 but 我们 会 一直 renew
+40NC58FAY_0101 2643511 2646381 CS 你们 是 一首 歌 也是 教 一个 session 啊
+40NC58FAY_0101 2646381 2657398 ZH 哦 嗯
+40NC58FAY_0101 2659068 2673761 CS 就 mass lah mass 的啦 哦 因为 其实 有 有 一些 members 是 反应啦
+40NC58FAY_0101 2673761 2676571 CS 老师 教 的 舞 太 old fashion 了 啊
+40NC58FAY_0101 2676571 2688339 CS she ah yeah they doesn't they don't like ah so 我们 也 不懂 要 怎么 样 因为 这个 老师哦 我们 是 老师 已经 是 教 about
+40NC58FAY_0101 2688339 2702669 CS ten years above 了 是 是啊 我们的 leader 应该 是 有 跟他 谈过 这个 问题 i think lah 我 没有 特意 去问啦
+40NC58FAY_0101 2702669 2714643 CS 嗯 嗯 老师 还 没有 来过 我们的 activities
+40NC58FAY_0101 2714643 2719251 ZH 就 可能 是 一开始 吧 我们 要学 一些
+40NC58FAY_0101 2719251 2731758 CS 啊 两次咯 都是 我们的 leader 都在 教 一些 我们 senior 的 教 下来的
+40NC58FAY_0101 2731758 2751403 CS 嗯 嗯 然后 limit ah
+40NC58FAY_0101 2751403 2771713 CS 你们的 harmo~ yeah 嗯
+40NC58FAY_0101 2771713 2787447 CS 嗯 哦 这样子 你们的 harmo~ group 是有 你们 你们 是有 自己的 main committee 的 right 是 那时候 我看 那个booklet 的 时候
+40NC58FAY_0101 2787447 2795947 CS 你们 是 啊 哦 是 那个啦 i thought 你们的 band 有 一个
+40NC58FAY_0101 2795947 2810921 ZH 哦 嗯 嗯 哦
+40NC58FAY_0101 2810921 2813271 CS 你们 自己 band 里面 也有 main committee lah
+40NC58FAY_0101 2813271 2830460 CS 我们 没有啊 我们 dance group 就 只有 一个 main-com 而已嘛 那个 leader 你们 哦 哦
+40NC58FAY_0101 2830460 2840904 ZH 嗯 嗯
+40NC58FAY_0101 2845390 2849160 CS 哦 对 哟 chinese society 他 也是 有一个 event 要 来了 right
+40NC58FAY_0101 2849160 2860789 CS 那个 m. a. f. 的 啊 中秋节啊 mid-autumn festival 啊对啦 but 我们 是 different portfolio mah
+40NC58FAY_0101 2860789 2870460 CS 我是 secretary 跟 financial controller mah but 我的 是 比较 对 那些 admin work 的 东西 你的 portfolio 是 比较
+40NC58FAY_0101 2870460 2881808 ZH 就我 我 做的 就我 只是 做 那些 啊
+40NC58FAY_0101 2881808 2892745 CS after that 就我 还有 email 你们 讲 就 我们 有 coming 的 meeting lah meeting then 要 time date
+40NC58FAY_0101 2892745 2904878 CS 还有 first set 我是 教 lock punk 帮我 借 那个 first aid kit 你是 讲 找 first aider 还是 借 first aid kit
+40NC58FAY_0101 2904878 2917408 CS (呃) 没有 佳慧 是讲 不 需要啦 我们的 chair 是讲 不需要啦 就他 来了 也 没有 什么 东西 做 嗯 然后 就 可能 因为
+40NC58FAY_0101 2917408 2925763 CS 啊 我 自己 拿住咯 应该 是 没有 人 injured lah
+40NC58FAY_0101 2925763 2940749 CS 除非 是 给火 烧到啦 我就 不懂啦 应该 要 call ambulance 了咯 how to say
+40NC58FAY_0101 2940749 2960136 CS 会么 maybe 是 比较 严肃 一点啦 but
+40NC58FAY_0101 2960136 2982895 CS 就 不懂 为什么 就 轻松 不 起来咯 嗯 哦 是你 是 以前 meeting 是 不会 有 这种 东西 发生 啊 嗯
+40NC58FAY_0101 2982895 2994876 CS maybe event is coming what so 有 很多 大家 都 东西 做 不好 很 stat oh slack ah
+40NC58FAY_0101 2994876 3009360 CS 可能 他们 都 他们 可能 他们 有做 东西 就 看不到 吧 大家 有 很多 sub-coms mah oh
+40NC58FAY_0101 3009360 3013020 CS 对 噢 我 做 会议 记录 诶 上 一次 的 questions 现在 还 没有 solve
+40NC58FAY_0101 3013020 3023350 CS 啊 chair 讲啦 but chair 他 自己 也是 有 记录的
+40NC58FAY_0101 3023350 3026460 CS 记录 那些 就有 一些 unsolved 的 problem
+40NC58FAY_0101 3026460 3037199 CS 他是 有 记录 然后 我 也是 有 send minutes 给 他 看的 嗯
+40NC58FAY_0101 3037199 3044825 CS 我们的 chair 都讲 哎呀 其实 很少 人 去看 minutes 的 就 其实 我 觉得 就 for
+40NC58FAY_0101 3044825 3051408 CS absent 的 那些 main coms ah 他们 才 可能 可能 会有 机会 去看啦
+40NC58FAY_0101 3051408 3061788 CS 就~ 就 其实 在 那里 大家 也 听起来 maybe 这个 minutes 只是 for 是一种 reference ah for 下一届的 committee loh
+40NC58FAY_0101 3061788 3072003 CS 嗯 然后 其实 大家 也懂 大家 自己 有 什么 东西 没有 做嘛 我 记得的 时候 我 虽然 会说 哦 这个 东西 unsolve
+40NC58FAY_0101 3072003 3081330 CS 然后 还 没有 做好 but 他们 其实 也 没有 人 来看 就 他们 自己 懂的咯 嗯
+40NC58FAY_0101 3081330 3085280 CS 然后 除了 minute 之外 我 还有 做 那些 accounts 的 东西 咯
+40NC58FAY_0101 3085570 3087810 CS 那些 receipt 帮 他们 claim 钱 咯
+40NC58FAY_0101 3087810 3107497 CS 嗯 这样 你 自己的 portfolio 的嘞 嗯
+40NC58FAY_0101 3107497 3126180 CS 嗯 restriction oh 因为
+40NC58FAY_0101 3126180 3136098 CS 因为 他们 啊 因为 可能 以前 有 发生 一些 accident lah 因为 yunan garden 怎么讲 也是 一个 很 pressure 的
+40NC58FAY_0101 3136098 3141520 CS 东西 嘛 那时候 他们 是有 讲过 为什么 不 可以 用 fire 在 那里
+40NC58FAY_0101 3141520 3148200 CS 那 时候 开会 的 时候 有 讲 过 啊 我们的 chair 和 vice 都有 讲 过 为什么 不 可以 用 stove 不 可以 有 fire
+40NC58FAY_0101 3148200 3166883 CS 就他 以前 自己 也 不是 有 做过 这个 event so 他 那时候 是 可以 用 stove 的啦
+40NC58FAY_0101 3166883 3176570 CS 哦 所以 是 嘉华 那时候 做 vice 的 做 main com 的 可以啦
+40NC58FAY_0101 3176570 3179160 CS but i think 他的 sushi 不是 先 pack 好的么
+40NC58FAY_0101 3179160 3189516 CS 哦 camp five 也是 现场 做么
+40NC58FAY_0101 3189516 3199231 CS 哦 他 可能 是 反正 camp five 很 靠近 yunnan garden 嘛 他 可能 在 那里 做好了 再 带来咯 反正 他都 还有 这么 多 workers
+40NC58FAY_0101 3199231 3210927 CS 反正 都 settle 了啦 i think 你的 portfolio food store 了 嗯
+40NC58FAY_0101 3210927 3234510 CS 我 觉得 stage 会 比较 花 时间 他们 还有 drama mah 很少 人 么 那些 啊 啊
+40NC58FAY_0101 3234510 3255503 CS 你有 去 看过 他们 哦 啊 seng 讲啦 啊 seng 去年 也是 有 演 哦
+40NC58FAY_0101 3255503 3275155 CS 哦 这样 他们 录音嘞 那时候 就 只有 六十 percent 录好嘞 嗯 嗯
+40NC58FAY_0101 3275155 3285690 ZH 的 稠状啊 为什么嘞
+40NC58FAY_0101 3285690 3287790 CS 你 去 interview 看 一下 先 啦
+40NC58FAY_0101 3287790 3307446 CS meaningful 啊 而且
+40NC58FAY_0101 3307446 3318480 CS 因为 他 去年 都是 vice 嘛 啊 experience 会 比较 多 啊
+40NC58FAY_0101 3318480 3321503 CS 不然 你 就 run m. a. f. 的 chair lah
+40NC58FAY_0101 3321503 3348910 CS 没有的 去 join 那个 是啦 but main com  but 我 觉得 如果 你要 做 那个 event 的 chair hor
+40NC58FAY_0101 3348910 3353860 CS 如果 你 之前 有 做 过 他的 committee 会 是一个 advantage lah
+40NC58FAY_0101 3353860 3373225 EN en sub-com en
+40NC58FAY_0101 3373225 3397149 CS 嗯 我 也是 不懂 要不要 去 join 我 school 的 sub-com leh 也是 怕 很忙 嗯
+40NC58FAY_0101 3397149 3417535 CS  因为 我 又做 那个 economics society 的那个 financial controller 然后 but 我有 一个 special event 是 什么 leadership trip to hong-kong 的 嗯
+40NC58FAY_0101 3417535 3428660 CS 我们 是 十二月 那个 那个 project
+40NC58FAY_0101 3428660 3430840 CS 都 不懂 是不是 一定要 去 hong-kong
+40NC58FAY_0101 3430840 3453592 CS 嗯 you are right oh 还是 叫我 set 一个 objective 给他 啊  嗯  这样子
+40NC58FAY_0101 3453592 3466573 CS 你 去年 也是 你 school 的 sub-com right 然后 你 今年 也是 嘛 然后 你~ 你会 觉得 sport 会比 去年 忙啦 sports sub-com 会比 social 来得忙
+40NC58FAY_0101 3466573 3484510 CS i. s. g. 是 什么 去年嘞 是谁 主办 今年 不是
+40NC58FAY_0101 3484510 3502814 CS i think 只是 one or two week only mah one month 么 weeks ah huh
+40NC58FAY_0101 3502814 3528884 ZH 每天 都是 在 哦
+40NC58FAY_0101 3528884 3552441 CS  social ah  对咯 就
+40NC58FAY_0101 3552441 3565750 CS 面试 那个 面试 你的 人 也是 同样 啦 same person ah oh 他是 main-com oh 他会 记得 你么
+40NC58FAY_0101 3565750 3568610 CS 噢 对 hor 你 都是 有 在 他的 shortlist 里面
+40NC58FAY_0101 3568610 3591371 CS main com ah en really ah en 做么 你的 你的 main com 会 懂的
+40NC58FAY_0101 3591371 3610428 CS 啊 sport 的 main-com 他会 懂 有 开会啊 哦 我们的 assistant director hor 但是 已经 投票 选好了 我们 没有的 再去 面试的
+40NC58FAY_0101 3610428 3627061 CS 嗯 就 好像 你们 是 可以 去 recruit ah 做么 你们 会 这样 special 的 就 自己 去 recruit 对咯 对咯
+40NC58FAY_0101 3627061 3645485 CS 因为 他 可以 选 自己 要的 人 嗯 嗯 嗯 i think so
+40NC58FAY_0101 3645485 3667789 EN m. a. e. club ah oh
+40NC58FAY_0101 3667789 3690877 CS c. e. e. singaporean oh 嗯 oh
+40NC58FAY_0101 3690877 3717701 CS 嗯 对啊 对啊 你 朋友 也是 一定 支持 你的 你 朋友 也是 一定 支持 你的 啊 嗯 really 我们 有 去么 我们 去 voting 而已
+40NC58FAY_0101 3717701 3741916 CS 嗯 yeah 啊 的 rally 还有 supporters ah
+40NC58FAY_0101 3741916 3755637 CS 还有 你 可以 做 什么 一些 achievement 出来 啊 嗯 就我 有 听过 我 以前的 lady boss 讲过 啦 就
+40NC58FAY_0101 3755637 3765663 CS 我的 lady boss 啊 以前 我 做工的 lady boss 啊 就 那时候 我们 不是 在 大选咯 我们的 国家 就 我们 lady boss 讲 就有 一个 candidates 啊
+40NC58FAY_0101 3765663 3788992 CS 他 为什么 有 这样 多 人 support 他 是 因为 他 很 smart 他 很会 讲话 他的 speech 很好 嗯 嗯 嗯
+40NC58FAY_0101 3790990 3793110 CS actually 我 没有 听 过 他们的 speech leh
+40NC58FAY_0101 3793110 3816238 CS 嗯 嗯 有 有 有 我有 看过 america 的 啊
+40NC58FAY_0101 3816238 3841593 CS 嗯  maybe 是 一种 culture lah 在 外面的 国家
+40NC58FAY_0101 3841593 3856795 CS 就  也 不懂啦 讲到 投票 right 那时候 我们的 <unk> 自己 不是 有 投票咯 我 也是 有 去嘛 n. u. s.horfor n. u. s. 要投 他们的 main com hor 我 没有 我 没有 勾嘞 因为 我 完全 就 不 认识
+40NC58FAY_0101 3856795 3867833 CS for m. s. 的 right 他们 是 自己 去 recruit 的 so 所以 就 他们的 之前的 commit 会 认识 那些 要 recruit 的 人
+40NC58FAY_0101 3867833 3889188 CS 而且 他们 main com 有 about sixty 我 觉得 就 看要 怎么样 去 depends 啦 it depends 咯 就 个有个的 好啦 个有个的 不好啦 就
+40NC58FAY_0101 3889188 3905017 CS 我 只有 我有 cross 只是 投 那个 反对票 就是 他们的 president 跟 vice 咯
+40NC58FAY_0101 3905017 3923916 CS but 我 觉得 是 useless lah 就我 才 两票 这样子 啊 啊
+40NC58FAY_0101 3923916 3936397 CS yeah 对啊 对啊 but 我 不 完全 认为 就 那时候 我们 有个 member 是 这样 讲啦 虽然
+40NC58FAY_0101 3936397 3947790 CS 我 不认识 n. u. s. 的 main-com main 他们 也 不认识 我们 n. t. u. 的 main-com but 我们 got the rights to choose 我们 要谁 来 帮 我们 做 事情
+40NC58FAY_0101 3947790 3958453 CS 这个 是 一个 point 然后 另外 一个 point 是 just like 我们 过去 那里 我~ 我们 不 完全 是 为了 要 voting 我们 还有 要 开 annual general meeting
+40NC58FAY_0101 3958453 3962780 CS 这是 个 重点 才 顺便 voting maybe 我 不认识 他们 人 then
+40NC58FAY_0101 3962780 3964250 CS 我 就 不要 vote 他们 啦
+40NC58FAY_0101 3964250 3979156 CS 嗯 所以 他们 不 他们 也 可以 选择 不要 vote 所以 我在 算票的 时候 hor 看到 很多 空到 完 but i think it's okay lah
+40NC58FAY_0101 3979156 3987985 CS 就是 都有 就 好像 我 不 认识 n. u. s. ah 就会 有 有时候 n. u. s. 是 blank 的 or n. t. u. 是 blank 的 那个
+40NC58FAY_0101 3987985 3997850 CS form 那里 so 我是 觉得 annual general meeting 是 is a necessary lah because
+40NC58FAY_0101 3997850 4000810 CS 我们 要 understand 对方 在 做 什么 事情
+40NC58FAY_0101 4000810 4021404 EN en en yeah en en
+40NC58FAY_0101 4021404 4031074 CS 因为 我们 是 对 portfolio mah 其实 hor 我 我的 portfoliohor我跟 树龄 讲话 很快 就 讲完 然后 过后 我们 就在 聊天 我们 在 chatting
+40NC58FAY_0101 4031074 4040239 CS 然后啊 programmer ah 我也 他们 也是 在讲嘛 然后 过后 再 join 我们咯 然后 啊tock 先走嘛 然后 一挥 也走嘛 then 我就 走嘛
+40NC58FAY_0101 4040239 4052714 CS 嗯 而且 我们的 president 没有 来 then 我们 president 他 好像 是 s. u. 一个 special event p. l. c. camp 的 chair 他 那时候 去 recruit 他的 main-com
+40NC58FAY_0101 4052714 4066815 CS 就 慧敏啦 慧敏 是 chair 然后 他选 锦标 做 vice 所以 p. l. c. camp 是 他们 两个 他们 去 recruit 那些人 啊
+40NC58FAY_0101 4066815 4080106 CS 啊 p. l. c. 是 under s. u. 的嘛 对咯 是啦 其实 不一定 又要 七分 才 可以 拿到 房间的嘛
+40NC58FAY_0101 4080106 4095803 CS 五分 没有 六分的 five points is enough i think 我都 first round 拿到 plus one extra points lah
+40NC58FAY_0101 4095803 4114612 CS 嘉义 因为 他们 没有 choose to apply with an with a singaporeans mah ah 是嘛  so 如果 要 一定 要 拿到 房 可以 这样子 做嘛
+40NC58FAY_0101 4114612 4136157 CS 不一定啊 我 现在 可以 choose 我 现在的 room mate yeah but i my roomie cannot maybe she 不可以 拿到 房
+40NC58FAY_0101 4136157 4150714 CS but 我有 叫他 去 join 一些 main com i think is it eight tanah-merah 啊 就是
+40NC58FAY_0101 4150714 4161448 CS at least sevens ah because oliver 有 seven or eight leh oliver 在 bedok leh bedok is nearer to n. t. u. than tanah-merah
+40NC58FAY_0101 4161448 4184068 CS 是么  oh i see huh oh 所以 就 我有
+40NC58FAY_0101 4184068 4191500 CS 我有 叫我 roomie 过去 join 那些 活动啦 我有 explain 跟他 听 因为 他 because she's junior mah 然后
+40NC58FAY_0101 4191500 4194450 CS 一 开始 我 就 跟她 讲 这 可以 system 的 东西 她 讲
+40NC58FAY_0101 4194450 4209144 CS 完全 就 没有 人 跟她 讲 那些 东西 她也 不懂 她 自己 distance points 是 多少 有啊有啊 叫她 去 join 她讲 她要 去 join 他 school 的 sub-com 因为 她 有她 friend 在 里面
+40NC58FAY_0101 4209144 4224802 CS jessie but 他们 讲 j. r. j. c. 的 分数 要 decrease leh like 小欣 hor 她有 七分嘞 她 去的 是 j. r. j. c. sub- committee but she get seven points
+40NC58FAY_0101 4224802 4246062 CS 哦 对 对 对 嗯 哦 这样 你们 social 的 sub-commitee 有人 拿 extra points 吗 哦
+40NC58FAY_0101 4246062 4261714 CS 嗯 对咯 对咯 那时候 我去 recruit 我 school 的 sub-committee 他 也是 讲 如果 你 是个 很 active 的 就 觉得 可以 给你 lead 的 整个 group hor 他们 会 给 extra points but 我 连 sub-committee 都 没有 中 
+40NC58FAY_0101 4261714 4276391 CS 所以 我 今年 还要 去 recruit 过 嗯 然后 我 我 还要 做 hall rep leh ah for angsisa 的 hall rep
+40NC58FAY_0101 4276391 4289850 CS 哦 我 现在 应该 应该 是啦 因为 我 那时候 有 跟 vice 讲过嘛 然后 他 就讲 因为 new hall 也 很少 有 senior 他 那时候 就 问我 谁要 做我 partner 然后 他 本来 讲 是 你的
+40NC58FAY_0101 4289850 4292780 CS but 那时候 你 又 没有 住 new hall 你 又 住 middle hall
+40NC58FAY_0101 4292780 4302948 CS 那时候 哦 那个啊 庞 就讲 本来 我是 要找 赵又 的 哪里 知道 他又 住 middle hall 喔
+40NC58FAY_0101 4302948 4316721 CS 你 已经 哦 hall ten lah but 你们 还是  but 他的 那个 地形哦
+40NC58FAY_0101 4316721 4337309 CS it's very irregular ah i think middle hall 有高 有低 有高 有低 这样子 but hall ten 看起来 比较 normal leh 可能 他 比较 新 我啊 
+40NC58FAY_0101 4337309 4353467 EN ah fifty eight ah you mean near the canteen one ah canteen near the canteen
+40NC58FAY_0101 4353467 4368600 CS 我 觉得 很 好玩 嘞 hall rep 可以 认识 很多人 因为 那时候 hor 恩新 有 跟我 讲过 啦 she say
+40NC58FAY_0101 4368600 4378626 CS (er) last year 啦 她要 成为 hall rep 的 原因 因为 是 因为 她 觉得 it's very meaningful ah 可以 认识 很多 住在 你 附近的 人
+40NC58FAY_0101 4378626 4399043 CS 然后 那个 还有 一个 combined supper ah which i mass send one en en malaysian gathering m. s. d. ah malaysian sport day ah ah what
+40NC58FAY_0101 4399043 4426677 CS 你 早就 过了 咯 this year ah 是 next year 的 事情 next year about march 三月 这样子的 时候 recess week ah 你 记得 那时候 你们 去的 outing 吗
+40NC58FAY_0101 4426677 4451620 CS 嗯 m. s. leh m. s. leh 跟 n. u. s. combine ah 他是 另外 一个 咯 啊 m. a. s. o.
+40NC58FAY_0101 4451620 4467660 CS 这个 我就 不 清楚 因为 其实 他们 会有 很多 新的 那些 job scope ah like yesterday 树龄 told me that hor 她是 secretary mah and the financial controller 他们 要 update 那些 news 去 率达
+40NC58FAY_0101 4467660 4470530 CS 这样子 可以 attracts 多 一点 人 来
+40NC58FAY_0101 4470530 4487322 CS visitors maybe 他们 懂 but 很少人 去看 啊 其实 这 率达 gor-lor troublesome ah
+40NC58FAY_0101 4487322 4501018 CS 就 其实 hor control 这个 绿 tower 人 right 他是 一个 senior 然后 hor 他 已经 handle 了这个 绿 for many 很多 年 了 所以 那些 (呃) 控制权 啊 都是 他 decide
+40NC58FAY_0101 4501018 4510183 CS but 我们 现在 是 我们 想要 自己 拿回来 自己 做 我们的 那个 publication 是要 自己 做 就 不懂 how to
+40NC58FAY_0101 4510183 4530778 CS approach 啦 不懂 要 怎么 跟他 开口啦 因为 他 已经 做了 这样 多年了嘛 i think 是有 呱 嗯 (er) 啊 应该 要 pass 嘛
+40NC58FAY_0101 4530778 4544486 CS maybe 是他 薪水啊 因为 那时候 嘉义啊 pres~ president 啊 她 就有 讲过 he thinks that 绿岛 is a very childish childish things because forum 嘉义
+40NC58FAY_0101 4544486 4552043 CS forum 很少人 去 forum 他讲 很少人 去 forum 所以 他 觉得 是 一个 很 childish 的 东西
+40NC58FAY_0101 4552043 4559334 CS 他 觉得 应该 现在 已经 没有 人 要去 forum 了 除了 那些 刚刚 学 online 的 那些 teenagers ah
+40NC58FAY_0101 4559334 4568398 CS 想当年 我 也是 当我 十二三岁 的 时候 我 也是 很 喜欢 forum ah but 后来 我就 很 懒得 再 打字
+40NC58FAY_0101 4568398 4579727 CS so 我就 突然 觉得 哎 他 讲的 is a point 然后 过后 hor 我们的 那个 燕青 啊 她就 explain 讲 啊 这个 东西
+40NC58FAY_0101 4579727 4590917 CS 虽然 对 我们 来讲 是 很 old fashion 的 东西 but 对 我们的 senior 十多年 前 senior 来讲啦 刚刚 那时候 forum 才 刚 出现 所以 他们 就 觉得 这是 一个 很
+40NC58FAY_0101 4590917 4598960 CS 新鲜的 东西 so 所以 hor 我们 不 应该 把他 cancel 掉 就 保留 因为
+40NC58FAY_0101 4598960 4603030 CS 你 很难 做到 让 那些 member 都 很 活跃 你的 forum
+40NC58FAY_0101 4603030 4615949 CS 啊 我们 是 有 facebook but 既然 你 已经 有 facebook 了 那个 facebook 因为 我们的 facebook 叫 压塌屋
+40NC58FAY_0101 4615949 4630828 CS 啊 我们 已经 有 那个 facebook 了 这样 我们 不是 要 顾 两个 facebook 那个 photos 也 upload 两边 就 很少 人 要去 啊
+40NC58FAY_0101 4630828 4644095 CS 所以 我们 才讲 hor 要 outdate 那些 news ah 我们 自己own country 的 news 去 绿岛 so 可以 啊 绿岛 maybe forum 啊 是啊是啊是啊
+40NC58FAY_0101 4644095 4650358 CS 就 可以 好像 有个 topic 讲 就讲 是 那些 latest news 这样子啦 就 可以 吸引 大家 过去
+40NC58FAY_0101 4651853 4667246 CS 啊 这个 拜五 他们 就要 开始 弄了 所以 苏凌 hor 她就 remind 我要 去看 啊 嗯 就 那时候 是因为 那个
+40NC58FAY_0101 4667246 4682474 CS website 的 maintenance ah 是 n. t. u. 跟 n. u. s. 的 publications mah 然后 那 <unk> 其实 是 n. u. s. 的 网词 弄的 网页 维持着
+40NC58FAY_0101 4682474 4691892 CS 啊 <unk> 就是 facebook loh 他是 a new function lah 就他 新弄的 东西 嗯
+40NC58FAY_0101 4691892 4707520 CS 我 觉得 <unk> 没有 什么 functions leh 因为 其实 hor 我有 去 申请啦 因为 那时候 我们 vice 就 encourage 我们 讲 main-com 一起 去 弄 一个 <unk> 的 account
+40NC58FAY_0101 4707520 4713990 CS but 就 很难 用嘞 就 怪 怪 的 maybe 是 language 的 问题 yeah 他 都是 chinese 的 嘛 我们 看 惯 都是 english 的
+40NC58FAY_0101 4713990 4726303 CS 啊 都是 chinese 的 hah translate ah cannot 呱 i think 不 可以 吧 然后 就你 懂 用惯了 那个 facebook 还要 来做 facebook
+40NC58FAY_0101 4726303 4731540 CS 啊 就是 一个 function 的 our own facebook
+40NC58FAY_0101 4731540 4737190 CS 就是 你 可以 upload 照片 去 认识 朋友 这个 样子 maybe 没有 这么 多 function lah
+40NC58FAY_0101 4737190 4748058 CS if compare to 那个 facebook lah ah 好像 都 有了咯 有呱
+40NC58FAY_0101 4749765 4764146 CS so but 那个 那个 n. u. s. 的 publication 他 其实 他是 他 做到 很 辛苦啦 所以 也 不好 意思 拒绝 他啦 so 现在 这个 东西 还是 拥有的
+40NC58FAY_0101 4764146 4784348 CS 不是 我们 ignore 他 是 all the members 有 那时候 有 send mail 会 长 有 mass mail maybe 你们 没有 notice 呱 嗯
+40NC58FAY_0101 4784348 4800841 CS 嗯 因为 那时候 hor 其实 (呃) 啊 庞啦 他就 讲过 for m. s. a. 他们的 main-committee 他们 有 大概 sixty 六十多个 人 因为 他们 包括 他们的 hall reps
+40NC58FAY_0101 4800841 4803410 CS 如果 but 那些 hall rep 是 没有 去 meeting 的 啦
+40NC58FAY_0101 4803410 4810720 CS 他们 main com 就 大概 三十多个 人 他们的 secretary 有 两个 financial controller 有 两个
+40NC58FAY_0101 4810720 4824830 CS 就 他们的 post hor portfolio hor 可以 divide 给 很多个 人 so hor 他们的 burden 就 没有 这样 重 so 那时候啊 庞 就讲 why don't we 也学 他们 这样啦 就 我们 多一点 人 在 committee 里面
+40NC58FAY_0101 4824830 4827710 CS 可以 减轻 的 burden 东西 可以 做 得 更好
+40NC58FAY_0101 4828840 4831650 CS 那时 候 他是 有 在 我们的 last meeting 讲 出来 but
+40NC58FAY_0101 4831650 4837942 CS 我们的 chair 一直 讲 我们 原本 就 已经 从 以前 到 现在 都是
+40NC58FAY_0101 4837942 4846145 CS like 这样子 了 如果 要 一个 改 这样子 会有 很多  可 是 可行的 吧 要
+40NC58FAY_0101 4846145 4854498 CS 花 一点 时间 啦 so 啊 庞 是有 这个 意愿 去 make a different 这样啦
+40NC58FAY_0101 4859626 4867370 CS 因为 你要 tran~ (er) transfer 去 另外 一个 convert 去 另外 一种 model hor
+40NC58FAY_0101 4867370 4872170 CS 你 要在 annual general meeting 上面 讲 一下 你的 opinions 这样子
+40NC58FAY_0101 4872170 4885126 CS 啊 so 我~ 我 不懂 他们 嗯 就 hor 我们 好像 secretary 有 两个 financial controller 有 两个 programmer 就 可能 五六个 这样子
+40NC58FAY_0101 4885126 4896075 CS 然后 那些 portfolio 可以 增加 人数 我们 是 一个 很大的 committee so 我们 自己的 event 一整年 下来的 event 我们 都 自己 committee 办 我们 不要 给 其他 member 办
+40NC58FAY_0101 4896075 4921848 CS 嗯 我们 自己 全部 做完 自己的 东西 因为 我们 人多 不是啊 不是 不是 我们 是 讲 main committee ah 就 都是 main com
+40NC58FAY_0101 4921848 4938620 CS 你是 讲 一个 portfolio ah 就 好像 我们 programmer 现在 不是 有 三个 是啦 可 因为  sub committee 就
+40NC58FAY_0101 4938620 4951082 CS 好像 开会 hor 可能 他们 会 没有得 来啊 sub-committee so 全部 叫 main-com loh 对啦
+40NC58FAY_0101 4951082 4966088 CS 就 大概 三十多个 m. s. n. mah 我 加了 后 啊 庞嘉义 那时候 都有 去过 那个 medaka night 啊 就是 啊 an event hold by m. s. a. ah 他讲喔 真的 是 很 impressive 那些 event 就很
+40NC58FAY_0101 4966088 4986785 CS 大型 嗯 做到 很好 medaka night 然后 过后 hor 就 还有 我 还有 一直 听 他们 演 那些 他们的 drama 就 觉得喔 很好咯 but 我是 没有 看到啦 我是 有 路过 啦 路过 因为 在 com hall twelve 嘛 你 那晚 生病 那晚啊
+40NC58FAY_0101 4986785 5011342 CS 啊 pass by loh 然后 我 就讲 他 什么 event 后来 我 才懂诶 原来 是 medaka night 嗯 嗯 yeah
+40NC58FAY_0101 5011342 5030341 CS 嗯 啊 我是 最近 才懂 原来 m. s. a. got this kind of event
+40NC58FAY_0101 5034310 5046582 CS 我们 可以 就 好像 我们 那时候 就有 讲 three on three five on five 是 一个 sport m. s. d. 也是 sport 这样 为什么 不要 combine 在 一起 我们 办 一个 两天 这样 不会 这样 辛苦嘛
+40NC58FAY_0101 5046582 5056152 CS 啊 他们 讲 可以 like 那个 新春 车票 订购 啊 我们的 vice 也是 有 讲 其实 我们 那座 新春 车票 订购的 那些
+40NC58FAY_0101 5056152 5065740 CS people in charge ah 他们 每次 一直 亏钱的 就 那个 账 很乱 maybe 他们 自己 cannot handle well lah but i don't know what is the  real reason
+40NC58FAY_0101 5065740 5078348 CS 啦 然后 hor 他们 讲 so ttroublesome 为什么 不要 叫 他们 自己 去买 车票 回家 since 他们 自己 要 回家 啦 but 那时候 我就 有 讲 如果 大家 去买 怎么样 买
+40NC58FAY_0101 5078348 5090044 CS 特地 跑到 lucking 买了 再 回来 这样 不是 很 麻烦 然后 他们 就有 come out 一个 point lah 就讲 for 那些 k. l. 的 right 他们 会 比较 多 人 就会 帮 那些 k. l. 的人 买
+40NC58FAY_0101 5090044 5099341 CS 其他的 好像 ipoh ah penang ah 就叫 他们 自己 去买 嗯 啊 是 咯 but 就是
+40NC58FAY_0101 5106045 5123696 ZH 其实 不是 我们 亏嘞 是那 两个 负责人 亏钱 因为 有些 人 哦 他们
+40NC58FAY_0101 5123696 5135945 CS 因为 他们 会 confusedhor 就是 在 他们 因为 那时候 假期 他们 回家 就 收不到 钱 他们 就 自己 出钱 然后 人家 又 还 他们 but 他们 就 可能 自己 乱掉 还是 怎么样 啦
+40NC58FAY_0101 5139164 5150329 ZH 啊 因为 自己 出钱 会 很大笔 大概 六七百块 这样
+40NC58FAY_0101 5150329 5160663 CS 不可以 因为 那时候 就 有 讲过 可不可以 给 叫 ang-see-sau 先 but the 那个 exchange rate 啊 ang-see-sau maybe 会 loss 啦
+40NC58FAY_0101 5161660 5164310 CS so 就是 怕 exchange rate 的 问题
+40NC58FAY_0101 5164310 5169270 CS but 我 觉得 是 很小的 事情 啦 exchange rate
+40NC58FAY_0101 5169270 5175840 CS 因为 他们 有 讲 过 你 有 拿 sing dollar 去 buy malaysian dollar
+40NC58FAY_0101 5175840 5191829 CS 会 很多 but if you use the malaysian dollar 换回 sing dollar hor 就会 变小 啊 对 啦 so 他们 就怕 这个 问题 咯 啊 可以 那时候 大家 又 回家 又 不懂 车票的 价钱
+40NC58FAY_0101 5191829 5209380 CS 因为 十二月 嘛 一月 but 是 去年 才有 这个 问题 今年 不会 有 因为 今年 很迟 才 holiday so 他们是 讲 啊 他们 是讲 现在 他们 讲 现在 今年 不会 有 这个 问题 啦 嗯
+40NC58FAY_0101 5209380 5230823 CS 应该 是 不会 cancel 啦 我 觉得 是 会员 welfare 的 东西 嘛 啊 应该 不会 不 应该 cancel 的 maybe 可能 找 这个 人 做 k. l. 那个 人 做 penang perak 那边的 人 咯 maybe lah depends 看 今年的 president 怎么样 安排 咯
+40NC58FAY_0101 5230823 5243892 CS en m. a. f. loh after recess week president loh the first event 还有 last event
+40NC58FAY_0101 5243892 5253867 CS of the 那个 committeehor 都是 of the <unk> 都是 committee 在做 like m. a. f. ah talent night ah the first and the last event lah
+40NC58FAY_0101 5253867 5268449 CS 都是 <unk> 的 main committee 在做 没有 没有 是 其他的 好像 member outing a. b. m. c. 还是 两个 两个 这样 分 just 现在 开始 是 自己 做 先
+40NC58FAY_0101 5268449 5279886 CS 就是 president 跟 跟 vice loh 就是 嘉义 跟 啊 庞 咯 <unk> president 跟 vice 没有 就 只有 第一个 跟 最后 一个
+40NC58FAY_0101 5279886 5295100 EN huh talent night loh ah m. a. f. ah after recess week
+40NC58FAY_0101 5295100 5298250 CS 嗯 去年 是 这样 今年 pass down 很 迟
+40NC58FAY_0101 5298250 5305683 CS 所以 是 after maybe after recess week lah en
+40NC58FAY_0101 5311070 5314540 CS 不是 在 我们 recess week 的 最后 几天么 你 不是 讲
+40NC58FAY_0101 5314540 5327772 EN actual date ah i also don't know leh maybe you can ask and check the phone lah en
+40NC58FAY_0101 5327772 5347196 CS 嗯 这样子 在 re｀ hah 在 recess week 比较 好 嘛 大家 可以 回家 庆祝 又 不会 这样 孤单 这样子 嗯
+40NC58FAY_0101 5347196 5365228 CS 嗯 对啊 对啊 you should 啊 why but recess week 嘛 不是 啊对咯 啊 next year also
+40NC58FAY_0101 5365228 5383703 CS 哎 因为 next yearhor 会 很迟 开学 so 我 不懂 那个 mid-autumn festival 会不会 在 recess week 应该 不会 recess week youth olympic loh en
+40NC58FAY_0101 5383703 5397580 CS but 我们 自己 n. t. u. 也是 有 很多 benefit lah you get what i mean  ah 那些 都是 不是 我们 自己 学校 出钱 but 我们 会 有 benefit 那些 air-con lah 我们 都有
+40NC58FAY_0101 5397580 5399410 CS 他们 是 讲 这个 是 benefit
+40NC58FAY_0101 5399410 5419177 CS 嗯 什么 啊 对啦 对啦 after after youth olympic then can use 了咯 嗯
+40NC58FAY_0101 5419177 5431677 CS 大家 都是 住 新 new renovated 的 房间嘛 不是 很好 那些 table 都是 new brand 的
+40NC58FAY_0101 5431677 5440993 CS 书架 还会 掉下来 是吗  你有 看过 那个 照片 吗 fion
+40NC58FAY_0101 5440993 5451185 CS fion 隔壁的 她 拍了 照片 upload 去 她的 facebook yeah 我 看过 fix 了呱 then hor
+40NC58FAY_0101 5456608 5468570 CS  oh laptop 我就 不懂 啦 我就 没有 注意 然后 hor 那个 照片 上 的 description hor 还有 她 有 describe
+40NC58FAY_0101 5468570 5476924 CS 讲啦 那个 书架 大概 好像 是 hang 上去的 他 没有 钉好 来 就 挂上去的
+40NC58FAY_0101 5476924 5491209 CS 好像 是 也是 有讲 so 那天 我 回房hor哎 做么hor 我 本来的 我 不是 有 一箱的 lecture notes 我是 放在 我 书架 上面的 然后 一出来 哎 怎么会 被 搬下来 maybe 他们 来 check lah
+40NC58FAY_0101 5491209 5502754 CS 啊 然后 我 也是 有 摇一下 我的 书架 看他 会不会 很 啊 然后 then i found out that 嗯 quite stable
+40NC58FAY_0101 5502754 5529058 CS 谁 啊 啊  bend 下去啊 then 他 有没有 然后 他有 还原 回来 吗
+40NC58FAY_0101 5529058 5543519 CS the table 啊 but 我 常常 踩上去 拿 东西 都 没有 怎样 哦 i see
+40NC58FAY_0101 5543519 5561000 CS access card then how about 你~ 你 房间的嘞 你 hall 的 your current hall
+40NC58FAY_0101 5561000 5562820 CS 那个 table 会 bend 吗
+40NC58FAY_0101 5562820 5581671 CS 你有 踩过  没有 踩过 哦 i don't i think you don't need to stand the table ah 你的 那个 书架 都 这样 低 哎 我 觉得 很 可爱 嘞 你的 study book 只有 小小的 很小的 study board
+40NC58FAY_0101 5581671 5593760 ZH 你 没有 放得下 上去啦 你 没有 放 什么 东西 在 上面 这样 以前的嘞
+40NC58FAY_0101 5593760 5604412 CS 以前 你 放的 你的 那个 这样 以前 你的 不是 很 打的咯 then 现在 很小 你有 什么 嗯
+40NC58FAY_0101 5604412 5625001 CS 哦 做么 你们 会去 新颖 房 的 啊 啊 哦 then then then how is it how is her room
+40NC58FAY_0101 5625001 5650374 CS very messy 啊 为什么嘞 got squatter ah 为什么 这样 都是 belong to hers 还是 人家 借放在 那边 哦 连 地上 都 没有 得 走 么
+40NC58FAY_0101 5650374 5675293 CS 怎样 做么嘞  angry again ah why ah 吓到
+40NC58FAY_0101 5676210 5684836 CS 因为 我看 那个 燕尾的 blog right 他有 讲 hor 他的 他的 组啊 刘胜绩 有 跟他 庆祝嘛
+40NC58FAY_0101 5684836 5696279 CS 啊 因为 昨天hor 我有 遇到 燕尾 然后hor 燕尾 told me thathor 他的 juniorhor 把他 那个 整桶 waterhor 淋在 他 身上
+40NC58FAY_0101 5696279 5707538 CS 然后 我看 他的 blog 就 觉得 quite funnyhor 他的 junior 他们 有 一个 他们 有 discuss leh 要 怎么样 弄 那个 燕尾 啊
+40NC58FAY_0101 5707538 5723843 CS  他 不敢 吧 因为 其他 他组 那些 junior 自己 下水 玩 在 a. d. m. 那边啊 除了 他 自己 他 junior 也 自己 自动 下水 他讲 junior 哇 他们 自己 play 到 很 开心 真是
+40NC58FAY_0101 5723843 5736918 CS 很 可爱 耶 嗯 你 组 okay what 你组 okay 吧
+40NC58FAY_0101 5736918 5751805 CS 也 没有 很 at least 你们的 gatheringhor 都 都会 有人 来嘛 有人 已经 然后 then
+40NC58FAY_0101 5751805 5772839 CS 有 一些 人 他们 是 直接 不要 来 join 的么 哦 这样 can be acceptable what the reason 嗯
+40NC58FAY_0101 5778045 5803111 CS 要来了 坐 飞机 回啊 你 也是 要啊 做么嘞 how to say ah then he get five points or not oh
+40NC58FAY_0101 5805349 5809220 EN but hor
+40NC58FAY_0101 5809220 5812200 CS 搭 飞机 回去 很 time consuming leh
+40NC58FAY_0101 5812200 5834735 CS 从 这里 去到 changi then 他 搭 飞机 回去 啊 搭 bus 啊 他住 哪里 住 k. l. 哪里 near near your home ah kebong ah quite near ah oh
+40NC58FAY_0101 5834735 5854330 CS  but now he stay with 家伟 嘛 嗯 so lucky 不觉得 他很 幸运 么
+40NC58FAY_0101 5854330 5878488 CS 嗯 嗯 我 觉得 应该 都是 可以 换的 因为 last time my senior told me that 如果 有 遇到 similar conditionhor 是 可以 换的
+40NC58FAY_0101 5878488 5893070 CS 就你 有 special reason lah hall four is quite nice loh hall four hall four also hall twelve mr. yip leh
+40NC58FAY_0101 5893070 5906360 CS 因为 有 一次 horlast time ah during vacation 我 要 head submit 那个 我 roomie ah 的 form mah 我 忘记 submit 给他 因为 我 roomie 很迟 才把 form send 给我 我 来不及 print
+40NC58FAY_0101 5906360 5910870 CS 都 已经 是 过了 那个 expire date 了 but 他 讲 还 可以 因为 我 已经 还 了 钱
+40NC58FAY_0101 5910870 5925463 CS so 我 才会 这样 快 拿到 房 不然 我 可能 现在 都 没有 现在 还是 有 a lot of people squat in others room leh
+40NC58FAY_0101 5925463 5944906 CS like 力三 顺挺 菱悦 啊 庞家玉 秀芬啊 住 哪里 啊 哦 对 咯 对 咯
+40NC58FAY_0101 5944906 5957520 CS 嗯 like 心如 last year 啊 他 recess week 才 拿到 嘞 but 他 recess week 搬 他 那时候 是 squat hall four so hor
+40NC58FAY_0101 5957520 5966786 CS fifteen 他 那时候 squat hall four 现在 他住 fifteen actually 他是 got 他 got 那个 他 拿到 hall four
+40NC58FAY_0101 5966786 5971210 CS but 他 一直 跟 hall officer argue 讲 他 不要 住 Ｈall four
+40NC58FAY_0101 5971210 5980560 CS very dark and very dirty and very old 他讲 他 死 都 不要 住 他就 一直 去 吵 hall fifteen 的人 讲 他要 住回 hall fifteen
+40NC58FAY_0101 5980560 5983220 CS 因为 他是 special event 的 vcair 嘛
+40NC58FAY_0101 5983220 5992490 CS 他有 够分 啊 so 他就 一直 那里 argue loh 就讲 他要 然后 hor 那个 hall fifteen officer 讲 嗯
+40NC58FAY_0101 5992490 5995830 CS 你 去 问 hall four officer lah 如果 他们 approve 的话
+40NC58FAY_0101 5995830 6008705 CS 你就 过来 咯 然后 hall four officer 又 很好的 嘛 就是 由他 就 住 hall fifteen 了咯  因为 他 他嫌 那个 hall four 嘛 很 肮脏 很 暗 我 也是 这样 觉得
+40NC58FAY_0101 6014647 6039413 CS 嗯 啊 bad  yeah 他们的 风扇 hor 是 那种 在 那个 墙壁上的 very big ah
+40NC58FAY_0101 6039413 6061313 CS 嗯 can improve ah improve old hall loh ah 那里的 东西 都 dirty 很 dirty 这样子 好像 都要 烂掉了 哦
+40NC58FAY_0101 6061313 6064973 CS 然后 hor hall five 的 它的 隔音 系统 is very bad
+40NC58FAY_0101 6064973 6077500 CS 嗯 嗯 yeah like 才飞 last time hor 他住 single room mah then 他讲 hor 他讲
+40NC58FAY_0101 6077500 6080110 CS 他 左边 的 那个 room 里面 的 那个 人
+40NC58FAY_0101 6080110 6097735 CS 在 跟他 爸爸 讲 电话 他是 印度人 他就 听到 印度话 then hor 那个 他 right side 的 neighbor hor 就 好像 你看 韩国戏 听到 korean language then 他 就讲 很烦 啦 听到 两边的 声音 我讲 hah really so bad 么 the condition
+40NC58FAY_0101 6097735 6126375 CS 啊 single room like that 的么 i forgot already yay single room maybe ah en oh 你讲 m. a. f. 还是 <unk> 的
+40NC58FAY_0101 6127363 6139333 CS m. a. f. 啊 他的 那 啊  啊 他的 那个 是
+40NC58FAY_0101 6139333 6143583 CS 到 十点 半 不是 他的 lucky draw 有 个 big prize
+40NC58FAY_0101 6143583 6170894 CS 七点 到 十点半 那个 bullet 是 这样 写啦 啊 做么 有 什么 improvement ah then 难以为情 跟 志雄 讲话 嘛 最近
+40NC58FAY_0101 6170894 6192729 CS but i think 他 已经 predict 已经 预料了 啦 这个 他 已经 是 expect 到 会有 这样的 咯 就 嗯 哎呀 小白 他会 很 幸福 啊
+40NC58FAY_0101 6192729 6220445 CS bobo 是 慧文啊 李慧文 你会 以 bobo 是谁 谁 c. b. e. 读 啊
+40NC58FAY_0101 6220445 6247951 CS 啊 啊 叫 什么 名字 哦 english name 啊 啊 so recruit 啦 啊
+40NC58FAY_0101 6247951 6267691 EN en act oh aiya gentlemen mah
+40NC58FAY_0101 6267691 6277590 CS 你 知道 王伟 horis a very funny guy ah 因为 那时候 我们 组 orientation 他 不是 他 他 是 我们 video 的 leader mah then hor 我们
+40NC58FAY_0101 6277590 6284433 CS 就 最后 一天 f. o. 不是 有 sharing 这样 咯 我们 就有 给他 comment 讲 我们 就 很 欣赏 他 啦
+40NC58FAY_0101 6284433 6285653 CS 其实 他是 一个 很好 的 leader
+40NC58FAY_0101 6285653 6299320 CS then hor 他就 讲 你 懂他 讲 什么吗 他就 讲 哦 哎哟 没有 啦 我是 rubbish 来的 我是 垃圾 来的 我 没有 什么  then 他 那晚 有 cry leh touching 他讲 很 感动
+40NC58FAY_0101 6299320 6300850 CS 一个 大 男人 cry
+40NC58FAY_0101 6300850 6323970 CS 就他 很 感动 咯 我们 就 取笑 他 thenhor 他 就讲 我 这个 不是 叫 眼泪 我 这是 叫 感动 真的 啊 it's real 不是 讲 最 on lah 石梅 慧仪
+40NC58FAY_0101 6323970 6335957 CS 慧仪 她 是 那时候 我们 不是 有 cheer fight loh 她是 当场 就 发明 一个 新的 cheer yay
+40NC58FAY_0101 6335957 6344583 CS 啊 然后 她是 带的 她是 那个 leader 王伟 是 video leader 然后 石梅 是 talent night 的 leader
+40NC58FAY_0101 6344583 6361394 CS 就 不同 不 就 没有 讲 可能 他们 也是 有 帮忙 啦 就 那个 leader 那个 负责人 是他 这样子 咯 嗯 嗯 伟雄 啊
+40NC58FAY_0101 6361394 6377964 CS but 中滴嘞 i think 中滴 啊 那个 秀雯嘞 啊
+40NC58FAY_0101 6377964 6404692 CS but 他 那时候 都有 主动 叫 你们 出来 吃东西 不是 秀雯 没有么 哦 how to see 怎样的
+40NC58FAY_0101 6404692 6433344 CS 嗯 maybe 你 没有 去 很多 他们的 practice leh 可能 就 只有 那 两三次嘞 嗯 嗯
+40NC58FAY_0101 6433344 6454774 CS 那时候 hor 丽珊 told me that hor 麦克风 那组 啊 要 删了 就讲 因为 是 霆锋 told 丽珊that 自己的 组 要 删了 因为 很少人 要来 talent night but 他们
+40NC58FAY_0101 6454774 6471318 CS 当晚 那天 他们 也是 拿到 最大的 奖 我还 没有 看了 talent night do you know how to find ah 那个 video 要去 哪里 找 嗯
+40NC58FAY_0101 6471318 6484160 CS 都还 没有 看到 嘞 很多 都 没有 看到 我只 看到 i pro 我 觉得 很 impressed 那个 i pro cluedo 的 那个 做么嘞
+40NC58FAY_0101 6484160 6494685 CS 我 觉得 很 好笑 嘞 他们 就演 那些 junior 的 啊 影 啊 震阳 他们 讲 他 很怕 都 快点 走
+40NC58FAY_0101 6494685 6506432 CS 啊 very funny  很像 我 耶 我 进去 也是 没有 人 快点 走  很怕 嘛 是 senior camp 的 cluedo cluedo hor 我 每次 都 觉得 很怕
+40NC58FAY_0101 6506432 6520495 CS 就 可能 可能 我 first year orientation 我 觉得 我 参加 那个 cluedo 我 没有 这样 怕 因为 我 完全 不懂 里面 是 什么 东西 but senior camp 我 已经 懂 会 发生 什么 事情 so i was very scared at that time
+40NC58FAY_0101 6520495 6535951 ZH 然后 我组的 那个 要全 他 也是 很怕  他 那时候 就讲 我 整身 很怕 他讲 他真的 会 变 他讲 他真的 会 晕倒嘞
+40NC58FAY_0101 6535951 6551894 CS  but 他 没有 喊 啦 so 我 一个人 在 那里 喊 啦 就 shout 讲 啊 这样子 咯 智利 也 没有 喊 也 没有
+40NC58FAY_0101 6551894 6569071 CS 要全 只是 在 shake 他的 手 啊 but 我 抓 他的 手 抓到 很紧 啦 嗯 就 斗一下 斗一下 这样 咯
+40NC58FAY_0101 6569071 6579022 CS maybe 咯 因为 他 以前 有 遇过 这种 东西 不是 他 小的 when he was a young child
+40NC58FAY_0101 6580995 6597654 CS j. a. r. c. ready ah 可能 过了 吧 not sure lehoh gift the gift ah giving gift ah 有 啊 有 衣架 那些 啊
+40NC58FAY_0101 6597654 6626357 CS but 我 只是 拿完 东西 我 就 收起来 i think passed already 过了 应该 是 因为 我都 没有 去 理 这些 东西 嗯 做么嘞 你 你 你 hall 的嘞
+40NC58FAY_0101 6626357 6651213 CS 哦 不一定嘞 就 可是 你 还是 拿 hall ten
+40NC58FAY_0101 6654047 6669103 CS but maybe you can get a better hall lah hall seven then that's your luck loh 那个 probability 只有 一点点
+40NC58FAY_0101 6670553 6683353 CS 我 只是 觉得 哦 你的 房间 离 bus stop 很远 一下 我 觉得 我 走到 很 辛苦嘞 很多 slope but 你 回去 就 up slope 了
+40NC58FAY_0101 6686560 6688990 CS 我 还是 觉得 hall twelve is the best hall
+40NC58FAY_0101 6688990 6717047 CS but 我是 走 slope 啊 我走 slope 我走 slope 我 觉得 比较 快 啦 辛苦 一点 不要紧 hall twelve ah hall ten
+40NC58FAY_0101 6717047 6744180 CS 没有 去过 ladies 的 也是 这样 啊 嗯 hall ten 啊 嗯 啊  我 没有 去过 can eleven leh
+40NC58FAY_0101 6744180 6771121 CS very small oh can nine leh can nine near your room 靠近 can nine 吗  five ah quite okay lah then from 你的 hall 去到 hall two leh
+40NC58FAY_0101 6773256 6796110 CS 啊 eight minutes 啦 哦 quite ok 啦 嗯 嗯 对 咯 那 b. bus 都 这样 快 哦 又 不用 走路 喔 又 不用 walking
+40NC58FAY_0101 6802262 6818933 CS 你有 bicycle mah ah 搭 bus lot one nine nine
+40NC58FAY_0101 6822306 6848066 CS 这样 你 走去 hall two then take at the pioneer buss lah en en  拜几
+40NC58FAY_0101 6848066 6856075 CS 嗯 就是 last time 你 take photo 的 那个 啊
+40NC58FAY_0101 6860130 6863700 CS i think 一个 箱 就 should be enough already
+40NC58FAY_0101 6863700 6879350 CS 不用 吧 又 不是 只有 他 一个 卖 食物 i think hor 那时候
+40NC58FAY_0101 6879350 6906857 CS i think 那时候 hor 你 跟他 讲 我们 会有 三四千人 来 这个 event 他就 expect 每个人 都买 一只 ice cream  so 他 才会 有 plan 到 有 container popcorn ah 他 已经 confirm 了 嗯 嗯
+40NC58FAY_0101 6906857 6934345 CS 什么 那个 日本鱼嘞 不是 还有 一个 the japanese fish oh this afternoon ah 这样 他 call 你了 吗 哦 他是 有 意思 要
+40NC58FAY_0101 6934345 6942730 EN en refuse oh
+40NC58FAY_0101 6942730 6944920 CS because 他 morning busy 是 嘛
+40NC58FAY_0101 6944920 6972857 CS 哦 我 觉得 很 很 flash leh 这个 东西 没有 看过 嗯 嗯
+40NC58FAY_0101 6972857 6996496 CS how to determine but ah seng hahlohhahloh 他有 那个 warmer 就 可以 啦 就 保温 这样子 是咯 就 可能 maybe
+40NC58FAY_0101 6996496 7020130 CS 可能 maybe 他做 另外 一边 卖 那个 sales 是很 好 but 来 我们 这里 maybe 他只 可以 卖 去年 有 popcorm 么 啊 我 去年 都 没有 因为 我 是 games programmer 我 不可以 去 其他
+40NC58FAY_0101 7023970 7027430 CS 他是 不 concentrate 是 吗 他的 那个 food store
+40NC58FAY_0101 7027430 7045703 CS scatter 的啦 他的 food stall oh 哦 没有 办法嘛 maybe 他 地点 不好
+40NC58FAY_0101 7047895 7065167 CS but 他 可以 try 一下嘛 他 没有 try 哪里 懂 没有 try 怎样 懂 日本店 maybe 你 可以 把 past year 的 东西 跟他 完全 跟他 讲啦 让他 自己 决定 要不要 过来
+40NC58FAY_0101 7065167 7084585 CS 就 好像 就 可以 try 一下嘛 哦  maybe lah like 那个 有一个 不是 没有 reply 你的 你 send email 去啊 那是 什么 食物 了啊
+40NC58FAY_0101 7084585 7111142 CS 就你 打 一个 email 过去的 还有 一个 啊 yoghurt yoghurt never reply you ah 你 没有 call 他 email address 啊 啊
+40NC58FAY_0101 7111142 7138690 CS 就那个 email invalid lah email address invalid 他都 没有 心的 嗯 哦 所以 不是 他 自己 赚的啦
+40NC58FAY_0101 7138690 7140510 CS 还是 他的 sales 不够 高

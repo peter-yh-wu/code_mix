@@ -1,0 +1,621 @@
+NI54FBQ_0101 22725 54460 CS 以前 啊 (呃) 国家初级学院 然后 中学 是 武吉班让 政府中学 (呃) 在 以前 是 油池 小学 (呃) yew tee yah which part of yew tee do you stay at oh you stay in that inside part i stay at windermere yah so my primary school is just next to my condo
+NI54FBQ_0101 54460 69488 EN accountancy (er) i think is a practical choice ah is the best course that i can attend with my grades
+NI54FBQ_0101 69488 70759 EN yah
+NI54FBQ_0101 74135 77639 ZH 啊 对
+NI54FBQ_0101 78097 90664 CS (呃) 我 比较 有 兴趣 like 科学 这些 东西 可是 科学 很像 做 研究 是 很像 不是 赚 很多 钱 所以 做 accountant lor
+NI54FBQ_0101 94490 98456 EN ah year one
+NI54FBQ_0101 108003 110725 ZH 小学 啊 我 小学 的 时候 很静 的 没有
+NI54FBQ_0101 110725 112905 CS 没有 participate in any events
+NI54FBQ_0101 112905 119746 EN so ah i think i only become more active in secondary school yah then more active in j. c.
+NI54FBQ_0101 119746 127267 EN because i took part in those like (er) my c. c. a. requires leadership and stuff so i took part in more activities
+NI54FBQ_0101 128841 136214 CS ah yah yah in like 我 在 小学 的 时候 很静 then 现在 比较 outgoing
+NI54FBQ_0101 137415 139423 EN chinese orchestra
+NI54FBQ_0101 142364 148582 CS (呃) 没有 咯 就 无端端 就 进去 chinese orchestra
+NI54FBQ_0101 148582 155605 CS 啊 柳琴 know the seat in front of 琵琶 smaller version of 琵琶
+NI54FBQ_0101 158435 161394 EN ah yah yah it's like a guitar
+NI54FBQ_0101 163342 168533 CS 在 interact club
+NI54FBQ_0101 168533 174849 EN it's basically c. i. p. lah so we go out and help small children
+NI54FBQ_0101 174849 184827 EN so that is a big difference between my secondary school and my j. c. yah but i think i enjoyed interact club activities more than chinese orchestra
+NI54FBQ_0101 187476 197335 EN huh but which j. c. oh you are in what oh but dance aiya
+NI54FBQ_0101 197335 198770 CS dance 可以 动 嘛
+NI54FBQ_0101 199065 201695 CS then chinese orchestra 只是 坐 在 那边 很闷
+NI54FBQ_0101 205629 222655 CS okay lah 有 quite fun but i prefer i think as i grow up my activities suits my (er) how to say personality like because i became from like from quiet to more active so secondary school is in between so i join chinese orchestra
+NI54FBQ_0101 222655 225480 CS 所以 如果 你 现在 叫我 join 回 chinese orchestra 我会 觉得
+NI54FBQ_0101 225480 229444 ZH 很无聊
+NI54FBQ_0101 229444 233347 EN oh okay
+NI54FBQ_0101 240097 241914 EN canvassing lor
+NI54FBQ_0101 243466 251389 EN freshmen orientation camp of chinese erm not chinese eh culture activities club c. a. c. ah
+NI54FBQ_0101 255630 260865 EN  c. a. c.
+NI54FBQ_0101 260865 263050 CS because 我去 attend 那个
+NI54FBQ_0101 263125 264705 CS 他们的 f. o. c.
+NI54FBQ_0101 264705 280621 CS then after that 就 get vote into the main committee lor yah then 你 现在 是 在 做 什么 的 哦 huh 那 你 比 我 小
+NI54FBQ_0101 280621 289822 ZH 啊啊哦
+NI54FBQ_0101 290524 297380 CS huh 为什么 要 不然 很少 人 in our age
+NI54FBQ_0101 297380 298915 CS after sec four 去 做工 耶
+NI54FBQ_0101 303535 305815 CS 这样 你 没有 apply j. c.
+NI54FBQ_0101 305815 311265 CS huh 怎样 不 apply j. c.
+NI54FBQ_0101 311265 313330 CS 就是 skip 那个 process ah
+NI54FBQ_0101 313395 314945 CS 然后 the next year 怎么办
+NI54FBQ_0101 317689 326515 CS 他会 再 寄信 给 你 然后 叫 你 哦 then how do you know the website and stuffs
+NI54FBQ_0101 326515 330120 CS oh so you mean you log in to the same website and everything then 他 就 可以 了
+NI54FBQ_0101 330455 331895 CS huh 这样 exciting
+NI54FBQ_0101 331895 334220 ZH huh 我 觉得
+NI54FBQ_0101 334220 335970 CS (呃) 我 每次 follow the norm
+NI54FBQ_0101 336896 340246 CS 如果 你 叫 我 skip one year 然后 再去 apply 我 会 觉得 很
+NI54FBQ_0101 340246 344245 ZH 啊 对
+NI54FBQ_0101 344245 346725 CS then 你 去 做 什么 工 during the one year
+NI54FBQ_0101 346725 358315 ZH huh 哦
+NI54FBQ_0101 358315 361295 CS oh then 你 没有 take up like bank loan or something
+NI54FBQ_0101 365725 367380 CS j. c. 不是 很贵 嘛
+NI54FBQ_0101 367380 368495 ZH 很贵 meh
+NI54FBQ_0101 368495 369985 CS 啊 j. c. 很 便宜 啊
+NI54FBQ_0101 371205 372905 CS ah uni 很贵 啊
+NI54FBQ_0101 373675 377625 CS eh but 你 for for your year 他们 increase 那个 school fees 了 啊
+NI54FBQ_0101 377625 381915 CS 啊 所以 你 应该 join 我的 year 啊
+NI54FBQ_0101 381915 385955 CS 真的 他 increase by 我 朋友 去算 around 四百多 块
+NI54FBQ_0101 385955 391785 EN ah for my year i think two thousand and nine
+NI54FBQ_0101 391785 395150 CS 他们 算 two thousand a~ eight 的 rate 然后
+NI54FBQ_0101 395150 398210 CS after two thousand and nine 就是 two thousand ten that means
+NI54FBQ_0101 398210 409265 CS the next sem 啊 就是 有 提高 一点点 就是 我 本来 是 六千 多 然后 next sem 就 七千 多 然后 af~ ah 你们 再 进来 他们 又 再 increase by four hundred
+NI54FBQ_0101 446741 453438 CS 现在 很 outgoing i think 以前 不是 很 outgoing ah
+NI54FBQ_0101 455455 467850 CS 啊 对 以前 很 like 静静 这样 没有 讲话 maybe second~ like primary school 每次 被 人家 欺负 所以 我 就 静静 有 我 小时候 huh 他们 是 那种
+NI54FBQ_0101 467850 472900 CS maybe 是 puberty 还是 什么 不知道 啦 每天 都 哭 的 then 我 每天 都去 厕所 哭
+NI54FBQ_0101 472900 485405 CS ah but 他们 都 讲 我是 cry baby 他们 越 讲 我是 cry baby 我 就 越 哭 所以 我 就 一直 哭 一直 哭 then 哭 到 中学 的 时候 我 就 打算 我 不要 哭 了 啊 then 就 换 就 变 了咯
+NI54FBQ_0101 489478 492775 ZH 啊 我
+NI54FBQ_0101 492775 495770 CS 我们 是 (嗯) you can choose what schemes you want
+NI54FBQ_0101 495770 500655 CS so 我的 scheme 是去 admiralty 然后 跟 小孩子
+NI54FBQ_0101 500655 502400 CS 啊 不是 admiralty 的 一个
+NI54FBQ_0101 502400 509325 CS 那种 family center ah for those ah low income children so 跟 他们 玩
+NI54FBQ_0101 509325 511265 CS 那个 scheme 叫 learn and play
+NI54FBQ_0101 511265 514965 EN so we are supposed to play with them and teach them something ah
+NI54FBQ_0101 514965 517455 CS so like for example 我 要 教 他们
+NI54FBQ_0101 517455 518765 CS maths 的 一个 topic
+NI54FBQ_0101 518875 521320 CS 所以 like erm primary five 有 什么 topic
+NI54FBQ_0101 521645 525345 CS 像 addition or something then 我们 会 incorporate like treasure hunt
+NI54FBQ_0101 525345 533939 CS 啊 这种 东西 然后 他们 玩 i think quite fun yah every saturday
+NI54FBQ_0101 537722 541875 EN erm we can choose one different schemes got different days yah but i think
+NI54FBQ_0101 541875 545120 CS my scheme is the one of the most popular ones but 他们 有 cap
+NI54FBQ_0101 545120 556845 CS 几个人 啦 啊 大人 没有 好像 只有 一个 没有 因为 小孩子 比较 容易 找 and
+NI54FBQ_0101 556845 560200 CS 因为 我 在 那个 ex co 然后 小孩子 比较 容易 找
+NI54FBQ_0101 560295 564615 CS 然后 很难 找 那种 visually like 那种 因为 那种 需要 training mah
+NI54FBQ_0101 564675 566145 CS then 我们 没有 training
+NI54FBQ_0101 566145 566825 ZH 所以
+NI54FBQ_0101 566825 569650 CS 他们 就 派 我们 去 做 那种 peer tu peer tutoring
+NI54FBQ_0101 569855 572545 CS 有 一个 scheme 是 elderly 的 可是
+NI54FBQ_0101 573085 575300 CS 没有 人 要 join ah 因为 很 无聊
+NI54FBQ_0101 575300 578405 ZH 要 教 他们 怎样 插花 那种
+NI54FBQ_0101 578405 580275 CS 教 他们 怎样 用 computer
+NI54FBQ_0101 584123 597300 CS ah yah there is less interaction lah in the 很像 (嗯) 我 听 我 朋友 讲 是 要 教 他们 怎样 上 youtube 然后 有些 有些 就是 他们 是
+NI54FBQ_0101 597300 599820 CS 有些 人 elderly 比较 friendly 他们 就 会
+NI54FBQ_0101 599965 602725 CS 所以 那些 没有 这样 friendly 没有 这样 active 的 他们 就 不会
+NI54FBQ_0101 606397 609805 CS 他们 可以 去 看 那种 videos
+NI54FBQ_0101 609805 611920 CS 因为 actually 那种 programme
+NI54FBQ_0101 611920 615875 CS every week 的 programme 是 我们 自己 plan 的 所以 是 你 要 教 老人 教 什么
+NI54FBQ_0101 615875 618195 CS 所以 我们 就 第 一个 lesson 教 插花
+NI54FBQ_0101 618195 621545 CS then 第二个 lesson 不 可能 教 他们 跳舞 很 奇怪
+NI54FBQ_0101 621545 624415 CS 所以 我们 就 教 那些 youtube or something lor
+NI54FBQ_0101 626508 629285 ZH 随便 插  啊
+NI54FBQ_0101 629285 632035 CS 就是 prepare 那个 materials 给 他们 随便 插
+NI54FBQ_0101 637866 644420 ZH 不会 啊 我 觉得 他们 很 好玩 耶 可能 我 比较 凶 啦 他 比较 怕 我 啊
+NI54FBQ_0101 647688 655243 CS then 你 现在 要 去 哪 一个 j. c. eh 哪一个 university 
+NI54FBQ_0101 660449 661513 ZH 哦
+NI54FBQ_0101 662697 670402 EN but you work here and then you apply for i thought you will work here and then study here also
+NI54FBQ_0101 673695 679101 EN no as in you already worked here so you will want to study here then you apply for n. t. u.
+NI54FBQ_0101 683182 699610 EN (er) don't know leh i think the school life quite fun ah but i think s. i. if you want to work part time i think s. i. m. is more suitable cause i have s. i. m. friends who worked also then their life is like work school work school work school
+NI54FBQ_0101 709261 710793 EN but isn't it more expensive
+NI54FBQ_0101 716636 723844 EN huh s. i. m. can take is a government university ah
+NI54FBQ_0101 726176 737960 EN oh i thought only government universities can apply
+NI54FBQ_0101 737960 739470 CS oh 因为 我 apply
+NI54FBQ_0101 739470 743040 CS (er) n. t. u. accountancy 跟 n. u. s. science
+NI54FBQ_0101 743040 745510 CS 所以 当然 是 选 n. t. u. accountancy ah
+NI54FBQ_0101 745510 752000 CS 啊 因为 n. u. s. science i am interested in science but (erm)
+NI54FBQ_0101 752000 755400 CS 他们 讲 你 进 了 first year science 是 每个 人 take common modules right
+NI54FBQ_0101 755400 756210 ZH 然后
+NI54FBQ_0101 756210 758280 CS year two 你 才 选你 要 进 什么 so
+NI54FBQ_0101 758520 763620 CS 我 要 进 的 是 chemistry or not physics lah 因为 我 读 chemistry physics
+NI54FBQ_0101 763900 766420 CS 我 就是 要 进 那种 chemistry 那种 modules 他们 讲
+NI54FBQ_0101 766420 769870 CS chemistry is the more sought after one so 如果
+NI54FBQ_0101 769870 773710 CS 你的 g. p. a. 没有 reach a certain ah
+NI54FBQ_0101 773710 776580 CS 他 就 不让 你 进 chemistry 直接 automatically 叫 你进 physics
+NI54FBQ_0101 776580 779920 CS 然后 我 要 跟 einstein compete 我 才 不要 跟 他们 compete
+NI54FBQ_0101 779920 781970 CS 所以 我 就 选 n. t. u. accountancy lor
+NI54FBQ_0101 786369 789927 EN erm yah but actually i prefer long longer study
+NI54FBQ_0101 792703 809340 CS modules ah i think i think is quite crammed leh they say it's oh actually you can cope one lah once you are in it but then i think the project and stuffs sometimes 有点 难 很多
+NI54FBQ_0101 809340 813740 CS 有时 而且 那些 professors 很 神经病 他们 喜欢 cram 全部 在 一起
+NI54FBQ_0101 813740 824380 CS 他们 很像 他们 给你 一个 recess week but 他们 expect five modules 的 professors 都 expect 你 during that week right 都 做 他们 的 东西 咯 所以 like everyday
+NI54FBQ_0101 825000 826870 CS 就 要 自己 plan 那个 timing
+NI54FBQ_0101 832423 837824 EN ah actually faster than you expect lah
+NI54FBQ_0101 838040 841350 CS 我 觉得 我 还 的 那个 school fees right is not proportionate to what i learn
+NI54FBQ_0101 841350 845600 CS 也 也是 not proportionate to the time i spend in school
+NI54FBQ_0101 845600 856250 CS 因为 我 觉得 我 好像 一直 玩 一直 玩 没有 在 读书 这样 然后 就 over 了 然后 我 就 花 七千块 了 然后 我 觉得 很 奇怪 我 也 没有 学 到 东西 啦 i think last sem
+NI54FBQ_0101 856250 858400 CS 因为 last sem 我是 take 那种 marketing
+NI54FBQ_0101 858400 880280 CS ah o. b. organisational behaviour 那种 好像 是 自己 crap 的 嘞 不用 写 东西 的 不用 那个 他读 的 那个 textbook right 很厚 耶 两个 textbook 都 这样 厚 耶 then 我 也 没有 读 到 啊 although 我的 成绩 不是 很好 啦 可是 他 给 我们 in ten weeks or so you must read finish the whole textbook the size of textbook which you complete
+NI54FBQ_0101 880280 883120 CS like sec three sec four 的 时候 那种 a. maths textbook 的 这样 厚
+NI54FBQ_0101 883120 890481 CS then 他们 在 expect you ten weeks 读 整个 textbook  所以 我 觉得 很 奇怪 也 没有 学到 东西
+NI54FBQ_0101 895100 900030 CS 没有 你 可以 selectively 读 啊 我 觉得 除非 你 是 那种 nerd then 你 就 读 到 完 咯
+NI54FBQ_0101 900030 905500 CS 应该 没有 人 有 有 啦 有 一些 but 应该 是 minority
+NI54FBQ_0101 905500 907570 CS i think 在 n. b. s. 的 都是 那种
+NI54FBQ_0101 907570 918450 ZH 超级 聪明 不用 读 的 要 不然 就是 那种 整天 在 家里 读 的 然后 在 中间 的 就是 啊 看 看 怎样 咯 啊
+NI54FBQ_0101 920303 922190 EN ah at least second upper bah
+NI54FBQ_0101 927439 932327 EN four point five and above lor g. p. a.
+NI54FBQ_0101 932327 941630 CS four and above 是 second class ah second upper first second lower 是 three point five and above
+NI54FBQ_0101 941630 943580 CS accountancy 好像 没有 third class
+NI54FBQ_0101 952805 964831 CS ah but 他们 也 讲说 accountancy 很像 蛮 容易 找 cause every firm will need a accountant lah so if you get a second lower maybe you don't get into the big force you get into those 烂烂 的
+NI54FBQ_0101 968115 970800 CS 我 有 一个 preferred choice but 我 没有 aim
+NI54FBQ_0101 970860 972910 CS 因为 好像 too far fetched for me ah
+NI54FBQ_0101 972910 975185 ZH 我 觉得 我 应该 去 那个 （呃）
+NI54FBQ_0101 975185 976440 CS attachment 过后
+NI54FBQ_0101 976440 979185 CS internship 我 才 选 要 进
+NI54FBQ_0101 979185 981605 CS and they say is almost the same one lah 做的 东西
+NI54FBQ_0101 982115 984125 CS 只是 讲 你跟 different clients
+NI54FBQ_0101 984735 988465 CS so like 好像 p. w. c. 就 跟 那些 比较 bigger clients
+NI54FBQ_0101 988465 993625 CS then if you work with the like k. p. n. g. or something 就 没有 这样
+NI54FBQ_0101 993625 996695 CS ah maybe 你的 clients 是 那种 small companies or something
+NI54FBQ_0101 1002209 1009766 ZH 嗯 没有 去问 随便 随便 就 进 然后 再说
+NI54FBQ_0101 1009766 1015311 CS 差不多 一样 你 读 什么 course s. i. m. 你 apply 什么 course
+NI54FBQ_0101 1018242 1022423 CS management 就是 跟 我 差不多 一样 还是 什么
+NI54FBQ_0101 1026760 1028474 ZH 哦
+NI54FBQ_0101 1029069 1031680 CS then s. i. m. 没有 business course
+NI54FBQ_0101 1031680 1034369 CS then 他们的
+NI54FBQ_0101 1034369 1036300 CS 怎样 分 为什么 有 management
+NI54FBQ_0101 1050930 1053160 CS 我 很像 没有 看过 s. i. m. 的 courses
+NI54FBQ_0101 1065870 1067460 CS temp job 很 恶心 的
+NI54FBQ_0101 1068160 1071830 CS 我的 temp job 没有 像你 这样 的 我 temp job 很忙 的
+NI54FBQ_0101 1071990 1075940 CS 我 做 as 我是 work in some tuition centre at jurong-east
+NI54FBQ_0101 1075940 1084317 EN as i worked as a personal assistant to a principal is a small tuition centre lah with two branches
+NI54FBQ_0101 1084317 1102065 CS ah then 那个 principal 是 from china so my job my basic job is to convert anything that is chinese to eng~ ah try to try to translate lah so (呃) 他 讲 他 讲话 我 就要 帮 他 translate to english to some other people then
+NI54FBQ_0101 1102065 1104575 CS 人家 讲 我 translate bad but 他 会 听 一点点
+NI54FBQ_0101 1104575 1106625 ZH 然后
+NI54FBQ_0101 1106625 1111515 CS that's my basic job but on top of that right 我 就是 sai-kang warrior lor 他 丢 什么 东西 给 我 就做
+NI54FBQ_0101 1111515 1124105 CS 所以 the tuition centre i think lah in my opinion 他是 trying to combine everything together like they don't call it a tuition centre they call it ah 他 换 四次 名字
+NI54FBQ_0101 1124105 1127885 CS 第 一次 他 叫 它 spring language school
+NI54FBQ_0101 1128205 1131515 CS 然后 过后 又 换成 spring school international
+NI54FBQ_0101 1132035 1136495 CS 现在 换成 spring college international 不懂 还要 再 换成 什么
+NI54FBQ_0101 1136495 1138275 ZH 所以 它是
+NI54FBQ_0101 1138275 1140780 CS 所以 他的 那个 programmes offered right is
+NI54FBQ_0101 1140855 1143695 CS a wide range 他有 prov~ provide 那种
+NI54FBQ_0101 1143695 1149285 CS conversat~ adult courses 就是 con~ conversational languages ah 那种 foreign language
+NI54FBQ_0101 1149285 1155857 CS 也有 那种 小孩子 的 tuition then 也有 那种 啊 preparatory courses for o. level a. level
+NI54FBQ_0101 1155857 1162235 CS 啊 所以 很多 啊 对 所以 他 还有 collaborate with like
+NI54FBQ_0101 1162235 1164555 CS different institution like m. d. i. s. 这种
+NI54FBQ_0101 1164555 1169855 CS 所以 after you take your a. levels maybe you can go m. d. i. s. to complete your uni degree or something
+NI54FBQ_0101 1169855 1184215 CS 然后 他们 还 aim to be a university themselves so everything and everything they also have you know so in order to offer everything and anything right they try to copy all those courses from other institutions so
+NI54FBQ_0101 1184215 1187180 CS 我的 工作 right 就是 去 copy 其他 人 的 syllabus
+NI54FBQ_0101 1187535 1189945 CS 然后 去 apply to m. o. e. to
+NI54FBQ_0101 1189945 1196780 EN get the licence so called licence to conduct these courses lah but
+NI54FBQ_0101 1196780 1198830 CS wah 它的 老师 我 跟 你 讲 真的 是 cheat 的 咯
+NI54FBQ_0101 1198895 1201245 CS 他 叫 我去 interview 那个 老师 耶
+NI54FBQ_0101 1201245 1205380 CS 我才 十 okay 我 才 十九岁 真的
+NI54FBQ_0101 1205380 1207370 CS okay interview 老师 还 不用紧
+NI54FBQ_0101 1207370 1209580 CS 啊 他 叫我 interview 是 actually 是
+NI54FBQ_0101 1209580 1212160 CS 骗 他们 所以 我就 like put up a advert
+NI54FBQ_0101 1212160 1217680 EN then the teachers will come and then they say ah okay i am interested in (erm) teaching this course
+NI54FBQ_0101 1217680 1221190 CS so actually 我 是 骗 他们 来 so that i can get their certificates
+NI54FBQ_0101 1221190 1227751 CS and then 我 apply to the m. o. e. to get the course approved but there is no class
+NI54FBQ_0101 1227751 1243020 CS i just want to get the course approved then if there is any customer wanting for the course then 我们 才 see if (erm) there is profit to be earned 我们 才 去 找 那个 老师 啊
+NI54FBQ_0101 1243020 1245910 CS 所以 我 觉得 很 guilty everytime 他 叫我 做 这种 东西
+NI54FBQ_0101 1245910 1247070 ZH 然后 那时
+NI54FBQ_0101 1247070 1250090 CS 不止 interview 老师 他 还 叫 我去 interview
+NI54FBQ_0101 1250090 1256780 CS branch manager 因为 他 是 从 中国 来 的 嘛 所以 他 什么 什么 东西 都是 low cost low cost 所以 他
+NI54FBQ_0101 1256780 1259450 CS i don't think 他的 那个 working environment 很好
+NI54FBQ_0101 1259450 1267460 CS 因为 啊 他 给的 salary 很低 然后 他 又 很 刻薄 所以 他
+NI54FBQ_0101 1267460 1270520 CS 就是 整个 office 不是 很 高兴 那种 咯 就是
+NI54FBQ_0101 1270520 1271410 EN once they are
+NI54FBQ_0101 1271410 1274000 CS out of the office 我们 就 很 高兴 的 那种
+NI54FBQ_0101 1274000 1274860 EN so
+NI54FBQ_0101 1274860 1278970 CS 那时 他 叫 我 interview branch manager because he is going overseas
+NI54FBQ_0101 1278970 1281120 CS 然后 我 就 interview 那个 branch manager
+NI54FBQ_0101 1281290 1283850 CS 然后 那个 branch manager 还 发抖 耶
+NI54FBQ_0101 1283850 1289420 ZH 我 十九岁 他 还 发抖 然后 我 觉得 很 奇怪 然后 其实 我 比 他 还
+NI54FBQ_0101 1289420 1291180 CS 他 还 没有 进来 的 时候 我 就 跟我 colleagues 讲
+NI54FBQ_0101 1291180 1292830 ZH 我 比 他 还怕 耶 怎么办
+NI54FBQ_0101 1292830 1295340 CS 结果 他 来 的 时候 问他 question 他 还 发抖 我就
+NI54FBQ_0101 1295340 1299820 CS oh okay 不怕了
+NI54FBQ_0101 1299820 1302830 CS huh 我 就去 google lor interview questions
+NI54FBQ_0101 1302830 1315540 CS 那种 (呃) what is your experience (erm) (erm) do you think you are capable of something something 那种 然后 他 我 记得 当时 我 interview 他 的 时候 他是
+NI54FBQ_0101 1315540 1317470 CS 他的 previous post 是 (呃)
+NI54FBQ_0101 1317470 1328960 CS i think manager at a corporate 怎样 讲 啊 啊 不是 就是 sing~ in charge of singapore 的 regional manager 啊 其实 那个
+NI54FBQ_0101 1328960 1332060 CS ah company 是 他 自己 开 的 啦 所以 他是 regional manager
+NI54FBQ_0101 1332060 1343240 CS 啊所以 他 i don't think 他有 experience 所以 他 就 一直 发抖 然后 我就 一直 笑 我 又 不 可以 笑
+NI54FBQ_0101 1343240 1344480 CS 那个 branch manager
+NI54FBQ_0101 1344480 1357675 CS 哎呀 来了 然后 来 一天 就 跑掉 然后 我 也是 要 跑掉 but 他 sign me to a contract ah 然后 (呃) 他 我 其实 很 笨 耶 我 去 的 时候 i think 我 二月 去 然后 我
+NI54FBQ_0101 1357675 1361675 CS promise to work until 六月 before my uni ah
+NI54FBQ_0101 1361675 1364135 CS 然后 我的 pay 是 six dollars per hour
+NI54FBQ_0101 1364135 1365285 ZH 然后
+NI54FBQ_0101 1365285 1369885 CS the previous p. a. right 也是 被 气 到 走 了 他的 pay 是 seven dollars per hour leh
+NI54FBQ_0101 1369885 1374375 CS so 我 after that 我 realised 的 时候 我 觉得 好像 被 骗 的 感觉
+NI54FBQ_0101 1374375 1379565 CS 然后 他 又 给 我 这样 多 东西 做 on top of 那个 syllabus ah 什么 东西 我 还要 帮 他 做 那种
+NI54FBQ_0101 1379565 1386045 CS (erm) write letters ah 还是 什么 so 我 觉得 很 not very working happy working there
+NI54FBQ_0101 1386045 1391565 ZH 然后 过后 他 叫 我 做 什么 哦 过后 我 就 要 走 了 嘛 然后 他 就 在
+NI54FBQ_0101 1391565 1395695 CS 我 就 编 一个 很 stupid 的 reason 然后 我 就 讲 get out of the
+NI54FBQ_0101 1395695 1405017 CS 啊 然后 他们 有 跟 我 讲 the contract they sign me to is not valid because i am still a minor under twenty one years old or something
+NI54FBQ_0101 1405017 1413920 CS then just at that point right 那个 ministry of manpower 换成 under eighteen years old 就 可以 eh above eighteen years old 就可以了
+NI54FBQ_0101 1414080 1416790 CS 然后 过后 我 的 另外 一个 branch manager 又 跟 我 讲 说
+NI54FBQ_0101 1416840 1419150 CS 其实 可以 的 啦 因为 是 unfair contract
+NI54FBQ_0101 1419570 1421670 CS 他的 contract terms is unfair to me so that
+NI54FBQ_0101 1421670 1427220 CS so the law will protect me let's say 他 sue me (erm) like sue me for anything lah
+NI54FBQ_0101 1427220 1428920 CS 因为 他的 contract term 是
+NI54FBQ_0101 1428920 1448505 EN if let's say i never serve to the end of my ah period i will have to pay compensation of two thousand dollars that is even more than what i earn in that ah then if let's say i give them maybe one month notice i will still need to pay one thousand dollars and forgo that one month's pay
+NI54FBQ_0101 1448505 1451135 CS so 我 觉得 很 奇怪 就是 not logical 的
+NI54FBQ_0101 1451135 1454110 CS 然后 他们 我就 try to get out
+NI54FBQ_0101 1454110 1464325 CS without the compensation 然后 they hire another personal assistant for him 然后 那个 p. a. 做了 一天 过后 我 跟他 讲我 delegate 完 全部 的 jobs 然后
+NI54FBQ_0101 1464325 1466195 CS 他就 the next day 他 就 不要 来了
+NI54FBQ_0101 1466195 1473285 CS 他 就 不要 开 电话 也 不要 什么 然后 我 就 很 sad 因为 没有 人 take over 我的 duties 我就 不 可以 走 嘛
+NI54FBQ_0101 1473675 1476415 CS 所以 他 就 叫我 stay for two more weeks
+NI54FBQ_0101 1476945 1480425 CS 然后 我就 stay for two more weeks hoping that 我 可以 get out without compensation
+NI54FBQ_0101 1480425 1491838 CS 然后 过后 我 真的 走了 过后 他 把 我 全部 的 job 丢 给 另外 一个 marketing manager 那个 名字 是 没有 用 的 可以 讲 就是 全部 的 job 就是 你 做 就是 了
+NI54FBQ_0101 1493495 1504310 CS 没有 but i am still working there as a teacher ah 就是 整天 siam 他 就是 了 因为 他 早上 才 去 早上
+NI54FBQ_0101 1504310 1506125 CS 他 会 在 office 里面 然后
+NI54FBQ_0101 1506125 1508885 ZH 下午 不在 所以 我 就 下午 才 去 因为 我跟
+NI54FBQ_0101 1508885 1511570 CS outside 的 那些 receptionist 那些 office workers
+NI54FBQ_0101 1511570 1514675 CS on better relationships than 跟他
+NI54FBQ_0101 1514675 1515540 ZH 其实 就是
+NI54FBQ_0101 1515540 1519403 CS the outside office people against 他 而已 啊
+NI54FBQ_0101 1523636 1526077 ZH 做 什么 老师 做 什么啊
+NI54FBQ_0101 1529453 1530985 ZH （呃） 他们
+NI54FBQ_0101 1530985 1536765 CS 他们 给 我 什么 我 就 教 什么 咯 as in 没有 啦 他 会 有
+NI54FBQ_0101 1536765 1539475 CS (呃) 因为 那些 receptionist 是 我的
+NI54FBQ_0101 1539475 1541555 ZH 已经 算是 朋友 了
+NI54FBQ_0101 1541555 1547035 CS 然后 有 时 他 如果 有 什么 available jobs 他 就会 like s. m. s. 我 这样 okay we need a
+NI54FBQ_0101 1547035 1554645 CS maybe a relief teacher for this ah for this saturday only they got s. m. s. me then 有时 是 啊
+NI54FBQ_0101 1554645 1557050 CS for long term basis ah 现在 我是 在 take 一个
+NI54FBQ_0101 1557050 1558525 EN p. four math student
+NI54FBQ_0101 1558525 1568245 EN then ah yah one to one ah a class like (erm)
+NI54FBQ_0101 1568245 1569945 CS 因为 他的 business 不是 很好
+NI54FBQ_0101 1571065 1573325 CS as in 怎样 讲 很少 walk ins
+NI54FBQ_0101 1574695 1581715 CS 除非 你是 r. c. 以前 小时候 primary school 不是 有 r. c. 然后 很 便宜 那种 他们 的 不是 很 便宜 嘞 他们 的 是
+NI54FBQ_0101 1581715 1585255 CS like 一个 礼 一个 月 三百多 块
+NI54FBQ_0101 1585255 1588945 CS 以前 我 记得 我 一个 lesson 好像 一个 小时 八块钱 or something
+NI54FBQ_0101 1588945 1590555 EN yah then
+NI54FBQ_0101 1590555 1595125 CS 现在 他们 they can afford to pay me for a p. four kid twenty dollars per hour leh
+NI54FBQ_0101 1595125 1597030 EN yah so
+NI54FBQ_0101 1597030 1600985 CS i think 他们 也是 有 一点 笨 因为 那个 market rate 是 fifteen dollars mah
+NI54FBQ_0101 1600985 1603435 CS 然后 他 可以 pay me twenty dollars
+NI54FBQ_0101 1603435 1606235 CS 所以 他们 也是 赚 不多 啦 他们 的 marginal benefit
+NI54FBQ_0101 1606235 1606999 ZH 没有 很多
+NI54FBQ_0101 1611440 1613959 ZH 我 算过 了 没有 赚 很多
+NI54FBQ_0101 1620182 1621175 EN they they got
+NI54FBQ_0101 1621175 1623425 CS 我 有 看过 他们 的 income statement 有
+NI54FBQ_0101 1623425 1629138 CS 有赚 but 他们 是 赚 在 那种 foreign languages
+NI54FBQ_0101 1636067 1647175 CS 我 跟 你 讲 hor 那些 老师 都是 我 自己 打 电话 的 咯 okay lah 如果 你 幸 你 幸运 哇 我 找 到 一个 好的 老师 啊 then 就是 你 幸运 如果 找 那种 (呃)
+NI54FBQ_0101 1647175 1650225 CS like for example malay language 去 哪里 都 找 得 到 嘛
+NI54FBQ_0101 1650225 1658770 CS 所以 我 找 不好 then 就是 不好 的 咯 所以 (呃) 怎样 讲 我 那些 customer 一踏 进来 然后 问 那些 question hor 我 就 觉得
+NI54FBQ_0101 1658770 1664935 CS 就是 他们 once they enrol into a course 我 就 会 很 pity 他们 可是 我 不敢 讲 出来 因为
+NI54FBQ_0101 1664935 1668475 CS 尤其 是 foreign languages 还 不用紧 你 上 了 一个 level 过后 就
+NI54FBQ_0101 1668475 1670695 ZH 完了 了 我 可 我很
+NI54FBQ_0101 1670695 1673350 CS but 他们 是 赚 在 那种 preparatory course for
+NI54FBQ_0101 1673350 1675815 EN o. level or a. level ah
+NI54FBQ_0101 1675815 1678395 CS 真的 是 在 骗人 钱 而且 他们 charge 很高
+NI54FBQ_0101 1678395 1686365 CS i think 一 啊 一个 月 好像 千多 块 这样 真的 是 千 很贵 他们
+NI54FBQ_0101 1686365 1690005 CS 因为 那些 是 full time students from other 学 from other countries
+NI54FBQ_0101 1690005 1700515 CS so we have mainly students from china 现在 好像 扩充 到 好像 有 那种 a few canadian students 然后 korean students or something
+NI54FBQ_0101 1700515 1703165 CS 他们 是 那些 parents i think 太 有钱 了
+NI54FBQ_0101 1703165 1706305 CS 所以 他们 once they heard of it okay they come down
+NI54FBQ_0101 1706305 1709085 CS but the teachers huh 就是 我 也 可以 进去 教 的
+NI54FBQ_0101 1709085 1731403 CS so 我 觉得 很 奇怪 就是 那些 老师 怎样 讲 每次 都 每天 都 换 老师 耶 you imagine a full time school preparing you for a o. level course how can you change the teacher like one now and then 然后 once you change teacher and then they don't follow any syllabus one so depends on the teacher so
+NI54FBQ_0101 1731403 1735940 ZH 啊
+NI54FBQ_0101 1735940 1741180 CS 他 有 一个 啊 our own school 的 cert but it does 没有用 what 我们 school the cert
+NI54FBQ_0101 1741180 1742190 ZH 然后
+NI54FBQ_0101 1742190 1745090 CS 最重 要 是 那种 那个 preparatory courses for o. levels 是
+NI54FBQ_0101 1745090 1750790 CS we prepare you to go for the o. level exam so once you are o. level you take aleady then you come back 你
+NI54FBQ_0101 1750790 1752640 CS 不 可以 进 any 学校 的话
+NI54FBQ_0101 1752640 1758220 CS 再 继续 读 咯 read for another year 咯 所以 那些
+NI54FBQ_0101 1758220 1760220 CS 好像 很多 cases 都是 这样
+NI54FBQ_0101 1760220 1761580 ZH 读了 不懂 几年
+NI54FBQ_0101 1761580 1765240 CS 当然 有 successful cases lah but i think 是 他们 自己 本来 就 聪明 了
+NI54FBQ_0101 1765420 1770160 CS 所以 他们 就 bank on 那 几个 successful cases then try to rip more people in
+NI54FBQ_0101 1774010 1777700 CS 啊 他们 有 两个 branch 我 觉得 你 去 那个 bishan branch 会 比较 好
+NI54FBQ_0101 1777700 1786020 CS 因为 他们 已经 establish for quite a few years i think ten years 了 嗯 bishan branch
+NI54FBQ_0101 1786020 1788750 CS 然后 他们 的 老师 是 more or less stablise 的
+NI54FBQ_0101 1788750 1795760 CS 然后 如果 你 来 那个 jurong branch 的话 哇 我 跟你 讲 我可以 进去 教 然后 再 出来 在 跑 来 跑 去 这样
+NI54FBQ_0101 1795760 1797730 CS 真的 是 一个 market place 这样 咯
+NI54FBQ_0101 1797730 1801120 CS so 我 觉得 他们 呢 好像 被骗
+NI54FBQ_0101 1805949 1810730 CS 我 外 我 外面 还有 tuition besides the tuition centre
+NI54FBQ_0101 1810730 1814450 CS 啊 那个 tuition centre 是 因为 我 要 帮 那些 colleagues 因为 他们 找不到
+NI54FBQ_0101 1814450 1817825 ZH 啊 所以 我 才去 要 不然
+NI54FBQ_0101 1817825 1821705 CS 我 教 的 是 secondary school o. level 还是 a. level
+NI54FBQ_0101 1821705 1827175 CS 那他 赚 比较 多 在 那个 tuition centre 赚 比较 少 有 时候 我 觉得 很 浪费 时间
+NI54FBQ_0101 1830973 1842984 CS huh 我 好像 每次 都有 我 每次 要 reject 然后 我 就 觉得 很 很 什么 然后
+NI54FBQ_0101 1842984 1849120 CS 然后 我就 combine 我的 两个 本来是 外面 我 有 一个 学生 我 只要 take 两个 tuition 因为 上
+NI54FBQ_0101 1849120 1851700 CS the last sem 我 take three students 然后 我 觉得
+NI54FBQ_0101 1851700 1852860 ZH 啊 太
+NI54FBQ_0101 1852860 1855070 CS 太 累 了然 后 那个 g. p. a. 不是 很好
+NI54FBQ_0101 1855070 1864830 CS 然后 我就 take two students this sem 然后 就有 一个 aunty 一直 讲 你 帮 他 啦 你 帮 他 很多 aunty 然后 我就
+NI54FBQ_0101 1864830 1867470 CS okay 啦 然后 我 就 combine 那 两个 学生
+NI54FBQ_0101 1868060 1870170 CS 很难 教 嘞 两个 学生 in one time
+NI54FBQ_0101 1870170 1878985 CS 就 赚 很多 咯 很 好赚 but 你 i think from the start
+NI54FBQ_0101 1878985 1882965 CS from the two hours 你 从头 到尾 没有 stop 到 就 一直 在 讲话 这样
+NI54FBQ_0101 1882965 1890090 EN erm mainly a. math e. math lah
+NI54FBQ_0101 1890090 1891625 CS but sciences 也有 教
+NI54FBQ_0101 1891625 1892995 ZH （呃）
+NI54FBQ_0101 1892995 1894715 CS humanities 都 不可以 教
+NI54FBQ_0101 1894715 1908635 CS humanities 是最好 有 叫我 tutor tu~ 什么 geography or something 我 在想 geography 怎样 哦 bio bio 不 可以 教的 嘛 啊
+NI54FBQ_0101 1908635 1912750 CS 所以 我 就在 想 啊 没有 没有 教 bio 有 就是 physics 跟 chemistry
+NI54FBQ_0101 1912750 1915133 CS but 如果 有 questions 就 可以 问 啦
+NI54FBQ_0101 1918882 1928554 CS ah-nor geography 很 奇怪 social studies 我 就 i think 那些 parents 只是 要讲 okay 你 全部 都 可以 教 到 完 啊对 就 教 到 完 好 了
+NI54FBQ_0101 1938235 1940527 EN but what is the aim of this
+NI54FBQ_0101 1948129 1952760 EN  so i am supposed to speak in a singaporean way lah
+NI54FBQ_0101 1952760 1954740 CS oh but 他 叫 code switching right
+NI54FBQ_0101 1954810 1957400 CS 我 以为 是 他 要 test 我的 ability to code switch eh
+NI54FBQ_0101 1957400 1959510 CS 我 现在 我 以为 是要 test
+NI54FBQ_0101 1959610 1965050 CS singaporean's ability to switch between chinese and english so 刚才 beginning 的 时候 你 问 我 english 的 时候 我 就会
+NI54FBQ_0101 1965050 1970035 CS reply 你 in english 然后 when you ask me in chinese i will reply you in chinese
+NI54FBQ_0101 1972131 1973066 ZH 啊
+NI54FBQ_0101 1988203 1990636 CS then 你 跟 我 讲 华语 的 时候 我 会 讲 华语
+NI54FBQ_0101 1992176 2003317 CS 我是 reply i think 我是 recognise by ah the ah like 我的 friends 有 different cliques right different cliques will speak different languages
+NI54FBQ_0101 2003317 2019355 CS 然后 我的 那个 f. o. c. cliques 乎 他们 会 觉得 我是 jiat gan tang 啊 然后 我就 很 奇怪 就是 只是 speak english only 因为 during the camp right the first thing you say to people is always english right so i only speak english during the entire camp
+NI54FBQ_0101 2019355 2022915 CS so 有 一天 我们 就 去 k. box 唱歌 然后 那个 g. l. 就 讲
+NI54FBQ_0101 2022915 2034244 CS 你会 读那个 字 吗 然后 我就 (呃) 当然 会 啦 很 奇怪 他 真的 很 serious 的 问 我 我 会 不会 读 那个 字 然后 我就 (呃) 会 啊
+NI54FBQ_0101 2034244 2038745 ZH 然后 他 真的 以为 我 不会 讲 华语 然后 我 就 觉得 因为
+NI54FBQ_0101 2038745 2042075 CS 从小 到大 没有 人 讲 我 只是 speak english 而已
+NI54FBQ_0101 2042075 2046560 ZH 过后 我就 很 奇怪
+NI54FBQ_0101 2051598 2053095 EN p. c. m. e.
+NI54FBQ_0101 2055034 2058344 CS 你的 j. c. 的 syllabus 跟我 一样 h. one h. two right
+NI54FBQ_0101 2058344 2062355 EN huh
+NI54FBQ_0101 2062355 2065505 CS that means 你 对 science 没有 这样 好 你的 arts 比较 好
+NI54FBQ_0101 2065505 2070935 CS 哦 我的 arts 不 可以 but 我
+NI54FBQ_0101 2070935 2074465 CS 我 对 那种 no yes no answer 觉得 很
+NI54FBQ_0101 2074465 2079344 CS okay lah geogrphy still okay cause is just memorising but 那种 啊
+NI54FBQ_0101 2079344 2083425 CS literature hor 叫 你 dis read between the lines 我 就要 死掉 了
+NI54FBQ_0101 2083855 2087155 CS like secondary school 他们 compulsory 叫 我们 take literature elective
+NI54FBQ_0101 2087155 2091541 CS 然后 我就 因为 我的 那个 literature elec ah 他 讲 说
+NI54FBQ_0101 2091541 2106105 CS i don't want you take elec lit i want you take full lit so 我的 e. lit 本来 就 不好 只 可以 choose elec lit mah 然后 他叫 我做 poem 我就要 死掉了 真的 不会 
+NI54FBQ_0101 2106105 2110975 CS 不会 read between the lines 然后 他 又 偏偏 要 我们 write an essay on a short poem 我 怎样
+NI54FBQ_0101 2110975 2113855 EN cannot decipher any meaning
+NI54FBQ_0101 2116327 2117729 EN ah
+NI54FBQ_0101 2119936 2131596 CS 啊 eh 刚才 你 不是 问我 我的 学校 是 什么 我 不是 问我 in chinese 我的 学校 是 什么 我 想 很久 bukit panjang government high school 是 什么  武吉班让
+NI54FBQ_0101 2131596 2146078 CS 对 咯 我 在 想 为什么 我 想 很久 耶 然后 我 那个 national junior collge 我是 编 出来 的 因为 我懂 是 国初 所以 我就 国家 初级 学院 
+NI54FBQ_0101 2156580 2158205 CS 不要 进 n. j. 我觉得 不好
+NI54FBQ_0101 2159475 2161753 CS 我 觉得 他的 value at the last one
+NI54FBQ_0101 2163811 2173510 CS 就是 很像 他们 不是 有 讲 说 bukit panjang once you go in it's like the r. i. of the west or ah 就是 i i really
+NI54FBQ_0101 2173510 2175800 CS felt that 因为 我 觉得 我 小学 时候
+NI54FBQ_0101 2175800 2180090 CS 不是 很 聪明 okay above average slightly above average but 进了
+NI54FBQ_0101 2180090 2182955 CS bukit panjang 过后 他 真的 教 了 我 很多 东西
+NI54FBQ_0101 2182955 2193465 CS 所以 i enjoyed my secondary school life 因为 我 真的 有学 有玩 到 然后 可是 我 去 到 n. j. right 我 很像 在 contribute to the society 怎样 讲 huh
+NI54FBQ_0101 2193465 2197935 CS okay lah 他 有 教 我 东西 just get me i think the two years is too short or something
+NI54FBQ_0101 2197935 2202025 EN so they just try to throw all the information at me and
+NI54FBQ_0101 2202025 2205465 CS trying to absorb 然后 还 没有 absorb 完 他 就 叫 我 去 a. levels 了
+NI54FBQ_0101 2205465 2208782 ZH 所以 他 好像 没有 教到 我 很多 东西 这样
+NI54FBQ_0101 2212200 2214480 CS okay lah 我的 j. c. friends 还 okay
+NI54FBQ_0101 2214480 2220520 CS 因为 some 是 continue from ah secondary school
+NI54FBQ_0101 2220520 2224780 CS 我 觉得 if you want to go top five j. c. right
+NI54FBQ_0101 2224780 2227200 CS 不要 选 n. j. 我 觉得 a. c. 比较 好
+NI54FBQ_0101 2230774 2232436 EN mugger lor
+NI54FBQ_0101 2233683 2239740 CS 会 每天 那个 library 都有 人 的 
+NI54FBQ_0101 2239740 2243340 CS a. c. 人家 会 笑 你 eh but 现在 有 两个 clique 了
+NI54FBQ_0101 2243340 2254810 CS 以前 以前 以前 他们 讲说 (呃) a. c. 是 那种 有 钱人 去 then 只 可以 讲 英语 那个 只 可以 讲 英语 到 现在 还是 有 啦 可是 (erm) 现在
+NI54FBQ_0101 2254810 2259330 CS more and more people like 很 像 river valley ah bukit panjang 这些 学校 进 了 过后
+NI54FBQ_0101 2259330 2267208 ZH 就有 嗯 另外一派 (呃) 没有 这样 有钱 的 那种 进去 过后 就 比较 好 没有 这样
+NI54FBQ_0101 2267208 2278550 CS i think 最近 才 比较 mugger 以前 以前 是 那种 (嗯) st. margaret's (呃) 那种 那些 他们 人 哪里 mugger 他们 回家 mug 的 不 可以 在 学校 mug
+NI54FBQ_0101 2278550 2283690 CS 他们 是 静静 在家 里 读 然后 parents 请 很多 tuition 老师 给 他们 读 的
+NI54FBQ_0101 2287243 2288852 CS huh-nor 穿 短裤 的 咯
+NI54FBQ_0101 2289658 2299343 CS 还有 那个 cat. high 的 我在 讲 男的 又 不是 讲女的  我 觉得 不 觉得 他们 很 恶心 meh 没有 i think
+NI54FBQ_0101 2301193 2310750 CS but 现在 他们 都 已经 six years 都 看不到 他们 了 咯 ah-nor 以前 因为 我去 a. c. 的 时候 通常是 看到 长裤 的
+NI54FBQ_0101 2310750 2313150 CS then 那个 男孩子 全部 很 gentlemanly 的
+NI54FBQ_0101 2313200 2318710 CS will never let a door slam on you 第 一天 我 去 n. j. 的 时候 我 就 被 那个 l. t. five 那个 door slam 到
+NI54FBQ_0101 2318710 2327767 CS 因为 那个 男孩子 我很 used to 那个 男孩子 like will at least hold the door until you pass 就是 you can hold on to the door right
+NI54FBQ_0101 2327767 2337775 CS 他是 那种 根本 不管 自己 已经 走 进去 然后 那个 door 就 slam 在 我的 脸 上面 这种 然后 我觉 得 很 big difference culture shock ah
+NI54FBQ_0101 2342818 2346206 CS but 我 觉得 cat. high 的 男孩子 比
+NI54FBQ_0101 2347490 2350370 CS 比 r. v. 的 男孩子 更 not gentlemanly
+NI54FBQ_0101 2351996 2355528 ZH 那个 穿青色 的 裤子 短裤
+NI54FBQ_0101 2357242 2358748 EN only boys
+NI54FBQ_0101 2363604 2364928 ZH 啊 对 对
+NI54FBQ_0101 2364928 2367930 CS 啊 华中 也是 i think chinese high 也是
+NI54FBQ_0101 2367930 2370590 CS but r. v. 应该 懂 吗 r. v. 是 mixed school eh
+NI54FBQ_0101 2370590 2376440 CS 还是 全部 的 r. v. 的 女孩子 都很
+NI54FBQ_0101 2376440 2379150 CS okay leh 我的 r. v. friends 有些 speak english 的 嘞
+NI54FBQ_0101 2379150 2385780 EN effectively bilingual oh
+NI54FBQ_0101 2385780 2388310 CS then 你 从 r. v. 去 j. j.
+NI54FBQ_0101 2388310 2394050 CS normally r. v. normally r. v. oh 不是
+NI54FBQ_0101 2394050 2397240 CS 去 那种 为什么 你 会 去 s. i. m. 因为 你要 半工半读
+NI54FBQ_0101 2397240 2400370 CS actually 你在
+NI54FBQ_0101 2400370 2402960 CS n. t. u. 还是 n. u. s. 也 可以 半工半读
+NI54FBQ_0101 2404574 2410361 CS 你是 做 什么 工作 你要 你的 你 (嗯) monthly income 要 到 什么
+NI54FBQ_0101 2412134 2422330 CS 就是 啊 有没有 付 学费 要 付 学费 啊 如果 你 take bank loan 了 right 我 现在 bank loan
+NI54FBQ_0101 2422330 2425070 CS then 一个 semester 是 三百
+NI54FBQ_0101 2425070 2430390 EN ninety percent
+NI54FBQ_0101 2430390 2432760 CS 我 以为 hundred percent leh 我 很 高兴
+NI54FBQ_0101 2432760 2436840 CS 然后 (呃) ninety 现在
+NI54FBQ_0101 2436840 2439970 CS 你 可以 自己 take 你要 什么 percent ah 最高 是 ninety percent
+NI54FBQ_0101 2439970 2440850 ZH 啊
+NI54FBQ_0101 2440850 2443390 CS 所以 我 就 take ninety percent 我 以为 是 hundred percent leh
+NI54FBQ_0101 2443390 2444910 ZH 然后 结果 还要 付钱
+NI54FBQ_0101 2444910 2450200 CS 所以 就 ninety percent 过后 i think after 一个 semester 就 three hundred 所以 divide it over
+NI54FBQ_0101 2450200 2454227 EN maybe five months one month sixty dollars
+NI54FBQ_0101 2454227 2464304 CS ah so 如果 你 一个月 的 monthly expenses 没有 那么 高 还 okay what 你 可以 take tuition ah
+NI54FBQ_0101 2469131 2476584 CS oh but 我 觉得 like s. i. m. 是 要 给 那种 不是
+NI54FBQ_0101 2476584 2485600 CS 是 meh 我 以为 因为 他 they have this saying that s. i. m. 是 once you have money you can buy the certificate or something yah
+NI54FBQ_0101 2489859 2490908 EN u. o. l.
+NI54FBQ_0101 2492641 2506272 CS oh oh i don't know leh 我的 friends who study at s. i. m. 是 those who cannot make it to government ah university something 很少 人 听 很少 听到 有人 会 automatically opt for s. i. m.
+NI54FBQ_0101 2509022 2519607 CS but 我 觉得 他们 的 exam 也是 蛮 容易 的 so okay 他们 的 finals 好像 蛮 容易 的
+NI54FBQ_0101 2519607 2536156 CS 因为 他们 是 rate on the bell curve mah 所以 you are competing with those who cannot make it to the ah government uni so (erm) i think their results not bad one my friends ah 全部 都是 a. 的 那种
+NI54FBQ_0101 2541891 2559330 CS 没有 我从 点半 就 没有 课了 十点半 i went for another survey for my intro intro to psychology we have this criteria we must meet like 我们 要 去
+NI54FBQ_0101 2559330 2561680 CS 好像 有 十个 survey 要 fulfil
+NI54FBQ_0101 2561680 2569000 EN so that we can get the ten percent of the grade ah around the school lor
+NI54FBQ_0101 2569000 2571500 CS 他是 actually help helping the final year students
+NI54FBQ_0101 2571810 2574110 CS final year psychology students 是要 take
+NI54FBQ_0101 2575320 2580750 CS 他们是 要有 一个 hypothesis like 一个 test or something like that 就是 讲 说 for example i hypothesize that
+NI54FBQ_0101 2580750 2597150 CS ah the more people eat the smarter they are ah then 他们 就会 做 很多 surveys to see (erm) if you really eat a lot then you are smarter or something so they need you to help you help them complete their surveys ah so
+NI54FBQ_0101 2597150 2602070 CS 我们是 elective student 所以 他们 会 叫 我们 year one students complete 他们的 surveys
+NI54FBQ_0101 2602070 2613760 CS so that they can complete their degrees ah leadership and entrepreneur something something 就是
+NI54FBQ_0101 2613760 2616390 CS 做 一个 simple survey 这样 questionnaire
+NI54FBQ_0101 2616390 2635105 CS 也 蛮 容易 赚 那个 ten percent 的 then 他 昨天 好像 不是 昨天 tuesday ah 我 就 去 做 做 一个 about earth study 的 啊 i think they are trying to test the awareness of the respondent's awareness of the ah detrimental effects you are doing on earth
+NI54FBQ_0101 2635105 2645850 CS 然后 他们 就讲 那个 the questionnaire is forty five minutes long then you will get two dollars on top of your (erm) credit for your course lah so
+NI54FBQ_0101 2645850 2648880 CS because 那个 survey 比较 special 他 叫 我们 画 一个 poster
+NI54FBQ_0101 2648980 2654000 CS so 拿 那个 two dollars 过后 hor 我 很 高兴 因为 本来 我 不知道 是 two dollars 拿 很 高兴 then 他 就 跟我 讲
+NI54FBQ_0101 2654000 2656250 EN (erm) do you want to donate to the
+NI54FBQ_0101 2656250 2660430 CS world wild wide fund 然后 我 看到 那个 bottle 里面 没有 钱 嘞
+NI54FBQ_0101 2660430 2670876 CS 然后 我就 okay lah 就 donate lor 然后 我 傻傻 把我 全部的 两块钱 放进去 那个 bottle 里面 过后 我觉得 我好像 被 cheated 因为他个 bottle 没有 钱 leh 就是 每一人 没有 donate 只有 我 donate 而已
+NI54FBQ_0101 2670876 2680031 CS 因为 很多人 在 那个 survey mah 只有 我 一个 人 donate 然后 我 觉得 eh 其实是 不用 donate 的 right 他 讲到 很像 很 在 求我
+NI54FBQ_0101 2680031 2685330 CS 然后 如果 我 在想 只有 两块钱 in total 他 做么 要 donate to 那个 worldwide wild fund
+NI54FBQ_0101 2685330 2688020 CS 就 不用 donate 了 吗 就是 他 自己的 了 咯
+NI54FBQ_0101 2694389 2696820 CS 有 normally 是 (嗯)
+NI54FBQ_0101 2696820 2699700 CS 如果 你 不是 做 for 那个 study credit 你是
+NI54FBQ_0101 2699770 2702810 CS 去 的话 好像 是 five dollars for thirty minute survey
+NI54FBQ_0101 2702810 2704886 CS like for canvassing 这样
+NI54FBQ_0101 2704886 2706481 ZH 啊
+NI54FBQ_0101 2706481 2710541 ZH 啊 很划 所以 他们 叫 我们 来
+NI54FBQ_0101 2717950 2718860 EN i think
+NI54FBQ_0101 2718860 2722480 CS 他们 讲 说 因为 normally 是 thirty minutes five dollars
+NI54FBQ_0101 2722480 2724020 ZH 然后 所以
+NI54FBQ_0101 2724020 2727750 CS one hour 你 赚 多 five dollars mah 这样 所以 他们 觉得 很 划
+NI54FBQ_0101 2727750 2736299 CS 所以 一直 逼 我们 来 然后 讲说 很 容易 的 只是 来 这边 讲话 就 可以 了 然后就 okay lor 然后 就 来 咯
+NI54FBQ_0101 2736299 2742355 CS stephanie lor ah ah 对 然后 他们 讲 很好 赚 的
+NI54FBQ_0101 2742355 2744420 CS but 可以 来 more than one time meh
+NI54FBQ_0101 2744635 2747285 CS 可以 啊 所以 我 一直 就 sign up 一直 来
+NI54FBQ_0101 2748115 2751545 CS okay then 我 就 一直 sign up lor then 是 不是 一直 跟你 讲 话
+NI54FBQ_0101 2754258 2760990 CS 哦 刚才 那个 professor 啊 就 两个 而已 啊 他们 骗我 他们 讲
+NI54FBQ_0101 2760990 2762330 CS stephanie 讲 说
+NI54FBQ_0101 2762330 2769124 EN erm maybe they will allocate you to a chiobu or a something then you can find your second love or something
+NI54FBQ_0101 2770863 2777150 CS 然后 我 就 在 那边 然后 我 还有 还有 另外 一个 hall participants right
+NI54FBQ_0101 2777150 2778590 CS 他们 也是 trying to canvass
+NI54FBQ_0101 2778590 2796399 CS 啊 啊 对 对 然后 他 我 有 一个 friend 他在 hall six 他 也是 来 他来 第二次 了 他 就 跟 我 我 就 问 他 所以 你 有 没有 找到 没有没 昨天 你 那个 canvass 的 是 不是 一个 帅哥 他 讲 说 对耶 蛮帅 其实 发现 他 好像 骗我 他 讲说 其实 长的 很像 george clooney
+NI54FBQ_0101 2796399 2800590 CS 所以 就是 他 长的 很像 george clooney
+NI54FBQ_0101 2800590 2803420 CS 所以 那个 chio-bu 就是 你 那个 george clooney 就是 他
+NI54FBQ_0101 2806930 2810880 CS 然后 我 以为 i have this perception that it is talking to a computer
+NI54FBQ_0101 2810880 2815818 EN so the computer will have this image of one person then you are talking to the person
+NI54FBQ_0101 2815818 2820607 CS 然后 我 就 觉得 okay 所以 等下 我 可能 会 打到 一个 帅哥
+NI54FBQ_0101 2822352 2825465 ZH 啊
+NI54FBQ_0101 2825465 2832290 CS 然后 我 就是 很 不想 跟 那个 男孩子 讲话 因为 我觉得 很 奇怪 然后 我 就 以为 要 code switch
+NI54FBQ_0101 2832290 2836175 CS 所以 我 就 觉得 很 stress 我也 不想 来 过后 好像 okay leh
+NI54FBQ_0101 2836175 2841023 ZH 没有 怎样 那 你 不是 很闷 你的 工作 就在 这边 跟人家 讲话
+NI54FBQ_0101 2848113 2858291 CS huh 你 还要 你 还要 decipher okay 等下 我 讲 慢 一点
+NI54FBQ_0101 2861305 2864735 CS 就是 你要 type 很 像 subtitles 这样
+NI54FBQ_0101 2870786 2872914 CS okay 也 蛮 闷 的
+NI54FBQ_0101 2875123 2876681 EN but is the pay good
+NI54FBQ_0101 2879580 2881905 CS 我 真的 觉得 我的 six dollars per hour 是 被 骗 的
+NI54FBQ_0101 2881905 2888675 CS  eh 过后 他叫 我 work two weeks extra eh 我 跟他 要 pay rise eh
+NI54FBQ_0101 2888675 2891410 CS 真的 有 increase 到 but 是 seven dollars per hour
+NI54FBQ_0101 2891410 2898485 CS but 是 a big difference eh 我 看 那个 pay 多 很多 了 咯
+NI54FBQ_0101 2898485 2902995 CS 我 觉得 我 就 听 人家 讲 personal assistant 的 job 其实 是 one hour ten dollars
+NI54FBQ_0101 2902995 2905705 CS 啊 然后 他 给我 six dollars
+NI54FBQ_0101 2906822 2914240 ZH 因为 我 那时 回来 的 时候 是 那种 很想 找 工作 做 然后 又 这样 靠近 我家 哎呀 随便 啦 就 做 咯
+NI54FBQ_0101 2914240 2920478 CS 唉 我 真的 是 我 觉得 is the
+NI54FBQ_0101 2920478 2923005 EN (em) not through agent
+NI54FBQ_0101 2927965 2942586 CS 啊 对 对 然后 我听 人家 我的 friend 讲 他们 的 工 他们 的 like 工作 很 relax 的 就是要 那种 c. p. f. board aiya 只要 穿 美美去 然后 就 坐在那边
+NI54FBQ_0101 2942586 2946970 CS (呃) 然后 我有 一个 friend 做在 c. 在 c. p. f. 做 他们的 工作 就是 (嗯)
+NI54FBQ_0101 2946970 2954115 EN type letters to all those like public lah so their names their job is just to regurgitate the name ah
+NI54FBQ_0101 2954115 2957120 CS 然后 他们的 joy in doing their work is to
+NI54FBQ_0101 2957120 2971145 CS 看 笑 人家 的 名字 像 那种 indian  的人 的 名字 他们 的 名字 很长的 不懂 怎样 spell 然后 they 因为 他们 好像 要 copy from the adobe sheet or something so cannot copy paste
+NI54FBQ_0101 2971145 2974310 CS 所以 他们就 have a difficult time trying to spell 然后
+NI54FBQ_0101 2974380 2979100 CS (er) the whole day their joy 就是 哎呀 spell 错 帮 我 print 几次 这个 人的 名字
+NI54FBQ_0101 2979905 2984695 CS 然后 我在 想 哇 他们的 job compare to my job 而且 他们 seven dollars per hour eh c. p. f.
+NI54FBQ_0101 2984695 2995020 CS hai 太 sad 了 我 现在 从 我 真的 不想 看到 他 被 他 刻薄 到 要 死
+NI54FBQ_0101 3001293 3003870 ZH （呃） 因为 他 够 刻薄 咯
+NI54FBQ_0101 3006742 3010773 CS (er) but 他 think 他 有 connections lah 我 不懂
+NI54FBQ_0101 3010773 3017750 CS 我 不懂 他 怎样 survive 而且 我 觉得 他 蛮 有钱 的 因为 personal assistant means that
+NI54FBQ_0101 3017750 3022480 CS 我 要 check 他的 telephone bills is not only the school matters side telephone bills ah
+NI54FBQ_0101 3022480 3025660 CS (呃) 他 invest in what stock ah
+NI54FBQ_0101 3025660 3037700 CS 然后 过后 那种 帮 他 book golf court in malaysia ah ah 这种 东西 都要 我做 耶 啊 对 就 用 一个 电话 打 电话 去
+NI54FBQ_0101 3037700 3042060 CS 然后 叫 我 去 google 一下 malaysia johor 哪里
+NI54FBQ_0101 3042060 3045200 CS 的 golf court 最 漂亮
+NI54FBQ_0101 3045200 3046870 CS 那个 price 不用 紧
+NI54FBQ_0101 3047020 3048400 CS 然后 帮 他 rate
+NI54FBQ_0101 3048450 3051170 CS 看 那个 照片 帮 他 rate 那个 几个 star 这样
+NI54FBQ_0101 3051170 3061745 CS 然后 我 觉得 (呃) 刚 开始 还 蛮 好玩 的 so because you feel that (erm) you have quite a lot of authority
+NI54FBQ_0101 3061745 3065615 CS because 你 觉得 because 你 觉得 那个 golf court 很 很 美的 话 就 话 很多 star mah
+NI54FBQ_0101 3065615 3083107 CS so you have (er) decision mah 然后 过后 越 做 越 很 恶心 要 帮他 打电话 去 那种 (呃) 打电话 去 哪里 啊 问他 什么 bond ah 打电话 去
+NI54FBQ_0101 3083107 3095816 CS h. s. b. c. 问 他们 有 没有 那种 consultant that help you invest in bonds 那时 我 根本 都 不懂 什么 是 bonds 什么 是 东西 然后 我就 打电话 去 哎呀 听 不懂 没有
+NI54FBQ_0101 3101350 3109760 CS (呃) 然后 他有 他 好像 听我 colleague 讲 他 最近 去 北京 开 多 一个
+NI54FBQ_0101 3109760 3122073 EN (er) like branch ah or something so is like from beijing tutored already then send overhere to tutor again or something so we have those hotel accommodations
+NI54FBQ_0101 3122073 3125225 CS 我们 包 到 我们 真的 是 包 到 完 like for example
+NI54FBQ_0101 3125225 3144513 CS (呃) 你 要 一个 陪读 妈妈 还是 你要 找 一个 home that a rental place 所以 有 很多 东西 we rent classrooms we help you find accommodation then if you want to come for two weeks studying trip also have so you can 就 跟你 妈妈 一起来 有 配套 咯
+NI54FBQ_0101 3144513 3152135 CS 哇 有 很多 大 他的 business options hor 有 整本 这样 所以
+NI54FBQ_0101 3152135 3156020 CS 他 有 每个 office 都有 三 本 这样 厚 的 那种 ring binder
+NI54FBQ_0101 3156020 3156720 ZH 所以
+NI54FBQ_0101 3156720 3158350 CS 那种 receptionist 打 电话 来
+NI54FBQ_0101 3158350 3163465 CS okay what is the 他们 就会 问 what service 然后 过后 就会 帮他 翻 他 那个
+NI54FBQ_0101 3163465 3166385 CS take five minutes to 翻 到 那个 page 那个 他 讲 那个 price
+NI54FBQ_0101 3166385 3169958 ZH 多少
+NI54FBQ_0101 3173724 3182815 CS 我 觉得 那个 accounting 的 那个 job 很难 做 因为 他 不是 一个 怎样 讲 (呃)
+NI54FBQ_0101 3182815 3184360 CS 他有 很多 items mah
+NI54FBQ_0101 3184650 3187050 CS so 他 赚的 钱 like 很难 categorise
+NI54FBQ_0101 3187050 3188725 CS so 他 也有
+NI54FBQ_0101 3188725 3190770 CS 帮 人家 photocopy 所以 是 那种
+NI54FBQ_0101 3190970 3196120 CS (呃) 散 散 的 工作 啊 就是 有人 走进 来 哦 i want to photocopy then 他们 就 okay 啦 随便
+NI54FBQ_0101 3196120 3201885 CS one one one sheet twenty cents ah 所以 就是 那种 (嗯)
+NI54FBQ_0101 3201885 3204240 CS small business 那种 你 不会 觉得 那种 好像
+NI54FBQ_0101 3204240 3209575 CS karang guni shop 这样 全部 都 有 所以 你 很难
+NI54FBQ_0101 3209575 3214565 CS like 他 i think 他们的 accounting sheet 只 可以 写 revenue 多少 然后 什么 什么 这样
+NI54FBQ_0101 3214565 3220305 CS 因为 很难 categorize 在 categorise into okay maybe this cost 多少 钱 因为 every
+NI54FBQ_0101 3220305 3230116 CS student has a different case like 他 妈妈 有 没有 来 (呃) 我们 有 没有 帮他 申请 那个 什么 visa or something 这 样子 so different students has different cost
+NI54FBQ_0101 3230116 3240800 CS 然后 哦 还有 更 好笑 的 因为 他 每次 很 奸诈 嘛 每次 不是 charge different cost 然后 (呃) 喜欢 喜欢 就 increase the
+NI54FBQ_0101 3240800 3245080 CS (er) price of the cost so 他 觉得 okay o. level preparatory course for 很多 人
+NI54FBQ_0101 3245080 3266803 CS (呃) 那个 response not bad i want to increase the cost by one hundred dollars so (erm) 他 就 那个 student we never open a new class for for him eh within he just enroll in the existing class so his his the price that he pays is different from other so (erm) 有 cases where whereby 那个 parents sue
+NI54FBQ_0101 3266803 3273010 EN the firm sue the tuition centre for this like different prices or something
+NI54FBQ_0101 3273010 3278840 CS 然后 还有 sue for what huh 还有 sue for a lot of things lah 整天 有 criminal cases 的
+NI54FBQ_0101 3279140 3280730 CS 整天 有 lawsuits 的 然后 我们
+NI54FBQ_0101 3280730 3283200 ZH 接到 那个 信 然后 我们 在 外面 就 一直 笑
+NI54FBQ_0101 3283200 3285610 CS 然后 他 每次 派 那个 branch manager 去
+NI54FBQ_0101 3285610 3289680 CS (呃) 打官司 就是 去 那种 lawsuit
+NI54FBQ_0101 3289680 3293210 CS 我 觉得 不 应该 嘞 应该 有 lawyer to represent the what
+NI54FBQ_0101 3293210 3295050 EN in in the
+NI54FBQ_0101 3295050 3299820 CS ah formal legal system lah but 我们是 随便 派 一个人 下去 like 我也 可以 下去
+NI54FBQ_0101 3299820 3310160 CS if i am 如果 那个 branch manager 不在 他就 派我 下去 所以 我 我 不敢 而且 那种 是要 sumpah 讲你 那种 很 怕人 的 那种
+NI54FBQ_0101 3310160 3312930 CS 所以 还要 surrender i. c. 那种 所以 我
+NI54FBQ_0101 3312930 3321680 CS 嗯 他 就是 a~ anyhow allocate one person to go down
+NI54FBQ_0101 3321680 3325480 CS 不是 认罪 就 try to argue the case lor 因为 他是 small
+NI54FBQ_0101 3325480 3343657 CS (er) how to say ah small claim tribuness ah 就是 (恩) the plaintiff who just trying to sue for them is just just trying to get money from us so we just go there and then describe the situation
+NI54FBQ_0101 3343657 3356456 CS so then the judge will say whether the tribe will listen to the situation and see who is right who is wrong and then whether we are willing for out of court settlement then give a sum of money 这样 咯
+NI54FBQ_0101 3362435 3365820 CS 对 咯 很多 court cases aiya 迟早 要 倒 了 啦 but
+NI54FBQ_0101 3365820 3367335 ZH 只是
+NI54FBQ_0101 3367335 3369705 CS i think 只有 那个 jurong-east branch 有
+NI54FBQ_0101 3369705 3373615 CS 那时 我 忘记 了 还要 帮忙 type letter
+NI54FBQ_0101 3373615 3377225 CS 去 那个 tribunal court explaining 不懂 什么 东西
+NI54FBQ_0101 3377225 3387725 CS 忘记 他 sue for what 了 啊 啊 啊
+NI54FBQ_0101 3387725 3389580 CS 每次 都 不一样 的 因为 different
+NI54FBQ_0101 3389580 3396445 CS branch managers aiya 那个 branch manager 也是 一直 换 嘛 没有 一个 branch manager 做得 久 的
+NI54FBQ_0101 3396445 3400525 CS 只有 我 听 oh 只有 一个 fulfil 他的 two year term
+NI54FBQ_0101 3400525 3410975 CS 啊 因为 他 也是 p. r. c. 嗯 所以 现在 i think 有一个 趋势 是 他的 employees 全部 都是 p. r. c.
+NI54FBQ_0101 3410975 3413140 CS 我 觉得 他 他 take the wrong tactic 了 嘞
+NI54FBQ_0101 3413170 3414780 CS 因为 他 pay teachers a lot
+NI54FBQ_0101 3414780 3425610 CS but pay the office workers very less very little so i think 他 应该 charge the teachers that market rate or some a little bit more than the market rate
+NI54FBQ_0101 3425610 3429320 CS then the employees 给 多 一点 salaries or something
+NI54FBQ_0101 3429320 3431040 ZH 因为 他们 真的 赚 很少
+NI54FBQ_0101 3431040 3432970 CS 找 我 看 那些 full time workers right
+NI54FBQ_0101 3433335 3443133 CS 那个 marketing manager ah so called marketing manager 一个月 只赚 千多 而已 不是 很多 勒 nine to five job 千多
+NI54FBQ_0101 3443133 3449500 CS 两千 啦 close to 两千 有 degree of
+NI54FBQ_0101 3449500 3451730 CS 什么 science 的 but 他 有 一点 sot-sot
+NI54FBQ_0101 3451730 3464220 CS 他 有点 那种 henpecked by mom syndrome 而且 他 已经 四十多 岁 了 so (er) 我就 问他 since you can definitely find a better job outside
+NI54FBQ_0101 3464220 3466180 CS then 为什么 他 不要 leave the job
+NI54FBQ_0101 3466220 3472000 CS 他 就 讲 说 他 会 一直 complain that the job is very taxing very what very 他 真的 是 那种 cannot take tahan stress 的
+NI54FBQ_0101 3472000 3483369 CS 他 讲 说 i i don't dare to not come to job my mummy will scold me 那种 东西 and 他是 一个 四十多 岁 的 男孩子 男人 所以 我 觉得 很 奇怪
+NI54FBQ_0101 3488321 3492235 CS 他会 他会 很 stress 的 然后 (呃) 因为 他的
+NI54FBQ_0101 3492235 3497705 CS off 那个 principal's office 在 里面 所以 他 会 每次 intercom 打 电话 出来 叫 一个人 进去
+NI54FBQ_0101 3497705 3505094 CS so 他的 电话 会 一直 响 然后 他 每次 电话 一响 他就 丢掉 全部 东西 bong bong bong 然后 跑进去
+NI54FBQ_0101 3505094 3517645 CS so we always make a joke out of him so we always say (呃) 不用 这样 紧张 不用 这样 紧张 你只要 拿 一支笔 跟 一支 一个 纸 这样 走进去 就 可以 了 不要 嗯 once 他 call 你就
+NI54FBQ_0101 3517645 3520220 CS 因为 他 每次 intercom 打 电话 就会 拿 上来 讲
+NI54FBQ_0101 3520390 3523010 CS the normal person 会 拿 上来 然后 讲 说 okay 我 现在 进去
+NI54FBQ_0101 3523010 3526475 CS 他是 那种 okay k. k. k. bom 然后 就 走进去 的那种
+NI54FBQ_0101 3526475 3529191 CS 他是 很 tensed up 的 那种
+NI54FBQ_0101 3535751 3554786 CS yah 他的 but he appears to be very normal yah ah when you ah i think 这种 东西 是 you ownself try to hide one what during interview i think he can hide but he choose not to hide
+NI54FBQ_0101 3555992 3566910 CS he don't know that he has this problem 他就 think that he is very normal but actually 他就 他 可以 静静 一个人 坐 在 那边 做工 哪里 有
+NI54FBQ_0101 3566910 3570230 CS that environment 就是 这样 的 咯 我 不 可以 的 i think
+NI54FBQ_0101 3570290 3572120 CS maybe 我 primary school 的 时候 还 可以
+NI54FBQ_0101 3572120 3574550 CS but 那时候 我 已经 after j. c. 了 所以 我
+NI54FBQ_0101 3574550 3583777 CS 做 在 那边 我就 不 可以 我 一定 要 讲话 所以 我 就 每次 try to make small talk during office hours
+NI54FBQ_0101 3587717 3593615 CS 嗯 要不然 就 跟 那些 children 讲话 咯
+NI54FBQ_0101 3593615 3596220 CS 他们 每次 会 跟我 讲 有 one dollar bubble tea
+NI54FBQ_0101 3596410 3599750 CS 那种 东西 然后 等 一下 整天 买 chicken wing 上来 eh 你要 吃 吗
+NI54FBQ_0101 3599770 3602060 CS 然后 我 跟 他们 讲 (呃) 我 不 可以 我 on diet
+NI54FBQ_0101 3602060 3613955 CS 减肥计划 然后 他就 每次 那些 小孩子 很坏蛋 的 他就 买 有 一天 就买 chicken wing 然后 改天 又 不懂 买 什么 eh 你要 吃 吗 给你 啦 请你 吃 啦 他就 bubble tea
+NI54FBQ_0101 3613955 3616885 CS 什么 都有 每次 跟我 讲 有 new lobang
+NI54FBQ_0101 3616885 3622525 CS 然后 我就 oh okay okay 每次 我 减肥计划 都 减肥计划 都 fail 的
+NI54FBQ_0101 3625685 3628785 CS towards the end 蛮好 玩 啦 自己 找 东西 做 咯
+NI54FBQ_0101 3630557 3643520 CS 然后 我 发现 i think 我 不 可以 做 那种 okay lah 不是 admin 我要 跟 一个人 讲话
+NI54FBQ_0101 3643520 3646190 CS 不 可以 啦 不是 很 这样 就 that means 我 很 talkative
+NI54FBQ_0101 3646190 3651180 CS 我 也 可以 静静 一个人 坐 下来 讲 做 东西 but
+NI54FBQ_0101 3651180 3654150 CS 我 觉得 那个 environment 真的 是 太 not conducive 了
+NI54FBQ_0101 3654150 3661790 CS you are a~ you are under a lot of stress but you cannot voice it out ah 对 咯 所以
+NI54FBQ_0101 3661790 3665630 CS 他 真的 he give me a lot of work until 我们 有 一个 to do list mah
+NI54FBQ_0101 3665760 3667090 CS 他 还有 print 一个 to do list
+NI54FBQ_0101 3667090 3680300 CS so 我们 是 从 那个 one fill up to twelve the next page one up to twevle 的 那种 so 他也 知道 他给 我 很多 东西 做 所以 就 讲 说 你 慢慢 做 啦 不用紧 but 他 继续 pile up 然后 我是 那种
+NI54FBQ_0101 3680300 3682690 CS so 那 to do list 没有 tick 到 完 我 觉得 很
+NI54FBQ_0101 3682690 3692543 CS pek chek 的 那种 so 会 try to do as much as i can so is not only i am not only personal assistant to him eh
+NI54FBQ_0101 3692543 3697425 ZH 因为 他 还有 他的 老婆 也是 做 也是 在 里面 做的
+NI54FBQ_0101 3697425 3714705 CS so i am like personal assistant to everybody okay not the receptionist lah so 那个 once i try to slack hor 那个 ladyboss 看到 然后 她就会 eh 你 有空 啊 来 帮我 然后 她就 叫我 帮 她 做 她的 accounting 了 因为 她是
+NI54FBQ_0101 3714705 3716830 CS 帮忙 管 那种 cheque book 他 叫 我
+NI54FBQ_0101 3716830 3717600 ZH 就 帮 我
+NI54FBQ_0101 3717600 3721050 CS 他 就 讲 说 啊 enter the amounts into excel or something
+NI54FBQ_0101 3721050 3729031 CS actually 我 比较 喜欢 做 这种 enter amount into excel but 我 每次 帮她 做工 过后 就 没有 帮 那个 principal 做工
+NI54FBQ_0101 3729031 3732655 ZH 就会 觉得 我 很 什么 然后

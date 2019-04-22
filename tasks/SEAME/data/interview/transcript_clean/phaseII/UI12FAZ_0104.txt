@@ -1,0 +1,231 @@
+UI12FAZ_0104 1242 7952 CS but 他们 很 他们 有 一点 不 一样 就 是 我 觉得 procurement 比较 pia tia 咯 他们
+UI12FAZ_0104 8693 9448 EN mm
+UI12FAZ_0104 12550 15210 CS 好像 追 part 要 追 到 半死 这样
+UI12FAZ_0104 21059 23007 ZH (呃) 我 不懂 咯
+UI12FAZ_0104 26335 31083 CS 了 之前 我们 是 customer service 嘛 习惯 小 声 去 对 你 的 customer
+UI12FAZ_0104 31083 36031 CS 了 现在 都 没有 那个 霸气 人 家 都 不怕 你 而且 你 fresh 你好 欺负 嘛
+UI12FAZ_0104 38310 43743 CS cons~ 没有 啦 i mean in buyer 这个 行列 啊 不会 很 熟 啦
+UI12FAZ_0104 47477 49059 ZH 不知道
+UI12FAZ_0104 51831 57201 CS 他 老师 都 没有 的 inter~ interview 的 那个 after interview 他 都 disqualify 你 了
+UI12FAZ_0104 57201 59278 ZH 再 进去
+UI12FAZ_0104 60443 65655 ZH (呃) 我 不知道 啦 应该 有 一些 华人 也 会 进 的 啦
+UI12FAZ_0104 66706 68289 ZH 没有 咯
+UI12FAZ_0104 68289 72035 CS 想到 我 工 就 很 怕 不知道 做 么 很 stress ah
+UI12FAZ_0104 72035 81713 CS 看到 有 时候 啊 很 看 到 那个 email 一直 来 啊 的 时候 你 会 傻 去 stuck 在 那边 几分 钟 不知道 自己 要 怎么 respond 啦 有 时候
+UI12FAZ_0104 81713 83881 ZH 不知道 你 要 怎样 去
+UI12FAZ_0104 83881 96656 CS 啊 去 respond 人家 有 些 email 啊 他 讲 说 i want this part to be in at least by this week 什么 什么 什么 这样 的 时候 都 不能 进 的 时候 啊 你 不知道 要 怎样 去 feedback 他们 啊
+UI12FAZ_0104 96656 99639 ZH 然后 所以 就 跟 跟 老板 讲 咯
+UI12FAZ_0104 99639 101712 ZH 然后 老板 就 讲 不要 管 他们 咯
+UI12FAZ_0104 103486 109275 CS 要 一定 要 reply 他们 but at least 你 跟 他 讲 this is the best we can do lah
+UI12FAZ_0104 109938 110819 EN mm
+UI12FAZ_0104 113283 117062 CS 通常 来 催 我们 的 人是 production 咯
+UI12FAZ_0104 117062 124491 CS 然后 material analyze 咯 他们 要 plan 那些 planner 咯 他们 要 plan 说 今天 要 production 要 run 多少 什么
+UI12FAZ_0104 124491 133623 CS 还有 你 要 ensure all the all the model 啊 好像 譬如 啦 是 p. s. a. model 就是 其 全部 可能 有 二十 个
+UI12FAZ_0104 133623 137884 CS 那个 二十 个 可能 你 要 run 二十 set 你 at least 一定 要 二十 set 的 material mah
+UI12FAZ_0104 137884 140688 CS 你 你 一个 没有 进来 你 就 不能 run 了 嘛
+UI12FAZ_0104 140688 153300 CS 或者 是 可能 可以 你 run loh but 你 run 到 可能 level three 的 通常 已经 stuck 了 因为 要 那个 component 进去 你 才 可以 plug and ah 去 run 那个 pro~ product~ production 出来
+UI12FAZ_0104 160265 162822 CS 只能 走 十 多 set loh
+UI12FAZ_0104 162822 171916 CS mm but but 有 时候 是 十 好像 你 有 十 set material but 你 一个 东西 没有 进来 你 全部 不能 走
+UI12FAZ_0104 175045 179680 CS 然后 你 其 他 东西 来到 五十 set 也 没有 用 只是 你 那个 东西 没有 进来
+UI12FAZ_0104 183758 191341 CS 顾 s. a. 咯 他 没有 管 你 什么 啊 s. a. 然后 是 jabil 去 build 的
+UI12FAZ_0104 194350 198235 ZH 有 时 会 乱 去 咯 有 时候 真的 是 会 乱 咯
+UI12FAZ_0104 198235 203644 ZH 然后 一 紧张 的 时候 啊 死 啊 这个 又 来 追 你 那个 又 来 追 你
+UI12FAZ_0104 203644 212025 CS 然后 尤其 尤其 是 你 去 jabil meeting 完 的 时候 你 不能 啊 你 不能 看到 email 的 嘛 回去 你 就要 慢慢 去 clear 你 email
+UI12FAZ_0104 212025 214371 ZH 然后 是 很 怕 的 是
+UI12FAZ_0104 214371 226238 CS 万一 你 做 了 那个 东 你 miss 掉 一个 email hor 可能 你 看到 的 时候 是 一个 月 之后 你 就 那个 东西 就 很 就 很 大 条 了 
+UI12FAZ_0104 226238 228265 EN hah
+UI12FAZ_0104 228265 231899 CS 有 他 的 email 是 我 p. c. s. 的 三 倍 耶
+UI12FAZ_0104 233889 235144 EN 
+UI12FAZ_0104 235144 239685 CS 因为 我们 p. c. s. 是 more to oracle 他们 不同 他们 是 more to email
+UI12FAZ_0104 239685 243991 CS of course oracle 也 是 有 啦 好像 你 raise p. o. 啊 那些 东西 啊
+UI12FAZ_0104 247473 249145 EN mm
+UI12FAZ_0104 249145 250545 ZH 可是 没有
+UI12FAZ_0104 250545 252797 EN (uhh)
+UI12FAZ_0104 252797 258535 CS jabil 有 一些 是 啊 那些 upload 在 jabil system 的 那些 东西 咯
+UI12FAZ_0104 258535 263992 CS 有 一些 东西 啦 当然 它 有 some limitation lah
+UI12FAZ_0104 268627 277394 CS 不知道 啦 我 是 觉得 不知道 太 多 东西 要 去 learn 了 还是 我 觉得 我 的 learn up 那个 skill 还是 我 的 那些
+UI12FAZ_0104 277394 281404 CS learn up 的 那个 process 啊 那些 还是 很 慢 咯
+UI12FAZ_0104 284577 287232 ZH 了 其 他人 也 不是 这样
+UI12FAZ_0104 288284 291852 CS 他 没有 时间 好像 给 你 mentor mentee 那个 process 没有 的
+UI12FAZ_0104 291852 298807 ZH 他 有 也是 一下子 罢了 只 跟 你 讲 嗯 这个 这个 这个 这个 这个 然后 你 就会 忘记 了 嘛
+UI12FAZ_0104 301871 302904 EN mm
+UI12FAZ_0104 302904 308381 CS 你 没有 学 爬 你 就 跑 跑 跑 跑 跑 跑 你 知道 吗 non stop 你 知道 吗
+UI12FAZ_0104 308381 316061 CS 了 我们 老板 也 是 讲 啊 这个 timing 的 问题 啦 你们 进来 的 timing 不 不对 啦
+UI12FAZ_0104 316061 323125 CS 唔 这样 咯 如果 是 普通 的 timing hor 你们 是 不用 work 到 不用 stay 到 这样 这样 子 的
+UI12FAZ_0104 328223 331281 CS 啊 要 咯 weekend 也 要 啊
+UI12FAZ_0104 331281 340262 CS 如果 你 的 shipment 不能 出 stuck 在 jabil 可能 没有 p. o. 或者 是 可能 logistic side 你们 还要 deal 跟 logistic side 然后 我们 要 deal 跟 我们 internal mah
+UI12FAZ_0104 340262 345429 CS 了 logistic 要 去 啊 arrange ball com 去 那边 载 他 的 货 来 我们 这边 嘛
+UI12FAZ_0104 346894 347511 EN hmm
+UI12FAZ_0104 353137 357458 CS 只 是 你 去 meeting 的 那个 mileage 有 得 claim loh
+UI12FAZ_0104 359489 363352 EN 
+UI12FAZ_0104 363352 364833 ZH 就是 咯
+UI12FAZ_0104 364833 367768 CS 所以 你 有 什么 job 啊 要 recommend 给 我 咯
+UI12FAZ_0104 367768 369013 EN 
+UI12FAZ_0104 369013 370615 EN introduce
+UI12FAZ_0104 374001 380153 CS 你 嘛 要 你 的 finance 是 很 strong 现在 两个 人 一定 要 两个 人 赚 嘛 一个 人 赚
+UI12FAZ_0104 381310 382686 ZH 没有
+UI12FAZ_0104 382686 384992 CS maybe 啦
+UI12FAZ_0104 384992 388510 CS 国 春 okay but 国 春 只是
+UI12FAZ_0104 388510 393903 CS 如果 一 间 屋子 还 okay 呀 你 两 间 屋子 喔 然后 你 一定要 自己 做工 嘛
+UI12FAZ_0104 395644 400268 CS 就 是 觉得 可能 是 全部 人 做工 都 很 stress 啦 只是 没有 讲 出来 啦
+UI12FAZ_0104 404077 415048 ZH 可能 人家 被 骂 到 半死 只 是 你 看 不到 你 看 到 人家 好像 风光 工钱 这样 高 啊 只是 人家 背后 做 到 凄惨 的 时候 我们 没有 看 到 罢 了
+UI12FAZ_0104 416410 419193 CS 了 好像 要 好像 一直 meeting ah
+UI12FAZ_0104 419193 425963 CS 之前 我们 是 每次 都 是 head 去 meeting 罢 了 嘛 我们 这些 small potatoes 在 在 office 这样 stay
+UI12FAZ_0104 425963 428642 CS 就是 没有 太 多 的 explore 你 知道 吗
+UI12FAZ_0104 428642 434973 CS 了 现在 是 你 自己 要 represent 你 自己 的 team 去 然后 又 没有 人 去 好像 guide 你 这样 啊
+UI12FAZ_0104 434973 437728 ZH 了 所以 人家 问 到 你 静静 咯
+UI12FAZ_0104 438997 442253 CS (呃) 去 jabil 要 咯 chair meeting loh
+UI12FAZ_0104 442253 453037 CS 好像 以前 是 没有 这 样 够 力 的 时候 就 是 production 还有 一点点 material 去 去 run 的 时候 就 mmm conference call loh ha 然后 chair meeting loh
+UI12FAZ_0104 454358 456593 CS 啊 face to face ah
+UI12FAZ_0104 457375 462275 CS face to face 还 okay 如果 是 没有 太 多 的 management 的 人 来
+UI12FAZ_0104 462275 464032 EN huh
+UI12FAZ_0104 464032 470426 CS 如果 你 是 deal 跟 你 普通 那种 buyer 啊 跟 那个 err planner 的 话 还 okay
+UI12FAZ_0104 470426 474169 CS 了 我 现在 的 planner 又 全部 是 新 的
+UI12FAZ_0104 475642 476950 EN hah
+UI12FAZ_0104 476950 480785 CS 所以 一起 新 所以 他 的 material 就 很难 pull 进来
+UI12FAZ_0104 488820 491255 CS 他 也 是 要 chair meeting 的 嘛
+UI12FAZ_0104 491255 495099 CS chair meeting 你 会 很 stress 的 你 知道 吗
+UI12FAZ_0104 497495 500355 CS 他 给 他 的 director
+UI12FAZ_0104 500355 504390 CS (呃) 他 的 他 的 customer 也 是 有 骂
+UI12FAZ_0104 504390 514689 CS 他 customer 就 讲 说 啊 好像 production line down mah 然后 line down 没有 东西 进来 是 因为 panasonic 就是 他 的 公司 的 fault mah
+UI12FAZ_0104 514689 522055 CS and then 如果 啊 了 啊 他 就 request 很多 东西 post 去 给 丽 君 咯
+UI12FAZ_0104 522055 525191 CS 了 丽 君 就 讲 说 你 的 这个 request 很 funny
+UI12FAZ_0104 525191 528751 CS 只是 她 也 是 大胆 pun 啦 跟 customer 这样 讲 啦
+UI12FAZ_0104 528751 533256 CS then then 过后 啊 那个 customer kong okay funny is okay
+UI12FAZ_0104 533256 539189 EN you laugh laugh then after that you you you you fulfill all my request for me
+UI12FAZ_0104 539189 541352 EN you laugh first loh
+UI12FAZ_0104 541352 543169 EN uhh
+UI12FAZ_0104 543169 546816 EN laugh enough then after that come back to me
+UI12FAZ_0104 548688 551632 CS so 你 她 也 是 要 在 那边 忍 咯
+UI12FAZ_0104 551632 554197 ZH 呃 了 还是 每天 做到 很 迟
+UI12FAZ_0104 554197 560954 CS 只是 我 觉得 我 很 懒惰 我 很 压力 啊 每次 看到 那 份 工 以前 没有 以前 p. c. s. 很 开心 的 去 那边
+UI12FAZ_0104 560954 564719 ZH 真的 现在 真的 是 每天
+UI12FAZ_0104 570876 578059 CS 很 很 很 xian 的 你 知道 吗 每次 真是 这份 工 不知道 有 时候 在 想 不知道 是 不 是 ngam 自己 ha
+UI12FAZ_0104 578059 580765 ZH 因为 真的 是 做到 很 不 开心 啊
+UI12FAZ_0104 580765 586885 CS 就是 每天 啊 要 去 这样 这样 看 着 啊 又 不 喜欢 啊 那个 东西 了 excel skill 要 很 重要
+UI12FAZ_0104 586885 594250 CS 我们 用 到 很多 那种 v. look up ah 那种 (呃) 很多 咯 那种
+UI12FAZ_0104 594250 600576 CS 以前 我们 那里 会 用 的 去 到 那边 才 会 用 case value transpose ah 这样 的 东西 哇
+UI12FAZ_0104 600576 603648 CS 以前 只 会 用 copy paste copy paste
+UI12FAZ_0104 604443 609864 CS 现在 去 到 那边 你 要 每 一个 skill 你 都要 会 哦 了 还要 什么
+UI12FAZ_0104 611356 614703 CS 啊 pivot table 啊 我们 也 是 没有 什么 学 的 嘛
+UI12FAZ_0104 617139 624858 CS 不是 不是 graph chart 是 pivot table 就 是 好像 它 有 给 你 好像 一个 master list 很多 东西
+UI12FAZ_0104 624858 632655 CS 只是 你 只要 看 可能 你 要 看 啊 今天 的 shipment 多少 个 了 你 就 做 一个 pivot table 出来 hor 它 可以 自己 lump 了 hor
+UI12FAZ_0104 632655 637212 CS and then 你 要 什么 information 你 就 plug 在 你 的 那个 它 就 会 做 一个 jadual 给 你
+UI12FAZ_0104 637212 640520 CS 一个 jadual 给 你 hor 你 click 进去 你 click 进去
+UI12FAZ_0104 640520 643795 CS 比如 这个 shipment 啦 啊 这个 星期 全部 有 三个
+UI12FAZ_0104 643795 651465 CS then 你 click on 那个 三 他 就会 prompt up 另外 一面 出来 跟 你 讲 说 哦 那个 三个 是什么 shipment 什么 model 这样 咯
+UI12FAZ_0104 651465 656503 CS 就 是 它 比较 给 你 一个 summary 这样 咯 然后 你 click 进去 又有 另外 一个 information 出来 咯
+UI12FAZ_0104 659642 664585 CS (呃) 那个 还 好 啊 simple 的 会 做 啦 太 难 的 就 不会 做
+UI12FAZ_0104 666508 669362 CS 每 个 人 不 一样 的 division 每个 不一样
+UI12FAZ_0104 669362 674221 ZH 就是 你 不能 去 问 别人 因为 别人 的 情况 跟 你 不一样
+UI12FAZ_0104 678858 681812 ZH 有 男生 啊 有 一个 男生
+UI12FAZ_0104 681812 688015 CS 啊 只是 他 不是 buyer 他 是 escalation path 好像
+UI12FAZ_0104 688015 695705 CS high escalation loh 就 是 我们 escalate planner 不能 到 了 了 我们 就 直接 forward to 他 他 就 帮 我们 escalate 上去 咯
+UI12FAZ_0104 695705 699261 CS 了 我 还有 deal 跟 jabil san jose
+UI12FAZ_0104 699261 704914 CS 就是 美国 side 的 哇 他们 respond 很 慢 洋人 做工 很 慢
+UI12FAZ_0104 706872 713954 CS 没有 我 就 早上 早 早 咯 七点 咯 去 office loh then 啊 就 call 他们 咯 then 就 on discussion loh
+UI12FAZ_0104 713954 717747 CS 问 他 看 这个 几时 shipment 你 要 你 要 ship 来 给 我
+UI12FAZ_0104 717747 721386 CS 然后 你 现在 几时 你 s. m. t. run down 几时
+UI12FAZ_0104 721386 729921 CS 他 讲 啊 hi 他 就 跟 你 很 客气 然后 跟 你 讲 到 一大堆 话 啊 很 慢 的 啊 他 讲 how are you how do you do
+UI12FAZ_0104 729921 730774 EN hah
+UI12FAZ_0104 730774 736495 ZH 讲 到 一大堆 其实 我 要 那个 东西 就 是 我们 的 我们 的 步伐 比较 快 啦 他们 的 步伐 比较 慢 咯
+UI12FAZ_0104 736495 738031 EN hah
+UI12FAZ_0104 738031 744118 CS 他 讲 let me check let me check ha this one is what already mentioned in the email already
+UI12FAZ_0104 744118 748927 CS 了 他 讲 let me check let me check one by one one by one
+UI12FAZ_0104 751788 755154 CS 没有 啦 他们 的 step 也 没有 这样 快 啊
+UI12FAZ_0104 757876 762441 CS 所以 很多 人 问 我 buyer 的 位 有 什么 我 叫 他 不要 来
+UI12FAZ_0104 762441 767748 CS 很 stress 我 自己 都 做 到 不 大 能 呼吸 了 我 要 所以 我 是 觉得
+UI12FAZ_0104 767748 771154 CS 去 害人 吗 than 然后 人家 跟 他 suffer
+UI12FAZ_0104 775561 778695 CS 她 讲 她 好像 要 give up 了 是 吗 我 听
+UI12FAZ_0104 779790 783847 ZH 她 是 哦 工钱 三千 也没有 用 啊
+UI12FAZ_0104 783847 787037 CS 她 她是 support m. b. o. 的 嘛
+UI12FAZ_0104 787037 793859 CS 我 有 我 有 我 有 啊 我 有 看过 她 因为 我 after m. b. o. 的 meeting 就是 我 s. a. d. meeting mah that's why 我 就 看 到 她
+UI12FAZ_0104 793859 800665 CS 她 她 跟 我 另外 一个 buyer loh and then 那个 是 senior buyer 啦 跟 他 在 meeting 里面
+UI12FAZ_0104 800665 802807 CS 因为 她 要 commit ma
+UI12FAZ_0104 804085 805809 CS 她 也 是 很 stress lah
+UI12FAZ_0104 805809 812217 CS 因为 也 有 一个 reason why 她 会 suddenly 这样 stress 是 因为 可能 她 在 existing 的 工作 已经 三年 了
+UI12FAZ_0104 812217 815742 CS then 你 三年 了 你 everything 你 知道 是 不要 做 什 做 什么
+UI12FAZ_0104 815742 823317 CS so suddenly 哦 你 要 从 因为 她是 从 fresh 了 就 去 那个 公司 过来 这个 transition 是 很 辛苦
+UI12FAZ_0104 823317 829348 CS 好像 上次 我 第一 份 工 去 agilent but still okay lah p. c. s. 因为 受 保护 嘛
+UI12FAZ_0104 829348 834150 CS and then after that transfer 来 这个 工 current 的 这个 工 的 时候 是 最 stress loh
+UI12FAZ_0104 834150 843981 CS buyer 跟 planner 尤其 是 这个 这个 这个 这样 的 这样 的 时候 啦 是 很 搅 很 够 力
+UI12FAZ_0104 848610 850408 CS 可以 consider 是 这样 子 讲
+UI12FAZ_0104 853017 855963 CS 他们 all the while 都 是 buyer background 的
+UI12FAZ_0104 857143 858253 EN mm
+UI12FAZ_0104 858253 865193 CS 所以 对 他们 来讲 i think i mean still okay lah but 他们 也 是 不 大 能 顶 了 他们 讲
+UI12FAZ_0104 865193 873275 CS 很 stress 你 知道 吗 你 要 每天 这样 去 去 去 pool 那个 part 了 有 时候 jabil 的 respond 没有 这样 好
+UI12FAZ_0104 875081 878402 CS (呃) 有 时候 他们 不要 reply 你 知道 吗
+UI12FAZ_0104 880069 884977 CS 我们 还要 写 we are customer 什么 什么 这样 的 东西 咯
+UI12FAZ_0104 887032 890951 EN please don't de-commit to ah to customer again
+UI12FAZ_0104 897204 902269 CS 好像 伤 感情 这样 啊 所以 还 好 思 伟 不是 我 planner
+UI12FAZ_0104 902269 903621 ZH 对
+UI12FAZ_0104 903621 909221 CS 不然 你 伤 感情 哦 你 不要 迫 他们 你 的 management 看 你 哦
+UI12FAZ_0104 909221 912100 CS 你 这样 soft 跟 你 的 supplier
+UI12FAZ_0104 914321 918971 CS hor 不能 你 知道 吗 你 不能 这样 这样 soft 跟 他们 咯 你 要
+UI12FAZ_0104 918971 923172 CS 你 要 你 要 啊 strict 一点 咯
+UI12FAZ_0104 924056 924926 EN mm
+UI12FAZ_0104 925850 927981 ZH 呃 就是 咯
+UI12FAZ_0104 927981 929500 ZH 了 我 不知道 啊
+UI12FAZ_0104 929500 931548 ZH 思 伟 讲 他 不能 顶 啦
+UI12FAZ_0104 931548 933402 ZH 他 要 丢 了
+UI12FAZ_0104 936868 938285 ZH 不能 顶
+UI12FAZ_0104 938285 940074 ZH 他 做 了 几 久 啊
+UI12FAZ_0104 943200 946487 ZH 我 也 是 奇迹 啊 我 可以 做到 五个 月
+UI12FAZ_0104 947867 949654 ZH 我 在 那边 咯 一直
+UI12FAZ_0104 949654 952414 EN e~ elain~
+UI12FAZ_0104 952414 956329 CS 只是 我 觉得 我 应该 会 比较 好 啦 因为 他 是 supplier 我 是 customer mah
+UI12FAZ_0104 956329 960598 CS 只是 in~ internal 的 那种 压力
+UI12FAZ_0104 961980 963861 CS 不是 external 给 你 的
+UI12FAZ_0104 967168 971462 CS 哦 就 是 你 要 bring in 那些 revenue loh
+UI12FAZ_0104 971462 980517 CS 如果 你 好像 你 revenue ah revenue impact ah of 你 的 material 不能 pool 进来 这样 就 是 你 你的 performance 了 咯
+UI12FAZ_0104 980517 984245 CS 了 好像 那些 big deal ah 突然 间 来 很多 big deal ah
+UI12FAZ_0104 984245 987464 CS ha 如果 你 可以 cover 就 是 你 可以
+UI12FAZ_0104 987464 993169 CS 啊 因为 big deal 是 突然 间 进来 的 嘛 你 可以 pull 进 material 去 support 这个 big deal
+UI12FAZ_0104 993169 995218 CS 那 这个 就 consider 你 的 performance loh
+UI12FAZ_0104 995218 1000142 CS 了 performance review 的 时候 你 就 可以 放 这个 进去 of 你 的 performance loh
+UI12FAZ_0104 1004136 1004897 EN gone loh
+UI12FAZ_0104 1004897 1007846 CS 我 现在 都 不要 想 那些 performance 了 咯
+UI12FAZ_0104 1007846 1012451 CS 只要 能够 顺 顺 这样 给 我 进来 啊 很 stress 的 loh
+UI12FAZ_0104 1012451 1017354 CS 有 一次 我 的 program manager 啊 喔 十二 点 call 我 晚上
+UI12FAZ_0104 1018692 1022075 CS 吓 到 那 时候 我 我 m. c. 两 天 嘛
+UI12FAZ_0104 1022075 1025483 CS 然后 我 讲 啊 我 不知道 eh 我 很 久 没有 看 email 了
+UI12FAZ_0104 1026230 1027418 ZH 这样 咯
+UI12FAZ_0104 1027418 1029310 CS 看 stress 
+UI12FAZ_0104 1033163 1034369 EN mm
+UI12FAZ_0104 1037249 1038112 EN hong-leong
+UI12FAZ_0104 1039474 1048317 CS mm okay lah but in penang hor 啊 如果 你 要 还 的话 你是 through internet banking leh 还是 你 要 直接 walk-in 去 machine 还 的
+UI12FAZ_0104 1049583 1052170 CS internet 的 话 就 比较 convenience lah
+UI12FAZ_0104 1052170 1056917 CS 如果 你 是 要 的 话 好像 我 哦 我 是 去 machine 还 的
+UI12FAZ_0104 1056917 1058592 CS 我 就 要 去 到 jetty loh
+UI12FAZ_0104 1058592 1061870 CS 因为 北海 就 有 啦 北海 seberang-jaya 就有 咯
+UI12FAZ_0104 1063151 1067133 CS 这边 有 一些 没有 那个 进 钱 的 machine 它 有 a. t. m. 罢 了
+UI12FAZ_0104 1069066 1070619 CS 那里 还有 hong-leong
+UI12FAZ_0104 1070619 1071997 CS yellow house 有 meh
+UI12FAZ_0104 1074180 1076323 CS yellow house 是 u. s. m. 那边 啊
+UI12FAZ_0104 1082246 1085259 CS mcdonald 对面 有 meh
+UI12FAZ_0104 1085259 1086948 ZH 啊 我 知道 我 知道
+UI12FAZ_0104 1088554 1090670 CS mcdonald 的 对面
+UI12FAZ_0104 1092207 1097594 CS 哦 就 是 说 晚 啊 它 过 一点点 是 晚 是 有 时候 有 pasar malam 那边 的 嘛 hor
+UI12FAZ_0104 1097594 1099204 ZH 哦 我 不知道
+UI12FAZ_0104 1103712 1105963 ZH 哦 我 不知道 太久 没有 去 了
+UI12FAZ_0104 1106878 1109660 CS 我 只 是 我 是 从 jelutong 去 也 不会 太 远 啦
+UI12FAZ_0104 1111409 1112138 EN mm
+UI12FAZ_0104 1113985 1117394 CS mm 我 没有 用 internet gate 因为 我 没有 (uhh) hong-leong serving ac~
+UI12FAZ_0104 1117394 1120143 CS 啊 我 hong-leong saving account 我 没有 放进 钱
+UI12FAZ_0104 1123935 1125997 ZH 那 时候 是
+UI12FAZ_0104 1126735 1128531 ZH 没有 没有 没有 没有
+UI12FAZ_0104 1128531 1132214 CS 二点 五 咯 是 最近 啊 economy 比较 不好 的 时候
+UI12FAZ_0104 1132214 1133370 EN hah
+UI12FAZ_0104 1133370 1139959 ZH 没有 第一 年 好像 是 不 一 点 九 五 还是 多少 我 忘记 了 三年 咯
+UI12FAZ_0104 1139959 1145063 CS 现在 它 又 在 minus 了 嘛 因为 不好 嘛 好像 去年 不知道 几 月 start
+UI12FAZ_0104 1145063 1148731 CS 再 minus 了 嘛 所以 我 的 installment 就 比较 少 去 咯
+UI12FAZ_0104 1150598 1152608 ZH 五百 多 六百 咯
+UI12FAZ_0104 1154189 1155653 CS maintenance fee leh 百多
+UI12FAZ_0104 1155653 1156700 EN 
+UI12FAZ_0104 1156700 1160244 CS 八百 也 不 okay 我 的 salary 低 eh
+UI12FAZ_0104 1160244 1165813 CS 对 啦 but 还 要 电费 啊 唉 你 电费 你 monthly 多少 钱
+UI12FAZ_0104 1165813 1168509 CS 你们 多少 粒 air con
+UI12FAZ_0104 1170579 1173197 ZH 了 你们 是 什么
+UI12FAZ_0104 1174536 1177009 CS heater 啊 每天 开 的
+UI12FAZ_0104 1182084 1188658 CS 哦 我 以为 你 是 那种 好像 冲凉 房 的 那种 heater 啊 是 晒 给 它 整个 干 去 的 那个
+UI12FAZ_0104 1188658 1191284 CS 那个 是 属于 heater 吗

@@ -1,0 +1,487 @@
+14NC28MBQ_0101 44840 50630 CS 我 以前 是 study (er) nan-yang 初级 学院 nan-yang junior college
+14NC28MBQ_0101 53118 54789 EN (er) <unk> high school
+14NC28MBQ_0101 59420 61710 CS primary school 是 saint michael's school
+14NC28MBQ_0101 63493 64081 EN no
+14NC28MBQ_0101 65845 68443 EN sait michael's is not in the east to begin with
+14NC28MBQ_0101 71040 72958 EN you must have miss out with some other
+14NC28MBQ_0101 73608 74474 EN ah yes
+14NC28MBQ_0101 77390 79400 CS st michael's 在 novena 那边
+14NC28MBQ_0101 81434 84219 EN is not exactly central is novena
+14NC28MBQ_0101 90884 93924 EN (er) se~ good border line north la border line
+14NC28MBQ_0101 96102 101145 EN okay lah okay actually actually is around central paisei very sorry sorry
+14NC28MBQ_0101 107217 107681 EN yeah
+14NC28MBQ_0101 110589 112229 ZH 以前 呢 (呃)
+14NC28MBQ_0101 113095 118045 ZH 游泳 还有 科学 (呃) 社会
+14NC28MBQ_0101 122385 124365 EN not in j. c. but secondary school
+14NC28MBQ_0101 126283 127737 EN because they don't have swimming
+14NC28MBQ_0101 132754 133961 EN no none
+14NC28MBQ_0101 139603 148668 EN (er) what do you think actually seriously they seriously no there wasn't anything about (er) water sports c. c. a. in <unk> j. c.
+14NC28MBQ_0101 154051 154855 EN free style
+14NC28MBQ_0101 156649 158289 EN yeah only free style
+14NC28MBQ_0101 162112 164122 EN distance ah (er) let me think
+14NC28MBQ_0101 166055 168780 EN longest longest spring was about a hundred meters
+14NC28MBQ_0101 171533 173111 EN fifty or a hundred meter
+14NC28MBQ_0101 173513 176236 EN ever did long distance lah but that was in sec one
+14NC28MBQ_0101 181552 182325 EN again
+14NC28MBQ_0101 183965 184769 EN no
+14NC28MBQ_0101 189812 193184 EN (er) that's because i been swimming since young ah
+14NC28MBQ_0101 204206 206372 CS 科学 社会 ah science society
+14NC28MBQ_0101 208847 212127 EN serious actually at that time
+14NC28MBQ_0101 212683 214416 EN (er)
+14NC28MBQ_0101 216736 217695 EN how do i put it
+14NC28MBQ_0101 220789 223294 EN i did didn't really do anything much ah
+14NC28MBQ_0101 223573 227471 EN i say i said that i helped a very important position the treasurer position
+14NC28MBQ_0101 231600 235746 EN oh (er) okay okay now we organise science
+14NC28MBQ_0101 236179 237942 EN science competition we also
+14NC28MBQ_0101 238128 239829 EN we also organise like (er)
+14NC28MBQ_0101 240757 244098 EN <unk> <unk> ah actually very small skill ones ah
+14NC28MBQ_0101 250894 255225 EN it's not really it's not astronomy just a general science
+14NC28MBQ_0101 259154 263145 EN let me guess let me guess (er) e.e. eight zero eight six astronomy
+14NC28MBQ_0101 265310 268527 EN (er) it's a module in n. t. u.
+14NC28MBQ_0101 275118 277655 EN oh oh i see
+14NC28MBQ_0101 282326 285296 ZH 现在 现在 我 参加 (呃)
+14NC28MBQ_0101 285822 287647 EN (er) sports sub-committee
+14NC28MBQ_0101 288142 291143 CS recruit sub-committee 还有 social sub-committee
+14NC28MBQ_0101 291452 296321 CS 我 如果 你要 如果 h. s. o. c. 也算是 我 也是 有 参加
+14NC28MBQ_0101 298951 301023 ZH 因为 今年 我 比较 有 时间 嘛
+14NC28MBQ_0101 303653 305416 ZH 不是 诶 我 还有 明年 啊
+14NC28MBQ_0101 308386 310142 ZH 是 因为 (呃)
+14NC28MBQ_0101 310330 315401 CS 怎么 讲 (呃) 因为 我的 time 因为 我的 时间
+14NC28MBQ_0101 317040 320165 ZH 一 我 跟你 讲 啊 是 一点点 而已 啊 不是 说
+14NC28MBQ_0101 320567 322258 ZH 我 有 我 不是 说
+14NC28MBQ_0101 322598 326836 ZH (呃) 我 的 科目 是 很 容易 的 是 非常 难
+14NC28MBQ_0101 338478 339251 ZH 对
+14NC28MBQ_0101 339932 340983 ZH 我只 我
+14NC28MBQ_0101 341231 343830 ZH (呃) 我 只读 五个 科目
+14NC28MBQ_0101 347171 348315 ZH 你 是 读 什么
+14NC28MBQ_0101 348841 349986 CS 对 哦 n. b. s. right
+14NC28MBQ_0101 350543 356142 CS 哦 可是 他们 你们 那 你们 一个 sem~ 不是 说 很 不是 读 很多 东西 吗
+14NC28MBQ_0101 360192 361987 EN  okay
+14NC28MBQ_0101 365823 368326 CS (呃) 我 目前的 elective 已经
+14NC28MBQ_0101 368390 374030 CS 已经 读 完了 了 现在 我 只是 集 集中 在 我的 minor minor in mathematics
+14NC28MBQ_0101 376834 378106 ZH 对 全部 八个
+14NC28MBQ_0101 378353 382808 CS 全 全部 我 只是 我 现在 只 只是 读 minor 而已
+14NC28MBQ_0101 385345 386458 ZH 啊
+14NC28MBQ_0101 387634 388686 EN effectively
+14NC28MBQ_0101 389057 392491 EN effectively after after my second year i clear everything
+14NC28MBQ_0101 400476 402054 EN who who is the phone call for
+14NC28MBQ_0101 403879 404993 EN okay
+14NC28MBQ_0101 415481 417646 EN can we just get down get down with it
+14NC28MBQ_0101 420059 420554 EN ah
+14NC28MBQ_0101 421297 421977 EN 
+14NC28MBQ_0101 422720 423771 EN you sure or not
+14NC28MBQ_0101 424514 425628 EN whatever
+14NC28MBQ_0101 459153 462092 EN intermission at the moment please
+14NC28MBQ_0101 462679 465278 EN be patient thank you thank you very much
+14NC28MBQ_0101 679606 683566 ZH 你 终于 回来 了 真是的 你 刚才 发生 什么 事 啊
+14NC28MBQ_0101 684865 685794 ZH 啊
+14NC28MBQ_0101 686845 687773 ZH 哦
+14NC28MBQ_0101 689166 690836 EN oh under what
+14NC28MBQ_0101 694336 697615 ZH 哦 我 我 听过 不过 也是 不管
+14NC28MBQ_0101 698852 703060 CS 啊 我 也是 never mind you tell me about it later let's continues
+14NC28MBQ_0101 703709 709123 EN no no no we talk about it after we are done with this thing first ah you just want to get this thing over
+14NC28MBQ_0101 711598 712619 EN oh okay
+14NC28MBQ_0101 714740 717910 CS oh say so lah okay okay okay 可以
+14NC28MBQ_0101 720325 729891 EN (er) actually i don't know don't know much (er) partly because partly because i am not really interest <unk> reps but let me know what's this about anyway
+14NC28MBQ_0101 731252 736418 EN (er) used to lah but now now i have to settle for short distance now
+14NC28MBQ_0101 736975 738460 EN five five or ten k.
+14NC28MBQ_0101 746285 747058 EN enhm
+14NC28MBQ_0101 749317 750802 EN swimming all to the sea
+14NC28MBQ_0101 751977 752658 EN en
+14NC28MBQ_0101 753246 753957 EN enhm
+14NC28MBQ_0101 755071 755597 EN (em)
+14NC28MBQ_0101 756277 756958 EN enhm
+14NC28MBQ_0101 758752 761011 EN ah just like that what was the distance
+14NC28MBQ_0101 762310 763888 EN ah what's the distance
+14NC28MBQ_0101 767159 767901 EN enhm
+14NC28MBQ_0101 774668 775596 EN okay
+14NC28MBQ_0101 781134 782000 EN enhm
+14NC28MBQ_0101 785558 786579 EN en
+14NC28MBQ_0101 794007 796513 EN oh okay i see
+14NC28MBQ_0101 800008 801741 EN okay i see
+14NC28MBQ_0101 802483 803319 EN oh
+14NC28MBQ_0101 809200 810561 EN i might consider but
+14NC28MBQ_0101 815016 816222 EN enhm
+14NC28MBQ_0101 818202 819161 EN enhm
+14NC28MBQ_0101 822317 825256 EN ah (em) emhm
+14NC28MBQ_0101 827400 828235 EN okay
+14NC28MBQ_0101 830555 831112 EN en
+14NC28MBQ_0101 833920 836990 EN (er) might might consider actually
+14NC28MBQ_0101 837392 838691 EN might consider
+14NC28MBQ_0101 847959 848577 EN (em)
+14NC28MBQ_0101 859188 862955 EN (er) right now right now preparing for inter-hall games
+14NC28MBQ_0101 863419 864471 EN (er)
+14NC28MBQ_0101 865089 867162 EN i am working hard for the basketball team
+14NC28MBQ_0101 867485 869635 EN where was one then number two i am
+14NC28MBQ_0101 869975 876224 EN i will be hopefully hopefully i will be able to play chess i international chess and chinese chess
+14NC28MBQ_0101 876657 877554 EN then
+14NC28MBQ_0101 878080 878823 EN ah
+14NC28MBQ_0101 880493 881761 EN (er)
+14NC28MBQ_0101 882102 883741 EN you talking what you referring to
+14NC28MBQ_0101 884484 885474 EN (er)
+14NC28MBQ_0101 886062 886402 EN com~
+14NC28MBQ_0101 887021 890702 EN there will com competition will stretch four days because it was during the school period
+14NC28MBQ_0101 894997 898710 EN no i mean as it the the
+14NC28MBQ_0101 899112 903072 EN the chess competition for chinese chess will start on the first of school
+14NC28MBQ_0101 904093 908547 EN so and then normally it's not held during during <unk> held during that time
+14NC28MBQ_0101 911231 918346 EN so so that's why that's why they they are stretching it from the first to the fourth day of school
+14NC28MBQ_0101 932637 939876 EN  the whole team have been confirm already i just i just support support them in term of admin and logistics
+14NC28MBQ_0101 940340 941113 EN yes
+14NC28MBQ_0101 945583 946542 EN no they
+14NC28MBQ_0101 947068 964839 EN no if if you ask me player the one thing that player should do is to just is to just (er) refine the skills and then and then you have another group of people who are just do just to do that admin and logistics for them so they don't have to worry too much if both sides have to worry i think if
+14NC28MBQ_0101 971674 972942 EN well i always
+14NC28MBQ_0101 974489 975448 EN (er)
+14NC28MBQ_0101 975943 979036 EN that's that's why we always have two managers
+14NC28MBQ_0101 979754 980528 EN yeah
+14NC28MBQ_0101 983992 986715 EN yeah i know normally i try not to error too much ah
+14NC28MBQ_0101 987643 988262 EN about
+14NC28MBQ_0101 990180 990922 EN yeah
+14NC28MBQ_0101 996342 998508 EN 
+14NC28MBQ_0101 1003674 1005438 EN 
+14NC28MBQ_0101 1008850 1015590 CS yep yup she's the vice cap 她 她是 她是 副 副 队长
+14NC28MBQ_0101 1018026 1020501 ZH 我 干嘛 要 骗你 有 钱 拿 啊 啊
+14NC28MBQ_0101 1022079 1023471 ZH 不错 啦
+14NC28MBQ_0101 1023873 1027585 CS 可以 我 没有 记错 她 可以 可以 上 i. v. p. 的
+14NC28MBQ_0101 1030061 1031669 ZH 我 干嘛 要 骗你
+14NC28MBQ_0101 1032103 1034806 ZH 我 哪里 知道 可是 你 要 懂 啊 如果
+14NC28MBQ_0101 1035115 1037497 CS 如果 算是 i. v. p. 一定 会 有
+14NC28MBQ_0101 1037868 1041519 CS 会 有 一些 限制 嘛 会 有 一些 restriction 嘛 对不对
+14NC28MBQ_0101 1042106 1049709 CS 如果 你 是 i. v. p. player 的 话 你在 你 在 场 你 在 篮球场 算是 cap player 嘛
+14NC28MBQ_0101 1052926 1054225 ZH 不一定 嘛
+14NC28MBQ_0101 1057350 1061556 CS 如果 就算 是 我 我 也是 不要 因为 他们 会 把 我 当成 cap player
+14NC28MBQ_0101 1067835 1072847 CS 你要 懂 你要 懂 我 我 是 一百 巴仙 hall 我 不是 一百 巴仙 别的 东西
+14NC28MBQ_0101 1081054 1086035 ZH 很难 很难 很难 讲 (呃) 有些 要看 那一年 是不是 有 很多 人 的
+14NC28MBQ_0101 1090180 1091325 EN fair enough
+14NC28MBQ_0101 1093552 1094387 EN what
+14NC28MBQ_0101 1097048 1097852 EN enhm
+14NC28MBQ_0101 1099698 1100379 EN sure enough
+14NC28MBQ_0101 1102050 1103349 EN but to ea~ but
+14NC28MBQ_0101 1103782 1106102 EN but to each's own lah really
+14NC28MBQ_0101 1111300 1114840 CS of course 我 还要 啊
+14NC28MBQ_0101 1118240 1126800 CS (er) 这个 就要 看 目前 的 committee lo 如果 如果 还有 的 recommend 回来 的话 我 就 没 问 我 就要 住 hall
+14NC28MBQ_0101 1128864 1131339 ZH (呃) 你 你是
+14NC28MBQ_0101 1131750 1133628 CS recommend 我 回来 啊 这个 这个 怎样 讲 eh
+14NC28MBQ_0101 1134185 1138423 ZH 这个 这个 怎么样 讲 诶 不是 不是 一个人 决定 的 诶
+14NC28MBQ_0101 1142816 1147920 CS 讲 一个人 就 不是 lah 如果 是 讲 一个 committee
+14NC28MBQ_0101 1154074 1155497 ZH 到头 诶
+14NC28MBQ_0101 1156611 1163108 EN i mean (er) on the specific level it will be it will be (er) your committee your committee you are under in ah
+14NC28MBQ_0101 1166675 1170325 EN (er) for for me last year was sports and h. s. o. c.
+14NC28MBQ_0101 1182143 1186134 EN phone conversation the women please be patient thank you
+14NC28MBQ_0101 1402684 1409459 EN oh great right now i am really waiting for he to finish this phone conversation it's been like how many minutes
+14NC28MBQ_0101 1410047 1411098 EN oh great
+14NC28MBQ_0101 1563558 1567673 EN  since since i'm waiting <unk> so i just say something ah
+14NC28MBQ_0101 1568013 1572560 EN (er) the mom at the moment (er)
+14NC28MBQ_0101 1573767 1580340 EN at the moment pre~ preparing hard for inter-hall games and then hopefully things things will turn out fine and
+14NC28MBQ_0101 1580560 1583240 EN last year we have a lot a a abuse
+14NC28MBQ_0101 1583425 1585157 EN b. q.s and
+14NC28MBQ_0101 1585559 1588111 EN and a lot of banana here banana there but
+14NC28MBQ_0101 1588420 1592689 EN hopefully this year they might it will be more peaceful this year if
+14NC28MBQ_0101 1592813 1596247 EN if things do turn out ugly ugly like last year
+14NC28MBQ_0101 1596463 1600268 EN <unk> i wish i could really <unk> one piece of my mind
+14NC28MBQ_0101 1600423 1604074 EN really one piece of the mind and yeah
+14NC28MBQ_0101 1605020 1610065 CS 真的 真的 真的 要 给 他们 one piece of my mind
+14NC28MBQ_0101 1898465 1899300 ZH 哇 你的
+14NC28MBQ_0101 1899455 1902765 CS 哇 你的 那个 conversation 蛮 久的 诶
+14NC28MBQ_0101 1905271 1906323 ZH 啊哼
+14NC28MBQ_0101 1907993 1908890 EN okay
+14NC28MBQ_0101 1910623 1911551 EN enhm
+14NC28MBQ_0101 1915534 1916710 EN (em)
+14NC28MBQ_0101 1922140 1923990 CS okay then 还是 讲 的
+14NC28MBQ_0101 1928589 1930445 ZH 做 什么
+14NC28MBQ_0101 1931776 1936416 ZH 放心 啦 你 还有 那张 纸 你 那张 纸 还有 很 很多 问题 没有 问 呐
+14NC28MBQ_0101 1937746 1938396 ZH 啊
+14NC28MBQ_0101 1940748 1946510 CS 你 以为 我 硬 要 到 这个 一个 钟头 的 conversation 吗 对不对
+14NC28MBQ_0101 1951204 1953648 CS 什么 被骗 hello
+14NC28MBQ_0101 1956820 1961580 CS 有 如果 有些 东西 hor 没有 这么 简单 的 if is
+14NC28MBQ_0101 1961948 1965939 CS 啊 这个 我 就 不知道 这个 要问 c. k. 才 知道 呢
+14NC28MBQ_0101 1969094 1972002 ZH 有没有 不可能 降 那么 低 嘛
+14NC28MBQ_0101 1976790 1979079 EN  ah
+14NC28MBQ_0101 1981028 1981987 EN so
+14NC28MBQ_0101 1985050 1992443 ZH 拜托 你 啊 你 在 外面 讲话 在 外面 聊天 那 我在 这里 做 什么
+14NC28MBQ_0101 1995094 1998063 ZH 对 啦 可是 你 要 知道 这个 是 什么 时候 勒
+14NC28MBQ_0101 2000136 2003137 ZH 很难 这种 东西 也是 难讲 哦
+14NC28MBQ_0101 2012789 2015635 ZH 肯定 有 的 啦
+14NC28MBQ_0101 2018994 2023604 ZH 如果 是 你的 不用 讲 啦 他们 什么 东东 什么 东东 都可以 讲 的
+14NC28MBQ_0101 2027390 2029460 CS 毕业 旅行 啊 definitely
+14NC28MBQ_0101 2030719 2037030 CS (er) of hand of hand 有 几个 地方 lah (er) 日本 中国
+14NC28MBQ_0101 2037320 2039230 ZH 欧洲 那 那个 地带 lor
+14NC28MBQ_0101 2041325 2042903 ZH 当然有
+14NC28MBQ_0101 2044542 2045656 ZH (呃)
+14NC28MBQ_0101 2046244 2046770 ZH 怎样
+14NC28MBQ_0101 2050513 2053328 ZH (呃) 每个 月 大概 有 两百块 左右 啦
+14NC28MBQ_0101 2055030 2058525 ZH (呃) 已经 有 两年 了 所以
+14NC28MBQ_0101 2059322 2067984 ZH 二十四 乘 两百 大概 有 (呃) 四 四千八百 咯
+14NC28MBQ_0101 2070707 2071356 ZH 啊
+14NC28MBQ_0101 2072625 2074419 EN ah okay
+14NC28MBQ_0101 2084820 2086893 CS ah 我 还有 多 i have two more years ah
+14NC28MBQ_0101 2088501 2090791 CS 没 no lah i still got
+14NC28MBQ_0101 2091688 2096854 EN the <unk> the <unk> will be from me but the rest the rest maybe have to ask my dad lor
+14NC28MBQ_0101 2099143 2102886 EN ah do i you want me you want to know so much mie
+14NC28MBQ_0101 2104814 2105990 EN okay lah
+14NC28MBQ_0101 2107691 2108465 EN no
+14NC28MBQ_0101 2109300 2111249 EN <unk> people don't know too much
+14NC28MBQ_0101 2111806 2114002 EN very very simply don't want to know too much
+14NC28MBQ_0101 2115456 2116260 EN no
+14NC28MBQ_0101 2118983 2124118 CS that one have decided 这个 还 没有 决定 诶
+14NC28MBQ_0101 2125510 2131510 CS (呃) 这个 我 i don't
+14NC28MBQ_0101 2133267 2134969 EN i don't mind lah but it will be
+14NC28MBQ_0101 2135464 2149209 EN i don't mind lah but i will prefer traveling with with some company lah
+14NC28MBQ_0101 2153492 2156616 ZH enhm 比较 比较 自由 嘛
+14NC28MBQ_0101 2157421 2159184 ZH 比较 自由 嘛 对不对
+14NC28MBQ_0101 2164390 2169280 CS 不 也不 一定 啊 如果 你 喜欢 自己 旅游 也 算是 fun 嘛
+14NC28MBQ_0101 2172842 2173956 ZH 啊 对 啊
+14NC28MBQ_0101 2179493 2182772 ZH 如果 你 如果 你 这样 看 nor 我 也是
+14NC28MBQ_0101 2182900 2194170 CS 我也是 哎呀 随 随便 你 说 啦 because i feel that (er) sometimes if you are alone ah at least you have more freedom to go where ever you want mah 对不对
+14NC28MBQ_0101 2204150 2208502 EN being bored is very subjective so i won't really want to
+14NC28MBQ_0101 2208997 2210543 EN to discuss much about that one
+14NC28MBQ_0101 2215833 2217102 EN (er) me ah
+14NC28MBQ_0101 2219610 2226630 CS oh 怎样 庆祝 啊 (er) really nothing much l just stay at home
+14NC28MBQ_0101 2229870 2231510 EN no it's just way too crowed
+14NC28MBQ_0101 2231788 2235408 EN it will just way too crowed in on the christmas
+14NC28MBQ_0101 2236986 2239491 EN if or on the day itself
+14NC28MBQ_0101 2241087 2242386 EN ah 
+14NC28MBQ_0101 2242974 2244923 EN i am saving up for this year man
+14NC28MBQ_0101 2246717 2248790 EN i don't intend to
+14NC28MBQ_0101 2250120 2251636 EN i don't intend to spend them all
+14NC28MBQ_0101 2252379 2256277 EN for this (er) it has already it has already pass out i didn't
+14NC28MBQ_0101 2256586 2259215 EN at that time i didn't want to spend too much because
+14NC28MBQ_0101 2260020 2262000 EN because basically
+14NC28MBQ_0101 2262649 2264072 EN basically i am on the
+14NC28MBQ_0101 2264660 2266176 EN basically i would like to
+14NC28MBQ_0101 2267011 2268494 EN save for rain already lah
+14NC28MBQ_0101 2271124 2277187 EN if let's say if economy doesn't do too well don't don't always be in what the what the main stream paper says
+14NC28MBQ_0101 2281054 2289984 EN  what do you think because the you know what happen to do by they from from from from the black they suddenly into debt
+14NC28MBQ_0101 2292831 2293851 EN yeah lah there is
+14NC28MBQ_0101 2295986 2296636 EN (er)
+14NC28MBQ_0101 2305574 2309441 EN monitoring who knows maybe
+14NC28MBQ_0101 2314050 2315226 EN enhm
+14NC28MBQ_0101 2324499 2325334 EN enhm
+14NC28MBQ_0101 2328706 2336935 EN no lah don't worry i am not sleepy just need to close my eyes that's all ah what time i slept two plus
+14NC28MBQ_0101 2337245 2338235 EN wake up all night
+14NC28MBQ_0101 2341335 2344490 EN ah it's not tried i just want to close my eyes that's all
+14NC28MBQ_0101 2346222 2347243 EN oh sorry
+14NC28MBQ_0101 2347924 2348914 EN 
+14NC28MBQ_0101 2356895 2360741 ZH  真是 真是的
+14NC28MBQ_0101 2366000 2368908 EN eiya no not just three times then
+14NC28MBQ_0101 2371506 2372682 EN (er)
+14NC28MBQ_0101 2373486 2375528 EN more like she has pay people to do it
+14NC28MBQ_0101 2379671 2387622 EN yeah but but the professor won't possibly go down there to go down to conduct thing
+14NC28MBQ_0101 2388457 2394749 EN but if you think around then probably ah but but is that really important is that really important
+14NC28MBQ_0101 2397997 2398987 EN yeah lor
+14NC28MBQ_0101 2410434 2412785 EN have you really <unk> one at the moment
+14NC28MBQ_0101 2413713 2415508 EN (er) anywhere
+14NC28MBQ_0101 2415870 2418490 CS 有什么 resolution ah (er)
+14NC28MBQ_0101 2419405 2425892 ZH 我 是 觉得 嗯 我 真的 没有 诶 你 真的 要 我说 一个 啊
+14NC28MBQ_0101 2431274 2437930 CS 哇 想来 想 去 我 看 我 真的 是 don't have it 我 真的 没有 don't have 一个 lor
+14NC28MBQ_0101 2450281 2451735 EN emm
+14NC28MBQ_0101 2452416 2455664 EN (er) leave it until until the time is right lah we don't
+14NC28MBQ_0101 2456871 2457985 EN yes
+14NC28MBQ_0101 2468503 2469957 EN ah
+14NC28MBQ_0101 2470297 2475043 CS 日本 ja japan food japan 料 aiyo
+14NC28MBQ_0101 2475275 2476141 ZH 菜饭
+14NC28MBQ_0101 2478183 2479374 EN that's my that's my favourite
+14NC28MBQ_0101 2479697 2480424 EN it's cheap
+14NC28MBQ_0101 2480687 2482899 EN and you can choose anything you want
+14NC28MBQ_0101 2484622 2489603 CS can can be can~2 菜饭 can be can~a 菜饭 any other place as long
+14NC28MBQ_0101 2490005 2492449 CS because the one thing i like about 菜饭 is
+14NC28MBQ_0101 2492620 2493594 EN you you just
+14NC28MBQ_0101 2493841 2498234 EN tell them what you want and then it's already on the spot you don't have to wait
+14NC28MBQ_0101 2500833 2501313 EN ah
+14NC28MBQ_0101 2502148 2507191 EN (er) sushi the teriyaki teriyaki sets and
+14NC28MBQ_0101 2508289 2512941 EN depending on the teriyaki lah can be chicken can be salmon or sometimes even more
+14NC28MBQ_0101 2513312 2515725 EN raw salmon you know the can~ a
+14NC28MBQ_0101 2516236 2518386 EN you know the can~ a the (er)
+14NC28MBQ_0101 2518896 2520381 EN it's a sashimi
+14NC28MBQ_0101 2521920 2525818 EN not say sashimi lah i mean salmon raw salmon raw salmon lah
+14NC28MBQ_0101 2526560 2528463 EN ah quite quite good lah
+14NC28MBQ_0101 2529236 2531665 EN if you know how to if you know how to
+14NC28MBQ_0101 2531835 2534451 EN appreciates the tates of salmon right it's very good
+14NC28MBQ_0101 2537096 2538225 EN not fresh ah
+14NC28MBQ_0101 2538596 2538967 EN there's
+14NC28MBQ_0101 2544644 2547366 EN i have been eating it for two years and nothing happen to me ei
+14NC28MBQ_0101 2551171 2553166 EN (em) okay
+14NC28MBQ_0101 2553984 2556306 EN it's nice it's quite okay wah
+14NC28MBQ_0101 2558018 2558930 EN ah
+14NC28MBQ_0101 2561081 2562859 EN then what else what else are we missing
+14NC28MBQ_0101 2567774 2568888 EN enhm so
+14NC28MBQ_0101 2569228 2569894 EN so
+14NC28MBQ_0101 2570249 2571781 EN okay let me see ah
+14NC28MBQ_0101 2572307 2574492 EN how what are you being involved what you
+14NC28MBQ_0101 2574956 2577570 EN what are you involved for this inter-hall
+14NC28MBQ_0101 2580968 2581876 EN soccer and
+14NC28MBQ_0101 2583150 2585449 EN oh polo yeah yeah yeah correct correct
+14NC28MBQ_0101 2588779 2589429 EN ah
+14NC28MBQ_0101 2593729 2594858 EN 
+14NC28MBQ_0101 2599356 2599866 EN enhm
+14NC28MBQ_0101 2601135 2601877 EN what what
+14NC28MBQ_0101 2602155 2602867 EN what's sport again
+14NC28MBQ_0101 2603114 2604290 EN track ah okay
+14NC28MBQ_0101 2605481 2606239 EN en
+14NC28MBQ_0101 2608955 2609728 EN enhm
+14NC28MBQ_0101 2613858 2614910 EN ah that one
+14NC28MBQ_0101 2620045 2621288 EN almost full ah
+14NC28MBQ_0101 2625526 2626315 EN oh yeah
+14NC28MBQ_0101 2627227 2630537 EN then tell about it this what lah (er)
+14NC28MBQ_0101 2631060 2637910 CS you say what what sport soccer ah ei i heard about the jersey what happen ah 发生 什么 事 啊
+14NC28MBQ_0101 2638720 2642481 CS 那个 jersey jersey 那个 color 是 pink 的
+14NC28MBQ_0101 2645311 2647208 EN ah what who chose
+14NC28MBQ_0101 2648864 2650936 EN who who chose pink in the first
+14NC28MBQ_0101 2653253 2655124 EN ah you are kidding
+14NC28MBQ_0101 2668091 2669267 EN is a dull pink ah
+14NC28MBQ_0101 2669916 2670566 EN like like
+14NC28MBQ_0101 2671185 2671602 EN got any
+14NC28MBQ_0101 2671881 2673675 EN is there anything to compare with
+14NC28MBQ_0101 2677115 2678554 EN like the one we are looking at ah
+14NC28MBQ_0101 2679002 2680348 EN you mean the screen
+14NC28MBQ_0101 2680936 2682560 ZH oh 原来 是 这样 的 啊
+14NC28MBQ_0101 2689936 2693691 CS 我是 because i was thinking actually black or this (er)
+14NC28MBQ_0101 2698629 2703392 EN okay ah maybe something like (er)
+14NC28MBQ_0101 2708636 2709332 EN yeah
+14NC28MBQ_0101 2709783 2711624 EN 
+14NC28MBQ_0101 2713449 2719529 EN well and the how how how prepare is the soccer team for this year in your opinion
+14NC28MBQ_0101 2729944 2730671 EN enhm
+14NC28MBQ_0101 2736555 2737329 EN enhm
+14NC28MBQ_0101 2740360 2741103 EN okay
+14NC28MBQ_0101 2745811 2748828 EN oh then what about other halls
+14NC28MBQ_0101 2758154 2763923 CS 所以 你是 觉得 哪一个 hall 会 会 给你们 那些 那个 挑战 呢
+14NC28MBQ_0101 2770164 2774511 CS 哦 okay then 等一下 fu huang 他 是不是 i. v. p. 啊
+14NC28MBQ_0101 2777171 2777759 EN enhm
+14NC28MBQ_0101 2778564 2779321 ZH 天哥 呢
+14NC28MBQ_0101 2780011 2781944 ZH 天哥 天赐 天赐
+14NC28MBQ_0101 2785765 2791302 CS 不可以 吗 跟 他 gang 跟 他 gang 就叫 他 天哥 啊
+14NC28MBQ_0101 2795725 2798015 EN ah he so so he is consider i. v. p.
+14NC28MBQ_0101 2798896 2800797 EN bullshit can he quit in time
+14NC28MBQ_0101 2802297 2802869 EN oh great
+14NC28MBQ_0101 2803519 2803937 EN shit
+14NC28MBQ_0101 2808979 2810139 EN what's his full name ah
+14NC28MBQ_0101 2812437 2813350 ZH 世雄 啊
+14NC28MBQ_0101 2815160 2817696 EN could it be the guy ah could it be the year four guy i know
+14NC28MBQ_0101 2820707 2822037 EN graduating senior
+14NC28MBQ_0101 2825563 2827466 EN okay maybe maybe
+14NC28MBQ_0101 2828363 2830699 EN okay any case it probably somebody
+14NC28MBQ_0101 2831085 2834019 EN probably i may know probably i may not know never mind
+14NC28MBQ_0101 2834142 2834854 EN that one is
+14NC28MBQ_0101 2835318 2837344 EN that one is not really so much of our issues
+14NC28MBQ_0101 2837855 2838535 EN and
+14NC28MBQ_0101 2839866 2841768 EN ei ei what you what you think you are doing
+14NC28MBQ_0101 2842993 2843983 EN yeah
+14NC28MBQ_0101 2844587 2845901 EN then the
+14NC28MBQ_0101 2846242 2847061 EN what else ah
+14NC28MBQ_0101 2847556 2848717 ZH 对
+14NC28MBQ_0101 2849583 2851501 EN how about what do you think water polo really
+14NC28MBQ_0101 2855413 2856682 EN ah like which hall
+14NC28MBQ_0101 2857656 2858429 EN which team
+14NC28MBQ_0101 2859559 2860069 EN and
+14NC28MBQ_0101 2863425 2864152 EN enhm
+14NC28MBQ_0101 2866333 2868699 EN <unk> all the insane players
+14NC28MBQ_0101 2869086 2870664 EN the insane players
+14NC28MBQ_0101 2871465 2872889 EN insane players meaning
+14NC28MBQ_0101 2873987 2875920 EN i say insane that means they are
+14NC28MBQ_0101 2876106 2878503 EN they all really so up there ah then know body can
+14NC28MBQ_0101 2878875 2881282 EN nobody can go after them one
+14NC28MBQ_0101 2884902 2885335 EN that means
+14NC28MBQ_0101 2885784 2890322 EN insane meaning ah because their level is high up there ah okay ah one guy
+14NC28MBQ_0101 2890585 2893694 EN one guy i know is yaoxiang ah i heard heard is
+14NC28MBQ_0101 2893926 2896045 EN i heard he trained in national team before
+14NC28MBQ_0101 2896246 2897638 EN then i happen to see his name
+14NC28MBQ_0101 2897907 2902470 EN on the newspaper before about i think about national water polo team ah
+14NC28MBQ_0101 2902810 2903831 EN i don't yeah
+14NC28MBQ_0101 2904419 2905130 EN yeah lor
+14NC28MBQ_0101 2906105 2906925 EN i don't
+14NC28MBQ_0101 2908764 2909801 EN in the <unk> team
+14NC28MBQ_0101 2910126 2911471 EN okay i didn't
+14NC28MBQ_0101 2911920 2913730 EN i don't really read much about that one
+14NC28MBQ_0101 2916635 2917409 EN horseshit
+14NC28MBQ_0101 2924375 2927391 EN anyway you will be going aganist seven next next round right
+14NC28MBQ_0101 2928876 2932217 EN seven is seven is a not too bad hall
+14NC28MBQ_0101 2934634 2936629 EN by four six right yeah i know
+14NC28MBQ_0101 2937000 2939336 EN then what about the time where
+14NC28MBQ_0101 2939800 2940481 EN let me think
+14NC28MBQ_0101 2942770 2944162 EN (er)
+14NC28MBQ_0101 2944487 2950565 EN is is the is the demand still there or not that means you don't let opponent score any goal or whatever
+14NC28MBQ_0101 2955540 2957350 EN no lei i don't i think
+14NC28MBQ_0101 2957706 2960103 EN i think ah probably
+14NC28MBQ_0101 2961403 2962130 EN yes
+14NC28MBQ_0101 2976454 2977165 EN enhm
+14NC28MBQ_0101 2977799 2979671 EN okay and
+14NC28MBQ_0101 2980192 2981352 EN what
+14NC28MBQ_0101 2982419 2984182 EN 
+14NC28MBQ_0101 2986843 2987895 EN 
+14NC28MBQ_0101 2988235 2990076 CS 还有 什么 东西 then 你
+14NC28MBQ_0101 2990293 2992010 CS then 这个
+14NC28MBQ_0101 2992628 2994129 EN that means
+14NC28MBQ_0101 2994593 2996681 EN so other than other than
+14NC28MBQ_0101 2997040 2999610 CS what what what 什么
+14NC28MBQ_0101 3002579 3003522 ZH 这个
+14NC28MBQ_0101 3003739 3005920 ZH 这个 你 不应该 问 我的 因为 我
+14NC28MBQ_0101 3006198 3008039 ZH 因为 对我 来说 每个 都是 一样 的
+14NC28MBQ_0101 3008317 3009617 ZH 那些 那些 被抓
+14NC28MBQ_0101 3012319 3016387 EN (er) i don't i don't mean in the sense of pretty or not pretty it's
+14NC28MBQ_0101 3016572 3017748 EN more rather
+14NC28MBQ_0101 3018366 3019650 EN (er)
+14NC28MBQ_0101 3019873 3021404 ZH 怎样 讲 呢
+14NC28MBQ_0101 3023291 3024560 ZH 又是 电话 来
+14NC28MBQ_0101 3049010 3051485 CS 谁 who deron as it the one we know ah
+14NC28MBQ_0101 3052784 3053140 EN ah
+14NC28MBQ_0101 3059810 3060568 EN oh
+14NC28MBQ_0101 3061326 3062857 EN okay
+14NC28MBQ_0101 3064095 3065394 EN no as i was saying
+14NC28MBQ_0101 3065688 3070359 EN i am not i am not so concern about how they look whether they are hot or not really i don't care
+14NC28MBQ_0101 3073174 3074581 EN whether whether you
+14NC28MBQ_0101 3075571 3077257 EN whether you and
+14NC28MBQ_0101 3077365 3081279 EN whether you and that person can take care of your family and future
+14NC28MBQ_0101 3081851 3084388 EN each other each other's each other's family
+14NC28MBQ_0101 3088070 3090282 EN (er) it's more like a
+14NC28MBQ_0101 3090947 3092463 EN (er)
+14NC28MBQ_0101 3093329 3094195 EN it's not like thing
+14NC28MBQ_0101 3094396 3099905 EN it's not like the thing so far something like you really want to look for that one rather other them lor
+14NC28MBQ_0101 3100802 3101390 EN rather than
+14NC28MBQ_0101 3104127 3107484 EN no some people some people no matter how old will always think
+14NC28MBQ_0101 3107608 3112296 EN think more fundamentally like think how pretty is the person
+14NC28MBQ_0101 3113580 3114106 EN diu bo
+14NC28MBQ_0101 3117470 3122404 EN usually the problem okay maybe seems seems you on this issues i thought i just say my mind ah
+14NC28MBQ_0101 3123255 3125374 EN (er) we always assume ah
+14NC28MBQ_0101 3125778 3128330 EN that the the girl or woman
+14NC28MBQ_0101 3128701 3133682 EN the girl or woman we see ah can take care of the family and then then (er)
+14NC28MBQ_0101 3133899 3139836 EN from there we always always pick out the one always looks damn hot or damn beautiful one correct
+14NC28MBQ_0101 3141166 3142481 EN there is a assumption
+14NC28MBQ_0101 3142790 3144090 EN am i right to assume that
+14NC28MBQ_0101 3144291 3146688 EN we always assume that (er)
+14NC28MBQ_0101 3146936 3150937 CS (呃) 女人 哦 一定 会 很 照顾 family 的 是不是
+14NC28MBQ_0101 3153737 3154309 EN okay
+14NC28MBQ_0101 3155469 3157526 EN so i see you hang on ah
+14NC28MBQ_0101 3157944 3159027 EN never mind i
+14NC28MBQ_0101 3162966 3164806 EN (er)
+14NC28MBQ_0101 3165270 3165765 EN ah
+14NC28MBQ_0101 3167209 3171617 EN no it's not even it's not even the n series it's just six five hundred series
+14NC28MBQ_0101 3173272 3175468 EN it's n series i don't think it will look like this lor
+14NC28MBQ_0101 3177641 3179033 EN yeah lor what about you
+14NC28MBQ_0101 3180271 3180673 EN who
+14NC28MBQ_0101 3180905 3182622 EN who do you think who do you think
+14NC28MBQ_0101 3182931 3185131 EN who who do you have your
+14NC28MBQ_0101 3185580 3187699 EN i mean who is your target at the moment
+14NC28MBQ_0101 3187993 3188766 EN or do you have
+14NC28MBQ_0101 3189308 3189802 EN yeah lah
+14NC28MBQ_0101 3190112 3194304 EN not say target lah i mean who do you think who do you find who do you find interesting
+14NC28MBQ_0101 3196505 3199676 EN it can it not need to be pretty wah it can be
+14NC28MBQ_0101 3200418 3203450 EN interested in inside or outside lah also can lah
+14NC28MBQ_0101 3207494 3211222 EN okay this one don't worry this one is between you and me so not to worry
+14NC28MBQ_0101 3212709 3213887 EN no worries ah
+14NC28MBQ_0101 3214104 3217058 EN i won't i won't go go to sabo people like that
+14NC28MBQ_0101 3219053 3219502 EN ah
+14NC28MBQ_0101 3220631 3222611 EN now i am going to ask you this question
+14NC28MBQ_0101 3223369 3224127 EN oh
+14NC28MBQ_0101 3225458 3229448 EN okay for me technical technically anybody who is single lah
+14NC28MBQ_0101 3230718 3235127 EN technically i say technically ah because those who are attach ah straight away
+14NC28MBQ_0101 3235436 3237741 CS straight away 我 不要 我 不要 管
+14NC28MBQ_0101 3239042 3240218 EN ah what
+14NC28MBQ_0101 3241710 3250830 CS 怎么 讲 leh ah 朋友 可以 lah no what i am saying is when you are talk about getting a girlfriend all those who are taken already are out
+14NC28MBQ_0101 3253135 3254094 EN 
+14NC28MBQ_0101 3255038 3259276 EN when you talking about can be friend that one that one any everybody lah no problem one lah
+14NC28MBQ_0101 3259817 3263813 EN is talking about having a girlfriend and that one (er) different issues all togther
+14NC28MBQ_0101 3264927 3265360 EN yeah
+14NC28MBQ_0101 3267618 3270124 ZH 不要 想 这么 多 啦 一直 讲
+14NC28MBQ_0101 3270387 3274926 ZH 继续 继续 讲 我 不要 想 时间 一定 很快 就会 过 的
+14NC28MBQ_0101 3276303 3276829 EN yeah
+14NC28MBQ_0101 3278902 3282212 CS out of sight out of mind 不要 看 那个 时间 啦 真是
+14NC28MBQ_0101 3284487 3286003 EN ah army ah <unk>
