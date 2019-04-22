@@ -57,9 +57,9 @@ if __name__ == '__main__':
     logger.info(args)
     # Read in the data
     logger.info('Loading dataset...')
-    dataset = read_dataset('data')
+    dataset = read_dataset('data')[:1000]
     train = dataset[: int(len(dataset)*0.8)]
-    dev = dataset[int(len(dataset)*0.8): -1]
+    dev = dataset[int(len(dataset)*0.8) + 1: -1]
     vocab = Vocab(train)
     # train_set = BilingualDataSet(vocab, examples=train, padding=False, sort=False)
     # dev_set = BilingualDataSet(vocab, examples=dev, padding=False, sort=False)
@@ -87,7 +87,7 @@ if __name__ == '__main__':
     else:
         raise NotImplemented
 
-    model = model.to(DEVICE)
+    # model = model.to(DEVICE)
 
     # Construct loss function and Optimizer.
     criterion = torch.nn.CrossEntropyLoss()
