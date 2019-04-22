@@ -51,21 +51,19 @@ class DualLSTM(nn.Module):
 
         self.dummy_tok = torch.zeros((1, embed_size)).to(DEVICE)
 
-        self.lstm_en = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=False)
-        self.lstm_cn = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=False)
+        self.lstm_en = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=False).to(DEVICE)
+        self.lstm_cn = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=False).to(DEVICE)
 
         self.fc = nn.Sequential(
             nn.Linear(hidden_size, vocab_size),
             nn.ReLU(),
             nn.Dropout(p=dropout),
             nn.Linear(vocab_size, vocab_size)
-        )
+        ).to(DEVICE)
 
         # [batch_size, hidden_size]
         self.hidden_en = self.init_hidden()
-        # self.cell_en = self.init_hidden()
         self.hidden_cn = self.init_hidden()
-        # self.cell_cn = self.init_hidden()
         self.cell = self.init_hidden()
 
     def init_hidden(self):
