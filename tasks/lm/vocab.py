@@ -13,7 +13,6 @@ import logging
 import torch
 import six
 import gzip
-import psutil
 
 from tqdm import tqdm
 from collections import Counter
@@ -113,10 +112,7 @@ class Vocab(object):
             self.stoi = defaultdict()
 
         assert words is not None
-        mem_before = psutil.virtual_memory()[3]
         self.build(words)
-        mem_after = psutil.virtual_memory()[3]
-        print("Used Mem = ", (mem_after - mem_before) / (1024 ** 2))
         self.unk_init = torch.Tensor.zero_ if unk_init is None else unk_init
 
     def build(self, words):

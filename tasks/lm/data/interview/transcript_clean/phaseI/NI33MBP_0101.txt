@@ -1,0 +1,333 @@
+NI33MBP_0101 1764 4534 ok hello 
+NI33MBP_0101 5924 8324 er my name is yan-zhang
+NI33MBP_0101 9074 12474 su-yan-zhang ah 华语 是 su-yan-zhang
+NI33MBP_0101 12834 19854 今年 是 二十一 岁 要 到 二十二 了 
+NI33MBP_0101 22744 25824 er from maritime c. e. e. ahh
+NI33MBP_0101 26094 33404 是 海事 ah maritime studies er year one 第一 年 mm
+NI33MBP_0101 40944 50644 er 都是 比较 都是 business 的 三个 学期 啊 可是 this sem er more physics maths all this kind
+NI33MBP_0101 53164 65984 sorry er maritime technology ah 所以 是 有 一点 像 那个 那个 船 会 沉 还是 浮 then 要 读 那些  er waves
+NI33MBP_0101 66504 68674 ah 那种 东西
+NI33MBP_0101 70254 71544 
+NI33MBP_0101 75614 77444 mm mm 
+NI33MBP_0101 81594 85384 er 还没有 可是 他 会 给 一些 background ah
+NI33MBP_0101 85384 95454 er 我们 有 比较 多 是 有 law lah 这个 学期 比较 多 是 law 有 business law 还有 海事 他们 自己的 law mm
+NI33MBP_0101 97724 99244 
+NI33MBP_0101 101634 109254  我 不知道 eh  我 不知道 可是 我 只是 很 怕 er 那个 industry 被 取代
+NI33MBP_0101 109944 128764 因为 如果 他们 er 如果 那个 aviation 的 那个 trade 起来 的话 如果 他的 那个 freight rate 被 变 便宜 的话 他 就可以 取代 海事 每个人 都 就 用 er 飞机 来 transport 他们的 东西
+NI33MBP_0101 136974 138924 ah 有 er
+NI33MBP_0101 141244 142554 对 lorh 对 lorh
+NI33MBP_0101 143234 147264 mm 可是 我是 怕 应该 没有 这么 快 会 发生 啊
+NI33MBP_0101 153904 157454 mm 就是 er 担心 那个
+NI33MBP_0101 157464 163474 他们 找到 另外 一个 energy source lorh 就 取代 er fuel then 就 
+NI33MBP_0101 163604 174254 就会 比较 残 lah 就是 因为 那个 industry 很 容易 被 er 那个 economy 影响 因为 它 很 dependent on the economy 所以
+NI33MBP_0101 174254 181184 会 会 怕 影响 就是 很 像 最近 的 recession er 他 quite badly hit ah ya
+NI33MBP_0101 193064 214944 er 应该 是 没有 只是 修船 而已 他的  港口 不够 大  不够 位子 lah 舰船 啊 所以 ah 那些 教授 是 跟 我们 讲 要 蛮 大 的 位子 才 可以 建 所以 新加坡 只是 只是 一个 中心 啊 transport 还有 ship brokering 这些
+NI33MBP_0101 214944 220964 就是 比较 多 人 会 er 从事 好像 帮忙 那些 运货 的 人 找 船 这些
+NI33MBP_0101 231934 245864 原理 啊  就是 er 如果 那个 东西 要 float 的话 就是 他的 weight 要 equal to 他的 buoyancy force lorh  这样 可是 在 exam 做出 来 就 比较 难 
+NI33MBP_0101 247044 250814 会 有 很多 种 er 不同 的 scenario 好像 可能
+NI33MBP_0101 250824 262734 那个 货 他 没有 在 那个 船 的 郑重 他 可能 在 旁边 他 要 移 一道 旁边 还是 他 被 lift 起来 那些 都会 affect 那个 buoyancy
+NI33MBP_0101 268624 272724 orh 他们 actually 我 不是 很 清楚 啊 可是
+NI33MBP_0101 272734 277444 er 那个 油 他们 在 载 的 时候 会 有 那个 他 会
+NI33MBP_0101 277614 283374 ah 他 有一个 叫 free surface effect 就会  因为 它 转来转去 就会
+NI33MBP_0101 283374 292104 他 油 会 摇 also then 就会 affect 那个 ship 的 stability 所以 他们 得 读 这个 然后 来 understand 要 怎样 放 那个
+NI33MBP_0101 292274 294444 可是 我是 不 太 清楚 怎样 放 lah
+NI33MBP_0101 302984 305444 mm 可是 其实 我们
+NI33MBP_0101 305624 316164 我 不知道 为什么 我们 要 读 这些 因为 我们的 工作 是 比较 er 接近 那种 跟 人家 接触 比较 business type 的 不是 erm
+NI33MBP_0101 316164 319104 要 要 怎么 建 那些 船 啊 所以
+NI33MBP_0101 319104 324234 er 很多 人 都在 like erm question 为什么 要 读 这些
+NI33MBP_0101 324594 333694 就是 那个 syllabus 是 这样 可是 我们 好像 出去 工作 ah 情况 不 需要 我们 知道 这些 东西
+NI33MBP_0101 341184 348134 应该 是 就是 做 那种 like 人家 要 运 东西 然后 他 就 帮 他 找 船 这种 东西
+NI33MBP_0101 349984 351564 对 对
+NI33MBP_0101 354004 366364 mm more than like 那种 architecture 的 东西 好像 如果 我们 现在 在 学 physics 我们 要 知道 那个 船 的 构造 这些 i think 我 觉得 basic 就可以 了 可是
+NI33MBP_0101 366774 376984 我们 后来 的 year two year three 这些 他们 会 go more in depth so 不知道 是 真的 需要 还是 只是 放在 那边 给 我们 读
+NI33MBP_0101 389234 392184 orh 这个 我 不 太 清楚
+NI33MBP_0101 397364 399294 orh  还有 很 久
+NI33MBP_0101 403644 405344 ah 我 住 hall six
+NI33MBP_0101 406634 410514 kallang 在 er 羽 球 馆 后面
+NI33MBP_0101 410514 413454 以前 的 羽 球场 那个 fatty ring 后面
+NI33MBP_0101 415684 417474 给 kallang airport ah
+NI33MBP_0101 424154 430464 orh 我在 catholic j. c. c. j. c. 那个 公 教 j. c.
+NI33MBP_0101 435914 441554 orh er 本来 我是 读 er n. u. s. 的 mech engine 的
+NI33MBP_0101 441614 449784 可是 我 最后 一年 因为 男孩 子 要 当兵 嘛 some more 我 最后 一年 我 转 来 这个 学校
+NI33MBP_0101 450084 456474 mech engine 很 像 蛮 er dry 的 很 像 不是 很 有 兴趣 啦 好像 一直 读 那些 东西
+NI33MBP_0101 456474 462114 其实 我是 还 好 可是 可是 听 很多 人 讲 不 不是 很好 读 不是 很 容易 读 所以
+NI33MBP_0101 462114 469394 我 转 来 maritime lorh 因为 maritime 应该 好像 不错  所以 就 转 看看 lorh
+NI33MBP_0101 469794 473304 mm 可是 未来 是 不知道 会 怎样
+NI33MBP_0101 475644 478294 yah yah 对
+NI33MBP_0101 481444 487524 学校 学校 没有 c. c. a 可是 就在 hall join 一些 activity lorh mm
+NI33MBP_0101 487614 500374 就是 er 我是 那个 programmer for 我的 hall 的 camp 就是 要 想 那些 游戏 啊 for 明年 那些 那些 新人 来 玩 的
+NI33MBP_0101 501214 502984 mostly year one
+NI33MBP_0101 505114 506874 有 有 有所 以
+NI33MBP_0101 509354 526664 orh 其实 camp 蛮 rigorous 的 就是 每天 都 很少 睡觉 然后 就 一直 玩 一直 玩 lorh 然后 他 它 会 有 一些 固定 的 er programs ah 很 像 可能 在 field 玩 field games lorh 再 er 有时 就 玩 pool games lorh
+NI33MBP_0101 526664 532154 然后 我 觉得 最 特别 for 我们的 hall 是 他 有一个 东西 叫 initiation
+NI33MBP_0101 532154 540374 就是 只是 迎新 啊 可是 他的 迎新 星 我 觉得 应该 是 其 他的 hall 没有 了 就是 他 要
+NI33MBP_0101 540594 544954 我们 这些 新人 erm go through 一些 难关 啊 好像
+NI33MBP_0101 545004 552594 我 知 它的 难关 应该 有 五个 吧 然后 都是 从 er 早上 两 点 做到
+NI33MBP_0101 552604 557444 早上 八点 ah 因为 er camp 是 不 睡觉 的
+NI33MBP_0101 561584 567094 er 有 睡 啊 可是 不 多 啊 有些 人 就是 根本 都 懒得 睡 啊 就在 那边 玩 lorh
+NI33MBP_0101 567094 569464 然后 最后 一天 就是 那个
+NI33MBP_0101 569794 573154 这个 program ah 然后 他 要 你 go through 一些 test lorh
+NI33MBP_0101 573204 577464 啊 然后 第一个 就是 他 给 你 一个 桌子
+NI33MBP_0101 577564 581454 男 的 和 女 的 是 不同 啊 他 给 你 一个 桌子 然后 他 要 你
+NI33MBP_0101 582484 590764 orh they want you to use your body just your body er to go under the table and go up again so
+NI33MBP_0101 590844 600174 its not very difficult ah the first one then er the following one is maybe they give you a very long pole then they ask
+NI33MBP_0101 600174 613804 its a just a pole lah then they ask the whole O. G. to support you and you have to climb up ah so the pole must be stable and everyone must give directions ah so its a team effort and anymore
+NI33MBP_0101 614754 623334 orh ok ok 可以 可以 然后 er 就是 需要 team effort lah
+NI33MBP_0101 623864 629554 然后 下 一个 就是 他 叫 er two person er 拿 一个 西瓜
+NI33MBP_0101 629734 636524 ah 然后 就是 那个 西瓜 you can only use your back and carry you have to er press against it
+NI33MBP_0101 636524 638124 each other and
+NI33MBP_0101 638124 647272 er 不可 以 用 任 任何 的 脚 啊 手 啊 什么 然后 你 就 得 the 他 就会 er arrange 一些 table 然后 让 你 爬 过 那些 table
+NI33MBP_0101 647474 653714 所以 for 我 有点 困难 因为 我 有点 高 yah ah so i and my partner took
+NI33MBP_0101 653714 657454 er 蛮 长 的 时间 yah so
+NI33MBP_0101 658214 664044 可是 最后 有 做 完 lah 然后 at the end of everything er 应该 每个人 都 觉得 蛮 好玩
+NI33MBP_0101 664174 668314 ah 还有 一个 很 interesting 的 是  那些 senior 他
+NI33MBP_0101 668474 679474 er 因为 在 hall six 蛮 蛮 多 草地 的 那种 然后 他们 会 they will dig dig the grass up then 倒 水 啊 然后
+NI33MBP_0101 679474 689444 他 放 一个 canvas sheet and you and your partner have to go down the canvas sheet 所以 its very muddy lah 然后 他们 就 叫 你 做 蛮 笨 的 东西 lah 
+NI33MBP_0101 689444 699254 its like er 他们 就 叫 你 erm 表演 啊 还是 什么 就 就在 er inside the mud they will 玩弄 你 啊 that's all
+NI33MBP_0101 699394 709794 yah 所以 其实 是 蛮 还 蛮 好玩 的 啊 可是 你 出来 的 时候 就 很 肮脏 啊  就 全身 they'll make sure you are dirty before you come out so
+NI33MBP_0101 713794 715654 ah swimming pool
+NI33MBP_0101 717384 723544 orh yah yah 那个 orh 然后 最后 一个 项目 是 我们 从 那个
+NI33MBP_0101 723544 730344 垄沟 from the drain we climb down and 每个人 都 得 下去 lah 然后 就
+NI33MBP_0101 730344 733434 inside the drain is very dark so 手 牵手 啊
+NI33MBP_0101 733434 743674 so everyone 蹲 着 走 然后 其 他人 就 er guide the way lah so we just keep walking and walking out until outside is the 就是 池塘
+NI33MBP_0101 743784 751974 所以 我们 最后 就在 那个 池塘 然后 er 玩 唱歌 这些 然后 就 玩 lorh 这样 that's the end of the camp lah
+NI33MBP_0101 752624 757094 哭 没有 赶 着 回家 而已 
+NI33MBP_0101 766213 771483 在一起 er 我 我 觉得 应该 everyone just want to go home ah 那时 候
+NI33MBP_0101 771483 778093 因为 很 肮脏 然后 赶快 冲凉 赶快 赶回 家 也 七 天 没有 回家 啊 所以
+NI33MBP_0101 783162 789472 应该 是 八十 个 吧 for hall 的 camp 应该 是 八十 个
+NI33MBP_0101 789512 793742 for 学校 我 应该 是 更 大 的 规模
+NI33MBP_0101 798113 808303 orh 因为 其实 这个 叫 马 来人 他是 biz mag ah 他是 筹钱 的 然后 我 听 他说 应该 是 得 筹 得 筹 到 二十 千 啊
+NI33MBP_0101 808993 814163 mm 所以 其实 我们 来 这里 也是 来 赚钱  要 一直 赚钱
+NI33MBP_0101 814163 818883 然后 有 很多 那种 different canvassing 的 activity 让 我们 参加
+NI33MBP_0101 820223 827663 明年 的 新人 就 玩 得 很 开心 lorh 他们 到 他们的 时候 他们 也 得 做 这些 东西 so it is like carry on
+NI33MBP_0101 829683 834673 yah 他们 得 交 我 那 年 是 sixty dollars 啊
+NI33MBP_0101 838383 845613 yah 包 吃 包 喝 那些 lorh 所以 那些 er 以前 的 人 他们 得 canvass very hard 应该 是 啊
+NI33MBP_0101 850803 862983 orh er 他们 会 organise maybe activities like karung guni 就是 收 旧 报纸 然后 他们 会 把 那些 old old stuff they sell it to 那些
+NI33MBP_0101 864953 872643 那个 就 蛮 好 赚 的 然后 还有 他们 会 organise party 就是 那种 在 夜总会 跳舞 那种
+NI33MBP_0101 872643 876943 ah 然后 叫 er 其 他人 去 啊 然后 然后 卖 票
+NI33MBP_0101 877353 880913 yah that's the way how they 他们 怎样 赚钱 yah
+NI33MBP_0101 884633 888633 er 如果 你 读书 的 时候 就 不是 很好 玩 lah
+NI33MBP_0101 888633 894543 有些 人 不 喜欢 嘛 因为 你 赚 的 那个 钱 but its not yours 你 来 给 回 你的 hall
+NI33MBP_0101 894693 900773 然后 蛮 花 时间 的 所以 看 一个人 lorh 有些 人 they enjoy their company of their friends
+NI33MBP_0101 900783 905023 yah so 不同 每个人 just different
+NI33MBP_0101 905243 910413 我 想法 我 觉得 是 浪费 时间  可是 因为 我是 那个
+NI33MBP_0101 910413 915153 in the main committee ah so 这种 东西 er 不 喜欢 可是
+NI33MBP_0101 915283 923403 就是 尽量 去 lorh 可以 就 去 因为 er 这个 那个 biz mag 是 我的 好 朋友 lah 所以 我 会 尽量 帮忙
+NI33MBP_0101 925073 929573 我的 邻居 lorh 他 住 在 我的 隔壁 而已
+NI33MBP_0101 930293 933903 在 hall 我 每次 每次 讲话 讲 到 很 迟 的
+NI33MBP_0101 937113 940533 在 hall 就是
+NI33MBP_0101 940923 944883  crazy ah 应该 是 没有 啊 因为
+NI33MBP_0101 945423 953673 我 我们 都 er 一直 读书 的  就是 比较 读书 然后 有 空 的话 就 讲话 lorh 讲 about erm
+NI33MBP_0101 953673 959833 our future ah 这些 然后 有 空 打球 lorh 我们 都 play badminton ah so
+NI33MBP_0101 959933 967203 so 我们 有 空 就 just 下去 然后 s. r. c. is just beside so we go down and play lah mm
+NI33MBP_0101 968833 977543 future ah 我们 就是 er 很 像 很 羡慕 那些 high flyers ah 然后 一直 在 orh yah 他们是 这样 这样
+NI33MBP_0101 977543 985773 也 希望 像 他们 这样 lah 可是 er zhi-kai 比较 接近 lah 我 应该 是 做梦 可是 要 work hard lah
+NI33MBP_0101 990543 1001253 我们 er 通常 是 看 那些 赚 很多 钱 的 人 lorh 然后 很 像 minister 那些 他们 都 很 像 有一个 roadmap for them to follow lah at least
+NI33MBP_0101 1001323 1010433 很 像 他们 从 j. c. 毕业 他们 就 拿 到 政府 的 奖学金 然后 就 mm progress and progress 到 they become minister ah 这种
+NI33MBP_0101 1010703 1020253 some sort of high flier ah in government sector 然后 他 有 other high flier in private 的 sector ah so so 看 你 要 做 哪 一种 lorh
+NI33MBP_0101 1026833 1041033 mm 其实 我 觉得 like er studying in university 很多 人 都 说 很好 啊 可是 可能 会 有点 limit 你的 future 可能 你 就 以后 就 一直 帮 人家 打工 而已 but 你 很难
+NI33MBP_0101 1041183 1044903 因为 好像 你 有一个 文凭 然后 你 就 很 limit 你 自己
+NI33MBP_0101 1044903 1048003 你 应该 去 创业 还是 什么 啊 所以
+NI33MBP_0101 1048083 1054633 可能 会 有 一点 limiting so 看看 未来 怎么 怎么样 lorh
+NI33MBP_0101 1056163 1066133 mm 我 我 想 因为 er 不 cannot be always under other people ah 你 也 自己 应该 尝试 怎样 当 一个 老板 管理 人 这些
+NI33MBP_0101 1073903 1077783 orh 其实 我的 家里 不是 算 那种 很 富有 的
+NI33MBP_0101 1077953 1084913 有 一点 er poor quite poor 不是 不是 那种 有 很 富有 的 然后
+NI33MBP_0101 1084973 1093813 er 上学 什么 东西 都 不用 操心 ah 所以 这些 东西 都 like 也是 需要 er auntie 其它 auntie uncle 来 帮忙 so
+NI33MBP_0101 1093893 1095823 i think 我 会 比较
+NI33MBP_0101 1095983 1104833 从小 就 比较 在意 钱 方面 这种 东西 比较 想 er when i grow up i want to earn more money 然后 er 不要 像 我
+NI33MBP_0101 1104833 1110153 er 以后 的 家庭 跟 像 我 这样 就是 很 像
+NI33MBP_0101 1110183 1121563 i want my children to 过 好 一点 lorh 所以 er 可是 现在 讲 不懂 以后 can do it a not so
+NI33MBP_0101 1122153 1130903  我 有一个 姐姐 她是 n. u. s. chemistry 的 毕业 然后 他 现在 在
+NI33MBP_0101 1131043 1138573 er 一个 chemical company 做工 啊 工作 ah 所以 还 不错 啊 她 现在 还 不错
+NI33MBP_0101 1142553 1153573 本来 他在 n. u. s. 帮 人家 帮 那些 教授 做 er 那些 project 然后 那个 不 多 吧 我 看 最多 也是 两 千 二 这样 差不多
+NI33MBP_0101 1153573 1165323 然后 but 他 现在 的 工作 是 that shift lah 有 morning shift 所以 是 可能 从 八点 到 八点 晚上 可是 不是 每天 固定 做 orh so
+NI33MBP_0101 1165473 1170663 they pay maybe it'll reach like 三千 三千 然后
+NI33MBP_0101 1170753 1178993 因为 你是 做 shift 的 then they'll give you incentives ah like transportation 那些 多 的话 应该 有 五千 吧
+NI33MBP_0101 1179963 1181513 所以 还 还 不错
+NI33MBP_0101 1182013 1185333 mm 所以 我的 家家 里 现在 应该 是 靠 他 liao
+NI33MBP_0101 1185333 1200093  因为 其实 i think 我 er me and her 都 不要 我们的 父母 在 劳碌 啊 is 都 蛮 蛮 大 的 嘛 so must must relax ah
+NI33MBP_0101 1206213 1208293 orh ok
+NI33MBP_0101 1214673 1217593 you are a prof here ah 你 在这里 是 教授 还是 什么
+NI33MBP_0101 1220523 1227323 orh ok 可是 after 你 读 完了 然后 你 可以 做 什么 就是
+NI33MBP_0101 1229423 1231153 orh ok
+NI33MBP_0101 1243003 1244233 flyer
+NI33MBP_0101 1248703 1254563 orh 那种 pilot ah 就是 orh 对 那种 好 命 可是
+NI33MBP_0101 1254643 1259093 erm 那个 requirements very stringent ah 就是 他们 选 你
+NI33MBP_0101 1260123 1265413 他们 they they you must go through alot of tests ah 然后 go through 了 可能 只有 一 关 你 没有过 他们 就
+NI33MBP_0101 1265473 1275513 不要 你 了 因为 他们 要人 很 清楚 啊 可能 他们 从小 就 已经 你 不知道 他们 要 你 可是 其实 他们 已经 earmark 你是 他们的 人 liao
+NI33MBP_0101 1275803 1281163 因为 很多 人 都 想 从事 这 行 啊 好 赚 orh  yah
+NI33MBP_0101 1286413 1290703 mm 对 很好 所以 一定 是 稳 赚 的
+NI33MBP_0101 1290783 1296173 可是 要 飞来飞去 lorh 就是 可能 will miss your family lah
+NI33MBP_0101 1296353 1300483 yah 可是 可以 出国 玩 啊 所以 也好 都有 好 有 坏
+NI33MBP_0101 1307303 1308713 mature
+NI33MBP_0101 1309323 1312573 ah 我 还 好 lah 我 不会
+NI33MBP_0101 1316503 1321103 不会 吧 i think 可能 因为 男生 都是 这样 啊
+NI33MBP_0101 1321143 1327043 因为 男生 大 er 现在 我们 跟 我们 读 同年 的 er two years 所以
+NI33MBP_0101 1327273 1338003 i think 蛮 多 男孩 子 都会 觉得 like 现在 的 女孩子 还 比较 幼稚 可是 应该 过 两年 就 好 了 ah
+NI33MBP_0101 1338043 1343593 可是 也不 可以 这样 讲 人家 因为 想法 不同 嘛 男孩 子女 孩子 is different mah i think
+NI33MBP_0101 1346123 1354143 oh 我在 er 我的 j. c. 的 对面 我是 er 我的 服役 是 police 我是 做 警察 的
+NI33MBP_0101 1354143 1365023 ah 所以 after b. m. t 就是 那个 训练 在 choa-chu-kang 然后 就是 被 post 去 在 我的 j. c. 的 对面 的 那个 兵 lorh 那个 camp
+NI33MBP_0101 1365243 1368853 so 那个 其实 我 我是 文 员 啊 我是 clerk
+NI33MBP_0101 1368873 1374743 所以 我的 老板 是一个 很 er 很 big rank 的 
+NI33MBP_0101 1374763 1380433 他的 rank 很大 ah 所以 我 其 其实 只是 他的 秘书 这样 助手 然后
+NI33MBP_0101 1380473 1385513 帮 erm 安排 他的 schedule 这些 然后 听 他的 电话 这样 lorh
+NI33MBP_0101 1385513 1391963 其实 nothing much ah 所以 我 er 我 可以 说是 浪费 了 两年 啊
+NI33MBP_0101 1391963 1399473 可是 就 er 有 去 学 车 啊 考 车 这些 然后 有 空 就 去 运动 lorh
+NI33MBP_0101 1399513 1401963 yah 不要 浪 在 那边 浪费 时间 啊 然后
+NI33MBP_0101 1402053 1405633 因为 我 department 是 只有 我 跟 我的 老板 然后
+NI33MBP_0101 1405683 1410713 他的 东西 我也 i think 他 也不 不敢 让 我 去 做 lorh so
+NI33MBP_0101 1411023 1418263 i have nothing to do basically lah so 我 会 try to 帮忙 其它 的 department in 他们的 活动 lorh
+NI33MBP_0101 1418353 1420613 so 这样 会 比较 多 东西 做
+NI33MBP_0101 1421003 1426323 mm 不会 很 像 n. s. 没有 贡献 这样 对不起 新加坡 啊 
+NI33MBP_0101 1428533 1434153  是 因为 是 太太 boring 了 所以 have to do that 不然 其实 在 n. s.
+NI33MBP_0101 1434153 1440513 大多数 的 人 都是 可以 闪 就 闪 啊 mm yah lah
+NI33MBP_0101 1441303 1447653 因为 其实 那些 regulars 他们 他们的 东西 都会 try to
+NI33MBP_0101 1447653 1453733 mm task to their those n. s. people ah 因为 他们 自己的
+NI33MBP_0101 1453733 1461013 应该 做 了 很多 年 了 所以 也 懒得 做 liao 所以 就 叫 那些 n. s. 的 just keep doing and doing 这样 子
+NI33MBP_0101 1461263 1465313 是 national service lorh 就是 国民 服役 那些 人
+NI33MBP_0101 1467633 1474633 ah civil defence 就是 那个 消防 还有 army lorh
+NI33MBP_0101 1475873 1487903 navy 空军 and 路 啊 路 就 er i think 是 army ah 我 其实 是 不 太 清楚 他们 整天 讲 可是 我 不懂 因为 我是 another different one
+NI33MBP_0101 1488173 1494453 可是 police 是 蛮 我 觉得 compared to army 是 比较 realistic ah its like
+NI33MBP_0101 1494473 1511593 its like 你 因为 讲 新加坡 会 有 打 er war is not 不是 very 可能 会 有 啊 可是 we must prepare for it 可是 不是 everyday life 会 有 in police you learn things that more realistic
+NI33MBP_0101 1511593 1515893 可能 robbery or 这种 东西 那种 打 抢
+NI33MBP_0101 1516043 1520043 ah 你 会 学 到 这种 东西 啊 然后 蛮 interesting 的 你 听 你
+NI33MBP_0101 1520253 1529733 你的 o. c. 就是 officer in charge ah 它 就会 跟你讲 他 以前 er 做 过 的 事情 然后 你 会 eh orh 很 interesting eh
+NI33MBP_0101 1538843 1540663 yah yah
+NI33MBP_0101 1542243 1547463 mm 有些 n. s. 的 回去 啊 可是 我 没有 没有 轮 到 我 group ah
+NI33MBP_0101 1547463 1553493 er 因为 我是 文 员 啊 心脏 有 问题 所以 他们 不敢 派 我 去 吧 
+NI33MBP_0101 1553493 1561513 ah 他们 都是 那种 在 巡逻 的 比较 常会 被 deploy 去 这种 events ah 还有 f. one 啊
+NI33MBP_0101 1563673 1567893 我 没有 我 很 希望 他们 叫 我 去 站在 那边 可是
+NI33MBP_0101 1567893 1574863  他们 没有 叫 我 they never call me lah so ah 其实 是 不错 啊 有 很多
+NI33MBP_0101 1574863 1583023 perks 还有 benefit 啊 都 我 觉得 是 跟 army compare 起来  是 已经 算 很好 了 因为 他
+NI33MBP_0101 1585333 1589373 they are more real life lorh yah
+NI33MBP_0101 1593083 1603913 mm 比较 realistic ah 不会 像 那种 army 可能 他们 每天 都在 jungle 里面 打 打仗 可是 打 一场 你 从来 不会 来 的 仗
+NI33MBP_0101 1604343 1612633 so  its different lah 可是 在 当兵 应该 也好 玩 吧 每个人 都 i think 是 不同 的 经验 lorh
+NI33MBP_0101 1617553 1626513 我 学 到 啊 因为 我是 在 er i work in an office what 所以 我 office 就会 有 office 的 politics lorh 所以
+NI33MBP_0101 1626513 1632023 要 知道 mm 要 怎么 跟 人家 相处 啊 我 觉得 很 重要 lorh
+NI33MBP_0101 1632033 1641803 mm 就算 你 很 会 工作 you know how to work very well 可是 如果 你 cannot work with your peers 还是 你的 上 师 啊 这样
+NI33MBP_0101 1642043 1645523 对 你 不利 啊 not nice for you so
+NI33MBP_0101 1645833 1658363 er 要 学会 这种 东西 lah 怎么 跟 人家 沟通 可是 我 沟通 my communication skills 不是 很 强 啊  所以 还是 要 进步 lorh yah
+NI33MBP_0101 1662353 1666263 我 我 不 不 太 会 讲话 啊
+NI33MBP_0101 1669493 1685033 华语  啊 跟 朋友 是 讲 英文 的 可是 我的 英文 不好 i will mix singlish er 这个 project singlish singlish very good 很 很 厉害 
+NI33MBP_0101 1689383 1691583 福建 人 lorh 福建 人
+NI33MBP_0101 1691833 1694413 我 会 讲 福建 话 一点点 啊
+NI33MBP_0101 1694583 1701373 那种 不好 的话 很 会 讲  可是  可是 er 叫 你 er speak
+NI33MBP_0101 1701483 1710173 那种 平常 话 不会 不是 不会 lah 就 like 会 stutter mm 不 太 好 lah
+NI33MBP_0101 1716833 1723433 对 啊 ah 中学 er other language 都是 从 不好 的话 开始 学 的 
+NI33MBP_0101 1727993 1731263 对 其实 我在 j. c. 的 时候 有 
+NI33MBP_0101 1731263 1735083 always  讲 这种 不好 的话 but
+NI33MBP_0101 1735083 1743013 后来 er because j. c. to army 有 一段 时间 是  空 他 他在 等 enlist what so
+NI33MBP_0101 1743093 1752773 我 那时 候 我 改过 liao 然后 我 就 没有 讲 可是 一 进去 er police 然后 又 又 回来 liao 然后 到 现在 都 没有 改过 
+NI33MBP_0101 1759753 1765493 yah so 有 一点 像 adjective ah 不是 因为 想 骂 人 然后 这样 是
+NI33MBP_0101 1765493 1778783 its a form of  just 好像 describe 一个 东西 这样 所以 其实 不是 故意 的 所以 那些 女孩子 应该 应该 明白 可是  mm 他们 if they don't understand 也是
+NI33MBP_0101 1778783 1783943 我们 应该 understandable ah so 也不 是 他们的 错 因为 很 粗俗 这种 话
+NI33MBP_0101 1784813 1787473  对 orh
+NI33MBP_0101 1793173 1798383 orh 我在 工作 因为 我的 uncle 他
+NI33MBP_0101 1798383 1814513 er 他 跟 它的 朋友 open 有 venture ah business venture 就是 因为 他的 朋友 是 设计 那种 鱼缸 的 就是 you know 你 有没有 看过 那种 fish tank but its just mounted on the wall 啊 就是 那种 那种 其实
+NI33MBP_0101 1814513 1824193 也是 养 鱼 啊 可是 是 那种 aesthetic ah 那种 东西 所以 他们 开 了 这种 店 啊 在 marina square so 我 就 去 卖 东西 lorh
+NI33MBP_0101 1824193 1828083 可是 那个 生意 很 差 the business 很 差
+NI33MBP_0101 1829913 1836093 多 可是 erm actually 那个 展品 是一个 luxury product lah 很 像
+NI33MBP_0101 1836093 1841743 可能 是 车 很 像 车 这样 可是 没有 车 这样 expensive lah so
+NI33MBP_0101 1841743 1846663 er 他 不便 宜 lah its not cheap and
+NI33MBP_0101 1849353 1863403 i 我 忘记 是 几时 几时 but 这样 this this length is 要 可能 有 一千 块 五百 块 and 他 他 不 厚 its very very thin
+NI33MBP_0101 1863423 1871093 yah 然后 那个 鱼 就在 里面 其实 那个 鱼 我 看 也不 是 很 舒服 啊 这么 窄 然后 怎么 游 可是 是
+NI33MBP_0101 1871093 1888183 er 人们 看 了 like er you got guests at home 他们 看 了 会 很 舒服 啊 就是 for 那种 美观 的 东西 but the 那个 生意 不是 很好 啊 在 at marina square 他 其实 在 i. m. m. 啊 在 tampines mall ah 都 都有 店
+NI33MBP_0101 1888183 1893133 那 那边 的 生意 is better ah then marina square marina square 的 已经 倒闭 了
+NI33MBP_0101 1893763 1900823 yah 所以 我的 i think my uncle lose abit  like make a loss ah yeah
+NI33MBP_0101 1902473 1910693 yah 我 每天 在 那个 店 里面 就是 读 故事 书 啊 等 当兵 而已 因为 there's 没 没有 人 啊
+NI33MBP_0101 1910733 1914413 yah 每个人 都是 在 那边 看 那些 鱼 而已 but 他们是
+NI33MBP_0101 1914413 1918363 they won't buy ah 因为 那个 价钱 too steep
+NI33MBP_0101 1919843 1921833 不合 理 lorh 我 觉得
+NI33MBP_0101 1926143 1929873 er i think fengshui 有 matters lah but
+NI33MBP_0101 1930383 1934193 我 觉得 价钱 是 the main factor lorh
+NI33MBP_0101 1935043 1937563 don't fit 那个 product ah
+NI33MBP_0101 1942663 1949466  对 啊 那些 鱼  如果 鱼 长大 了然 后 放 不 下了 啊
+NI33MBP_0101 1951833 1956373 对 可是 鱼 会长 大 很快 啊 然后  每天 都要
+NI33MBP_0101 1956523 1963913 er 装 水 啊 那 the the thing is good that 他 不用 把 那个 水 很 像 一直 把 那个 鱼 捞起 来 然后 换 水
+NI33MBP_0101 1964003 1966043 他 只是 需要 like
+NI33MBP_0101 1966063 1972573 因为 他 有一个 so that 那个 水 below 那个 level 然后 你 就 得 装 水 啊
+NI33MBP_0101 1973933 1978813 他 有一个 pump 他 有一个 pump yah but then 我 我 不懂 how it work lah
+NI33MBP_0101 1980033 1985453 其实 是 我 i forget how it work  你 加 那个 水 啊 所以 yah
+NI33MBP_0101 1986263 1990643 there's a trick to it ah but 那是 商业 的 秘密 according to them lah
+NI33MBP_0101 1994883 2000993 er 其实 i think 养 鱼 不容易 啊 还要 清理 他的 er 那些
+NI33MBP_0101 2000993 2004103 mm 对 i think not easy
+NI33MBP_0101 2004103 2011653 everyday you must feed them 其实 很 像 每个人 都 讲 everyday fit 然后 换 水 好像 很 容易 这样 其实
+NI33MBP_0101 2011663 2021293 你 工作 回来 啊 er 然后 i think not easy ah 还要 吃饭 这些 吃饭 比较 重要 啊 好过 去 喂 那些 鱼 啊 对
+NI33MBP_0101 2030350 2033140 yah mm
+NI33MBP_0101 2037730 2041140 对 其实 er
+NI33MBP_0101 2041140 2044990 i think 那个 trick to 这 这个 东西 就是 你的 水
+NI33MBP_0101 2044990 2056650 就是 那个 水 是 那个 问题 啊 所以 你 就 已经 先 culture 好 你的 水 liao 你 不要 这样 好像 用 那种 海水 还是 什么 然后 你 再 些 东西 你 再 加 些 东西 就
+NI33MBP_0101 2056810 2065840 你 就 得 incur costs ah 所以 你的 水 就 加 人家 帮 你 culture so 你 just 放进 去 的 应该 是 ok 的
+NI33MBP_0101 2075880 2079150 zhi-kai 有 参加 handball 还有
+NI33MBP_0101 2083530 2087100 可是 他的 射门 这些 事 像 足球
+NI33MBP_0101 2087190 2092310 好像 你 要 用 你的 手 把 有一个
+NI33MBP_0101 2092330 2100850 yah that's handball lah ah 然后 他 zhi-kai 有 参加 羽 orh 他 还 会 打 网球 tennis ah
+NI33MBP_0101 2100990 2103180 不错 啊 她 有 参加 蛮 多 啊
+NI33MBP_0101 2104350 2105850 outdoor
+NI33MBP_0101 2111300 2116650 active ah active lorh 蛮 active 的
+NI33MBP_0101 2118450 2121840  我 不知道 eh  我 不知道
+NI33MBP_0101 2122080 2126370 yah 可是 他 他 会 参加 很多 东西 啊 很 像 er
+NI33MBP_0101 2126460 2129760 这个 camp 的 biz mag 也是 他 啊 so
+NI33MBP_0101 2129760 2134630 其实 参加 是 有为 了 好玩 也 为了 很 像 未来
+NI33MBP_0101 2134630 2140970 你的 future employers 看 你的 resume 那些 都 都有 帮助 啊 所以
+NI33MBP_0101 2140970 2145000 其实 有些 人 可能 他们 不是 为了 好玩 只是 为了 那个
+NI33MBP_0101 2145590 2148720 re resume yah
+NI33MBP_0101 2157150 2161200 so 其实 你 做 这个 project 是 for 什么
+NI33MBP_0101 2238740 2244830 actually 很 很 cheem ah 就是 很 复杂 lorh 可是 i think
+NI33MBP_0101 2245090 2247670 你 喜欢 吧 蛮 有 兴趣 的 那种
+NI33MBP_0101 2249560 2257030  可是 如果 这个 东西 这个 project 成功 的话 你 也是 发 了 不对
+NI33MBP_0101 2258860 2263840 orh so 这个 其实 是 你 在 帮 人家 作 还是 是 its your own project
+NI33MBP_0101 2270470 2272520 哦 ok
+NI33MBP_0101 2275790 2277320 ok ok
+NI33MBP_0101 2292299 2298009 就是 很 像 maybe 那个 很 像 i phone 然后 你 讲 然后 他 就会 打 那个 人的 电话 就是 那种 啊
+NI33MBP_0101 2298019 2302069 其实 是 怎样 work ah 就是 那个 algorithm ah
+NI33MBP_0101 2302189 2310609 orh so algorithm 就是 那个 电 脑 how how it thinks lah 他 思考 的 方法
+NI33MBP_0101 2318679 2322899 因为 last sem 我 有 拿 一个 elective 是 cyber security ah
+NI33MBP_0101 2322899 2331029 然后 也是 有 algorithm 然后 algorithm 就是 那些 numbers is it orh ok then 他们 有什么 那种 encryption 那种
+NI33MBP_0101 2331319 2333849 orh wah 很难 eh
+NI33MBP_0101 2346449 2349139 orh ok
+NI33MBP_0101 2357709 2362179 so 你们 actually 会 analyse 我们的 er speech ah
+NI33MBP_0101 2373579 2375329 这样 很 cool
+NI33MBP_0101 2375609 2377399 
+NI33MBP_0101 2381069 2384019 mm 很 cool 很 cool 
+NI33MBP_0101 2389859 2391549 这个 学期 啊
+NI33MBP_0101 2392319 2400759 j. c. 啊 j. c. 我也 是 打 羽 球 orh badminton 我 从 secondary school 就是 打 羽 球 的 mm
+NI33MBP_0101 2402389 2411349  其实 我 跟 er zhi-kai 我们 secondary school 就有 看过 each other lah 就是 we are rival school lorh
+NI33MBP_0101 2411519 2418799 就是 mm 就是 敌人 吧 然后 那时 我 不是 很 喜欢 他 它 也是 不是 很 喜欢 我 这样 然后
+NI33MBP_0101 2418799 2423799 就 很 巧 啦 然后 到了 hall six 才  是 邻居 neighbour
+NI33MBP_0101 2423799 2433539 so 我 还 以为 我 这个 neighbour 很  很 很 讨厌 then 结果 我们 其实 讲话 orh then 讲 about 以前 eh 我 很 讨厌 你 i also hate you
+NI33MBP_0101 2433889 2441219 所以 in the end 还 蛮 好的 朋友 so 蛮 有趣 的 quite interesting yah
+NI33MBP_0101 2443159 2445619 training 因为 我们是
+NI33MBP_0101 2445769 2453379 under 不同 的 coach ah 他的 教练 是 新加坡 人 ah 然后 我 教练 是 中国人 yah so
+NI33MBP_0101 2453809 2459909 他们 教 的 方法 就是 用 英语 教 我们 还是 用  华语 啊 so
+NI33MBP_0101 2459909 2471629 然后 我的 coach 是 比较 因为 zhi-kai 小学 就有 打 过 然后 就 好像 有一个 step above us ah 然后 我的 学校 就是 因为 我是
+NI33MBP_0101 2471629 2476969 er 第二 个 batch 他 创办 了然 后 我是 第二 个 batch so 其实 很 新 啊 然后
+NI33MBP_0101 2476969 2495919 很多 球员 都是 一 开始 都 不会 打 所以 要 从 零 开始 啊 then 我的 coach 就会 teach us how to hold the racket ah 因为 我们 连 球拍 都 不会 握 所以 从 开始 慢慢 from the start train so in the end 我们 有 追 上 那些 人 lah so i think its good lah
+NI33MBP_0101 2499609 2508509 yah 我们 训练 是 蛮 fierce 的 就 其实 one week 有 七 天 我们 六 天 都有 在 训练 啊
+NI33MBP_0101 2508649 2517339 因为 人家 都 已经  你 只是 在 起跑 人家 都 跑 fifty metre 了 so  you have to chase 要 要 追 上 他们 lorh
+NI33MBP_0101 2517379 2519359 有 disadvantage ah 可是
+NI33MBP_0101 2519359 2523149 那个 过程 应该 蛮 好玩 的 like 你 去 追 人家
+NI33MBP_0101 2524899 2525979 其实 蛮 好玩 的
+NI33MBP_0101 2528149 2528949 yah lorh
+NI33MBP_0101 2529699 2538809 可是 到 erm maybe 到了 n. s. 的 时候 就 比较 少 打球 了然 后 在
+NI33MBP_0101 2538809 2547879 er university 更 更 少 啊 没 没有 空 然后 想 找 人 打 也是 不一定 每个人 会 那个 时间 跟 你 配合 yah so
+NI33MBP_0101 2548039 2549439 a bit difficult ah
+NI33MBP_0101 2549759 2563699 mm 所以 badminton 已经 不是 没有 像 以前 那么 重要 了 以前 可能 after school 你 你 可能 在 等 那个 下课 就是 就 马上 冲 去 那个 hall 打球 然后
+NI33MBP_0101 2563699 2568819 现在 没有 啊 现在 那个 没有 这么 passionate yeah yah
+NI33MBP_0101 2574799 2580769 现在 啊 因为 新加坡 的 sports 是 应该 是 没有 什么 也不 可以 发展 啊 so
+NI33MBP_0101 2580769 2587879 其实 我 er 学 弟 这些 my juniors they 他们 有 进 过 国家队 然后
+NI33MBP_0101 2587889 2600089 其实 国家队 有 那种 少年 队 这些 啊 so 他们是 国家队 就是 真的 turn professional ah like 他们 play badminton as 他们的 职业 啊 就是 职业 职员 lorh
+NI33MBP_0101 2602389 2605579 他们的 salary lah 可能 every month
+NI33MBP_0101 2606119 2614119 我 不知道 以前 我 不知道 不会 说 很多 因为 他们 不是 那种 顶 级 的  不是 像 susilo 这样
+NI33MBP_0101 2614389 2616869 可是 i think 他们的 endorsement like
+NI33MBP_0101 2617469 2622769 er 赚钱 啊 那些 sponsorship 会 赚 多 一点 钱 可是 
+NI33MBP_0101 2622789 2628479 我 其实 don't really understand 为什么 他们 会 朝 这 方面 啊
+NI33MBP_0101 2628479 2631979 因为 你 有 多少 好天 分 你 也是 很难
+NI33MBP_0101 2631999 2641579 er 去 跟 其 他 很 像 从中 国 还是 那种 印 尼 的 球员 compete ah
+NI33MBP_0101 2641729 2656529  所以 你 要 去 追 上 他们 not easy ah 因为 新加坡 的 孩子 还要  读书 study ah a lot of activities ah so 不 像 er other countries 的 children 啊 他们 just 一直 打球 一直 打球 啊
+NI33MBP_0101 2656749 2666389 他们 早上 起来 打球 然后 吃 完 饭 再 打 so they just keep playing badminton 每天 每天 这样 继续 so 是 不同 的
+NI33MBP_0101 2667979 2673319 所以 sports 对 我 来说 可能 只是 一个 recreation ah 现在 啊
+NI33MBP_0101 2673319 2680249 不会 再 再 想 你 要 打赢 谁 打赢 谁 已经 没有 这种 ambition liao 就是
+NI33MBP_0101 2680469 2696079 of course 你 输 的 时候 你 会 不甘 愿 lah 可是 你 也不 会 一直 去 like 像 以前 这样 你 输 了然 后 你 会 一直 去 想 然后 更 勤劳 去 training 想 打败 人 but now don't have ah
+NI33MBP_0101 2696079 2702689 现在 没有 那种 mm 没有  那种 passion 完了 没有 了
+NI33MBP_0101 2704739 2706139 完了 啊

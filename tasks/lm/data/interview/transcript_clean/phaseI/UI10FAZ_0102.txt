@@ -1,0 +1,155 @@
+UI10FAZ_0102 0 8317 我们 就是 要 啊 request 他们的 details loh then try to from 他们的 conversation
+UI10FAZ_0102 8317 14698 啊 看 他们 要 的 是什么 他们 要 的 是 service 啊 还是 他们 要 买 product ah
+UI10FAZ_0102 14698 18857 then 要 买 product 又 分为 很多 种 看 他们 买 哪个 product
+UI10FAZ_0102 18857 25126 then 我们 就会 direct 他们的 line 去 那个 他们 要 的 department
+UI10FAZ_0102 25126 28854 或者 是 他们 要 的 sell person 这就是 我的 工作
+UI10FAZ_0102 33359 38811 就是 没有 training 的 就是 first day 他 让 你 try 就是 啊
+UI10FAZ_0102 38811 43620 first day 他 让 你 有一个 mentor mentee 的 一个 system 这样 咯
+UI10FAZ_0102 43620 50970 会 有一个 mentor 坐在 你 旁边 跟 你 一起 听 那个 电话 可是 他 可是 讲话 的 是 你 then
+UI10FAZ_0102 50970 57705 啊 那 份 工作 是 需要 很 high level 的 multitask
+UI10FAZ_0102 57705 68053 因为 你 要 听 电话 and 你 要 看 computer on the same time 你 要 你 要 开 着 你的 google 去 找 一些 东西
+UI10FAZ_0102 68053 78146 so 起初 的 时候 会 有 一点 乱 可是 后来 很快 就 上手 了 因为
+UI10FAZ_0102 78146 86610 第一 天 第二 天 他 让 你 有 mentor mentee 的 这样的 一个 system 可是 第三 第四 天 就是 过后 就是 你 自己 live
+UI10FAZ_0102 94500 101049 没有 可是 一个 call 通常 都 不会 超过 三分 钟
+UI10FAZ_0102 101049 107736 只要 你 一天 有 一百 五十 个 calls 就是 你的 target 了
+UI10FAZ_0102 107736 113494 可是 通常 每 一个人 的 calls 都会 超过 两 百 个
+UI10FAZ_0102 120052 125285 其实 不是 说 不 啊 所以 我 啊
+UI10FAZ_0102 125285 129422 当然 是 需要 再 做 因为 还没有 到 放工 时间 嘛
+UI10FAZ_0102 129422 138470 只是 你的 心情 是 不一样 的 在 archive target 之前 你 会 觉得 okay 你 有一个 target 要 hit
+UI10FAZ_0102 138470 146439 then 看 时间 现在 几 点 了 不是 可是 当 你 做 了 几个 星期 过后
+UI10FAZ_0102 146439 150988 你 就 不会 担心 了 因为 其实 每 一天 的 calls 都 很多 的
+UI10FAZ_0102 150988 156132 就 说 就是 好像 very very peak 的 时候 为什么 会 peak 呢 因为
+UI10FAZ_0102 156132 162240 dell 在 可能 在 new zealand australia 他们 每 一天 他们 有 那个 t. v. 的 advertisement
+UI10FAZ_0102 162240 169294 so 当 那个 advertisement 一 过 的 时候 我们 就会 收到 一个 好像 收 过 一个 notice 啊 email 就 说
+UI10FAZ_0102 169294 177951 啊 各位 啊 我们的 advertisement 刚 在 new zealand 的 哪里 哪里 的 t. v. 播 了 so 你们 要 get ready
+UI10FAZ_0102 177951 186577 其实 我们 已经 ready 了 因为 已经 在 call 着 then 你 就会 一 suddenly 你 会 看到 你的 那个 phone 一直 blinking
+UI10FAZ_0102 186577 192605 因为 那个 人 那些 caller 一直 打进 一直 打进 来 就是 因为 有 advertisement
+UI10FAZ_0102 192605 201723 然后 有些 customer 他们 就 打进 来 dell 可是 他们 并不是 要 买 东西 的 因为 那个 number 是 toll free 的
+UI10FAZ_0102 201723 207892 他们 就 觉得 说 okay 我 打进 来 你 你 一定 可以 帮 我 direct 去 我 要 的 地方
+UI10FAZ_0102 207892 210491 也是 有 很多 这样的 customer ah
+UI10FAZ_0102 217691 222939 大部分 是 问 promotion
+UI10FAZ_0102 222939 228439 或者 是 电 脑 有 问题 call 进来
+UI10FAZ_0102 228439 237968 then 我们 就会 direct 他 去 啊 dell support customer care
+UI10FAZ_0102 237968 243441 就会 based on 他们的 requirement 把 他们的 call direct 去 对 的 地方
+UI10FAZ_0102 243441 251289 然后 为什么 我们 要 问 他们的 名字 啊 跟 address 或者 是 电话 是 因为
+UI10FAZ_0102 251289 257018 他们是 从 new zealand australia 打 过来 的 then 那个 line 很 不 清楚
+UI10FAZ_0102 257018 266626 所以 随时 会 断 then dell 的 service 就是 他们 会 call 回 给 你 咯
+UI10FAZ_0102 288974 298923 这一 方面 呐 不是 很 清楚 可是 我 相信 应该 每个 region 都有 他们的 都有 他们的 call operator
+UI10FAZ_0102 306542 311032 call center 都在 malaysia 的 office
+UI10FAZ_0102 324730 332278 音乐 啊 嗯 我是 不会 玩 任何 的 musical instrument lah
+UI10FAZ_0102 332278 338664 可是 啊 都会
+UI10FAZ_0102 338664 345066 都会 每天 都 听 啊 歌 啊 算 歌
+UI10FAZ_0102 345066 353304 嗯 很 喜欢 jazz loh ah
+UI10FAZ_0102 353304 359883 我 觉得 啊 音乐 的 那个 sense 啊 会 随着 你的 年龄 哦 而 变化 的
+UI10FAZ_0102 359883 364624 以前 在 学校 的 时候 会 觉得 pop songs
+UI10FAZ_0102 364624 373302 或者 是 r. and b. 我 觉得 那个 因为 那个 很 in 嘛 觉得 要 听 那个
+UI10FAZ_0102 373302 380430 可是 当 你 越来越 大 的 时候 哦 你 会 觉得 你 想 要 听 的 音乐 是 有 层次 感 的
+UI10FAZ_0102 380430 389508 then jazz 有 很多 musical instrument combine 的 so 你 会 觉得 听 起来 其实 是 很 有 层次 感
+UI10FAZ_0102 389508 395816 嗯 比较 比较 rich 的 音乐 啦
+UI10FAZ_0102 395816 402743 then 没有 特别 喜欢 的 歌手 咯 就是
+UI10FAZ_0102 402743 410243 都会 randomly 听 then 听到 自己 喜欢 的 就会 copy 起来 做 自己的 collection
+UI10FAZ_0102 410243 418182 嗯 不会 说 很 想 去 看 谁谁谁 的 演唱会
+UI10FAZ_0102 418182 424060 but ah prefer 的 就是 会 去 听 的 是 orchestra
+UI10FAZ_0102 424060 430388 jazz concert 每 一年 都有 去 u. s. m. 的 那个 jazz concert
+UI10FAZ_0102 430388 436667 因为 u. s. m. 的 jazz 那个 它的 整个 band 啊 是 不错 的
+UI10FAZ_0102 436667 442304 然后 orchestra 在 槟 城 很少 也是 看过 一 两 齣 吧 了
+UI10FAZ_0102 456944 464078 这个 是一个 很 subjective 的 method 我 会 注重 的 是 lyrics
+UI10FAZ_0102 464078 469626 啊 这个
+UI10FAZ_0102 469626 479379 我 觉得 这个 可能 是一个 啊 怎样 说 啊 我 觉得 这个 是一个 skill 来 的 啦
+UI10FAZ_0102 479379 487089 因为 我 每 听 一首 歌 我 可以 很快 的 就会 catch catch 到 它的 lyrics ah
+UI10FAZ_0102 487089 494527 so 通常 一首 歌 我 会 听 了 好 几次 我 才 会 觉得 说 它 很好 听
+UI10FAZ_0102 494527 500716 很 就是 很 不同 有 它 自己的 风格 这样 子
+UI10FAZ_0102 520571 525480 歌曲 方面
+UI10FAZ_0102 525480 532327 歌曲 啊
+UI10FAZ_0102 532327 540615 如果 只是 看 lyrics 其实 有些 好像 小孩子 的 歌 它 lyrics 也是 很好 啊
+UI10FAZ_0102 540615 546624 因为 如果 你 单 看 lyrics 就 好像 你 看 那个 letter 或者 poem 这样 吧 了 嘛
+UI10FAZ_0102 568380 573221 是 我 算是 一个 很 fussy 的 人 啦
+UI10FAZ_0102 573221 577810 so 不好 吃 的 我是 一定 不会 吃 的 就算 饿死 我 都 不会 吃 的
+UI10FAZ_0102 577810 581521 ah food
+UI10FAZ_0102 581521 586826 我 prefer japanese food 咯 因为 简单 又 好吃
+UI10FAZ_0102 586826 593920 然后 虽然 我是 在
+UI10FAZ_0102 593920 599673 我是 born and bred in penang 啦 可是 我 不 喜欢 吃 辣 的 东西
+UI10FAZ_0102 599673 605502 而且 我 觉得 local 的 food 比较 咸 比较 油
+UI10FAZ_0102 605502 613351 啊 所以 我 还是 prefer 其它 的 食物 咯
+UI10FAZ_0102 613351 618410 western food ah japanese food ah
+UI10FAZ_0102 632621 640499 ah japanese food 只是 sushi 就有 分 好 几种 咯 就有 分 三 种 一种 是 hand roll
+UI10FAZ_0102 640499 646216 hand roll 就是 好像 california roll 或者 是 salman roll
+UI10FAZ_0102 646216 656407 拿 一片 seaweed 放 它 ingredient 在 里面 then roll as a as a cone 这样 啦 ice cream cone 这样的 东西
+UI10FAZ_0102 656407 661556 另外 一种 我 我 已经 忘记 叫 什么 了
+UI10FAZ_0102 661556 668643 它是 一个 seaweed then 放 了 饭 跟 它的 ingredient 你 用 一个
+UI10FAZ_0102 668643 675471 bamboo sheet 把 它 roll 起来 变成 一条 and then you cut into pieces
+UI10FAZ_0102 675471 681304 then 第三 种 就是 我们 最 commonly 看到 的
+UI10FAZ_0102 681304 687250 一个 那个 rice ball top with 你 要 的 ingredient
+UI10FAZ_0102 687250 694740 basically 这是 这 三 种 是 属于 under sushi 的 category
+UI10FAZ_0102 694740 702102 then 另外 的 就是 noodle loh japanese noodle 有 分为 两种 一种 是 很大 条 的 我们 叫 udon
+UI10FAZ_0102 702102 709971 可能 在 槟 城 也是 有 类似 这样的 那个 东西 啊 叫做 大 肥 面
+UI10FAZ_0102 709971 712438 我 不知道 为什么 人家 这样 叫 它
+UI10FAZ_0102 712438 720580 then udon neh udon neh emm udon 是 用
+UI10FAZ_0102 720580 727260 啊 米 磨成 那个 粉 啊 来 做 的 那个 面条
+UI10FAZ_0102 727260 733117 then 有些 人 不 喜欢 吃 udon 就可以 选择 soba loh soba 是
+UI10FAZ_0102 733117 738828 算是 日本 spaghetti lah then
+UI10FAZ_0102 738828 745806 啊 就是
+UI10FAZ_0102 745806 752282 拉 面 不是 一种 面 来 的 拉 面 是一种 名称
+UI10FAZ_0102 752282 757781 你 要 吃 拉 面 你 可以 order udon 或者 是 soba
+UI10FAZ_0102 757781 761829 then
+UI10FAZ_0102 761829 767489 通常 japanese 他们 吃 都是 通常 是 soupy 的
+UI10FAZ_0102 767489 775627 不想 我们 这样 炒 到 油 油 啊 放 很多 那些 ingredient 他们的 都 很 清淡
+UI10FAZ_0102 775627 782906 这样 咯 然后 还有 分为 的 是 teriyaki 烧烤
+UI10FAZ_0102 782906 791094 嗯 还有 bento 跟 其它 的 side dishes
+UI10FAZ_0102 806583 815811 啊 在 那个 典型 的 japanese family 啊 吃饭 是 很 就是 他们 早 午 晚 都是 吃 rice 的
+UI10FAZ_0102 815811 819010 他们的 早餐 可以 很 简单
+UI10FAZ_0102 819010 825471 简单 到 怎样 呢 a bowl of rice with a cold chicken egg
+UI10FAZ_0102 825471 830299 就是 这样 打 在 上面 then 他们 mix together 这样 子 吃
+UI10FAZ_0102 830299 834547 日本人 是 觉得 是 很好 吃 的
+UI10FAZ_0102 834547 844296 可能 他们 那边 东西 比较 新鲜 呱 而且 他们 很多 的 蔬菜 水果 daily product 都是 organic 的 嘛
+UI10FAZ_0102 844296 854635 then 如果 是 讲 晚餐 呢 就会 比较 丰富 咯 但是 我 认为 啦 compare with 我们的 dinner 啦 他们的 还是 很 simple
+UI10FAZ_0102 854635 862778 可能 有一个 miso soup then 一个 japanese salad and 一个 saba fish and one bowl of rice 就是 他们的 dinner 了
+UI10FAZ_0102 862778 869776 他们 不会 好像 我们 这样 一起 夹 一起 用 一起 吃 他们是 个人 吃 个人 的 份 的
+UI10FAZ_0102 869776 873667 是 很 干净 那种
+UI10FAZ_0102 888950 894268 western food 啊 大部分 都是 吃 不 熟 的 啦 有 也是 吃 牛 扒 的 时候
+UI10FAZ_0102 894268 903801 啊
+UI10FAZ_0102 903801 907759 western food 觉得 久久 吃 一次 就 好 了 啦
+UI10FAZ_0102 907759 911588 因为 时常 吃 会 觉得 很 geli
+UI10FAZ_0102 911588 920685 很大 份 然后 来 来 去 去 都 more or less is a same because 都有 肉 的
+UI10FAZ_0102 920685 924583 不是 鱼肉 就是 鸡肉 就是 牛肉 羊肉
+UI10FAZ_0102 924583 933541 啊 刚才 你 不是 问 我说 什么 啊 喜欢 去 哪个 地方 旅行 吗
+UI10FAZ_0102 933541 937409 我在 想 啊 如果 我 去 旅行 呢
+UI10FAZ_0102 937409 942699 我 会 prefer 说 跟 tour 去 咯
+UI10FAZ_0102 942699 950828 啊 为什么 呢 因为 啊 我 觉得 这样 比较 secure ah
+UI10FAZ_0102 950828 959187 不过 通常 对 啊 我 觉得 这是 好像 老人 的 想法 这样 可是 我 觉得 跟 tour 去 会 比较 secure
+UI10FAZ_0102 959187 964856 like you know where you are going ahead 他的 那个 list 已经 出来 了 的
+UI10FAZ_0102 964856 968907 所以 就算 你 还没有 去 的 时候 你 已经 知道 哦
+UI10FAZ_0102 968907 975964 我 第 几天 会 去 哪里 啊 我 那一 天 会 吃 什么 啊 这些 什么 啊 睡 那一 个 hotel 啊 这样 子 的 东西
+UI10FAZ_0102 975964 988372 啊
+UI10FAZ_0102 988372 996094 我 more i mean more accurate 是 我 喜欢 看好 的 作品
+UI10FAZ_0102 1003162 1008288 我 喜欢 的 戏 quite boring 的 就是 文艺 片
+UI10FAZ_0102 1008288 1015431 then 通常 我 看 戏 会 就是 会 有 a list of criteria
+UI10FAZ_0102 1015431 1023200 我 必须 知道 它的 导演 是 谁 then 我 都会 做好 功课 了 才 去 看 那个 movie 的
+UI10FAZ_0102 1023200 1031348 啊 我 会 去 read 它的 synopsis 或者 上 它 official website 去 看 它的 making 是 怎么样 的 啊
+UI10FAZ_0102 1031348 1036681 它的 storyline 是 怎样 的 then
+UI10FAZ_0102 1036681 1042247 里面 参与 的 工 啊 的 那个 演员 有 谁
+UI10FAZ_0102 1042247 1047316 then 就是 我是 会 做好 homework 了 我 才 会 去 看 戏 的 啦
+UI10FAZ_0102 1056649 1060279 我 觉得 最近 没有 什么 好戏 看 compare with 以前
+UI10FAZ_0102 1060279 1067251 以前 在 大学 的 时候 有 一段 时间 啊 有 一 group 的 朋友 都是 都是
+UI10FAZ_0102 1067251 1071787 读 mass com 的 所以 他们 对 啊 电影 比较 有 研究
+UI10FAZ_0102 1071787 1080586 so 那个 时候 就 跟 他们 一起 看 很多 比较 比较 让 我 印象 比较 深刻 的 一些 中国 电影
+UI10FAZ_0102 1080586 1084785 mostly 那些 电影 是 它的 导演 是 张 艺 谋
+UI10FAZ_0102 1084785 1089648 啊 而且 大部分 的 戏
+UI10FAZ_0102 1089648 1094554 你 都会 看到 啊 华人 的 tradition
+UI10FAZ_0102 1094554 1102343 就 好像 以前 的 华人 san cai sei qi 是一个 很 common 的 东西
+UI10FAZ_0102 1102343 1107008 然后 啊
+UI10FAZ_0102 1107008 1113900 就会 看到 原来 就是 做 小 的 啊 嫁 进去 的 时候 啊
+UI10FAZ_0102 1113900 1120453 那一 个 她 她 整个 过程 啊 你 会 觉得 哦 原来 是 这样 子 的
+UI10FAZ_0102 1120453 1130855 然后 会 觉得 以前 就在 以前 就是 在 以前 的 女人 很 没有 地位 很 可怜
+UI10FAZ_0102 1130855 1136904 很 小 这样 子 嗯
+UI10FAZ_0102 1136904 1142079 我 有 看过 一 部 戏
+UI10FAZ_0102 1142079 1146617 一个 low cost movie 也是 在 中国 拍摄 的
+UI10FAZ_0102 1146617 1150896 那个 里面 有一个 女孩子 叫 作秀 秀
+UI10FAZ_0102 1150896 1158770 then 因为 那个 时候 发生 战乱 so 她 就 去 一个 地方
+UI10FAZ_0102 1158770 1165264 啊 等待 人家 来 接 她 去 一个 比较 安全 的 地方
+UI10FAZ_0102 1165264 1172679 but then 我 觉得 corruption 是 啊 一个 最大 的
+UI10FAZ_0102 1172679 1177575 就是 啊 怎么 说
+UI10FAZ_0102 1177575 1184255 因为 那个 时候 那个 小 那个 小 女孩 她 没有 钱 而且 她 才 十五 十六 岁 吧 了
+UI10FAZ_0102 1184255 1189124 then 她 为了 要 达到 她的 目的 she have to betray herself
+UI10FAZ_0102 1189124 1198116 she 她 就 她 就要 跟 很多 这些 那些 啊 那些 什么 所谓 的
+UI10FAZ_0102 1198116 1203980 算是 高官 或者 是 soldiers ah because 那些 人 就
