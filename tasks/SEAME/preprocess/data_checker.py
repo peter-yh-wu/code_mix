@@ -7,8 +7,8 @@ conversation_mfcc1_dir = os.path.join(parent_dir, 'data/conversation/mfcc1')
 conversation_mfcc2_dir = os.path.join(parent_dir, 'data/conversation/mfcc2')
 interview_wav1_dir = os.path.join(parent_dir, 'data/interview/wavI')
 interview_wav2_dir = os.path.join(parent_dir, 'data/interview/wavII')
-conversation_wav1_dir = os.path.join(parent_dir, 'data/interview/wavI')
-conversation_wav2_dir = os.path.join(parent_dir, 'data/interview/wavII')
+conversation_wav1_dir = os.path.join(parent_dir, 'data/conversation/wavI')
+conversation_wav2_dir = os.path.join(parent_dir, 'data/conversation/wavII')
 
 interview_mfcc1_files = os.listdir(interview_mfcc1_dir)
 interview_mfcc1_files = [f for f in interview_mfcc1_files if f.endswith('.mfcc')]
