@@ -251,7 +251,7 @@ def load_y_data(stage):
     ys_path = os.path.join(SPLIT_DIR, FILE)
     with open(ys_path, 'r') as inf:
         ys = inf.readlines()
-    ys = [f.strip() for f in ys]
+    ys = [y.strip() for y in ys]
     return np.array(ys)
 
 def make_loader(ids, labels, args, shuffle=True, batch_size=64):
