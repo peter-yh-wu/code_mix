@@ -41,15 +41,15 @@ missing_interview2_mfccs = interview_wav2_set - interview_mfcc2_set
 missing_conversation1_mfccs = conversation_wav1_set - conversation_mfcc1_set
 missing_conversation2_mfccs = conversation_wav2_set - conversation_mfcc2_set
 
-print('interview1: missing %d files' % len(missing_interview1_mfccs))
+print('interview1: missing %d of %d files' % (len(missing_interview1_mfccs), len(interview_wav1_set)))
 if len(missing_interview1_mfccs) > 0:
     print('e.g. %s' % list(missing_interview1_mfccs)[0])
-print('interview2: missing %d files' % len(missing_interview2_mfccs))
+print('interview2: missing %d of %d files' % (len(missing_interview2_mfccs), len(interview_wav2_set)))
 if len(missing_interview2_mfccs) > 0:
     print('e.g. %s' % list(missing_interview2_mfccs)[0])
-print('conversation1: missing %d files' % len(missing_conversation1_mfccs))
+print('conversation1: missing %d of %d files' % (len(missing_conversation1_mfccs), len(conversation_wav1_set)))
 if len(missing_conversation1_mfccs) > 0:
     print('e.g. %s' % list(missing_conversation1_mfccs)[0])
-print('conversation2: missing %d files' % len(missing_conversation2_mfccs))
+print('conversation2: missing %d of %d files' % (len(missing_conversation2_mfccs), len(conversation_wav2_set)))
 if len(missing_conversation2_mfccs) > 0:
     print('e.g. %s' % list(missing_conversation2_mfccs)[0])
