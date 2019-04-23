@@ -57,7 +57,7 @@ if __name__ == '__main__':
     logger.info(args)
     # Read in the data
     logger.info('Loading dataset...')
-    dataset = read_dataset('data')[:1000]
+    dataset = read_dataset('data')
     train = dataset[: int(len(dataset)*0.8)]
     dev = dataset[int(len(dataset)*0.8) + 1: -1]
     vocab = Vocab(train)
