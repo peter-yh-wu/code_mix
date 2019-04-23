@@ -91,6 +91,14 @@ class EncoderModel(nn.Module):
         self.value_projection = nn.Linear(args.encoder_dim * 2, args.value_dim)
 
     def forward(self, utterances, utterance_lengths):
+        '''Calculates keys and values
+
+        Both keys and values are linear transformations of encoder hidden state
+
+        Return:
+            keys: shape (T, B, key_dim)
+            values: shape (T, B, value_dim)
+        '''
         h = utterances
 
         # Sort and pack the inputs
@@ -106,6 +114,7 @@ class EncoderModel(nn.Module):
         # Unpack and unsort the sequences
         h, output_lengths = pad_packed_sequence(h)
         h = h[:, backorder, :]
+            # shape: (T, B, 2*encoder_dim)
         output_lengths = torch.from_numpy(np.array(output_lengths))
         if backorder.data.is_cuda:
             output_lengths = output_lengths.cuda()
@@ -154,20 +163,22 @@ class AdvancedLSTMCell(nn.LSTMCell):
 def calculate_attention(keys, mask, queries):
     """Attention calculation
 
+    Note that the shape of keys is different than that outputed by EncoderModel
+
     Args:
-        keys: output of encoder, shape (N, L, key_dim)
-        mask: lengths, shape (N, L)
+        keys: output of encoder, shape (B, T, key_dim)
+        mask: lengths, shape (B, T)
         queries: linear transformation of previous decoder hidden state
-            shape (N, key_dim)
+            shape (B, key_dim)
     
     Return:
-        attn: attention, shape (N, L)
+        attn: attention, shape (B, T)
     """
-    energy = torch.bmm(keys, queries.unsqueeze(2)).squeeze(2) * mask  # (N, L)
+    energy = torch.bmm(keys, queries.unsqueeze(2)).squeeze(2) * mask  # (B, T)
     energy = energy - (1 - mask) * 1e4  # subtract large number from padded region
-    emax = torch.max(energy, 1)[0].unsqueeze(1)  # (N, L)
-    exp_e = torch.exp(energy - emax) * mask  # (N, L)
-    attn = exp_e / (exp_e.sum(1).unsqueeze(1))  # (N, L)
+    emax = torch.max(energy, 1)[0].unsqueeze(1)  # (B, T)
+    exp_e = torch.exp(energy - emax) * mask  # (B, T)
+    attn = exp_e / (exp_e.sum(1).unsqueeze(1))  # (B, T)
     return attn
 
 
@@ -175,13 +186,13 @@ def calculate_context(attn, values):
     """Context calculation
     
     Args:
-        attn: alpha's, shape (num_batches, seq_len)
-        values: h's, shape (num_batches, seq_len, hidden_dim)
+        attn: alpha's, shape (B, T)
+        values: h's, shape (B, T, value_dim)
 
     Return:
-        ctx: context, shape (num_batches, hidden_dim)
+        ctx: context, shape (B, value_dim)
     """
-    ctx = torch.bmm(attn.unsqueeze(1), values).squeeze(1)  # (N, value_dim)
+    ctx = torch.bmm(attn.unsqueeze(1), values).squeeze(1)  # (B, value_dim)
     return ctx
 
 
@@ -204,33 +215,62 @@ class DecoderModel(nn.Module):
         self.char_projection[-1].weight = self.embedding.weight  # weight tying
 
     def forward_pass(self, input_t, keys, values, mask, ctx, input_states):
+        '''
+        Args:
+            keys: shape (B, T, key_dim)
+            values: shape (B, T, value_dim)
+            mask: (B, T)
+            ctx: (B, value_dim)
+        
+        Return:
+            ctx: (B, value_dim)
+            attn: (B, T)
+        '''
         # Embed the previous character
         embed = self.embedding(input_t)
+            # shape: (B, decoder_dim)
         # Concatenate embedding and previous context
         ht = torch.cat((embed, ctx), dim=1)
+            # shape: (B, decoder_dim+value_dim)
         # Run first set of RNNs
         new_input_states = []
         for rnn, state in zip(self.input_rnns, input_states):
             ht, newstate = rnn(ht, state)
+                # ht shape: (B, decoder_dim)
             new_input_states.append((ht, newstate))
+        
         # Calculate query
         query = self.query_projection(ht)
+            # shape: (B, key_dim)
         # Calculate attention
         attn = calculate_attention(keys=keys, mask=mask, queries=query)
+            # shape: (B, T)
         # Calculate context
         ctx = calculate_context(attn=attn, values=values)
+            # shape: (B, value_dim)
         # Concatenate hidden state and context
         ht = torch.cat((ht, ctx), dim=1)
+            # shape: (B, decoder_dim+value_dim)
+        
         # Run projection
         logit = self.char_projection(ht)
+        
         # Sample from logits
         generated = gumbel_argmax(logit, 1)  # (N,)
         return logit, generated, ctx, attn, new_input_states
 
     def forward(self, inputs, input_lengths, keys, values, utterance_lengths, future=0):
+        '''
+        Args:
+            keys: shape (T, B, key_dim)
+            values: shape (T, B, value_dim)
+        '''
         mask = Variable(output_mask(values.size(0), utterance_lengths).transpose(0, 1)).float()
-        values = values.transpose(0, 1)
-        keys = keys.transpose(0, 1)
+            # shape: (B, T)
+        keys_t = keys.transpose(0, 1)
+            # shape: (B, T, key_dim)
+        values_t = values.transpose(0, 1)
+            # shape: (B, T, value_dim)
         t = inputs.size(0)
         n = inputs.size(1)
 
@@ -239,9 +279,14 @@ class DecoderModel(nn.Module):
 
         # Initial context
         h0 = input_states[-1][0]
+            # shape: (B, decoder_dim)
         query = self.query_projection(h0)
-        attn = calculate_attention(keys, mask, query)
-        ctx = calculate_context(attn, values)
+            # linear transformation of prev decoder hidden state
+            # shape: (B, key_dim)
+        attn = calculate_attention(keys_t, mask, query)
+            # shape: (B, T)
+        ctx = calculate_context(attn, values_t)
+            # shape: (B, value_dim)
 
         # Decoder loop
         logits = []
@@ -258,9 +303,10 @@ class DecoderModel(nn.Module):
                 input_t = inputs[i]
             # Run a single timestep
             logit, generated, ctx, attn, input_states = self.forward_pass(
-                input_t=input_t, keys=keys, values=values, mask=mask, ctx=ctx,
+                input_t=input_t, keys=keys_t, values=values_t, mask=mask, ctx=ctx,
                 input_states=input_states
             )
+                # ctx shape: (B, value_dim), attn shape: (B, T)
             # Save outputs
             logits.append(logit)
             attns.append(attn)
@@ -273,7 +319,7 @@ class DecoderModel(nn.Module):
             for _ in range(future):
                 # Run a single timestep
                 logit, generated, ctx, attn, input_states = self.forward_pass(
-                    input_t=input_t, keys=keys, values=values, mask=mask, ctx=ctx,
+                    input_t=input_t, keys=keys_t, values=values_t, mask=mask, ctx=ctx,
                     input_states=input_states
                 )
                 # Save outputs
@@ -452,7 +498,7 @@ def main():
                 print('Processed %d Batches (%.2f Seconds)' % (i+1, t1-t0))
         print_log('Train Loss: %f' % (l/len(train_loader.dataset)), LOG_PATH)
         print_log('Avg Train Perplexity: %f' % (tot_perp/len(train_loader.dataset)), LOG_PATH)
-        
+
         # val
         model.eval()
         with torch.no_grad():
