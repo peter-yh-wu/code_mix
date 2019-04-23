@@ -21,6 +21,7 @@ def remove_lang_tags(ys):
         new_ys.append(new_y)
     return new_ys
 
+parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SPLIT_DIR = os.path.join(parent_dir, 'split')
 if not os.path.exists(SPLIT_DIR):
     os.makedirs(SPLIT_DIR)
