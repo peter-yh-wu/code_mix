@@ -55,10 +55,10 @@ class DualLSTM(nn.Module):
         self.lstm_cn = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=False).to(DEVICE)
 
         self.fc = nn.Sequential(
-            nn.Linear(hidden_size, vocab_size),
+            nn.Linear(hidden_size, hidden_size),
             nn.ReLU(),
             nn.Dropout(p=dropout),
-            nn.Linear(vocab_size, vocab_size)
+            nn.Linear(hidden_size, vocab_size)
         ).to(DEVICE)
 
         # [batch_size, hidden_size]
