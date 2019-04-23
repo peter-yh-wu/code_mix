@@ -53,26 +53,16 @@ def generate_sent(model):
 
 
 if __name__ == '__main__':
+    # initialize logger
     logger = init_logger()
     logger.info(args)
+
     # Read in the data
     logger.info('Loading dataset...')
     dataset = read_dataset('data')
     train = dataset[: int(len(dataset)*0.8)]
     dev = dataset[int(len(dataset)*0.8) + 1: -1]
     vocab = Vocab(train)
-    # train_set = BilingualDataSet(vocab, examples=train, padding=False, sort=False)
-    # dev_set = BilingualDataSet(vocab, examples=dev, padding=False, sort=False)
-    # datasets = {'train': train_set, 'dev': dev_set}
-    # data_loaders = {
-    #     name: DataLoader(
-    #         dataset,
-    #         batch_size=args.batch,
-    #         shuffle=(name == 'train'),
-    #         num_workers=args.nworkers,
-    #         collate_fn=dataset.collate
-    #     )
-    #     for name, dataset in datasets.items()}
 
     # Initialize the model and the optimizer
     logger.info('Building model...')
@@ -142,6 +132,7 @@ if __name__ == '__main__':
                     logger.debug(" ".join([word for word in sentence]))
 
             model.detach()
+            torch.cuda.empty_cache()
 
         logger.info("Epoch %r: train loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
             epoch, train_loss / train_words, math.exp(train_loss / train_words),
