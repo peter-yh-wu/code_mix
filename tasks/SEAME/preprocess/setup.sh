@@ -5,3 +5,4 @@
 python3 -u split_data.py
 python3 -u remove_empty.py
 python3 -u remove_nonaudio.py
+python3 -u remove_nontext.py
