@@ -133,7 +133,6 @@ if __name__ == '__main__':
                     logger.debug(" ".join([word for word in sentence]))
 
             model.detach()
-            torch.cuda.empty_cache()
 
         logger.info("Epoch %r: train loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
             epoch, train_loss / train_words, math.exp(train_loss / train_words),
