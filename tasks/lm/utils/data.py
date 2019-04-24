@@ -33,7 +33,7 @@ def extract_files_data(data_path):
                                 else:
                                     tmp += char
                     assert(all(len(word) == 1 for word in text if is_chinese_word(word)))
-                    data.append([word.encode('UTF-8') for word in text])
+                    data.append([word.encode('UTF-8') for word in text if word not in ['ZH', 'CS', 'EN']])
     return data
 
 
@@ -68,6 +68,7 @@ def is_english_word(word):
     :return: Boolean value, True or False
     """
     return all([char in ["\"", "\'", "-", "*", "~", "*", "."] or char.isalpha() for char in word])
+
 
 def has_chinese_char(word):
     return len(re.findall(r'[\u4e00-\u9fff]+', word)) > 0

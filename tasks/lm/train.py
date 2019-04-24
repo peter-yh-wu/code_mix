@@ -41,7 +41,7 @@ def generate_sent(model, max_len):
     hist = ['<s>']
     eos = model.vocab['<s>']
 
-    while len(hist) == max_len:
+    while len(hist) < max_len:
         logits = model(hist[-1])
         log_prob = torch.log(F.softmax(logits, dim=0))
         # next_word = prob.multinomial(1).data[0, 0]
