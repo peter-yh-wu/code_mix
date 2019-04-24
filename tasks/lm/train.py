@@ -43,20 +43,17 @@ def generate_sent(model, max_len):
     eos = model.vocab['<s>']
 
     while len(hist) < max_len:
-        logits = model(hist)[-1]
+        try:
+            logits = model(hist)[-1]
+        except Exception as ex:
+            print(ex)
+            pdb.set_trace()
         log_prob = torch.log(F.softmax(logits, dim=0))
         # next_word = prob.multinomial(1).data[0, 0]
         next_word = torch.argmax(log_prob)
         if next_word == eos:
             break
-        try:
-            hist.append(model.vocab.itos[next_word])
-        except Exception as ex:
-            print(ex)
-            print("next word: {}".format(next_word))
-            print("vocab len: {}".format(len(model.vocab)))
-            print("vocab itos len: {}".format(len(model.vocab.itos)))
-            pdb.set_trace()
+        hist.append(model.vocab.itos[next_word])
 
     return hist[1:]
 
