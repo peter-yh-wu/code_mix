@@ -99,7 +99,7 @@ class DualLSTM(nn.Module):
         for idx, token in enumerate(sentence[:-1]):
             try:
                 embedding.append(self.embedding(torch.LongTensor([self.vocab[token]]).to(DEVICE)))
-                embed_mask[idx] = 1.
+                embed_mask[idx] = 1. if is_english_word(token) else 0.
             except Exception as e:
                 print(e, sentence, self.vocab_size, token, self.vocab[token])
         return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE)
