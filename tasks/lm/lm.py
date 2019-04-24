@@ -8,7 +8,7 @@ import torch
 import torch.nn as nn
 
 from configs import DEVICE
-from utils.data import is_english_word
+from utils.data import has_chinese_char
 from utils.model import weight_init
 
 
