@@ -189,7 +189,7 @@ if __name__ == '__main__':
                     print("Can not create models directory, %s" % e)
             torch.save(model.state_dict(), "models/{}.pt".format(args.save_prefix))
             best_dev = dev_loss
-        torch.save(model.state_dict(), "models/model_{}.pt".format(epoch))
+        torch.save(model.state_dict(), "models/{}_{}.pt".format(args.save_prefix, epoch))
 
         # Save the model
         logger.info("Epoch %r: dev loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
