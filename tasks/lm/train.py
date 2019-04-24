@@ -48,7 +48,13 @@ def generate_sent(model, max_len):
         next_word = torch.argmax(log_prob)
         if next_word == eos:
             break
-        hist.append(model.vocab.itos[next_word])
+        try:
+            hist.append(model.vocab.itos[next_word])
+        except Exception as ex:
+            print(ex)
+            print("next word: {}".format(next_word))
+            print("vocab len: {}".format(len(model.vocab)))
+            print("vocab itos len: {}".format(len(model.vocab.itos)))
 
     return hist[1:]
 
