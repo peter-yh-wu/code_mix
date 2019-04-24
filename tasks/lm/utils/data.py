@@ -6,14 +6,31 @@
 
 import os
 import re
+import multiprocessing as mp
+from glob import glob
 
-def read_dataset(data_path):
+def extract_files_data(file_paths):
     data = []
-    for (dirpath, dirs, files) in os.walk(data_path):
-        for file in files:
-            with open(os.path.join(dirpath, file), "r") as f:
-                text = f.readlines()
-                data.extend([[word for word in line.strip().split(" ")[3:] if word != '<v-noise>'] for line in text])
+    for file_path in file_paths:
+        with open(file_path, "r") as f:
+            text = f.readlines()
+            data.extend([[word for word in line.strip().split(" ")[3:] if word != '<v-noise>'] for line in text])
+    return data
+
+def read_dataset(data_path, num_workers=1):
+    data = []
+    all_file_paths = glob(os.path.join(data_path, '**/*.txt'), recursive=True)
+    num_files = len(all_file_paths)
+    files_per_worker = num_files // num_workers
+
+    pool = mp.Pool(processes=num_workers)
+
+    extraction_result = pool.map(extract_files_data,
+                                 (all_file_paths[start_idx:start_idx+files_per_worker]
+                                  for start_idx in range(0, num_files, files_per_worker)))
+
+    for result in extraction_result:
+        data.extend(result)
     return data
 
 
