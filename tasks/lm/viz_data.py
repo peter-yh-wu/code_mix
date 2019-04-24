@@ -10,19 +10,26 @@ from vocab import Vocab
 
 def main():
     print('Loading dataset')
-    dataset = read_dataset(args.data)
+    dataset = read_dataset(args.data, num_workers=12)
     dataset = dataset[: int(len(dataset) * args.subset)]
     train = dataset[: int(len(dataset) * 0.8)]
     dev = dataset[int(len(dataset) * 0.8) + 1: -1]
+    print(f'  Total samples:  {len(dataset)}')
+    print(f'    Training:     {len(train)}')
+    print(f'    Dev:          {len(dev)}')
+
+    print('Building vocabulary')
     vocab = Vocab(train)
 
-    print('=== Vocabulary ===')
+    print('=== Vocabulary (START) ===')
     for idx in range(len(vocab)):
         word = vocab.itos[idx]
-        print(f'[{idx}] ({"CN" if has_chinese_char(word) else "EN"})  {word}')
+        if len(word) < 1:
+            print(f'[{idx}] (EMPTY)')
+        else:
+            print(f'[{idx}] ({"CN" if is_chinese_word(word) else "EN"})  {word}')
+    print('=== Vocabulary (END) ===')
 
-    print(f'  Training samples: {len(train)}')
-    print(f'  Dev samples:      {len(dev)}')
     print(f'  Vocabulary size:  {len(vocab)}')
 
 if __name__ == '__main__':
