@@ -55,10 +55,10 @@ class DualLSTM(nn.Module):
         self.lstm_cn = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=False).to(DEVICE)
 
         self.fc = nn.Sequential(
-            nn.Linear(hidden_size, hidden_size),
+            nn.Linear(2*hidden_size, 2*hidden_size),
             nn.ReLU(),
             nn.Dropout(p=dropout),
-            nn.Linear(hidden_size, vocab_size)
+            nn.Linear(2*hidden_size, vocab_size)
         ).to(DEVICE)
 
         # [batch_size, hidden_size]
@@ -87,7 +87,7 @@ class DualLSTM(nn.Module):
             else:
                 self.hidden_cn, self.cell = self.lstm_cn(sent_embed[i], (self.hidden_cn, self.cell))
                 self.hidden_en, self.cell = self.lstm_en(self.dummy_tok, (self.hidden_cn, self.cell))
-            lstm_out.append(self.hidden_en + self.hidden_cn)
+            lstm_out.append(torch.cat(self.hidden_en, self.hidden_cn))
         lstm_out = torch.stack(lstm_out)
 
         prediction = self.fc(lstm_out.squeeze(1))
