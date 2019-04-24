@@ -26,7 +26,7 @@ def calc_sent_loss(sent, model, criterion):
     """
     Calculate the loss value for the entire sentence
     """
-    targets = torch.LongTensor([model.vocab[tok] for tok in sent + ['<s>']]).to(DEVICE)
+    targets = torch.LongTensor([model.vocab[tok] for tok in sent+['<s>']]).to(DEVICE)
     logits = model(['<s>'] + sent + ['<s>'])
     loss = criterion(logits, targets)
 
@@ -37,19 +37,36 @@ def generate_sent(model, max_len):
     """
     Generate a sentence
     """
-    hist = [model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
+    # hist = [model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
+    hist = ['<s>']
     eos = model.vocab['<s>']
+
     while len(hist) == max_len:
-        logits = model(hist + ['<s>'])[-1]
-        prob = F.softmax(logits, dim=0)
+        logits = model(hist[-1])
+        log_prob = torch.log(F.softmax(logits, dim=0))
         # next_word = prob.multinomial(1).data[0, 0]
-        next_word = torch.argmax(prob)
+        next_word = torch.argmax(log_prob)
         if next_word == eos:
             break
         hist.append(model.vocab.itos[next_word])
 
-    return hist
+    return hist[1:]
 
+def calc_sentence_logprob(model, sentence):
+    '''
+    Calculates the sentence log-prob
+    '''
+
+    if len(sentence) < 1:
+        return -float('inf')
+
+    log_prob = torch.log(F.softmax(model(model.vocab('<s>')), dim=0))[model.vocab[sentence[0]]]
+
+    for pos in range(1, len(sentence)):
+        prev_token, cur_token = sentence[pos-1], sentence[pos]
+        log_prob += torch.log(F.softmax(model(model.vocab(prev_token)), dim=0))[model.vocab[cur_token]]
+
+    return log_prob
 
 if __name__ == '__main__':
     # initialize logger
@@ -59,10 +76,13 @@ if __name__ == '__main__':
     # Read in the data
     logger.info('Loading dataset...')
     dataset = read_dataset('data')
-    dataset = dataset[: int(len(dataset)*args.subset)]
+    dataset = dataset[: int(len(dataset) * args.subset)]
     train = dataset[: int(len(dataset)*0.8)]
     dev = dataset[int(len(dataset)*0.8) + 1: -1]
     vocab = Vocab(train)
+    print(f'  Training samples: {len(train)}')
+    print(f'  Dev samples:      {len(dev)}')
+    print(f'  Vocabulary size:  {len(vocab)}')
 
     # Initialize the model and the optimizer
     logger.info('Building model...')
@@ -77,7 +97,7 @@ if __name__ == '__main__':
     else:
         raise NotImplemented
 
-    # model = model.to(DEVICE)
+    model = model.to(DEVICE)
 
     # Construct loss function and Optimizer.
     criterion = torch.nn.CrossEntropyLoss()
@@ -109,6 +129,8 @@ if __name__ == '__main__':
         train_sents = 0
         start = time.time()
         for sent in train:
+            if len(sent) == 0:
+                continue
             # TODO: mean or sum loss?
             loss = calc_sent_loss(sent, model, criterion)
             train_loss += loss.data
