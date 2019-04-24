@@ -33,19 +33,18 @@ def calc_sent_loss(sent, model, criterion):
     return loss
 
 
-def generate_sent(model):
+def generate_sent(model, max_len):
     """
     Generate a sentence
     """
     hist = [model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
-    # hist += ['<s>']
     eos = model.vocab['<s>']
-    while True:
+    while len(hist) == max_len:
         logits = model(hist + ['<s>'])[-1]
         prob = F.softmax(logits, dim=0)
         # next_word = prob.multinomial(1).data[0, 0]
         next_word = torch.argmax(prob)
-        if next_word == eos or len(hist) == args.maxlen:
+        if next_word == eos:
             break
         hist.append(model.vocab.itos[next_word])
 
@@ -129,7 +128,7 @@ if __name__ == '__main__':
                 # Generate a few sentences
                 logger.info("Generate some sentences...")
                 for _ in range(3):
-                    sentence = generate_sent(model)
+                    sentence = generate_sent(model, args.maxlen)
                     logger.debug(" ".join([word for word in sentence]))
 
             model.detach()
@@ -175,5 +174,5 @@ if __name__ == '__main__':
 
         # Generate a few sentences
         for _ in range(5):
-            sentence = generate_sent(model)
+            sentence = generate_sent(model, args.maxlen)
             logger.debug(" ".join([word for word in sentence]))
