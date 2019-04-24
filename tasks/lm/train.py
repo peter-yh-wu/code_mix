@@ -186,13 +186,9 @@ if __name__ == '__main__':
                     os.mkdir('models')
                 except Exception as e:
                     print("Can not create models directory, %s" % e)
-            torch.save(model.state_dict(), f"models/{args.save_prefix}.pt")
+            torch.save(model.state_dict(), "models/{}.pt".format(args.save_prefix))
             best_dev = dev_loss
-<<<<<<< HEAD
         torch.save(model.state_dict(), "models/model_{}.pt".format(epoch))
-=======
-        torch.save(model.state_dict(), f"models/{args.save_prefix}_{epoch}.pt")
->>>>>>> 8ca1d760cbb5966d0f96505b071a427524ca2211
 
         # Save the model
         logger.info("Epoch %r: dev loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
