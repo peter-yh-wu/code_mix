@@ -12,6 +12,7 @@ import logging
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import pdb
 
 from lm import FNNLM, DualLSTM
 from utils.data import *
@@ -55,6 +56,7 @@ def generate_sent(model, max_len):
             print("next word: {}".format(next_word))
             print("vocab len: {}".format(len(model.vocab)))
             print("vocab itos len: {}".format(len(model.vocab.itos)))
+            pdb.set_trace()
 
     return hist[1:]
 
