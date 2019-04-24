@@ -83,10 +83,10 @@ class DualLSTM(nn.Module):
         for i in range(len(sent_embed)):
             if embed_mask[i] > 0:
                 self.hidden_en, self.cell = self.lstm_en(sent_embed[i], (self.hidden_en, self.cell))
-                self.hidden_cn, self.cell = self.lstm_cn(self.dummy_tok, (self.hidden_cn, self.cell))
+                self.hidden_cn, self.cell = self.lstm_cn(self.dummy_tok, (self.hidden_en, self.cell))
             else:
                 self.hidden_cn, self.cell = self.lstm_cn(sent_embed[i], (self.hidden_cn, self.cell))
-                self.hidden_en, self.cell = self.lstm_en(self.dummy_tok, (self.hidden_en, self.cell))
+                self.hidden_en, self.cell = self.lstm_en(self.dummy_tok, (self.hidden_cn, self.cell))
             lstm_out.append(self.hidden_en + self.hidden_cn)
         lstm_out = torch.stack(lstm_out)
 
