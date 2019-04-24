@@ -5,15 +5,32 @@
 # Licensed under the Apache License v2.0 - http://www.apache.org/licenses/
 
 import os
-import re
+
 
 def read_dataset(data_path):
     data = []
     for (dirpath, dirs, files) in os.walk(data_path):
         for file in files:
             with open(os.path.join(dirpath, file), "r") as f:
-                text = f.readlines()
-                data.extend([[word for word in line.strip().split(" ")[3:] if word != '<v-noise>'] for line in text])
+                lines = f.readlines()
+                for line in lines:
+                    text = []
+                    for token in line.decode('UTF-8').split()[3:]:
+                        if is_english_word(token.encode('ascii', 'ignore')) \
+                                or (is_chinese_word(token) and len(token) == 1):
+                            text.append(token)
+                        else:
+                            tmp = ""
+                            for char in token:
+                                if is_chinese_word(char):
+                                    if len(tmp) > 0:
+                                        text.append(tmp)
+                                        tmp = ""
+                                    text.append(char)
+                                else:
+                                    tmp += char
+                    assert(all(len(word) == 1 for word in text if is_chinese_word(word)))
+                    data.append([word.encode('UTF-8') for word in text])
     return data
 
 
@@ -30,10 +47,7 @@ def is_english_word(word):
     :param word: A token in document.
     :return: Boolean value, True or False
     """
-    return all([char in ["\"", "\'", "-", "*", "~", "*", "."] or char.isalpha() for char in word])
-
-def has_chinese_char(word):
-    return len(re.findall(r'[\u4e00-\u9fff]+', word)) > 0
+    return all([char in ["\"", "\'", "-"] or char.isalpha() for char in word]) and len(word) > 0
 
 
 def is_chinese_word(char):
@@ -43,15 +57,10 @@ def is_chinese_word(char):
         {"from": ord(u"\u3300"), "to": ord(u"\u33ff")},  # compatibility ideographs
         {"from": ord(u"\ufe30"), "to": ord(u"\ufe4f")},  # compatibility ideographs
         {"from": ord(u"\uf900"), "to": ord(u"\ufaff")},  # compatibility ideographs
-        {"from": ord(u"\U0002F800"), "to": ord(u"\U0002fa1f")},  # compatibility ideographs
         {'from': ord(u'\u3040'), 'to': ord(u'\u309f')},  # Japanese Hiragana
         {"from": ord(u"\u30a0"), "to": ord(u"\u30ff")},  # Japanese Katakana
         {"from": ord(u"\u2e80"), "to": ord(u"\u2eff")},  # cjk radicals supplement
         {"from": ord(u"\u4e00"), "to": ord(u"\u9fff")},
         {"from": ord(u"\u3400"), "to": ord(u"\u4dbf")},
-        {"from": ord(u"\U00020000"), "to": ord(u"\U0002a6df")},
-        {"from": ord(u"\U0002a700"), "to": ord(u"\U0002b73f")},
-        {"from": ord(u"\U0002b740"), "to": ord(u"\U0002b81f")},
-        {"from": ord(u"\U0002b820"), "to": ord(u"\U0002ceaf")}  # included as of Unicode 8.0
     ]
     return any([range["from"] <= ord(char) <= range["to"] for range in ranges])

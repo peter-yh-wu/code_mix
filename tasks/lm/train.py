@@ -52,10 +52,11 @@ def generate_sent(model, max_len):
 
     return hist[1:]
 
+
 def calc_sentence_logprob(model, sentence):
-    '''
+    """
     Calculates the sentence log-prob
-    '''
+    """
 
     if len(sentence) < 1:
         return -float('inf')
@@ -80,9 +81,9 @@ if __name__ == '__main__':
     train = dataset[: int(len(dataset)*0.8)]
     dev = dataset[int(len(dataset)*0.8) + 1: -1]
     vocab = Vocab(train)
-    print(f'  Training samples: {len(train)}')
-    print(f'  Dev samples:      {len(dev)}')
-    print(f'  Vocabulary size:  {len(vocab)}')
+    print('  Training samples: {}'.format(len(train)))
+    print('  Dev samples:      {}'.format(len(dev)))
+    print('  Vocabulary size:  {}'.format(len(vocab)))
 
     # Initialize the model and the optimizer
     logger.info('Building model...')
@@ -187,7 +188,7 @@ if __name__ == '__main__':
                     print("Can not create models directory, %s" % e)
             torch.save(model.state_dict(), "models/model.pt")
             best_dev = dev_loss
-        torch.save(model.state_dict(), f"models/model_{epoch}.pt")
+        torch.save(model.state_dict(), "models/model_{}.pt".format(epoch))
 
         # Save the model
         logger.info("Epoch %r: dev loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (

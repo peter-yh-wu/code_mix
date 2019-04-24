@@ -8,7 +8,7 @@ import torch
 import torch.nn as nn
 
 from configs import DEVICE
-from utils.data import has_chinese_char
+from utils.data import is_english_word
 from utils.model import weight_init
 
 
@@ -99,7 +99,7 @@ class DualLSTM(nn.Module):
         for idx, token in enumerate(sentence[:-1]):
             try:
                 embedding.append(self.embedding(torch.LongTensor([self.vocab[token]]).to(DEVICE)))
-                embed_mask[idx] = 0. if has_chinese_char(token) else 1.
+                embed_mask[idx] = 1. if is_english_word(token) else 0.
             except Exception as e:
                 print(e, sentence, self.vocab_size, token, self.vocab[token])
         return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE)
