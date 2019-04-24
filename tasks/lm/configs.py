@@ -21,6 +21,7 @@ parser.add_argument('--mm', help='momentum', type=float, default=0.9)
 parser.add_argument('--clip', help='gradient clipping', type=float, default=0.25)
 parser.add_argument('--data', help='dataset path', type=str, default='../SEAME/data')
 parser.add_argument('--subset', help='subset size', type=float, default=1.0)
+parser.add_argument('--save_prefix', help='saved model file prefix', type=str, default='model')
 
 args = parser.parse_args()
 
