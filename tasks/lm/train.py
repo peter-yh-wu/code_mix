@@ -62,13 +62,13 @@ def calc_sentence_logprob(model, sentence):
     if len(sentence) < 1:
         return -float('inf')
 
-    log_prob = torch.log(F.softmax(model(model.vocab('<s>')), dim=0))[model.vocab[sentence[0]]]
+    log_probs = torch.log(F.softmax(model(sentence), dim=0))
+    lp = 0.
+    for pos in range(len(sentence) - 1):
+        cur_token = sentence[pos]
+        lp += log_probs[pos][model.vocab[cur_token]]
 
-    for pos in range(1, len(sentence)):
-        prev_token, cur_token = sentence[pos-1], sentence[pos]
-        log_prob += torch.log(F.softmax(model(model.vocab(prev_token)), dim=0))[model.vocab[cur_token]]
-
-    return log_prob
+    return lp
 
 if __name__ == '__main__':
     # initialize logger
