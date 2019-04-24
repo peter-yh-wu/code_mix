@@ -43,11 +43,7 @@ def generate_sent(model, max_len):
     eos = model.vocab['<s>']
 
     while len(hist) < max_len:
-        try:
-            logits = model(hist)[-1]
-        except Exception as ex:
-            print(ex)
-            pdb.set_trace()
+        logits = model(hist + ["<s>"])[-1]
         log_prob = torch.log(F.softmax(logits, dim=0))
         # next_word = prob.multinomial(1).data[0, 0]
         next_word = torch.argmax(log_prob)

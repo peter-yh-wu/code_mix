@@ -33,7 +33,7 @@ def extract_files_data(files):
                                 tmp += char
                 assert (all(len(word) == 1 for word in text if is_chinese_word(word)))
                 if len(text) > 0:
-                    data.append([word for word in text if word not in ['ZH', 'CS', 'EN']])
+                    data.append([word for word in text + ["<s>"] if word not in ['ZH', 'CS', 'EN']])
 
     return data
 
