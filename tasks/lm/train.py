@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
     # Read in the data
     logger.info('Loading dataset...')
-    dataset = read_dataset('data')
+    dataset = read_dataset(args.data)
     dataset = dataset[: int(len(dataset) * args.subset)]
     train = dataset[: int(len(dataset)*0.8)]
     dev = dataset[int(len(dataset)*0.8) + 1: -1]

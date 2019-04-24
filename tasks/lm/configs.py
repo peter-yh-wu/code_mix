@@ -19,6 +19,7 @@ parser.add_argument('--nworkers', help='number of workers for loading dataset', 
 parser.add_argument('--lr', help='initial learning rate', type=float, default=0.01)
 parser.add_argument('--mm', help='momentum', type=float, default=0.9)
 parser.add_argument('--clip', help='gradient clipping', type=float, default=0.25)
+parser.add_argument('--data', help='dataset path', type=str, default='data')
 parser.add_argument('--subset', help='subset size', type=float, default=1.0)
 
 args = parser.parse_args()
