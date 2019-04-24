@@ -39,7 +39,7 @@ def extract_files_data(data_path):
 
 def read_dataset(data_path, num_workers=1):
     data = []
-    all_file_paths = glob(os.path.join(dfiata_path, '**/*.txt'), recursive=True)
+    all_file_paths = glob(os.path.join(data_path, '**/*.txt'), recursive=True)
     num_files = len(all_file_paths)
     files_per_worker = num_files // num_workers
 
