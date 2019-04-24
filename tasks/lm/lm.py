@@ -87,10 +87,10 @@ class DualLSTM(nn.Module):
             else:
                 self.hidden_cn, self.cell = self.lstm_cn(sent_embed[i], (self.hidden_cn, self.cell))
                 self.hidden_en, self.cell = self.lstm_en(self.dummy_tok, (self.hidden_cn, self.cell))
-            lstm_out.append(torch.cat((self.hidden_en, self.hidden_cn)))
+            lstm_out.append(torch.cat((self.hidden_en, self.hidden_cn), 1))
         lstm_out = torch.stack(lstm_out)
 
-        prediction = self.fc(lstm_out.squeeze(1))
+        prediction = self.fc(torch.squeeze(lstm_out))
         return prediction
 
     def embed_sentence(self, sentence):
