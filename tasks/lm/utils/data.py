@@ -5,7 +5,7 @@
 # Licensed under the Apache License v2.0 - http://www.apache.org/licenses/
 
 import os
-
+import re
 
 def read_dataset(data_path):
     data = []
@@ -30,7 +30,10 @@ def is_english_word(word):
     :param word: A token in document.
     :return: Boolean value, True or False
     """
-    return all([char in ["\"", "\'", "-"] or char.isalpha() for char in word])
+    return all([char in ["\"", "\'", "-", "*", "~", "*", "."] or char.isalpha() for char in word])
+
+def has_chinese_char(word):
+    return len(re.findall(r'[\u4e00-\u9fff]+', word)) > 0
 
 
 def is_chinese_word(char):
