@@ -10,30 +10,30 @@ import multiprocessing as mp
 from glob import glob
 
 
-def extract_files_data(data_path):
+def extract_files_data(files):
     data = []
-    for (dirpath, dirs, files) in os.walk(data_path):
-        for file in files:
-            with open(os.path.join(dirpath, file), "r") as f:
-                lines = f.readlines()
-                for line in lines:
-                    text = []
-                    for token in line.decode('UTF-8').split()[3:]:
-                        if is_english_word(token.encode('ascii', 'ignore')) \
-                                or (is_chinese_word(token) and len(token) == 1):
-                            text.append(token)
-                        else:
-                            tmp = ""
-                            for char in token:
-                                if is_chinese_word(char):
-                                    if len(tmp) > 0:
-                                        text.append(tmp)
-                                        tmp = ""
-                                    text.append(char)
-                                else:
-                                    tmp += char
-                    assert(all(len(word) == 1 for word in text if is_chinese_word(word)))
-                    data.append([word.encode('UTF-8') for word in text if word not in ['ZH', 'CS', 'EN']])
+    for file in files:
+        with open(file, "r") as f:
+            lines = f.readlines()
+            for line in lines:
+                text = []
+                for token in line.decode('UTF-8').split()[3:]:
+                    if is_english_word(token.encode('ascii', 'ignore')) \
+                            or (is_chinese_word(token) and len(token) == 1):
+                        text.append(token)
+                    else:
+                        tmp = ""
+                        for char in token:
+                            if is_chinese_word(char):
+                                if len(tmp) > 0:
+                                    text.append(tmp)
+                                    tmp = ""
+                                text.append(char)
+                            else:
+                                tmp += char
+                assert (all(len(word) == 1 for word in text if is_chinese_word(word)))
+                data.append([word.encode('UTF-8') for word in text if word not in ['ZH', 'CS', 'EN']])
+
     return data
 
 
