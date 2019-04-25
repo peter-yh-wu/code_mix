@@ -27,9 +27,14 @@ def calc_sent_loss(sent, model, criterion):
     """
     Calculate the loss value for the entire sentence
     """
-    targets = torch.LongTensor([model.vocab[tok] for tok in sent+['<s>']]).to(DEVICE)
-    logits = model(['<s>'] + sent + ['<s>'])
-    loss = criterion(logits, targets)
+    targets = torch.LongTensor([model.vocab[tok] for tok in sent[1:]]).to(DEVICE)
+    logits = model(sent)
+    try:
+        loss = criterion(logits, targets)
+    except Exception as ex:
+        print(ex)
+        print(sent)
+        pdb.set_trace()
 
     return loss
 
@@ -38,21 +43,25 @@ def generate_sent(model, max_len):
     """
     Generate a sentence
     """
-    hist = ['<s>', model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
+    # hist = [model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
+    hist = ['<s>']
     eos = model.vocab['<s>']
+    sent = []
 
-    while len(hist) < max_len:
-        logits = model(hist)
+    while len(sent) < max_len:
+        logits = model(hist + ['<s>'])
         if logits.dim() > 1:
             logits = logits[-1]
-        log_prob = torch.log(F.softmax(logits, dim=0))
-        # next_word = prob.multinomial(1).data[0, 0]
-        next_word = torch.argmax(log_prob)
+        # pdb.set_trace()
+        prob = F.softmax(logits, dim=0)
+        next_word = prob.multinomial(1).data[0]
+        # next_word = torch.argmax(log_prob)
         if next_word == eos:
             break
-        hist.append(model.vocab.itos[next_word])
+        sent.append(model.vocab.itos[next_word])
+        hist += [model.vocab.itos[next_word]]
 
-    return hist[2:]
+    return sent
 
 
 def calc_sentence_logprob(model, sentence):
@@ -132,8 +141,6 @@ if __name__ == '__main__':
         train_sents = 0
         start = time.time()
         for sent in train:
-            if len(sent) == 0:
-                continue
             # TODO: mean or sum loss?
             loss = calc_sent_loss(sent, model, criterion)
             train_loss += loss.data
