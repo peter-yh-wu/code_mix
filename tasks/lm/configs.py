@@ -21,12 +21,13 @@ parser.add_argument('--mm', help='momentum', type=float, default=0.9)
 parser.add_argument('--clip', help='gradient clipping', type=float, default=0.25)
 parser.add_argument('--data', help='dataset path', type=str, default='../SEAME/data')
 parser.add_argument('--subset', help='subset size', type=float, default=1.0)
-parser.add_argument('--save_prefix', help='saved model file prefix', type=str, default='model')
+parser.add_argument('--models_dir', help='save model dir', type=str, default='models')
+parser.add_argument('--log_dir', help='logging dir', type=str, default='log')
 
 args = parser.parse_args()
 
 # running configurations
-log_dir = 'log/'
+log_dir = args.log_dir
 timestamp = datetime.now().strftime('%m%d-%H%M%S')
 names = ('train', 'dev') if args.mode == 'train' else ('test',)
 

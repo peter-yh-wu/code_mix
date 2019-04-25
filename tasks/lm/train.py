@@ -54,8 +54,8 @@ def generate_sent(model, max_len):
             logits = logits[-1]
         # pdb.set_trace()
         prob = F.softmax(logits, dim=0)
-        next_word = prob.multinomial(1).data[0]
-        # next_word = torch.argmax(log_prob)
+        # next_word = prob.multinomial(1).data[0]
+        next_word = torch.argmax(prob)
         if next_word == eos:
             break
         sent.append(model.vocab.itos[next_word])
@@ -195,9 +195,9 @@ if __name__ == '__main__':
                     os.mkdir('models')
                 except Exception as e:
                     print("Can not create models directory, %s" % e)
-            torch.save(model.state_dict(), "models/{}.pt".format(args.save_prefix))
+            torch.save(model.state_dict(), "{}/best.pt".format(args.models_dir))
             best_dev = dev_loss
-        torch.save(model.state_dict(), "models/{}_{}.pt".format(args.save_prefix, epoch))
+        torch.save(model.state_dict(), "{}/epoch_{}.pt".format(args.models_dir, epoch))
 
         # Save the model
         logger.info("Epoch %r: dev loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
