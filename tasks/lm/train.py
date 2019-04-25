@@ -38,12 +38,13 @@ def generate_sent(model, max_len):
     """
     Generate a sentence
     """
-    # hist = [model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
-    hist = ['<s>']
+    hist = ['<s>', model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
     eos = model.vocab['<s>']
 
     while len(hist) < max_len:
-        logits = model(hist + ["<s>"])[-1]
+        logits = model(hist)
+        if logits.dim() > 1:
+            logits = logits[-1]
         log_prob = torch.log(F.softmax(logits, dim=0))
         # next_word = prob.multinomial(1).data[0, 0]
         next_word = torch.argmax(log_prob)
@@ -51,7 +52,7 @@ def generate_sent(model, max_len):
             break
         hist.append(model.vocab.itos[next_word])
 
-    return hist[1:]
+    return hist[2:]
 
 
 def calc_sentence_logprob(model, sentence):
