@@ -23,6 +23,7 @@ parser.add_argument('--data', help='dataset path', type=str, default='../SEAME/d
 parser.add_argument('--subset', help='subset size', type=float, default=1.0)
 parser.add_argument('--models_dir', help='save model dir', type=str, default='models')
 parser.add_argument('--log_dir', help='logging dir', type=str, default='log')
+parser.add_argument('--gpu_id', help='GPU to be used if any', type=int, default=0)
 
 args = parser.parse_args()
 
@@ -32,6 +33,6 @@ timestamp = datetime.now().strftime('%m%d-%H%M%S')
 names = ('train', 'dev') if args.mode == 'train' else ('test',)
 
 USE_CUDA = torch.cuda.is_available()
-DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+DEVICE = torch.device('cuda:{}'.format(args.gpu_id) if torch.cuda.is_available() else 'cpu')
 
 
