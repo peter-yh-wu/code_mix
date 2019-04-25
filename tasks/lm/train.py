@@ -68,17 +68,14 @@ def calc_sentence_logprob(model, sentence):
     """
     Calculates the sentence log-prob
     """
-
     if len(sentence) < 1:
         return -float('inf')
 
     log_probs = torch.log(F.softmax(model(sentence), dim=0))
-    lp = 0.
-    for pos in range(len(sentence) - 1):
-        cur_token = sentence[pos]
-        lp += log_probs[pos][model.vocab[cur_token]]
+    ids = torch.Tensor(sentence[1:]).long()
+    sentence_log_prob = torch.sum(log_probs.gather(1, ids.view(-1, 1)))
 
-    return lp
+    return sentence_log_prob.item()
 
 if __name__ == '__main__':
     # initialize logger
