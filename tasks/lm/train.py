@@ -141,7 +141,7 @@ if __name__ == '__main__':
             # TODO: mean or sum loss?
             loss = calc_sent_loss(sent, model, criterion)
             train_loss += loss.data
-            train_words += len(sent)
+            train_words += (len(sent) - 2)
             train_sents += 1
             optimizer.zero_grad()
             loss.backward()
@@ -178,7 +178,7 @@ if __name__ == '__main__':
                 # sentences = batch.to(DEVICE)
                 loss = calc_sent_loss(sent, model, criterion)
                 dev_loss += loss.data
-                dev_words += len(sent)
+                dev_words += (len(sent) - 2)
 
         # Keep track of the development accuracy and reduce the learning rate if it got worse
         if last_dev < dev_loss and hasattr(optimizer, 'learning_rate'):
