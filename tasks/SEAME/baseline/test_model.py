@@ -48,7 +48,15 @@ def main():
     model = Seq2SeqModel(args, vocab_size=charcount)
 
     CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
-    model.load_state_dict(torch.load(CKPT_PATH))
+    if args.cuda:
+        model.load_state_dict(torch.load(CKPT_PATH))
+    else:
+        gpu_dict = torch.load(CKPT_PATH, map_location=lambda storage, loc: storage)
+        cpu_model_dict = {}
+        for key, val in gpu_dict.items():
+            cpu_model_dict[key] = val.cpu()
+        model.load_state_dict(cpu_model_dict)
+    
     if args.cuda:
         model = model.cuda()
     
