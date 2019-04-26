@@ -12,6 +12,7 @@ import logging
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import pdb
 
 from lm import FNNLM, DualLSTM
 from utils.data import *
@@ -26,31 +27,55 @@ def calc_sent_loss(sent, model, criterion):
     """
     Calculate the loss value for the entire sentence
     """
-    targets = torch.LongTensor([model.vocab[tok] for tok in sent + ['<s>']]).to(DEVICE)
-    logits = model(['<s>'] + sent + ['<s>'])
-    loss = criterion(logits, targets)
+    targets = torch.LongTensor([model.vocab[tok] for tok in sent[1:]]).to(DEVICE)
+    logits = model(sent)
+    try:
+        loss = criterion(logits, targets)
+    except Exception as ex:
+        print(ex)
+        print(sent)
+        pdb.set_trace()
 
     return loss
 
 
-def generate_sent(model):
+def generate_sent(model, max_len):
     """
     Generate a sentence
     """
-    hist = [model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
-    # hist += ['<s>']
+    # hist = [model.vocab.itos[torch.randint(low=0, high=len(model.vocab), size=(1,), dtype=torch.int32)]]
+    hist = ['<s>']
     eos = model.vocab['<s>']
-    while True:
-        logits = model(hist + ['<s>'])[-1]
+    sent = []
+
+    while len(sent) < max_len:
+        logits = model(hist + ['<s>'])
+        if logits.dim() > 1:
+            logits = logits[-1]
+        # pdb.set_trace()
         prob = F.softmax(logits, dim=0)
-        # next_word = prob.multinomial(1).data[0, 0]
+        # next_word = prob.multinomial(1).data[0]
         next_word = torch.argmax(prob)
-        if next_word == eos or len(hist) == args.maxlen:
+        if next_word == eos:
             break
-        hist.append(model.vocab.itos[next_word])
+        sent.append(model.vocab.itos[next_word])
+        hist += [model.vocab.itos[next_word]]
 
-    return hist
+    return sent
 
+
+def calc_sentence_logprob(model, sentence):
+    """
+    Calculates the sentence log-prob
+    """
+    if len(sentence) < 1:
+        return -float('inf')
+
+    log_probs = torch.log(F.softmax(model(sentence), dim=0))
+    ids = torch.Tensor(sentence[1:]).long()
+    sentence_log_prob = torch.sum(log_probs.gather(1, ids.view(-1, 1)))
+
+    return sentence_log_prob.item()
 
 if __name__ == '__main__':
     # initialize logger
@@ -59,11 +84,14 @@ if __name__ == '__main__':
 
     # Read in the data
     logger.info('Loading dataset...')
-    dataset = read_dataset('data')
-    dataset = dataset[: int(len(dataset)*args.subset)]
+    dataset = read_dataset(args.data)
+    dataset = dataset[: int(len(dataset) * args.subset)]
     train = dataset[: int(len(dataset)*0.8)]
     dev = dataset[int(len(dataset)*0.8) + 1: -1]
     vocab = Vocab(train)
+    print('  Training samples: {}'.format(len(train)))
+    print('  Dev samples:      {}'.format(len(dev)))
+    print('  Vocabulary size:  {}'.format(len(vocab)))
 
     # Initialize the model and the optimizer
     logger.info('Building model...')
@@ -78,7 +106,7 @@ if __name__ == '__main__':
     else:
         raise NotImplemented
 
-    # model = model.to(DEVICE)
+    model = model.to(DEVICE)
 
     # Construct loss function and Optimizer.
     criterion = torch.nn.CrossEntropyLoss()
@@ -113,7 +141,7 @@ if __name__ == '__main__':
             # TODO: mean or sum loss?
             loss = calc_sent_loss(sent, model, criterion)
             train_loss += loss.data
-            train_words += len(sent)
+            train_words += (len(sent) - 2)
             train_sents += 1
             optimizer.zero_grad()
             loss.backward()
@@ -129,7 +157,7 @@ if __name__ == '__main__':
                 # Generate a few sentences
                 logger.info("Generate some sentences...")
                 for _ in range(3):
-                    sentence = generate_sent(model)
+                    sentence = generate_sent(model, args.maxlen)
                     logger.debug(" ".join([word for word in sentence]))
 
             model.detach()
@@ -150,7 +178,7 @@ if __name__ == '__main__':
                 # sentences = batch.to(DEVICE)
                 loss = calc_sent_loss(sent, model, criterion)
                 dev_loss += loss.data
-                dev_words += len(sent)
+                dev_words += (len(sent) - 2)
 
         # Keep track of the development accuracy and reduce the learning rate if it got worse
         if last_dev < dev_loss and hasattr(optimizer, 'learning_rate'):
@@ -164,9 +192,9 @@ if __name__ == '__main__':
                     os.mkdir('models')
                 except Exception as e:
                     print("Can not create models directory, %s" % e)
-            torch.save(model.state_dict(), "models/model.pt")
+            torch.save(model.state_dict(), "{}/best.pt".format(args.models_dir))
             best_dev = dev_loss
-        torch.save(model.state_dict(), f"models/model_{epoch}.pt")
+        torch.save(model.state_dict(), "{}/epoch_{}.pt".format(args.models_dir, epoch))
 
         # Save the model
         logger.info("Epoch %r: dev loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
@@ -175,5 +203,5 @@ if __name__ == '__main__':
 
         # Generate a few sentences
         for _ in range(5):
-            sentence = generate_sent(model)
+            sentence = generate_sent(model, args.maxlen)
             logger.debug(" ".join([word for word in sentence]))
