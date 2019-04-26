@@ -154,6 +154,10 @@ class AdvancedLSTMCell(nn.LSTMCell):
             self.c0 = self.c0.cuda()
 
     def initial_state(self, n):
+        '''
+        Return:
+            (shape (1, self.hidden_size) tensor, shape (1, self.hidden_size) tensor)
+        '''
         return (
             self.h0.expand(n, -1).contiguous(),
             self.c0.expand(n, -1).contiguous()
@@ -217,14 +221,23 @@ class DecoderModel(nn.Module):
     def forward_pass(self, input_t, keys, values, mask, ctx, input_states):
         '''
         Args:
+            input_t: current input character fed into decoder
             keys: shape (B, T, key_dim)
             values: shape (B, T, value_dim)
-            mask: (B, T)
-            ctx: (B, value_dim)
+            mask: effectively the lengths of the encoder inputs, shape (B, T),
+                only used to calculate the attention
+            ctx: attention context values (B, value_dim)
+            input_states: basically current hidden state of stacked LSTM,
+                size-3 list of (shape (1, self.hidden_size), shape (1, self.hidden_size)) pairs
         
         Return:
-            ctx: (B, value_dim)
-            attn: (B, T)
+            logit: probibility distribution of next predicted character
+            generated: predicted character (chosen from logit)
+            ctx: new attention context values (B, value_dim)
+            attn: used to compute ctx, redundant i.e. only need to worry about ctx,
+                shape (B, T)
+            new_input_states: basically new hidden state of stacked LSTM,
+                size-3 list of (shape (1, self.hidden_size), shape (1, self.hidden_size)) pairs
         '''
         # Embed the previous character
         embed = self.embedding(input_t)
@@ -274,8 +287,9 @@ class DecoderModel(nn.Module):
         t = inputs.size(0)
         n = inputs.size(1)
 
-        # Initial states
+        # Initial state of stacked LSTM
         input_states = [rnn.initial_state(n) for rnn in self.input_rnns]
+            # size-3 list of (shape (1, self.hidden_size), shape (1, self.hidden_size)) pairs
 
         # Initial context
         h0 = input_states[-1][0]
