@@ -175,7 +175,7 @@ def calculate_attention(keys, mask, queries):
         mask: lengths, shape (B, T)
         queries: linear transformation of previous decoder hidden state
             shape (B, key_dim)
-    
+
     Return:
         attn: attention, shape (B, T)
     """
@@ -189,7 +189,7 @@ def calculate_attention(keys, mask, queries):
 
 def calculate_context(attn, values):
     """Context calculation
-    
+
     Args:
         attn: alpha's, shape (B, T)
         values: h's, shape (B, T, value_dim)
@@ -230,7 +230,7 @@ class DecoderModel(nn.Module):
             ctx: attention context values (B, value_dim)
             input_states: basically current hidden state of stacked LSTM,
                 size-3 list of (shape (1, self.hidden_size), shape (1, self.hidden_size)) pairs
-        
+
         Return:
             logit: probibility distribution of next predicted character
             generated: predicted character (chosen from logit)
@@ -252,7 +252,7 @@ class DecoderModel(nn.Module):
             ht, newstate = rnn(ht, state)
                 # ht shape: (B, decoder_dim)
             new_input_states.append((ht, newstate))
-        
+
         # Calculate query
         query = self.query_projection(ht)
             # shape: (B, key_dim)
@@ -265,10 +265,10 @@ class DecoderModel(nn.Module):
         # Concatenate hidden state and context
         ht = torch.cat((ht, ctx), dim=1)
             # shape: (B, decoder_dim+value_dim)
-        
+
         # Run projection
         logit = self.char_projection(ht)
-        
+
         # Sample from logits
         generated = gumbel_argmax(logit, 1)  # (N,)
         return logit, generated, ctx, attn, new_input_states
@@ -389,7 +389,6 @@ class DecoderModel(nn.Module):
         sequences = [dict(generateds=[generated],
                           input_states=input_states,
                           ctx=ctx,
-                          attns=[attn],
                           logits=[logit0],
                           log_prob=lp)
                      for lp, t in zip(top_logprobs, top_index)]
@@ -412,7 +411,6 @@ class DecoderModel(nn.Module):
                 seq['ctx'] = ctx
                 seq['input_states'] = input_states
                 seq['logits'].append(logit)
-                seq['attns'].append(attn)
                 # Calc all branches logprob
                 all_candidate_probs = torch.cat((all_candidate_probs, seq['log_prob'] + torch.log(softmax(logit.cpu()))))
 
@@ -425,7 +423,6 @@ class DecoderModel(nn.Module):
                 new_seq = dict(generateds=sequences[seq_idx]['generateds'][:],
                                input_states=sequences[seq_idx]['input_states'],
                                ctx=sequences[seq_idx]['ctx'],
-                               attns=sequences[seq_idx]['attns'][:],
                                logits=sequences[seq_idx]['logits'][:],
                                log_prob=lp)
                 new_seq['generateds'].append(torch.Tensor([token]).cuda())
@@ -436,10 +433,9 @@ class DecoderModel(nn.Module):
         sequences.sort(key=lambda s: s['log_prob'], reverse=True)
 
         generateds = torch.Tensor(sequences[0]['generateds'])
-        attns = torch.Tensor(sequences[0]['attns'])
         logits = torch.Tensor(sequences[0]['logits'])
 
-        return logits, attns, generateds
+        return logits, generateds
 
 class Seq2SeqModel(nn.Module):
     # Tie encoder and decoder together
@@ -457,8 +453,7 @@ class Seq2SeqModel(nn.Module):
 
     def forward_beam(self, utterances, utterance_lengths, chars, char_lengths, beam_width=5):
         keys, values, lengths = self.encoder(utterances, utterance_lengths)
-        logits, attns, generated = self.decoder.forward_beam(chars, char_lengths, keys, values, lengths, beam_width=beam_width)
-        self._state_hooks['attention'] = attns.permute(1, 0, 2).unsqueeze(1)
+        logits, generated = self.decoder.forward_beam(chars, char_lengths, keys, values, lengths, beam_width=beam_width)
         return logits, generated, char_lengths
 
 
