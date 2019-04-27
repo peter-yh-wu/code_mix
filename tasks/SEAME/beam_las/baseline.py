@@ -388,11 +388,12 @@ class DecoderModel(nn.Module):
                           input_states=h0,
                           ctx=ctx,
                           attns=[attn],
-                          logits=[logit0])
+                          logits=[logit0],
+                          log_prob=lp)
                      for lp, t in zip(top_logprobs, top_tokens)]
 
         # Sweep throug the whole length, no end-of-sentence token
-        for _ in range(1, input_lengths):
+        for _ in range(1, t):
             if beam_width < 1:
                 break
             all_candidate_probs = torch.tensor([])
@@ -420,7 +421,8 @@ class DecoderModel(nn.Module):
                                input_states=sequences[seq_idx]['input_states'],
                                ctx=sequences[seq_idx]['ctx'],
                                attns=sequences[seq_idx]['attns'][:],
-                               logits=sequences[seq_idx]['logits'][:])
+                               logits=sequences[seq_idx]['logits'][:],
+                               log_prob=lp)
                 new_seq['generateds'].append(token)
                 new_seq['attns'].append(all_attns[seq_idx])
                 new_seq['logits'].append(all_logits[seq_idx])
