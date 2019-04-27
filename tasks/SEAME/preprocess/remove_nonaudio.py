@@ -13,8 +13,10 @@ TEST_YS_FILE = 'test_ys.txt'
 
 def remove_lang_tags(ys):
     new_ys = []
-    for y in ys:
+    for i, y in enumerate(ys):
         new_y_list = y.split()
+        if len(new_y_list) == 0:
+            print(i)
         if new_y_list[0] == 'CS' or new_y_list[0] == 'EN' or new_y_list[0] == 'ZH':
             new_y_list = new_y_list[1:]
         new_y = ' '.join(new_y_list)
@@ -39,8 +41,11 @@ with open(test_ys_path, 'r') as inf:
     test_ys = inf.readlines()
 test_ys = [y.strip() for y in test_ys]
 
+print('removing train language tags')
 new_train_ys = remove_lang_tags(train_ys)
+print('removing dev language tags')
 new_dev_ys = remove_lang_tags(dev_ys)
+print('removing test language tags')
 new_test_ys = remove_lang_tags(test_ys)
 
 with open(train_ys_path, 'w+') as ouf:
