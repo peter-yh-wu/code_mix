@@ -103,7 +103,7 @@ def main():
                     transcripts.append(row[1])
         t1 = time.time()
         print("Finshed Writing Transcripts")
-        print('%.2f Seconds' % t1-t0)
+        print('%.2f Seconds' % (t1-t0))
     
     if 'cer' in args.test_mode:
         with open(TRANSCRIPT_LOG_PATH, 'r') as inf:
