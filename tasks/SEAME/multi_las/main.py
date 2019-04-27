@@ -207,7 +207,7 @@ class DecoderModel(nn.Module):
             # shape: (B, num_heads, key_dim)
         preheads = torch.sum(keys*queries[:, None, :, :], 3)
             # shape: (B, T, num_heads)
-        heads = torch.sum(preheads[:, :, :, None]*values_t, 1)
+        heads = torch.sum(preheads[:, :, :, None]*values, 1)
             # shape: (B, value_dim, num_heads)
         concatheads = heads.view(n, -1)
             # shape: (B, value_dim*num_heads)
