@@ -183,7 +183,7 @@ class DecoderModel(nn.Module):
         Assumes key_dim == value_vim
 
         Args:
-            keys: shape (T, B, num_heads, key_dim)
+            keys: shape (B, T, num_heads, key_dim)
             values: shape (T, B, num_heads, value_dim)
             multihead: context, shape (B, decoder_dim)
         '''
@@ -205,7 +205,7 @@ class DecoderModel(nn.Module):
             # shape: (B, key_dim*num_heads)
         queries = queries.view(B, self.num_heads, -1)
             # shape: (B, num_heads, key_dim)
-        preheads = torch.sum(keys_t*queries[:, None, :, :], 3)
+        preheads = torch.sum(keys*queries[:, None, :, :], 3)
             # shape: (B, T, num_heads)
         heads = torch.sum(preheads[:, :, :, None]*values_t, 1)
             # shape: (B, value_dim, num_heads)
@@ -268,7 +268,7 @@ class DecoderModel(nn.Module):
                 input_t = inputs[i]
             # Run a single timestep
             logit, generated, multihead, input_states = self.forward_pass(
-                input_t=input_t, keys=keys_t, values=values_t, mask=mask, multihead=multihead,
+                input_t=input_t, keys=keys, values=values_t, mask=mask, multihead=multihead,
                 input_states=input_states
             )
             # Save outputs
