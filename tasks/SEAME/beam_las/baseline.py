@@ -23,6 +23,7 @@ from torch import nn
 from torch.autograd import Variable
 from torch.nn.utils.rnn import PackedSequence
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
+from torch.nn.functional import softmax
 
 from model_utils import *
 
@@ -383,7 +384,7 @@ class DecoderModel(nn.Module):
             input_states=input_states
         )
 
-        top_logprobs, top_tokens = torch.topk(torch.log(logit0), k=beam_width)
+        top_logprobs, top_tokens = torch.topk(torch.log(softmax(logit0)), k=beam_width)
         sequences = [dict(generateds=[t],
                           input_states=h0,
                           ctx=ctx,
@@ -408,7 +409,7 @@ class DecoderModel(nn.Module):
                     mask=mask,
                     ctx=seq['ctx'],
                     input_states=seq['input_states'])
-                all_candidate_probs = torch.cat((all_candidate_probs, seq['log_prob'] + torch.log(logit)))
+                all_candidate_probs = torch.cat((all_candidate_probs, seq['log_prob'] + torch.log(softmax(logit))))
                 all_logits.append(logit)
                 all_attns.append(attn)
 
