@@ -346,7 +346,7 @@ class DecoderModel(nn.Module):
         # Combine all the outputs
         logits = torch.stack(logits, dim=0)  # (L, N, Vocab Size)
         attns = torch.stack(attns, dim=0)  # (L, N, T)
-        generateds = torch.stack(generateds,dim=0)
+        generateds = torch.stack(generateds, dim=0)
         return logits, attns, generateds
 
     def forward_beam(self, inputs, input_lengths, keys, values, utterance_lengths, beam_width=20, max_length=10):
@@ -384,7 +384,11 @@ class DecoderModel(nn.Module):
         )
 
         top_logprobs, top_tokens = torch.topk(torch.log(logit0), k=beam_width)
-        sequences = [dict(tokens=[t], input_states=h0, ctx=ctx, attn=attn, log_prob=lp)
+        sequences = [dict(generateds=[t],
+                          input_states=h0,
+                          ctx=ctx,
+                          attns=[attn],
+                          logits=[logit0])
                      for lp, t in zip(top_logprobs, top_tokens)]
 
         # Sweep throug the whole length, no end-of-sentence token
@@ -392,38 +396,45 @@ class DecoderModel(nn.Module):
             if beam_width < 1:
                 break
             all_candidate_probs = torch.tensor([])
-            # Get output for each sequnce
+            all_logits = []
+            all_attns = []
+            # Get output for each sequence
             for seq in sequences:
                 logit, generated, ctx, attn, input_states = self.forward_pass(
-                    input_t=seq['tokens'][-1],
+                    input_t=seq['generateds'][-1],
                     keys=keys_t,
                     values=values_t,
                     mask=mask,
                     ctx=seq['ctx'],
                     input_states=seq['input_states'])
                 all_candidate_probs = torch.cat((all_candidate_probs, seq['log_prob'] + torch.log(logit)))
+                all_logits.append(logit)
+                all_attns.append(attn)
 
             # Gather the top beam_width sequences
             top_logprobs, top_tokens = torch.topk(all_candidate_probs, k=beam_width)
             new_sequences = []
             for lp, idx in zip(top_logprobs, top_tokens):
                 seq_idx, token = idx // len(logit0), idx % len(logit0)
-                new_seq = dict(tokens=sequences[seq_idx]['tokens'][:],
-                               input_states=sequences['input_states'],
-                               ctx=sequences['ctx'],
-                               attn=sequences['attn'],
-                               log_prob=sequences['log_prob'])
-                new_seq['tokens'].append(token)
+                new_seq = dict(generateds=sequences[seq_idx]['generateds'][:],
+                               input_states=sequences[seq_idx]['input_states'],
+                               ctx=sequences[seq_idx]['ctx'],
+                               attns=sequences[seq_idx]['attns'][:],
+                               logits=sequences[seq_idx]['logits'][:])
+                new_seq['generateds'].append(token)
+                new_seq['attns'].append(all_attns[seq_idx])
+                new_seq['logits'].append(all_logits[seq_idx])
                 new_sequences.append(new_seq)
 
             sequences = new_sequences
 
         sequences.sort(key=lambda s: s['log_prob'], reverse=True)
 
-        generateds = torch.stack([torch.Tensor(s['tokens']) for s in sequences])
-        log_probs = torch.stack([torch.Tensor(s['log_probs']) for s in sequences])
+        generateds = torch.Tensor(sequences[0]['generateds'])
+        attns = torch.Tensor(sequences[0]['attns'])
+        logits = torch.Tensor(sequences[0]['logits'])
 
-        return generateds, log_probs
+        return logits, attns, generateds
 
 class Seq2SeqModel(nn.Module):
     # Tie encoder and decoder together
