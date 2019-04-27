@@ -184,7 +184,7 @@ class DecoderModel(nn.Module):
 
         Args:
             keys: shape (B, T, num_heads, key_dim)
-            values: shape (T, B, num_heads, value_dim) TODO check shape
+            values: shape (B, T, num_heads, value_dim)
             multihead: context, shape (B, decoder_dim)
         '''
         # Embed the previous character
@@ -229,12 +229,13 @@ class DecoderModel(nn.Module):
 
         Args:
             keys: shape (T, B, num_heads, key_dim)
+            values: shape (T, B, num_heads, key_dim)
         '''
         mask = Variable(output_mask(values.size(0), utterance_lengths).transpose(0, 1)).float()
         keys_t = keys.transpose(0, 1)
             # shape: (B, T, num_heads, key_dim)
         values_t = values.transpose(0, 1)
-            # shape: (T, B, num_heads, key_dim) TODO check shape
+            # shape: (B, T, num_heads, key_dim)
         t = inputs.size(0)
         n = inputs.size(1)
 
