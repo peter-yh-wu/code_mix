@@ -209,7 +209,7 @@ class DecoderModel(nn.Module):
             # shape: (B, T, num_heads)
         heads = torch.sum(preheads[:, :, :, None]*values, 1)
             # shape: (B, value_dim, num_heads)
-        concatheads = heads.view(n, -1)
+        concatheads = heads.view(B, -1)
             # shape: (B, value_dim*num_heads)
         multihead = self.wo_layer(concatheads)
             # shape: (B, decoder_dim)
