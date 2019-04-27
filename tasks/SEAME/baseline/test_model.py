@@ -74,7 +74,8 @@ def main():
         for key, val in gpu_dict.items():
             cpu_model_dict[key] = val.cpu()
         model.load_state_dict(cpu_model_dict)
-    
+    print("Loaded Checkpoint")
+
     if args.cuda:
         model = model.cuda()
     
@@ -84,6 +85,7 @@ def main():
         args=args, model=model, loader=test_loader, charset=charset
     )
     t1 = time.time()
+    print("Finshed Writing Transcripts")
     print('%.2f Seconds' % t1-t0)
     # TODO perplexity, CER and text
 

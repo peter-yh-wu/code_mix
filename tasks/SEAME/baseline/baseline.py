@@ -374,6 +374,8 @@ def write_transcripts(path, args, model, loader, charset):
         transcripts = generate_transcripts(args, model, loader, charset)
         for i, t in enumerate(transcripts):
             w.writerow([i+1, t])
+            if (i+1) % 1000 == 0:
+                print('Wrote %d Lines' % (i+1))
 
 
 class SequenceCrossEntropy(nn.CrossEntropyLoss):
