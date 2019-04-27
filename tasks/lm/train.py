@@ -54,8 +54,7 @@ def generate_sent(model, max_len):
             logits = logits[-1]
         # pdb.set_trace()
         prob = F.softmax(logits, dim=0)
-        # next_word = prob.multinomial(1).data[0]
-        next_word = torch.argmax(prob)
+        next_word = prob.multinomial(1).data[0]
         if next_word == eos:
             break
         sent.append(model.vocab.itos[next_word])
