@@ -30,21 +30,33 @@ def main():
 
     t0 = time.time()
 
+    print("Loading File Paths")
     train_paths, dev_paths, test_paths = load_paths()
     train_paths, dev_paths, test_paths = train_paths[:args.max_train], dev_paths[:args.max_dev], test_paths[:args.max_test]
+    t1 = time.time()
+    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
+    print("Loading Y Data")
     test_paths = test_paths[:args.max_data]
     train_ys = load_y_data('train') # 1-dim np array of strings
     dev_ys = load_y_data('dev')
     test_ys = load_y_data('test')
+    t1 = time.time()
+    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
+    print("Building Charset")
     charset = build_charset(np.concatenate((train_ys, dev_ys, test_ys), axis=0))
     charmap = make_charmap(charset) # {string: int}
     charcount = len(charset)
+    t1 = time.time()
+    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
+    print("Mapping Characters")
     testchars = map_characters(test_ys, charmap)
+    print("Building Loader")
     test_loader = make_loader(test_paths, testchars, args, shuffle=False, batch_size=1)
 
+    print("Building Model")
     model = Seq2SeqModel(args, vocab_size=charcount)
 
     CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
