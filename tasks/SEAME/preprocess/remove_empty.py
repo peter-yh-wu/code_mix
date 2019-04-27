@@ -22,6 +22,8 @@ def non_empty_data(paths, ys):
         if curr_mfcc.shape[0] > 0:
             new_paths.append(path)
             new_ys.append(ys[i])
+        else:
+            print('removed %s from split' % path)
         if (i+1) % 500 == 0:
             print('checked %d files' % (i+1))
     return new_paths, new_ys
