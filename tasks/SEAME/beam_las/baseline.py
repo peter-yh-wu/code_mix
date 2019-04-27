@@ -428,7 +428,7 @@ class DecoderModel(nn.Module):
                                attns=sequences[seq_idx]['attns'][:],
                                logits=sequences[seq_idx]['logits'][:],
                                log_prob=lp)
-                new_seq['generateds'].append(torch.Tensor(token))
+                new_seq['generateds'].append(torch.Tensor([token]).cuda())
                 new_sequences.append(new_seq)
 
             sequences = new_sequences
