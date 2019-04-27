@@ -30,6 +30,12 @@ def main():
 
     t0 = time.time()
 
+    if not os.path.exists(args.save_directory):
+        os.makedirs(args.save_directory)
+    LOG_PATH = os.path.join(args.save_directory, 'log')
+    with open(LOG_PATH, 'w+') as ouf:
+        pass
+
     print("Loading File Paths")
     train_paths, dev_paths, test_paths = load_paths()
     train_paths, dev_paths, test_paths = train_paths[:args.max_train], dev_paths[:args.max_dev], test_paths[:args.max_test]
