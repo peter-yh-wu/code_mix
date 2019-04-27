@@ -192,6 +192,7 @@ class DecoderModel(nn.Module):
         # Concatenate embedding and previous context
         ht = torch.cat((embed, multihead), dim=1)
             # shape: (B, decoder_dim+decoder_dim)
+        B = ht.shape[0]
         # Run first set of RNNs
         new_input_states = []
         for rnn, state in zip(self.input_rnns, input_states):
@@ -202,7 +203,7 @@ class DecoderModel(nn.Module):
         # Calculate query
         queries = self.query_projection(ht)
             # shape: (B, key_dim*num_heads)
-        queries = queries.view(n, self.num_heads, -1)
+        queries = queries.view(B, self.num_heads, -1)
             # shape: (B, num_heads, key_dim)
         preheads = torch.sum(keys_t*queries[:, None, :, :], 3)
             # shape: (B, T, num_heads)
