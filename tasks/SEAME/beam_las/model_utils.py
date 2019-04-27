@@ -58,6 +58,27 @@ def log_l(logits, target, lengths):
     log_probs = torch.sum(all_log_probs, 0) # shape: (batch_size,)
     return log_probs
 
+def perplexities_from_x(model, loader):
+    '''
+    Return:
+        np array of floats with same number of elements as len(loader)
+    '''
+    model.eval()
+
+    all_perps = np.array([])
+    for uarray, ulens, l1array, llens, l2array in loader:
+        uarray, ulens, l1array, llens, l2array = Variable(uarray), \
+            Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
+        if torch.cuda.is_available():
+            uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
+                ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
+        prediction = model(uarray, ulens, l1array, llens)
+        logits, generated, char_lengths = prediction
+        perps = perplexities(logits, l2array, char_lengths) # shape: (batch_size,)
+        perps_np = perps.cpu.numpy()
+        all_perps = np.append(all_perps, perps_np)
+    return all_perps
+
 def perplexity(logits, target, lengths):
     '''Calculates the perplexity for the given batch
 
@@ -73,6 +94,10 @@ def perplexity(logits, target, lengths):
     tot_log_l = torch.sum(log_probs)
     tot_len = torch.sum(lengths)
     return torch.exp(-tot_log_l/tot_len)
+
+def perplexities(logits, target, lengths):
+    log_probs = log_l(logits, target, lengths) # shape: (batch_size,)
+    return torch.exp(-log_probs/lengths) # shape: (batch_size,)
 
 def decode_output(output, charset):
     # Convert ints back to strings
@@ -101,9 +126,9 @@ def generate_transcripts(args, model, loader, charset):
         l1array = Variable(l1array)
         llens = Variable(llens)
 
-        logits, generated, lens = model(
+        logits, generated, lens = model.forward_beam(
             uarray, ulens, l1array, llens,
-            future=args.generator_length)
+            beam_width=5)
         generated = generated.data.cpu().numpy()  # (L, BS)
         n = uarray.size(1)
         for i in range(n):
@@ -127,6 +152,17 @@ def cer(args, model, loader, charset, ys):
         norm_dist = dist / len(ys[i])
         norm_dists.append(norm_dist)
     return sum(norm_dists)/len(ys)
+
+def cer_from_transcripts(transcripts, ys):
+    '''
+    Return:
+        list of CER values
+    '''
+    for i, t in enumerate(transcripts):
+        dist = edit_distance(t, ys[i])
+        norm_dist = dist / len(ys[i])
+        norm_dists.append(norm_dist)
+    return norm_dists
 
 def print_log(s, log_path):
     print(s)
