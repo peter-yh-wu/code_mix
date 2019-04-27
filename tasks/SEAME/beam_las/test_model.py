@@ -60,7 +60,7 @@ def main():
     print("Mapping Characters")
     testchars = map_characters(test_ys, charmap)
     print("Building Loader")
-    test_loader = make_loader(test_paths, testchars, args, shuffle=False, batch_size=args.batch_size)
+    test_loader = make_loader(test_paths, testchars, args, shuffle=False, batch_size=1)
 
     print("Building Model")
     model = Seq2SeqModel(args, vocab_size=charcount)
