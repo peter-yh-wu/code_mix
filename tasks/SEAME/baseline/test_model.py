@@ -83,10 +83,11 @@ def main():
     model.eval()
 
     TRANSCRIPT_LOG_PATH = os.path.join(args.save_directory, 'transcript_log.txt')
-    with open(TRANSCRIPT_LOG_PATH, 'w+') as ouf:
-        pass
 
     if 'transcript' in args.test_mode:
+        print('generating transcripts')
+        with open(TRANSCRIPT_LOG_PATH, 'w+') as ouf:
+            pass
         CSV_PATH = os.path.join(args.save_directory, 'submission.csv')
         if not os.path.exists(CSV_PATH):
             transcripts = write_transcripts(
@@ -107,6 +108,7 @@ def main():
         print('%.2f Seconds' % (t1-t0))
     
     if 'cer' in args.test_mode:
+        print('calculating cer values')
         CER_LOG_PATH = os.path.join(args.save_directory, 'cer_log.txt')
         with open(CER_LOG_PATH, 'w+') as ouf:
             pass
@@ -120,6 +122,7 @@ def main():
         np.save(EDIT_PATH, dists)
 
     if 'perp' in args.test_mode:
+        print('calculating perp values')
         PERP_LOG_PATH = os.path.join(args.save_directory, 'perp_log.txt')
         with open(PERP_LOG_PATH, 'w+') as ouf:
             pass
