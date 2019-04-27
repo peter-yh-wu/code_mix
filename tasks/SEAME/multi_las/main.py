@@ -184,7 +184,7 @@ class DecoderModel(nn.Module):
 
         Args:
             keys: shape (B, T, num_heads, key_dim)
-            values: shape (T, B, num_heads, value_dim)
+            values: shape (T, B, num_heads, value_dim) TODO check shape
             multihead: context, shape (B, decoder_dim)
         '''
         # Embed the previous character
