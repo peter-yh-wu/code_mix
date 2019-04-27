@@ -349,7 +349,7 @@ class DecoderModel(nn.Module):
         generateds = torch.stack(generateds, dim=0)
         return logits, attns, generateds
 
-    def forward_beam(self, inputs, input_lengths, keys, values, utterance_lengths, beam_width=20):
+    def forward_beam(self, inputs, input_lengths, keys, values, utterance_lengths, beam_width=5):
         '''
         Args:
             keys: shape (T, B, key_dim)
@@ -449,6 +449,12 @@ class Seq2SeqModel(nn.Module):
     def forward(self, utterances, utterance_lengths, chars, char_lengths, future=0):
         keys, values, lengths = self.encoder(utterances, utterance_lengths)
         logits, attns, generated = self.decoder(chars, char_lengths, keys, values, lengths, future=future)
+        self._state_hooks['attention'] = attns.permute(1, 0, 2).unsqueeze(1)
+        return logits, generated, char_lengths
+
+    def forward_beam(self, utterances, utterance_lengths, chars, char_lengths, beam_width=5):
+        keys, values, lengths = self.encoder(utterances, utterance_lengths)
+        logits, attns, generated = self.decoder.forward_beam(chars, char_lengths, keys, values, lengths, beam_width=beam_width)
         self._state_hooks['attention'] = attns.permute(1, 0, 2).unsqueeze(1)
         return logits, generated, char_lengths
 
