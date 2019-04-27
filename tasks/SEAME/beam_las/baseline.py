@@ -384,22 +384,21 @@ class DecoderModel(nn.Module):
             input_states=input_states
         )
 
-        top_logprobs, top_tokens = torch.topk(torch.log(softmax(logit0)), k=beam_width)
-        sequences = [dict(generateds=[t],
-                          input_states=h0,
+        top_logprobs, top_index = torch.topk(torch.log(softmax(logit0)), k=beam_width)
+        top_logprobs, top_index = top_logprobs.tolist()[0], top_index.tolist()[0]
+        sequences = [dict(generateds=[generated],
+                          input_states=input_states,
                           ctx=ctx,
                           attns=[attn],
                           logits=[logit0],
                           log_prob=lp)
-                     for lp, t in zip(top_logprobs, top_tokens)]
+                     for lp, t in zip(top_logprobs, top_index)]
 
         # Sweep throug the whole length, no end-of-sentence token
         for _ in range(1, t):
             if beam_width < 1:
                 break
             all_candidate_probs = torch.tensor([])
-            all_logits = []
-            all_attns = []
             # Get output for each sequence
             for seq in sequences:
                 logit, generated, ctx, attn, input_states = self.forward_pass(
@@ -409,24 +408,27 @@ class DecoderModel(nn.Module):
                     mask=mask,
                     ctx=seq['ctx'],
                     input_states=seq['input_states'])
-                all_candidate_probs = torch.cat((all_candidate_probs, seq['log_prob'] + torch.log(softmax(logit))))
-                all_logits.append(logit)
-                all_attns.append(attn)
+                # Update sequence
+                seq['ctx'] = ctx
+                seq['input_states'] = input_states
+                seq['logits'].append(logit)
+                seq['attns'].append(attn)
+                # Calc all branches logprob
+                all_candidate_probs = torch.cat((all_candidate_probs, seq['log_prob'] + torch.log(softmax(logit.cpu()))))
 
             # Gather the top beam_width sequences
-            top_logprobs, top_tokens = torch.topk(all_candidate_probs, k=beam_width)
+            top_logprobs, top_index = torch.topk(all_candidate_probs.flatten(), k=beam_width)
+            top_logprobs, top_index = top_logprobs.tolist(), top_index.tolist()
             new_sequences = []
-            for lp, idx in zip(top_logprobs, top_tokens):
-                seq_idx, token = idx // len(logit0), idx % len(logit0)
+            for lp, idx in zip(top_logprobs, top_index):
+                seq_idx, token = idx // logit0.shape[1], idx % logit0.shape[1]
                 new_seq = dict(generateds=sequences[seq_idx]['generateds'][:],
                                input_states=sequences[seq_idx]['input_states'],
                                ctx=sequences[seq_idx]['ctx'],
                                attns=sequences[seq_idx]['attns'][:],
                                logits=sequences[seq_idx]['logits'][:],
                                log_prob=lp)
-                new_seq['generateds'].append(token)
-                new_seq['attns'].append(all_attns[seq_idx])
-                new_seq['logits'].append(all_logits[seq_idx])
+                new_seq['generateds'].append(torch.Tensor(token))
                 new_sequences.append(new_seq)
 
             sequences = new_sequences
