@@ -226,12 +226,15 @@ class DecoderModel(nn.Module):
     def forward(self, inputs, input_lengths, keys, values, utterance_lengths, future=0):
         '''
         Assumes key_dim == value_vim
+
+        Args:
+            keys: shape (T, B, num_heads, key_dim)
         '''
         mask = Variable(output_mask(values.size(0), utterance_lengths).transpose(0, 1)).float()
         keys_t = keys.transpose(0, 1)
-            # shape: (T, B, num_heads, key_dim)
+            # shape: (B, T, num_heads, key_dim)
         values_t = values.transpose(0, 1)
-            # shape: (T, B, num_heads, key_dim)
+            # shape: (T, B, num_heads, key_dim) TODO check shape
         t = inputs.size(0)
         n = inputs.size(1)
 
@@ -268,7 +271,7 @@ class DecoderModel(nn.Module):
                 input_t = inputs[i]
             # Run a single timestep
             logit, generated, multihead, input_states = self.forward_pass(
-                input_t=input_t, keys=keys, values=values_t, mask=mask, multihead=multihead,
+                input_t=input_t, keys=keys_t, values=values_t, mask=mask, multihead=multihead,
                 input_states=input_states
             )
             # Save outputs
