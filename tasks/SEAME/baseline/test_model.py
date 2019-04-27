@@ -83,12 +83,12 @@ def main():
     model.eval()
 
     TRANSCRIPT_LOG_PATH = os.path.join(args.save_directory, 'transcript_log.txt')
-
+    CSV_PATH = os.path.join(args.save_directory, 'submission.csv')
+    
     if 'transcript' in args.test_mode:
         print('generating transcripts')
         with open(TRANSCRIPT_LOG_PATH, 'w+') as ouf:
             pass
-        CSV_PATH = os.path.join(args.save_directory, 'submission.csv')
         if not os.path.exists(CSV_PATH):
             transcripts = write_transcripts(
                 path=CSV_PATH,
