@@ -91,7 +91,8 @@ def main():
         if not os.path.exists(CSV_PATH):
             transcripts = write_transcripts(
                 path=CSV_PATH,
-                args=args, model=model, loader=test_loader, charset=charset
+                args=args, model=model, loader=test_loader, charset=charset,
+                log_path=TRANSCRIPT_LOG_PATH
             )
         else:
             transcripts = []
