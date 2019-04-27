@@ -107,14 +107,22 @@ def main():
         print('%.2f Seconds' % (t1-t0))
     
     if 'cer' in args.test_mode:
+        CER_LOG_PATH = os.path.join(args.save_directory, 'cer_log.txt')
+        with open(CER_LOG_PATH, 'w+') as ouf:
+            pass
         with open(TRANSCRIPT_LOG_PATH, 'r') as inf:
             transcripts = inf.readlines()
         transcripts = [l.strip() for l in transcripts]
         CER_PATH = os.path.join(args.save_directory, 'test_cer.npy')
-        norm_dists = cer_from_transcripts(transcripts, test_ys)
+        EDIT_PATH = os.path.join(args.save_directory, 'test_edit.npy')
+        norm_dists, dists = cer_from_transcripts(transcripts, test_ys, CER_LOG_PATH)
         np.save(CER_PATH, norm_dists)
+        np.save(EDIT_PATH, dists)
 
     if 'perp' in args.test_mode:
+        PERP_LOG_PATH = os.path.join(args.save_directory, 'perp_log.txt')
+        with open(PERP_LOG_PATH, 'w+') as ouf:
+            pass
         PERP_PATH = os.path.join(args.save_directory, 'test_perp.npy')
         all_perps = perplexities_from_x(model, test_loader)
         np.save(PERP_PATH, all_perps)
