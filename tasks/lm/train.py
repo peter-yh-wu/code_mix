@@ -154,11 +154,11 @@ if __name__ == '__main__':
             if train_sents % 500 == 0:
                 logger.info("--finished %r sentences (sentence/sec=%.2f)"
                             % (train_sents, train_sents / (time.time() - start)))
-                # Generate a few sentences
-                logger.info("Generate some sentences...")
-                for _ in range(3):
-                    sentence = generate_sent(model, args.maxlen)
-                    logger.debug(" ".join([word for word in sentence]))
+                # # Generate a few sentences
+                # logger.info("Generate some sentences...")
+                # for _ in range(3):
+                #     sentence = generate_sent(model, args.maxlen)
+                #     logger.debug(" ".join([word for word in sentence]))
 
             model.detach()
 
