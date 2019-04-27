@@ -2,6 +2,7 @@
 Script to evaluate model
 
 Assumes that model.ckpt exists
+Supported test-mode values: transcript, cer, perp, and all combos
 
 Peter Wu
 peterw1@andrew.cmu.edu
@@ -80,29 +81,42 @@ def main():
         model = model.cuda()
     
     model.eval()
-    CSV_PATH = os.path.join(args.save_directory, 'submission.csv')
-    if not os.path.exists(CSV_PATH):
-        transcripts = write_transcripts(
-            path=CSV_PATH,
-            args=args, model=model, loader=test_loader, charset=charset
-        )
-    else:
-        transcripts = []
-        with open(CSV_PATH, 'r') as csvfile:
-            raw_csv = csv.reader(csvfile)
-            for row in raw_csv:
-                transcripts.append(row[1])
-    t1 = time.time()
-    print("Finshed Writing Transcripts")
-    print('%.2f Seconds' % t1-t0)
-    
-    CER_PATH = os.path.join(args.save_directory, 'test_cer.npy')
-    norm_dists = cer_from_transcripts(transcripts, test_ys)
-    np.save(CER_PATH, norm_dists)
 
-    PERP_PATH = os.path.join(args.save_directory, 'test_perp.npy')
-    all_perps = perplexities_from_x(model, test_loader)
-    np.save(PERP_PATH, all_perps)
+    TRANSCRIPT_LOG_PATH = os.path.join(args.save_directory, 'transcript_log.txt')
+    with open(TRANSCRIPT_LOG_PATH, 'w+') as ouf:
+        pass
+
+    if 'transcript' in args.test_mode:
+        CSV_PATH = os.path.join(args.save_directory, 'submission.csv')
+        if not os.path.exists(CSV_PATH):
+            transcripts = write_transcripts(
+                path=CSV_PATH,
+                args=args, model=model, loader=test_loader, charset=charset
+            )
+        else:
+            transcripts = []
+            with open(CSV_PATH, 'r') as csvfile:
+                raw_csv = csv.reader(csvfile)
+                for row in raw_csv:
+                    with open(TRANSCRIPT_LOG_PATH, 'a') as ouf:
+                        ouf.write('%s\n' % row[1])
+                    transcripts.append(row[1])
+        t1 = time.time()
+        print("Finshed Writing Transcripts")
+        print('%.2f Seconds' % t1-t0)
+    
+    if 'cer' in args.test_mode:
+        with open(TRANSCRIPT_LOG_PATH, 'r') as inf:
+            transcripts = inf.readlines()
+        transcripts = [l.strip() for l in transcripts]
+        CER_PATH = os.path.join(args.save_directory, 'test_cer.npy')
+        norm_dists = cer_from_transcripts(transcripts, test_ys)
+        np.save(CER_PATH, norm_dists)
+
+    if 'perp' in args.test_mode
+        PERP_PATH = os.path.join(args.save_directory, 'test_perp.npy')
+        all_perps = perplexities_from_x(model, test_loader)
+        np.save(PERP_PATH, all_perps)
 
 if __name__ == '__main__':
     main()
