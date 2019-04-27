@@ -374,9 +374,9 @@ def write_transcripts(path, args, model, loader, charset):
         transcripts = generate_transcripts(args, model, loader, charset)
         for i, t in enumerate(transcripts):
             w.writerow([i+1, t])
-            if (i+1) % 1000 == 0:
+            if (i+1) % 100 == 0:
                 print('Wrote %d Lines' % (i+1))
-
+    return transcripts
 
 class SequenceCrossEntropy(nn.CrossEntropyLoss):
     # Customized CrossEntropyLoss
@@ -415,6 +415,8 @@ def parse_args():
     parser.add_argument('--value-dim', type=int, default=128, metavar='N', help='hidden dimension')
     parser.add_argument('--key-dim', type=int, default=128, metavar='N', help='hidden dimension')
     parser.add_argument('--generator-length', type=int, default=250, metavar='N', help='maximum length to generate')
+
+    parser.add_argument('--test-mode', type=str, default='transcript', help='for test_model script')
 
     return parser.parse_args()
 

@@ -113,7 +113,7 @@ def main():
         norm_dists = cer_from_transcripts(transcripts, test_ys)
         np.save(CER_PATH, norm_dists)
 
-    if 'perp' in args.test_mode
+    if 'perp' in args.test_mode:
         PERP_PATH = os.path.join(args.save_directory, 'test_perp.npy')
         all_perps = perplexities_from_x(model, test_loader)
         np.save(PERP_PATH, all_perps)
