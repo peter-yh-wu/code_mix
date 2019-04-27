@@ -349,7 +349,7 @@ class DecoderModel(nn.Module):
         generateds = torch.stack(generateds, dim=0)
         return logits, attns, generateds
 
-    def forward_beam(self, inputs, input_lengths, keys, values, utterance_lengths, beam_width=20, max_length=10):
+    def forward_beam(self, inputs, input_lengths, keys, values, utterance_lengths, beam_width=20):
         '''
         Args:
             keys: shape (T, B, key_dim)
@@ -392,7 +392,7 @@ class DecoderModel(nn.Module):
                      for lp, t in zip(top_logprobs, top_tokens)]
 
         # Sweep throug the whole length, no end-of-sentence token
-        for t in range(1, max_length):
+        for _ in range(1, input_lengths):
             if beam_width < 1:
                 break
             all_candidate_probs = torch.tensor([])
