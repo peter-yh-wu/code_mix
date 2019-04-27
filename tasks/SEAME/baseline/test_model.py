@@ -60,7 +60,7 @@ def main():
     print("Mapping Characters")
     testchars = map_characters(test_ys, charmap)
     print("Building Loader")
-    test_loader = make_loader(test_paths, testchars, args, shuffle=False, batch_size=1)
+    test_loader = make_loader(test_paths, testchars, args, shuffle=False, batch_size=args.batch_size)
 
     print("Building Model")
     model = Seq2SeqModel(args, vocab_size=charcount)
@@ -80,14 +80,29 @@ def main():
         model = model.cuda()
     
     model.eval()
-    write_transcripts(
-        path=os.path.join(args.save_directory, 'submission.csv'),
-        args=args, model=model, loader=test_loader, charset=charset
-    )
+    CSV_PATH = os.path.join(args.save_directory, 'submission.csv')
+    if not os.path.exists(CSV_PATH):
+        transcripts = write_transcripts(
+            path=CSV_PATH,
+            args=args, model=model, loader=test_loader, charset=charset
+        )
+    else:
+        transcripts = []
+        with open(CSV_PATH, 'r') as csvfile:
+            raw_csv = csv.reader(csvfile)
+            for row in raw_csv:
+                transcripts.append(row[1])
     t1 = time.time()
     print("Finshed Writing Transcripts")
     print('%.2f Seconds' % t1-t0)
-    # TODO perplexity, CER and text
+    
+    CER_PATH = os.path.join(args.save_directory, 'test_cer.npy')
+    norm_dists = cer_from_transcripts(transcripts, test_ys)
+    np.save(CER_PATH, norm_dists)
+
+    PERP_PATH = os.path.join(args.save_directory, 'test_perp.npy')
+    all_perps = perplexities_from_x(model, test_loader)
+    np.save(PERP_PATH, all_perps)
 
 if __name__ == '__main__':
     main()
