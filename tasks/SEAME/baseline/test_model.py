@@ -112,8 +112,11 @@ def main():
         CER_LOG_PATH = os.path.join(args.save_directory, 'cer_log.txt')
         with open(CER_LOG_PATH, 'w+') as ouf:
             pass
-        with open(TRANSCRIPT_LOG_PATH, 'r') as inf:
-            transcripts = inf.readlines()
+        transcripts = []
+        with open(CSV_PATH, 'r') as csvfile:
+                raw_csv = csv.reader(csvfile)
+                for row in raw_csv:
+                    transcripts.append(row[1])
         transcripts = [l.strip() for l in transcripts]
         CER_PATH = os.path.join(args.save_directory, 'test_cer.npy')
         EDIT_PATH = os.path.join(args.save_directory, 'test_edit.npy')
