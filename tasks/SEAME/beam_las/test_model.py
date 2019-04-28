@@ -64,7 +64,7 @@ def main():
     test_loader = make_loader(test_paths, testchars, args, shuffle=False, batch_size=1)
 
     print("Building Model")
-    model = Seq2SeqModel(args, vocab_size=charcount)
+    model = Seq2SeqModel(args, vocab_size=charcount, beam_width=args.beam_width)
 
     CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
     if args.cuda:
