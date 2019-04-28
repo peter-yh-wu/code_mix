@@ -94,7 +94,7 @@ def main():
                 transcripts.append(row[1])
     t1 = time.time()
     print("Finshed Writing Transcripts")
-    print('%.2f Seconds' % t1-t0)
+    print('{:.2f} Seconds'.format(t1-t0))
     
     CER_PATH = os.path.join(args.save_directory, 'test_cer.npy')
     norm_dists = cer_from_transcripts(transcripts, test_ys)
