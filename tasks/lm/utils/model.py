@@ -2,6 +2,7 @@
 https://gist.github.com/jeasinema/ed9236ce743c8efaf30fa2ff732749f5
 """
 
+import torch
 import torch.nn as nn
 import torch.nn.init as init
 
@@ -72,3 +73,19 @@ def weight_init(module):
                 init.orthogonal_(param.data)
             else:
                 init.normal_(param.data)
+
+
+def sample_gumbel(shape, eps=1e-10, out=None):
+    """
+    Sample from Gumbel(0, 1)
+    based on
+    https://github.com/ericjang/gumbel-softmax/blob/3c8584924603869e90ca74ac20a6a03d99a91ef9/Categorical%20VAE.ipynb ,
+    (MIT license)
+    """
+    U = out.resize_(shape).uniform_() if out is not None else torch.rand(shape)
+    return - torch.log(eps - torch.log(U + eps))
+
+
+def gumbel_argmax(logits, dim):
+    # Draw from a multinomial distribution efficiently
+    return torch.max(logits + sample_gumbel(logits.size(), out=logits.data.new()), dim)[1]
