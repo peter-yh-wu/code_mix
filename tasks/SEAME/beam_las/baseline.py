@@ -9,7 +9,7 @@ Modified from LAS implementation by Sai Krishna Rallabandi (srallaba@andrew.cmu.
 Peter Wu
 peterw1@andrew.cmu.edu
 '''
-
+import pdb
 import argparse
 import csv
 import itertools
@@ -412,7 +412,7 @@ class DecoderModel(nn.Module):
                 seq['input_states'] = input_states
                 seq['logits'].append(logit)
                 # Calc all branches logprob
-                all_candidate_probs = torch.cat((all_candidate_probs, seq['log_prob'] + torch.log(softmax(logit.cpu()))))
+                all_candidate_probs = torch.cat((all_candidate_probs, seq['log_prob'] + torch.log(softmax(logit)).cpu()))
 
             # Gather the top beam_width sequences
             top_logprobs, top_index = torch.topk(all_candidate_probs.flatten(), k=beam_width)
@@ -425,15 +425,15 @@ class DecoderModel(nn.Module):
                                ctx=sequences[seq_idx]['ctx'],
                                logits=sequences[seq_idx]['logits'][:],
                                log_prob=lp)
-                new_seq['generateds'].append(torch.Tensor([token]).cuda())
+                new_seq['generateds'].append(torch.LongTensor([token]).cuda())
                 new_sequences.append(new_seq)
 
             sequences = new_sequences
 
         sequences.sort(key=lambda s: s['log_prob'], reverse=True)
 
-        generateds = torch.Tensor(sequences[0]['generateds'])
-        logits = torch.Tensor(sequences[0]['logits'])
+        generateds = torch.stack(sequences[0]['generateds']).flatten().reshape(1, -1)
+        logits = torch.stack(sequences[0]['logits'])
 
         return logits, generateds
 
