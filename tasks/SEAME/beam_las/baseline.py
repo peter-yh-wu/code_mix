@@ -384,7 +384,7 @@ class DecoderModel(nn.Module):
             input_states=input_states
         )
 
-        top_logprobs, top_index = torch.topk(torch.log(softmax(logit0)), k=beam_width)
+        top_logprobs, top_index = torch.topk(torch.log(softmax(logit0, dim=1)), k=beam_width)
         top_logprobs, top_index = top_logprobs.tolist()[0], top_index.tolist()[0]
         sequences = [dict(generateds=[generated],
                           input_states=input_states,
@@ -397,7 +397,7 @@ class DecoderModel(nn.Module):
         for _ in range(1, t):
             if beam_width < 1:
                 break
-            all_candidate_probs = torch.tensor([])
+            all_candidate_probs = []
             # Get output for each sequence
             for seq in sequences:
                 logit, generated, ctx, attn, input_states = self.forward_pass(
@@ -412,10 +412,11 @@ class DecoderModel(nn.Module):
                 seq['input_states'] = input_states
                 seq['logits'].append(logit)
                 # Calc all branches logprob
-                all_candidate_probs = torch.cat((all_candidate_probs, seq['log_prob'] + torch.log(softmax(logit)).cpu()))
+                sequence_log_prob = seq['log_prob'] + torch.log(softmax(logit, dim=1))
+                all_candidate_probs.append(sequence_log_prob)
 
             # Gather the top beam_width sequences
-            top_logprobs, top_index = torch.topk(all_candidate_probs.flatten(), k=beam_width)
+            top_logprobs, top_index = torch.topk(torch.stack(all_candidate_probs).flatten(), k=beam_width)
             top_logprobs, top_index = top_logprobs.tolist(), top_index.tolist()
             new_sequences = []
             for lp, idx in zip(top_logprobs, top_index):
