@@ -73,9 +73,12 @@ if __name__ == '__main__':
     logger = init_logger()
     logger.info(args)
 
-    # Read in the data
-    logger.info('Loading dataset...')
+    # Load data
+    logger.info('Loading SEAME dataset...')
     dataset = read_dataset(args.data)
+    if args.qg:
+        logger.info('Loading QG dataset...')
+        dataset.extend(read_dataset('data/QGdata'))
     dataset = dataset[: int(len(dataset) * args.subset)]
     train = dataset[: int(len(dataset)*0.8)]
     dev = dataset[int(len(dataset)*0.8) + 1: -1]

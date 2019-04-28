@@ -24,6 +24,7 @@ parser.add_argument('--subset', help='subset size', type=float, default=1.0)
 parser.add_argument('--models_dir', help='save model dir', type=str, default='models')
 parser.add_argument('--log_dir', help='logging dir', type=str, default='log')
 parser.add_argument('--gpu_id', help='GPU to be used if any', type=int, default=0)
+parser.add_argument('--qg', help='use QG dataset for data augumentation', type=bool, default=False)
 
 args = parser.parse_args()
 
