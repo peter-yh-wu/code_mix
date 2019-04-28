@@ -72,7 +72,7 @@ def perplexities_from_x(model, loader):
         if torch.cuda.is_available():
             uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
                 ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
-        prediction = model(uarray, ulens, l1array, llens)
+        prediction = model.forward_beam(uarray, ulens, l1array, llens)
         logits, generated, char_lengths = prediction
         perps = perplexities(logits, l2array, char_lengths) # shape: (batch_size,)
         perps_np = perps.cpu.numpy()
@@ -158,6 +158,7 @@ def cer_from_transcripts(transcripts, ys):
     Return:
         list of CER values
     '''
+    norm_dists = []
     for i, t in enumerate(transcripts):
         dist = edit_distance(t, ys[i])
         norm_dist = dist / len(ys[i])
