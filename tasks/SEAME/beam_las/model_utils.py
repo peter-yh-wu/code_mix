@@ -72,7 +72,7 @@ def perplexities_from_x(model, loader):
         if torch.cuda.is_available():
             uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
                 ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
-        prediction = model.forward_beam(uarray, ulens, l1array, llens)
+        prediction = model(uarray, ulens, l1array, llens)
         logits, generated, char_lengths = prediction
         perps = perplexities(logits, l2array, char_lengths) # shape: (batch_size,)
         perps_np = perps.cpu.numpy()
@@ -126,9 +126,7 @@ def generate_transcripts(args, model, loader, charset):
         l1array = Variable(l1array)
         llens = Variable(llens)
 
-        logits, generated, lens = model.forward_beam(
-            uarray, ulens, l1array, llens,
-            beam_width=5)
+        logits, generated, lens = model(uarray, ulens, l1array, llens)
         generated = generated.data.cpu().numpy()  # (L, BS)
         n = uarray.size(1)
         for i in range(n):
@@ -153,17 +151,31 @@ def cer(args, model, loader, charset, ys):
         norm_dists.append(norm_dist)
     return sum(norm_dists)/len(ys)
 
-def cer_from_transcripts(transcripts, ys):
+def cer_from_transcripts(transcripts, ys, log_path, truncate=True):
     '''
     Return:
-        list of CER values
+        norm_dists: list of CER values
+        dist: edit distances
     '''
     norm_dists = []
+    dists = []
+    empty_ys = []
     for i, t in enumerate(transcripts):
-        dist = edit_distance(t, ys[i])
+        if len(ys[i]) < 1:
+            empty_ys.append(i)
+            continue
+        if truncate:
+            dist = edit_distance(t[:len(ys[i])], ys[i])
+        else:
+            dist = edit_distance(t, ys[i])
         norm_dist = dist / len(ys[i])
+        with open(log_path, 'a') as ouf:
+            ouf.write('dist: %.2f, norm_dist: %.2f\n' % (dist, norm_dist))
         norm_dists.append(norm_dist)
-    return norm_dists
+        dists.append(dist)
+
+    print('Empty targets', empty_ys)
+    return norm_dists, dists
 
 def print_log(s, log_path):
     print(s)

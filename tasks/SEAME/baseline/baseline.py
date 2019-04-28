@@ -418,7 +418,7 @@ def parse_args():
     parser.add_argument('--key-dim', type=int, default=128, metavar='N', help='hidden dimension')
     parser.add_argument('--generator-length', type=int, default=250, metavar='N', help='maximum length to generate')
 
-    parser.add_argument('--test-mode', type=str, default='transcript', help='for test_model script')
+    parser.add_argument('--test-mode', type=str, default='transcript', help='Test mode: transcript, cer, perp')
 
     return parser.parse_args()
 

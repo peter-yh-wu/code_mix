@@ -384,7 +384,7 @@ class DecoderModel(nn.Module):
             input_states=input_states
         )
 
-        top_logprobs, top_index = torch.topk(torch.log(softmax(logit0)), k=beam_width)
+        top_logprobs, top_index = torch.topk(torch.log(softmax(logit0, dim=1)), k=beam_width)
         top_logprobs, top_index = top_logprobs.tolist()[0], top_index.tolist()[0]
         sequences = [dict(generateds=[generated],
                           input_states=input_states,
@@ -397,7 +397,7 @@ class DecoderModel(nn.Module):
         for _ in range(1, t):
             if beam_width < 1:
                 break
-            all_candidate_probs = torch.tensor([])
+            all_candidate_probs = []
             # Get output for each sequence
             for seq in sequences:
                 logit, generated, ctx, attn, input_states = self.forward_pass(
@@ -412,10 +412,11 @@ class DecoderModel(nn.Module):
                 seq['input_states'] = input_states
                 seq['logits'].append(logit)
                 # Calc all branches logprob
-                all_candidate_probs = torch.cat((all_candidate_probs, seq['log_prob'] + torch.log(softmax(logit)).cpu()))
+                sequence_log_prob = seq['log_prob'] + torch.log(softmax(logit, dim=1))
+                all_candidate_probs.append(sequence_log_prob)
 
             # Gather the top beam_width sequences
-            top_logprobs, top_index = torch.topk(all_candidate_probs.flatten(), k=beam_width)
+            top_logprobs, top_index = torch.topk(torch.stack(all_candidate_probs).flatten(), k=beam_width)
             top_logprobs, top_index = top_logprobs.tolist(), top_index.tolist()
             new_sequences = []
             for lp, idx in zip(top_logprobs, top_index):
@@ -432,32 +433,35 @@ class DecoderModel(nn.Module):
 
         sequences.sort(key=lambda s: s['log_prob'], reverse=True)
 
-        generateds = torch.stack(sequences[0]['generateds']).flatten().reshape(1, -1)
+        generateds = torch.stack(sequences[0]['generateds'])
         logits = torch.stack(sequences[0]['logits'])
 
         return logits, generateds
 
 class Seq2SeqModel(nn.Module):
     # Tie encoder and decoder together
-    def __init__(self, args, vocab_size):
+    def __init__(self, args, vocab_size, beam_width=0):
         super(Seq2SeqModel, self).__init__()
         self.encoder = EncoderModel(args)
         self.decoder = DecoderModel(args, vocab_size=vocab_size)
         self._state_hooks = {}
+        self.beam_width = beam_width
+        self.forward = self._forward if beam_width < 2 else self._forward_beam
 
-    def forward(self, utterances, utterance_lengths, chars, char_lengths, future=0):
+    def _forward(self, utterances, utterance_lengths, chars, char_lengths, future=0):
+
         keys, values, lengths = self.encoder(utterances, utterance_lengths)
         logits, attns, generated = self.decoder(chars, char_lengths, keys, values, lengths, future=future)
         self._state_hooks['attention'] = attns.permute(1, 0, 2).unsqueeze(1)
         return logits, generated, char_lengths
 
-    def forward_beam(self, utterances, utterance_lengths, chars, char_lengths, beam_width=5):
+    def _forward_beam(self, utterances, utterance_lengths, chars, char_lengths, future=0):
         keys, values, lengths = self.encoder(utterances, utterance_lengths)
-        logits, generated = self.decoder.forward_beam(chars, char_lengths, keys, values, lengths, beam_width=beam_width)
+        logits, generated = self.decoder.forward_beam(chars, char_lengths, keys, values, lengths, beam_width=self.beam_width)
         return logits, generated, char_lengths
 
 
-def write_transcripts(path, args, model, loader, charset):
+def write_transcripts(path, args, model, loader, charset, log_path):
     # Write CSV file
     model.eval()
     os.makedirs(os.path.dirname(os.path.abspath(path)), exist_ok=True)
@@ -466,6 +470,11 @@ def write_transcripts(path, args, model, loader, charset):
         transcripts = generate_transcripts(args, model, loader, charset)
         for i, t in enumerate(transcripts):
             w.writerow([i+1, t])
+            with open(log_path, 'a') as ouf:
+                ouf.write('%s\n' % t)
+            if (i+1) % 100 == 0:
+                print('Wrote %d Lines' % (i+1))
+    return transcripts
 
 
 class SequenceCrossEntropy(nn.CrossEntropyLoss):
@@ -505,6 +514,9 @@ def parse_args():
     parser.add_argument('--value-dim', type=int, default=128, metavar='N', help='hidden dimension')
     parser.add_argument('--key-dim', type=int, default=128, metavar='N', help='hidden dimension')
     parser.add_argument('--generator-length', type=int, default=250, metavar='N', help='maximum length to generate')
+
+    parser.add_argument('--test-mode', type=str, default='transcript', help='Test mode: transcript, cer, perp')
+    parser.add_argument('--beam-width', type=int, default=20, help='Beam search width')
 
     return parser.parse_args()
 
