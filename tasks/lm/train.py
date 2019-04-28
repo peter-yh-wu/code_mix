@@ -80,9 +80,9 @@ if __name__ == '__main__':
     train = dataset[: int(len(dataset)*0.8)]
     dev = dataset[int(len(dataset)*0.8) + 1: -1]
     vocab = Vocab(train)
-    print('  Training samples: {}'.format(len(train)))
-    print('  Dev samples:      {}'.format(len(dev)))
-    print('  Vocabulary size:  {}'.format(len(vocab)))
+    logger.info('  Training samples: {}'.format(len(train)))
+    logger.info('  Dev samples:      {}'.format(len(dev)))
+    logger.info('  Vocabulary size:  {}'.format(len(vocab)))
 
     # Initialize the model and the optimizer
     logger.info('Building model...')
