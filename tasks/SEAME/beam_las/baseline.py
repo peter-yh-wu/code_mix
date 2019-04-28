@@ -433,7 +433,7 @@ class DecoderModel(nn.Module):
 
         sequences.sort(key=lambda s: s['log_prob'], reverse=True)
 
-        generateds = torch.stack(sequences[0]['generateds']).flatten().reshape(1, -1)
+        generateds = torch.stack(sequences[0]['generateds'])
         logits = torch.stack(sequences[0]['logits'])
 
         return logits, generateds
@@ -506,6 +506,8 @@ def parse_args():
     parser.add_argument('--value-dim', type=int, default=128, metavar='N', help='hidden dimension')
     parser.add_argument('--key-dim', type=int, default=128, metavar='N', help='hidden dimension')
     parser.add_argument('--generator-length', type=int, default=250, metavar='N', help='maximum length to generate')
+
+    parser.add_argument('--test-mode', type=str, default='transcript', help='Test mode: transcript, cer, perp')
 
     return parser.parse_args()
 
