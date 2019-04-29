@@ -156,7 +156,7 @@ def cer(args, model, loader, charset, ys, truncate=True):
         norm_dists.append(norm_dist)
     return sum(norm_dists)/len(ys)
 
-def cer_from_transcripts(transcripts, ys, log_path, truncate=True, spaces=False):
+def cer_from_transcripts(transcripts, ys, log_path, truncate=True, spaces=True):
     '''
     Return:
         norm_dists: list of CER values
