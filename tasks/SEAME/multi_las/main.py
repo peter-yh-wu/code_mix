@@ -343,7 +343,7 @@ class SequenceCrossEntropy(nn.CrossEntropyLoss):
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--batch-size', type=int, default=32, metavar='N', help='batch size')
-    parser.add_argument('--save-directory', type=str, default='output/baseline/v1', help='output directory')
+    parser.add_argument('--save-directory', type=str, default='output/baseline/v2', help='output directory')
     parser.add_argument('--epochs', type=int, default=100, metavar='N', help='number of epochs')
     parser.add_argument('--patience', type=int, default=10, help='patience for early stopping')
     parser.add_argument('--num-workers', type=int, default=2, metavar='N', help='number of workers')
@@ -360,9 +360,9 @@ def parse_args():
     parser.add_argument('--num-heads', type=int, default=4, metavar='N', help='number of heads')
     parser.add_argument('--encoder-dim', type=int, default=512, metavar='N', help='hidden dimension')
         # was 256
-    parser.add_argument('--decoder-dim', type=int, default=512, metavar='N', help='hidden dimension')
-    parser.add_argument('--value-dim', type=int, default=128, metavar='N', help='hidden dimension')
-    parser.add_argument('--key-dim', type=int, default=128, metavar='N', help='hidden dimension')
+    parser.add_argument('--decoder-dim', type=int, default=256, metavar='N', help='hidden dimension')
+    parser.add_argument('--value-dim', type=int, default=64, metavar='N', help='hidden dimension')
+    parser.add_argument('--key-dim', type=int, default=64, metavar='N', help='hidden dimension')
     parser.add_argument('--generator-length', type=int, default=250, metavar='N', help='maximum length to generate')
 
     return parser.parse_args()
