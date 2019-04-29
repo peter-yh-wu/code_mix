@@ -278,6 +278,9 @@ class DecoderModel(nn.Module):
         Args:
             keys: shape (T, B, key_dim)
             values: shape (T, B, value_dim)
+
+        Return:
+            generateds: characters outputed by decoder (ints)
         '''
         mask = Variable(output_mask(values.size(0), utterance_lengths).transpose(0, 1)).float()
             # shape: (B, T)
