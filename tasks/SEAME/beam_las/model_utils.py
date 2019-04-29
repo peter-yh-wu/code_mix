@@ -161,9 +161,6 @@ def cer_from_transcripts(transcripts, ys, log_path, truncate=True):
     dists = []
     empty_ys = []
     for i, t in enumerate(transcripts):
-        if len(ys[i]) < 1:
-            empty_ys.append(i)
-            continue
         if truncate:
             dist = edit_distance(t[:len(ys[i])], ys[i])
         else:
@@ -174,7 +171,6 @@ def cer_from_transcripts(transcripts, ys, log_path, truncate=True):
         norm_dists.append(norm_dist)
         dists.append(dist)
 
-    print('Empty targets', empty_ys)
     return norm_dists, dists
 
 def print_log(s, log_path):
