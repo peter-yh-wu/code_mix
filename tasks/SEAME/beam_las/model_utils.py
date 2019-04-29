@@ -108,7 +108,7 @@ def decode_output(output, charset):
         chars.append(charset[o - 1])
     return "".join(chars)
 
-def generate_transcripts(args, model, loader, charset):
+def generate_transcripts(args, model, loader, charset, lm):
     '''Iteratively returns string transcriptions
     
     Return:
