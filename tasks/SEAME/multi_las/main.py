@@ -360,9 +360,9 @@ def parse_args():
     parser.add_argument('--num-heads', type=int, default=4, metavar='N', help='number of heads')
     parser.add_argument('--encoder-dim', type=int, default=512, metavar='N', help='hidden dimension')
         # was 256
-    parser.add_argument('--decoder-dim', type=int, default=512, metavar='N', help='hidden dimension')
-    parser.add_argument('--value-dim', type=int, default=128, metavar='N', help='hidden dimension')
-    parser.add_argument('--key-dim', type=int, default=128, metavar='N', help='hidden dimension')
+    parser.add_argument('--decoder-dim', type=int, default=256, metavar='N', help='hidden dimension')
+    parser.add_argument('--value-dim', type=int, default=64, metavar='N', help='hidden dimension')
+    parser.add_argument('--key-dim', type=int, default=64, metavar='N', help='hidden dimension')
     parser.add_argument('--generator-length', type=int, default=250, metavar='N', help='maximum length to generate')
 
     return parser.parse_args()
