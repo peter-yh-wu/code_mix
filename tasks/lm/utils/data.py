@@ -10,7 +10,35 @@ import multiprocessing as mp
 from glob import glob
 
 
-def extract_files_data(files):
+def read_seame_data(files):
+    data = []
+    for file in files:
+        with open(file, "r") as f:
+            lines = f.readlines()
+            for line in lines:
+                text = []
+                for token in line.split()[3:]:
+                    if not is_chinese_word(token) \
+                            or (is_chinese_word(token) and len(token) == 1):
+                        text.append(token)
+                    else:
+                        tmp = ""
+                        for char in token:
+                            if is_chinese_word(char):
+                                if len(tmp) > 0:
+                                    text.append(tmp)
+                                    tmp = ""
+                                text.append(char)
+                            else:
+                                tmp += char
+                assert (all(len(word) == 1 for word in text if is_chinese_word(word)))
+                if len(text) > 0 and not all([word in ['ZH', 'CS', 'EN'] for word in text]):
+                    data.append([word for word in ['<s>'] + text + ["<s>"] if word not in ['ZH', 'CS', 'EN']])
+
+    return data
+
+
+def read_qg_data(files):
     data = []
     for file in files:
         with open(file, "r") as f:
@@ -46,7 +74,7 @@ def read_dataset(data_path, num_workers=1):
 
     pool = mp.Pool(processes=num_workers)
 
-    extraction_result = pool.map(extract_files_data,
+    extraction_result = pool.map(read_seame_data,
                                  (all_file_paths[start_idx:start_idx+files_per_worker]
                                   for start_idx in range(0, num_files, files_per_worker)))
 

@@ -436,8 +436,13 @@ class DecoderModel(nn.Module):
 
         sequences.sort(key=lambda s: s['log_prob'], reverse=True)
 
-        generateds = torch.stack(sequences[0]['generateds'])
-        logits = torch.stack(sequences[0]['logits'])
+        # generateds = torch.stack(sequences[0]['generateds'])
+        # logits = torch.stack(sequences[0]['logits'])
+
+        generateds = torch.stack([torch.stack(seq['generateds']) for seq in sequences]).squeeze(2).transpose(0, 1)
+            # (L, Beam)
+        logits = torch.stack([torch.stack(seq['logits']) for seq in sequences]).squeeze(2).transpose(0, 1)
+            # (L, Beam, Embedding)
 
         return logits, generateds
 
@@ -472,7 +477,7 @@ def write_transcripts(path, args, model, loader, charset, log_path):
         w = csv.writer(f)
         transcripts = generate_transcripts(args, model, loader, charset)
         for i, t in enumerate(transcripts):
-            w.writerow([i+1, t])
+            w.writerow([i//model.beam_width + 1, t])
             with open(log_path, 'a') as ouf:
                 ouf.write('%s\n' % t)
             if (i+1) % 100 == 0:
