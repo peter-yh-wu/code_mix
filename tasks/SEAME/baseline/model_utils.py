@@ -170,7 +170,7 @@ def cer_from_transcripts(transcripts, ys, log_path, truncate=True, spaces=False)
         if not spaces:
             curr_t = curr_t.replace(' ', '')
             curr_y = curr_y.replace(' ', '')
-        if truncate:y
+        if truncate:
             curr_t = curr_t[:len(curr_y)]
         dist = edit_distance(curr_t, curr_y)
         norm_dist = dist / len(curr_y)
