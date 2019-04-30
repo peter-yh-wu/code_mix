@@ -129,7 +129,7 @@ def generate_transcripts(args, model, loader, charset):
         logits, generated, lens = model(uarray, ulens, l1array, llens)
         generated = generated.data.cpu().numpy()  # (L, BS)
         n = uarray.size(1)
-        for i in range(model.beam_width):
+        for i in range(min(1, model.beam_width)):
             transcript = decode_output(generated[:, i], charset)
             yield transcript
 
