@@ -278,6 +278,9 @@ class DecoderModel(nn.Module):
         Args:
             keys: shape (T, B, key_dim)
             values: shape (T, B, value_dim)
+
+        Return:
+            generateds: characters outputed by decoder (ints)
         '''
         mask = Variable(output_mask(values.size(0), utterance_lengths).transpose(0, 1)).float()
             # shape: (B, T)
@@ -522,6 +525,8 @@ def parse_args():
 
     parser.add_argument('--test-mode', type=str, default='transcript', help='Test mode: transcript, cer, perp')
     parser.add_argument('--beam-width', type=int, default=20, help='Beam search width')
+
+    parser.add_argument('--lm-path', type=str, default='', help='path to pre-trained language model')
 
     return parser.parse_args()
 

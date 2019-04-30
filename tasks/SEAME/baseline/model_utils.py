@@ -156,7 +156,7 @@ def cer(args, model, loader, charset, ys, truncate=True):
         norm_dists.append(norm_dist)
     return sum(norm_dists)/len(ys)
 
-def cer_from_transcripts(transcripts, ys, log_path, truncate=True):
+def cer_from_transcripts(transcripts, ys, log_path, truncate=True, spaces=True):
     '''
     Return:
         norm_dists: list of CER values
@@ -165,11 +165,15 @@ def cer_from_transcripts(transcripts, ys, log_path, truncate=True):
     norm_dists = []
     dists = []
     for i, t in enumerate(transcripts):
+        curr_t = t
+        curr_y = ys[i]
+        if not spaces:
+            curr_t = curr_t.replace(' ', '')
+            curr_y = curr_y.replace(' ', '')
         if truncate:
-            dist = edit_distance(t[:len(ys[i])], ys[i])
-        else:
-            dist = edit_distance(t, ys[i])
-        norm_dist = dist / len(ys[i])
+            curr_t = curr_t[:len(curr_y)]
+        dist = edit_distance(curr_t, curr_y)
+        norm_dist = dist / len(curr_y)
         with open(log_path, 'a') as ouf:
             ouf.write('dist: %.2f, norm_dist: %.2f\n' % (dist, norm_dist))
         norm_dists.append(norm_dist)
