@@ -26,7 +26,7 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
 from baseline import parse_args, Seq2SeqModel, write_transcripts
 from model_utils import *
-from lm.utils.data import las_to_lm
+from ...lm.utils.data import las_to_lm
 
 def main():
     args = parse_args()
@@ -125,7 +125,7 @@ def main():
                 targets = lm(sent)
                 loss = F.cross_entropy(las_to_lm(sent), targets)
                 res.append((loss, sent))
-            res = res.sort(key=lambda x: x[0], reverse=True)
+            res = res.sort(key=lambda x: x[0])
             transcripts[id] = [_[1] for _ in res]
 
     if 'cer' in args.test_mode:
