@@ -58,7 +58,7 @@ def closest_word(word, vocab, threshold=5, sub_thres=2):
             best_dist = curr_dist
             best_word = vocab_word
             prefix_len_best = len(os.path.commonprefix([word, vocab_word]))
-        elif curr_dist == best_dist and abs(len(best_word)-len(word)) > abs(len(vocab_word)-(word)):
+        elif curr_dist == best_dist and abs(len(best_word)-len(word)) > abs(len(vocab_word)-len(word)):
             prefix_len_vocab = len(os.path.commonprefix([word, vocab_word]))
             if prefix_len_best < prefix_len_vocab:
                 best_word = vocab_word
