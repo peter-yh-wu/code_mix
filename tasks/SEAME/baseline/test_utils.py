@@ -1,8 +1,6 @@
 '''
 Code to e.g. calculate MER
 
-Language ID code from Zimeng Qiu
-
 Peter Wu
 peterw1@andrew.cmu.edu
 '''
@@ -24,22 +22,6 @@ from torch.utils.data import DataLoader, Dataset
 
 from baseline import parse_args, Seq2SeqModel, write_transcripts
 from model_utils import *
-
-
-def is_english_word(word):
-    """
-    Decide if a token in a document is an valid English word.
-    For this project, we define valid English words to be ASCII strings that
-    contain only letters (both upper and lower case), single quotes ('),
-    double quotes ("), and hyphens (-). Double quotes may only appear at the
-    beginning or end of a token unless the beginning/end of a token is no-letter
-    characters. Double quotes cannot appear in the middle of letter characters.
-    (for example, "work"- is valid, but home"work and -bi"cycle- are not).
-    Tokens cannot be empty.
-    :param word: A token in document.
-    :return: Boolean value, True or False
-    """
-    return all([char in ["\"", "\'", "-", "*", "~", "*", "."] or char.isalpha() for char in word])
 
 
 def is_chinese_char(ch):
@@ -207,6 +189,10 @@ def main():
                 curr_s += ' '
         curr_s += next_ch
         transcripts_spaced.append(curr_s)
+    TRANSCRIPTS_SPACED_PATH = os.path.join(SAVE_DIR, 'transcripts_spaced.txt')
+    with open(TRANSCRIPTS_SPACED_PATH, 'w+') as ouf:
+        for l in transcripts_spaced:
+            ouf.write('%s\n' % l)
 
     transcripts_eng = []
     for transcript in transcripts_spaced:
@@ -215,6 +201,10 @@ def main():
             if not is_chinese_char(ch):
                 curr_s += ch
         transcripts_eng.append(curr_s)
+    TRANSCRIPTS_ENG_PATH = os.path.join(SAVE_DIR, 'transcripts_eng.txt')
+    with open(TRANSCRIPTS_ENG_PATH, 'w+') as ouf:
+        for l in transcripts_eng:
+            ouf.write('%s\n' % l)
 
     # auto-correct run
     t1 = time.time()
@@ -226,19 +216,18 @@ def main():
             test_eng_vocab.add(word)
 
     new_transcripts_autoc = []
-    for i, transcript_eng in enumerate(transcripts_eng):
-        transcript_eng_list = transcript_eng.split()
-        curr_s = transcripts_spaced[i]
-        curr_s_i = 0
-        for eng_word in transcript_eng_list:
-            curr_s_pre = curr_s[:curr_s_i]
-            curr_s_suf = curr_s[curr_s_i:]
-            new_word = eng_word
-            if eng_word not in test_eng_vocab:
-                new_word = spell(eng_word)
-            curr_s = curr_s_pre+curr_s_suf.replace(eng_word, new_word, 1)
-            curr_s_i = curr_s.find(eng_word, curr_s_i)+len(new_word)
-        new_transcripts_autoc.append(curr_s)
+    for i, l in enumerate(transcripts_spaced):
+        l_list = l.split()
+        for i, w in enumerate(l_list): # assumes that all words in the list are monolingual
+            if not is_chinese_char(w[0]):
+                new_word = w
+                if w not in test_eng_vocab:
+                    new_word = spell(w)
+                l_list[i] = new_word
+        new_l = ' '.join(l_list)
+        new_transcripts_autoc.append(new_l)
+        if (i+1) % 1000 == 0:
+            print('Processed %d Lines' % (i+1))
 
     AUTOCORRECT_PATH = os.path.join(SAVE_DIR, 'transcript_autoc.txt')
     with open(AUTOCORRECT_PATH, 'w+') as ouf:
@@ -249,19 +238,18 @@ def main():
     t1 = time.time()
     print('generating transcript_prox (at %.2f seconds)' % (t1-t0))
     new_transcripts_prox = []
-    for i, transcript_eng in enumerate(transcripts_eng):
-        transcript_eng_list = transcript_eng.split()
-        curr_s = transcripts_spaced[i]
-        curr_s_i = 0
-        for eng_word in transcript_eng_list:
-            curr_s_pre = curr_s[:curr_s_i]
-            curr_s_suf = curr_s[curr_s_i:]
-            new_word = eng_word
-            if eng_word not in test_eng_vocab:
-                new_word = closest_word(eng_word, test_eng_vocab)
-            curr_s = curr_s_pre+curr_s_suf.replace(eng_word, new_word, 1)
-            curr_s_i = curr_s.find(eng_word, curr_s_i)+len(new_word)
-        new_transcripts_prox.append(curr_s)
+    for i, l in enumerate(transcripts_spaced):
+        l_list = l.split()
+        for i, w in enumerate(l_list): # assumes that all words in the list are monolingual
+            if not is_chinese_char(w[0]):
+                new_word = w
+                if w not in test_eng_vocab:
+                    new_word = closest_word(eng_word, test_eng_vocab)
+                l_list[i] = new_word
+        new_l = ' '.join(l_list)
+        new_transcripts_prox.append(new_l)
+        if (i+1) % 1000 == 0:
+            print('Processed %d Lines' % (i+1))
 
     PROX_PATH = os.path.join(SAVE_DIR, 'transcript_prox.txt')
     with open(PROX_PATH, 'w+') as ouf:
@@ -272,21 +260,20 @@ def main():
     t1 = time.time()
     print('generating transcript_autoc_prox (at %.2f seconds)' % (t1-t0))
     new_transcripts_autoc_prox = []
-    for i, transcript_eng in enumerate(transcripts_eng):
-        transcript_eng_list = transcript_eng.split()
-        curr_s = transcripts_spaced[i]
-        curr_s_i = 0
-        for eng_word in transcript_eng_list:
-            curr_s_pre = curr_s[:curr_s_i]
-            curr_s_suf = curr_s[curr_s_i:]
-            new_word = eng_word
-            if eng_word not in test_eng_vocab:
-                new_word = spell(eng_word)
+    for i, l in enumerate(transcripts_spaced):
+        l_list = l.split()
+        for i, w in enumerate(l_list): # assumes that all words in the list are monolingual
+            if not is_chinese_char(w[0]):
+                new_word = w
+                if w not in test_eng_vocab:
+                    new_word = spell(w)
                 if new_word not in test_eng_vocab:
-                    new_word = closest_word(eng_word, test_eng_vocab)
-            curr_s = curr_s_pre+curr_s_suf.replace(eng_word, new_word, 1)
-            curr_s_i = curr_s.find(eng_word, curr_s_i)+len(new_word)
-        new_transcripts_autoc_prox.append(curr_s)
+                    new_word = closest_word(w, test_eng_vocab)
+                l_list[i] = new_word
+        new_l = ' '.join(l_list)
+        new_transcripts_autoc_prox.append(new_l)
+        if (i+1) % 1000 == 0:
+            print('Processed %d Lines' % (i+1))
 
     AUTOC_PROX_PATH = os.path.join(SAVE_DIR, 'transcript_autoc_prox.txt')
     with open(AUTOC_PROX_PATH, 'w+') as ouf:

@@ -156,28 +156,33 @@ def cer(args, model, loader, charset, ys, truncate=True):
         norm_dists.append(norm_dist)
     return sum(norm_dists)/len(ys)
 
-def cer_from_transcripts(transcripts, ys, log_path, truncate=True, spaces=True):
+def cer_from_transcripts(transcripts, ys, log_path, truncate=True, spaces='best'):
     '''
     Return:
         norm_dists: list of CER values
         dist: edit distances
+        spaces: no, yes, best (to account for incongruity in raw data spacing)
     '''
     norm_dists = []
     dists = []
     for i, t in enumerate(transcripts):
         curr_t = t
         curr_y = ys[i]
-        if not spaces:
-            curr_t = curr_t.replace(' ', '')
-            curr_y = curr_y.replace(' ', '')
+        curr_t_nos = curr_t.replace(' ', '')
+        curr_y_nos = curr_y.replace(' ', '')
         if truncate:
             curr_t = curr_t[:len(curr_y)]
+            curr_t_nos = curr_t_nos[:len(curr_y_nos)]
         dist = edit_distance(curr_t, curr_y)
         norm_dist = dist / len(curr_y)
+        dist_nos = edit_distance(curr_t_nos, curr_y_nos)
+        norm_dist_nos = dist_nos / len(curr_y_nos)
+        best_dist = min(dist, dist_nos)
+        best_norm = min(norm_dist, norm_dist_nos)
         with open(log_path, 'a') as ouf:
-            ouf.write('dist: %.2f, norm_dist: %.2f\n' % (dist, norm_dist))
-        norm_dists.append(norm_dist)
-        dists.append(dist)
+            ouf.write('dist: %.2f, norm_dist: %.2f\n' % (best_dist, best_norm))
+        norm_dists.append(best_norm)
+        dists.append(best_dist)
     return norm_dists, dists
 
 def print_log(s, log_path):
