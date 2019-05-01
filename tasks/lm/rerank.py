@@ -5,10 +5,11 @@ import torch.nn.functional as F
 
 from collections import defaultdict
 from utils.data import las_to_lm
+from configs import DEVICE
 
 
 def rerank(model_path, csv_path):
-    lm = torch.load(model_path, map_location='cpu')
+    lm = torch.load(model_path).to(DEVICE)
     lm.eval()
     transcripts = defaultdict(list)
     with open(csv_path, 'r') as csv_file:
@@ -19,7 +20,7 @@ def rerank(model_path, csv_path):
         res = []
         if any(len(sent) == 0 for sent in sents):
             for _ in sents:
-                print("{}, {}".format(id, _))
+                print("{} {}".format(id, _))
             continue
         for sent in sents:
             _sent = las_to_lm(sent.split())
