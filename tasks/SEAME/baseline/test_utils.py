@@ -114,7 +114,7 @@ def mk_map(vocab):
     curr_unicode_num = 0
     wmap = {}
     for w in vocab:
-        if is_chinese_char(w):
+        if is_chinese_char(w[0]):
             wmap[w] = w
         else:
             curr_unicode_ch = chr(curr_unicode_num)
@@ -200,7 +200,7 @@ def main():
 
     # auto-correct run
     t1 = time.time()
-    print('generating transcript_autoc (at %.2f seconds)' % (t1-t0))
+    print('generating transcripts (at %.2f seconds)' % (t1-t0))
     test_eng_vocab = set()
     for test_y in test_ys_eng:
         test_y_list = test_y.split()
@@ -259,6 +259,8 @@ def main():
     # ------------------------------------------
     # mer when vocab is test vocab
     # i.e. for new_transcripts_prox and new_transcripts_autoc_prox
+    t1 = time.time()
+    print('calculating mer values (at %.2f seconds)' % (t1-t0))
     test_vocab = set() # composed of single chinese characters and english words
     num_test_eng = 0
     for test_y in test_ys_spaced:
