@@ -399,6 +399,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--batch-size', type=int, default=32, metavar='N', help='batch size')
     parser.add_argument('--save-directory', type=str, default='output/baseline/v1', help='output directory')
+    parser.add_argument('--save-all', type=bool, default=False, help='saves all epoch models')
     parser.add_argument('--epochs', type=int, default=100, metavar='N', help='number of epochs')
     parser.add_argument('--patience', type=int, default=10, help='patience for early stopping')
     parser.add_argument('--num-workers', type=int, default=2, metavar='N', help='number of workers')
@@ -545,6 +546,10 @@ def main():
                 torch.save(model.state_dict(), CKPT_PATH)
             elif e - prev_best_epoch > args.patience:
                 break
+            if args.save_all:
+                epoch_model_path = os.path.join(args.save_directory, 'model_{:0>2d}.ckpt'.format(e+1))
+                torch.save(model.state_dict(), epoch_model_path)
+
             print_log('Val Loss: %f' % val_loss, LOG_PATH)
             print_log('Avg Val Perplexity: %f' % (tot_perp/len(train_loader.dataset)), LOG_PATH)
             cer_val = cer(args, model, dev_loader, charset, dev_ys)
