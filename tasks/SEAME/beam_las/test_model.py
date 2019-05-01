@@ -16,7 +16,9 @@ import os
 import sys
 import time
 import torch
+import torch.nn.functional as F
 
+from collections import defaultdict
 from torch import nn
 from torch.autograd import Variable
 from torch.nn.utils.rnn import PackedSequence
@@ -24,6 +26,7 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
 from baseline import parse_args, Seq2SeqModel, write_transcripts
 from model_utils import *
+
 
 def main():
     args = parse_args()

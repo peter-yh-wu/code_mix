@@ -181,14 +181,14 @@ if __name__ == '__main__':
                     os.mkdir('models')
                 except Exception as e:
                     print("Can not create models directory, %s" % e)
-            torch.save(model.state_dict(), "{}/best.pt".format(args.models_dir))
+            torch.save(model, "{}/best.pt".format(args.models_dir))
             best_dev = dev_loss
-        torch.save(model.state_dict(), "{}/epoch_{}.pt".format(args.models_dir, epoch))
 
         # Save the model
         logger.info("Epoch %r: dev loss/word=%.4f, ppl=%.4f (word/sec=%.2f)" % (
             epoch, dev_loss / dev_words, math.exp(dev_loss / dev_words),
             dev_words / (time.time() - start)))
+        torch.save(model.state_dict(), "{}/epoch_{}.pt".format(args.models_dir, epoch))
 
         # Generate a few sentences
         for _ in range(5):

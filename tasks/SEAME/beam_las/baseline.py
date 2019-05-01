@@ -526,6 +526,8 @@ def parse_args():
     parser.add_argument('--test-mode', type=str, default='transcript', help='Test mode: transcript, cer, perp')
     parser.add_argument('--beam-width', type=int, default=20, help='Beam search width')
 
+    parser.add_argument('--lm-path', type=str, default='', help='path to pre-trained language model')
+
     return parser.parse_args()
 
 def main():

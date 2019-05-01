@@ -6,8 +6,29 @@
 
 import os
 import re
+import torch
+
 import multiprocessing as mp
 from glob import glob
+
+
+def las_to_lm(sentence):
+    text = []
+    for token in sentence:
+        if not is_chinese_word(token) \
+                or (is_chinese_word(token) and len(token) == 1):
+            text.append(token)
+        else:
+            tmp = ""
+            for char in token:
+                if is_chinese_word(char):
+                    if len(tmp) > 0:
+                        text.append(tmp)
+                        tmp = ""
+                    text.append(char)
+                else:
+                    tmp += char
+    return ['<s>'] + text + ['<s>']
 
 
 def read_seame_data(files):
