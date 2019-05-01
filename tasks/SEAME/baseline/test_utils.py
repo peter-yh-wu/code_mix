@@ -46,7 +46,7 @@ def has_chinese_char(word, _from='\u4e00', _to='\u9fff'):
     return len(re.findall(r'[{}-{}]+'.format(_from, _to), word)) > 0
 
 
-def is_chinese_word(char):
+def is_chinese_word(word):
     ranges = [
         {"from": u"\u3300", "to": u"\u33ff"},  # compatibility ideographs
         {"from": u"\ufe30", "to": u"\ufe4f"},  # compatibility ideographs
@@ -58,7 +58,7 @@ def is_chinese_word(char):
         {"from": u"\u4e00", "to": u"\u9fff"},
         {"from": u"\u3400", "to": u"\u4dbf"},
     ]
-    return any([has_chinese_char(char, range['from'], range['to']) for range in ranges])
+    return any([has_chinese_char(word, range['from'], range['to']) for range in ranges])
 
 
 def closest_word(word, vocab, threshold=5):
@@ -150,186 +150,196 @@ def map_lines(lines, wmap):
     return new_lines
 
 
-test_ys = load_y_data('test') # 1-dim np array of strings
-SAVE_DIR = 'output/baseline/v1'
-CSV_PATH = os.path.join(SAVE_DIR, 'submission.csv')
-transcripts = []
-with open(CSV_PATH, 'r') as csvfile:
-    raw_csv = csv.reader(csvfile)
-    for row in raw_csv:
-        transcripts.append(row[1])
+def main():
+    t0 = time.time()
+    test_ys = load_y_data('test') # 1-dim np array of strings
+    SAVE_DIR = 'output/baseline/v1'
+    CSV_PATH = os.path.join(SAVE_DIR, 'submission.csv')
+    transcripts = []
+    with open(CSV_PATH, 'r') as csvfile:
+        raw_csv = csv.reader(csvfile)
+        for row in raw_csv:
+            transcripts.append(row[1])
+    t1 = time.time()
+    print('loaded data (%.2f seconds)' % (t1-t0))
 
-test_ys_spaced = []
-for test_y in test_ys:
-    curr_s = ''
-    next_ch = '' # for scope
-    for s_i, ch in enumerate(test_y[:-1]):
-        next_ch = test_y[s_i+1]
-        curr_s += ch
-        if (is_chinese_word(ch) and not is_chinese_word(next_ch)) or (is_chinese_word(next_ch) and not is_chinese_word(ch)):
-            curr_s += ' '
-    curr_s += next_ch
-    test_ys_spaced.append(curr_s)
-
-test_ys_eng = []
-for test_y in test_ys:
-    curr_s = ''
-    for ch in test_y:
-        if not is_chinese_word(ch):
+    test_ys_spaced = []
+    for test_y in test_ys:
+        curr_s = ''
+        next_ch = '' # for scope
+        for s_i, ch in enumerate(test_y[:-1]):
+            next_ch = test_y[s_i+1]
             curr_s += ch
-    test_ys_eng.append(curr_s)
-test_ys_eng = [l.strip() for l in test_ys_eng]
+            if (is_chinese_word(ch) and not is_chinese_word(next_ch)) or (is_chinese_word(next_ch) and not is_chinese_word(ch)):
+                curr_s += ' '
+        curr_s += next_ch
+        test_ys_spaced.append(curr_s)
 
-transcripts_spaced = []
-for transcript in transcripts:
-    curr_s = ''
-    next_ch = '' # for scope
-    for s_i, ch in enumerate(transcript[:-1]):
-        next_ch = transcript[s_i+1]
-        curr_s += ch
-        if (is_chinese_word(ch) and not is_chinese_word(next_ch)) or (is_chinese_word(next_ch) and not is_chinese_word(ch)):
-            curr_s += ' '
-    curr_s += next_ch
-    transcripts_spaced.append(curr_s)
+    test_ys_eng = []
+    for test_y in test_ys:
+        curr_s = ''
+        for ch in test_y:
+            if not is_chinese_word(ch):
+                curr_s += ch
+        test_ys_eng.append(curr_s)
+    test_ys_eng = [l.strip() for l in test_ys_eng]
 
-transcripts_eng = []
-for transcript in transcripts_spaced:
-    curr_s = ''
-    for ch in transcript:
-        if not is_chinese_word(ch):
+    transcripts_spaced = []
+    for transcript in transcripts:
+        curr_s = ''
+        next_ch = '' # for scope
+        for s_i, ch in enumerate(transcript[:-1]):
+            next_ch = transcript[s_i+1]
             curr_s += ch
-    transcripts_eng.append(curr_s)
+            if (is_chinese_word(ch) and not is_chinese_word(next_ch)) or (is_chinese_word(next_ch) and not is_chinese_word(ch)):
+                curr_s += ' '
+        curr_s += next_ch
+        transcripts_spaced.append(curr_s)
 
-# auto-correct run
-print('generating transcript_autoc')
-test_eng_vocab = set()
-for test_y in test_ys_eng:
-    test_y_list = test_y.split()
-    for word in test_y_list:
-        test_eng_vocab.add(word)
+    transcripts_eng = []
+    for transcript in transcripts_spaced:
+        curr_s = ''
+        for ch in transcript:
+            if not is_chinese_word(ch):
+                curr_s += ch
+        transcripts_eng.append(curr_s)
 
-new_transcripts_autoc = []
-for i, transcript_eng in enumerate(transcripts_eng):
-    transcript_eng_list = transcript_eng.split()
-    curr_s = transcripts_spaced[i]
-    curr_s_i = 0
-    for eng_word in transcript_eng_list:
-        curr_s_pre = curr_s[:curr_s_i]
-        curr_s_suf = curr_s[curr_s_i:]
-        new_word = eng_word
-        if eng_word not in test_eng_vocab:
-            new_word = spell(eng_word)
-        curr_s = curr_s_pre+curr_s_suf.replace(eng_word, new_word, 1)
-        curr_s_i = curr_s.find(eng_word, curr_s_i)+len(new_word)
-    new_transcripts_autoc.append(curr_s)
+    # auto-correct run
+    t1 = time.time()
+    print('generating transcript_autoc (at %.2f seconds)' % (t1-t0))
+    test_eng_vocab = set()
+    for test_y in test_ys_eng:
+        test_y_list = test_y.split()
+        for word in test_y_list:
+            test_eng_vocab.add(word)
 
-AUTOCORRECT_PATH = os.path.join(args.save_directory, 'transcript_autoc.txt')
-with open(AUTOCORRECT_PATH, 'w+') as ouf:
-    for curr_s in new_transcripts_autoc:
-        ouf.write('%s\n' % curr_s)
+    new_transcripts_autoc = []
+    for i, transcript_eng in enumerate(transcripts_eng):
+        transcript_eng_list = transcript_eng.split()
+        curr_s = transcripts_spaced[i]
+        curr_s_i = 0
+        for eng_word in transcript_eng_list:
+            curr_s_pre = curr_s[:curr_s_i]
+            curr_s_suf = curr_s[curr_s_i:]
+            new_word = eng_word
+            if eng_word not in test_eng_vocab:
+                new_word = spell(eng_word)
+            curr_s = curr_s_pre+curr_s_suf.replace(eng_word, new_word, 1)
+            curr_s_i = curr_s.find(eng_word, curr_s_i)+len(new_word)
+        new_transcripts_autoc.append(curr_s)
 
-# edit distance run
-print('generating transcript_prox')
-new_transcripts_prox = []
-for i, transcript_eng in enumerate(transcripts_eng):
-    transcript_eng_list = transcript_eng.split()
-    curr_s = transcripts_spaced[i]
-    curr_s_i = 0
-    for eng_word in transcript_eng_list:
-        curr_s_pre = curr_s[:curr_s_i]
-        curr_s_suf = curr_s[curr_s_i:]
-        new_word = eng_word
-        if eng_word not in test_eng_vocab:
-            new_word = closest_word(eng_word, test_eng_vocab)
-        curr_s = curr_s_pre+curr_s_suf.replace(eng_word, new_word, 1)
-        curr_s_i = curr_s.find(eng_word, curr_s_i)+len(new_word)
-    new_transcripts_prox.append(curr_s)
+    AUTOCORRECT_PATH = os.path.join(args.save_directory, 'transcript_autoc.txt')
+    with open(AUTOCORRECT_PATH, 'w+') as ouf:
+        for curr_s in new_transcripts_autoc:
+            ouf.write('%s\n' % curr_s)
 
-PROX_PATH = os.path.join(args.save_directory, 'transcript_prox.txt')
-with open(PROX_PATH, 'w+') as ouf:
-    for curr_s in new_transcripts_prox:
-        ouf.write('%s\n' % curr_s)
-
-# edit distance plus auto-correct run
-print('generating transcript_autoc_prox')
-new_transcripts_autoc_prox = []
-for i, transcript_eng in enumerate(transcripts_eng):
-    transcript_eng_list = transcript_eng.split()
-    curr_s = transcripts_spaced[i]
-    curr_s_i = 0
-    for eng_word in transcript_eng_list:
-        curr_s_pre = curr_s[:curr_s_i]
-        curr_s_suf = curr_s[curr_s_i:]
-        new_word = eng_word
-        if eng_word not in test_eng_vocab:
-            new_word = spell(eng_word)
-            if new_word not in test_eng_vocab:
+    # edit distance run
+    t1 = time.time()
+    print('generating transcript_prox (at %.2f seconds)' % (t1-t0))
+    new_transcripts_prox = []
+    for i, transcript_eng in enumerate(transcripts_eng):
+        transcript_eng_list = transcript_eng.split()
+        curr_s = transcripts_spaced[i]
+        curr_s_i = 0
+        for eng_word in transcript_eng_list:
+            curr_s_pre = curr_s[:curr_s_i]
+            curr_s_suf = curr_s[curr_s_i:]
+            new_word = eng_word
+            if eng_word not in test_eng_vocab:
                 new_word = closest_word(eng_word, test_eng_vocab)
-        curr_s = curr_s_pre+curr_s_suf.replace(eng_word, new_word, 1)
-        curr_s_i = curr_s.find(eng_word, curr_s_i)+len(new_word)
-    new_transcripts_autoc_prox.append(curr_s)
+            curr_s = curr_s_pre+curr_s_suf.replace(eng_word, new_word, 1)
+            curr_s_i = curr_s.find(eng_word, curr_s_i)+len(new_word)
+        new_transcripts_prox.append(curr_s)
 
-AUTOC_PROX_PATH = os.path.join(args.save_directory, 'transcript_autoc_prox.txt')
-with open(AUTOC_PROX_PATH, 'w+') as ouf:
-    for curr_s in new_transcripts_autoc_prox:
-        ouf.write('%s\n' % curr_s)
+    PROX_PATH = os.path.join(args.save_directory, 'transcript_prox.txt')
+    with open(PROX_PATH, 'w+') as ouf:
+        for curr_s in new_transcripts_prox:
+            ouf.write('%s\n' % curr_s)
 
-# ------------------------------------------
-# mer when vocab is test vocab
-# i.e. for new_transcripts_prox and new_transcripts_autoc_prox
-test_vocab = set() # composed of single chinese characters and english words
-num_test_eng = 0
-for test_y in test_ys_spaced:
-    test_y_list = test_y.split()
-    for word in test_y_list:
-        if is_chinese_word(word):
-            for ch in word:
-                test_vocab.add(ch)
-        else:
-            test_vocab.add(word)
-            num_test_eng += 1
-test_vocab.add(' ')
-test_map = mk_map(test_vocab)
+    # edit distance plus auto-correct run
+    t1 = time.time()
+    print('generating transcript_autoc_prox (at %.2f seconds)' % (t1-t0))
+    new_transcripts_autoc_prox = []
+    for i, transcript_eng in enumerate(transcripts_eng):
+        transcript_eng_list = transcript_eng.split()
+        curr_s = transcripts_spaced[i]
+        curr_s_i = 0
+        for eng_word in transcript_eng_list:
+            curr_s_pre = curr_s[:curr_s_i]
+            curr_s_suf = curr_s[curr_s_i:]
+            new_word = eng_word
+            if eng_word not in test_eng_vocab:
+                new_word = spell(eng_word)
+                if new_word not in test_eng_vocab:
+                    new_word = closest_word(eng_word, test_eng_vocab)
+            curr_s = curr_s_pre+curr_s_suf.replace(eng_word, new_word, 1)
+            curr_s_i = curr_s.find(eng_word, curr_s_i)+len(new_word)
+        new_transcripts_autoc_prox.append(curr_s)
 
-transcripts_prox_uni = map_lines(new_transcripts_prox, test_map)
-test_ys_spaced_uni = map_lines(test_ys_spaced, test_map)
-PROX_MER_LOG_PATH = os.path.join(args.save_directory, 'prox_mer_log.txt')
-PROX_MER_PATH = os.path.join(args.save_directory, 'prox_mer.npy')
-PROX_DIST_PATH = os.path.join(args.save_directory, 'prox_dist.npy')
-prox_norm_dists, prox_dists = cer_from_transcripts(transcripts_prox_uni, test_ys_spaced_uni, PROX_MER_LOG_PATH)
-np.save(PROX_MER_PATH, prox_norm_dists)
-np.save(PROX_DIST_PATH, prox_dists)
-print('prox avg cer:', np.mean(prox_norm_dists))
+    AUTOC_PROX_PATH = os.path.join(args.save_directory, 'transcript_autoc_prox.txt')
+    with open(AUTOC_PROX_PATH, 'w+') as ouf:
+        for curr_s in new_transcripts_autoc_prox:
+            ouf.write('%s\n' % curr_s)
 
-transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, test_map)
-AUTOC_PROX_MER_LOG_PATH = os.path.join(args.save_directory, 'autoc_prox_mer_log.txt')
-AUTOC_PROX_MER_PATH = os.path.join(args.save_directory, 'autoc_prox_mer.npy')
-AUTOC_PROX_DIST_PATH = os.path.join(args.save_directory, 'autoc_prox_dist.npy')
-autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_spaced_uni, AUTOC_PROX_MER_LOG_PATH)
-np.save(AUTOC_PROX_MER_PATH, autoc_prox_norm_dists)
-np.save(AUTOC_PROX_DIST_PATH, autoc_prox_dists)
-print('autoc prox avg cer:', np.mean(autoc_prox_norm_dists))
+    # ------------------------------------------
+    # mer when vocab is test vocab
+    # i.e. for new_transcripts_prox and new_transcripts_autoc_prox
+    test_vocab = set() # composed of single chinese characters and english words
+    num_test_eng = 0
+    for test_y in test_ys_spaced:
+        test_y_list = test_y.split()
+        for word in test_y_list:
+            if is_chinese_word(word):
+                for ch in word:
+                    test_vocab.add(ch)
+            else:
+                test_vocab.add(word)
+                num_test_eng += 1
+    test_vocab.add(' ')
+    test_map = mk_map(test_vocab)
 
-# ------------------------------------------
-# mer when vocab includes autoc
-# i.e. for new_transcripts_autoc
-autoc_vocab = test_vocab.copy()
-for test_y in new_transcripts_autoc:
-    test_y_list = test_y.split()
-    for word in test_y_list:
-        if is_chinese_word(word):
-            for ch in word:
-                autoc_vocab.add(ch)
-        else:
-            autoc_vocab.add(word)
-autoc_map = mk_map(autoc_vocab)
+    transcripts_prox_uni = map_lines(new_transcripts_prox, test_map)
+    test_ys_spaced_uni = map_lines(test_ys_spaced, test_map)
+    PROX_MER_LOG_PATH = os.path.join(args.save_directory, 'prox_mer_log.txt')
+    PROX_MER_PATH = os.path.join(args.save_directory, 'prox_mer.npy')
+    PROX_DIST_PATH = os.path.join(args.save_directory, 'prox_dist.npy')
+    prox_norm_dists, prox_dists = cer_from_transcripts(transcripts_prox_uni, test_ys_spaced_uni, PROX_MER_LOG_PATH)
+    np.save(PROX_MER_PATH, prox_norm_dists)
+    np.save(PROX_DIST_PATH, prox_dists)
+    print('prox avg cer:', np.mean(prox_norm_dists))
 
-transcripts_autoc_uni = map_lines(new_transcripts_autoc, autoc_map)
-test_ys_spaced_autoc_uni = map_lines(test_ys_spaced, autoc_map)
-AUTOC_MER_LOG_PATH = os.path.join(args.save_directory, 'autoc_mer_log.txt')
-AUTOC_MER_PATH = os.path.join(args.save_directory, 'autoc_mer.npy')
-AUTOC_DIST_PATH = os.path.join(args.save_directory, 'autoc_dist.npy')
-autoc_norm_dists, autoc_dists = cer_from_transcripts(transcripts_autoc_uni, test_ys_spaced_autoc_uni, AUTOC_MER_LOG_PATH)
-np.save(AUTOC_MER_PATH, autoc_norm_dists)
-np.save(AUTOC_DIST_PATH, autoc_dists)
-print('autoc avg cer:', np.mean(autoc_prox_norm_dists))
+    transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, test_map)
+    AUTOC_PROX_MER_LOG_PATH = os.path.join(args.save_directory, 'autoc_prox_mer_log.txt')
+    AUTOC_PROX_MER_PATH = os.path.join(args.save_directory, 'autoc_prox_mer.npy')
+    AUTOC_PROX_DIST_PATH = os.path.join(args.save_directory, 'autoc_prox_dist.npy')
+    autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_spaced_uni, AUTOC_PROX_MER_LOG_PATH)
+    np.save(AUTOC_PROX_MER_PATH, autoc_prox_norm_dists)
+    np.save(AUTOC_PROX_DIST_PATH, autoc_prox_dists)
+    print('autoc prox avg cer:', np.mean(autoc_prox_norm_dists))
+
+    # ------------------------------------------
+    # mer when vocab includes autoc
+    # i.e. for new_transcripts_autoc
+    autoc_vocab = test_vocab.copy()
+    for test_y in new_transcripts_autoc:
+        test_y_list = test_y.split()
+        for word in test_y_list:
+            if is_chinese_word(word):
+                for ch in word:
+                    autoc_vocab.add(ch)
+            else:
+                autoc_vocab.add(word)
+    autoc_map = mk_map(autoc_vocab)
+
+    transcripts_autoc_uni = map_lines(new_transcripts_autoc, autoc_map)
+    test_ys_spaced_autoc_uni = map_lines(test_ys_spaced, autoc_map)
+    AUTOC_MER_LOG_PATH = os.path.join(args.save_directory, 'autoc_mer_log.txt')
+    AUTOC_MER_PATH = os.path.join(args.save_directory, 'autoc_mer.npy')
+    AUTOC_DIST_PATH = os.path.join(args.save_directory, 'autoc_dist.npy')
+    autoc_norm_dists, autoc_dists = cer_from_transcripts(transcripts_autoc_uni, test_ys_spaced_autoc_uni, AUTOC_MER_LOG_PATH)
+    np.save(AUTOC_MER_PATH, autoc_norm_dists)
+    np.save(AUTOC_DIST_PATH, autoc_dists)
+    print('autoc avg cer:', np.mean(autoc_prox_norm_dists))
+
+if __name__ == '__main__':
+    main()
