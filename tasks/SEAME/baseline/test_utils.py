@@ -44,7 +44,7 @@ def is_chinese_char(ch):
         return False
 
 
-def closest_word(word, vocab, threshold=5):
+def closest_word(word, vocab, threshold=5, sub_thres=2):
     '''Finds closest word in the vocabulary (w.r.t. edit distance)
 
     Returns 2 words if no closest word found
@@ -58,38 +58,42 @@ def closest_word(word, vocab, threshold=5):
             best_dist = curr_dist
             best_word = vocab_word
             prefix_len_best = len(os.path.commonprefix([word, vocab_word]))
-        elif curr_dist == best_dist:
+        elif curr_dist == best_dist and abs(len(best_word)-len(word)) > abs(len(vocab_word)-(word)):
             prefix_len_vocab = len(os.path.commonprefix([word, vocab_word]))
             if prefix_len_best < prefix_len_vocab:
                 best_word = vocab_word
                 prefix_len_best = prefix_len_vocab
-    if best_dist > 5: # margin of error is 1 for each subword
+    if best_dist > 5: # margin of error is sub_thres for each subword
         for i in range(len(word)-1):
             word1 = word[:i+1]
             word2 = word[i+1:]
-            curr_dist = 0
+            curr_dist = 1000000000
             vocab_word1 = word1
             for vocab_word in vocab:
                 if word1 == vocab_word:
                     vocab_word1 = vocab_word
+                    curr_dist = 0
                     break
-                if edit_distance(word1, vocab_word) == 1:
+                dist1 = edit_distance(word1, vocab_word)
+                if dist1 < curr_dist:
                     vocab_word1 = vocab_word
-                    curr_dist = 1
-                    break
+                    curr_dist = dist1
             vocab_word2 = word2
-            if curr_dist <= 1:
+            if curr_dist <= sub_thres:
+                curr_dist2 = 1000000000
                 for vocab_word in vocab:
                     if word2 == vocab_word:
                         vocab_word2 = vocab_word
+                        curr_dist2 = 0
                         break
-                    if edit_distance(word2, vocab_word) == 1:
+                    dist2 = edit_distance(word2, vocab_word)
+                    if dist2 < curr_dist2:
                         vocab_word2 = vocab_word
-                        curr_dist += 1
-                        break
-            if curr_dist < best_dist:
-                best_word = word1+' '+word2
-                best_dist = curr_dist
+                        curr_dist2 = dist2
+                curr_dist += curr_dist2
+                if curr_dist < best_dist:
+                    best_word = vocab_word1+' '+vocab_word2
+                    best_dist = curr_dist
     return best_word
 
 
