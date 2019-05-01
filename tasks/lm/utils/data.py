@@ -7,16 +7,17 @@
 import os
 import re
 import torch
+
 import multiprocessing as mp
 from glob import glob
 
 
-def las_to_lm(sentence, model):
+def las_to_lm(sentence):
     text = []
     for token in sentence:
         if not is_chinese_word(token) \
                 or (is_chinese_word(token) and len(token) == 1):
-            text.append(model.vocab[token])
+            text.append(token)
         else:
             tmp = ""
             for char in token:
@@ -24,10 +25,10 @@ def las_to_lm(sentence, model):
                     if len(tmp) > 0:
                         text.append(tmp)
                         tmp = ""
-                    text.append(model.vocab[char])
+                    text.append(char)
                 else:
                     tmp += char
-    return torch.LongTensor(text)
+    return ['<s>'] + text + ['<s>']
 
 
 def read_seame_data(files):

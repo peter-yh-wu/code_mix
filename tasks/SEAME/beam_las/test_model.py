@@ -26,7 +26,7 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
 from baseline import parse_args, Seq2SeqModel, write_transcripts
 from model_utils import *
-from ...lm.utils.data import las_to_lm
+
 
 def main():
     args = parse_args()
@@ -109,24 +109,6 @@ def main():
         t1 = time.time()
         print("Finshed Writing Transcripts")
         print('%.2f Seconds' % (t1-t0))
-
-    if 'rerank' in args.test_mode and len(args.lm_path) > 0:
-        print("Reranking")
-        lm = torch.load(args.lm_path)
-        lm.eval()
-        transcripts = defaultdict
-        with open(CSV_PATH, 'r') as csvfile:
-            raw_csv = csv.reader(csvfile)
-            for row in raw_csv:
-                transcripts[row[0]].append(row[1].strip())
-        for id, sents in transcripts.items():
-            res = []
-            for sent in sents:
-                targets = lm(sent)
-                loss = F.cross_entropy(las_to_lm(sent), targets)
-                res.append((loss, sent))
-            res = res.sort(key=lambda x: x[0])
-            transcripts[id] = [_[1] for _ in res]
 
     if 'cer' in args.test_mode:
         print('calculating cer values')
