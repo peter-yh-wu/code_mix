@@ -5,7 +5,7 @@ import torch.nn.functional as F
 
 from collections import defaultdict
 from utils.data import las_to_lm
-from configs import DEVICE
+from configs import DEVICE, rr_agrs, args
 
 
 def rerank(model_path, csv_path):
@@ -36,8 +36,4 @@ def rerank(model_path, csv_path):
 
 
 if __name__ == '__main__':
-    rr_parser = argparse.ArgumentParser(description='reranking parameters.')
-    rr_parser.add_argument('--lm-path', help='language model path', type=str)
-    rr_parser.add_argument('--res-path', help='preliminary beam search result path', type=str)
-    args = rr_parser.parse_args()
-    reranked = rerank('models/best_hd_1024.pt', 'data/submission_beam_5_all.csv')
+    reranked = rerank(rr_agrs.lm_path, rr_agrs.res_path)

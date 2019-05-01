@@ -2,6 +2,7 @@ import argparse
 import torch
 from datetime import datetime
 
+# training script parser
 parser = argparse.ArgumentParser(description='Language model parameters.')
 parser.add_argument('--epoch', help='maximum training epochs', type=int, default=20)
 parser.add_argument('--model', help='choose language model', default='lstm')
@@ -25,8 +26,13 @@ parser.add_argument('--models_dir', help='save model dir', type=str, default='mo
 parser.add_argument('--log_dir', help='logging dir', type=str, default='log')
 parser.add_argument('--gpu_id', help='GPU to be used if any', type=int, default=0)
 parser.add_argument('--qg', help='use QG dataset for data augumentation', type=bool, default=False)
-
 args = parser.parse_args()
+
+# reranking script parser
+rr_parser = argparse.ArgumentParser(description='reranking parameters.')
+rr_parser.add_argument('--lm-path', help='language model path', type=str)
+rr_parser.add_argument('--res-path', help='preliminary beam search result path', type=str)
+rr_args = rr_parser.parse_args()
 
 # running configurations
 log_dir = args.log_dir
