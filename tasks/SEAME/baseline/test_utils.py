@@ -201,6 +201,7 @@ for transcript in transcripts_spaced:
     transcripts_eng.append(curr_s)
 
 # auto-correct run
+print('generating transcript_autoc')
 test_eng_vocab = set()
 for test_y in test_ys_eng:
     test_y_list = test_y.split()
@@ -219,7 +220,7 @@ for i, transcript_eng in enumerate(transcripts_eng):
         if eng_word not in test_eng_vocab:
             new_word = spell(eng_word)
         curr_s = curr_s_pre+curr_s_suf.replace(eng_word, new_word, 1)
-        curr_s_i = curr_s.find(eng_word, curr_s_i)+len(spell(eng_word))
+        curr_s_i = curr_s.find(eng_word, curr_s_i)+len(new_word)
     new_transcripts_autoc.append(curr_s)
 
 AUTOCORRECT_PATH = os.path.join(args.save_directory, 'transcript_autoc.txt')
@@ -228,6 +229,7 @@ with open(AUTOCORRECT_PATH, 'w+') as ouf:
         ouf.write('%s\n' % curr_s)
 
 # edit distance run
+print('generating transcript_prox')
 new_transcripts_prox = []
 for i, transcript_eng in enumerate(transcripts_eng):
     transcript_eng_list = transcript_eng.split()
@@ -249,6 +251,7 @@ with open(PROX_PATH, 'w+') as ouf:
         ouf.write('%s\n' % curr_s)
 
 # edit distance plus auto-correct run
+print('generating transcript_autoc_prox')
 new_transcripts_autoc_prox = []
 for i, transcript_eng in enumerate(transcripts_eng):
     transcript_eng_list = transcript_eng.split()
