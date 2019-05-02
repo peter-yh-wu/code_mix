@@ -28,7 +28,7 @@ def las_to_lm(sentence):
                     text.append(char)
                 else:
                     tmp += char
-    return ['<s>'] + text + ['<s>']
+    return text + ['<s>']
 
 
 def read_seame_data(files):
