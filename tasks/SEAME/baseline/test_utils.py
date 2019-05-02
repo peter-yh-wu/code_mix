@@ -307,8 +307,8 @@ def main():
                 autoc_prox_vocab.add(word)
     autoc_prox_map = mk_map(autoc_prox_vocab)
 
-    transcripts_prox_uni = map_lines(new_transcripts_prox, prox_vocab)
-    test_ys_spaced_uni = map_lines(test_ys_spaced, prox_vocab)
+    transcripts_prox_uni = map_lines(new_transcripts_prox, prox_map)
+    test_ys_spaced_uni = map_lines(test_ys_spaced, prox_map)
     PROX_MER_LOG_PATH = os.path.join(SAVE_DIR, 'prox_mer_log.txt')
     PROX_MER_PATH = os.path.join(SAVE_DIR, 'prox_mer.npy')
     PROX_DIST_PATH = os.path.join(SAVE_DIR, 'prox_dist.npy')
@@ -319,8 +319,8 @@ def main():
     t1 = time.time()
     print('At %.2f seconds' % (t1-t0))
 
-    transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, autoc_prox_vocab)
-    test_ys_spaced_autoc_prox_uni = map_lines(test_ys_spaced, autoc_prox_vocab)
+    transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, autoc_prox_map)
+    test_ys_spaced_autoc_prox_uni = map_lines(test_ys_spaced, autoc_prox_map)
     AUTOC_PROX_MER_LOG_PATH = os.path.join(SAVE_DIR, 'autoc_prox_mer_log.txt')
     AUTOC_PROX_MER_PATH = os.path.join(SAVE_DIR, 'autoc_prox_mer.npy')
     AUTOC_PROX_DIST_PATH = os.path.join(SAVE_DIR, 'autoc_prox_dist.npy')
