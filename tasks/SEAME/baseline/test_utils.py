@@ -285,8 +285,30 @@ def main():
     test_vocab.add(' ')
     test_map = mk_map(test_vocab)
 
-    transcripts_prox_uni = map_lines(new_transcripts_prox, test_map)
-    test_ys_spaced_uni = map_lines(test_ys_spaced, test_map)
+    prox_vocab = test_vocab.copy()
+    for l in new_transcripts_prox:
+        l_list = l.split()
+        for word in l_list:
+            if is_chinese_char(word[0]):
+                for ch in word:
+                    prox_vocab.add(ch)
+            else:
+                prox_vocab.add(word)
+    prox_map = mk_map(prox_vocab)
+
+    autoc_prox_vocab = test_vocab.copy()
+    for l in new_transcripts_autoc_prox:
+        l_list = l.split()
+        for word in l_list:
+            if is_chinese_char(word[0]):
+                for ch in word:
+                    autoc_prox_vocab.add(ch)
+            else:
+                autoc_prox_vocab.add(word)
+    autoc_prox_map = mk_map(autoc_prox_vocab)
+
+    transcripts_prox_uni = map_lines(new_transcripts_prox, prox_vocab)
+    test_ys_spaced_uni = map_lines(test_ys_spaced, prox_vocab)
     PROX_MER_LOG_PATH = os.path.join(SAVE_DIR, 'prox_mer_log.txt')
     PROX_MER_PATH = os.path.join(SAVE_DIR, 'prox_mer.npy')
     PROX_DIST_PATH = os.path.join(SAVE_DIR, 'prox_dist.npy')
@@ -297,11 +319,12 @@ def main():
     t1 = time.time()
     print('At %.2f seconds' % (t1-t0))
 
-    transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, test_map)
+    transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, autoc_prox_vocab)
+    test_ys_spaced_autoc_prox_uni = map_lines(test_ys_spaced, autoc_prox_vocab)
     AUTOC_PROX_MER_LOG_PATH = os.path.join(SAVE_DIR, 'autoc_prox_mer_log.txt')
     AUTOC_PROX_MER_PATH = os.path.join(SAVE_DIR, 'autoc_prox_mer.npy')
     AUTOC_PROX_DIST_PATH = os.path.join(SAVE_DIR, 'autoc_prox_dist.npy')
-    autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_spaced_uni, AUTOC_PROX_MER_LOG_PATH)
+    autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_spaced_autoc_prox_uni, AUTOC_PROX_MER_LOG_PATH)
     np.save(AUTOC_PROX_MER_PATH, autoc_prox_norm_dists)
     np.save(AUTOC_PROX_DIST_PATH, autoc_prox_dists)
     print('autoc prox avg cer:', np.mean(autoc_prox_norm_dists))
