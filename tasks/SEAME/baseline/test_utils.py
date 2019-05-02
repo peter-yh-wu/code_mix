@@ -386,10 +386,13 @@ def get_topk_cer(save_dir='output/baseline/beam'):
     for y in test_ys:
         test_ys_rep += [y]*num_beams
 
+    print('computing CER for all test samples (at %.2f seconds)' % (t1-t0))
+
     CER_LOG_PATH = os.path.join(save_dir, 'cer_log.txt')
     raw_norm_dists, raw_dists = cer_from_transcripts(raw_beams, test_ys_rep, CER_LOG_PATH)
     CER_PATH = os.path.join(save_dir, 'test_cer.npy')
     DIST_PATH = os.path.join(save_dir, 'test_dist.npy')
+    raw_norm_dists = np.array(raw_norm_dists)
     norm_dists = raw_norm_dists.reshape((len(test_ys), num_beams))
     dists = raw_dists.reshape((len(test_ys), num_beams))
     np.save(CER_PATH, norm_dists)
