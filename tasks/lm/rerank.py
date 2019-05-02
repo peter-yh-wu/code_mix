@@ -48,4 +48,4 @@ def rerank(model_path, csv_path):
 
 
 if __name__ == '__main__':
-    reranked = rerank('models/best_hd_1024.pt', 'data/submission_beam_5_all.csv')
+    reranked = rerank('models/best_hd_1024_full.pt', 'data/submission_beam_5_all.csv')
