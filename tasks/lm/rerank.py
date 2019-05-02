@@ -20,12 +20,13 @@ def rerank(model_path, csv_path):
     with open(csv_path, 'r') as csv_file:
         raw_csv = csv.reader(csv_file)
         for row in raw_csv:
-            transcripts[row[0]].append(row[1])
-    for id, sents in transcripts.items():
+            transcripts[int(row[0])].append(row[1])
+    for id, sents in sorted(transcripts.items(), key=lambda x: x[0]):
         res = []
         if any(len(sent) == 0 for sent in sents):
-            for _ in sents:
-                print("{} {}".format(id, _))
+            print("{},{}".format(id, sents[0]))
+            # for _ in sents:
+            #     print("{} {}".format(id, _))
             continue
         for sent in sents:
             _sent = las_to_lm(sent.split())
@@ -39,11 +40,12 @@ def rerank(model_path, csv_path):
             res.append((loss, sent))
         res.sort(key=lambda x: x[0])
         transcripts[id] = [_[1] for _ in res]
-        for _ in transcripts[id]:
-            print("{}, {}".format(id, _))
+        print("{},{}".format(id, transcripts[id][0]))
+        # for _ in transcripts[id]:
+        #     print("{} {}".format(id, _))
         lm.detach()
     return transcripts
 
 
 if __name__ == '__main__':
-    reranked = rerank('models/best_hd_1024.pt', 'data/submission_beam_5_all.csv')
+    reranked = rerank('models/best_hd_1024_full.pt', 'data/submission_beam_5_all.csv')
