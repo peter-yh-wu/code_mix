@@ -138,7 +138,7 @@ def map_lines(lines, wmap):
             if is_chinese_char(w[0]):
                 new_l_list.append(w)
             else:
-                new_l_list.append(wmap(w))
+                new_l_list.append(wmap[w])
         new_l = ' '.join(new_l_list)
         new_lines.append(new_l)
     return new_lines
