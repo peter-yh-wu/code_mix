@@ -170,6 +170,10 @@ def main():
                 curr_s += ' '
         curr_s += next_ch
         test_ys_spaced.append(curr_s)
+    YS_SPACED_PATH = os.path.join(SAVE_DIR, 'ys_spaced.txt')
+    with open(YS_SPACED_PATH, 'w+') as ouf:
+        for l in test_ys_spaced:
+            ouf.write('%s\n' % l)
 
     test_ys_eng = []
     for test_y in test_ys:
