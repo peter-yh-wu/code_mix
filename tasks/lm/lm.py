@@ -54,12 +54,12 @@ class DualLSTM(nn.Module):
         self.lstm_en = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=False).to(DEVICE)
         self.lstm_cn = nn.LSTMCell(input_size=embed_size*n_gram, hidden_size=hidden_size, bias=False).to(DEVICE)
 
-        # self.fc = nn.Sequential(
-        #     nn.Linear(2*hidden_size, 2*hidden_size),
-        #     nn.ReLU(),
-        #     nn.Dropout(p=dropout),
-        #     nn.Linear(2*hidden_size, vocab_size)
-        # ).to(DEVICE)
+        self.fc = nn.Sequential(
+            nn.Linear(2*hidden_size, 2*hidden_size),
+            nn.ReLU(),
+            nn.Dropout(p=dropout),
+            nn.Linear(2*hidden_size, vocab_size)
+        ).to(DEVICE)
 
         # [batch_size, hidden_size]
         self.hidden_en = self.init_hidden()
@@ -87,11 +87,11 @@ class DualLSTM(nn.Module):
             else:
                 self.hidden_cn, self.cell = self.lstm_cn(sent_embed[i], (self.hidden_cn, self.cell))
                 self.hidden_en, self.cell = self.lstm_en(self.dummy_tok, (self.hidden_cn, self.cell))
-            lstm_out.append(self.hidden_en + self.hidden_cn)
+            lstm_out.append(torch.cat((self.hidden_en, self.hidden_cn), dim=1))
         lstm_out = torch.stack(lstm_out)
 
-        # prediction = self.fc(lstm_out.squeeze(1))
-        return lstm_out.squeeze(1)
+        prediction = self.fc(torch.squeeze(lstm_out))
+        return prediction
 
     def embed_sentence(self, sentence):
         embedding = []

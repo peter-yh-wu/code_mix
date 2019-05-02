@@ -24,8 +24,9 @@ def rerank(model_path, csv_path):
     for id, sents in transcripts.items():
         res = []
         if any(len(sent) == 0 for sent in sents):
-            for _ in sents:
-                print("{} {}".format(id, _))
+            print("{} {}".format(id, sents[0]))
+            # for _ in sents:
+            #     print("{} {}".format(id, _))
             continue
         for sent in sents:
             _sent = las_to_lm(sent.split())
@@ -39,8 +40,9 @@ def rerank(model_path, csv_path):
             res.append((loss, sent))
         res.sort(key=lambda x: x[0])
         transcripts[id] = [_[1] for _ in res]
-        for _ in transcripts[id]:
-            print("{}, {}".format(id, _))
+        print("{} {}".format(id, transcripts[id][0]))
+        # for _ in transcripts[id]:
+        #     print("{} {}".format(id, _))
         lm.detach()
     return transcripts
 
