@@ -5,7 +5,7 @@ import torch.nn.functional as F
 
 from collections import defaultdict
 from utils.data import las_to_lm
-from configs import DEVICE, rr_agrs, args
+from configs import *
 
 
 def rerank(model_path, csv_path):
@@ -36,4 +36,4 @@ def rerank(model_path, csv_path):
 
 
 if __name__ == '__main__':
-    reranked = rerank(rr_agrs.lm_path, rr_agrs.res_path)
+    reranked = rerank('models/best_hd_1024.pt', 'data/submission_beam_5_all.csv')
