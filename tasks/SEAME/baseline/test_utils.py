@@ -1,5 +1,5 @@
 '''
-Code to e.g. calculate MER
+Code to e.g. calculate MER or top-k CER
 
 Peter Wu
 peterw1@andrew.cmu.edu
@@ -143,12 +143,10 @@ def map_lines(lines, wmap):
         new_lines.append(new_l)
     return new_lines
 
-
-def main():
+def get_mer(save_dir='output/baseline/v1'):
     t0 = time.time()
     test_ys = load_y_data('test') # 1-dim np array of strings
-    SAVE_DIR = 'output/baseline/v1'
-    CSV_PATH = os.path.join(SAVE_DIR, 'submission.csv')
+    CSV_PATH = os.path.join(save_dir, 'submission.csv')
     transcripts = []
     with open(CSV_PATH, 'r') as csvfile:
         raw_csv = csv.reader(csvfile)
@@ -170,7 +168,7 @@ def main():
                 curr_s += ' '
         curr_s += next_ch
         test_ys_spaced.append(curr_s)
-    YS_SPACED_PATH = os.path.join(SAVE_DIR, 'ys_spaced.txt')
+    YS_SPACED_PATH = os.path.join(save_dir, 'ys_spaced.txt')
     with open(YS_SPACED_PATH, 'w+') as ouf:
         for l in test_ys_spaced:
             ouf.write('%s\n' % l)
@@ -197,14 +195,14 @@ def main():
                 curr_s += ' '
         curr_s += next_ch
         transcripts_spaced.append(curr_s)
-    TRANSCRIPTS_SPACED_PATH = os.path.join(SAVE_DIR, 'transcripts_spaced.txt')
+    TRANSCRIPTS_SPACED_PATH = os.path.join(save_dir, 'transcripts_spaced.txt')
     with open(TRANSCRIPTS_SPACED_PATH, 'w+') as ouf:
         for l in transcripts_spaced:
             ouf.write('%s\n' % l)
 
-    AUTOCORRECT_PATH = os.path.join(SAVE_DIR, 'transcript_autoc.txt')
-    PROX_PATH = os.path.join(SAVE_DIR, 'transcript_prox.txt')
-    AUTOC_PROX_PATH = os.path.join(SAVE_DIR, 'transcript_autoc_prox.txt')
+    AUTOCORRECT_PATH = os.path.join(save_dir, 'transcript_autoc.txt')
+    PROX_PATH = os.path.join(save_dir, 'transcript_prox.txt')
+    AUTOC_PROX_PATH = os.path.join(save_dir, 'transcript_autoc_prox.txt')
 
     if not os.path.exists(AUTOCORRECT_PATH) or not os.path.exists(PROX_PATH) or not os.path.exists(AUTOC_PROX_PATH):
         t1 = time.time()
@@ -313,25 +311,25 @@ def main():
 
     transcripts_prox_uni = map_lines(new_transcripts_prox, prox_map)
     test_ys_spaced_uni = map_lines(test_ys_spaced, prox_map)
-    PROX_MER_LOG_PATH = os.path.join(SAVE_DIR, 'prox_mer_log.txt')
-    PROX_MER_PATH = os.path.join(SAVE_DIR, 'prox_mer.npy')
-    PROX_DIST_PATH = os.path.join(SAVE_DIR, 'prox_dist.npy')
+    PROX_MER_LOG_PATH = os.path.join(save_dir, 'prox_mer_log.txt')
+    PROX_MER_PATH = os.path.join(save_dir, 'prox_mer.npy')
+    PROX_DIST_PATH = os.path.join(save_dir, 'prox_dist.npy')
     prox_norm_dists, prox_dists = cer_from_transcripts(transcripts_prox_uni, test_ys_spaced_uni, PROX_MER_LOG_PATH)
     np.save(PROX_MER_PATH, prox_norm_dists)
     np.save(PROX_DIST_PATH, prox_dists)
-    print('prox avg cer:', np.mean(prox_norm_dists))
+    print('prox avg mer:', np.mean(prox_norm_dists))
     t1 = time.time()
     print('At %.2f seconds' % (t1-t0))
 
     transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, autoc_prox_map)
     test_ys_spaced_autoc_prox_uni = map_lines(test_ys_spaced, autoc_prox_map)
-    AUTOC_PROX_MER_LOG_PATH = os.path.join(SAVE_DIR, 'autoc_prox_mer_log.txt')
-    AUTOC_PROX_MER_PATH = os.path.join(SAVE_DIR, 'autoc_prox_mer.npy')
-    AUTOC_PROX_DIST_PATH = os.path.join(SAVE_DIR, 'autoc_prox_dist.npy')
+    AUTOC_PROX_MER_LOG_PATH = os.path.join(save_dir, 'autoc_prox_mer_log.txt')
+    AUTOC_PROX_MER_PATH = os.path.join(save_dir, 'autoc_prox_mer.npy')
+    AUTOC_PROX_DIST_PATH = os.path.join(save_dir, 'autoc_prox_dist.npy')
     autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_spaced_autoc_prox_uni, AUTOC_PROX_MER_LOG_PATH)
     np.save(AUTOC_PROX_MER_PATH, autoc_prox_norm_dists)
     np.save(AUTOC_PROX_DIST_PATH, autoc_prox_dists)
-    print('autoc prox avg cer:', np.mean(autoc_prox_norm_dists))
+    print('autoc prox avg mer:', np.mean(autoc_prox_norm_dists))
     t1 = time.time()
     print('At %.2f seconds' % (t1-t0))
 
@@ -351,15 +349,73 @@ def main():
 
     transcripts_autoc_uni = map_lines(new_transcripts_autoc, autoc_map)
     test_ys_spaced_autoc_uni = map_lines(test_ys_spaced, autoc_map)
-    AUTOC_MER_LOG_PATH = os.path.join(SAVE_DIR, 'autoc_mer_log.txt')
-    AUTOC_MER_PATH = os.path.join(SAVE_DIR, 'autoc_mer.npy')
-    AUTOC_DIST_PATH = os.path.join(SAVE_DIR, 'autoc_dist.npy')
+    AUTOC_MER_LOG_PATH = os.path.join(save_dir, 'autoc_mer_log.txt')
+    AUTOC_MER_PATH = os.path.join(save_dir, 'autoc_mer.npy')
+    AUTOC_DIST_PATH = os.path.join(save_dir, 'autoc_dist.npy')
     autoc_norm_dists, autoc_dists = cer_from_transcripts(transcripts_autoc_uni, test_ys_spaced_autoc_uni, AUTOC_MER_LOG_PATH)
     np.save(AUTOC_MER_PATH, autoc_norm_dists)
     np.save(AUTOC_DIST_PATH, autoc_dists)
-    print('autoc avg cer:', np.mean(autoc_prox_norm_dists))
+    print('autoc avg mer:', np.mean(autoc_prox_norm_dists))
     t1 = time.time()
     print('At %.2f seconds' % (t1-t0))
+
+def get_topk_cer(save_dir='output/baseline/beam'):
+    t0 = time.time()
+    test_ys = load_y_data('test') # 1-dim np array of strings
+    CSV_PATH = os.path.join(save_dir, 'submission_beam_5_all.csv')
+    
+    raw_ids = []
+    raw_beams = [] # list of list of strings
+    
+    with open(CSV_PATH, 'r') as csvfile:
+        raw_csv = csv.reader(csvfile)
+        for row in raw_csv:
+            raw_ids.append(row[0])
+            raw_beams.append(row[1])
+    t1 = time.time()
+    print('loaded data (%.2f seconds)' % (t1-t0))
+
+    num_beams = 0
+    for curr_id in raw_ids:
+        if curr_id == raw_ids[0]:
+            num_beams += 1
+        else:
+            break
+
+    test_ys_rep = []
+    for y in test_ys:
+        test_ys_rep += [y]*num_beams
+
+    CER_LOG_PATH = os.path.join(save_dir, 'cer_log.txt')
+    raw_norm_dists, raw_dists = cer_from_transcripts(raw_beams, test_ys_rep, CER_LOG_PATH)
+    CER_PATH = os.path.join(save_dir, 'test_cer.npy')
+    DIST_PATH = os.path.join(save_dir, 'test_dist.npy')
+    norm_dists = raw_norm_dists.reshape((len(test_ys), num_beams))
+    dists = raw_dists.reshape((len(test_ys), num_beams))
+    np.save(CER_PATH, norm_dists)
+    np.save(DIST_PATH, dists)
+    
+    min_cers = np.min(norm_dists, 1) # shape: (num_ys,)
+    min_idxs = np.argmin(norm_dists, 1) # shape: (num_ys,)
+    MIN_CERS_PATH = os.path.join(save_dir, 'min_cers.npy')
+    MIN_IDXS_PATH = os.path.join(save_dir, 'min_idxs.npy')
+    np.save(MIN_CERS_PATH, min_cers)
+    np.save(MIN_IDXS_PATH, min_idxs)
+    
+    print('avg top-k CER:', np.mean(min_cers))
+
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--save-directory', type=str, default='output/baseline/v1', help='output directory')
+    parser.add_argument('--mode', type=str, default='mer', help='mer or topk')
+    return parser.parse_args()
+
+def main():
+    args = parse_args()
+    if args.mode == 'mer':
+        get_mer(save_dir=args.save_directory)
+    else:
+        get_topk_cer()
 
 if __name__ == '__main__':
     main()
