@@ -168,6 +168,8 @@ def cer_from_transcripts(transcripts, ys, log_path, truncate=True, spaces='best'
     for i, t in enumerate(transcripts):
         curr_t = t
         curr_y = ys[i]
+        if len(curr_y) == 0:
+            print('%d is 0' % i)
         curr_t_nos = curr_t.replace(' ', '')
         curr_y_nos = curr_y.replace(' ', '')
         if truncate:

@@ -160,7 +160,7 @@ def main():
     test_ys_spaced = []
     for test_y in test_ys:
         curr_s = ''
-        next_ch = '' # for scope
+        next_ch = test_y[0] # for scope
         for s_i, ch in enumerate(test_y[:-1]):
             next_ch = test_y[s_i+1]
             curr_s += ch
@@ -170,6 +170,10 @@ def main():
                 curr_s += ' '
         curr_s += next_ch
         test_ys_spaced.append(curr_s)
+    YS_SPACED_PATH = os.path.join(SAVE_DIR, 'ys_spaced.txt')
+    with open(YS_SPACED_PATH, 'w+') as ouf:
+        for l in test_ys_spaced:
+            ouf.write('%s\n' % l)
 
     test_ys_eng = []
     for test_y in test_ys:
@@ -183,7 +187,7 @@ def main():
     transcripts_spaced = []
     for transcript in transcripts:
         curr_s = ''
-        next_ch = '' # for scope
+        next_ch = test_y[0] # for scope
         for s_i, ch in enumerate(transcript[:-1]):
             next_ch = transcript[s_i+1]
             curr_s += ch
@@ -198,63 +202,75 @@ def main():
         for l in transcripts_spaced:
             ouf.write('%s\n' % l)
 
-    # auto-correct run
-    t1 = time.time()
-    print('generating transcripts (at %.2f seconds)' % (t1-t0))
-    test_eng_vocab = set()
-    for test_y in test_ys_eng:
-        test_y_list = test_y.split()
-        for word in test_y_list:
-            test_eng_vocab.add(word)
-
-    transcripts_spaced_lists = [l.split() for l in transcripts_spaced]
-
-    new_transcripts_autoc = []
-    new_transcripts_prox = []
-    new_transcripts_autoc_prox = []
-    for i, l_list in enumerate(transcripts_spaced_lists):
-        l_list_a = l_list.copy()
-        l_list_p = l_list.copy()
-        l_list_ap = l_list.copy()
-        for word_i, w in enumerate(l_list): # assumes that all words in the list are monolingual
-            if not is_chinese_char(w[0]):
-                new_a_word = w
-                new_p_word = w
-                new_ap_word = w
-                if w not in test_eng_vocab:
-                    new_a_word = spell(w)
-                    new_p_word = closest_word(w, test_eng_vocab)
-                if new_a_word in test_eng_vocab:
-                    new_ap_word = new_a_word
-                else:
-                    new_ap_word = new_p_word
-                l_list_a[word_i] = new_a_word
-                l_list_p[word_i] = new_p_word
-                l_list_ap[word_i] = new_ap_word
-        new_l_a = ' '.join(l_list_a)
-        new_l_p = ' '.join(l_list_p)
-        new_l_ap = ' '.join(l_list_ap)
-        new_transcripts_autoc.append(new_l_a)
-        new_transcripts_prox.append(new_l_p)
-        new_transcripts_autoc_prox.append(new_l_ap)
-        if (i+1) % 500 == 0:
-            t1 = time.time()
-            print('Processed %d Lines (at %.2f seconds)' % (i+1, t1-t0))
-
     AUTOCORRECT_PATH = os.path.join(SAVE_DIR, 'transcript_autoc.txt')
-    with open(AUTOCORRECT_PATH, 'w+') as ouf:
-        for curr_s in new_transcripts_autoc:
-            ouf.write('%s\n' % curr_s)
-
     PROX_PATH = os.path.join(SAVE_DIR, 'transcript_prox.txt')
-    with open(PROX_PATH, 'w+') as ouf:
-        for curr_s in new_transcripts_prox:
-            ouf.write('%s\n' % curr_s)
-
     AUTOC_PROX_PATH = os.path.join(SAVE_DIR, 'transcript_autoc_prox.txt')
-    with open(AUTOC_PROX_PATH, 'w+') as ouf:
-        for curr_s in new_transcripts_autoc_prox:
-            ouf.write('%s\n' % curr_s)
+
+    if not os.path.exists(AUTOCORRECT_PATH) or not os.path.exists(PROX_PATH) or not os.path.exists(AUTOC_PROX_PATH):
+        t1 = time.time()
+        print('generating transcripts (at %.2f seconds)' % (t1-t0))
+        test_eng_vocab = set()
+        for test_y in test_ys_eng:
+            test_y_list = test_y.split()
+            for word in test_y_list:
+                test_eng_vocab.add(word)
+
+        transcripts_spaced_lists = [l.split() for l in transcripts_spaced]
+
+        new_transcripts_autoc = []
+        new_transcripts_prox = []
+        new_transcripts_autoc_prox = []
+        for i, l_list in enumerate(transcripts_spaced_lists):
+            l_list_a = l_list.copy()
+            l_list_p = l_list.copy()
+            l_list_ap = l_list.copy()
+            for word_i, w in enumerate(l_list): # assumes that all words in the list are monolingual
+                if not is_chinese_char(w[0]):
+                    new_a_word = w
+                    new_p_word = w
+                    new_ap_word = w
+                    if w not in test_eng_vocab:
+                        new_a_word = spell(w)
+                        new_p_word = closest_word(w, test_eng_vocab)
+                    if new_a_word in test_eng_vocab:
+                        new_ap_word = new_a_word
+                    else:
+                        new_ap_word = new_p_word
+                    l_list_a[word_i] = new_a_word
+                    l_list_p[word_i] = new_p_word
+                    l_list_ap[word_i] = new_ap_word
+            new_l_a = ' '.join(l_list_a)
+            new_l_p = ' '.join(l_list_p)
+            new_l_ap = ' '.join(l_list_ap)
+            new_transcripts_autoc.append(new_l_a)
+            new_transcripts_prox.append(new_l_p)
+            new_transcripts_autoc_prox.append(new_l_ap)
+            if (i+1) % 500 == 0:
+                t1 = time.time()
+                print('Processed %d Lines (at %.2f seconds)' % (i+1, t1-t0))
+
+        with open(AUTOCORRECT_PATH, 'w+') as ouf:
+            for curr_s in new_transcripts_autoc:
+                ouf.write('%s\n' % curr_s)
+
+        with open(PROX_PATH, 'w+') as ouf:
+            for curr_s in new_transcripts_prox:
+                ouf.write('%s\n' % curr_s)
+
+        with open(AUTOC_PROX_PATH, 'w+') as ouf:
+            for curr_s in new_transcripts_autoc_prox:
+                ouf.write('%s\n' % curr_s)
+    else:
+        with open(AUTOCORRECT_PATH, 'r') as inf:
+            new_transcripts_autoc = inf.readlines()
+        new_transcripts_autoc = [l.strip() for l in new_transcripts_autoc]
+        with open(PROX_PATH, 'r') as inf:
+            new_transcripts_prox = inf.readlines()
+        new_transcripts_prox = [l.strip() for l in new_transcripts_prox]
+        with open(AUTOC_PROX_PATH, 'r') as inf:
+            new_transcripts_autoc_prox = inf.readlines()
+        new_transcripts_autoc_prox = [l.strip() for l in new_transcripts_autoc_prox]
+
 
     # ------------------------------------------
     # mer when vocab is test vocab
@@ -262,7 +278,6 @@ def main():
     t1 = time.time()
     print('calculating mer values (at %.2f seconds)' % (t1-t0))
     test_vocab = set() # composed of single chinese characters and english words
-    num_test_eng = 0
     for test_y in test_ys_spaced:
         test_y_list = test_y.split()
         for word in test_y_list:
@@ -271,12 +286,33 @@ def main():
                     test_vocab.add(ch)
             else:
                 test_vocab.add(word)
-                num_test_eng += 1
     test_vocab.add(' ')
     test_map = mk_map(test_vocab)
 
-    transcripts_prox_uni = map_lines(new_transcripts_prox, test_map)
-    test_ys_spaced_uni = map_lines(test_ys_spaced, test_map)
+    prox_vocab = test_vocab.copy()
+    for l in new_transcripts_prox:
+        l_list = l.split()
+        for word in l_list:
+            if is_chinese_char(word[0]):
+                for ch in word:
+                    prox_vocab.add(ch)
+            else:
+                prox_vocab.add(word)
+    prox_map = mk_map(prox_vocab)
+
+    autoc_prox_vocab = test_vocab.copy()
+    for l in new_transcripts_autoc_prox:
+        l_list = l.split()
+        for word in l_list:
+            if is_chinese_char(word[0]):
+                for ch in word:
+                    autoc_prox_vocab.add(ch)
+            else:
+                autoc_prox_vocab.add(word)
+    autoc_prox_map = mk_map(autoc_prox_vocab)
+
+    transcripts_prox_uni = map_lines(new_transcripts_prox, prox_map)
+    test_ys_spaced_uni = map_lines(test_ys_spaced, prox_map)
     PROX_MER_LOG_PATH = os.path.join(SAVE_DIR, 'prox_mer_log.txt')
     PROX_MER_PATH = os.path.join(SAVE_DIR, 'prox_mer.npy')
     PROX_DIST_PATH = os.path.join(SAVE_DIR, 'prox_dist.npy')
@@ -287,11 +323,12 @@ def main():
     t1 = time.time()
     print('At %.2f seconds' % (t1-t0))
 
-    transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, test_map)
+    transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, autoc_prox_map)
+    test_ys_spaced_autoc_prox_uni = map_lines(test_ys_spaced, autoc_prox_map)
     AUTOC_PROX_MER_LOG_PATH = os.path.join(SAVE_DIR, 'autoc_prox_mer_log.txt')
     AUTOC_PROX_MER_PATH = os.path.join(SAVE_DIR, 'autoc_prox_mer.npy')
     AUTOC_PROX_DIST_PATH = os.path.join(SAVE_DIR, 'autoc_prox_dist.npy')
-    autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_spaced_uni, AUTOC_PROX_MER_LOG_PATH)
+    autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_spaced_autoc_prox_uni, AUTOC_PROX_MER_LOG_PATH)
     np.save(AUTOC_PROX_MER_PATH, autoc_prox_norm_dists)
     np.save(AUTOC_PROX_DIST_PATH, autoc_prox_dists)
     print('autoc prox avg cer:', np.mean(autoc_prox_norm_dists))
