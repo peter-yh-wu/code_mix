@@ -393,6 +393,7 @@ def get_topk_cer(save_dir='output/baseline/beam'):
     CER_PATH = os.path.join(save_dir, 'test_cer.npy')
     DIST_PATH = os.path.join(save_dir, 'test_dist.npy')
     raw_norm_dists = np.array(raw_norm_dists)
+    raw_dists = np.array(raw_dists)
     norm_dists = raw_norm_dists.reshape((len(test_ys), num_beams))
     dists = raw_dists.reshape((len(test_ys), num_beams))
     np.save(CER_PATH, norm_dists)
