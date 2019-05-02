@@ -160,7 +160,7 @@ def main():
     test_ys_spaced = []
     for test_y in test_ys:
         curr_s = ''
-        next_ch = '' # for scope
+        next_ch = test_y[0] # for scope
         for s_i, ch in enumerate(test_y[:-1]):
             next_ch = test_y[s_i+1]
             curr_s += ch
@@ -187,7 +187,7 @@ def main():
     transcripts_spaced = []
     for transcript in transcripts:
         curr_s = ''
-        next_ch = '' # for scope
+        next_ch = test_y[0] # for scope
         for s_i, ch in enumerate(transcript[:-1]):
             next_ch = transcript[s_i+1]
             curr_s += ch
