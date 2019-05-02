@@ -9,7 +9,10 @@ from configs import *
 
 
 def rerank(model_path, csv_path):
-    lm = torch.load(model_path).to(DEVICE)
+    if DEVICE == 'cpu':
+        lm = torch.load(model_path, map_location='cpu')
+    else:
+        lm = torch.load(model_path).to(DEVICE)
     lm.eval()
     transcripts = defaultdict(list)
     with open(csv_path, 'r') as csv_file:

@@ -28,12 +28,6 @@ parser.add_argument('--gpu_id', help='GPU to be used if any', type=int, default=
 parser.add_argument('--qg', help='use QG dataset for data augumentation', type=bool, default=False)
 args = parser.parse_args()
 
-# reranking script parser
-rr_parser = argparse.ArgumentParser(description='reranking parameters.')
-rr_parser.add_argument('--lm-path', help='language model path', type=str)
-rr_parser.add_argument('--res-path', help='preliminary beam search result path', type=str)
-rr_args = rr_parser.parse_args()
-
 # running configurations
 log_dir = args.log_dir
 timestamp = datetime.now().strftime('%m%d-%H%M%S')
