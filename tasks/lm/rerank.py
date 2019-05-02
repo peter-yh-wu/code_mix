@@ -22,7 +22,7 @@ def rerank(model_path, csv_path):
             transcripts[row[0]].append(row[1])
     for id, sents in transcripts.items():
         res = []
-        if any(len(sent) == 0 for sent in sents):
+        if any(len(sent) <= 1 for sent in sents):
             for _ in sents:
                 print("{} {}".format(id, _))
             continue
