@@ -28,7 +28,7 @@ def rerank(model_path, csv_path):
             continue
         for sent in sents:
             _sent = las_to_lm(sent.split())
-            targets = torch.LongTensor([lm.vocab[tok] for tok in _sent[2:]]).to(DEVICE)
+            targets = torch.LongTensor([lm.vocab[tok] for tok in _sent[1:]]).to(DEVICE)
             logits = lm(_sent)
             loss = F.cross_entropy(logits, targets).item()
             res.append((loss, sent))
