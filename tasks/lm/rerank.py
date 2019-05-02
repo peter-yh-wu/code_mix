@@ -5,7 +5,7 @@ import torch.nn.functional as F
 import pdb
 
 from collections import defaultdict
-from utils.data import las_to_lm
+from utils.data import las_to_lm, is_chinese_word
 from configs import *
 
 
@@ -47,5 +47,24 @@ def rerank(model_path, csv_path):
     return transcripts
 
 
+def count_word_num(model_path):
+    if DEVICE == torch.device('cpu'):
+        lm = torch.load(model_path, map_location='cpu')
+    else:
+        lm = torch.load(model_path)
+    lm.to(DEVICE)
+    print("Total vocab length: ", len(lm.vocab))
+    chn_word_num, eng_word_num = 0, 0
+    for word in lm.vocab.itos:
+        if not is_chinese_word(word):
+            eng_word_num += 1
+        else:
+            chn_word_num += 1
+    return chn_word_num, eng_word_num
+
+
 if __name__ == '__main__':
+    chn, eng = count_word_num('models/best_hd_1024_full.pt')
+    print("Chinese word amount: {}".format(chn))
+    print("English word amount: {}".format(eng))
     reranked = rerank('models/best_hd_1024_full.pt', 'data/submission_beam_5_all.csv')
