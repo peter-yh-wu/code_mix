@@ -2,7 +2,6 @@ import csv
 import argparse
 import torch
 import torch.nn.functional as F
-import pdb
 
 from collections import defaultdict
 from utils.data import las_to_lm, is_chinese_word
@@ -25,24 +24,16 @@ def rerank(model_path, csv_path):
         res = []
         if any(len(sent) == 0 for sent in sents):
             print("{},{}".format(id, sents[0]))
-            # for _ in sents:
-            #     print("{} {}".format(id, _))
             continue
         for sent in sents:
             _sent = las_to_lm(sent.split())
             targets = torch.LongTensor([lm.vocab[tok] for tok in _sent[1:]]).to(DEVICE)
             logits = lm(_sent)
-            try:
-                loss = F.cross_entropy(logits, targets).item()
-            except Exception as ex:
-                print(ex)
-                pdb.set_trace()
+            loss = F.cross_entropy(logits, targets).item()
             res.append((loss, sent))
         res.sort(key=lambda x: x[0])
         transcripts[id] = [_[1] for _ in res]
         print("{},{}".format(id, transcripts[id][0]))
-        # for _ in transcripts[id]:
-        #     print("{} {}".format(id, _))
         lm.detach()
     return transcripts
 

@@ -83,9 +83,32 @@ if __name__ == '__main__':
     train = dataset[: int(len(dataset)*0.8)]
     dev = dataset[int(len(dataset)*0.8) + 1: -1]
     vocab = Vocab(train)
-    logger.info('  Training samples: {}'.format(len(train)))
-    logger.info('  Dev samples:      {}'.format(len(dev)))
-    logger.info('  Vocabulary size:  {}'.format(len(vocab)))
+
+    train_chn_tok_num, train_eng_tok_num = 0, 0
+    for sent in train:
+        for tok in sent:
+            if is_chinese_word(tok):
+                train_chn_tok_num += 1
+            else:
+                train_eng_tok_num += 1
+
+    dev_chn_tok_num, dev_eng_tok_num = 0, 0
+    for sent in dev:
+        for tok in sent:
+            if is_chinese_word(tok):
+                dev_chn_tok_num += 1
+            else:
+                dev_eng_tok_num += 1
+
+    logger.info('#'*60)
+    logger.info('Training samples: {}'.format(len(train)))
+    logger.info('Dev samples:      {}'.format(len(dev)))
+    logger.info('Vocabulary size:  {}'.format(len(vocab)))
+    logger.info('Training CHN token amount: {}'.format(train_chn_tok_num))
+    logger.info('Training ENG token amount: {}'.format(train_eng_tok_num))
+    logger.info('Dev CHN token amount {}'.format(dev_chn_tok_num))
+    logger.info('Dev ENG token amount {}'.format(dev_eng_tok_num))
+    logger.info('#' * 60)
 
     # Initialize the model and the optimizer
     logger.info('Building model...')
