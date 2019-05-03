@@ -205,7 +205,7 @@ class DecoderModel(nn.Module):
             # shape: (B, key_dim*num_heads)
         queries = queries.view(B, self.num_heads, -1)
             # shape: (B, num_heads, key_dim)
-        preheads = torch.sum(keys*queries[:, None, :, :], 3)
+        preheads = torch.sum(keys*queries[:, None, :, :], 3)/multihead.shape[1]
             # shape: (B, T, num_heads)
         heads = torch.sum(preheads[:, :, :, None]*values, 1)
             # shape: (B, value_dim, num_heads)
