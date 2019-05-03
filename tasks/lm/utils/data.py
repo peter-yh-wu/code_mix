@@ -6,7 +6,6 @@
 
 import os
 import re
-import torch
 
 import multiprocessing as mp
 from glob import glob
