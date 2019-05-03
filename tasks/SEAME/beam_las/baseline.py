@@ -524,7 +524,7 @@ def parse_args():
     parser.add_argument('--generator-length', type=int, default=250, metavar='N', help='maximum length to generate')
 
     parser.add_argument('--test-mode', type=str, default='transcript', help='Test mode: transcript, cer, perp')
-    parser.add_argument('--beam-width', type=int, default=20, help='Beam search width')
+    parser.add_argument('--beam-width', type=int, default=20, choices=range(1, 100), help='Beam search width')
 
     parser.add_argument('--lm-path', type=str, default='', help='path to pre-trained language model')
 
