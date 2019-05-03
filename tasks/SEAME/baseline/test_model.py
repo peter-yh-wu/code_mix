@@ -63,24 +63,25 @@ def main():
     print("Building Loader")
     test_loader = make_loader(test_paths, testchars, args, shuffle=False, batch_size=args.batch_size)
 
-    print("Building Model")
-    model = Seq2SeqModel(args, vocab_size=charcount)
+    if 'transcript' in args.test_mode or 'perp' in args.test_mode:
+        print("Building Model")
+        model = Seq2SeqModel(args, vocab_size=charcount)
 
-    CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
-    if args.cuda:
-        model.load_state_dict(torch.load(CKPT_PATH))
-    else:
-        gpu_dict = torch.load(CKPT_PATH, map_location=lambda storage, loc: storage)
-        cpu_model_dict = {}
-        for key, val in gpu_dict.items():
-            cpu_model_dict[key] = val.cpu()
-        model.load_state_dict(cpu_model_dict)
-    print("Loaded Checkpoint")
+        CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
+        if args.cuda:
+            model.load_state_dict(torch.load(CKPT_PATH))
+        else:
+            gpu_dict = torch.load(CKPT_PATH, map_location=lambda storage, loc: storage)
+            cpu_model_dict = {}
+            for key, val in gpu_dict.items():
+                cpu_model_dict[key] = val.cpu()
+            model.load_state_dict(cpu_model_dict)
+        print("Loaded Checkpoint")
 
-    if args.cuda:
-        model = model.cuda()
-    
-    model.eval()
+        if args.cuda:
+            model = model.cuda()
+
+        model.eval()
 
     TRANSCRIPT_LOG_PATH = os.path.join(args.save_directory, 'transcript_log.txt')
     CSV_PATH = os.path.join(args.save_directory, 'submission.csv')
@@ -119,10 +120,10 @@ def main():
                     transcripts.append(row[1])
         transcripts = [l.strip() for l in transcripts]
         CER_PATH = os.path.join(args.save_directory, 'test_cer.npy')
-        EDIT_PATH = os.path.join(args.save_directory, 'test_edit.npy')
+        DIST_PATH = os.path.join(args.save_directory, 'test_dist.npy')
         norm_dists, dists = cer_from_transcripts(transcripts, test_ys, CER_LOG_PATH)
         np.save(CER_PATH, norm_dists)
-        np.save(EDIT_PATH, dists)
+        np.save(DIST_PATH, dists)
 
     if 'perp' in args.test_mode:
         print('calculating perp values')
