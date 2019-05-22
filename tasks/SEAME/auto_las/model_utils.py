@@ -11,8 +11,6 @@ Sai Krishna Rallabandi (srallaba@andrew.cmu.edu)
 Peter Wu
 peterw1@andrew.cmu.edu
 '''
-import sys
-sys.setdefaultencoding("utf-8")
 
 import itertools
 import os
@@ -328,7 +326,7 @@ def load_y_data(stage):
     SPLIT_DIR = os.path.join(parent_dir, 'split')
     FILE = '%s_ys.txt' % stage
     ys_path = os.path.join(SPLIT_DIR, FILE)
-    with open(ys_path, 'r') as inf:
+    with open(ys_path, 'r', encoding="utf-8") as inf:
         ys = inf.readlines()
     ys = [y.strip() for y in ys]
     return np.array(ys)
