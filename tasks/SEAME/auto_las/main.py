@@ -410,7 +410,7 @@ class DecoderModel(nn.Module):
         generated = torch.max(logits, 1)[1]  # (N,)
         return logit, generated, ctx, attn, new_input_states
 
-    def forward_lid(self, inputs, input_lengths, keys, values, utterance_lengths, lid1_arr, lid2_arr, future=0): # TODO
+    def forward_lid(self, inputs, input_lengths, keys, values, utterance_lengths, future=0):
         '''
         Args:
             keys: shape (T, B, key_dim)
@@ -477,12 +477,12 @@ class Seq2SeqModel(nn.Module):
         self.encoder = EncoderModel(args)
         self.decoder = DecoderModel(args, vocab_size=vocab_size)
 
-    def forward_lid():
+    def forward_lid(self, utterances, utterance_lengths, chars, char_lengths, future=0):
         _, keys, values, lengths = self.encoder(utterances, utterance_lengths)
         logits, attns, generated = self.decoder.forward_lid(chars, char_lengths, keys, values, lengths, future=future)
         return logits, generated, char_lengths
 
-    def forward(self, utterances, utterance_lengths, chars, char_lengths, lid1_arr, lid2_arr, future=0): # TODO
+    def forward(self, utterances, utterance_lengths, chars, char_lengths, future=0):
         _, keys, values, lengths = self.encoder(utterances, utterance_lengths)
         logits, attns, generated = self.decoder(chars, char_lengths, keys, values, lengths, future=future)
         return logits, generated, char_lengths
