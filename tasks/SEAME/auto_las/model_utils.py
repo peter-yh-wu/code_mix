@@ -12,7 +12,6 @@ Peter Wu
 peterw1@andrew.cmu.edu
 '''
 import sys
-reload(sys)
 sys.setdefaultencoding("utf-8")
 
 import itertools
