@@ -54,7 +54,7 @@ def get_switch_lids(s):
     return lids
 
 def mk_lid_txt(in_path, out_path):
-    with open(in_path, 'r')  as inf:
+    with open(in_path, 'r', encoding="utf-8")  as inf:
         lines = inf.readlines()
     lids_strs = []
     for l in lines:
