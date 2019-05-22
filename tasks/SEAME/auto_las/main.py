@@ -496,10 +496,9 @@ class TextDiscriminator(nn.Module):
         x = x.transpose(0, 1) # shape: (batch_size, max_seq_len)
         x = x.unsqueeze(1)    # shape: (batch_size, 1, max_seq_len)
         h = self.cnn(x)       # shape: (batch_size, 128, seq_len)
-        h = F.max_pool1d(h, ) # TODO
-
-        # TODO pool
-
+        h = F.max_pool1d(h, kernel_size=h.shape[2]) # shape: (batch_size, 128, 1)
+        h = h.squeeze()       # shape: (batch_size, 128)
+        out = self.mlp(h)     # shape: (batch_size, 2)
         return out
 
 class Seq2SeqModel(nn.Module):
@@ -508,23 +507,17 @@ class Seq2SeqModel(nn.Module):
         super(Seq2SeqModel, self).__init__()
         self.encoder = EncoderModel(args)
         self.decoder = DecoderModel(args, vocab_size=vocab_size)
-        # TODO TextDiscriminator
+        self.text_discr = TextDiscriminator()
 
     def forward_lid(self, utterances, utterance_lengths, chars, char_lengths, future=0):
         _, keys, values, lengths = self.encoder(utterances, utterance_lengths)
         logits, attns, generated = self.decoder.forward_lid(chars, char_lengths, keys, values, lengths, future=future)
         return logits, generated, char_lengths
 
-    def forward_gen(self, shape): # TODO
-        u = torch.empty(shape).uniform_(-1,1).cuda()
-        z_p = self.sampler(u)
-        out_p = self.discr(z_p)
-        return out_p
-
-    def forward_discr(self, x): # TODO
-        z = self.encoder(x).squeeze()
-        out = self.discr(z)
-        out_p = self.forward_gen(z.shape)
+    def forward_discr(self, x, x_p):
+        '''inputs are actual and generated text'''
+        out = self.discr(z) # TODO
+        out_p = self.forward_gen(z.shape) # TODO
         return out, out_p
 
     def forward(self, utterances, utterance_lengths, chars, char_lengths, future=0):
@@ -678,18 +671,23 @@ def main():
     dev_lids = load_lids('dev') # 2d list of ints
 
     print("Building Loader")
-    dev_loader = make_loader(dev_paths, devchars, args, lids=train_lids, shuffle=True, batch_size=args.batch_size)
-    train_loader = make_loader(train_paths, trainchars, args, lids=dev_lids, shuffle=True, batch_size=args.batch_size)
+    train_loader = make_loader(train_paths, trainchars, args, lids=train_lids, shuffle=True, batch_size=args.batch_size)
+    dev_loader = make_loader(dev_paths, devchars, args, lids=dev_lids, shuffle=True, batch_size=args.batch_size)
     test_loader = make_loader(test_paths, None, args, lids=None, shuffle=False, batch_size=args.batch_size)
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
-    print("Building Model")
+    print("Building Model") # TODO reformat
+    discr_loss = DiscrLoss()
+    gen_loss = GenLoss()
+
     model = Seq2SeqModel(args, vocab_size=charcount)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
-    criterion = SequenceCrossEntropy()
+    criterion = SequenceCrossEntropy() # TODO rename
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+
+    # TODO separate optimizers for each part of net
 
     print("Running")
     CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
@@ -739,6 +737,8 @@ def main():
                 loss_lid.backward()
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
                 optimizer.step()
+
+                # TODO discr_loss and gen_loss
 
                 loss = loss_asr+loss_lid
                 tot_loss += loss.item()
