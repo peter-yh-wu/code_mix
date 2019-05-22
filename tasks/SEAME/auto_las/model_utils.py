@@ -333,7 +333,7 @@ def load_y_data(stage):
 
 def load_lids(stage):
     '''return 2d list of ints'''
-    arent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     SPLIT_DIR = os.path.join(parent_dir, 'split')
     FILE = '%s_lids.txt' % stage
     ys_path = os.path.join(SPLIT_DIR, FILE)
