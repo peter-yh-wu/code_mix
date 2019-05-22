@@ -261,6 +261,7 @@ class ASRDataset(Dataset):
         
         curr_label = None if not self.labels else self.labels[index]
         curr_lid = None if not self.lids else self.lids[index]
+        assert curr_lid <= 1
 
         return curr_mfcc, curr_label, curr_lid
 
@@ -341,6 +342,10 @@ def load_lids(stage):
         ys = inf.readlines()
     ys = [y.strip() for y in ys]
     ys = [[int(lid) for lid in y] for y in ys]
+
+    ys_flat = [item for sublist in ys for item in sublist]
+    assert max(ys_flat) <= 1
+    
     return ys
 
 def load_switch_lids(stage):

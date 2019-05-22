@@ -1,7 +1,5 @@
 '''
-Script to run LAS model
-
-Modified from LAS implementation by Sai Krishna Rallabandi (srallaba@andrew.cmu.edu)
+Script to run Auto-LAS model
 
 Peter Wu
 peterw1@andrew.cmu.edu
@@ -470,17 +468,50 @@ class DecoderModel(nn.Module):
         generateds = torch.stack(generateds,dim=0)
         return logits, attns, generateds
 
+class TextDiscriminator(nn.Module): # TODO change to LSTM or something
+    '''
+    0 for real, 1 for fake
+    '''
+    def __init__(self):
+        super(Discriminator, self).__init__()
+        self.discr = nn.Sequential(
+            nn.Linear(512, 256),
+            nn.LeakyReLU(0.2),
+            nn.Linear(256, 128),
+            nn.LeakyReLU(0.2),
+            nn.Linear(128, 64),
+            nn.LeakyReLU(0.2),
+            nn.Linear(64, 2)
+        )
+
+    def forward(self, z):
+        out = self.discr(z)
+        return out
+
 class Seq2SeqModel(nn.Module):
     # Tie encoder and decoder together
     def __init__(self, args, vocab_size):
         super(Seq2SeqModel, self).__init__()
         self.encoder = EncoderModel(args)
         self.decoder = DecoderModel(args, vocab_size=vocab_size)
+        # TODO TextDiscriminator
 
     def forward_lid(self, utterances, utterance_lengths, chars, char_lengths, future=0):
         _, keys, values, lengths = self.encoder(utterances, utterance_lengths)
         logits, attns, generated = self.decoder.forward_lid(chars, char_lengths, keys, values, lengths, future=future)
         return logits, generated, char_lengths
+
+    def forward_gen(self, shape): # TODO
+        u = torch.empty(shape).uniform_(-1,1).cuda()
+        z_p = self.sampler(u)
+        out_p = self.discr(z_p)
+        return out_p
+
+    def forward_discr(self, x): # TODO
+        z = self.encoder(x).squeeze()
+        out = self.discr(z)
+        out_p = self.forward_gen(z.shape)
+        return out, out_p
 
     def forward(self, utterances, utterance_lengths, chars, char_lengths, future=0):
         _, keys, values, lengths = self.encoder(utterances, utterance_lengths)
@@ -510,6 +541,7 @@ class SequenceCrossEntropy(nn.CrossEntropyLoss):
 
     def forward(self, prediction, target):
         logits, generated, sequence_lengths = prediction
+            # logits shape: (maxlen, batch_size, num_classes)
         maxlen = logits.size(0)
         mask = Variable(output_mask(maxlen, sequence_lengths.data)).float()
         logits = logits * mask.unsqueeze(2)
@@ -517,6 +549,46 @@ class SequenceCrossEntropy(nn.CrossEntropyLoss):
         loss = torch.sum(mask.view(-1) * losses) / logits.size(1)
         return loss
 
+class DiscrLoss(nn.Module):
+    '''
+    0 for real, 1 for fake
+    '''
+    def __init__(self, frac_flip=0.1):
+        super(DiscrLoss, self).__init__()
+        self.frac_flip = frac_flip
+
+    def forward(self, out, out_p):
+        '''
+        Args:
+            out: shape (batch_size, 2)
+            out_p: shape (batch_size, 2)
+        '''
+        N = out_p.shape[0]
+        out = F.softmax(out, 1)
+        out_p = F.softmax(out_p, 1)
+        shuffled_indices = torch.randperm(N)
+        num_same = int(self.frac_flip*N)
+        same_indices = shuffled_indices[:num_same]
+        diff_indices = shuffled_indices[num_same:]
+        loss1_same = -torch.sum(torch.log(out[same_indices, 0]))
+        loss1_diff = -torch.sum(torch.log(out[diff_indices, 1]))
+        loss2_same = -torch.sum(torch.log(out_p[same_indices, 1]))
+        loss2_diff = -torch.sum(torch.log(out_p[diff_indices, 0]))
+        loss = (loss1_same + loss1_diff + loss2_same + loss2_diff)/2/N
+        return loss
+
+class GenLoss(nn.Module):
+    def __init__(self):
+        super(GenLoss, self).__init__()
+
+    def forward(self, out_p):
+        '''
+        Args:
+            out_p: shape (batch_size, 2)
+        '''
+        out_p = F.softmax(out_p, 1)
+        loss = -torch.mean(torch.log(out_p[:, 0]))
+        return loss
 
 def parse_args():
     parser = argparse.ArgumentParser()
