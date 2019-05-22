@@ -473,7 +473,7 @@ class TextDiscriminator(nn.Module):
     0 for real, 1 for fake
     '''
     def __init__(self):
-        super(Discriminator, self).__init__()
+        super(TextDiscriminator, self).__init__()
         self.cnn = nn.Sequential(
             nn.Conv1d(1, 64, 3),
             nn.BatchNorm2d(64),
