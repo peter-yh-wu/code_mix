@@ -248,7 +248,10 @@ class ASRDataset(Dataset):
             self.labels = None
         if lids:
             self.lids = [torch.from_numpy(np.array(y)).long() for y in lids]
-            assert len(self.paths) == len(self.lids)
+            if len(self.paths) != len(self.lids):
+                print('paths', len(self.paths))
+                print('lids', len(self.lids))
+            assert len(self.labels) == len(self.lids)
         else:
             self.lids = None
 

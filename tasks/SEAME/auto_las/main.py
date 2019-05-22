@@ -474,12 +474,15 @@ class TextDiscriminator(nn.Module):
     '''
     def __init__(self):
         super(Discriminator, self).__init__()
-        self.discr = nn.Sequential( # TODO CNN with pooling
-            # nn.Conv1d
-            nn.Linear(512, 256),
+        self.cnn = nn.Sequential(
+            nn.Conv1d(1, 64, 3),
+            nn.BatchNorm2d(64),
             nn.LeakyReLU(0.2),
-            nn.Linear(256, 128),
-            nn.LeakyReLU(0.2),
+            nn.Conv1d(1, 128, 3),
+            nn.BatchNorm2d(128),
+            nn.LeakyReLU(0.2)
+        )
+        self.mlp = nn.Sequential(
             nn.Linear(128, 64),
             nn.LeakyReLU(0.2),
             nn.Linear(64, 2)
@@ -490,7 +493,13 @@ class TextDiscriminator(nn.Module):
         Args:
             x: shape (max_seq_len, batch_size), all values 0 or 1
         '''
-        out = self.discr(x)
+        x = x.transpose(0, 1) # shape: (batch_size, max_seq_len)
+        x = x.unsqueeze(1)    # shape: (batch_size, 1, max_seq_len)
+        h = self.cnn(x)       # shape: (batch_size, 128, seq_len)
+        h = F.max_pool1d(h, ) # TODO
+
+        # TODO pool
+
         return out
 
 class Seq2SeqModel(nn.Module):
