@@ -475,6 +475,7 @@ class TextDiscriminator(nn.Module):
     def __init__(self):
         super(Discriminator, self).__init__()
         self.discr = nn.Sequential( # TODO CNN with pooling
+            # nn.Conv1d
             nn.Linear(512, 256),
             nn.LeakyReLU(0.2),
             nn.Linear(256, 128),
