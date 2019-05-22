@@ -243,12 +243,12 @@ class ASRDataset(Dataset):
         self.paths = paths
         if labels:
             self.labels = [torch.from_numpy(y + 1).long() for y in labels]  # +1 for start token
-            assert len(self.paths) == len(self.labels)
+            # assert len(self.paths) == len(self.labels)
         else:
             self.labels = None
         if lids:
-            self.lids = [torch.from_numpy(y).long() for y in labels]
-            assert len(self.paths) == len(self.lids)
+            self.lids = [torch.from_numpy(y).long() for y in lids]
+            # assert len(self.paths) == len(self.lids)
         else:
             self.lids = None
 
@@ -261,7 +261,7 @@ class ASRDataset(Dataset):
         
         curr_label = None if not self.labels else self.labels[index]
         curr_lid = None if not self.lids else self.lids[index]
-        assert torch.max(curr_lid) <= 1
+        # assert torch.max(curr_lid) <= 1
 
         return curr_mfcc, curr_label, curr_lid
 
@@ -277,7 +277,7 @@ def speech_collate_fn(batch):
 
     # calculate lengths
     for i, (u, y, lid) in enumerate(batch): # u is x-val, y is y-val
-        assert torch.max(lid) <= 1
+        # assert torch.max(lid) <= 1
         # +1 to account for start/end token
         ulens[i] = u.size(0)
         if y is None:
@@ -293,7 +293,7 @@ def speech_collate_fn(batch):
     umax = int(ulens.max())
     lmax = int(ylens.max())
     lid_max = int(lid_lens.max())
-    assert(lmax == lid_max)
+    # assert(lmax == lid_max)
 
     # allocate tensors for data based on max length
     uarray = torch.FloatTensor(umax, n, INPUT_DIM).zero_()
@@ -345,7 +345,7 @@ def load_lids(stage):
     ys = [[int(lid) for lid in y] for y in ys]
 
     ys_flat = [item for sublist in ys for item in sublist]
-    assert max(ys_flat) <= 1
+    # assert max(ys_flat) <= 1
     
     return ys
 
