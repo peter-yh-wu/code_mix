@@ -407,7 +407,7 @@ class DecoderModel(nn.Module):
         logit = self.lid_projection(ht)
         
         # Sample from logits
-        generated = torch.max(logits, 1)[1]  # (N,)
+        generated = torch.max(logit, 1)[1]  # (N,)
         return logit, generated, ctx, attn, new_input_states
 
     def forward_lid(self, inputs, input_lengths, keys, values, utterance_lengths, future=0):
