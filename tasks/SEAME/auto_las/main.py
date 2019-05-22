@@ -468,13 +468,13 @@ class DecoderModel(nn.Module):
         generateds = torch.stack(generateds,dim=0)
         return logits, attns, generateds
 
-class TextDiscriminator(nn.Module): # TODO change to LSTM or something
+class TextDiscriminator(nn.Module):
     '''
     0 for real, 1 for fake
     '''
     def __init__(self):
         super(Discriminator, self).__init__()
-        self.discr = nn.Sequential(
+        self.discr = nn.Sequential( # TODO CNN with pooling
             nn.Linear(512, 256),
             nn.LeakyReLU(0.2),
             nn.Linear(256, 128),
@@ -484,8 +484,12 @@ class TextDiscriminator(nn.Module): # TODO change to LSTM or something
             nn.Linear(64, 2)
         )
 
-    def forward(self, z):
-        out = self.discr(z)
+    def forward(self, x):
+        '''
+        Args:
+            x: shape (max_seq_len, batch_size), all values 0 or 1
+        '''
+        out = self.discr(x)
         return out
 
 class Seq2SeqModel(nn.Module):
