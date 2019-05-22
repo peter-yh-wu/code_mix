@@ -11,6 +11,9 @@ Sai Krishna Rallabandi (srallaba@andrew.cmu.edu)
 Peter Wu
 peterw1@andrew.cmu.edu
 '''
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
 
 import itertools
 import os
