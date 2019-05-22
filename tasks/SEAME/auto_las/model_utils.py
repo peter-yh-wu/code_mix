@@ -262,7 +262,7 @@ class ASRDataset(Dataset):
         curr_label = None if not self.labels else self.labels[index]
         curr_lid = None if not self.lids else self.lids[index]
 
-        curr_mfcc, curr_label, curr_lid
+        return curr_mfcc, curr_label, curr_lid
 
 INPUT_DIM = 39
 
@@ -363,6 +363,6 @@ def make_loader(ids, labels, args, lids=None, shuffle=True, batch_size=64):
     '''
     # Build the DataLoaders
     kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if args.cuda else {}
-    dataset = ASRDataset(ids, labels, lids=lids)
+    dataset = ASRDataset(ids, labels=labels, lids=lids)
     loader = DataLoader(dataset, collate_fn=speech_collate_fn, shuffle=shuffle, batch_size=batch_size, **kwargs)
     return loader
