@@ -1,5 +1,5 @@
 '''
-Script to run Auto-LAS model
+Script to run GAN LAS model
 
 Peter Wu
 peterw1@andrew.cmu.edu
@@ -217,11 +217,6 @@ class DecoderModel(nn.Module):
         )
         self.force_rate = args.teacher_force_rate
         self.char_projection[-1].weight = self.embedding.weight  # weight tying
-        self.lid_projection = nn.Sequential(
-            nn.Linear(args.decoder_dim+args.value_dim, args.decoder_dim),
-            nn.LeakyReLU(),
-            nn.Linear(args.decoder_dim, 2)
-        )
 
     def forward_pass(self, input_t, keys, values, mask, ctx, input_states):
         '''
@@ -354,119 +349,6 @@ class DecoderModel(nn.Module):
         generateds = torch.stack(generateds,dim=0)
         return logits, attns, generateds
 
-    def forward_pass_lid(self, input_t, keys, values, mask, ctx, input_states):
-        '''
-        Args:
-            input_t: current input character fed into decoder
-            keys: shape (B, T, key_dim)
-            values: shape (B, T, value_dim)
-            mask: effectively the lengths of the encoder inputs, shape (B, T),
-                only used to calculate the attention
-            ctx: attention context values (B, value_dim)
-            input_states: basically current hidden state of stacked LSTM,
-                size-3 list of (shape (1, self.hidden_size), shape (1, self.hidden_size)) pairs
-        
-        Return:
-            logit: shape (B, 2)
-            generated: predicted character (chosen from logit)
-            ctx: new attention context values (B, value_dim)
-            attn: used to compute ctx, redundant i.e. only need to worry about ctx,
-                shape (B, T)
-            new_input_states: basically new hidden state of stacked LSTM,
-                size-3 list of (shape (1, self.hidden_size), shape (1, self.hidden_size)) pairs
-        '''
-        # Embed the previous character
-        embed = self.embedding(input_t)
-            # shape: (B, decoder_dim)
-        # Concatenate embedding and previous context
-        ht = torch.cat((embed, ctx), dim=1)
-            # shape: (B, decoder_dim+value_dim)
-        # Run first set of RNNs
-        new_input_states = []
-        for rnn, state in zip(self.input_rnns, input_states):
-            ht, newstate = rnn(ht, state)
-                # ht shape: (B, decoder_dim)
-            new_input_states.append((ht, newstate))
-        
-        # Calculate query
-        query = self.query_projection(ht)
-            # shape: (B, key_dim)
-        # Calculate attention
-        attn = calculate_attention(keys=keys, mask=mask, queries=query)
-            # shape: (B, T)
-        # Calculate context
-        ctx = calculate_context(attn=attn, values=values)
-            # shape: (B, value_dim)
-        # Concatenate hidden state and context
-        ht = torch.cat((ht, ctx), dim=1)
-            # shape: (B, decoder_dim+value_dim)
-        
-        # Run projection
-        logit = self.lid_projection(ht)
-        
-        # Sample from logits
-        generated = torch.max(logit, 1)[1]  # (N,)
-        return logit, generated, ctx, attn, new_input_states
-
-    def forward_lid(self, inputs, input_lengths, keys, values, utterance_lengths, future=0):
-        '''
-        Args:
-            keys: shape (T, B, key_dim)
-            values: shape (T, B, value_dim)
-        '''
-        mask = Variable(output_mask(values.size(0), utterance_lengths).transpose(0, 1)).float()
-            # shape: (B, T)
-        keys_t = keys.transpose(0, 1)
-            # shape: (B, T, key_dim)
-        values_t = values.transpose(0, 1)
-            # shape: (B, T, value_dim)
-        t = inputs.size(0)
-        n = inputs.size(1)
-
-        # Initial state of stacked LSTM
-        input_states = [rnn.initial_state(n) for rnn in self.input_rnns]
-            # size-3 list of (shape (1, self.hidden_size), shape (1, self.hidden_size)) pairs
-
-        # Initial context
-        h0 = input_states[-1][0]
-            # shape: (B, decoder_dim)
-        query = self.query_projection(h0)
-            # linear transformation of prev decoder hidden state
-            # shape: (B, key_dim)
-        attn = calculate_attention(keys_t, mask, query)
-            # shape: (B, T)
-        ctx = calculate_context(attn, values_t)
-            # shape: (B, value_dim)
-
-        # Decoder loop
-        logits = []
-        attns = []
-        generateds = []
-        for i in range(t):
-            # Use forced or generated inputs
-            if len(generateds) > 0 and self.force_rate < 1 and self.training:
-                input_forced = inputs[i]
-                input_gen = generateds[-1]
-                input_mask = Variable(input_forced.data.new(*input_forced.size()).bernoulli_(self.force_rate))
-                input_t = (input_mask * input_forced) + ((1 - input_mask) * input_gen)
-            else:
-                input_t = inputs[i]
-            # Run a single timestep
-            logit, generated, ctx, attn, input_states = self.forward_pass_lid(
-                input_t=input_t, keys=keys_t, values=values_t, mask=mask, ctx=ctx,
-                input_states=input_states
-            )
-                # ctx shape: (B, value_dim), attn shape: (B, T)
-            # Save outputs
-            logits.append(logit)
-            attns.append(attn)
-            generateds.append(generated)
-
-        # Combine all the outputs
-        logits = torch.stack(logits, dim=0)  # (L, N, Vocab Size)
-        attns = torch.stack(attns, dim=0)  # (L, N, T)
-        generateds = torch.stack(generateds,dim=0)
-        return logits, attns, generateds
 
 class TextDiscriminator(nn.Module):
     '''
@@ -508,11 +390,6 @@ class Seq2SeqModel(nn.Module):
         self.encoder = EncoderModel(args)
         self.decoder = DecoderModel(args, vocab_size=vocab_size)
         self.text_discr = TextDiscriminator()
-
-    def forward_lid(self, utterances, utterance_lengths, chars, char_lengths, future=0):
-        _, keys, values, lengths = self.encoder(utterances, utterance_lengths)
-        logits, attns, generated = self.decoder.forward_lid(chars, char_lengths, keys, values, lengths, future=future)
-        return logits, generated, char_lengths
 
     def forward_discr(self, x, x_p):
         '''inputs are actual and generated text'''
@@ -667,13 +544,10 @@ def main():
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
-    train_lids = load_lids('train') # 2d list of ints
-    dev_lids = load_lids('dev') # 2d list of ints
-
     print("Building Loader")
-    train_loader = make_loader(train_paths, trainchars, args, lids=train_lids, shuffle=True, batch_size=args.batch_size)
-    dev_loader = make_loader(dev_paths, devchars, args, lids=dev_lids, shuffle=True, batch_size=args.batch_size)
-    test_loader = make_loader(test_paths, None, args, lids=None, shuffle=False, batch_size=args.batch_size)
+    train_loader = make_loader(train_paths, trainchars, args, shuffle=True, batch_size=args.batch_size)
+    dev_loader = make_loader(dev_paths, devchars, args, shuffle=True, batch_size=args.batch_size)
+    test_loader = make_loader(test_paths, None, args, shuffle=False, batch_size=args.batch_size)
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
@@ -703,20 +577,17 @@ def main():
         model.train()
         tot_loss = 0.0
         tot_loss_asr = 0.0
-        tot_loss_lid = 0.0
         tot_discr_loss = 0.0
         tot_gen_loss = 0.0
         tot_perp = 0
         for i, t in enumerate(train_loader):
-            uarray, ulens, y1array, ylens, y2array, lid1_arr, lid2_arr = t
+            uarray, ulens, y1array, ylens, y2array = t
             if torch.min(ulens).item() > 8 and torch.min(ylens).item() > 0:
-                uarray, ulens, y1array, ylens, y2array, lid1_arr, lid2_arr = Variable(uarray), \
-                    Variable(ulens), Variable(y1array), Variable(ylens), Variable(y2array), \
-                    Variable(lid1_arr), Variable(lid2_arr)
+                uarray, ulens, y1array, ylens, y2array = Variable(uarray), \
+                    Variable(ulens), Variable(y1array), Variable(ylens), Variable(y2array)
                 if torch.cuda.is_available():
-                    uarray, ulens, y1array, ylens, y2array, lid1_arr, lid2_arr = uarray.cuda(), \
-                        ulens.cuda(), y1array.cuda(), ylens.cuda(), y2array.cuda(), \
-                        lid1_arr.cuda(), lid2_arr.cuda()
+                    uarray, ulens, y1array, ylens, y2array = uarray.cuda(), \
+                        ulens.cuda(), y1array.cuda(), ylens.cuda(), y2array.cuda()
                 
                 optimizer.zero_grad()
                 prediction = model(uarray, ulens, y1array, ylens)
@@ -726,14 +597,6 @@ def main():
                 loss_asr = seq_cross_entropy(prediction, y2array)
                 tot_loss_asr += loss_asr.item()
                 loss_asr.backward()
-                torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
-                optimizer.step()
-
-                optimizer.zero_grad()
-                prediction_lid = model.forward_lid(uarray, ulens, y1array, ylens)
-                loss_lid = seq_cross_entropy(prediction_lid, lid2_arr)
-                tot_loss_lid += loss_lid.item()
-                loss_lid.backward()
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
                 optimizer.step()
 
@@ -752,18 +615,16 @@ def main():
                 optim_gen.step()
                 tot_gen_loss += loss_gen.item()
 
-                loss = loss_asr + loss_lid + loss_discr + loss_gen
+                loss = loss_asr + loss_discr + loss_gen
                 tot_loss += loss.item()
             if (i+1) % 100 == 0:
                 t1 = time.time()
                 print('Processed %d Batches (%.2f Seconds)' % (i+1, t1-t0))
         avg_loss = tot_loss/len(train_loader.dataset)
         avg_loss_asr = tot_loss_asr/len(train_loader.dataset)
-        avg_loss_lid = tot_loss_lid/len(train_loader.dataset)
         avg_loss_discr = tot_discr_loss/len(train_loader.dataset)
         avg_loss_gen = tot_gen_loss/len(train_loader.dataset)
-        print_log('Train Loss: Total - %f, ASR - %f, LID - %f, Discr - %f, Gen - %f' % \
-            (avg_loss, avg_loss_asr, avg_loss_lid, avg_loss_discr, avg_loss_gen), LOG_PATH)
+        print_log('Train Loss: Total - %f, ASR - %f, Discr - %f, Gen - %f' % (avg_loss, avg_loss_asr, avg_loss_discr, avg_loss_gen), LOG_PATH)
         print_log('Avg Train Perplexity: %f' % (tot_perp/len(train_loader.dataset)), LOG_PATH)
 
         # val
@@ -772,7 +633,7 @@ def main():
             l = 0
             tot_perp = 0
             for i, t in enumerate(dev_loader):
-                uarray, ulens, y1array, ylens, y2array, _, _ = t
+                uarray, ulens, y1array, ylens, y2array = t
                 if torch.min(ulens).item() > 8 and torch.min(ylens).item() > 0:
                     uarray, ulens, y1array, ylens, y2array = Variable(uarray), \
                         Variable(ulens), Variable(y1array), Variable(ylens), Variable(y2array)

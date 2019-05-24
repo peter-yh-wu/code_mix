@@ -1,5 +1,5 @@
 '''
-Script to run Auto-LAS model
+Script to run LID-LAS model
 
 Peter Wu
 peterw1@andrew.cmu.edu
@@ -468,26 +468,6 @@ class DecoderModel(nn.Module):
         generateds = torch.stack(generateds,dim=0)
         return logits, attns, generateds
 
-class TextDiscriminator(nn.Module):
-    '''
-    0 for real, 1 for fake
-    '''
-    def __init__(self):
-        super(TextDiscriminator, self).__init__()
-        self.cnn = nn.Sequential(
-            nn.Conv1d(1, 64, 3),
-            nn.BatchNorm2d(64),
-            nn.LeakyReLU(0.2),
-            nn.Conv1d(1, 128, 3),
-            nn.BatchNorm2d(128),
-            nn.LeakyReLU(0.2)
-        )
-        self.mlp = nn.Sequential(
-            nn.Linear(128, 64),
-            nn.LeakyReLU(0.2),
-            nn.Linear(64, 2)
-        )
-
     def forward(self, x):
         '''
         Args:
@@ -507,18 +487,11 @@ class Seq2SeqModel(nn.Module):
         super(Seq2SeqModel, self).__init__()
         self.encoder = EncoderModel(args)
         self.decoder = DecoderModel(args, vocab_size=vocab_size)
-        self.text_discr = TextDiscriminator()
 
     def forward_lid(self, utterances, utterance_lengths, chars, char_lengths, future=0):
         _, keys, values, lengths = self.encoder(utterances, utterance_lengths)
         logits, attns, generated = self.decoder.forward_lid(chars, char_lengths, keys, values, lengths, future=future)
         return logits, generated, char_lengths
-
-    def forward_discr(self, x, x_p):
-        '''inputs are actual and generated text'''
-        out = self.text_discr(x)
-        out_p = self.text_discr(x_p)
-        return out, out_p
 
     def forward(self, utterances, utterance_lengths, chars, char_lengths, future=0):
         _, keys, values, lengths = self.encoder(utterances, utterance_lengths)
@@ -554,47 +527,6 @@ class SequenceCrossEntropy(nn.CrossEntropyLoss):
         logits = logits * mask.unsqueeze(2)
         losses = super(SequenceCrossEntropy, self).forward(logits.view(-1, logits.size(2)), target.view(-1))
         loss = torch.sum(mask.view(-1) * losses) / logits.size(1)
-        return loss
-
-class DiscrLoss(nn.Module):
-    '''
-    0 for real, 1 for fake
-    '''
-    def __init__(self, frac_flip=0.1):
-        super(DiscrLoss, self).__init__()
-        self.frac_flip = frac_flip
-
-    def forward(self, out, out_p):
-        '''
-        Args:
-            out: shape (batch_size, 2)
-            out_p: shape (batch_size, 2)
-        '''
-        N = out_p.shape[0]
-        out = F.softmax(out, 1)
-        out_p = F.softmax(out_p, 1)
-        shuffled_indices = torch.randperm(N)
-        num_same = int(self.frac_flip*N)
-        same_indices = shuffled_indices[:num_same]
-        diff_indices = shuffled_indices[num_same:]
-        loss1_same = -torch.sum(torch.log(out[same_indices, 0]))
-        loss1_diff = -torch.sum(torch.log(out[diff_indices, 1]))
-        loss2_same = -torch.sum(torch.log(out_p[same_indices, 1]))
-        loss2_diff = -torch.sum(torch.log(out_p[diff_indices, 0]))
-        loss = (loss1_same + loss1_diff + loss2_same + loss2_diff)/2/N
-        return loss
-
-class GenLoss(nn.Module):
-    def __init__(self):
-        super(GenLoss, self).__init__()
-
-    def forward(self, out_p):
-        '''
-        Args:
-            out_p: shape (batch_size, 2)
-        '''
-        out_p = F.softmax(out_p, 1)
-        loss = -torch.mean(torch.log(out_p[:, 0]))
         return loss
 
 def parse_args():
@@ -680,8 +612,6 @@ def main():
     print("Building Model")
     model = Seq2SeqModel(args, vocab_size=charcount)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
-    discr_loss = DiscrLoss()
-    gen_loss = GenLoss()
     seq_cross_entropy = SequenceCrossEntropy()
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
@@ -704,8 +634,6 @@ def main():
         tot_loss = 0.0
         tot_loss_asr = 0.0
         tot_loss_lid = 0.0
-        tot_discr_loss = 0.0
-        tot_gen_loss = 0.0
         tot_perp = 0
         for i, t in enumerate(train_loader):
             uarray, ulens, y1array, ylens, y2array, lid1_arr, lid2_arr = t
@@ -737,22 +665,7 @@ def main():
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
                 optimizer.step()
 
-                optimizer.zero_grad() # train discriminator
-                out, out_p = model.forward_discr(prediction, y2array)
-                loss_discr = discr_loss(out, out_p)
-                loss_discr.backward()
-                torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
-                optim_discr.step()
-                tot_discr_loss += loss_discr.item()
-
-                optim_gen.zero_grad() # train generator
-                loss_gen = gen_loss(out_p)
-                loss_gen.backward()
-                torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
-                optim_gen.step()
-                tot_gen_loss += loss_gen.item()
-
-                loss = loss_asr + loss_lid + loss_discr + loss_gen
+                loss = loss_asr+loss_lid
                 tot_loss += loss.item()
             if (i+1) % 100 == 0:
                 t1 = time.time()
@@ -760,10 +673,7 @@ def main():
         avg_loss = tot_loss/len(train_loader.dataset)
         avg_loss_asr = tot_loss_asr/len(train_loader.dataset)
         avg_loss_lid = tot_loss_lid/len(train_loader.dataset)
-        avg_loss_discr = tot_discr_loss/len(train_loader.dataset)
-        avg_loss_gen = tot_gen_loss/len(train_loader.dataset)
-        print_log('Train Loss: Total - %f, ASR - %f, LID - %f, Discr - %f, Gen - %f' % \
-            (avg_loss, avg_loss_asr, avg_loss_lid, avg_loss_discr, avg_loss_gen), LOG_PATH)
+        print_log('Train Loss: Total - %f, ASR - %f, LID - %f' % (avg_loss, avg_loss_asr, avg_loss_lid), LOG_PATH)
         print_log('Avg Train Perplexity: %f' % (tot_perp/len(train_loader.dataset)), LOG_PATH)
 
         # val
