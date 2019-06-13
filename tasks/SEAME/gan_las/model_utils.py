@@ -26,7 +26,7 @@ def output_mask(maxlen, lengths):
     mask = ran < lens
     return mask
 
-def log_l(logits, target, lengths):
+def log_l(logits, target, lengths, args):
     '''Calculates the log-likelihood for the given batch
 
     Args:
@@ -51,7 +51,7 @@ def log_l(logits, target, lengths):
     log_probs = torch.sum(all_log_probs, 0) # shape: (batch_size,)
     return log_probs
 
-def perplexities_from_x(model, loader):
+def perplexities_from_x(model, loader, args):
     '''
     Return:
         np array of floats with same number of elements as len(loader)
@@ -72,7 +72,7 @@ def perplexities_from_x(model, loader):
         all_perps = np.append(all_perps, perps_np)
     return all_perps
 
-def perplexity(logits, target, lengths):
+def perplexity(logits, target, lengths, args):
     '''Calculates the perplexity for the given batch
 
     Args:
@@ -83,13 +83,13 @@ def perplexity(logits, target, lengths):
     Return:
         perp: float (tensor)
     '''
-    log_probs = log_l(logits, target, lengths) # shape: (batch_size,)
+    log_probs = log_l(logits, target, lengths, args) # shape: (batch_size,)
     tot_log_l = torch.sum(log_probs)
     tot_len = torch.sum(lengths)
     return torch.exp(-tot_log_l/tot_len)
 
-def perplexities(logits, target, lengths):
-    log_probs = log_l(logits, target, lengths) # shape: (batch_size,)
+def perplexities(logits, target, lengths, args):
+    log_probs = log_l(logits, target, lengths, args) # shape: (batch_size,)
     return torch.exp(-log_probs/lengths) # shape: (batch_size,)
 
 def decode_output(output, charset):

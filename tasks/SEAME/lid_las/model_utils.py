@@ -26,7 +26,7 @@ def output_mask(maxlen, lengths):
     mask = ran < lens
     return mask
 
-def log_l(logits, target, lengths):
+def log_l(logits, target, lengths, args):
     '''Calculates the log-likelihood for the given batch
 
     Args:
@@ -42,7 +42,7 @@ def log_l(logits, target, lengths):
     logits_masked = logits * mask.unsqueeze(2)
     range_tens = torch.arange(vocab_size).repeat(seq_len, batch_size, 1)
     if torch.cuda.is_available():
-        range_tens = range_tens.cuda()
+        range_tens = range_tens.cuda(args.cuda)
     target_rep = target.repeat(vocab_size, 1, 1).permute(1, 2, 0)
     masked_tens = range_tens == target_rep
     all_probs = torch.sum(logits*masked_tens.float(), 2) # shape: (seq_len, batch_size)
@@ -51,7 +51,7 @@ def log_l(logits, target, lengths):
     log_probs = torch.sum(all_log_probs, 0) # shape: (batch_size,)
     return log_probs
 
-def perplexities_from_x(model, loader):
+def perplexities_from_x(model, loader, args):
     '''
     Return:
         np array of floats with same number of elements as len(loader)
@@ -63,16 +63,16 @@ def perplexities_from_x(model, loader):
         uarray, ulens, l1array, llens, l2array = Variable(uarray), \
             Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
         if torch.cuda.is_available():
-            uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
-                ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
+            uarray, ulens, l1array, llens, l2array = uarray.cuda(args.cuda), \
+                ulens.cuda(args.cuda), l1array.cuda(args.cuda), llens.cuda(args.cuda), l2array.cuda(args.cuda)
         prediction = model(uarray, ulens, l1array, llens)
         logits, generated, char_lengths = prediction
-        perps = perplexities(logits, l2array, char_lengths) # shape: (batch_size,)
+        perps = perplexities(logits, l2array, char_lengths, args) # shape: (batch_size,)
         perps_np = perps.cpu.numpy()
         all_perps = np.append(all_perps, perps_np)
     return all_perps
 
-def perplexity(logits, target, lengths):
+def perplexity(logits, target, lengths, args):
     '''Calculates the perplexity for the given batch
 
     Args:
@@ -83,13 +83,13 @@ def perplexity(logits, target, lengths):
     Return:
         perp: float (tensor)
     '''
-    log_probs = log_l(logits, target, lengths) # shape: (batch_size,)
+    log_probs = log_l(logits, target, lengths, args) # shape: (batch_size,)
     tot_log_l = torch.sum(log_probs)
     tot_len = torch.sum(lengths)
     return torch.exp(-tot_log_l/tot_len)
 
-def perplexities(logits, target, lengths):
-    log_probs = log_l(logits, target, lengths) # shape: (batch_size,)
+def perplexities(logits, target, lengths, args):
+    log_probs = log_l(logits, target, lengths, args) # shape: (batch_size,)
     return torch.exp(-log_probs/lengths) # shape: (batch_size,)
 
 def decode_output(output, charset):
@@ -110,10 +110,10 @@ def generate_transcripts(args, model, loader, charset):
     # Create and yield transcripts
     for uarray, ulens, l1array, llens, l2array in loader:
         if args.cuda:
-            uarray = uarray.cuda()
-            ulens = ulens.cuda()
-            l1array = l1array.cuda()
-            llens = llens.cuda()
+            uarray = uarray.cuda(args.cuda)
+            ulens = ulens.cuda(args.cuda)
+            l1array = l1array.cuda(args.cuda)
+            llens = llens.cuda(args.cuda)
         uarray = Variable(uarray)
         ulens = Variable(ulens)
         l1array = Variable(l1array)

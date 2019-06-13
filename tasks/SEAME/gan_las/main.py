@@ -51,8 +51,8 @@ class AdvancedLSTM(nn.LSTM):
         self.h0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
         self.c0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
         if torch.cuda.is_available():
-            self.h0 = self.h0.cuda()
-            self.c0 = self.c0.cuda()
+            self.h0 = self.h0.cuda(args.cuda)
+            self.c0 = self.c0.cuda(args.cuda)
 
     def initial_state(self, n):
         return (
@@ -89,6 +89,7 @@ class EncoderModel(nn.Module):
         self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, bidirectional=True))
         self.key_projection = nn.Linear(args.encoder_dim * 2, args.key_dim)
         self.value_projection = nn.Linear(args.encoder_dim * 2, args.value_dim)
+        self.cuda = args.cuda
 
     def forward(self, utterances, utterance_lengths):
         '''Calculates keys and values
@@ -117,7 +118,7 @@ class EncoderModel(nn.Module):
             # shape: (T, B, 2*encoder_dim)
         output_lengths = torch.from_numpy(np.array(output_lengths))
         if backorder.data.is_cuda:
-            output_lengths = output_lengths.cuda()
+            output_lengths = output_lengths.cuda(self.cuda)
         output_lengths = output_lengths[backorder.data]
 
         # Apply key and value
@@ -150,8 +151,8 @@ class AdvancedLSTMCell(nn.LSTMCell):
         self.h0 = Variable(torch.zeros((1, self.hidden_size), dtype=torch.float32))
         self.c0 = Variable(torch.zeros((1, self.hidden_size), dtype=torch.float32))
         if torch.cuda.is_available():
-            self.h0 = self.h0.cuda()
-            self.c0 = self.c0.cuda()
+            self.h0 = self.h0.cuda(args.cuda)
+            self.c0 = self.c0.cuda(args.cuda)
 
     def initial_state(self, n):
         '''
@@ -482,7 +483,7 @@ def parse_args():
     parser.add_argument('--epochs', type=int, default=100, metavar='N', help='number of epochs')
     parser.add_argument('--patience', type=int, default=10, help='patience for early stopping')
     parser.add_argument('--num-workers', type=int, default=2, metavar='N', help='number of workers')
-    parser.add_argument('--no-cuda', action='store_true', default=False, help='disables CUDA training')
+    parser.add_argument('--cuda', type=int, default=0, help='device')
     parser.add_argument('--max-data', type=int, default=1000000000, metavar='N', help='max data in each set')
     parser.add_argument('--max-train', type=int, default=1000000000, help='max train')
     parser.add_argument('--max-dev', type=int, default=1000000000, help='max dev')
@@ -504,7 +505,6 @@ def parse_args():
 
 def main():
     args = parse_args()
-    args.cuda = not args.no_cuda and torch.cuda.is_available()
 
     t0 = time.time()
 
@@ -564,8 +564,7 @@ def main():
     CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
     if os.path.exists(CKPT_PATH):
         model.load_state_dict(torch.load(CKPT_PATH))
-    if args.cuda:
-        model = model.cuda()
+    model = model.cuda(args.cuda)
 
     best_val_loss = sys.maxsize
     prev_best_epoch = 0
@@ -586,13 +585,13 @@ def main():
                 uarray, ulens, y1array, ylens, y2array = Variable(uarray), \
                     Variable(ulens), Variable(y1array), Variable(ylens), Variable(y2array)
                 if torch.cuda.is_available():
-                    uarray, ulens, y1array, ylens, y2array = uarray.cuda(), \
-                        ulens.cuda(), y1array.cuda(), ylens.cuda(), y2array.cuda()
+                    uarray, ulens, y1array, ylens, y2array = uarray.cuda(args.cuda), \
+                        ulens.cuda(args.cuda), y1array.cuda(args.cuda), ylens.cuda(args.cuda), y2array.cuda(args.cuda)
                 
                 optimizer.zero_grad()
                 prediction = model(uarray, ulens, y1array, ylens)
                 logits, _, char_lengths = prediction
-                perp = perplexity(logits, y2array, char_lengths)
+                perp = perplexity(logits, y2array, char_lengths, args)
                 tot_perp += perp.item()
                 loss_asr = seq_cross_entropy(prediction, y2array)
                 tot_loss_asr += loss_asr.item()
@@ -638,12 +637,12 @@ def main():
                     uarray, ulens, y1array, ylens, y2array = Variable(uarray), \
                         Variable(ulens), Variable(y1array), Variable(ylens), Variable(y2array)
                     if torch.cuda.is_available():
-                        uarray, ulens, y1array, ylens, y2array = uarray.cuda(), \
-                            ulens.cuda(), y1array.cuda(), ylens.cuda(), y2array.cuda()
+                        uarray, ulens, y1array, ylens, y2array = uarray.cuda(args.cuda), \
+                            ulens.cuda(args.cuda), y1array.cuda(args.cuda), ylens.cuda(args.cuda), y2array.cuda(args.cuda)
                     prediction = model(uarray, ulens, y1array, ylens)
                     logits, generated, char_lengths = prediction
                     loss = seq_cross_entropy(prediction, y2array)
-                    perp = perplexity(logits, y2array, char_lengths)
+                    perp = perplexity(logits, y2array, char_lengths, args)
                     l += loss.item()
                     tot_perp += perp.item()
             val_loss = l/len(dev_loader.dataset)
