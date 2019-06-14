@@ -45,8 +45,8 @@ class AdvancedLSTM(nn.LSTM):
     '''
     Class for learning initial hidden states when using LSTMs
     '''
-    def __init__(self, *args, **kwargs):
-        super(AdvancedLSTM, self).__init__(*args, **kwargs)
+    def __init__(self, input_dim, output_dim, args, **kwargs):
+        super(AdvancedLSTM, self).__init__(input_dim, output_dim, **kwargs)
         bi = 2 if self.bidirectional else 1
         self.h0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
         self.c0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
@@ -83,10 +83,10 @@ class EncoderModel(nn.Module):
     def __init__(self, args):
         super(EncoderModel, self).__init__()
         self.rnns = nn.ModuleList()
-        self.rnns.append(AdvancedLSTM(INPUT_DIM, args.encoder_dim, bidirectional=True))
-        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, bidirectional=True))
-        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, bidirectional=True))
-        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, bidirectional=True))
+        self.rnns.append(AdvancedLSTM(INPUT_DIM, args.encoder_dim, args, bidirectional=True))
+        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, args, bidirectional=True))
+        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, args, bidirectional=True))
+        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, args, bidirectional=True))
         self.key_projection = nn.Linear(args.encoder_dim * 2, args.key_dim)
         self.value_projection = nn.Linear(args.encoder_dim * 2, args.value_dim)
         self.cuda = args.cuda
@@ -146,8 +146,8 @@ def gumbel_argmax(logits, dim):
 
 class AdvancedLSTMCell(nn.LSTMCell):
     # Extend LSTMCell to learn initial state
-    def __init__(self, *args, **kwargs):
-        super(AdvancedLSTMCell, self).__init__(*args, **kwargs)
+    def __init__(self, input_dim, output_dim, args, **kwargs):
+        super(AdvancedLSTMCell, self).__init__(input_dim, output_dim, **kwargs)
         self.h0 = Variable(torch.zeros((1, self.hidden_size), dtype=torch.float32))
         self.c0 = Variable(torch.zeros((1, self.hidden_size), dtype=torch.float32))
         if torch.cuda.is_available():
@@ -207,9 +207,9 @@ class DecoderModel(nn.Module):
         super(DecoderModel, self).__init__()
         self.embedding = nn.Embedding(vocab_size + 1, args.decoder_dim)
         self.input_rnns = nn.ModuleList()
-        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim + args.value_dim, args.decoder_dim))
-        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim, args.decoder_dim))
-        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim, args.decoder_dim))
+        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim + args.value_dim, args.decoder_dim, args))
+        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim, args.decoder_dim, args))
+        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim, args.decoder_dim, args))
         self.query_projection = nn.Linear(args.decoder_dim, args.key_dim)
         self.char_projection = nn.Sequential(
             nn.Linear(args.decoder_dim+args.value_dim, args.decoder_dim),
@@ -468,19 +468,6 @@ class DecoderModel(nn.Module):
         attns = torch.stack(attns, dim=0)  # (L, N, T)
         generateds = torch.stack(generateds,dim=0)
         return logits, attns, generateds
-
-    def forward(self, x):
-        '''
-        Args:
-            x: shape (max_seq_len, batch_size), all values 0 or 1
-        '''
-        x = x.transpose(0, 1) # shape: (batch_size, max_seq_len)
-        x = x.unsqueeze(1)    # shape: (batch_size, 1, max_seq_len)
-        h = self.cnn(x)       # shape: (batch_size, 128, seq_len)
-        h = F.max_pool1d(h, kernel_size=h.shape[2]) # shape: (batch_size, 128, 1)
-        h = h.squeeze()       # shape: (batch_size, 128)
-        out = self.mlp(h)     # shape: (batch_size, 2)
-        return out
 
 class Seq2SeqModel(nn.Module):
     # Tie encoder and decoder together
