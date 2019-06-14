@@ -678,7 +678,7 @@ def main():
                     prediction = model(uarray, ulens, y1array, ylens)
                     logits, generated, char_lengths = prediction
                     loss = seq_cross_entropy(prediction, y2array)
-                    perp = perplexity(logits, y2array, char_lengths)
+                    perp = perplexity(logits, y2array, char_lengths, args)
                     l += loss.item()
                     tot_perp += perp.item()
             val_loss = l/len(dev_loader.dataset)

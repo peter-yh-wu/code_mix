@@ -13,6 +13,7 @@ import os
 import sys
 import time
 import torch
+import torch.nn.functional as F
 
 from torch import nn
 from torch.autograd import Variable
@@ -45,8 +46,8 @@ class AdvancedLSTM(nn.LSTM):
     '''
     Class for learning initial hidden states when using LSTMs
     '''
-    def __init__(self, *args, **kwargs):
-        super(AdvancedLSTM, self).__init__(*args, **kwargs)
+    def __init__(self, input_dim, output_dim, args, **kwargs):
+        super(AdvancedLSTM, self).__init__(input_dim, output_dim, **kwargs)
         bi = 2 if self.bidirectional else 1
         self.h0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
         self.c0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
@@ -83,10 +84,10 @@ class EncoderModel(nn.Module):
     def __init__(self, args):
         super(EncoderModel, self).__init__()
         self.rnns = nn.ModuleList()
-        self.rnns.append(AdvancedLSTM(INPUT_DIM, args.encoder_dim, bidirectional=True))
-        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, bidirectional=True))
-        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, bidirectional=True))
-        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, bidirectional=True))
+        self.rnns.append(AdvancedLSTM(INPUT_DIM, args.encoder_dim, args, bidirectional=True))
+        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, args, bidirectional=True))
+        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, args, bidirectional=True))
+        self.rnns.append(pLSTM(args.encoder_dim * 4, args.encoder_dim, args, bidirectional=True))
         self.key_projection = nn.Linear(args.encoder_dim * 2, args.key_dim)
         self.value_projection = nn.Linear(args.encoder_dim * 2, args.value_dim)
         self.cuda = args.cuda
@@ -146,8 +147,8 @@ def gumbel_argmax(logits, dim):
 
 class AdvancedLSTMCell(nn.LSTMCell):
     # Extend LSTMCell to learn initial state
-    def __init__(self, *args, **kwargs):
-        super(AdvancedLSTMCell, self).__init__(*args, **kwargs)
+    def __init__(self, input_dim, output_dim, args, **kwargs):
+        super(AdvancedLSTMCell, self).__init__(input_dim, output_dim, **kwargs)
         self.h0 = Variable(torch.zeros((1, self.hidden_size), dtype=torch.float32))
         self.c0 = Variable(torch.zeros((1, self.hidden_size), dtype=torch.float32))
         if torch.cuda.is_available():
@@ -207,9 +208,9 @@ class DecoderModel(nn.Module):
         super(DecoderModel, self).__init__()
         self.embedding = nn.Embedding(vocab_size + 1, args.decoder_dim)
         self.input_rnns = nn.ModuleList()
-        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim + args.value_dim, args.decoder_dim))
-        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim, args.decoder_dim))
-        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim, args.decoder_dim))
+        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim + args.value_dim, args.decoder_dim, args))
+        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim, args.decoder_dim, args))
+        self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim, args.decoder_dim, args))
         self.query_projection = nn.Linear(args.decoder_dim, args.key_dim)
         self.char_projection = nn.Sequential(
             nn.Linear(args.decoder_dim+args.value_dim, args.decoder_dim),
@@ -359,10 +360,10 @@ class TextDiscriminator(nn.Module):
         super(TextDiscriminator, self).__init__()
         self.cnn = nn.Sequential(
             nn.Conv1d(1, 64, 3),
-            nn.BatchNorm2d(64),
+            nn.BatchNorm1d(64),
             nn.LeakyReLU(0.2),
-            nn.Conv1d(1, 128, 3),
-            nn.BatchNorm2d(128),
+            nn.Conv1d(64, 128, 3),
+            nn.BatchNorm1d(128),
             nn.LeakyReLU(0.2)
         )
         self.mlp = nn.Sequential(
@@ -397,6 +398,11 @@ class Seq2SeqModel(nn.Module):
         out = self.text_discr(x)
         out_p = self.text_discr(x_p)
         return out, out_p
+
+    def forward_gen(self, x_p):
+        '''input is actual text'''
+        out_p = self.text_discr(x_p)
+        return out_p
 
     def forward(self, utterances, utterance_lengths, chars, char_lengths, future=0):
         _, keys, values, lengths = self.encoder(utterances, utterance_lengths)
@@ -554,6 +560,8 @@ def main():
     print("Building Model")
     model = Seq2SeqModel(args, vocab_size=charcount)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
+    optim_discr = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
+    optim_gen = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     discr_loss = DiscrLoss()
     gen_loss = GenLoss()
     seq_cross_entropy = SequenceCrossEntropy()
@@ -590,7 +598,7 @@ def main():
                 
                 optimizer.zero_grad()
                 prediction = model(uarray, ulens, y1array, ylens)
-                logits, _, char_lengths = prediction
+                logits, generated, char_lengths = prediction
                 perp = perplexity(logits, y2array, char_lengths, args)
                 tot_perp += perp.item()
                 loss_asr = seq_cross_entropy(prediction, y2array)
@@ -599,8 +607,10 @@ def main():
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
                 optimizer.step()
 
-                optimizer.zero_grad() # train discriminator
-                out, out_p = model.forward_discr(prediction, y2array)
+                optim_discr.zero_grad() # train discriminator
+                out, out_p = model.forward_discr(generated.float(), y2array.float())
+                    # generated: LongTensor with shape (seq_len, batch_size)
+                    # y2array: LongTensor with shape (seq_len, batch_size)
                 loss_discr = discr_loss(out, out_p)
                 loss_discr.backward()
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
@@ -608,6 +618,7 @@ def main():
                 tot_discr_loss += loss_discr.item()
 
                 optim_gen.zero_grad() # train generator
+                out_p = model.forward_gen(y2array.float())
                 loss_gen = gen_loss(out_p)
                 loss_gen.backward()
                 torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
