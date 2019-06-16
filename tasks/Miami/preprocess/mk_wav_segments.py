@@ -21,10 +21,11 @@ def main():
     for i, raw_text_path in enumerate(raw_text_paths):
         curr_raw_text_file = raw_text_files[i]
         fid = curr_raw_text_file.split('_')[0]
+        print('Processing %s' % fid)
         orig_wav_file = fid+'.wav'
         orig_wav_path = os.path.join(wav_dir, orig_wav_file)
 
-        with open(raw_text_paths, 'r') as inf:
+        with open(raw_text_path, 'r') as inf:
             curr_lines = inf.readlines()
         t1s = []
         t2s = []
