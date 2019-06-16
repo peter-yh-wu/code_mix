@@ -32,12 +32,14 @@ def main():
         new_wav_paths = []
         for l in curr_lines:
             l_list = l.split()
-            t1 = l[0]
-            t2 = l[1]
+            t1_str = l[0]
+            t2_str = l[1]
+            t1 = float(t1_str)
+            t2 = float(t2_str)
             t1s.append(t1)
             t2s.append(t2)
-            t1_str = str(t1).replace('.', 'p')
-            t2_str = str(t2).replace('.', 'p')
+            t1_str = t1_str.replace('.', 'p')
+            t2_str = t2_str.replace('.', 'p')
             new_wav_file = fid+'_'+t1_str+'_'+t2_str+'.wav'
             new_wav_path = os.path.join(new_wav_dir, new_wav_file)
             new_wav_paths.append(new_wav_path)
