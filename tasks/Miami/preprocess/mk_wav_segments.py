@@ -12,6 +12,8 @@ def main():
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     wav_dir = os.path.join(parent_dir, 'data', 'raw_wav')
     new_wav_dir = os.path.join(parent_dir, 'data', 'wav')
+    if not os.path.exists(new_wav_dir):
+        os.makedirs(new_wav_dir)
     raw_text_dir = os.path.join(parent_dir, 'data', 'raw_text')
 
     raw_text_files = os.listdir(raw_text_dir)
