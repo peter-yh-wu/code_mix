@@ -32,8 +32,8 @@ def main():
         new_wav_paths = []
         for l in curr_lines:
             l_list = l.split()
-            t1_str = l[0]
-            t2_str = l[1]
+            t1_str = l_list[0]
+            t2_str = l_list[1]
             t1 = float(t1_str)
             t2 = float(t2_str)
             t1s.append(t1)
