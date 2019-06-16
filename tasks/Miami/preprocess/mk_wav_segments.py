@@ -22,7 +22,7 @@ def main():
         curr_raw_text_file = raw_text_files[i]
         fid = curr_raw_text_file.split('_')[0]
         orig_wav_file = fid+'.wav'
-        orig_wav_path = os.path.join(wav_dir, curr_wav_file)
+        orig_wav_path = os.path.join(wav_dir, orig_wav_file)
 
         with open(raw_text_paths, 'r') as inf:
             curr_lines = inf.readlines()
