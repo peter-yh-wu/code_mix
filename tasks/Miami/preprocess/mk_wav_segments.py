@@ -16,7 +16,7 @@ def main():
 
     raw_text_files = os.listdir(raw_text_dir)
     raw_text_files = [f for f in raw_text_dir if f.endswith('.txt')]
-    raw_text_paths = [os.path.join(raw_text_dir, f) for f in raw_text_dir]
+    raw_text_paths = [os.path.join(raw_text_dir, f) for f in raw_text_files]
 
     for i, raw_text_path in enumerate(raw_text_paths):
         curr_raw_text_file = raw_text_files[i]
