@@ -20,6 +20,8 @@ def main():
     script_txt_paths = [os.path.join(script_txt_dir, f) for f in script_txt_files]
 
     new_txt_dir = os.path.join(data_dir, 'txt')
+    if not os.path.exists(new_txt_dir):
+        os.makedirs(new_txt_dir)
     new_script_txt_path = os.path.join(new_txt_dir, 'script.txt')
 
     script_lines = []
