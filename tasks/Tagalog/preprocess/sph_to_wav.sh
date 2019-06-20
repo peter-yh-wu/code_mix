@@ -1,6 +1,7 @@
 cd ../data/scripted/audio
-for %%a in (*.sph);
-    echo $a 
-    sox "%%~a" "../wav/%%~na.wav"
+for a in *.sph; do
+    echo $a
+    y=${a%.sph}
+    sox $a "../wav/${y}.wav"
 done
 cd ../../scripted/preprocess
