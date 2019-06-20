@@ -220,8 +220,18 @@ if __name__ == '__main__':
         start = time.time()
         with torch.no_grad():
             for sent in dev:
+                if args.dataset == 'miami':
+                    lang_ids = ['<s>'] + sent[1] + ['<s>']
+                    sent = ['<s>'] + sent[0] + ['<s>']
+                    if len(sent) == 2 or len(lang_ids) == 2:
+                        continue
+                    if len(sent) != len(lang_ids):
+                        print(sent)
+                        continue
+                else:
+                    lang_ids = None
                 # sentences = batch.to(DEVICE)
-                loss = calc_sent_loss(sent, model, criterion)
+                loss = calc_sent_loss(sent, model, criterion, lang_ids)
                 dev_loss += loss.data
                 dev_words += (len(sent) - 2)
 
