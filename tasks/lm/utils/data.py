@@ -86,6 +86,29 @@ def read_qg_data(files):
     return data
 
 
+def read_miami_data(data_path):
+    with open(os.path.join(data_path, 'train.txt'), 'r') as f:
+        lines = f.readlines()
+        train = [line.split()[1:] for line in lines]
+    with open(os.path.join(data_path, 'train_lids.txt'), 'r') as f:
+        lines = f.readlines()
+        train_ids = [line.split()[1:] for line in lines]
+    with open(os.path.join(data_path, 'test.txt'), 'r') as f:
+        lines = f.readlines()
+        test = [line.split()[1:] for line in lines]
+    with open(os.path.join(data_path, 'test_lids.txt'), 'r') as f:
+        lines = f.readlines()
+        test_ids = [line.split()[1:] for line in lines]
+    with open(os.path.join(data_path, 'dev.txt'), 'r') as f:
+        lines = f.readlines()
+        dev = [line.split()[1:] for line in lines]
+    with open(os.path.join(data_path, 'dev_lids.txt'), 'r') as f:
+        lines = f.readlines()
+        dev_ids = [line.split()[1:] for line in lines]
+
+    return train, dev, test, train_ids, dev_ids, test_ids
+
+
 def read_dataset(data_path, num_workers=1):
     data = []
     all_file_paths = glob(os.path.join(data_path, '**/*.txt'), recursive=True)
