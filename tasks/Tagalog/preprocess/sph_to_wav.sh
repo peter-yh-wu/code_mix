@@ -1,6 +1,6 @@
-cd ../audio
+cd ../data/audio
 for %%a in (*.sph);
     echo $a 
     sox "%%~a" "../wav/%%~na.wav"
 done
-cd ../preprocess
+cd ../../preprocess
