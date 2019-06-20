@@ -24,12 +24,12 @@ from torch.utils.data import DataLoader
 from log import init_logger
 
 
-def calc_sent_loss(sent, model, criterion):
+def calc_sent_loss(sent, model, criterion, lang_ids=None):
     """
     Calculate the loss value for the entire sentence
     """
     targets = torch.LongTensor([model.vocab[tok] for tok in sent[1:]]).to(DEVICE)
-    logits = model(sent)
+    logits = model(sent, lang_ids)
     loss = criterion(logits, targets)
     return loss
 
@@ -74,41 +74,57 @@ if __name__ == '__main__':
     logger.info(args)
 
     # Load data
-    logger.info('Loading SEAME dataset...')
-    dataset = read_dataset(args.data)
-    if args.qg:
-        logger.info('Loading QG dataset...')
-        dataset.extend(read_dataset('data/QGdata'))
-    dataset = dataset[: int(len(dataset) * args.subset)]
-    train = dataset[: int(len(dataset)*0.8)]
-    dev = dataset[int(len(dataset)*0.8) + 1: -1]
+    if args.dataset.lower() == 'seame':
+        logger.info('Loading SEAME dataset...')
+        dataset = read_dataset(args.data)
+        if args.qg:
+            logger.info('Loading QG dataset...')
+            dataset.extend(read_dataset('data/QGdata'))
+        dataset = dataset[: int(len(dataset) * args.subset)]
+        train = dataset[: int(len(dataset)*0.8)]
+        dev = dataset[int(len(dataset)*0.8) + 1: -1]
+        train_ids = None
+    elif args.dataset.lower() == 'miami':
+        logger.info('Loading Miami dataset...')
+        train, dev, test, train_ids, dev_ids, test_ids = read_miami_data(args.data)
+    else:
+        raise NotImplemented
+
     vocab = Vocab(train)
 
-    train_chn_tok_num, train_eng_tok_num = 0, 0
-    for sent in train:
-        for tok in sent:
-            if is_chinese_word(tok):
-                train_chn_tok_num += 1
-            else:
-                train_eng_tok_num += 1
+    if args.dataset.lower() == 'seame':
+        train_chn_tok_num, train_eng_tok_num = 0, 0
+        for sent in train:
+            for tok in sent:
+                if is_chinese_word(tok):
+                    train_chn_tok_num += 1
+                else:
+                    train_eng_tok_num += 1
 
-    dev_chn_tok_num, dev_eng_tok_num = 0, 0
-    for sent in dev:
-        for tok in sent:
-            if is_chinese_word(tok):
-                dev_chn_tok_num += 1
-            else:
-                dev_eng_tok_num += 1
+        dev_chn_tok_num, dev_eng_tok_num = 0, 0
+        for sent in dev:
+            for tok in sent:
+                if is_chinese_word(tok):
+                    dev_chn_tok_num += 1
+                else:
+                    dev_eng_tok_num += 1
 
-    logger.info('#'*60)
-    logger.info('Training samples: {}'.format(len(train)))
-    logger.info('Dev samples:      {}'.format(len(dev)))
-    logger.info('Vocabulary size:  {}'.format(len(vocab)))
-    logger.info('Training CHN token amount: {}'.format(train_chn_tok_num))
-    logger.info('Training ENG token amount: {}'.format(train_eng_tok_num))
-    logger.info('Dev CHN token amount {}'.format(dev_chn_tok_num))
-    logger.info('Dev ENG token amount {}'.format(dev_eng_tok_num))
-    logger.info('#' * 60)
+        logger.info('#' * 60)
+        logger.info('Training samples: {}'.format(len(train)))
+        logger.info('Dev samples:      {}'.format(len(dev)))
+        logger.info('Vocabulary size:  {}'.format(len(vocab)))
+        logger.info('Training CHN token amount: {}'.format(train_chn_tok_num))
+        logger.info('Training ENG token amount: {}'.format(train_eng_tok_num))
+        logger.info('Dev CHN token amount {}'.format(dev_chn_tok_num))
+        logger.info('Dev ENG token amount {}'.format(dev_eng_tok_num))
+        logger.info('#' * 60)
+
+    else:
+        logger.info('#' * 60)
+        logger.info('Training samples: {}'.format(len(train)))
+        logger.info('Dev samples:      {}'.format(len(dev)))
+        logger.info('Vocabulary size:  {}'.format(len(vocab)))
+        logger.info('#' * 60)
 
     # Initialize the model and the optimizer
     logger.info('Building model...')
@@ -116,7 +132,7 @@ if __name__ == '__main__':
         model = DualLSTM(batch_size=args.batch, hidden_size=args.hidden,
                          embed_size=args.embed, n_gram=args.ngram,
                          vocab=vocab, vocab_size=len(vocab), dropout=args.dp,
-                         embedding=None, freeze=False)
+                         embedding=None, freeze=False, dataset=args.dataset)
     elif args.model.lower() == 'fnn':
         model = FNNLM(n_words=len(vocab), emb_size=args.embed,
                       hid_size=args.hidden, num_hist=args.ngram, dropout=args.dp)
@@ -145,6 +161,10 @@ if __name__ == '__main__':
     last_dev = 1e20
     best_dev = 1e20
 
+    if args.dataset == 'miami':
+        train = [(sent, idx) for sent, idx in zip(train, train_ids)]
+        dev = [(sent, idx) for sent, idx in zip(dev, dev_ids)]
+
     # Perform training
     for epoch in range(args.epoch):
         # shuffle training data
@@ -154,9 +174,22 @@ if __name__ == '__main__':
         train_words, train_loss = 0, 0.0
         train_sents = 0
         start = time.time()
-        for sent in train:
+        for idx, sent in enumerate(train):
+            if args.dataset == 'miami':
+                lang_ids = ['<s>'] + sent[1] + ['<s>']
+                sent = ['<s>'] + sent[0] + ['<s>']
+                if len(sent) == 2 or len(lang_ids) == 2:
+                    continue
+                if len(sent) != len(lang_ids):
+                    print(sent)
+                    continue
+            else:
+                lang_ids = None
             # TODO: mean or sum loss?
-            loss = calc_sent_loss(sent, model, criterion)
+            try:
+                loss = calc_sent_loss(sent, model, criterion, lang_ids)
+            except:
+                pdb.set_trace()
             train_loss += loss.data
             train_words += (len(sent) - 2)
             train_sents += 1

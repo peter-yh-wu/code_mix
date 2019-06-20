@@ -38,12 +38,14 @@ class DualLSTM(nn.Module):
     Dual LSTM Language Model
     """
     def __init__(self, batch_size, hidden_size, embed_size, n_gram, vocab, vocab_size,
-                 dropout=0.5, embedding=None, freeze=False):
+                 dropout=0.5, embedding=None, freeze=False, dataset='seame'):
         super(DualLSTM, self).__init__()
         self.batch_size = batch_size
         self.hidden_size = hidden_size
         self.vocab = vocab
         self.vocab_size = vocab_size
+        self.dataset = dataset
+
         if embedding is not None:
             self.embedding = nn.Embedding.from_pretrained(embeddings=embedding, freeze=freeze)
         else:
@@ -77,8 +79,8 @@ class DualLSTM(nn.Module):
     def init_weights(self):
         self.apply(weight_init)
 
-    def forward(self, sentence):
-        sent_embed, embed_mask = self.embed_sentence(sentence)
+    def forward(self, sentence, lang_ids=None):
+        sent_embed, embed_mask = self.embed_sentence(sentence, lang_ids)
         lstm_out = []
         for i in range(len(sent_embed)):
             if embed_mask[i] > 0:
@@ -93,13 +95,21 @@ class DualLSTM(nn.Module):
         prediction = self.fc(torch.squeeze(lstm_out))
         return prediction
 
-    def embed_sentence(self, sentence):
+    def embed_sentence(self, sentence, lang_ids=None):
         embedding = []
-        embed_mask = torch.zeros(len(sentence))
-        for idx, token in enumerate(sentence[:-1]):
-            try:
-                embedding.append(self.embedding(torch.LongTensor([self.vocab[token]]).to(DEVICE)))
-                embed_mask[idx] = 1. if is_english_word(token) else 0.
-            except Exception as e:
-                print(e, sentence, self.vocab_size, token, self.vocab[token])
+        if self.dataset == 'seame':
+            embed_mask = torch.zeros(len(sentence))
+            for idx, token in enumerate(sentence[:-1]):
+                try:
+                    embedding.append(self.embedding(torch.LongTensor([self.vocab[token]]).to(DEVICE)))
+                    embed_mask[idx] = 1. if is_english_word(token) else 0.
+                except Exception as e:
+                    print(e, sentence, self.vocab_size, token, self.vocab[token])
+        else:
+            embed_mask = torch.FloatTensor([1. if _ == 'eng' or _ == 'engspa' else 0. for _ in lang_ids])
+            for idx, token in enumerate(sentence[:-1]):
+                try:
+                    embedding.append(self.embedding(torch.LongTensor([self.vocab[token]]).to(DEVICE)))
+                except Exception as e:
+                    print(e, sentence, self.vocab_size, token, self.vocab[token])
         return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE)
