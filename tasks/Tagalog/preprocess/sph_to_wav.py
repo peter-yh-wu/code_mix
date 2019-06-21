@@ -18,6 +18,7 @@ def main():
 
   for i, p in enumerate(scripted_audio_paths):
     curr_audio_file = scripted_audio_files[i]
+    print(curr_audio_file)
     curr_wav_file = curr_audio_file[:-4]+'.wav'
     curr_wav_path = os.path.join(wav_dir, curr_wav_file)
 
