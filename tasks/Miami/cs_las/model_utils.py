@@ -183,7 +183,7 @@ class ASRDataset(Dataset):
             labels: list of 1-dim int np arrays
         '''
         parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        self.mfcc_dir = os.path.join(parent_dir, 'data/interview/mfcc')
+        self.mfcc_dir = os.path.join(parent_dir, 'data/mfcc')
         self.ids = ids
         if labels:
             self.labels = [torch.from_numpy(y + 1).long() for y in labels]  # +1 for start/end token
