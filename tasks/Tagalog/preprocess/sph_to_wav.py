@@ -1,6 +1,7 @@
 import audioread
 import contextlib
 import os
+import wave
 
 def main():
   parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
