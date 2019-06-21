@@ -22,7 +22,7 @@ def main():
     curr_wav_path = os.path.join(wav_dir, curr_wav_file)
 
     with audioread.audio_open(p) as f:
-      with contextlib.closing(wave.open(curr_wav_path, 'w+')) as of:
+      with contextlib.closing(wave.open(curr_wav_path, 'w')) as of:
         of.setnchannels(f.channels)
         of.setframerate(f.samplerate)
         of.setsampwidth(2)
