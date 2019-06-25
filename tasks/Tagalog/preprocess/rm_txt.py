@@ -1,4 +1,4 @@
-'''Removes (()) symbol and empty lines'''
+'''Removes (()) and ~ symbols and empty lines'''
 
 import os
 
@@ -17,7 +17,7 @@ def main():
         l_list = l.split()
         new_l_list = []
         for w in l_list:
-            if w != '(())':
+            if w != '(())' and w != '~':
                 new_l_list.append(w)
         new_l = ' '.join(new_l_list)
         if len(new_l_list) > 1:
