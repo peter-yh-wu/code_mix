@@ -63,6 +63,8 @@ class DualLSTM(nn.Module):
             nn.Linear(2*hidden_size, vocab_size)
         ).to(DEVICE)
 
+        self.lang_classifier = nn.Linear(2*self.hidden_size, 2)
+
         # [batch_size, hidden_size]
         self.hidden_en = self.init_hidden()
         self.hidden_cn = self.init_hidden()
@@ -83,7 +85,14 @@ class DualLSTM(nn.Module):
         sent_embed, embed_mask = self.embed_sentence(sentence, lang_ids)
         lstm_out = []
         for i in range(len(sent_embed)):
-            if embed_mask[i] > 0:
+            if self.training:
+                lang_id = embed_mask[i]
+            else:
+                if i == 0:
+                    lang_id = 1
+                else:
+                    lang_id = torch.argmax(self.lang_classifier(torch.cat((self.hidden_en, self.hidden_cn), dim=1)), dim=1)
+            if lang_id > 0:
                 self.hidden_en, self.cell = self.lstm_en(sent_embed[i], (self.hidden_en, self.cell))
                 self.hidden_cn, self.cell = self.lstm_cn(self.dummy_tok, (self.hidden_en, self.cell))
             else:
@@ -93,7 +102,8 @@ class DualLSTM(nn.Module):
         lstm_out = torch.stack(lstm_out)
 
         prediction = self.fc(torch.squeeze(lstm_out))
-        return prediction
+        lang_ids_pred = self.lang_classifier(torch.squeeze(lstm_out))
+        return prediction, lang_ids_pred
 
     def embed_sentence(self, sentence, lang_ids=None):
         embedding = []
@@ -106,10 +116,10 @@ class DualLSTM(nn.Module):
                 except Exception as e:
                     print(e, sentence, self.vocab_size, token, self.vocab[token])
         else:
-            embed_mask = torch.FloatTensor([1. if _ == 'eng' or _ == 'engspa' else 0. for _ in lang_ids])
+            embed_mask = lang_ids
             for idx, token in enumerate(sentence[:-1]):
                 try:
                     embedding.append(self.embedding(torch.LongTensor([self.vocab[token]]).to(DEVICE)))
                 except Exception as e:
                     print(e, sentence, self.vocab_size, token, self.vocab[token])
-        return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE)
+        return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE) if embed_mask is not None else embed_mask

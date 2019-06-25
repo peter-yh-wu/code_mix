@@ -28,9 +28,12 @@ def calc_sent_loss(sent, model, criterion, lang_ids=None):
     """
     Calculate the loss value for the entire sentence
     """
+    lang_ids = torch.LongTensor([1 if _ == 'eng' or _ == 'engspa' or _ == '<s>' else 0 for _ in lang_ids])
     targets = torch.LongTensor([model.vocab[tok] for tok in sent[1:]]).to(DEVICE)
-    logits = model(sent, lang_ids)
+    logits, lang_ids_pred = model(sent, lang_ids)
     loss = criterion(logits, targets)
+    if lang_ids is not None:
+        loss += criterion(lang_ids_pred, lang_ids[1:])
     return loss
 
 
@@ -43,7 +46,7 @@ def generate_sent(model, max_len):
     sent = []
 
     while len(sent) < max_len:
-        logits = model(hist + ['<s>'])
+        logits = model(hist + ['<s>'])[0]
         if logits.dim() > 1:
             logits = logits[-1]
         next_word = gumbel_argmax(logits, dim=0)
@@ -86,7 +89,7 @@ if __name__ == '__main__':
         train_ids = None
     elif args.dataset.lower() == 'miami':
         logger.info('Loading Miami dataset...')
-        train, dev, test, train_ids, dev_ids, test_ids = read_miami_data(args.data)
+        train, dev, test, train_ids, dev_ids, test_ids, miami_dict = read_miami_data(args.data)
     else:
         raise NotImplemented
 
@@ -186,10 +189,7 @@ if __name__ == '__main__':
             else:
                 lang_ids = None
             # TODO: mean or sum loss?
-            try:
-                loss = calc_sent_loss(sent, model, criterion, lang_ids)
-            except:
-                pdb.set_trace()
+            loss = calc_sent_loss(sent, model, criterion, lang_ids)
             train_loss += loss.data
             train_words += (len(sent) - 2)
             train_sents += 1

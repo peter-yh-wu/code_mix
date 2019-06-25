@@ -106,7 +106,23 @@ def read_miami_data(data_path):
         lines = f.readlines()
         dev_ids = [line.split()[1:] for line in lines]
 
-    return train, dev, test, train_ids, dev_ids, test_ids
+    miami_dict = {'eng': [], 'spa': []}
+    for uttr, ids in zip(train, train_ids):
+        if len(uttr) != len(ids):
+            continue
+        else:
+            for tok, _id in zip(uttr, ids):
+                if _id == 'eng':
+                    miami_dict['eng'].append(tok)
+                elif _id == 'spa':
+                    miami_dict['spa'].append(tok)
+                elif _id == 'engspa':
+                    miami_dict['eng'].append(tok)
+                    miami_dict['spa'].append(tok)
+                else:
+                    continue
+
+    return train, dev, test, train_ids, dev_ids, test_ids, miami_dict
 
 
 def read_dataset(data_path, num_workers=1):
