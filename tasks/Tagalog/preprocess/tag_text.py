@@ -1,6 +1,8 @@
 import langid
 import os
 
+from langdetect import detect
+
 def main():
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(parent_dir, 'data')
@@ -21,7 +23,9 @@ def main():
 
         lids = []
         for w in l_list[1:]:
-            lid = langid.classify(w)[0]
+            # lid1 = langid.classify(w)[0]
+            lid2 = detect(w)
+            lid = lid2
             lids.append(lid)
 
         new_l_list = [l_list[0]]+lids
