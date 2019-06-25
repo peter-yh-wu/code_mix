@@ -23,7 +23,7 @@ def main():
         if len(new_l_list) > 1:
             new_lines.append(new_l)
 
-    with open(scripted_lids_path, 'w') as ouf:
+    with open(scripted_txt_path, 'w') as ouf:
         for l in new_lines:
             ouf.write('%s\n' % l)
 
