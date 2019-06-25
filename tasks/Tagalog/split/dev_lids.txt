@@ -1,0 +1,1291 @@
+BABEL_BP_106_72119_20120315_155110_O3_scripted tl
+BABEL_BP_106_44369_20120319_021626_C4_scripted en en en en en en
+BABEL_BP_106_25502_20120129_013612_S7_scripted tl en tl tl tl tl
+BABEL_BP_106_63711_20120129_024733_SA_scripted tl en en tl tl tl tl
+BABEL_BP_106_71741_20120127_150024_O1_scripted en
+BABEL_BP_106_84284_20120304_162006_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_75020_20120125_234308_O3_scripted tl
+BABEL_BP_106_86801_20120315_010355_SB_scripted tl en en tl tl tl en tl tl en
+BABEL_BP_106_32263_20120225_205542_S8_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_78879_20120205_154049_SB_scripted tl tl tl tl tl tl
+BABEL_BP_106_29097_20120126_225434_S5_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_46521_20120205_184105_SB_scripted tl tl tl tl
+BABEL_BP_106_28754_20120205_121356_O2_scripted en
+BABEL_BP_106_35357_20120309_225610_O2_scripted tl tl
+BABEL_BP_106_58923_20120128_004805_S8_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_82103_20120130_124500_C1_scripted en en en en en
+BABEL_BP_106_61446_20120603_123450_O1_scripted tl
+BABEL_BP_106_59925_20120403_154701_I2_scripted en
+BABEL_BP_106_88253_20120318_120934_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_11311_20120209_174959_SC_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_98279_20120228_231208_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_86029_20120130_003740_O7_scripted en en
+BABEL_BP_106_67772_20120129_045122_T1_scripted en en en tl
+BABEL_BP_106_57039_20120313_232557_M1_scripted en en en en en en en en
+BABEL_BP_106_80174_20120422_042309_D3_scripted tl tl tl tl
+BABEL_BP_106_90506_20120127_234917_T1_scripted tl tl tl
+BABEL_BP_106_37010_20120118_202746_O5_scripted en en en
+BABEL_BP_106_12552_20120214_011052_C4_scripted en en en en en en
+BABEL_BP_106_41989_20120205_185759_D5_scripted tl tl
+BABEL_BP_106_51073_20120128_194313_C1_scripted en en en en en
+BABEL_BP_106_35357_20120309_225746_O3_scripted tl
+BABEL_BP_106_15146_20120112_110002_C4_scripted en en en en en en
+BABEL_BP_106_32263_20120225_204935_O3_scripted tl
+BABEL_BP_106_69446_20120416_011656_A1_scripted en
+BABEL_BP_106_42749_20120309_193250_O5_scripted en en en tl
+BABEL_BP_106_92436_20120212_153511_C4_scripted en en en en en en
+BABEL_BP_106_14836_20120221_190049_I2_scripted en
+BABEL_BP_106_36975_20120225_125749_SC_scripted tl en tl tl tl tl tl
+BABEL_BP_106_91975_20120318_202938_M1_scripted en en en en en en en en
+BABEL_BP_106_10066_20120605_125055_O8_scripted tl
+BABEL_BP_106_78094_20120127_133827_O7_scripted en en
+BABEL_BP_106_81944_20120404_114759_S9_scripted tl tl tl tl tl tl
+BABEL_BP_106_11152_20120421_133353_T2_scripted tl tl en en tl tl
+BABEL_BP_106_83702_20120211_231958_S7_scripted tl tl tl tl tl tl
+BABEL_BP_106_29280_20120405_194505_A1_scripted tl
+BABEL_BP_106_31606_20120403_223219_O6_scripted en tl
+BABEL_BP_106_65989_20120605_165325_S6_scripted tl tl tl tl tl
+BABEL_BP_106_50589_20120128_182853_SB_scripted tl tl tl tl
+BABEL_BP_106_48536_20120129_050250_S5_scripted tl tl tl tl en tl tl tl
+BABEL_BP_106_74986_20120418_224023_S7_scripted tl tl en tl tl
+BABEL_BP_106_77965_20120117_190524_S3_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_86419_20120120_005642_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_80174_20120422_042443_S2_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_17207_20120221_215945_D1_scripted en en en en en
+BABEL_BP_106_90393_20120211_220752_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_84394_20120226_183113_C6_scripted en en en en en en en
+BABEL_BP_106_67772_20120129_045846_S8_scripted tl tl en tl tl tl tl
+BABEL_BP_106_37010_20120118_202717_SB_scripted tl tl tl tl tl
+BABEL_BP_106_59383_20120317_183144_A1_scripted tl
+BABEL_BP_106_20320_20120206_213738_C4_scripted en en en en en en
+BABEL_BP_106_79970_20120420_165529_SA_scripted tl tl tl tl tl tl
+BABEL_BP_106_32045_20120210_151900_O2_scripted en
+BABEL_BP_106_36975_20120225_125905_S3_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_63632_20120214_021700_S6_scripted tl tl tl tl tl tl
+BABEL_BP_106_42309_20120403_221020_T1_scripted en tl tl tl tl
+BABEL_BP_106_20775_20120309_185953_T3_scripted tl tl tl tl en tl tl tl
+BABEL_BP_106_50416_20120224_180659_D5_scripted tl tl tl tl en tl tl tl tl
+BABEL_BP_106_80638_20120411_225018_M1_scripted en en en en en en en en en
+BABEL_BP_106_81944_20120404_115114_SC_scripted tl tl tl tl tl en tl tl tl
+BABEL_BP_106_42749_20120309_193740_T3_scripted tl tl tl en tl tl tl
+BABEL_BP_106_12655_20120110_203139_O6_scripted tl tl
+BABEL_BP_106_35016_20120405_200704_S9_scripted tl tl tl tl en tl tl tl
+BABEL_BP_106_29302_20120209_210456_O7_scripted en en
+BABEL_BP_106_56943_20120126_222231_T3_scripted tl tl tl en tl tl tl
+BABEL_BP_106_29302_20120209_210410_D2_scripted tl tl tl tl en tl tl tl tl en tl
+BABEL_BP_106_87281_20120318_175900_C6_scripted en en en en en en en
+BABEL_BP_106_41541_20120315_005023_O8_scripted en
+BABEL_BP_106_24638_20120419_014821_S2_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_47661_20120131_000508_I2_scripted en
+BABEL_BP_106_53500_20120208_150422_O1_scripted en
+BABEL_BP_106_17080_20120126_160234_S4_scripted tl tl tl tl en tl tl en
+BABEL_BP_106_27363_20120315_174022_S3_scripted tl tl tl tl tl tl tl en
+BABEL_BP_106_43652_20120208_004532_O3_scripted tl
+BABEL_BP_106_86029_20120130_003423_D5_scripted tl tl
+BABEL_BP_106_16646_20120131_131855_T1_scripted en tl
+BABEL_BP_106_12486_20120302_132843_D3_scripted tl tl
+BABEL_BP_106_16801_20120206_223306_O8_scripted en
+BABEL_BP_106_51149_20120329_170143_S2_scripted tl tl tl tl tl
+BABEL_BP_106_45677_20120315_003724_S3_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_43939_20120317_202008_T3_scripted tl tl tl tl tl tl
+BABEL_BP_106_70643_20120316_233718_D1_scripted en en en en en en
+BABEL_BP_106_86029_20120130_003149_M1_scripted en en en en en
+BABEL_BP_106_88253_20120318_115840_O1_scripted en
+BABEL_BP_106_33023_20120203_002229_I2_scripted en
+BABEL_BP_106_10066_20120605_125419_O5_scripted en en en
+BABEL_BP_106_78094_20120127_133528_M1_scripted en en en en en en en en en
+BABEL_BP_106_43553_20120210_180607_O8_scripted tl
+BABEL_BP_106_87167_20120204_022939_M1_scripted en en en en en en
+BABEL_BP_106_74986_20120418_224434_SA_scripted tl tl tl tl en tl tl tl
+BABEL_BP_106_97635_20120330_170554_S8_scripted tl tl tl tl tl tl
+BABEL_BP_106_43306_20120210_033624_O8_scripted tl
+BABEL_BP_106_47794_20120403_182941_C1_scripted en en en en en
+BABEL_BP_106_24580_20120604_165715_C1_scripted en en en en en
+BABEL_BP_106_47263_20120305_033004_S4_scripted tl tl tl tl tl en tl
+BABEL_BP_106_69621_20120129_233845_S0_scripted tl tl tl tl tl en tl
+BABEL_BP_106_78879_20120205_154355_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_46002_20120307_214847_M1_scripted en en en en en en en en en en
+BABEL_BP_106_45793_20120127_164528_D5_scripted tl
+BABEL_BP_106_59544_20120209_183244_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_60250_20120129_025057_C2_scripted en en en en en en en en en
+BABEL_BP_106_45678_20120125_223848_S9_scripted tl en tl tl tl tl
+BABEL_BP_106_67411_20120209_201103_C6_scripted en en en en en en en en en en
+BABEL_BP_106_13065_20120422_040156_T1_scripted en tl
+BABEL_BP_106_48536_20120129_050606_S0_scripted tl tl tl tl tl tl
+BABEL_BP_106_22408_20120213_223431_S4_scripted tl tl tl tl tl tl
+BABEL_BP_106_45511_20120129_004507_A1_scripted tl
+BABEL_BP_106_27363_20120315_173631_SB_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_82766_20120208_223240_O4_scripted tl
+BABEL_BP_106_11627_20120210_042524_A1_scripted tl
+BABEL_BP_106_86120_20120126_225720_T3_scripted tl en tl tl tl
+BABEL_BP_106_99731_20120314_190823_C1_scripted en en en en en
+BABEL_BP_106_40882_20120418_213955_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_44129_20120422_044933_O2_scripted tl
+BABEL_BP_106_24580_20120604_165837_M1_scripted en en en en en en en en en
+BABEL_BP_106_47906_20120418_231158_D5_scripted tl tl tl
+BABEL_BP_106_32274_20120128_225524_S5_scripted tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_91401_20120131_021026_S6_scripted tl tl tl tl tl en tl tl tl en
+BABEL_BP_106_90975_20120308_190130_T2_scripted tl tl tl en tl tl tl
+BABEL_BP_106_27916_20120403_234548_O2_scripted tl
+BABEL_BP_106_26598_20120415_182634_O8_scripted en
+BABEL_BP_106_73786_20120130_222129_A1_scripted en
+BABEL_BP_106_67798_20120205_123906_O4_scripted tl
+BABEL_BP_106_81244_20120223_152906_T1_scripted en
+BABEL_BP_106_69621_20120129_233649_S4_scripted tl tl tl tl en tl tl
+BABEL_BP_106_75020_20120125_234425_O6_scripted en tl en
+BABEL_BP_106_32710_20120419_010045_D4_scripted tl tl en tl tl en en en
+BABEL_BP_106_93541_20120205_203530_A1_scripted en
+BABEL_BP_106_19915_20120129_034345_O2_scripted en
+BABEL_BP_106_35188_20120315_154959_D5_scripted tl en
+BABEL_BP_106_52325_20120211_221128_C6_scripted en en en en en en en en en
+BABEL_BP_106_93509_20120129_160252_A1_scripted en
+BABEL_BP_106_42853_20120106_175838_T3_scripted tl tl tl tl
+BABEL_BP_106_91002_20120411_140350_O8_scripted en
+BABEL_BP_106_15022_20120212_210643_S8_scripted tl tl tl tl tl en tl tl tl
+BABEL_BP_106_52325_20120211_221352_I2_scripted en
+BABEL_BP_106_36268_20120209_182020_S7_scripted tl tl
+BABEL_BP_106_33671_20120127_220114_O4_scripted tl
+BABEL_BP_106_52366_20120123_113740_D2_scripted tl tl tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_28990_20120523_235110_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_57039_20120313_232715_S5_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_51149_20120329_165855_D4_scripted tl en tl tl en en en
+BABEL_BP_106_93509_20120129_160104_S4_scripted tl tl tl tl tl
+BABEL_BP_106_71160_20120224_214442_SB_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_80068_20120414_214746_S4_scripted tl tl tl tl tl
+BABEL_BP_106_17093_20120217_165957_S6_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_58923_20120128_004149_O6_scripted tl tl
+BABEL_BP_106_26684_20120211_171015_S7_scripted tl tl tl tl tl tl
+BABEL_BP_106_38464_20120318_222551_C1_scripted en en en en en
+BABEL_BP_106_43306_20120210_034026_S5_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_45106_20120112_014930_O8_scripted en
+BABEL_BP_106_97946_20120205_155110_SA_scripted en tl en tl en tl tl tl
+BABEL_BP_106_42749_20120309_193534_D2_scripted tl tl tl tl tl tl en en en
+BABEL_BP_106_91703_20120301_174716_N1_scripted en en en en en en en en en
+BABEL_BP_106_47906_20120418_231227_SC_scripted tl tl tl tl tl en tl
+BABEL_BP_106_50641_20120317_161915_I2_scripted en
+BABEL_BP_106_47794_20120403_183338_T2_scripted tl tl tl
+BABEL_BP_106_53500_20120208_150809_S9_scripted tl
+BABEL_BP_106_15146_20120112_110411_T3_scripted tl tl tl tl tl
+BABEL_BP_106_66964_20120416_130150_S6_scripted tl tl tl tl en
+BABEL_BP_106_71178_20120205_194205_O1_scripted en en
+BABEL_BP_106_12120_20120318_025834_O2_scripted en
+BABEL_BP_106_45678_20120125_224014_O5_scripted en en en en en
+BABEL_BP_106_59925_20120403_154654_O3_scripted tl
+BABEL_BP_106_23167_20120128_181014_D3_scripted tl tl en
+BABEL_BP_106_15146_20120112_105928_C1_scripted en en en en en
+BABEL_BP_106_10011_20120401_220902_SB_scripted tl tl tl tl tl tl
+BABEL_BP_106_68671_20120407_170817_S5_scripted tl tl tl tl tl en tl tl tl
+BABEL_BP_106_59925_20120403_154929_O5_scripted en en en
+BABEL_BP_106_90393_20120211_220320_D1_scripted tl tl tl tl en tl
+BABEL_BP_106_66903_20120127_225044_S2_scripted tl tl tl tl tl en tl tl tl
+BABEL_BP_106_14891_20120126_184136_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_33707_20120403_173600_S4_scripted tl tl tl tl tl
+BABEL_BP_106_61446_20120603_123801_M1_scripted en en en en en en en en en en
+BABEL_BP_106_22509_20120315_205847_O1_scripted en
+BABEL_BP_106_84335_20120412_204119_O4_scripted tl
+BABEL_BP_106_88929_20120421_140409_S4_scripted tl tl en tl tl tl tl tl
+BABEL_BP_106_38635_20120605_172956_D5_scripted tl
+BABEL_BP_106_66964_20120416_125851_T2_scripted tl tl tl tl tl
+BABEL_BP_106_45678_20120125_224118_T2_scripted tl tl tl en tl tl tl
+BABEL_BP_106_95514_20120404_171348_S7_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_29133_20120129_165732_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_10011_20120401_221355_S8_scripted tl tl tl tl tl tl
+BABEL_BP_106_80874_20120401_223607_SA_scripted tl tl tl en tl tl tl
+BABEL_BP_106_79526_20120418_001839_D3_scripted tl tl
+BABEL_BP_106_41661_20120205_004025_C6_scripted en en en en en en en en en
+BABEL_BP_106_97635_20120330_170405_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_12807_20120312_170609_T2_scripted tl en tl en tl tl tl
+BABEL_BP_106_49582_20120213_221831_O3_scripted tl
+BABEL_BP_106_13229_20120212_124336_S2_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_35357_20120309_230034_S2_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_56591_20120416_004250_S6_scripted tl tl tl tl tl
+BABEL_BP_106_28754_20120205_121809_S4_scripted tl tl tl tl tl tl
+BABEL_BP_106_38635_20120605_172717_D4_scripted tl tl en tl tl en en en
+BABEL_BP_106_78879_20120205_153726_O8_scripted en en en en en
+BABEL_BP_106_14936_20120201_181448_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_35357_20120309_225554_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_81820_20120329_193052_O5_scripted tl en en en
+BABEL_BP_106_35441_20120414_200318_S3_scripted tl tl tl tl en tl
+BABEL_BP_106_15146_20120112_105946_O3_scripted tl
+BABEL_BP_106_86029_20120130_003249_S5_scripted tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_24431_20120130_212659_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_12552_20120214_011410_O7_scripted en tl
+BABEL_BP_106_81944_20120404_114901_S1_scripted tl tl tl tl tl en tl
+BABEL_BP_106_80068_20120414_215026_S3_scripted tl tl tl tl tl
+BABEL_BP_106_36391_20120202_220940_C3_scripted en en en en en en en en en en en en en en
+BABEL_BP_106_42309_20120403_221445_T2_scripted tl tl en tl tl
+BABEL_BP_106_62286_20120213_170327_S3_scripted tl tl tl tl tl tl
+BABEL_BP_106_79526_20120418_001657_M1_scripted en en en en en en en en en en
+BABEL_BP_106_72119_20120315_155409_D5_scripted tl tl tl
+BABEL_BP_106_72119_20120315_154927_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_26348_20120314_174728_S5_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_63368_20120604_115138_SB_scripted tl tl tl tl en tl tl
+BABEL_BP_106_83791_20120603_164237_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_52642_20120222_182355_T1_scripted en tl en en tl tl
+BABEL_BP_106_22408_20120213_223337_O5_scripted en en en en en
+BABEL_BP_106_81611_20120330_182134_S1_scripted tl tl tl tl tl tl tl tl tl tl en
+BABEL_BP_106_17933_20120523_222717_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_81820_20120329_193315_S2_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_75020_20120125_234627_O4_scripted tl
+BABEL_BP_106_26644_20120411_155838_T2_scripted tl tl tl tl tl
+BABEL_BP_106_30209_20120110_194302_O2_scripted en
+BABEL_BP_106_75243_20120314_183321_S5_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_29097_20120126_225351_SB_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_52335_20120404_161910_S5_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_93541_20120205_203116_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_53463_20120605_181453_T1_scripted en en tl
+BABEL_BP_106_43939_20120317_201755_SC_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_90506_20120127_234907_C6_scripted en en en en en en en
+BABEL_BP_106_26348_20120314_174831_D5_scripted tl tl
+BABEL_BP_106_88929_20120421_140355_D3_scripted tl tl tl tl en en tl
+BABEL_BP_106_98402_20120311_212459_M1_scripted en en en en en en en
+BABEL_BP_106_81844_20120226_003707_S0_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_20546_20120211_004233_SB_scripted tl tl tl tl tl en
+BABEL_BP_106_98279_20120228_230402_O1_scripted en
+BABEL_BP_106_50589_20120128_182903_O6_scripted en tl
+BABEL_BP_106_95120_20120226_164914_SB_scripted tl tl tl tl tl
+BABEL_BP_106_42749_20120309_193055_O3_scripted tl
+BABEL_BP_106_23167_20120128_180608_O1_scripted en
+BABEL_BP_106_68671_20120407_171051_S3_scripted tl tl tl tl tl tl
+BABEL_BP_106_47263_20120305_032628_C1_scripted en en en en en
+BABEL_BP_106_95120_20120226_164816_O3_scripted tl
+BABEL_BP_106_69275_20120318_205646_C4_scripted en en en en en en
+BABEL_BP_106_69137_20120508_215801_T1_scripted en
+BABEL_BP_106_14936_20120201_181112_C4_scripted en en en en en en
+BABEL_BP_106_17203_20120127_153008_T3_scripted tl en tl tl tl
+BABEL_BP_106_38635_20120605_172650_I2_scripted en
+BABEL_BP_106_26348_20120314_174437_M1_scripted en en en en en en en en en
+BABEL_BP_106_31031_20120214_233400_T3_scripted tl tl en tl tl
+BABEL_BP_106_44129_20120422_045357_D5_scripted tl tl tl
+BABEL_BP_106_20546_20120211_004530_S2_scripted tl tl tl tl tl en tl
+BABEL_BP_106_56591_20120416_003920_T2_scripted tl tl tl en tl tl tl
+BABEL_BP_106_35441_20120414_200422_T3_scripted tl tl tl en tl tl tl
+BABEL_BP_106_36383_20120224_133339_O7_scripted en tl
+BABEL_BP_106_78094_20120127_133809_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_30583_20120129_164304_SB_scripted en tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_73440_20120131_162930_S8_scripted tl tl tl tl tl tl
+BABEL_BP_106_36143_20120128_222649_D5_scripted tl
+BABEL_BP_106_80555_20120118_200124_S9_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_76451_20120128_171616_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_71178_20120205_195000_A1_scripted en
+BABEL_BP_106_78879_20120205_154424_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_64889_20120307_180200_SB_scripted tl tl en en tl tl tl
+BABEL_BP_106_53463_20120605_181733_O5_scripted en en en en en
+BABEL_BP_106_92642_20120214_022834_SB_scripted tl tl tl en tl tl tl tl en
+BABEL_BP_106_35576_20120224_205705_D5_scripted tl
+BABEL_BP_106_77315_20120227_153752_O2_scripted en
+BABEL_BP_106_24094_20120307_210825_A1_scripted en
+BABEL_BP_106_35576_20120224_205819_S0_scripted tl tl tl tl tl en tl
+BABEL_BP_106_47429_20120329_202404_D3_scripted tl tl tl
+BABEL_BP_106_26644_20120411_155539_C2_scripted en en en en en en en en en en
+BABEL_BP_106_55396_20120212_153322_N1_scripted en en en en en en en en en
+BABEL_BP_106_81611_20120330_181949_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_18234_20120128_180716_O3_scripted tl
+BABEL_BP_106_19867_20120428_024409_SA_scripted tl tl tl tl tl tl
+BABEL_BP_106_17511_20120301_192618_I1_scripted tl
+BABEL_BP_106_91143_20120413_235315_D1_scripted en en en en en en
+BABEL_BP_106_61449_20120414_034636_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_29280_20120405_194308_D5_scripted tl tl tl
+BABEL_BP_106_69137_20120508_215811_O2_scripted tl tl tl
+BABEL_BP_106_19915_20120129_034657_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_34480_20120405_142834_O5_scripted en en en
+BABEL_BP_106_76451_20120128_172654_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_38640_20120130_180133_T1_scripted en tl tl tl
+BABEL_BP_106_87520_20120428_015703_O7_scripted en tl tl en
+BABEL_BP_106_13530_20120404_124520_S5_scripted tl tl tl tl tl
+BABEL_BP_106_99738_20120317_142746_S0_scripted en tl tl tl tl tl tl
+BABEL_BP_106_63711_20120129_024909_O7_scripted en en
+BABEL_BP_106_44129_20120422_045330_D3_scripted tl tl tl
+BABEL_BP_106_11031_20120205_192934_SA_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_52366_20120123_113930_T3_scripted tl tl tl en tl tl tl
+BABEL_BP_106_16801_20120206_224210_I1_scripted tl
+BABEL_BP_106_86752_20120428_001910_S2_scripted tl tl en tl tl tl tl tl
+BABEL_BP_106_65601_20120211_214207_S8_scripted tl tl tl tl tl tl tl tl tl en
+BABEL_BP_106_75740_20120128_202353_O8_scripted en
+BABEL_BP_106_29407_20120403_230749_C5_scripted en en en en en en en en en en en en
+BABEL_BP_106_93811_20120419_012747_S7_scripted tl tl tl tl en
+BABEL_BP_106_16117_20120315_010441_T2_scripted tl en tl en tl tl tl
+BABEL_BP_106_91002_20120411_141301_S8_scripted tl tl tl tl tl en tl tl tl tl tl
+BABEL_BP_106_76763_20120111_194450_A1_scripted tl
+BABEL_BP_106_53653_20120405_185317_SC_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_42853_20120106_175236_T1_scripted tl tl tl
+BABEL_BP_106_42309_20120403_221629_S2_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_66964_20120416_125634_S9_scripted tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_80075_20120605_114532_T1_scripted en en tl
+BABEL_BP_106_77315_20120227_154052_D4_scripted tl tl tl en en en en
+BABEL_BP_106_35576_20120224_205810_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_10545_20120315_193723_N1_scripted en en en en en
+BABEL_BP_106_88253_20120318_120047_T1_scripted tl tl tl
+BABEL_BP_106_70285_20120128_184627_SA_scripted tl tl tl tl tl tl
+BABEL_BP_106_67772_20120129_045811_S6_scripted tl tl tl tl tl
+BABEL_BP_106_84284_20120304_161727_C6_scripted en en en en en en en en en
+BABEL_BP_106_50416_20120224_180549_O5_scripted tl en tl
+BABEL_BP_106_53653_20120405_185356_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_16117_20120315_010313_O6_scripted en tl
+BABEL_BP_106_20546_20120211_003928_D1_scripted en en en en en
+BABEL_BP_106_57039_20120313_232318_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_93811_20120419_013021_S1_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_35074_20120404_183853_M1_scripted en en en en en en en en en en
+BABEL_BP_106_57039_20120313_232754_S4_scripted tl tl tl en tl tl tl tl
+BABEL_BP_106_90511_20120202_195704_S5_scripted tl tl tl tl tl en tl tl tl
+BABEL_BP_106_93541_20120205_202802_D1_scripted en en en en en en
+BABEL_BP_106_80068_20120414_215007_O7_scripted tl tl
+BABEL_BP_106_91002_20120411_141104_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_36391_20120202_220701_O6_scripted tl tl
+BABEL_BP_106_56868_20120205_125348_O4_scripted tl
+BABEL_BP_106_83531_20120210_160647_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_38635_20120605_173238_S6_scripted tl en en tl tl tl en tl tl en
+BABEL_BP_106_81119_20120417_202513_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_22408_20120213_223230_S9_scripted tl tl tl tl tl tl
+BABEL_BP_106_33023_20120203_002723_S3_scripted tl tl tl tl tl tl
+BABEL_BP_106_46002_20120307_214730_C1_scripted en en en en en
+BABEL_BP_106_47429_20120329_202716_S6_scripted tl en tl tl tl tl
+BABEL_BP_106_28990_20120523_234941_S4_scripted tl tl tl tl tl
+BABEL_BP_106_12844_20120214_024308_O3_scripted tl
+BABEL_BP_106_69145_20120319_180335_SB_scripted tl tl tl tl tl tl
+BABEL_BP_106_45106_20120112_015356_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_40197_20120308_175229_D5_scripted tl tl tl
+BABEL_BP_106_47906_20120418_231237_D2_scripted tl tl tl en en en
+BABEL_BP_106_90506_20120127_235250_O5_scripted en en tl en
+BABEL_BP_106_73923_20120112_021355_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_86419_20120120_010417_O7_scripted en en
+BABEL_BP_106_22229_20120111_180716_O2_scripted en en
+BABEL_BP_106_29512_20120226_203344_SB_scripted tl tl tl tl tl tl
+BABEL_BP_106_71741_20120127_150422_O6_scripted en en
+BABEL_BP_106_11422_20120120_172612_I2_scripted tl
+BABEL_BP_106_43939_20120317_201042_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_25502_20120129_013756_SB_scripted en tl tl tl tl tl en
+BABEL_BP_106_84394_20120226_183611_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_17511_20120301_192110_C4_scripted en en en en en en
+BABEL_BP_106_15022_20120212_210334_D2_scripted tl tl tl tl en en en en
+BABEL_BP_106_87850_20120212_174807_I2_scripted en
+BABEL_BP_106_43383_20120203_181607_O3_scripted tl
+BABEL_BP_106_45677_20120315_003336_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_70285_20120128_184840_I1_scripted en
+BABEL_BP_106_46002_20120307_215146_A1_scripted tl
+BABEL_BP_106_47634_20120205_142857_D1_scripted en en en en en en
+BABEL_BP_106_15146_20120112_110029_M1_scripted en en en en en en en en en
+BABEL_BP_106_23167_20120128_181225_A1_scripted en
+BABEL_BP_106_12120_20120318_030041_SB_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_29512_20120226_192547_S7_scripted tl tl tl tl en tl tl tl
+BABEL_BP_106_35576_20120224_205849_A1_scripted tl tl tl tl tl tl
+BABEL_BP_106_11031_20120205_192606_C2_scripted en en en en en en en en en en
+BABEL_BP_106_91873_20120222_173644_S1_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_52325_20120211_222138_S8_scripted tl tl en tl tl tl
+BABEL_BP_106_50416_20120224_180851_N1_scripted tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_47429_20120329_202641_A1_scripted en
+BABEL_BP_106_43553_20120210_181327_O7_scripted en tl
+BABEL_BP_106_77965_20120117_190131_O3_scripted tl
+BABEL_BP_106_97635_20120330_165936_C2_scripted en en en en en en en en en
+BABEL_BP_106_59383_20120317_182610_S7_scripted en en en en en
+BABEL_BP_106_26164_20120401_232111_S2_scripted tl tl tl tl tl tl en tl tl en
+BABEL_BP_106_83791_20120603_164610_O4_scripted en en
+BABEL_BP_106_91143_20120413_235820_D5_scripted tl tl tl tl
+BABEL_BP_106_16117_20120315_010110_I2_scripted en
+BABEL_BP_106_10066_20120605_125106_D1_scripted en en en en en
+BABEL_BP_106_60250_20120129_024857_O8_scripted en
+BABEL_BP_106_63368_20120604_115410_SC_scripted tl tl tl tl tl tl
+BABEL_BP_106_75151_20120405_165105_C4_scripted en en en en en en
+BABEL_BP_106_44129_20120422_044907_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_84394_20120226_183040_O1_scripted tl
+BABEL_BP_106_20775_20120309_185615_S5_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_59544_20120209_183817_SA_scripted tl en tl tl tl
+BABEL_BP_106_29421_20120213_180027_S2_scripted tl tl tl tl tl tl tl tl en
+BABEL_BP_106_53463_20120605_181848_O4_scripted tl
+BABEL_BP_106_19867_20120428_024239_S4_scripted tl tl en tl tl tl tl en tl
+BABEL_BP_106_63392_20120405_143728_O7_scripted en tl
+BABEL_BP_106_69137_20120508_220049_O6_scripted en tl en
+BABEL_BP_106_82103_20120130_124947_A1_scripted tl
+BABEL_BP_106_47634_20120205_143404_D3_scripted tl tl
+BABEL_BP_106_82103_20120130_124858_S2_scripted en tl tl tl tl tl tl tl tl
+BABEL_BP_106_59925_20120403_154532_O2_scripted tl
+BABEL_BP_106_82766_20120208_222815_C4_scripted en en en en en en
+BABEL_BP_106_69446_20120416_011321_S1_scripted tl tl tl tl tl tl
+BABEL_BP_106_83531_20120210_160617_SC_scripted tl tl tl tl tl en tl
+BABEL_BP_106_82484_20120209_224254_O3_scripted en
+BABEL_BP_106_15146_20120112_110328_O7_scripted en en
+BABEL_BP_106_50589_20120128_183211_D2_scripted tl tl tl tl en en
+BABEL_BP_106_31606_20120403_223259_C5_scripted en en en en en en en en en en en en
+BABEL_BP_106_75151_20120405_165457_D2_scripted tl tl en tl tl en en en en
+BABEL_BP_106_21430_20120208_010922_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_80555_20120118_195942_C2_scripted en en en en en en en en en en
+BABEL_BP_106_44038_20120317_210633_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_55396_20120212_153347_T3_scripted en tl tl tl tl
+BABEL_BP_106_75243_20120314_182820_T1_scripted en en tl
+BABEL_BP_106_22229_20120111_181007_C5_scripted tl en en en en en en en en en en en
+BABEL_BP_106_91481_20120303_204838_D5_scripted tl tl tl
+BABEL_BP_106_73923_20120112_021948_T3_scripted tl tl tl tl tl
+BABEL_BP_106_46002_20120307_215234_S8_scripted tl tl tl tl tl tl
+BABEL_BP_106_90393_20120211_221120_I1_scripted en
+BABEL_BP_106_15473_20120216_204444_SA_scripted tl tl tl tl tl tl
+BABEL_BP_106_83531_20120210_160517_S4_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_43939_20120317_201656_D3_scripted tl tl
+BABEL_BP_106_42910_20120128_204821_T2_scripted tl en tl tl
+BABEL_BP_106_83702_20120211_232150_C4_scripted en en en en en en
+BABEL_BP_106_61449_20120414_034418_O2_scripted tl
+BABEL_BP_106_92642_20120214_023207_A1_scripted en
+BABEL_BP_106_90975_20120308_185835_C2_scripted en en en en en en en en en
+BABEL_BP_106_65601_20120211_213939_SC_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_74986_20120418_224321_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_22229_20120111_180634_O8_scripted en
+BABEL_BP_106_35016_20120405_200832_S5_scripted tl tl tl tl tl en tl tl tl tl
+BABEL_BP_106_22229_20120111_181109_O4_scripted tl
+BABEL_BP_106_76451_20120128_172847_S6_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_41989_20120205_185227_O8_scripted en
+BABEL_BP_106_73786_20120130_221300_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_26164_20120401_231840_S1_scripted tl tl tl tl tl
+BABEL_BP_106_39114_20120315_130525_O5_scripted tl en
+BABEL_BP_106_81944_20120404_114814_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_63711_20120129_024621_S5_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_42853_20120106_175357_I2_scripted en
+BABEL_BP_106_22272_20120318_203107_C4_scripted en en en en en en
+BABEL_BP_106_55820_20120318_013622_O2_scripted tl
+BABEL_BP_106_38464_20120318_222752_M1_scripted en en en en en en en en en en
+BABEL_BP_106_15234_20120229_021051_S2_scripted tl tl en tl tl tl tl tl tl
+BABEL_BP_106_94814_20120211_004850_S4_scripted tl tl tl tl tl tl
+BABEL_BP_106_56342_20120605_164154_S0_scripted tl en tl tl tl tl tl
+BABEL_BP_106_92642_20120214_022702_C1_scripted en en en en en
+BABEL_BP_106_16646_20120131_132415_S6_scripted tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_91481_20120303_204336_C6_scripted en en en en en en en en en en
+BABEL_BP_106_63711_20120129_024216_D1_scripted en en en en en
+BABEL_BP_106_76763_20120111_193955_S7_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_43652_20120208_005217_S3_scripted tl tl tl tl en
+BABEL_BP_106_70285_20120128_184541_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_47894_20120315_000652_O1_scripted en
+BABEL_BP_106_97946_20120205_155348_I1_scripted en
+BABEL_BP_106_33671_20120127_215017_T1_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_36143_20120128_222721_SC_scripted tl tl tl tl tl tl en
+BABEL_BP_106_94814_20120211_005115_S3_scripted tl tl tl tl tl en tl
+BABEL_BP_106_69137_20120508_220058_S1_scripted tl tl en tl en tl tl
+BABEL_BP_106_80638_20120411_225641_S3_scripted tl tl tl tl tl tl tl en
+BABEL_BP_106_37260_20120130_192929_O6_scripted en tl
+BABEL_BP_106_43423_20120304_172740_S0_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_43939_20120317_201819_S2_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_44369_20120319_021747_O6_scripted en en
+BABEL_BP_106_15022_20120212_210324_SC_scripted tl tl en tl tl tl tl en tl
+BABEL_BP_106_22272_20120318_203130_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_22272_20120318_203023_C2_scripted en en en en en en en en en en
+BABEL_BP_106_14891_20120126_184510_T3_scripted tl tl tl en en tl tl
+BABEL_BP_106_23167_20120128_181303_T3_scripted tl en tl en tl tl tl
+BABEL_BP_106_42651_20120131_021649_C4_scripted en en en en en en
+BABEL_BP_106_67411_20120209_201749_D5_scripted tl en
+BABEL_BP_106_49582_20120213_221938_SB_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_71178_20120205_194844_SC_scripted tl tl en tl tl tl tl en tl
+BABEL_BP_106_91000_20120311_232712_S4_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_88929_20120421_140420_T2_scripted tl tl tl tl
+BABEL_BP_106_90393_20120211_220858_O4_scripted tl
+BABEL_BP_106_11152_20120421_133422_SA_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_94235_20120604_161915_I1_scripted en
+BABEL_BP_106_36143_20120128_222134_D1_scripted en en en en en en
+BABEL_BP_106_74395_20120414_204027_O6_scripted en en
+BABEL_BP_106_41661_20120205_004626_S6_scripted tl tl tl tl
+BABEL_BP_106_13530_20120404_124615_D5_scripted tl tl
+BABEL_BP_106_80068_20120414_215016_A1_scripted en
+BABEL_BP_106_11311_20120209_174816_S1_scripted tl tl tl tl tl en tl tl tl tl
+BABEL_BP_106_14936_20120201_181205_SB_scripted tl tl tl tl tl tl
+BABEL_BP_106_68767_20120129_020525_S8_scripted tl tl en tl tl tl tl tl tl tl
+BABEL_BP_106_73786_20120130_221648_O6_scripted en en
+BABEL_BP_106_36722_20120212_140252_I1_scripted en
+BABEL_BP_106_53500_20120208_151312_A1_scripted tl
+BABEL_BP_106_19915_20120129_034644_S5_scripted tl tl tl tl tl en tl tl tl
+BABEL_BP_106_41541_20120315_005952_I1_scripted tl
+BABEL_BP_106_61446_20120603_123738_S9_scripted tl tl tl tl tl en
+BABEL_BP_106_22509_20120315_205925_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_73786_20120130_221745_D3_scripted tl tl tl
+BABEL_BP_106_37260_20120130_193103_O4_scripted tl
+BABEL_BP_106_10732_20120604_114822_O7_scripted en tl en en
+BABEL_BP_106_29133_20120129_165312_T1_scripted en tl tl
+BABEL_BP_106_52642_20120222_182456_C1_scripted en en en en en
+BABEL_BP_106_83702_20120211_232254_O6_scripted en tl en
+BABEL_BP_106_99738_20120317_143000_T3_scripted tl tl tl tl tl
+BABEL_BP_106_91703_20120301_174434_D5_scripted tl tl
+BABEL_BP_106_32045_20120210_152034_C4_scripted en en en en en en
+BABEL_BP_106_38879_20120203_194050_S3_scripted en tl tl tl tl
+BABEL_BP_106_47906_20120418_230856_S9_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_38464_20120318_223129_D5_scripted tl tl
+BABEL_BP_106_69621_20120129_233506_M1_scripted en en en en en en en en
+BABEL_BP_106_59925_20120403_154436_O1_scripted en
+BABEL_BP_106_12120_20120318_030338_O7_scripted en en
+BABEL_BP_106_27916_20120403_234930_O6_scripted en tl
+BABEL_BP_106_29512_20120226_203308_S9_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_90511_20120202_195350_O2_scripted tl en
+BABEL_BP_106_84980_20120227_004803_C2_scripted en en en en en en en en en en
+BABEL_BP_106_86014_20120605_155148_S0_scripted tl tl en tl tl tl tl
+BABEL_BP_106_53500_20120208_150746_C4_scripted en en en en en en
+BABEL_BP_106_95952_20120413_210913_S6_scripted tl tl tl en en tl tl en en
+BABEL_BP_106_91401_20120131_020248_T1_scripted tl tl en tl tl tl
+BABEL_BP_106_29097_20120126_225455_D3_scripted tl tl en
+BABEL_BP_106_65601_20120211_213909_D5_scripted tl en
+BABEL_BP_106_11627_20120210_041736_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_48536_20120129_050706_S6_scripted tl tl tl tl tl
+BABEL_BP_106_57039_20120313_233100_N1_scripted en en en en en en en
+BABEL_BP_106_87167_20120204_023624_T3_scripted tl tl tl en tl tl tl
+BABEL_BP_106_29328_20120117_191839_S8_scripted tl tl tl tl tl
+BABEL_BP_106_80535_20120319_010411_S9_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_93044_20120405_173718_SC_scripted tl tl tl tl en tl tl tl tl tl en
+BABEL_BP_106_45678_20120125_223634_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_67775_20120315_185736_O2_scripted tl
+BABEL_BP_106_36143_20120128_222745_S2_scripted tl tl en tl tl tl tl
+BABEL_BP_106_15022_20120212_205521_O8_scripted en en
+BABEL_BP_106_27178_20120129_001932_SA_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_86014_20120605_154753_I2_scripted en
+BABEL_BP_106_68767_20120129_015915_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_10066_20120605_125134_O2_scripted tl
+BABEL_BP_106_52325_20120211_221456_SB_scripted tl tl tl tl tl
+BABEL_BP_106_65601_20120211_213920_SA_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_71741_20120127_150320_I2_scripted en
+BABEL_BP_106_63632_20120214_021547_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_20546_20120211_004659_N1_scripted en en en en en en en en en
+BABEL_BP_106_36143_20120128_222549_S5_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_35951_20120419_012018_N1_scripted en en en en en en en en
+BABEL_BP_106_81119_20120417_202704_S4_scripted tl tl tl tl tl tl
+BABEL_BP_106_93509_20120129_155924_S9_scripted tl tl tl tl tl tl tl en
+BABEL_BP_106_99731_20120314_191324_S2_scripted tl tl tl tl tl
+BABEL_BP_106_74508_20120209_220907_S9_scripted tl tl tl tl tl tl
+BABEL_BP_106_55396_20120212_152141_O8_scripted en
+BABEL_BP_106_36268_20120209_182427_SC_scripted tl en tl tl tl
+BABEL_BP_106_53463_20120605_182049_N1_scripted en en en en en en en
+BABEL_BP_106_78094_20120127_133627_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_81820_20120329_191504_O8_scripted en
+BABEL_BP_106_36722_20120212_135641_S9_scripted tl tl tl tl tl tl
+BABEL_BP_106_84335_20120412_204040_T2_scripted tl tl tl tl
+BABEL_BP_106_44038_20120317_210028_C6_scripted en en en en en en en en en
+BABEL_BP_106_11311_20120209_174918_T2_scripted tl tl tl tl tl
+BABEL_BP_106_84025_20120307_172603_O7_scripted en en
+BABEL_BP_106_41661_20120205_004348_D3_scripted tl tl en
+BABEL_BP_106_33707_20120403_173101_O1_scripted en
+BABEL_BP_106_29328_20120117_191158_C6_scripted en en en en en en en
+BABEL_BP_106_43086_20120212_152145_S2_scripted tl tl tl tl en
+BABEL_BP_106_14936_20120201_180131_T1_scripted tl tl tl tl
+BABEL_BP_106_26644_20120411_160150_N1_scripted en en en en en en en en
+BABEL_BP_106_65601_20120211_213434_C2_scripted en en en en en en en en en en
+BABEL_BP_106_70285_20120128_184342_M1_scripted en en en en en en en
+BABEL_BP_106_76252_20120318_133354_M1_scripted en en en
+BABEL_BP_106_79970_20120420_165339_O6_scripted en en
+BABEL_BP_106_55820_20120318_014446_S3_scripted tl tl tl en tl tl tl tl tl tl
+BABEL_BP_106_19867_20120428_024029_O6_scripted en tl
+BABEL_BP_106_81844_20120226_003058_O8_scripted tl
+BABEL_BP_106_12655_20120110_203713_A1_scripted tl
+BABEL_BP_106_59544_20120209_183901_S2_scripted tl tl tl en tl tl tl
+BABEL_BP_106_86752_20120428_001659_SB_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_68767_20120129_020224_SA_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_46813_20120416_020726_O5_scripted tl tl en en
+BABEL_BP_106_75932_20120301_190429_I2_scripted en
+BABEL_BP_106_57039_20120313_232729_C5_scripted en en en en en en
+BABEL_BP_106_67798_20120205_123718_S5_scripted tl tl tl tl tl
+BABEL_BP_106_42910_20120128_204402_O2_scripted tl tl en
+BABEL_BP_106_84980_20120227_005628_S0_scripted tl tl tl tl tl tl
+BABEL_BP_106_45793_20120127_164306_C4_scripted en en en en en en
+BABEL_BP_106_42853_20120106_175246_O2_scripted en
+BABEL_BP_106_19915_20120129_034826_S2_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_42910_20120128_204552_S9_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_86801_20120315_010805_A1_scripted tl
+BABEL_BP_106_91481_20120303_204925_D2_scripted tl tl tl tl tl tl tl tl tl en
+BABEL_BP_106_73786_20120130_221712_O5_scripted tl en en en
+BABEL_BP_106_29302_20120209_210041_I2_scripted en
+BABEL_BP_106_84335_20120412_203656_O2_scripted tl
+BABEL_BP_106_43306_20120210_033857_I2_scripted en
+BABEL_BP_106_29421_20120213_175928_T2_scripted tl tl en tl tl tl
+BABEL_BP_106_86801_20120315_010444_S5_scripted tl tl tl tl tl tl
+BABEL_BP_106_40197_20120308_175007_C2_scripted en en en en en en en en en
+BABEL_BP_106_37842_20120314_212005_S6_scripted tl tl tl tl tl tl
+BABEL_BP_106_83791_20120603_164630_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_55182_20120422_184046_S6_scripted tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_14836_20120221_190750_N1_scripted en en en en en en en en en
+BABEL_BP_106_22408_20120213_222956_T1_scripted tl tl tl tl
+BABEL_BP_106_48536_20120129_050428_SA_scripted tl tl tl tl tl tl en
+BABEL_BP_106_39384_20120129_202954_N1_scripted en en en en en en en en
+BABEL_BP_106_56943_20120126_222052_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_86419_20120120_010259_O4_scripted tl
+BABEL_BP_106_97635_20120330_165946_O3_scripted en tl
+BABEL_BP_106_67772_20120129_045255_O3_scripted en en
+BABEL_BP_106_17093_20120217_165129_C1_scripted en en en en en
+BABEL_BP_106_21430_20120208_011433_O4_scripted en en
+BABEL_BP_106_43553_20120210_181342_A1_scripted tl
+BABEL_BP_106_86801_20120315_005458_O8_scripted tl
+BABEL_BP_106_90393_20120211_220508_O3_scripted tl
+BABEL_BP_106_47634_20120205_143130_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_62163_20120313_235027_S0_scripted tl tl tl tl tl
+BABEL_BP_106_36868_20120417_211529_S5_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_12807_20120312_170525_S5_scripted tl tl tl
+BABEL_BP_106_35441_20120414_195510_O8_scripted en
+BABEL_BP_106_10732_20120604_114800_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_55396_20120212_152703_S1_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_47661_20120131_000501_O3_scripted en en
+BABEL_BP_106_81611_20120330_182006_I2_scripted en
+BABEL_BP_106_10545_20120315_193412_S5_scripted tl tl tl tl tl tl
+BABEL_BP_106_55182_20120422_183544_D4_scripted tl tl en tl tl en en en
+BABEL_BP_106_22272_20120318_203420_SA_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_44129_20120422_050039_O7_scripted en en
+BABEL_BP_106_92642_20120214_022716_C2_scripted en en en en en en en en en
+BABEL_BP_106_87520_20120428_015727_S3_scripted tl tl tl tl tl
+BABEL_BP_106_30209_20120110_194346_S7_scripted tl tl tl tl tl tl
+BABEL_BP_106_91703_20120301_173752_O1_scripted en
+BABEL_BP_106_41541_20120315_005945_T3_scripted tl en tl en tl tl tl
+BABEL_BP_106_93509_20120129_160055_D3_scripted tl tl tl
+BABEL_BP_106_76252_20120318_133852_S6_scripted tl tl tl tl tl tl
+BABEL_BP_106_83702_20120211_231859_T1_scripted tl tl tl tl
+BABEL_BP_106_36143_20120128_222603_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_94814_20120211_004802_O5_scripted tl en en en
+BABEL_BP_106_91002_20120411_140407_D1_scripted en en en en
+BABEL_BP_106_29328_20120117_191740_S3_scripted tl tl tl tl tl tl
+BABEL_BP_106_95120_20120226_165153_O7_scripted en tl
+BABEL_BP_106_59544_20120209_183915_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_38640_20120130_180408_S1_scripted tl en tl tl tl tl tl en
+BABEL_BP_106_70285_20120128_184249_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_47429_20120329_202138_C4_scripted en en en en en en
+BABEL_BP_106_53500_20120208_150705_C2_scripted en en en en en en en en en en
+BABEL_BP_106_69137_20120508_220208_S4_scripted tl tl tl tl en
+BABEL_BP_106_91000_20120311_232519_D4_scripted tl tl tl en en en en
+BABEL_BP_106_90609_20120129_181133_C1_scripted en en en en en
+BABEL_BP_106_96630_20120204_005049_SC_scripted tl tl tl tl tl tl
+BABEL_BP_106_36868_20120417_211824_S0_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_56591_20120416_003841_S4_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_18234_20120128_181106_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_51149_20120329_165845_S9_scripted tl en tl tl tl tl tl tl tl
+BABEL_BP_106_32263_20120225_205418_O7_scripted en en
+BABEL_BP_106_22408_20120213_223735_S3_scripted tl tl tl tl tl tl
+BABEL_BP_106_43939_20120317_201858_A1_scripted tl
+BABEL_BP_106_50641_20120317_162350_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_42910_20120128_204353_T1_scripted tl tl tl
+BABEL_BP_106_62286_20120213_165930_M1_scripted en en en en en en en en en en
+BABEL_BP_106_50416_20120224_180918_I1_scripted en
+BABEL_BP_106_45511_20120129_004052_O6_scripted en en
+BABEL_BP_106_42749_20120309_193600_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_37260_20120130_192900_D4_scripted tl tl tl en en en en en
+BABEL_BP_106_77315_20120227_154532_T3_scripted tl en tl tl tl
+BABEL_BP_106_11479_20120202_184931_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_21430_20120208_011512_S2_scripted tl tl en tl tl tl tl
+BABEL_BP_106_23167_20120128_180855_D4_scripted tl tl tl tl en en
+BABEL_BP_106_77965_20120117_190311_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_45678_20120125_223817_O3_scripted tl
+BABEL_BP_106_86016_20120211_170942_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_95952_20120413_205754_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_29407_20120403_230824_T2_scripted tl tl tl tl tl
+BABEL_BP_106_91873_20120222_173633_O6_scripted tl en
+BABEL_BP_106_80075_20120605_114930_S4_scripted tl en tl tl tl tl
+BABEL_BP_106_67775_20120315_185633_O1_scripted tl
+BABEL_BP_106_86029_20120130_003055_C4_scripted en en en en en en
+BABEL_BP_106_73542_20120119_033823_C1_scripted en en en en en
+BABEL_BP_106_86801_20120315_010652_S2_scripted tl tl tl tl
+BABEL_BP_106_47794_20120403_183413_O4_scripted tl
+BABEL_BP_106_12120_20120318_030423_S6_scripted tl tl tl tl tl tl tl en tl
+BABEL_BP_106_53315_20120329_183150_O8_scripted tl
+BABEL_BP_106_47469_20120210_224059_D3_scripted tl tl tl
+BABEL_BP_106_11031_20120205_193503_S6_scripted tl tl en tl tl
+BABEL_BP_106_80068_20120414_214426_S7_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_12807_20120312_165919_T1_scripted en tl
+BABEL_BP_106_75740_20120128_202937_O4_scripted tl
+BABEL_BP_106_43306_20120210_033906_C4_scripted en en en en en en
+BABEL_BP_106_87281_20120318_180013_C1_scripted en en en en en
+BABEL_BP_106_46002_20120307_215139_O7_scripted en tl
+BABEL_BP_106_37094_20120118_155742_S1_scripted en tl tl tl tl tl tl
+BABEL_BP_106_52642_20120222_182447_S7_scripted tl tl tl tl tl
+BABEL_BP_106_35357_20120309_230200_S3_scripted tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_11152_20120421_132757_O1_scripted en
+BABEL_BP_106_35357_20120309_230125_S0_scripted tl en tl tl tl tl
+BABEL_BP_106_15493_20120323_172439_O7_scripted en en
+BABEL_BP_106_38879_20120203_193351_O8_scripted en
+BABEL_BP_106_52335_20120404_161924_C5_scripted en en en en en en en en en en en en
+BABEL_BP_106_29280_20120405_194441_S0_scripted en tl tl tl tl tl
+BABEL_BP_106_42749_20120309_193514_O4_scripted tl
+BABEL_BP_106_10011_20120401_221151_S2_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_86016_20120211_171027_O7_scripted tl tl
+BABEL_BP_106_22910_20120129_214947_C4_scripted en en en en en en
+BABEL_BP_106_17203_20120127_152503_S9_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_45678_20120125_224004_S1_scripted tl tl tl tl tl tl
+BABEL_BP_106_15473_20120216_204630_S3_scripted tl tl tl tl en tl en tl
+BABEL_BP_106_35951_20120419_012008_S3_scripted tl tl tl tl tl tl tl en en
+BABEL_BP_106_80555_20120118_200621_T3_scripted tl tl tl en tl tl tl
+BABEL_BP_106_84980_20120227_005324_S5_scripted tl tl tl en tl tl tl tl
+BABEL_BP_106_37260_20120130_193153_S0_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_15473_20120216_204612_O7_scripted en tl
+BABEL_BP_106_16801_20120206_223354_O2_scripted en
+BABEL_BP_106_91481_20120303_204357_O2_scripted tl
+BABEL_BP_106_38879_20120203_193732_SB_scripted tl en en en tl tl en tl
+BABEL_BP_106_70077_20120315_195447_T3_scripted tl tl tl en tl tl tl
+BABEL_BP_106_67772_20120129_045425_O5_scripted en en
+BABEL_BP_106_71160_20120224_214925_S8_scripted tl tl tl tl tl en
+BABEL_BP_106_40439_20120405_122718_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_41989_20120205_190031_S6_scripted tl tl tl tl tl tl
+BABEL_BP_106_81611_20120330_181826_T1_scripted en en
+BABEL_BP_106_17203_20120127_152517_D4_scripted tl tl tl tl en en
+BABEL_BP_106_91873_20120222_173701_S5_scripted tl tl tl tl en tl tl tl
+BABEL_BP_106_21430_20120208_011137_S9_scripted tl tl tl tl tl tl
+BABEL_BP_106_68767_20120129_020446_N1_scripted en en en en en en en en en
+BABEL_BP_106_46521_20120205_184402_S2_scripted tl tl en tl tl
+BABEL_BP_106_90393_20120211_220515_I2_scripted en
+BABEL_BP_106_72119_20120315_155354_T2_scripted tl tl tl en tl tl tl
+BABEL_BP_106_87850_20120212_174913_S9_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_38464_20120318_223105_S4_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_84335_20120412_203612_O8_scripted en
+BABEL_BP_106_87850_20120212_175238_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_36155_20120605_114213_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_61446_20120603_124152_S3_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_36383_20120224_133110_SB_scripted tl en tl tl tl tl en
+BABEL_BP_106_96630_20120204_005318_S3_scripted tl tl tl tl tl tl
+BABEL_BP_106_64889_20120307_180444_S2_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_43086_20120212_152131_D2_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_25502_20120129_013923_D3_scripted tl tl
+BABEL_BP_106_34961_20120130_013113_S7_scripted tl tl tl tl tl tl en tl
+BABEL_BP_106_91703_20120301_174014_O3_scripted tl
+BABEL_BP_106_74986_20120418_224216_O6_scripted en tl
+BABEL_BP_106_62163_20120313_234248_O1_scripted en
+BABEL_BP_106_52366_20120123_114002_S8_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_19867_20120428_024728_S6_scripted tl tl tl tl en tl tl
+BABEL_BP_106_86016_20120211_171101_S6_scripted tl en tl tl tl tl
+BABEL_BP_106_55182_20120422_183336_O2_scripted en
+BABEL_BP_106_56868_20120205_124737_D1_scripted en en en en en en
+BABEL_BP_106_39114_20120315_130133_O8_scripted tl
+BABEL_BP_106_26164_20120401_231712_I2_scripted en
+BABEL_BP_106_66416_20120225_123616_C4_scripted en en en en en en
+BABEL_BP_106_33707_20120403_173917_S8_scripted tl tl tl en tl tl tl tl tl
+BABEL_BP_106_29421_20120213_175532_C1_scripted en en en en en
+BABEL_BP_106_45106_20120112_015502_N1_scripted en en en en en en en en en
+BABEL_BP_106_84025_20120307_172119_I2_scripted en
+BABEL_BP_106_40882_20120418_214236_I1_scripted en
+BABEL_BP_106_35441_20120414_195722_C2_scripted en en en en en en en en en
+BABEL_BP_106_87850_20120212_175402_T3_scripted tl tl en tl tl
+BABEL_BP_106_90609_20120129_180944_O1_scripted en
+BABEL_BP_106_91401_20120131_020104_O1_scripted en
+BABEL_BP_106_43306_20120210_033949_SB_scripted tl tl tl tl tl en tl
+BABEL_BP_106_48536_20120129_050651_N1_scripted en en en en en en en en
+BABEL_BP_106_15234_20120229_021205_N1_scripted en en en en en en en
+BABEL_BP_106_81820_20120329_192951_M1_scripted en en en en en en en en
+BABEL_BP_106_93509_20120129_155829_C1_scripted en en en en en
+BABEL_BP_106_69145_20120319_180513_D5_scripted tl tl tl tl
+BABEL_BP_106_81096_20120604_123712_O4_scripted tl
+BABEL_BP_106_67772_20120129_045533_D5_scripted tl tl tl
+BABEL_BP_106_12807_20120312_171034_N1_scripted en tl en en en en en en en en en
+BABEL_BP_106_74404_20120127_001438_O5_scripted tl en en en en en
+BABEL_BP_106_63632_20120214_021735_S8_scripted tl tl tl tl tl
+BABEL_BP_106_19867_20120428_023645_O2_scripted tl tl
+BABEL_BP_106_43086_20120212_151958_S5_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_52366_20120123_113346_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_97635_20120330_170350_S2_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_40882_20120418_214028_A1_scripted tl
+BABEL_BP_106_47263_20120305_033315_S6_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_69275_20120318_205511_O2_scripted en
+BABEL_BP_106_15022_20120212_210038_S5_scripted tl tl tl tl tl en tl tl tl
+BABEL_BP_106_47634_20120205_143602_C3_scripted en en en en en en en en en en en en en en
+BABEL_BP_106_12844_20120214_024239_S7_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_66416_20120225_123448_I2_scripted en
+BABEL_BP_106_72119_20120315_155255_O5_scripted en en en en
+BABEL_BP_106_91000_20120311_232011_D1_scripted en en en en en
+BABEL_BP_106_84980_20120227_004546_O1_scripted en
+BABEL_BP_106_87520_20120428_015130_I2_scripted en
+BABEL_BP_106_11479_20120202_184956_A1_scripted tl
+BABEL_BP_106_69145_20120319_180021_T1_scripted en en en tl tl
+BABEL_BP_106_78879_20120205_154010_S9_scripted tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_41541_20120315_005815_S0_scripted tl tl tl tl tl
+BABEL_BP_106_68671_20120407_170708_D4_scripted tl tl tl tl en en
+BABEL_BP_106_24094_20120307_210315_C2_scripted en en en en en en en
+BABEL_BP_106_42651_20120131_021557_O3_scripted en en
+BABEL_BP_106_29133_20120129_165453_S9_scripted tl en tl tl tl tl en
+BABEL_BP_106_63368_20120604_114905_O2_scripted tl tl
+BABEL_BP_106_24638_20120419_014637_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_56591_20120416_004218_S3_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_43553_20120210_181234_D2_scripted tl tl tl en en en en en
+BABEL_BP_106_80068_20120414_214712_S5_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_46521_20120205_183955_O3_scripted tl
+BABEL_BP_106_91703_20120301_174303_D3_scripted tl tl tl tl
+BABEL_BP_106_94814_20120211_004536_C1_scripted en en en en en
+BABEL_BP_106_36722_20120212_135342_O8_scripted tl
+BABEL_BP_106_91975_20120318_202740_C2_scripted en en en en en en en en en en
+BABEL_BP_106_70511_20120224_162214_S0_scripted tl tl en tl tl tl tl
+BABEL_BP_106_17511_20120301_191916_O2_scripted tl
+BABEL_BP_106_19147_20120121_180116_S5_scripted tl tl en en tl tl tl
+BABEL_BP_106_80638_20120411_225424_SA_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_45793_20120127_164221_S7_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_24580_20120604_165733_O3_scripted en
+BABEL_BP_106_65601_20120211_213722_SB_scripted tl tl tl en tl tl tl
+BABEL_BP_106_47429_20120329_202315_S1_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_35441_20120414_195749_C4_scripted en en en en en en
+BABEL_BP_106_62163_20120313_234655_O6_scripted en tl en
+BABEL_BP_106_11152_20120421_133447_SC_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_35188_20120315_154800_D4_scripted tl tl tl tl en en en en
+BABEL_BP_106_43939_20120317_201613_C5_scripted en en en en en en en en en en en en
+BABEL_BP_106_17511_20120301_192014_C1_scripted en en en en en
+BABEL_BP_106_22408_20120213_223351_S5_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_55182_20120422_183759_T2_scripted tl en tl en tl tl tl
+BABEL_BP_106_31031_20120214_233109_D3_scripted tl tl tl
+BABEL_BP_106_46521_20120205_184129_S1_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_67411_20120209_201337_C2_scripted en en en en en en en
+BABEL_BP_106_44369_20120319_022009_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_70285_20120128_184420_O5_scripted tl en
+BABEL_BP_106_16646_20120131_132144_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_30583_20120129_164350_S5_scripted tl tl tl tl tl tl
+BABEL_BP_106_50267_20120427_233542_S3_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_75932_20120301_190403_C1_scripted en en en en en
+BABEL_BP_106_50416_20120224_180715_O4_scripted tl
+BABEL_BP_106_44038_20120317_210450_S4_scripted tl tl tl tl tl tl
+BABEL_BP_106_53315_20120329_184030_S6_scripted tl tl tl
+BABEL_BP_106_30209_20120110_194722_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_63711_20120129_024601_S1_scripted tl tl tl tl tl tl tl en
+BABEL_BP_106_41949_20120213_171704_S0_scripted tl tl tl tl tl tl
+BABEL_BP_106_92642_20120214_022604_O2_scripted en en en tl tl
+BABEL_BP_106_32045_20120210_152054_D4_scripted tl tl tl tl en en
+BABEL_BP_106_80555_20120118_200239_S5_scripted tl tl tl tl tl tl tl tl en
+BABEL_BP_106_75740_20120128_203236_S8_scripted tl tl tl tl tl tl
+BABEL_BP_106_45511_20120129_003716_T1_scripted tl tl tl tl tl
+BABEL_BP_106_11479_20120202_184707_M1_scripted en en en en en en en en
+BABEL_BP_106_91703_20120301_174633_O7_scripted en tl
+BABEL_BP_106_70285_20120128_184051_O1_scripted en
+BABEL_BP_106_12655_20120110_203609_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_40882_20120418_212827_C6_scripted en en en en en en en en en
+BABEL_BP_106_36383_20120224_133311_S2_scripted tl tl tl
+BABEL_BP_106_26348_20120314_174223_I2_scripted en
+BABEL_BP_106_26684_20120211_170905_D1_scripted tl tl tl tl en en en
+BABEL_BP_106_33023_20120203_002010_O8_scripted en
+BABEL_BP_106_56943_20120126_222222_S6_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_11152_20120421_133407_D5_scripted tl tl tl
+BABEL_BP_106_74508_20120209_221441_T3_scripted tl tl tl tl tl tl
+BABEL_BP_106_45677_20120315_002655_C6_scripted en en en en en en en
+BABEL_BP_106_17080_20120126_160058_D4_scripted tl tl tl tl en en en en
+BABEL_BP_106_12120_20120318_030120_S5_scripted tl tl tl tl tl tl
+BABEL_BP_106_38879_20120203_193932_SC_scripted tl tl tl tl tl tl
+BABEL_BP_106_15022_20120212_205654_S7_scripted tl tl tl tl tl
+BABEL_BP_106_74404_20120127_001336_C4_scripted en en en en en en
+BABEL_BP_106_45793_20120127_164821_S8_scripted tl tl tl tl tl tl tl tl tl tl en
+BABEL_BP_106_32274_20120128_225703_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_99731_20120314_191104_S1_scripted tl tl tl tl tl tl
+BABEL_BP_106_59925_20120403_154950_C5_scripted en en en en en en en en en en en en
+BABEL_BP_106_24431_20120130_212256_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_17207_20120221_220920_S8_scripted en tl tl tl tl
+BABEL_BP_106_36143_20120128_222510_O6_scripted en en
+BABEL_BP_106_80075_20120605_115256_I1_scripted en
+BABEL_BP_106_86801_20120315_005515_D1_scripted tl en en en en en
+BABEL_BP_106_11627_20120210_042114_S1_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_12003_20120205_123934_S7_scripted tl tl en tl en tl tl tl
+BABEL_BP_106_11031_20120205_193049_SC_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_25502_20120129_013916_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_95952_20120413_205304_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_60250_20120129_025306_S5_scripted tl tl tl en tl tl tl
+BABEL_BP_106_37260_20120130_193206_A1_scripted tl
+BABEL_BP_106_27916_20120403_235103_D5_scripted tl tl
+BABEL_BP_106_35074_20120404_183902_SB_scripted tl tl en tl tl
+BABEL_BP_106_94235_20120604_161741_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_40197_20120308_174856_T1_scripted en en en tl
+BABEL_BP_106_81244_20120223_152849_D1_scripted en en en en en
+BABEL_BP_106_93509_20120129_155637_O1_scripted en
+BABEL_BP_106_86419_20120120_010515_N1_scripted en en en en en en
+BABEL_BP_106_46002_20120307_215211_S6_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_50416_20120224_180750_S2_scripted tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_11311_20120209_174657_S9_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_32263_20120225_205507_S6_scripted tl tl tl tl tl tl
+BABEL_BP_106_90313_20120129_124427_O3_scripted tl
+BABEL_BP_106_50101_20120118_142619_S6_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_55182_20120422_183645_S1_scripted tl tl tl tl tl en tl
+BABEL_BP_106_32263_20120225_205324_D2_scripted tl tl tl tl en en
+BABEL_BP_106_22910_20120129_215222_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_45793_20120127_164552_O4_scripted tl
+BABEL_BP_106_29302_20120209_210438_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_98675_20120418_013832_S7_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_80174_20120422_042257_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_44038_20120317_210346_S1_scripted tl tl tl tl tl en tl en tl
+BABEL_BP_106_24638_20120419_014835_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_30209_20120110_194827_I1_scripted en
+BABEL_BP_106_70643_20120316_234033_D3_scripted tl tl tl
+BABEL_BP_106_22229_20120111_180852_S9_scripted tl tl tl tl tl en tl tl tl
+BABEL_BP_106_44369_20120319_022124_S6_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_19915_20120129_034634_O5_scripted tl en en
+BABEL_BP_106_58923_20120128_003940_C4_scripted en en en en en en
+BABEL_BP_106_87520_20120428_015738_N1_scripted en en en en en en en en
+BABEL_BP_106_70077_20120315_194904_S7_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_27824_20120202_131026_O7_scripted en tl
+BABEL_BP_106_36155_20120605_113347_C2_scripted en en en en en en en
+BABEL_BP_106_83531_20120210_160709_A1_scripted tl
+BABEL_BP_106_36268_20120209_182326_S4_scripted tl tl tl tl tl tl
+BABEL_BP_106_67772_20120129_045440_S5_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_41541_20120315_005048_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_37260_20120130_193131_S2_scripted tl tl tl tl tl tl
+BABEL_BP_106_14936_20120201_181031_C1_scripted en en en en en
+BABEL_BP_106_33707_20120403_173610_T2_scripted tl tl tl tl tl
+BABEL_BP_106_12844_20120214_024117_D1_scripted en en en
+BABEL_BP_106_34961_20120130_013525_SC_scripted tl tl en tl tl tl tl tl tl
+BABEL_BP_106_66903_20120127_225135_A1_scripted tl
+BABEL_BP_106_15473_20120216_204640_N1_scripted en en en en en en en en
+BABEL_BP_106_46813_20120416_020519_S7_scripted tl tl tl tl tl
+BABEL_BP_106_20320_20120206_213602_O2_scripted tl tl tl
+BABEL_BP_106_51448_20120413_222400_N1_scripted en en en en en en en en en
+BABEL_BP_106_90313_20120129_124230_O8_scripted tl
+BABEL_BP_106_53653_20120405_185008_M1_scripted en en en en en en en en en en
+BABEL_BP_106_68767_20120129_015930_I2_scripted en
+BABEL_BP_106_43423_20120304_172313_S7_scripted tl tl tl tl tl tl
+BABEL_BP_106_73542_20120119_034359_SA_scripted en tl tl tl
+BABEL_BP_106_80535_20120319_010847_O7_scripted tl tl
+BABEL_BP_106_79526_20120418_002124_N1_scripted en en en en en en
+BABEL_BP_106_43423_20120304_172843_T3_scripted tl tl tl tl tl
+BABEL_BP_106_80638_20120411_224902_C1_scripted en en en en en
+BABEL_BP_106_80874_20120401_223449_S5_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_15234_20120229_021037_D2_scripted tl tl tl tl en en
+BABEL_BP_106_91873_20120222_173936_O7_scripted en tl tl en
+BABEL_BP_106_59544_20120209_183620_O5_scripted en en en
+BABEL_BP_106_38879_20120203_193742_O6_scripted en tl
+BABEL_BP_106_90609_20120129_181537_O7_scripted en en
+BABEL_BP_106_50267_20120427_233014_S9_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_33671_20120127_220231_O7_scripted tl en
+BABEL_BP_106_86029_20120130_002953_S7_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_68671_20120407_170307_O8_scripted en
+BABEL_BP_106_98402_20120311_212240_C6_scripted en en en en en en en
+BABEL_BP_106_15493_20120323_172400_S2_scripted tl tl tl tl tl tl
+BABEL_BP_106_36155_20120605_114317_S6_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_95952_20120413_210328_T2_scripted tl tl en tl en tl tl tl
+BABEL_BP_106_98279_20120228_231300_N1_scripted en en en en en en en en en en
+BABEL_BP_106_84394_20120226_183512_D5_scripted tl
+BABEL_BP_106_81820_20120329_193943_S8_scripted tl tl tl tl tl
+BABEL_BP_106_66964_20120416_130215_S8_scripted tl tl tl tl tl tl en
+BABEL_BP_106_88929_20120421_140241_SB_scripted tl tl tl tl tl tl
+BABEL_BP_106_32045_20120210_152321_SC_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_26348_20120314_174407_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_80075_20120605_114723_I2_scripted en
+BABEL_BP_106_82484_20120209_224402_SB_scripted tl tl tl tl tl tl en tl
+BABEL_BP_106_15473_20120216_204132_O3_scripted tl
+BABEL_BP_106_43383_20120203_181614_I2_scripted en
+BABEL_BP_106_29097_20120126_225228_C1_scripted en en en en en
+BABEL_BP_106_84335_20120412_203829_C4_scripted en en en en en en
+BABEL_BP_106_81820_20120329_191857_I2_scripted en
+BABEL_BP_106_94235_20120604_161849_N1_scripted en en en en en en en en en
+BABEL_BP_106_43939_20120317_201109_C4_scripted en en en en en en
+BABEL_BP_106_20775_20120309_185554_S1_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_80075_20120605_115307_S8_scripted tl en tl tl tl tl tl
+BABEL_BP_106_45511_20120129_004542_S6_scripted tl tl tl tl tl tl
+BABEL_BP_106_67775_20120315_190008_SB_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_22272_20120318_203202_O6_scripted en en
+BABEL_BP_106_69621_20120129_233739_O4_scripted en en
+BABEL_BP_106_81119_20120417_202641_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_17203_20120127_152939_S3_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_11422_20120120_172714_O6_scripted en en
+BABEL_BP_106_67411_20120209_201632_O5_scripted tl en en en
+BABEL_BP_106_70077_20120315_195041_M1_scripted en en en en en en en en
+BABEL_BP_106_91703_20120301_174539_SC_scripted tl tl tl tl tl en tl
+BABEL_BP_106_22509_20120315_210509_C3_scripted en en en en en en en en en en en en en en en
+BABEL_BP_106_60106_20120422_160643_D4_scripted tl tl tl en en en en
+BABEL_BP_106_26684_20120211_171405_S3_scripted tl tl tl tl tl tl
+BABEL_BP_106_24638_20120419_014756_SC_scripted tl tl tl tl en tl
+BABEL_BP_106_17093_20120217_165655_S4_scripted en tl tl tl tl tl tl
+BABEL_BP_106_69137_20120508_220443_S6_scripted tl tl en tl tl tl tl
+BABEL_BP_106_43553_20120210_181026_O5_scripted en en en en en
+BABEL_BP_106_48317_20120301_004847_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_51149_20120329_170008_D3_scripted tl
+BABEL_BP_106_22509_20120315_210141_O3_scripted tl
+BABEL_BP_106_43383_20120203_182142_S6_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_62286_20120213_170316_A1_scripted en
+BABEL_BP_106_88506_20120411_193319_S9_scripted tl tl tl tl tl tl
+BABEL_BP_106_30209_20120110_194445_D4_scripted tl tl tl tl en en
+BABEL_BP_106_20320_20120206_213928_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_76763_20120111_194033_C4_scripted en en en en en en
+BABEL_BP_106_50101_20120118_142034_C2_scripted en en en en en en en en en en
+BABEL_BP_106_83702_20120211_232219_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_87850_20120212_174817_C4_scripted en en en en en en
+BABEL_BP_106_70077_20120315_194815_O2_scripted tl
+BABEL_BP_106_12120_20120318_030523_I1_scripted en
+BABEL_BP_106_73440_20120131_162822_A1_scripted tl
+BABEL_BP_106_36424_20120601_171154_S0_scripted tl tl tl tl tl en tl tl
+BABEL_BP_106_43553_20120210_181224_SC_scripted tl tl tl tl tl tl
+BABEL_BP_106_67775_20120315_190016_O6_scripted en en
+BABEL_BP_106_61449_20120414_040241_S0_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_87520_20120428_015113_C2_scripted en en en en en en en
+BABEL_BP_106_80174_20120422_042348_SA_scripted tl tl en tl tl tl
+BABEL_BP_106_78094_20120127_133454_C4_scripted en en en en en en
+BABEL_BP_106_17080_20120126_155218_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_43652_20120208_004522_C2_scripted en en en en en en en en en en en en
+BABEL_BP_106_29328_20120117_191623_SC_scripted tl tl tl tl tl tl
+BABEL_BP_106_43553_20120210_181452_S8_scripted en tl tl tl tl tl
+BABEL_BP_106_17511_20120301_192452_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_35016_20120405_200718_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_41989_20120205_185942_O7_scripted en en
+BABEL_BP_106_53463_20120605_181502_O2_scripted en
+BABEL_BP_106_43306_20120210_034159_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_84335_20120412_204348_I1_scripted tl
+BABEL_BP_106_37260_20120130_193301_S8_scripted tl tl tl tl en en tl
+BABEL_BP_106_87806_20120205_130317_D3_scripted tl tl
+BABEL_BP_106_59383_20120317_182504_C6_scripted en en en en en en en en en en
+BABEL_BP_106_63632_20120214_021532_S2_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_75740_20120128_202952_SC_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_44129_20120422_050019_C3_scripted en en en en en en en en en en en en en
+BABEL_BP_106_43383_20120203_181703_M1_scripted en en en en en en en en en
+BABEL_BP_106_14936_20120201_180226_S7_scripted tl tl tl tl tl tl
+BABEL_BP_106_81096_20120604_123927_S6_scripted tl en tl tl tl en tl
+BABEL_BP_106_48317_20120301_005146_SB_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_73923_20120112_021151_O1_scripted en
+BABEL_BP_106_33707_20120403_173244_S7_scripted tl tl tl tl tl tl
+BABEL_BP_106_91401_20120131_021046_I1_scripted en
+BABEL_BP_106_83702_20120211_232021_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_67775_20120315_190135_D3_scripted tl tl
+BABEL_BP_106_39384_20120129_202740_S2_scripted tl tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_92642_20120214_022743_C4_scripted en en en en en en
+BABEL_BP_106_35576_20120224_205556_O6_scripted tl en
+BABEL_BP_106_12552_20120214_011029_C2_scripted en en en en en en en en en en en
+BABEL_BP_106_91000_20120311_232243_I2_scripted en
+BABEL_BP_106_26598_20120415_182817_C1_scripted en en en en en
+BABEL_BP_106_11031_20120205_193448_N1_scripted en en en en en en
+BABEL_BP_106_25502_20120129_014231_S3_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_35441_20120414_200255_O7_scripted en en
+BABEL_BP_106_37842_20120314_211756_S2_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_22408_20120213_223006_O2_scripted en en
+BABEL_BP_106_97635_20120330_170042_M1_scripted en en en en en en en en en en
+BABEL_BP_106_17093_20120217_170032_S8_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_81611_20120330_181935_C1_scripted en en en en en
+BABEL_BP_106_26644_20120411_160204_S6_scripted tl tl tl tl
+BABEL_BP_106_98279_20120228_231025_S4_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_11479_20120202_184802_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_41541_20120315_005109_O2_scripted tl
+BABEL_BP_106_83702_20120211_232332_S5_scripted tl tl en tl tl tl tl tl
+BABEL_BP_106_74986_20120418_224142_D4_scripted tl tl tl tl en en
+BABEL_BP_106_22272_20120318_203442_SC_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_84394_20120226_183522_SA_scripted tl tl tl tl tl tl
+BABEL_BP_106_76451_20120128_171436_O2_scripted en
+BABEL_BP_106_84980_20120227_004647_T1_scripted en en tl tl
+BABEL_BP_106_40002_20120301_231047_S3_scripted en tl tl tl tl tl tl
+BABEL_BP_106_19915_20120129_034812_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_24580_20120604_170442_I1_scripted en
+BABEL_BP_106_10066_20120605_125806_S8_scripted tl tl tl tl
+BABEL_BP_106_98279_20120228_230440_C6_scripted en en en en en en en en en en
+BABEL_BP_106_78879_20120205_154059_O6_scripted en tl
+BABEL_BP_106_97635_20120330_170056_SB_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_34961_20120130_013624_O7_scripted en tl
+BABEL_BP_106_38956_20120125_193240_SB_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_40882_20120418_213557_S5_scripted tl tl tl tl tl tl
+BABEL_BP_106_75243_20120314_182810_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_22910_20120129_215243_S4_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_16117_20120315_010631_O7_scripted en en
+BABEL_BP_106_47894_20120315_001215_S4_scripted tl en tl tl tl tl tl tl
+BABEL_BP_106_39246_20120303_000609_S2_scripted tl tl tl tl tl tl en
+BABEL_BP_106_35951_20120419_011647_S4_scripted tl tl tl tl tl tl
+BABEL_BP_106_40002_20120301_231056_N1_scripted en en en en en en
+BABEL_BP_106_77965_20120117_190022_O2_scripted en
+BABEL_BP_106_95120_20120226_165020_S4_scripted tl tl tl tl tl tl
+BABEL_BP_106_52366_20120123_113128_O1_scripted en
+BABEL_BP_106_12807_20120312_170342_S1_scripted tl tl tl tl tl
+BABEL_BP_106_84980_20120227_004556_O8_scripted tl
+BABEL_BP_106_17933_20120523_222750_S0_scripted tl tl tl tl en tl tl
+BABEL_BP_106_38640_20120130_180734_I1_scripted en
+BABEL_BP_106_13065_20120422_040811_O7_scripted en en
+BABEL_BP_106_35074_20120404_183816_C4_scripted en en en en en en
+BABEL_BP_106_71160_20120224_214914_I1_scripted en
+BABEL_BP_106_60106_20120422_160818_D3_scripted tl tl tl
+BABEL_BP_106_64889_20120307_180535_S3_scripted tl tl en tl tl tl tl
+BABEL_BP_106_41541_20120315_005637_SA_scripted tl tl tl tl tl tl
+BABEL_BP_106_46813_20120416_021004_S2_scripted tl tl tl tl tl tl
+BABEL_BP_106_33243_20120418_000055_C2_scripted en en en en en en en en en en
+BABEL_BP_106_75243_20120314_183301_S1_scripted tl en tl tl tl tl
+BABEL_BP_106_80874_20120401_223824_S6_scripted tl tl tl tl
+BABEL_BP_106_11311_20120209_174740_M1_scripted en en en en en en en
+BABEL_BP_106_84025_20120307_172141_S9_scripted tl tl tl tl tl
+BABEL_BP_106_70511_20120224_161844_D4_scripted tl tl tl tl en en
+BABEL_BP_106_51073_20120128_194304_S7_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_26348_20120314_175147_S6_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_13530_20120404_124728_S0_scripted tl tl tl tl tl
+BABEL_BP_106_12655_20120110_203752_S3_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_91481_20120303_205006_S0_scripted tl tl tl tl tl tl en tl tl
+BABEL_BP_106_12003_20120205_124107_S9_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_91975_20120318_203438_I1_scripted en
+BABEL_BP_106_92436_20120212_153951_SA_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_47429_20120329_202751_S8_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_56868_20120205_125042_M1_scripted en en en en en en en en
+BABEL_BP_106_70511_20120224_162038_T2_scripted tl tl tl tl tl tl
+BABEL_BP_106_88253_20120318_120452_O6_scripted en en
+BABEL_BP_106_87167_20120204_023241_S2_scripted tl tl tl tl tl en
+BABEL_BP_106_44129_20120422_050046_A1_scripted en
+BABEL_BP_106_20741_20120604_132059_S4_scripted tl tl tl tl tl tl
+BABEL_BP_106_86120_20120126_225309_I2_scripted en
+BABEL_BP_106_22910_20120129_214556_O8_scripted en
+BABEL_BP_106_42309_20120403_221142_C2_scripted en en en en en en en
+BABEL_BP_106_95120_20120226_164942_O5_scripted tl en en en en en
+BABEL_BP_106_98279_20120228_231349_S8_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_87520_20120428_015059_C1_scripted en en en en en
+BABEL_BP_106_19290_20120605_181933_M1_scripted en en en en en en en en en
+BABEL_BP_106_43939_20120317_200745_T1_scripted en en en en tl tl tl
+BABEL_BP_106_64889_20120307_180558_S6_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_92436_20120212_153845_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_60250_20120129_025252_O5_scripted tl
+BABEL_BP_106_11031_20120205_192944_O4_scripted tl
+BABEL_BP_106_43086_20120212_151458_D1_scripted en en en en en
+BABEL_BP_106_53463_20120605_181956_S0_scripted tl en tl tl tl tl tl
+BABEL_BP_106_36975_20120225_125532_O6_scripted en en
+BABEL_BP_106_50641_20120317_162504_S3_scripted tl en tl tl tl en
+BABEL_BP_106_92436_20120212_154504_S6_scripted tl tl tl en tl tl tl tl tl
+BABEL_BP_106_40002_20120301_230722_S9_scripted tl tl tl tl tl tl
+BABEL_BP_106_50468_20120417_234231_O4_scripted en
+BABEL_BP_106_75140_20120124_183008_C4_scripted en en en en en en
+BABEL_BP_106_91143_20120413_235350_T1_scripted en tl
+BABEL_BP_106_42309_20120403_221220_S9_scripted tl tl tl tl en
+BABEL_BP_106_15022_20120212_210409_S2_scripted tl en tl tl tl tl
+BABEL_BP_106_14891_20120126_184526_S8_scripted tl tl tl tl tl tl
+BABEL_BP_106_68671_20120407_170831_C5_scripted en en en en en en en en en en en en
+BABEL_BP_106_69446_20120416_011631_C3_scripted en en en en en en en en en en en en en en
+BABEL_BP_106_12003_20120205_124416_S2_scripted tl tl tl tl tl
+BABEL_BP_106_50468_20120417_233723_O2_scripted tl
+BABEL_BP_106_83531_20120210_160452_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_55820_20120318_014357_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_50101_20120118_142258_C5_scripted en en en en en en en en en en en en
+BABEL_BP_106_81820_20120329_193243_O4_scripted tl
+BABEL_BP_106_61446_20120603_124227_T3_scripted tl tl tl en tl tl tl
+BABEL_BP_106_29097_20120126_225331_D4_scripted tl tl en tl tl en en en
+BABEL_BP_106_60106_20120422_160654_M1_scripted en en en en en en en en
+BABEL_BP_106_75243_20120314_182946_C1_scripted en en en en en
+BABEL_BP_106_35074_20120404_183609_D1_scripted en en en en en
+BABEL_BP_106_32710_20120419_010416_D2_scripted tl tl tl tl en en en en
+BABEL_BP_106_95952_20120413_205739_S9_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_45793_20120127_164621_S2_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_15022_20120212_210018_S1_scripted tl tl tl en tl tl
+BABEL_BP_106_33671_20120127_215814_C1_scripted en en en en en
+BABEL_BP_106_84335_20120412_204321_N1_scripted en en en en en en en
+BABEL_BP_106_15022_20120212_210028_O5_scripted en en en en
+BABEL_BP_106_36268_20120209_182311_D3_scripted tl tl
+BABEL_BP_106_27824_20120202_130639_O6_scripted en en
+BABEL_BP_106_73542_20120119_034642_I1_scripted tl
+BABEL_BP_106_95952_20120413_210430_D2_scripted tl tl tl tl tl en en en
+BABEL_BP_106_19915_20120129_034524_C4_scripted en en en en en en
+BABEL_BP_106_86014_20120605_155001_D3_scripted tl tl
+BABEL_BP_106_41989_20120205_190016_N1_scripted en en en en en en
+BABEL_BP_106_11311_20120209_174546_S7_scripted tl tl tl tl tl tl
+BABEL_BP_106_59544_20120209_183852_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_19915_20120129_034723_T2_scripted tl tl tl tl tl
+BABEL_BP_106_30209_20120110_194821_T3_scripted tl tl tl tl tl
+BABEL_BP_106_70643_20120316_234245_S6_scripted tl tl tl tl tl en tl
+BABEL_BP_106_74395_20120414_204406_S3_scripted tl tl tl tl en tl tl tl tl tl
+BABEL_BP_106_66964_20120416_125424_C6_scripted en en en en en en en
+BABEL_BP_106_14936_20120201_181126_S9_scripted tl tl en tl tl en tl tl
+BABEL_BP_106_42853_20120106_175704_O4_scripted tl
+BABEL_BP_106_86801_20120315_010459_C5_scripted en en en en en en en en en en en en
+BABEL_BP_106_73786_20120130_222139_S3_scripted tl tl tl
+BABEL_BP_106_24094_20120307_210411_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_91975_20120318_203453_S8_scripted tl tl tl tl tl
+BABEL_BP_106_82766_20120208_223330_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_37842_20120314_211507_M1_scripted en en en en en en en en en en
+BABEL_BP_106_75151_20120405_164853_D1_scripted en en en en en
+BABEL_BP_106_74508_20120209_221451_I1_scripted tl
+BABEL_BP_106_32045_20120210_152457_S6_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_88253_20120318_120155_C1_scripted en en en en en
+BABEL_BP_106_95514_20120404_172009_I1_scripted en
+BABEL_BP_106_20546_20120211_004123_O3_scripted tl
+BABEL_BP_106_27178_20120129_002204_S3_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_96630_20120204_004238_D1_scripted en en en en en
+BABEL_BP_106_18234_20120128_180442_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_39246_20120303_000101_D1_scripted en en en en en
+BABEL_BP_106_69275_20120318_205427_O8_scripted en
+BABEL_BP_106_38635_20120605_173204_S3_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_51448_20120413_222440_T3_scripted tl tl tl en tl tl tl
+BABEL_BP_106_17207_20120221_220722_S2_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_20741_20120604_132040_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_69145_20120319_180409_O5_scripted en en en
+BABEL_BP_106_93509_20120129_155659_D1_scripted en en en en en en
+BABEL_BP_106_86029_20120130_003123_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_47906_20120418_231214_O4_scripted tl
+BABEL_BP_106_52335_20120404_162052_D2_scripted tl tl tl en en en en
+BABEL_BP_106_46002_20120307_214600_O8_scripted en
+BABEL_BP_106_43423_20120304_172228_O2_scripted tl en
+BABEL_BP_106_11422_20120120_172958_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_70285_20120128_184334_D4_scripted tl tl tl en en en en
+BABEL_BP_106_19915_20120129_034841_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_25502_20120129_013849_O5_scripted en en
+BABEL_BP_106_53463_20120605_182022_S3_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_65989_20120605_165041_D5_scripted tl tl tl
+BABEL_BP_106_29280_20120405_194150_S1_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_75243_20120314_183249_O6_scripted en tl
+BABEL_BP_106_52642_20120222_182656_C5_scripted en en en en en en en en en en en en
+BABEL_BP_106_52366_20120123_113846_A1_scripted tl
+BABEL_BP_106_14836_20120221_190009_S7_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_55182_20120422_183314_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_19290_20120605_182223_O7_scripted en tl
+BABEL_BP_106_71178_20120205_194308_O2_scripted en
+BABEL_BP_106_69137_20120508_220317_D2_scripted tl tl tl en en en en
+BABEL_BP_106_24094_20120307_210100_O1_scripted tl
+BABEL_BP_106_88506_20120411_193339_M1_scripted en en en en en en en en en
+BABEL_BP_106_63711_20120129_024704_T2_scripted tl en tl tl tl
+BABEL_BP_106_35074_20120404_184250_N1_scripted en en en en en en en en
+BABEL_BP_106_30583_20120129_164502_SA_scripted tl tl tl tl tl tl tl en
+BABEL_BP_106_33023_20120203_002342_O6_scripted en en
+BABEL_BP_106_82766_20120208_222758_O3_scripted tl
+BABEL_BP_106_67411_20120209_201951_S3_scripted tl tl tl tl tl tl tl tl tl
+BABEL_BP_106_43553_20120210_181120_S4_scripted tl tl tl tl en tl tl
+BABEL_BP_106_33671_20120127_220009_S5_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_84980_20120227_004741_S7_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_47469_20120210_224004_O6_scripted en tl
+BABEL_BP_106_13229_20120212_124516_I1_scripted en
+BABEL_BP_106_47429_20120329_202626_O7_scripted tl tl
+BABEL_BP_106_47906_20120418_230842_C4_scripted en en en en en en
+BABEL_BP_106_27178_20120129_001756_S1_scripted tl en en tl tl tl en tl tl en
+BABEL_BP_106_53315_20120329_183849_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_38879_20120203_193956_S2_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_51448_20120413_222459_S8_scripted tl tl tl tl en tl en
+BABEL_BP_106_71160_20120224_214614_O4_scripted tl
+BABEL_BP_106_29512_20120226_203740_S0_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_11827_20120205_011726_O6_scripted en en
+BABEL_BP_106_77315_20120227_154428_C3_scripted en en en en en en en en en en en en en en
+BABEL_BP_106_43383_20120203_182128_N1_scripted en en en en en en en en
+BABEL_BP_106_56868_20120205_125623_T3_scripted tl tl tl en tl tl tl
+BABEL_BP_106_63368_20120604_115449_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_53463_20120605_181723_S1_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_37010_20120118_202358_T1_scripted tl tl tl
+BABEL_BP_106_36722_20120212_135913_D5_scripted tl tl tl
+BABEL_BP_106_36391_20120202_220830_D5_scripted tl
+BABEL_BP_106_42853_20120106_175405_C4_scripted en en en en en en
+BABEL_BP_106_37094_20120118_155538_C2_scripted en en en en en en en en en en
+BABEL_BP_106_80075_20120605_114651_S7_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_98279_20120228_230907_O6_scripted en en
+BABEL_BP_106_90511_20120202_195742_T2_scripted tl en tl tl tl
+BABEL_BP_106_61449_20120414_034320_O1_scripted en
+BABEL_BP_106_60250_20120129_025331_D3_scripted tl tl
+BABEL_BP_106_12003_20120205_123845_O2_scripted en
+BABEL_BP_106_44129_20120422_045257_O5_scripted en en en en
+BABEL_BP_106_96630_20120204_004654_C2_scripted en en en en en en en en en en
+BABEL_BP_106_70285_20120128_184258_O3_scripted tl
+BABEL_BP_106_48536_20120129_050741_S8_scripted tl en tl tl tl tl
+BABEL_BP_106_34961_20120130_013232_D4_scripted tl tl tl en en en
+BABEL_BP_106_83791_20120603_164455_S5_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_53653_20120405_184830_C2_scripted en en en en en en en en en
+BABEL_BP_106_72119_20120315_155344_S4_scripted tl en tl tl tl tl tl tl
+BABEL_BP_106_50589_20120128_183340_N1_scripted en en en en en en en en en
+BABEL_BP_106_90393_20120211_220253_O1_scripted tl
+BABEL_BP_106_42910_20120128_204537_C4_scripted en en en en en en
+BABEL_BP_106_26348_20120314_174033_D1_scripted en en en en en
+BABEL_BP_106_55182_20120422_183828_SA_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_80075_20120605_114949_D5_scripted tl tl
+BABEL_BP_106_84335_20120412_203813_O3_scripted tl
+BABEL_BP_106_88929_20120421_140741_S8_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_17511_20120301_192209_O6_scripted en tl
+BABEL_BP_106_33023_20120203_002446_D3_scripted tl tl tl
+BABEL_BP_106_73542_20120119_034426_D2_scripted tl tl tl tl en en en
+BABEL_BP_106_32274_20120128_225651_S2_scripted tl tl tl tl en
+BABEL_BP_106_50468_20120417_234127_S5_scripted tl tl tl tl
+BABEL_BP_106_81944_20120404_115005_S4_scripted tl en en tl tl tl
+BABEL_BP_106_63632_20120214_020909_O1_scripted en
+BABEL_BP_106_13065_20120422_040101_O8_scripted en
+BABEL_BP_106_82484_20120209_224113_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_24580_20120604_170336_A1_scripted tl tl
+BABEL_BP_106_43383_20120203_181742_S1_scripted tl tl tl tl tl
+BABEL_BP_106_67772_20120129_045030_O1_scripted tl
+BABEL_BP_106_65601_20120211_213746_S1_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_82484_20120209_224639_SA_scripted tl tl tl tl tl tl tl
+BABEL_BP_106_92642_20120214_023021_D5_scripted tl tl tl
+BABEL_BP_106_11627_20120210_042408_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_81611_20120330_182445_O7_scripted en tl
+BABEL_BP_106_82484_20120209_224338_D4_scripted tl tl tl en en en en
+BABEL_BP_106_12552_20120214_010906_C6_scripted en en en en en en en en en en en
+BABEL_BP_106_14936_20120201_181359_D5_scripted tl tl tl tl
+BABEL_BP_106_78094_20120127_133538_SB_scripted tl tl tl tl
+BABEL_BP_106_46813_20120416_021044_A1_scripted tl
+BABEL_BP_106_19290_20120605_182046_S4_scripted tl tl tl tl tl tl
+BABEL_BP_106_65989_20120605_165306_S3_scripted en tl tl tl tl tl
+BABEL_BP_106_40002_20120301_231023_S0_scripted tl tl tl en tl tl en tl tl
+BABEL_BP_106_19867_20120428_023853_D4_scripted tl tl tl tl en en en
+BABEL_BP_106_33707_20120403_173618_D5_scripted tl en
+BABEL_BP_106_86029_20120130_003213_O6_scripted en en
+BABEL_BP_106_80555_20120118_200351_O4_scripted tl
+BABEL_BP_106_73923_20120112_021753_O7_scripted en en
+BABEL_BP_106_26684_20120211_170932_O2_scripted tl tl en
+BABEL_BP_106_12655_20120110_203840_T3_scripted tl tl tl tl tl
+BABEL_BP_106_13229_20120212_124414_A1_scripted en
+BABEL_BP_106_47906_20120418_231246_S2_scripted tl tl tl tl tl tl
+BABEL_BP_106_92436_20120212_153454_O3_scripted en en
+BABEL_BP_106_38879_20120203_194011_C3_scripted en en en en en en en en en en en en en en en en
+BABEL_BP_106_91002_20120411_140850_C5_scripted en en en en en en en en en en en
+BABEL_BP_106_82766_20120208_223419_S3_scripted tl tl tl tl tl tl tl tl
+BABEL_BP_106_80874_20120401_223303_I2_scripted tl
+BABEL_BP_106_87806_20120205_130238_O5_scripted tl en en en en
+BABEL_BP_106_48317_20120301_005521_I1_scripted en
+BABEL_BP_106_17203_20120127_152928_A1_scripted tl
+BABEL_BP_106_36975_20120225_125739_O4_scripted tl
