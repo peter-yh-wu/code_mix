@@ -21,7 +21,7 @@ def main():
 
         lids = []
         for w in l_list[1:]:
-            lid = langid.classify('kaarawan')[0]
+            lid = langid.classify(w)[0]
             lids.append(lid)
 
         new_l_list = [l_list[0]]+lids
