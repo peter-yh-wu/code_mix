@@ -1,8 +1,8 @@
 import enchant
-import langid
+# import langid
 import os
 
-from langdetect import detect
+# from langdetect import detect
 
 def main():
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -30,8 +30,9 @@ def main():
                 lid = 'en'
             else:
                 # lid1 = langid.classify(w)[0]
-                lid2 = detect(w)
-                lid = lid2
+                # lid2 = detect(w)
+                # lid = lid2
+                lid = 'tl'
             lids.append(lid)
 
         new_l_list = [l_list[0]]+lids
