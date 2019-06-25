@@ -1,3 +1,4 @@
+import enchant
 import langid
 import os
 
@@ -16,6 +17,8 @@ def main():
     with open(scripted_txt_path, 'r') as inf:
         script_lines = inf.readlines()
 
+    d = enchant.Dict("en_US")
+
     new_lines = []
     for i, l in enumerate(script_lines):
         l = l.strip()
@@ -23,9 +26,12 @@ def main():
 
         lids = []
         for w in l_list[1:]:
-            # lid1 = langid.classify(w)[0]
-            lid2 = detect(w)
-            lid = lid2
+            if d.check(w):
+                lid = 'en'
+            else:
+                # lid1 = langid.classify(w)[0]
+                lid2 = detect(w)
+                lid = lid2
             lids.append(lid)
 
         new_l_list = [l_list[0]]+lids
