@@ -13,7 +13,7 @@ def main():
     scripted_lids_path = os.path.join(lids_dir, 'script_lids.txt')
 
     with open(scripted_txt_path, 'r') as inf:
-        script_lines = inf.readlines
+        script_lines = inf.readlines()
 
     translator = Translator()
 
