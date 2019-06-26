@@ -247,7 +247,7 @@ if __name__ == '__main__':
                     os.mkdir('models')
                 except Exception as e:
                     print("Can not create models directory, %s" % e)
-            torch.save(model, "{}/best.pt".format(args.models_dir))
+            torch.save(model, "{}/best_{}.pt".format(args.models_dir, args.dataset))
             best_dev = dev_loss
 
         # Save the model
