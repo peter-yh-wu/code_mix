@@ -50,8 +50,8 @@ def closest_word(word, vocab, threshold=5, sub_thres=2):
     Returns 2 words if no closest word found
     '''
     best_word = word
-    best_dist = 1000000000
-    prefix_len_best = 1000000000
+    best_dist = float("inf")
+    prefix_len_best = float("inf")
     for vocab_word in vocab:
         curr_dist = edit_distance(word, vocab_word)
         if curr_dist < best_dist:
@@ -67,7 +67,7 @@ def closest_word(word, vocab, threshold=5, sub_thres=2):
         for i in range(len(word)-1):
             word1 = word[:i+1]
             word2 = word[i+1:]
-            curr_dist = 1000000000
+            curr_dist = float("inf")
             vocab_word1 = word1
             for vocab_word in vocab:
                 if word1 == vocab_word:
@@ -80,7 +80,7 @@ def closest_word(word, vocab, threshold=5, sub_thres=2):
                     curr_dist = dist1
             vocab_word2 = word2
             if curr_dist <= sub_thres:
-                curr_dist2 = 1000000000
+                curr_dist2 = float("inf")
                 for vocab_word in vocab:
                     if word2 == vocab_word:
                         vocab_word2 = vocab_word
@@ -99,7 +99,7 @@ def closest_word(word, vocab, threshold=5, sub_thres=2):
 
 def mk_map(vocab):
     '''
-    chinese characters are mapped to themselves and english characters are
+    chinese characters are mapped to themselves and english words are
     mapped to unique unicode characters
 
     Assumes that vocab is only comprised of single chinese characters and
