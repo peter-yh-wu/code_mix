@@ -87,7 +87,7 @@ if __name__ == '__main__':
         train = dataset[: int(len(dataset)*0.8)]
         dev = dataset[int(len(dataset)*0.8) + 1: -1]
         train_ids = None
-    elif args.dataset.lower() == 'miami':
+    elif args.dataset.lower() == 'miami' or args.dataset.lower() == 'tagalog':
         logger.info('Loading Miami dataset...')
         train, dev, test, train_ids, dev_ids, test_ids, miami_dict = read_miami_data(args.data)
     else:
@@ -164,7 +164,7 @@ if __name__ == '__main__':
     last_dev = 1e20
     best_dev = 1e20
 
-    if args.dataset == 'miami':
+    if args.dataset == 'miami' or args.dataset == 'tagalog':
         train = [(sent, idx) for sent, idx in zip(train, train_ids)]
         dev = [(sent, idx) for sent, idx in zip(dev, dev_ids)]
 
@@ -178,7 +178,7 @@ if __name__ == '__main__':
         train_sents = 0
         start = time.time()
         for idx, sent in enumerate(train):
-            if args.dataset == 'miami':
+            if args.dataset in ['miami', 'tagalog']:
                 lang_ids = ['<s>'] + sent[1] + ['<s>']
                 sent = ['<s>'] + sent[0] + ['<s>']
                 if len(sent) == 2 or len(lang_ids) == 2:
@@ -220,7 +220,7 @@ if __name__ == '__main__':
         start = time.time()
         with torch.no_grad():
             for sent in dev:
-                if args.dataset == 'miami':
+                if args.dataset in ['miami', 'tagalog']:
                     lang_ids = ['<s>'] + sent[1] + ['<s>']
                     sent = ['<s>'] + sent[0] + ['<s>']
                     if len(sent) == 2 or len(lang_ids) == 2:
@@ -247,7 +247,7 @@ if __name__ == '__main__':
                     os.mkdir('models')
                 except Exception as e:
                     print("Can not create models directory, %s" % e)
-            torch.save(model, "{}/best.pt".format(args.models_dir))
+            torch.save(model, "{}/best_{}.pt".format(args.models_dir, args.dataset))
             best_dev = dev_loss
 
         # Save the model

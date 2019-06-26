@@ -106,6 +106,9 @@ def read_miami_data(data_path):
         lines = f.readlines()
         dev_ids = [line.split()[1:] for line in lines]
 
+    train.extend(test)
+    train_ids.extend(test_ids)
+
     miami_dict = {'eng': [], 'spa': []}
     for uttr, ids in zip(train, train_ids):
         if len(uttr) != len(ids):
