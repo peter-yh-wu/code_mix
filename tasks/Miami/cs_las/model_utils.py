@@ -29,7 +29,7 @@ def output_mask(maxlen, lengths):
     mask = ran < lens
     return mask
 
-def log_l(logits, target, lengths):
+def log_l(logits, target, lengths, device=0):
     '''Calculates the log-likelihood for the given batch
 
     Args:
@@ -45,7 +45,7 @@ def log_l(logits, target, lengths):
     logits_masked = logits * mask.unsqueeze(2)
     range_tens = torch.arange(vocab_size).repeat(seq_len, batch_size, 1)
     if torch.cuda.is_available():
-        range_tens = range_tens.cuda()
+        range_tens = range_tens.cuda(device)
     target_rep = target.repeat(vocab_size, 1, 1).permute(1, 2, 0)
     masked_tens = range_tens == target_rep
     all_probs = torch.sum(logits*masked_tens.float(), 2) # shape: (seq_len, batch_size)
@@ -54,7 +54,7 @@ def log_l(logits, target, lengths):
     log_probs = torch.sum(all_log_probs, 0) # shape: (batch_size,)
     return log_probs
 
-def perplexity(logits, target, lengths):
+def perplexity(logits, target, lengths, device=0):
     '''Calculates the perplexity for the given batch
 
     Args:
@@ -65,7 +65,7 @@ def perplexity(logits, target, lengths):
     Return:
         perp: float (tensor)
     '''
-    log_probs = log_l(logits, target, lengths) # shape: (batch_size,)
+    log_probs = log_l(logits, target, lengths, device=device) # shape: (batch_size,)
     tot_log_l = torch.sum(log_probs)
     tot_len = torch.sum(lengths)
     return torch.exp(-tot_log_l/tot_len)
@@ -79,7 +79,7 @@ def decode_output(output, charset):
         chars.append(charset[o - 1])
     return "".join(chars)
 
-def generate_transcripts(args, model, loader, charset):
+def generate_transcripts(args, model, loader, charset, device=0):
     '''Iteratively returns string transcriptions
     
     Return:
@@ -87,11 +87,11 @@ def generate_transcripts(args, model, loader, charset):
     '''
     # Create and yield transcripts
     for uarray, ulens, l1array, llens, l2array in loader:
-        if args.cuda:
-            uarray = uarray.cuda()
-            ulens = ulens.cuda()
-            l1array = l1array.cuda()
-            llens = llens.cuda()
+        if torch.cuda.is_available():
+            uarray = uarray.cuda(device)
+            ulens = ulens.cuda(device)
+            l1array = l1array.cuda(device)
+            llens = llens.cuda(device)
         uarray = Variable(uarray)
         ulens = Variable(ulens)
         l1array = Variable(l1array)
@@ -106,7 +106,7 @@ def generate_transcripts(args, model, loader, charset):
             transcript = decode_output(generated[:, i], charset)
             yield transcript
 
-def cer(args, model, loader, charset, ys):
+def cer(args, model, loader, charset, ys, device=0):
     '''Calculates the average normalized CER for the given data
     
     Args:
@@ -117,7 +117,7 @@ def cer(args, model, loader, charset, ys):
     '''
     model.eval()
     norm_dists = []
-    transcripts = generate_transcripts(args, model, loader, charset)
+    transcripts = generate_transcripts(args, model, loader, charset, device=device)
     for i, t in enumerate(transcripts):
         dist = edit_distance(t, ys[i])
         norm_dist = dist / len(ys[i])
@@ -255,7 +255,7 @@ def make_loader(ids, labels, args, shuffle=True, batch_size=64):
         labels: list of 1-dim int np arrays
     '''
     # Build the DataLoaders
-    kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if args.cuda else {}
+    kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if torch.cuda.is_available() else {}
     dataset = ASRDataset(ids, labels)
     loader = DataLoader(dataset, collate_fn=speech_collate_fn, shuffle=shuffle, batch_size=batch_size, **kwargs)
     return loader
