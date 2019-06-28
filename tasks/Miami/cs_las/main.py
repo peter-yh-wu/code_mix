@@ -206,6 +206,7 @@ class DecoderModel(nn.Module):
         self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim + args.value_dim, args.decoder_dim, args))
         self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim, args.decoder_dim, args))
         self.input_rnns.append(AdvancedLSTMCell(args.decoder_dim, args.decoder_dim, args))
+        self.key_projection = nn.Linear(args.key_dim, args.decoder_dim)
         self.query_projection = nn.Linear(args.decoder_dim, args.decoder_dim)
         self.char_projection = nn.Sequential(
             nn.Linear(args.decoder_dim+args.value_dim, args.decoder_dim),

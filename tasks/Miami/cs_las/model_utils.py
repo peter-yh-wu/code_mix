@@ -155,7 +155,7 @@ def load_fid_and_y_data(phase):
     split_dir = os.path.join(parent_dir, 'split')
     phase_file = '%s.txt' % phase
     phase_path = os.path.join(split_dir, phase_file)
-    with open(phase_path, 'r') as inf:
+    with open(phase_path, 'r', encoding="utf-8") as inf:
         lines = inf.readlines()
     ids = []
     ys = []
