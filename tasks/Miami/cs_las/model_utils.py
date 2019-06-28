@@ -1,10 +1,6 @@
 '''
 Helper functions
 
-To-do:
- - incrementally load data instead all at once
- - add conversation data to split
-
 Character set/map and data loader code modified from LAS implementation by 
 Sai Krishna Rallabandi (srallaba@andrew.cmu.edu)
 
@@ -166,8 +162,8 @@ def load_fid_and_y_data(phase):
     for l in lines:
         l = l.strip()
         l_list = l.split()
-        fid = l[0]
-        y = ' '.join(l[1:])
+        fid = l_list[0]
+        y = ' '.join(l_list[1:])
         ids.append(fid)
         ys.append(y)
     return ids, np.array(ys)
