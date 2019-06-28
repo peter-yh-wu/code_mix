@@ -92,6 +92,8 @@ if __name__ == '__main__':
         train, dev, test, train_ids, dev_ids, test_ids, miami_dict = read_miami_data(args.data)
     elif args.dataset.lower() == 'opensub':
         eng_data, spa_data, eng_ids, spa_ids = read_opensub_data(args.data)
+        train = eng_data + spa_data
+        train_ids = torch.cat((eng_ids, spa_ids))
     else:
         raise NotImplemented
 
@@ -217,6 +219,9 @@ if __name__ == '__main__':
 
         # Evaluate on dev set
         # set the model to evaluation mode
+        if args.dataset == 'opensub':
+            torch.save(model, "{}/opensub_epoch_{}.pt".format(args.models_dir, epoch))
+            continue
         model.eval()
         dev_words, dev_loss = 0, 0.0
         start = time.time()
