@@ -61,6 +61,33 @@ class AdvancedLSTMCell(nn.LSTMCell):
             self.c0.expand(n, -1).contiguous()
         )
 
+
+class AdvancedLSTM(nn.LSTM):
+    '''
+    Class for learning initial hidden states when using LSTMs
+    '''
+    def __init__(self, input_dim, output_dim, args, **kwargs):
+        super(AdvancedLSTM, self).__init__(input_dim, output_dim, **kwargs)
+        bi = 2 if self.bidirectional else 1
+        self.h0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
+        self.c0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
+        if torch.cuda.is_available():
+            self.h0 = self.h0.cuda(args.cuda)
+            self.c0 = self.c0.cuda(args.cuda)
+
+    def initial_state(self, n):
+        return (
+            self.h0.expand(-1, n, -1).contiguous(),
+            self.c0.expand(-1, n, -1).contiguous()
+        )
+
+    def forward(self, x, hx=None):
+        if hx is None:
+            n = x.batch_sizes[0]
+            hx = self.initial_state(n)
+        return super(AdvancedLSTM, self).forward(x, hx=hx)
+
+
 class pLSTM(AdvancedLSTM):
     # Pyramidal LSTM
     def __init__(self, *args, **kwargs):
@@ -136,26 +163,6 @@ def sample_gumbel(shape, eps=1e-10, out=None):
 def gumbel_argmax(logits, dim):
     # Draw from a multinomial distribution efficiently
     return torch.max(logits + sample_gumbel(logits.size(), out=logits.data.new()), dim)[1]
-
-
-class AdvancedLSTM(nn.LSTM):
-    '''
-    Class for learning initial hidden states when using LSTMs
-    '''
-    def __init__(self, input_dim, output_dim, args, **kwargs):
-        super(AdvancedLSTM, self).__init__(input_dim, output_dim, **kwargs)
-        bi = 2 if self.bidirectional else 1
-        self.h0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
-        self.c0 = Variable(torch.zeros((bi, 1, self.hidden_size), dtype=torch.float32))
-        if torch.cuda.is_available():
-            self.h0 = self.h0.cuda(args.cuda)
-            self.c0 = self.c0.cuda(args.cuda)
-
-    def initial_state(self, n):
-        return (
-            self.h0.expand(-1, n, -1).contiguous(),
-            self.c0.expand(-1, n, -1).contiguous()
-        )
 
 
 def calculate_attention(keys, mask, queries):
