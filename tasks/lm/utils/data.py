@@ -94,7 +94,7 @@ def read_opensub_data(data_path):
     with open(os.path.join(data_path, 'spanish.txt')) as f:
         lines = f.readlines()
         spa_data = [line.split()[1:] for line in lines]
-    return eng_data, spa_data, torch.ones(eng_data), torch.zeros(spa_data)
+    return eng_data, spa_data, torch.ones(len(eng_data)), torch.zeros(len(spa_data))
 
 
 def read_miami_data(data_path):
