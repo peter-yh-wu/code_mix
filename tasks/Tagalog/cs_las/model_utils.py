@@ -1,10 +1,6 @@
 '''
 Helper functions
 
-To-do:
- - incrementally load data instead all at once
- - add conversation data to split
-
 Character set/map and data loader code modified from LAS implementation by 
 Sai Krishna Rallabandi (srallaba@andrew.cmu.edu)
 
@@ -184,9 +180,21 @@ class ASRDataset(Dataset):
         '''
         parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         self.mfcc_dir = os.path.join(parent_dir, 'data/mfcc')
+        mfcc_files = os.listdir(self.mfcc_dir)
+        mfcc_paths_set = set([os.path.join(self.mfcc_dir, f) for f in mfcc_files])
         self.ids = ids
         if labels:
             self.labels = [torch.from_numpy(y + 1).long() for y in labels]  # +1 for start/end token
+            new_ids = []
+            new_labels = []
+            for i, label in enumerate(self.labels):
+                curr_id = self.ids[i]
+                curr_mfcc_path = os.path.join(self.mfcc_dir, curr_id+'.mfcc')
+                if curr_mfcc_path in mfcc_paths_set:
+                    new_ids.append(curr_id)
+                    new_labels.append(label)
+            self.ids = new_ids
+            self.labels = new_labels
             assert len(self.ids) == len(self.labels)
         else:
             self.labels = None

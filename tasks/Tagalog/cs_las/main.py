@@ -163,7 +163,7 @@ def calculate_attention(v, keys, mask, queries):
         mask: lengths, shape (N, L)
         queries: linear transformation of previous decoder hidden state,
             shape (N, dec_hidden_dim)
-
+    
     Return:
         attn: attention, shape (N, L)
     """
