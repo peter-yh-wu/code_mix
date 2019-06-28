@@ -88,7 +88,7 @@ def read_qg_data(files):
 
 
 def read_opensub_data(data_path):
-    with open(os.path.join(data_path, 'englihs.txt')) as f:
+    with open(os.path.join(data_path, 'english.txt')) as f:
         lines = f.readlines()
         eng_data = [line.split()[1:] for line in lines]
     with open(os.path.join(data_path, 'spanish.txt')) as f:
