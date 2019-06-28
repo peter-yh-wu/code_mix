@@ -33,7 +33,7 @@ def output_mask(maxlen, lengths):
     mask = ran < lens
     return mask
 
-def log_l(logits, target, lengths):
+def log_l(logits, target, lengths, device=0):
     '''Calculates the log-likelihood for the given batch
 
     Args:
@@ -49,7 +49,7 @@ def log_l(logits, target, lengths):
     logits_masked = logits * mask.unsqueeze(2)
     range_tens = torch.arange(vocab_size).repeat(seq_len, batch_size, 1)
     if torch.cuda.is_available():
-        range_tens = range_tens.cuda()
+        range_tens = range_tens.cuda(device)
     target_rep = target.repeat(vocab_size, 1, 1).permute(1, 2, 0)
     masked_tens = range_tens == target_rep
     all_probs = torch.sum(logits*masked_tens.float(), 2) # shape: (seq_len, batch_size)
@@ -58,7 +58,7 @@ def log_l(logits, target, lengths):
     log_probs = torch.sum(all_log_probs, 0) # shape: (batch_size,)
     return log_probs
 
-def perplexities_from_x(model, loader):
+def perplexities_from_x(model, loader, device=0):
     '''
     Return:
         np array of floats with same number of elements as len(loader)
@@ -70,16 +70,16 @@ def perplexities_from_x(model, loader):
         uarray, ulens, l1array, llens, l2array = Variable(uarray), \
             Variable(ulens), Variable(l1array), Variable(llens), Variable(l2array)
         if torch.cuda.is_available():
-            uarray, ulens, l1array, llens, l2array = uarray.cuda(), \
-                ulens.cuda(), l1array.cuda(), llens.cuda(), l2array.cuda()
+            uarray, ulens, l1array, llens, l2array = uarray.cuda(device), \
+                ulens.cuda(device), l1array.cuda(device), llens.cuda(device), l2array.cuda(device)
         prediction = model(uarray, ulens, l1array, llens)
         logits, generated, char_lengths = prediction
-        perps = perplexities(logits, l2array, char_lengths) # shape: (batch_size,)
+        perps = perplexities(logits, l2array, char_lengths, device=device) # shape: (batch_size,)
         perps_np = perps.cpu.numpy()
         all_perps = np.append(all_perps, perps_np)
     return all_perps
 
-def perplexity(logits, target, lengths):
+def perplexity(logits, target, lengths, device=0):
     '''Calculates the perplexity for the given batch
 
     Args:
@@ -90,13 +90,13 @@ def perplexity(logits, target, lengths):
     Return:
         perp: float (tensor)
     '''
-    log_probs = log_l(logits, target, lengths) # shape: (batch_size,)
+    log_probs = log_l(logits, target, lengths, device=device) # shape: (batch_size,)
     tot_log_l = torch.sum(log_probs)
     tot_len = torch.sum(lengths)
     return torch.exp(-tot_log_l/tot_len)
 
-def perplexities(logits, target, lengths):
-    log_probs = log_l(logits, target, lengths) # shape: (batch_size,)
+def perplexities(logits, target, lengths, device=0):
+    log_probs = log_l(logits, target, lengths, device=device) # shape: (batch_size,)
     return torch.exp(-log_probs/lengths) # shape: (batch_size,)
 
 def decode_output(output, charset):
@@ -108,7 +108,7 @@ def decode_output(output, charset):
         chars.append(charset[o - 1])
     return "".join(chars)
 
-def generate_transcripts(args, model, loader, charset):
+def generate_transcripts(args, model, loader, charset, device=0):
     '''Iteratively returns string transcriptions
     
     Return:
@@ -117,10 +117,10 @@ def generate_transcripts(args, model, loader, charset):
     # Create and yield transcripts
     for uarray, ulens, l1array, llens, l2array in loader:
         if args.cuda:
-            uarray = uarray.cuda()
-            ulens = ulens.cuda()
-            l1array = l1array.cuda()
-            llens = llens.cuda()
+            uarray = uarray.cuda(device)
+            ulens = ulens.cuda(device)
+            l1array = l1array.cuda(device)
+            llens = llens.cuda(device)
         uarray = Variable(uarray)
         ulens = Variable(ulens)
         l1array = Variable(l1array)
@@ -133,7 +133,7 @@ def generate_transcripts(args, model, loader, charset):
             transcript = decode_output(generated[:, i], charset)
             yield transcript
 
-def cer(args, model, loader, charset, ys):
+def cer(args, model, loader, charset, ys, device=0):
     '''Calculates the average normalized CER for the given data
     
     Args:
@@ -144,7 +144,7 @@ def cer(args, model, loader, charset, ys):
     '''
     model.eval()
     norm_dists = []
-    transcripts = generate_transcripts(args, model, loader, charset)
+    transcripts = generate_transcripts(args, model, loader, charset, device=device)
     for i, t in enumerate(transcripts):
         dist = edit_distance(t, ys[i])
         norm_dist = dist / len(ys[i])
