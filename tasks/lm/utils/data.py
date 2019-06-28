@@ -6,6 +6,7 @@
 
 import os
 import re
+import torch
 
 import multiprocessing as mp
 from glob import glob
@@ -84,6 +85,16 @@ def read_qg_data(files):
                     data.append([word for word in ['<s>'] + text + ["<s>"] if word not in ['ZH', 'CS', 'EN']])
 
     return data
+
+
+def read_opensub_data(data_path):
+    with open(os.path.join(data_path, 'englihs.txt')) as f:
+        lines = f.readlines()
+        eng_data = [line.split()[1:] for line in lines]
+    with open(os.path.join(data_path, 'spanish.txt')) as f:
+        lines = f.readlines()
+        spa_data = [line.split()[1:] for line in lines]
+    return eng_data, spa_data, torch.ones(eng_data), torch.zeros(spa_data)
 
 
 def read_miami_data(data_path):

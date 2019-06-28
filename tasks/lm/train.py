@@ -90,6 +90,8 @@ if __name__ == '__main__':
     elif args.dataset.lower() == 'miami' or args.dataset.lower() == 'tagalog':
         logger.info('Loading Miami dataset...')
         train, dev, test, train_ids, dev_ids, test_ids, miami_dict = read_miami_data(args.data)
+    elif args.dataset.lower() == 'opensub':
+        eng_data, spa_data, eng_ids, spa_ids = read_opensub_data(args.data)
     else:
         raise NotImplemented
 
