@@ -127,7 +127,7 @@ class EncoderModel(nn.Module):
         sorted_lengths, order = torch.sort(utterance_lengths, 0, descending=True)
         _, backorder = torch.sort(order, 0)
         h = h[:, order, :]
-        h = pack_padded_sequence(h, sorted_lengths.data.cpu().numpy())
+        h = pack_padded_sequence(h, sorted_lengths) # .data.cpu().numpy())
 
         # RNNs
         for rnn in self.rnns:
