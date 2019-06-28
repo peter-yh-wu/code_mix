@@ -180,7 +180,7 @@ if __name__ == '__main__':
         train_sents = 0
         start = time.time()
         for idx, sent in enumerate(train):
-            if args.dataset in ['miami', 'tagalog']:
+            if args.dataset in ['miami', 'tagalog', 'opensub']:
                 lang_ids = ['<s>'] + sent[1] + ['<s>']
                 sent = ['<s>'] + sent[0] + ['<s>']
                 if len(sent) == 2 or len(lang_ids) == 2:
@@ -222,7 +222,7 @@ if __name__ == '__main__':
         start = time.time()
         with torch.no_grad():
             for sent in dev:
-                if args.dataset in ['miami', 'tagalog']:
+                if args.dataset in ['miami', 'tagalog', 'opensub']:
                     lang_ids = ['<s>'] + sent[1] + ['<s>']
                     sent = ['<s>'] + sent[0] + ['<s>']
                     if len(sent) == 2 or len(lang_ids) == 2:
