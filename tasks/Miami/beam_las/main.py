@@ -577,7 +577,7 @@ def main():
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Running")
-    CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
+    CKPT_PATH = os.path.join(args.save_directory, 'best_model.ckpt')
     if os.path.exists(CKPT_PATH):
         model.load_state_dict(torch.load(CKPT_PATH))
     if torch.cuda.is_available():
@@ -643,6 +643,8 @@ def main():
                 torch.save(model.state_dict(), CKPT_PATH)
             elif e - prev_best_epoch > args.patience:
                 break
+            torch.save(model.state_dict(), os.path.join(args.save_directory, f'model_{e}.ckpt'))
+            print(f'Saved model epoch {e}')
             print_log('Val Loss: %f' % val_loss, LOG_PATH)
             print_log('Avg Val Perplexity: %f' % (tot_perp/len(train_loader.dataset)), LOG_PATH)
             cer_val = cer(args, model, dev_loader, charset, dev_ys, device=args.cuda)
