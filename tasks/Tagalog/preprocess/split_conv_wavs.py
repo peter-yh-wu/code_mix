@@ -30,7 +30,7 @@ def main():
         fid = l_list[0]
         t2_start_index = fid.rfind('_')+1
         t2 = float(fid[t2_start_index:].replace('p', '.'))
-        t1_start_index = fid.rfind('_', 0, t2_start_index)+1
+        t1_start_index = fid.rfind('_', 0, t2_start_index-1)+1
         t1 = float(fid[t1_start_index:t2_start_index-1].replace('p', '.'))
         fid = fid[:t1-1]
         wav_file = fid+'.wav'
