@@ -4,7 +4,7 @@ def process_text(l):
     l_list = l.split()
     new_l_list = []
     for w in l_list:
-        if w[0] != '<':
+        if w[0] != '<' and w != '(())':
             new_l_list.append(w)
     new_l = ' '.join(new_l_list)
     return new_l
