@@ -27,14 +27,14 @@ def main():
     for l in lines:
         l = l.strip()
         l_list = l.split()
-        fid = l_list[0]
-        t2_start_index = fid.rfind('_')+1
-        t2 = float(fid[t2_start_index:].replace('p', '.'))
-        t1_start_index = fid.rfind('_', 0, t2_start_index-1)+1
-        t1 = float(fid[t1_start_index:t2_start_index-1].replace('p', '.'))
-        fid = fid[:t1_start_index-1]
+        tot_fid = l_list[0]
+        t2_start_index = tot_fid.rfind('_')+1
+        t2 = float(tot_fid[t2_start_index:].replace('p', '.'))
+        t1_start_index = tot_fid.rfind('_', 0, t2_start_index-1)+1
+        t1 = float(tot_fid[t1_start_index:t2_start_index-1].replace('p', '.'))
+        fid = tot_fid[:t1_start_index-1]
         wav_file = fid+'.wav'
-        triple = (fid, t1, t2)
+        triple = (tot_fid, t1, t2)
         if wav_file in wav_to_time:
             wav_to_time[wav_file].append(triple)
         else:
