@@ -18,7 +18,7 @@ def parse_txt(lines):
     for l in lines:
         l = l.strip()
         if curr_line_type == 'time':
-            if start_timestamp = '': # only for first line
+            if start_timestamp == '': # only for first line
                 start_timestamp = l[1:-1].replace('.', 'p')
             else:
                 end_timestamp = l[1:-1].replace('.', 'p')
