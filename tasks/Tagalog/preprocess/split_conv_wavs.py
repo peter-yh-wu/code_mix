@@ -41,6 +41,7 @@ def main():
             wav_to_time[wav_file] = [triple]
     
     for wave_file in wav_to_time:
+        print(wave_file)
         wave_path = os.path.join(raw_wav_dir, wave_file)
         split_wav(wave_path, new_wav_dir, wav_to_time[wav_file])
 
