@@ -1,8 +1,8 @@
 import os
 from pydub import AudioSegment
 
-def split_wav(wave_path, out_dir, triples):
-    audio = AudioSegment.from_file(wave_path, "wav")
+def split_wav(wav_path, out_dir, triples):
+    audio = AudioSegment.from_file(wav_path, "wav")
     for (fid, t1, t2) in triples:
         new_wav_path = os.path.join(out_dir, fid+'.wav')
         t1_ms = t1*1000
@@ -23,7 +23,7 @@ def main():
     with open(conv_txt_path, 'r') as inf:
         lines = inf.readlines()
     
-    wav_to_time = {} # {wave_file : (fid, t1, t2)}
+    wav_to_time = {} # {wav_file : (fid, t1, t2)}
     for l in lines:
         l = l.strip()
         l_list = l.split()
@@ -40,10 +40,10 @@ def main():
         else:
             wav_to_time[wav_file] = [triple]
     
-    for wave_file in wav_to_time:
-        print(wave_file)
-        wave_path = os.path.join(raw_wav_dir, wave_file)
-        split_wav(wave_path, new_wav_dir, wav_to_time[wav_file])
+    for wav_file in wav_to_time:
+        print(wav_file)
+        wav_path = os.path.join(raw_wav_dir, wav_file)
+        split_wav(wav_path, new_wav_dir, wav_to_time[wav_file])
 
 if __name__ == '__main__':
     main()
