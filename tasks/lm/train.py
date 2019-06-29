@@ -91,9 +91,7 @@ if __name__ == '__main__':
         logger.info('Loading Miami dataset...')
         train, dev, test, train_ids, dev_ids, test_ids, miami_dict = read_miami_data(args.data)
     elif args.dataset.lower() == 'opensub':
-        eng_data, spa_data, eng_ids, spa_ids = read_opensub_data(args.data)
-        train = eng_data + spa_data
-        train_ids = torch.cat((eng_ids, spa_ids))
+        train, dev, train_ids, dev_ids = read_opensub_data(args.data)
     else:
         raise NotImplemented
 

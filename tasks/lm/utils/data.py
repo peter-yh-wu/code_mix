@@ -90,11 +90,15 @@ def read_qg_data(files):
 def read_opensub_data(data_path):
     with open(os.path.join(data_path, 'english.txt')) as f:
         lines = f.readlines()
-        eng_data = [line.split()[1:] for line in lines]
+        eng_data = [line.split()[1:] for line in lines[:35000]]
     with open(os.path.join(data_path, 'spanish.txt')) as f:
         lines = f.readlines()
-        spa_data = [line.split()[1:] for line in lines]
-    return eng_data, spa_data, torch.ones(len(eng_data)), torch.zeros(len(spa_data))
+        spa_data = [line.split()[1:] for line in lines[:35000]]
+    train = eng_data[:30000] + spa_data[:30000]
+    dev = eng_data[30000:] + spa_data[30000:]
+    train_ids = torch.cat((torch.ones(30000), torch.zeros(30000)))
+    dev_ids = torch.cat((torch.ones(5000), torch.zeros(5000)))
+    return train, dev, train_ids, dev_ids
 
 
 def read_miami_data(data_path):
