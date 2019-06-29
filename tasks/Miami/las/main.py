@@ -444,13 +444,6 @@ def main():
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
-    print("Loading Y Data")
-    train_ys = load_y_data('train') # 1-dim np array of strings
-    dev_ys = load_y_data('dev')
-    test_ys = load_y_data('test')
-    t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
-
     print("Building Charset")
     charset = build_charset(np.concatenate((train_ys, dev_ys, test_ys), axis=0))
     charmap = make_charmap(charset) # {string: int}
