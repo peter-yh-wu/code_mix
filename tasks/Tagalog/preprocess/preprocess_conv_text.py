@@ -31,8 +31,11 @@ def parse_txt(lines):
                 start_timestamp = end_timestamp
             curr_line_type = 'text'
         elif curr_line_type == 'text':
-            text = l
-            curr_line_type = 'time'
+            if l[0] = '[':
+                start_timestamp = l[1:-1].replace('.', 'p')
+            else:
+                text = l
+                curr_line_type = 'time'
     return new_lines
 
 def main():
