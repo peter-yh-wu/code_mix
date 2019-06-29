@@ -32,7 +32,7 @@ def main():
         t2 = float(fid[t2_start_index:].replace('p', '.'))
         t1_start_index = fid.rfind('_', 0, t2_start_index-1)+1
         t1 = float(fid[t1_start_index:t2_start_index-1].replace('p', '.'))
-        fid = fid[:t1-1]
+        fid = fid[:t1_start_index-1]
         wav_file = fid+'.wav'
         triple = (fid, t1, t2)
         if wav_file in wav_to_time:
