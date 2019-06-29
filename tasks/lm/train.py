@@ -166,7 +166,7 @@ if __name__ == '__main__':
     last_dev = 1e20
     best_dev = 1e20
 
-    if args.dataset == 'miami' or args.dataset == 'tagalog':
+    if args.dataset in ['miami', 'tagalog', 'opensub']:
         train = [(sent, idx) for sent, idx in zip(train, train_ids)]
         dev = [(sent, idx) for sent, idx in zip(dev, dev_ids)]
 

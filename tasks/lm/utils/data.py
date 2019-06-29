@@ -96,8 +96,8 @@ def read_opensub_data(data_path):
         spa_data = [line.split()[1:] for line in lines[:35000]]
     train = eng_data[:30000] + spa_data[:30000]
     dev = eng_data[30000:] + spa_data[30000:]
-    train_ids = torch.cat((torch.ones(30000), torch.zeros(30000)))
-    dev_ids = torch.cat((torch.ones(5000), torch.zeros(5000)))
+    train_ids = [[1 for _ in range(len(sent))] for sent in train[:30000]] + [[0 for _ in range(len(sent))] for sent in train[30000:]]
+    dev_ids = [[1 for _ in range(len(sent))] for sent in train[:5000]] + [[0 for _ in range(len(sent))] for sent in train[5000:]]
     return train, dev, train_ids, dev_ids
 
 
