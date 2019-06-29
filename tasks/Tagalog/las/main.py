@@ -108,7 +108,7 @@ class EncoderModel(nn.Module):
         sorted_lengths, order = torch.sort(utterance_lengths, 0, descending=True)
         _, backorder = torch.sort(order, 0)
         h = h[:, order, :]
-        h = pack_padded_sequence(h, sorted_lengths.data.cpu().numpy())
+        h = pack_padded_sequence(h, sorted_lengths) # .data.cpu().numpy())
 
         # RNNs
         for rnn in self.rnns:
@@ -497,10 +497,10 @@ def main():
                 if torch.cuda.is_available():
                     uarray, ulens, l1array, llens, l2array = uarray.cuda(args.cuda), \
                         ulens.cuda(args.cuda), l1array.cuda(args.cuda), llens.cuda(args.cuda), l2array.cuda(args.cuda)
-                prediction = model(uarray, ulens, l1array, llens, device=args.cuda)
+                prediction = model(uarray, ulens, l1array, llens)
                 logits, generated, char_lengths = prediction
                 loss = criterion(prediction, l2array)
-                perp = perplexity(logits, l2array, char_lengths)
+                perp = perplexity(logits, l2array, char_lengths, device=args.cuda)
                 l += loss.item()
                 tot_perp += perp.item()
                 loss.backward()
