@@ -263,7 +263,7 @@ class ASRDataset(Dataset):
             self.labels = None
 
     def __len__(self):
-        return len(self.paths)
+        return len(self.ids)
 
     def __getitem__(self, index):
         curr_id = self.ids[index]
