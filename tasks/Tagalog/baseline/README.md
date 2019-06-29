@@ -1,0 +1,1 @@
+Run ```python3 main.py``` to train model
