@@ -47,7 +47,7 @@ def main():
     new_txt_dir = os.path.join(data_dir, 'text')
     if not os.path.exists(new_txt_dir):
         os.makedirs(new_txt_dir)
-    new_script_txt_path = os.path.join(new_txt_dir, 'conv.txt')
+    new_conv_txt_path = os.path.join(new_txt_dir, 'conv.txt')
 
     all_new_lines = []
     for i, p in enumerate(conv_txt_paths):
@@ -59,8 +59,8 @@ def main():
         new_lines = [fid+'_'+l for l in new_lines]
         all_new_lines += new_lines
     
-    with open(new_script_txt_path, 'w+') as ouf:
-        for l in script_lines:
+    with open(new_conv_txt_path, 'w+') as ouf:
+        for l in all_new_lines:
             ouf.write('%s\n' % l)
 
 if __name__ == '__main__':
