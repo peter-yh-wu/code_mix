@@ -32,6 +32,7 @@ def parse_txt(lines):
             curr_line_type = 'text'
         elif curr_line_type == 'text':
             text = l
+            curr_line_type = 'time'
     return new_lines
 
 def main():
