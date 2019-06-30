@@ -34,6 +34,10 @@ def calc_sent_loss(sent, model, criterion, lang_ids=None):
     loss = criterion(logits, targets)
     if lang_ids is not None:
         loss += criterion(lang_ids_pred, lang_ids[1:])
+
+    gen_sent = [model.vocab[idx] for idx in torch.argmax(logits, dim=1)]
+    with open('log/{}_gen_sent.txt'.format(args.dataset), 'w') as f:
+        f.write(gen_sent)
     return loss
 
 
