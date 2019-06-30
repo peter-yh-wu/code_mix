@@ -13,7 +13,7 @@ def process_dir(d, did, out_dir):
         for l in lines:
             l = l.strip()
             if len(l) > 3 and l[0] != '#':
-                l_list = l.strip()
+                l_list = l.split()
                 t1 = float(l_list[0])
                 t2 = float(l_list[1])
                 text = ' '.join(l_list[3:])
