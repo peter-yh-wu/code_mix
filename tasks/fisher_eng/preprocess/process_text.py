@@ -1,5 +1,14 @@
 import os
 
+def process_text(line):
+    l_list = line.split()
+    new_l_list = []
+    for w in l_list:
+        if w != '((' and w != '))' and w[0] != '[':
+            new_l_list.append(w)
+    new_l = ' '.join(new_l_list)
+    return new_l
+
 def process_dir(d, did, out_dir):
     files = os.listdir(d)
     files = [f for f in files if f.endswith('.TXT')]
@@ -17,11 +26,13 @@ def process_dir(d, did, out_dir):
                 t1 = float(l_list[0])
                 t2 = float(l_list[1])
                 text = ' '.join(l_list[3:])
-                t1_str = str(t1).replace('.', 'p')
-                t2_str = str(t2).replace('.', 'p')
-                new_fid = fid+'_'+t1_str+'_'+t2_str
-                new_l = new_fid + ' ' + text
-                new_lines.append(new_l)
+                text = process_text(text)
+                if len(text) > 0:
+                    t1_str = str(t1).replace('.', 'p')
+                    t2_str = str(t2).replace('.', 'p')
+                    new_fid = fid+'_'+t1_str+'_'+t2_str
+                    new_l = new_fid + ' ' + text
+                    new_lines.append(new_l)
 
         new_p = os.path.join(out_dir, fid+'.txt')
         with open(new_p, 'w+') as ouf:
