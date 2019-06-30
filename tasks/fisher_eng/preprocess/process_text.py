@@ -19,7 +19,7 @@ def process_dir(d, did, out_dir):
                 text = ' '.join(l_list[3:])
                 t1_str = str(t1).replace('.', 'p')
                 t2_str = str(t2).replace('.', 'p')
-                new_fid = fid+'_'+t1+'_'+t2
+                new_fid = fid+'_'+t1_str+'_'+t2_str
                 new_l = new_fid + ' ' + text
                 new_lines.append(new_l)
 
