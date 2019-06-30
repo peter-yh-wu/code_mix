@@ -11,7 +11,7 @@ import os
 def main():
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(parent_dir, 'data')
-    txt_dir = os.path.join(data_dir, 'txt')
+    txt_dir = os.path.join(data_dir, 'text')
     txt_files = os.listdir(txt_dir)
     txt_files = [f for f in txt_files if f.endswith('.txt')]
     txt_paths = [os.path.join(txt_dir, f) for f in txt_files]
