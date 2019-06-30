@@ -8,19 +8,21 @@ def main():
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(parent_dir, 'data')
     txt_dir = os.path.join(data_dir, 'txt')
-    scripted_txt_path = os.path.join(txt_dir, 'script.txt')
+    # scripted_txt_path = os.path.join(txt_dir, 'script.txt')
+    conv_txt_path = os.path.join(txt_dir, 'conv.txt')
     lids_dir = os.path.join(data_dir, 'lids')
     if not os.path.exists(lids_dir):
         os.makedirs(lids_dir)
-    scripted_lids_path = os.path.join(lids_dir, 'script_lids.txt')
+    # scripted_lids_path = os.path.join(lids_dir, 'script_lids.txt')
+    conv_lids_path = os.path.join(lids_dir, 'conv_lids.txt')
 
-    with open(scripted_txt_path, 'r') as inf:
-        script_lines = inf.readlines()
+    with open(conv_txt_path, 'r') as inf: # scripted_txt_path, 'r') as inf:
+        conv_lines = inf.readlines() # script_lines = inf.readlines()
 
     d = enchant.Dict("en_US")
 
     new_lines = []
-    for i, l in enumerate(script_lines):
+    for i, l in enumerate(conv_lines): # script_lines):
         l = l.strip()
         l_list = l.split()
 
@@ -40,9 +42,9 @@ def main():
         new_lines.append(new_l)
 
         if (i+1) % 1000 == 0:
-            print('Processed %d / %d lines' % (i+1, len(script_lines)))
+            print('Processed %d / %d lines' % (i+1, len(conv_lines))) # len(script_lines)))
 
-    with open(scripted_lids_path, 'w+') as ouf:
+    with open(conv_lids_path, 'w+') as ouf: # scripted_lids_path, 'w+') as ouf:
         for l in new_lines:
             ouf.write('%s\n' % l)
 
