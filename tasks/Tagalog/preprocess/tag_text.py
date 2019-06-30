@@ -51,8 +51,8 @@ def main():
             new_l = ' '.join(new_l_list)
             new_lines.append(new_l)
 
-            if (line_i+1) % 1000 == 0:
-                print('File %d: Processed %d / %d lines' % (file_i+1, line_i+1, len(lines)))
+            # if (line_i+1) % 1000 == 0:
+            #     print('File %d: Processed %d / %d lines' % (file_i+1, line_i+1, len(lines)))
 
         with open(lids_path, 'w+') as ouf:
             for l in new_lines:
