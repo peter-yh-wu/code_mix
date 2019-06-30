@@ -37,7 +37,7 @@ def calc_sent_loss(sent, model, criterion, lang_ids=None):
 
     gen_sent = ' '.join([model.vocab[idx] for idx in torch.argmax(logits, dim=1)])
     with open('log/{}_gen_sent.txt'.format(args.dataset), 'a+') as f:
-        f.write(gen_sent)
+        f.write(gen_sent + '\n')
     return loss
 
 
