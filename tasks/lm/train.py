@@ -37,7 +37,7 @@ def calc_sent_loss(sent, model, criterion, lang_ids=None):
 
     gen_sent = ' '.join([model.vocab[idx] for idx in torch.argmax(logits, dim=1)])
     with open('log/{}_gen_sent.txt'.format(args.dataset), 'a+') as f:
-        f.write(gen_sent)
+        f.write(gen_sent + '\n')
     return loss
 
 
@@ -230,10 +230,10 @@ if __name__ == '__main__':
         with torch.no_grad():
             for sent in dev:
                 if args.dataset in ['miami', 'tagalog', 'opensub']:
+                    if len(sent[0]) == 0 or len(sent[1]) == 0:
+                        continue
                     lang_ids = ['<s>'] + sent[1] + ['<s>']
                     sent = ['<s>'] + sent[0] + ['<s>']
-                    if len(sent) == 2 or len(lang_ids) == 2:
-                        continue
                     if len(sent) != len(lang_ids):
                         print(sent)
                         continue
