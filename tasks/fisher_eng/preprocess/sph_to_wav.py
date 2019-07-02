@@ -5,15 +5,15 @@ import wave
 
 def convert_sph_to_wav(in_path, out_path):
     with audioread.audio_open(in_path) as f:
-      with contextlib.closing(wave.open(out_path, 'w')) as of:
         if f.channels == 0:
             print('no channels')
         else:
-            of.setnchannels(f.channels)
-            of.setframerate(f.samplerate)
-            of.setsampwidth(2)
-            for buf in f:
-                of.writeframes(buf)
+            with contextlib.closing(wave.open(out_path, 'w')) as of:
+                of.setnchannels(f.channels)
+                of.setframerate(f.samplerate)
+                of.setsampwidth(2)
+                for buf in f:
+                    of.writeframes(buf)
 
 def main():
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
