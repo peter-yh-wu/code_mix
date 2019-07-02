@@ -30,7 +30,6 @@ from model_utils import *
 
 def main():
     args = parse_args()
-    args.cuda = not args.no_cuda and torch.cuda.is_available()
 
     t0 = time.time()
 
@@ -64,7 +63,7 @@ def main():
         model = Seq2SeqModel(args, vocab_size=charcount)
 
         CKPT_PATH = os.path.join(args.save_directory, 'model.ckpt')
-        if args.cuda:
+        if torch.cuda.is_available():
             model.load_state_dict(torch.load(CKPT_PATH))
         else:
             gpu_dict = torch.load(CKPT_PATH, map_location=lambda storage, loc: storage)
@@ -74,8 +73,8 @@ def main():
             model.load_state_dict(cpu_model_dict)
         print("Loaded Checkpoint")
 
-        if args.cuda:
-            model = model.cuda()
+        if torch.cuda.is_available():
+            model = model.cuda(args.cuda)
 
         model.eval()
 
