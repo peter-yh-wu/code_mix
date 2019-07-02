@@ -78,25 +78,25 @@ def main():
 
         model.eval()
 
-    TRANSCRIPT_LOG_PATH = os.path.join(args.save_directory, 'transcript_log.txt')
-    CSV_PATH = os.path.join(args.save_directory, 'submission.csv')
+    transcript_log_path = os.path.join(args.save_directory, 'transcript_log.txt')
+    csv_path = os.path.join(args.save_directory, 'submission.csv')
     
     if 'transcript' in args.test_mode:
         print('generating transcripts')
-        with open(TRANSCRIPT_LOG_PATH, 'w+') as ouf:
+        with open(transcript_log_path, 'w+') as ouf:
             pass
-        if not os.path.exists(CSV_PATH):
+        if not os.path.exists(csv_path):
             transcripts = write_transcripts(
-                path=CSV_PATH,
+                path=csv_path,
                 args=args, model=model, loader=test_loader, charset=charset,
-                log_path=TRANSCRIPT_LOG_PATH
+                log_path=transcript_log_path
             )
         else:
             transcripts = []
-            with open(CSV_PATH, 'r') as csvfile:
+            with open(csv_path, 'r') as csvfile:
                 raw_csv = csv.reader(csvfile)
                 for row in raw_csv:
-                    with open(TRANSCRIPT_LOG_PATH, 'a') as ouf:
+                    with open(transcript_log_path, 'a') as ouf:
                         ouf.write('%s\n' % row[1])
                     transcripts.append(row[1])
         t1 = time.time()
@@ -105,20 +105,20 @@ def main():
     
     if 'cer' in args.test_mode:
         print('calculating cer values')
-        CER_LOG_PATH = os.path.join(args.save_directory, 'cer_log.txt')
-        with open(CER_LOG_PATH, 'w+') as ouf:
+        cer_log_path = os.path.join(args.save_directory, 'cer_log.txt')
+        with open(cer_log_path, 'w+') as ouf:
             pass
         transcripts = []
-        with open(CSV_PATH, 'r') as csvfile:
+        with open(csv_path, 'r') as csvfile:
                 raw_csv = csv.reader(csvfile)
                 for row in raw_csv:
                     transcripts.append(row[1])
         transcripts = [l.strip() for l in transcripts]
-        CER_PATH = os.path.join(args.save_directory, 'test_cer.npy')
-        DIST_PATH = os.path.join(args.save_directory, 'test_dist.npy')
-        norm_dists, dists = cer_from_transcripts(transcripts, test_ys, CER_LOG_PATH)
-        np.save(CER_PATH, norm_dists)
-        np.save(DIST_PATH, dists)
+        cer_path = os.path.join(args.save_directory, 'test_cer.npy')
+        dist_path = os.path.join(args.save_directory, 'test_dist.npy')
+        norm_dists, dists = cer_from_transcripts(transcripts, test_ys, cer_log_path)
+        np.save(cer_path, norm_dists)
+        np.save(dist_path, dists)
         print('avg CER:', np.mean(norm_dists))
 
     if 'perp' in args.test_mode:
@@ -126,9 +126,9 @@ def main():
         PERP_LOG_PATH = os.path.join(args.save_directory, 'perp_log.txt')
         with open(PERP_LOG_PATH, 'w+') as ouf:
             pass
-        PERP_PATH = os.path.join(args.save_directory, 'test_perp.npy')
+        perp_path = os.path.join(args.save_directory, 'test_perp.npy')
         all_perps = perplexities_from_x(model, test_loader)
-        np.save(PERP_PATH, all_perps)
+        np.save(perp_path, all_perps)
 
 if __name__ == '__main__':
     main()
