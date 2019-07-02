@@ -6,7 +6,11 @@ def lowercase(path):
     new_lines = []
     for l in lines:
         l = l.strip()
-        new_l = l.lower()
+        l_list = l.split()
+        fid = l_list[0]
+        words = ' '.join(l_list[1:])
+        new_words = words.lower()
+        new_l = fid + ' ' + new_words
         new_lines.append(new_l)
     with open(path, 'w+') as ouf:
         for l in new_lines:
