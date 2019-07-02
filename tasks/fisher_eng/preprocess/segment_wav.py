@@ -35,6 +35,7 @@ def main():
     for i, text_path in enumerate(text_paths):
         text_file = text_files[i]
         fid = text_file[:-4]
+        print(fid)
         raw_wav_file = fid+'.wav'
         raw_wav_path = os.path.join(raw_wav_dir, raw_wav_file)
         mk_wav_segments(text_path, raw_wav_path, wav_dir)
