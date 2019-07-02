@@ -25,7 +25,7 @@ from torch.autograd import Variable
 from torch.nn.utils.rnn import PackedSequence
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
-from baseline import parse_args, Seq2SeqModel, write_transcripts
+from main import parse_args, Seq2SeqModel, write_transcripts
 from model_utils import *
 
 def main():
