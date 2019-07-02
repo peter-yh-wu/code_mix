@@ -179,10 +179,15 @@ def map_characters(utterances, charmap):
     return ints
 
 def load_fid_and_y_data(phase):
-    '''
+    '''Loads .mfcc file ids and y values for given phase
+
+    Args:
+        phase: 'train', 'dev', or 'test'
+
     Return:
         ids: list of file ids
-        ys: 1-dim np array of strings
+        ys: 1-dim np array of strings; ys[i] is transcription of .mfcc file
+            with id ids[i]
     '''
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     split_dir = os.path.join(parent_dir, 'split')

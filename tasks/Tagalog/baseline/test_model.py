@@ -5,6 +5,7 @@ Assumes that model.ckpt exists
 Supported test-mode values: transcript, cer, perp, and all combos
 
 e.g. to calculate CER - python3 test_model.py --test-mode cer
+    Make sure to also add the same args used when running main.py
 
 Peter Wu
 peterw1@andrew.cmu.edu
@@ -24,7 +25,7 @@ from torch.autograd import Variable
 from torch.nn.utils.rnn import PackedSequence
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
-from baseline import parse_args, Seq2SeqModel, write_transcripts
+from main import parse_args, Seq2SeqModel, write_transcripts
 from model_utils import *
 
 def main():
