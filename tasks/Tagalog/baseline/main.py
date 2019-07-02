@@ -315,7 +315,7 @@ class Seq2SeqModel(nn.Module):
         return logits, generated, char_lengths
 
 
-def write_transcripts(path, args, model, loader, charset):
+def write_transcripts(path, args, model, loader, charset, log_path):
     # Write CSV file
     model.eval()
     os.makedirs(os.path.dirname(os.path.abspath(path)), exist_ok=True)
@@ -324,6 +324,11 @@ def write_transcripts(path, args, model, loader, charset):
         transcripts = generate_transcripts(args, model, loader, charset)
         for i, t in enumerate(transcripts):
             w.writerow([i+1, t])
+            with open(log_path, 'a') as ouf:
+                ouf.write('%s\n' % t)
+            if (i+1) % 100 == 0:
+                print('Wrote %d Lines' % (i+1))
+    return transcripts
 
 
 class SequenceCrossEntropy(nn.CrossEntropyLoss):
