@@ -318,7 +318,7 @@ class Seq2SeqModel(nn.Module):
         return logits, generated, char_lengths
 
 
-def write_transcripts(path, args, model, loader, charset):
+def write_transcripts(path, args, model, loader, charset, log_path):
     # Write CSV file
     model.eval()
     os.makedirs(os.path.dirname(os.path.abspath(path)), exist_ok=True)
@@ -327,6 +327,11 @@ def write_transcripts(path, args, model, loader, charset):
         transcripts = generate_transcripts(args, model, loader, charset)
         for i, t in enumerate(transcripts):
             w.writerow([i+1, t])
+            with open(log_path, 'a') as ouf:
+                ouf.write('%s\n' % t)
+            if (i+1) % 100 == 0:
+                print('Wrote %d Lines' % (i+1))
+    return transcripts
 
 
 class SequenceCrossEntropy(nn.CrossEntropyLoss):
@@ -477,11 +482,6 @@ def main():
                 best_val_loss = val_loss
                 prev_best_epoch = e
                 torch.save(model.state_dict(), CKPT_PATH)
-                '''
-                write_transcripts(
-                    path=os.path.join(args.save_directory, 'submission.csv'),
-                    args=args, model=model, loader=test_loader, charset=charset)
-                '''
             elif e - prev_best_epoch > args.patience:
                 break
             print_log('Val Loss: %f' % val_loss, LOG_PATH)
