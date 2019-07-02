@@ -64,7 +64,7 @@ class LSTMLM(nn.Module):
         self.char_projection = nn.Sequential(
             nn.Linear(args.hidden_dim, vocab_size)
         )
-        self.force_rate args.teacher_force_rate
+        self.force_rate = args.teacher_force_rate
 
     def forward_step(self, prev_char, prev_hidden):
         '''
