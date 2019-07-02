@@ -106,7 +106,7 @@ def generate_transcripts(args, model, loader, charset, device=0):
             transcript = decode_output(generated[:, i], charset)
             yield transcript
 
-def cer(args, model, loader, charset, ys, truncate=True):
+def cer(args, model, loader, charset, ys, device=0, truncate=True):
     '''Calculates the average normalized CER for the given data
     
     Args:
@@ -117,7 +117,7 @@ def cer(args, model, loader, charset, ys, truncate=True):
     '''
     model.eval()
     norm_dists = []
-    transcripts = generate_transcripts(args, model, loader, charset)
+    transcripts = generate_transcripts(args, model, loader, charset, device=device)
     for i, t in enumerate(transcripts):
         if truncate:
             dist = edit_distance(t[:len(ys[i])], ys[i])
