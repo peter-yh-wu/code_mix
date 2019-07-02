@@ -35,7 +35,8 @@ def main():
             raw_sph_paths = [os.path.join(audio_sub_dir_path, f) for f in raw_sph_files]
             raw_wav_files = [audio_sub_dir+'_'+sph_file[:-4]+'.wav' for sph_file in raw_sph_files]
             raw_wav_paths = [os.path.join(raw_wav_dir, f) for f in raw_wav_files]
-            for sph_path, wav_path in zip(raw_sph_paths, raw_wav_paths):
+            for i, (sph_path, wav_path) in enumerate(zip(raw_sph_paths, raw_wav_paths)):
+                print(raw_sph_files[i])
                 convert_sph_to_wav(sph_path, wav_path)
 
 if __name__ == '__main__':
