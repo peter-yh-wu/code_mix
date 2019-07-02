@@ -4,7 +4,7 @@ Script to evaluate model
 Assumes that model.ckpt exists
 Supported test-mode values: transcript, cer, perp, and all combos
 
-e.g. to calculate CER - python3 test_model.py --test-mode cer
+e.g. to calculate CER - python3 test_model.py --test-mode transcript cer
     Make sure to also add the same args used when running main.py
 
 Peter Wu
