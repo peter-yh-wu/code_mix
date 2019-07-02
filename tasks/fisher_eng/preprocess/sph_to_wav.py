@@ -1,19 +1,13 @@
-import audioread
-import contextlib
 import os
-import wave
 
 def convert_sph_to_wav(in_path, out_path):
-    with audioread.audio_open(in_path) as f:
-        if f.channels == 0:
-            print('no channels')
-        else:
-            with contextlib.closing(wave.open(out_path, 'w')) as of:
-                of.setnchannels(f.channels)
-                of.setframerate(f.samplerate)
-                of.setsampwidth(2)
-                for buf in f:
-                    of.writeframes(buf)
+    ggparent_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+    sph2pipe_dir = os.path.join(ggparent_dir, 'sph2pipe_v2.5')
+    
+    prev_dir = os.getcwd()
+    os.chdir(sph2pipe_dir)
+    os.system('./sph2pipe -p -f rif %s %s' % (in_path, out_path))
+    os.chdir(prev_dir)
 
 def main():
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
