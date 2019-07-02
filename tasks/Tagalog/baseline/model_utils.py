@@ -106,7 +106,7 @@ def generate_transcripts(args, model, loader, charset, device=0):
             transcript = decode_output(generated[:, i], charset)
             yield transcript
 
-def cer(args, model, loader, charset, ys, device=0):
+def cer(args, model, loader, charset, ys, truncate=True):
     '''Calculates the average normalized CER for the given data
     
     Args:
@@ -117,12 +117,45 @@ def cer(args, model, loader, charset, ys, device=0):
     '''
     model.eval()
     norm_dists = []
-    transcripts = generate_transcripts(args, model, loader, charset, device=device)
+    transcripts = generate_transcripts(args, model, loader, charset)
     for i, t in enumerate(transcripts):
-        dist = edit_distance(t, ys[i])
+        if truncate:
+            dist = edit_distance(t[:len(ys[i])], ys[i])
+        else:
+            dist = edit_distance(t, ys[i])
         norm_dist = dist / len(ys[i])
         norm_dists.append(norm_dist)
     return sum(norm_dists)/len(ys)
+
+def cer_from_transcripts(transcripts, ys, log_path, truncate=True):
+    '''
+    Return:
+        norm_dists: list of CER values
+        dist: edit distances
+    '''
+    norm_dists = []
+    dists = []
+    for i, t in enumerate(transcripts):
+        curr_t = t
+        curr_y = ys[i]
+        if len(curr_y) == 0:
+            print('%d is 0' % i)
+        curr_t_nos = curr_t.replace(' ', '')
+        curr_y_nos = curr_y.replace(' ', '')
+        if truncate:
+            curr_t = curr_t[:len(curr_y)]
+            curr_t_nos = curr_t_nos[:len(curr_y_nos)]
+        dist = edit_distance(curr_t, curr_y)
+        norm_dist = dist / len(curr_y)
+        dist_nos = edit_distance(curr_t_nos, curr_y_nos)
+        norm_dist_nos = dist_nos / len(curr_y_nos)
+        best_dist = min(dist, dist_nos)
+        best_norm = min(norm_dist, norm_dist_nos)
+        with open(log_path, 'a') as ouf:
+            ouf.write('dist: %.2f, norm_dist: %.2f\n' % (best_dist, best_norm))
+        norm_dists.append(best_norm)
+        dists.append(best_dist)
+    return norm_dists, dists
 
 def print_log(s, log_path):
     print(s)

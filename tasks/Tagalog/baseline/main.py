@@ -1,9 +1,6 @@
 '''
 Script to run LAS model
 
-To-do:
- - Consider moving charmap functionality into DataLoader
-
 Modified from LAS implementation by Sai Krishna Rallabandi (srallaba@andrew.cmu.edu)
 
 Peter Wu
