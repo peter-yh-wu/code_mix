@@ -2,7 +2,7 @@ import os
 
 def convert_sph_to_wav(in_path, out_path):
     gggparent_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))))
-    sph2pipe_dir = os.path.join(ggparent_dir, 'sph2pipe_v2.5')
+    sph2pipe_dir = os.path.join(gggparent_dir, 'sph2pipe_v2.5')
     
     prev_dir = os.getcwd()
     os.chdir(sph2pipe_dir)
