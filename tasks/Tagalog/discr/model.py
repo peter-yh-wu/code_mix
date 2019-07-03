@@ -91,8 +91,6 @@ class LSTMLM(nn.Module):
                 length of each input sequence in batch
         '''
         maxlen, batch_size = x.shape
-        mask = Variable(output_mask(maxlen, utterance_lengths).transpose(0, 1)).float()
-            # shape: (batch_size, maxlen)
 
         hidden = None
         all_logits = []
