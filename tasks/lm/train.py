@@ -81,18 +81,14 @@ if __name__ == '__main__':
     logger.info(args)
 
     # Load data
-    if args.dataset.lower() == 'seame':
-        logger.info('Loading SEAME dataset...')
+    logger.info('Loading {} dataset...'.format(args.dataset))
+    if args.dataset.lower() == 'seame' or args.dataset.lower() == 'qg':
         dataset = read_dataset(args.data)
-        if args.qg:
-            logger.info('Loading QG dataset...')
-            dataset.extend(read_dataset('data/QGdata'))
         dataset = dataset[: int(len(dataset) * args.subset)]
         train = dataset[: int(len(dataset)*0.8)]
         dev = dataset[int(len(dataset)*0.8) + 1: -1]
         train_ids = None
     elif args.dataset.lower() == 'miami' or args.dataset.lower() == 'tagalog':
-        logger.info('Loading Miami dataset...')
         train, dev, test, train_ids, dev_ids, test_ids, miami_dict = read_miami_data(args.data)
     elif args.dataset.lower() == 'opensub':
         train, dev, train_ids, dev_ids = read_opensub_data(args.data)
