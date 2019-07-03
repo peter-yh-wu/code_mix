@@ -58,10 +58,11 @@ class WERDiscriminatorLoss(nn.Module):
 class LSTMLM(nn.Module):
     def __init__(self, vocab_size, args):
         super(LSTMLM, self).__init__()
+        self.hidden_dim = args.hidden_dim
         self.emb_mat = nn.Embedding(vocab_size, args.emb_dim)
-        self.rnn = nn.LSTMCell(args.emb_dim, args.hidden_dim)
+        self.rnn = nn.LSTMCell(args.emb_dim, self.hidden_dim)
         self.char_projection = nn.Sequential(
-            nn.Linear(args.hidden_dim, vocab_size)
+            nn.Linear(self.hidden_dim, vocab_size)
         )
         self.force_rate = args.teacher_force_rate
 
@@ -92,7 +93,7 @@ class LSTMLM(nn.Module):
         '''
         maxlen, batch_size = x.shape
 
-        hidden = None
+        hidden = torch.randn(batch_size, self.hidden_dim)
         all_logits = []
         y_preds = []
         for i in range(maxlen):
