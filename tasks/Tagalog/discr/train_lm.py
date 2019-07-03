@@ -83,7 +83,7 @@ def main():
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Building Model")
-    model = LSTMLM(charcount, args)
+    model = LSTMLM(charcount+1, args) # plus one for start/end token
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = SequenceCrossEntropy()
     t1 = time.time()
