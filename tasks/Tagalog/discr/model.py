@@ -60,7 +60,7 @@ class LSTMLM(nn.Module):
         super(LSTMLM, self).__init__()
         self.hidden_dim = args.hidden_dim
         self.emb_mat = nn.Embedding(vocab_size, args.emb_dim)
-        self.rnn = nn.LSTMCell(args.emb_dim, self.hidden_dim)
+        self.rnn_cell = nn.LSTMCell(args.emb_dim, self.hidden_dim)
         self.char_projection = nn.Sequential(
             nn.Linear(self.hidden_dim, vocab_size)
         )
@@ -77,9 +77,8 @@ class LSTMLM(nn.Module):
             y_pred: tensor with shape (batch_size,)
             new_hidden: pair of tensors with shape (batch_size, hidden_dim)
         '''
-        emb = self.emb_mat(prev_char) # (batch_size, )
-        h, c = self.rnn(emb, prev_hidden)
-            # h shape: (batch_size, hidden_dim)
+        emb = self.emb_mat(prev_char) # (batch_size, emb_dim)
+        h, c = self.rnn_cell(emb, prev_hidden) # h shape: (batch_size, hidden_dim)
         logits = self.char_projection(h)
         y_pred = torch.max(logits, 1)[1]
         return logits, y_pred, (h, c)
