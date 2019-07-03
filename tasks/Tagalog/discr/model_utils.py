@@ -15,6 +15,12 @@ from torch.autograd import Variable
 from torch.utils.data import DataLoader, Dataset
 
 
+def print_log(s, log_path):
+    print(s)
+    with open(log_path, 'a+') as ouf:
+        ouf.write("%s\n" % s)
+
+
 class SequenceCrossEntropy(nn.CrossEntropyLoss):
     # Customized CrossEntropyLoss
     def __init__(self, *args, **kwargs):
