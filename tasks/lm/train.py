@@ -225,9 +225,9 @@ if __name__ == '__main__':
 
         # Evaluate on dev set
         # set the model to evaluation mode
-        if args.dataset == 'opensub':
-            torch.save(model, "{}/opensub_epoch_{}.pt".format(args.models_dir, epoch))
-            continue
+        # if args.dataset == 'opensub':
+        #     torch.save(model, "{}/opensub_epoch_{}.pt".format(args.models_dir, epoch))
+        #     continue
         model.eval()
         dev_words, dev_loss = 0, 0.0
         start = time.time()

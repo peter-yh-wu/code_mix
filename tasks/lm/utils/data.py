@@ -91,13 +91,13 @@ def read_opensub_data(data_path):
     with open(os.path.join(data_path, 'english.txt')) as f:
         lines = f.readlines()
         eng_data = [line.split()[1:] for line in lines[:35000]]
-    with open(os.path.join(data_path, 'spanish.txt')) as f:
-        lines = f.readlines()
-        spa_data = [line.split()[1:] for line in lines[:35000]]
-    train = eng_data[:30000] + spa_data[:30000]
-    dev = eng_data[30000:] + spa_data[30000:]
-    train_ids = [[1 for _ in range(len(sent))] for sent in train[:30000]] + [[0 for _ in range(len(sent))] for sent in train[30000:]]
-    dev_ids = [[1 for _ in range(len(sent))] for sent in train[:5000]] + [[0 for _ in range(len(sent))] for sent in train[5000:]]
+    # with open(os.path.join(data_path, 'spanish.txt')) as f:
+    #     lines = f.readlines()
+    #     spa_data = [line.split()[1:] for line in lines[:35000]]
+    train = eng_data[:30000]
+    dev = eng_data[30000:]
+    train_ids = [[1 for _ in range(len(sent))] for sent in train[:30000]]
+    dev_ids = [[1 for _ in range(len(sent))] for sent in train[:5000]]
     return train, dev, train_ids, dev_ids
 
 
