@@ -28,6 +28,7 @@ class SequenceCrossEntropy(nn.CrossEntropyLoss):
 
     def forward(self, prediction, target):
         logits, generated, sequence_lengths = prediction
+            # logits shape: (maxlen, batch_size, vocab_size)
         maxlen = logits.size(0)
         mask = Variable(output_mask(maxlen, sequence_lengths.data)).float()
         logits = logits * mask.unsqueeze(2)

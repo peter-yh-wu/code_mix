@@ -106,6 +106,6 @@ class LSTMLM(nn.Module):
             logits, y_pred, hidden = self.forward_step(char, hidden)
             all_logits.append(logits)
             y_preds.append(y_pred)
-        all_logits = torch.stack(all_logits, 1) # shape: (batch_size, maxlen, vocab_size)
+        all_logits = torch.stack(all_logits, 0) # shape: (maxlen, batch_size, vocab_size)
         y_preds = torch.stack(y_preds, 1) # shape: (batch_size, maxlen)
         return all_logits, y_preds
