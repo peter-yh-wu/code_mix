@@ -35,9 +35,9 @@ def calc_sent_loss(sent, model, criterion, lang_ids=None):
     if lang_ids is not None:
         loss += criterion(lang_ids_pred, lang_ids[1:])
 
-    gen_sent = ' '.join([model.vocab[idx] for idx in torch.argmax(logits, dim=1)])
-    with open('log/{}_gen_sent.txt'.format(args.dataset), 'a+') as f:
-        f.write(gen_sent + '\n')
+    # gen_sent = ' '.join([model.vocab[idx] for idx in torch.argmax(logits, dim=1)])
+    # with open('log/{}_gen_sent.txt'.format(args.dataset), 'a+') as f:
+    #     f.write(gen_sent + '\n')
     return loss
 
 
@@ -136,17 +136,21 @@ if __name__ == '__main__':
         logger.info('#' * 60)
 
     # Initialize the model and the optimizer
-    logger.info('Building model...')
-    if args.model.lower() == 'lstm':
-        model = DualLSTM(batch_size=args.batch, hidden_size=args.hidden,
-                         embed_size=args.embed, n_gram=args.ngram,
-                         vocab=vocab, vocab_size=len(vocab), dropout=args.dp,
-                         embedding=None, freeze=False, dataset=args.dataset)
-    elif args.model.lower() == 'fnn':
-        model = FNNLM(n_words=len(vocab), emb_size=args.embed,
-                      hid_size=args.hidden, num_hist=args.ngram, dropout=args.dp)
+    if args.finetune:
+        logger.info("Loading pre-trained model...")
+        model = torch.load(args.model_path)
     else:
-        raise NotImplemented
+        logger.info('Building model...')
+        if args.model.lower() == 'lstm':
+            model = DualLSTM(batch_size=args.batch, hidden_size=args.hidden,
+                             embed_size=args.embed, n_gram=args.ngram,
+                             vocab=vocab, vocab_size=len(vocab), dropout=args.dp,
+                             embedding=None, freeze=False, dataset=args.dataset)
+        elif args.model.lower() == 'fnn':
+            model = FNNLM(n_words=len(vocab), emb_size=args.embed,
+                          hid_size=args.hidden, num_hist=args.ngram, dropout=args.dp)
+        else:
+            raise NotImplemented
 
     model = model.to(DEVICE)
 
@@ -251,9 +255,9 @@ if __name__ == '__main__':
 
         # Keep track of the best development accuracy, and save the model only if it's the best one
         if best_dev > dev_loss:
-            if not os.path.exists('models'):
+            if not os.path.exists(args.models_dir):
                 try:
-                    os.mkdir('models')
+                    os.mkdir(args.models_dir)
                 except Exception as e:
                     print("Can not create models directory, %s" % e)
             torch.save(model, "{}/best_{}.pt".format(args.models_dir, args.dataset))
