@@ -207,7 +207,6 @@ maria7_164p279_166p949 eng eng eng eng eng eng eng eng eng eng eng eng eng eng e
 zeledon8_1696p939_1697p92 eng
 zeledon11_1424p614_1428p128 eng
 maria1_860p455_861p215 eng eng
-zeledon1_210p55_212p161 spa spa spa spa spa spa spa
 sastre7_122p645_123p156 eng
 sastre1_1222p256_1223p562 spa
 herring7_61p244_61p766 eng
@@ -218,7 +217,6 @@ herring8_1618p878_1619p621 eng eng eng
 herring13_870p405_872p169 engspa engspa engspa engspa eng eng
 maria27_2754p757_2755p523 spa spa spa spa
 maria18_1311p252_1312p073 eng spa
-zeledon1_765p32_769p118 eng eng eng eng eng eng eng eng eng eng eng eng eng
 zeledon7_710p575_710p969 spa spa spa
 herring10_695p193_697p24 spa spa spa
 maria31_2420p233_2422p54 spa spa spa spa spa spa
@@ -419,7 +417,6 @@ sastre10_535p106_537p631 eng eng eng eng eng eng eng
 sastre5_1282p358_1286p636 spa spa spa spa spa spa spa spa spa spa spa spa
 herring10_1503p309_1510p414 eng eng
 herring3_390p098_390p975 spa spa spa spa
-zeledon1_964p923_971p071 eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng
 herring1_469p247_471p253 eng eng eng eng eng eng eng eng eng
 zeledon7_1508p065_1508p93 spa spa spa
 zeledon4_96p09_97p076 eng eng eng eng
@@ -591,7 +588,6 @@ herring11_1855p044_1855p729 engspa
 herring9_749p319_749p853 engspa eng eng
 herring15_48p91_49p635 eng eng eng eng
 zeledon7_625p081_626p886 spa spa spa spa spa spa spa spa spa
-herring9_398p311_399p228 eng eng eng
 maria18_1852p967_1854p326 eng eng eng eng eng eng
 zeledon6_13p02_15p246 eng eng eng eng eng
 zeledon4_331p445_333p751 spa spa spa spa spa spa spa
@@ -797,7 +793,6 @@ maria27_3085p597_3086p74 eng eng eng
 zeledon4_927p89_929p179 eng eng eng eng eng eng eng
 sastre12_1465p361_1465p732 eng
 sastre1_1475p899_1477p089 eng spa
-herring9_597p191_601p393 eng eng eng
 zeledon8_755p851_756p054 eng
 zeledon13_1785p242_1786p937 eng eng eng eng eng eng eng eng eng
 zeledon3_856p798_857p959 eng eng eng
@@ -986,7 +981,6 @@ sastre11_2245p823_2247p24 eng eng eng
 herring3_658p753_660p471 eng eng eng eng
 herring9_520p203_521p858 eng eng eng eng eng eng
 sastre13_1314p597_1315p56 eng eng eng eng eng
-sastre8_863p675_874p874 spa spa spa eng eng spa spa eng eng eng spa spa spa spa spa eng spa eng spa spa eng eng spa spa spa eng eng eng eng eng eng eng
 maria4_395p126_396p292 eng
 sastre9_634p365_636p024 eng eng eng eng eng eng eng
 zeledon14_456p214_458p176 spa spa spa spa spa spa spa spa
@@ -1139,7 +1133,6 @@ sastre9_840p047_842p1 eng eng eng eng eng eng eng eng eng
 herring3_1024p349_1025p046 eng eng eng
 herring2_547p682_548p257 spa spa spa
 zeledon7_913p573_915p152 spa spa spa
-sastre5_782p274_784p434 eng eng eng eng eng eng eng
 zeledon2_1584p406_1586p85 eng eng eng eng eng
 herring6_1174p521_1175p514 eng eng eng
 zeledon7_1204p834_1205p67 eng
@@ -1440,7 +1433,6 @@ herring10_1480p982_1483p46 spa spa spa spa spa
 herring5_222p606_223p256 spa
 zeledon5_113p577_114p53 engspa
 sastre12_1636p556_1637p601 eng eng eng eng
-sastre4_1073p096_1074p814 eng eng eng
 zeledon4_801p787_804p185 spa spa spa spa spa spa
 herring9_1942p998_1943p662 eng eng
 maria31_199p514_200p693 eng eng eng
@@ -2113,7 +2105,6 @@ herring15_828p962_830p123 eng eng eng eng
 herring1_1730p799_1734p688 eng eng eng eng eng eng eng eng eng eng eng
 zeledon8_2168p111_2169p231 spa spa
 sastre13_1297p154_1297p851 eng
-sastre11_1993p205_1994p14 eng eng eng
 sastre3_2322p801_2324p188 eng eng eng eng
 maria19_3105p787_3107p063 eng eng eng eng eng eng eng eng
 maria18_1438p133_1439p933 eng eng eng eng eng eng eng
@@ -2963,7 +2954,6 @@ zeledon1_1607p714_1608p818 spa spa spa
 sastre8_1432p288_1435p022 eng eng eng eng eng eng eng eng eng eng eng eng eng
 zeledon13_2015p165_2016p541 eng eng eng eng
 maria18_102p14_104p305 eng eng eng eng eng
-herring2_1230p182_1231p418 spa spa spa
 herring15_51p333_54p265 eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng
 herring9_924p544_926p142 eng eng eng
 herring7_741p706_743p594 eng eng eng
@@ -3416,7 +3406,6 @@ zeledon2_1416p844_1418p336 eng
 zeledon8_1438p775_1439p669 spa spa
 herring2_244p162_245p509 spa spa
 zeledon3_118p454_125p132 eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng
-sastre8_1144p39_1145p586 eng
 zeledon4_509p519_511p772 eng eng
 maria40_2325p924_2328p815 spa spa spa spa spa spa spa spa spa spa spa
 herring7_1337p299_1342p063 eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng engspa
@@ -3481,7 +3470,6 @@ maria18_4129p015_4129p015 eng eng eng engspa
 sastre13_421p926_424p207
 sastre4_1474p414_1476p684 eng eng eng eng eng eng
 zeledon14_1116p676_1118p598 spa spa spa spa eng eng
-zeledon1_1657p773_1660p802 spa spa spa spa spa spa spa spa spa spa spa spa spa spa spa spa
 sastre7_787p421_788p791 eng eng eng eng eng eng eng
 zeledon2_1416p256_1416p859 eng eng
 sastre8_1342p818_1343p898 eng eng
@@ -4120,7 +4108,6 @@ zeledon8_1748p211_1749p058 eng
 zeledon1_1628p961_1630p083 spa spa spa spa
 zeledon1_888p543_890p826 eng eng eng eng eng eng eng
 herring9_650p808_651p325 spa spa spa
-herring9_1469p931_1474p149 eng eng eng eng eng eng eng eng eng eng eng eng eng eng eng
 herring15_777p749_779p271 eng eng eng eng eng eng
 maria27_2518p928_2520p223 engspa eng eng
 zeledon8_91p561_95p282 spa eng eng eng eng eng eng eng eng eng eng eng eng eng eng
