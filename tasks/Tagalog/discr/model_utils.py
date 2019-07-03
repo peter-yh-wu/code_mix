@@ -31,6 +31,7 @@ class SequenceCrossEntropy(nn.CrossEntropyLoss):
             # logits shape: (maxlen, batch_size, vocab_size)
         maxlen = logits.size(0)
         mask = Variable(output_mask(maxlen, sequence_lengths.data)).float()
+            # shape: [maxlen, batch_size]
         logits = logits * mask.unsqueeze(2)
         losses = super(SequenceCrossEntropy, self).forward(logits.view(-1, logits.size(2)), target.view(-1))
         loss = torch.sum(mask.view(-1) * losses) / logits.size(1)
@@ -51,7 +52,7 @@ def output_mask(maxlen, lengths):
     lens = lengths.unsqueeze(0) # shape (1, batch_size)
     range_tens = torch.arange(0, maxlen, 1, out=lengths.new()).unsqueeze(1)
     mask = range_tens < lens # shape: (maxlen, batch_size)
-    return mask.transpose(0, 1)
+    return mask
 
 
 def load_fid_and_y_data(phase):
