@@ -38,8 +38,7 @@ def parse_args():
     parser.add_argument('--teacher-force-rate', type=float, default=0.9, metavar='N', help='teacher forcing rate')
 
     parser.add_argument('--word-dropout', type=float, default=0.2, metavar='N', help='word dropout')
-    parser.add_argument('--rnn-dropout', type=float, default=0.35, metavar='N', help='rnn dropout')
-
+    
     parser.add_argument('--emb-dim', type=int, default=300, metavar='N', help='hidden dimension')
     parser.add_argument('--hidden-dim', type=int, default=650, metavar='N', help='hidden dimension')
 
@@ -108,7 +107,7 @@ def main():
         optimizer.zero_grad()
         l = 0
         for i, t in enumerate(train_loader):
-            l1array, llens, l2array = t
+            l1array, llens, l2array = t # l1array shape: (maxlen, batch_size)
             l1array, llens, l2array = Variable(l1array), Variable(llens), Variable(l2array)
             if torch.cuda.is_available():
                 l1array, llens, l2array = l1array.cuda(args.cuda), llens.cuda(args.cuda), l2array.cuda(args.cuda)

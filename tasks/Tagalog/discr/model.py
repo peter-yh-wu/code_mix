@@ -58,9 +58,8 @@ class WERDiscriminatorLoss(nn.Module):
 class LSTMLM(nn.Module):
     def __init__(self, vocab_size, args):
         super(LSTMLM, self).__init__()
-        self.prob_keep = 1-args.word_dropout
         self.emb_mat = nn.Embedding(vocab_size, args.emb_dim)
-        self.rnn = nn.LSTM(args.emb_dim, args.hidden_dim, batch_first=True, dropout=args.rnn_dropout, bidirectional=True)
+        self.rnn = nn.LSTMCell(args.emb_dim, args.hidden_dim)
         self.char_projection = nn.Sequential(
             nn.Linear(args.hidden_dim, vocab_size)
         )
@@ -70,23 +69,24 @@ class LSTMLM(nn.Module):
         '''
         Args:
             prev_char: shape (batch_size,)
-            prev_hidden: pair of tensors with shape (1, batch_size, hidden_dim)
-        
+            prev_hidden: pair of tensors with shape (batch_size, hidden_dim)
+
         Return:
             logits: tensor with shape (batch_size, vocab_size)
             y_pred: tensor with shape (batch_size,)
-            new_hidden: pair of tensors with shape (1, batch_size, hidden_dim)
+            new_hidden: pair of tensors with shape (batch_size, hidden_dim)
         '''
-        emb = self.emb_mat(prev_char)
-        out, new_hidden = self.rnn(emb, prev_hidden)
-        logits = self.char_projection(out)
+        emb = self.emb_mat(prev_char) # (batch_size, )
+        h, c = self.rnn(emb, prev_hidden)
+            # h shape: (batch_size, hidden_dim)
+        logits = self.char_projection(h)
         y_pred = torch.max(logits, 1)[1]
-        return logits, y_pred, new_hidden
+        return logits, y_pred, (h, c)
 
     def forward(self, x, lens):
         '''
         Args:
-            x: tensor with shape (batch_size, maxlen)
+            x: tensor with shape (maxlen, batch_size)
             lens: tensor with shape (batch_size,), comprised of
                 length of each input sequence in batch
         '''
@@ -97,12 +97,12 @@ class LSTMLM(nn.Module):
         y_preds = []
         for i in range(maxlen):
             if len(y_preds) > 0 and self.force_rate < 1 and self.training:
-                forced_char = x[:, i]
+                forced_char = x[i, :] # shape: (batch_size,)
                 gen_char = y_preds[-1]
                 force_mask = Variable(forced_char.data.new(*forced_char.size()).bernoulli_(self.force_rate))
                 char = (force_mask * forced_char) + ((1 - force_mask) * gen_char)
             else:
-                char = x[:, i]
+                char = x[i, :]
             logits, y_pred, hidden = self.forward_step(char, hidden)
             all_logits.append(logits)
             y_preds.append(y_pred)
