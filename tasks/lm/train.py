@@ -28,7 +28,8 @@ def calc_sent_loss(sent, model, criterion, lang_ids=None):
     """
     Calculate the loss value for the entire sentence
     """
-    lang_ids = torch.LongTensor([1 if _ == 'eng' or _ == 'engspa' or _ == '<s>' else 0 for _ in lang_ids]).to(DEVICE)
+    if lang_ids is not None:
+        lang_ids = torch.LongTensor([1 if _ == 'eng' or _ == 'engspa' or _ == '<s>' else 0 for _ in lang_ids]).to(DEVICE)
     targets = torch.LongTensor([model.vocab[tok] for tok in sent[1:]]).to(DEVICE)
     logits, lang_ids_pred = model(sent, lang_ids)
     loss = criterion(logits, targets)
