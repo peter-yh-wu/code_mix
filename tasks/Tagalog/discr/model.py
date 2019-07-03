@@ -92,7 +92,7 @@ class LSTMLM(nn.Module):
         '''
         maxlen, batch_size = x.shape
 
-        hidden = torch.randn(batch_size, self.hidden_dim)
+        hidden = (torch.randn(batch_size, self.hidden_dim), torch.randn(batch_size, self.hidden_dim))
         all_logits = []
         y_preds = []
         for i in range(maxlen):
