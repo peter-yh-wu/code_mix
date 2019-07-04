@@ -42,7 +42,7 @@ def main():
 
     print(max(lens), sum(lens)/len(lens))
     distr = np.bincount(lens)/len(lens)
-    print(np.random.multinomial(1, distr))
+    print(np.random.multinomial(1, distr).where(array==item))
 
 if __name__ == '__main__':
     main()
