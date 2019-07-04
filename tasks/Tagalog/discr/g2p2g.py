@@ -41,7 +41,7 @@ def main():
     lens = [len(w) for w in keys]
 
     print(max(lens), sum(lens)/len(lens))
-    distr = np.bincount(lens)/sum(lens)
+    distr = np.bincount(lens)/len(lens)
     print(np.random.multinomial(1, distr))
 
 if __name__ == '__main__':
