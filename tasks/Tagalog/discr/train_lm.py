@@ -138,7 +138,7 @@ def main():
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
                 prev_best_epoch = e
-                torch.save(model.state_dict(), CKPT_PATH)
+                torch.save(model.state_dict(), ckpt_path)
             elif e - prev_best_epoch > args.patience:
                 break
             print_log('Val Loss: %f' % val_loss, LOG_PATH)
