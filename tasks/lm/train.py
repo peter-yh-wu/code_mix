@@ -133,7 +133,7 @@ if __name__ == '__main__':
         logger.info('#' * 60)
 
     # Initialize the model and the optimizer
-    if args.finetune:
+    if args.finetune is True:
         logger.info("Loading pre-trained model...")
         model = torch.load(args.model_path)
     else:
@@ -206,7 +206,10 @@ if __name__ == '__main__':
             # clip_grad_norm helps prevent the exploding gradient problem in RNNs / LSTMs.
             torch.nn.utils.clip_grad_norm_(model.parameters(), args.clip)
             for p in model.parameters():
-                p.data.add_(-args.lr, p.grad.data)
+                try:
+                    p.data.add_(-args.lr, p.grad.data)
+                except:
+                    print(p)
             optimizer.step()
             if train_sents % 500 == 0:
                 logger.info("--finished %r sentences (sentence/sec=%.2f)"
