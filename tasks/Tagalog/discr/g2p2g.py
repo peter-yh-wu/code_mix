@@ -39,8 +39,10 @@ def main():
     # TODO
     keys = list(p2g_dict.keys())
     lens = [len(w) for w in keys]
+
     print(max(lens), sum(lens)/len(lens))
-    print(np.bincount(lens))
+    distr = np.bincount(lens)/sum(lens)
+    np.random.multinomial(1, distr)
 
 if __name__ == '__main__':
     main()
