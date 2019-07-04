@@ -6,7 +6,7 @@ epi_en = epitran.Epitran('eng-Latn')
 epi_tl = epitran.Epitran('tgl-Latn')
 
 def save_pkl(obj, path):
-    with open(path, 'wb') as f:
+    with open(path, 'wb+') as f:
         pickle.dump(obj, f, pickle.HIGHEST_PROTOCOL)
 
 def get_vocab(path, lid_path):
