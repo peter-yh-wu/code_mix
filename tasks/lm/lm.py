@@ -107,7 +107,7 @@ class DualLSTM(nn.Module):
 
     def embed_sentence(self, sentence, lang_ids=None):
         embedding = []
-        if self.dataset == 'seame':
+        if self.dataset == 'seame' or self.dataset == 'qg':
             embed_mask = torch.zeros(len(sentence))
             for idx, token in enumerate(sentence[:-1]):
                 try:
