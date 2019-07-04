@@ -22,7 +22,7 @@ def get_vocab(path, lid_path):
         word_list = l_list[1:]
         lid_list = lid_l.strip().split()[1:]
         vocab.union(set(word_list))
-        for word, lid in (word_list, lid_list):
+        for word, lid in zip(word_list, lid_list):
             word_to_lid[word] = lid
     return vocab, word_to_lid
 
