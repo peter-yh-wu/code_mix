@@ -27,6 +27,8 @@ parser.add_argument('--log_dir', help='logging dir', type=str, default='log')
 parser.add_argument('--gpu_id', help='GPU to be used if any', type=int, default=0)
 parser.add_argument('--qg', help='use QG dataset for data augumentation', type=bool, default=False)
 parser.add_argument('--dataset', help='dataset to train LM', type=str, default='seame')
+parser.add_argument('--finetune', help='fine tune on pre-trained model', type=bool, default=False)
+parser.add_argument('--model_path', help='pre-trained model path', type=str, default='models/best.pt')
 args = parser.parse_args()
 
 # running configurations

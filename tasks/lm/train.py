@@ -28,16 +28,17 @@ def calc_sent_loss(sent, model, criterion, lang_ids=None):
     """
     Calculate the loss value for the entire sentence
     """
-    lang_ids = torch.LongTensor([1 if _ == 'eng' or _ == 'engspa' or _ == '<s>' else 0 for _ in lang_ids]).to(DEVICE)
+    if lang_ids is not None:
+        lang_ids = torch.LongTensor([1 if _ == 'eng' or _ == 'engspa' or _ == '<s>' else 0 for _ in lang_ids]).to(DEVICE)
     targets = torch.LongTensor([model.vocab[tok] for tok in sent[1:]]).to(DEVICE)
     logits, lang_ids_pred = model(sent, lang_ids)
     loss = criterion(logits, targets)
     if lang_ids is not None:
         loss += criterion(lang_ids_pred, lang_ids[1:])
 
-    gen_sent = ' '.join([model.vocab[idx] for idx in torch.argmax(logits, dim=1)])
-    with open('log/{}_gen_sent.txt'.format(args.dataset), 'a+') as f:
-        f.write(gen_sent + '\n')
+    # gen_sent = ' '.join([model.vocab[idx] for idx in torch.argmax(logits, dim=1)])
+    # with open('log/{}_gen_sent.txt'.format(args.dataset), 'a+') as f:
+    #     f.write(gen_sent + '\n')
     return loss
 
 
@@ -81,18 +82,14 @@ if __name__ == '__main__':
     logger.info(args)
 
     # Load data
-    if args.dataset.lower() == 'seame':
-        logger.info('Loading SEAME dataset...')
+    logger.info('Loading {} dataset...'.format(args.dataset))
+    if args.dataset.lower() == 'seame' or args.dataset.lower() == 'qg':
         dataset = read_dataset(args.data)
-        if args.qg:
-            logger.info('Loading QG dataset...')
-            dataset.extend(read_dataset('data/QGdata'))
         dataset = dataset[: int(len(dataset) * args.subset)]
         train = dataset[: int(len(dataset)*0.8)]
         dev = dataset[int(len(dataset)*0.8) + 1: -1]
         train_ids = None
     elif args.dataset.lower() == 'miami' or args.dataset.lower() == 'tagalog':
-        logger.info('Loading Miami dataset...')
         train, dev, test, train_ids, dev_ids, test_ids, miami_dict = read_miami_data(args.data)
     elif args.dataset.lower() == 'opensub':
         train, dev, train_ids, dev_ids = read_opensub_data(args.data)
@@ -136,17 +133,21 @@ if __name__ == '__main__':
         logger.info('#' * 60)
 
     # Initialize the model and the optimizer
-    logger.info('Building model...')
-    if args.model.lower() == 'lstm':
-        model = DualLSTM(batch_size=args.batch, hidden_size=args.hidden,
-                         embed_size=args.embed, n_gram=args.ngram,
-                         vocab=vocab, vocab_size=len(vocab), dropout=args.dp,
-                         embedding=None, freeze=False, dataset=args.dataset)
-    elif args.model.lower() == 'fnn':
-        model = FNNLM(n_words=len(vocab), emb_size=args.embed,
-                      hid_size=args.hidden, num_hist=args.ngram, dropout=args.dp)
+    if args.finetune:
+        logger.info("Loading pre-trained model...")
+        model = torch.load(args.model_path)
     else:
-        raise NotImplemented
+        logger.info('Building model...')
+        if args.model.lower() == 'lstm':
+            model = DualLSTM(batch_size=args.batch, hidden_size=args.hidden,
+                             embed_size=args.embed, n_gram=args.ngram,
+                             vocab=vocab, vocab_size=len(vocab), dropout=args.dp,
+                             embedding=None, freeze=False, dataset=args.dataset)
+        elif args.model.lower() == 'fnn':
+            model = FNNLM(n_words=len(vocab), emb_size=args.embed,
+                          hid_size=args.hidden, num_hist=args.ngram, dropout=args.dp)
+        else:
+            raise NotImplemented
 
     model = model.to(DEVICE)
 
@@ -221,9 +222,9 @@ if __name__ == '__main__':
 
         # Evaluate on dev set
         # set the model to evaluation mode
-        if args.dataset == 'opensub':
-            torch.save(model, "{}/opensub_epoch_{}.pt".format(args.models_dir, epoch))
-            continue
+        # if args.dataset == 'opensub':
+        #     torch.save(model, "{}/opensub_epoch_{}.pt".format(args.models_dir, epoch))
+        #     continue
         model.eval()
         dev_words, dev_loss = 0, 0.0
         start = time.time()
@@ -251,9 +252,9 @@ if __name__ == '__main__':
 
         # Keep track of the best development accuracy, and save the model only if it's the best one
         if best_dev > dev_loss:
-            if not os.path.exists('models'):
+            if not os.path.exists(args.models_dir):
                 try:
-                    os.mkdir('models')
+                    os.mkdir(args.models_dir)
                 except Exception as e:
                     print("Can not create models directory, %s" % e)
             torch.save(model, "{}/best_{}.pt".format(args.models_dir, args.dataset))
