@@ -104,8 +104,8 @@ class LMDataset(Dataset):
         Args:
             labels: list of 1-dim int np arrays
         '''
-        self.labels = [torch.from_numpy(y + 1).long() for y in labels]  # +1 for start/end token
-        
+        self.labels = [torch.from_numpy(y + 1).long() for y in labels if len(y) > 1]  # +1 for start/end token
+
     def __len__(self):
         return len(self.labels)
     
@@ -119,8 +119,6 @@ def text_collate_fn(batch):
     for i, label in enumerate(batch):
         llens[i] = label.size(0) + 1 # +1 to account for start/end token
     lmax = int(llens.max())
-    print(lmax)
-    print(llens)
     l1array = torch.LongTensor(lmax, n).zero_()
     l2array = torch.LongTensor(lmax, n).zero_()
     for i, label in enumerate(batch):
