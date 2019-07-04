@@ -1,3 +1,4 @@
+import numpy as np
 import os
 import pickle
 
@@ -35,9 +36,11 @@ def main():
     split_dir = os.path.join(parent_dir, 'split')
     train_path = os.path.join(split_dir, train_file)
     
+    # TODO
     keys = list(p2g_dict.keys())
     lens = [len(w) for w in keys]
     print(max(lens), sum(lens)/len(lens))
+    print(np.bincount(lens))
 
 if __name__ == '__main__':
     main()
