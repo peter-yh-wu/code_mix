@@ -6,7 +6,7 @@ epi_en = epitran.Epitran('eng-Latn')
 epi_tl = epitran.Epitran('tgl-Latn')
 
 def save_pkl(obj, path):
-    with open(path, 'wb+') as f:
+    with open(path, 'wb') as f:
         pickle.dump(obj, f, pickle.HIGHEST_PROTOCOL)
 
 def get_vocab(path, lid_path):
@@ -39,9 +39,9 @@ def main():
     train_lid_file = 'train_lids.txt'
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(parent_dir, 'data')
+    if not os.path.exists(data_dir):
+        os.makedirs(data_dir)
     split_dir = os.path.join(parent_dir, 'split')
-    if not os.path.exists(split_dir):
-        os.makedirs(split_dir)
     train_path = os.path.join(split_dir, train_file)
     train_lid_path = os.path.join(split_dir, train_lid_file)
 
