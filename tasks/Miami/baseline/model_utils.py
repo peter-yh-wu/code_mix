@@ -106,28 +106,7 @@ def generate_transcripts(args, model, loader, charset, device=0):
             transcript = decode_output(generated[:, i], charset)
             yield transcript
 
-def cer(args, model, loader, charset, ys, device=0, truncate=True):
-    '''Calculates the average normalized CER for the given data
-    
-    Args:
-        ys: iterable of strings
-    
-    Return:
-        number
-    '''
-    model.eval()
-    norm_dists = []
-    transcripts = generate_transcripts(args, model, loader, charset, device=device)
-    for i, t in enumerate(transcripts):
-        if truncate:
-            dist = edit_distance(t[:len(ys[i])], ys[i])
-        else:
-            dist = edit_distance(t, ys[i])
-        norm_dist = dist / len(ys[i])
-        norm_dists.append(norm_dist)
-    return sum(norm_dists)/len(ys)
-
-def cer_from_transcripts(transcripts, ys, log_path, truncate=True):
+def cer_from_transcripts(transcripts, ys, log_path=None, truncate=True):
     '''
     Return:
         norm_dists: list of CER values
@@ -151,11 +130,26 @@ def cer_from_transcripts(transcripts, ys, log_path, truncate=True):
         norm_dist_nos = dist_nos / len(curr_y_nos)
         best_dist = min(dist, dist_nos)
         best_norm = min(norm_dist, norm_dist_nos)
-        with open(log_path, 'a') as ouf:
-            ouf.write('dist: %.2f, norm_dist: %.2f\n' % (best_dist, best_norm))
+        if log_path is not None:
+            with open(log_path, 'a') as ouf:
+                ouf.write('dist: %.2f, norm_dist: %.2f\n' % (best_dist, best_norm))
         norm_dists.append(best_norm)
         dists.append(best_dist)
     return norm_dists, dists
+
+def cer(args, model, loader, charset, ys, device=0, truncate=True):
+    '''Calculates the average normalized CER for the given data
+    
+    Args:
+        ys: iterable of strings
+    
+    Return:
+        number
+    '''
+    model.eval()
+    transcripts = generate_transcripts(args, model, loader, charset, device=device)
+    norm_dists, _ = cer_from_transcripts(transcripts, ys, truncate=truncate)
+    return sum(norm_dists)/len(ys)
 
 def print_log(s, log_path):
     print(s)
@@ -202,10 +196,9 @@ def load_fid_and_y_data(phase):
     return ids, np.array(ys)
 
 class ASRDataset(Dataset):
-    '''Assumes all characters in transcripts are alphanumeric'''
     def __init__(self, ids, labels=None):
         '''
-        self.labels is only True for test set
+        self.labels is only None for test set
 
         Args:
             ids: list of file id strings (files contain x values)

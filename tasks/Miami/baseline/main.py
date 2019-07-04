@@ -216,13 +216,15 @@ class DecoderModel(nn.Module):
         self.cuda = args.cuda
 
     def forward_pass(self, input_t, keys, values, mask, ctx, input_states):
+        '''Runs one step of decoder
+        '''
         # Embed the previous character
         embed = self.embedding(input_t)
         # Concatenate embedding and previous context
         ht = torch.cat((embed, ctx), dim=1)
         # Run first set of RNNs
         new_input_states = []
-        for rnn, state in zip(self.input_rnns, input_states):
+        for rnn, state in zip(self.input_rnns, input_states): # iterate over levels of rnn
             ht, newstate = rnn(ht, state)
             new_input_states.append((ht, newstate))
         new_keys = self.key_projection(keys)
@@ -304,7 +306,6 @@ class DecoderModel(nn.Module):
 
 
 class Seq2SeqModel(nn.Module):
-    # Tie encoder and decoder together
     def __init__(self, args, vocab_size):
         super(Seq2SeqModel, self).__init__()
         self.encoder = EncoderModel(args)
