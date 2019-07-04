@@ -119,6 +119,8 @@ def text_collate_fn(batch):
     for i, label in enumerate(batch):
         llens[i] = label.size(0) + 1 # +1 to account for start/end token
     lmax = int(llens.max())
+    print(lmax)
+    print(llens)
     l1array = torch.LongTensor(lmax, n).zero_()
     l2array = torch.LongTensor(lmax, n).zero_()
     for i, label in enumerate(batch):
