@@ -108,8 +108,8 @@ def main():
         l = 0
         for i, t in enumerate(train_loader):
             if i+1 > 1400:
-                print(llens)
                 l1array, llens, l2array = t # l1array shape: (maxlen, batch_size)
+                print(llens)
                 l1array, llens, l2array = Variable(l1array), Variable(llens), Variable(l2array)
                 if torch.cuda.is_available():
                     l1array, llens, l2array = l1array.cuda(args.cuda), llens.cuda(args.cuda), l2array.cuda(args.cuda)
