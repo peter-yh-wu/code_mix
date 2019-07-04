@@ -107,19 +107,21 @@ def main():
         optimizer.zero_grad()
         l = 0
         for i, t in enumerate(train_loader):
-            l1array, llens, l2array = t # l1array shape: (maxlen, batch_size)
-            l1array, llens, l2array = Variable(l1array), Variable(llens), Variable(l2array)
-            if torch.cuda.is_available():
-                l1array, llens, l2array = l1array.cuda(args.cuda), llens.cuda(args.cuda), l2array.cuda(args.cuda)
-            logits, y_preds = model(l1array, llens)
-            loss = criterion((logits, y_preds, llens), l2array)
-            l += loss.item()
-            loss.backward()
-            torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
-            optimizer.step()
-            if (i+1) % 100 == 0:
-                t1 = time.time()
-                print('Processed %d Batches (%.2f Seconds)' % (i+1, t1-t0))
+            if i+1 > 1400:
+                print(llens)
+                l1array, llens, l2array = t # l1array shape: (maxlen, batch_size)
+                l1array, llens, l2array = Variable(l1array), Variable(llens), Variable(l2array)
+                if torch.cuda.is_available():
+                    l1array, llens, l2array = l1array.cuda(args.cuda), llens.cuda(args.cuda), l2array.cuda(args.cuda)
+                logits, y_preds = model(l1array, llens)
+                loss = criterion((logits, y_preds, llens), l2array)
+                l += loss.item()
+                loss.backward()
+                torch.nn.utils.clip_grad_norm_(model.parameters(), 0.25)
+                optimizer.step()
+                if (i+1) % 100 == 0:
+                    t1 = time.time()
+                    print('Processed %d Batches (%.2f Seconds)' % (i+1, t1-t0))
         print_log('Train Loss: %f' % (l/len(train_loader.dataset)), LOG_PATH)
 
         # val
