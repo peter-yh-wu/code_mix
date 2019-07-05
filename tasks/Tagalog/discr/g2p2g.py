@@ -95,9 +95,16 @@ def mk_gs(g, g2p_dict, p2g_dict_by_len, distr, num_g):
     gs = p2g(p, p2g_dict_by_len, distr, num_g)
     return gs
 
+def print_log(s, log_path):
+    print(s)
+    with open(log_path, 'a+') as ouf:
+        ouf.write("%s\n" % s)
+
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--num-g', type=int, default=5, metavar='N', help='number of new sentences per datapoint')
+    parser.add_argument('--start-i', type=int, default=0, metavar='N', help='index to start at')
+    parser.add_argument('--log-path', type=str, default='g2p2g_log', help='log file')
     return parser.parse_args()
 
 def main():
@@ -125,11 +132,11 @@ def main():
         lines = inf.readlines()
 
     all_gs = []
-    for l in lines:
+    for l in lines[args.start_i:]:
         l = l.strip()
         l_list = l.split()
         fid = l_list[0]
-        print(fid)
+        print_log(fid, args.log_path)
         words = ' '.join(l_list[1:])
         num_raw_gs = args.num_g*2
         gs = mk_gs(words, g2p_dict, p2g_dict_by_len, distr, num_raw_gs)
@@ -139,7 +146,7 @@ def main():
         best_gs = sorted_gs[:args.num_g]
         best_gs = np.insert(best_gs, 0, fid)
         for g in best_gs:
-            print(g)
+            print_log(g, args.log_path)
         all_gs.append(best_gs)
     all_gs = np.stack(all_gs)
     gs_path = os.path.join(data_dir, 'gs.csv')
