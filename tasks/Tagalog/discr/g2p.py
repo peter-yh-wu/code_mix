@@ -42,6 +42,8 @@ def parse_args():
     return parser.parse_args()
 
 def main():
+    args = parse_args()
+    
     phase_file = '%s.txt' % args.phase
     lid_file = '%s_lids.txt' % args.phase
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
