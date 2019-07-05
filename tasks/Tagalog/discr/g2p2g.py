@@ -121,6 +121,9 @@ def main():
     for p in p2g_dict:
         p2g_dict_by_len[len(p)][p] = p2g_dict[p]
 
+    with open(train_path, 'r') as inf:
+        lines = inf.readlines()
+
     all_gs = []
     for l in lines:
         l = l.strip()
