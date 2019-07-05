@@ -132,7 +132,7 @@ def main():
         print(fid)
         words = ' '.join(l_list[1:])
         num_raw_gs = args.num_g*2
-        gs = mk_gs(words, g2p_dict, p2g_dict_by_len, distr, num_g)
+        gs = mk_gs(words, g2p_dict, p2g_dict_by_len, distr, num_raw_gs)
         dists = [edit_distance(words, g) for g in gs]
         idxs = np.argsort(dists)
         sorted_gs = np.array(gs)[idxs]
