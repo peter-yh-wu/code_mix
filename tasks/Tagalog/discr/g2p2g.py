@@ -121,11 +121,6 @@ def main():
     for p in p2g_dict:
         p2g_dict_by_len[len(p)][p] = p2g_dict[p]
 
-    g = 'dili dili gani dili aray'
-    num_g = 1
-    gs = mk_gs(g, g2p_dict, p2g_dict_by_len, distr, num_g)
-    print(gs)
-
     all_gs = []
     for l in lines:
         l = l.strip()
