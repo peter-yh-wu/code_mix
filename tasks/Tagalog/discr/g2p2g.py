@@ -138,6 +138,8 @@ def main():
         sorted_gs = np.array(gs)[idxs]
         best_gs = sorted_gs[:args.num_g]
         best_gs = np.insert(best_gs, 0, fid)
+        for g in best_gs:
+            print(g)
         all_gs.append(best_gs)
     all_gs = np.stack(all_gs)
     gs_path = os.path.join(data_dir, 'gs.csv')
