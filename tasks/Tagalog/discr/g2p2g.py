@@ -105,6 +105,7 @@ def parse_args():
     parser.add_argument('--num-g', type=int, default=5, metavar='N', help='number of new sentences per datapoint')
     parser.add_argument('--start-i', type=int, default=0, metavar='N', help='index to start at')
     parser.add_argument('--log-path', type=str, default='g2p2g_log', help='log file')
+    parser.add_argument('--phase', type=str, default='train', help='train, dev, or test')
     return parser.parse_args()
 
 def main():
@@ -112,13 +113,13 @@ def main():
 
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(parent_dir, 'data')
-    g2p_path = os.path.join(data_dir, 'g2p_dict.pkl')
+    g2p_path = os.path.join(data_dir, 'g2p_dict_%s.pkl') % args.phase
     g2p_dict = load_pkl(g2p_path)
     p2g_dict = {v: k for k, v in g2p_dict.items()}
 
-    train_file = 'train.txt'
+    phase_file = '%s.txt' % args.phase
     split_dir = os.path.join(parent_dir, 'split')
-    train_path = os.path.join(split_dir, train_file)
+    phase_path = os.path.join(split_dir, phase_file)
     
     ps = list(p2g_dict.keys())
     lens = [len(w) for w in ps]
@@ -128,7 +129,7 @@ def main():
     for p in p2g_dict:
         p2g_dict_by_len[len(p)][p] = p2g_dict[p]
 
-    with open(train_path, 'r') as inf:
+    with open(phase_path, 'r') as inf:
         lines = inf.readlines()
 
     all_gs = []
@@ -149,7 +150,7 @@ def main():
             print_log(g, args.log_path)
         all_gs.append(best_gs)
     all_gs = np.stack(all_gs)
-    gs_path = os.path.join(data_dir, 'gs.csv')
+    gs_path = os.path.join(data_dir, 'gs_%s.csv' % args.phase)
     np.savetxt(gs_path, all_gs, delimiter=",")
 
 
