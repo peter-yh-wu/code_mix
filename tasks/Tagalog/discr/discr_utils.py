@@ -148,7 +148,7 @@ def simple_discr_collate_fn(batch):
     batch_size = len(batch)
     max_len = 0
     for (orig, gens) in batch:
-        batch_size += len(gs)
+        batch_size += len(gens)
         max_len = max([max_len, len(orig)]+[len(g) for g in gens])
     xs = torch.LongTensor(max_len, batch_size).zero_()
     ys = torch.LongTensor(batch_size).zero_()
