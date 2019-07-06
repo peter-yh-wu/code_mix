@@ -12,6 +12,19 @@ import multiprocessing as mp
 from glob import glob
 
 
+def preprocess(words):
+    # Lemmatize the comments for better match
+    words = words.replace('~', ' ').replace('`', ' ').replace('!', ' ').replace('@', ' ').replace('#', ' '). \
+        replace('$', ' ').replace('%', ' ').replace('^', ' ').replace('&', ' ').replace('*', ' '). \
+        replace('(', ' ').replace(')', ' ').replace('-', ' ').replace('_', ' ').replace('+', ' '). \
+        replace('=', ' ').replace('{', ' ').replace('}', ' ').replace('[', ' ').replace(']', ' '). \
+        replace('|', ' ').replace('\'', ' ').replace(':', ' ').replace(';', ' ').replace('"', ' '). \
+        replace('\"', ' ').replace('<', ' ').replace('>', ' ').replace(',', ' ').replace('.', ' '). \
+        replace('?', ' ').replace('/', ' ')
+    words = [word.lower() for word in words.split()]
+    return words
+
+
 def las_to_lm(sentence):
     text = []
     for token in sentence:
@@ -67,6 +80,8 @@ def read_qg_data(files):
             for line in lines:
                 text = []
                 for token in line.split()[3:]:
+                    if token in ['，', '。', '！', '？', '…', '~', '=']:
+                        continue
                     if not is_chinese_word(token) \
                             or (is_chinese_word(token) and len(token) == 1):
                         text.append(token)
@@ -90,7 +105,7 @@ def read_qg_data(files):
 def read_opensub_data(data_path):
     with open(os.path.join(data_path, 'english.txt')) as f:
         lines = f.readlines()
-        eng_data = [line.split()[1:] for line in lines[:35000]]
+        eng_data = [preprocess(line) for line in lines[:35000]]
     # with open(os.path.join(data_path, 'spanish.txt')) as f:
     #     lines = f.readlines()
     #     spa_data = [line.split()[1:] for line in lines[:35000]]
