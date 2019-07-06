@@ -12,7 +12,7 @@ def rerank(model_path, csv_path):
     if DEVICE == torch.device('cpu'):
         lm = torch.load(model_path, map_location='cpu')
     else:
-        lm = torch.load(model_path)
+        lm = torch.load(model_path, map_location='cuda:0')
     lm.to(DEVICE)
     lm.eval()
     transcripts = defaultdict(list)
@@ -42,7 +42,7 @@ def count_word_num(model_path):
     if DEVICE == torch.device('cpu'):
         lm = torch.load(model_path, map_location='cpu')
     else:
-        lm = torch.load(model_path)
+        lm = torch.load(model_path, map_location='cuda:0')
     lm.to(DEVICE)
     print("Total vocab length: ", len(lm.vocab))
     chn_word_num, eng_word_num = 0, 0
@@ -55,7 +55,7 @@ def count_word_num(model_path):
 
 
 if __name__ == '__main__':
-    chn, eng = count_word_num('models/best_hd_1024_full.pt')
+    chn, eng = count_word_num(args.lm_path)
     print("Chinese word amount: {}".format(chn))
     print("English word amount: {}".format(eng))
-    reranked = rerank('models/best_hd_1024_full.pt', 'data/submission_beam_5_all.csv')
+    reranked = rerank(args.lm_path, args.submission_csv)
