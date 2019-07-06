@@ -85,7 +85,7 @@ def main():
         print('generating transcripts')
         with open(TRANSCRIPT_LOG_PATH, 'w+') as ouf:
             pass
-        if not os.path.exists(CSV_PATH):
+        if not os.path.exists(CSV_PATH) or os.stat(CSV_PATH).st_size == 0:
             transcripts = write_transcripts(
                 path=CSV_PATH,
                 args=args, model=model, loader=test_loader, charset=charset,
