@@ -39,6 +39,7 @@ def parse_args():
 
     parser.add_argument('--word-dropout', type=float, default=0.1, metavar='N', help='word dropout')
     
+    parser.add_argument('--num-layers', type=int, default=2, metavar='N', help='number of LSTM layers')
     parser.add_argument('--emb-dim', type=int, default=300, metavar='N', help='hidden dimension')
     parser.add_argument('--hidden-dim', type=int, default=650, metavar='N', help='hidden dimension')
 
@@ -92,7 +93,7 @@ def main():
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Building Model")
-    model = SimpleLSTMDiscriminator(charcount, word_dropout=args.word_dropout, emb_dim=args.emb_dim, hidden_dim=args.hidden_dim)
+    model = SimpleLSTMDiscriminator(charcount, num_layers=args.num_layers, word_dropout=args.word_dropout, emb_dim=args.emb_dim, hidden_dim=args.hidden_dim)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = nn.CrossEntropyLoss()
     t1 = time.time()

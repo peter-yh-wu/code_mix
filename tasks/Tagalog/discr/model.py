@@ -12,11 +12,11 @@ from torch.autograd import Variable
 from torch.distributions.bernoulli import Bernoulli
 
 class SimpleLSTMDiscriminator(nn.Module):
-    def __init__(self, vocab_size, word_dropout=0.2, emb_dim=300, hidden_dim=650):
+    def __init__(self, vocab_size, num_layers=2, word_dropout=0.2, emb_dim=300, hidden_dim=650):
         super(SimpleLSTMDiscriminator, self).__init__()
         self.prob_keep = 1-word_dropout
         self.emb_mat = nn.Embedding(vocab_size, emb_dim)
-        self.rnn = nn.LSTM(emb_dim, hidden_dim, batch_first=True, dropout=0.35, bidirectional=True)
+        self.rnn = nn.LSTM(emb_dim, hidden_dim, batch_first=True, num_layers=num_layers, dropout=0.35, bidirectional=True)
         self.fc = nn.Sequential(
             nn.ReLU(),
             nn.Linear(hidden_dim*2, 2)
