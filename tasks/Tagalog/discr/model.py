@@ -11,8 +11,6 @@ import torch.nn as nn
 from torch.autograd import Variable
 from torch.distributions.bernoulli import Bernoulli
 
-from model_utils import *
-
 class SimpleLSTMDiscriminator(nn.Module):
     def __init__(self, vocab_size, word_dropout=0.2, emb_dim=300, hidden_dim=650):
         super(SimpleLSTMDiscriminator, self).__init__()
