@@ -135,20 +135,21 @@ if __name__ == '__main__':
     # Initialize the model and the optimizer
     if args.finetune is True:
         logger.info("Loading pre-trained model...")
-        model = torch.load(args.model_path)
-        model.vocab.extend(vocab)
+        pretrain = torch.load(args.model_path)
     else:
-        logger.info('Building model...')
-        if args.model.lower() == 'lstm':
-            model = DualLSTM(batch_size=args.batch, hidden_size=args.hidden,
-                             embed_size=args.embed, n_gram=args.ngram,
-                             vocab=vocab, vocab_size=len(vocab), dropout=args.dp,
-                             embedding=None, freeze=False, dataset=args.dataset)
-        elif args.model.lower() == 'fnn':
-            model = FNNLM(n_words=len(vocab), emb_size=args.embed,
-                          hid_size=args.hidden, num_hist=args.ngram, dropout=args.dp)
-        else:
-            raise NotImplemented
+        pretrain = None
+
+    logger.info('Building model...')
+    if args.model.lower() == 'lstm':
+        model = DualLSTM(batch_size=args.batch, hidden_size=args.hidden,
+                         embed_size=args.embed, n_gram=args.ngram,
+                         vocab=vocab, dropout=args.dp, embedding=None,
+                         freeze=False, dataset=args.dataset, pretrain=pretrain)
+    elif args.model.lower() == 'fnn':
+        model = FNNLM(n_words=len(vocab), emb_size=args.embed,
+                      hid_size=args.hidden, num_hist=args.ngram, dropout=args.dp)
+    else:
+        raise NotImplemented
 
     model = model.to(DEVICE)
 

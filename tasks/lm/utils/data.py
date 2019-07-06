@@ -14,13 +14,13 @@ from glob import glob
 
 def preprocess(words):
     # Lemmatize the comments for better match
-    words = words.replace('~', ' ').replace('`', ' ').replace('!', ' ').replace('@', ' ').replace('#', ' '). \
-        replace('$', ' ').replace('%', ' ').replace('^', ' ').replace('&', ' ').replace('*', ' '). \
-        replace('(', ' ').replace(')', ' ').replace('-', ' ').replace('_', ' ').replace('+', ' '). \
-        replace('=', ' ').replace('{', ' ').replace('}', ' ').replace('[', ' ').replace(']', ' '). \
-        replace('|', ' ').replace('\'', ' ').replace(':', ' ').replace(';', ' ').replace('"', ' '). \
-        replace('\"', ' ').replace('<', ' ').replace('>', ' ').replace(',', ' ').replace('.', ' '). \
-        replace('?', ' ').replace('/', ' ')
+    words = words.replace('~', '').replace('`', '').replace('!', '').replace('@', '').replace('#', ''). \
+        replace('$', '').replace('%', '').replace('^', '').replace('&', '').replace('*', ''). \
+        replace('(', '').replace(')', '').replace('-', '').replace('_', '').replace('+', ''). \
+        replace('=', '').replace('{', '').replace('}', '').replace('[', '').replace(']', ''). \
+        replace('|', '').replace('\'', '').replace(':', '').replace(';', '').replace('"', ''). \
+        replace('\"', '').replace('<', '').replace('>', '').replace(',', '').replace('.', ''). \
+        replace('?', '').replace('/', '')
     words = [word.lower() for word in words.split()]
     return words
 
