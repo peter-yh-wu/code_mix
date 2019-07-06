@@ -69,6 +69,18 @@ def make_charmap(charset):
     return {c: i for i, c in enumerate(charset)}
 
 
+def simplify_gens(fid_to_gens, fid_to_orig):
+    new_fid_to_gens = {}
+    for fid in fid_to_gens:
+        gens = fid_to_gens[fid]
+        new_gens = []
+        for g in gens:
+            if g != fid_to_orig[fid]:
+                new_gens.append(g)
+        new_fid_to_gens[fid] = new_gens
+    return new_fid_to_gens
+
+
 def map_characters_orig(fid_to_orig, charmap):
     '''Convert transcripts to ints
     '''
@@ -106,7 +118,10 @@ class SimpleDiscrDataset(Dataset):
 
     def __getitem__(self, index):
         fid = self.fids[index]
-        return self.fid_to_orig[fid], self.fid_to_gens[fid]
+        if fid not in self.fid_to_gens:
+            return self.fid_to_orig[fid], []
+        else:
+            return self.fid_to_orig[fid], self.fid_to_gens[fid]
 
 
 def simple_discr_collate_fn(batch):
