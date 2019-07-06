@@ -116,7 +116,7 @@ def main():
         transcripts = [l.strip() for l in transcripts]
         cer_path = os.path.join(args.save_directory, 'test_cer.npy')
         dist_path = os.path.join(args.save_directory, 'test_dist.npy')
-        norm_dists, dists = cer_from_transcripts(transcripts, test_ys, cer_log_path)
+        norm_dists, dists = cer_from_transcripts(transcripts, test_ys, log_path=cer_log_path)
         np.save(cer_path, norm_dists)
         np.save(dist_path, dists)
         print('avg CER:', np.mean(norm_dists))

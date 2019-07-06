@@ -1,6 +1,8 @@
-import os
+import argparse
 import epitran
+import os
 import pickle
+
 
 epi_en = epitran.Epitran('eng-Latn')
 epi_tl = epitran.Epitran('tgl-Latn')
@@ -34,20 +36,27 @@ def mk_g2p_dict(vocab, word_to_lid):
         g2p_dict[word] = p
     return g2p_dict
 
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--phase', type=str, default='train', help='train, dev, or test')
+    return parser.parse_args()
+
 def main():
-    train_file = 'train.txt'
-    train_lid_file = 'train_lids.txt'
+    args = parse_args()
+    
+    phase_file = '%s.txt' % args.phase
+    lid_file = '%s_lids.txt' % args.phase
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(parent_dir, 'data')
     if not os.path.exists(data_dir):
         os.makedirs(data_dir)
     split_dir = os.path.join(parent_dir, 'split')
-    train_path = os.path.join(split_dir, train_file)
-    train_lid_path = os.path.join(split_dir, train_lid_file)
+    phase_path = os.path.join(split_dir, phase_file)
+    lid_path = os.path.join(split_dir, lid_file)
 
-    train_vocab, word_to_lid = get_vocab(train_path, train_lid_path)
-    g2p_dict = mk_g2p_dict(train_vocab, word_to_lid)
-    g2p_path = os.path.join(data_dir, 'g2p_dict.pkl')
+    vocab, word_to_lid = get_vocab(phase_path, lid_path)
+    g2p_dict = mk_g2p_dict(vocab, word_to_lid)
+    g2p_path = os.path.join(data_dir, 'g2p_dict_%s.pkl' % args.phase)
     save_pkl(g2p_dict, g2p_path)
 
 if __name__ == '__main__':

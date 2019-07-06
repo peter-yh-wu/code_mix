@@ -20,7 +20,7 @@ from torch.nn.utils.rnn import PackedSequence
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
 from model import *
-from model_utils import *
+from lm_utils import *
 
 
 def parse_args():

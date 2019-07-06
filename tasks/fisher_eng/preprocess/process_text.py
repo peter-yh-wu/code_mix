@@ -7,6 +7,7 @@ def process_text(line):
         if w != '((' and w != '))' and w[0] != '[':
             new_l_list.append(w)
     new_l = ' '.join(new_l_list)
+    new_l = new_l.lower()
     return new_l
 
 def process_dir(d, did, out_dir):
