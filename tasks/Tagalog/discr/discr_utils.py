@@ -141,7 +141,7 @@ def simple_discr_collate_fn(batch):
             gens is list of np array of ints
     
     Return:
-        xs: LongTensor with shape (max_len, batch_size)
+        xs: LongTensor with shape (batch_size, max_len)
         ys: LongTensor with shape (batch_size,)
             real (orig) is 1, fake (gen) is 0
     '''
@@ -150,15 +150,15 @@ def simple_discr_collate_fn(batch):
     for (orig, gens) in batch:
         batch_size += len(gens)
         max_len = max([max_len, len(orig)]+[len(g) for g in gens])
-    xs = torch.LongTensor(max_len, batch_size).zero_()
+    xs = torch.LongTensor(batch_size, max_len).zero_()
     ys = torch.LongTensor(batch_size).zero_()
     i = 0
     for (orig, gens) in batch:
-        xs[:len(orig), i] = torch.from_numpy(orig).long()
+        xs[i, :len(orig)] = torch.from_numpy(orig).long()
         ys[i] = 1
         for g in gens:
             i += 1
-            xs[:len(g), i] = torch.from_numpy(g).long()
+            xs[i, :len(g)] = torch.from_numpy(g).long()
             ys[i] = 0
     return xs, ys
 
