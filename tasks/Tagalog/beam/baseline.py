@@ -381,7 +381,7 @@ class DecoderModel(nn.Module):
             for seq in sequences:
                 logit, generated, ctx, attn, input_states = self.forward_pass(
                     input_t=seq['generateds'][-1],
-                    keys=keys
+                    keys=keys,
                     values=values,
                     mask=mask,
                     ctx=seq['ctx'],
