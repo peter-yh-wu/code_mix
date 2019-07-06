@@ -2,7 +2,7 @@
 
 ## Usage
 
-Frist download SEAME datset and put it in tasks/SEAME/data folder. Since SEAME is not a free dataset, you may need to get access to it from [here](https://catalog.ldc.upenn.edu/LDC2015S04).
+First download SEAME datset and put it in tasks/SEAME/data folder. Since SEAME is not a free dataset, you may need to get access to it from [here](https://catalog.ldc.upenn.edu/LDC2015S04).
 
 ### Training Language Model
 
