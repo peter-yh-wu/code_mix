@@ -154,11 +154,11 @@ def simple_discr_collate_fn(batch):
     ys = torch.LongTensor(batch_size).zero_()
     i = 0
     for (orig, gens) in batch:
-        xs[:len(orig), i] = orig
+        xs[:len(orig), i] = torch.from_numpy(orig).long()
         ys[i] = 1
         for g in gens:
             i += 1
-            xs[:len(g), i] = g
+            xs[:len(g), i] = torch.from_numpy(g).long()
             ys[i] = 0
     return xs, ys
 
