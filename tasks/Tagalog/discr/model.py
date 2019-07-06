@@ -13,6 +13,22 @@ from torch.distributions.bernoulli import Bernoulli
 
 from model_utils import *
 
+class SimpleLSTMDiscriminator(nn.Module):
+    def __init__(self, vocab_size, word_dropout=0.2, emb_dim=300, hidden_dim=650):
+        super(SimpleLSTMDiscriminator, self).__init__()
+        self.prob_keep = 1-word_dropout
+        self.emb_mat = nn.Embedding(vocab_size, emb_dim)
+        self.rnn = nn.LSTM(emb_dim, hidden_dim, batch_first=True, dropout=0.35, bidirectional=True)
+        self.fc = nn.Linear(hidden_dim*2, 2)
+
+    def forward(self, x):
+        x_emb = emb_mat(x) # shape: (batch_size, seq_len, emb_dim)
+        rw = Bernoulli(self.prob_keep).sample((x_emb.shape[1], ))
+        x_emb = x_emb[:, rw==1] # (batch_size, new_seq_len, emb_dim)
+        _, (h, ) = self.rnn(x_emb).squeeze() # (batch_size, 2*hidden_dim)
+        out = self.fc(h)
+        return out
+
 class LSTMDiscriminator(nn.Module):
     '''
     As described in: https://arxiv.org/abs/1810.11895
@@ -22,6 +38,7 @@ class LSTMDiscriminator(nn.Module):
         self.prob_keep = 1-word_dropout
         self.emb_mat = nn.Embedding(vocab_size, emb_dim)
         self.rnn = nn.LSTM(emb_dim, hidden_dim, batch_first=True, dropout=0.35, bidirectional=True)
+        self.w = None # TODO
         # w # a learned vector, want w dot h in forward
 
     def forward_repr(self, x):
