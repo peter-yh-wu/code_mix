@@ -104,12 +104,13 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--num-g', type=int, default=5, metavar='N', help='number of new sentences per datapoint')
     parser.add_argument('--start-i', type=int, default=0, metavar='N', help='index to start at')
-    parser.add_argument('--log-path', type=str, default='g2p2g_log', help='log file')
     parser.add_argument('--phase', type=str, default='train', help='train, dev, or test')
     return parser.parse_args()
 
 def main():
     args = parse_args()
+
+    log_path = 'g2p2g_%s_%d' % (args.phase, args.start_i)
 
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(parent_dir, 'data')
@@ -137,7 +138,7 @@ def main():
         l = l.strip()
         l_list = l.split()
         fid = l_list[0]
-        print_log(fid, args.log_path)
+        print_log(fid, log_path)
         words = ' '.join(l_list[1:])
         num_raw_gs = args.num_g*2
         gs = mk_gs(words, g2p_dict, p2g_dict_by_len, distr, num_raw_gs)
@@ -147,7 +148,7 @@ def main():
         best_gs = sorted_gs[:args.num_g]
         best_gs = np.insert(best_gs, 0, fid)
         for g in best_gs:
-            print_log(g, args.log_path)
+            print_log(g, log_path)
         all_gs.append(best_gs)
     all_gs = np.stack(all_gs)
     gs_path = os.path.join(data_dir, 'gs_%s.csv' % args.phase)
