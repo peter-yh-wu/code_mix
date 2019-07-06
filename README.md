@@ -136,5 +136,5 @@ optional arguments:
 Download our trained language model from [here](https://drive.google.com/open?id=1Vk99nraTk9PnDM7FiQQ7vBh8LDgqYEOp) and put it to tasks/lm/models folder. Then modify the beam search results file path (second argument of `rerank()`, sorry for the inconvenience).
 
 ```
-python rerank.py
+python rerank.py [--lm-path LM_PATH] [--submission-csv SUBMISSION_CSV_PATH]
 ```
