@@ -242,33 +242,23 @@ class DecoderModel(nn.Module):
         '''
         # Embed the previous character
         embed = self.embedding(input_t)
-            # shape: (B, decoder_dim)
         # Concatenate embedding and previous context
         ht = torch.cat((embed, ctx), dim=1)
-            # shape: (B, decoder_dim+value_dim)
         # Run first set of RNNs
         new_input_states = []
         for rnn, state in zip(self.input_rnns, input_states):
             ht, newstate = rnn(ht, state)
-                # ht shape: (B, decoder_dim)
             new_input_states.append((ht, newstate))
-
-        # Calculate query
-        query = self.query_projection(ht)
-            # shape: (B, key_dim)
+        new_keys = self.key_projection(keys)
+        queries = self.query_projection(ht)
         # Calculate attention
-        attn = calculate_attention(keys=keys, mask=mask, queries=query)
-            # shape: (B, T)
+        attn = calculate_attention(keys=new_keys, mask=mask, queries=queries)
         # Calculate context
         ctx = calculate_context(attn=attn, values=values)
-            # shape: (B, value_dim)
         # Concatenate hidden state and context
         ht = torch.cat((ht, ctx), dim=1)
-            # shape: (B, decoder_dim+value_dim)
-
         # Run projection
         logit = self.char_projection(ht)
-
         # Sample from logits
         generated = gumbel_argmax(logit, 1)  # (N,)
         return logit, generated, ctx, attn, new_input_states
@@ -283,28 +273,20 @@ class DecoderModel(nn.Module):
             generateds: characters outputed by decoder (ints)
         '''
         mask = Variable(output_mask(values.size(0), utterance_lengths).transpose(0, 1)).float()
-            # shape: (B, T)
-        keys_t = keys.transpose(0, 1)
-            # shape: (B, T, key_dim)
-        values_t = values.transpose(0, 1)
-            # shape: (B, T, value_dim)
+        values = values.transpose(0, 1)
+        keys = keys.transpose(0, 1)
         t = inputs.size(0)
         n = inputs.size(1)
 
-        # Initial state of stacked LSTM
+        # Initial states
         input_states = [rnn.initial_state(n) for rnn in self.input_rnns]
-            # size-3 list of (shape (1, self.hidden_size), shape (1, self.hidden_size)) pairs
 
         # Initial context
         h0 = input_states[-1][0]
-            # shape: (B, decoder_dim)
-        query = self.query_projection(h0)
-            # linear transformation of prev decoder hidden state
-            # shape: (B, key_dim)
-        attn = calculate_attention(keys_t, mask, query)
-            # shape: (B, T)
-        ctx = calculate_context(attn, values_t)
-            # shape: (B, value_dim)
+        new_keys = self.key_projection(keys)
+        queries = self.query_projection(h0)
+        attn = calculate_attention(new_keys, mask, queries)
+        ctx = calculate_context(attn, values)
 
         # Decoder loop
         logits = []
@@ -360,30 +342,24 @@ class DecoderModel(nn.Module):
             values: shape (T, B, value_dim)
         '''
         mask = Variable(output_mask(values.size(0), utterance_lengths).transpose(0, 1)).float()
-        # shape: (B, T)
-        keys_t = keys.transpose(0, 1)
-        # shape: (B, T, key_dim)
-        values_t = values.transpose(0, 1)
-        # shape: (B, T, value_dim)
+        values = values.transpose(0, 1)
+        keys = keys.transpose(0, 1)
         t = inputs.size(0)
         n = inputs.size(1)
 
         # Initialize Decoder
         input_states = [rnn.initial_state(n) for rnn in self.input_rnns]
 
+        # Initial context
         h0 = input_states[-1][0]
-        # shape: (B, decoder_dim)
-        query = self.query_projection(h0)
-        # linear transformation of prev decoder hidden state
-        # shape: (B, key_dim)
-        attn = calculate_attention(keys_t, mask, query)
-        # shape: (B, T)
-        ctx = calculate_context(attn, values_t)
-        # shape: (B, value_dim)
+        new_keys = self.key_projection(keys)
+        queries = self.query_projection(h0)
+        attn = calculate_attention(new_keys, mask, queries)
+        ctx = calculate_context(attn, values)
 
         # First pass
         logit0, generated, ctx, attn, input_states = self.forward_pass(
-            input_t=inputs[0], keys=keys_t, values=values_t, mask=mask, ctx=ctx,
+            input_t=inputs[0], keys=keys, values=values, mask=mask, ctx=ctx,
             input_states=input_states
         )
 
@@ -396,7 +372,7 @@ class DecoderModel(nn.Module):
                           log_prob=lp)
                      for lp, t in zip(top_logprobs, top_index)]
 
-        # Sweep throug the whole length, no end-of-sentence token
+        # Sweep through the whole length, no end-of-sentence token
         for _ in range(1, t):
             if beam_width < 1:
                 break
@@ -405,8 +381,8 @@ class DecoderModel(nn.Module):
             for seq in sequences:
                 logit, generated, ctx, attn, input_states = self.forward_pass(
                     input_t=seq['generateds'][-1],
-                    keys=keys_t,
-                    values=values_t,
+                    keys=keys
+                    values=values,
                     mask=mask,
                     ctx=seq['ctx'],
                     input_states=seq['input_states'])
