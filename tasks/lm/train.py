@@ -136,6 +136,7 @@ if __name__ == '__main__':
     if args.finetune is True:
         logger.info("Loading pre-trained model...")
         model = torch.load(args.model_path)
+        model.vocab.extend(vocab)
     else:
         logger.info('Building model...')
         if args.model.lower() == 'lstm':
@@ -209,7 +210,7 @@ if __name__ == '__main__':
                 try:
                     p.data.add_(-args.lr, p.grad.data)
                 except:
-                    print(p)
+                    continue
             optimizer.step()
             if train_sents % 500 == 0:
                 logger.info("--finished %r sentences (sentence/sec=%.2f)"
