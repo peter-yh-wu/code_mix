@@ -194,29 +194,32 @@ def map_characters(utterances, charmap):
     ints = [np.array([charmap[c] for c in u], np.int32) for u in utterances]
     return ints
 
-def load_paths():
+def load_fid_and_y_data(phase):
+    '''
+    Return:
+        ids: list of file ids
+        ys: 1-dim np array of strings
+    '''
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    SPLIT_DIR = os.path.join(parent_dir, 'split')
-    TRAIN_PATHS_FILE = 'train_paths.txt'
-    DEV_PATHS_FILE = 'dev_paths.txt'
-    TEST_PATHS_FILE = 'test_paths.txt'
-    train_paths_path = os.path.join(SPLIT_DIR, TRAIN_PATHS_FILE)
-    dev_paths_path = os.path.join(SPLIT_DIR, DEV_PATHS_FILE)
-    test_paths_path = os.path.join(SPLIT_DIR, TEST_PATHS_FILE)
-    with open(train_paths_path, 'r') as inf:
-        train_paths = inf.readlines()
-    train_paths = [f.strip() for f in train_paths]
-    with open(dev_paths_path, 'r') as inf:
-        dev_paths = inf.readlines()
-    dev_paths = [f.strip() for f in dev_paths]
-    with open(test_paths_path, 'r') as inf:
-        test_paths = inf.readlines()
-    test_paths = [f.strip() for f in test_paths]
-    return train_paths, dev_paths, test_paths
+    split_dir = os.path.join(parent_dir, 'split')
+    phase_file = '%s.txt' % phase
+    phase_path = os.path.join(split_dir, phase_file)
+    with open(phase_path, 'r', encoding="utf-8") as inf:
+        lines = inf.readlines()
+    ids = []
+    ys = []
+    for l in lines:
+        l = l.strip()
+        l_list = l.split()
+        fid = l_list[0]
+        y = ' '.join(l_list[1:])
+        ids.append(fid)
+        ys.append(y)
+    return ids, np.array(ys)
 
 class ASRDataset(Dataset):
     '''Assumes all characters in transcripts are alphanumeric'''
-    def __init__(self, paths, labels=None):
+    def __init__(self, ids, labels=None):
         '''
         self.labels is only True for test set
 
@@ -225,20 +228,22 @@ class ASRDataset(Dataset):
             labels: list of 1-dim int np arrays
         '''
         parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        self.paths = paths
+        self.mfcc_dir = os.path.join(parent_dir, 'data/mfcc')
+        self.ids = ids
         if labels:
             self.labels = [torch.from_numpy(y + 1).long() for y in labels]  # +1 for start/end token
-            assert len(self.paths) == len(self.labels)
+            assert len(self.ids) == len(self.labels)
         else:
             self.labels = None
 
     def __len__(self):
-        return len(self.paths)
+        return len(self.ids)
 
     def __getitem__(self, index):
-        curr_path = self.paths[index]
+        curr_id = self.ids[index]
+        curr_path = os.path.join(self.mfcc_dir, curr_id+'.mfcc')
         curr_mfcc = torch.from_numpy(np.loadtxt(curr_path)).float()
-        
+
         if self.labels:
             return curr_mfcc, self.labels[index]
         else:
@@ -280,25 +285,6 @@ def speech_collate_fn(batch):
 
     return uarray, ulens, l1array, llens, l2array
 
-def load_y_data(stage):
-    '''
-    Assumes that y-values are aligned with file ids (specified by indices)
-
-    Args:
-        stage: train, dev, or test
-    
-    Return:
-        1-dim np array of strings
-    '''
-    parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    SPLIT_DIR = os.path.join(parent_dir, 'split')
-    FILE = '%s_ys.txt' % stage
-    ys_path = os.path.join(SPLIT_DIR, FILE)
-    with open(ys_path, 'r') as inf:
-        ys = inf.readlines()
-    ys = [y.strip() for y in ys]
-    return np.array(ys)
-
 def make_loader(ids, labels, args, shuffle=True, batch_size=64):
     '''
     Args:
@@ -306,7 +292,7 @@ def make_loader(ids, labels, args, shuffle=True, batch_size=64):
         labels: list of 1-dim int np arrays
     '''
     # Build the DataLoaders
-    kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if args.cuda else {}
+    kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if torch.cuda.is_available() else {}
     dataset = ASRDataset(ids, labels)
     loader = DataLoader(dataset, collate_fn=speech_collate_fn, shuffle=shuffle, batch_size=batch_size, **kwargs)
     return loader
