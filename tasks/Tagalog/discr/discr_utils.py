@@ -80,10 +80,13 @@ def simplify_gens(fid_to_gens, fid_to_orig):
     new_fid_to_gens = {}
     for fid in fid_to_gens:
         gens = fid_to_gens[fid]
-        new_gens = []
-        for g in gens:
-            if g != fid_to_orig[fid]:
-                new_gens.append(g)
+        if fid not in fid_to_orig:
+            new_gens = gens
+        else:
+            new_gens = []
+            for g in gens:
+                if g != fid_to_orig[fid]:
+                    new_gens.append(g)
         new_fid_to_gens[fid] = new_gens
     return new_fid_to_gens
 
