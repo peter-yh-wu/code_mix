@@ -61,7 +61,7 @@ def main():
     train_fid_to_orig = mk_fid_to_orig(train_fids, train_orig)
     dev_fids, dev_orig = load_fid_and_y_data('dev')
     dev_fid_to_orig = mk_fid_to_orig(dev_fids, dev_orig)
-    fid_to_gens = load_gs(gs_path)
+    fid_to_gens = load_gens()
     fid_to_gens = simplify_gens(fid_to_gens, train_fid_to_orig)
     fid_to_gens = simplify_gens(fid_to_gens, dev_fid_to_orig)
     t1 = time.time()
