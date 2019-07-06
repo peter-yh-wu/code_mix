@@ -54,7 +54,7 @@ class DualLSTM(nn.Module):
         if embedding is not None:
             self.embedding = nn.Embedding.from_pretrained(embeddings=embedding, freeze=freeze)
         else:
-            self.embedding = nn.Embedding(vocab_size, embed_size)
+            self.embedding = nn.Embedding(self.vocab_size, embed_size)
 
         self.dummy_tok = torch.zeros((1, embed_size)).to(DEVICE)
 
@@ -65,7 +65,7 @@ class DualLSTM(nn.Module):
             nn.Linear(2*hidden_size, 2*hidden_size),
             nn.ReLU(),
             nn.Dropout(p=dropout),
-            nn.Linear(2*hidden_size, vocab_size)
+            nn.Linear(2*hidden_size, self.vocab_size)
         ).to(DEVICE)
 
         self.lang_classifier = nn.Linear(2*self.hidden_size, 2)
