@@ -37,14 +37,19 @@ class DualLSTM(nn.Module):
     """
     Dual LSTM Language Model
     """
-    def __init__(self, batch_size, hidden_size, embed_size, n_gram, vocab, vocab_size,
-                 dropout=0.5, embedding=None, freeze=False, dataset='seame'):
+    def __init__(self, batch_size, hidden_size, embed_size, n_gram, vocab,
+                 dropout=0.5, embedding=None, freeze=False, dataset='seame', pretrain=None):
         super(DualLSTM, self).__init__()
         self.batch_size = batch_size
         self.hidden_size = hidden_size
-        self.vocab = vocab
-        self.vocab_size = vocab_size
         self.dataset = dataset
+        self.pretrain = True if pretrain is not None else False
+
+        if self.pretrain:
+            self.vocab = pretrain.vocab.extend(vocab)
+        else:
+            self.vocab = vocab
+        self.vocab_size = len(vocab)
 
         if embedding is not None:
             self.embedding = nn.Embedding.from_pretrained(embeddings=embedding, freeze=freeze)
@@ -69,6 +74,11 @@ class DualLSTM(nn.Module):
         self.hidden_en = self.init_hidden()
         self.hidden_cn = self.init_hidden()
         self.cell = self.init_hidden()
+
+        if self.pretrain:
+            self.load_state_dict(pretrain.state_dict())
+        else:
+            self.init_weights()
 
     def init_hidden(self):
         return torch.zeros(1, self.hidden_size).to(DEVICE)
