@@ -116,9 +116,10 @@ def main():
         transcripts = [l.strip() for l in transcripts]
         CER_PATH = os.path.join(args.save_directory, 'test_cer.npy')
         EDIT_PATH = os.path.join(args.save_directory, 'test_edit.npy')
-        norm_dists, dists = cer_from_transcripts(transcripts, test_ys, CER_LOG_PATH)
+        norm_dists, dists = cer_from_transcripts(transcripts[0::args.beam_width], test_ys, CER_LOG_PATH)
         np.save(CER_PATH, norm_dists)
         np.save(EDIT_PATH, dists)
+        print('avg CER:', np.mean(norm_dists))
 
     if 'perp' in args.test_mode:
         print('calculating perp values')
