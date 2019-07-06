@@ -37,7 +37,7 @@ def parse_args():
     parser.add_argument('--weight-decay', type=float, default=1e-5, metavar='N', help='weight decay')
     parser.add_argument('--teacher-force-rate', type=float, default=0.9, metavar='N', help='teacher forcing rate')
 
-    parser.add_argument('--word-dropout', type=float, default=0.2, metavar='N', help='word dropout')
+    parser.add_argument('--word-dropout', type=float, default=0.1, metavar='N', help='word dropout')
     
     parser.add_argument('--emb-dim', type=int, default=300, metavar='N', help='hidden dimension')
     parser.add_argument('--hidden-dim', type=int, default=650, metavar='N', help='hidden dimension')
