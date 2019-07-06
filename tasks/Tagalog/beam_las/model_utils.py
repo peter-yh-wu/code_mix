@@ -292,7 +292,7 @@ def make_loader(ids, labels, args, shuffle=True, batch_size=64):
         labels: list of 1-dim int np arrays
     '''
     # Build the DataLoaders
-    kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if args.cuda else {}
+    kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if torch.cuda.is_available() else {}
     dataset = ASRDataset(ids, labels)
     loader = DataLoader(dataset, collate_fn=speech_collate_fn, shuffle=shuffle, batch_size=batch_size, **kwargs)
     return loader
