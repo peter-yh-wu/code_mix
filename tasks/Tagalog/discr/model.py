@@ -24,7 +24,7 @@ class SimpleLSTMDiscriminator(nn.Module):
         rw = Bernoulli(self.prob_keep).sample((x_emb.shape[1], ))
         x_emb = x_emb[:, rw==1] # (batch_size, new_seq_len, emb_dim)
         _, (h, _) = self.rnn(x_emb)
-        h = torch.cat([h[0], h[1], 1]) # (batch_size, 2*hidden_dim)
+        h = torch.cat([h[0], h[1]], 1) # (batch_size, 2*hidden_dim)
         out = self.fc(h)
         return out
 
