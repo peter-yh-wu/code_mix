@@ -107,7 +107,7 @@ def map_characters_gens(fid_to_gens, charmap):
         new_gens = []
         for g in gens:
             new_g = np.array([charmap[c] for c in g], np.int32)
-            new_gens.append(g)
+            new_gens.append(new_g)
         new_fid_to_gens[fid] = new_gens
     return new_fid_to_gens
 
