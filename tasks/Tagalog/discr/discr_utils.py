@@ -52,7 +52,7 @@ def load_fid_and_y_data(phase):
 def load_gens():
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(parent_dir, 'data')
-    gens_path = os.path.join(data_dir, 'gs.pkl')
+    gens_path = os.path.join(data_dir, 'discr', 'gs.pkl')
     return load_pkl(gens_path)
 
 def mk_fid_to_orig(fids, ys):
