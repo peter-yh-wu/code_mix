@@ -90,7 +90,7 @@ def main():
     print("Building Model")
     model = SimpleLSTMDiscriminator(charcount, word_dropout=args.word_dropout, emb_dim=args.emb_dim, hidden_dim=args.hidden_dim)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
-    criterion = SequenceCrossEntropy()
+    criterion = nn.CrossEntropyLoss()
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
     
