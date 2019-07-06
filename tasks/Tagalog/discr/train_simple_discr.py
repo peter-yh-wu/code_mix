@@ -26,7 +26,7 @@ from discr_utils import *
 def parse_args():
     parser = argparse.ArgumentParser()
     
-    parser.add_argument('--batch-size', type=int, default=32, metavar='N', help='batch size')
+    parser.add_argument('--batch-size', type=int, default=128, metavar='N', help='batch size')
     parser.add_argument('--save-directory', type=str, default='output/v1', help='output directory')
     parser.add_argument('--epochs', type=int, default=50, metavar='N', help='number of epochs')
     parser.add_argument('--patience', type=int, default=10, help='patience for early stopping')
