@@ -17,7 +17,10 @@ class SimpleLSTMDiscriminator(nn.Module):
         self.prob_keep = 1-word_dropout
         self.emb_mat = nn.Embedding(vocab_size, emb_dim)
         self.rnn = nn.LSTM(emb_dim, hidden_dim, batch_first=True, dropout=0.35, bidirectional=True)
-        self.fc = nn.Linear(hidden_dim*2, 2)
+        self.fc = nn.Sequential(
+            nn.ReLU(),
+            nn.Linear(hidden_dim*2, 2)
+        )
 
     def forward(self, x):
         x_emb = self.emb_mat(x) # shape: (batch_size, seq_len, emb_dim)

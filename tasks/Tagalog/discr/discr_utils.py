@@ -112,6 +112,14 @@ def map_characters_gens(fid_to_gens, charmap):
     return new_fid_to_gens
 
 
+def count_data(fid_to_gens, fid_to_orig):
+    fids = list(fid_to_orig.keys())
+    count = len(fids)
+    for fid in fids:
+        if fid in fid_to_gens:
+            count += len(fid_to_gens[fid])
+    return count, len(fids), count-len(fids)
+
 class SimpleDiscrDataset(Dataset):
     def __init__(self, fid_to_orig, fid_to_gens):
         '''

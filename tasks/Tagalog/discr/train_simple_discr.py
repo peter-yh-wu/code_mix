@@ -64,6 +64,10 @@ def main():
     fid_to_gens = load_gens()
     fid_to_gens = simplify_gens(fid_to_gens, train_fid_to_orig)
     fid_to_gens = simplify_gens(fid_to_gens, dev_fid_to_orig)
+    num_train, num_train_orig, num_train_gen = count_data(fid_to_gens, train_fid_to_orig)
+    num_dev, num_dev_orig, num_dev_gen = count_data(fid_to_gens, dev_fid_to_orig)
+    print('train: real - %d,\tfake - %d' % (num_train_orig, num_train_gen))
+    print('dev:   real - %d,\tfake - %d' % (num_dev_orig, num_dev_gen))
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
@@ -124,7 +128,7 @@ def main():
             if (i+1) % 100 == 0:
                 t1 = time.time()
                 print('Processed %d Batches (%.2f Seconds)' % (i+1, t1-t0))
-        print_log('Train Loss: %f' % (l/len(train_loader.dataset)), LOG_PATH)
+        print_log('Train Loss: %f' % (l/num_train), LOG_PATH)
         
         # val
         model.eval()
@@ -140,8 +144,8 @@ def main():
                 _, y_pred = torch.max(logits, 1)
                 l += loss.item()
                 num_correct = num_correct + (ys == y_pred).sum()
-            val_loss = l/len(dev_loader.dataset)
-            val_acc = (num_correct.float()/len(dev_loader)).cpu().item()
+            val_loss = l/num_dev
+            val_acc = (num_correct.float()/num_dev).cpu().item()
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
                 prev_best_epoch = e
