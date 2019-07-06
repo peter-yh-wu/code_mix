@@ -23,7 +23,8 @@ class SimpleLSTMDiscriminator(nn.Module):
         x_emb = self.emb_mat(x) # shape: (batch_size, seq_len, emb_dim)
         rw = Bernoulli(self.prob_keep).sample((x_emb.shape[1], ))
         x_emb = x_emb[:, rw==1] # (batch_size, new_seq_len, emb_dim)
-        _, (h, ) = self.rnn(x_emb).squeeze() # (batch_size, 2*hidden_dim)
+        _, (h, ) = self.rnn(x_emb)
+        h = h.squeeze() # (batch_size, 2*hidden_dim)
         out = self.fc(h)
         return out
 
