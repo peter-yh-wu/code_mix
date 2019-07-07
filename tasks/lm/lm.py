@@ -6,6 +6,7 @@
 
 import torch
 import torch.nn as nn
+import pdb
 
 from configs import DEVICE
 from utils.data import is_english_word
@@ -48,9 +49,12 @@ class DualLSTM(nn.Module):
         if self.pretrain:
             self.vocab = pretrain.vocab
             self.vocab.extend(vocab)
+            print("Extended vocab from pre-trained model!")
         else:
             self.vocab = vocab
         self.vocab_size = len(vocab)
+        print(self.vocab_size)
+        pdb.set_trace()
 
         if embedding is not None:
             self.embedding = nn.Embedding.from_pretrained(embeddings=embedding, freeze=freeze)
@@ -85,7 +89,8 @@ class DualLSTM(nn.Module):
                     param = param.data
                     if name == 'embedding':
                         self.state_dict()[name].copy_(nn.Parameter(
-                            torch.cat((param, sample_gumbel(self.vocab_size - param.shape[0])), dim=0)))
+                            torch.cat((param, sample_gumbel(self.vocab_size - param.shape[0])), dim=0)),
+                            requires_grad=True)
                     else:
                         self.state_dict()[name].copy_(param)
         else:
