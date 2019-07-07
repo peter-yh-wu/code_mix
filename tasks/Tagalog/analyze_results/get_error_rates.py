@@ -397,7 +397,7 @@ def get_wer(transcripts_file, save_dir='output/baseline/v1'):
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    praser.add_argument('--file', type=str, default='submission.csv', help='csv file with transcripts')
+    parser.add_argument('--file', type=str, default='submission.csv', help='csv file with transcripts')
     parser.add_argument('--save-directory', type=str, default='output/baseline/v1', help='output directory')
     parser.add_argument('--mode', type=str, default='wer', help='wer, cer, or topk')
     return parser.parse_args()
