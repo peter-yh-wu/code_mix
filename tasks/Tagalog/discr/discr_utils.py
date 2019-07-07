@@ -122,12 +122,15 @@ def load_preds(path):
         for _, row in enumerate(raw_csv): # row is size-2 list
             curr_i = int(row[0])-1
             y_pred = row[1].strip() # string
-            assert len(y_pred) > 0
             if i == curr_i:
-                curr_preds.append(y_pred)
+                if len(y_pred) > 0:
+                    curr_preds.append(y_pred)
             else:
                 raw_preds.append(curr_preds)
-                curr_preds = [y_pred]
+                if len(y_pred) > 0:
+                    curr_preds = [y_pred]
+                else:
+                    curr_preds = []
                 i += 1
         raw_preds.append(curr_preds)
     return raw_preds

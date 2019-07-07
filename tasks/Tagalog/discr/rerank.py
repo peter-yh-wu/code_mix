@@ -96,8 +96,11 @@ def main():
     model.eval()
     with torch.no_grad():
         for pred_i, preds in enumerate(all_preds):
-            best_pred, best_i = find_best_pred(model, preds)
-            best_pred_str = raw_preds[pred_i][best_i]
+            if len(preds) > 0:
+                best_pred, best_i = find_best_pred(model, preds)
+                best_pred_str = raw_preds[pred_i][best_i]
+            else:
+                best_pred_str = ''
             reranked_preds.append(best_pred_str)
             if (pred_i+1) % 100 == 0:
                 t1 = time.time()
