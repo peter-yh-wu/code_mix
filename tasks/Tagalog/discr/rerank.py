@@ -49,6 +49,7 @@ def find_best_pred(model, preds):
 def main():
     args = parse_args()
 
+    log_path = os.path.join(args.save_directory, 'rerank_log')
     t0 = time.time()
 
     print("Loading File IDs and Y Data")
