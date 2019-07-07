@@ -55,6 +55,7 @@ def main():
     print("Loading File IDs and Y Data")
     train_fids, train_orig = load_fid_and_y_data('train')
     dev_fids, dev_orig = load_fid_and_y_data('dev')
+    _, test_ys = load_fid_and_y_data('test')
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), log_path)
 
@@ -85,6 +86,7 @@ def main():
     print("Mapping Characters")
     preds_path = os.path.join(args.save_directory, args.beam_file)
     raw_preds = load_preds(preds_path) # list of string lists
+    raw_preds = truncate_preds(raw_preds, test_ys)
     print('%d beam groups, each of size %d' % (len(raw_preds), len(raw_preds[0])))
     all_preds = map_characters_rerank(raw_preds, charmap)
         # list of lists, each sublist comprised of 1-dim int np arrays
