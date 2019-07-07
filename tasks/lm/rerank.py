@@ -26,7 +26,10 @@ def rerank(model_path, csv_path):
             print("{},{}".format(id, sents[0]))
             continue
         for sent in sents:
-            _sent = las_to_lm(sent.split())
+            if args.dataset == 'seame' or args.dataset == 'qg':
+                _sent = las_to_lm(sent.split())
+            else:
+                _sent = sent.split()
             targets = torch.LongTensor([lm.vocab[tok] for tok in _sent[1:]]).to(DEVICE)
             logits = lm(_sent)
             loss = F.cross_entropy(logits, targets).item()
@@ -55,7 +58,7 @@ def count_word_num(model_path):
 
 
 if __name__ == '__main__':
-    chn, eng = count_word_num(args.lm_path)
-    print("Chinese word amount: {}".format(chn))
-    print("English word amount: {}".format(eng))
+    # chn, eng = count_word_num(args.lm_path)
+    # print("Chinese word amount: {}".format(chn))
+    # print("English word amount: {}".format(eng))
     reranked = rerank(args.lm_path, args.submission_csv)
