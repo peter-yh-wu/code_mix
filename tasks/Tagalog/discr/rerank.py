@@ -98,7 +98,7 @@ def main():
         reranked_preds.append(best_pred_str)
         if (pred_i+1) % 100 == 0:
             t1 = time.time()
-            print('Processed %d groups (%.2f Seconds)' % (i+1, t1-t0))
+            print('Processed %d groups (%.2f Seconds)' % (pred_i+1, t1-t0))
     reranked_preds_path = os.path.join(args.save_directory, 'reranked.csv')
     with open(reranked_preds_path, 'w+', newline='') as f:
         w = csv.writer(f)
