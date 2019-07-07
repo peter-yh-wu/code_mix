@@ -143,6 +143,9 @@ def map_characters_rerank(preds, charmap):
     new_preds = []
     for p in preds:
         new_p = [np.array([charmap[c] for c in u], np.int32) for u in p]
+        new_p = [torch.LongTensor(arr) for arr in new_p]
+        if torch.cuda.is_available():
+            new_p = [tens.cuda() for tens in new_p]
         new_preds.append(new_p)
     return new_preds
 
