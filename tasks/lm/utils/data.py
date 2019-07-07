@@ -112,7 +112,7 @@ def read_opensub_data(data_path):
     train = eng_data[:30000]
     dev = eng_data[30000:]
     train_ids = [[1 for _ in range(len(sent))] for sent in train[:30000]]
-    dev_ids = [[1 for _ in range(len(sent))] for sent in train[:5000]]
+    dev_ids = [[1 for _ in range(len(sent))] for sent in train[30000:]]
     return train, dev, train_ids, dev_ids
 
 
