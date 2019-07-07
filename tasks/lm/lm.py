@@ -46,7 +46,8 @@ class DualLSTM(nn.Module):
         self.pretrain = True if pretrain is not None else False
 
         if self.pretrain:
-            self.vocab = pretrain.vocab.extend(vocab)
+            self.vocab = pretrain.vocab
+            self.vocab.extend(vocab)
         else:
             self.vocab = vocab
         self.vocab_size = len(vocab)
