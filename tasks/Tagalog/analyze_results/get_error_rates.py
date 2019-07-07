@@ -406,7 +406,7 @@ def main():
     args = parse_args()
     if args.mode == 'wer':
         get_wer(args.file, save_dir=args.save_directory)
-    elif args.mod == 'cer':
+    elif args.mode == 'cer':
         get_cer(args.file, save_dir=args.save_directory)
     else:
         get_topk_cer(args.file, save_dir=args.save_directory)
