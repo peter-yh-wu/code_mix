@@ -97,7 +97,7 @@ def main():
         best_pred_str = raw_preds[pred_i][best_i]
         reranked_preds.append(best_pred_str)
     reranked_preds_path = os.path.join(args.save_directory, 'reranked.csv')
-    with open(reranked_preds_path, 'w', newline='') as f:
+    with open(reranked_preds_path, 'w+', newline='') as f:
         w = csv.writer(f)
         for i, t in enumerate(reranked_preds):
             w.writerow([i+1, t])

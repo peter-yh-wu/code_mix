@@ -5,6 +5,7 @@ Peter Wu
 peterw1@andrew.cmu.edu
 '''
 
+import csv
 import itertools
 import numpy as np
 import os
