@@ -92,13 +92,15 @@ def main():
 
     print("Reranking")
     reranked_preds = []
-    for pred_i, preds in enumerate(all_preds):
-        best_pred, best_i = find_best_pred(model, preds)
-        best_pred_str = raw_preds[pred_i][best_i]
-        reranked_preds.append(best_pred_str)
-        if (pred_i+1) % 100 == 0:
-            t1 = time.time()
-            print('Processed %d groups (%.2f Seconds)' % (pred_i+1, t1-t0))
+    model.eval()
+    with torch.no_grad():
+        for pred_i, preds in enumerate(all_preds):
+            best_pred, best_i = find_best_pred(model, preds)
+            best_pred_str = raw_preds[pred_i][best_i]
+            reranked_preds.append(best_pred_str)
+            if (pred_i+1) % 100 == 0:
+                t1 = time.time()
+                print('Processed %d / %d groups (%.2f Seconds)' % (pred_i+1, len(all_preds), t1-t0))
     reranked_preds_path = os.path.join(args.save_directory, 'reranked.csv')
     with open(reranked_preds_path, 'w+', newline='') as f:
         w = csv.writer(f)
