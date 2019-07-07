@@ -49,6 +49,8 @@ def find_best_pred(model, preds):
 def main():
     args = parse_args()
 
+    t0 = time.time()
+
     print("Loading File IDs and Y Data")
     train_fids, train_orig = load_fid_and_y_data('train')
     dev_fids, dev_orig = load_fid_and_y_data('dev')
