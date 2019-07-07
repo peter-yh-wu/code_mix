@@ -39,7 +39,7 @@ def find_best_pred(model, preds):
     best_i = 0
     for i, p in enumerate(preds):
         logits = model(p.unsqueeze(0))
-        prob_real = logits.cpu()[1].item()
+        prob_real = logits.cpu()[0][1].item()
         if prob_real > best_prob_real:
             best_i = i
             best_prob_real = prob_real
@@ -96,6 +96,9 @@ def main():
         best_pred, best_i = find_best_pred(model, preds)
         best_pred_str = raw_preds[pred_i][best_i]
         reranked_preds.append(best_pred_str)
+        if (pred_i+1) % 100 == 0:
+            t1 = time.time()
+            print('Processed %d groups (%.2f Seconds)' % (i+1, t1-t0))
     reranked_preds_path = os.path.join(args.save_directory, 'reranked.csv')
     with open(reranked_preds_path, 'w+', newline='') as f:
         w = csv.writer(f)
