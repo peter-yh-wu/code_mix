@@ -76,7 +76,17 @@ class DualLSTM(nn.Module):
         self.cell = self.init_hidden()
 
         if self.pretrain:
-            self.load_state_dict(pretrain.state_dict())
+            for name, param in pretrain.state_dict.items():
+                if name not in self.state_dict() or name == 'fc':
+                    continue
+                if isinstance(param, nn.Parameter):
+                    # backwards compatibility for serialized parameters
+                    param = param.data
+                    if name == 'embedding':
+                        self.state_dict()[name].copy_(nn.Parameter(
+                            torch.cat((param, sample_gumbel(self.vocab_size - param.shape[0])), dim=0)))
+                    else:
+                        self.state_dict()[name].copy_(param)
         else:
             self.init_weights()
 
