@@ -85,6 +85,7 @@ def main():
     print("Mapping Characters")
     preds_path = os.path.join(args.save_directory, args.beam_file)
     raw_preds = load_preds(preds_path) # list of string lists
+    print('%d beam groups' % len(raw_preds))
     all_preds = map_characters_rerank(raw_preds, charmap)
         # list of lists, each sublist comprised of 1-dim int np arrays
     t1 = time.time()

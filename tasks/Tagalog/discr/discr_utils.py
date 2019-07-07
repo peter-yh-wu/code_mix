@@ -127,6 +127,7 @@ def load_preds(path):
             else:
                 raw_preds.append(curr_preds)
                 curr_preds = [y_pred.strip()]
+                i += 1
         raw_preds.append(curr_preds)
     return raw_preds
 
@@ -141,8 +142,8 @@ def map_characters_rerank(preds, charmap):
         list of lists, each sublist comprised of 1-dim int np arrays
     '''
     new_preds = []
-    for p in preds:
-        new_p = [np.array([charmap[c] for c in u], np.int32) for u in p]
+    for p_group in preds:
+        new_p = [np.array([charmap[c] for c in u], np.int32) for u in p_group]
         new_p = [torch.LongTensor(arr) for arr in new_p]
         if torch.cuda.is_available():
             new_p = [tens.cuda() for tens in new_p]
