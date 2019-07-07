@@ -86,7 +86,6 @@ def main():
     print("Mapping Characters")
     preds_path = os.path.join(args.save_directory, args.beam_file)
     raw_preds = load_preds(preds_path) # list of string lists
-    raw_preds = truncate_preds(raw_preds, test_ys)
     print('%d beam groups, each of size %d' % (len(raw_preds), len(raw_preds[0])))
     all_preds = map_characters_rerank(raw_preds, charmap)
         # list of lists, each sublist comprised of 1-dim int np arrays

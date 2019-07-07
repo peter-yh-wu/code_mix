@@ -136,18 +136,6 @@ def load_preds(path):
     return raw_preds
 
 
-def truncate_preds(preds, ys):
-    new_preds = []
-    for i, p_group in enumerate(preds):
-        y = ys[i]
-        new_p_group = []
-        for p in p_group:
-            p = p[:len(y)]
-            new_p_group.append(p)
-        new_preds.append(new_p_group)
-    return new_preds
-
-
 def map_characters_rerank(preds, charmap):
     '''
     Args:
