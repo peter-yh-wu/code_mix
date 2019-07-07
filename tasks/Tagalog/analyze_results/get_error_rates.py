@@ -4,10 +4,15 @@ Code to e.g. calculate CER, WER, and top-k CER
 Peter Wu
 peterw1@andrew.cmu.edu
 '''
+import argparse
+import csv
+import numpy as np
+import os
+import time
+
 from autocorrect import spell
 from nltk.metrics import edit_distance
 
-from model_utils import *
 
 def cer_from_transcripts(transcripts, ys, log_path=None, truncate=True, spaces='best'):
     '''
@@ -64,7 +69,7 @@ def get_cer(transcripts_file, save_dir='output/baseline/v1'):
     print('loaded data (%.2f seconds)' % (t1-t0))
 
     cer_log_path = os.path.join(save_dir, 'cer_log.txt')
-    norm_dists, dists = cer_from_transcripts(transcripts, ys, log_path=cer_log_path):
+    norm_dists, dists = cer_from_transcripts(transcripts, test_ys, log_path=cer_log_path)
 
     cers_path = os.path.join(save_dir, 'cers.npy')
     np.save(cers_path, norm_dists)
@@ -79,7 +84,7 @@ def get_topk_cer(beam_file, save_dir='output/baseline/beam'):
             CER results
     '''
     t0 = time.time()
-    test_ys = load_y_data('test') # 1-dim np array of strings
+    _, test_ys = load_fid_and_y_data('test') # 1-dim np array of strings
     CSV_PATH = os.path.join(save_dir, beam_file)
     
     raw_ids = []
@@ -392,16 +397,17 @@ def get_wer(transcripts_file, save_dir='output/baseline/v1'):
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    praser.add_argument('--file', type=str, default='submission.csv', help='csv file with transcripts')
+    parser.add_argument('--file', type=str, default='submission.csv', help='csv file with transcripts')
     parser.add_argument('--save-directory', type=str, default='output/baseline/v1', help='output directory')
     parser.add_argument('--mode', type=str, default='wer', help='wer, cer, or topk')
     return parser.parse_args()
 
 def main():
     args = parse_args()
+
     if args.mode == 'wer':
         get_wer(args.file, save_dir=args.save_directory)
-    elif args.mod == 'cer':
+    elif args.mode == 'cer':
         get_cer(args.file, save_dir=args.save_directory)
     else:
         get_topk_cer(args.file, save_dir=args.save_directory)
