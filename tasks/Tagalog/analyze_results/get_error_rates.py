@@ -49,7 +49,7 @@ def cer_from_transcripts(transcripts, ys, log_path=None, truncate=True, spaces='
         dists.append(best_dist)
     return norm_dists, dists
 
-def get_cer(transcripts_file, ys, save_dir='output/baseline/v1'):
+def get_cer(transcripts_file, save_dir='output/baseline/v1'):
     '''
     Args:
         transcripts_file: .csv file containing transcripts
@@ -69,7 +69,7 @@ def get_cer(transcripts_file, ys, save_dir='output/baseline/v1'):
     print('loaded data (%.2f seconds)' % (t1-t0))
 
     cer_log_path = os.path.join(save_dir, 'cer_log.txt')
-    norm_dists, dists = cer_from_transcripts(transcripts, ys, log_path=cer_log_path)
+    norm_dists, dists = cer_from_transcripts(transcripts, test_ys, log_path=cer_log_path)
 
     cers_path = os.path.join(save_dir, 'cers.npy')
     np.save(cers_path, norm_dists)
@@ -84,7 +84,7 @@ def get_topk_cer(beam_file, save_dir='output/baseline/beam'):
             CER results
     '''
     t0 = time.time()
-    test_ys = load_y_data('test') # 1-dim np array of strings
+    _, test_ys = load_fid_and_y_data('test') # 1-dim np array of strings
     CSV_PATH = os.path.join(save_dir, beam_file)
     
     raw_ids = []
@@ -405,14 +405,12 @@ def parse_args():
 def main():
     args = parse_args()
 
-    test_ids, test_ys = load_fid_and_y_data('test')
-
     if args.mode == 'wer':
-        get_wer(args.file, test_ys, save_dir=args.save_directory)
+        get_wer(args.file, save_dir=args.save_directory)
     elif args.mode == 'cer':
-        get_cer(args.file, test_ys, save_dir=args.save_directory)
+        get_cer(args.file, save_dir=args.save_directory)
     else:
-        get_topk_cer(args.file, test_ys, save_dir=args.save_directory)
+        get_topk_cer(args.file, save_dir=args.save_directory)
 
 if __name__ == '__main__':
     main()
