@@ -64,7 +64,7 @@ def get_cer(transcripts_file, save_dir='output/baseline/v1'):
     print('loaded data (%.2f seconds)' % (t1-t0))
 
     cer_log_path = os.path.join(save_dir, 'cer_log.txt')
-    norm_dists, dists = cer_from_transcripts(transcripts, ys, log_path=cer_log_path):
+    norm_dists, dists = cer_from_transcripts(transcripts, ys, log_path=cer_log_path)
 
     cers_path = os.path.join(save_dir, 'cers.npy')
     np.save(cers_path, norm_dists)
