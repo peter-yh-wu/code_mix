@@ -237,6 +237,7 @@ if __name__ == '__main__':
             for sent in dev:
                 if args.dataset in ['miami', 'tagalog', 'opensub']:
                     if len(sent[0]) == 0 or len(sent[1]) == 0:
+                        print("empty sentence")
                         continue
                     lang_ids = ['<s>'] + sent[1] + ['<s>']
                     sent = ['<s>'] + sent[0] + ['<s>']

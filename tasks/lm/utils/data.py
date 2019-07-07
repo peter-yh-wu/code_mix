@@ -111,8 +111,8 @@ def read_opensub_data(data_path):
     #     spa_data = [line.split()[1:] for line in lines[:35000]]
     train = eng_data[:30000]
     dev = eng_data[30000:]
-    train_ids = [[1 for _ in range(len(sent))] for sent in train[:30000]]
-    dev_ids = [[1 for _ in range(len(sent))] for sent in train[:5000]]
+    train_ids = [[1 for _ in range(len(sent))] for sent in train]
+    dev_ids = [[1 for _ in range(len(sent))] for sent in dev]
     return train, dev, train_ids, dev_ids
 
 
