@@ -75,7 +75,10 @@ def main():
     print("Running")
     ckpt_path = os.path.join(args.save_directory, 'discr.ckpt')
     if os.path.exists(ckpt_path):
-        model.load_state_dict(torch.load(ckpt_path))
+        if torch.cuda.is_available():
+            model.load_state_dict(torch.load(ckpt_path))
+        else:
+            model.load_state_dict(torch.load(ckpt_path, map_location='cpu'))
     if torch.cuda.is_available():
         model = model.cuda(args.cuda)
 
