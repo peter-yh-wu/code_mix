@@ -33,6 +33,8 @@ parser.add_argument('--qg', help='use QG dataset for data augumentation', type=b
 parser.add_argument('--dataset', help='dataset to train LM', type=str, default='seame')
 parser.add_argument('--finetune', help='fine tune on pre-trained model', type=str2bool, default=False)
 parser.add_argument('--model_path', help='pre-trained model path', type=str, default='models/best.pt')
+parser.add_argument('--lm-path', type=str, default='models/best_hd_1024_full.pt', help='Path to language model used for reranking')
+parser.add_argument('--submission-csv', type=str, default=' data/submission.csv', help='Model output csv file')
 args = parser.parse_args()
 
 # running configurations

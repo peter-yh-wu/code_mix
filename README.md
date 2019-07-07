@@ -2,7 +2,7 @@
 
 ## Usage
 
-Frist download SEAME datset and put it in tasks/SEAME/data folder. Since SEAME is not a free dataset, you may need to get access to it from [here](https://catalog.ldc.upenn.edu/LDC2015S04).
+First download SEAME datset and put it in tasks/SEAME/data folder. Since SEAME is not a free dataset, you may need to get access to it from [here](https://catalog.ldc.upenn.edu/LDC2015S04).
 
 ### Training Language Model
 
@@ -136,5 +136,5 @@ optional arguments:
 Download our trained language model from [here](https://drive.google.com/open?id=1Vk99nraTk9PnDM7FiQQ7vBh8LDgqYEOp) and put it to tasks/lm/models folder. Then modify the beam search results file path (second argument of `rerank()`, sorry for the inconvenience).
 
 ```
-python rerank.py
+python rerank.py [--lm-path LM_PATH] [--submission-csv SUBMISSION_CSV_PATH]
 ```
