@@ -39,7 +39,7 @@ def find_best_pred(model, preds):
     best_i = 0
     for i, p in enumerate(preds):
         logits = model(p.unsqueeze(0))
-        prob_real = logits.cpu().item()[1]
+        prob_real = logits.cpu()[1].item()
         if prob_real > best_prob_real:
             best_i = i
             best_prob_real = prob_real
