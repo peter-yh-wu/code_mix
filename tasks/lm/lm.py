@@ -76,7 +76,7 @@ class DualLSTM(nn.Module):
         self.cell = self.init_hidden()
 
         if self.pretrain:
-            for name, param in pretrain.state_dict.items():
+            for name, param in pretrain.state_dict().items():
                 if name not in self.state_dict() or name == 'fc':
                     continue
                 if isinstance(param, nn.Parameter):
