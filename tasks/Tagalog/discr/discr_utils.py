@@ -143,7 +143,7 @@ def map_characters_rerank(preds, charmap):
     new_preds = []
     for p in preds:
         new_p = [np.array([charmap[c] for c in u], np.int32) for u in p]
-        new_preds.append(p)
+        new_preds.append(new_p)
     return new_preds
 
 
