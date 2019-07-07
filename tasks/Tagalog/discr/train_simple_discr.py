@@ -19,8 +19,8 @@ from torch.autograd import Variable
 from torch.nn.utils.rnn import PackedSequence
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
-from model import *
 from discr_utils import *
+from model import *
 
 
 def parse_args():
@@ -43,6 +43,8 @@ def parse_args():
     parser.add_argument('--emb-dim', type=int, default=300, metavar='N', help='hidden dimension')
     parser.add_argument('--hidden-dim', type=int, default=650, metavar='N', help='hidden dimension')
 
+    parser.add_argument('--beam-file', type=str, default='preds.csv', help='beam outputs file')
+
     return parser.parse_args()
 
 
@@ -53,8 +55,8 @@ def main():
 
     if not os.path.exists(args.save_directory):
         os.makedirs(args.save_directory)
-    LOG_PATH = os.path.join(args.save_directory, 'log')
-    with open(LOG_PATH, 'w+') as ouf:
+    log_path = os.path.join(args.save_directory, 'log')
+    with open(log_path, 'w+') as ouf:
         pass
     
     print("Loading File IDs and Y Data")
@@ -70,34 +72,34 @@ def main():
     print('train: real - %d,\tfake - %d' % (num_train_orig, num_train_gen))
     print('dev:   real - %d,\tfake - %d' % (num_dev_orig, num_dev_gen))
     t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    print_log('%.2f Seconds' % (t1-t0), log_path)
 
     print("Building Charset")
     charset = build_charset(np.concatenate((train_orig, dev_orig), axis=0))
     charmap = make_charmap(charset) # {string: int}
     charcount = len(charset)
     t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    print_log('%.2f Seconds' % (t1-t0), log_path)
 
     print("Mapping Characters")
     train_fid_to_orig = map_characters_orig(train_fid_to_orig, charmap)
     dev_fid_to_orig = map_characters_orig(dev_fid_to_orig, charmap)
     fid_to_gens = map_characters_gens(fid_to_gens, charmap)
     t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    print_log('%.2f Seconds' % (t1-t0), log_path)
 
     print("Building Loader")
     train_loader = make_simple_loader(train_fid_to_orig, fid_to_gens, args, shuffle=True, batch_size=args.batch_size)
     dev_loader = make_simple_loader(dev_fid_to_orig, fid_to_gens, args, shuffle=False, batch_size=args.batch_size)
     t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    print_log('%.2f Seconds' % (t1-t0), log_path)
 
     print("Building Model")
     model = SimpleLSTMDiscriminator(charcount, num_layers=args.num_layers, word_dropout=args.word_dropout, emb_dim=args.emb_dim, hidden_dim=args.hidden_dim)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = nn.CrossEntropyLoss()
     t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    print_log('%.2f Seconds' % (t1-t0), log_path)
     
     print("Running")
     ckpt_path = os.path.join(args.save_directory, 'discr.ckpt')
@@ -110,7 +112,7 @@ def main():
     prev_best_epoch = 0
     for e in range(args.epochs):
         t1 = time.time()
-        print_log('Starting Epoch %d (%.2f Seconds)' % (e+1, t1-t0), LOG_PATH)
+        print_log('Starting Epoch %d (%.2f Seconds)' % (e+1, t1-t0), log_path)
 
         # train
         model.train()
@@ -129,7 +131,7 @@ def main():
             if (i+1) % 100 == 0:
                 t1 = time.time()
                 print('Processed %d Batches (%.2f Seconds)' % (i+1, t1-t0))
-        print_log('Train Loss: %f' % (l/num_train), LOG_PATH)
+        print_log('Train Loss: %f' % (l/num_train), log_path)
         
         # val
         model.eval()
@@ -153,8 +155,8 @@ def main():
                 torch.save(model.state_dict(), ckpt_path)
             elif e - prev_best_epoch > args.patience:
                 break
-            print_log('Val Loss: %f' % val_loss, LOG_PATH)
-            print_log('Val Acc: %f' % val_acc, LOG_PATH)
+            print_log('Val Loss: %f' % val_loss, log_path)
+            print_log('Val Acc: %f' % val_acc, log_path)
 
 if __name__ == "__main__":
     main()

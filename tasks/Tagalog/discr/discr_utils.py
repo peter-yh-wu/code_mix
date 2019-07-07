@@ -112,6 +112,40 @@ def map_characters_gens(fid_to_gens, charmap):
     return new_fid_to_gens
 
 
+def load_preds(path):
+    raw_preds = []
+    with open(path, 'r') as csvfile:
+        raw_csv = csv.reader(csvfile)
+        i = 0
+        curr_preds = []
+        for _, row in enumerate(raw_csv): # row is size-2 list
+            curr_i = int(row[0])-1
+            y_pred = row[1] # string
+            if i == curr_i:
+                curr_preds.append(y_pred.strip())
+            else:
+                raw_preds.append(curr_preds)
+                curr_preds = [y_pred.strip()]
+        raw_preds.append(curr_preds)
+    return raw_preds
+
+
+def map_characters_rerank(preds, charmap):
+    '''
+    Args:
+        preds: list of string lists
+        charmap: character to int map
+    
+    Return:
+        list of lists, each sublist comprised of 1-dim int np arrays
+    '''
+    new_preds = []
+    for p in preds:
+        new_p = [np.array([charmap[c] for c in u], np.int32) for u in p]
+        new_preds.append(p)
+    return new_preds
+
+
 def count_data(fid_to_gens, fid_to_orig):
     fids = list(fid_to_orig.keys())
     count = len(fids)
