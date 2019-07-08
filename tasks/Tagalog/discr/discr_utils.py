@@ -13,6 +13,7 @@ import pickle
 import torch
 import torch.nn as nn
 
+from nltk.metrics import edit_distance
 from torch.utils.data import DataLoader, Dataset
 
 
@@ -52,17 +53,48 @@ def load_fid_and_y_data(phase):
 
 
 def load_gens():
+    '''
+    Return:
+        fid_to_gens: {fid: list of generated samples (aka list of strings)}
+    '''
     parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(parent_dir, 'data')
     gens_path = os.path.join(data_dir, 'discr', 'gs.pkl')
     return load_pkl(gens_path)
+    
 
 def mk_fid_to_orig(fids, ys):
+    '''
+    Return:
+        fid_to_orig: {fid: string true y value}
+    '''
     fid_to_orig = {}
     for fid, y in zip(fids, ys):
         fid_to_orig[fid] = y
     return fid_to_orig
 
+
+def mk_fid_to_cers(fid_to_gens, fid_to_orig):
+    '''
+    Args:
+        fid_to_gens: {fid: list of generated samples (aka list of strings)}
+        fid_to_orig: {fid: string true y value}
+    
+    Return:
+        fid_to_cers: {fid: list of CER values (aka list of floats, one float for each generated sample)}
+    '''
+    fid_to_cers = {}
+    for fid in fid_to_orig:
+        y_true = fid_to_orig[fid]
+        gens = []
+        if fid in fid_to_gens:
+            gens = fid_to_gens[fid]
+        cers = []
+        for gen in gens:
+            cer = edit_distance(y_true, gen)
+            cers.append(cer)
+        fid_to_cers[fid] = cers
+    return fid_to_cers
 
 def build_charset(utterances):
     # Create a character set
@@ -163,6 +195,7 @@ def count_data(fid_to_gens, fid_to_orig):
             count += len(fid_to_gens[fid])
     return count, len(fids), count-len(fids)
 
+
 class SimpleDiscrDataset(Dataset):
     def __init__(self, fid_to_orig, fid_to_gens):
         '''
@@ -218,4 +251,66 @@ def make_simple_loader(fid_to_orig, fid_to_gens, args, shuffle=True, batch_size=
     kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if torch.cuda.is_available() else {}
     dataset = SimpleDiscrDataset(fid_to_orig, fid_to_gens)
     loader = DataLoader(dataset, collate_fn=simple_discr_collate_fn, shuffle=shuffle, batch_size=batch_size, **kwargs)
+    return loader
+
+
+class DiscrDataset(Dataset):
+    def __init__(self, fid_to_orig, fid_to_gens, fid_to_cers):
+        '''
+        Args:
+            fid_to_orig: {fid string: orig np array of ints}
+            fid_to_gens: {fid string: [g1 np array of ints, g2 np array of ints, ...]}
+            fid_to_cers: {fid string: [cer1 float, cer2 float, ...]}
+        '''
+        self.fids = list(set(fid_to_orig.keys()).union(set(fid_to_gens.keys())))
+        self.fid_to_orig = fid_to_orig
+        self.fid_to_gens = fid_to_gens
+        self.fid_to_cers = fid_to_cers
+
+    def __len__(self):
+        return len(self.fids)
+
+    def __getitem__(self, index):
+        fid = self.fids[index]
+        return self.fid_to_orig[fid], self.fid_to_gens[fid], self.fid_to_cers[fid]
+
+
+def discr_collate_fn(batch):
+    '''
+    Args:
+        batch: list of (orig, gens, cers) pairs, where orig is np array of ints,
+            gens is list of np array of ints, and cers is list of floats
+    
+    Return:
+        xs_true: LongTensor with shape (batch_size, max_len_true)
+            batch_size equals the total number of generated samples in the batch
+        xs_gens: LongTensor with shape (batch_size, max_len_gens)
+        cers: FloatTensor with shape (batch_size,)
+    '''
+    batch_size = len(batch)
+    for (_, gens, _) in batch:
+        batch_size += len(gens)
+    max_len_true = 0
+    for (orig, _, _) in batch:
+        max_len_true = max(max_len_true, len(orig))
+    max_len_gens = 0
+    for (_, gens, _) in batch:
+        max_len_gens = max([max_len_gens]+[len(g) for g in gens])
+    xs_true = torch.LongTensor(batch_size, max_len_true).zero_()
+    xs_gens = torch.LongTensor(batch_size, max_len_gens).zero_()
+    cers = torch.FloatTensor(batch_size)
+    i = 0
+    for (orig, gens, cers) in batch:
+        for g, cer in zip(gens, cers):
+            xs_true[i, :len(orig)] = torch.from_numpy(orig).long()
+            xs_gens[i, :len(g)] = torch.from_numpy(g).long()
+            cers[i] = cer
+            i += 1
+    return xs_true, xs_gens, cers
+
+
+def make_loader(fid_to_orig, fid_to_gens, fid_to_cers, args, shuffle=True, batch_size=64):
+    kwargs = {'pin_memory': True, 'num_workers': args.num_workers} if torch.cuda.is_available() else {}
+    dataset = DiscrDataset(fid_to_orig, fid_to_gens, fid_to_cers)
+    loader = DataLoader(dataset, collate_fn=discr_collate_fn, shuffle=shuffle, batch_size=batch_size, **kwargs)
     return loader

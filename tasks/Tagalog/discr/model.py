@@ -44,8 +44,7 @@ class LSTMDiscriminator(nn.Module):
         self.prob_keep = 1-word_dropout
         self.emb_mat = nn.Embedding(vocab_size, emb_dim)
         self.rnn = nn.LSTM(emb_dim, hidden_dim, batch_first=True, dropout=0.35, bidirectional=True)
-        self.w = None # TODO
-        # w # a learned vector, want w dot h in forward
+        self.w = nn.Parameter(torch.randn(2*hidden_dim))
 
     def forward_repr(self, x):
         '''
@@ -64,8 +63,8 @@ class LSTMDiscriminator(nn.Module):
             LongTensor with shape (batch_size, seq_len)
         '''
         h = forward_repr(x)
-        return 0
-        # TODO
+        score = self.w[None, :]*h
+        return score
 
     def forward(self, x):
         return forward_score(x)
@@ -74,9 +73,19 @@ class WERDiscriminatorLoss(nn.Module):
     def __init__(self):
         super(WERDiscriminatorLoss, self).__init__()
 
-    def forward(self, x1, x2):
-        return 0
-        # TODO
+    def forward(self, true_scores, gens_scores, cers):
+        '''
+        Args:
+            true_scores: shape (batch_size,)
+            gens_scores: shape (batch_size,)
+            cers:        shape (batch_size,)
+        
+        Return:
+            float tensor
+        '''
+        loss = torch.clamp(cers - (true_scores-gens_scores), min=0)
+        return torch.mean(loss)
+
 
 class LSTMLM(nn.Module):
     def __init__(self, vocab_size, args):
