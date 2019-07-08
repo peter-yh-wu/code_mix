@@ -327,10 +327,10 @@ def get_wer(transcripts_file, save_dir='output/baseline/v1'):
         new_transcripts_autoc_prox = [l.strip() for l in new_transcripts_autoc_prox]    
 
     # ------------------------------------------
-    # mer when vocab is test vocab
+    # wer when vocab is test vocab
     # i.e. for new_transcripts_prox and new_transcripts_autoc_prox
     t1 = time.time()
-    print('calculating mer values (at %.2f seconds)' % (t1-t0))
+    print('calculating wer values (at %.2f seconds)' % (t1-t0))
     
     test_vocab.add(' ')
     test_map = mk_map(test_vocab)
@@ -350,31 +350,31 @@ def get_wer(transcripts_file, save_dir='output/baseline/v1'):
     autoc_prox_map = mk_map(autoc_prox_vocab)
 
     transcripts_prox_uni = map_lines(new_transcripts_prox, prox_map)
-    test_ys_spaced_uni = map_lines(test_ys_spaced, prox_map)
+    test_ys_uni = map_lines(test_ys, prox_map)
     PROX_WER_LOG_PATH = os.path.join(save_dir, 'prox_wer_log.txt')
-    PROX_WER_PATH = os.path.join(save_dir, 'prox_mer.npy')
+    PROX_WER_PATH = os.path.join(save_dir, 'prox_wer.npy')
     PROX_DIST_PATH = os.path.join(save_dir, 'prox_dist.npy')
-    prox_norm_dists, prox_dists = cer_from_transcripts(transcripts_prox_uni, test_ys_spaced_uni, PROX_WER_LOG_PATH)
+    prox_norm_dists, prox_dists = cer_from_transcripts(transcripts_prox_uni, test_ys_uni, PROX_WER_LOG_PATH)
     np.save(PROX_WER_PATH, prox_norm_dists)
     np.save(PROX_DIST_PATH, prox_dists)
-    print('prox avg mer:', np.mean(prox_norm_dists))
+    print('prox avg wer:', np.mean(prox_norm_dists))
     t1 = time.time()
     print('At %.2f seconds' % (t1-t0))
 
     transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, autoc_prox_map)
-    test_ys_spaced_autoc_prox_uni = map_lines(test_ys_spaced, autoc_prox_map)
+    test_ys_autoc_prox_uni = map_lines(test_ys, autoc_prox_map)
     AUTOC_PROX_WER_LOG_PATH = os.path.join(save_dir, 'autoc_prox_wer_log.txt')
-    AUTOC_PROX_WER_PATH = os.path.join(save_dir, 'autoc_prox_mer.npy')
+    AUTOC_PROX_WER_PATH = os.path.join(save_dir, 'autoc_prox_wer.npy')
     AUTOC_PROX_DIST_PATH = os.path.join(save_dir, 'autoc_prox_dist.npy')
-    autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_spaced_autoc_prox_uni, AUTOC_PROX_WER_LOG_PATH)
+    autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_autoc_prox_uni, AUTOC_PROX_WER_LOG_PATH)
     np.save(AUTOC_PROX_WER_PATH, autoc_prox_norm_dists)
     np.save(AUTOC_PROX_DIST_PATH, autoc_prox_dists)
-    print('autoc prox avg mer:', np.mean(autoc_prox_norm_dists))
+    print('autoc prox avg wer:', np.mean(autoc_prox_norm_dists))
     t1 = time.time()
     print('At %.2f seconds' % (t1-t0))
 
     # ------------------------------------------
-    # mer when vocab includes autoc
+    # wer when vocab includes autoc
     # i.e. for new_transcripts_autoc
     autoc_vocab = test_vocab.copy()
     for l in new_transcripts_autoc:
@@ -384,14 +384,14 @@ def get_wer(transcripts_file, save_dir='output/baseline/v1'):
     autoc_map = mk_map(autoc_vocab)
 
     transcripts_autoc_uni = map_lines(new_transcripts_autoc, autoc_map)
-    test_ys_spaced_autoc_uni = map_lines(test_ys_spaced, autoc_map)
+    test_ys_autoc_uni = map_lines(test_ys, autoc_map)
     AUTOC_WER_LOG_PATH = os.path.join(save_dir, 'autoc_wer_log.txt')
-    AUTOC_WER_PATH = os.path.join(save_dir, 'autoc_mer.npy')
+    AUTOC_WER_PATH = os.path.join(save_dir, 'autoc_wer.npy')
     AUTOC_DIST_PATH = os.path.join(save_dir, 'autoc_dist.npy')
-    autoc_norm_dists, autoc_dists = cer_from_transcripts(transcripts_autoc_uni, test_ys_spaced_autoc_uni, AUTOC_WER_LOG_PATH)
+    autoc_norm_dists, autoc_dists = cer_from_transcripts(transcripts_autoc_uni, test_ys_autoc_uni, AUTOC_WER_LOG_PATH)
     np.save(AUTOC_WER_PATH, autoc_norm_dists)
     np.save(AUTOC_DIST_PATH, autoc_dists)
-    print('autoc avg mer:', np.mean(autoc_prox_norm_dists))
+    print('autoc avg wer:', np.mean(autoc_prox_norm_dists))
     t1 = time.time()
     print('At %.2f seconds' % (t1-t0))
 
