@@ -148,13 +148,14 @@ def main():
             if (i+1) % 100 == 0:
                 t1 = time.time()
                 print('Processed %d Batches (%.2f Seconds)' % (i+1, t1-t0))
-        print_log('Train Loss: %f' % (l/num_train_gen), log_path)
+        print_log('Train Loss: %f' % (l/len(train_loader)), log_path)
         
         # val
         model.eval()
         with torch.no_grad():
             l = 0
             num_correct = 0.0
+            tot_dev = 0
             for i, (xs_true, xs_gens, cers) in enumerate(dev_loader):
                 xs_true, xs_gens, cers = Variable(xs_true), Variable(xs_gens), Variable(cers)
                 if torch.cuda.is_available():
@@ -164,8 +165,9 @@ def main():
                 loss = criterion(true_scores, gens_scores, cers)
                 l += loss.item()
                 num_correct = num_correct + (true_scores > gens_scores).sum()
-            val_loss = l/num_dev_gen
-            val_acc = (num_correct.float()/num_dev_gen).cpu().item()
+                tot_dev += xs_true.shape[0]
+            val_loss = l/len(dev_loader)
+            val_acc = (num_correct.float()/tot_dev).cpu().item()
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
                 prev_best_epoch = e
