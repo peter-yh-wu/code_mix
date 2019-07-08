@@ -59,10 +59,11 @@ def main():
 
     print("Mapping Characters")
     testchars = map_characters(test_ys, charmap)
-    print("Building Loader")
-    test_loader = make_loader(test_ids, testchars, args, shuffle=False, batch_size=args.batch_size)
 
     if 'transcript' in args.test_mode or 'perp' in args.test_mode:
+        print("Building Loader")
+        test_loader = make_loader(test_ids, testchars, args, shuffle=False, batch_size=args.batch_size)
+        
         print("Building Model")
         model = Seq2SeqModel(args, vocab_size=charcount)
 
