@@ -27,8 +27,8 @@ def load_beams(path):
 
 
 def get_best(beams, y_true):
+    best_beams = []
     for b_group, y in zip(beams, y_true):
-        best_beams = []
         best_i = 0
         best_cer = sys.maxsize
         for i, curr_beam in enumerate(b_group):
