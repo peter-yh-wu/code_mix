@@ -271,7 +271,7 @@ def get_wer(transcripts_file, save_dir='output/baseline/v1'):
         t1 = time.time()
         print('generating transcripts (at %.2f seconds)' % (t1-t0))
 
-        transcript_lists = [l.split() for l in transcripts_spaced]
+        transcript_lists = [l.split() for l in transcripts]
 
         new_transcripts_autoc = []
         new_transcripts_prox = []
