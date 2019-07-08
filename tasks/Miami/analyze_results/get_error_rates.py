@@ -4,12 +4,17 @@ Code to e.g. calculate CER, WER, and top-k CER
 Peter Wu
 peterw1@andrew.cmu.edu
 '''
+import argparse
+import csv
+import numpy as np
+import os
+import time
+
 from autocorrect import spell
 from nltk.metrics import edit_distance
 
-from model_utils import *
 
-def cer_from_transcripts(transcripts, ys, log_path=None, truncate=True, spaces='best'):
+def cer_from_transcripts(transcripts, ys, log_path=None, truncate=True):
     '''
     Args:
         transcripts: list of strings
@@ -17,7 +22,6 @@ def cer_from_transcripts(transcripts, ys, log_path=None, truncate=True, spaces='
     Return:
         norm_dists: list of CER values
         dist: edit distances
-        spaces: no, yes, best (to account for incongruity in raw data spacing)
     '''
     norm_dists = []
     dists = []
@@ -54,17 +58,18 @@ def get_cer(transcripts_file, save_dir='output/baseline/v1'):
     '''
     t0 = time.time()
     _, test_ys = load_fid_and_y_data('test') # 1-dim np array of strings
-    CSV_PATH = os.path.join(save_dir, transcripts_file)
+    csv_path = os.path.join(save_dir, transcripts_file)
     transcripts = []
-    with open(CSV_PATH, 'r') as csvfile:
+    with open(csv_path, 'r') as csvfile:
         raw_csv = csv.reader(csvfile)
         for row in raw_csv:
             transcripts.append(row[1])
     t1 = time.time()
     print('loaded data (%.2f seconds)' % (t1-t0))
 
+    transcripts = [l.strip() for l in transcripts]
     cer_log_path = os.path.join(save_dir, 'cer_log.txt')
-    norm_dists, dists = cer_from_transcripts(transcripts, ys, log_path=cer_log_path):
+    norm_dists, dists = cer_from_transcripts(transcripts, test_ys, log_path=cer_log_path)
 
     cers_path = os.path.join(save_dir, 'cers.npy')
     np.save(cers_path, norm_dists)
@@ -79,7 +84,7 @@ def get_topk_cer(beam_file, save_dir='output/baseline/beam'):
             CER results
     '''
     t0 = time.time()
-    test_ys = load_y_data('test') # 1-dim np array of strings
+    _, test_ys = load_fid_and_y_data('test') # 1-dim np array of strings
     CSV_PATH = os.path.join(save_dir, beam_file)
     
     raw_ids = []
@@ -346,11 +351,11 @@ def get_wer(transcripts_file, save_dir='output/baseline/v1'):
 
     transcripts_prox_uni = map_lines(new_transcripts_prox, prox_map)
     test_ys_spaced_uni = map_lines(test_ys_spaced, prox_map)
-    PROX_MER_LOG_PATH = os.path.join(save_dir, 'prox_mer_log.txt')
-    PROX_MER_PATH = os.path.join(save_dir, 'prox_mer.npy')
+    PROX_WER_LOG_PATH = os.path.join(save_dir, 'prox_wer_log.txt')
+    PROX_WER_PATH = os.path.join(save_dir, 'prox_mer.npy')
     PROX_DIST_PATH = os.path.join(save_dir, 'prox_dist.npy')
-    prox_norm_dists, prox_dists = cer_from_transcripts(transcripts_prox_uni, test_ys_spaced_uni, PROX_MER_LOG_PATH)
-    np.save(PROX_MER_PATH, prox_norm_dists)
+    prox_norm_dists, prox_dists = cer_from_transcripts(transcripts_prox_uni, test_ys_spaced_uni, PROX_WER_LOG_PATH)
+    np.save(PROX_WER_PATH, prox_norm_dists)
     np.save(PROX_DIST_PATH, prox_dists)
     print('prox avg mer:', np.mean(prox_norm_dists))
     t1 = time.time()
@@ -358,11 +363,11 @@ def get_wer(transcripts_file, save_dir='output/baseline/v1'):
 
     transcripts_autoc_prox_uni = map_lines(new_transcripts_autoc_prox, autoc_prox_map)
     test_ys_spaced_autoc_prox_uni = map_lines(test_ys_spaced, autoc_prox_map)
-    AUTOC_PROX_MER_LOG_PATH = os.path.join(save_dir, 'autoc_prox_mer_log.txt')
-    AUTOC_PROX_MER_PATH = os.path.join(save_dir, 'autoc_prox_mer.npy')
+    AUTOC_PROX_WER_LOG_PATH = os.path.join(save_dir, 'autoc_prox_wer_log.txt')
+    AUTOC_PROX_WER_PATH = os.path.join(save_dir, 'autoc_prox_mer.npy')
     AUTOC_PROX_DIST_PATH = os.path.join(save_dir, 'autoc_prox_dist.npy')
-    autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_spaced_autoc_prox_uni, AUTOC_PROX_MER_LOG_PATH)
-    np.save(AUTOC_PROX_MER_PATH, autoc_prox_norm_dists)
+    autoc_prox_norm_dists, autoc_prox_dists = cer_from_transcripts(transcripts_autoc_prox_uni, test_ys_spaced_autoc_prox_uni, AUTOC_PROX_WER_LOG_PATH)
+    np.save(AUTOC_PROX_WER_PATH, autoc_prox_norm_dists)
     np.save(AUTOC_PROX_DIST_PATH, autoc_prox_dists)
     print('autoc prox avg mer:', np.mean(autoc_prox_norm_dists))
     t1 = time.time()
@@ -380,11 +385,11 @@ def get_wer(transcripts_file, save_dir='output/baseline/v1'):
 
     transcripts_autoc_uni = map_lines(new_transcripts_autoc, autoc_map)
     test_ys_spaced_autoc_uni = map_lines(test_ys_spaced, autoc_map)
-    AUTOC_MER_LOG_PATH = os.path.join(save_dir, 'autoc_mer_log.txt')
-    AUTOC_MER_PATH = os.path.join(save_dir, 'autoc_mer.npy')
+    AUTOC_WER_LOG_PATH = os.path.join(save_dir, 'autoc_wer_log.txt')
+    AUTOC_WER_PATH = os.path.join(save_dir, 'autoc_mer.npy')
     AUTOC_DIST_PATH = os.path.join(save_dir, 'autoc_dist.npy')
-    autoc_norm_dists, autoc_dists = cer_from_transcripts(transcripts_autoc_uni, test_ys_spaced_autoc_uni, AUTOC_MER_LOG_PATH)
-    np.save(AUTOC_MER_PATH, autoc_norm_dists)
+    autoc_norm_dists, autoc_dists = cer_from_transcripts(transcripts_autoc_uni, test_ys_spaced_autoc_uni, AUTOC_WER_LOG_PATH)
+    np.save(AUTOC_WER_PATH, autoc_norm_dists)
     np.save(AUTOC_DIST_PATH, autoc_dists)
     print('autoc avg mer:', np.mean(autoc_prox_norm_dists))
     t1 = time.time()
@@ -392,16 +397,17 @@ def get_wer(transcripts_file, save_dir='output/baseline/v1'):
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    praser.add_argument('--file', type=str, default='submission.csv', help='csv file with transcripts')
+    parser.add_argument('--file', type=str, default='submission.csv', help='csv file with transcripts')
     parser.add_argument('--save-directory', type=str, default='output/baseline/v1', help='output directory')
     parser.add_argument('--mode', type=str, default='wer', help='wer, cer, or topk')
     return parser.parse_args()
 
 def main():
     args = parse_args()
+
     if args.mode == 'wer':
         get_wer(args.file, save_dir=args.save_directory)
-    elif args.mod == 'cer':
+    elif args.mode == 'cer':
         get_cer(args.file, save_dir=args.save_directory)
     else:
         get_topk_cer(args.file, save_dir=args.save_directory)
