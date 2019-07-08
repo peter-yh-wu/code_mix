@@ -84,7 +84,7 @@ def main():
         model.eval()
 
     transcript_log_path = os.path.join(args.save_directory, 'transcript_log.txt')
-    csv_path = os.path.join(args.save_directory, 'submission.csv')
+    csv_path = os.path.join(args.save_directory, args.transcripts)
     
     if 'transcript' in args.test_mode:
         print('generating transcripts')
