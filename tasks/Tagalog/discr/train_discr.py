@@ -26,21 +26,24 @@ from model import *
 def parse_args():
     parser = argparse.ArgumentParser()
     
-    parser.add_argument('--batch-size', type=int, default=32, metavar='N', help='batch size')
-    parser.add_argument('--save-directory', type=str, default='output/baseline/v1', help='output directory')
-    parser.add_argument('--epochs', type=int, default=40, metavar='N', help='number of epochs')
+    parser.add_argument('--batch-size', type=int, default=64, metavar='N', help='batch size')
+    parser.add_argument('--save-directory', type=str, default='output/v1', help='output directory')
+    parser.add_argument('--epochs', type=int, default=50, metavar='N', help='number of epochs')
     parser.add_argument('--patience', type=int, default=10, help='patience for early stopping')
     parser.add_argument('--num-workers', type=int, default=2, metavar='N', help='number of workers')
     parser.add_argument('--cuda', type=int, default=0, help='CUDA device')
 
-    parser.add_argument('--lr', type=float, default=1e-3, metavar='N', help='lr')
+    parser.add_argument('--lr', type=float, default=1e-3, metavar='N', help='learning rate')
     parser.add_argument('--weight-decay', type=float, default=1e-5, metavar='N', help='weight decay')
     parser.add_argument('--teacher-force-rate', type=float, default=0.9, metavar='N', help='teacher forcing rate')
 
-    parser.add_argument('--word-dropout', type=float, default=0.2, metavar='N', help='word dropout')
+    parser.add_argument('--word-dropout', type=float, default=0.1, metavar='N', help='word dropout')
     
+    parser.add_argument('--num-layers', type=int, default=2, metavar='N', help='number of LSTM layers')
     parser.add_argument('--emb-dim', type=int, default=300, metavar='N', help='hidden dimension')
     parser.add_argument('--hidden-dim', type=int, default=650, metavar='N', help='hidden dimension')
+
+    parser.add_argument('--beam-file', type=str, default='preds.csv', help='beam outputs file')
 
     return parser.parse_args()
 
@@ -71,11 +74,19 @@ def main():
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
-    print("Building WER Dictionary")
-    train_fid_to_cers = mk_fid_to_cers(fid_to_gens, train_fid_to_orig)
-    dev_fid_to_cers = mk_fid_to_cers(fid_to_gens, dev_fid_to_orig)
-    t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    train_fid_to_cers = load_fid_to_cers('train')
+    if train_fid_to_cers is None:
+        print("Building Train CER Dictionary")
+        train_fid_to_cers = mk_fid_to_cers(fid_to_gens, train_fid_to_orig, 'train')
+        t1 = time.time()
+        print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+
+    dev_fid_to_cers = load_fid_to_cers('dev')
+    if dev_fid_to_cers is None:
+        print("Building Dev CER Dictionary")
+        dev_fid_to_cers = mk_fid_to_cers(fid_to_gens, dev_fid_to_orig, 'dev')
+        t1 = time.time()
+        print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
 
     print("Building Charset")
     charset = build_charset(np.concatenate((train_orig, dev_orig), axis=0))

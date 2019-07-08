@@ -28,6 +28,11 @@ def load_pkl(path):
         return pickle.load(f)
 
 
+def save_pkl(obj, path):
+    with open(path, 'wb+') as f:
+        pickle.dump(obj, f, pickle.HIGHEST_PROTOCOL)
+
+
 def load_fid_and_y_data(phase):
     '''
     Return:
@@ -61,7 +66,17 @@ def load_gens():
     data_dir = os.path.join(parent_dir, 'data')
     gens_path = os.path.join(data_dir, 'discr', 'gs.pkl')
     return load_pkl(gens_path)
-    
+
+
+def load_fid_to_cers(phase):
+    parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    data_dir = os.path.join(parent_dir, 'data')
+    fid_to_cers_path = os.path.join(data_dir, 'discr', '%s_fid_to_cers.pkl' % phase)
+    if os.path.exists(fid_to_cers_path):
+        return load_pkl(fid_to_cers_path)
+    else:
+        return None
+
 
 def mk_fid_to_orig(fids, ys):
     '''
@@ -74,7 +89,7 @@ def mk_fid_to_orig(fids, ys):
     return fid_to_orig
 
 
-def mk_fid_to_cers(fid_to_gens, fid_to_orig):
+def mk_fid_to_cers(fid_to_gens, fid_to_orig, phase):
     '''
     Args:
         fid_to_gens: {fid: list of generated samples (aka list of strings)}
@@ -94,7 +109,12 @@ def mk_fid_to_cers(fid_to_gens, fid_to_orig):
             cer = edit_distance(y_true, gen)
             cers.append(cer)
         fid_to_cers[fid] = cers
+    parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    data_dir = os.path.join(parent_dir, 'data')
+    fid_to_cers_path = os.path.join(data_dir, 'discr', '%s_fid_to_cers.pkl' % phase)
+    save_pkl(fid_to_cers, fid_to_cers_path)
     return fid_to_cers
+
 
 def build_charset(utterances):
     # Create a character set
