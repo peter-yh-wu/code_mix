@@ -29,7 +29,7 @@ def rerank(model_path, csv_path):
             if args.dataset == 'seame' or args.dataset == 'qg':
                 _sent = las_to_lm(sent.split())
             else:
-                _sent = sent.split()
+                _sent = ['<s>'] + sent.split() + ['<s>']
             targets = torch.LongTensor([lm.vocab[tok] for tok in _sent[1:]]).to(DEVICE)
             logits = lm(_sent)[0]
             loss = F.cross_entropy(logits, targets).item()

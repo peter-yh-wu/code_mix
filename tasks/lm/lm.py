@@ -150,7 +150,5 @@ class DualLSTM(nn.Module):
                 embed_mask = lang_ids
             else:
                 embed_mask = None
-        try:
-            return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE) if embed_mask is not None else embed_mask
-        except:
-            pdb.set_trace()
+        return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE) if embed_mask is not None else embed_mask
+
