@@ -55,8 +55,8 @@ def main():
 
     if not os.path.exists(args.save_directory):
         os.makedirs(args.save_directory)
-    LOG_PATH = os.path.join(args.save_directory, 'log')
-    with open(LOG_PATH, 'w+') as ouf:
+    log_path = os.path.join(args.save_directory, 'log')
+    with open(log_path, 'w+') as ouf:
         pass
     
     print("Loading File IDs and Y Data")
@@ -72,41 +72,41 @@ def main():
     print('train: real - %d,\tfake - %d' % (num_train_orig, num_train_gen))
     print('dev:   real - %d,\tfake - %d' % (num_dev_orig, num_dev_gen))
     t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    print_log('%.2f Seconds' % (t1-t0), log_path)
 
     train_fid_to_cers = load_fid_to_cers('train')
     if train_fid_to_cers is None:
         print("Building Train CER Dictionary")
         train_fid_to_cers = mk_fid_to_cers(fid_to_gens, train_fid_to_orig, 'train')
         t1 = time.time()
-        print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+        print_log('%.2f Seconds' % (t1-t0), log_path)
 
     dev_fid_to_cers = load_fid_to_cers('dev')
     if dev_fid_to_cers is None:
         print("Building Dev CER Dictionary")
         dev_fid_to_cers = mk_fid_to_cers(fid_to_gens, dev_fid_to_orig, 'dev')
         t1 = time.time()
-        print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+        print_log('%.2f Seconds' % (t1-t0), log_path)
 
     print("Building Charset")
     charset = build_charset(np.concatenate((train_orig, dev_orig), axis=0))
     charmap = make_charmap(charset) # {string: int}
     charcount = len(charset)
     t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    print_log('%.2f Seconds' % (t1-t0), log_path)
 
     print("Mapping Characters")
     train_fid_to_orig = map_characters_orig(train_fid_to_orig, charmap)
     dev_fid_to_orig = map_characters_orig(dev_fid_to_orig, charmap)
     fid_to_gens = map_characters_gens(fid_to_gens, charmap)
     t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    print_log('%.2f Seconds' % (t1-t0), log_path)
 
     print("Building Loader") # TODO add wer to loader
     train_loader = make_loader(train_fid_to_orig, fid_to_gens, train_fid_to_cers, args, shuffle=True, batch_size=args.batch_size)
     dev_loader = make_loader(dev_fid_to_orig, fid_to_gens, dev_fid_to_cers, args, shuffle=False, batch_size=args.batch_size)
     t1 = time.time()
-    print_log('%.2f Seconds' % (t1-t0), LOG_PATH)
+    print_log('%.2f Seconds' % (t1-t0), log_path)
 
 
     print("Building Model")
