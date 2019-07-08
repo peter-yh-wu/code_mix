@@ -366,6 +366,7 @@ def parse_args():
     parser.add_argument('--generator-length', type=int, default=250, metavar='N', help='maximum length to generate')
 
     parser.add_argument('--test-mode', type=str, default='transcript', help='Test mode: transcript, cer, perp')
+    parser.add_argument('--transcripts', type=str, default='submission.csv', help='file in save directory containing transcripts')
 
     return parser.parse_args()
 
