@@ -196,6 +196,8 @@ if __name__ == '__main__':
                     print(sent)
                     continue
             else:
+                if len(sent) <= 2:
+                    continue
                 lang_ids = None
             # TODO: mean or sum loss?
             loss = calc_sent_loss(sent, model, criterion, lang_ids)
