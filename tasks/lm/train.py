@@ -84,7 +84,7 @@ if __name__ == '__main__':
     # Load data
     logger.info('Loading {} dataset...'.format(args.dataset))
     if args.dataset.lower() == 'seame' or args.dataset.lower() == 'qg':
-        dataset = read_dataset(args.data)
+        dataset = read_dataset(args.data, dataset=args.dataset)
         dataset = dataset[: int(len(dataset) * args.subset)]
         train = dataset[: int(len(dataset)*0.8)]
         dev = dataset[int(len(dataset)*0.8) + 1: -1]
@@ -196,6 +196,8 @@ if __name__ == '__main__':
                     print(sent)
                     continue
             else:
+                if len(sent) <= 2:
+                    continue
                 lang_ids = None
             # TODO: mean or sum loss?
             loss = calc_sent_loss(sent, model, criterion, lang_ids)

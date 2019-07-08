@@ -79,7 +79,7 @@ def read_qg_data(files):
             lines = f.readlines()
             for line in lines:
                 text = []
-                for token in line.split()[3:]:
+                for token in preprocess(line):
                     if token in ['，', '。', '！', '？', '…', '~', '=']:
                         continue
                     if not is_chinese_word(token) \
@@ -158,7 +158,7 @@ def read_miami_data(data_path):
     return train, dev, test, train_ids, dev_ids, test_ids, miami_dict
 
 
-def read_dataset(data_path, num_workers=1):
+def read_dataset(data_path, num_workers=1, dataset='seame'):
     data = []
     all_file_paths = glob(os.path.join(data_path, '**/*.txt'), recursive=True)
     num_files = len(all_file_paths)
@@ -166,9 +166,16 @@ def read_dataset(data_path, num_workers=1):
 
     pool = mp.Pool(processes=num_workers)
 
-    extraction_result = pool.map(read_seame_data,
-                                 (all_file_paths[start_idx:start_idx+files_per_worker]
-                                  for start_idx in range(0, num_files, files_per_worker)))
+    if dataset == 'seame':
+        extraction_result = pool.map(read_seame_data,
+                                     (all_file_paths[start_idx:start_idx+files_per_worker]
+                                      for start_idx in range(0, num_files, files_per_worker)))
+    elif dataset == 'qg':
+        extraction_result = pool.map(read_qg_data,
+                                     (all_file_paths[start_idx:start_idx + files_per_worker]
+                                      for start_idx in range(0, num_files, files_per_worker)))
+    else:
+        raise NotImplemented
 
     for result in extraction_result:
         data.extend(result)

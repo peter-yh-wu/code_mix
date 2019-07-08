@@ -6,6 +6,7 @@
 
 import torch
 import torch.nn as nn
+import pdb
 
 from configs import DEVICE
 from utils.data import is_english_word
@@ -46,10 +47,13 @@ class DualLSTM(nn.Module):
         self.pretrain = True if pretrain is not None else False
 
         if self.pretrain:
-            self.vocab = pretrain.vocab.extend(vocab)
+            self.vocab = pretrain.vocab
+            self.vocab.extend(vocab)
+            print("Extended vocab from pre-trained model!")
         else:
             self.vocab = vocab
-        self.vocab_size = len(vocab)
+        self.vocab_size = len(self.vocab)
+        print(self.vocab_size)
 
         if embedding is not None:
             self.embedding = nn.Embedding.from_pretrained(embeddings=embedding, freeze=freeze)
@@ -84,7 +88,8 @@ class DualLSTM(nn.Module):
                     param = param.data
                     if name == 'embedding':
                         self.state_dict()[name].copy_(nn.Parameter(
-                            torch.cat((param, sample_gumbel(self.vocab_size - param.shape[0])), dim=0)))
+                            torch.cat((param, sample_gumbel(self.vocab_size - param.shape[0])), dim=0)),
+                            requires_grad=True)
                     else:
                         self.state_dict()[name].copy_(param)
         else:
@@ -136,10 +141,14 @@ class DualLSTM(nn.Module):
                 except Exception as e:
                     print(e, sentence, self.vocab_size, token, self.vocab[token])
         else:
-            embed_mask = lang_ids
             for idx, token in enumerate(sentence[:-1]):
                 try:
                     embedding.append(self.embedding(torch.LongTensor([self.vocab[token]]).to(DEVICE)))
                 except Exception as e:
                     print(e, sentence, self.vocab_size, token, self.vocab[token])
+            if lang_ids is not None:
+                embed_mask = lang_ids
+            else:
+                embed_mask = None
         return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE) if embed_mask is not None else embed_mask
+
