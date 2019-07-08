@@ -124,7 +124,7 @@ def main():
     if torch.cuda.is_available():
         model = model.cuda(args.cuda)
 
-    best_val_loss = sys.maxsize
+    best_val_acc = sys.maxsize
     prev_best_epoch = 0
     for e in range(args.epochs):
         t1 = time.time()
@@ -168,8 +168,8 @@ def main():
                 tot_dev += xs_true.shape[0]
             val_loss = l/len(dev_loader)
             val_acc = (num_correct.float()/tot_dev).cpu().item()
-            if val_loss < best_val_loss:
-                best_val_loss = val_loss
+            if val_acc < best_val_acc:
+                best_val_acc = val_acc
                 prev_best_epoch = e
                 torch.save(model.state_dict(), ckpt_path)
             elif e - prev_best_epoch > args.patience:
