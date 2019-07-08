@@ -282,7 +282,7 @@ class DiscrDataset(Dataset):
             fid_to_gens: {fid string: [g1 np array of ints, g2 np array of ints, ...]}
             fid_to_cers: {fid string: [cer1 float, cer2 float, ...]}
         '''
-        self.fids = list(set(fid_to_orig.keys()).union(set(fid_to_gens.keys())))
+        self.fids = list(set(fid_to_orig.keys()).intersection(set(fid_to_gens.keys())))
         self.fid_to_orig = fid_to_orig
         self.fid_to_gens = fid_to_gens
         self.fid_to_cers = fid_to_cers

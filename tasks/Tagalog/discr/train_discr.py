@@ -130,8 +130,6 @@ def main():
         t1 = time.time()
         print_log('Starting Epoch %d (%.2f Seconds)' % (e+1, t1-t0), log_path)
 
-    # TODO change below
-
         # train
         model.train()
         optimizer.zero_grad()

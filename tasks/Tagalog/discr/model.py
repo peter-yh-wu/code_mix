@@ -86,7 +86,7 @@ class WERDiscriminatorLoss(nn.Module):
         Return:
             float tensor
         '''
-        loss = torch.clamp(cers - (true_scores-gens_scores), min=0)
+        loss = torch.clamp(cers/100 - (true_scores-gens_scores), min=0)
         return torch.mean(loss)
 
 
