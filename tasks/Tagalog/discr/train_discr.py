@@ -39,7 +39,7 @@ def parse_args():
 
     parser.add_argument('--word-dropout', type=float, default=0.1, metavar='N', help='word dropout')
     
-    parser.add_argument('--num-layers', type=int, default=2, metavar='N', help='number of LSTM layers')
+    parser.add_argument('--num-layers', type=int, default=1, metavar='N', help='number of LSTM layers')
     parser.add_argument('--emb-dim', type=int, default=300, metavar='N', help='hidden dimension')
     parser.add_argument('--hidden-dim', type=int, default=650, metavar='N', help='hidden dimension')
 

@@ -39,11 +39,12 @@ class LSTMDiscriminator(nn.Module):
     '''
     As described in: https://arxiv.org/abs/1810.11895
     '''
-    def __init__(self, vocab_size, word_dropout=0.2, emb_dim=300, hidden_dim=650):
+    def __init__(self, vocab_size,  num_layers=1, word_dropout=0.2, emb_dim=300, hidden_dim=650):
         super(LSTMDiscriminator, self).__init__()
+        self.num_layers = num_layers
         self.prob_keep = 1-word_dropout
         self.emb_mat = nn.Embedding(vocab_size, emb_dim)
-        self.rnn = nn.LSTM(emb_dim, hidden_dim, batch_first=True, dropout=0.35, bidirectional=True)
+        self.rnn = nn.LSTM(emb_dim, hidden_dim, batch_first=True, num_layers=num_layers, dropout=0.35, bidirectional=True)
         self.w = nn.Parameter(torch.randn(2*hidden_dim))
 
     def forward_repr(self, x):
@@ -54,7 +55,9 @@ class LSTMDiscriminator(nn.Module):
         x_emb = emb_mat(x) # shape: (batch_size, seq_len, emb_dim)
         rw = Bernoulli(self.prob_keep).sample((x_emb.shape[1], ))
         x_emb = x_emb[:, rw==1] # (batch_size, new_seq_len, emb_dim)
-        _, (h, ) = self.rnn(x_emb).squeeze() # (batch_size, 2*hidden_dim)
+        _, (h, ) = self.rnn(x_emb).squeeze()
+        h = h.view(self.num_layers, 2, -1, self.hidden_dim) # num_layers, 2, batch_size, hidden_dim)
+        h = torch.cat([h[-1][0], h[-1][1]], 1) # (batch_size, 2*hidden_dim)
         return h
 
     def forward_score(self, x):
