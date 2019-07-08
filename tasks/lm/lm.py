@@ -52,9 +52,8 @@ class DualLSTM(nn.Module):
             print("Extended vocab from pre-trained model!")
         else:
             self.vocab = vocab
-        self.vocab_size = len(vocab)
+        self.vocab_size = len(self.vocab)
         print(self.vocab_size)
-        pdb.set_trace()
 
         if embedding is not None:
             self.embedding = nn.Embedding.from_pretrained(embeddings=embedding, freeze=freeze)
