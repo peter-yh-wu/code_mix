@@ -305,7 +305,7 @@ def discr_collate_fn(batch):
         xs_true: LongTensor with shape (batch_size, max_len_true)
             batch_size equals the total number of generated samples in the batch
         xs_gens: LongTensor with shape (batch_size, max_len_gens)
-        cers: FloatTensor with shape (batch_size,)
+        cers_tens: FloatTensor with shape (batch_size,)
     '''
     batch_size = len(batch)
     for (_, gens, _) in batch:
@@ -318,15 +318,15 @@ def discr_collate_fn(batch):
         max_len_gens = max([max_len_gens]+[len(g) for g in gens])
     xs_true = torch.LongTensor(batch_size, max_len_true).zero_()
     xs_gens = torch.LongTensor(batch_size, max_len_gens).zero_()
-    cers = torch.FloatTensor(batch_size)
+    cers_tens = torch.FloatTensor(batch_size)
     i = 0
     for (orig, gens, cers) in batch:
         for g, cer in zip(gens, cers):
             xs_true[i, :len(orig)] = torch.from_numpy(orig).long()
             xs_gens[i, :len(g)] = torch.from_numpy(g).long()
-            cers[i] = cer
+            cers_tens[i] = cer
             i += 1
-    return xs_true, xs_gens, cers
+    return xs_true, xs_gens, cers_tens
 
 
 def make_loader(fid_to_orig, fid_to_gens, fid_to_cers, args, shuffle=True, batch_size=64):
