@@ -50,13 +50,13 @@ class LSTMDiscriminator(nn.Module):
     def forward_repr(self, x):
         '''
         Args:
-            LongTensor with shape (batch_size, seq_len)
+            x: LongTensor with shape (batch_size, seq_len)
         '''
         x_emb = self.emb_mat(x) # shape: (batch_size, seq_len, emb_dim)
         if self.training:
             rw = Bernoulli(self.prob_keep).sample((x_emb.shape[1], ))
             x_emb = x_emb[:, rw==1] # (batch_size, new_seq_len, emb_dim)
-        _, (h, ) = self.rnn(x_emb)
+        _, (h, _) = self.rnn(x_emb)
         h = h.view(self.num_layers, 2, -1, self.hidden_dim) # num_layers, 2, batch_size, hidden_dim)
         h = torch.cat([h[-1][0], h[-1][1]], 1) # (batch_size, 2*hidden_dim)
         return h
@@ -64,7 +64,7 @@ class LSTMDiscriminator(nn.Module):
     def forward_score(self, x):
         '''
         Args:
-            LongTensor with shape (batch_size, seq_len)
+            x: LongTensor with shape (batch_size, seq_len)
         '''
         h = self.forward_repr(x)
         score = self.w[None, :]*h
