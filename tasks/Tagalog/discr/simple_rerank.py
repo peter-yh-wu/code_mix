@@ -35,13 +35,14 @@ def find_best_pred(model, preds):
         model: nn.Module, discriminator
         preds: list of 1-dim np int arrays
     '''
-    best_score = -sys.maxsize-1
+    best_prob_real = -sys.maxsize-1
     best_i = 0
     for i, p in enumerate(preds):
-        score = model(p.unsqueeze(0))[0].item()
-        if score > best_score:
+        logits = model(p.unsqueeze(0))
+        prob_real = logits.cpu()[0][1].item()
+        if prob_real > best_prob_real:
             best_i = i
-            best_score = score
+            best_prob_real = prob_real
     return preds[best_i], best_i
 
 
@@ -66,7 +67,9 @@ def main():
     print_log('%.2f Seconds' % (t1-t0), log_path)
 
     print("Building Model")
-    model = LSTMDiscriminator(charcount, num_layers=args.num_layers, word_dropout=args.word_dropout, emb_dim=args.emb_dim, hidden_dim=args.hidden_dim)
+    model = SimpleLSTMDiscriminator(charcount, num_layers=args.num_layers, word_dropout=args.word_dropout, emb_dim=args.emb_dim, hidden_dim=args.hidden_dim)
+    optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
+    criterion = nn.CrossEntropyLoss()
     t1 = time.time()
     print_log('%.2f Seconds' % (t1-t0), log_path)
     
