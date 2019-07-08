@@ -33,7 +33,7 @@ def parse_args():
     parser.add_argument('--num-workers', type=int, default=2, metavar='N', help='number of workers')
     parser.add_argument('--cuda', type=int, default=0, help='CUDA device')
 
-    parser.add_argument('--lr', type=float, default=1e-3, metavar='N', help='lr')
+    parser.add_argument('--lr', type=float, default=1e-3, metavar='N', help='learning rate')
     parser.add_argument('--weight-decay', type=float, default=1e-5, metavar='N', help='weight decay')
     parser.add_argument('--teacher-force-rate', type=float, default=0.9, metavar='N', help='teacher forcing rate')
 
@@ -99,6 +99,7 @@ def main():
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = nn.CrossEntropyLoss()
     t1 = time.time()
+    print_log(model, log_path)
     print_log('%.2f Seconds' % (t1-t0), log_path)
     
     print("Running")
