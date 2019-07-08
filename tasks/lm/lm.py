@@ -132,7 +132,7 @@ class DualLSTM(nn.Module):
 
     def embed_sentence(self, sentence, lang_ids=None):
         embedding = []
-        if lang_ids is not None:
+        if self.dataset == 'seame' or self.dataset == 'qg':
             embed_mask = torch.zeros(len(sentence))
             for idx, token in enumerate(sentence[:-1]):
                 try:
@@ -141,10 +141,13 @@ class DualLSTM(nn.Module):
                 except Exception as e:
                     print(e, sentence, self.vocab_size, token, self.vocab[token])
         else:
-            embed_mask = lang_ids
             for idx, token in enumerate(sentence[:-1]):
                 try:
                     embedding.append(self.embedding(torch.LongTensor([self.vocab[token]]).to(DEVICE)))
                 except Exception as e:
                     print(e, sentence, self.vocab_size, token, self.vocab[token])
+            if lang_ids is not None:
+                embed_mask = lang_ids
+            else:
+                embed_mask = None
         return torch.stack(embedding).to(DEVICE), embed_mask.to(DEVICE) if embed_mask is not None else embed_mask
