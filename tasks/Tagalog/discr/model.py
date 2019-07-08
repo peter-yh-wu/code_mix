@@ -66,9 +66,12 @@ class LSTMDiscriminator(nn.Module):
         '''
         Args:
             x: LongTensor with shape (batch_size, seq_len)
+        
+        Args:
+            score: FloatTensor with shape (batch_size,)
         '''
         h = self.forward_repr(x)
-        score = self.w[None, :]*h
+        score = (self.w[None, :]*h).sum(1)
         return score
 
     def forward(self, x):
