@@ -65,12 +65,12 @@ class LSTMDiscriminator(nn.Module):
         Args:
             LongTensor with shape (batch_size, seq_len)
         '''
-        h = forward_repr(x)
+        h = self.forward_repr(x)
         score = self.w[None, :]*h
         return score
 
     def forward(self, x):
-        return forward_score(x)
+        return self.forward_score(x)
 
 class WERDiscriminatorLoss(nn.Module):
     def __init__(self):
