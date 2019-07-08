@@ -42,6 +42,7 @@ class LSTMDiscriminator(nn.Module):
     def __init__(self, vocab_size,  num_layers=1, word_dropout=0.2, emb_dim=300, hidden_dim=650):
         super(LSTMDiscriminator, self).__init__()
         self.num_layers = num_layers
+        self.hidden_dim = hidden_dim
         self.prob_keep = 1-word_dropout
         self.emb_mat = nn.Embedding(vocab_size, emb_dim)
         self.rnn = nn.LSTM(emb_dim, hidden_dim, batch_first=True, num_layers=num_layers, dropout=0.35, bidirectional=True)
