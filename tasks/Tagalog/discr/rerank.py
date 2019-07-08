@@ -26,7 +26,7 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
 from discr_utils import *
 from model import *
-from train_simple_discr import parse_args
+from train_discr import parse_args
 
 
 def find_best_pred(model, preds):
